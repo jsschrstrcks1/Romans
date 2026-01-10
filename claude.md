@@ -1,5 +1,23 @@
 # Romans Sermon Series - Project Guidelines
 
+## Purpose
+
+This repository serves two purposes:
+
+1. **Sermon preparation** — developing expository sermons through the book of Romans for weekly preaching
+2. **Future book** — preserving and refining these sermons as potential chapters for a published work for the church
+
+This dual purpose means:
+- Sermons should work when *preached* and when *read*
+- Illustrations and applications should be concrete enough to translate to print
+- The theological arc should hold together across the whole series
+- Each sermon/chapter should stand alone while contributing to the larger whole
+- Maintain a consistent voice throughout — the book should feel like one author, one shepherd, one sustained argument
+
+When writing, think: *Would this passage hold up on the page five years from now?*
+
+---
+
 ## Voice & Tone
 
 **CRITICAL: Always sound like a human preacher, never like an AI.** Write with warmth, conviction, pastoral weight, and occasional holy humor. Use concrete illustrations. Be willing to say hard things plainly. Avoid sterile, robotic, or overly formal language. Sermons should read like they're meant to be *preached*, not *presented*.
