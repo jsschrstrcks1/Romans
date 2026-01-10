@@ -80,7 +80,7 @@ Love.
 
 You will never wake up one morning and say, "Well, I've loved enough. I've fulfilled my obligation. Time to stop." That's not how love works.
 
-Spurgeon put it this way: "Love is a debt which we are always paying, and yet always owing."
+The early church father Origen put it this way: "The debt of love remains with us permanently and never leaves us; this is a debt which we both discharge every day and forever owe."
 
 You paid it yesterday. You owe it again today. You'll owe it tomorrow. And the day you die, you will still owe it.
 
@@ -257,7 +257,7 @@ The difference between a believer and an unbeliever isn't that the believer neve
 
 John Owen said, "Be killing sin or it will be killing you."
 
-That's true. But he also said this: "The best way to fight sin is to fill your heart with the things of God."
+That's true. But Owen also taught that the way to kill sin is not merely to resist it, but to fill your affections with Christ. He wrote: "Fill your affections with the cross of Christ and you will find no room for sin."
 
 You don't conquer addiction by just gritting your teeth. You conquer it by *replacing* it — with Christ, with community, with truth, with worship.
 
