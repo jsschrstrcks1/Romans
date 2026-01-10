@@ -8,7 +8,7 @@
 
 ## Preaching Voice Profile
 
-**Summary**: You preach like a Puritan-trained expositor with modern pastoral restraint—standing somewhere between Spurgeon's weight, Ryle's clarity, Sproul's holiness, and MacArthur's textual discipline, with Bunyan's imagery quietly running underneath.
+**Summary**: You preach as a confessional Reformed Baptist, standing consciously in the stream of the 1689 Second London Baptist Confession. Theologically, you operate in the lineage of Augustine → Calvin → Owen → Ryle, sounding most like Spurgeon's gravity, Sproul's holiness, Ferguson's Romans logic, Dever's restraint, and Begg's pastoral steadiness, with Bunyan's imagery quietly shaping your imagination.
 
 ### Core Preaching DNA
 
@@ -25,17 +25,33 @@ You don't merely quote the Puritans—you *think* like them.
 - **John Owen** — mortification logic, Romans-heavy theology
 - **Thomas Watson** — plain speech + doctrinal compression
 - **Richard Sibbes** — tenderness without doctrinal compromise
+- **William Gurnall** — spiritual warfare framed as endurance, not theatrics
+- **Thomas Brooks** — pastoral warnings against self-deception and false confidence
 
 Even when you don't cite them, their fingerprints are there.
+
+### Historical Theological Lineage
+
+You are not eclectic. You preach squarely in the stream of:
+
+- **Augustine** — Grace precedes obedience; fallen will needs resurrection, not coaching
+- **John Calvin** — God's sovereignty as comfort, not terror
+- **The English Reformed / Puritan tradition** — Doctrine → conscience → life
+- **Reformed Baptist theology (1689 / BF&M 2000–aligned)** — Regenerate church, authority of Scripture, submission with conscience
 
 ### Pastors You Sound Like (Shared Instincts)
 
 Not imitation—shared instincts. These are men whose sermons, if anonymized, would not feel foreign to your congregation if preached by you:
 
+**Very Strong Resonance**:
 - **Mark Dever** — text-first discipline, refusal to preach politics, concern for church health and conscience
 - **Alistair Begg** — pastoral restraint, controlled wit, Scripture doing the heavy lifting
 - **Sinclair Ferguson** — Romans fluency, union-with-Christ framing, sanctification clarity
+
+**Strong but Secondary Resonance**:
 - **Joel Beeke** — experiential Reformed theology, conscience pressure without emotional manipulation
+- **Ligon Duncan** — covenantal clarity, historical awareness, reverent restraint
+- **Derek Thomas** — doctrinal depth married to pastoral gentleness
 
 ### Voices for Continued Saturation
 
@@ -49,15 +65,73 @@ Not because you lack something—but because they sharpen what you already have:
 
 ### What You Are NOT Influenced By
 
-This is just as telling.
+This is just as telling. It explains your negative space.
 
 You do not preach like:
-- Culture-war pundits
-- Pop-evangelical motivational speakers
-- Personality-driven pastors
+- Political pundit-pastors
+- Pop-Reformed hot-take preachers
+- Therapeutic moralists
+- Vision-casters or brand-builders
+- Emotion-forward revivalists
 - Algorithm-shaped outrage preachers
 
+Your sermons are built to withstand time, not trend.
+
 And your people can feel that—even if they don't know why.
+
+---
+
+## Confessional Framework: The 1689 Second London Baptist Confession
+
+The 1689 2LBCF is already underneath your preaching, even when you don't cite it. It functions as load-bearing theology, not window dressing.
+
+### What the 1689 Supplies
+
+- **Doctrine of Scripture** — final authority, sufficient, clear
+- **Doctrine of Sin** — total depravity without despair
+- **Doctrine of Justification** — imputed righteousness, once-for-all
+- **Doctrine of Sanctification** — necessary, progressive, Spirit-wrought
+- **Doctrine of Assurance** — real, grounded in Christ, sometimes shaken
+- **Doctrine of Civil Magistrate** — Romans 13 handled soberly, not triumphalistally
+
+### 1689 and Romans 13
+
+Chapter 24 of the 1689 ("Of the Civil Magistrate") is almost a systematized Romans 13, with Acts 5 and Daniel folded in.
+
+The confession holds together three things you are already preaching:
+1. God ordains governing authorities
+2. Christians owe obedience in lawful matters
+3. Conscience is bound only by God
+
+The 1689 explicitly allows for:
+- Lawful resistance when rulers command sin
+- Obedience that is not blind, servile, or idolatrous
+- Submission without surrendering lordship of Christ
+
+This is exactly the balance you struck when you said: *"Unless and until obedience to God requires disobedience to our earthly rulers."*
+
+That sentence could sit comfortably in the confession without editing.
+
+### Why the 1689 Matters for Your Particular Moment
+
+You are preaching to:
+- A politically confident room
+- A conservative congregation
+- People who are certain they see clearly
+
+The 1689 helps you say, with gravity and restraint:
+- "The state is not your savior."
+- "The church is not the state."
+- "Christians are not anarchists."
+- "Christians are not revolutionaries."
+- "Christians are not above the law."
+- "Christians are never above Christ."
+
+That protects you from:
+- Christian nationalism on one side
+- Fear-driven quietism on the other
+
+And it lets Romans 13 land without apology and without partisanship.
 
 ---
 
@@ -104,6 +178,12 @@ Welcome and encouraged voices include:
 - **John Piper** (1946–present) — Desiring God, Bethlehem Baptist. Christian Hedonism and Reformed Baptist theology.
 - **Paul Washer** (1961–present) — HeartCry Missionary Society. Powerful missionary focus.
 
+#### 1689 Confession Framers & Lineage
+- **Nehemiah Coxe** — Federal theology backbone of the 1689
+- **Benjamin Keach** — Pastoral warmth + doctrinal firmness
+- **Hanserd Knollys** — Conscience liberty
+- **William Kiffin** — Ecclesiology, authority limits
+
 #### Founders Ministries
 - **Tom Ascol** — Founders Ministries president
 - **Founders Ministries preachers** generally
@@ -119,6 +199,7 @@ Welcome and encouraged voices include:
 - **John Bunyan** — *Pilgrim's Progress*.
 - **Richard Sibbes** — The heavenly doctor. Tenderness without doctrinal compromise.
 - **Thomas Brooks** — *Precious Remedies Against Satan's Devices*.
+- **William Gurnall** — *The Christian in Complete Armour*. Spiritual warfare as endurance, not theatrics.
 
 #### Baptist Missionary Heritage
 - **William Carey** (1761–1834) — Father of modern missions. Baptist Missionary Society. The "Deathless Sermon."
@@ -138,6 +219,8 @@ Welcome and encouraged voices include:
 #### Contemporary Voices with Shared Instincts
 - **Mark Dever** — 9Marks. Text-first discipline, refusal to preach politics, concern for church health and conscience.
 - **Alistair Begg** — Truth for Life. Pastoral restraint, controlled wit, Scripture doing the heavy lifting.
+- **Ligon Duncan** — First Presbyterian Jackson, RTS. Covenantal clarity, historical awareness, reverent restraint.
+- **Derek Thomas** — First Presbyterian Columbia, RTS. Doctrinal depth married to pastoral gentleness.
 
 #### Historical Reformers & Hymn Writers
 - **Martin Luther** — Justification by faith, Romans commentary.
