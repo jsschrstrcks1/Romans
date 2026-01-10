@@ -12,11 +12,61 @@
 - **ESV (English Standard Version) ONLY** - No exceptions. Every Scripture quotation must be ESV.
 
 ### Acceptable Quotation Sources
+
 Welcome and encouraged voices include:
-- **Reformed theologians**: John Calvin, R.C. Sproul, Sinclair Ferguson, John Piper, J.I. Packer
-- **Puritan voices**: John Owen, Thomas Watson, John Bunyan, Richard Sibbes, Thomas Brooks, Jonathan Edwards
-- **Southern Baptist**: Adrian Rogers, Charles Stanley, Al Mohler, Danny Akin
-- **Reformed Baptist** (particularly valued): Charles Spurgeon, John Gill, Andrew Fuller, Tom Nettles, Tom Schreiner, James White
+
+#### Favorite Contemporary Voices
+- **PAUL WASHER** — Heart Cry Missionary Society. Particularly valued. Use liberally.
+- **Voddie Baucham** — cultural engagement, family, manhood, African-American Reformed voice
+- **David Platt** — missions, radical obedience, IMB
+- **Matt Chandler** — The Village Church, gospel-centered preaching
+- **Thabiti Anyabwile** — pastoral theology, race and the gospel
+- **John MacArthur** — Grace to You, expository depth
+- **Alistair Begg** — Truth for Life, Scottish clarity
+- **Stephen Davey** — Wisdom for the Heart
+- **Mark Dever** — 9Marks, ecclesiology, expository preaching
+
+#### Reformed Theologians
+- **D.A. Carson** — biblical theology, commentaries
+- **J.I. Packer** — *Knowing God*, Puritan spirituality
+- **R.C. Sproul** — Ligonier, Reformed theology made accessible
+- **John Piper** — Desiring God, Christian hedonism
+- **Sinclair Ferguson** — Scottish Reformed, devotional depth
+- **John Calvin** — the Reformer himself
+
+#### Founders Ministries & Reformed Baptist
+- **Tom Ascol** — Founders Ministries president
+- **Founders Ministries preachers** generally
+- **Charles Spurgeon** — the Prince of Preachers (use heavily)
+- **Tom Nettles** — Baptist history, *By His Grace and For His Glory*
+- **Tom Schreiner** — Romans commentary, NT theology
+- **James White** — Alpha and Omega Ministries, apologetics
+- **John Gill** — 18th century Baptist exegete
+- **Andrew Fuller** — missions theology, evangelical Calvinism
+- **James P. Boyce** — founder of Southern Seminary, *Abstract of Systematic Theology*
+
+#### Puritan Voices
+- **John Owen** — *Mortification of Sin*, trinitarian theology
+- **Jonathan Edwards** — *Religious Affections*, revival theology
+- **Thomas Watson** — *The Doctrine of Repentance*, practical divinity
+- **John Bunyan** — *Pilgrim's Progress*
+- **Richard Sibbes** — the heavenly doctor
+- **Thomas Brooks** — *Precious Remedies Against Satan's Devices*
+
+#### Baptist Missionary Heritage
+- **William Carey** — father of modern missions
+- **Adoniram Judson** — Burma, suffering and perseverance
+- **Nik Ripken** — *The Insanity of God*, persecuted church
+
+#### Southern Baptist
+- **Al Mohler** — Southern Seminary, cultural engagement
+- **Adrian Rogers** — Love Worth Finding
+- **Danny Akin** — Southeastern Seminary
+- **Charles Stanley** — In Touch Ministries
+
+#### Historical Reformers
+- **Martin Luther** — justification by faith, Romans commentary
+- **A.W. Pink** — sovereignty of God, exposition
 
 ### Cross-References
 Cross-references are **welcome and encouraged**. This series has consistently woven Old and New Testament together. Continue connecting:
