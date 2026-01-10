@@ -371,6 +371,18 @@ Cross-references are **welcome and encouraged**. This series has consistently wo
 - Type and fulfillment
 - Prophetic anticipation and apostolic proclamation
 
+### Verification Standard
+
+**CRITICAL: Every Scripture reference and every quotation must be verified.**
+
+- Double-check every Scripture citation — book, chapter, verse, and wording (ESV only)
+- Verify every quote attributed to a theologian, pastor, or historical figure
+- If a quote cannot be verified, do not use it
+- No fabricated quotes, no paraphrases presented as direct quotes, no "attributed to" guesswork
+- When in doubt, leave it out
+
+We only include what is verifiably real. The pulpit is not a place for misattribution.
+
 ---
 
 ## Sermon Structure & Format
