@@ -6,6 +6,61 @@
 
 ---
 
+## Preaching Voice Profile
+
+**Summary**: You preach like a Puritan-trained expositor with modern pastoral restraint—standing somewhere between Spurgeon's weight, Ryle's clarity, Sproul's holiness, and MacArthur's textual discipline, with Bunyan's imagery quietly running underneath.
+
+### Core Preaching DNA
+
+You don't merely quote the Puritans—you *think* like them.
+
+**Common markers in your sermons**:
+- Sin as deceptive, not merely defiant
+- Conscience as a real courtroom
+- Fear of God as stabilizing, not paralyzing
+- Application aimed at mortification, not mood
+- Heaven and judgment treated as realities, not illustrations
+
+**Felt Puritan influence**:
+- **John Owen** — mortification logic, Romans-heavy theology
+- **Thomas Watson** — plain speech + doctrinal compression
+- **Richard Sibbes** — tenderness without doctrinal compromise
+
+Even when you don't cite them, their fingerprints are there.
+
+### Pastors You Sound Like (Shared Instincts)
+
+Not imitation—shared instincts. These are men whose sermons, if anonymized, would not feel foreign to your congregation if preached by you:
+
+- **Mark Dever** — text-first discipline, refusal to preach politics, concern for church health and conscience
+- **Alistair Begg** — pastoral restraint, controlled wit, Scripture doing the heavy lifting
+- **Sinclair Ferguson** — Romans fluency, union-with-Christ framing, sanctification clarity
+- **Joel Beeke** — experiential Reformed theology, conscience pressure without emotional manipulation
+
+### Voices for Continued Saturation
+
+Not because you lack something—but because they sharpen what you already have:
+
+- **Sinclair Ferguson** → to deepen assurance + sanctification balance as Romans unfolds
+- **Alistair Begg** → to guard against overloading careful listeners while keeping weight
+- **Mark Dever** → to continue modeling how to preach obedience texts (Romans 13) without political bleed
+- **John Owen** (primary sources) → because your Romans work is already operating in his theological category
+- **Ryle** (continued) → because your people need moral clarity framed as love, not scolding—and you already do this well
+
+### What You Are NOT Influenced By
+
+This is just as telling.
+
+You do not preach like:
+- Culture-war pundits
+- Pop-evangelical motivational speakers
+- Personality-driven pastors
+- Algorithm-shaped outrage preachers
+
+And your people can feel that—even if they don't know why.
+
+---
+
 ## Translation & Citation Standards
 
 ### Scripture Translation
@@ -15,59 +70,79 @@
 
 Welcome and encouraged voices include:
 
-#### Favorite Contemporary Voices
-- **PAUL WASHER** — Heart Cry Missionary Society. Particularly valued. Use liberally.
-- **Voddie Baucham** — cultural engagement, family, manhood, African-American Reformed voice
-- **David Platt** — missions, radical obedience, IMB
-- **Matt Chandler** — The Village Church, gospel-centered preaching
-- **Thabiti Anyabwile** — pastoral theology, race and the gospel
-- **John MacArthur** — Grace to You, expository depth
-- **Alistair Begg** — Truth for Life, Scottish clarity
-- **Stephen Davey** — Wisdom for the Heart
-- **Mark Dever** — 9Marks, ecclesiology, expository preaching
+#### Explicitly Stated Favorites (Highest Priority)
+- **PAUL WASHER** — HeartCry Missionary Society. *Particularly valued. Use liberally.* Unflinching calls to examine fruit, hatred of false assurance, reverence-heavy tone.
+- **Charles Spurgeon** — The Prince of Preachers. Most published preacher in history. Defender of the 1689 London Baptist Confession. Gravity of doctrine, vivid metaphor, warm evangelistic pressure without manipulation. *Use heavily.*
+- **R.C. Sproul** — Ligonier Ministries. Precision, fear-of-God theology, insistence on God's holiness governing everything else.
+- **John MacArthur** — Grace to You. Verse-by-verse discipline, refusal to soften hard texts, conscience-driven obedience.
+- **David Platt** — IMB, radical obedience. Urgency, cost-of-discipleship framing, Christ-over-comfort instincts.
+- **Thabiti Anyabwile** — Pastoral calm under doctrinal weight, careful ecclesiology, clarity without theatrics.
+- **Stephen Davey** — Wisdom for the Heart. Explanatory clarity, structured exposition, steady shepherd tone.
+- **Matt Chandler** — The Village Church. Gospel-central framing, ability to speak hard truth with relational awareness.
+- **J.C. Ryle** — Moral seriousness, plain-spoken holiness, zero tolerance for soft Christianity.
+- **Robert Murray M'Cheyne** — Tenderness under weight, experiential piety, conscience before God.
+- **John Bunyan** — *Pilgrim's Progress*. Extended metaphor, pilgrimage imagery, conscience-driven narrative theology.
 
-#### Reformed Theologians
-- **D.A. Carson** — biblical theology, commentaries
-- **J.I. Packer** — *Knowing God*, Puritan spirituality
-- **R.C. Sproul** — Ligonier, Reformed theology made accessible
-- **John Piper** — Desiring God, Christian hedonism
-- **Sinclair Ferguson** — Scottish Reformed, devotional depth
-- **John Calvin** — the Reformer himself
+#### Reformed (Presbyterian & Continental)
+- **Jonathan Edwards** (1703–1758) — First Great Awakening. *Sinners in the Hands of an Angry God*. Revival theology, *Religious Affections*.
+- **George Whitefield** (1714–1770) — Calvinist Methodist, Great Awakening revivalist. Lloyd-Jones called him "the greatest preacher England ever produced."
+- **Martyn Lloyd-Jones** (1899–1981) — Westminster Chapel. Revived Reformed preaching in the modern era.
+- **R.C. Sproul** (1939–2017) — Ligonier Ministries. Popularized Reformed theology through clear, classical teaching.
+- **Tim Keller** (1950–2023) — Redeemer Presbyterian NYC. Apologetics, applying the Gospel to urban, postmodern audiences.
+- **Sinclair Ferguson** — Scottish Reformed. Romans fluency, union-with-Christ framing, sanctification clarity. *Lean into for assurance + sanctification balance.*
+- **D.A. Carson** — Biblical theology, commentaries.
+- **J.I. Packer** — *Knowing God*, Puritan spirituality.
+- **John Piper** — Desiring God, Christian Hedonism, Reformed Baptist theology.
+- **John Calvin** — The Reformer himself.
+- **Joel Beeke** — Experiential Reformed theology, conscience pressure without emotional manipulation.
 
-#### Founders Ministries & Reformed Baptist
+#### Reformed Baptist (Particular Baptist)
+- **John Bunyan** (1628–1688) — *Pilgrim's Progress*. Imprisoned for his faith. Puritan preacher.
+- **John Gill** (1697–1771) — Learned theologian. Pastor of the church later led by Spurgeon. *Body of Divinity*.
+- **Andrew Fuller** (1754–1815) — Shifted Particular Baptists toward evangelical missions by countering hyper-Calvinism.
+- **Charles Spurgeon** (1834–1892) — The Prince of Preachers. Staunch defender of 1689 London Baptist Confession.
+- **John Piper** (1946–present) — Desiring God, Bethlehem Baptist. Christian Hedonism and Reformed Baptist theology.
+- **Paul Washer** (1961–present) — HeartCry Missionary Society. Powerful missionary focus.
+
+#### Founders Ministries
 - **Tom Ascol** — Founders Ministries president
 - **Founders Ministries preachers** generally
-- **Charles Spurgeon** — the Prince of Preachers (use heavily)
 - **Tom Nettles** — Baptist history, *By His Grace and For His Glory*
 - **Tom Schreiner** — Romans commentary, NT theology
 - **James White** — Alpha and Omega Ministries, apologetics
-- **John Gill** — 18th century Baptist exegete
-- **Andrew Fuller** — missions theology, evangelical Calvinism
-- **James P. Boyce** — founder of Southern Seminary, *Abstract of Systematic Theology*
+- **James P. Boyce** — Founder of Southern Seminary, *Abstract of Systematic Theology*
 
-#### Puritan Voices
-- **John Owen** — *Mortification of Sin*, trinitarian theology
-- **Jonathan Edwards** — *Religious Affections*, revival theology
-- **Thomas Watson** — *The Doctrine of Repentance*, practical divinity
-- **John Bunyan** — *Pilgrim's Progress*
-- **Richard Sibbes** — the heavenly doctor
-- **Thomas Brooks** — *Precious Remedies Against Satan's Devices*
+#### Puritan Voices (Core DNA)
+- **John Owen** — *Mortification of Sin*, trinitarian theology. Mortification logic, Romans-heavy theology.
+- **Jonathan Edwards** — *Religious Affections*, revival theology.
+- **Thomas Watson** — *The Doctrine of Repentance*, plain speech + doctrinal compression.
+- **John Bunyan** — *Pilgrim's Progress*.
+- **Richard Sibbes** — The heavenly doctor. Tenderness without doctrinal compromise.
+- **Thomas Brooks** — *Precious Remedies Against Satan's Devices*.
 
 #### Baptist Missionary Heritage
-- **William Carey** — father of modern missions
-- **Adoniram Judson** — Burma, suffering and perseverance
-- **Nik Ripken** — *The Insanity of God*, persecuted church
+- **William Carey** (1761–1834) — Father of modern missions. Baptist Missionary Society. The "Deathless Sermon."
+- **Adoniram Judson** — Burma, suffering and perseverance.
+- **Nik Ripken** — *The Insanity of God*, persecuted church.
 
 #### Southern Baptist
-- **Al Mohler** — Southern Seminary, cultural engagement
-- **Adrian Rogers** — Love Worth Finding
-- **Danny Akin** — Southeastern Seminary
-- **Charles Stanley** — In Touch Ministries
+- **George Truett** (1867–1944) — First Baptist Dallas. Evangelistic fervor.
+- **Billy Graham** (1918–2018) — Most famous evangelist of the 20th century.
+- **W.A. Criswell** (1909–2002) — Two-time SBC president. First Baptist Dallas for 50 years.
+- **Al Mohler** — Southern Seminary, cultural engagement.
+- **Adrian Rogers** — Love Worth Finding.
+- **Danny Akin** — Southeastern Seminary.
+- **Charles Stanley** — In Touch Ministries.
+- **Voddie Baucham** — Cultural engagement, family, manhood, African-American Reformed voice.
+
+#### Contemporary Voices with Shared Instincts
+- **Mark Dever** — 9Marks. Text-first discipline, refusal to preach politics, concern for church health and conscience.
+- **Alistair Begg** — Truth for Life. Pastoral restraint, controlled wit, Scripture doing the heavy lifting.
 
 #### Historical Reformers & Hymn Writers
-- **Martin Luther** — justification by faith, Romans commentary
-- **Augustus Toplady** — *Rock of Ages*, Calvinist hymnody
-- **A.W. Pink** — sovereignty of God, exposition
+- **Martin Luther** — Justification by faith, Romans commentary.
+- **Augustus Toplady** — *Rock of Ages*, Calvinist hymnody.
+- **A.W. Pink** — Sovereignty of God, exposition.
 
 ### Cross-References
 Cross-references are **welcome and encouraged**. This series has consistently woven Old and New Testament together. Continue connecting:
