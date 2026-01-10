@@ -64,8 +64,9 @@ Welcome and encouraged voices include:
 - **Danny Akin** — Southeastern Seminary
 - **Charles Stanley** — In Touch Ministries
 
-#### Historical Reformers
+#### Historical Reformers & Hymn Writers
 - **Martin Luther** — justification by faith, Romans commentary
+- **Augustus Toplady** — *Rock of Ages*, Calvinist hymnody
 - **A.W. Pink** — sovereignty of God, exposition
 
 ### Cross-References
