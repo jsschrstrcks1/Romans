@@ -144,6 +144,10 @@ Now — who are the weak?
 
 In Paul's context, these were likely Jewish Christians whose consciences were still shaped by dietary laws. They weren't sinning. They weren't legalists trying to earn salvation. They were believers whose conscience had not yet been fully liberated by the gospel's implications.
 
+This is important: Paul is not asking us to tolerate false teaching. In Galatians, he pronounces curses on those who preach another gospel — who say you must be circumcised to be saved. He's furious. But here? No rebuke. No curse. Why? Because these weak brothers aren't denying the gospel. They're just holding onto things Christ has already set them free from. That's not heresy. That's immaturity. And you don't curse the immature. You welcome them.
+
+In fact, look ahead to verse 6. Paul says the one who abstains "abstains in honor of the Lord and gives thanks to God." This weak brother isn't grudging. He isn't resentful. He's sincere. He's God-centered. He's thankful. He just lacks the knowledge that would free his faith to embrace what God has given.
+
 Notice what Paul does *not* call them:
 - Unregenerate
 - Immature
