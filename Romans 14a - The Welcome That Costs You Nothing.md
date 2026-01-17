@@ -40,11 +40,21 @@ If you've brought your Bible, and I hope you have, open with me to Romans 14:1-4
 
 Before we dive in, let me tell you about a people group we're praying for this week.
 
-The Bosniak people of Bosnia and Herzegovina — over 2 million people, almost entirely Muslim, with less than 0.1% evangelical Christian. They've known war, ethnic cleansing, and generational trauma. And almost none of them have heard the gospel.
+The Hela people of India — 53,000 people, and as far as we know, not a single one of them follows Jesus. Zero percent evangelical. Zero percent Christian of any kind.
 
-Now here's the connection: Romans 14 is about welcoming people who are different from us. People whose consciences work differently. People whose backgrounds shape them differently. If we can't welcome a brother in Christ who disagrees about food, how will we ever welcome the nations?
+They're a people marked by their distinctive clothing, their ornaments, their tattoo marks. For generations they've worked as mat-weavers and basket-makers — often landless, often overlooked. Their religious life is woven into Hindu tradition: family deities, clan priests, spiritual practitioners called *ojha* who manage their relationship with unseen forces.
 
-The gospel that unites us is bigger than our preferences.
+And here's the challenge: the Hela speak multiple languages even among themselves. Reaching them isn't one strategy — it's several. Their identity is so tied to their Hindu practices that the gospel will feel like an assault on everything they know.
+
+Now here's the connection to Romans 14:
+
+If we can't welcome a brother who eats differently than we do, how will we ever welcome people whose entire worldview is different?
+
+The Hela don't need us to agree with their religion. They need us to love them enough to bring them the truth — and then welcome them when they come, tattoos and all, basket-weaving and all, with consciences shaped by things we've never experienced.
+
+The gospel that unites us is bigger than our preferences. It's bigger than our culture. It's bigger than anything that divides the nations.
+
+Let's pray for the Hela — that the Spirit would break through, that workers would be sent, that families would come to faith together. And let's pray for ourselves — that our welcome would be as wide as God's.
 
 Let's pray.
 
