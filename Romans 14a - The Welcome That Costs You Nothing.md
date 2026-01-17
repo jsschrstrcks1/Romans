@@ -333,6 +333,26 @@ The unity of the church is not uniformity. It's not agreeing on everything. It's
 
 Spurgeon said: "Fellowship with known and vital error is participation in sin... but there is a vast difference between separation from error and separation from those who are in Christ Jesus but differ from us in minor matters."
 
+Let me give you two examples — both from church.
+
+A young woman named Holly was sitting next to her sister Sarah during a service. Sarah was hurting — something physical, something painful. Holly quietly took her sister's hand and began gently rubbing it. Unobtrusive. Discreet. I was sitting behind them and didn't even notice.
+
+But someone else did.
+
+After the service, a woman approached them and scolded Holly for being "distracting during worship."
+
+Did that woman's correction draw either sister closer to the Lord? Did it reflect the welcome of Romans 14? Or did it drive them away — not from error, but from the family of God?
+
+Here's another one. A young man named Rami came to church wearing a ball cap. Someone pulled him aside and told him it was disrespectful to wear a hat in the Lord's house.
+
+The rejection he felt in that moment was burned into his memory for years.
+
+Now — maybe you have convictions about hats in church. Fine. But was that the hill to die on? Was that the moment to enforce your preference? Did it draw him closer to Christ — or push him toward the door?
+
+Romans 14 asks us: *What good was accomplished?*
+
+If your correction doesn't draw someone closer to the Lord, maybe it wasn't from the Lord.
+
 ### To the Cynical About Public Conversions
 
 Recently there have been celebrities who claim to have come to Christ. Women publicly leaving pornography and the sex industry. Artists putting Scripture in their music.
