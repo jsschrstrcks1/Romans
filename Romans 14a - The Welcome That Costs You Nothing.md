@@ -323,6 +323,56 @@ The unity of the church is not uniformity. It's not agreeing on everything. It's
 
 Spurgeon said: "Fellowship with known and vital error is participation in sin... but there is a vast difference between separation from error and separation from those who are in Christ Jesus but differ from us in minor matters."
 
+### To the Cynical About Public Conversions
+
+Recently there have been celebrities who claim to have come to Christ. Women publicly leaving pornography and the sex industry. Artists putting Scripture in their music.
+
+And the church's response? Too often it's suspicion.
+
+"We'll see if it lasts."
+"Probably just a publicity stunt."
+"I'll believe it when I see the fruit."
+
+Now — discernment is good. Not every profession is genuine. Jesus Himself warned about those who say "Lord, Lord" but never knew Him.
+
+But there's a difference between discernment and cynicism. Discernment waits to see. Cynicism has already decided.
+
+Paul reminds us: *For God has welcomed him.*
+
+If God has welcomed them — if their profession is genuine — then your suspicion is sin. And you don't get to know for certain whether it's genuine. That's not your job.
+
+Some will say, "But Jesus knew the thief on the cross was sincere. He had divine knowledge."
+
+That's exactly right. Jesus knew. You don't.
+
+And that's precisely why you're not the judge.
+
+The same Paul who wrote Romans also wrote 1 Corinthians 6:9-11:
+
+> "Do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice homosexuality, nor thieves, nor the greedy, nor drunkards, nor revilers, nor swindlers will inherit the kingdom of God. And such were some of you. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God."
+
+*Such were some of you.*
+
+The early church was full of former prostitutes, former thieves, former drunkards. And nobody said, "We'll see if it lasts."
+
+They welcomed them. Because God had welcomed them.
+
+When a woman walks away from OnlyFans and professes faith in Christ, the proper Christian response is not suspicion. It's hope. And prayer. And welcome.
+
+When a celebrity claims conversion, you don't have to believe every word. But you don't get to preemptively condemn them either.
+
+Because you don't know what God has done in their heart.
+
+And here's something worth considering: Aren't you glad God drew you to Himself and discipled you in private, instead of in the public eye?
+
+You got to stumble in the dark. You got to have your doubts, ask your questions, make your mistakes — without cameras. Without comment sections. Without strangers dissecting your every word.
+
+They don't get that luxury.
+
+The same grace that saved you when no one was watching can save them when everyone is.
+
+And if God has welcomed them — then who are you to send them away?
+
 ### To the Politically Confident
 
 There is a modern temptation to:
