@@ -439,6 +439,20 @@ Whatever they think of you — God has welcomed you.
 
 You stand or fall before your own Master. And your Master will make you stand. Not because you're strong enough. Because He is.
 
+### To the One Tempted to Weaponize Weakness
+
+A word of caution.
+
+Some people hear a passage like this and think, "Good — now everyone has to accommodate me."
+
+That's not weakness. That's control.
+
+If you're using your scruples to bind other people's consciences — if your convictions have become a tool for manipulation rather than an expression of faith — then you're not the weak brother Paul is protecting. You're the one sinning.
+
+The weak brother in Romans 14 isn't demanding that everyone else follow his rules. He's genuinely uncertain. He's not trying to control the room — he's trying to honor the Lord according to what light he has.
+
+If your "weakness" looks more like leverage than humility, the problem isn't your brother's freedom. It's your heart.
+
 ---
 
 ## Closing: The Welcome That Costs You Nothing
