@@ -1,18 +1,30 @@
 # Romans 13:8-14 — "The Debt You Can Never Repay"
 
+*Part V: Walking in Daylight*
+
 ---
 
 ## Opening
 
-Last week we talked about what you owe.
+We've been on a journey through Romans.
 
-Taxes. Respect. Honor. Paul said pay it — all of it. Not because you love the government, but because you love Christ. And Christ has ordered your life under authority for your good and His glory.
+We started in darkness. Romans 1 through 3 — midnight. Total darkness. Paul showed us what we are apart from God: rebels, suppressors of truth, exchanging the glory of God for idols. Guilty. Deserving wrath.
 
-But now Paul does something unexpected.
+Then the alarm went off. Romans 3:21 — "But now." Justification. The moment God declared us righteous while it was still dark. Not because we cleaned ourselves up, but because Christ stood in our place.
 
-He pivots.
+Then we got dressed. Romans 6 through 8 — putting on Christ. Dead to sin. Alive to God. No condemnation. The Spirit interceding. Nothing able to separate us from the love of God.
 
-He's been saying: *Pay what you owe.* Settle your debts. Be the kind of citizen who doesn't cheat, doesn't slander, doesn't rebel.
+Then came assurance. Romans 9 through 11 — the certainty of dawn. God's promises cannot fail. The remnant is kept. The Gentiles are grafted in. The doxology rises: "Oh, the depth of the riches and wisdom and knowledge of God!"
+
+And now? Romans 12 and 13 — we're walking in daylight.
+
+Not because the sun has fully risen. It hasn't. Christ hasn't returned yet. But the night is far gone. The horizon is brightening. And Paul is telling us: *Live like people who know the morning is coming.*
+
+Last week we talked about what you owe. Taxes. Respect. Honor. Submission to governing authorities — not because the state is your savior, but because Christ is your King.
+
+And then Paul pivots.
+
+He's been saying: *Pay what you owe.* Settle your debts.
 
 And then he says this — Romans 13:8:
 
@@ -68,7 +80,7 @@ Love.
 
 You will never wake up one morning and say, "Well, I've loved enough. I've fulfilled my obligation. Time to stop." That's not how love works.
 
-Spurgeon put it this way: "Love is a debt which we are always paying, and yet always owing."
+The early church father Origen put it this way: "The debt of love remains with us permanently and never leaves us; this is a debt which we both discharge every day and forever owe."
 
 You paid it yesterday. You owe it again today. You'll owe it tomorrow. And the day you die, you will still owe it.
 
@@ -245,7 +257,7 @@ The difference between a believer and an unbeliever isn't that the believer neve
 
 John Owen said, "Be killing sin or it will be killing you."
 
-That's true. But he also said this: "The best way to fight sin is to fill your heart with the things of God."
+That's true. But Owen also taught that the way to kill sin is not merely to resist it, but to fill your affections with Christ. He wrote: "Fill your affections with the cross of Christ and you will find no room for sin."
 
 You don't conquer addiction by just gritting your teeth. You conquer it by *replacing* it — with Christ, with community, with truth, with worship.
 
@@ -363,19 +375,21 @@ If you're battling addiction — you're not alone. Every time you fall, get back
 
 If you're carrying a diagnosis — this is not forever. The night is far gone. The day is coming. Your body will fail, but the resurrection won't.
 
+We started this journey through Romans in midnight. Total darkness. Guilty. Condemned.
+
+But the alarm went off. We were justified — declared righteous while it was still dark.
+
+We put on Christ. We cast off the works of darkness.
+
+And now? Now we walk. Not perfectly. But really. Not in our own strength. But in His.
+
+The night is far gone. The day is at hand.
+
 The same God who commands you to love has poured His love into your heart by the Holy Spirit.
 
 The same Christ who says "wake up" is Himself your light — and He will never go out.
 
 The same Lord who says "cast off darkness" has already clothed you in Himself — and His righteousness is enough.
-
-You don't earn this by performance. You receive it by faith.
-
-And then — clothed in Christ, filled with the Spirit, awake to the coming day — you walk it out.
-
-Not perfectly. But really.
-
-Not in your own strength. But in His.
 
 Every single day — put on the Lord Jesus Christ.
 
