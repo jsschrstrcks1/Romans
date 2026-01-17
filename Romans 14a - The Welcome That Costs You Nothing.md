@@ -1,0 +1,387 @@
+# Romans 14:1-4 — "The Welcome That Costs You Nothing"
+
+*Part V: Walking in Daylight*
+
+---
+
+## Opening
+
+We've been walking through Romans like a journey from midnight to morning.
+
+We started in total darkness — Romans 1 through 3. Guilty. Condemned. Asleep in sin and not even aware of it.
+
+Then the alarm went off — Romans 3:21, "But now." Justification. Declared righteous while it was still dark.
+
+Then we got dressed — Romans 6 through 8. We put on Christ. Dead to sin. Alive to God. No condemnation.
+
+Then came the certainty of dawn — Romans 9 through 11. God's promises hold. The remnant is kept. The doxology rises.
+
+And now we're in Romans 12 through 16 — walking in daylight. Living as people who know the morning is coming, even though the sun hasn't fully risen.
+
+Last week we talked about the debt of love — a debt you pay every day and still owe tomorrow. We talked about urgency. We talked about casting off darkness and putting on Christ. We talked about making no provision for the flesh.
+
+Romans 13 ended with a call to walk properly as in the daytime. Not in drunkenness. Not in sexual immorality. Not in quarreling and jealousy.
+
+But Paul knows something we often forget:
+
+Some of the ugliest sins wear church clothes.
+
+They show up not as scandal, but as scruples. Not as rebellion, but as righteous concern. Not as darkness, but as discernment — or so we tell ourselves.
+
+Romans 14 opens by exposing one of the most respectable sins in the church:
+
+Refusing fellowship to those God has already received.
+
+If you've brought your Bible, and I hope you have, open with me to Romans 14:1-4.
+
+---
+
+## Prayer Transition
+
+Before we dive in, let me tell you about a people group we're praying for this week.
+
+The Bosniak people of Bosnia and Herzegovina — over 2 million people, almost entirely Muslim, with less than 0.1% evangelical Christian. They've known war, ethnic cleansing, and generational trauma. And almost none of them have heard the gospel.
+
+Now here's the connection: Romans 14 is about welcoming people who are different from us. People whose consciences work differently. People whose backgrounds shape them differently. If we can't welcome a brother in Christ who disagrees about food, how will we ever welcome the nations?
+
+The gospel that unites us is bigger than our preferences.
+
+Let's pray.
+
+---
+
+## Scripture Reading
+
+Would someone read Romans 14:1-4 for us?
+
+> "As for the one who is weak in faith, welcome him, but not to quarrel over opinions. One person believes he may eat anything, while the weak person eats only vegetables. Let not the one who eats despise the one who abstains, and let not the one who abstains pass judgment on the one who eats, for God has welcomed him. Who are you to pass judgment on the servant of another? It is before his own master that he stands or falls. And he will be upheld, for the Lord is able to make him stand."
+
+---
+
+## Introduction: The Quiet Sins of Daytime People
+
+We've spent weeks talking about the obvious works of darkness — drunkenness, sexual immorality, sensuality.
+
+But now Paul turns to something subtler. Something that doesn't look like sin at all. Something that feels like faithfulness.
+
+Judgment.
+
+Not the kind that discerns truth from error — that's good and necessary. Paul is talking about the kind of judgment that:
+
+- Withholds fellowship over secondary matters
+- Draws lines where God has not drawn them
+- Treats preference as doctrine
+- Uses discernment as a weapon
+
+This is the sin of the respectable. The sin of the theologically informed. The sin of people who would never get drunk but will quietly freeze out a brother over a disputable matter.
+
+Paul says: Stop it.
+
+---
+
+## I. "Welcome Him" — More Than Tolerance (v. 1)
+
+Look at verse 1:
+
+> "As for the one who is weak in faith, welcome him, but not to quarrel over opinions."
+
+Paul does not say:
+- Put up with him
+- Endure him
+- Leave him alone in the corner
+- Tolerate his presence while avoiding his company
+
+He says *welcome*.
+
+The Greek word is *proslambanō* — to take to oneself, to receive into fellowship, to draw near.
+
+This is the same word Paul uses in Romans 15:7:
+
+> "Therefore welcome one another as Christ has welcomed you, for the glory of God."
+
+This welcome is:
+- Relational, not merely positional
+- Warm, not grudging
+- Active, not passive
+
+It costs you nothing doctrinally — because we're talking about disputable matters, not the gospel itself. But it costs you everything in terms of pride.
+
+Because welcoming someone whose conscience differs from yours means admitting you are not the standard.
+
+Paul immediately adds a boundary:
+
+> "...but not to quarrel over opinions."
+
+The welcome is not an invitation to:
+- Fix them
+- Win the argument
+- Subtly shame them into growth
+- Have the same debate every Sunday until they see it your way
+
+It is a welcome that trusts God's timing and God's work.
+
+The strong are not called to silence. They are called to patience. You can have convictions. You cannot have contempt.
+
+---
+
+## II. The Weak and the Strong — Conscience, Not Character (v. 2)
+
+Verse 2:
+
+> "One person believes he may eat anything, while the weak person eats only vegetables."
+
+Now — who are the weak?
+
+In Paul's context, these were likely Jewish Christians whose consciences were still shaped by dietary laws. They weren't sinning. They weren't legalists trying to earn salvation. They were believers whose conscience had not yet been fully liberated by the gospel's implications.
+
+Notice what Paul does *not* call them:
+- Unregenerate
+- Immature
+- Pharisees
+- Problems to be solved
+
+He calls them *weak in faith* — but still in the family.
+
+In Reformed terms:
+- Their justification is complete
+- Their sanctification is ongoing
+- Their conscience is real, even if still being shaped
+
+The "strong" in this passage:
+- Have greater clarity on Christian freedom
+- Understand what Christ has won
+- Know that food cannot defile
+- Are not therefore superior
+
+Weakness here is not about intelligence, education, or sincerity. It is about how quickly conscience has been reshaped by the gospel.
+
+Think of it like this: Two soldiers in the same army. One has been trained for years. One just finished basic. Both serve the same King. Both wear the same uniform. But their reflexes are different.
+
+The veteran doesn't mock the recruit. He bears with him. He walks alongside. He lets time and training do their work.
+
+This protects us from two errors:
+1. **Contempt by the strong** — "They just don't get grace."
+2. **Self-righteousness by the weak** — "At least I take holiness seriously."
+
+Both attitudes are poison.
+
+---
+
+## III. Two Equal and Opposite Sins (v. 3)
+
+Verse 3:
+
+> "Let not the one who eats despise the one who abstains, and let not the one who abstains pass judgment on the one who eats, for God has welcomed him."
+
+Paul rebukes both sides. This is important.
+
+**The strong are tempted to despise.**
+
+Despise means to look down on, to treat as beneath consideration, to roll your eyes at.
+
+The strong say things like:
+- "They're so legalistic."
+- "They just don't understand grace."
+- "They're holding the whole church back."
+- "Why can't they just grow up?"
+
+**The weak are tempted to judge.**
+
+Judge means to condemn, to question someone's standing, to treat liberty as license.
+
+The weak say things like:
+- "They're worldly."
+- "They don't take holiness seriously."
+- "A real Christian wouldn't do that."
+- "I'm just concerned for their soul."
+
+Both sins flow from the same root: assuming a role God has not assigned you.
+
+And Paul cuts underneath both with six words that should stop every mouth:
+
+> "For God has welcomed him."
+
+That sentence is a theological guillotine.
+
+If God has welcomed him:
+- Your disdain is rebellion
+- Your judgment is presumption
+- Your exclusion is arrogance
+
+You don't get to un-welcome someone the Father has already embraced.
+
+The ground at the foot of the cross is level. The Pharisee and the tax collector kneel side by side. And neither one gets to decide whether the other belongs.
+
+---
+
+## IV. "Who Are You?" — The Question That Stops the Mouth (v. 4a)
+
+Verse 4:
+
+> "Who are you to pass judgment on the servant of another?"
+
+Paul doesn't answer the question. He lets it hang in the air.
+
+*Who are you?*
+
+- Not the Master
+- Not the Judge
+- Not the owner of the servant
+- Not the one who determines standing or falling
+
+The Christian you're critiquing:
+- Does not work for you
+- Does not answer to you
+- Will not stand or fall by your assessment
+
+This is deeply Reformed.
+
+The 1689 Confession says this about liberty of conscience:
+
+> "God alone is Lord of the conscience, and hath left it free from the doctrines and commandments of men which are in any thing contrary to his word, or not contained in it." (21.2)
+
+Christ is Lord of the conscience. Not you. Not me. Not the church acting as an extra tribunal.
+
+Your brother's conscience is not your jurisdiction.
+
+Now — this does not mean anything goes. Paul is not a relativist. He's already established in Romans 1-11 what the gospel is and what sin is. He's not softening that.
+
+But on matters God has not bound — on food and drink and days and debatable practices — you are not the court of final appeal.
+
+The question "Who are you?" is designed to produce silence.
+
+---
+
+## V. "The Master Will Make Him Stand" (v. 4b)
+
+Verse 4 continues:
+
+> "It is before his own master that he stands or falls. And he will be upheld, for the Lord is able to make him stand."
+
+This is not uncertainty. This is confidence.
+
+Paul does not say, "Maybe he'll make it."
+He says, "The Lord is able to make him stand."
+
+Why?
+
+Because sanctification is God's work. Because perseverance belongs to grace. Because Christ does not drop His servants.
+
+Philippians 1:6: "And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ."
+
+Jude 24: "Now to him who is able to keep you from stumbling and to present you blameless before the presence of his glory with great joy..."
+
+John 10:28-29: "I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father's hand."
+
+The weak brother you're worried about? The one whose conscience is still catching up? The one who doesn't have the freedom you have?
+
+God is not nervous about him.
+
+The Lord who justified him will sanctify him. The Lord who called him will keep him. The Lord who welcomed him will present him blameless.
+
+Your job is not to police his growth. Your job is to welcome him while God does His work.
+
+---
+
+## Pastoral Landing: What This Means for Us
+
+Let me bring this home.
+
+### To the One Estranged from Family Over Secondary Issues
+
+Some of you have drawn lines that God did not draw.
+
+Maybe it was politics. Maybe it was how they raise their kids. Maybe it was a lifestyle choice that's not clearly sin but makes you uncomfortable.
+
+You still speak of truth. But love has grown thin. Fellowship has been quietly withdrawn. You've unfriended them in more ways than one.
+
+Romans 14 asks you a hard question:
+
+Did God welcome them?
+
+If they're in Christ — if they've trusted the same Savior you have — then God has welcomed them. And you have no authority to send them away.
+
+That doesn't mean you agree with everything. It means you stay in the room. You keep the door open. You bear with them the way Christ bore with you.
+
+### To the Church That Splinters Over Preferences
+
+Churches rarely divide over heresy.
+
+They divide over:
+- Music styles
+- Service times
+- Building decisions
+- The pastor's tone
+- Masks and vaccines
+- Political instincts
+
+Romans 14 confronts us:
+
+Are we welcoming people — or just people like us?
+
+The unity of the church is not uniformity. It's not agreeing on everything. It's agreeing on Christ and refusing to let secondary matters destroy what He has built.
+
+Spurgeon said: "Fellowship with known and vital error is participation in sin... but there is a vast difference between separation from error and separation from those who are in Christ Jesus but differ from us in minor matters."
+
+### To the Politically Confident
+
+There is a modern temptation to:
+- Equate your convictions with orthodoxy
+- Treat disagreement as compromise
+- Draw moral battle lines where Scripture has not spoken
+- Despise brothers who vote differently
+
+Paul does not say, "Have fewer convictions."
+
+He says, "Know which ones you're authorized to enforce."
+
+You are authorized to enforce the gospel. You are authorized to guard the faith once delivered to the saints. You are authorized to practice church discipline when someone is living in unrepentant sin.
+
+You are not authorized to withhold fellowship because someone's political instincts differ from yours.
+
+That's not faithfulness. That's faction.
+
+### To the One Who Has Been Judged
+
+Some of you know what it feels like to be on the receiving end of this.
+
+You've been frozen out. Whispered about. Made to feel like you don't quite belong. Not because you denied the faith — but because your conscience works differently than theirs.
+
+Hear this: God has welcomed you.
+
+Whatever they think of you — God has welcomed you.
+
+You stand or fall before your own Master. And your Master will make you stand. Not because you're strong enough. Because He is.
+
+---
+
+## Closing: The Welcome That Costs You Nothing
+
+Walking in daylight does not only mean avoiding scandal.
+
+It means refusing the respectable darkness of:
+- Judgmentalism
+- Contempt
+- Withholding welcome
+
+It means recognizing that the family of God is bigger than your comfort zone. The table is longer than your preferences. The church is wider than your convictions on secondary things.
+
+God has already received your brother.
+
+Who are you to send him away?
+
+The welcome costs you nothing in terms of truth. The gospel is not at stake. The essentials are not on the table.
+
+But it costs you your pride. It costs you your sense of superiority. It costs you the quiet satisfaction of knowing you're right and they're not quite there yet.
+
+That's the cost. And it's a cost worth paying.
+
+Because that's exactly what Christ paid for you.
+
+Romans 15:7 — "Therefore welcome one another as Christ has welcomed you, for the glory of God."
+
+Christ welcomed you when you were weak. Christ welcomed you when your conscience was malformed. Christ welcomed you when you had nothing to offer and everything to receive.
+
+Now go and do likewise.
+
+Let's pray.
