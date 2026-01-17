@@ -82,7 +82,11 @@ The entire book of Romans is a journey from midnight to dawn.
 - Love Without Hypocrisy (Romans 12:3-21)
 - Submission Before Sunrise (Romans 13:1-7)
 - The Debt You Can Never Repay (Romans 13:8-14)
-- The Weak and the Strong (Romans 14-15:13)
+- The Welcome That Costs You Nothing (Romans 14:1-4)
+- Living and Dying Under One Lord (Romans 14:5-9)
+- The Judgment Seat That Levels Us (Romans 14:10-12)
+- Love That Surrenders Its Rights (Romans 14:13-23)
+- The Welcome We've Been Given (Romans 15:1-13)
 - The Mission in the Early Light (Romans 15:14-33)
 - The Names in the Light (Romans 16)
 
