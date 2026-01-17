@@ -150,7 +150,7 @@ This is important: Paul is not asking us to tolerate false teaching. In Galatian
 
 In fact, look ahead to verse 6. Paul says the one who abstains "abstains in honor of the Lord and gives thanks to God." This weak brother isn't grudging. He isn't resentful. He's sincere. He's God-centered. He's thankful. He just lacks the knowledge that would free his faith to embrace what God has given.
 
-The goal is not to keep believers weak forever. It's to walk with them patiently until conscience catches up to truth.
+The goal is not to keep believers weak forever. It's to walk with them patiently until conscience catches up to truth. As Isaiah put it: "Strengthen the weak hands, and make firm the feeble knees" (Isaiah 35:3).
 
 Notice what Paul does *not* call them:
 - Unregenerate
@@ -159,6 +159,8 @@ Notice what Paul does *not* call them:
 - Problems to be solved
 
 He calls them *weak in faith* — but still in the family.
+
+And all the souls of the redeemed are equally dear to Christ. What is equally dear to Him should be equally dear to every one of His members.
 
 In Reformed terms:
 - Their justification is complete
@@ -489,6 +491,8 @@ Because that's exactly what Christ paid for you.
 Romans 15:7 — "Therefore welcome one another as Christ has welcomed you, for the glory of God."
 
 Christ welcomed you when you were weak. Christ welcomed you when your conscience was malformed. Christ welcomed you when you had nothing to offer and everything to receive.
+
+Never wound one of Christ's little ones. You cannot destroy their everlasting happiness — for that is secured by the One who died for them. But you can wound what Christ loves. Don't do it.
 
 Now go and do likewise.
 
