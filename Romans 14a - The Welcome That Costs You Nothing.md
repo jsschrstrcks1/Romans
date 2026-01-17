@@ -87,6 +87,8 @@ This is the sin of the respectable. The sin of the theologically informed. The s
 
 Paul says: Stop it.
 
+Romans 14 is not about lowering our convictions — it's about refusing to play God with someone else's conscience.
+
 ---
 
 ## I. "Welcome Him" — More Than Tolerance (v. 1)
@@ -114,7 +116,7 @@ This welcome is:
 - Warm, not grudging
 - Active, not passive
 
-It costs you nothing doctrinally — because we're talking about disputable matters, not the gospel itself. But it costs you everything in terms of pride.
+It costs you nothing doctrinally — because Paul has already settled the doctrines that matter in Romans 1–11. We're talking about disputable matters now, not the gospel itself. But it costs you everything in terms of pride.
 
 Because welcoming someone whose conscience differs from yours means admitting you are not the standard.
 
@@ -148,6 +150,8 @@ This is important: Paul is not asking us to tolerate false teaching. In Galatian
 
 In fact, look ahead to verse 6. Paul says the one who abstains "abstains in honor of the Lord and gives thanks to God." This weak brother isn't grudging. He isn't resentful. He's sincere. He's God-centered. He's thankful. He just lacks the knowledge that would free his faith to embrace what God has given.
 
+The goal is not to keep believers weak forever. It's to walk with them patiently until conscience catches up to truth. As Isaiah put it: "Strengthen the weak hands, and make firm the feeble knees" (Isaiah 35:3).
+
 Notice what Paul does *not* call them:
 - Unregenerate
 - Immature
@@ -155,6 +159,8 @@ Notice what Paul does *not* call them:
 - Problems to be solved
 
 He calls them *weak in faith* — but still in the family.
+
+And all the souls of the redeemed are equally dear to Christ. What is equally dear to Him should be equally dear to every one of His members.
 
 In Reformed terms:
 - Their justification is complete
@@ -337,7 +343,7 @@ The unity of the church is not uniformity. It's not agreeing on everything. It's
 
 Spurgeon said: "Fellowship with known and vital error is participation in sin... but there is a vast difference between separation from error and separation from those who are in Christ Jesus but differ from us in minor matters."
 
-Let me give you two examples — both from church.
+Let me give you two examples — both from church. And before I tell you these stories, understand: the people who did these things are not villains. They're sincere people who mistook preference for principle.
 
 A young woman named Holly was sitting next to her sister Sarah during a service. Sarah was hurting — something physical, something painful. Holly quietly took her sister's hand and began gently rubbing it. Unobtrusive. Discreet. I was sitting behind them and didn't even notice.
 
@@ -470,9 +476,13 @@ God has already received your brother.
 
 Who are you to send him away?
 
+Remember: Romans 14 is not about lowering our convictions — it's about refusing to play God with someone else's conscience.
+
 The welcome costs you nothing in terms of truth. The gospel is not at stake. The essentials are not on the table.
 
-But it costs you your pride. It costs you your sense of superiority. It costs you the quiet satisfaction of knowing you're right and they're not quite there yet.
+But it cost Christ everything to welcome you.
+
+It costs you your pride. It costs you your sense of superiority. It costs you the quiet satisfaction of knowing you're right and they're not quite there yet.
 
 That's the cost. And it's a cost worth paying.
 
@@ -481,6 +491,8 @@ Because that's exactly what Christ paid for you.
 Romans 15:7 — "Therefore welcome one another as Christ has welcomed you, for the glory of God."
 
 Christ welcomed you when you were weak. Christ welcomed you when your conscience was malformed. Christ welcomed you when you had nothing to offer and everything to receive.
+
+Never wound one of Christ's little ones. You cannot destroy their everlasting happiness — for that is secured by the One who died for them. But you can wound what Christ loves. Don't do it.
 
 Now go and do likewise.
 
