@@ -425,6 +425,8 @@ You are not authorized to withhold fellowship because someone's political instin
 
 That's not faithfulness. That's faction.
 
+And it's worth asking: when we judge others more strictly than Scripture does — when we demand conformity where God has granted freedom — have we made an idol of our own discernment? Have our opinions become more precious to us than our brothers?
+
 ### To the One Who Has Been Judged
 
 Some of you know what it feels like to be on the receiving end of this.
