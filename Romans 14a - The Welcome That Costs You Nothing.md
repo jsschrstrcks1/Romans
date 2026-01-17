@@ -144,6 +144,10 @@ Now — who are the weak?
 
 In Paul's context, these were likely Jewish Christians whose consciences were still shaped by dietary laws. They weren't sinning. They weren't legalists trying to earn salvation. They were believers whose conscience had not yet been fully liberated by the gospel's implications.
 
+This is important: Paul is not asking us to tolerate false teaching. In Galatians, he pronounces curses on those who preach another gospel — who say you must be circumcised to be saved. He's furious. But here? No rebuke. No curse. Why? Because these weak brothers aren't denying the gospel. They're just holding onto things Christ has already set them free from. That's not heresy. That's immaturity. And you don't curse the immature. You welcome them.
+
+In fact, look ahead to verse 6. Paul says the one who abstains "abstains in honor of the Lord and gives thanks to God." This weak brother isn't grudging. He isn't resentful. He's sincere. He's God-centered. He's thankful. He just lacks the knowledge that would free his faith to embrace what God has given.
+
 Notice what Paul does *not* call them:
 - Unregenerate
 - Immature
@@ -333,6 +337,26 @@ The unity of the church is not uniformity. It's not agreeing on everything. It's
 
 Spurgeon said: "Fellowship with known and vital error is participation in sin... but there is a vast difference between separation from error and separation from those who are in Christ Jesus but differ from us in minor matters."
 
+Let me give you two examples — both from church.
+
+A young woman named Holly was sitting next to her sister Sarah during a service. Sarah was hurting — something physical, something painful. Holly quietly took her sister's hand and began gently rubbing it. Unobtrusive. Discreet. I was sitting behind them and didn't even notice.
+
+But someone else did.
+
+After the service, a woman approached them and scolded Holly for being "distracting during worship."
+
+Did that woman's correction draw either sister closer to the Lord? Did it reflect the welcome of Romans 14? Or did it drive them away — not from error, but from the family of God?
+
+Here's another one. A young man named Rami came to church wearing a ball cap. Someone pulled him aside and told him it was disrespectful to wear a hat in the Lord's house.
+
+The rejection he felt in that moment was burned into his memory for years.
+
+Now — maybe you have convictions about hats in church. Fine. But was that the hill to die on? Was that the moment to enforce your preference? Did it draw him closer to Christ — or push him toward the door?
+
+Romans 14 asks us: *What good was accomplished?*
+
+If your correction doesn't draw someone closer to the Lord, maybe it wasn't from the Lord.
+
 ### To the Cynical About Public Conversions
 
 Recently there have been celebrities who claim to have come to Christ. Women publicly leaving pornography and the sex industry. Artists putting Scripture in their music.
@@ -401,6 +425,8 @@ You are not authorized to withhold fellowship because someone's political instin
 
 That's not faithfulness. That's faction.
 
+And it's worth asking: when we judge others more strictly than Scripture does — when we demand conformity where God has granted freedom — have we made an idol of our own discernment? Have our opinions become more precious to us than our brothers?
+
 ### To the One Who Has Been Judged
 
 Some of you know what it feels like to be on the receiving end of this.
@@ -412,6 +438,20 @@ Hear this: God has welcomed you.
 Whatever they think of you — God has welcomed you.
 
 You stand or fall before your own Master. And your Master will make you stand. Not because you're strong enough. Because He is.
+
+### To the One Tempted to Weaponize Weakness
+
+A word of caution.
+
+Some people hear a passage like this and think, "Good — now everyone has to accommodate me."
+
+That's not weakness. That's control.
+
+If you're using your scruples to bind other people's consciences — if your convictions have become a tool for manipulation rather than an expression of faith — then you're not the weak brother Paul is protecting. You're the one sinning.
+
+The weak brother in Romans 14 isn't demanding that everyone else follow his rules. He's genuinely uncertain. He's not trying to control the room — he's trying to honor the Lord according to what light he has.
+
+If your "weakness" looks more like leverage than humility, the problem isn't your brother's freedom. It's your heart.
 
 ---
 
