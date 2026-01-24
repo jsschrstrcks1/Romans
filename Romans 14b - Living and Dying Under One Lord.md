@@ -308,7 +308,7 @@ If we die, we die to the Lord.
 That means death is not the end of your story — it is a chapter turn. The same Christ who claimed you in life will carry you through death and raise you again.
 
 Your body is mortal.
-Your soul is eternal.
+Your soul is created by God and endures forever.
 And both belong to Christ.
 
 Paul said the same thing in Romans 8:38-39:
