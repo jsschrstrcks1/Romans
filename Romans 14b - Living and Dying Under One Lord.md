@@ -96,7 +96,29 @@ Paul is not saying, "Believe whatever you want — it doesn't matter." He's alre
 
 But here, in matters of conscience where Scripture has not clearly spoken, Paul says: *Have convictions. Hold them. Be persuaded.*
 
+Now, someone might object: "But Jesus said not one jot or tittle would pass from the law until all is accomplished. How can days and food be secondary matters?"
+
+That's a fair question. And the answer is in those words: *until all is accomplished.*
+
+Jesus didn't come to lower the law's demands. He came to fulfill them. And He did — on the cross. The ceremonial laws — the sacrifices, the dietary restrictions, the holy days — were shadows pointing forward to Christ. When the reality arrived, the shadows didn't fail. They were *completed*.
+
+Paul says exactly this in Colossians 2:16-17:
+
+> "Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. These are a shadow of the things to come, but the substance belongs to Christ."
+
+The moral law still binds — do not murder, do not commit adultery, do not bear false witness. But the ceremonial observances that pointed to Christ? They've arrived at their destination. Romans 14 is not about loosening Scripture. It's about recognizing what Christ has accomplished.
+
 The word is *plērophoreō* — to be fully assured, completely certain in your own thinking.
+
+Notice: *in your own mind.* Not in someone else's mind. Not because a preacher said it once. Not because your grandmother believed it. Not because you heard a verse quoted without ever reading the chapter it came from.
+
+To be fully convinced, you have to engage with Scripture yourself. You have to open the Book. You have to wrestle with the text in its context. Secondhand convictions — inherited but never examined, quoted but never studied — are not what Paul is talking about here. He's talking about convictions that are *yours* because you've done the work before the Lord.
+
+Some people hold positions rigidly that they've never actually studied. They can quote a verse, but they've never read the paragraph. They have strong opinions, but those opinions belong to someone else — a parent, a preacher, a tradition. And sometimes those inherited opinions are right. But they're not *fully convinced in their own mind.* They're just repeating what they heard.
+
+That's not faith. That's echo.
+
+God gave you a Bible. Read it. Study it. Let the Spirit convince you — not just through someone else's voice, but through the Word itself.
 
 This is striking. In a passage about unity, Paul doesn't say "hold your convictions loosely." He says hold them firmly — but hold them as *your* convictions before *your* Lord.
 
