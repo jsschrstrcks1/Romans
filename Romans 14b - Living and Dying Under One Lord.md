@@ -56,6 +56,12 @@ Notice what Paul does here.
 
 He starts with the practical — days and food. The kind of things that divided the early church. Should we observe the Sabbath? Should we eat meat that might have been offered to idols? These were real questions for real Christians in Rome.
 
+We have our own versions.
+
+Should Christians send their kids to public school or homeschool? Should we watch that show? What about alcohol? What about how we vote? What about masks and vaccines and which candidates deserve our support?
+
+These are real questions for real Christians in this room. And if we're honest, we've let some of them divide us in ways that Paul would not recognize as Christian.
+
 But Paul doesn't stay there.
 
 By the end of this passage, he's talking about life and death. About Christ dying and rising. About the Lordship of Jesus over everyone who has ever lived or ever will live.
@@ -127,6 +133,16 @@ Two people eating meat. One is honoring the Lord with thanksgiving. The other is
 
 Two people abstaining from meat. One is honoring the Lord according to conscience. The other is trying to earn God's favor by works. Same action, different hearts, different verdicts.
 
+And let me say a word to those in recovery.
+
+Some of you abstain not from weakness, but from wisdom. You've learned — through pain, through failure, through the wreckage of years you'd rather forget — that certain things are not safe for you. Your abstinence is not timidity. It is hard-won conviction, forged in the fires of your own history.
+
+That's not weakness. That's faithfulness.
+
+And when you abstain with thanksgiving — thanking God for your sobriety, thanking God for another day of freedom — you are honoring the Lord just as much as the brother who can partake freely. Maybe more. Because you know what it cost you to get here.
+
+Don't let anyone make you feel inferior for your convictions. And don't judge those who don't share your story. They have their own battles.
+
 God sees the heart.
 
 This is why Paul will say later, in verse 23: "Whatever does not proceed from faith is sin." The issue isn't the calendar or the menu. The issue is faith.
@@ -152,6 +168,14 @@ Paul said the same thing to the Corinthians:
 > "Do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price. So glorify God in your body." (1 Corinthians 6:19-20)
 
 The men in our Bible study are working through total depravity right now. Here's where it lands: "None of us lives to himself" is not just a moral instruction — it's a theological reality. You never belonged to yourself. You were either a slave to sin or a servant of Christ. There is no third option. Autonomy is a myth. You have always been owned — the only question is by whom.
+
+This applies in marriage.
+
+Husbands, wives — you do not live to yourself. Your preferences about how to spend money, how to discipline the kids, how much screen time is acceptable, what church activities to attend, what food to put on the table — these are not hills to die on. These are disputable matters in your own household.
+
+And Paul's word to the church applies in your living room: be fully convinced in your own mind, do everything for the Lord — but recognize that your spouse is also doing it for the Lord, and neither of you gets to play God over the other.
+
+Some of the coldest wars in a marriage are fought over secondary things. You're not battling over the gospel. You're battling over the thermostat, the calendar, the in-laws. And in those battles, remember: none of us lives to himself. Your spouse doesn't exist to serve your preferences. You both exist to serve the Lord — together.
 
 This applies to the strong:
 
@@ -260,13 +284,23 @@ Your soul depends on Christ — and so does your brother's. The same Lord who di
 
 Maybe it's time to stop fighting and start worshiping the Lord you both belong to.
 
-### To the One Afraid of Death
+### To the One Facing Health Battles
 
-You lie awake at night. The diagnosis haunts you. The statistics terrify you. The thought of leaving everything behind feels unbearable.
+Some of you are sitting in this room with a diagnosis. Or waiting for test results. Or watching someone you love fade.
 
-Hear this: *Whether we live or whether we die, we are the Lord's.*
+The numbers keep you awake. The uncertainty is crushing. You've Googled too much and prayed too little, or prayed desperately and heard only silence.
 
-Death will not take you from Christ. Death will take you *to* Christ. The Lord who holds your life holds your death too. And He has already been through death and come out the other side.
+Hear verse 8 again — slowly this time:
+
+*If we live, we live to the Lord. And if we die, we die to the Lord. So then, whether we live or whether we die, we are the Lord's.*
+
+Paul doesn't promise you healing. He doesn't promise long life. He promises something better: *You cannot fall out of the Lord's hands.*
+
+If you live — if the treatment works, if the scan comes back clear, if you get more years than you expected — you will live those years belonging to Him. They will not be wasted. They will be His.
+
+And if you die — if this is the valley, if this body fails — you will die belonging to Him. Death is not a thief breaking into the Lord's house. Death is a doorway through which the Lord Himself will carry you.
+
+Christ died and rose to be Lord of the dead and the living. He has been where you're going. And He came back. That's not theology for healthy people. That's oxygen for the suffocating.
 
 You are not walking toward darkness. You are walking toward the dawn.
 
