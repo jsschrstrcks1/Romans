@@ -151,6 +151,8 @@ Paul said the same thing to the Corinthians:
 
 > "Do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price. So glorify God in your body." (1 Corinthians 6:19-20)
 
+The men in our Bible study are working through total depravity right now. Here's where it lands: "None of us lives to himself" is not just a moral instruction — it's a theological reality. You never belonged to yourself. You were either a slave to sin or a servant of Christ. There is no third option. Autonomy is a myth. You have always been owned — the only question is by whom.
+
 This applies to the strong:
 
 You may have liberty in Christ to eat and drink and disregard certain days. But you do not have liberty to live as if your choices don't affect anyone else. You are not an island. Your freedom is not absolute. You live in a body — the body of Christ — and what you do ripples through that body.
@@ -240,6 +242,8 @@ Why does it not matter whether you eat or abstain, observe or don't observe, as 
 
 Christ's death and resurrection is not just the ground of your salvation. It is the ground of your unity. It is the ground of your ethics. It is the ground of your comfort in the face of death.
 
+And here's where election meets unity: the men's study is moving into unconditional election next week. Consider this — we are the Lord's. Not because we earned it. Not because we figured out the right position on every disputable matter. We are His because He chose us, unconditionally. The weak brother who frustrates you? God chose him. The strong brother who offends you? God chose him too. Election levels the playing field. You cannot look down on someone whom God looked upon in eternity past and said, "Mine."
+
 Everything Paul says in Romans 14 flows from this: *Christ died and lived again.*
 
 ---
@@ -295,6 +299,8 @@ We are still walking in daylight.
 And the light we walk in is not a principle or a program. It is a Person — the risen Lord Jesus Christ.
 
 He died. He rose. He is Lord of the dead and the living.
+
+The ladies studying Hosea know this story. God called Israel His own despite her adultery. "You are my people," He said — not because she was faithful, but because He is. That's what Paul means here: *We are the Lord's.* Not because we were worthy. Because He is gracious. The same God who pursued an unfaithful bride pursues us still.
 
 And because He is Lord, we can hold our convictions firmly and our brothers gently. We can disagree on secondary things and remain united in the one thing that matters: we belong to Him.
 
