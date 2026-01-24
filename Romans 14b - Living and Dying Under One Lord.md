@@ -62,6 +62,10 @@ Should Christians send their kids to public school or homeschool? Should we watc
 
 These are real questions for real Christians in this room. And if we're honest, we've let some of them divide us in ways that Paul would not recognize as Christian.
 
+John Bunyan — the Baptist pastor who wrote *Pilgrim's Progress* from a prison cell — faced this in his own day. Some wanted to exclude believers from communion over disagreements about baptism. Bunyan's response? "Love, which above all things we are commanded to put on, is of much more worth than to break about baptism."
+
+That's a Baptist hero saying: love matters more than winning an argument over a secondary issue.
+
 But Paul doesn't stay there.
 
 By the end of this passage, he's talking about life and death. About Christ dying and rising. About the Lordship of Jesus over everyone who has ever lived or ever will live.
@@ -104,6 +108,12 @@ Conviction without humility becomes tyranny.
 Humility without conviction becomes spinelessness.
 
 Paul wants both: strong convictions, held humbly before God.
+
+Our own confession — the 1689 Second London Baptist Confession, the one our church holds to — puts it this way:
+
+> "God alone is Lord of the conscience, and hath left it free from the doctrines and commandments of men which are in any thing contrary to his word, or not contained in it."
+
+That's Chapter 21. Our Baptist forefathers understood what Paul is teaching here: where Scripture has not bound the conscience, neither may we. Your brother's conscience belongs to God, not to you.
 
 ---
 
@@ -224,7 +234,7 @@ Paul said the same thing in Romans 8:38-39:
 
 Death is in that list. And death cannot separate you from Christ.
 
-This is why the Heidelberg Catechism begins with that famous question:
+The Heidelberg Catechism was written in 1563 to teach young believers the faith. For nearly 500 years, Christians have been shaped by its very first question. Listen to how it echoes what Paul is saying here:
 
 > **Q. What is your only comfort in life and in death?**
 >
@@ -284,6 +294,10 @@ Your soul depends on Christ — and so does your brother's. The same Lord who di
 
 Maybe it's time to stop fighting and start worshiping the Lord you both belong to.
 
+Spurgeon once said: "If I had never joined a Church till I had found one that was perfect, I should never have joined one at all! And the moment I did join it, if I had found one, I should have spoiled it, for it would not have been a perfect Church after I had become a member of it."
+
+You are imperfect. So is your brother. So is this church. And Christ died for all of you anyway.
+
 ### To the One Facing Health Battles
 
 Some of you are sitting in this room with a diagnosis. Or waiting for test results. Or watching someone you love fade.
@@ -337,6 +351,12 @@ He died. He rose. He is Lord of the dead and the living.
 The ladies studying Hosea know this story. God called Israel His own despite her adultery. "You are my people," He said — not because she was faithful, but because He is. That's what Paul means here: *We are the Lord's.* Not because we were worthy. Because He is gracious. The same God who pursued an unfaithful bride pursues us still.
 
 And because He is Lord, we can hold our convictions firmly and our brothers gently. We can disagree on secondary things and remain united in the one thing that matters: we belong to Him.
+
+There's an old saying — often attributed to Augustine, though it actually comes from a 17th century Lutheran pastor named Rupertus Meldenius, writing during the bloody Thirty Years' War when Christians were killing Christians over secondary matters:
+
+> "In essentials, unity. In non-essentials, liberty. In all things, charity."
+
+That's Romans 14 in a sentence. Hold the essentials — Christ died and rose. Allow liberty in the non-essentials — days, food, and a thousand other things. And in everything — charity. Love. The kind of love that costs you something.
 
 Whether you observe days or don't. Whether you eat meat or abstain. Whether you live another fifty years or die tomorrow.
 
