@@ -58,7 +58,7 @@ He starts with the practical — days and food. The kind of things that divided 
 
 We have our own versions.
 
-Should Christians send their kids to public school or homeschool? Should we watch that show? What about alcohol? What about how we vote? What about masks and vaccines and which candidates deserve our support?
+Should Christians send their kids to public school or homeschool? Should we watch that show? What about alcohol? What about how we vote? What about masks and vaccines and which candidates deserve our support? Jesus died for elephants and donkeys — and for those who sit quietly in the corner and don't vote at all.
 
 These are real questions for real Christians in this room. And if we're honest, we've let some of them divide us in ways that Paul would not recognize as Christian.
 
@@ -118,7 +118,13 @@ Some people hold positions rigidly that they've never actually studied. They can
 
 That's not faith. That's echo.
 
-God gave you a Bible. Read it. Study it. Let the Spirit convince you — not just through someone else's voice, but through the Word itself.
+If you brought your Bible today, put your finger on the page we're in and hold it up for a second.
+
+*[Pause]*
+
+God gave you that. Read it. Study it. Let the Spirit convince you — not just through someone else's voice, but through the Word itself.
+
+Okay, you can lower them. But keep that picture in your mind.
 
 This is striking. In a passage about unity, Paul doesn't say "hold your convictions loosely." He says hold them firmly — but hold them as *your* convictions before *your* Lord.
 
@@ -131,11 +137,13 @@ Humility without conviction becomes spinelessness.
 
 Paul wants both: strong convictions, held humbly before God.
 
-Our own confession — the 1689 Second London Baptist Confession, the one our church holds to — puts it this way:
+Our own confession — the 1689 Second London Baptist Confession, the one we as Reformed Baptists hold to — puts it this way:
 
 > "God alone is Lord of the conscience, and hath left it free from the doctrines and commandments of men which are in any thing contrary to his word, or not contained in it."
 
-That's Chapter 21. Our Baptist forefathers understood what Paul is teaching here: where Scripture has not bound the conscience, neither may we. Your brother's conscience belongs to God, not to you.
+And our Baptist Faith and Message says the same thing in different words: "The Holy Scriptures are the supreme standard by which all human conduct, creeds, and religious opinions should be tried" — and in matters where Scripture has not spoken explicitly, each believer is free to follow their conscience, provided they honor the Lord and respect their brothers and sisters.
+
+Our Baptist forefathers — whether in 1689 London or 2000 Orlando — understood what Paul is teaching here: where Scripture has not bound the conscience, neither may we. Your brother's conscience belongs to God, not to you.
 
 ---
 
@@ -213,6 +221,32 @@ This applies to the strong:
 
 You may have liberty in Christ to eat and drink and disregard certain days. But you do not have liberty to live as if your choices don't affect anyone else. You are not an island. Your freedom is not absolute. You live in a body — the body of Christ — and what you do ripples through that body.
 
+When I was in the UK working among a particular ethnic group that does not eat pork, one of my teammates — he and his wife — absolutely loved pork. Especially bacon. And to be fair, they had already given up so much to be there, to serve, to obey what the Lord had clearly called them to do.
+
+But bacon was the one thing they couldn't let go of.
+
+Think about that for a moment. Anyone here like BBQ ribs? Show of hands. Yeah? Pork chops? Maybe fried, with mashed potatoes and gravy? How about a nice, tender pork steak? I had some BBQ pork belly on a cruise one time that I still find myself thinking about.
+
+So imagine giving that up.
+
+Here was the problem: the people they were reaching had no issue opening fridges and freezers, poking around, helping themselves. And every time that pork was discovered, it didn't just create awkwardness — it blew up months of gospel work. Trust was damaged. Conversations shut down. Progress stalled.
+
+So instead of giving up bacon, they bought a second freezer. They buried it under a massive stack of soda cans — a stack taller and wider than the freezer itself — so no one could casually open it and see what was inside.
+
+*[Pause]*
+
+Problem solved... sort of?
+
+And I remember thinking at the time: I would've just skipped bacon. And those who know me know — I like my bacon. But I would have set aside my freedom to eat pork in general, and bacon in particular.
+
+Not because bacon is sinful.
+Not because pork is forbidden.
+But because love matters more than liberty.
+
+That's exactly what Paul says in Romans 14:15 — "If your brother is grieved by what you eat, you are no longer walking in love." And again in verse 19 — "So then let us pursue what makes for peace and for mutual upbuilding."
+
+Paul's point in Romans 14 isn't, "You have freedom, so do whatever you want." It's, "You have freedom — so use it in a way that builds up the body Christ died for."
+
 This applies to the weak:
 
 You may have convictions that bind your conscience. But you do not have the authority to bind your brother's conscience. You are not the Lord. Your scruples are not Scripture. You live under the same Master as your brother, and you do not get to play God with his life.
@@ -246,9 +280,36 @@ In life — you belong to Christ.
 
 Every breath you take is borrowed from Him. Every morning you wake is His gift. Every day you walk through this world, you walk as His possession, His servant, His beloved.
 
+And here's the truth Romans 14 presses on us: if you are still breathing today, it is because the Lord still has purpose for you in Him.
+
+I was talking with someone just the other day who had a major surgery. Without it, they would have died. The recovery has been long, painful, exhausting. And yet they said something that stopped me cold.
+
+They said, "It's okay, preacher. This pain is far less than I deserve. And if I'm still breathing, then God still has a purpose for me."
+
+That's Romans 14 faith.
+
+Not a faith that measures life by comfort.
+Not a faith that asks, "What do I want?"
+But a faith that says, "I belong to the Lord — therefore my life, my suffering, my strength, and my weakness all belong to Him too."
+
 In death — you still belong to Christ.
 
 Death does not sever you from Christ. Death does not transfer ownership. Death does not end the relationship. When you close your eyes for the last time, you do not cease to be the Lord's. You enter more fully into His presence.
+
+We live as though this world is permanent and eternity is an afterthought. Paul says the opposite.
+
+Think about what he's saying: whether we *live* or whether we *die*, we are the Lord's. Death doesn't end your belonging — it deepens it. That means your identity isn't anchored in this temporary body. It's anchored in the eternal Christ who owns you.
+
+Your body may return to dust, but your belonging does not expire. Your life is not measured by how long your heart beats, but by who owns you.
+
+If we live, we live to the Lord.
+If we die, we die to the Lord.
+
+That means death is not the end of your story — it is a chapter turn. The same Christ who claimed you in life will carry you through death and raise you again.
+
+Your body is mortal.
+Your soul is eternal.
+And both belong to Christ.
 
 Paul said the same thing in Romans 8:38-39:
 
