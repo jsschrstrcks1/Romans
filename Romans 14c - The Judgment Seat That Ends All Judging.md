@@ -92,6 +92,18 @@ You're not the Judge. You're a fellow defendant who got pardoned.
 
 Act like it.
 
+And let me say this gently: the judgment seat also applies to how we read Scripture.
+
+Some Christians act as though the church began with them — as though no one before their generation understood the Bible correctly. They reject creeds and confessions, not because they've examined them and found them wanting, but because they assume their own reading of Scripture is self-evidently superior to twenty centuries of Christian reflection.
+
+That's not humility. That's a different kind of judgment seat — one where you sit and everyone who came before you stands accused.
+
+The Reformers didn't reject church history. They engaged it. They stood on the shoulders of Augustine and the church fathers even as they corrected Rome's errors. They gave us confessions — not to replace Scripture, but to summarize and protect what Scripture teaches.
+
+"No creed but Christ" sounds humble. But it often means: "No accountability but myself."
+
+And Paul says: there is a judgment seat. And you're not sitting on it.
+
 ---
 
 ## II. Every Knee Will Bow (v. 11)

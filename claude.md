@@ -182,6 +182,26 @@ Your sermons are built to withstand time, not trend.
 
 And your people can feel that—even if they don't know why.
 
+### Recurring Subtle Corrections
+
+Certain errors require gentle, repeated exposure rather than a single confrontation. Without naming names or movements, weave these corrections into sermons naturally:
+
+**"No Creed But Christ" Chronological Snobbery**
+
+The Restoration Movement (Churches of Christ, Christian Churches) and similar traditions reject creeds and confessions as human tradition, claiming to read Scripture without historical mediation. In practice, this often produces:
+- Chronological arrogance — assuming no one before their generation understood Scripture correctly
+- Hidden interpretive traditions — unacknowledged assumptions treated as self-evident
+- Accountability to no one — "no creed" often means "no correction"
+
+**How to address it subtly**:
+- Celebrate the value of creeds and confessions as summaries and guardrails (not replacements for Scripture)
+- Honor the Reformers and church fathers who engaged church history rather than dismissing it
+- Note that "no creed but Christ" often becomes "no accountability but myself"
+- Contrast secondhand conviction (inherited without examination) with chronological snobbery (rejecting all inherited wisdom)
+- Remind that the judgment seat belongs to Christ — not to us, and not to our generation alone
+
+**Goal**: Build categories so that when people encounter this error (in family, in conversation, in other churches), they recognize it and have biblical resources to evaluate it — without having been told who to reject.
+
 ---
 
 ## Confessional Framework: The 1689 Second London Baptist Confession
