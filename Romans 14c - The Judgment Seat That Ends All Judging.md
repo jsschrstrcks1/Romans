@@ -28,11 +28,15 @@ In light of all that — who do you think you are?
 
 Before we read the text, let me tell you about a people group we're praying for.
 
-[Insert unreached people group of the day]
+The Giddikki people of India — 72,000 of them. Zero percent Christian. Zero percent evangelical. Not a single known believer.
 
-They need what we have. They need to know that Christ is Lord — and that at His judgment seat, every knee will bow. Including theirs. Including ours.
+They were historically fortune-tellers — people who claimed to read the future for others. Today most of them sell aluminum utensils and plastic boxes at markets, or work as day laborers. They worship Hindu deities — Durga, Lakshmi, Eswara. They have their own community council, the *latikuta*, where disputes are settled and judgments are rendered.
 
-Let's pray for them — and for us — that we would live in light of that coming day.
+They have a judgment seat. But they don't know about *the* judgment seat.
+
+And here's the connection to Romans 14: Paul says every knee will bow. Every tongue will confess. That includes the Giddikki. One day, the fortune-tellers who claimed to know the future will stand before the One who holds it. And the Bible is already translated into their language — Konkani. The Jesus Film is available. The tools exist. What's missing are the workers.
+
+Let's pray for the Giddikki — that the gospel would reach them, that someone would go, that the people who once told fortunes would come to know the One who tells the truth: Jesus Christ is Lord.
 
 Let's pray.
 
