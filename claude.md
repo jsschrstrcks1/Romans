@@ -676,3 +676,24 @@ Consider how to land the plane:
 The same gravity that marked Romans 1-13 should carry through to the end. The stakes don't lower because we've reached the "practical" section. Liberty is serious. Mission is serious. Community is serious. Division is deadly. And the God who justifies the ungodly deserves eternal glory.
 
 Finish strong.
+
+---
+
+## Integrity Rule: Careful, Not Clever
+
+> **Active skill: `.claude/skills/careful-not-clever/SKILL.md`**
+> **Readable reference: [careful.md](careful.md)**
+
+The governing principle: everything we do is for the glory of God and with integrity. We don't guess — we verify. We don't assume — we check. We don't cut corners — we serve the text.
+
+This applies to every sermon modification:
+- Every Scripture reference must be verified (ESV, exact wording)
+- Every attributed quote must be confirmed real and correctly sourced
+- Every theological claim must be grounded in Scripture
+- Every addition must serve the text, not our cleverness
+- We commit after each logical unit of work with honest messages
+- We admit uncertainty rather than assert what we haven't verified
+
+**This is not optional.** The pulpit demands our best, not our fastest.
+
+**Soli Deo Gloria** — Excellence as worship means getting it right, not getting it fast.
