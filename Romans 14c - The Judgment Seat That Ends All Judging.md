@@ -186,33 +186,41 @@ This should produce two things in us:
 
 ---
 
-## Naming What Must Be Named
+## The Line Between Disputable and Damnable
 
-Now, let me be direct about something.
+We are walking in daylight. And in the light, we see more clearly — not less.
 
-Everything Paul says here applies to genuine disputable matters — food, days, practices where Scripture has not clearly spoken.
+Everything Paul has said in Romans 14 applies to genuine disputable matters — food, days, practices where Scripture has not clearly spoken. In those matters: don't judge, don't despise, give an account of yourself to God.
 
-But some things are not disputable. Some things are not matters of conscience. Some things are sin masquerading as conviction.
+But not everything people call a "conviction" qualifies.
 
-And one of the most insidious errors creeping into some corners of the church today is kinism — the repackaged racism that tries to use Scripture to justify ethnic separation and superiority.
+Some things are not disputable. Some things are not secondary. Some things are darkness dressed up as light.
 
-Let me be absolutely clear: kinism is not a secondary issue. It is not a disputable matter. It is an abomination.
+And one of the most insidious errors creeping into corners of the church today is kinism — the repackaged racism that tries to use Scripture to justify ethnic separation and superiority.
 
-It takes the gospel that tears down the dividing wall between Jew and Gentile and rebuilds that wall with pseudo-biblical bricks.
+Let me be absolutely clear: kinism is not a secondary issue. It is not a matter of conscience. It is an abomination.
 
-It takes the church that is "one body" — where "there is neither Jew nor Greek, slave nor free" — and fractures it along ethnic lines.
+Paul spent the first three chapters of this letter tearing down every wall between Jew and Gentile. He showed us in that mirror — Romans 1-3 — that *all* have sinned. Not some races more than others. All. And he showed us in Romans 3-5 that justification comes by faith — not by bloodline, not by ethnicity, not by nation.
 
-It takes the vision of Revelation 7 — "a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne" — and says, "Not in my church. Not at my table."
+The gospel that Paul preaches *destroys* the very walls kinism tries to rebuild.
 
-This is not the weak brother with scruples about meat. This is the wolf in sheep's clothing.
+Paul told the Ephesians that Christ "is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility" (Ephesians 2:14). Kinism takes that dividing wall and reconstructs it with pseudo-biblical bricks.
 
-And Paul's question — "Why do you despise your brother?" — lands with devastating force on anyone who would despise a brother because of the color of his skin.
+Paul told the Galatians: "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus" (Galatians 3:28). Kinism reads that verse and says, "Not in my church. Not at my table."
 
-You will stand before the judgment seat of Christ. And so will the brother you despised. And Christ will not ask what nation you came from. He will ask whether you loved the brothers He died for.
+And where are we walking? We are walking toward the dawn. And when the dawn fully breaks — when the night is finally and forever gone — here is what we will see:
 
-Every knee will bow. Every tribe. Every tongue. Every nation. Together.
+> "A great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb, clothed in white robes, with palm branches in their hands, and crying out with a loud voice, 'Salvation belongs to our God who sits on the throne, and to the Lamb!'" (Revelation 7:9-10)
 
-If you can't worship with your brother now, what makes you think you'll be ready for eternity?
+That is the dawn we are walking toward. Every tribe. Every tongue. Every nation. Together. Before one throne.
+
+Kinism is not walking toward that dawn. Kinism is stumbling back into the night.
+
+And Paul's question from verse 10 — "Why do you despise your brother?" — lands with devastating force on anyone who would despise a brother because of the color of his skin.
+
+You will stand before the judgment seat of Christ. And so will that brother. And Christ will not ask what nation you came from. He will ask whether you loved the brothers He died for.
+
+If you can't worship with your brother now, what makes you think you'll be ready for the dawn?
 
 ---
 
