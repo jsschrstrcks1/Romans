@@ -86,7 +86,13 @@ Both thieves were equally fallen. Same crimes. Same crosses. Same proximity to J
 
 But if no one *naturally* seeks for God — what human being, reasoning on their own, would look at a naked, dying, cursed man and say "that's who I need to follow"?
 
-Every visible fact said the opposite:
+
+Let me ask this, what do you think about when you think about a King? 
+
+When I was in the UK, I saw the Queen ride by as part of a motorcade. I had no idea, i was just there to see the changing of the guards. But suddenly it was like the temperature changed. People started turning up out of the wood work. It went from just a handful of people, to hundreds! The number of guards easily doubled. The changing of the guard did NOT happen. And then here came a bently limo with lots of glass. She was dressed to the 9s in a suit and hat. No crown surpisingly, but she didn't even have to wear the crown, for everyone present to know she was the queen. It was in her bearing, and to be fair, her face is on ALL of their money. She had a crowd, everyone was curious about her and the nation follows her whims. She lives a blessed life of luxury, it was definitely not the base model bently, and bentlys are what? 300k for an entry level model? The queens would have been the ultimate convergence of security and luxury. Only someone with real power has the ability to command a one off bullet proof ultra plush james bond style limosine. Even here in a country started in the midst of a rebllion against monarchs, when she speaks on an issue it makes news here. She commands respect, even amoungst those who reject her authority. Even her clothing - ii have this picture in my mind of her wearing a fur cloak, carrying her scepter, and wearing that heavy heavy crown. 
+
+But contrast that with Jesus in this passage. 
+
 - Naked — not royalty
 - Mocked — not respected
 - Dying — not powerful
