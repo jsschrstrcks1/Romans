@@ -30,9 +30,9 @@ Where did that come from?
 
 Before we go further, let's pause to pray for a people who have never heard what we're about to study.
 
-**The Shaikh of Bangladesh** — over 130 million people. Sunni Muslim. Historically the ruling and landholding class of Bengal. Zero known believers. Zero churches. No Bible in their heart dialect.
+**The Shaikh of Bangladesh** — over 135 million people. Muslim. Historically the ruling and landholding class of Bengal. A frontier unreached group — fewer than 0.1% Christian of any kind. No self-sustaining gospel movement.
 
-130 million people who have never heard the words: *"Today you will be with me in paradise."*
+135 million people who have never heard the words: *"Today you will be with me in paradise."*
 
 Would you pray with me?
 
@@ -82,9 +82,58 @@ He wanted mercy. And mercy requires honesty.
 
 ---
 
-## II. The King (What the Thief Saw About Jesus)
+## II. The Theology of a Dying Criminal
 
-Now comes the astonishing part.
+Before we move on, slow down and look at what the thief actually *said*.
+
+This man was not a theologian. He wasn't trained. He'd never been to seminary. He probably couldn't quote the prophets or parse the Hebrew Scriptures. He was a violent criminal — hours from death.
+
+And yet listen to what came out of his mouth.
+
+**"Do you not fear God?"**
+
+He has a doctrine of God. God is someone to be feared. God is holy. God is judge. In one question, he shows more theological clarity than many churchgoers ever reach.
+
+**"We are receiving the due reward of our deeds."**
+
+He has a doctrine of sin and justice. He's not making excuses. He's not blaming his circumstances, his upbringing, or Roman oppression. He accepts the verdict. He knows the sentence is fair.
+
+**"But this man has done nothing wrong."**
+
+He has a doctrine of Christ's innocence. While the religious leaders called Jesus a blasphemer, while the crowds jeered, while the soldiers mocked — this criminal confesses: *He is innocent. I am guilty. He is righteous. I am not.*
+
+**"Jesus..."**
+
+He uses His personal name. Not a title. Not "Lord" or "Master" — just *Jesus*. It's intimate. It's a beggar speaking to a king by name.
+
+**"...remember me..."**
+
+This is covenant language. Throughout the Old Testament, God "remembers" His people — not as if He'd forgotten, but as an act of favor and faithfulness. Noah. Abraham. Rachel. Hannah. "Remember me" is the cry of someone casting themselves entirely on mercy.
+
+**"...when you come into your kingdom."**
+
+He has a doctrine of resurrection. A doctrine of Christ's kingship. A doctrine of eschatological hope. He's looking at a dying man and saying: *You have a kingdom. You are coming into it. And I want to be there.*
+
+Do you see what just happened?
+
+A dying criminal — untrained, unschooled, unknown — just confessed:
+- God's holiness
+- Human guilt
+- Divine justice
+- Christ's innocence
+- Christ's kingship
+- Christ's coming reign
+- His own need for mercy
+
+That's more theology than most people pack into a lifetime. And he got it all right. On a cross. In agony. With no training.
+
+Where did *that* come from?
+
+---
+
+## III. The King (What the Thief Saw About Jesus)
+
+Now look at what he saw — because what he said makes no sense given what he could see.
 
 *"This man has done nothing wrong."*
 
@@ -94,6 +143,22 @@ Look at Jesus in this moment:
 - Gasping for breath between the spikes
 - Surrounded by mockers, gamblers, executioners
 - The disciples nowhere to be found
+
+And feel the weight of that cross.
+
+Crucifixion wasn't just painful — it was designed to be the most shameful death the Roman Empire could devise. It was reserved for slaves, rebels, and the lowest criminals. Roman citizens were legally exempt; it was beneath their dignity to even witness one. Cicero called it *crudelissimum taeterrimumque supplicium* — "the cruelest and most disgusting punishment" (*In Verrem* 2.5.165).
+
+Victims were stripped naked — every shred of dignity gone. Displayed at eye level so the crowds could mock, spit, and jeer. Left to lose control of their bodies while strangers watched. Death came slowly — hours, sometimes days — and it came publicly.
+
+The cross was Rome's way of saying: *This person is worthless. Less than worthless.*
+
+And for a Jew, it was even worse. Deuteronomy 21:23 says, "a hanged man is cursed by God." To die on a cross was to die under the curse of God Himself.
+
+Paul understood this. In Philippians 2:8, he writes that Jesus "humbled himself by becoming obedient to the point of death, even death on a cross." That phrase — *even death on a cross* — isn't redundant. It's emphasis. Death wasn't enough shame. It was *that* death. The lowest death. The most degrading death a human being could experience.
+
+Hebrews 12:2 tells us Jesus endured the cross, "despising the shame."
+
+He knew exactly what He was walking into. And He walked into it anyway.
 
 Everything visible screams: *This man has lost.*
 
@@ -119,13 +184,35 @@ He didn't get them from the disciples — they had fled.
 He didn't get them from the religious leaders — they were sneering.
 He didn't get them from the scene itself — there was nothing kingly about it.
 
+Think about this: no human being, reasoning naturally, would look at that scene and say, "That's my King."
+
+Every piece of visible evidence pointed the other direction:
+- Naked — not royalty
+- Mocked — not respected
+- Dying — not powerful
+- Cursed by Jewish law — not blessed
+- Abandoned by his followers — not worth following
+
+The crowd drew the logical conclusion: *This man has lost.*
+The religious leaders drew the logical conclusion: *Fraud exposed.*
+The Roman soldiers drew the logical conclusion: *Another criminal.*
+The first thief drew the logical conclusion: *He can't even save himself.*
+
+Every one of them was using their eyes. Every one of them was reasoning from the evidence. And every one of them reached the same verdict: *failure*.
+
+But the second thief looked at the same scene — the same naked, bleeding, dying man — and said: *"When you come into your kingdom..."*
+
+That's not good judgment. That's not careful reasoning. That's not a wise bet.
+
+That's an *impossible* conclusion — one that contradicted every visible fact.
+
 Something else was happening.
 
 Someone was opening his eyes.
 
 ---
 
-## III. The Mystery (Why One and Not the Other)
+## IV. The Mystery (Why One and Not the Other)
 
 Here's the question we have to sit with.
 
@@ -149,21 +236,30 @@ He saw what no natural eye could see.
 
 And that sight was a gift.
 
-The doctrine of election is not cold. It's the only explanation for what happened on that hill.
+This is what Paul is talking about in Romans 9. This is why he quotes Exodus 33:19 — "I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion."
 
-Two men, equally depraved, equally condemned, equally close to Jesus — and one is given eyes to see a King.
+Two men, equally guilty, equally condemned, equally close to Jesus — and one is given eyes to see a King.
 
-That's not luck. That's not coincidence. That's not the triumph of human free will.
+That's not luck. That's not coincidence. That's not the triumph of human decision-making.
 
-That's sovereign grace.
+That's mercy.
 
-And it should drive us to worship, not to argument.
+And the more Scripture you know, the more you see this pattern everywhere:
+- God chose Abraham, not the other nations.
+- God chose Isaac, not Ishmael.
+- God chose Jacob, not Esau — "though they were not yet born and had done nothing either good or bad" (Romans 9:11).
+- God chose David, the youngest, the overlooked.
+- And here, God chooses one thief — not the other.
+
+Why? Because that's what mercy is. Mercy isn't getting what you deserve. If both thieves got what they deserved, both would go to hell.
+
+Grace is God giving sight to the blind. And you can't explain why He opens one set of eyes and not another — except to fall on your face and worship.
 
 Because if it depended on us — on our wisdom, our insight, our decision-making under pressure — we'd all be the first thief.
 
 ---
 
-## IV. The Darkness and the Dawn
+## V. The Darkness and the Dawn
 
 There's one more detail Luke gives us. Don't miss it.
 
@@ -185,7 +281,7 @@ Romans 3–5: The alarm. Justification breaks in. We are declared righteous whil
 
 Romans 6–8: Getting dressed. We put on Christ. We cast off the works of darkness.
 
-Romans 9–11: The certainty of dawn. God's promises are sure. Election means the sun will rise.
+Romans 9–11: The certainty of dawn. God's promises are sure. His purposes cannot fail.
 
 The thief on the cross lived the whole journey in an afternoon.
 
@@ -203,7 +299,7 @@ Today.
 
 ---
 
-## V. The Verdict
+## VI. The Verdict
 
 Notice what Jesus doesn't say.
 
@@ -226,6 +322,24 @@ The thief contributed nothing.
 - No church membership
 - No time to prove his faith was real
 
+And that word *baptism* matters.
+
+Some will tell you that you cannot be saved without being baptized first. That faith alone isn't enough. That you must add water to the equation before God will accept you.
+
+But the thief couldn't get baptized. He was nailed to a cross. He couldn't walk to a river. He couldn't find a minister. He couldn't do *anything* except hang there and believe.
+
+And Jesus didn't say: "I wish I could save you, but you haven't been baptized."
+He didn't say: "Your faith is real, but my hands are tied."
+He didn't add conditions or requirements or rituals.
+
+He said: *Today. With me. Paradise.*
+
+If baptism were necessary for salvation, the thief would have been lost. And Jesus would have had to tell him so.
+
+He didn't.
+
+This doesn't make baptism unimportant — it's the first act of obedience for every believer, and we should pursue it gladly. But baptism is not the door. Faith is. The thief proves it.
+
 He had nothing but a cry for mercy and eyes that saw a King.
 
 And Jesus said: *Enough. Today. With me. Paradise.*
@@ -240,7 +354,7 @@ Grace takes a criminal and makes him a citizen of paradise — not in spite of t
 
 ---
 
-## VI. What This Means for You
+## VII. What This Means for You
 
 Some of you are the first thief.
 
@@ -271,6 +385,54 @@ Look at the thief.
 He had nothing. And he got everything.
 
 That's still how it works.
+
+---
+
+## VIII. What the Thief Couldn't Do
+
+Think about what the thief couldn't do.
+
+He couldn't get sober first.
+
+If he'd spent years drinking, years destroying himself — he couldn't go get clean before coming to Jesus. He was nailed to wood. And Jesus took him anyway.
+
+Some of you are fighting that battle right now. You think you need to get your addiction under control before God will accept you. You think you need to prove you've changed, stack up some sober days, show you're serious.
+
+The thief couldn't do any of that. And Jesus said: *Today. Paradise.*
+
+He couldn't fix his marriage first.
+
+Whatever relationships he'd wrecked — whatever vows he'd broken, whatever trust he'd destroyed — he couldn't go home and make it right. He couldn't apologize. Couldn't start over. Couldn't prove he'd be different this time.
+
+Some of you feel like your marriage is beyond repair. Like you've failed too many times. Like God couldn't possibly accept you until you fix what you've broken.
+
+The thief couldn't fix anything. And Jesus said: *Today. Paradise.*
+
+He couldn't reconcile with his family first.
+
+He'd brought shame on everyone who shared his name. His parents. His siblings. Maybe his children. He couldn't write a letter. Couldn't ask forgiveness. Couldn't sit across the table and say the words he should have said years ago.
+
+Some of you are estranged from people you love. Years of silence. Years of pain. And you think you need to repair those relationships before God will take you seriously.
+
+The thief died with all of that unresolved. And Jesus said: *Today. Paradise.*
+
+He couldn't heal his body first.
+
+His body was failing. Hours to live. No recovery possible. No second chance at health.
+
+Some of you are watching your bodies break down. Diagnoses you didn't ask for. Futures you didn't plan. And maybe you've wondered if God is done with you.
+
+The thief's body was destroyed. And Jesus said: *Today. Paradise.*
+
+Do you see the pattern?
+
+Jesus didn't wait for the thief to clean up, fix up, make up, or heal up.
+
+He took him as he was — broken, dying, helpless — and spoke a verdict over him.
+
+That's grace.
+
+And it's still how grace works today.
 
 ---
 
