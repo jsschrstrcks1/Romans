@@ -82,9 +82,58 @@ He wanted mercy. And mercy requires honesty.
 
 ---
 
-## II. The King (What the Thief Saw About Jesus)
+## II. The Theology of a Dying Criminal
 
-Now comes the astonishing part.
+Before we move on, slow down and look at what the thief actually *said*.
+
+This man was not a theologian. He wasn't trained. He'd never been to seminary. He probably couldn't quote the prophets or parse the Hebrew Scriptures. He was a violent criminal — hours from death.
+
+And yet listen to what came out of his mouth.
+
+**"Do you not fear God?"**
+
+He has a doctrine of God. God is someone to be feared. God is holy. God is judge. In one question, he shows more theological clarity than many churchgoers ever reach.
+
+**"We are receiving the due reward of our deeds."**
+
+He has a doctrine of sin and justice. He's not making excuses. He's not blaming his circumstances, his upbringing, or Roman oppression. He accepts the verdict. He knows the sentence is fair.
+
+**"But this man has done nothing wrong."**
+
+He has a doctrine of Christ's innocence. While the religious leaders called Jesus a blasphemer, while the crowds jeered, while the soldiers mocked — this criminal confesses: *He is innocent. I am guilty. He is righteous. I am not.*
+
+**"Jesus..."**
+
+He uses His personal name. Not a title. Not "Lord" or "Master" — just *Jesus*. It's intimate. It's a beggar speaking to a king by name.
+
+**"...remember me..."**
+
+This is covenant language. Throughout the Old Testament, God "remembers" His people — not as if He'd forgotten, but as an act of favor and faithfulness. Noah. Abraham. Rachel. Hannah. "Remember me" is the cry of someone casting themselves entirely on mercy.
+
+**"...when you come into your kingdom."**
+
+He has a doctrine of resurrection. A doctrine of Christ's kingship. A doctrine of eschatological hope. He's looking at a dying man and saying: *You have a kingdom. You are coming into it. And I want to be there.*
+
+Do you see what just happened?
+
+A dying criminal — untrained, unschooled, unknown — just confessed:
+- God's holiness
+- Human guilt
+- Divine justice
+- Christ's innocence
+- Christ's kingship
+- Christ's coming reign
+- His own need for mercy
+
+That's more theology than most people pack into a lifetime. And he got it all right. On a cross. In agony. With no training.
+
+Where did *that* come from?
+
+---
+
+## III. The King (What the Thief Saw About Jesus)
+
+Now look at what he saw — because what he said makes no sense given what he could see.
 
 *"This man has done nothing wrong."*
 
@@ -163,7 +212,7 @@ Someone was opening his eyes.
 
 ---
 
-## III. The Mystery (Why One and Not the Other)
+## IV. The Mystery (Why One and Not the Other)
 
 Here's the question we have to sit with.
 
@@ -201,7 +250,7 @@ Because if it depended on us — on our wisdom, our insight, our decision-making
 
 ---
 
-## IV. The Darkness and the Dawn
+## V. The Darkness and the Dawn
 
 There's one more detail Luke gives us. Don't miss it.
 
@@ -241,7 +290,7 @@ Today.
 
 ---
 
-## V. The Verdict
+## VI. The Verdict
 
 Notice what Jesus doesn't say.
 
@@ -296,7 +345,7 @@ Grace takes a criminal and makes him a citizen of paradise — not in spite of t
 
 ---
 
-## VI. What This Means for You
+## VII. What This Means for You
 
 Some of you are the first thief.
 
@@ -330,7 +379,7 @@ That's still how it works.
 
 ---
 
-## VII. What the Thief Couldn't Do
+## VIII. What the Thief Couldn't Do
 
 Think about what the thief couldn't do.
 
