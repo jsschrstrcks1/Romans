@@ -236,15 +236,24 @@ He saw what no natural eye could see.
 
 And that sight was a gift.
 
-The doctrine of election is not cold. It's the only explanation for what happened on that hill.
+This is what Paul is talking about in Romans 9. This is why he quotes Exodus 33:19 — "I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion."
 
-Two men, equally depraved, equally condemned, equally close to Jesus — and one is given eyes to see a King.
+Two men, equally guilty, equally condemned, equally close to Jesus — and one is given eyes to see a King.
 
-That's not luck. That's not coincidence. That's not the triumph of human free will.
+That's not luck. That's not coincidence. That's not the triumph of human decision-making.
 
-That's sovereign grace.
+That's mercy.
 
-And it should drive us to worship, not to argument.
+And the more Scripture you know, the more you see this pattern everywhere:
+- God chose Abraham, not the other nations.
+- God chose Isaac, not Ishmael.
+- God chose Jacob, not Esau — "though they were not yet born and had done nothing either good or bad" (Romans 9:11).
+- God chose David, the youngest, the overlooked.
+- And here, God chooses one thief — not the other.
+
+Why? Because that's what mercy is. Mercy isn't getting what you deserve. If both thieves got what they deserved, both would go to hell.
+
+Grace is God giving sight to the blind. And you can't explain why He opens one set of eyes and not another — except to fall on your face and worship.
 
 Because if it depended on us — on our wisdom, our insight, our decision-making under pressure — we'd all be the first thief.
 
@@ -272,7 +281,7 @@ Romans 3–5: The alarm. Justification breaks in. We are declared righteous whil
 
 Romans 6–8: Getting dressed. We put on Christ. We cast off the works of darkness.
 
-Romans 9–11: The certainty of dawn. God's promises are sure. Election means the sun will rise.
+Romans 9–11: The certainty of dawn. God's promises are sure. His purposes cannot fail.
 
 The thief on the cross lived the whole journey in an afternoon.
 
