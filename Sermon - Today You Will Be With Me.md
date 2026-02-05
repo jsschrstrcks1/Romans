@@ -308,6 +308,54 @@ That's still how it works.
 
 ---
 
+## VII. What the Thief Couldn't Do
+
+Think about what the thief couldn't do.
+
+He couldn't get sober first.
+
+If he'd spent years drinking, years destroying himself — he couldn't go get clean before coming to Jesus. He was nailed to wood. And Jesus took him anyway.
+
+Some of you are fighting that battle right now. You think you need to get your addiction under control before God will accept you. You think you need to prove you've changed, stack up some sober days, show you're serious.
+
+The thief couldn't do any of that. And Jesus said: *Today. Paradise.*
+
+He couldn't fix his marriage first.
+
+Whatever relationships he'd wrecked — whatever vows he'd broken, whatever trust he'd destroyed — he couldn't go home and make it right. He couldn't apologize. Couldn't start over. Couldn't prove he'd be different this time.
+
+Some of you feel like your marriage is beyond repair. Like you've failed too many times. Like God couldn't possibly accept you until you fix what you've broken.
+
+The thief couldn't fix anything. And Jesus said: *Today. Paradise.*
+
+He couldn't reconcile with his family first.
+
+He'd brought shame on everyone who shared his name. His parents. His siblings. Maybe his children. He couldn't write a letter. Couldn't ask forgiveness. Couldn't sit across the table and say the words he should have said years ago.
+
+Some of you are estranged from people you love. Years of silence. Years of pain. And you think you need to repair those relationships before God will take you seriously.
+
+The thief died with all of that unresolved. And Jesus said: *Today. Paradise.*
+
+He couldn't heal his body first.
+
+His body was failing. Hours to live. No recovery possible. No second chance at health.
+
+Some of you are watching your bodies break down. Diagnoses you didn't ask for. Futures you didn't plan. And maybe you've wondered if God is done with you.
+
+The thief's body was destroyed. And Jesus said: *Today. Paradise.*
+
+Do you see the pattern?
+
+Jesus didn't wait for the thief to clean up, fix up, make up, or heal up.
+
+He took him as he was — broken, dying, helpless — and spoke a verdict over him.
+
+That's grace.
+
+And it's still how grace works today.
+
+---
+
 ## Closing
 
 The night is far gone.

@@ -139,6 +139,30 @@ That's not luck. That's grace.
 
 ---
 
+## What the Thief Couldn't Do (5 minutes)
+
+Here's where it gets personal.
+
+Think about what the thief *couldn't* do:
+
+- He couldn't **get sober first**. Whatever habits had led him to that cross — he couldn't go clean up before coming to Jesus. He was nailed down. And Jesus took him anyway.
+
+- He couldn't **fix his marriage**. Whatever relationships he'd destroyed — he couldn't apologize, couldn't make amends, couldn't prove he'd changed. And Jesus took him anyway.
+
+- He couldn't **reconcile with his family**. He'd brought shame on people who loved him. He couldn't write a letter or sit across a table and say the words he should have said. And Jesus took him anyway.
+
+- He couldn't **heal his body**. He was dying. No recovery. No second chance. And Jesus took him anyway.
+
+Some of us think we need to fix something before God will accept us.
+
+Get the addiction under control. Repair the marriage. Make peace with family. Get healthy.
+
+The thief couldn't do any of it. And Jesus said: *Today. Paradise.*
+
+That's grace.
+
+---
+
 ## Closing Discussion (5 minutes)
 
 1. Have you ever had a passage "open up" after learning doctrine you didn't know before? What was it?
@@ -146,6 +170,8 @@ That's not luck. That's grace.
 2. How does understanding election change the way you pray for unbelievers?
 
 3. The thief contributed nothing — no good works, no track record, no time to prove himself. Why is that offensive to us? Why is it also the best news in the world?
+
+4. Which of the "couldn't do" items hits closest to home for you? What are you tempted to think you need to fix before God will fully accept you?
 
 ---
 
