@@ -95,6 +95,22 @@ Look at Jesus in this moment:
 - Surrounded by mockers, gamblers, executioners
 - The disciples nowhere to be found
 
+And feel the weight of that cross.
+
+Crucifixion wasn't just painful — it was designed to be the most shameful death the Roman Empire could devise. It was reserved for slaves, rebels, and the lowest criminals. Roman citizens were legally exempt; it was beneath their dignity to even witness one. Cicero called it *crudelissimum taeterrimumque supplicium* — "the cruelest and most disgusting punishment" (*In Verrem* 2.5.165).
+
+Victims were stripped naked — every shred of dignity gone. Displayed at eye level so the crowds could mock, spit, and jeer. Left to lose control of their bodies while strangers watched. Death came slowly — hours, sometimes days — and it came publicly.
+
+The cross was Rome's way of saying: *This person is worthless. Less than worthless.*
+
+And for a Jew, it was even worse. Deuteronomy 21:23 says, "a hanged man is cursed by God." To die on a cross was to die under the curse of God Himself.
+
+Paul understood this. In Philippians 2:8, he writes that Jesus "humbled himself by becoming obedient to the point of death, even death on a cross." That phrase — *even death on a cross* — isn't redundant. It's emphasis. Death wasn't enough shame. It was *that* death. The lowest death. The most degrading death a human being could experience.
+
+Hebrews 12:2 tells us Jesus endured the cross, "despising the shame."
+
+He knew exactly what He was walking into. And He walked into it anyway.
+
 Everything visible screams: *This man has lost.*
 
 The religious leaders saw a blasphemer getting what he deserved.

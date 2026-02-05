@@ -27,6 +27,20 @@ And here's Jesus:
 - Hanging naked on a Roman cross
 - Dying
 
+And we need to feel the weight of that cross.
+
+Crucifixion wasn't just painful — it was designed to be the most shameful death imaginable. Rome reserved it for slaves, rebels, and the lowest criminals. Roman citizens were legally exempt; it was beneath their dignity. Cicero called it *crudelissimum taeterrimumque supplicium* — "the cruelest and most disgusting punishment" (*In Verrem* 2.5.165).
+
+Victims were stripped naked. Displayed publicly. Mocked at eye level. Left to lose control of their bodies while crowds jeered.
+
+And for a Jew, it carried an additional curse. Deuteronomy 21:23 says, "a hanged man is cursed by God."
+
+The cross was Rome's way of saying: *This person is nothing. Less than nothing.*
+
+Paul understood this. In Philippians 2:8, he writes that Jesus "humbled himself by becoming obedient to the point of death, even death on a cross." That phrase — *even death on a cross* — isn't redundant. It's emphasis. Death wasn't enough. It was *that* death. The most degrading death possible.
+
+Hebrews 12:2 says Jesus endured the cross, "despising the shame."
+
 **Everything visible screams: this man is not a king.**
 
 And yet the thief says: *"When you come into your kingdom..."*
