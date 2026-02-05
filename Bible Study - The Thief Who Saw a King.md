@@ -72,13 +72,19 @@ Now let's go deeper.
 
 ---
 
-### Layer 2: Total Depravity Reveals — *The Confession Was Impossible*
+### Layer 2: Total Depravity
 
-Both thieves were equally depraved. Same crimes. Same crosses. Same proximity to Jesus. Same opportunity.
+> **The Doctrine:** Because of the fall, every part of us is affected by sin — our minds, our wills, our desires. We don't naturally seek God; we run from Him.
+>
+> **The Scripture:** *"No one understands; no one seeks for God."* — Romans 3:11
+>
+> **The Question:** How does this inform our view of what the thief did?
 
-But "no one seeks for God" (Romans 3:11). No one *naturally* looks at a crucified man and sees a king.
+---
 
-Think about it: what human being, reasoning on their own, would look at that scene and say "that's who I need to follow"?
+Both thieves were equally fallen. Same crimes. Same crosses. Same proximity to Jesus. Same opportunity.
+
+But if no one *naturally* seeks for God — what human being, reasoning on their own, would look at a naked, dying, cursed man and say "that's who I need to follow"?
 
 Every visible fact said the opposite:
 - Naked — not royalty
@@ -95,13 +101,21 @@ They were all reasoning logically. They were all using their eyes. And they all 
 
 But the second thief reached an *impossible* conclusion — one that contradicted everything visible.
 
-**What Total Depravity reveals:** This wasn't better judgment. This was supernatural sight. Human agency alone cannot explain what this man saw.
+**What we see:** This wasn't better judgment. This was supernatural sight. Human agency alone cannot explain what this man saw.
 
-**Discussion:** If human hearts don't seek God on their own, what had to happen for this thief to see what he saw?
+**Discussion:** If fallen humans don't seek God on their own, what had to happen for this thief to see what he saw?
 
 ---
 
-### Layer 3: Unconditional Election Reveals — *The Mystery of Divine Choice*
+### Layer 3: Unconditional Election
+
+> **The Doctrine:** God's choice to save is not based on anything He foresees in us — not our goodness, our faith, or our decisions. He chooses according to His own purpose and mercy.
+>
+> **The Scripture:** *"So then it depends not on human will or exertion, but on God, who has mercy."* — Romans 9:16
+>
+> **The Question:** How does this explain why one thief was saved and not the other?
+
+---
 
 Now a new question emerges: *Why this thief and not the other one?*
 
@@ -115,15 +129,21 @@ Yet one thief went to paradise. The other went to hell.
 
 Why?
 
-Paul answers in Romans 9:16 — "It depends not on human will or exertion, but on God, who has mercy."
-
-**What Unconditional Election reveals:** God chose one. Not because of anything in the thief — not his background, his crimes, his sincerity, or his timing. God simply had mercy on whom He chose to have mercy.
+**What we see:** God chose one. Not because of anything in the thief — not his background, his crimes, his sincerity, or his timing. God simply had mercy on whom He chose to have mercy.
 
 **Discussion:** Does this feel unfair? Why or why not? What does it tell us about the nature of mercy?
 
 ---
 
-### Layer 4: Irresistible Grace Reveals — *How It Happened*
+### Layer 4: Effectual Calling (Irresistible Grace)
+
+> **The Doctrine:** When God calls someone to salvation, that call is effective. The Spirit opens blind eyes and gives new hearts. We don't choose God first — He gives us the ability to see and believe.
+>
+> **The Scripture:** *"No one can come to me unless the Father who sent me draws him."* — John 6:44
+>
+> **The Question:** How did the thief come to faith? What had to happen first?
+
+---
 
 Now we ask: *How did the thief come to faith?*
 
@@ -135,13 +155,21 @@ Something opened his eyes. Something gave him sight he didn't have five minutes 
 
 This is regeneration preceding faith. God didn't wait for the thief to believe and then give him new life. God gave him new eyes — and *then* he believed.
 
-**What Irresistible Grace reveals:** The thief didn't choose Jesus by willpower. God opened blind eyes, and the thief saw what had been invisible to him moments before. Grace came first. Faith followed.
+**What we see:** The thief didn't choose Jesus by willpower. God opened blind eyes, and the thief saw what had been invisible to him moments before. Grace came first. Faith followed.
 
 **Discussion:** Sproul emphasizes that we don't believe and then get regenerated — we get regenerated and then believe. How does this passage illustrate that?
 
 ---
 
-### Layer 5: Particular Redemption Reveals — *The Certainty of the Promise*
+### Layer 5: Definite Atonement (Particular Redemption)
+
+> **The Doctrine:** Christ's death didn't just make salvation *possible* — it actually *secured* salvation for His people. He didn't die to create an opportunity; He died to accomplish redemption.
+>
+> **The Scripture:** *"I lay down my life for the sheep."* — John 10:15
+>
+> **The Question:** When Jesus said "Today you will be with me," was that a hope or a certainty?
+
+---
 
 Listen to what Jesus says: "Today you *will* be with me in paradise."
 
@@ -153,11 +181,19 @@ Not: "If your faith proves genuine."
 
 This is not a wish. This is a verdict. This is a King speaking a decree over His subject.
 
-**What Particular Redemption reveals:** Christ's death actually secured this man's salvation. It wasn't potential — it was actual. Jesus didn't die to make salvation *possible* for the thief; He died to make it *certain*. And in that moment, the certainty was announced.
+**What we see:** Christ's death actually secured this man's salvation. It wasn't potential — it was actual. Jesus didn't die to make salvation *possible* for the thief; He died to make it *certain*. And in that moment, the certainty was announced.
 
 ---
 
-### Layer 6: Perseverance of the Saints Reveals — *The Security of the Verdict*
+### Layer 6: Preservation of the Saints (Perseverance)
+
+> **The Doctrine:** Those whom God saves, He keeps. Our security doesn't depend on our ability to hold on — it depends on God's promise to hold us.
+>
+> **The Scripture:** *"And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ."* — Philippians 1:6
+>
+> **The Question:** The thief had no time to prove his faith. Was his salvation secure anyway?
+
+---
 
 Here's the final layer: the thief had no time to prove anything.
 
@@ -175,7 +211,7 @@ And notice: the thief *couldn't* get baptized. He was nailed to a cross. If bapt
 
 He didn't say that. He said: "Today you will be with me in paradise."
 
-**What Perseverance reveals:** The thief's security didn't depend on his endurance. It depended on Christ's promise. The verdict was final the moment Jesus spoke it — not after the thief proved himself, not after he demonstrated fruit, not after he passed some test. The King spoke, and it was done.
+**What we see:** The thief's security didn't depend on his endurance. It depended on Christ's promise. The verdict was final the moment Jesus spoke it — not after the thief proved himself, not after he demonstrated fruit, not after he passed some test. The King spoke, and it was done.
 
 "There is therefore now no condemnation for those who are in Christ Jesus" (Romans 8:1).
 
