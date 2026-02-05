@@ -135,6 +135,28 @@ He didn't get them from the disciples — they had fled.
 He didn't get them from the religious leaders — they were sneering.
 He didn't get them from the scene itself — there was nothing kingly about it.
 
+Think about this: no human being, reasoning naturally, would look at that scene and say, "That's my King."
+
+Every piece of visible evidence pointed the other direction:
+- Naked — not royalty
+- Mocked — not respected
+- Dying — not powerful
+- Cursed by Jewish law — not blessed
+- Abandoned by his followers — not worth following
+
+The crowd drew the logical conclusion: *This man has lost.*
+The religious leaders drew the logical conclusion: *Fraud exposed.*
+The Roman soldiers drew the logical conclusion: *Another criminal.*
+The first thief drew the logical conclusion: *He can't even save himself.*
+
+Every one of them was using their eyes. Every one of them was reasoning from the evidence. And every one of them reached the same verdict: *failure*.
+
+But the second thief looked at the same scene — the same naked, bleeding, dying man — and said: *"When you come into your kingdom..."*
+
+That's not good judgment. That's not careful reasoning. That's not a wise bet.
+
+That's an *impossible* conclusion — one that contradicted every visible fact.
+
 Something else was happening.
 
 Someone was opening his eyes.

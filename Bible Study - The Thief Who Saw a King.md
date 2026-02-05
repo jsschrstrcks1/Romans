@@ -71,6 +71,25 @@ Both thieves were equally depraved. Same crimes. Same crosses. Same proximity to
 
 But "no one seeks for God" (Romans 3:11). No one *naturally* looks at a crucified man and sees a king.
 
+Think about it: what human being, reasoning on their own, would look at that scene and say "that's who I need to follow"?
+
+Every visible fact said the opposite:
+- Naked — not royalty
+- Mocked — not respected
+- Dying — not powerful
+- Cursed — not blessed
+- Abandoned — not worth following
+
+The crowd saw the evidence and concluded: *failure*.
+The religious leaders saw the evidence and concluded: *fraud*.
+The first thief saw the evidence and concluded: *he can't save himself*.
+
+They were all reasoning logically. They were all using their eyes.
+
+But the second thief reached an *impossible* conclusion — one that contradicted everything visible.
+
+That's not better judgment. That's supernatural sight.
+
 **Discussion:** If human hearts don't seek God on their own, what had to happen for this thief to see what he saw?
 
 **2. Unconditional Election**
