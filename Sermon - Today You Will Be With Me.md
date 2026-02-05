@@ -242,6 +242,24 @@ The thief contributed nothing.
 - No church membership
 - No time to prove his faith was real
 
+And that word *baptism* matters.
+
+Some will tell you that you cannot be saved without being baptized first. That faith alone isn't enough. That you must add water to the equation before God will accept you.
+
+But the thief couldn't get baptized. He was nailed to a cross. He couldn't walk to a river. He couldn't find a minister. He couldn't do *anything* except hang there and believe.
+
+And Jesus didn't say: "I wish I could save you, but you haven't been baptized."
+He didn't say: "Your faith is real, but my hands are tied."
+He didn't add conditions or requirements or rituals.
+
+He said: *Today. With me. Paradise.*
+
+If baptism were necessary for salvation, the thief would have been lost. And Jesus would have had to tell him so.
+
+He didn't.
+
+This doesn't make baptism unimportant — it's the first act of obedience for every believer, and we should pursue it gladly. But baptism is not the door. Faith is. The thief proves it.
+
 He had nothing but a cry for mercy and eyes that saw a King.
 
 And Jesus said: *Enough. Today. With me. Paradise.*

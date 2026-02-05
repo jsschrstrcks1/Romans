@@ -99,13 +99,22 @@ This is regeneration preceding faith. God gave him eyes to see — and then he s
 
 Jesus doesn't say: "We'll see how you do."
 Jesus doesn't say: "If you had more time, you'd need to prove it."
+Jesus doesn't say: "If only you could get baptized first."
 Jesus says: "Today. With me. Paradise."
 
-No delay. No probation. No conditions.
+No delay. No probation. No conditions. No ritual requirements.
+
+And notice: the thief *couldn't* get baptized. He was nailed to a cross. He couldn't go anywhere or do anything. If baptism were necessary for salvation, Jesus would have had to say, "I'm sorry — you believe, but there's nothing I can do for you."
+
+He didn't say that.
+
+He said: "Today you will be with me in paradise."
+
+This doesn't mean baptism is unimportant — it's the first act of obedience for a believer, and we should pursue it. But it is not *the* door to salvation. Faith is. The thief proves it.
 
 "There is therefore now no condemnation for those who are in Christ Jesus" (Romans 8:1).
 
-The thief heard that verdict before Paul ever wrote it down.
+The thief heard that verdict before Paul ever wrote it down — and before he ever touched water.
 
 ---
 
