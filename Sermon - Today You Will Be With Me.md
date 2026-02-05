@@ -30,9 +30,9 @@ Where did that come from?
 
 Before we go further, let's pause to pray for a people who have never heard what we're about to study.
 
-**The Shaikh of Bangladesh** — over 130 million people. Sunni Muslim. Historically the ruling and landholding class of Bengal. Zero known believers. Zero churches. No Bible in their heart dialect.
+**The Shaikh of Bangladesh** — over 135 million people. Muslim. Historically the ruling and landholding class of Bengal. A frontier unreached group — fewer than 0.1% Christian of any kind. No self-sustaining gospel movement.
 
-130 million people who have never heard the words: *"Today you will be with me in paradise."*
+135 million people who have never heard the words: *"Today you will be with me in paradise."*
 
 Would you pray with me?
 
