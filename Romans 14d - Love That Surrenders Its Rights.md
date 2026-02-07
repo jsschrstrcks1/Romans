@@ -6,13 +6,27 @@
 
 ---
 
-## Opening: The Cost of Love
+## Opening: Walking in the Light Without Wounding One Another
 
 We are still walking in daylight.
 
-And we've learned something in these final chapters of Romans: daylight doesn't make everything easier. It makes everything clearer — including the cost of loving one another.
+And Romans has been teaching us something important about the light: the light doesn't just reveal God more clearly — it reveals us.
 
-Over the past few weeks in Romans 14, Paul has shown us:
+Daylight exposes motives. It exposes instincts. It exposes the ways we respond when we're convinced we're right.
+
+But here's something we don't often think about: not all light is meant to be used the same way.
+
+There's living-room light. Warm light. Light meant for presence, conversation, and fellowship.
+
+And then there's operating-room light. Bright. Focused. Exposing. Light meant for cutting, precision, and correction.
+
+Both kinds of light are good. Both are necessary.
+
+But if you use operating-room light in the wrong setting, you don't heal — you wound.
+
+Romans 14 is not about turning the lights off. It's about learning how to live in the light without blinding one another.
+
+Over the past few weeks, Paul has shown us:
 
 - **Verses 1-4**: Welcome those whom God has received. You are not the Master.
 - **Verses 5-9**: Live and die under one Lord. You belong to Christ.
@@ -23,6 +37,26 @@ Now Paul brings it all to a point. The question is no longer theoretical. It's p
 The question is this: *What are you willing to give up for the sake of your brother?*
 
 If you've brought your Bible, open with me to Romans 14:13-23.
+
+---
+
+## The Frame: Why This Text Will Hit Close to Home
+
+Before we go any further, we need to be honest about something.
+
+This passage is not written to unbelievers. It's not written to people who don't care about holiness.
+
+Romans 14 is written to sincere Christians. People who love Christ. People who know Scripture. People who are acting from conviction.
+
+Which means this chapter doesn't mainly confront obvious immaturity. It confronts something far more subtle: *confidence without love*.
+
+Some of you are strong in faith — and you really are. Some of you have tender consciences — and you know it. But many of us live in the middle: informed, convinced, sincere — and unaware of the effect we're having on others.
+
+Paul is not asking you to dim the truth. He is asking whether the way you shine it reflects the heart of Christ.
+
+Because Christ did not merely speak truth — He knew how and when to speak it.
+
+So this passage is going to ask us a hard question: *Are we using the light to heal — or to prove something?*
 
 ---
 
