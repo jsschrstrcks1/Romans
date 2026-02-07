@@ -8,29 +8,88 @@
 
 ---
 
+## Biblical Foundation
+
+This policy is not a business decision with Bible verses attached. It is a biblical conviction with practical structure built around it. The Scriptures below are the foundation. Everything that follows — every rule, every limit, every process — is an attempt to be faithful to what God has already said.
+
+### We are commanded to meet physical needs, not just offer words.
+
+> *"If a brother or sister is poorly clothed and lacking in daily food, and one of you says to them, 'Go in peace, be warmed and filled,' without giving them the things needed for the body, what good is that?"*
+> — James 2:15-16 (ESV)
+
+> *"For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me."*
+> — Matthew 25:35-36 (ESV)
+
+James does not allow us to spiritualize away physical need. If a brother is cold, a prayer without a blanket is not faith — it is negligence. And Christ himself identifies with the hungry, the stranger, the exposed. When one of our own is in a tent in the woods on a freezing night, Jesus says: *that is Me.* The church that says "be warm" without acting has denied the faith it claims to hold.
+
+This is the non-negotiable starting point. We *will* help. The question is never *whether* but *how* — and how to sustain it.
+
+### Our first obligation is to the household of faith.
+
+> *"So then, as we have opportunity, let us do good to everyone, and especially to those who are of the household of faith."*
+> — Galatians 6:10 (ESV)
+
+Paul does not say *only* the household of faith. But he does say *especially*. The church's limited resources are first directed toward its own members — those who have covenanted together, who are known, who are being shepherded. This is not exclusion. It is the order of love. A father feeds his own children before he feeds the neighborhood — not because the neighbors don't matter, but because the children are his responsibility.
+
+This is why membership (or at minimum, regular and faithful attendance) is an eligibility requirement. Commitment activates commitment.
+
+### Prudence sees danger and acts before it arrives.
+
+> *"The prudent sees danger and hides himself, but the simple go on and suffer for it."*
+> — Proverbs 27:12 (ESV)
+
+The weather forecast is not a surprise. When the temperature drops to freezing or a hurricane is bearing down, the prudent church does not wait for someone to suffer — it has a plan already in place. This policy exists so that when danger is visible, the church already knows what to do. We are not reacting in panic. We are acting in wisdom.
+
+### Stewardship requires counting the cost.
+
+> *"For which of you, desiring to build a tower, does not first sit down and count the cost, whether he has enough to complete it?"*
+> — Luke 14:28 (ESV)
+
+Love without limits is not biblical love — it is sentimentality. Jesus himself told people to count the cost. A church that commits resources it does not have is not generous — it is foolish, and it will eventually have nothing left to give anyone. Setting limits on nights, dollars, and annual spending is not a failure of compassion. It is the discipline that ensures compassion can continue.
+
+We are a small church. We are living off the fat years in our thin years. That means every dollar must be spent carefully — not reluctantly, but wisely.
+
+### Family and personal responsibility come before the church treasury.
+
+> *"But if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith and is worse than an unbeliever."*
+> — 1 Timothy 5:8 (ESV)
+
+Paul's instructions to Timothy about caring for widows establish a clear order: family first, then the church. The church is not the first line of financial support — family is. When someone has family members who are able to help, the church should encourage that responsibility rather than replace it. The church steps in when family cannot or will not.
+
+This passage also reminds us that structured, conditional care is not unloving. Paul told Timothy to keep a list, to verify need, to set criteria. He was not being cold. He was being faithful with the church's resources so that those who were truly destitute would not be overlooked.
+
+### Those who are able must be willing to help themselves.
+
+> *"For even when we were with you, we would give you this command: If anyone is not willing to work, let him not eat."*
+> — 2 Thessalonians 3:10 (ESV)
+
+This verse is easily abused if ripped from its context. Paul is not talking about the disabled, the elderly, or those who cannot work. He is talking about those who *will not* — people who are capable but idle, expecting the church to carry them indefinitely.
+
+Applied to this policy: the church walks with people who are actively pursuing stability — filling out applications, getting on waitlists, engaging with community resources, working within whatever capacity their health allows. The church does not carry people who refuse to take a single step. A disabled person on a fixed income who cannot work is not violating this principle. A person who will not fill out a single housing application is a different situation entirely.
+
+This distinction requires pastoral wisdom, not a checklist. Leadership must know their people well enough to tell the difference.
+
+---
+
 ## Guiding Principles
 
-These principles govern every decision made under this policy. When a situation falls outside the specific rules below, these principles guide the leadership's judgment.
+These principles are drawn from the Scriptures above and govern every decision made under this policy. When a situation falls outside the specific rules below, these principles guide the leadership's judgment.
 
 ### 1. The most important need is always spiritual.
 
-A hotel room keeps someone alive through a dangerous night. The gospel keeps them for eternity. We do not separate physical care from spiritual care. Every act of benevolence is an extension of the church's mission to make disciples, not a substitute for it.
-
-We are not a social services agency. We are a church. We serve the physical needs of our people *because* we love them in Christ — and that same love compels us to care for their souls first.
+A hotel room keeps someone alive through a dangerous night. The gospel keeps them for eternity. We do not separate physical care from spiritual care. Every act of benevolence is an extension of the church's mission to make disciples, not a substitute for it. We are not a social services agency. We are a church.
 
 ### 2. Direct giving is the exception, not the rule, and is limited to emergencies.
 
-Hotel assistance is emergency intervention, not ongoing housing support. The church does not have the resources to function as a long-term housing provider, nor is that our calling. This policy exists for nights when staying outside could cost someone their life — not for nights when staying outside is merely uncomfortable.
+Hotel assistance is emergency intervention, not ongoing housing support. This policy exists for nights when staying outside could cost someone their life — not for nights when staying outside is merely uncomfortable.
 
 ### 3. We best steward our resources by coming alongside those who are willing to help themselves.
 
-We are most faithful with the congregation's money when we invest it in people who are actively working toward stability — applying for housing assistance, engaging with community resources, pursuing whatever work their abilities allow. The church walks *with* people. We do not carry people who refuse to walk.
-
-This is not cold. This is love. A parent who does everything for a capable child cripples them. A church that removes all consequences and all responsibility from a capable person does the same.
+The church walks *with* people. We do not carry people who refuse to walk. This is not cold. This is love. A church that removes all consequences and all responsibility from a capable person cripples them.
 
 ### 4. Commitment works both ways.
 
-Membership — or at minimum, regular and faithful attendance — demonstrates that a person has committed to this body. That commitment is what activates the body's commitment to them. We cannot responsibly extend this level of care to people we do not know well enough to shepherd.
+Membership or regular attendance demonstrates commitment to this body. That commitment is what activates the body's commitment to them.
 
 ### 5. This work requires grace and flexibility.
 
@@ -152,8 +211,6 @@ A hotel night keeps someone alive. It does not solve homelessness. The church's 
 
 4. **Encourage and track engagement.** The church is most faithful with its resources when those resources support people who are actively pursuing stability. If someone is on the HUD waitlist, applying for benefits, or working within their ability — the church walks with them. If someone consistently refuses to take any steps toward their own stability, leadership must have an honest conversation about what continued assistance looks like.
 
-   This is not a punitive measure. It is the same principle as 2 Thessalonians 3:10 — applied with pastoral wisdom and awareness of genuine disability and limitation. A disabled person on a fixed income who cannot work is not refusing to help themselves. A person who will not fill out a single application is a different situation.
-
 ---
 
 ## Alternatives to Consider
@@ -217,11 +274,3 @@ When the night is freezing and one of our own is in a tent in the woods, we do n
 And when the resources run thin, this policy gives us the honesty to say: "We've given what we had. Let us help you find what else is available. And let us pray."
 
 We are a small church. We cannot do everything. But what we can do, we will do faithfully, with open hands and clear eyes, for the glory of God and the good of His people.
-
----
-
-*"If a brother or sister is poorly clothed and lacking in daily food, and one of you says to them, 'Go in peace, be warmed and filled,' without giving them the things needed for the body, what good is that?"*
-— James 2:15-16 (ESV)
-
-*"So then, as we have opportunity, let us do good to everyone, and especially to those who are of the household of faith."*
-— Galatians 6:10 (ESV)
