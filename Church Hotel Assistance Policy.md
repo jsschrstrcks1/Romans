@@ -88,6 +88,14 @@ If a severe storm trigger occurs in the same month as cold weather nights, storm
 
 Each hotel night should not exceed **$[amount]** per night. Leadership should identify and maintain a relationship with one or two budget-friendly, safe hotels in the area for this purpose. Negotiating a church rate, if possible, is good stewardship.
 
+### Payment Method and Liability Protection
+
+**The church pays for the room but does not secure the room.** The church may pay the hotel directly for the cost of the night's stay, but the church's credit card or account is **not** to be used as the card on file to secure the room. The individual is responsible for securing the room with their own identification and any required deposit or hold.
+
+This protects the church from liability for damages to the room, incidental charges, or any other costs beyond the agreed nightly rate. The church's financial responsibility begins and ends with the approved nightly room cost — nothing more.
+
+If the individual does not have a card or ID to secure the room, leadership should work with the hotel to find an arrangement, but the church does not assume liability for the room itself.
+
 ### Annual Cap
 
 Total benevolence spending on hotel assistance should not exceed **$[amount] per fiscal year** across all recipients. When this cap is approached, leadership must evaluate whether funds remain and adjust accordingly.
@@ -195,6 +203,7 @@ This policy should be reviewed **at least once per year** by the leadership body
 | **Max cost/night** | $[amount] | $[amount] |
 | **Annual fund cap** | $[amount] | Drawn from same fund |
 | **Decision** | Leadership consensus (single leader may approve with notification for time-sensitive cold) | Leadership consensus |
+| **Church secures room?** | No — individual secures room; church pays nightly rate only | No — individual secures room; church pays nightly rate only |
 | **Public shelter first?** | No (not typically available for cold) | Yes — if open and accessible |
 
 ---
