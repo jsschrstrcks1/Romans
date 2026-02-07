@@ -69,6 +69,16 @@ Applied to this policy: the church walks with people who are actively pursuing s
 
 This distinction requires pastoral wisdom, not a checklist. Leadership must know their people well enough to tell the difference.
 
+### Love that surrenders its rights sets the posture for how we serve.
+
+> *"By what you eat, do not destroy the one for whom Christ died."*
+> — Romans 14:15b (ESV)
+
+> *"So then let us pursue what makes for peace and for mutual upbuilding."*
+> — Romans 14:19 (ESV)
+
+Paul's instruction in Romans 14 is not about food — it is about the cost of love within the body. The strong are called to surrender their preferences for the sake of the weak. This same principle governs how we administer emergency care: not grudgingly, not with condescension, but with the posture of those who have themselves been loved at infinite cost. The question is never whether to help — it is whether we will do so in a way that builds up or tears down. A policy without this posture is just a rulebook. A policy with this posture is an expression of the kingdom: righteousness, peace, and joy in the Holy Spirit.
+
 ---
 
 ## Guiding Principles
@@ -273,3 +283,70 @@ When the night is freezing and one of our own is in a tent in the woods, we do n
 And when the resources run thin, this policy gives us the honesty to say: "We've given what we had. Let us help you find what else is available. And let us pray."
 
 We are a small church. We cannot do everything. But what we can do, we will do faithfully, with open hands and clear eyes, for the glory of God and the good of His people.
+
+---
+
+## Appendix: Local Community Resources (Pasco County Area)
+
+This is the community resource list referenced in the "Beyond the Hotel Night" section. It should be reviewed at least annually for accuracy. Hours and availability may change — verify before sending someone.
+
+### New Port Richey (NPR)
+
+| Organization | Address | Phone | Days/Hours |
+|---|---|---|---|
+| The Encounter Church | 7425 Orchid Lake Rd., NPR | 727-264-7778 | Tues 1 PM |
+| Seventh Day Adventist Church | 6424 Trouble Creek Rd., NPR | 727-849-4567 | Wed 11:00 - 1:00 |
+| Community Congregational Church | 6533 Circle Blvd., NPR | 727-848-1943 | Lunch for homeless: Mon, Wed, Fri 11:00 - 12:00 |
+| Moon Lake Christian Fellowship | 10936 Moon Lake Rd., NPR | 727-437-2941 | Sat 9:00 - 12:00 |
+| St. Thomas Aquinas Church | 8320 Old CR 54, NPR | 727-372-8600 | Mon & Thurs 9:30 - 11:00 & 1:30 - 3:00 |
+| Faith Lutheran Church | 5443 Sunset Rd., NPR | 727-849-4418 | Wed, Fri 9:00 - 11:30 |
+| Calvary Chapel - Helping Hands | 6825 Trouble Creek, NPR | 727-376-7733 | Mon - Fri 10:00 - 1:00 |
+| Refuge Church | 5320 Palmetto R, NPR | 727-836-2762 | Sat 8:00 - 10:00 |
+| Our Lady Queen of Peace | 5320 Shaw St., NPR | 727-845-4955 | Mon & Fri 10:00 - 12:00 / Tues & Thurs 12:00 - 2:00 |
+| First Assembly of God | 6310 Trouble Creek Rd., NPR | 727-849-4407 | Sat 9:00 - 11:00 |
+
+### Port Richey (PR)
+
+| Organization | Address | Phone | Days/Hours |
+|---|---|---|---|
+| St. James Catholic Church | 8400 Monarch Dr, PR | 727-862-6580 | Every Monday 9:00 - 12:00 |
+| Volunteer Way | 8061 Congress St., PR | 727-815-5744 | Mon - Fri 8:30 - 12:00 |
+| King of Kings Lutheran Church | 10337 U.S. 19, PR | 727-868-5744 | 2nd Thurs every month 3:00 - 4:30 |
+| Salvation Army - Center of Hope | 7745 Ridge Rd., PR | 727-815-8539 | Mon, Wed, Fri 9:00 - 12:00 |
+| Gulfview Grace Church | 6539 Hammock Rd., PR | 727-862-7777 | Fri 8:00 - 11:00 |
+| West Pasco Meals on Wheels | 8600 Galen Wilson Blvd., PR | 727-834-3340 | Mon - Fri 8:00 - 1:00 |
+
+### Hudson
+
+| Organization | Address | Phone | Days/Hours |
+|---|---|---|---|
+| Faith United Methodist Church | 12128 S.R. 52, Hudson | 727-834-5000 | Thurs 10:00 - 1:00 |
+| Hick Road Baptist Church | 12219 Hicks Rd., Hudson | 727-856-5959 | Tues & Thurs 10:00 - 12:45 |
+| First Baptist Church of Hudson | 7009 Hudson Ave., Hudson | 727-863-5885 | Wed 9:00 - 12:00 |
+
+### Holiday
+
+| Organization | Address | Phone | Days/Hours |
+|---|---|---|---|
+| St. Vincent De Paul Catholic Church | 13123 US 19, Holiday | 727-378-5885 | Wed 9:00 - 12:00 (arrive early) |
+| First United Methodist Church | 4843 Mile Stretch Dr., Holiday | 727-868-6178 | Wed 1:00 - 3:00 |
+| Metropolitan Ministries | 3216 U.S. 19, Holiday | 727-992-0541 | Thurs 9:00 - 5:00 |
+
+### Dade City (DC)
+
+| Organization | Address | Phone | Days/Hours |
+|---|---|---|---|
+| Food Pantry at Emmanuel Min | 12639 Candlewood Circle, DC | 727-937-3268 | Mon - Fri 9:00 - 5:00 |
+| Day Star Hope Center | 15512 US 301, DC | 813-713-0305 | Thurs 10:00 - 11:00 |
+| Farmworkers Self-Help Center | Lock St., DC | 352-523-0844 | Tues & Thurs 9:00 - 12:00 |
+| Christian Social Services | 372 Lock St., DC | 352-567-1432 | Fri 9:00 - 11:00 |
+
+### Land O'Lakes / Zephyrhills
+
+| Organization | Address | Phone | Days/Hours |
+|---|---|---|---|
+| Our Lady of the Rosary | 5514 Land O Lakes Blvd., LOL | 813-995-0088 | Tues & Sat 10:00 - 3:00 |
+| Neighborhood Care Center | 2348 Collier Parkway | 813-949-6094 | Thurs & Fri 10:00 - 11:30 |
+| *(Zephyrhills location)* | 5140 6th St., Zephyrhills | 813-780-6822 | Mon, Wed, Fri 9:00 - 12:00 |
+
+*Last updated: February 2026. Verify hours before directing someone to any resource.*
