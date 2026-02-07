@@ -24,7 +24,7 @@ James does not allow us to spiritualize away physical need. If a brother is cold
 
 This is the non-negotiable starting point. We *will* help. The question is never *whether* but *how* — and how to sustain it.
 
-### Our first obligation is to the household of faith.
+### Our first obligation is to the chuch family.
 
 > *"So then, as we have opportunity, let us do good to everyone, and especially to those who are of the household of faith."*
 > — Galatians 6:10 (ESV)
@@ -45,7 +45,7 @@ The weather forecast is not a surprise. When the temperature drops to freezing o
 > *"For which of you, desiring to build a tower, does not first sit down and count the cost, whether he has enough to complete it?"*
 > — Luke 14:28 (ESV)
 
-Love without limits is not biblical love — it is sentimentality. Jesus himself told people to count the cost. A church that commits resources it does not have is not generous — it is foolish, and it will eventually have nothing left to give anyone. Setting limits on nights, dollars, and annual spending is not a failure of compassion. It is the discipline that ensures compassion can continue.
+Love without limits is not biblical love — it is sentimentality. Jesus himself told people to count the cost. A church that commits resources it does not have is not generous — it is foolish, and it will eventually have nothing left to give anyone. Setting limits on nights, and dollars, is not a failure of compassion. It is the discipline that ensures compassion can continue.
 
 We are a small church. We are living off the fat years in our thin years. That means every dollar must be spent carefully — not reluctantly, but wisely.
 
@@ -73,7 +73,7 @@ This distinction requires pastoral wisdom, not a checklist. Leadership must know
 
 ## Guiding Principles
 
-These principles are drawn from the Scriptures above and govern every decision made under this policy. When a situation falls outside the specific rules below, these principles guide the leadership's judgment.
+These principles are drawn from the Scriptures above and govern every decision made under this policy. When a situation falls outside the specific rules below, these principles guide the leadership's judgment. This is a larger group than just the pastor, the majority of the board should be in agreement.
 
 ### 1. The most important need is always spiritual.
 
@@ -93,7 +93,7 @@ Membership or regular attendance demonstrates commitment to this body. That comm
 
 ### 5. This work requires grace and flexibility.
 
-No policy covers every situation. People are messy. Emergencies don't always fit neat categories. Leadership must exercise wisdom, and the church must extend grace — both to those being served and to those making difficult decisions on the church's behalf.
+No policy covers every situation. People are messy. Emergencies don't always fit neat categories. Leadership must exercise wisdom, and the church must extend grace — both to those being served and to those making difficult decisions on the church's behalf. This allows the board flexibility in applying these principles.
 
 ---
 
@@ -107,7 +107,7 @@ A person may receive emergency hotel assistance if **all** of the following are 
 
 3. **They have requested the assistance.** The church does not proactively offer hotel nights. The individual must ask. This preserves dignity and ensures the person recognizes the gift for what it is.
 
-4. **An emergency weather trigger has been met** (see below).
+4. **An emergency trigger has been met** (see below).
 
 ---
 
@@ -131,7 +131,7 @@ Hotel assistance is activated when a qualifying weather condition creates immedi
 
 **Rationale**: The danger is the storm itself — wind, flooding, storm surge, flying debris. For someone who is already homeless, the aftermath does not materially change their baseline living conditions. The hotel is for surviving the storm, not for recovery from it.
 
-**Note**: If county or municipal emergency shelters are open and accessible, those should be used first. A hotel is provided when public shelters are full, inaccessible, or the individual cannot safely reach one.
+**Note**: If county or municipal emergency shelters are open and accessible, those should be used first. A hotel is provided when public shelters are full, inaccessible, or the individual cannot safely reach one. We acknowledge single women are at additional risk by being put in congregate shelters, and if there is not a womens shelter available, if funds permit, and if the board agrees such a person can be put in the hotel in accordance with the rest of this document.
 
 ---
 
@@ -141,7 +141,7 @@ Hotel assistance is activated when a qualifying weather condition creates immedi
 
 **No more than 2 nights per person per calendar month** under normal (cold weather) circumstances.
 
-If a severe storm trigger occurs in the same month as cold weather nights, storm nights are counted separately — but the combined total should not exceed **4 nights per person per calendar month** except by unanimous leadership approval.
+If a severe storm trigger occurs in the same month as cold weather nights, or if multiple hurricanes occur, storm nights are counted separately — but the combined total should not exceed **4 nights per person per calendar month** except by unanimous leadership approval.
 
 ### Dollar Cap
 
@@ -149,7 +149,7 @@ Each hotel night should not exceed **$[amount]** per night. Leadership should id
 
 ### Payment Method and Liability Protection
 
-**The church pays for the room but does not secure the room.** The church may pay the hotel directly for the cost of the night's stay, but the church's credit card or account is **not** to be used as the card on file to secure the room. The individual is responsible for securing the room with their own identification and any required deposit or hold.
+**The church pays for the room but does not secure the room.** The church may pay the hotel directly for the cost of the night's stay, but the church's credit card or account is **not** to be used as the card on file to secure the room except by unanimous board consent. The individual is responsible for securing the room with their own identification and any required deposit or hold.
 
 This protects the church from liability for damages to the room, incidental charges, or any other costs beyond the agreed nightly rate. The church's financial responsibility begins and ends with the approved nightly room cost — nothing more.
 
@@ -178,11 +178,11 @@ Total benevolence spending on hotel assistance should not exceed **$[amount] per
 1. When a hurricane or tropical storm warning is issued, leadership proactively identifies who among our members may need shelter.
 2. Contact is made to offer assistance (this is the one exception to "they must ask" — in a hurricane, shepherds go find their sheep).
 3. Leadership approves hotel placement for the duration of the warning period.
-4. If public emergency shelters are available and accessible, those are used first.
+4. If public emergency shelters are available and accessible, those are used first, where appropriate.
 
 ### Consensus Requirement
 
-All approvals require **leadership consensus**, meaning the body of elders, deacons, or designated benevolence team agrees the request meets the policy. For time-sensitive cold weather requests, a single leader may approve with notification to the group, but this should be the exception.
+All approvals require **leadership consensus**, meaning the board or any body it designates agrees the request meets the policy. For time-sensitive cold weather requests, a single leader may approve with notification to the group, but this should be the exception.
 
 No single leader — including the pastor — should bear this decision alone. The policy exists so that the weight is shared and the decision is not personal.
 
@@ -194,7 +194,7 @@ A hotel night keeps someone alive. It does not solve homelessness. The church's 
 
 ### For Each Person Receiving Assistance, Leadership Should:
 
-1. **Understand their full situation.** What is their monthly income? What are their basic expenses? What disability or limitation affects their ability to work or secure housing? This is not an interrogation — it is pastoral care. You cannot help someone you do not know.
+1. **Understand their full situation.** What is their monthly income? What are their basic expenses? What disability or limitation affects their ability to work or secure housing? This is not an interrogation or investigation — it is pastoral care. You cannot help someone you do not know. We should have enough idea from moving with them through life to answer these questions. 
 
 2. **Know what community resources exist and help them access those resources.** The church is not the only source of help, and it should not try to be. Identify local resources such as:
    - HUD / Section 8 housing (apply even if the waitlist is long — get in line)
@@ -205,9 +205,9 @@ A hotel night keeps someone alive. It does not solve homelessness. The church's 
    - Legal aid for housing or benefits issues
    - Recovery and transitional housing programs (if applicable)
 
-   **Go with them.** Do not hand someone a phone number and say "call this." Drive them to the office. Sit in the waiting room. Help them fill out the paperwork. This is what the body of Christ looks like.
+   **Go with them.** Do not hand someone a phone number and say "call this." If they dont have a car, drive them to the office. Sit in the waiting room. Help those who need it, tom fill out the paperwork. This is what the body of Christ looks like.
 
-3. **Maintain a community resource list.** Compile and periodically update a list of local services available in your area. This list should be a living document, reviewed at least annually for accuracy.
+3. **Maintain a community resource list.** Compile and periodically update a list of local services available in our area. This list should be a living document, reviewed at least annually for accuracy.
 
 4. **Encourage and track engagement.** The church is most faithful with its resources when those resources support people who are actively pursuing stability. If someone is on the HUD waitlist, applying for benefits, or working within their ability — the church walks with them. If someone consistently refuses to take any steps toward their own stability, leadership must have an honest conversation about what continued assistance looks like.
 
@@ -226,11 +226,10 @@ Before or alongside hotel nights, leadership should consider whether other inter
 
 ## Fund Management
 
-- Hotel assistance is funded through the church's benevolence fund (or a designated line item within the general budget).
-- The fund is overseen by the leadership body, not by the pastor alone.
-- Spending is tracked and reported to leadership regularly.
-- When the fund is depleted or near depletion, leadership communicates this honestly and pauses hotel approvals until funds are replenished.
-- The annual budget process should include a realistic allocation for this line item based on the prior year's usage and the church's financial capacity.
+- Hotel assistance is funded through the church's benevolence).
+- The fund is overseen by the board, not by the pastor alone.
+- Spending is tracked and reported to the congregation at quarterly business meetings.
+- When tresources are depleted or near depletion, leadership communicates this honestly and pauses hotel approvals until funds are replenished.
 
 ---
 
