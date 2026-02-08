@@ -90,9 +90,11 @@ Everything before it answered the question: *Who has the right to judge?* Answer
 
 Everything after it answers a different question: *How should I use my freedom?* Answer: In love.
 
-Paul has spent twelve verses establishing that you are not the judge and you are not the master. Now he turns to what you *are*: a servant. A brother. One who has been loved at infinite cost — and who is now called to love at personal cost.
+Paul has spent twelve verses establishing that you are not the judge and you are not the master. Now he tells us who we really are.
 
-This is where Romans 14 gets uncomfortable. Because up to now, you could nod along. *Yes, God is the judge. Yes, we belong to Christ. Yes, every knee will bow.* Amen and amen.
+You are not the master. You are not the judge. You are a servant. A brother. One who has been loved at infinite cost — and who is now called to love at personal cost.
+
+This is where Romans 14 stops being agreeable and starts being dangerous. Because up to now, you could nod along. *Yes, God is the judge. Yes, we belong to Christ. Yes, every knee will bow.* Amen and amen.
 
 But now Paul says: *So what are you going to do about it?*
 
@@ -115,6 +117,8 @@ That's a different kind of self-examination. That's not navel-gazing. That's lov
 A stumbling block — *proskomma* — is something that causes someone to trip and fall. It's not a disagreement. It's not a difference of opinion. It's an obstacle in the path of a brother that could cause him to sin against his own conscience.
 
 And Paul says: make it your mission — *decide* — to never be that obstacle.
+
+Strong faith does not mean flooding every room with operating-room light. It means knowing when the room needs warmth instead of exposure.
 
 ---
 
@@ -143,6 +147,8 @@ Christ gave His life for that brother. And you won't give up a meal?
 Christ went to the cross for the weak brother whose conscience is troubled. And you can't set aside your freedom for an evening?
 
 Paul is saying: the cost of your liberty is measured against the cost of the cross. And the cross always wins.
+
+The problem is not the light. The problem is shining surgical light on a wound you were never meant to operate on.
 
 Paul told the Corinthians the same thing:
 
@@ -176,6 +182,8 @@ The kingdom of God is:
 
 This is what the kingdom looks like. Not a food fight. Not a calendar war. Not an argument about who's more spiritual.
 
+This is living-room light. Light that makes it safe to stay in the room. Light that allows growth instead of retreat.
+
 Righteousness. Peace. Joy.
 
 If your exercise of liberty produces none of these — if it produces division, bitterness, and resentment instead — then you're not building the kingdom. You're tearing it down.
@@ -201,6 +209,8 @@ You pursue it. You chase it. You make it your aim.
 > "Do not, for the sake of food, destroy the work of God."
 
 *Destroy the work of God.* Think about that phrase.
+
+No one plans to destroy the work of God. It happens slowly. One careless comment. One unrestrained opinion. One moment of "I'm free in Christ" while someone else quietly pulls back.
 
 God is building something in your brother's life. He's growing faith, deepening trust, producing holiness. And you — with your insistence on exercising your freedom at his expense — could tear that down.
 
@@ -301,13 +311,21 @@ If not, it's not kingdom work. Set it down. Pursue what makes for peace and mutu
 
 ---
 
-## Closing: The Freedom That Looks Like Surrender
+## Closing: The Light That Heals
 
 We are still walking in daylight.
 
 And in the light, love looks different than we expected.
 
 We expected freedom to mean doing whatever we want. Paul says freedom means being free enough to surrender what we want — for the sake of someone else.
+
+Jesus is the light of the world. The brightest light in the universe. And yet Isaiah prophesied of Him:
+
+> "a bruised reed he will not break, and a faintly burning wick he will not quench; he will faithfully bring forth justice." (Isaiah 42:3)
+
+Matthew tells us Jesus fulfilled that word (Matthew 12:20). The brightest light in the universe knelt down, spoke gently, and healed patiently. He did not flood bruised reeds with exposure. He did not extinguish faintly burning wicks with the full blaze of His glory.
+
+He knew when to confront — and when to cover. When to expose — and when to restore.
 
 Christ had every right. He was Lord of heaven. He was owed worship by every creature. And He surrendered those rights — not grudgingly, not resentfully, but willingly — for you.
 

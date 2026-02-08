@@ -1,4 +1,4 @@
-# Church Emergency Shelter Assistance Policy
+**Church Emergency Shelter Assistance Policy**
 
 **Purpose**: To establish a clear, consistent, and compassionate framework for providing emergency hotel shelter to members of our church who are homeless or in unstable housing — so that decisions are guided by policy rather than pressure, and our limited resources are stewarded faithfully.
 
@@ -8,11 +8,11 @@
 
 ---
 
-## Biblical Foundation
+**Biblical Foundation**
 
 This policy is not a business decision with Bible verses attached. It is a biblical conviction with practical structure built around it. The Scriptures below are the foundation. Everything that follows — every rule, every limit, every process — is an attempt to be faithful to what God has already said.
 
-### We are commanded to meet physical needs, not just offer words.
+**We are commanded to meet physical needs, not just offer words.**
 
 > *"If a brother or sister is poorly clothed and lacking in daily food, and one of you says to them, 'Go in peace, be warmed and filled,' without giving them the things needed for the body, what good is that?"*
 > — James 2:15-16 (ESV)
@@ -24,7 +24,7 @@ James does not allow us to spiritualize away physical need. If a brother is cold
 
 This is the non-negotiable starting point. We *will* help. The question is never *whether* but *how* — and how to sustain it.
 
-### Our first obligation is to the chuch family.
+**Our first obligation is to the church family.**
 
 > *"So then, as we have opportunity, let us do good to everyone, and especially to those who are of the household of faith."*
 > — Galatians 6:10 (ESV)
@@ -33,14 +33,14 @@ Paul does not say *only* the household of faith. But he does say *especially*. T
 
 This is why membership (or at minimum, regular and faithful attendance) is an eligibility requirement. Commitment activates commitment.
 
-### Prudence sees danger and acts before it arrives.
+**Prudence sees danger and acts before it arrives.**
 
 > *"The prudent sees danger and hides himself, but the simple go on and suffer for it."*
 > — Proverbs 27:12 (ESV)
 
 The weather forecast is not a surprise. When the temperature drops to freezing or a hurricane is bearing down, the prudent church does not wait for someone to suffer — it has a plan already in place. This policy exists so that when danger is visible, the church already knows what to do. We are not reacting in panic. We are acting in wisdom.
 
-### Stewardship requires counting the cost.
+**Stewardship requires counting the cost.**
 
 > *"For which of you, desiring to build a tower, does not first sit down and count the cost, whether he has enough to complete it?"*
 > — Luke 14:28 (ESV)
@@ -49,7 +49,7 @@ Love without limits is not biblical love — it is sentimentality. Jesus himself
 
 We are a small church. We are living off the fat years in our thin years. That means every dollar must be spent carefully — not reluctantly, but wisely.
 
-### Family and personal responsibility come before the church treasury.
+**Family and personal responsibility come before the church treasury.**
 
 > *"But if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith and is worse than an unbeliever."*
 > — 1 Timothy 5:8 (ESV)
@@ -58,7 +58,7 @@ Paul's instructions to Timothy about caring for widows establish a clear order: 
 
 This passage also reminds us that structured, conditional care is not unloving. Paul told Timothy to keep a list, to verify need, to set criteria. He was not being cold. He was being faithful with the church's resources so that those who were truly destitute would not be overlooked.
 
-### Those who are able must be willing to help themselves.
+**Those who are able must be willing to help themselves.**
 
 > *"For even when we were with you, we would give you this command: If anyone is not willing to work, let him not eat."*
 > — 2 Thessalonians 3:10 (ESV)
@@ -69,35 +69,45 @@ Applied to this policy: the church walks with people who are actively pursuing s
 
 This distinction requires pastoral wisdom, not a checklist. Leadership must know their people well enough to tell the difference.
 
+**Love that surrenders its rights sets the posture for how we serve.**
+
+> *"By what you eat, do not destroy the one for whom Christ died."*
+> — Romans 14:15b (ESV)
+
+> *"So then let us pursue what makes for peace and for mutual upbuilding."*
+> — Romans 14:19 (ESV)
+
+Paul's instruction in Romans 14 is not about food — it is about the cost of love within the body. The strong are called to surrender their preferences for the sake of the weak. This same principle governs how we administer emergency care: not grudgingly, not with condescension, but with the posture of those who have themselves been loved at infinite cost. The question is never whether to help — it is whether we will do so in a way that builds up or tears down. A policy without this posture is just a rulebook. A policy with this posture is an expression of the kingdom: righteousness, peace, and joy in the Holy Spirit.
+
 ---
 
-## Guiding Principles
+**Guiding Principles**
 
 These principles are drawn from the Scriptures above and govern every decision made under this policy. When a situation falls outside the specific rules below, these principles guide the leadership's judgment. This is a larger group than just the pastor, the majority of the board should be in agreement.
 
-### 1. The most important need is always spiritual.
+**1. The most important need is always spiritual.**
 
 A hotel room keeps someone alive through a dangerous night. The gospel keeps them for eternity. We do not separate physical care from spiritual care. Every act of benevolence is an extension of the church's mission to make disciples, not a substitute for it. We are not a social services agency. We are a church.
 
-### 2. Direct giving is the exception, not the rule, and is limited to emergencies.
+**2. Direct giving is the exception, not the rule, and is limited to emergencies.**
 
 Hotel assistance is emergency intervention, not ongoing housing support. This policy exists for nights when staying outside could cost someone their life — not for nights when staying outside is merely uncomfortable.
 
-### 3. We best steward our resources by coming alongside those who are willing to help themselves.
+**3. We best steward our resources by coming alongside those who are willing to help themselves.**
 
 The church walks *with* people. We do not carry people who refuse to walk. This is not cold. This is love. A church that removes all consequences and all responsibility from a capable person cripples them.
 
-### 4. Commitment works both ways.
+**4. Commitment works both ways.**
 
 Membership or regular attendance demonstrates commitment to this body. That commitment is what activates the body's commitment to them.
 
-### 5. This work requires grace and flexibility.
+**5. This work requires grace and flexibility.**
 
 No policy covers every situation. People are messy. Emergencies don't always fit neat categories. Leadership must exercise wisdom, and the church must extend grace — both to those being served and to those making difficult decisions on the church's behalf. This allows the board flexibility in applying these principles.
 
 ---
 
-## Eligibility
+**Eligibility**
 
 A person may receive emergency hotel assistance if **all** of the following are true:
 
@@ -111,11 +121,11 @@ A person may receive emergency hotel assistance if **all** of the following are 
 
 ---
 
-## Emergency Weather Triggers
+**Emergency Weather Triggers**
 
 Hotel assistance is activated when a qualifying weather condition creates immediate physical danger for someone who is unsheltered. There are two triggers:
 
-### Trigger A: Dangerous Cold
+**Trigger A: Dangerous Cold**
 
 **Condition**: The temperature or wind chill is forecast to reach **32°F (freezing) or below** overnight.
 
@@ -123,7 +133,7 @@ Hotel assistance is activated when a qualifying weather condition creates immedi
 
 **Rationale**: Hypothermia is a life-threatening condition. A person sleeping in a tent or outdoors in freezing temperatures is in genuine physical danger.
 
-### Trigger B: Severe Storm / Hurricane
+**Trigger B: Severe Storm / Hurricane**
 
 **Condition**: The National Weather Service has issued a **Hurricane Warning, Tropical Storm Warning, or Tornado Warning** for our county, OR a **Severe Thunderstorm Warning with flooding** that poses imminent danger to someone living unsheltered.
 
@@ -135,7 +145,7 @@ Hotel assistance is activated when a qualifying weather condition creates immedi
 
 **FEMA Transitional Sheltering Assistance (TSA)**: When a federal disaster is declared for our county, FEMA's TSA program may provide hotel/motel stays for displaced individuals — and being displaced at a church, in a car, or in a tent qualifies. TSA provides an initial 5-14 days of hotel placement, extendable up to 6 months from the disaster declaration, at no cost to the individual or the church. During a declared hurricane disaster, the church's primary role shifts from paying for hotel nights to **helping our members apply for FEMA TSA** and connecting them to a participating hotel. This preserves church funds for cold weather nights, which have no federal program backing them up. For FEMA assistance, call **1-800-621-3362** or visit **disasterassistance.gov**.
 
-### Protection of Single Women During Storms
+**Protection of Single Women During Storms**
 
 County emergency shelters are often congregate facilities — open rooms with cots, mixed-gender populations, and limited screening. For a single woman who is already vulnerable from homelessness, a congregate shelter with unknown men — some of whom may be actively using drugs or alcohol — may pose a genuine safety risk.
 
@@ -145,19 +155,19 @@ This is not a double standard. It is an acknowledgment that congregate shelters 
 
 ---
 
-## Limits
+**Limits**
 
-### Monthly Limit
+**Monthly Limit**
 
 **No more than 2 nights per person per calendar month** under normal (cold weather) circumstances.
 
 If a severe storm trigger occurs in the same month as cold weather nights, or if multiple hurricanes occur, storm nights are counted separately — but the combined total should not exceed **4 nights per person per calendar month** except by unanimous leadership approval.
 
-### Dollar Cap
+**Dollar Cap**
 
 Each hotel night should not exceed **$[amount]** per night. Leadership should identify and maintain a relationship with one or two budget-friendly, safe hotels in the area for this purpose. Negotiating a church rate, if possible, is good stewardship.
 
-### Payment Method and Liability Protection
+**Payment Method and Liability Protection**
 
 **The church pays for the room but does not secure the room.** The church may pay the hotel directly for the cost of the night's stay, but the church's credit card or account is **not** to be used as the card on file to secure the room except by unanimous board consent. The individual is responsible for securing the room with their own identification and any required deposit or hold.
 
@@ -165,7 +175,7 @@ This protects the church from liability for damages to the room, incidental char
 
 If the individual does not have a card or ID to secure the room, leadership should work with the hotel to find an arrangement, but the church does not assume liability for the room itself.
 
-### Annual Cap
+**Annual Cap**
 
 Total benevolence spending on hotel assistance should not exceed **$[amount] per fiscal year** across all recipients. When this cap is approached, leadership must evaluate whether funds remain and adjust accordingly.
 
@@ -173,9 +183,9 @@ Total benevolence spending on hotel assistance should not exceed **$[amount] per
 
 ---
 
-## Decision Process
+**Decision Process**
 
-### Standard Request (Cold Weather)
+**Standard Request (Cold Weather)**
 
 1. The individual contacts a designated point of contact (deacon, pastor, or leadership member) and requests assistance.
 2. The point of contact verifies that a qualifying weather trigger is active (check forecast).
@@ -183,14 +193,14 @@ Total benevolence spending on hotel assistance should not exceed **$[amount] per
 4. If clear-cut, the point of contact may approve a single night and notify leadership. Time-sensitive cold weather decisions should not wait for a full meeting.
 5. If there is any question — eligibility, frequency, or appropriateness — leadership discusses and reaches consensus before approving.
 
-### Storm Request (Hurricane / Severe Weather)
+**Storm Request (Hurricane / Severe Weather)**
 
 1. When a hurricane or tropical storm warning is issued, leadership proactively identifies who among our members may need shelter.
 2. Contact is made to offer assistance (this is the one exception to "they must ask" — in a hurricane, shepherds go find their sheep).
 3. Leadership approves hotel placement for the duration of the warning period.
 4. If public emergency shelters are available and accessible, those are used first, where appropriate.
 
-### Consensus Requirement
+**Consensus Requirement**
 
 All approvals require **leadership consensus**, meaning the board or any body it designates agrees the request meets the policy. For time-sensitive cold weather requests, a single leader may approve with notification to the group, but this should be the exception.
 
@@ -198,13 +208,13 @@ No single leader — including the pastor — should bear this decision alone. T
 
 ---
 
-## Beyond the Hotel Night: Walking With People Toward Stability
+**Beyond the Hotel Night: Walking With People Toward Stability**
 
 A hotel night keeps someone alive. It does not solve homelessness. The church's goal is not to provide indefinite emergency shelter but to come alongside our members and help them move toward stability — at whatever pace their abilities allow.
 
-### For Each Person Receiving Assistance, Leadership Should:
+**For Each Person Receiving Assistance, Leadership Should:**
 
-1. **Understand their full situation.** What is their monthly income? What are their basic expenses? What disability or limitation affects their ability to work or secure housing? This is not an interrogation or investigation — it is pastoral care. You cannot help someone you do not know. We should have enough idea from moving with them through life to answer these questions. 
+1. **Understand their full situation.** What is their monthly income? What are their basic expenses? What disability or limitation affects their ability to work or secure housing? This is not an interrogation or investigation — it is pastoral care. You cannot help someone you do not know. We should have enough idea from moving with them through life to answer these questions.
 
 2. **Know what community resources exist and help them access those resources.** The church is not the only source of help, and it should not try to be. Identify local resources such as:
    - HUD / Section 8 housing (apply even if the waitlist is long — get in line)
@@ -215,7 +225,7 @@ A hotel night keeps someone alive. It does not solve homelessness. The church's 
    - Legal aid for housing or benefits issues
    - Recovery and transitional housing programs (if applicable)
 
-   **Go with them.** Do not hand someone a phone number and say "call this." If they dont have a car, drive them to the office. Sit in the waiting room. Help those who need it, tom fill out the paperwork. This is what the body of Christ looks like.
+   **Go with them.** Do not hand someone a phone number and say "call this." If they don't have a car, drive them to the office. Sit in the waiting room. Help those who need it to fill out the paperwork. This is what the body of Christ looks like.
 
 3. **Maintain a community resource list.** Compile and periodically update a list of local services available in our area. This list should be a living document, reviewed at least annually for accuracy.
 
@@ -223,7 +233,7 @@ A hotel night keeps someone alive. It does not solve homelessness. The church's 
 
 ---
 
-## Alternatives to Consider
+**Alternatives to Consider**
 
 Before or alongside hotel nights, leadership should consider whether other interventions might serve the person better or stretch resources further:
 
@@ -234,20 +244,20 @@ Before or alongside hotel nights, leadership should consider whether other inter
 
 ---
 
-## Fund Management
+**Fund Management**
 
-- Hotel assistance is funded through the church's benevolence).
+- Hotel assistance is funded through the church's benevolence fund.
 - The fund is overseen by the board, not by the pastor alone.
 - Spending is tracked and reported to the congregation at quarterly business meetings.
-- When tresources are depleted or near depletion, leadership communicates this honestly and pauses hotel approvals until funds are replenished.
+- When resources are depleted or near depletion, leadership communicates this honestly and pauses hotel approvals until funds are replenished.
 
-### Tax Note: IRC Section 139 (Declared Disasters Only)
+**Tax Note: IRC Section 139 (Declared Disasters Only)**
 
 During a **federally declared disaster** (e.g., a hurricane with a FEMA disaster declaration for our county), the church may make qualified disaster relief payments to members for reasonable and necessary expenses — including lodging, food, and personal necessities — that are **tax-free** to the recipient under Internal Revenue Code Section 139. There is no statutory dollar limit, but amounts must be reasonably commensurate with actual expenses. These payments are not taxable income and are not subject to employment taxes. This applies only to federally declared disasters, not to routine cold weather assistance. The church should consult with its accountant or a tax professional when invoking this provision.
 
 ---
 
-## Annual Review
+**Annual Review**
 
 This policy should be reviewed **at least once per year** by the leadership body. During the review:
 
@@ -261,7 +271,7 @@ This policy should be reviewed **at least once per year** by the leadership body
 
 ---
 
-## Summary of Rules
+**Summary of Rules**
 
 | Rule | Standard (Cold Weather) | Storm (Hurricane/Severe) |
 |------|------------------------|--------------------------|
@@ -280,7 +290,7 @@ This policy should be reviewed **at least once per year** by the leadership body
 
 ---
 
-## A Final Word
+**A Final Word**
 
 This policy exists because we love our people and we want to be faithful with what God has given us. It is not designed to make it harder to help — it is designed to make it clearer, fairer, and more sustainable to help.
 
@@ -292,7 +302,7 @@ We are a small church. We cannot do everything. But what we can do, we will do f
 
 ---
 
-# Appendix A: Pasco County Community Resource Directory
+**Appendix A: Pasco County Community Resource Directory**
 
 **Last Updated**: [Date]
 **Review annually for accuracy. Phone numbers, hours, and services change. Always call before sending someone.**
@@ -301,7 +311,7 @@ This directory exists so that leadership can connect our members — and anyone 
 
 ---
 
-## Emergency Contacts & Hotlines
+**Emergency Contacts & Hotlines**
 
 | Service | Phone | Notes |
 |---------|-------|-------|
@@ -323,7 +333,7 @@ This directory exists so that leadership can connect our members — and anyone 
 
 ---
 
-## Coordinated Entry System (CES) — How to Get Into the System
+**Coordinated Entry System (CES) — How to Get Into the System**
 
 The Coordinated Entry System is the HUD-required process for accessing housing programs in Pasco County. Getting assessed through CES is the **first step** toward Rapid Re-Housing (RRH) or Permanent Supportive Housing (PSH). The church should help members call the appropriate access point and, if possible, go with them.
 
@@ -357,7 +367,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Coalition for the Homeless of Pasco County
+**Coalition for the Homeless of Pasco County**
 
 | | |
 |---|---|
@@ -374,9 +384,9 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Shelters
+**Shelters**
 
-### Emergency & Transitional Shelters
+**Emergency & Transitional Shelters**
 
 | Shelter | Population Served | Address | Phone |
 |---------|------------------|---------|-------|
@@ -388,7 +398,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **The Holy Ground** | Homeless shelter | 17326 Otto Ln., Hudson | **(727) 946-0422** |
 | **Vincent House** | Supportive housing | 11145 Denton Ave., Hudson | **(352) 701-0778** |
 
-### Residential Programs
+**Residential Programs**
 
 | Program | Population Served | Phone |
 |---------|------------------|-------|
@@ -396,7 +406,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **Youth and Family Alternatives** — NPR | Youth ages 10-17 | **(727) 835-1777** |
 | **RAP House** (Runaway Alternatives) — NPR | Runaway youth | **(727) 835-1777** |
 
-### Domestic Violence Shelters
+**Domestic Violence Shelters**
 
 | Shelter | Location | Phone |
 |---------|----------|-------|
@@ -404,7 +414,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **Salvation Army DV Shelter** | West Pasco — women and children | **727-856-5797** (24-hour hotline) |
 | **The Spring** — Tampa | Accepts pets; emergency shelter, counseling, on-site childcare | **813-247-7233** (24/7) |
 
-### Recovery & Transitional Housing
+**Recovery & Transitional Housing**
 
 | Program | Population Served | Phone |
 |---------|------------------|-------|
@@ -416,9 +426,9 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Housing Programs
+**Housing Programs**
 
-### Pasco County Government Programs
+**Pasco County Government Programs**
 
 **Pasco County Community Development**: **(727) 834-3445** / **(727) 834-3447** — 8610 Galen Wilson Blvd., Port Richey
 
@@ -434,7 +444,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 **HUD / Section 8**: Waitlist is approximately 3 years. Women with children are prioritized. **Apply anyway — get in line.**
 
-### Other Housing Resources
+**Other Housing Resources**
 
 | Organization | Address / Phone | Services |
 |-------------|----------------|----------|
@@ -450,7 +460,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Financial Assistance
+**Financial Assistance**
 
 | Organization | Phone | Services |
 |-------------|-------|----------|
@@ -471,9 +481,9 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Food Pantries
+**Food Pantries**
 
-### New Port Richey Area
+**New Port Richey Area**
 
 | Organization | Address | Phone | Hours |
 |-------------|---------|-------|-------|
@@ -492,7 +502,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **Helping Hands Ministries** | Serving NPR area | 949-275-4700 | Call for hours |
 | **First United Methodist Church** | 5901 Indiana Ave., NPR | 727-842-7674 | Call for pantry hours; also serves hot meals (see Hot Meals) |
 
-### Port Richey Area
+**Port Richey Area**
 
 | Organization | Address | Phone | Hours |
 |-------------|---------|-------|-------|
@@ -504,7 +514,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **Salvation Army — West Pasco** | 7745 Ridge Rd., PR | 727-815-8539 | Mon/Wed/Fri 9am-12pm |
 | **West Pasco Meals on Wheels** | 8600 Galen Wilson Blvd., PR | 727-834-3340 | Mon-Fri 8am-1pm |
 
-### Hudson Area
+**Hudson Area**
 
 | Organization | Address | Phone | Hours |
 |-------------|---------|-------|-------|
@@ -515,7 +525,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **Hudson School Community Health & Resource Center** | 14410 Cobra Way, Hudson | 352-760-9034 | Tues/Thurs/Fri 8am-3pm (food pantry & clothing closet); medical: 352-760-9032 |
 | **St. Michael the Archangel / St. Vincent de Paul** | 8020 SR 52, Hudson | 727-857-5818 | Mon-Thurs 1pm-3pm (also bill & Rx assistance) |
 
-### Holiday Area
+**Holiday Area**
 
 | Organization | Address | Phone | Hours |
 |-------------|---------|-------|-------|
@@ -524,7 +534,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **Gulfside Hub** | 2329 Anclote Blvd., Holiday | 727-774-6050 | Mon 4:30pm-5pm; Mon-Fri by appointment for families |
 | **Holiday Community Fellowship Church** | 5144 Sunray Dr., Holiday | 727-944-4773 | Dinner Tues & Thurs 5pm-6pm |
 
-### Dade City / East Pasco
+**Dade City / East Pasco**
 
 | Organization | Address | Phone | Hours |
 |-------------|---------|-------|-------|
@@ -539,7 +549,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **Helping Rock Inc.** | 14801 7th St., Dade City | 813-779-5521 | Food distribution Wed & Fri 10am until gone |
 | **St. Vincent de Paul — St. Anthony of Padua** | 12144 Joe Hermann Dr., San Antonio | 352-588-2243 | Sat 8am-11am |
 
-### Odessa / Lutz Area
+**Odessa / Lutz Area**
 
 | Organization | Address | Phone | Hours |
 |-------------|---------|-------|-------|
@@ -549,7 +559,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **Idlewild Baptist Church** | 18333 Exciting Idlewild Blvd., Lutz | 813-264-8717 | Call for hours |
 | **Keystone Community Church** | 21010 FL-54, Lutz | 813-948-4522 | Call for hours |
 
-### Land O' Lakes / Wesley Chapel / Zephyrhills
+**Land O' Lakes / Wesley Chapel / Zephyrhills**
 
 | Organization | Address | Phone | Hours |
 |-------------|---------|-------|-------|
@@ -560,7 +570,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **Neighborhood Care Center** | 5140 6th St., Zephyrhills | 813-780-6822 | Mon/Wed/Fri 9am-12pm |
 | **The Church at Chancey Road** | 34921 Chancey Rd., Zephyrhills | 813-317-4975 | Mon & Thurs 10am-11am; mobile pantry Tues at Shepherd Park 4:30-5:45pm, Fri at 1655 Partridge Blvd 9:30-11am |
 
-### Spring Hill / County Line Area
+**Spring Hill / County Line Area**
 
 | Organization | Address | Phone | Hours |
 |-------------|---------|-------|-------|
@@ -571,7 +581,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Hot Meals
+**Hot Meals**
 
 | Organization | Address | Phone | Hours |
 |-------------|---------|-------|-------|
@@ -591,7 +601,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Clothing & Personal Needs
+**Clothing & Personal Needs**
 
 | Organization | Address | Phone | Notes |
 |-------------|---------|-------|-------|
@@ -608,9 +618,9 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Healthcare
+**Healthcare**
 
-### Free & Low-Cost Clinics
+**Free & Low-Cost Clinics**
 
 | Organization | Address | Phone | Notes |
 |-------------|---------|-------|-------|
@@ -623,7 +633,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **Evara Health** | 247 S. Huey Ave., Tarpon Springs | 727-824-8181 | Telehealth available; accepts Medicaid, sliding scale |
 | **New Port Richey Family Health Center** | NPR | 727-645-4185 | Free or low-cost care |
 
-### Hospitals
+**Hospitals**
 
 | Hospital | Address | Phone |
 |----------|---------|-------|
@@ -636,7 +646,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **St. Joseph's Hospital North** | 4211 Van Dyke Rd., Lutz | (813) 443-7000 |
 | **James Haley VA Hospital** | 13000 Bruce B Downs Blvd., Tampa | (813) 972-2000 |
 
-### Dental
+**Dental**
 
 | Organization | Address | Phone |
 |-------------|---------|-------|
@@ -644,7 +654,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **Premier Community Healthcare Dental** | 37944 Pasco Ave., Dade City | 352-518-2000 |
 | **DOH Pasco County** | 33845 FL-54, Wesley Chapel | 813-780-0740 |
 
-### Vision & Eyeglasses
+**Vision & Eyeglasses**
 
 | Organization | Notes |
 |-------------|-------|
@@ -652,7 +662,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **New Eyes** | Free glasses for those in need — new-eyes.org |
 | **ReSpectacle** | Used glasses at no cost, just pay shipping — respectacle.org |
 
-### Women's Health & Pregnancy
+**Women's Health & Pregnancy**
 
 | Organization | Phone | Notes |
 |-------------|-------|-------|
@@ -662,7 +672,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **WIC** (Women, Infants, Children) | Visit DOH Pasco WIC page | Supplemental nutrition for pregnant/breastfeeding women, infants, children under 5 |
 | **WIC Breastfeeding Assistance** | English (813) 364-5818; Spanish (813) 364-5833 | |
 
-### Medicaid & Insurance
+**Medicaid & Insurance**
 
 | Resource | Phone / Link |
 |----------|-------------|
@@ -673,7 +683,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Mental Health & Counseling
+**Mental Health & Counseling**
 
 | Organization | Address / Phone | Notes |
 |-------------|----------------|-------|
@@ -691,7 +701,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Employment Assistance
+**Employment Assistance**
 
 | Organization | Address / Phone | Notes |
 |-------------|----------------|-------|
@@ -705,16 +715,16 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Transportation
+**Transportation**
 
-### Public Transit
+**Public Transit**
 
 | Service | Phone | Notes |
 |---------|-------|-------|
 | **Pasco County Bus Services** | **(727) 834-3322** | Free for veterans and children under 4; reduced fare for 65+ w/Medicare, students w/ID, certified disability |
 | **Pasco County Paratransit** | **(727) 834-3322** | For citizens 60+, with disability, or low-income — 8620 Galen Wilson Blvd., Port Richey |
 
-### Medical & Private Transport
+**Medical & Private Transport**
 
 | Service | Phone | Notes |
 |---------|-------|-------|
@@ -727,7 +737,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Domestic Violence Services
+**Domestic Violence Services**
 
 | Organization | Phone | Notes |
 |-------------|-------|-------|
@@ -744,7 +754,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Elder Services
+**Elder Services**
 
 | Organization | Phone | Notes |
 |-------------|-------|-------|
@@ -757,7 +767,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Veterans Services
+**Veterans Services**
 
 | Organization | Phone | Notes |
 |-------------|-------|-------|
@@ -778,7 +788,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Legal Services
+**Legal Services**
 
 | Organization | Phone | Notes |
 |-------------|-------|-------|
@@ -791,7 +801,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Sober Living & Recovery
+**Sober Living & Recovery**
 
 | Organization | Address | Phone | Notes |
 |-------------|---------|-------|-------|
@@ -810,7 +820,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Human Trafficking
+**Human Trafficking**
 
 | Resource | Phone |
 |----------|-------|
@@ -820,7 +830,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Law Enforcement — Non-Emergency
+**Law Enforcement — Non-Emergency**
 
 | Agency | Phone |
 |--------|-------|
@@ -833,7 +843,7 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-## Additional Services
+**Additional Services**
 
 | Organization | Phone | Notes |
 |-------------|-------|-------|
@@ -846,11 +856,11 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 
 ---
 
-# Appendix B: Hernando County Resources (Near County Line)
+**Appendix B: Hernando County Resources (Near County Line)**
 
 For members living near the Pasco-Hernando county line, the following Hernando County resources may be closer and more accessible.
 
-## Emergency
+**Emergency**
 
 | Service | Phone |
 |---------|-------|
@@ -859,7 +869,7 @@ For members living near the Pasco-Hernando county line, the following Hernando C
 | **Hernando Elder Helpline** | (800) 262-2243 |
 | **American Red Cross** | (727) 848-8354 |
 
-## Homeless Assistance
+**Homeless Assistance**
 
 | Organization | Phone | Notes |
 |-------------|-------|-------|
@@ -874,7 +884,7 @@ For members living near the Pasco-Hernando county line, the following Hernando C
 | **Zero Hour Life Center** | (352) 765-4943 | Disability application assistance |
 | **Faith Evangelical Presbyterian Church** | (352) 796-4969 — 200 Mt. Fair Ave., Brooksville | Showers, meals, clothing — 2nd & 4th Friday |
 
-## Medical & Mental Health
+**Medical & Mental Health**
 
 | Organization | Phone | Notes |
 |-------------|-------|-------|
@@ -886,7 +896,7 @@ For members living near the Pasco-Hernando county line, the following Hernando C
 | **BayCare Behavioral Health** | (352) 540-9335 | |
 | **Premier Health** | (352) 518-2000 | |
 
-## Financial Assistance
+**Financial Assistance**
 
 | Organization | Phone | Notes |
 |-------------|-------|-------|
@@ -896,7 +906,7 @@ For members living near the Pasco-Hernando county line, the following Hernando C
 | **United Way of Hernando** | (352) 688-2026 | Rent, mortgage, energy |
 | **Catholic Charities** | (352) 686-9897 ext. 531/28 | |
 
-## Food & Clothing
+**Food & Clothing**
 
 | Organization | Address | Phone | Notes |
 |-------------|---------|-------|-------|
@@ -912,7 +922,7 @@ For members living near the Pasco-Hernando county line, the following Hernando C
 | **Jericho Road Thrift Stores** | 4 locations in Spring Hill/Brooksville | (352) 799-2912 | Mon-Sat 9am-5pm; up to 70% off; 15% military discount |
 | **Meals on Wheels — Hernando** | — | (352) 796-1426 | Senior meals |
 
-## Served Meals
+**Served Meals**
 
 | Organization | Address | Phone | Schedule |
 |-------------|---------|-------|----------|
@@ -921,7 +931,7 @@ For members living near the Pasco-Hernando county line, the following Hernando C
 | **People Helping People** | 1396 Kass Circle, Spring Hill | (352) 686-4466 | Tues & Fri 11:30-12:30; Sun 3:30pm |
 | **Salvation Army** | 15464 Cortez Blvd., Brooksville | (352) 796-1186 | Tues 11am-12:30pm; Sun Noon-1:30pm |
 
-## Transportation
+**Transportation**
 
 | Service | Phone | Notes |
 |---------|-------|-------|
@@ -930,7 +940,7 @@ For members living near the Pasco-Hernando county line, the following Hernando C
 | **Grace Presbyterian Church — Bike Program** | (352) 683-2082 | Mon-Thurs 9am-1pm |
 | **VA Transportation** | (352) 754-4033 | |
 
-## Other Hernando Services
+**Other Hernando Services**
 
 | Service | Phone |
 |---------|-------|
@@ -943,7 +953,7 @@ For members living near the Pasco-Hernando county line, the following Hernando C
 
 ---
 
-# Online Resource Directories
+**Online Resource Directories**
 
 | Resource | Link | Notes |
 |----------|------|-------|
@@ -953,7 +963,7 @@ For members living near the Pasco-Hernando county line, the following Hernando C
 
 ---
 
-## Notes for Leadership
+**Notes for Leadership**
 
 1. **This list will go stale.** Hours change, organizations close, new ones open. Review and update at least annually. **Call before sending someone.**
 2. **The Coordinated Entry System is the most important entry point.** Getting a member assessed and onto the By-Name List is the single most impactful thing the church can do beyond emergency hotel nights.
