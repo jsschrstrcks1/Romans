@@ -15,9 +15,9 @@ We talked about the weak and the strong.
 We talked about disputable matters and non-negotiables.
 We talked about not passing judgment on one another.
 
-Most commentators agree that the chapter break between Romans 14 and 15 is in the wrong place. Paul's argument that began in 14:1 doesn't really end until 15:13. The chapter division — added centuries after Paul wrote — interrupts what was meant to be read as one continuous thought.
+Here's the thing: the chapter break between Romans 14 and 15? It's in the wrong place. Most commentators agree — Paul's argument that started in 14:1 doesn't actually end until 15:13. The chapter division was added centuries later, and it interrupts what was meant to be read as one continuous thought.
 
-So don't think of Romans 15 as a new topic. Think of it as the climax of what Paul has been building toward.
+So don't think of Romans 15 as a new topic. This is the climax. This is where everything Paul's been saying finally lands.
 
 And if you left Romans 14 thinking, "This is about tolerance" — you missed it.
 
@@ -77,13 +77,15 @@ Would you pray with me?
 
 ## I. The Obligation of the Strong (vv. 1-3)
 
-Paul begins with a command — and it's not optional.
+Paul starts with a command. And it's not optional.
 
 *"We who are strong have an obligation to bear with the failings of the weak, and not to please ourselves."* (v. 1)
 
-Notice: this is not advice. It's not a suggestion. It's an *obligation*.
+Did you catch that word? *Obligation.*
 
-The Greek word is *opheilomen* — we owe this. It's a debt. The strong owe something to the weak.
+This isn't advice. It's not a suggestion. It's not "it would be nice if..."
+
+The Greek word is *opheilomen* — we *owe* this. It's a debt. The strong owe something to the weak.
 
 And what do we owe?
 
@@ -119,11 +121,11 @@ If Christ bore your weight when you had nothing to offer — how can you refuse 
 
 ### Why Does Paul Quote the Old Testament?
 
-Paul pauses in verse 4 to explain why he just quoted Psalm 69:
+Now Paul pauses to explain why he just quoted Psalm 69. And this is important — don't skip over it.
 
 *"For whatever was written in former days was written for our instruction, that through endurance and through the encouragement of the Scriptures we might have hope."* (v. 4)
 
-This is crucial. Paul is saying: the Old Testament wasn't just written for ancient Israel. It was written *for us*. For our instruction. For our endurance. For our hope.
+Do you hear what he's saying? The Old Testament wasn't just written for ancient Israel. It was written *for us*. For our instruction. For our endurance. For our hope.
 
 The Scriptures produce two things in us: *endurance* and *encouragement*. And both of those lead to *hope*.
 
@@ -191,17 +193,17 @@ Not tolerate. Not endure. Not put up with.
 
 *Welcome.*
 
-The Greek is *proslambanesthe* — to receive into one's home, to take to oneself, to embrace fully.
+The Greek is *proslambanesthe* — to receive into your home, to take to yourself, to embrace fully.
 
-And notice the grammar: this is a present middle imperative. That means Paul isn't giving a one-time command — he's calling for ongoing, continuous action. *Keep welcoming one another. Never stop receiving one another.*
+And here's something you might miss: this is a present middle imperative. That's grammar-speak for "keep doing this." Paul's not giving a one-time command. He's saying: *Keep welcoming one another. Never stop. Don't let up.*
 
-This is the word used in Acts 28:2 when the natives of Malta welcomed Paul and his shipwrecked crew: they showed them "unusual kindness."
+This word shows up in Acts 28:2 — when the natives of Malta welcomed Paul and his shipwrecked crew, they showed them "unusual kindness."
 
-This is the word used in Philemon 17 when Paul asks Philemon to receive the runaway slave Onesimus "as you would receive me."
+It shows up in Philemon 17 — when Paul asks Philemon to receive the runaway slave Onesimus "as you would receive me."
 
-This is intimate. This is costly. This is real.
+This isn't a nod from across the room. This is intimate. Costly. Real.
 
-And where does this welcome come from? It doesn't come from you. Piper puts it this way: welcoming one another is "from him and through him and to him." It's not human hospitality dressed up in religious language. It's participation in the very welcome of Christ — receiving others the way you were received, for the same purpose: the glory of God.
+And where does it come from? Not from you. Not from your natural hospitality. Piper puts it this way: welcoming one another is "from him and through him and to him." It's not human niceness dressed up in religious language. It's participation in the very welcome of Christ — receiving others the way you were received, for the same purpose: the glory of God.
 
 ### As Christ Welcomed You
 
@@ -229,17 +231,17 @@ Now give it.
 
 ## IV. The Scope: All Nations (vv. 8-12)
 
-Now Paul does something remarkable. He stacks up Old Testament quotations — one after another — to prove that this welcome was always the plan.
+Now Paul does something remarkable. He starts stacking up Old Testament quotations — one after another after another — to prove that this welcome was always the plan.
 
 *"For I tell you that Christ became a servant to the circumcised to show God's truthfulness, in order to confirm the promises given to the patriarchs, and in order that the Gentiles might glorify God for his mercy."* (vv. 8-9a)
 
-Why does Paul suddenly bring up Jews and Gentiles?
+Wait — why is Paul suddenly bringing up Jews and Gentiles?
 
-Because behind all the talk of "weak" and "strong" lies a deeper division. The church at Rome had Jewish believers and Gentile believers sitting in the same room, eating at the same table, worshiping the same Lord — and sometimes clashing over the very things that once separated them.
+Because behind all this talk of "weak" and "strong" lies a deeper division. The church at Rome had Jewish believers and Gentile believers sitting in the same room, eating at the same table, worshiping the same Lord — and sometimes clashing over the very things that once separated them.
 
-John Murray notes that Paul's reference to Jews and Gentiles "suggests that the exhortation to mutual acceptance had in view the need to overcome all racial prejudice and discrimination in the communion of the saints at Rome."
+John Murray puts it this way: Paul's reference to Jews and Gentiles "suggests that the exhortation to mutual acceptance had in view the need to overcome all racial prejudice and discrimination in the communion of the saints at Rome."
 
-This isn't abstract theology. This is table fellowship. This is who you eat with. This is who you invite into your home.
+Think about that. This isn't abstract theology. This is table fellowship. This is who you eat with. This is who you invite into your home.
 
 Christ came for the Jews — to confirm the promises.
 And Christ came for the Gentiles — to extend the mercy.
@@ -256,15 +258,15 @@ And Paul proves it with four Old Testament passages:
 
 4. **Isaiah 11:10**: "The root of Jesse will come, even he who arises to rule the Gentiles; in him will the Gentiles hope."
 
-Four quotations. Four different sources — the Law, the Prophets, and two from the Psalms. All making the same point: the inclusion of the Gentiles in the praise of God has always been part of God's purposes.
+Four quotations. Four different sources — Law, Prophets, and two from the Psalms. All making the same point: Gentiles glorifying God was always the plan.
 
-Look at that first quotation. It's from a psalm of David — Psalm 18 — where David praises God for victory over the nations. But Thomas Schreiner notes that Paul may be reading this typologically: he hears the risen Christ speaking these words. David, as the anointed king, pointed forward to the greater Anointed One. So when David says *"I will praise you among the Gentiles,"* Paul hears the Messiah claiming the nations as his own.
+Now look at that first quote. It's from Psalm 18 — a psalm of David praising God for victory over the nations. But Schreiner points out something I'd never noticed: Paul may be reading this typologically. He's hearing *the risen Christ* speak these words. David, as the anointed king, pointed forward to the greater Anointed One. So when David says *"I will praise you among the Gentiles,"* Paul hears the Messiah himself claiming the nations as his own.
 
-This changes everything. It's not just that God predicted Gentile inclusion. It's that the Messiah himself — in the songs of Israel — was already singing about it.
+You see what that means? It's not just that God *predicted* Gentile inclusion. The Messiah himself — in the songs of Israel — was already singing about it.
 
-Do you see what Paul is doing?
+Do you see what Paul is doing here?
 
-He's saying: this isn't new. This was always God's plan. The Law, the Prophets, the Psalms — they all pointed to a day when the nations would be welcomed.
+He's saying: this isn't new. This was always God's plan. Law, Prophets, Psalms — they all pointed to a day when the nations would be welcomed.
 
 The thief on the cross — welcomed.
 The Roman centurion — welcomed.
@@ -291,67 +293,71 @@ And the way we welcome one another now — across differences, across weaknesses
 
 ## V. The Benediction: Abounding in Hope (v. 13)
 
-Paul closes with a benediction — a prayer-wish that summarizes everything:
+Paul closes with a benediction — and I love this verse:
 
 *"May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope."* (v. 13)
 
-Three things to notice:
+Three things.
 
-**1. The Source: The God of Hope**
+**First: The Source**
 
-Not a distant God. Not a God who tolerates you. A God of hope — a God who is himself the ground of your hope.
+"The God of hope." Not a distant God. Not a God who tolerates you. A God who *is* hope — who is himself the ground of everything you're hoping for.
 
-**2. The Content: Joy and Peace in Believing**
+**Second: The Content**
+
+"Joy and peace in *believing*."
 
 Not joy and peace in achieving.
 Not joy and peace in being strong.
-Joy and peace *in believing* — in trusting, in resting, in receiving.
+Joy and peace in *trusting*. In resting. In receiving.
 
-**3. The Result: Abounding in Hope**
+**Third: The Result**
 
-Not surviving in hope. Not scraping by in hope.
+"Abound in hope."
 
-*Abounding.*
+Not survive in hope. Not scrape by in hope.
 
-Overflowing. Spilling over. More than enough.
+*Abound.*
 
-And how? *By the power of the Holy Spirit.*
+Overflow. Spill over. More than enough.
 
-This is not something you manufacture. This is something the Spirit produces in you as you trust the God of hope.
+And how does that happen? *By the power of the Holy Spirit.*
+
+You don't manufacture this. You can't grit your teeth and make yourself hopeful. The Spirit produces it in you — as you trust the God of hope.
 
 ---
 
 ## What This Means for You
 
-**For the one who feels weak:**
+**If you feel weak:**
 
-You are not a burden. You are not a project. You are not merely tolerated.
+You're not a burden. You're not a project. You're not just being *tolerated*.
 
-You are welcomed — the same way Christ welcomed every sinner who ever came to him. The strong in this church owe you weight-bearing, not condescension. And if anyone makes you feel like a second-class citizen of the kingdom, they have forgotten how they got in.
+You're welcomed. The same way Christ welcomed every sinner who ever came to him. The strong in this church owe you weight-bearing, not condescension. And if anyone makes you feel like a second-class citizen of the kingdom? They've forgotten how they got in.
 
-**For the one who feels strong:**
+**If you feel strong:**
 
-Your strength is not for yourself. It's for service.
+Your strength isn't for you. It's for service.
 
-You owe a debt to the weak — not because they earned it, but because Christ bore your weakness first. Every time you're tempted to roll your eyes, to dismiss, to "tolerate" — remember how you were welcomed.
+You owe a debt to the weak — not because they earned it, but because Christ bore *your* weakness first. Every time you're tempted to roll your eyes, to dismiss, to just "tolerate" someone — remember how you were welcomed.
 
-**For the one whose marriage is struggling:**
+**If your marriage is struggling:**
 
 Can you welcome your spouse the way Christ welcomed you?
 
-Not waiting for them to change first. Not keeping score. Not tolerating them until they meet your expectations.
+Not waiting for them to change first. Not keeping score. Not tolerating them until they finally meet your expectations.
 
-What if you got under the burden instead of standing at a distance critiquing?
+What if you got under the burden instead of standing across the room critiquing?
 
-**For the one estranged from family:**
+**If you're estranged from family:**
 
 Welcome doesn't mean pretending the hurt didn't happen. But it does mean leaving the door open.
 
-Christ left the door open for you — while you were still a sinner.
+Christ left the door open for you. While you were still a sinner.
 
-**For the one fighting addiction:**
+**If you're fighting addiction:**
 
-You are still welcome.
+You're still welcome.
 
 You didn't get clean first. You didn't earn it. Christ welcomed you in your mess — and the church should do the same.
 
