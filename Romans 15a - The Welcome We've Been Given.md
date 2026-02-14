@@ -329,6 +329,8 @@ You don't manufacture this. You can't grit your teeth and make yourself hopeful.
 
 ## What This Means for You
 
+Remember: Paul is speaking here about the frictions that arise between believers in matters of conscience — not about excusing sin or abandoning truth.
+
 **If you feel weak:**
 
 You're not a burden. You're not a project. You're not just being *tolerated*.
@@ -343,7 +345,7 @@ You owe a debt to the weak — not because they earned it, but because Christ bo
 
 **If your marriage is struggling:**
 
-Can you welcome your spouse the way Christ welcomed you?
+In the ordinary frictions of marriage — the habits and differences that grate but are not sin — can you welcome your spouse the way Christ welcomed you?
 
 Not waiting for them to change first. Not keeping score. Not tolerating them until they finally meet your expectations.
 
