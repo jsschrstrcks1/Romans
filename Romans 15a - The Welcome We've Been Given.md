@@ -161,6 +161,8 @@ But the world cannot produce unity in diversity. The world cannot produce a room
 
 Only Christ can do that.
 
+And if Christ has welcomed both of you, your voting record cannot be the thing that keeps you apart.
+
 And notice where it comes from: *"the God of endurance and encouragement."*
 
 This unity isn't manufactured. It's granted. It's a gift from the God who endures with us and encourages us through his Word.
@@ -173,7 +175,7 @@ And people who walk in daylight walk *together*. They don't stumble over each ot
 
 The dawn is coming. And the dawn will bring a choir — every nation, every tongue, every tribe — singing with one voice.
 
-We practice that now.
+The dawn is coming whether we are ready or not. The question is whether we will be found divided or singing.
 
 Every Sunday when we gather, we rehearse eternity.
 
@@ -200,6 +202,8 @@ And here's something you might miss: this is a present middle imperative. That's
 This word shows up in Acts 28:2 — when the natives of Malta welcomed Paul and his shipwrecked crew, they showed them "unusual kindness."
 
 It shows up in Philemon 17 — when Paul asks Philemon to receive the runaway slave Onesimus "as you would receive me."
+
+Taking strangers. Making family.
 
 This isn't a nod from across the room. This is intimate. Costly. Real.
 
@@ -329,6 +333,8 @@ You don't manufacture this. You can't grit your teeth and make yourself hopeful.
 
 ## What This Means for You
 
+Remember: Paul is speaking here about the frictions that arise between believers in matters of conscience — not about excusing sin or abandoning truth.
+
 **If you feel weak:**
 
 You're not a burden. You're not a project. You're not just being *tolerated*.
@@ -343,7 +349,7 @@ You owe a debt to the weak — not because they earned it, but because Christ bo
 
 **If your marriage is struggling:**
 
-Can you welcome your spouse the way Christ welcomed you?
+In the ordinary frictions of marriage — the habits and differences that grate but are not sin — can you welcome your spouse the way Christ welcomed you?
 
 Not waiting for them to change first. Not keeping score. Not tolerating them until they finally meet your expectations.
 

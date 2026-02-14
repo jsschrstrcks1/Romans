@@ -1,0 +1,74 @@
+The Lords day
+
+Were going to be in Romans 14 today, while you’re turning there, I’d like to read to you about The Meo people of Pakistan of whom there are over a million, and yet not one single believer as far as anyone knows today. The Meo follow Muslim practices and customs, but until partition in 1947 they heavily mixed their beliefs with Hindu teachings. At that time they had a resurgence of Islamic traditions.
+
+Even though they consider themselves to be from the well-respected Rajput community, some consider the Meo to be of a lower caste. Though Pakistani society tries to eliminate caste because of it's Hindu roots, it still affects people in this Muslim country.
+**Ministry Obstacles**
+The Meo people have a long history as Hindus, but their identity is in Islam. They live in Pakistan, a closed Muslim country where the gospel is not welcome. Christians can be heavily persecuted there, and Muslim neighbors can intimidate Meo people who might look outside of Islam for spiritual answers.
+Lets read the BFM statement for the week, it says:
+The first day of the week is the Lord's Day. It is a Christian institution for regular observance. It commemorates the resurrection of Christ from the dead and should include exercises of worship and spiritual devotion, both public and private. Activities on the Lord's Day should be commensurate with the Christian's conscience under the Lordship of Jesus Christ.
+*; **; **.; **; **; **,**; **; **,**; **; **; **; **; **; **.*
+This is a question that has been asked of me a fair bit lately. There are certain denominations for whom meeting any other day than Saturday is sacrosanct. That is to say they believe there is something right and pure and holy in maintaining the day of rest that the Jews would have observed. That to do otherwise is to be stepping into sin. 
+
+Keeping the sabbath as you may have heard it called is a concept that goes all the way back to the beginning. The Triune God worked for six days and took the seventh day off. Does an omnipotent God need to take a break? I mean I’m sure it takes a lot of power to speak lift, the universe and everything into existence, but its not like Jesus needed a nap. 
+
+I need naps sometimes, we spent this past week in Indian rocks beach – we had a great time. Thank you for allowing and enabling me to be able to go. I went for a walk pretty much every morning, followed by a swim, and then later enjoyed the wonders of an afternoon nap. I think my favorite day was Tuesday when we went down to casperson park and played in the surf and collected fossilized sharks teeth. In any event, by the time we got home we were all exhausted and needed a nap. But I am just a mere man. I’m not supernatural, I’ll never be all powerful. I simply went and played for a few hours, and after that I was ready for a break. Does God need that? Certainly not. So if omnipotent, eternal, all powerful unending God “rested for a day when he didn’t need it, why would he rest? He was setting an example for us because we aren’t omnipotent, or eternal. Were weak, and poor and broken. Right from the start the sabath, the day of rest, or as we observe it today, Sundays are for us, not us for Sundays. 
+
+In fact lets open God’s word and read about that. Lets start with Romans 14:1-12. 
+
+So this whole chapter is about subjects that scripture doesn’t say much about right? Some things have explicit condemnation in both the old and new testament. But something are only condemned in the old, or weren’t even addressed because it was outside the scope of the technology of the day. Like if someone asked where does the bible say we have to obey speed limits when driving a car. Obviously there were no cars when the bible was written, and so we have to listen to the counsel of scripture where it is less explicit. This passage gives some general guidelines about what to do when a thing is not expressly prohibited. Things like the freedom to eat certain foods, or the freedom regarding which day to meet for church. I’m glad we have freedom to eat certain foods, because I really like seafood. 😊
+
+But whats Paul saying, he is asking us not to condemn anyone on either side of the argument. Those that are hung up on the idea of church being on a specific day or time pall calls the weaker brothers here. The people Paul was addressing seem to be tied up in a form of legalism. Then and now not much has changed. Then and now the root was the same. Taking things not in scripture as seriously as scripture. 
+
+Anything extrabiblical, and we all know extrabiblical means something that’s not in scripture, anything extrabiblical leads you to trouble. We as Baptists have done this. There was a time that being a Baptist meant you must always wear a tie men. Or dancing was a sin. Now I think there could be times when you should wear a tie, and I think there are dances that could be sinful. But is it always sinful to skip the tie? Certainly not. Is it always sinful to dance? No. Yet that was the battlegrounds for a long time in our denomination. We were adding to scripture. 
+
+I read a description of such people that said “They were not yet convinced that God's grace in Christ had completely freed them from following the law. Still, both groups were to fully welcome the other. “
+
+People that get tanlged up in legalism are no less saved than you or I. They just have a weaker faith. They are still growing. Still developing. You wouldn’t expect a 6 year old to grasp the same things that a 20 year old could grasp easily. Everyone is on their own journey and matures at a different pace. 
+
+Paul applies that same idea in our passage this morning.” Some Bible teachers suggest that Roman Christians were still following cultural religious ideas, which included a belief that some days were lucky, while others were not. It is more likely, however, that Paul is thinking about Jewish feast days and Sabbath days.
+
+This discussion reminds me of Galatians 4 starting in verse 8. Paul writes:
+
+8 Formerly, when you did not know God, you were enslaved to those that by nature are not gods. 9 But now that you have come to know God, or rather to be known by God, how can you turn back again to the weak and worthless elementary principles of the world, whose slaves you want to be once more? 10 You observe days and months and seasons and years! 11 I am afraid I may have labored over you in vain.
+12 Brothers, I entreat you, become as I am, for I also have become as you are. You did me no wrong. 13 You know it was because of a bodily ailment that I preached the gospel to you at first, 14 and though my condition was a trial to you, you did not scorn or despise me, but received me as an angel of God, as Christ Jesus. 15 What then has become of your blessedness? For I testify to you that, if possible, you would have gouged out your eyes and given them to me. 16 Have I then become your enemy by telling you the truth? 17 They make much of you, but for no good purpose. They want to shut you out, that you may make much of them. 18 It is always good to be made much of for a good purpose, and not only when I am present with you, 19 my little children, for whom I am again in the anguish of childbirth until Christ is formed in you! 20 I wish I could be present with you now and change my tone, for I am perplexed about you.
+
+
+Paul Goes on to condemn them for their legalism and as a result hypocrisy.  For their observance of their seasons, and days and months and years. Paul seemed to feel the Galatians were trusting their religious rule-keeping to save them instead of trusting God's grace through faith in Christ. 
+
+John Owen wrote of the futility of legalism for salvation he said “Those who seewk to keep down sin without the aid of the spirit labor in vain. They will combat without victory”. 
+
+Legalism is a battle that can never be won. You can never hope to live up to the standard the law sets, and that’s why we have the law so that we know just how far we fall short. SO we have an accurate picture of just who and wear we are. 
+
+I saw a quote going around facebook this week that said “as a blind man is oblivious to the sun, so a lost man is oblivious to the full tally of his sin and to the perfect glory of God. 
+
+As we grow closer to the Lord one of the benefits is that we gain a clearer picture of who we are compared to God is. Said another way the closer we become to God the more sin we are able to see in our selves. The more we see of God, and his glory, and his perfection, the more acutely aware of our own shortcomings we become. 
+
+When I was in euorpe, we went to lots of different museums and saw all sorts of art. Everywhere you go, especially in paris someone has some kind of art on display. Be it their latest song they have recorded that they are trying to get picked up. Or painting on street corners, or old masters. 
+
+We went into this one museum that was full of Rembrandts. Rembrandt is not one of my personal favorite painters, but he is an old master and his work is revered by many. I saw this one picture that was on loan to whatever museum we were at where a doctor was giving an anatomy lesson. He had started to dissect a human and was describing and naming the muscles as he went in this corpses arm. 
+
+I don’t know about you, but the best of my ability to paint on display next to a Rembrandt would be ridiculous. Rembrandt can paint the individual textures one would see in the musculature of an arm. I can paint a stick figure with big red drops of blood. 
+
+Likewise is legalism to grace. God’s grace is Rembrandt. Our best efforts at legalism are stick figure caricatures of holiness at best. Even those of us who keep the most rules the best, their righteousness is as rags. There is only one thing that saves us, and this is the sinless God Man Jesus Christ. 
+
+Based on what we’ve read so far do you think God is bothered by which day we meet on? Do you think it’s a big deal? Do you think he would have told paul to write that In either romans or galatians if it were?
+
+I agree. 
+
+A related issue that we need to discuss here is a thing called antinomianism. Does anyone know what that means? A lot of people think it’s the opposite of legalism, but in truth according to Sinclair furguson they are both the opposite of grace. Or said differently grace is the middle point on the spectrum between legalism, and lawlessness. grace, God’s grace in Christ in our union with Christ, is the antidote to both. Fergusun continues “The antinomian is by nature a person with a legalistic heart. He or she becomes an antinomian in reaction. But this implies only a different view of law, not a more biblical one.”
+
+Antinomianism is in brief, the idea that the Christian can basically do anything he or she wants whether scripture prohibits it or not, because Christ has paid the price for ALL our sins. Antinomians can cheat on their wives, why not? Christ forgave it all! Antinomians can cheat on their taxes, who cares that Jesus said give to ceasar what is ceasars. If they don’t want to, they don’t have to, and they base it all on this passage in romans 14. Free grace indeed. But is that what Paul was saying? Reject Legalism and embrace moral anarchy?
+Certainly not. Anyone remember Romans 12? Shall we continue in sin that grace may abound? May it never be. 
+
+Seems to me that the middle point between legalism and lawless antinomianism is grace. We can’t keep the whole law – that’s impossible, and not expected. But we can abide by those things God convicts us of, and pulls us away from. 
+
+Some of these things are going to be the same for everyone. Sexual sin for instance – sex has a very specific set of proscriptions – inside marriage only, only with your one spouse who is of the opposite gender. Not animals, not children, not the same sex. 20 years ago that wouldn’t have to be explained but our cultures convictions are changing and have abandoned their scriptural underpinnings. 
+
+Some things – like eating seafood or pork – are not terrible things to abstain from. They aren’t going to save you, and they aren’t honoring God by abstaining from them, but skipping bacon won’t keep you out of and won’t send you to hell. If someone feels they have to, then that’s between them and God. For some it may be sinful. I knew missionaries that served in sensitive contexts where a people that hates pork would just open your fridge and freezer and go through your meat. They may have different convictions than we do, and that’s ok. But does God prohibit pork? Certainly not. Nor is he super concerned with whether we meet on Friday, or Tuesday, or Saturday or Sunday. Scripture says so. Sabbath is for man, not man for the Sabbath. 
+
+We keep Sunday as a protestant church because we believe Jesus was resurrected on a Sunday, and our meeting together Is in celebration and remembrance of Christ’s death on the cross, burial in the tomb, and resurrection from the grave. Through all of that we have the chance at a relationship with God, we can have grace that covers our sins. 
+
+Shall we continue in sin that grace may abound? May it never be. But we can only work on things as God reveals them to us, and aids us in our victory over it, or all of it is futile. Now if you’re an alcoholic, that doesn’t give you liscense to pick up the bottle again because you’re feeling strong today. If you’re prone to desiring a thing above all else then its worth your while to put it down, and run away from it. Your relationship with God is far more important than your next drink, or your next hit of drugs, and if it isn’t more important to you, than you are still lost and in need of a relationship with God. A famous preacher once wrote “This Antinomian principle, that it is needless for a man, perfectly justified by faith, to endeavour to keep the law, and do good works, is a glaring evidence that legality is so engrained in man’s corrupt nature, that until a man truly come to Christ, by faith, the legal disposition will still be reigning in him; let him turn himself into what shape, or be of what principles he will in religion; though he run into Antinomianism he will carry along with him his legal spirit, which will always be a slavish and unholy spirit.” None embrace one extreme whose hearts have not been steeped in the other. 
+
+True knowledge of God’s grace, starts with the Gospel.
