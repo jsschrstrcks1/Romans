@@ -161,6 +161,8 @@ But the world cannot produce unity in diversity. The world cannot produce a room
 
 Only Christ can do that.
 
+And if Christ has welcomed both of you, your voting record cannot be the thing that keeps you apart.
+
 And notice where it comes from: *"the God of endurance and encouragement."*
 
 This unity isn't manufactured. It's granted. It's a gift from the God who endures with us and encourages us through his Word.
@@ -173,7 +175,7 @@ And people who walk in daylight walk *together*. They don't stumble over each ot
 
 The dawn is coming. And the dawn will bring a choir — every nation, every tongue, every tribe — singing with one voice.
 
-We practice that now.
+The dawn is coming whether we are ready or not. The question is whether we will be found divided or singing.
 
 Every Sunday when we gather, we rehearse eternity.
 
