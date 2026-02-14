@@ -203,6 +203,8 @@ This word shows up in Acts 28:2 — when the natives of Malta welcomed Paul and 
 
 It shows up in Philemon 17 — when Paul asks Philemon to receive the runaway slave Onesimus "as you would receive me."
 
+Taking strangers. Making family.
+
 This isn't a nod from across the room. This is intimate. Costly. Real.
 
 And where does it come from? Not from you. Not from your natural hospitality. Piper puts it this way: welcoming one another is "from him and through him and to him." It's not human niceness dressed up in religious language. It's participation in the very welcome of Christ — receiving others the way you were received, for the same purpose: the glory of God.
