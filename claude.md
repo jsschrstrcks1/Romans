@@ -697,3 +697,16 @@ This applies to every sermon modification:
 **This is not optional.** The pulpit demands our best, not our fastest.
 
 **Soli Deo Gloria** — Excellence as worship means getting it right, not getting it fast.
+
+---
+
+## Voice & Presence: Two Skills, Two Moments
+
+> **During writing: `.claude/skills/like-a-human/SKILL.md`**
+> **After writing: `.claude/skills/voice-audit/SKILL.md`**
+
+**like-a-human** fires while writing sermons and book content. It shapes what gets produced — voice markers, rhythms, vocabulary, theological precision. It guards the sound so the prose reads as written by a person who has been with God, not with a prompt.
+
+**voice-audit** fires after a draft is complete or when reviewing existing drafts. It scans for machine tells, checks voice continuity against the sermon corpus, assesses conviction, cadence, and doctrinal sharpness, and suggests minimal restoration edits.
+
+Both serve the same purpose: congregational intuition. The people in the room should never sense distance, artificiality, or tonal drift. They should hear their pastor.
