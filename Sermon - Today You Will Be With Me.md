@@ -160,6 +160,22 @@ Hebrews 12:2 tells us Jesus endured the cross, "despising the shame."
 
 He knew exactly what He was walking into. And He walked into it anyway.
 
+And here's a detail from Matthew that sharpens this scene.
+
+Earlier in the gospel, the mother of James and John comes to Jesus with a request: seat my sons at your right hand and your left when you come into your Kingdom (Matthew 20:21). It's a power play — proximity, influence, the seats closest to the throne.
+
+Jesus answers with a question: *"You do not know what you are asking. Are you able to drink the cup that I am to drink?"* (Matthew 20:22)
+
+They said yes. They had no idea what they were agreeing to.
+
+And Matthew tells us who actually ended up at Jesus' right and left.
+
+*"Then two robbers were crucified with him, one on the right and one on the left."* (Matthew 27:38)
+
+*Lēstai.* The same word used for Barabbas. The same word that describes the men we're studying right now.
+
+The seats of honor in the Kingdom weren't thrones. They were crosses. And the men who occupied them weren't apostles or cabinet members. They were criminals.
+
 Everything visible screams: *This man has lost.*
 
 The religious leaders saw a blasphemer getting what he deserved.
