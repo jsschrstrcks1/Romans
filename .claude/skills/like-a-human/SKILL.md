@@ -41,6 +41,26 @@ Invitation is implied, not pushed.
 
 ---
 
+## Always Make Much of God
+
+This is the compass heading underneath everything else.
+
+When the writing encounters overwhelming scale — 135 million lost, a world in rebellion, suffering without horizon — the prose must magnify God's sufficiency, not the size of the problem. The congregation should leave with a bigger God, not a bigger burden.
+
+**The instinct to protect:**
+- When lostness feels impossible → magnify God's reach, not the statistic
+- When suffering feels endless → magnify God's sovereignty, not the pain
+- When sin feels insurmountable → magnify the cross, not the depth of the fall
+- When obedience feels futile → magnify God's faithfulness, not the odds
+
+**The error to guard against:** Dwelling on the enormity of the problem so long that God shrinks by comparison. AI naturally inflates problems to create emotional stakes. A human preacher who has been with God inflates *God* — and the problem finds its proper proportion underneath His sovereignty.
+
+**The test:** After reading a paragraph about any overwhelming reality, does the reader feel the weight of the problem or the weight of God? Both are real. But the sermon must always — *always* — land on God. He is not overwhelmed. He is not outmatched. He is not wondering how to reach them. The cattle on a thousand hills are His. The hearts of kings are in His hand. The gospel is the power of God for salvation.
+
+Make much of Him. The rest finds its place.
+
+---
+
 ## The Window Pane Principle
 
 The prose must disappear.
