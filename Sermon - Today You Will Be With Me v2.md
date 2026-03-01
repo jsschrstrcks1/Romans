@@ -14,7 +14,7 @@ Same crimes — the Greek word is *lēstēs*, the same word used for Barabbas. T
 
 Same sentence. Same nails. Same slow suffocation.
 
-And between them — close enough to touch — hangs another man. Beaten beyond recognition. Mocked by the crowd. Abandoned by his friends. Naked. Bleeding. Dying.
+And between them — close enough to touch — hangs another man. Beaten beyond recognition, mocked by the crowd, abandoned by his friends. Naked and bleeding and dying.
 
 Everything visible says: *This man is finished.*
 
@@ -67,8 +67,6 @@ The thief got there in one sentence.
 *We are receiving the due reward of our deeds.*
 
 He's not asking for fairness. He knows what fairness would mean. Fairness would mean exactly what he's getting — nails and suffocation and death.
-
-This is where grace always begins: with the truth about ourselves.
 
 Until you see that the sentence is just, mercy makes no sense. Until you stop arguing with the verdict, you'll never cry out for pardon.
 
@@ -125,7 +123,7 @@ A dying criminal — untrained, unschooled, unknown — just confessed:
 - Christ's coming reign
 - His own need for mercy
 
-That's more theology than most people pack into a lifetime. And he got it all right. On a cross. In agony. With no training.
+And he got it all right. On a cross. In agony. With no training.
 
 Where did *that* come from?
 
@@ -374,7 +372,7 @@ Grace takes a criminal and makes him a citizen of paradise — not in spite of t
 
 Some of you are the first thief.
 
-You want Jesus to fix your problems, but you don't want to admit you deserve them. You want rescue without repentance. You want a Savior who serves your agenda, not a King who demands your allegiance.
+You want Jesus to fix your problems, but you don't want to admit you deserve them. You want rescue without repentance. A Savior, but not a King.
 
 That thief died three feet from Jesus and went to hell.
 
@@ -432,15 +430,13 @@ Some of you are estranged from people you love. Years of silence. Years of pain.
 
 The thief died with all of that unresolved. And Jesus said: *Today. Paradise.*
 
-He couldn't heal his body first.
+And his body was already gone. Hours to live. No recovery. No second chance.
 
-His body was failing. Hours to live. No recovery possible. No second chance at health.
+Some of you know what that feels like. Diagnoses you didn't ask for. Futures you didn't plan. You've wondered if God is done with you.
 
-Some of you are watching your bodies break down. Diagnoses you didn't ask for. Futures you didn't plan. And maybe you've wondered if God is done with you.
+He's not.
 
-The thief's body was destroyed. And Jesus said: *Today. Paradise.*
-
-Do you see the pattern?
+The thief had nothing left — no sobriety, no repaired marriage, no reconciled family, no functioning body. And Jesus said: *Today. Paradise.*
 
 Jesus didn't wait for the thief to clean up, fix up, make up, or heal up.
 
