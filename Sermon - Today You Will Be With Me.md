@@ -68,9 +68,9 @@ The thief got there in one sentence.
 
 He's not asking for fairness. He knows what fairness would mean. Fairness would mean exactly what he's getting — nails and suffocation and death.
 
-This is where grace always begins: with the truth about ourselves.
+This is where grace always begins: with the truth about ourselves and our sin.
 
-Until you see that the sentence is just, mercy makes no sense. Until you stop arguing with the verdict, you'll never cry out for pardon.
+Until you see that the sentence for our crimes is just, mercy makes no sense. Until you stop arguing with the verdict, you'll never cry out for pardon.
 
 The first thief wanted rescue without repentance. *"Save yourself and us!"* Get me off this cross. Fix my circumstances. But don't ask me to admit I belong here.
 
@@ -125,7 +125,7 @@ A dying criminal — untrained, unschooled, unknown — just confessed:
 - Christ's coming reign
 - His own need for mercy
 
-That's more theology than most people pack into a lifetime. And he got it all right. On a cross. In agony. With no training.
+That's more theology than most people learn across their entire lifetime. And he got it all right. On a cross. In agony. With no training.
 
 Where did *that* come from?
 
@@ -138,7 +138,7 @@ Now look at what he saw — because what he said makes no sense given what he co
 *"This man has done nothing wrong."*
 
 Look at Jesus in this moment:
-- Flesh torn open from the scourging
+- Flesh torn open from the scourging - some of his insides on the outside.
 - Blood running down his face from the thorns
 - Gasping for breath between the spikes
 - Surrounded by mockers, gamblers, executioners
@@ -146,7 +146,7 @@ Look at Jesus in this moment:
 
 And feel the weight of that cross.
 
-Crucifixion wasn't just painful — it was designed to be the most shameful death the Roman Empire could devise. It was reserved for slaves, rebels, and the lowest criminals. Roman citizens were legally exempt; it was beneath their dignity to even witness one. Cicero called it *crudelissimum taeterrimumque supplicium* — "the cruelest and most disgusting punishment" (*In Verrem* 2.5.165).
+Crucifixion wasn't just painful — it was designed to be the most shameful death the Roman Empire could devise. It was reserved for slaves, rebels, and the lowest criminals. Roman citizens were legally exempt; it was beneath their dignity to even witness one. Cicero called it *crudelissimum taeterrimumque supplicium* — "the cruelest and most disgusting punishment" (*In Verrem* 2.5.165) that one human could inflict upon another.
 
 Victims were stripped naked — every shred of dignity gone. Displayed at eye level so the crowds could mock, spit, and jeer. Left to lose control of their bodies while strangers watched. Death came slowly — hours, sometimes days — and it came publicly.
 
@@ -174,7 +174,7 @@ And Matthew tells us who actually ended up at Jesus' right and left.
 
 *Lēstai.* The same word used for Barabbas. The same word that describes the men we're studying right now.
 
-The seats of honor in the Kingdom weren't thrones. They were crosses. And the men who occupied them weren't apostles or cabinet members. They were criminals.
+Pay attention to this, the seats of honor in the Kingdom weren't thrones. They were crosses. And the men who occupied them weren't apostles or cabinet members. They were criminals.
 
 Everything visible screams: *This man has lost.*
 
@@ -305,7 +305,7 @@ He saw the mirror. He saw the King. He received the verdict.
 
 And he went from literal darkness to paradise before sunset.
 
-*"Truly, I say to you, today you will be with me in paradise."*
+*"Truly, I say to you, today you will be with me in paradise."* In that one moment, he went from walking in darkness, to walking in light. 
 
 Today.
 
