@@ -234,7 +234,13 @@ Two men. Same crosses. Same crimes. Same proximity to Jesus.
 
 Same opportunity.
 
-One mocks. One worships.
+And Matthew tells us something Luke doesn't. At first, both thieves mocked Him. *"The robbers who were crucified with him also reviled him in the same way"* (Matthew 27:44).
+
+Both of them. Same contempt. Same venom as the crowd.
+
+And then one stopped.
+
+One hour he's reviling Jesus. The next he's calling Him King.
 
 Why?
 
@@ -244,7 +250,7 @@ And Paul's answer is not what we want to hear:
 
 *"So then it depends not on human will or exertion, but on God, who has mercy."* (Romans 9:16)
 
-The second thief didn't out-think the first one. He didn't have better information. He didn't try harder. He didn't make a wiser choice by sheer willpower.
+The second thief didn't out-think the first one. He didn't have better information. He didn't even start in a better place — he was mocking Jesus right alongside the other one. He didn't try harder. He didn't make a wiser choice by sheer willpower.
 
 He saw what no natural eye could see.
 
