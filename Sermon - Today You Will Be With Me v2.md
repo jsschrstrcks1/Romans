@@ -125,6 +125,14 @@ A dying criminal — untrained, unschooled, unknown — just confessed:
 
 And he got it all right. On a cross. In agony. With no training.
 
+Paul would later put words to what happened here: "With the heart one believes and is justified, and with the mouth one confesses and is saved" (Romans 10:10).
+
+That's the thief. Heart and mouth. Faith and confession.
+
+His heart believed — he looked at a dying man and saw a King. His mouth confessed — "Jesus, remember me when you come into your kingdom."
+
+Romans 10:10, lived out on a cross before Paul ever set it to paper.
+
 Where did *that* come from?
 
 ---
@@ -330,6 +338,20 @@ He doesn't say: *"Your faith is commendable, but let's wait and see if it's real
 He speaks a verdict.
 
 *"Today you will be with me in paradise."*
+
+Listen to the gap between what the thief asked and what Jesus gave.
+
+The thief asked: *"Remember me when you come into your kingdom."* Future tense. Modest. Almost timid — just remember me. Someday, when this is over. Don't forget I was here.
+
+Jesus answered: *"Today you will be with me in paradise."*
+
+*Today* — not someday. Not when I come into my kingdom. Before the sun sets on this Friday.
+
+*With me* — not remembered from a distance. Not a name on a list. Personal presence.
+
+*Paradise* — not merely the end of suffering. Not just escape from the cross. Paradise.
+
+He asked for remembrance. He received presence. He asked for the future. He got today. He reached for the least he could hope for — and was handed more than he knew to ask.
 
 This is Romans 8:1 before Paul ever wrote it down.
 
