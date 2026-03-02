@@ -182,6 +182,10 @@ And Matthew tells us who actually ended up at Jesus' right and left.
 
 Pay attention to this, the seats of honor in the Kingdom weren't thrones. They were crosses. And the men who occupied them weren't apostles or cabinet members. They were criminals.
 
+Luther saw it. As far as God's justice was concerned, he said, there were really three thieves on the cross that day — two who died for their own crimes, and one who took our sins upon himself. Isaiah had prophesied that the Servant would be "numbered with the transgressors" (Isaiah 53:12). Jesus wasn't merely placed between criminals. He was counted as one.
+
+And Augustine saw something else. The cross of Christ, he said, became Christ's tribunal. Hanging there under judgment, He was judging — condemning the proud thief on one side, pardoning the humble one on the other. "Since He had this power while under judgment," Augustine asked, "what will be His power when He comes to render judgment?"
+
 Everything visible screams: *This man has lost.*
 
 The religious leaders saw a blasphemer getting what he deserved.
@@ -228,6 +232,8 @@ That's not good judgment. That's not careful reasoning. That's not a wise bet.
 
 That's an *impossible* conclusion — one that contradicted every visible fact.
 
+Chrysostom marveled at it centuries later. The thief saw Christ crucified, he said, "and not only did not stumble in his faith, but in the event of the crucifixion received a greater reason to think like a Christian." The very thing that should have destroyed faith became the ground of it.
+
 Something else was happening.
 
 Someone was opening his eyes.
@@ -263,6 +269,8 @@ The second thief didn't out-think the first one. He didn't have better informati
 He saw what no natural eye could see.
 
 And that sight was a gift.
+
+Calvin, preaching on this passage in 1562, put it plainly. Even if this man had been raised from childhood on the law and prophets — even if he had studied them day and night — the scandal of the cross would have been enough to "turn him away and upset all the instruction he had previously received." He was a poor murderer who had tasted scarcely a bit of God. And yet he looked at a dying man in the most scandalous situation imaginable and called him King. Calvin's conclusion: "So we see that God gave him a wonderful faith."
 
 This is what Paul is talking about in Romans 9. This is why he quotes Exodus 33:19 — "I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion."
 
@@ -397,6 +405,8 @@ Grace takes a criminal and makes him a citizen of paradise — not in spite of t
 ---
 
 ## VII. What This Means for You
+
+J.C. Ryle said it plainly: "One thief on the cross was saved, that none should despair, and only one, that none should presume."
 
 Some of you are the first thief.
 
