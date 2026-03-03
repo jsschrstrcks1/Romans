@@ -234,6 +234,8 @@ That's an *impossible* conclusion — one that contradicted every visible fact.
 
 Chrysostom marveled at it centuries later. The thief saw Christ crucified, he said, "and not only did not stumble in his faith, but in the event of the crucifixion received a greater reason to think like a Christian." The very thing that should have destroyed faith became the ground of it.
 
+Spurgeon was right: "I greatly question whether there was ever greater faith in this world than the faith of this thief." Not because it came late. Because it came against every visible fact — and held.
+
 Something else was happening.
 
 Someone was opening his eyes.
@@ -323,7 +325,7 @@ The thief on the cross lived the whole journey in an afternoon.
 
 He saw the mirror. He saw the King. He received the verdict.
 
-And he went from literal darkness to paradise before sunset.
+And he went from literal darkness to paradise before sunset. He breakfasted with the devil, Spurgeon said, but he dined with Christ on earth and supped with him in paradise.
 
 *"Truly, I say to you, today you will be with me in paradise."* In that one moment, he went from walking in darkness, to walking in light.
 
@@ -336,6 +338,12 @@ Today.
 ---
 
 ## VI. The Verdict
+
+Now hear it from Christ's side.
+
+Every friend had fled. Every voice around the cross was hostile or silent. And in the middle of that abandonment, one man — nailed to the wood beside him — called him Lord and confessed his kingdom. The chain of testimony was about to break. A criminal on a gibbet kept it alive.
+
+And Jesus answered him.
 
 Notice what Jesus doesn't say.
 
@@ -357,7 +365,7 @@ Jesus answered: *"Today you will be with me in paradise."*
 
 *With me* — not remembered from a distance. Not a name on a list. Personal presence.
 
-*Paradise* — not merely the end of suffering. Not just escape from the cross. Paradise.
+*Paradise* — not merely the end of suffering. Not just escape from the cross. The word is the same one the Greek Old Testament uses for Eden. The garden lost in Genesis, offered to a criminal on a Friday afternoon.
 
 He asked for remembrance. He received presence. He asked for the future. He got today. He reached for the least he could hope for — and was handed more than he knew to ask.
 
@@ -371,6 +379,8 @@ The thief contributed nothing.
 - No baptism
 - No church membership
 - No time to prove his faith was real
+
+Origen, commenting on Romans 4, put it this way: "The root of righteousness does not spring from works; rather, the fruit of works grows from the root of righteousness." The thief had the root. He simply ran out of time for the fruit. And the root was enough.
 
 And that word *baptism* matters.
 
