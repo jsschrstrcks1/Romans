@@ -125,6 +125,14 @@ A dying criminal — untrained, unschooled, unknown — just confessed:
 
 And he got it all right. On a cross. In agony. With no training.
 
+Paul would later put words to what happened here: "With the heart one believes and is justified, and with the mouth one confesses and is saved" (Romans 10:10).
+
+That's the thief. Heart and mouth. Faith and confession.
+
+His heart believed — he looked at a dying man and saw a King. His mouth confessed — "Jesus, remember me when you come into your kingdom."
+
+Romans 10:10, lived out on a cross before Paul ever set it to paper.
+
 Where did *that* come from?
 
 ---
@@ -174,6 +182,10 @@ And Matthew tells us who actually ended up at Jesus' right and left.
 
 Pay attention to this, the seats of honor in the Kingdom weren't thrones. They were crosses. And the men who occupied them weren't apostles or cabinet members. They were criminals.
 
+Luther saw it. As far as God's justice was concerned, he said, there were really three thieves on the cross that day — two who died for their own crimes, and one who took our sins upon himself. Isaiah had prophesied that the Servant would be "numbered with the transgressors" (Isaiah 53:12). Jesus wasn't merely placed between criminals. He was counted as one.
+
+And Augustine saw something else. The cross of Christ, he said, became Christ's tribunal. Hanging there under judgment, He was judging — condemning the proud thief on one side, pardoning the humble one on the other. "Since He had this power while under judgment," Augustine asked, "what will be His power when He comes to render judgment?"
+
 Everything visible screams: *This man has lost.*
 
 The religious leaders saw a blasphemer getting what he deserved.
@@ -220,6 +232,10 @@ That's not good judgment. That's not careful reasoning. That's not a wise bet.
 
 That's an *impossible* conclusion — one that contradicted every visible fact.
 
+Chrysostom marveled at it centuries later. The thief saw Christ crucified, he said, "and not only did not stumble in his faith, but in the event of the crucifixion received a greater reason to think like a Christian." The very thing that should have destroyed faith became the ground of it.
+
+Spurgeon was right: "I greatly question whether there was ever greater faith in this world than the faith of this thief." Not because it came late. Because it came against every visible fact — and held.
+
 Something else was happening.
 
 Someone was opening his eyes.
@@ -234,7 +250,13 @@ Two men. Same crosses. Same crimes. Same proximity to Jesus.
 
 Same opportunity.
 
-One mocks. One worships.
+And Matthew tells us something Luke doesn't. At first, both thieves mocked Him. *"The robbers who were crucified with him also reviled him in the same way"* (Matthew 27:44).
+
+Both of them. Same contempt. Same venom as the crowd.
+
+And then one stopped.
+
+One hour he's reviling Jesus. The next he's calling Him King.
 
 Why?
 
@@ -244,11 +266,13 @@ And Paul's answer is not what we want to hear:
 
 *"So then it depends not on human will or exertion, but on God, who has mercy."* (Romans 9:16)
 
-The second thief didn't out-think the first one. He didn't have better information. He didn't try harder. He didn't make a wiser choice by sheer willpower.
+The second thief didn't out-think the first one. He didn't have better information. He didn't even start in a better place — he was mocking Jesus right alongside the other one. He didn't try harder. He didn't make a wiser choice by sheer willpower.
 
 He saw what no natural eye could see.
 
 And that sight was a gift.
+
+Calvin, preaching on this passage in 1562, put it plainly. Even if this man had been raised from childhood on the law and prophets — even if he had studied them day and night — the scandal of the cross would have been enough to "turn him away and upset all the instruction he had previously received." He was a poor murderer who had tasted scarcely a bit of God. And yet he looked at a dying man in the most scandalous situation imaginable and called him King. Calvin's conclusion: "So we see that God gave him a wonderful faith."
 
 This is what Paul is talking about in Romans 9. This is why he quotes Exodus 33:19 — "I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion."
 
@@ -301,7 +325,7 @@ The thief on the cross lived the whole journey in an afternoon.
 
 He saw the mirror. He saw the King. He received the verdict.
 
-And he went from literal darkness to paradise before sunset.
+And he went from literal darkness to paradise before sunset. He breakfasted with the devil, Spurgeon said, but he dined with Christ on earth and supped with him in paradise.
 
 *"Truly, I say to you, today you will be with me in paradise."* In that one moment, he went from walking in darkness, to walking in light.
 
@@ -315,6 +339,12 @@ Today.
 
 ## VI. The Verdict
 
+Now hear it from Christ's side.
+
+Every friend had fled. Every voice around the cross was hostile or silent. And in the middle of that abandonment, one man — nailed to the wood beside him — called him Lord and confessed his kingdom. The chain of testimony was about to break. A criminal on a gibbet kept it alive.
+
+And Jesus answered him.
+
 Notice what Jesus doesn't say.
 
 He doesn't say: *"We'll see how you do."*
@@ -324,6 +354,20 @@ He doesn't say: *"Your faith is commendable, but let's wait and see if it's real
 He speaks a verdict.
 
 *"Today you will be with me in paradise."*
+
+Listen to the gap between what the thief asked and what Jesus gave.
+
+The thief asked: *"Remember me when you come into your kingdom."* Future tense. Modest. Almost timid — just remember me. Someday, when this is over. Don't forget I was here.
+
+Jesus answered: *"Today you will be with me in paradise."*
+
+*Today* — not someday. Not when I come into my kingdom. Before the sun sets on this Friday.
+
+*With me* — not remembered from a distance. Not a name on a list. Personal presence.
+
+*Paradise* — not merely the end of suffering. Not just escape from the cross. The word is the same one the Greek Old Testament uses for Eden. The garden lost in Genesis, offered to a criminal on a Friday afternoon.
+
+He asked for remembrance. He received presence. He asked for the future. He got today. He reached for the least he could hope for — and was handed more than he knew to ask.
 
 This is Romans 8:1 before Paul ever wrote it down.
 
@@ -335,6 +379,8 @@ The thief contributed nothing.
 - No baptism
 - No church membership
 - No time to prove his faith was real
+
+Origen, commenting on Romans 4, put it this way: "The root of righteousness does not spring from works; rather, the fruit of works grows from the root of righteousness." The thief had the root. He simply ran out of time for the fruit. And the root was enough.
 
 And that word *baptism* matters.
 
@@ -369,6 +415,8 @@ Grace takes a criminal and makes him a citizen of paradise — not in spite of t
 ---
 
 ## VII. What This Means for You
+
+J.C. Ryle said it plainly: "One thief on the cross was saved, that none should despair, and only one, that none should presume."
 
 Some of you are the first thief.
 
