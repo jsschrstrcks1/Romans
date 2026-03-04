@@ -71,6 +71,7 @@
 | Burmese | Myanmar | ~30 million | Romans 15a |
 | Hmong Bua | China | — | romans 15 (2) |
 | Yazidi | Iraq | — | romans 15 (2) |
+| Turks | Turkey | ~60 million | What Survives the Fire |
 
 ---
 
