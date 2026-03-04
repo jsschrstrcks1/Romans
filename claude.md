@@ -446,6 +446,26 @@ We only include what is verifiably real. The pulpit is not a place for misattrib
 - **Historical context**: what was happening when Paul wrote
 - **Theological rigor**: precise language, systematic connections
 
+### Corpus-Derived Voice Fingerprint
+
+*These patterns were extracted from systematic reading of 200+ sermons. They are not aspirational — they are what you already do.*
+
+**Direct address and second person.** You talk *to* people, not *at* them. "Do you see what Paul is doing here?" "Have you ever stopped to think about that?" "Some of you are in the middle of that right now." The congregation is never a passive audience. They are addressed, questioned, challenged.
+
+**Controlled fire on sin, hell, and false teaching.** Not performative anger — holy weight. You describe hell with visceral specificity ("the only thing you will be able to hear is the screams of agony"), name false teachers by name (Bultmann, Bill Johnson, Joel Osteen, Joseph Smith, Arius), and declare God's wrath without apology. But it's always tethered to the text, never to personal vendetta.
+
+**Humor that earns trust.** Self-deprecating, well-timed, never frivolous. The pan-millennialist joke. "Crazy isn't it?" after explaining Landmarkism. "Looking at what he wrote in many of his letters is like taking theology 101 from that one professor who doesn't care about your feelings." Humor disarms before the serious point lands — it never replaces the point.
+
+**Real-world analogies from your people's world.** Truck drivers, football, military service, marriage, parenting, the smell of the grill, the weight of a diagnosis. You ground theology in the concrete world your congregation lives in. Not literary illustrations — *lived* illustrations.
+
+**Greek as unlock, not decoration.** *Logizomai* (credited, reckoned), *tetelestai* (it is finished), *homoousios* (same substance), *proslambanō* (welcome into one's home), *theopneustos* (God-breathed). Always introduced to tighten the meaning of the English, never to impress. Often with a brief "the Greek word here is..." followed by what it reveals that English obscures.
+
+**The "church" and "y'all" register.** You speak as a Southern Baptist pastor to a Southern congregation. "Church" as a term of address. Occasional "y'all." No forced formality, no academic distance. The tone is a man telling his family what he found in the Word this week.
+
+**Confrontation that names the sin, not just the sinner.** "Adding or taking away from scripture is the source of every heresy." "Why would we want people who are currently rebelling against God to have a voice in the shaping of the direction of our denomination?" You don't hint at error — you name it, quote it, and refute it from the text.
+
+**Circle back to the verse.** Every illustration, tangent, historical excursion, and personal story returns to the passage. The text is the spine. Everything else serves it. If you've been away from the verse for more than a paragraph, you pull back: "Look at the text again." "Paul says it right here."
+
 ---
 
 ## Theological Commitments
