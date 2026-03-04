@@ -50,6 +50,19 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Romans 15:18+; Mt 28; Rev 7 | Evangelism | `evangelism (romans 15, mt 28, and rev 7).md` | Great Commission; missions; panta ethne |
 | Romans 15:14+ | Holy Obsession | `romans 15 (2).md` | Goodness; knowledge; Great Commission |
 
+### Special Messages (Non-Romans, Current Series)
+
+| Passage | Title | File | Subject |
+|---|---|---|---|
+| 1 Samuel 17 | The Magnet on the Compass | `Sermon - The Magnet on the Compass.md` | David and Goliath; typology; total depravity; the compass illustration |
+| 1 Samuel 28 | Power Encounter | `Sermon - Power Encounter.md` | Mediums; the occult; Wicca; spiritual warfare; evangelism to occultists |
+| 1 Kings 18:33-41 | Choose This Day | `Sermon - Choose This Day.md` | Elijah vs Baal; double-mindedness; idolatry; God's jealousy |
+| 1 Corinthians 3:10-15 | What Survives the Fire | `Sermon - What Survives the Fire.md` | Judgment of works; stewardship of time; legacy; Polycarp's martyrdom |
+| 1 Thessalonians 3:12-4:8 | The List I Burned | `Sermon - The List I Burned.md` | Love (1 Cor 13); acts of service; sexual purity; keeping no record of wrong |
+| 1 Peter 1:1-9 | Wear the Jersey | `Sermon - Wear the Jersey.md` | Election (*eklektos*); identity in Christ; exile; Easter; living hope |
+| 1 Peter 3:8-18 | Live Like You're Leaving | `Sermon - Live Like You're Leaving.md` | Unity of mind; brotherly love; eternity perspective; tipping as witness |
+| 2 Timothy 1:3-14 | Be a Seawall | `Sermon - Be a Seawall.md` | Guarding the deposit; spiritual gifts; increasing hostility; Marxism critique |
+
 ---
 
 ## Archive Sermons by Bible Book
@@ -488,6 +501,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Thief on the cross; grace
 - `Romans 3 - wrath of God (final).md` — Romans 3 — Wrath; propitiation
 - `Romans 5.md` — Romans 5:1-11 — While we were still sinners
+- `Sermon - Live Like You're Leaving.md` — 1 Peter 3:18 — Christ suffered once for sins, the righteous for the unrighteous
 
 ### Baptist Distinctives / Identity
 - `being baptist.txt` — Acts 18; 1 Cor 3 — Baptist history and distinctives
@@ -514,6 +528,11 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 14a...md` through `Romans 14d...md` — Romans 14 — Weak and strong in the church
 - `Romans 15a...md` — Romans 15:1-13 — Welcome one another
 
+### Christian Witness / Conduct
+- `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Tipping; Sunday lunch; fake $20 tracts; loving with your wallet
+- `Sermon - The List I Burned.md` — 1 Thess 3:12-4:8 — Bumper stickers and bad driving; tracts without tips; Grandma Baker
+- `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Wearing the jersey; living consistent with identity; scoring on your own team
+
 ### Cults / False Teaching / Counterfeits
 - `Catholicism.txt` — Romans 3-5 — Catholic vs Protestant justification
 - `Christian science...txt` — John 14:1-7 — Reaching Christian Scientists
@@ -521,6 +540,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Catching Counterfeits.txt` — 2 Cor 5:6-8 — Counterfeit claims about heaven
 - `1 sam 28 wicca and the occult..txt` — 1 Samuel 28 — Wicca and the occult
 - `Romans 1.md` — Romans 1:18-24 — Unitarian Universalism
+- `Sermon - Power Encounter.md` — 1 Samuel 28 — Mediums; Wicca; psychics in Pasco; papal false authority
 
 ### Death / Funeral / Comfort
 - `Ecclesiastes 3 Ann Burdette Funeral.txt` — Funeral for Ann Burdette
@@ -529,6 +549,8 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `We are gathered here...Jean.txt` — Memorial for Jean; Lazarus raised
 - `Kurt was a man I loved dearly.txt` — Eulogy for Kurt
 - `psalm 23 1-4..txt` — Psalm 23:1-4 — Shadow of death
+- `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Judy Ayers memorial; death as homecoming
+- `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — New Year's Eve car accident; fragility of life
 
 ### Discipleship / Cost of Following Christ
 - `Luke 9 - cost of following christ.txt` — Luke 9:57-62 — Cost vs prosperity gospel
@@ -543,6 +565,9 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 9 pt 2.md` / `Romans 9 Pt 3.md` — Romans 9 — Potter and clay; mercy
 - `Romans 11 - The Remnant of Grace.md` — Romans 11:1-10 — Remnant; foreknew = fore-love
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Why one thief and not the other
+- `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — *Eklektos* word study; BDAG, LSJ, Louw-Nida; John 6:44; Romans 9:22-25
+- `Sermon - The Magnet on the Compass.md` — 1 Samuel 17 — Total depravity; compass illustration; effectual calling; monergistic regeneration
+- `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — God's patience is not God losing; the conclusion already written
 - `Ezekiel 36.txt` — Ezekiel 36:22-32 — Grace alone for God's glory
 - `ezekiel 37.txt` — Ezekiel 37 — Total depravity; dry bones
 
