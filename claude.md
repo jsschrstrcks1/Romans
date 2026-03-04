@@ -16,6 +16,14 @@ This dual purpose means:
 
 When writing, think: *Would this passage hold up on the page five years from now?*
 
+### Sermon Reference Map
+
+A complete catalog of every sermon, teaching, and study in the repository — organized by Bible book and passage — lives at `.claude/sermon-map.md`. Use it to:
+- Check what passages have been preached before
+- Find earlier treatments of a text for reuse or revision
+- Avoid repeating illustrations or cross-references
+- Locate memorial services, topical teachings, and non-Romans material
+
 ---
 
 ## Book Framework: "The Night Is Far Gone"
