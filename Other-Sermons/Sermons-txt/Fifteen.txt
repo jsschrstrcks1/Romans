@@ -1,0 +1,71 @@
+Fifteen: When Your Best Is Not Enough
+Trusted with a Silence
+John 11:1-16
+These verses in John 11 provide the prelude for Jesus’ dramatic raising of Lazarus from
+the dead. In this stunning miracle, Jesus reveals his power (over even death), and he
+demonstrates deep compassion for the people he loves.
+What is perhaps most striking in the story, however, is Jesus’ delay in going to Lazarus.
+For most of us, his delay is unsettling. There is a specific need – and Jesus obviously
+cares – and he can certainly do something about the need – but, after hearing that Lazarus
+is sick, Jesus stays where he is two more days.
+Bible scholars are quick to explain that Jesus has his reasons for delaying – that Jesus
+knows exactly what he is doing by staying where he is for two more days – that he has a
+bigger purpose in mind. And those explanations are strong and convincing. Still, that
+two-day delay is unsettling.
+Christian writer Oswald Chambers had some interesting observations about this passage.
+He wrote this: “Has God trusted you with a silence – a silence that is big in meaning?
+Think of those days of absolute silence in the home at Bethany! Is there anything like
+that in your life today? God’s silence is the sign that he is bringing you into a marvelous
+understanding of himself. If God has trusted you with a silence, praise him, for he is
+inviting you to understand his purposes more completely” (My Utmost for His Highest).
+As we walk with God, there are many times when God is very close. Thankfully, there
+are many times when he is very close. But there are also times when God seems
+painfully silent. In those times of silence, we might wonder what we have done wrong.
+(And it is a possibility that we have done something wrong!)
+Still, Oswald Chambers’ suggestion is another possibility. Could it be that God is
+trusting us with a silence? God’s silence may not, in fact, be an indication that we have
+done something wrong.
+God’s silence may, instead, be an indication that God is about to do something new.
+Sometimes-silent God,
+I am uncomfortable when you are quiet.
+I am relieved to know
+that you might trust me with a silence,
+but I have a hard time trusting you with silence!
+I am forever in a hurry.
+I am in a hurry to have an answer.
+I am in a hurry for things to be different.
+I am in a hurry to have my hurts healed.
+So I want you to speak – now.
+I want you to act – soon.
+I am unsettled by the two-day delays
+and the delays that are much longer than that.
+And I am especially unsettled
+by your silence as that time passes.
+I know that you will speak
+when the time is right.
+Give me the grace to wait
+calmly
+until that right time.
+Amen
+Questions for reflection:
+1. Consider these words from Chapter Fifteen again: “For perhaps the first time
+in my life, I was dealing with something that I could not fix. Prayer and
+obedience and hard work and good training and godly intentions and sacrifice
+– none of it seemed to make a difference.” Later in the same paragraph, Nik
+says this: “I am embarrassed to admit it now, but I even wondered if maybe
+this problem was too big for God.” What problems in your life, right now,
+seem “too big for God”? Are you willing to place those problems in his
+hands?
+2. You might be encouraged to know (using Oswald Chambers’ words) that God
+will trust you with a silence – but do you trust him in his silence? What do
+you do when God seems quiet? Do you tend to walk away, do you wait and
+hope that the silence ends, or do you dig deeper into your relationship with
+God?
+3. The stories of missionaries are very different. Some stories are marked by
+visible and remarkable expressions of God’s activity. Other stories are
+characterized by very little in the way of visible results. Occasionally, we
+read about missionaries who labored for years without seeing one person
+respond to the gospel. At the end of this chapter, Nik honestly asks: “Had our
+efforts been worth the time, the money, and the energy invested? Was this
+worth the price that we had paid?” How do you determine if your efforts and
+your sacrifices are worth the price?

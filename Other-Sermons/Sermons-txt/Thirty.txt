@@ -1,0 +1,109 @@
+Thirty-Three: What If He Is Alive?
+Deceptive Finality
+Mark 15:42-47
+One of the most troubling parts of the gospel story is how fast things change from Sunday
+to Friday during the days leading up to Jesus’ crucifixion. On Sunday of that week, Jesus
+makes his way into Jerusalem among cheering and adoring crowds. He is celebrated as a
+hero and welcomed as a friend. Today, we call that day “Palm Sunday.” In a matter of
+days, however, there is a dramatic turn. The cheering is replaced by jeering. And the
+crowds that cry out their adoration quickly give way to crowds that call for crucifixion.
+By the end of the week, Jesus is dead. If we were to put a title on Mark 15:42-47, we
+might call this part of the story, “It Sure Looks Like It’s Over to Me.”
+Some scholars are critical of Joseph of Arimathea. They say that he should have spoken
+up sooner and that he should have done something before Jesus’ death. On the other
+hand, his behavior at this point in the story is remarkably courageous. He is one of the
+Jewish leaders – and he stands as evidence that not all of the Jewish leaders wanted Jesus
+to be put to death. Joseph went boldly to Pilate and dared to ask for Jesus’ body.
+Eventually, the request was granted. Joseph prepared Jesus’ body for burial and then
+placed the body in a cave-like tomb. He then rolled a stone against the entrance of the
+tomb.
+There is nothing like a burial to tell us that the story is over.
+Earlier in Chapter Sixteen of The Insanity of God, we read about the death of sixteen-
+year-old Tim, the son of Nik and Ruth. Tim died suddenly in Nairobi as he was rushed to
+the hospital early on Easter morning of 1997. About a week or so later, hundreds of
+people gathered for a memorial service in the outdoor amphitheater at the school where
+Tim had been a high school sophomore. Rain started to fall just as the service came to an
+end. At the conclusion of the service, the gathered group walked down the hill to the
+place where Tim was to be buried, right there on the school campus.
+Here are some reflections from a journal entry written by someone who was there that
+day:
+After we prayed and sang down there at the bottom of the hill, Nik and Ruth led
+about six hundred people back up the hill for a time of fellowship and reception.
+For some reason, I stayed there at the graveside. There were about twelve of us
+who stayed there, the others Kenyan workers and helpers, friends of Nik and
+Ruth. I felt that I was there representing the family. Nik and Ruth, I am sure,
+knew what was about to happen, but I was completely unaware of Kenyan
+tradition. Nik and Ruth had to be back at the school with the people, but I was
+able to stay by the graveside.
+In just a few moments, I realized what was about to happen. I will never forget
+the instant when it dawned on me that we were going to bury Tim.
+The casket was lowered into the grave – with just ropes and hands – and then four
+people picked up shovels and began filling the grave. When they were tired,
+others took their places. I found myself doing what everybody else was doing.
+Shovels were passed around. Sometimes people simply used their hands. The
+rain, the tears, the sweat; who could tell the difference? Sometimes we worked in
+silence. Sometimes there was a story or two. Sometimes there was even laughter.
+Sometimes there were wails of grief. Red, wet Kenyan mud was everywhere. And
+together, literally, we buried Tim.
+There was no stone, but we did exactly what Joseph of Arimathea did.
+There is nothing quite like a burial to tell us that the story is over.
+Except . . . that is not quite true. The truth of this story – and the truth of every good
+burial – is that the finality is a deception. The story is not over at all! No stone is ever
+the last act when it is rolled up against something in which God has a part. And that is
+not just true about death. There are so many things that we are inclined to put away.
+“Well, that’s the end of that!” we say. “That’s the end of that chapter. That’s finally
+over.”
+Get a shovel. Roll a stone. Close it up. It’s over.
+But God does not pay much attention to our finalities. He has so many ways of opening
+up things that are sealed up tight. And the fact that he can do that here with Jesus . . .
+means that he can do that with Tim . . . and it means that he can do that with you and me
+too.
+And the fact that God can do that with death means that he can do that with all of our
+other finalities as well. All those places where we have decided that God is not going to
+work. All those people we have labeled as beyond God’s power to reach. All those
+relationships that we have written off.
+We simply must understand this: we think we know what the finalities are . . . but God
+barely even notices.
+There is nothing quite like a burial to tell us that the story is over.
+Except the story is not over at all.
+Joseph rolls a stone against the entrance to the tomb. But we should not pay too much
+attention to the stone. God barely notices the stone at all.
+Life-giving,
+Death-defying
+God,
+forgive me for saying that the story is over.
+I look at the world and I see only
+impossibility.
+I know when something is over.
+I know when it is time to give up hope.
+I know what a burial means.
+But you shake your head
+at my foolish pronouncements.
+You tell me quietly
+that you hold every story in your hands.
+You assure me that no story is finished
+until you say that it is finished.
+Forgive me for giving up.
+Forgive me for walking away.
+Forgive me for deciding
+exactly where you can work –
+and where you cannot work.
+Forgive me for declaring that certain people
+are beyond your reach.
+Indeed, you are the God who
+gives life and defies death.
+Despite my convictions
+about finalities,
+I trust you.
+Amen
+Questions for reflection:
+1. What are some of the finalities in your life right now? In your heart, what are
+the limits that define what God can do? Are there people in your life who
+seem to be beyond the reach of God? Are there situations that seem so
+difficult that are pretty sure that they will never be fixed? Are there places in
+the world that seem too far away for God’s activity? What is it that you
+consider “impossible” in your life right now? What do you think God would
+say to you in response to that?
+2. What is the difference between “living for Jesus” and “living with Jesus”? If
+you had to choose one of those ways of living, which one would you choose?
+Why?
