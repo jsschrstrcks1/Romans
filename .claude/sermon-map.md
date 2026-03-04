@@ -586,6 +586,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `1 cor 9.txt` — 1 Corinthians 9:19-23 — Motivation for sharing the gospel
 - `col 4 - prayer.txt` / `prayer col 4.txt` — Colossians 4:2-4 — Prayer and evangelism
 - `Psalms 96.txt` — Psalm 96 — Evangelism as worship
+- `Sermon - Power Encounter.md` — 1 Samuel 28 — Evangelism framework for the occult; power encounter; Creation-Fall-Cross-Redemption
 
 ### Faith / Trust / Resting in God
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Greatest faith ever exhibited (Spurgeon)
@@ -623,6 +624,8 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `romans 3 - the wrath of God.txt` — Romans 3 — Wrath (earlier version)
 - `Romans 1 (2024).md` — Romans 1:18+ — Wrath revealed
 - `Psalms 75.txt` — Psalm 75 / 1 Peter 1:13+ — God's judgment
+- `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Hell is a reality; free will damaged by sin; those who reject God choose hell
+- `Sermon - What Survives the Fire.md` — 1 Cor 3:10-15 — Judgment of believers' works by fire; bema seat distinct from Great White Throne
 
 ### Holiness / Sanctification / Putting Off Sin
 - `hamartiology.txt` — Colossians 3:1-11 — The weight of sin
@@ -631,6 +634,10 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `1 peter 1 - legacies.txt` — 1 Peter 1:13-end — Be holy
 - `Romans_6b_with_boulder.md` — Romans 6:15-23 — Dead to sin; alive to God
 - `Neh 13.txt` — Nehemiah 13:1-14 — Sin in the temple
+- `Sermon - The List I Burned.md` — 1 Thess 3:12-4:8 — Love increasing; sexual purity; "more and more"
+- `Sermon - What Survives the Fire.md` — 1 Cor 3:10-15 — Stewardship of time; entertainment vs kingdom investment; lukewarmness
+- `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — Spiritual surgery, not behavior modification; relationship with God as means of grace
+- `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Identity-driven sanctification; sinning = scoring on your own team
 
 ### Holy Spirit
 - `Acts 2 Holy Spirit.txt` — Acts 2:1-9, 36-40 — Spirit's ministry and gifts
@@ -641,6 +648,9 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 15a...md` — Romans 15:13 — God of hope; abound in hope
 - `Titus 2 pt 2.txt` — Titus 2:11-14 — Hope in the second coming
 - `Philippians 3 - 2025.txt` — Philippians 3:1 — Rejoicing and sovereignty
+- `Sermon - Wear the Jersey.md` — 1 Peter 1:3-9 — Living hope through resurrection; imperishable inheritance; eternity contrasted with Buddhism (sermon lines 81-85)
+- `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — Guarding the deposit; perseverance under increasing hostility; fanning the gift into flame (sermon lines 6-27)
+- `Sermon - What Survives the Fire.md` — 1 Cor 3:10-15 — Polycarp's martyrdom: "the fire lasts but a little while" (sermon lines 66-70)
 
 ### Hypocrisy / Self-Righteousness
 - `Romans 2 mt 23 col 3 eph 2.md` — Romans 2:1-11 — Dirty cup; hypocrisy exposed
@@ -654,6 +664,8 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Exodus 2.txt` — Exodus 2:23; Psalm 115:4 — Idolatry vs the living God
 - `psalms 24.txt` — Psalm 24 — Clean hands; idolatry and integrity
 - `thanksgiving 2018.txt` — Eph 5:4; Gen 22 — Smashing idols
+- `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — Baal worship; adding gods to the collection; modern idols of comfort and money; God strikes at idols (sermon lines 46-88)
+- `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — Every political ideology (elephant or donkey) put ahead of God leads to the same Godless place (sermon line 55)
 
 ### Love of God / God's Character
 - `1 john 4 b.txt` — 1 John 4:7-21 — God's love as overwhelming hurricane
