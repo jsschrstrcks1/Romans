@@ -541,6 +541,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `1 sam 28 wicca and the occult..txt` — 1 Samuel 28 — Wicca and the occult
 - `Romans 1.md` — Romans 1:18-24 — Unitarian Universalism
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Mediums; Wicca; psychics in Pasco; papal false authority
+- `Sermon - The Magnet on the Compass.md` — 1 Samuel 17 — Prosperity gospel critiqued: "speak it into existence and you've basically manipulated God"; getting a promotion ≠ defeating Goliath; Spurgeon: "If he was pleased to bruise and crush his Son for his glory, how can we expect him to treat us better?" (lines 64-70)
 
 ### Death / Funeral / Comfort
 - `Ecclesiastes 3 Ann Burdette Funeral.txt` — Funeral for Ann Burdette
@@ -590,6 +591,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Faith / Trust / Resting in God
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Greatest faith ever exhibited (Spurgeon)
+- `Sermon - The Magnet on the Compass.md` — 1 Samuel 17 — David's confidence: "I come to you in the name of the Lord of hosts"; inevitability of victory; resting in God's sovereignty over the outcome (lines 57-72)
 - `Luke 8.txt` — Luke 8 — Calming the storm; trusting God
 - `Heb 3.txt` — Hebrews 3:12-4:16 — Rest in the Lord
 - `Fifteen.txt` — John 11:1-16 — Trusting God through silence
@@ -667,6 +669,10 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — Baal worship; adding gods to the collection; modern idols of comfort and money; God strikes at idols (sermon lines 46-88)
 - `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — Every political ideology (elephant or donkey) put ahead of God leads to the same Godless place (sermon line 55)
 
+### Identity in Christ / Exile
+- `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Team name "elect exiles"; wearing the jersey = living consistent with identity; refusing the jersey = refusing to identify with Christ; North Korea analogy for exile; citizenship in heaven (lines 11-19, 64-68)
+- `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — "Eternal beings having a temporal experience"; live like you're leaving; send treasures on ahead (line 122)
+
 ### Love of God / God's Character
 - `1 john 4 b.txt` — 1 John 4:7-21 — God's love as overwhelming hurricane
 - `Romans 5.md` — Romans 5:8 — While we were still sinners
@@ -703,6 +709,8 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `2 kings 25.txt` — 2 Kings 25 — Trusting God over your own heart
 - `romans 9 pt 1.md` through `Romans 9 Pt 3.md` — Romans 9 — Sovereignty; mercy
 - `Sermon 2 gen 37 joeseph.txt` — Genesis 37 — Joseph as type of Christ
+- `Sermon - Wear the Jersey.md` — 1 Peter 1:1-2 — Election (*eklektos* word study); foreknowledge of God; John 6:44 "no one can come unless the Father draws him"; Romans 9:22-25 vessels of mercy (lines 34-56)
+- `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — God's patience confused with God losing; "the story's conclusion had already been written — spoiler alert, God wins!" (line 15)
 
 ### Racial Reconciliation / Unity
 - `Cultural Marxism.txt` — Romans 10:12-13 — Biblical racial equality
@@ -715,6 +723,8 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `2 tim 3.txt` — 2 Timothy 3:14+ — Authority and sufficiency of Scripture
 - `sola scriptura.txt` / `Sola Scriptura 24.txt` — 2 Timothy 3 — Scripture alone
 - `psalms 1 (12-5-19).txt` / `psalms 1 3-15-25...txt` — Psalm 1 — Neglecting scripture
+- `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — The Word of God as the seawall; "follow the pattern of the sound words"; guard the good deposit; Scripture washes politics and discourse (line 55)
+- `Sermon - Power Encounter.md` — 1 Samuel 28 — Scripture has a "washing effect"; have them read it aloud; the sufficiency of Scripture vs. the Pope's chair (lines 69, 151-155)
 
 ### Salvation / Conversion / New Birth
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Deathbed conversion; grace
@@ -725,6 +735,9 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Matt Slick's conversion from the occult; power encounter; Creation-Fall-Cross-Redemption framework
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Born again to a living hope; change of teams as conversion (Charlotte to Celtics); Watson: hearts of stone to flesh
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — New Year's Eve car accident urgency; Lamb's Book of Life; gospel invitation at closing
+
+### Sanctity of Life
+- `Psalms 139 (abortion).txt` — Psalm 139:13 — Sanctity of life and abortion
 
 ### Shepherding / Pastoral Care
 - `Psalm 23` (multiple versions) — God as shepherd
@@ -741,11 +754,23 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `ps14.txt` — Psalm 14 — Foolishness; the fall
 - `vbs 2019.txt` — Ephesians 2 — Depravity of man
 - `Psalms 1.txt` — Psalm 1 — Downward progression of sin
+- `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — "We who rejected God, and chose sin, and in doing so shattered creation"; hearts of stone; every sin required Christ's death (line 58)
+- `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Free will damaged by sin; those who reject God choose hell; hell as a reality (line 110)
+- `Sermon - The List I Burned.md` — 1 Thess 3:12-4:8 — Edwards: unchecked anger becomes hatred; sin's compounding effect; the damage list that increased anger (lines 119-128)
+- `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — Double-mindedness; cursing, lying, divided loyalties as symptoms of deeper problem (lines 72-85)
+- `Sermon - The Magnet on the Compass.md` — 1 Samuel 17 — The compass illustration: sin as a magnet redirecting the heart's needle; "we can't even identify which way is up apart from Christ"; our will and desires corrupted (lines 98-112)
 
 ### Spiritual Warfare / Enemy Attacks
 - `Neh 6.txt` — Nehemiah 6 — Enemy attacks and spiritual warfare
 - `Luke 4.txt` — Luke 4:1-13 — Christ's temptation; resisting sin
 - `Gen 3.txt` — Genesis 3:1-6 — Serpent's deception
+- `Sermon - Power Encounter.md` — 1 Samuel 28 — Demonic power is real but limited; Eph 6:12 "we do not wrestle against flesh and blood"; Denete the witch's spells ineffective against a child of God; the occult spectrum (lines 86-90, 126-146)
+- `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — Increasing hostility toward Christians; Marxism and church decline; erosion of faith; Paul building a seawall against spiritual erosion (lines 37-55)
+
+### Stewardship / Time / Money
+- `Sermon - What Survives the Fire.md` — 1 Cor 3:10-15 — 168-hour weekly time audit; checkbook reveals priorities; entertainment vs. kingdom investment; "show me how you spend your money, I'll show you your priorities" (lines 42-60)
+- `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Tipping as Christian witness; fake $20 tracts without real tips; "saving $20 is not worth giving Christ a black eye" (line 116)
+- `Sermon - The List I Burned.md` — 1 Thess 3:12-4:8 — Tipping (recurring); waitresses hate Sundays; Grandma Baker the waitress; charging servers to serve you (lines 96-97)
 
 ### Thanksgiving / Gratitude
 - `thanksgiving 2017.txt` — Ephesians 5:4 — Thankfulness
@@ -758,11 +783,14 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `1 sam 17.txt` — 1 Samuel 17 — David and Goliath as type of Christ
 - `Sermon 2 gen 37 joeseph.txt` — Genesis 37 — Joseph as type of Christ
 - `is 53.txt` — Isaiah 53 — Suffering servant
+- `Sermon - The Magnet on the Compass.md` — 1 Samuel 17 — David as type of Christ: fights without armor as Christ fights through apparent weakness; uses Goliath's own sword as Christ uses death itself; David fights on behalf of Israel as Christ fights on behalf of his people (lines 78-86)
 
 ### Welcome / Hospitality / Unity in the Church
 - `Romans 14a...md` through `Romans 15a...md` — Romans 14-15 — Weak and strong; welcome one another
 - `1 peter 3 brotherly love.txt` — 1 Peter 3:8-18 — Brotherly love
 - `1 john 3 pt 2.txt` — 1 John 3:11-24 — Love among believers
+- `Sermon - The List I Burned.md` — 1 Thess 3:12-4:8 — Acts of service: grocery ride chain, Larry bragging on the church, three builders who canceled insurance; "churches up north just aren't like that" (lines 10-16)
+- `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Unity of mind (*homophrones*); McLean Bible Church letter (John and Ashley's community group — car, house projects, groceries, Thanksgiving); "what would our world look like?" (lines 43-69)
 
 ### Worship
 - `Psalms 96.txt` — Psalm 96 — Worship; evangelism as worship
@@ -775,8 +803,10 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 ## Statistics
 
 - **Romans series manuscripts**: 20+ files (primary series)
+- **Onboarding sermons**: 9 (special messages indexed across thematic categories)
 - **Archive sermons**: ~160 sermons/teachings
 - **Memorial services**: 5
 - **Non-sermon files**: ~20
 - **Bible books covered**: 40+ (Genesis through Revelation)
 - **Total unique passages preached**: 150+
+- **Thematic categories**: 32
