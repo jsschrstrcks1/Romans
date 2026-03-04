@@ -170,4 +170,165 @@ As the praise team comes up and sings a final song, I want you to ask yourselves
 
 ---
 
+## Sermon: Psalm 103 — Bless the Lord / Thanksgiving & Hesed Love
+
+**Primary Text**: Psalm 103
+**Supporting Texts**: Romans 6:23, Ephesians 2:4-5, 1 Peter 3:18, 2 Samuel 11-12, Genesis 9, Genesis 12, Genesis 19
+**People Group**: Zaza-Dimli of Turkey
+
+Continuing the theme of last week, were going to be in Psalms 103 today. Psalms 103 if you've brought your bibles, and I hope you have.
+
+While you're turning there, lets talk about our people group of the week.
+
+Zaza-Dimli in Turkey
+Caspian sea called Dailam. They have been fierce warriors, focused on conquest. The Dimli differ from the Kurds in two ways: language and religion. They have a distinct dialect, and are seen as heretics by the Kurds, who are Sunnis. The Dimli follow Alevi Shiite religious traditions.
+Ministry Obstacles
+
+There is a need for Scripture and other language-based resources in the language of the Zaza-Dimli.
+Outreach Ideas
+
+Gospel radio broadcasts will be helpful, but sustained prayer is needed for the Zaza-Dimli.
+Pray for the Followers of Christ
+
+Pray the few believers among the Zaza-Diml will grow in sharing and discussing God's Word with their families and communities. There are few if any followers of Jesus among this people group, but pray for those that will soon be evident. Pray that Zaza-Dimli believers will be well grounded in Scripture, and will be zealous to grow in the faith.
+Pray for the Entire People Group
+
+Pray for these people to live peaceful lives, establishing good relationships with the Turkish government and other ethnic groups.
+
+Lets pray for them.
+
+One of the commentators I read who is much better at the Hebrew here than I am. Says it carries with it the sense that our passage today was David setting himself aside from people, alone, just him and God. Its as though he's crying out for the sum total of his being to worship God, heart, soul and mind. Interestingly enough, almost any time you read the English word heart in the new testament (and I know were in the old testament here) the Greek reads "intestines". The people of this time period believed the center of their emotions was not their heart, but instead was their intestines. If were being honest, the heart pumps blood, but doesn't really have a lot to do with emotions other than moving the blood that carries the neurotransmitters sent out by the body, so we do basically the same thing. If we were to say heart sick, we know someone is having a hard time emotionally, if we say body sick, we would think something else, even if the latter might be a bit more accurate. Any way. David wanted his heart, and soul, and mind to worship God. ALL of his inmost parts, and my commentator believed that David had set himself aside, alone with God, and was opening himself up to examination by God to make sure he was being thankful, to make sure his life reflected "blessing the Lord" or thanksgiving to God.
+
+People think thanksgiving is about turkey and stuffing, but its about more than that. Its about being together with those we love, and giving thanks to God. About examining ourselves and seeing whether we live up to the biblical standard of thanksgiving, and giving thanks for the fact that though we fail, God's mercies are new every morning. We can never run so far away from God that he can't draw us back. God is so good to us!
+
+Lets read. The whole thing.
+
+It strikes me right away, that though in the moment of writing David was alone, examining himself before God, and yet in recording that moment in scripture he made this very personal and private moment, very public. He's encouraging others to follow his example, I think both in private, and in public. To lead by example is in view here, and should be how Christians live. In private we should read our bible, and pray, we should live a lifestyle of evangelism, and worship in public and in private. We should be fellowshipping with other believers as well. In so doing scripture says as iron sharpens iron so does one person sharpen another. Living for Christ makes one different. Makes one peculiar in this world. A true follower of Christ stands out from the crowd in the same way one would if they had pressed their face into a red hot glowing stove burner. The circular scars for the rest of your life would mark you has having pressed your face into the stove. The same is true of followers of Christ. We should live our lives as examples of God's mercy. That's uncomfortable sometimes. Who wants their failures on display. But as Paul said if I boast, let me boast in Christ!
+
+A commentary called JFB said this that God is "not only intrinsically worthy of praise, but … (is) specially suited to man's frailty.
+
+I had a situation a few weeks back, you guys know I took in Cooper a while back, as a rescue. He did what puppies do, and absolutely destroyed my sandals, both pair, and my shoes – all of them. ALL in about five minutes. I hate shoe shopping, I really don't enjoy shopping for most things. But there is something about the process of finding shoes that I really don't like. Part of it is that its hard to find shoes in my size, if a shoe store has 1-2 pairs in stock in my size, its because of God's providential grace for sure. I've been told I might have better luck at a boatyard. But any way, its hard to find shoes. So when I find a pair I like, I go back, and buy them over and over and over again. Shoes that are comfortable, and fit just right whether walking, or hiking, or preaching are hard to find. So when I find them, I stick with them. Its had to find shoes that feel like they were made just for you. Yet we have that same thing with God. We were made and then we broke ourselves in ways that only God can make up for. Or said another way, our frailty is specifically suited to God's power. Where we are weak, God is strong. Where we are broken, God can repair it. Where we hurt, God brings healing. Where we struggle God supplies us with his strength. His comfort, his protection and security. Where we lack God is there, and he provides, and God is great.
+
+Vs 2 starts giving thanks for the ways in which God benefits us directly. Some people like to start small and build, but David just goes right straight to the top of the list. Thank you God for forgiving our sins.
+
+What sins did David have to be forgiven of? I mean, we know he wasn't an attentive father. He raised kids that raped and murdered and tried to kill even him. Then there was the murder he committed as part of a conspiracy to cover up his sinful relationship with Bathsheba. You guys remember the story.
+
+One of the jobs of a king is to lead the army. So naturally David stays home from the war. He was in the wrong place, and then perhaps thinking of his men he wandered up on the roof of the palace and looked out across the city at just the wrong time, and in his lust sent his messengers to "retrieve" Bathsheba. Some commentators make it seem like David and Bathsheba mutually consented. But to me that doesn't seem to have been the case. Its not specifically spelled out here, but my best guess is he raped Bathsheba. She realized shortly there after she was pregnant and contacted the king, and he tried to make it look like maybe Uriah was the father, he recalled Uriah from the front lines, got him drunk, and sent him home. But Uriah was too honorable, even when drunk – to do that. So he slept in the stables. Unfortunately for David, that woulnd't do at all, so David sent Uriah back to the front lines, and ordered Uriah's commander to pull back from Uriah so he would be killed by the enemy. I think this must have been what was going through David's mind when he said forgive my sins.
+
+God's punishment for David was very public. Their first born son died. God's prophet showed up, and announced that David's son died, out of punishment for David and his sin against Uriah and Bathsheba. David spent a period of time in sack cloth and ashes. Very publicly mourning his sin, and morning his son.
+
+Its interesting that public repentance seems to have preceeded the major revivals through history also.
+
+So he's thankful our sins are forgiven vs 3, and then he says he's thankful for salvation. We – even David – deserved to spend an eternity apart from God. But God being rich in mercy and because of his great love for us, have offered us forgiveness. Vs 3 says we are crowned with steadfast love and mercy.
+
+Think about the word steadfast for a moment. Who can define that word for me, any one?
+
+Well lets talk about another bible story. Remember the story of Abraham and Lot? And they end up parting companies and Lot chooses to march towards the cities of Sodom and gamorrah? And he goes from living kinda near by, to living just beside, to living in the midst of these sinful people? And then one night Abraham pleads for the life of Lot? Hesed Love is ascribed to God for Lot, when God spares his family, on the eve of the destruction of those cities.
+
+Or when we read about Joshua and the battle of Jericho, remember the story of Rahab? She hid the Israelites and helped them spy on the city. She protected them, and so on the 7th day when the army marched around the city 7 times blowing their trumpets and playing their song, and the walls fell down, everyones home in the walls were destroyed, except that of Rahab, and her family, and there again, this is attributed to the Hesed love of God. Rahab, she helped the spies. But her family, as far as we know wasn't involved. Yet God – because of his Hesed love, spared Rahab's family also.
+
+Its kind of deep stuff. People that don't deserve God's love, being the recipients of God's love.
+
+Every time its used there is another dimension to it though. There is an expectation of reciprocity. God showed his Hesed love to Lot by sparing his family from the hellfire and brimstone that rained down upon the city, and he expected them not to look back, and to persue God. Both Lot, his wife, and his daughters, screwed up in different ways, with different results. Most of you remember Lot's wife turning into a pillar of salt. Lot didn't look back, but the next thing that's said of lot involves him going and getting drunk. His daughters took advantage of that, and they all had their own consequences. Though none as dramatic as those Lot's wife encountered. Rahab is a better example. She is said to have exhibited hesed love for the soldiers, and they (and God) in turn expressed hesed love for her, In sparing her and her family, in their home still standing after the destruction of Jericho.
+
+Another example is the good Samaritan. You remember the story of course, an isralite was walking down the road, was beaten up, robbed and left for dead. A levite walks past and did nothing, then a priest came along, and he scurried on to church, rather than help the dying destitute man. Finally a Samaritan walks past, and the samirtan bandages him up, gets him to an inn, and leaves enough money for them to take care of the Israelite until he's well again. When Jesus says which of these three loved their neighbor the word he used was Hesed.
+
+Its un-deserved steadfast love from God, and the loving response that engenders in a truly saved person as a result.
+
+Lets look at it a different way, you're struggling with something, lets say its financial. Lets say you've run up a billion dollars in debt. You've gone out and just spent and spent and spent like a crazy person knowing you could never pay it back, you bought houses, and cars, and clothes, you gambled, and bought liquor for days. And now, the fun is over and the creditors are knocking, and you're hiding in the kitchen closet hoping they leave because there is no way you can afford to pay them.
+
+My grandma had a story like that. When she was married to her first husband – he was an alcoholic. He would get his check, and buy rounds of liquor for people at the bar with his income, and then rather than buy food or medicine for the little kids they had at home. So in order to get milk from the milkman, they would put in the order, and pretend to not be home, so he would leave it on the stoup. She said she literally would hide in the pantry when he would come around looking for money knowing she didn't have it, couldn't pay it, and didn't want to face the man knowing these things. So she said she purposed in her heart she was never going to be that low on money or food again, and to my knowledge she never was.
+
+But then in our analogy something happens, someone comes along, opens up their checkbook, and pays the bill. How would you respond to that? Gratitude? Joy? Love?
+
+Yet we have done the same thing. Scripture says in romans 6:23 that the wages of our sin is death. We have spent our life sinning, and racking up debt. The only way that debt can be satisfied is with our death, followed by an eternity in Hell.
+
+Pretty grim news. We can't do anything about it. Might as well be a billion dollar debt. Its overwhelming, and insurmountable. It's an unclimbable mountain of debt. Yet Scripture says in eph 2 "But God, being rich in mercy, and because of his Great steadfast love for us" and in another place, while we were yet sinners, Christ died for us. Or in 1 peter 3:18 For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit.
+
+We deserved death, and hell. But Christ offers of life eternal.
+
+We have so much to be thankful for.
+
+---
+
+## Sermon: The Covenants — God's Unfolding Plan from Adam to Christ
+
+**Primary Text**: Ephesians 3:3-6 (the mystery of Christ)
+**Supporting Texts**: Genesis 1-3 (Edenic/Adamic), Genesis 9 (Noahic), Genesis 12:1-3, 15:1-6 (Abrahamic), Exodus 19 (Mosaic), 2 Samuel 7 (Davidic), Ephesians 2:3, John 6:44
+**People Group**: Kirar of India
+
+People group of the day is the Kirar. There are nearly a million of them in india. They consider themselves to be part of a certain caste, but that caste rejects them. Pretty much all of india looks down on them. They have a stigma societally that they are not as smart, and are backwards in how they live their life. Sort of like how blondes are the butt of jokes, except instead of it being a joke, it's a sincerely held belief by their countrymen that someone from the Kirar people group is slow and uneducated. They are a Hindu people group, to the best of our knowledge there isn't a single kirar that has stepped away from Hinduism for the Gospel. Further many of them – especially the women – can't read or write adding further challenges for those who want to present the Gospel.
+
+Who will pray for the Kirar?
+
+So normally each week we have a specific passage that we go through. But today we are going to pull back and be a little bit meta. That is were going to step back and look at the whole of the story of scripture sort of broken down into three parts, or three covenants.
+
+Does anyone know what a covenant is in the context of scripture?
+
+Those are all fantastic ways of describing it. Adam, Moses, and David for instance have all made covenants with God. Sometimes you'll hear these called dispensations, sometimes you'll hear them called covenants. They are basically two different words that mean "God's way of dealing with people" at that particular point in history. Being a dispensationalist, that's a whole different conversation. But for right now, for our purposes today, a dispensation of God's grace, and God's covenants with his people area going to functionally mean just that "God's way of dealing with people, at this particular point in time".
+
+Do you guys remember the Adamic covenant? What can you tell me about Adams covenant with God? Hah. Trick question, Adam more or less had two covenants with God. The first one they call the Edenic covenant. God said you can walk with me, and talk with me, and eat from the tree of life, and fill your days with naming my creation. Just don't eat from that one tree over there. There were a few other elements, namely "Mankind created in God's image, Mankind's dominion (rule) over the animal kingdom. Divine directive for mankind to reproduce and inhabit the entire Earth.
+Mankind to be vegetarian. Eating the fruit of the tree of the knowledge of good and evil forbidden (with death as the stated penalty).Of course they immediate broke their end of the covenant by sinning and through eating of the tree of knowledge of good and evil they were condemned to death. God knowing everything wasn't surprised by mankinds rebellion against him. He KNEW if given a choice we would eventually sin, and so as he had planned before the beginning of the world He instituted the second covenant with Adam. This was namely a covenant of consequences for actions already taken.
+
+Enmity between Satan and Eve and her descendants. Painful childbirth for women. Marital strife. The soil cursed. Introduction of thorns and thistles. Survival to be a struggle. Death introduced. Death will be the inescapable fate of all living things.
+
+Each new covenant enhances and augments the old. Before the fall, under the first part of God's covenant with Adam in Eden there was meant to be peace between all living things. No clothing, no animals needed to die, everything – man included ate vegetables. That old chestnut about the lion lying down with the lamb? That's the idea pictured here. IF there were dinosaurs – and there probably were at this point – the biggest danger they posed was accidently stepping on you.
+
+But God's plans advanced with Adams sin. The covenant, the way of dealing with mankind moved into its next stage. Now animals had to die, because that's where Adam and Eves first proper set of clothing came from. A life of difficulty meant sand spurs, and stick tites, and mosquitos that drank the blood of other animals. These additional terms of God's agreement with man modified and enhanced the old terms. See that? It's a pattern that is repeated with Moses covenant, with Abrahams covenant, and noah's covenant.
+
+If I'm not careful I could spend an hour here, there is a lot of complexity and nuance in all of this. So I'll try to do it justice as best as I can, but briefly.
+
+The second covenant was made with Noah. Genesis 9. Remember up until this point, everyone who followed God was required to only eat Vegetables. Meat was taboo. But allowing man to eat meat came with a curse also – that all these animals that were meant to be companions and partners with adam and eve. I say partners, think about that – how many different kinds of animals, are used by humans in how many different kinds of ways? Oxen to plow and pull carts, cattle and sheep and goats to manage land, to provide food. Dogs for security, and herding, and tracking and hunting, and so much more. Animals are the partners of society then, and even now. All these animals meant to help mankind, to be companions to mankind, are made afraid of mankind.
+
+Ever been hunting, or walking in the woods and seen a timid little deer – so attuned to its surroundings that the slightest sound, seemingly even a leaf falling out of time triggers her instincts to flea to safety. They are kind of like a raw nerve receiving all of the information from their senses that their tiny brains can handle, and sifting it for any sign of a threat. Then springing into action. That impulse on the part of animals came as a result of the Noahic covenant.
+
+The third covenant was with Abraham – Abraham was told to leave his family, and go to the Land that God would show him, and because it would be for him, and his descendants. It would belong to him and his family, forever. That his descendants would number with the grains of sand on the shore. Abraham believed God and it was counted to him as righteousness. This is all in Genesis 12:1-3, and Genesis 15:1-6 Which we have recently been reading through.
+
+The mosaic covenant was the fourth covenant. This is found in exodus 19. Which is a book we won't be reading in our march through the old testament till pretty much all the way at the end of the year. But regardless, exodus 19 says in vs 3"3 while Moses went up to God. The Lord called to him out of the mountain, saying, "Thus you shall say to the house of Jacob, and tell the people of Israel: 4 'You yourselves have seen what I did to the Egyptians, and how I bore you on eagles' wings and brought you to myself. 5 Now therefore, if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine; 6 and you shall be to me a kingdom of priests and a holy nation.' These are the words that you shall speak to the people of Israel."
+7 So Moses came and called the elders of the people and set before them all these words that the Lord had commanded him. 8 All the people answered together and said, "All that the Lord has spoken we will do." And Moses reported the words of the people to the Lord."
+
+Immediately after this moses goes up to the top of the mountain, and God gives Moses 10 commandments. Later Moses is given the Mosaic Law. We will be reading through it in the months that follow. But there are several categories, ceremonial, civil, moral, and dietary. All of these are part of the Mosaic covenant. Some people debate whether the mosaic law was included in the mosaic covenant. Some people say it is, and some people say it was something extra moses added. Ultimately does it matter? No. Its interesting to note that under the mosaic law once more certain food items were limited once more. The Israelites were commanded among other things not to eat rabbits, camels, cony's and pigs. Coney you might think redundant in that list, but its actually not. Coney in old English, and even still today in the fur trade refers to rabbits. However in bible times it would have referred to the smallest lagomorph the pika. Looks half way between an extremely furry hamster, and a short eared rabbit to me. This is a significant change in the law from Noah's day where Noah was told to eat any animal he wanted to. But remember this is the continual unfolding of God's plan from start, right from Adam. Remember the curse on the snake in genesis 3? God says to the snake, he will crush[b] your head, and you will strike his heel. The various covenants, that people loosely collectively call the law, where there for a reason. One more covenant, and then we will come back to that. Finally, is the Davidic covenant.
+
+After moses, the people are led directly by a series of Judges. God would tell the Judge what he wanted, and he would serve out God's will in the people. Eventually the people of God decided they wanted a King, they didn't want to serve God directly, they wanted to serve a King, that served God. This is a bad plan on the nations part. It causes them more trouble in the long run, and was a request made because they didn't have proper faith in God's provision and protection it seems to me.
+
+So they made Saul their King. Saul rejected God pretty quickly, and so God declared that David would be King. God later makes a covenant with David to do a number of things: God promises both a great name (Gen 12:2; 2 Sam 7:9). In the future both will conquer their enemies (Gen 22:17; 2 Sam 7:11; cf. Ps 89:23); Both have a special divine-human relationship (Gen 17:7–8; 2 Sam 7:24; cf. Ps 89:26) A special line of "offspring" perpetuates both of their names (Gen 21:12; 2 Sam 7:12–16). The descendants of both must keep God's laws (Gen 18:19; 2 Sam 7:14; cf. Pss 89:30–32; 132:12). The offspring of both would mediate international blessing (Gen 22:18; Ps 72:17). This further refines what God had promised previously, he will crush[b] your head, and you will strike his heel. Now we know from whose line the snake crusher would come.
+
+ALL of those covenants together are covenants of works. Each has its promises, and curses, and expectations of the people. The expectations, or the Law, had a few specific purposes. Firstly, it was meant to make the people of God peculiar. They were meant to stand out. They were meant to be apart in key ways. They were meant to be a reflection of God's holiness. This was expressed in various ways throughout the history of mankind. In being vegetarians, in offering sacrifices, in their peculiar political and religious systems. They were meant to be picked out from the crowd. IF a jew was standing next to a non-jew, you were meant to be able to know which one was which pretty easily.
+
+Secondly, it was to demonstrate God's patience with man, and man's utter inability. Lets start with Adam – was Adam born completely without sin, was Adam able to uphold his tiny tiny end of man's responsibility before God? All he had to do was not eat from a single tree, and he couldn't even do that. So God amended his deal with Adam. Mankind kept growing worse and worse in God's eyes. We kept doing more and more evil. In genesis it says there was nothing in the heart of man except evil all the time, and so God grew angry with us. Rightfully so. So he made a new deal with Noah. Noah, in some key ways became the new Adam. Could noah, could new Adam uphold his end of the deal with God? Ultimately we know that fell apart. So God raised up Abraham. Godly, obedient, wise Abraham. Abraham became the new Adam. Could Abraham, surely Abraham could uphold his end of the deal? Ultimately mankind fell short once again. Then Moses. Moses fell far enough short he was barred entry from the promised land. So God makes a new deal once more with David. David a man after God's own heart. David who loved the Lord more than life. David who committed adultery and murder for Bathsheba. Obviously, David fell short.
+
+After David there were no new deals for a while. God sent prophets, and judgement, and captivities down. Until one day God went silent. For 400 years God was silent. He left mankind to our own devices.
+
+I think its safe to say the silence is deafening. Imagine waking up tomorrow and there was no more media. No social media, no radio, no tv, no newspapers. Just silence.
+
+Be silent for 30 seconds or a minute.
+
+Weird isn't it. When you expect something and are met with silence.
+
+All of these covenants were based on Man being able to uphold his end of the deal. These covenants are called the covenants of works.
+
+Thousands of years after Adam, Thousands of years of patient God dealing with sinful man, God decided it was time to reveal the new plan. One that didn't depend upon man being Good enough. Even the good men, fell short. Ephesians 2 says "sons of disobedience, by nature children of Wrath". Whose wrath? God's wrath.
+
+Ephesians 3 Paul talks about, in fact, lets turn there, we've read a lot of scripture today, but God's word does not return a void. So lets read 3 more verses.
+
+The mystery was made known to me by revelation, as I wrote above in a few words, a reading of which will enable you to perceive my understanding of the mystery of Christ. In former generations this mystery was not made known to humankind, as it has now been revealed to his holy apostles and prophets by the Spirit: that is, the Gentiles have become fellow heirs, members of the same body, and sharers in the promise in Christ Jesus through the gospel.
+
+The Mystery of Christ. The story of Christ is painted across all of the stories of old testament saints. These old testament saints are like sponges saturated with clues to the story of Christ for the careful student to find. A mystery to be solved. A mystery ethnic Jews still to this day struggle with. It a radically change in God's approach to man. Our approach to God really hasn't changed. We are sinful, and do the wrong things. We – apart from Christ run in every direction except towards God. John 6:44 says "No one can come to me unless the Father who sent me draws him. And (those who he draws to me) I will raise him up on the last day." This new covenant, a covenant, not in works, but in grace is glorious because it doesn't depend on you. It doesn't depend on me. We cant even be trusted to do whats best for our own eternities. We as a people have proved that over and over and over across the thousands upon thousands of years of recorded history. The only thing we can be depended upon to do on our own is to run away from Christ.
+
+In God's new plan, it doesn't matter what you eat. It doesn't matter your politics. It doesn't matter what your skin color, or nationality is. What matters is whether or not on that last day, whether or not when you take that last breath, whether or not when you reach those pearly gates, whether or not you have a relationship with Jesus Christ.
+
+If you don't. all is lost. For eternity.
+
+If you do, that's what matters most.
+
+Maybe right now you know God is calling you towards his son. Like John 6 said - No one can come to me unless the Father who sent me draws him. Maybe you feel God drawing you towards his son. Maybe you know deep down that if something were to happen today, and you were standing face to face with the God of the universe, that you wouldn't be allowed into heaven. Or worse, maybe you think you've been good enough apart from God to deserve a place in heaven.
+
+Let me tell you, if that's you, either of those, then today is the day. A guy mid 70s. he was a father and grandfather. He lived not too far from me. He got up Thursday morning and went for his daily walk. He thought he had a lot of life left to live. He was probably making plans to go to the grocery store, or for where he'd go to lunch after church on Sunday, we don't know. But what we do know is that a young man in a red PT Cruiser decided to kill him with his car. He drove past this kindly old man, turned around, accelerated his car, and steered it into the old man killing him.
+
+The young man is in police custody. He's going to jail. He confessed to premeditated murder.
+
+Where I'm going with this is that life is short. We aren't promised tomorrow. All we have is today – right now, today, do you know where youre going when you die? If not. Please come talk to me today. I'll be up here after the service. Come talk to me before lunch. You must get your life right with God. Won't you come?
+
+---
+
 ## PROCESSING MARKER: Remaining sermons from the data dump need to be pasted by user in subsequent batches.
