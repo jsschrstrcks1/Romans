@@ -673,6 +673,10 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `neh 1 second.txt` — Nehemiah 1 — Chesed; God's steadfast love
 - `Theology Proper.txt` — Various — Attributes and nature of God
 - `Psalm 8.txt` — Psalm 8 — God's majesty; Yahweh and Adonai
+- `Sermon - The List I Burned.md` — 1 Thess 3:12-4:8; 1 Cor 13:4-8 — Love increasing and overflowing; patience, kindness, not envious, not boastful; "you first, me second" as throughline
+- `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Brotherly love (*philadelphos*); tender heart (*eusplanchnos* = "healthy intestines"); blessing enemies; radical love in community (McLean Bible Church letter)
+- `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — God's pursuing love despite our guilt in Christ's death; "if someone murdered my child, I'd be hard pressed to sit in the same room"
+- `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — God's immutability as expression of love; Malachi: "I do not change, therefore you are not destroyed"
 
 ### Marriage / Family
 - `Grannys Wedding jn 316.txt` — John 3:16 — Christian marriage
@@ -685,6 +689,8 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Naaman.txt` / `Leprosy - naaman - 2kings 5.txt` — 2 Kings 5 — Obedience in healing
 - `Neh 7.txt` — Nehemiah 7 — Gatekeepers and faithfulness
 - `Following Christ - dilligence.txt` — Mark 10 — Diligence
+- `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — "Choose this day whom you will serve"; undivided allegiance; Elijah's challenge
+- `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — Guard the deposit; fan the gift into flame; faithfulness under increasing hostility; Paul's final charge to Timothy
 
 ### Prayer
 - `PS 91 - Prayer.txt` — Psalm 91 — God as refuge; prayer service
@@ -716,6 +722,9 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `ezekiel 37.txt` — Ezekiel 37 — Dry bones; spiritual resurrection
 - `Ezekiel 36.txt` — Ezekiel 36:22-32 — New heart; grace for God's glory
 - `2 chronicles 15.txt` — OT vs NT salvation models
+- `Sermon - Power Encounter.md` — 1 Samuel 28 — Matt Slick's conversion from the occult; power encounter; Creation-Fall-Cross-Redemption framework
+- `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Born again to a living hope; change of teams as conversion (Charlotte to Celtics); Watson: hearts of stone to flesh
+- `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — New Year's Eve car accident urgency; Lamb's Book of Life; gospel invitation at closing
 
 ### Shepherding / Pastoral Care
 - `Psalm 23` (multiple versions) — God as shepherd
