@@ -464,6 +464,268 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 
 ---
 
+## Subject Index
+
+Searchable by topic. Each entry lists every sermon that substantively treats that subject.
+
+### Adoption (Theology of)
+- `Adoption.txt` — Galatians 3:27-4:7 — Adoption as God's children
+- `Adoption - christms eve 23.txt` — Galatians 3:27-4:7 — Christmas Eve adoption sermon
+- `adoption - gal 3.txt` — Galatians 3:23+ — Law, faith, and adoption
+- `evangelism (romans 15, mt 28, and rev 7).md` — Adoption as microcosm of God's heart for the lost
+
+### Anxiety / Worry / Fear
+- `mt 6.txt` — Matthew 6:25 / Phil 4:6-7 — Worry; coronavirus; God's sovereignty
+- `Philipians 4.txt` — Philippians 4:4-7 — Stress, anxiety, and rejoicing
+- `heb 11 - fear.txt` — Hebrews 11:1 / 1 John 4:18 — Fear as opposite of love
+- `psalm 56.txt` — Psalm 56 — Is Jesus worth it; Pilgrim's Progress
+
+### Atonement / Cross / Substitution
+- `is 53.txt` — Isaiah 53 — Suffering servant prophesied
+- `Mk 14 - easter.txt` — Mark 14:41-50 — Judas's betrayal; Easter
+- `easter 24.txt` — Luke 23:13-25 — Man's injustice vs God's justice
+- `easter 2020 - 2 tim 4 1-5.txt` — 2 Timothy 4:1-5 — Easter; preach the Word
+- `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Thief on the cross; grace
+- `Romans 3 - wrath of God (final).md` — Romans 3 — Wrath; propitiation
+- `Romans 5.md` — Romans 5:1-11 — While we were still sinners
+
+### Baptist Distinctives / Identity
+- `being baptist.txt` — Acts 18; 1 Cor 3 — Baptist history and distinctives
+- `article 15.txt` — Matthew 5:13-16 — Christians and the social order (BFM)
+- `bfm holy spirit.txt` — BFM article on the Holy Spirit
+- `Catholicism.txt` — Romans 3-5; Eph 2:8-9 — Catholic vs Protestant justification
+
+### Brokenness / Weakness / Suffering
+- `2 cor 12.txt` — 2 Corinthians 12:7-10 — Theology of weakness
+- `IS 43 anti-prosperity gospel.txt` — Isaiah 43 — Against prosperity gospel; suffering
+- `1 peter 4.txt` — 1 Peter 4:1-11 — Arming with Christ's attitude in suffering
+- `1 peter 1 pt3.txt` — 1 Peter 1:3-8 — Trials are not always punishment
+- `Neh 1.txt` — Nehemiah 1 — Brokenness and prayer
+- `Heb 12.txt` — Hebrews 12:3-17 — God's discipline as training
+
+### Children / Parenting / Legacy
+- `1 peter 1 - legacies.txt` — 1 Peter 1:13-end — Parental spiritual legacy
+- `psalm 78.txt` — Psalm 78:1-8 — Remembering God's deeds; teaching children
+- `prov 13.txt` — Proverbs 13 — Generation gaps; wise companions
+- `Psalms 139 (abortion).txt` — Psalm 139:13 — Sanctity of life
+
+### Church / Body of Christ / Membership
+- `Commitment to the church body 1 cor 12.txt` — 1 Cor 12:12-27 — Church membership
+- `Romans 14a...md` through `Romans 14d...md` — Romans 14 — Weak and strong in the church
+- `Romans 15a...md` — Romans 15:1-13 — Welcome one another
+
+### Cults / False Teaching / Counterfeits
+- `Catholicism.txt` — Romans 3-5 — Catholic vs Protestant justification
+- `Christian science...txt` — John 14:1-7 — Reaching Christian Scientists
+- `1 john 4 - counterfeit.txt` — 1 John 4:1-6 — Testing spirits
+- `Catching Counterfeits.txt` — 2 Cor 5:6-8 — Counterfeit claims about heaven
+- `1 sam 28 wicca and the occult..txt` — 1 Samuel 28 — Wicca and the occult
+- `Romans 1.md` — Romans 1:18-24 — Unitarian Universalism
+
+### Death / Funeral / Comfort
+- `Ecclesiastes 3 Ann Burdette Funeral.txt` — Funeral for Ann Burdette
+- `Psalm 23.txt` (archive) — Memorial for Barbara
+- `Chuck Weis Memorial 2024.txt` — Memorial for Chuck Weis
+- `We are gathered here...Jean.txt` — Memorial for Jean; Lazarus raised
+- `Kurt was a man I loved dearly.txt` — Eulogy for Kurt
+- `psalm 23 1-4..txt` — Psalm 23:1-4 — Shadow of death
+
+### Discipleship / Cost of Following Christ
+- `Luke 9 - cost of following christ.txt` — Luke 9:57-62 — Cost vs prosperity gospel
+- `mark 10 - sun june 2nd.txt` — Mark 10:32-45 — Discipleship posture
+- `Following Christ - dilligence.txt` — Mark 10:32-45 — Diligence in following
+- `Romans_6b_with_boulder.md` — Romans 6:15-23 — Whose slave are you?
+
+### Election / Sovereignty / Predestination
+- `acts 13 - BFM Grace.txt` — Acts 13:48; Rom 8:29-30 — Doctrines of grace
+- `John 5.txt` — John 6:29-60 — Irresistible grace; sovereign election
+- `sola gracia.txt` / `sola gracia 2021.txt` — John 6:43-65 — Grace alone
+- `Romans 9 pt 2.md` / `Romans 9 Pt 3.md` — Romans 9 — Potter and clay; mercy
+- `Romans 11 - The Remnant of Grace.md` — Romans 11:1-10 — Remnant; foreknew = fore-love
+- `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Why one thief and not the other
+- `Ezekiel 36.txt` — Ezekiel 36:22-32 — Grace alone for God's glory
+- `ezekiel 37.txt` — Ezekiel 37 — Total depravity; dry bones
+
+### Eternal Security / Perseverance
+- `Eternal Security.txt` — John 6:37-65; 10:25-30 — Preservation of the saints
+- `Sundayschool pt 3.txt` — Romans 8:29-30 — Order of salvation; final salvation
+- `Sunday school notes week 2.txt` — 1 Cor 13:8-10; John 10:27-28 — Cessation; eternal security
+
+### Evangelism / Missions / Great Commission
+- `Evangelism.txt` — Matthew 28:18-20 — Great Commission
+- `MT 28.txt` — Matthew 28:16-20 — Great Commission and evangelism
+- `evangelism (romans 15, mt 28, and rev 7).md` — Mt 28; Rom 15; Rev 7 — Missions priority
+- `romans 15 (2).md` — Romans 15:14 — Holy obsession; Great Commission
+- `jer 44.txt` — Jeremiah 44 / Mt 28 — Disobedience in evangelism as idolatry
+- `rev 20.txt` — Revelation 20:11-15 — Horrors of hell; urgency of missions
+- `1 cor 9.txt` — 1 Corinthians 9:19-23 — Motivation for sharing the gospel
+- `col 4 - prayer.txt` / `prayer col 4.txt` — Colossians 4:2-4 — Prayer and evangelism
+- `Psalms 96.txt` — Psalm 96 — Evangelism as worship
+
+### Faith / Trust / Resting in God
+- `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Greatest faith ever exhibited (Spurgeon)
+- `Luke 8.txt` — Luke 8 — Calming the storm; trusting God
+- `Heb 3.txt` — Hebrews 3:12-4:16 — Rest in the Lord
+- `Fifteen.txt` — John 11:1-16 — Trusting God through silence
+- `psalms 63.txt` — Psalm 63:1-8 — Thirsting for God
+- `Mark 5.txt` — Mark 5:21-end — Jairus's daughter and faith
+
+### Five Solas / Reformation
+- `sola scriptura.txt` / `Sola Scriptura 24.txt` — 2 Timothy 3 — Scripture alone
+- `sola gracia.txt` / `sola gracia 2021.txt` — John 6 — Grace alone
+- `Sola Christus.txt` — 1 Timothy 2:1-7 — Christ alone
+- `Sola Deo Gloria mt 13.txt` — Matthew 13:1-9 — Glory of God alone
+- `Romans 10.md` — Romans 10:1-13 — Five Solas; Luther; Reformation
+- `galatians 1.txt` — Galatians 1:1-12 — True gospel and the five solas
+
+### Gospel / Justification / Righteousness
+- `Romans 3 - pt 2.md` — Romans 3:10-end — No one righteous
+- `Romans 4...md` — Romans 4:1-8 — Credited righteousness
+- `gal 2.txt` — Galatians 2:15-end — Justification by faith
+- `2 cor 5.txt` — 2 Corinthians 5:16-6:3 — New creation
+- `John 14 - exclusivity of the gospel..txt` — John 14:1-16 — Christ as the only way
+
+### Grace / Mercy / Unmerited Favor
+- `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Grace to a dying criminal
+- `Romans 5.md` — Romans 5:1-11 — While we were still sinners
+- `Romans 11 - The Remnant of Grace.md` — Romans 11:1-10 — Grace leaves no room for works
+- `Leprosy - naaman - 2kings 5.txt` — 2 Kings 5 — Naaman; grace through obedience
+- `sola gracia.txt` / `sola gracia 2021.txt` — John 6 — Grace alone
+
+### Hell / Judgment / Wrath
+- `rev 20.txt` — Revelation 20:11-15 — Horrors of hell
+- `Romans 3 - wrath of God (final).md` — Romans 3 — God's wrath; holiness
+- `romans 3 - the wrath of God.txt` — Romans 3 — Wrath (earlier version)
+- `Romans 1 (2024).md` — Romans 1:18+ — Wrath revealed
+- `Psalms 75.txt` — Psalm 75 / 1 Peter 1:13+ — God's judgment
+
+### Holiness / Sanctification / Putting Off Sin
+- `hamartiology.txt` — Colossians 3:1-11 — The weight of sin
+- `I have been thinking about going back to seminary.txt` — Col 3:1-17 — Putting sin to death
+- `Mark 4.txt` — Mark 4:26-34 — Growing seed; sanctification
+- `1 peter 1 - legacies.txt` — 1 Peter 1:13-end — Be holy
+- `Romans_6b_with_boulder.md` — Romans 6:15-23 — Dead to sin; alive to God
+- `Neh 13.txt` — Nehemiah 13:1-14 — Sin in the temple
+
+### Holy Spirit
+- `Acts 2 Holy Spirit.txt` — Acts 2:1-9, 36-40 — Spirit's ministry and gifts
+- `bfm holy spirit.txt` — BFM article on the Holy Spirit
+- `Ordo Solutis Romans 8.md` — Romans 8:26+ — Spirit's intercession
+
+### Hope / Endurance / Perseverance
+- `Romans 15a...md` — Romans 15:13 — God of hope; abound in hope
+- `Titus 2 pt 2.txt` — Titus 2:11-14 — Hope in the second coming
+- `Philippians 3 - 2025.txt` — Philippians 3:1 — Rejoicing and sovereignty
+
+### Hypocrisy / Self-Righteousness
+- `Romans 2 mt 23 col 3 eph 2.md` — Romans 2:1-11 — Dirty cup; hypocrisy exposed
+- `Romans 2 mt 23 col 3 eph 2.txt` — Same (archive version)
+
+### Idolatry / False Gods / Politics as Idol
+- `Jeremiah 17.txt` — Jeremiah 17:1-18 — Idol of politics
+- `jeremiah 7.txt` — Jeremiah 7 — Idolatry of happiness
+- `1 kings 18.txt` — 1 Kings 18 — Elijah; double-mindedness; Baal
+- `1 Kings 3 - Soloman.txt` — 1 Kings 3 — Solomon's compromise with idolatry
+- `Exodus 2.txt` — Exodus 2:23; Psalm 115:4 — Idolatry vs the living God
+- `psalms 24.txt` — Psalm 24 — Clean hands; idolatry and integrity
+- `thanksgiving 2018.txt` — Eph 5:4; Gen 22 — Smashing idols
+
+### Love of God / God's Character
+- `1 john 4 b.txt` — 1 John 4:7-21 — God's love as overwhelming hurricane
+- `Romans 5.md` — Romans 5:8 — While we were still sinners
+- `neh 1 second.txt` — Nehemiah 1 — Chesed; God's steadfast love
+- `Theology Proper.txt` — Various — Attributes and nature of God
+- `Psalm 8.txt` — Psalm 8 — God's majesty; Yahweh and Adonai
+
+### Marriage / Family
+- `Grannys Wedding jn 316.txt` — John 3:16 — Christian marriage
+- `Imagine tomorrow was your anniversary.txt` — Worshipping from love not obligation
+- `Romans 15a...md` — Application: marriage struggles and welcome
+
+### Obedience / Faithfulness / Diligence
+- `Josh 7 & 8.txt` — Joshua 7-8 — Consequences of leaving God out
+- `Joshua 24.txt` / `Joshua 24 - 2024.txt` — Joshua 24 — Choose this day
+- `Naaman.txt` / `Leprosy - naaman - 2kings 5.txt` — 2 Kings 5 — Obedience in healing
+- `Neh 7.txt` — Nehemiah 7 — Gatekeepers and faithfulness
+- `Following Christ - dilligence.txt` — Mark 10 — Diligence
+
+### Prayer
+- `PS 91 - Prayer.txt` — Psalm 91 — God as refuge; prayer service
+- `col 4 - prayer.txt` / `prayer col 4.txt` — Colossians 4:2 — Devotion to prayer
+- `Neh 1.txt` — Nehemiah 1 — Brokenness and prayer
+
+### Providence / God's Sovereignty Over History
+- `Ezra 4 and 6.txt` — Ezra 4-6 — God's sovereignty over nations
+- `Romans 1 (2024).md` — Romans 1:18+ — Anthropic principle; fine-tuning
+- `2 kings 25.txt` — 2 Kings 25 — Trusting God over your own heart
+- `romans 9 pt 1.md` through `Romans 9 Pt 3.md` — Romans 9 — Sovereignty; mercy
+- `Sermon 2 gen 37 joeseph.txt` — Genesis 37 — Joseph as type of Christ
+
+### Racial Reconciliation / Unity
+- `Cultural Marxism.txt` — Romans 10:12-13 — Biblical racial equality
+- `romans 12 - weep with those who weep.md` — Romans 12 — Racial injustice; weeping
+- `Romans 15a...md` — Romans 15:7-12 — Jew and Gentile; one voice
+
+### Revival / Scripture / Word of God
+- `neh 8.txt` — Nehemiah 8 — Revival; reading scripture
+- `Psalms 119.txt` — Psalm 119:161-168 — Treasure of scripture; Bible smuggling
+- `2 tim 3.txt` — 2 Timothy 3:14+ — Authority and sufficiency of Scripture
+- `sola scriptura.txt` / `Sola Scriptura 24.txt` — 2 Timothy 3 — Scripture alone
+- `psalms 1 (12-5-19).txt` / `psalms 1 3-15-25...txt` — Psalm 1 — Neglecting scripture
+
+### Salvation / Conversion / New Birth
+- `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Deathbed conversion; grace
+- `2 cor 5.txt` — 2 Corinthians 5:16-6:3 — New creation
+- `ezekiel 37.txt` — Ezekiel 37 — Dry bones; spiritual resurrection
+- `Ezekiel 36.txt` — Ezekiel 36:22-32 — New heart; grace for God's glory
+- `2 chronicles 15.txt` — OT vs NT salvation models
+
+### Shepherding / Pastoral Care
+- `Psalm 23` (multiple versions) — God as shepherd
+- `Manatee Creek Sheep.txt` — (sheep breeding, but useful for shepherd illustrations)
+- `psalms 23 pt 2.txt` — Rod and staff; goodness and mercy
+- `John 10.txt` — John 10:7-11 — Wicket gate; good shepherd
+
+### Sin / Depravity / The Fall
+- `Gen 3.txt` — Genesis 3:1-6 — The fall; trusting self over God
+- `hamartiology.txt` — Colossians 3:1-11 — Doctrine of sin
+- `Romans 1.md` / `Romans 1 (2024).md` — Romans 1 — Suppression of truth
+- `Romans 2...md` — Romans 2:1-11 — Hypocrisy
+- `Romans 3...md` — Romans 3 — None righteous
+- `ps14.txt` — Psalm 14 — Foolishness; the fall
+- `vbs 2019.txt` — Ephesians 2 — Depravity of man
+- `Psalms 1.txt` — Psalm 1 — Downward progression of sin
+
+### Spiritual Warfare / Enemy Attacks
+- `Neh 6.txt` — Nehemiah 6 — Enemy attacks and spiritual warfare
+- `Luke 4.txt` — Luke 4:1-13 — Christ's temptation; resisting sin
+- `Gen 3.txt` — Genesis 3:1-6 — Serpent's deception
+
+### Thanksgiving / Gratitude
+- `thanksgiving 2017.txt` — Ephesians 5:4 — Thankfulness
+- `thanksgiving 2017 (2023).txt` — Psalm 107:1-3 — Thankfulness (2023 revision)
+- `thanksgiving 2018.txt` — Eph 5:4; Gen 22 — Thanksgiving; Abraham and Isaac
+- `Col 2 - thanksigiving.txt` — Colossians 2:1-8 — Thanksgiving; guarding against deceit
+- `jn 10.txt` — John 10:11, 17-18 — Thankfulness and Christ's love
+
+### Type of Christ / Christological Foreshadowing
+- `1 sam 17.txt` — 1 Samuel 17 — David and Goliath as type of Christ
+- `Sermon 2 gen 37 joeseph.txt` — Genesis 37 — Joseph as type of Christ
+- `is 53.txt` — Isaiah 53 — Suffering servant
+
+### Welcome / Hospitality / Unity in the Church
+- `Romans 14a...md` through `Romans 15a...md` — Romans 14-15 — Weak and strong; welcome one another
+- `1 peter 3 brotherly love.txt` — 1 Peter 3:8-18 — Brotherly love
+- `1 john 3 pt 2.txt` — 1 John 3:11-24 — Love among believers
+
+### Worship
+- `Psalms 96.txt` — Psalm 96 — Worship; evangelism as worship
+- `Psalms 100.txt` / `Psalms 100(2).txt` — Psalm 100 — Serving with gladness
+- `psalms 84...txt` (multiple) — Psalm 84 — Dwelling in God's presence
+- `Imagine tomorrow was your anniversary.txt` — Worshipping from love not obligation
+
+---
+
 ## Statistics
 
 - **Romans series manuscripts**: 20+ files (primary series)
