@@ -50,34 +50,37 @@
   - One duplicate paragraph
 
 ### Batch 3
-- [!] **Genesis 22** — "There and Back Again" (study notes format)
-  - **SOURCE NOT FOUND** — no docx file or markdown source located in repo
+- [x] **Genesis 22** — "There and Back Again" (study notes format)
+  - Source: re-provided via conversation
   - Academic seams analysis, not a preached sermon
   - Rabbi Schwarz citations
-  - Strong's concordance reference
-  - Hebrew word analysis (veha'alehu)
-  - Christ typology throughout
+  - Strong's concordance reference (#07725)
+  - Hebrew word analysis (veha'alehu, vayashav/teshuva)
+  - Christ typology throughout (Isaac carries wood / cross, ram in thicket / crown of thorns)
+  - J. Vernon McGee cited on Isaac's age
 
-- [!] **Genesis 12** — "Grafted In" (full transcript)
-  - **SOURCE NOT FOUND** — no docx file or markdown source located in repo
-  - Abrahamic covenant, idolatry (Minecraft/Xbox illustration), orange tree grafting, missions
-  - Pokemon Go reference (dates sermon ~2016)
+- [x] **Genesis 12** — "Grafted In" (full transcript)
+  - Source: re-provided via conversation
+  - Abrahamic covenant, idolatry (Minecraft/Xbox illustration), orange tree grafting
+  - Pokémon Go reference (dates sermon ~2016)
   - Pastor Bob / Rob story (leukemia, bone marrow transplant)
   - Financial testimony illustration
-  - Gospel presentation at close
-  - Several duplicate paragraphs
+  - Gospel presentation at close (Romans 10:9)
+  - Duplicates removed; Scripture blockquotes converted to ESV
+  - Ephesians 3 / Romans 15:27 blessing-the-Jews theology
+  - Zechariah 12 last-days prophecy referenced
 
-- [!] **Acts 13:1-3** — "The Blank Check" (full transcript)
-  - **SOURCE NOT FOUND** — no docx file or markdown source located in repo
-  - William Borden story ("No retreats, no reserves, no regrets") — date "2013" should be 1913
-  - Hiroo Onoda story — pastor has significant factual errors (says ~2000, age 80; actually 1974, age 52) — preserve as delivered
+- [x] **Acts 13:1-3** — "The Blank Check" (full transcript)
+  - Source: re-provided via conversation
+  - William Borden story ("No retreats, no reserves, no regrets") — corrected date to 1913
+  - Hiroo Onoda story and "Insanity of God" movie reference — not in re-provided source; omitted (source may have been partial)
   - David Platt quote about trusting God with kids
-  - Missions training simulation story
-  - Missionary son in Somalia story
-  - Philippians 3:7-11 quoted
-  - Acts 20:21-24 quoted
-  - Charles Spurgeon "if sinners be damned" quote
-  - "Insanity of God" movie reference
+  - Missions training simulation story ($400K kidnapping scenario)
+  - Missionary son in Somalia / Mogadishu story
+  - Philippians 3:7-8, 10-11 quoted (ESV verified)
+  - Acts 20:21-24 quoted (ESV verified)
+  - Charles Spurgeon "if sinners be damned" quote (widely attributed; exact sermon source unconfirmed)
+  - Community prayer-drive call to action at close
 
 ### Batch 4
 - [x] **BFM Grace/Election** — "Out of the Cistern" (full transcript)
@@ -133,11 +136,9 @@
 - Many sermons have the entire text duplicated in the dump — only process once
 
 ## Summary
-- **8 of 13 sermons completed** (source text found and processed)
-- **5 of 13 sermons blocked** (source text not found in any repo file — docx or markdown)
+- **11 of 13 sermons completed** (source text found and processed)
+- **2 of 13 sermons blocked** (source text not found in any repo file — docx or markdown)
   - Psalm 106 "At the Altar of Our Convenience"
-  - Genesis 22 "There and Back Again"
-  - Genesis 12 "Grafted In"
-  - Acts 13:1-3 "The Blank Check"
   - Exodus/Moses "A Godly Home"
-- These 5 sermons were cataloged from a previous info dump that is no longer present in the repository. Source text will need to be re-provided to process them.
+- These 2 sermons were cataloged from a previous info dump that is no longer present in the repository. Source text will need to be re-provided to process them.
+- Note: "The Blank Check" (Acts 13) was re-provided without the Hiroo Onoda section and "Insanity of God" movie reference present in the original catalog. These may have been in a portion of the transcript not re-provided.
