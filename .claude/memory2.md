@@ -331,4 +331,227 @@ Where I'm going with this is that life is short. We aren't promised tomorrow. Al
 
 ---
 
-## PROCESSING MARKER: Remaining sermons from the data dump need to be pasted by user in subsequent batches.
+## Sermon: Colossians 2:1-8 — Quilted Together in Love / Gratitude as Guardian
+
+**Primary Text**: Colossians 2:1-8
+**Supporting Texts**: Romans 5:7-8, 1 Thessalonians 5:17-18, 1 Corinthians 11:23-29, Isaiah 53:10-11
+**Also preached with**: Shawiya of Algeria people group (alternate delivery)
+**Themes**: Body of Christ as quilt, bronze patina illustration, beguiling speech, gratitude as guardian, communion
+**Quoted**: John Piper (knit together in love), Ann Voskamp (eucharisteo/charis/chara)
+
+Lets read our passage today. Col 2:1-8
+
+I want you to notice the quilting language in this passage in verse 2. Speaking of – I love the quilt that Carol, and you guys all made and signed for me. I have had a few opportunities to use it, sitting in my recliner in the evenings these past few cold nights. Its been a blessing. But like that quilt where we all had a hand in tying a knot, this passage is a quilt.
+
+Verse 2 Paul says "that their hearts may be encouraged, being knit together in love,", it strikes me that this quilt is an unusual quilt, and made up of all sorts of different people. Unlike the quilt you guys made for me where everything is measured and even, and carefully planned out. The quilt of the body of Christ is made up of wildly different kinds, and sizes and shapes of fabric. Where a quilt for a bed is going to be square, the body of christ is not, and so its appropriate to use wildly different pieces of fabric. Its appropriate for God to knit together a handicap IT man, with an artistic horse loving pharmacist, with a handful of musicians, some with medical knowledge, some who are willing to give of their time, and some who are willing to give of their money, quilted together with people who are afraid of the pandemic, and people that are not afraid of the pandemic. Quilted together with an author, and people that love animals, and people that struggle here or there. There is a beauty and a purpose, and organization in the asymmetry of people that God brings together for his purposes, to worship him through church. In some ways, were all a bunch of missfits, for whom Christ fills the gaps, for whom Christ makes up the lack, and knits our hearts together into something greater than the sum of the parts.
+
+Bronze does something like this too. Bronze when its new is quite shiny, and if you like shiny yellow metals, its nice to look at. As it ages, and is exposed to the winds and the rain, and the salt of the sea, or the oils of our skin, that bronze begins to darken. The darkening is called patina. Patina is a kind of cool chemical reaction. Bronze is made up of copper, tin and sometimes zinc. None of which are particularly strong metals. Stronger than clay, or something like that for sure, they are still metals, but they are soft metals. But when you mix 8 oz to 1 copper to tin, and add in a little bit of zinc you get a bronze alloy tht is stronger than all of its component parts. Better still, when allowed to develop a patina over time, a crystal lattice forms around the bronze that is stronger than any of elemenets that go into bronze, and the bronze itself. It can be nearly un-scratachable if allowed to form slowly over time. If you allow the lattice to knit together slowly over time. You get something beautiful. Our new saying here, that will go up on our sign once we get the sign reprinted is 'taking strangers making family". God more or less does the same thing here with people that nature does with bronze. Over time, we become greater than the sum of our parts, we are family through our connection with Christ, but we become family also eternally and unbreakably.
+
+Its why we miss Kurt so badly when we don't see him for months on end, and are so glad to see him when he comes. We hurt when our family hurts because we have been knit together in Christ.
+
+This letter that Paul writes to the church at Collosae we know from chapter 4:10 and 18 is being written from Prison. So when Paul talks about his struggles, we know his struggles in part are that he is locked up, unjustly, under emperor nero – who can tell me something they remember about Emperor Nero? Impaled Christians on wooden steaks, dipped them in oil, and ignited them to light the streets of rome. Nero is also remember for trying a number of times, and ultimately succeeding at killing his mother through crazy and convoluted means. Nero is remember perhaps aprocryphally as being the man that fiddled while rome burned. He had Christians ripped apart by lions, by other gladiators, or burned alive. This was likely the man that put Paul in Jail. So when Paul says it's a struggle in vs 1, he meant it. If you look back a few verses into chapter 1, Paul says that this suffering he is enduring is for the sake of the church at collosae. Why because he loves them like family, because they have been knit together like family, when one hurts, they all hurt. When one has reason to rejoice, they all do. But the benefits don't stop there, in addition to a loving family community, we see there are other benefits, look at vs 2 again, encouragement, assurance of understanding of the mystery of Christ.
+
+So this is the background, and important stuff. The reason Paul finds to rejoice in the midst of his struggle, and helps him bear up under persecution is the fact his church family is "well ordered" and firm in the faith vs 5.
+
+Their strength gives him strength. He knows his efforts haven't been wasted. He poured his life into these people, and the growth he sees encourages him. His encouragement under persecution likewise encourages the collossian church. Most of you are, or have been parents. How many of you have had to endure something that you didn't like, but because it was good for your kid, or because your child loved it, you persevered through the midst of the difficulty.
+
+A friend of mine from seminary said the hardest part of being a parent is not dirty diapers, but piano recitals. Apparently his kids school has multi hour events where small groups of kids perform poorly, group after group after group until your kids finally perform flawlessly. Then after that you sit there and wait while everyone elses kids finish their performances as well. He says it's a form of torture. You want to sleep, but don't want to be rude, and yet its becoming harder and harder to keep your eyes open, and then your wife elbows you in the ribs to help you keep awake, which is only fair because you elbowed her in the ribs just a few minutes ago to help her stay awake. But you go through these things, and endure them with joy because of the joy, and benefits they have to your children. Similar situation here, except with fewer instruments, and more prison.
+
+In fact, Pastor John Piper wrote "the way to get assured understanding about the mystery of God, namely, Jesus Christ the treasure chest of wisdom, is to have your heart knit together in love with other believers. The deepest and most certain insights into the character of God and the wisdom of God come into heads that are attached to loving hearts." Loving your brothers and sisters in Christ helps unlock the doors of wisdom, and knowledge of Christ. If God is love, if Christ is Love, to know and be like them is to exude love on those around us. Not just those that love us back. Scripture says, while we were yet sinners, Christ died for us. Did we love God while we were yet sinners? No. We didn't even really have a good handle on what love meant. We weren't even a glimmer in our parents eye, and yet Romans 5:7-8 says "7Very rarely will anyone die for a righteous man, though for a good man someone might possibly dare to die. 8But God proves His love for us in this: While we were still sinners, Christ died for us. God knew us to a point well beyond we are even capable of knowing ourselves. He knew the sins we would commit knowingly. He knew the sins we would accidently commit. He knew every thing good bad or otherwise that we would do, rightly compared our righteousness to used menstrual rags and chose to die for us any way.
+
+What an awesome and loving God we serve.
+
+This brings us to the last half of the passage. Verses 6-8. These verses are a fresh repeating of what has already been said in slightly different words. Vs 4 was a warning against being deceived. Vs 8 likewise is a warning against being deceived.
+
+Verse 8: "See to it that no one makes a prey of you by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the universe, and not according to Christ." Verse 4: "I say this in order that no one may delude you with beguiling speech." Both verses warn the Colossians to guard themselves from traditions or philosophies or words that lead away from Christ.
+
+Verses 6-7 correspond to verses 2-3. Giving us tools to guard ourselves against the "beguiling speech". There is some variation on how that phrase beguiling speech is translated. Youngs literal translation settled on beguiling speech, and I liked that quite a bit. One translation said "big talk". We have all known people who come in and talk big, and then they go right on out, and never follow through, or cant' follow through. NRSV says "Plausible Arguments", Oddly my favorite rending in the English comes from the new living translation which says: "well-crafted but deceptive arguments". Beguiling speech indeed.
+
+Any way, the tools are fourfold:
+Sit under teaching of the Truth of Christ. 2, receive the word of Christ. Third, Become rooted, and built up in Christ, and fourth live a certain way as a result – a way that abounds in thanksgiving.
+
+Piper writes "In verses 2 and 3 the deep assurance of our knowledge of Christ leads to strong encouragement that guards us from the deceit mentioned in verse 4. In verses 6 and 7 being rooted and built up in Christ leads to an overflowing gratitude that guards us from deceit mentioned in verse 8. If you were to ask me how the guardian of "encouragement" (in verse 2) relates to the guardian of "gratitude" (in verse 7), I would say that gratitude is the completion of encouragement."
+
+He goes on to say that thankfulness is an essential guardian of the soul, and so we should guard ourselves with gratitude. Unless we are singing the song of thanksgiving in our hearts, the enemies at the gates can overwhelm our walls, and march right on in. Does your life reflect this quilt of love? Does it reflect encouragement as a result? Is that encouragement consummated in gratitude?
+
+How would you feel, if your beloved son, who could have lived, but chose to give up his liver to help someone else, if his gift was spurned and unappreciated by the recipient of the liver. How would that make you feel?
+
+Christ died for us, and if we don't have encouragement that leads to gratitude and thanksgiving then we have dropped the ball, and are letting our savior down.
+
+He knew we would. He planned for that. And yet shall we continue in sin that grace may abound? May it never be.
+
+Finally, I want to draw our attention to one more verse, that we are just going to briefly hit. Go ahead and turn in your bibles to 1 Thessalonians 5:18. Someone near the camera read it out loud for us.
+
+While you're turning there, I want to point out there are no conditions included in our passage today. No charge to have thankfulness or gratitude, except when. It doesn't say be thankful, unless traffic is bad. It doesn't say be thankful, except when your family is rude. It doesn't say be thankful except when your personal rights feel trod upon. It says to be thankful. To allow thankfulness to guard our hearts and minds.
+
+Its easy to elevate our own sense of self to be elevated to the point where perceived and real injustices against our selves become more important than being thankful to God. I bring up my thief neighbors from time to time. Its easy to respond in anger, when they take your grandfathers tools. Its easy to respond in anger when they tell lies about you to your land lord. Its easy to respond in anger when our circumstances are horrible. And yet we have this verse… can someone read it out nice and loudly for me from 1 thess 5:18? Actually start in 17, read 17 and 18 for me.
+
+Pray without ceasing, and give thanks in all circumstances; for this is the will of God in Christ Jesus for you.
+
+So what are we to do when our circumstances are hard? Be thankful. Christ lived this out.
+
+Remember the situation in the upper room? Where Christ instituted the practice of observing communion? The word in the Greek is "eucharisteo". A lady named Ann Voskamp wrote this about that word "Ann Voskamp: The root word of eucharisteo is charis, meaning "grace." Jesus took the bread and saw it as grace and gave thanks. He took the bread and knew it to be gift and gave thanks. Eucharisteo, thanksgiving, envelopes the Greek word for grace, charis. But it also holds its derivative, the Greek word chara, meaning "joy." Charis. Grace. Eucharisteo. Thanksgiving. Chara. Joy. When he prayed during that last supper, John Piper says this is essentially what Jesus Prayed "Thank you, Father, that my body, symbolized by this bread, is about to be brutally broken and I am about to be (momentarily) damned by your wrath (Isaiah 53:10) so that you will receive supreme glory in being able to forgive undeserving sinners (Philippians 2:11) and I will share eternally full joy (John 15:11; Psalm 16:11) with hundreds of millions of forgiven sinners made righteous through my sacrifice (Isaiah 53:11).
+Jesus's thanks was not based on his present circumstances. He was about to endure the worst possible horror. And yet He felt thankful to the Father for the grace and glory that was coming because of the cross and this gave him joy."
+
+If anyone had a right to be angry, it was Jesus, and yet we see him respond with joy. With thanksgiving. With grace. He set his own rights aside, because he loved you. Any other injustice we endure on this earth has to be examined in that context. In that light. So my neighbors stole some of my grandfathers tools. Christ died for that sin, like he died for my many sins.
+
+So my neighbors lied about me to my landlord. Christ died for that sin too like he died for my many sins. So my neighbors trod upon my rights. In sinning, I have trod upon the rights of Christ, and required him to be put to death.
+
+In the words of the old Hymn, it was my sin that held him there, until it was accomplished. His dying breath has brought me life. I know that it is finished.
+
+Gospel.
+
+Communion.
+
+For I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, 24 and when he had given thanks, he broke it, and said, "This is my body, which is for you. Do this in remembrance of me." 25 In the same way also he took the cup, after supper, saying, "This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me." 26 For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes.
+27 Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord. 28 Let a person examine himself, then, and so eat of the bread and drink of the cup. 29 For anyone who eats and drinks without discerning the body eats and drinks judgment on himself.
+
+---
+
+## Sermon: Prayer — Colossians 4:2-4
+
+**Primary Text**: Colossians 4:2-4
+**Supporting Texts**: Luke 11 (ask/seek/knock)
+**Themes**: Prayer as relationship not emergency-only, neglecting prayer, persistence in prayer
+**Quoted**: George Muller (on reading/prayer habits), Calvin Wittman (on "steadfastly"), FB Meyer (unanswered vs unoffered prayer)
+**Illustrations**: Pilot running out of gas, high school friend who only called for rides
+
+Were going to talk about prayer today. In fact I heard a story the other day about a pilot flying his small home brew airplane. He had been flying, and enjoying the beauty of God's creation, and the great weather, and his airplane. But he lost track of time. Without realizing it he flew so far that he didn't have enough gas to get back to his home airport. So he calls air traffic control and asks them what he should do. They find a local airport near by that can handle his airplane, and re routed other traffic. They figured if he was careful, and the wind stayed down, he would be able to make it with a couple gallons to spare. However the calculations or wind or something was off, and a few miles further than were needed to make a safe landing, his plane started singing its klaxon call, indicating it was out of gas.
+
+He called air traffic control once more and he asked them "what do I do". The ATC said "repeat after me, Our father, which art in heaven".
+
+I think a major misconception is that prayer is only for emergencies. But think about that in the context of your relationship with your spouse. Christ is the bridge groom of the church. We are his bride. Husbands, wives, what if your partner only talked to you when they had screwed things in their life up so bad they couldn't fix them on their own.
+
+How would that make you feel? Neglected? Ignored? Used? How do you think it makes God feel? I'll tell you it doesn't give him the warm fuzzies. God wants for us to be able to have a relationship with him, to enjoy him, and when we neglect God it harms us and is offensive to God.
+
+How long would you stay married to a spouse that absolutely ignored you unless they wanted the checkbook? Hey honey, I messed up again, I need you to come bail me out of jail. Which is exactly what we do to God isn't it?
+
+Prayer is a marvelous gift given to us by our creator! What other king – much less king of kings – gives his subjects the ability to communicate with him from any where, at any time about any thing, and yet so many folks save it for when trouble comes. We should absolutely pray when trouble comes. But it shouldn't be the only time we pray.
+
+I had this friend in high school. I'm not going to give this persons name. I don't think any of you would know her at this point, but just the same. I saw her as a friend, and I would give her rides and take her places out of friendship. Mostly it was rides to hang out with my sister. Most of the time I was heading past her parents house any way, and I didn't mind. We were friends! But after a year or so it started to feel like a onesided thing. Like I was her servant. Like rides were expected and obligated, and if I wasn't able to give her rides I was the bad guy in her estimation. I also started to only hear from her when she wanted a ride. So I finally told her one day if she really was my friend she needed to communicate with me more than just when she wanted something, and if she couldn't do that then she shouldn't continue to ask me for rides. I was offended and felt used. Its been approaching two decades since I've heard from her. It cut me to the core one day in bible college when I realized we do the exact same thing to God.
+
+Prayer is tremendous gift from God. Each of us in this room knows someone who has been miraculously healed by God as the result of a prayer. We have seen God answer prayers for the lost – God working in their heart and mind to draw them towards himself. We have seen the miracle of lost people becoming found, those dead according to eph 2 being rejuvenated into new life in Christ.
+
+So often we neglect this tool, this resource, this treasure that we have access too through Christ.
+
+You can be a believer in Jesus Christ and not pray, and you can be a husband that never talks to your wife, but what a shallow relationship that would be. What depths of joy, and comfort, and contentment, and peace, and love would you miss out on if you never spoke to your wife. What depths of joy, and comfort, and contentment, and peace and love and joy do we miss out on when we never talk to our bridegroom Christ. FB Meyer wrote in his book the secret of Guidance that the great tragedy of life is not un-answered prayer, but un-offered prayer.
+
+What does scripture say about prayer then? I'm going to try to keep this short and then we will spend the last few minutes in prayer. Lets read col 4:2-4.
+
+It starts off with continue steadfastly. Calvin Wittman in his sermon on col 4 says that the word for steadfastly can be translated persist in, adhere firmly to, or remain devoted to or to give unremitting care to. He goes on to say that every time that greek word is used throughout the new testament it carries with it a sense of devotion to prayer. Of starting and never stopping. As being an imperative command. Prayer isn't a thing we can choose to pick up and choose to put down, prayer is a thing we are commanded to do by our Lord and savior Jesus Christ.
+
+Paul continues and says that we must continue praying for doors to be open so the gospel can be heard. This is imperative. Paul wants us to start praying, and continue praying, we must pray stead fastly for, remain devoted to praying for, we must give unremitting care to the prayer for the lost, that doors would be open for the gospel.
+
+Don't raise your hands but how many of you have been praying daily for the lost in our community? That doors would be open? Hmm? All throughout the new testament, this is the command of Jesus through scripture. In Luke we are told to ask, to seek and to knock. In the greek the idea is to start asking right now and continue asking, to start seeking now and continue seeking, to start knocking now, and continue knocking. We are to be persistent in prayer. That's different than long prayers. Some people pray because it makes them look this way or that way. Or they don't pray because they are worried how people are going to view them because of their prayers. But that isn't what God cares about is it? He wants sincere open communication.
+
+Some people say that its hard, or boring to spend time in prayer. Well, you aren't alone in thinking that. There was a famous missionary, a man that started orphanages, and fed the hungry hundreds and hundreds and thousands upon thousands of hungry people and orphans, a man named Muller. He struggled with that too. He wrote: "It is a common temptation of Satan to make us give up the reading of the Word and prayer when our enjoyment is gone; as if it were of no use to read the scriptures when we do not enjoy them, and as if it were no use to pray when we have no spirit of prayer. The truth is that, in order to enjoy the Word, we ought to continue to read it, and the way to obtain a spirit of prayer is to continue praying. The less we read the Word of God, the less we desire to read it, and the less we pray, the less we desire to pray."
+
+These were lessons learned the hard way. I've read his journals, and he spent more time battling depression and illness than any other person I'm aware of, and whats his response? In order to enjoy the word, we must read it. In order to obtain a spirit of prayer we must pray. Its when we neglect these things that we begin to lose our satisfaction, our contentment, our joy in the Lord. We must make our relationship with God a central focus.
+
+So what I want to do is spend the rest of the time we have in prayer today. Were not worried about the clock. Were not worried about lunch, were worried about healthy communication with our savior. So what we are going to do is go around the room, and as God puts things on your heart, pray for them, one person at a time. We used to call it popcorn prayer in highschool. I'll open, and when everyone has been quiet for a moment I'll close.
+
+There are so many needs in our community, in our church family, in our extended families that we can pray for. There are so many needs in our county, and in our state, and country. In our military, in our government. There are so many things we can be thankful for. If you woke up and had air in your lungs, and sight in your eyes, that's something to be thankful for. Lets not just go to him in a crisis, lets go to him in the good times, and with things were thankful for as well.
+
+Lets pray.
+
+---
+
+## Sermon: Church Membership / The Body of Christ — 1 Corinthians 12:12-27
+
+**Primary Text**: 1 Corinthians 12:12-27 (esp. 12:21-27)
+**Supporting Texts**: Romans 3:23
+**People of the Week**: Dhangar of India (~3 million, largely Hindu, ~0.04% Christian)
+**Themes**: Church membership, mutual commitment, body of Christ, church hopping culture, ecclesiology
+**Illustrations**: Seminary friend who told girlfriend she was less important than homework, church hopping woman, friend whose pastor publicly shamed his giving, church planting vision
+**Communion**: Yes (end of service)
+
+I was talking to a guy that graduated from southeastern. He had introduced me to his wife, and I asked the usual question, how did you guys meet? So they started sharing. He had been kind of a shy guy, but he like her, So some of his friends, got with some of her friends, and they sort of orchestrated them going out on a date. Things were going well, one thing was leading to another, and they were spending a lot of time on the phone.
+
+At this point, he's a pastor of a rapidly growing church, working two jobs, and full time in seminary, so this guy was absolutely swamped. She actually shared this story. So one night a couple of months in, he was feeling overwhelmed and like he was spending too much time on the phone. He said I was just spending ALL my time on the phone, so he called up his girlfriend, and get this. He said "I don't like spending all this time on the phone with you, my priorities are God, my family, my church and my homework, and then you. I just can't keep spending all this time on you.
+
+Yes, he said his homework was more important to him than her right then.
+
+Needless to say this was not the highlight of her day. She was not thrilled! And, that brought their relationship to an end. It was midterms, he said he was fine with that, and emphasized that for that point in time his priorities were right. But his homework didn't really console him. But he was getting it done, and then a week or so later, his now ex girlfriend went on a date with one of his good friends. He said he turned inside out, he realized just how huge of a mistake he had made, and went straight to her. She ended up marrying him – I think she must have been a pretty patient woman.
+
+He shared another story about how when they were dating, he wrote her a letter calling her dude 11 times by the end of it. He was not mr smooth for sure. But she was incredibly patient with this awkward, goofy guy that has gone on to be a pastor of one of the biggest churches in our denomination, and who was for a while the head of the international missions board. His wife was patient in deed.
+
+Can you imagine that ladies? Your boyfriend, calls you up, hey "I like you and all, but talking to you is a burden, sorry. I'm too busy to talk to you on the phone right now, you're not as important to me as homework, and these other things".
+
+How long would your relationship with that boy have lasted? Men, imagine saying that to your wife back when you were dating. How do you think that would have gone?
+
+Not so well. But don't we through our actions say that very thing to Christ, to the bride of Christ?
+
+The guy from the story before recently preached out of this passage, and on the topic of church membership. That's what we are going to be discussing today. If you've brought your bibles, and I hope you have open with me to 1 cor 12.
+
+People of the week.
+Dhangar of India. Are a largely agrarian people. There are around 3m of them in india. Their job is to raise two separate breeds of sacred cow. Roughly 4 hundreths of one percent are believers in Jesus Christ. The rest are hindu and tend to outwardly follow Hinduism quite strongly. They wear sacred threads at their weddings showing their devotion to their particular deity. They name their children after gods and goddesses of the hindu pantheon. And so forth. We've discussed here a dozen times that its hard to hindus for a variety of reasons. But who is stronger even than human will? God is. God overcame Sauls will and pharaohs will, and your will and my will the day we became believers in Jesus Christ. God can over come their will too. So lets pray "Pray that many of the Dhangar Bharwad will come to love God with their whole being and will walk in His ways. Pray Christian believers among the Dhangar community will become mature in the faith, able to have a bold, kind witness for Jesus to their neighbors."
+
+Lets read 1 cor 12:12-27
+
+It seems to me there is a culture in our county of church hopping. I was talking to a woman the other night that reminded me of Tiffany Murch. Some of you guys may remember her. Any way, this woman who is not tiffany, was talking about how shes been looking for a church home. She's been hopping from church to church trying to find a church with the best worship program. For her, she said its all about the worship experience. Did it check all the right boxes? Did she have goosebumps, did she have a funny feeling in the pit of her stomach, or was it the pizza she had for dinner last night, who knows! But for her its about the experience, and wrappings and trappings of church. The experience of church seems to be the thing that is most important to so many people these days. I want to do our best here to have a good presentation so were not driving people away. I heard someone singing one time at a restraint with karaoke, and someone quipped I think she just found the secret note that doesn't please the Lord. We don't want to be offensive. We want to foster an environment of safety, and family, and fun, and love. But those aren't the most important things that we do. Its more important that a church preach what the bible has to say, than it is that we are comfortable. Its more important that the church sing songs that worship God accurately, than it is that we get goosebumps from the worship. Its more important that we because of our fellowship with each other grow closer to the likeness of Christ, than it is that we are warm and fuzzy towards each other.
+
+I love that we in most of those areas have both. We have warm and loving fellowship, we take strangers and make family, and still our relationships with each other draw each other closer to Christ. When one is struggling in an area, another can come along side, and exort, and share scripture, and do life with the person that is struggling until the one struggling is back on firm footing. I love that about our small church body.
+
+I think though that there are a lot of reasons people in our culture sort of date the church. American culture plays into it. Were independent, sort of lone ranger, pull ourselves up by our bootstraps sort of people. The thought of mutual accountability, and mutual commitment is frightening to many people. It goes against the grain in large part in American culture today. Were self made, go it alone kind of people. When you're struggling, that's not helpful. And that stands in stark contrast to how the early church would have been as a near eastern culture. Many many cultures around the world prize the group over themselves. My grandmother was a woman like that. She would go way way way out of her way to make sure that others were comfortable even at the expense of her own comfort. We still have elements of that in southern culture. You've heard of southern hospitality, but near eastern hospitality took that to another level.
+
+I think a contributing factor too is that many have been burned by the church in the past. A dear friend of mine, whose probably the most giving man I've ever met was in church one Sunday, and so the story goes, the pastor stopped preaching, and came up to him, and said "I know how much money you have and how much you give, and you're not contributing your fair share, you need to give more".
+
+My friend rightfully got up out of his seat, and left that church, and hasn't been back inside any church since. Its one of the reasons I go out of my way not to know whether who gives or how much. I don't talk about giving a lot, and I'm not going to today really either. But giving is a form of mutual commitment. Part of being one body. I had a professor say if you show me your check book, I'll show you your priorities, and that was true then, and is true now.
+
+This lack of mutual commitment is why statistically speaking 10% of the people of a given church do 90% of the work. People want to come to church, want to be comfortable in their heated and airconditioned seats, want to be entertained by a band, and have nice things said to them from the pulpit about how God's going to make them comfortable, and wealthy, and lifes going to be easy. They want to continue in their comfortable ignorance of scripture.
+
+Finding a church is hard. Committing to people is hard. I have been hearing a lot more of "I love Jesus Christ, I just don't like his church. If you don't like Christ's bride, maybe its really Christ you don't like. People think they can stay home, and in contradiction to scripture continue to live for Christ apart from his church. This is a form of rebelling against Christ. Is a person rebelling against a cause living for that cause? If you were in the army, and rejecting the lawful orders of your general, whose side are you helping? Who are you living for? You can't affirm Christ with your mouth and deny him with your lifestyle. You can't really say you're in God's army, and reject his commands. God in his infinite mercy and grace has forgiven true Christians for that, for a time in their life sometimes, but should he have to? And so people church shop for a church where the band sounds better, and the pastor tickles their ears. They shop for people that won't hold them accountable. They are looking for a church that worships the idol of comfort – just like them.
+
+I think the church at large has contributed to this too. When is the last time you remember hearing a pastor preach on the importance of church membership? Have you ever? Outside of a conference I went to on the topic, and ONE class period in a class on Baptist distinctive in theology, I can't think of a single time in 36 years of church attendance that I've heard someone preach on that. Including my self.
+
+Our society doesn't want to commit. We want to hook up, and have fun, and walk away when things start to get serious. Unless the Lord changes peoples hearts, through the ministry of his Holy Spirit, through the reading of his word, through time spent under the preaching of the word, and in prayer, and in fellowship with other believers, this problem won't go away.
+
+In highschool, and even into college, I was a huge critic of how church "felt". How chapel felt. I was more concerned with my own feelings about church than I was with whether or not the preaching followed scripture, with whether or not the worship brought glory to God. I like this song or that song because of how it made me feel to sing it. Most of them, as it turned out were great songs any way. But my choice of song had little to do with God and everything to do with how I felt when I listened to it.
+
+But if you like a song because of how it makes you feel, then who are we worshipping? Am I rightly worshipping God if its all about me?
+
+So I absolutely have been where those people are. It took a long time to realize the problem was me, and the extent to which I elevated my own experience. My own comfort. My own desire to sit under preaching that didn't challenge me to step out of my comfort zone. It looked like on the outside a lack of commitment to the church. But on the inside the root of the problem was a lack of commitment towards God. I was saved. I had committed my life to the Lord. But I wanted a God that brought comfort and ease to my relatively comfortable and easy life.
+
+God matured me out of that. But it took time. I think this commitment to each other and to the Lord is important, and so I want to try and show that in scripture with the time we have left. Lets read from 1 cor 12:21-27
+
+What kind of marriage would it be men if your wife said "sweetheart I love you so much, but your body repulses me" What would that do? What kind of marriage would that be? It's a shallow commitment isn't it, if a physical attribute – something they can't change about themselves causes you to bring to bear the full focus of your dislike. How are we any better when we say we love jesus but not the church?
+
+Likewise what would happen if your hand decided it no longer wanted to be part of your body? Every part of a human body is important, some are important enough we have back ups, like hands, you can survive without a hand. You can survive without an arm, you can survive without half of your brain. But what would life be like? You cant separate part of the body from the rest of it without consequences. What if your leg decided tomorrow to rebel? Ask Dottie what that's like! Each and every person in the church is part of the same body. Part of the same living organism and is just as important. When Brenda's not here or Dalia – both of whom have had health issues. Which is absolutely understandable. Dalia even with her health issues has committed to help with the kids on Thursday nights, and so this woman for whom taking chemo therapy, to help her feel better, even when she doesn't feel good, comes on Thursdays to help with the kids. That's commitment. When she isn't here its serious. Brenda too. She drove all the way out here not feeling well – and not contagious – to be with us. Because Brenda is committed to us. And we are committed to both Brenda and Dalia. When they need help, and we know, we are there for them. That's how the body works. If one part of the body is hurting, the whole body hurts. If one part of the body is hurting the body should tend to, and care for, and support, and take up the slack for the part that is hurting. We are more than individuals. We are more together than we are apart. We as a group in submission to God are more than a group of people. Were a church – were family. Sometimes you do what you have to do, endure what you have to endure for family.
+
+If your child has a dirty diaper, do you throw the child out? Do you leave the child somewhere else? No, you're committed to the child. When your husband, or husbands, when your wife is rude, do you throw him or her out? Of course not, you're committed to each other as one body. As the church is to be. Many parts, but one whole. Many individuals functioning together as one.
+
+Now you are the body of Christ, and each one of you is a part of it.
+
+As Christians leaving one church for another is sort of like cutting the foot off, and sewing it on a different body. That's part of the reason I don't want to grow because other churches are having issues. I would rather grow through evangelism. We will take anyone who comes through those doors, and bring them into the family. But my preference is the people that come into the church because the feet have been out sharing the gospel. Because the hands have been out loving on our community. Scripture says how beautiful are the feet of those that carry the good news of the gospel of peace.
+
+We are one body. We are one in purpose – to glorify God among the nations.
+
+We are one.
+
+When we neglect the rest of the body, we are like my friend who told his girlfriend he like her and all, he just didn't want to talk to her any more.
+
+Were not here to build our own empire. We want to grow God's kingdom through evangelism, and discipleship. A lot of the churches out there today meet at 10 different sites. With buildings stretching towards the sky. I would love to own this building, and add a couple rooms… But once we have classrooms for everyone I would love to be a church that never has another building project. When we fill up, I would love for us to be a church that plants another church in the place of greatest spiritual need. I Would love for us to never grow beyond the bounds of this property. I would love for us to be a church that is so excited about Jesus that people are drawn after us to Christ like a magnet. As we are drawn closer to God, that those in our orbits, would follow us in our walk towards Christ.
+
+That walk towards Christ begins with the gospel and goes directly through the middle of being a member of a local church body.
+
+Christs death binds us together as one body. Christ's resurrection binds us together in hope. Christs word binds us together in Truth. Christs ministry binds us together in purpose.
+
+All of that starts with Romans 3:23, open there with me prepare to close. I want you to read it out loud with me.
+
+Gospel
+
+Looking to become members of the church?
+Communion
+
+Announcements:
+For those of you joining us from facebook, were glad to have you. We hope you come join us one Sunday at 11am at the little church at the top of the hill on Bolton. Our address is located on the churches facebook page. Were glad to have you with us out in facebook land, but its better for you to be a member of a local church. Even if its not our church. Some church, somewhere out there needs someone just like you. I hope you find that church, or our church and join up, and commit to them, as they commit to you.
+
+Food Pantry Tuesdays from 10-12 if you need help, or know someone that does, or just want to come love on our community a little bit, come out and join us Tuesday morning here at the church.
+
+Thursday night is clubs from 5:30-7. I think were having pizza for the kids. I believe Niko's and Registrations Plus have been supplying the food. Its been a blessing.
+
+There is an advisory board meeting immediately following the service, if you're on the advisory board, or have been asked to come please stay, otherwise the sooner the sanctuary empties out the sooner we can get this state required quarterly thing over with. We will have a regular business meeting in a couple weeks. I think we have to announce it twice in the bulletin.
+
+---
+
+## PROCESSING MARKER: Remaining sermons to be appended (Catholicism, Jn 14, Lk 2, Rom 2, Acts 18, BFM HS, 2 Cor 5)
