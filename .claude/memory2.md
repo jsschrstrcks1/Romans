@@ -9,6 +9,18 @@
 - 2 Tim 1 appeared twice in dump — identical, kept one copy
 - 2 Tim 2:3-7 appeared twice in dump — identical, kept one copy
 - Col 2:1-8 appeared twice in dump — second copy had Shawiya people group intro but same sermon body; kept one copy with note about alternate people group
+- 2 Tim 1:1-2 re-submitted in batch 3 — already archived, skipped
+- 2 Tim 2:3-7 re-submitted in batch 3 (duplicate within same dump) — kept one copy
+
+**Batch 3 additions** (8 sermons):
+- 2 Tim 2:3-7 (Teacher/Soldier/Athlete/Farmer)
+- 2 Tim 3:14+ (Scripture/Authority of Bible)
+- Titus 3:1-7 (Government/Gospel/Passover)
+- Galatians 3:23+ (Law/Faith/Adoption)
+- Galatians 6:7-10 (Sowing/Reaping/Svea Flood)
+- Ephesians 1:3-14 (Angels/Demons)
+- 2 Tim 2:14-26 (Approved Workman)
+- Matthew 5:13-16 (Salt & Light / BFM Social Order)
 
 ---
 
@@ -551,6 +563,350 @@ Food Pantry Tuesdays from 10-12 if you need help, or know someone that does, or 
 Thursday night is clubs from 5:30-7. I think were having pizza for the kids. I believe Niko's and Registrations Plus have been supplying the food. Its been a blessing.
 
 There is an advisory board meeting immediately following the service, if you're on the advisory board, or have been asked to come please stay, otherwise the sooner the sanctuary empties out the sooner we can get this state required quarterly thing over with. We will have a regular business meeting in a couple weeks. I think we have to announce it twice in the bulletin.
+
+---
+
+## Sermon: 2 Timothy 2:3-7 — The Strong Christian (Teacher, Soldier, Athlete, Farmer)
+
+**People Group**: Sanaani Arabs (Yemen) — qat economy, Muslims know Jesus as Isa/al Masih but view Christianity as destructive to their way of life.
+
+**Opening illustration**: John MacArthur story — hulk (old wooden ship hull) stuck in river mouth in New Jersey where bridge was being built. Engineers tried horses, oxen, levers — all failed. Junior engineer hired barges at low tide, tied them to the hulk, waited for tide to rise. Repeated over multiple tide cycles until hulk popped free. "What we cannot do in the flesh, God can do by the power of His Spirit."
+
+**Main point**: What it looks like to be a strong Christian — four analogies Paul gives Timothy.
+
+### Analogy 1: The Teacher (v. 2)
+- Paul taught Timothy; Timothy must teach faithful men who teach others — "living chain"
+- Guard purity of truth AND give it away — paradox
+- "You can't quit. You can't bail out. You can't drop the baton." (MacArthur)
+- Strong Christian = diligent student of Scripture, faithful to articulate it, loyal to its intent/content, training others
+
+### Analogy 2: The Soldier (vv. 3-4)
+- Christianity is war, not spectator event — forces of good vs evil
+- No Switzerland in battle for heaven and hell — like electrons, positive or negative
+- Fighting isn't always flashy/demonic — sometimes fighting our own apathy
+- "Could my presence at this activity impact someone's eternity? If even maybe, soldier through it"
+- Help brothers/sisters point their gun the right way — meme of guy with shotgun barrel over shoulder, stock toward enemy
+- **Personal illustrations**: Sitting with guy before marriage helping with temptation; parents' heavy couch with Willie and Wes helping; World Team missionary getting old but ministry more fruitful (2 hours one-on-one instead of short conversations)
+- "Journey before Destination" — favorite author's repeated line
+- Soldiers 24/7 — Ukrainian soldier analogy, Russians taking children for international adoption
+- "Come to Christ and pick up your armor and go to the frontline" vs. prosperity gospel soft-pedaling
+- Don't be entangled with civilian affairs — cable bill while Russians attack analogy
+- Song reference: "Arlington" by Trace Adkins — man using life as shield, told "well done"
+
+### Analogy 3: The Athlete (v. 5)
+- Greek Olympic games requirements: must be Greek, 10-month training, swear before Zeus statue, instant disqualification for rule-breaking
+- Self-discipline, self-denial, tremendous effort
+- Athletes who collapse at finish line having expended everything
+- Prize: momentary acclaim of men vs. eternal crown
+
+### Analogy 4: The Farmer (vv. 6-7)
+- 1% of population feeds the other 99%
+- Greek word carries idea of "working to the point of exhaustion"
+- Unlike other three, farmer has no built-in instant reward
+- **Personal**: Farmed peppers — rocks, plowing, sowing, weeding, pests, harvest, repeat. Farms sheep — care daily, they give up and die with no discernible issue, treat wounds/illness at great personal cost, sad when they go to new home or randomly die. Weevils, floods, birds.
+- "Much of life is spent in the doldrums of farming"
+- Rewards come largely in next life — laying sum total of life's worth at feet of Jesus in worship
+
+**Closing**: "It won't be easy. But it will be worth it. And it all starts with the gospel."
+
+---
+
+## Sermon: 2 Timothy 3:14+ — The Authority and Power of Scripture
+
+**Context**: Kids clubs (Awana) covered authority/power of scripture; church doctrinal statement on Bible prompted deeper dive.
+
+**Opening**: Story of JW encounter — young woman was former Southern Baptist (cradle roll, GAs, Baptist youth group) who "never took the bible seriously" until JWs gave her twisted translation. She began to waver during conversation; older JW woman pulled the plug and stormed out. Shows importance of knowing Bible cover to cover.
+
+### Historical Baptist Confessions on Scripture
+- Baptist Faith and Message (most recent SBC)
+- Abstract of Principles (1800s, Southern/Southeastern seminary foundation — every professor must sign)
+- New Hampshire Baptist Confession (1800s)
+- Philadelphia Confession (1700s)
+- Second London Baptist Confession (1689)
+- Thomas Helwys Confession (1611) — "set down an absolute, and perfect rule of direction, for all persons, at all times"
+- 1689 LBCF2 quoted at length: "Holy Scriptures are the only sufficient, certain and infallible rule for saving knowledge, faith, and obedience"
+- Brief period of drift in 70s and 80s, otherwise consistent Baptist chorus on Scripture
+- Chicago Statement on Biblical Inerrancy — signed by leadership of every major denomination holding to Scripture
+
+### Teaching from 2 Tim 3:14+
+- "Continue in what we have learned" — Greek present active imperative = command to start now and never stop
+- RC Sproul: We study scripture to know God, deepen relationship. "How can we claim to love God if we don't love his word?"
+- v. 16: ALL scripture is God-breathed — inspired through each author's vocabulary/personality, translatable into every language, always brings new depth
+
+### Canon of Scripture
+- "Canon" = measuring stick (from "reed") — not cannon the weapon
+- Scripture is measuring stick for life, actions, relationships
+- "The bible is the true center of Christian union and the supreme standard by which all human conduct, writings, and opinions should be tried"
+- Grandchildren measured on grandfather's door — one day God will take our measure with Scripture
+
+### Judgment and Culture
+- Culture worships comfort/happiness to point of idolatry
+- Young person struggles with identity, couches in "my friend" language — hard time with God who asks you to forgo personal happiness for obedience
+- Greg spoke about lost reality of title "Lord" — in days of kings, commands were obeyed, not optional
+- Tim Keller: "If your god never disagrees with you, you might just be worshiping an idealized version of yourself"
+- God's omnipresence, timelessness, goodness/justice all require different perspective than sinful humans
+- God commanding things we disagree with IS proof he is God
+
+**Closing**: Re-commitment to read through Bible in a year as church. Second time through = greater depths, more deeply anchored soul.
+
+**Communion**: 1 Cor 11:23-29 read.
+
+---
+
+## Sermon: Titus 3:1-7 — Subject to Authorities, The Gospel
+
+**Opening**: Dumb laws from around the world — Switzerland (no flushing after 10pm, arrested for keys in ignition), South Korea (police must self-report accepted bribes), UK (legal to shoot Scotsman with bow Mon-Sat, no hanging bed out window on Sunday), Canada (must provide horse-tying rails, scaring person to death = murder), California (no walking elephant without leash on Thursdays).
+
+### Subject to Authorities
+- Easy when you like the leader; difficult when leader seems to attack church/scripture
+- Argentina: license plate last number determines driving days
+- "8 long years" under previous administration pulling country from Lord — apathy and vitriol towards Christ, Muslim services in White House, removing Christianity from public square
+- Response should have been pulling toward Christ — instead evangelical believers chose politician over more of Jesus
+- More time on internet fighting over politics than evangelizing
+- SBC convention observation: relative silence for gospel preaching, deafening applause for political rhetoric — "this is idolatry"
+- "We need to be subject to our leaders, but not worshipful of them"
+- Anything put above obedience to God = idol
+
+### Don't Slander
+- Don't run people down with words or talk badly behind their back
+- Some people make slander easy, doesn't make it right
+
+### The Gospel (vv. 3-7)
+- "We too were once foolish, disobedient, misled, enslaved"
+- Saved not by works but on basis of mercy
+- Justified by grace — heirs with confident expectation of eternal life
+- **Passover illustration (Smith and Brown)**: Two Jewish men in Egypt, one nervous (only one son), one confident. Angel of death passed — NEITHER lost his son. "Death didn't pass over them on the grounds of the faith they possessed but on the grounds of the blood of the lamb"
+- Blood of the lamb silences the accuser
+- "I have no other argument, I need no other plea, it is enough that Jesus died for me"
+- "It's not the intensity of our faith, but the author of our faith that saves us"
+
+**Tim Keller quote**: "If you can't show the difference between religion and the gospel, people will confuse morality with a changed heart."
+
+- Huge segment self-identifies as Christian but neither knows what it means nor knows Christ — cultural affiliation vs. changed heart
+- "Obama didn't make people cultural Christians... Obama didn't send these people to hell. Their sin does."
+
+---
+
+## Sermon: Galatians 3:23+ — Law, Faith, and Adoption
+
+**Opening illustration**: Girl in foster care locked outside in chicken coop in winter, sitting in excrement, freezing. Years later adopted by Florida family — life improved dramatically. She hadn't earned their favor. Mirrors what God through Christ has done for us.
+
+**Outline**: Law — Faith — Children of God — One Family. Church sign changing to "Taking Strangers, Making Family."
+
+### The Law
+- Weird laws: UK (illegal to hold salmon suspiciously, 1986), Singapore (no chewing gum), Denmark (7000 approved baby names), Mexico (feet must stay on pedals)
+- Before Christ, subject to ALL laws — break one, guilty of all (James 2:10)
+- OT laws about food, bathing, sex, walking distance on Sabbath, beards, alcohol, gossip, disease
+- God instituted sacrifice system — birds, grains, sheep — sacrifice covered sin like bandaid, didn't erase stain
+- "Held captive, in bondage to the law" — like debtors' prison, debt could never be paid
+- Romans 3:23: all have sinned and fallen short
+
+### The Ten Commandments Test
+- 3rd commandment: ever said "oh my God" not praying? — broken
+- Stealing: ever snuck candy/cookie? — thieves (personal: caramels from grocery store age 5, mother made him march back)
+- Lying: white lies to spare feelings? (friend's parent overcooking in crockpot) — liars
+- Adultery: looking inappropriately — broken
+- Hatred: felt so angry you thought you hated someone? — "in your heart you're a murderer"
+- Four commandments in, utterly failed — "whomever guilty of breaking just one tiny law, guilty of breaking them all"
+- Wages of sin = death (Romans 6:23)
+
+### Restaurant illustration
+- Grandmother's favorite fried fish restaurant, went weekly. Recent visit: lowered standards — wet table, cold food, mixed soda, dirty bathrooms, wilted salad. Heaven is perfect; sinful and perfect cannot coexist.
+
+### What Fulfilled the Law — Faith
+- Galatians 3:13: Christ freed us from curse of law by becoming curse for us
+- Jesus kept all 613 OT laws — only one who ever did
+- "While we were yet sinners, Christ died for us"
+- 1 Peter 3:18: "the righteous for the unrighteous, to bring you to God"
+- **Credit card illustration**: Lived on limitless credit card, 5 trillion in debt, sentenced to death. Christ paid the balance.
+- Romans 5:8: while yet sinners, Christ died — "took the glass of God's wrath and drank it down"
+
+### Children of God (v. 26)
+- Greek word (Huion) = honored/beloved child regardless of age, carries weight of "This is my Son whom I love"
+- Also means student/disciple, spiritual child
+- We become sons/daughters of God, heirs to the kingdom — princes/princesses
+- Like the girl from chicken coop — we lived in waste by our own choice, God sent Son to pay price of our adoption
+- God promises to supply all needs (flowers of field, birds of air) — Jehovah Jireh
+
+**Gospel invitation**: Romans 10:9 — confess with mouth, believe in heart. Sample prayer included.
+
+---
+
+## Sermon: Galatians 6:7-10 — Sowing and Reaping
+
+**People Group**: Sindhi Samas of Pakistan — storied past, ancestors used to be in charge, worship of dead ancestors fused with Islam, difficult place to reach. Need medical doctors and gospel.
+
+**Opening**: Titanic illustration — young woman runs back to stateroom past hundred dollar bills on casino floor, sweeps aside diamond jewelry box, grabs bag with three oranges. "What had been treasure before was now swept aside as garbage."
+
+- 2019-2020 difficulties: hurricanes, protests, racial tensions, COVID-19, financial train wreck
+- "God wanted you right here, right now, for a reason. Will you pursue the diamonds of the world or the oranges of heaven?"
+
+### David and Svea Flood — Missionary Story
+- Young couple called to one village tribe in Africa (~650-700 people), 1920s
+- Tribal chief suspicious, only allowed one boy to sell them eggs/chicken twice weekly
+- ~5 years in, Svea discovers she's pregnant — 4 months travel to get back to Sweden, decide to stay
+- Svea determines to reach that one little boy even if no other African
+- Month before due: boy overcome by grace, prays sinner's prayer — first and only Christian in village
+- Chief allows midwife for birth; after week of labor, baby born alive, Svea dies hours later at age 27
+- David digs grave, makes white cross marked "Svea Flood"
+- David declares "God has ruined my life," gives baby away, returns to Sweden
+- Baby (Aggie) raised by Ericksons (who later die of malaria), then American couple
+- After high school, Swedish magazine arrives — photo of white cross "Svea Flood"
+- College professor translates article: the boy went back to village, told parents, they believed — friends/neighbors — chief — entire village became believers
+- Aggie tracks down father who had remarried; siblings warn "never mention God"
+- Aggie tells David the whole story — 600+ in village became believers because of Svea
+- David re-dedicates life to Lord, dies week later surrounded by family
+- Aggie sent to Africa, meets the boy (now man) — he leads national church of 110,000 people
+- Aggie kneels at mother's grave, fingers in soil, thanks God
+
+### Two Responses to Hardship
+- David: focused on circumstances, tried in own power — burned out, grew bitter
+- Svea/Aggie: life centered on Lord — "its ok Lord, whatever you want from me"
+- "For someone whose life is centered around Christ, death is a promotion"
+
+### Free Will Quotes
+- Toplady: "A man's free will cannot on its own even cure a toothache... yet madly thinks it is in his power to cure his soul"
+- Spurgeon: "Free will has sent many men to hell, but never a man to heaven"
+- Martin Luther: "We are compelled to serve the kingdom of satan until we be liberated" by God
+- Steven Lawson: "If you follow Christ you've given up dirt for diamonds"
+
+---
+
+## Sermon: Ephesians 1:3-14 — Angels, Demons, Etcetera
+
+**People Group**: Bahdai of India — carpenters, trace lineage to Hindu architect god, largely Muslim today. ~600,000, no known believers.
+
+**Context**: Week of breakdowns — 4 of 5 vehicles down, bugs, banking problems, sick kids/adults, broken lawn equipment, dad's back, sheep escaping fence.
+
+### Cultural Obsession with Angels
+- Chuck Hastings quote: angels on coffee mugs, t-shirts, checkbooks, license plates, soap dispensers, Bubble Angel Barbie
+- TV preacher with mountain of credit card statements claiming to bind "demon of debt" with made-up words
+
+### Pseudepigrapha and False Teaching
+- Three groups of ancient books: Canon (66 books), Apocrypha (Catholics), Pseudepigrapha (claim to be scripture but verifiably false)
+- Language dates documents — "groovy" (60s), "bad" meaning good (80s), "booyah/psych/fly" (90s), "bae/lit/snowflake" (2010s)
+- If document claims Paul wrote it but uses modern language — fake
+- **Pseudepigraphal examples**:
+  - Sarah married 7 times, each husband killed by demon on wedding night; blind man + angel Raphael burns fish liver/heart to scare demon — roots of mumbling nonsense to bind demons
+  - Solomon's ring to bind demons, interrogating demons for their names and weakness words (Orniskelos = sore throats, flees from Raphael; Hellorath = gas, flees if you mutter "aiarhea"); ring broken when Solomon dallied with female demons
+
+### What Scripture Actually Teaches
+- 1 John 4:4: "Greater is he that is in you, than he that is in the world"
+- Colossians 1:13-14: rescued from power of darkness, transferred to kingdom of beloved Son
+- Ephesians 1: sealed with Holy Spirit — believers cannot be demon-possessed
+- Angels are sentient tools in God's hands — hero is God, not angels
+- **Cargo cult analogy**: African tribe worships cargo ships instead of God who sent them — don't worship the boat
+
+### Dualism Heresy
+- Everything as galactic fight between angels and demons — fails by leaving out sovereign God
+- Battle already won; we are sealed/protected by Holy Spirit
+- Used to remove individual responsibility for sin
+- "The devil made me do it" — origins in Garden (Eve: serpent deceived me; Adam: the woman you gave me)
+- **Personal application**: Devil didn't break the lawn mower, trucks, Buick, AC, Hyundai brakes; didn't give you gas or make you sign up for irresponsible credit card; didn't make you embrace life of sin — "You chose that. You are responsible for that."
+
+### Riches of God (from Eph 1)
+- Lottery winners article: worst thing that happened to most — spending, shysters, debt, die alone
+- God's riches: every euro, pound, yen, dollar belongs to God; your house = "God's house he lets you live in"
+- Beyond material: perfect goodness, grace, patience — all treasures, all costly to learn
+- "You only want to ask for patience if you're ready to encounter situations that make you impatient"
+- God lavishes on us "in accordance with his wisdom"
+
+---
+
+## Sermon: 2 Timothy 2:14-26 — The Approved Workman
+
+**People Group**: Kachin of India — Buddhism stronghold, ~1 million, ~5,000 believers (mostly outside India). Many vibrant Kachin believers in Myanmar and China who could be ambassadors. Prayer requests: Kachin believers to live such spiritual lives Buddhist neighbors seek the Savior; Holy Spirit to move Kachin outside India to go to Arunachal Pradesh.
+
+**Personal opening**: Cold-calling job selling government advertising (like yellow pages for government). Third day, called a monogram company — man was rude, led him on 30 minutes, faked interest, said crude things. Finally said "maybe I don't want to do business with the federal government." Replied: "That's fine, maybe you're not the kind of person the federal government would want to do business with." Turned out the sheet was current customers by mistake. Customer called owner chain, $2000 refund. Recording played — he wasn't in trouble; commended for patience. "If you don't do something wrong, you don't have anything to worry about."
+
+- Paul's mind on last things, doing a good job — last letter before death
+- Already covered soldier/teacher/athlete/farmer themes; hard work is again a theme
+
+### Don't Quarrel About Words (v. 14)
+- Social media: people in arms over "accept" vs "except" — curse words over spelling
+- Getting into minutia outside graduate class = pointless
+- Politics falls under this: us vs them growing deeper, outlandish claims, but "we all share the same burning desire for our country to be better"
+- "The way to change the political dialog isn't to accuse and malign people, its to see God change their hearts"
+- Titus 3:9-10: warn once, warn twice, then cut loose
+- **Personal**: Family member so pro-Trump he "bleeds orange" — assumed silence meant opposition, monologued about ruining the nation grandfather fought for. As joke, pointed him at David Gerner who got yelled at for half hour.
+- "If someone looked at your Facebook wall would they have a harder time hearing the gospel or hearing about your favorite politic?"
+
+### Irreverent Babble (v. 16)
+- Greek "babble" = flow of river, seam/edge; "irreverent" = boastful, loose, lacking respect for serious issues
+- "A river of garbage" — steady stream of edgy, boastful, irreverent words
+- Spreads like gangrene — wet gangrene from crushed foot spreads like wildfire, treated by amputation or maggots, life-threatening in 1-2 weeks
+- Pancreatic cancer: 1 in 4 die within first month of diagnosis — that's how serious this is to church health
+
+### The Approved Workman (v. 15)
+- Someone who trains like athlete, fights like soldier, teaches with purity, farms hard even when boring — also avoids quarreling/babble
+- True Christians stand out — man with fire-scarred face (stretched, melted plastic appearance) instantly obvious he survived fire. "When we encounter the refiner's fire at salvation and beyond we are fundamentally changed, and it leaves a mark on us."
+
+### Vessels of Honor and Dishonor (vv. 20-21)
+- Queen's crown jewels in the news — diamond important to India, acquired possibly stolen, "its lack has left its mark on its homeland"
+- Greek word study: "dishonorable" second instance = "self/these things"
+- "If anyone cleanses himself from what is Self... he will be a vessel for honorable use"
+- Flee youthful passions, pursue righteousness, avoid quarrels, season speech with gentleness/grace
+- Goal: share gospel, see people accept Christ — "Everyone else is in the snare of the devil"
+
+---
+
+## Sermon: Matthew 5:13-16 — Salt and Light / BFM Article 15: Christians and the Social Order
+
+**People Group**: Rawat of India — means "prince," relatives of royalty, ~1 million, no known believers. Hindu — "believe in many sticks, and rocks, and lumps of metal." Located mostly in northern India.
+
+### Baptist Faith and Message Article 15 (read in full)
+- Obligation to make will of Christ supreme in own lives and human society
+- Methods for improvement must be rooted in regeneration by saving grace
+- Oppose: racism, greed, selfishness, vice, all sexual immorality (adultery, homosexuality, pornography)
+- Provide for: orphaned, needy, abused, aged, helpless, sick
+- Speak for unborn, sanctity of life conception to natural death
+- Bring industry, government, society under sway of righteousness/truth/brotherly love
+
+### Racism
+- **Personal story**: Pastor/musician friend (black) pulled over en route to Madison Square Gardens performance. Not speeding. Pulled from vehicle, handcuffed, face down on sidewalk in front of his son. Officers searched car — cut open leather seats, spare tire, carpet. Racial slurs, spit on him. Nothing wrong found, let go. Late to performance, expensive interior repair.
+- **Personal**: Electronics store in Raleigh NC, Hispanic manager following him around — "I know how your people are." Never went back.
+
+### Sexual Immorality
+- Young girl argues people have right to be happy
+- Jeremiah 17:9: heart deceitful above all things, desperately sick
+- Mark 7:21: from within come evil thoughts, sexual immorality, theft, murder, adultery
+- Genesis 6:5: every intention of thoughts of heart only evil continually
+- Romans 1: God gives over to perverse desires
+- Ephesians 4:19: darkened understanding, alienated from life of God, hardness of heart
+
+### The Compass Analogy
+- Heart like broken GPS — took family to livestock auction, GPS had them park in someone's yard, walk 5 miles through cow pastures
+- Culture says "follow your heart" — but if GPS is confused, leads to hell
+- Everyone's heart points away from Christ by default — like magnet on compass
+- Sin = root; immorality = fruit
+- "If we really believed everyone should follow their heart, then why stop terrorists? Why stop racists? Why stop murderers?"
+- Pornography (single): "I don't trust you to meet my need, so I'm going to steal"
+- Pornography (married): "The spouse you provided is insufficient"
+- Homosexuality/adultery/fornication: "God I don't trust you to meet my want"
+- Spurgeon: "Sexual immorality is proof you don't find your joy in the Lord"
+- **Personal**: Anglican pastor in UK on soap box — struggles with same sex attraction but fights it because joy comes from Lord, not earthly things
+- Abortion: same root of selfishness — "value things we think will make us happy more than anything else apart from Christ"
+
+### Pirates of the Caribbean Compass
+- Jack Sparrow's compass pointed toward whatever he wanted most
+- One scene: compass points right back at Jack — "What Jack wanted most was Jack"
+- Apart from Christ, compass of our heart does the same — points back at ourselves
+
+### Salt and Light (Matthew 5:13-16)
+- Salt: preservative (keeps meat from going rancid), adds flavor — without it, food/world has only one note
+- "Apart from the salt of Christianity, the world is all about I"
+- God fixes our compass, salts our heart, uses it to flavor the world
+
+### Beloved Daughter — North Korean Story
+- Young woman grew up child of Christian parents in NK work camp
+- Father killed for being Christian, mother withered/took own life
+- Had to have sex with camp guards to avoid being raped
+- Someone shared gospel, Christ chipped away at hard heart, became Christian
+- Married Christian man, fled to China
+- Decided to go back to NK to share gospel even if it meant her life — "She loved Jesus so much"
+- "Being salt and light in Korea — hero of the faith"
+
+**Closing**: "It's so easy to sit in church, in air conditioning... It's much harder to live it, and harder still to share the gospel... But THAT is what we are called to do."
 
 ---
 
