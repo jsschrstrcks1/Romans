@@ -39,6 +39,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Romans 14:10-12 | The Judgment Seat That Ends All Judging | `Romans 14c - The Judgment Seat That Ends All Judging.md` | Judgment seat of God; stop judging your brother |
 | Romans 14:13-23 | Love That Surrenders Its Rights | `Romans 14d - Love That Surrenders Its Rights.md` | Stumbling blocks; kingdom not eating and drinking |
 | Romans 15:1-13 | The Welcome We've Been Given | `Romans 15a - The Welcome We've Been Given.md` | Bear with the weak; Christ the servant; Gentile inclusion |
+| Romans 15:14-33 | The Mission in the Early Light | `Romans 15b - The Mission in the Early Light.md` | Priestly service of the gospel; frontier ambition; Jerusalem collection; prayer as mission engine |
 
 ### Romans Series — Supporting Files
 
@@ -588,6 +589,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `col 4 - prayer.txt` / `prayer col 4.txt` — Colossians 4:2-4 — Prayer and evangelism
 - `Psalms 96.txt` — Psalm 96 — Evangelism as worship
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Evangelism framework for the occult; power encounter; Creation-Fall-Cross-Redemption
+- `Romans 15b - The Mission in the Early Light.md` — Romans 15:14-33 — Priestly service of the gospel; frontier ambition; Jerusalem collection; Paul's missionary strategy; prayer as mission engine
 
 ### Faith / Trust / Resting in God
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Greatest faith ever exhibited (Spurgeon)
@@ -645,6 +647,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Acts 2 Holy Spirit.txt` — Acts 2:1-9, 36-40 — Spirit's ministry and gifts
 - `bfm holy spirit.txt` — BFM article on the Holy Spirit
 - `Ordo Solutis Romans 8.md` — Romans 8:26+ — Spirit's intercession
+- `Romans 15b - The Mission in the Early Light.md` — Romans 15:30 — Synagonisasthai; prayer as agonizing combat; Paul's vulnerability
 
 ### Hope / Endurance / Perseverance
 - `Romans 15a...md` — Romans 15:13 — God of hope; abound in hope
@@ -787,6 +790,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Welcome / Hospitality / Unity in the Church
 - `Romans 14a...md` through `Romans 15a...md` — Romans 14-15 — Weak and strong; welcome one another
+- `Romans 15b - The Mission in the Early Light.md` — Romans 15:25-27 — Jerusalem collection as cross-ethnic generosity; gospel creates family across divides
 - `1 peter 3 brotherly love.txt` — 1 Peter 3:8-18 — Brotherly love
 - `1 john 3 pt 2.txt` — 1 John 3:11-24 — Love among believers
 - `Sermon - The List I Burned.md` — 1 Thess 3:12-4:8 — Acts of service: grocery ride chain, Larry bragging on the church, three builders who canceled insurance; "churches up north just aren't like that" (lines 10-16)

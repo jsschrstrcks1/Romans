@@ -60,6 +60,15 @@
 - **People Group**: Shaikh of Bangladesh (135+ million; <0.1% Christian)
 - **"Your job is the one in front of you"**: The neighbor, the coworker, the friend who has never heard. God reaches the world one set of opened eyes at a time.
 
+### Romans 15b — The Mission in the Early Light
+- **People Group**: Kabyle Berber of Algeria (~6.7 million; 99.71% Sunni Muslim; <0.3% Christian)
+- **Priestly service cluster**: Three Greek terms (leitourgos, hierourgounta, prosphora) — evangelism as temple worship
+- **Justin Gamble / Anthony Cox / Chip Hall** illustration used for "priestly service of the gospel" (v. 16)
+- **Frontier ambition** (v. 20) connected to 10/40 window missions crisis
+- **Jerusalem collection** (vv. 25-27) as cross-ethnic gospel generosity
+- **Synagonisasthai** (v. 30) — prayer as agonizing combat, not casual intercession
+- **Paul's plans vs. God's sovereignty**: Paul planned Spain, arrived in Rome in chains — gospel still went
+
 ---
 
 ## People Groups Used (Do Not Repeat)
@@ -72,6 +81,7 @@
 | Hmong Bua | China | — | romans 15 (2) |
 | Yazidi | Iraq | — | romans 15 (2) |
 | Turks | Turkey | ~60 million | What Survives the Fire |
+| Kabyle Berber | Algeria | ~6.7 million | Romans 15b |
 
 ---
 
@@ -99,8 +109,9 @@
 - **Bastazein** — bear/carry burdens (Romans 15a)
 - **Proslambanesthe** — welcome / receive fully (Romans 15a)
 
-**Still available for 15:14-33**:
+**Used in Romans 15b**:
 - **Leitourgos** — priestly minister (v. 16)
 - **Hierourgounta** — performing priestly service (v. 16)
 - **Prosphora** — offering (v. 16)
+- **Philotimeomai** — to make it one's ambition/point of honor (v. 20)
 - **Synagonisasthai** — strive/agonize together (v. 30)
