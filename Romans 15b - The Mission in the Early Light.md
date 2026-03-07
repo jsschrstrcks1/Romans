@@ -108,6 +108,7 @@ And here's what makes the offering acceptable: a greater Priest already went to 
 Paul can bring the Gentiles as an offering because Christ already made the offering that counts. We are not the first sacrifice. We are the fruit of the first sacrifice.
 
 I knew men like this. Justin Gamble. Anthony Cox. Chip Hall. Their lives were so saturated with the gospel that to know them was to hear it. They didn't just talk about Christ. They carried people to him. Every conversation, every hospital visit, every quiet word in a parking lot after church — priestly service. Bringing people to the altar.
+I knew men like this. Bob Clark. Anthony Cox. Chip Hall. Their lives were so saturated with the gospel that to know them was to hear it. They didn't just talk about Christ. They carried people to him. Every conversation, every hospital visit, every quiet word in a parking lot after church — priestly service. Bringing people to the altar.
 
 That's what Paul is describing. And that's what the mission demands.
 
@@ -143,7 +144,9 @@ Paul is a frontier missionary. He doesn't want to pastor an established church. 
 
 That word *ambition* — the Greek is *philotimeomai*. It means to make it a point of honor. To set your heart on it as a matter of personal conviction. Paul's ambition isn't career advancement. It's unreached soil.
 
-And he grounds it in Scripture. Verse 21, quoting Isaiah 52:15:
+It’s the same ambition that drove Adoniram Judson an early baptist, and one of the first baptist missionaies. to set sail for Burma in 1812, burying his wife and children in foreign soil, suffering in a death prison, just so a nation in darkness could finally read the Bible in their own language. That is the ambition Christ deserves.
+
+And Paul grounds it in Scripture. Verse 21, quoting Isaiah 52:15:
 
 *"Those who have never been told of him will see, and those who have never heard will understand."*
 
