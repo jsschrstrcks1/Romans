@@ -72,14 +72,14 @@
 
 - [x] **Acts 13:1-3** — "The Blank Check" (full transcript)
   - Source: re-provided via conversation
-  - William Borden story ("No retreats, no reserves, no regrets") — corrected date to 1913
+  - William Borden story ("No retreats, no reserves, no regrets") — corrected date to 1913; preserved as delivered with known factual issues: family wealth was silver mining not dairy, "Bible inscriptions" likely legendary (biographer's literary device), father's disinheritance threat undocumented, age was 25 not 24
   - Hiroo Onoda story and "Insanity of God" movie reference — not in re-provided source; omitted (source may have been partial)
   - David Platt quote about trusting God with kids
   - Missions training simulation story ($400K kidnapping scenario)
   - Missionary son in Somalia / Mogadishu story
   - Philippians 3:7-8, 10-11 quoted (ESV verified)
   - Acts 20:21-24 quoted (ESV verified)
-  - Charles Spurgeon "if sinners be damned" quote (widely attributed; exact sermon source unconfirmed)
+  - Charles Spurgeon "if sinners be damned" quote — verified authentic from "The Wailing of Risca" (Dec 9, 1860, MTP vol. 7 p. 11); pastor uses common paraphrase, not exact original wording; preserved as delivered
   - Community prayer-drive call to action at close
 
 ### Batch 4
