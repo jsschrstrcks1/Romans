@@ -139,7 +139,9 @@ Paul is a frontier missionary. He doesn't want to pastor an established church. 
 
 That word *ambition* — the Greek is *philotimeomai*. It means to make it a point of honor. To set your heart on it as a matter of personal conviction. Paul's ambition isn't career advancement. It's unreached soil.
 
-And he grounds it in Scripture. Verse 21, quoting Isaiah 52:15:
+It’s the same ambition that drove Adoniram Judson an early baptist, and one of the first baptist missionaies. to set sail for Burma in 1812, burying his wife and children in foreign soil, suffering in a death prison, just so a nation in darkness could finally read the Bible in their own language. That is the ambition Christ deserves.
+
+And Paul grounds it in Scripture. Verse 21, quoting Isaiah 52:15:
 
 *"Those who have never been told of him will see, and those who have never heard will understand."*
 
