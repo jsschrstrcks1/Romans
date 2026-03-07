@@ -1,0 +1,193 @@
+{
+  "version": "1.1.0",
+  "description": "Auto-activation rules for Claude Code skills - Romans sermon series",
+  "skills": {
+
+    "cognitive-memory": {
+      "enabled": true,
+      "type": "domain",
+      "enforcement": "suggest",
+      "priority": "high",
+      "description": "Cross-session memory for the Romans series — recalls sermon state, theological decisions, and series trajectory",
+      "promptTriggers": {
+        "keywords": [
+          "memory",
+          "remember",
+          "recall",
+          "forget",
+          "what do we know",
+          "last session",
+          "previous session",
+          "what was",
+          "do you remember"
+        ],
+        "intentPatterns": [
+          "recalling past context",
+          "storing new knowledge",
+          "session continuity",
+          "what have we done"
+        ]
+      },
+      "autoLoad": {
+        "mainFile": ".claude/skills/cognitive-memory/SKILL.md",
+        "maxLines": 100,
+        "loadOnSessionStart": true
+      },
+      "sessionStartProtocol": {
+        "commands": [
+          "python3 /home/user/.memory/memory_ops.py recall \"\" --scope /romans --limit 10",
+          "python3 /home/user/.memory/memory_ops.py tree /romans"
+        ],
+        "presentSummary": true
+      },
+      "activationMessage": "Memory recalled. What we remember shapes how we serve."
+    },
+
+    "careful-not-clever": {
+      "enabled": true,
+      "type": "guardrail",
+      "enforcement": "warn",
+      "priority": "critical",
+      "description": "Integrity guardrail: enforces careful, verified, faithful work. Every Scripture reference and attributed quote must be verified before committing. Everything we do is for the glory of God.",
+      "fileTriggers": {
+        "pathPatterns": [
+          "**/*.md",
+          "**/*.docx"
+        ],
+        "exclude": [
+          ".git/**"
+        ]
+      },
+      "toolTriggers": [
+        "Edit",
+        "Write"
+      ],
+      "autoLoad": {
+        "mainFile": ".claude/skills/careful-not-clever/SKILL.md",
+        "maxLines": 200,
+        "loadOnFirstFileEdit": true
+      },
+      "activationMessage": "Careful, not clever. Verify before you commit. The pulpit demands our best.",
+      "guardrails": {
+        "before_modify": [
+          "Have you READ the sermon file in the current session?",
+          "Are all Scripture references verified ESV?",
+          "Are all attributed quotes confirmed real and correctly sourced?"
+        ],
+        "must_reject": [
+          "Fabricated or unverified quotes",
+          "Scripture references from memory without verification",
+          "Paraphrases presented as direct quotes",
+          "Saying done without verifying the result"
+        ],
+        "philosophy": "The pulpit is not a place for misattribution. Integrity over speed. Soli Deo Gloria."
+      }
+    },
+
+    "like-a-human": {
+      "enabled": true,
+      "type": "guardrail",
+      "enforcement": "suggest",
+      "priority": "high",
+      "description": "Voice and presence skill for sermon writing. Guards the sound of prose so it reads as written by a person who has been with God, not with a prompt.",
+      "promptTriggers": {
+        "keywords": [
+          "sermon",
+          "write",
+          "draft",
+          "voice",
+          "preaching",
+          "preach",
+          "illustration",
+          "application"
+        ],
+        "intentPatterns": [
+          "(write|draft|create|develop).*?(sermon|chapter|passage)",
+          "(improve|revise|edit).*?(voice|tone|prose)"
+        ]
+      },
+      "fileTriggers": {
+        "pathPatterns": [
+          "*.md",
+          "**/*.md"
+        ],
+        "contentPatterns": [
+          "Romans",
+          "Sermon",
+          "sermon"
+        ]
+      },
+      "toolTriggers": [
+        "Edit",
+        "Write"
+      ],
+      "autoLoad": {
+        "mainFile": ".claude/skills/like-a-human/SKILL.md",
+        "maxLines": 400,
+        "loadOnFirstFileEdit": true
+      },
+      "activationMessage": "Voice guard active. Write as a person who has been with God.",
+      "coActivation": {
+        "always_with": ["careful-not-clever"],
+        "note": "All sermon writing fires both Careful (integrity) and Like-a-human (voice). Voice-audit fires before commits."
+      }
+    },
+
+    "voice-audit": {
+      "enabled": true,
+      "type": "guardrail",
+      "enforcement": "warn",
+      "priority": "high",
+      "description": "Post-draft diagnostic for sermon authenticity. Scans for machine tells, assesses voice continuity against the sermon corpus, checks conviction and cadence.",
+      "promptTriggers": {
+        "keywords": [
+          "voice audit",
+          "voice check",
+          "authenticity check",
+          "machine tell",
+          "review sermon",
+          "check voice",
+          "pre-commit review"
+        ],
+        "intentPatterns": [
+          "(check|audit|review|scan).*?(voice|authenticity|machine tell)",
+          "(before|pre).*?commit.*?(review|check|audit)"
+        ]
+      },
+      "autoLoad": {
+        "mainFile": ".claude/skills/voice-audit/SKILL.md",
+        "maxLines": 200,
+        "loadOnFirstFileEdit": false
+      },
+      "activationMessage": "Voice audit active. Scanning for machine tells and voice drift.",
+      "coActivation": {
+        "always_with": ["like-a-human"],
+        "note": "Voice-audit is the post-draft companion to Like-a-human. Like-a-human fires during writing. Voice-audit fires before committing."
+      }
+    }
+
+  },
+
+  "globalSettings": {
+    "enableAutoActivation": true,
+    "verboseLogging": false,
+    "cacheSkillContext": true,
+    "maxConcurrentSkills": 3
+  },
+
+  "notes": {
+    "project": "Romans Sermon Series — expository preaching through Romans for weekly preaching and future book",
+    "repository": "jsschrstrcks1/Romans",
+    "memory_scope": "/romans",
+    "total_skills": 4,
+    "skill_sources": {
+      "adapted_from_inthewake": ["cognitive-memory", "careful-not-clever", "like-a-human", "voice-audit"]
+    },
+    "theology": "Confessional Reformed Baptist — 1689 Second London Baptist Confession. Soli Deo Gloria.",
+    "enforcement_types": {
+      "suggest": "Skill suggestion appears but does not block execution",
+      "warn": "Shows warning but allows proceeding",
+      "block": "Requires skill before proceeding"
+    }
+  }
+}
