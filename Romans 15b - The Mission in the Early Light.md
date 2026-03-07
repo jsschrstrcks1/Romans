@@ -151,6 +151,20 @@ Paul went the other direction.
 
 He went where there was nothing. No church. No foundation. No one who had ever heard the name.
 
+And most of us haven't gone next door.
+
+Some of you have lived beside the same neighbor for five years. You know their schedule. You wave when you get the mail. You've never once said the name of Jesus to them.
+
+Not because you don't believe the gospel. Because the conversation might be uncomfortable.
+
+Paul risked stoning. You're risking awkwardness. And you've decided that's too high a price.
+
+Hear me: your silence is not politeness. It is not respect. It is disobedience dressed up as good manners. The Great Commission did not come with a clause that reads, "unless it feels weird."
+
+You have been told the greatest news in the history of the world — that the God of the universe has made a way for dead sinners to live — and you have kept it to yourself because you didn't want to make things strange at the neighborhood cookout.
+
+That should bother you. If it doesn't, something has gone numb.
+
 Not everyone is called to Spain. But everyone is called to the edge of their comfort. The neighbor you've avoided. The coworker you've written off. The conversation you keep putting off because it might cost something.
 
 The ambition that Christ deserves is the ambition to go where the gospel hasn't gone — even if "where it hasn't gone" is the other side of your kitchen table.
