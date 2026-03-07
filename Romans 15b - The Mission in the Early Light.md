@@ -103,7 +103,7 @@ And the Gentiles are made acceptable — not by Paul's skill, not by their own m
 
 This changes how you see the gospel. The gospel is not just information to be transmitted. It's not a pamphlet to be handed out. It is a priestly act — an offering of human lives to the living God.
 
-I knew men like this. Justin Gamble. Anthony Cox. Chip Hall. Their lives were so saturated with the gospel that to know them was to hear it. They didn't just talk about Christ. They carried people to him. Every conversation, every hospital visit, every quiet word in a parking lot after church — priestly service. Bringing people to the altar.
+I knew men like this. Bob Clark. Anthony Cox. Chip Hall. Their lives were so saturated with the gospel that to know them was to hear it. They didn't just talk about Christ. They carried people to him. Every conversation, every hospital visit, every quiet word in a parking lot after church — priestly service. Bringing people to the altar.
 
 That's what Paul is describing. And that's what the mission demands.
 
