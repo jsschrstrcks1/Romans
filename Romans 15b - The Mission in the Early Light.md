@@ -103,6 +103,10 @@ And the Gentiles are made acceptable — not by Paul's skill, not by their own m
 
 This changes how you see the gospel. The gospel is not just information to be transmitted. It's not a pamphlet to be handed out. It is a priestly act — an offering of human lives to the living God.
 
+And here's what makes the offering acceptable: a greater Priest already went to a greater altar. Christ stepped into the midnight of our rebellion — the same rebellion Paul named in Romans 1 — and absorbed the wrath of God on the cross. He died under the judgment we deserved. And He rose so that pagans like us could be washed clean and presented to the Father without shame.
+
+Paul can bring the Gentiles as an offering because Christ already made the offering that counts. We are not the first sacrifice. We are the fruit of the first sacrifice.
+
 I knew men like this. Justin Gamble. Anthony Cox. Chip Hall. Their lives were so saturated with the gospel that to know them was to hear it. They didn't just talk about Christ. They carried people to him. Every conversation, every hospital visit, every quiet word in a parking lot after church — priestly service. Bringing people to the altar.
 
 That's what Paul is describing. And that's what the mission demands.
@@ -144,6 +148,10 @@ And he grounds it in Scripture. Verse 21, quoting Isaiah 52:15:
 *"Those who have never been told of him will see, and those who have never heard will understand."*
 
 Isaiah wrote those words about the Suffering Servant — the one who would "sprinkle many nations," the one so disfigured that kings would shut their mouths in awe. Paul reads that prophecy and says: *That's my job description.* I take the Servant's name to the places that have never heard it.
+
+But notice: the Servant doesn't just inspire the mission. He *funds* it. Isaiah 53 tells you what the Servant actually did — led like a lamb to the slaughter, silent before His shearers, cut off from the land of the living. He poured out His soul to death and was numbered with the transgressors. And then — the shock of Isaiah 53:10 — "it was the will of the LORD to crush him." The Father's hand. Not an accident. A plan. And out of that crushing came life: "He shall see his offspring; he shall prolong his days." The Servant dies, and then the Servant sees. That is resurrection. And that is why Paul has something to carry to the frontier — not advice, not philosophy, but news. News that the crushed Servant is alive and that the nations Isaiah promised are being gathered.
+
+Paul's ambition to reach the unreached is not heroism. It is the logical consequence of Isaiah 53:10. If the Servant does not see His offspring, there is nothing to bring to Spain. If He does, there is nothing that can keep Paul from going.
 
 Church, here's where this hits us: most of the resources in global Christianity still go to places where the gospel is already established. The comfortable places. The familiar places. The places with buildings and budgets and history.
 
@@ -198,6 +206,10 @@ Look at verse 27:
 *"For they were pleased to do it, and indeed they owe it to them. For if the Gentiles have come to share in their spiritual blessings, they ought also to be of service to them in material blessings."*
 
 There it is. The debt runs both ways. The Jews gave the Gentiles the gospel — the spiritual blessings of Abraham, the Scriptures, the Messiah himself. And the Gentiles owe them something in return. Not the gospel — that's free. But material support. Tangible generosity. Money.
+
+And don't slide past the weight of those "spiritual blessings." What came through Israel? A Savior who kept the Law you couldn't keep, who died the death you should have died, who descended into the darkness of God-forsakenness so that you would never have to. The spiritual blessings aren't abstract. They are a person — Jesus Christ, crucified and risen — and every Gentile who has ever called on His name owes that name to the Jewish womb that bore Him and the Jewish Scriptures that announced Him.
+
+That is why the money matters. The collection is not charity. It is a receipt — proof that the Gentiles understand what they were given.
 
 This is the welcome of Romans 15:7 made visible. "Welcome one another as Christ has welcomed you" — and here's the proof that it's real. Gentile Christians sending money to Jewish Christians they've never met, across an ethnic divide that had separated their peoples for centuries.
 
@@ -258,6 +270,10 @@ And then the benediction — verse 33:
 *"May the God of peace be with you all. Amen."*
 
 The God of peace. Not the God of smooth plans. Not the God of easy roads. The God of *peace* — the one who gives peace in the middle of the storm, not by removing the storm but by standing in it with you.
+
+And where did that peace come from? Romans 5:1 — "Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ." The peace Paul invokes here is not a mood. It is a legal reality. We were enemies — Romans 5:10 says so plainly. Not strangers. Not distant acquaintances. Enemies. And while we were still enemies, Christ died for us. He walked into the hostility and didn't walk away from it. He took the full force of the enmity — ours toward God and God's toward sin — and He killed it by dying. The God of peace is the God who made enemies into sons.
+
+That is why Paul can ask for agonizing prayer and end with a benediction of peace in the same breath. The agony of intercession rests on a finished reconciliation. We fight in prayer because the war between God and His people is already over — settled at the cross, sealed by the resurrection.
 
 Hear me: prayer is not a postscript to mission. It is the engine of mission.
 
