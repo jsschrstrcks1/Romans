@@ -370,6 +370,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Titus 1:1-5 | Introduction to Titus; bondservant (δοῦλος) theology; Sanctus martyr illustration; false teaching and compromise; doulos as slave vs servant (NET/ESV translation discussion) | `Titus 1.txt` | sermon |
 | Titus 2:11-14; Romans 5:8-10 | Christian hope in the second coming | `Titus 2 pt 2.txt` | sermon |
 
 ### Hebrews
