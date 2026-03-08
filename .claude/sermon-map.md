@@ -75,6 +75,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Genesis 1–2 | Gap Theory refuted; Hebrew chiasm in creation week; creation reflects God; Sabbath; beautiful but not safe; Aunt Judy; gospel invitation | `Gen 1-2 - beautiful but not safe.txt` | sermon |
 | Genesis 3:1-6 | Importance of Scripture; danger of trusting self over God | `Gen 3.txt` | sermon |
 | Genesis 11 | Tower of Babel; self-reliance vs trusting God | `Gen 11 - thru the bible in a year.txt` | sermon |
+| Genesis 29:3-15 | Jacob and Laban; Laban as case study in depravity; you reap what you sow; total depravity (four points); Piper; Rom 14:23; Bill Gates / Mother Teresa; gospel | `Gen 29 - depravity of man.txt` | sermon |
 | Genesis 37 | Joseph as a type of Christ | `Sermon 2 gen 37 joeseph.txt` | sermon |
 
 ### Exodus
@@ -645,6 +646,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Hell is a reality; free will damaged by sin; those who reject God choose hell
 - `Sermon - What Survives the Fire.md` — 1 Cor 3:10-15 — Judgment of believers' works by fire; bema seat distinct from Great White Throne
 - `Luke 23 32ff - two thieves.txt` — Luke 23:32-43 — The unrepentant thief as type of all who die rejecting Christ; only two destinations; eternity with one of the two thieves
+- `Gen 29 - depravity of man.txt` — Genesis 29:3-15 — Piper: hell is God's indictment of the infiniteness of our guilt; if hell were excessive God would be unjust; Ephesians 2:3 — children of wrath by nature; total depravity deserves total condemnation
 
 ### Holiness / Sanctification / Putting Off Sin
 - `hamartiology.txt` — Colossians 3:1-11 — The weight of sin
@@ -675,6 +677,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 ### Hypocrisy / Self-Righteousness
 - `Romans 2 mt 23 col 3 eph 2.md` — Romans 2:1-11 — Dirty cup; hypocrisy exposed
 - `Romans 2 mt 23 col 3 eph 2.txt` — Same (archive version)
+- `Gen 29 - depravity of man.txt` — Genesis 29:3-15 — Romans 14:23: even charitable giving without faith is sin; Bill Gates and Melinda's billions — sin; Mother Teresa's sacrifice — sin if not from faith; "virtue" that does not flow from glad submission to God is evil in God's sight (Piper)
 
 ### Idolatry / False Gods / Politics as Idol
 - `Jeremiah 17.txt` — Jeremiah 17:1-18 — Idol of politics
@@ -783,6 +786,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - The List I Burned.md` — 1 Thess 3:12-4:8 — Edwards: unchecked anger becomes hatred; sin's compounding effect; the damage list that increased anger (lines 119-128)
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — Double-mindedness; cursing, lying, divided loyalties as symptoms of deeper problem (lines 72-85)
 - `Sermon - The Magnet on the Compass.md` — 1 Samuel 17 — The compass illustration: sin as a magnet redirecting the heart's needle; "we can't even identify which way is up apart from Christ"; our will and desires corrupted (lines 98-112)
+- `Gen 29 - depravity of man.txt` — Genesis 29:3-15 — Most systematic archive treatment of total depravity: (1) rebellion is total — Romans 3:9-10, 18; John 3:20-21; (2) everything done in rebellion is sin — Romans 7:18; (3) inability to submit is total — Romans 8:7-8; Ephesians 2:1; corpse illustration; (4) rebellion deserves eternal punishment — Ephesians 2:3; Romans 6:23; Piper on hell as indictment of infiniteness of guilt; Laban as case study; Bill Gates / Mother Teresa: even charitable giving without faith is sin (Romans 14:23); you reap what you sow (Galatians 6:7 in Jacob/Laban)
 
 ### Spiritual Warfare / Enemy Attacks
 - `Neh 6.txt` — Nehemiah 6 — Enemy attacks and spiritual warfare
@@ -829,7 +833,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 - **Romans series manuscripts**: 20+ files (primary series)
 - **Onboarding sermons**: 9 (special messages indexed across thematic categories)
-- **Archive sermons**: ~162 sermons/teachings
+- **Archive sermons**: ~163 sermons/teachings
 - **Memorial services**: 5
 - **Non-sermon files**: ~20
 - **Bible books covered**: 40+ (Genesis through Revelation)
