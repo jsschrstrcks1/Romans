@@ -374,6 +374,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| 2 Timothy 3:1–5 | Heathens gonna heath; lovers of self (Brain & Behavior Research Foundation critique); lovers of money (1 Tim 6:10 corrected; πάντων word study; pantheon cognate); pride/arrogance list vv.2-5; appearance of godliness; Amaram (*Way of Kings* — betrayal/slavery); Joseph's brothers; Peter vs. Judas (Rabbi vs. Lord; orthopraxy); Stuart Townend hymn; Romans 3:23 | `2 Tim 3 - heathens gonna heath.txt` | sermon |
 | 2 Timothy 3:13-17 | Scripture alone as ultimate authority | `sola scriptura.txt` / `Sola Scriptura 24.txt` | sermon |
 | 2 Timothy 3:14+ | Authority and sufficiency of Scripture | `2 tim 3.txt` | sermon |
 | 2 Timothy 4:1-5 | Paul's charge to preach; Easter sermon | `Second Timothy 4.txt` / `easter 2020...txt` | sermon |
@@ -699,6 +700,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - What Survives the Fire.md` — 1 Cor 3:10-15 — Polycarp's martyrdom: "the fire lasts but a little while" (sermon lines 66-70)
 
 ### Hypocrisy / Self-Righteousness
+- `2 Tim 3 - heathens gonna heath.txt` — 2 Timothy 3:1-5 — "Having the appearance of godliness but denying its power" as most pernicious item on the list; Judas (Rabbi) vs. Peter (Lord) — orthopraxy: beliefs shape actions; Amaram (*Way of Kings*) renowned for honor, betrays his soldier; Joseph's brothers; both Peter and Judas let Jesus down, the difference was recognition of who Jesus actually was
 - `Romans 2 mt 23 col 3 eph 2.md` — Romans 2:1-11 — Dirty cup; hypocrisy exposed
 - `Romans 2 mt 23 col 3 eph 2.txt` — Same (archive version)
 - `Gen 29 - depravity of man.txt` — Genesis 29:3-15 — Romans 14:23: even charitable giving without faith is sin; Bill Gates and Melinda's billions — sin; Mother Teresa's sacrifice — sin if not from faith; "virtue" that does not flow from glad submission to God is evil in God's sight (Piper)
@@ -806,6 +808,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `The Lords day romans 14 gal 4.md` — Romans 14; Galatians 4 — Lord's Day as conscience, not command; legalism vs. antinomianism on Sabbath observance
 
 ### Sin / Depravity / The Fall
+- `2 Tim 3 - heathens gonna heath.txt` — 2 Timothy 3:1-5 — Full catalogue of last-days sins exposited: lovers of self, lovers of money, proud, arrogant, abusive, disobedient to parents, ungrateful, unholy, heartless, unappeasable, slanderous, without self-control, brutal, not loving good, treacherous, reckless, swollen with conceit, lovers of pleasure, having the appearance of godliness; Genesis 6:5 (every intention of the heart evil); Calvin: perpetual factory of idols; True North compass metaphor; 56% of men not raising their kids
 - `Gen 3.txt` — Genesis 3:1-6 — The fall; trusting self over God
 - `hamartiology.txt` — Colossians 3:1-11 — Doctrine of sin
 - `Romans 1.md` / `Romans 1 (2024).md` — Romans 1 — Suppression of truth
@@ -869,7 +872,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 - **Romans series manuscripts**: 20+ files (primary series)
 - **Onboarding sermons**: 9 (special messages indexed across thematic categories)
-- **Archive sermons**: ~166 sermons/teachings
+- **Archive sermons**: ~167 sermons/teachings
 - **Memorial services**: 5
 - **Non-sermon files**: ~20
 - **Bible books covered**: 40+ (Genesis through Revelation)
