@@ -64,6 +64,14 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | 1 Peter 3:8-18 | Live Like You're Leaving | `Sermon - Live Like You're Leaving.md` | Unity of mind; brotherly love; eternity perspective; tipping as witness |
 | 2 Timothy 1:3-14 | Be a Seawall | `Sermon - Be a Seawall.md` | Guarding the deposit; spiritual gifts; increasing hostility; Marxism critique |
 
+### Five Solas of the Reformation Series (2017, 500th Anniversary)
+
+| Passage | Title | File | Subject |
+|---|---|---|---|
+| John 6:43–65 | Grace Alone | `Sermon - Grace Alone.md` | Sola Gratia; man's total depravity (Eph 2); John 6:44, 65 — the Father draws; cultural Christianity; BFM Article V; Ephesians 2:8–9; gospel; 2021 revision in archive adds people group (Dar Hamid of Sudan) |
+
+*[Note: Other Five Solas sermons remain unprocessed in archive: `sola scriptura.txt`, `Sola Scriptura 24.txt`, `Sola Christus.txt`, `Sola Deo Gloria mt 13.txt`]*
+
 ### Baptist Faith and Message Series
 
 | Passage | Title | File | Subject |
