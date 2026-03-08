@@ -1,0 +1,136 @@
+# Sola Scriptura (2021)
+
+**Occasion**: Evening service / Sunday school — estimated October 2021 (pastor appreciation month; "504 years ago this year" dates Luther's 1517 theses to 2021); part of the Five Solas series
+**Scripture**: 2 Timothy 3:13–17
+
+---
+
+### Source Notes
+
+- **Primary source**: `Other-Sermons/Sermons-txt/sola scriptura.txt` — submitted text is a revised re-delivery of this file. The txt file says "500 years ago" (consistent with a 2017 delivery on the 500th anniversary of the Reformation); the submission updates this to "504 years ago this year," confirming a 2021 re-delivery. The txt file describes this as "the first of the five pillars"; the submission calls it "the second" — consistent with a second pass through the series.
+- **A separate 2024 version exists**: `Other-Sermons/Sermons-txt/Sola Scriptura 24.txt` is a third, distinct treatment of this topic.
+- **Estimated date: October 2021** — "504 years ago this year" (1517 + 504 = 2021); "back before pastor appreciation" (October) confirms approximate timing.
+- **"Trevor Noah" attribution — SIGNIFICANT FLAG**: The quote is attributed to "a man named Trevor Noah": *"When we have in evangelicalism the suggestion repeated over and over again that the Bible's not a text book for this or that and that one day when a textbook is written on this or that it will supersede scripture's authority..."* The prominent person named Trevor Noah (b. 1984) is a South African-American comedian and former host of *The Daily Show*. The content of this quote — its vocabulary ("evangelicalism," "supersede scripture's authority"), its argument, and its register — is academic evangelical theological commentary that does not match Trevor Noah's known public writing. This attribution is very likely incorrect. **Do not use this quote until the original source is identified and verified.**
+- **"The Catholic Church declared the earth flat" — HISTORICAL ERROR**: The medieval Catholic Church never officially declared the earth to be flat. A spherical earth was the standard view of educated medieval Europeans, including prominent Church figures (Thomas Aquinas, Albertus Magnus, Roger Bacon). The "flat earth Middle Ages" narrative is largely a 19th-century myth, popularized by John William Draper and Andrew Dickson White. The Church's documented scientific controversy was over heliocentrism (Galileo and Copernicus), which is an entirely separate matter. **This claim should be removed or corrected.**
+- **"The Bible clearly says the earth is round several times"**: The key text is Isaiah 40:22 — Hebrew *chug* means circle/circuit/vault, not unambiguously sphere. Other references (Job 26:10; Prov 8:27) use similar language. Some translations render *chug* as "sphere" or "globe," but this is a hermeneutical interpretation, not the plain lexical meaning. The claim is overstated; the texts are better described as compatible with a spherical earth than as explicitly teaching it.
+- **Dead Sea Scrolls — age discrepancy**: The sermon states the DSS copy of Leviticus is "2,000 years older than our current oldest copy." The DSS are approximately 2,000 years old. However, the oldest Masoretic manuscripts (our primary Hebrew OT source) are the Aleppo Codex (~920 CE) and Leningrad Codex (~1008 CE), approximately 1,000 years old. The DSS are therefore roughly **1,000 years older** than the oldest previously known manuscripts, not 2,000. The broader point about remarkable consistency between the DSS and later manuscripts is well-documented and accurate. ✓
+- **Four Luther quotes — unverified**: All four attributed Luther quotes lack specific source attribution (no work, volume, or page). The content is consistent with Luther's known theology and writing on Scripture. All four must be verified against the Luther corpus before publication. Sources to check include *Luther's Works* (Concordia/Fortress, 55 vols.) and the Weimarer Ausgabe.
+  - Quote 1: "You have the Apostle Paul who shows to you a garden..." (cites Romans 15:4 internally ✓)
+  - Quote 2: "Nothing helps more powerfully against the devil, the world, the flesh..."
+  - Quote 3: "If you now attempt, in this spiritual conflict, to protect yourself by the help of man..."
+  - Quote 4: "So we also labor by the Word of God that we may set at liberty those that are entangled..."
+- **David/Goliath interpolation in Luther Quote 3**: The sentence "Such an endeavor would be worse than David against Goliath—without God's supernatural power helping David" appears mid-quote and is the preacher's own commentary, not part of the Luther quote. Needs to be clearly separated in delivery and in print.
+- **Monty Python Latin — minor inaccuracy**: "Pie Jesu Domine, dona eis requiem" = *Merciful/Gentle Lord Jesus, grant them rest.* The sermon translates this as "our Lord Jesus give them rest." The word "our" does not appear in the Latin (*Domine* = Lord; *Pie* = merciful/gentle, not a possessive). Minor point.
+- **Incomplete sentence**: "I don't know if you know this but I've saved" — abandoned mid-thought in the pastor appreciation aside; drafting artifact.
+- **Duplicate sentences removed**: "We see he believed scripture brings us hope, and comfort." (×2); "When you're down because of politics..." (×2); "He goes on to say:" (×2).
+- **Typo corrected**: "Tooday" → "Today."
+- **BFM Article I**: Quoted text matches BFM 2000. ✓
+- **2 Timothy 3:13–17**: Referenced but not quoted in the submission — read aloud from congregation's Bibles.
+- **R.C. Sproul**: Accurately described as a pastor in the Orlando area (Saint Andrew's Chapel, Sanford, FL); died December 14, 2017. ✓ The submission adds "Godly" and "passed away recently" compared to the txt file — consistent with an updated re-delivery.
+- **People group**: Bahraini Arabs — introduced but not included in the txt file; added for the 2021 delivery.
+- **Iranian TV ministry**: Anecdotal reference to a conference on reaching Iranians via television; consistent with organizations like SAT-7 or Iran Alive Ministries; no verification needed.
+
+---
+
+**People Group of the Week: Bahraini Arabs**
+
+The Bahraini Arabs believe their ancestry goes back to Ishmael, the son of Abraham and Hagar, his wife's maid. They are the largest people group in Bahrain, which includes over 30 desert islands in the heart of the Persian Gulf. Some of them have migrated to Oman, another small nation on the Arabian Peninsula, where the local people are solidly Muslim.
+
+Some of us went to a conference a couple years back that talked about reaching the Iranians with television ministries — people sharing the gospel with Iranians over television, praying for people, letting them call in anonymously. Lots of people hearing the truth and responding. It's a beautiful thing.
+
+Who will pray for them?
+
+---
+
+That is one of the things, I think, Martin Luther was so good at — prayer, and leading and following God even when it was difficult to do so. Five hundred and four years ago this year, Luther nailed a rather pugnacious letter to the door of his church outlining 95 ways the church had strayed away from scripture.
+
+His fiery determination, with the help of the Holy Spirit, was able to grab hold of the hearts and minds of many people to whom he preached the Gospel. The result was that people began to take their faith seriously.
+
+Prior to Luther, church services were not held in the languages of the people. Martin Luther was a German, but in Germany the services were not held in German — they were held in Latin. Same in the rest of the world. Could you imagine going to church and sitting through songs and a sermon in a language you can't understand? This is depicted in a Monty Python movie. They are marching to attack the Killer Rabbit of Caerbannog, are routed by the little fuzzy thing, and so they decide to call for the Holy Hand Grenade. Suddenly monks appear marching and chanting in Latin. Almost no one speaks Latin — no one in the movie — so no one knows what's being said, and it's funny. Arthur and the knights stand around looking puzzled while the knights smack each other in the face. The monks kept chanting *"Pie Jesu Domine, dona eis requiem."* I took a little Latin and recognized some of it — I had to look up the rest. It basically means "Merciful Lord Jesus, grant them rest." *(The sermon renders this as "our Lord Jesus give them rest" — "our" does not appear in the Latin; see source notes.)*
+
+This is basically what things were like back then — minus the silliness. This led to an even worse set of beliefs. Luther wrote about how one pope would be elected and say the sky is blue, and the next pope would say no, the sky is green, and the third pope was completely color blind and would say no, the sky is grey. That, coupled with people who couldn't even understand what the positions of the church were because they were taught in a language the average person couldn't understand, led to the Catholic Church and especially the pope having little to no earthly accountability. This led to a number of financial scandals. One especially disgusting thing was that the pope decreed that if only people would give more to the Catholic Church they could earn heavenly indulgences. There developed a sort of market for sin. If you committed adultery, you could purchase forgiveness for so many dollars. If you lied, or skipped church, or cursed, give enough money to the church and you could buy forgiveness from God. This issue was one of Luther's biggest complaints, and he was right to condemn the practice.
+
+Today we're going to look at the second of the Five Solas called Sola Scriptura — that is, through scripture alone. The other pillars we covered a couple of weeks back; before pastor appreciation it was Sola Fide, or faith alone. By the way, I want to take a moment and thank each and every one of you for your wonderful cards and gifts last week. It means a lot. I love this job and wouldn't trade it for anything. *(Personal aside — incomplete in source; see source notes.)*
+
+As Southern Baptists, we agree with other Southern Baptist churches that we believe what the Baptist Faith and Message says. We consider those to be the items of importance that we all believe together. So let's read what it says on the issue of the scriptures — which is definitely related to Sola Scriptura, our topic tonight — and that is deeply rooted in scripture as well.
+
+**The BFM says this:**
+
+> The Holy Bible was written by men divinely inspired and is God's revelation of Himself to man. It is a perfect treasure of divine instruction. It has God for its author, salvation for its end, and truth, without any mixture of error, for its matter. Therefore, all Scripture is totally true and trustworthy. It reveals the principles by which God judges us, and therefore is, and will remain to the end of the world, the true center of Christian union, and the supreme standard by which all human conduct, creeds, and religious opinions should be tried. All Scripture is a testimony to Christ, who is Himself the focus of divine revelation.
+
+In our constitution and bylaws, we have written that not only is scripture totally and completely accurate, but it is incapable of being inaccurate. So we believe that on any issue the Bible directly speaks about, it is completely and totally accurate. For instance, the Bible isn't a science textbook — but where it speaks of science, to the extent that things can be tested, it has been proved right. For instance, thousands of years before Christ, scripture speaks of the circle of the earth *(Isaiah 40:22 and similar; see source notes on the extent of this claim)*. *(The sermon states "It was man through the Catholic Church that got that twisted declaring the earth to be flat" — this is historically inaccurate; see source notes.)*
+
+Let's pause there and read from God's word. 2 Timothy 3:13. *(Read aloud.)*
+
+So what do we know about this passage? Let's look at it like this. Let's say that you walked into a room and your spouse was scolding a child saying "never ever take a cookie from the cookie jar without asking." What are you going to naturally assume the child had done? That's right — we would instantly think the child had taken a cookie without asking. The same for Paul here. If he's needing to admonish Timothy to beware of false teachings, and to know that all scripture is breathed out by God himself, then naturally we can draw the conclusion that the people Timothy was to be serving with were being drawn to false teachings because they didn't realize the extent of the value and the source of the very word of God. R.C. Sproul — a Godly pastor over in Orlando who passed away recently — wrote that the people Timothy was ministering to were a contentious lot. They enjoyed contention, or fighting for the sake of fighting. They had taken some things in the Old Testament out of context, and that caused a distorted view of both Christ and the New Testament. It's kind of like building a house. The Old Testament points to Christ, and the New Testament also points to Christ. We understand the New Testament in light of the Old, and the Old Testament in light of the New. That's circular, I know, but as the Lord teaches you new things in the New Testament, it deepens your understanding of the Old, which in turn will give you new insight into the New. Likewise, because of the spiral nature of biblical knowledge, if you get one point twisted, it affects your view of other parts of scripture. Too much salt in the coffee pot spoils every cup, right?
+
+Let's look at some of the contemporary issues of the day. There are two universal truths about all of them. First, they all come back to "I" — I want, I think, I need; ultimately, I don't want to depend on God. You've all heard me talk about that before. Second, they all come back to a misinterpretation of scripture. Think about abortion. If people had a proper view and understanding of scripture, do you think such a person would kill their own baby? Certainly not. What about homosexuality and the questions of sexuality? The party lifestyle? The roles of men and women? Evolution? All of these things come back to one's view of scripture and its sufficiency. If you have a high view of the Word of God, you're going to believe what it says, and you're not going to be getting dragged into the wrong side of these issues. A high view of the Word of God will keep us from slandering whoever becomes president. A high view of the Word of God can keep us from making a powerful man the object of our worship instead of God.
+
+*(The sermon attributes the following quote to "a man named Trevor Noah." The attribution is very likely incorrect — see source notes. Do not use until the original source is identified.)*
+
+> "When we have in evangelicalism the suggestion repeated over and over again that the Bible's not a textbook for this or that, and that one day when a textbook is written on this or that it will supersede scripture's authority on this or that — and those textbooks are being written all the time, and exceeding the authority of scripture all the time."
+>
+> — Attributed to Trevor Noah *(attribution unverified; likely misattributed — see source notes)*
+
+When we have a book that, as our passage tonight says, is God-breathed — let me ask you this. If our God is all-knowing, and scripture says he is; if our God can see all of the past, all of the present, and all of the future, which scripture seems to indicate he can — then if such a God were to write a book, do you not think he would write down everything that was most important in such a way that it would be impactful for everyone across all time and across all the different issues they face in their time? God is not capricious, doesn't make mistakes, doesn't fly by the seat of his pants. If God puts it in the Bible, there is meaning in it that is relevant for us today. It is currently the highest earthly authority possible — something that God breathed out of himself and into the authors of the Old and New Testament.
+
+As such, what kind of view do you think we should have of it? Martin Luther argued that it was vital we believe nothing more or nothing less than scripture.
+
+*(All four Luther quotes below are unattributed — no work cited; see source notes.)*
+
+> "You have the Apostle Paul who shows to you a garden, or paradise, which is full of comfort, when he says: 'Whatever was written, was written for our instruction, so that through patience and the consolation of the Scriptures we might have hope' (Romans 15:4). Here he attributes to Holy Scripture the function of comforting. Who may dare to seek or ask for comfort anywhere else?"
+>
+> — Martin Luther *(source unverified)*
+
+We see he believed scripture brings us hope and comfort. When we are being attacked we should turn to it:
+
+> "Nothing helps more powerfully against the devil, the world, the flesh, and all evil thoughts than occupying oneself with God's Word, having conversations about it, and contemplating it."
+>
+> — Martin Luther *(source unverified)*
+
+When you're down because of politics, and because you're afraid for your 401k and so forth, turn to scripture. Turn to God through scripture.
+
+> "If you now attempt, in this spiritual conflict, to protect yourself by the help of man without the Word of God, you simply enter upon the conflict with that mighty spirit, the devil, naked and unprotected."
+
+*(Preacher's interpolation: "Such an endeavor would be worse than David against Goliath — without God's supernatural power helping David." — This is the preacher's own commentary, not part of the Luther quote.)*
+
+> "You may, therefore, if you so please, oppose your power to the might of the devil. It will then be very easily seen what an utterly unequal conflict it is, if one does not have at hand in the beginning the Word of God."
+>
+> — Martin Luther *(source unverified)*
+
+The Word of God frees us:
+
+> "So we also labor by the Word of God that we may set at liberty those that are entangled, and bring them to the pure doctrine of faith, and hold them there…. The Scripture does not set forth Christ as an accuser, a judge, or a tempter, but as a reconciler, a mediator, a comforter, and a throne of grace."
+>
+> — Martin Luther *(source unverified)*
+
+So if you're weary, where should you turn? Scripture.
+If you're sad, where should you turn? Scripture.
+If you're discouraged?
+If you're tempted?
+If you are under attack by our enemy?
+If you are experiencing loss, or any circumstance where you need comforting? Scripture.
+
+Basically, when life gives you lemons, don't make lemonade. Throw those things out and open your Bible, because there you can soak in the sweet truths of the Word of God.
+
+---
+
+Alright — last thing I want to look at before we close. Sometimes we simply take certain things for granted when it comes to the scriptures.
+
+First, the Bible is a book comprised of 66 books. These 66 books were written over the course of several thousand years, and yet never in any of its 756,775 words does it ever contradict itself. Dozens of authors — with precious few that might have known each other — spread out over thousands of years, and yet there is not a single discrepancy.
+
+Finding discrepancies in books of fiction is kind of a pet peeve of mine. I was reading a book by a relatively famous author who has now passed on, and in book 6 of his 9-book series he has one of the main characters at her home base of operations on one page, and on the next she's halfway around the world at the front lines, and then on the third page she's back home in her ivory tower. She can't fly. It's not Star Trek — there is no teleporter, no magic. It was simply an oversight on the part of the author. It happens to every author who writes under his own power. My favorite author of fiction right now is Brandon Sanderson. He writes a book about every six months. But it takes about 20 months for each new book to make it into production because of his goal of making sure no errors like the one I just mentioned happen in his books. He has thousands of people involved in this process, and he has said often as many as 20 rewrites before he gets it right.
+
+Yet with scripture what we see are things like the personal correspondence of Paul. He writes a letter, puts it in an envelope, and sends it. No team of thousands proofreading, no opportunity for rewrites. Instead what we have is God choosing Paul, and then breathing into Paul the things he wants Paul to express using Paul's vocabulary and phrasing. Of all the people that existed across all of time, God chose Paul because he knew when he breathed into Paul, things like the book of Romans would come out. That there are no discrepancies across all the books of the Bible speaks to someone superintending over the production of the Bible.
+
+But let me ask you this: if God wanted to give us his word, would he not preserve it as well? We know in part how he did. There were a group of people called the Masoretes, whose mission in life was to make copies of books of the Bible. They knew how many words were in a given book. They knew the exact middle word. They knew which words should be at the end of each line of each page. They took their job seriously. If they encountered one of the names of God, they were so serious about preserving his word untainted that they would stop and go through a purification ritual — basically take a shower — before writing the name of God. Failing to do so would result in the manuscript being burned. After it was written, it would be double-checked by another scholar whose entire life was devoted to quality control of copies of scripture. He would read each and every line of each and every page, and if a single word was out of place, he wouldn't tell them to erase that line and start over — he would burn the entire thing and tell the copyist to start over. It took on average 20 years to make a single copy of the Old Testament. Most of our copies in the original language come from the life's work of this group of men.
+
+In fact they were so dedicated to their craft that even today, as we discover more and older manuscripts from other sources, we are finding them to be exact copies. For instance, have you guys ever heard of the Dead Sea Scrolls? They found a copy of Leviticus — it's roughly 1,000 years older than our previously oldest known manuscripts. *(The sermon says "2,000 years older" — see source notes; corrected here.)* And yet guess what? It is exactly word for word for word the same as its much younger counterpart. Because if God wants us to have his word, he's going to preserve his word. Amen?
+
+So as Christians, what should we be doing with his word? Do you guys read your Bible every day? It washes us, it comforts us, it helps us fight temptation and the evil one. It draws us closer to Jesus every time we read it. It deepens our relationship with him. If we are not reading our Bible every day, we should be.
+
+Maybe you're here and you are not yet a Christian. Being a Christian is more than believing in God — scripture says that even the demons believe in God, and they tremble. Are the demons going to be in heaven? No. It's more than believing in the existence of God; it's also having a relationship with God. We can talk to God through prayer, and he can respond back by the prompting of the Holy Spirit and through his word. The Bible is a vital part of your relationship with God.
+
+I think we all have, or have had, that one friend who comes to you for advice but then doesn't listen. It's almost like they want to dump their problems and run more than find advice. Anyone ever known someone like that? When we don't listen to God through his word and through the prompting of the Holy Spirit, are we any better?
+
+But if you have never come to a point in your spiritual life where you've begun a relationship with Jesus Christ, please come talk to me before you leave tonight. Scripture says wide is the gate that leads to destruction, and many there are that find it — but narrow is the way that leads to salvation, and few there are that find it. So please come talk to me, and I'll show you in the Bible, in the word of God, how to start.
