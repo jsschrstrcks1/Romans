@@ -64,6 +64,14 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | 1 Peter 3:8-18 | Live Like You're Leaving | `Sermon - Live Like You're Leaving.md` | Unity of mind; brotherly love; eternity perspective; tipping as witness |
 | 2 Timothy 1:3-14 | Be a Seawall | `Sermon - Be a Seawall.md` | Guarding the deposit; spiritual gifts; increasing hostility; Marxism critique |
 
+### Baptist Faith and Message Series
+
+| Passage | Title | File | Subject |
+|---|---|---|---|
+| Numbers 23:19; Psalm 31:5-6; Jude 9; John 3:16 | More Than Love | `Sermon - More Than Love.md` | BFM Article 2 (God); names of God; false religious conceptions (Islam, JW, Mormon); Trinity; God is more than love; gospel; Arain of Pakistan people group |
+| Acts 13:48; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8 | Out of the Cistern | `Sermon - Out of the Cistern.md` | BFM Article 5 (Grace/Election); sovereign election; man contributes only the sin that made salvation necessary; Brahmin of Nepal people group |
+| Acts 2:1-9, 36-40 | Clowns Entertaining the Goats | `Sermon - Clowns Entertaining the Goats.md` | BFM Article on Holy Spirit; BFM series; tongues; Lakeland Revival critique; spiritual maturity; Lampung Pesisir people group |
+
 ---
 
 ## Archive Sermons by Bible Book
