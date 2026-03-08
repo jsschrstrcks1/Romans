@@ -163,7 +163,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 63:1-8 | David hunted by Absalom; family tragedy (Amnon, Tamar, Absalom); Steven Curtis Chapman / Maria / Will; Emily's "what did you say?"; thirsting for God (Insanity of God illustration); Hebrews 12:2; satisfaction leading to more worship; shadow of wings — mother bird (guinea hens vs. black mamba) or cherubim (Ezekiel 1 and 10); motorcycle school (3-degree vision); God sends his best when we're at our worst | `psalms 63.txt` | sermon |
 | Psalm 68:1-4 | Power of God; nothing too difficult | `Psalms 68 (2).txt` | sermon |
 | Psalm 75 / 1 Peter 1:13+ | God's judgment and holiness | `Psalms 75.txt` | sermon |
-| Psalm 78:1-8 | Remembering God's deeds; teaching children | `psalm 78.txt` | sermon |
+| Psalm 78:1-8 | Don't forget what the Lord has done; Maskil of Asaph (complex musical arrangement / instruction to repeat until believed); JFK Jr. crash (NTSB: ~310 hrs, VFR-only, rejected instructor's offer, flew over water at night, wrong radio channel, lost spatial orientation, autopilot unused; near other air traffic per Stephen Davey); 9/11 personal memory (Greek class; 200 jumped; churches full in aftermath; thousands converted); Hurricane Irma (Kenny Duffield's house; 30 mph gusts while islands leveled nearby; tree fell backward); fathers' responsibility; triple parallel: Scripture = instruments, church = instructor, stories of God's provision = coastline; Spurgeon on living in the Bible | `psalm 78.txt` | sermon |
 | Psalm 84 | Dwelling in God's house; vacation analogy | `Psalms 84(1).txt` | sermon |
 | Psalm 84 | Delight, strength, and trust in the Lord | `Psalms 84 (2).txt` | sermon |
 | Psalm 84 | Sparrows; dwelling in God's presence; valley of tears | `psalms 84 - better is one day (AutoRecovered).txt` | sermon |
@@ -545,7 +545,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Children / Parenting / Legacy
 - `1 peter 1 - legacies.txt` — 1 Peter 1:13-end — Parental spiritual legacy
-- `psalm 78.txt` — Psalm 78:1-8 — Remembering God's deeds; teaching children
+- `psalm 78.txt` — Psalm 78:1-8 — Fathers primarily responsible for passing on stories of God's provision; 9/11 aftermath (churches full; thousands converted) as modern example; Hurricane Irma as personal testimony to share; Spurgeon: "visit many good books, but live in the Bible — not only for your sake, but for your children's"
 - `prov 13.txt` — Proverbs 13 — Generation gaps; wise companions
 - `Psalms 139 (abortion).txt` — Psalm 139:13 — Sanctity of life
 
@@ -770,6 +770,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 15a...md` — Romans 15:7-12 — Jew and Gentile; one voice
 
 ### Revival / Scripture / Word of God
+- `psalm 78.txt` — Psalm 78:1-8 — Scripture as flight instrument: "if JFK Jr. had trusted his instruments when his eyes couldn't be trusted, he never would have crashed"; Spurgeon: "visit many good books, but live in the Bible"; Maskil as instruction to repeat until remembered and fully believed
 - `neh 8.txt` — Nehemiah 8 — Revival; reading scripture
 - `Psalms 119.txt` — Psalm 119:161-168 — Treasure of scripture; Bible smuggling
 - `2 tim 3.txt` — 2 Timothy 3:14+ — Authority and sufficiency of Scripture
