@@ -374,7 +374,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| Hebrews 3:12-4:16 | Rest in the Lord and accountability | `Heb 3.txt` | sermon |
+| Hebrews 3:12-4:16 | Rest in the Lord and accountability | `Sermon - Rest in the Lord.md` / `Heb 3.txt` | sermon |
 | Hebrews 11:1 / 1 John 4:18 | Fear as opposite of love; trusting God | `heb 11 - fear.txt` | sermon |
 | Hebrews 12:3-17 | God's discipline as training and refining | `Heb 12.txt` | sermon |
 
