@@ -336,7 +336,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| Ephesians 2 | Theological anthropology; depravity of man | `vbs 2019.txt` | sermon |
+| Ephesians 2 | Theological anthropology; VBS Sunday closing; Malay of Indonesia people group; exhaustive Ephesians depravity list; "But God" pivot; Billy Sunday on fighting sin | `Eph 2 - but God.txt` | sermon |
 | Ephesians 5:4 | Thankfulness to God for creation and salvation | `thanksgiving 2017.txt` | sermon |
 | Ephesians 5:4; Genesis 22 | Thanksgiving; smashing idols; Abraham and Isaac | `thanksgiving 2018.txt` | sermon |
 
@@ -643,6 +643,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `John 14 - exclusivity of the gospel..txt` — John 14:1-16 — Christ as the only way
 
 ### Grace / Mercy / Unmerited Favor
+- `Eph 2 - but God.txt` — Ephesians 2 — "But God" as the best "but" in Scripture; God loved us even while we were licentious, deceitful, rebellious, unclean; made us alive together with Christ; seated us with him in heavenly places; immeasurable riches — not because we earned it
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Grace to a dying criminal
 - `Luke 23 32ff - two thieves.txt` — Luke 23:32-43 — Dismas: no request for rescue, only "remember me"; tacit admission of guilt; grace to the man who would have called himself chief of sinners; "grace that is greater than all our sin"
 - `Romans 5.md` — Romans 5:1-11 — While we were still sinners
@@ -664,6 +665,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Gen 29 - depravity of man.txt` — Genesis 29:3-15 — Piper: hell is God's indictment of the infiniteness of our guilt; if hell were excessive God would be unjust; Ephesians 2:3 — children of wrath by nature; total depravity deserves total condemnation
 
 ### Holiness / Sanctification / Putting Off Sin
+- `Eph 2 - but God.txt` — Ephesians 2 — Holy Spirit as daily washing/cleansing agent; desires change over time; poison of sin slowly drawn out; Billy Sunday: "I'll kick it as long as I've got a foot... I'll gum it till I go home to glory" — fighting sin from gratitude, not to earn salvation
 - `hamartiology.txt` — Colossians 3:1-11 — The weight of sin
 - `I have been thinking about going back to seminary.txt` — Col 3:1-17 — Putting sin to death
 - `Mark 4.txt` — Mark 4:26-34 — Growing seed; sanctification
@@ -802,7 +804,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 2...md` — Romans 2:1-11 — Hypocrisy
 - `Romans 3...md` — Romans 3 — None righteous
 - `ps14.txt` — Psalm 14 — Foolishness; the fall
-- `vbs 2019.txt` — Ephesians 2 — Depravity of man
+- `Eph 2 - but God.txt` — Ephesians 2 — VBS Sunday; exhaustive depravity list from Ephesians (walkers in iniquity → unarmored → unable to withstand evil); "But God" pivot (Eph 2:4); Isaiah 64:6 filthy rags; 1 Cor 2:14 natural man; parenting analogy for God's persistent love; Billy Sunday: "I'll kick it as long as I've got a foot... I'll gum it till I go home to glory"; Malay of Indonesia people group (Islam 15th century; ethnic identity threat to conversion)
 - `Psalms 1.txt` — Psalm 1 — Downward progression of sin
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — "We who rejected God, and chose sin, and in doing so shattered creation"; hearts of stone; every sin required Christ's death (line 58)
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Free will damaged by sin; those who reject God choose hell; hell as a reality (line 110)
@@ -858,7 +860,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 - **Romans series manuscripts**: 20+ files (primary series)
 - **Onboarding sermons**: 9 (special messages indexed across thematic categories)
-- **Archive sermons**: ~165 sermons/teachings
+- **Archive sermons**: ~165 sermons/teachings (net: vbs 2019.txt deleted, Eph 2 - but God.txt refined replacement)
 - **Memorial services**: 5
 - **Non-sermon files**: ~20
 - **Bible books covered**: 40+ (Genesis through Revelation)
