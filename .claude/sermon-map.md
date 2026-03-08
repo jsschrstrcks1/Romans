@@ -83,6 +83,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Acts 2:1-9, 36-40 | Clowns Entertaining the Goats | `Sermon - Clowns Entertaining the Goats.md` | BFM Article on Holy Spirit; BFM series; tongues; Lakeland Revival critique; spiritual maturity; Lampung Pesisir people group |
 | Romans 14:1-12; Galatians 4:8-20 | The Lord's Day | `Sermon - The Lord's Day.md` | BFM Article 8; Lord's Day; Sabbath; legalism; antinomianism; grace as middle ground; John Owen; Sinclair Ferguson; Meo of Pakistan people group |
 | Matthew 13:44 | The Kingdom of God | `Sermon - The Kingdom of God.md` | BFM Article IX; Kingdom defined (Ps 103:19); omniscience/omnipresence/omnipotence; Tozer; already and not yet (Piper); Westminster Shorter Catechism chief end of man; evangelism and discipleship; Christ's cross over throne; Qassab of Pakistan people group |
+| 1 Cor 11:23–26; Mt 26; Mk 14; Lk 22; 1 Cor 10; Jn 6 | Thanksgiving Communion Service | `Sermon - Thanksgiving Communion.md` | Special Thanksgiving service; Lord's Supper institution (all four accounts); 1 Cor 10:16–17 participation; Bread of Life (John 6); all ESV verified |
 
 ---
 
@@ -828,6 +829,10 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `thanksgiving 2018.md` — Eph 5:4; Gen 22 — Thanksgiving; Abraham and Isaac
 - `Col 2 - thanksigiving.md` — Colossians 2:1-8 — Thanksgiving; guarding against deceit
 - `jn 10.md` — John 10:11, 17-18 — Thankfulness and Christ's love
+- `Sermon - Thanksgiving Communion.md` — 1 Cor 11; Mt 26; Mk 14; Lk 22; Jn 6 — Thanksgiving communion service; Lord's Supper; Bread of Life
+
+### Lord's Supper / Communion
+- `Sermon - Thanksgiving Communion.md` — 1 Cor 11:23–26; Mt 26:26–29; Mk 14:22–25; Lk 22:17–20; 1 Cor 10:16–17; Jn 6:26–58 — All four institution accounts; participation in the body; Bread of Life discourse; all ESV verified; special Thanksgiving service
 
 ### Type of Christ / Christological Foreshadowing
 - `1 sam 17.md` — 1 Samuel 17 — David and Goliath as type of Christ
@@ -854,7 +859,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 ## Statistics
 
 - **Romans series manuscripts**: 20+ files (primary series)
-- **Onboarding sermons**: 9 (special messages indexed across thematic categories)
+- **Onboarding sermons**: 10 (special messages indexed across thematic categories)
 - **Archive sermons**: ~160 sermons/teachings
 - **Memorial services**: 5
 - **Non-sermon files**: ~20
