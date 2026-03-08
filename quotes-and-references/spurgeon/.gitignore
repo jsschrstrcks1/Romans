@@ -1,0 +1,6 @@
+# Sermon PDFs — large binary files tracked separately from git
+sermons/*.pdf
+sermons/indexes/*.pdf
+
+# Runtime logs
+download.log

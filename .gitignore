@@ -1,0 +1,6 @@
+# Spurgeon sermon files — large downloaded reference corpus, re-downloadable via download-spurgeon.sh
+quotes-and-references/spurgeon/sermons/
+
+# Conversion log
+quotes-and-references/spurgeon/convert.log
+quotes-and-references/spurgeon/download.log
