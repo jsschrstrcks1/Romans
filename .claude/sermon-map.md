@@ -221,6 +221,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Matthew 9:9-13 | Calling of Matthew; Roman tax system; sovereignty draws sinners; beauty for ashes | `Sermon - Beauty for Ashes.md` | sermon |
 | Matthew 5:2-11 | Meekness and the Beatitudes | `Mat 5.txt` | sermon |
 | Matthew 5 (salt/light) | Christians as salt and light | `Jesus calls us to be salt and light.txt` | teaching |
 | Matthew 5:13-16 | Christians and the social order (BFM article) | `article 15.txt` | teaching |
