@@ -254,6 +254,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Luke 14 | Parable of the Great Banquet; rejecting God's invitation | `Luke 14.txt` | sermon |
 | Luke 23:1-25 | Jesus vs Barabbas; what people wanted vs needed | `Luke 23.txt` | sermon |
 | Luke 23:13-25 | Man's injustice vs God's justice at Easter | `easter 24.txt` | sermon |
+| Luke 23:32-43 | Two thieves; lēstai; Dismas and the unrepentant thief; apologetics of the resurrection; Louis Slotin / Vandeman illustration | `Luke 23 32ff - two thieves.txt` | sermon |
 
 ### John
 
@@ -495,6 +496,9 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `heb 11 - fear.txt` — Hebrews 11:1 / 1 John 4:18 — Fear as opposite of love
 - `psalm 56.txt` — Psalm 56 — Is Jesus worth it; Pilgrim's Progress
 
+### Apologetics / Resurrection Defense
+- `Luke 23 32ff - two thieves.txt` — Luke 23:32-43 — Most concentrated apologetics treatment in the corpus: swoon theory refuted (JAMA; professional executioners; blood and water from spear wound); liar/lunatic/Lord argument; 500 witnesses; mass hallucination impossible per atheist psychologists; Louis Slotin / Vandeman illustration of substitutionary sacrifice
+
 ### Atonement / Cross / Substitution
 - `is 53.txt` — Isaiah 53 — Suffering servant prophesied
 - `Mk 14 - easter.txt` — Mark 14:41-50 — Judas's betrayal; Easter
@@ -504,6 +508,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 3 - wrath of God (final).md` — Romans 3 — Wrath; propitiation
 - `Romans 5.md` — Romans 5:1-11 — While we were still sinners
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:18 — Christ suffered once for sins, the righteous for the unrighteous
+- `Luke 23 32ff - two thieves.txt` — Luke 23:32-43 — Six hours on the cross; every breath a battle won; John Owen: "There is no death of sin without the death of Christ"; Louis Slotin breaking the chain reaction as type of Christ
 
 ### Baptist Distinctives / Identity
 - `being baptist.txt` — Acts 18; 1 Cor 3 — Baptist history and distinctives
@@ -625,6 +630,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Grace / Mercy / Unmerited Favor
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Grace to a dying criminal
+- `Luke 23 32ff - two thieves.txt` — Luke 23:32-43 — Dismas: no request for rescue, only "remember me"; tacit admission of guilt; grace to the man who would have called himself chief of sinners; "grace that is greater than all our sin"
 - `Romans 5.md` — Romans 5:1-11 — While we were still sinners
 - `Romans 11 - The Remnant of Grace.md` — Romans 11:1-10 — Grace leaves no room for works
 - `Leprosy - naaman - 2kings 5.txt` — 2 Kings 5 — Naaman; grace through obedience
@@ -638,6 +644,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Psalms 75.txt` — Psalm 75 / 1 Peter 1:13+ — God's judgment
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Hell is a reality; free will damaged by sin; those who reject God choose hell
 - `Sermon - What Survives the Fire.md` — 1 Cor 3:10-15 — Judgment of believers' works by fire; bema seat distinct from Great White Throne
+- `Luke 23 32ff - two thieves.txt` — Luke 23:32-43 — The unrepentant thief as type of all who die rejecting Christ; only two destinations; eternity with one of the two thieves
 
 ### Holiness / Sanctification / Putting Off Sin
 - `hamartiology.txt` — Colossians 3:1-11 — The weight of sin
@@ -822,9 +829,9 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 - **Romans series manuscripts**: 20+ files (primary series)
 - **Onboarding sermons**: 9 (special messages indexed across thematic categories)
-- **Archive sermons**: ~161 sermons/teachings
+- **Archive sermons**: ~162 sermons/teachings
 - **Memorial services**: 5
 - **Non-sermon files**: ~20
 - **Bible books covered**: 40+ (Genesis through Revelation)
 - **Total unique passages preached**: 150+
-- **Thematic categories**: 34
+- **Thematic categories**: 35
