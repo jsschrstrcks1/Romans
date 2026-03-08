@@ -117,7 +117,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| Ezra 4:1-6; 6:2-end | God's sovereignty over nations and captivity | `Ezra 4 and 6.txt` | sermon |
+| Ezra 4:1-6; 6:2-end | God's sovereignty over nations and captivity | `Sermon - When God Is For Us.md` / `Ezra 4 and 6.txt` | sermon |
 
 ### Nehemiah
 
