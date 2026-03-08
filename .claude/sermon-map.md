@@ -358,6 +358,12 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Colossians 3:1-17 | Putting sin to death; setting minds on Christ | `I have been thinking about going back to seminary.txt` | sermon |
 | Colossians 4:2-4 | Biblical model of prayer; evangelism | `col 4 - prayer.txt` / `prayer col 4.txt` | sermon |
 
+### 1 Thessalonians
+
+| Passage | Subject | File | Type |
+|---|---|---|---|
+| 1 Thessalonians 5:16–18 | Give thanks in all circumstances; thankfulness as Christian mark; leukemia miracle story; complaining as self-worship; A. W. Pink on voluntary atonement | `Thankfulness - 1 Thess 5.txt` | sermon |
+
 ### 1 Timothy
 
 | Passage | Subject | File | Type |
@@ -508,6 +514,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Exodus 14 - red sea.txt` — Exodus 14:1-31 — Archaeological context for Red Sea crossing: Nuweiba crossing site, "Nuweiba al Muzayyinah" place-name, Solomon's pillars, chariot remains in coral (claims associated with Ron Wyatt expeditions — disputed by mainstream and some Christian archaeologists; archived as historical document)
 
 ### Atonement / Cross / Substitution
+- `Thankfulness - 1 Thess 5.txt` — 1 Thess 5:16-18 — A. W. Pink on voluntary atonement (quoted twice, frames the whole sermon): "It was not the nails but the strength of His love to the Father and to His elect which held Him to the cross"; John 10:17-18 ("no one takes my life from me, I lay it down"); John 15:13 ("greater love has no one than this"); Matt 16:24 cross-bearing as willing public shame
 - `is 53.txt` — Isaiah 53 — Suffering servant prophesied
 - `Mk 14 - easter.txt` — Mark 14:41-50 — Judas's betrayal; Easter
 - `easter 24.txt` — Luke 23:13-25 — Man's injustice vs God's justice
@@ -827,6 +834,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `John 12.txt` — John 12:1-8 — Mary's nard worth a year's wages poured out without calculation; "she knew she owed more to Christ than she could ever repay"; John Wesley doing everything for God before realizing he was lost; the checkbook of your life — does it look like Mary or Judas?
 
 ### Thanksgiving / Gratitude
+- `Thankfulness - 1 Thess 5.txt` — 1 Thess 5:16-18; Ps 100; Phil 4:4-7 — Most theologically developed thankfulness sermon in corpus: pastor's daughter + wife both diagnosed terminal leukemia, miraculous healing during prayer, return to same hospital room 15 years later; Bob Clark / son Rob (leukemia, spared, counseling in Texas); Sarah Josepha Hale ("Mary Had a Little Lamb") prevailing on Lincoln for Thanksgiving; Psalm 100 as first thanksgiving hymn; Phil 4:4-7 — peace that surpasses understanding produced by thankful prayer; 2 Tim 3:2 ungrateful listed with unholy/brutal/treacherous; complaining as self-worship; A. W. Pink on voluntary atonement (quoted twice); Matt 16:24 Greek word study on ἀπαρνέομαι (deny, disown); cross as public shame willingly chosen
 - `thanksgiving 2017.txt` — Ephesians 5:4 — Thankfulness
 - `thanksgiving 2017 (2023).txt` — Psalm 107:1-3 — Thankfulness (2023 revision)
 - `thanksgiving 2018.txt` — Eph 5:4; Gen 22 — Thanksgiving; Abraham and Isaac
@@ -860,7 +868,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 - **Romans series manuscripts**: 20+ files (primary series)
 - **Onboarding sermons**: 9 (special messages indexed across thematic categories)
-- **Archive sermons**: ~165 sermons/teachings (net: vbs 2019.txt deleted, Eph 2 - but God.txt refined replacement)
+- **Archive sermons**: ~166 sermons/teachings
 - **Memorial services**: 5
 - **Non-sermon files**: ~20
 - **Bible books covered**: 40+ (Genesis through Revelation)
