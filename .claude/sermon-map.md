@@ -213,6 +213,12 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Ezekiel 36:22-32 | Salvation by grace alone for God's glory | `Ezekiel 36.txt` | teaching |
 | Ezekiel 37 | Total depravity; spiritual resurrection of dry bones | `ezekiel 37.txt` | teaching |
 
+### Jonah
+
+| Passage | Subject | File | Type |
+|---|---|---|---|
+| Jonah 4 | Jonah's anger at God's mercy; Nineveh / Assyria history; Sennacherib inscription; Gujar people group (Attila the Hun); God's sovereignty over politics; Calvin on idol factories; no one too far for God; Psalm 91:4, 34:7-9, 2 Thess 3:3-5, Isaiah 41:10-12, Psalm 23:1-6; sick sheep illustration; God is in control | `Jonah 4 - God is in control.txt` | sermon |
+
 ### Malachi
 
 | Passage | Subject | File | Type |
@@ -638,6 +644,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 11 - The Remnant of Grace.md` — Romans 11:1-10 — Grace leaves no room for works
 - `Leprosy - naaman - 2kings 5.txt` — 2 Kings 5 — Naaman; grace through obedience
 - `sola gracia.txt` / `sola gracia 2021.txt` — John 6 — Grace alone
+- `Jonah 4 - God is in control.txt` — Jonah 4 — God merciful to whomever he wants, especially those who don't deserve it; Paul (murderer) and David (murderer, adulterer) as examples; "God meets us where we are, not where we think he wants us to be"; grace extended to Israel's worst enemies
 
 ### Hell / Judgment / Wrath
 - `rev 20.txt` — Revelation 20:11-15 — Horrors of hell
@@ -691,6 +698,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `thanksgiving 2018.txt` — Eph 5:4; Gen 22 — Smashing idols
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — Baal worship; adding gods to the collection; modern idols of comfort and money; God strikes at idols (sermon lines 46-88)
 - `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — Every political ideology (elephant or donkey) put ahead of God leads to the same Godless place (sermon line 55)
+- `Jonah 4 - God is in control.txt` — Jonah 4 — Security and comfort as idol; more upset about a Biden presidency than about someone spending eternity in hell = comfort is your idol; Calvin: "our hearts are a perpetual factory of idols"; both parties are two wings of the same bird; God is not a Republican or a Democrat
 
 ### Identity in Christ / Exile
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Team name "elect exiles"; wearing the jersey = living consistent with identity; refusing the jersey = refusing to identify with Christ; North Korea analogy for exile; citizenship in heaven (lines 11-19, 64-68)
@@ -735,6 +743,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-2 — Election (*eklektos* word study); foreknowledge of God; John 6:44 "no one can come unless the Father draws him"; Romans 9:22-25 vessels of mercy (lines 34-56)
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — God's patience confused with God losing; "the story's conclusion had already been written — spoiler alert, God wins!" (line 15)
 - `Gen 1-2 - beautiful but not safe.txt` — Genesis 1–2 — God's providence over Aunt Judy: failed by doctors, led to Europe, found researcher, healed; the missionary hidden in a halfway house; God's purposes not always legible in the moment
+- `Jonah 4 - God is in control.txt` — Jonah 4 — God sovereign over Assyria's conversion and destruction; Romans 13: no authority except that which God has ordained; God in control of Biden, Trump, the House, the Senate, the Oval Office; "if God wanted a different president, can anyone cheat their way around his will?"
 
 ### Racial Reconciliation / Unity
 - `Cultural Marxism.txt` — Romans 10:12-13 — Biblical racial equality
@@ -836,7 +845,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 - **Romans series manuscripts**: 20+ files (primary series)
 - **Onboarding sermons**: 9 (special messages indexed across thematic categories)
-- **Archive sermons**: ~163 sermons/teachings
+- **Archive sermons**: ~164 sermons/teachings
 - **Memorial services**: 5
 - **Non-sermon files**: ~20
 - **Bible books covered**: 40+ (Genesis through Revelation)
