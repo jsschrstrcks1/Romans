@@ -19,6 +19,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Title | File | Subject |
 |---|---|---|---|
+| Romans 1:18-32 | The Fingerprints of God | `Romans 1c - The Fingerprints of God.md` | Anthropic principle; fine-tuning; Balija of India; Winslow/Shultz on providence; BFM 2A; election |
 | Romans 1:18-24+ | The Darkness We Chose | `Romans 1.md` / `Romans 1 (2024).md` | Suppression of truth; God revealed in creation; wrath |
 | Romans 2:1-11 | The Darkness We Deny | `Romans 2 mt 23 col 3 eph 2.md` | Religious hypocrisy; judgment by conscience |
 | Romans 3:19-26 | God's Wrath (Parts 1 & 2) | `Romans 3 - wrath of God (final).md` / `Romans 3 - pt 2.md` | All unrighteous; justification introduced |
