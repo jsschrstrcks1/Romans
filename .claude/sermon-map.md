@@ -275,7 +275,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | John 10:25-30; 6:37-65 | Perseverance and preservation of the saints | `Eternal Security.txt` | teaching |
 | John 11:1-16 | Trusting God through silence and unanswered prayers | `Fifteen.txt` | study |
 | John 11:30-44 | Memorial for Jean; Jesus weeps and raises Lazarus | `We are gathered here...Jean.txt` | memorial |
-| John 12 | Mary's devotion vs Judas's selfishness | `John 12.txt` | sermon |
+| John 12:1-8 | Mary's total gift (financial, social, emotional); David Platt / Church at Brook Hills intro; Mary vs Martha (contemplative); American Christianity statistics; Judas's earthly motives; Charles Wesley poem on Mary; John Wesley's conversion after years of ministry; Hugh Hefner (October 2017); "Give Me Jesus" by Steve Camp; communion liturgy; whose life does yours resemble? | `John 12.txt` | sermon |
 | John 14:1-7 | Christ as the only way to salvation | `John 14 - exclusivity of the gospel..txt` | sermon |
 | John 14:1-7 | Memorial service for Chuck Weis | `Chuck Weis Memorial 2024.txt` | memorial |
 
@@ -687,6 +687,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 2 mt 23 col 3 eph 2.md` — Romans 2:1-11 — Dirty cup; hypocrisy exposed
 - `Romans 2 mt 23 col 3 eph 2.txt` — Same (archive version)
 - `Gen 29 - depravity of man.txt` — Genesis 29:3-15 — Romans 14:23: even charitable giving without faith is sin; Bill Gates and Melinda's billions — sin; Mother Teresa's sacrifice — sin if not from faith; "virtue" that does not flow from glad submission to God is evil in God's sight (Piper)
+- `John 12.txt` — John 12:1-8 — John Wesley doing everything for God — orphanages, prison ministry, hospital visits, itinerant preaching — then realizing years in that he was lost and bound for hell; the Judas pattern: near Christ for social and earthly benefits; American Christianity statistics: what 73% claiming to be Christians actually believe
 
 ### Idolatry / False Gods / Politics as Idol
 - `Jeremiah 17.txt` — Jeremiah 17:1-18 — Idol of politics
@@ -811,6 +812,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - What Survives the Fire.md` — 1 Cor 3:10-15 — 168-hour weekly time audit; checkbook reveals priorities; entertainment vs. kingdom investment; "show me how you spend your money, I'll show you your priorities" (lines 42-60)
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Tipping as Christian witness; fake $20 tracts without real tips; "saving $20 is not worth giving Christ a black eye" (line 116)
 - `Sermon - The List I Burned.md` — 1 Thess 3:12-4:8 — Tipping (recurring); waitresses hate Sundays; Grandma Baker the waitress; charging servers to serve you (lines 96-97)
+- `John 12.txt` — John 12:1-8 — Mary's nard worth a year's wages poured out without calculation; "she knew she owed more to Christ than she could ever repay"; John Wesley doing everything for God before realizing he was lost; the checkbook of your life — does it look like Mary or Judas?
 
 ### Thanksgiving / Gratitude
 - `thanksgiving 2017.txt` — Ephesians 5:4 — Thankfulness
@@ -838,6 +840,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Psalms 100.txt` / `Psalms 100(2).txt` — Psalm 100 — Serving with gladness
 - `psalms 84...txt` (multiple) — Psalm 84 — Dwelling in God's presence
 - `Imagine tomorrow was your anniversary.txt` — Worshipping from love not obligation
+- `John 12.txt` — John 12:1-8 — Mary's total, uncalculated worship vs. Judas's transactional religion; Charles Wesley: "Love's grand munificence counts not the cost"; "Is your heart full of adoration for the Lord?"
 
 ---
 
