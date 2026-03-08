@@ -385,7 +385,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | 1 Peter 1:1-3 | Elect exiles and identity in Christ | `1 peter 1 2.txt` | sermon |
 | 1 Peter 1:1-end | Election, promises, and perseverance | `1 peter 1(b).txt` | sermon |
 | 1 Peter 1:3-8 | Trials are not always punishment from God | `1 peter 1 pt3.txt` | sermon |
-| 1 Peter 1:13-end | Parental spiritual legacy and holiness | `1 peter 1 - legacies.txt` | sermon |
+| 1 Peter 1:13-end | Parental spiritual legacy and holiness | `Sermon - Legacies.md` / `1 peter 1 - legacies.txt` | sermon |
 | 1 Peter 1 (final) | Holiness and obedience under persecution | `1 Peter 1 final week.txt` | sermon |
 | 1 Peter 2:1-12 | Longing for pure spiritual milk | `1 peter 2.txt` | sermon |
 | 1 Peter 3:8-18 | Biblical brotherly love and blessings | `1 peter 3 brotherly love.txt` | sermon |
