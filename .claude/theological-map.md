@@ -635,6 +635,12 @@ Scripture is complete. No additional revelations needed (contra LDS, JW, NAR). *
 
 This is a governing hermeneutical principle, applied against NAR, Bethel, and charismatic excesses. **Explicit. Tradition: Cessationist, Reformed.**
 
+#### Divine Design of Scripture for Oral Transmission
+The Genesis 1–2 sermon argues that the Hebrew chiasm and step-by-step repetition in Genesis 1 are not merely literary features but evidence of divine foreknowledge: God knew how oral tradition societies remember and structured the creation account so it could be passed down "for oodles of generations" without corruption. This is an apologetic argument for inspiration grounded in cognitive anthropology. **Explicit. Tradition: Conservative Evangelical / Inerrancy.**
+
+> "God knew how oral tradition societies worked. He knew how we remember. He told the story, and inspired the writing of it, in a way that would resist corruption across thousands of years."
+> — `Gen 1-2 - beautiful but not safe.txt`
+
 #### Preservation of Scripture — Masoretes and Textual Transmission
 > "The Masoretes actually dedicated their entire lives to carefully and methodically creating precise copies of these documents."
 > — `sola scriptura.txt`
@@ -1000,7 +1006,7 @@ The following doctrines lack sufficient evidence in the corpus to map a firm pos
 |----------|-------------|-------------------|
 | **Millennium** | Self-described "pan-millennialist" (Titus 2 pt 2). Futurist reading of Matthew 24 leans premillennial ("beginnings of the birthpangs"). But deliberately non-committal. | Pre-mill, post-mill, or amill commitment |
 | **Covenant theology vs. progressive covenantalism** | 1689 LBCF is the confessional standard, Lord's Day treated as non-binding — suggesting 1689 Federalism or progressive covenantalism rather than strict WCF covenant theology. But no sermon explicitly maps the covenantal framework. | Precise covenantal position |
-| **Creation / age of the earth** | God created. Christ sustains. No sermon in the corpus addresses the age of the earth, young-earth vs. old-earth, or the creation/evolution debate directly. | Young-earth / old-earth / framework hypothesis |
+| **Creation / age of the earth** | God created. `Gen 1-2 - beautiful but not safe.txt` argues for a literal-historical reading of Genesis 1-2 while acknowledging the Hebrew chiasm as poetry within history. Explicitly rejects Gap Theory. Anthropic principle treated as evidence for design (Romans 1 2024). Estimates creation/early earth at "five to ten thousand years" — suggests young-earth sympathies without a full defense. No sermon addresses the creation/evolution debate, radiometric dating, or framework hypothesis. | Whether young-earth commitment is firm or soft; old-earth / framework hypothesis compatibility |
 | **Church government structure** | Baptist. Congregational governance. Regenerate membership. But no sermon explicitly outlines elder-led congregationalism vs. single-pastor model vs. plurality of elders. | Precise polity model beyond congregationalism |
 | **Divorce and remarriage** | Abuse victims counseled to seek safety. No sermon maps out a full divorce-and-remarriage theology. | Specific exceptions and boundaries |
 | **Israel and the church** | Romans 9-11 teaches the remnant, grafting in of Gentiles, future hope for Israel. But no sermon explicitly resolves whether this implies a future mass conversion of ethnic Israel or is fulfilled in the church. | Specific Israel eschatology |

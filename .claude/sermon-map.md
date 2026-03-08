@@ -72,6 +72,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Genesis 1–2 | Gap Theory refuted; Hebrew chiasm in creation week; creation reflects God; Sabbath; beautiful but not safe; Aunt Judy; gospel invitation | `Gen 1-2 - beautiful but not safe.txt` | sermon |
 | Genesis 3:1-6 | Importance of Scripture; danger of trusting self over God | `Gen 3.txt` | sermon |
 | Genesis 11 | Tower of Babel; self-reliance vs trusting God | `Gen 11 - thru the bible in a year.txt` | sermon |
 | Genesis 37 | Joseph as a type of Christ | `Sermon 2 gen 37 joeseph.txt` | sermon |
@@ -517,6 +518,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `1 peter 1 pt3.txt` — 1 Peter 1:3-8 — Trials are not always punishment
 - `Neh 1.txt` — Nehemiah 1 — Brokenness and prayer
 - `Heb 12.txt` — Hebrews 12:3-17 — God's discipline as training
+- `Gen 1-2 - beautiful but not safe.txt` — Genesis 1–2 — Aunt Judy: schizophrenia, institutionalized, stowed away to Europe, became missionary to a halfway house; following Christ is not always safe but guarantees eternity
 
 ### Children / Parenting / Legacy
 - `1 peter 1 - legacies.txt` — 1 Peter 1:13-end — Parental spiritual legacy
@@ -543,6 +545,11 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 1.md` — Romans 1:18-24 — Unitarian Universalism
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Mediums; Wicca; psychics in Pasco; papal false authority
 - `Sermon - The Magnet on the Compass.md` — 1 Samuel 17 — Prosperity gospel critiqued: "speak it into existence and you've basically manipulated God"; getting a promotion ≠ defeating Goliath; Spurgeon: "If he was pleased to bruise and crush his Son for his glory, how can we expect him to treat us better?" (lines 64-70)
+- `Gen 1-2 - beautiful but not safe.txt` — Genesis 1–2 — Gap Theory refuted; no "oops, let's start over" in Genesis; God called it very good
+
+### Creation / Nature / God Revealed in the World
+- `Gen 1-2 - beautiful but not safe.txt` — Genesis 1–2 — Hebrew chiasm in creation week (days 1-3 dividing, days 4-6 filling); oral tradition mnemonic argument for repetition; creation reflects God's image; Moon Lake still-water reflection illustration; grandmother's paintings illustration; creation beautiful but not safe (mountains, Grand Canyon, Gulf, tropical storms); C.S. Lewis Aslan: "Not safe, but he is good"
+- `Romans 1 (2024).md` — Romans 1:18+ — Anthropic principle; fine-tuning argument; God revealed in creation
 
 ### Death / Funeral / Comfort
 - `Ecclesiastes 3 Ann Burdette Funeral.txt` — Funeral for Ann Burdette
@@ -559,6 +566,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `mark 10 - sun june 2nd.txt` — Mark 10:32-45 — Discipleship posture
 - `Following Christ - dilligence.txt` — Mark 10:32-45 — Diligence in following
 - `Romans_6b_with_boulder.md` — Romans 6:15-23 — Whose slave are you?
+- `Gen 1-2 - beautiful but not safe.txt` — Genesis 1–2 — Following God is not safe in this life but guarantees eternity; Aunt Judy's surrender: "wherever you want me, Lord, I'll go"
 
 ### Election / Sovereignty / Predestination
 - `acts 13 - BFM Grace.txt` — Acts 13:48; Rom 8:29-30 — Doctrines of grace
@@ -714,6 +722,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon 2 gen 37 joeseph.txt` — Genesis 37 — Joseph as type of Christ
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-2 — Election (*eklektos* word study); foreknowledge of God; John 6:44 "no one can come unless the Father draws him"; Romans 9:22-25 vessels of mercy (lines 34-56)
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — God's patience confused with God losing; "the story's conclusion had already been written — spoiler alert, God wins!" (line 15)
+- `Gen 1-2 - beautiful but not safe.txt` — Genesis 1–2 — God's providence over Aunt Judy: failed by doctors, led to Europe, found researcher, healed; the missionary hidden in a halfway house; God's purposes not always legible in the moment
 
 ### Racial Reconciliation / Unity
 - `Cultural Marxism.txt` — Romans 10:12-13 — Biblical racial equality
@@ -728,6 +737,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `psalms 1 (12-5-19).txt` / `psalms 1 3-15-25...txt` — Psalm 1 — Neglecting scripture
 - `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — The Word of God as the seawall; "follow the pattern of the sound words"; guard the good deposit; Scripture washes politics and discourse (line 55)
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Scripture has a "washing effect"; have them read it aloud; the sufficiency of Scripture vs. the Pope's chair (lines 69, 151-155)
+- `Gen 1-2 - beautiful but not safe.txt` — Genesis 1–2 — God inspired Scripture knowing how oral tradition societies remember; the mnemonic structure of Genesis 1 as evidence of divine authorship across time; Scripture as love letter God defended
 
 ### Salvation / Conversion / New Birth
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Deathbed conversion; grace
@@ -747,6 +757,10 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Manatee Creek Sheep.txt` — (sheep breeding, but useful for shepherd illustrations)
 - `psalms 23 pt 2.txt` — Rod and staff; goodness and mercy
 - `John 10.txt` — John 10:7-11 — Wicket gate; good shepherd
+
+### Sabbath / Rest
+- `Gen 1-2 - beautiful but not safe.txt` — Genesis 1–2 — God rested as example for man, not because he was tired; Sabbath made for man not man for Sabbath; day doesn't matter, rest and God do; Scripture as morning washing of the soul
+- `The Lords day romans 14 gal 4.md` — Romans 14; Galatians 4 — Lord's Day as conscience, not command; legalism vs. antinomianism on Sabbath observance
 
 ### Sin / Depravity / The Fall
 - `Gen 3.txt` — Genesis 3:1-6 — The fall; trusting self over God
@@ -808,9 +822,9 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 - **Romans series manuscripts**: 20+ files (primary series)
 - **Onboarding sermons**: 9 (special messages indexed across thematic categories)
-- **Archive sermons**: ~160 sermons/teachings
+- **Archive sermons**: ~161 sermons/teachings
 - **Memorial services**: 5
 - **Non-sermon files**: ~20
 - **Bible books covered**: 40+ (Genesis through Revelation)
 - **Total unique passages preached**: 150+
-- **Thematic categories**: 32
+- **Thematic categories**: 34
