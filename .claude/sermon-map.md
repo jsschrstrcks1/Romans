@@ -82,6 +82,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Acts 13:48; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8 | Out of the Cistern | `Sermon - Out of the Cistern.md` | BFM Article 5 (Grace/Election); sovereign election; man contributes only the sin that made salvation necessary; Brahmin of Nepal people group |
 | Acts 2:1-9, 36-40 | Clowns Entertaining the Goats | `Sermon - Clowns Entertaining the Goats.md` | BFM Article on Holy Spirit; BFM series; tongues; Lakeland Revival critique; spiritual maturity; Lampung Pesisir people group |
 | Romans 14:1-12; Galatians 4:8-20 | The Lord's Day | `Sermon - The Lord's Day.md` | BFM Article 8; Lord's Day; Sabbath; legalism; antinomianism; grace as middle ground; John Owen; Sinclair Ferguson; Meo of Pakistan people group |
+| Matthew 13:44 | The Kingdom of God | `Sermon - The Kingdom of God.md` | BFM Article IX; Kingdom defined (Ps 103:19); omniscience/omnipresence/omnipotence; Tozer; already and not yet (Piper); Westminster Shorter Catechism chief end of man; evangelism and discipleship; Christ's cross over throne; Qassab of Pakistan people group |
 
 ---
 
