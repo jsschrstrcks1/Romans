@@ -336,6 +336,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Philippians 1:1-3 | Paul's response to persecution; Nero's Rome; grace and peace; doulos | `Sermon - Grace and Peace.md` | sermon (outline) |
 | Philippians 1:27-2:16 | Manner of life worthy of the gospel | `phil 2.txt` | sermon |
 | Philippians 3:1 | Rejoicing and God's sovereignty | `Philippians 3 - 2025.txt` | sermon |
 | Philippians 4:4-7 | Stress, anxiety, and rejoicing in the Lord | `Philipians 4.txt` | sermon |
