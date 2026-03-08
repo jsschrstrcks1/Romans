@@ -372,6 +372,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Ephesians 2 | Theological anthropology; depravity of man | `vbs 2019.md` | sermon |
 | Ephesians 5:4 | Thankfulness to God for creation and salvation | `thanksgiving 2017.md` | sermon |
 | Ephesians 5:4; Genesis 22 | Thanksgiving; smashing idols; Abraham and Isaac | `thanksgiving 2018.md` | sermon |
+| Ephesians 5:4 | Shorter Thanksgiving service; gratitude vs. bitterness; citation from Piper article (source unverified); congregational prayer; pastoral illustration on condescension and idol-smashing | `thanksgiving eph 5.md` | sermon |
 
 ### Philippians
 
