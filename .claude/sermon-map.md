@@ -380,6 +380,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Philippians 1:1-3 | Paul's response to persecution; Nero's Rome; grace and peace; doulos | `Sermon - Grace and Peace.md` | sermon (outline) |
 | Philippians 1:27-2:16 | Manner of life worthy of the gospel | `phil 2.md` | sermon |
 | Philippians 3:1 | Rejoicing and God's sovereignty | `Philippians 3 - 2025.md` | sermon |
+| Philippians 3:1-12 | Sola Gratia; Paul's résumé as refuse; Luther; indulgences; BFM Article V; total depravity; Ephesians 2 summary; John 6:44, 65; Jonathan Edwards and Billy Sunday quotes; James Petigru Boyce [attribution flagged] | `sola gracia phil 3.md` | sermon |
 | Philippians 4:4-7 | Stress, anxiety, and rejoicing in the Lord | `Philipians 4.md` | sermon |
 
 ### Colossians
@@ -474,6 +475,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 |---|---|---|---|
 | Five Solas: Sola Scriptura | 2 Timothy 3:13-17 | `sola scriptura.md` / `Sola Scriptura 24.md` | sermon |
 | Five Solas: Sola Gratia | John 6:43-65 | `sola gracia.md` / `sola gracia 2021.md` | sermon |
+| Five Solas: Sola Gratia | Philippians 3:1-12 | `sola gracia phil 3.md` | sermon |
 | Five Solas: Solus Christus | 1 Timothy 2:1-7 | `Sola Christus.md` | sermon |
 | Five Solas: Sola Deo Gloria | Matthew 13:1-9 | `Sola Deo Gloria mt 13.md` | sermon |
 | Theology Proper (God) | Various | `Theology Proper.md` | teaching |
@@ -617,6 +619,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `acts 13 - BFM Grace.md` — Acts 13:48; Rom 8:29-30 — Doctrines of grace
 - `John 5.md` — John 6:29-60 — Irresistible grace; sovereign election
 - `sola gracia.md` / `sola gracia 2021.md` — John 6:43-65 — Grace alone
+- `sola gracia phil 3.md` — Philippians 3:1-12 — Grace alone; Paul's résumé as refuse; Luther; total depravity
 - `Romans 9 pt 2.md` / `Romans 9 Pt 3.md` — Romans 9 — Potter and clay; mercy
 - `Romans 11 - The Remnant of Grace.md` — Romans 11:1-10 — Remnant; foreknew = fore-love
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Why one thief and not the other
@@ -656,6 +659,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 ### Five Solas / Reformation
 - `sola scriptura.md` / `Sola Scriptura 24.md` — 2 Timothy 3 — Scripture alone
 - `sola gracia.md` / `sola gracia 2021.md` — John 6 — Grace alone
+- `sola gracia phil 3.md` — Philippians 3:1-12 — Grace alone; Paul's résumé as refuse; Luther and indulgences
 - `Sola Christus.md` — 1 Timothy 2:1-7 — Christ alone
 - `Sola Deo Gloria mt 13.md` — Matthew 13:1-9 — Glory of God alone
 - `Romans 10.md` — Romans 10:1-13 — Five Solas; Luther; Reformation
@@ -674,6 +678,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 11 - The Remnant of Grace.md` — Romans 11:1-10 — Grace leaves no room for works
 - `Leprosy - naaman - 2kings 5.md` — 2 Kings 5 — Naaman; grace through obedience
 - `sola gracia.md` / `sola gracia 2021.md` — John 6 — Grace alone
+- `sola gracia phil 3.md` — Philippians 3:1-12 — Grace alone; Paul's résumé as refuse; total depravity
 
 ### Hell / Judgment / Wrath
 - `rev 20.md` — Revelation 20:11-15 — Horrors of hell
