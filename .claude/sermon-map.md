@@ -441,6 +441,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Christian Science | John 14:1-7 | `Christian science...txt` | teaching |
 | Cultural Marxism | Romans 10:12-13 | `Cultural Marxism.txt` | teaching |
 | Evangelism / Missions | Mt 28; Rom 15; Rev 7 | `Evangelism.txt` / `evangelism...txt` | sermon |
+| God's Aseity / Missions / Hell | Mk 9:48-49; Is 66:24; 66:24; 2 Pet 2:17; Mt 24:51; 13:49-50; Is 59:2 | `Missions and Hell - why it matters.txt` | sermon |
 | Adoption (Theology) | Galatians 3-4 | `Adoption.txt` / `adoption - gal 3.txt` | sermon |
 
 ---
@@ -603,6 +604,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sunday school notes week 2.txt` — 1 Cor 13:8-10; John 10:27-28 — Cessation; eternal security
 
 ### Evangelism / Missions / Great Commission
+- `Missions and Hell - why it matters.txt` — thematic — Most concentrated missions sermon in corpus: IMB director in Indonesia (Tozer/aseity moment); 2 billion unreached, 6,000 people groups; Yemen (entire Christian population fits in one room); Piper: "missions exists because worship doesn't"; Orlando CMA 2.5m people, 3% believers (~75,000); Disney drew ~70M/year from unreached nations; Afghanistan avg income $410/yr; Ashraf Ghani's son Tariq at Valencia College, Orlando (per Stephen Davey); 30 mosques in Orlando; 54,000/day through Tampa International; pastor who refused to evangelize Muslims; transitions to full hell section (Mk 9:48-49; Is 66:24; 2 Pet 2:17; Mt 24:51; 13:49-50; Is 59:2)
 - `We need a shepherd psalms 23.txt` — Psalm 23 — 2009 UK Muslim missionary work: encrypted laptop (128-char password), Pakistani/Afghan immigrant communities, "what the state wants the state gets" — God's providence protected every contact
 - `Evangelism.txt` — Matthew 28:18-20 — Great Commission
 - `MT 28.txt` — Matthew 28:16-20 — Great Commission and evangelism
@@ -650,6 +652,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Jonah 4 - God is in control.txt` — Jonah 4 — God merciful to whomever he wants, especially those who don't deserve it; Paul (murderer) and David (murderer, adulterer) as examples; "God meets us where we are, not where we think he wants us to be"; grace extended to Israel's worst enemies
 
 ### Hell / Judgment / Wrath
+- `Missions and Hell - why it matters.txt` — thematic — Most detailed sensory description of hell in corpus: Mk 9:48 (worm/fire); Mk 9:49 (salted with fire; sulfur/brimstone burns blue); Is 66:24 (worm/maggot — never dies, never satisfied); 2 Pet 2:17 (utter darkness reserved — cave with lights off, eyes never adjust); Mt 24:51 (weeping/gnashing of teeth — only sounds in hell); Mt 13:49-50 (fiery furnace); Is 59:2 (sin as the reason — separation from God is the point)
 - `rev 20.txt` — Revelation 20:11-15 — Horrors of hell
 - `Romans 3 - wrath of God (final).md` — Romans 3 — God's wrath; holiness
 - `romans 3 - the wrath of God.txt` — Romans 3 — Wrath (earlier version)
@@ -740,6 +743,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Neh 1.txt` — Nehemiah 1 — Brokenness and prayer
 
 ### Providence / God's Sovereignty Over History
+- `Missions and Hell - why it matters.txt` — thematic — God's aseity (Tozer, *Knowledge of the Holy*): "God is not greater for our being, nor would He be less if we did not exist"; IMB director's arrogance moment ("I bet God is glad to have me on his team"); dad's threat ("I brought you into this world...") — God could actually do it; we are included not because He needs us but because He loves us enough to include us; fishing/horseback riding illustration
 - `Exodus 14 - red sea.txt` — Exodus 14:1-31 — God hardens Pharaoh's heart; sovereignty vs. free will; "if God can harden, he can soften"; God shaped the canyon and seafloor centuries before the event; he had the plan before they entered the situation
 - `Ezra 4 and 6.txt` — Ezra 4-6 — God's sovereignty over nations
 - `Romans 1 (2024).md` — Romans 1:18+ — Anthropic principle; fine-tuning
@@ -854,7 +858,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 - **Romans series manuscripts**: 20+ files (primary series)
 - **Onboarding sermons**: 9 (special messages indexed across thematic categories)
-- **Archive sermons**: ~164 sermons/teachings
+- **Archive sermons**: ~165 sermons/teachings
 - **Memorial services**: 5
 - **Non-sermon files**: ~20
 - **Bible books covered**: 40+ (Genesis through Revelation)
