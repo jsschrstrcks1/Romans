@@ -84,8 +84,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 |---|---|---|---|
 | Exodus 2:23; Psalm 115:4 | God hears, sees, knows, acts against idolatry | `Exodus 2.txt` | sermon |
 | Exodus 5:22-6:13 | Discouragement; asking God why; trusting Him | `ex 6-7.txt` | sermon |
-| Exodus 14:1-10 | Red Sea crossing with archaeological evidence | `Exodus 14.txt` | sermon |
-| Exodus 14:1-31 | Red Sea crossing with geography and deepening faith | `exodus 14 - red sea.txt` | sermon |
+| Exodus 14:1–31 | Red Sea crossing; divine sovereignty over hardened hearts; crucible of faith; archaeological context (Nuweiba — disputed) | `Exodus 14 - red sea.txt` | sermon |
 
 ### 1 Samuel
 
@@ -505,6 +504,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Apologetics / Resurrection Defense
 - `Luke 23 32ff - two thieves.txt` — Luke 23:32-43 — Most concentrated apologetics treatment in the corpus: swoon theory refuted (JAMA; professional executioners; blood and water from spear wound); liar/lunatic/Lord argument; 500 witnesses; mass hallucination impossible per atheist psychologists; Louis Slotin / Vandeman illustration of substitutionary sacrifice
+- `Exodus 14 - red sea.txt` — Exodus 14:1-31 — Archaeological context for Red Sea crossing: Nuweiba crossing site, "Nuweiba al Muzayyinah" place-name, Solomon's pillars, chariot remains in coral (claims associated with Ron Wyatt expeditions — disputed by mainstream and some Christian archaeologists; archived as historical document)
 
 ### Atonement / Cross / Substitution
 - `is 53.txt` — Isaiah 53 — Suffering servant prophesied
@@ -524,6 +524,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Catholicism.txt` — Romans 3-5; Eph 2:8-9 — Catholic vs Protestant justification
 
 ### Brokenness / Weakness / Suffering
+- `Exodus 14 - red sea.txt` — Exodus 14:1-31 — Crucible of faith: unarmed civilians facing the full Egyptian army; hammer/anvil/iron illustration; counselor story (eating disorder, patient suicide, negligence trial, rat poison, deathbed gospel conversion after 20 years of hardship); roller coaster: feeling out of control while actually safe in God's hands
 - `2 cor 12.txt` — 2 Corinthians 12:7-10 — Theology of weakness
 - `IS 43 anti-prosperity gospel.txt` — Isaiah 43 — Against prosperity gospel; suffering
 - `1 peter 4.txt` — 1 Peter 4:1-11 — Arming with Christ's attitude in suffering
@@ -736,6 +737,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Neh 1.txt` — Nehemiah 1 — Brokenness and prayer
 
 ### Providence / God's Sovereignty Over History
+- `Exodus 14 - red sea.txt` — Exodus 14:1-31 — God hardens Pharaoh's heart; sovereignty vs. free will; "if God can harden, he can soften"; God shaped the canyon and seafloor centuries before the event; he had the plan before they entered the situation
 - `Ezra 4 and 6.txt` — Ezra 4-6 — God's sovereignty over nations
 - `Romans 1 (2024).md` — Romans 1:18+ — Anthropic principle; fine-tuning
 - `2 kings 25.txt` — 2 Kings 25 — Trusting God over your own heart
