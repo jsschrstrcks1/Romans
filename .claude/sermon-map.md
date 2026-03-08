@@ -161,7 +161,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 34 | Acrostic structure; fear of the Lord; long life | `Psalms 34.txt` | sermon |
 | Psalm 46 | God as refuge and fortress | `Psalm 46.txt` | sermon |
 | Psalm 56 | Is Jesus worth it; Pilgrim's Progress | `psalm 56.txt` | sermon |
-| Psalm 63:1-8 | Thirsting for God; worship in the wilderness | `psalms 63.txt` | sermon |
+| Psalm 63:1-8 | David hunted by Absalom; family tragedy (Amnon, Tamar, Absalom); Steven Curtis Chapman / Maria / Will; Emily's "what did you say?"; thirsting for God (Insanity of God illustration); Hebrews 12:2; satisfaction leading to more worship; shadow of wings — mother bird (guinea hens vs. black mamba) or cherubim (Ezekiel 1 and 10); motorcycle school (3-degree vision); God sends his best when we're at our worst | `psalms 63.txt` | sermon |
 | Psalm 68:1-4 | Power of God; nothing too difficult | `Psalms 68 (2).txt` | sermon |
 | Psalm 75 / 1 Peter 1:13+ | God's judgment and holiness | `Psalms 75.txt` | sermon |
 | Psalm 78:1-8 | Remembering God's deeds; teaching children | `psalm 78.txt` | sermon |
@@ -525,6 +525,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Neh 1.txt` — Nehemiah 1 — Brokenness and prayer
 - `Heb 12.txt` — Hebrews 12:3-17 — God's discipline as training
 - `Gen 1-2 - beautiful but not safe.txt` — Genesis 1–2 — Aunt Judy: schizophrenia, institutionalized, stowed away to Europe, became missionary to a halfway house; following Christ is not always safe but guarantees eternity
+- `psalms 63.txt` — Psalm 63:1-8 — David at his absolute lowest, hunted by his own son; Steven Curtis Chapman / Maria / Will; Emily's "what did you say?" gospel bridge; worship without complaint in the wilderness
 
 ### Children / Parenting / Legacy
 - `1 peter 1 - legacies.txt` — 1 Peter 1:13-end — Parental spiritual legacy
@@ -566,6 +567,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `psalm 23 1-4..txt` — Psalm 23:1-4 — Shadow of death
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Judy Ayers memorial; death as homecoming
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — New Year's Eve car accident; fragility of life
+- `psalms 63.txt` — Psalm 63:1-8 — Steven Curtis Chapman: Will backing over Maria; Stephen running after the car screaming "Will — I love you"; Emily's engagement / "what did you say?" as gospel invitation at Maria's funeral
 
 ### Discipleship / Cost of Following Christ
 - `Luke 9 - cost of following christ.txt` — Luke 9:57-62 — Cost vs prosperity gospel
@@ -611,7 +613,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Luke 8.txt` — Luke 8 — Calming the storm; trusting God
 - `Heb 3.txt` — Hebrews 3:12-4:16 — Rest in the Lord
 - `Fifteen.txt` — John 11:1-16 — Trusting God through silence
-- `psalms 63.txt` — Psalm 63:1-8 — Thirsting for God
+- `psalms 63.txt` — Psalm 63:1-8 — Thirsting for God; David hunted by Absalom; satisfaction in God leading to deeper worship; sleepless watches in meditation; God sends his best when we're at our worst
 - `Mark 5.txt` — Mark 5:21-end — Jairus's daughter and faith
 
 ### Five Solas / Reformation
@@ -748,6 +750,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — The Word of God as the seawall; "follow the pattern of the sound words"; guard the good deposit; Scripture washes politics and discourse (line 55)
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Scripture has a "washing effect"; have them read it aloud; the sufficiency of Scripture vs. the Pope's chair (lines 69, 151-155)
 - `Gen 1-2 - beautiful but not safe.txt` — Genesis 1–2 — God inspired Scripture knowing how oral tradition societies remember; the mnemonic structure of Genesis 1 as evidence of divine authorship across time; Scripture as love letter God defended
+- `psalms 63.txt` — Psalm 63:1-8 — The Insanity of God: believers weeping over and tearing apart a Bible to share it; Americans who have full copies and tune them out; prosperity breeds contempt for Scripture; Hebrews 12:2 as the corrective — keep your eyes on Jesus
 
 ### Salvation / Conversion / New Birth
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Deathbed conversion; grace
