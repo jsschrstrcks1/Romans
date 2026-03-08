@@ -158,6 +158,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 24 | Clean hands; pure hearts; idolatry and integrity | `psalms 24.txt` | sermon |
 | Psalm 34 | Acrostic structure; fear of the Lord; long life | `Psalms 34.txt` | sermon |
 | Psalm 46 | God as refuge and fortress | `Psalm 46.txt` | sermon |
+| Psalm 46 / 2 Chronicles 20 | Jehoshaphat's battle; Luther and the Reformation; Five Solas; you and God are the majority | `Sermon - A Mighty Fortress.md` | sermon |
 | Psalm 56 | Is Jesus worth it; Pilgrim's Progress | `psalm 56.txt` | sermon |
 | Psalm 63:1-8 | Thirsting for God; worship in the wilderness | `psalms 63.txt` | sermon |
 | Psalm 68:1-4 | Power of God; nothing too difficult | `Psalms 68 (2).txt` | sermon |
