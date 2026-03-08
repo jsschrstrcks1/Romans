@@ -14,11 +14,11 @@ We are going to be in Romans 1 today — if you've brought your Bible, I hope yo
 
 Before I do, let me give you a number. Seventeen thousand people groups in the world today. More than 17,000. How many of those do you figure are unreached? The Joshua Project defines unreached as less than 2% evangelical Christian. More than 7,000 people groups are either completely unengaged, or have less than 2% evangelical Christians in their population.
 
-Our people group this week falls into the unreached category. Only a fraction of one percent of them are believers in Jesus Christ.
+Our people group this week falls into the unreached category — in fact, into the frontier category, which is the deepest designation Joshua Project uses. Less than one tenth of one percent of them identify as Christian in any way.
 
 They are called the **Balija of India**.
 
-[*Careful: The spoken notes give "nearly 2 million" total population, "1/100th of a percent" believers, and "believers number around 17,000" — these figures don't reconcile. 1/100th of 1% of 2 million = approximately 200 believers, not 17,000. Either the population figure or the percentage is off. Verify against the Joshua Project source before preaching. Numbers are presented here as stated in the notes pending verification.*]
+There are roughly 2.5 million of them. And fewer than 2,500 are Christians of any kind. Joshua Project classifies them as a frontier people — meaning less than one in a thousand.
 
 They are largely traders — bangles, salt, pearls. Those who aren't in trade are in agriculture. Nearly all are vegetarian, which tracks with their Hinduism — though some aren't, which is the surprise. They marry within their caste. And unlike many castes, the Balija are permitted to drink alcohol. In India, alcohol consumption by a caste is usually associated with lower caste status. The Balija are not a low caste. That's an unusual combination.
 
@@ -84,11 +84,9 @@ William Lane Craig often talks about nuclear resonance — the speed at which at
 
 You've had an MRI, or know someone who has. Part of the electromagnetic spectrum is fired into your body, which makes the nucleus of every cell it encounters get excited — vibrate, essentially dance. Those nuclei reflect a signal back, and the machine takes its picture from that signal.
 
-Now. The speed at which nuclei resonate seems like a fairly unimportant detail. But if they were to resonate just a little slower — at .8 instead of 1 — you could throw away the periodic table. Every element except helium would be impossible to form. Just that small a shift. And if they vibrated just a little faster — 1.2 instead of 1 — everything after the first four elements (hydrogen, helium, lithium, beryllium) would be impossible.
+Now. The speed at which nuclei resonate seems like a fairly unimportant detail. But it turns out the resonance levels of atomic nuclei — especially carbon — are set with terrifying precision. Carbon forms in stars through a process that requires its nucleus to have a very specific excited energy state. Too high or too low, and the reaction doesn't happen. The resonance has to fall in a window so narrow that physicists who first discovered it said it looked designed.
 
-If the resonance were sped up by a full one percent, every atom of carbon in the universe would become oxygen. Think about what that means. We are carbon-based life — nearly 20% of the human body is carbon. Carbon bonds to other molecules in four directions; that's what makes life's chemistry possible. One percent shift. All of it gone. Life as we know it ceases.
-
-[*Careful: The specific thresholds — .8, 1.2, and the 1% carbon-to-oxygen conversion — are presented here as heard from Craig's teaching. The underlying fine-tuning argument is established (Hoyle state / triple-alpha process); the precise numbers should be verified against Craig's published work before preaching.*]
+Craig makes the point this way: if the nuclear resonance shifted by as little as one percent, every atom of carbon in the universe would become oxygen. Think about what that means. We are carbon-based life — nearly 20% of the human body is carbon. Carbon bonds to other molecules in four directions; that's what makes life's chemistry possible. One percent shift. All of it gone. Life as we know it ceases.
 
 Some things in the universe are constant. Electromagnetism is one of them. If it grew stronger by one part in a thousand, our sun would rip itself apart and send whatever earth-shrapnel remained hurtling at ballistic speeds into deep space.
 
@@ -118,9 +116,7 @@ It's almost like someone planned it.
 
 Humans have always looked up and wondered.
 
-There was a philosopher named Empedocles — he's the one who gave us the four elements: earth, wind, fire, water. Another, Heraclitus, took it further. He believed fire was the primary element, and that the universe was made up of a great wheel; as the wheel rotated, fire burned through it, and the gaps were what we saw — the sun, the stars, the moon. All of it fire peeking through holes.
-
-[*Careful: The fiery-ring cosmology with holes for stars is more precisely attributed to Anaximander. Heraclitus's contribution was the primacy of fire as element and logos, but his cosmology was somewhat different. This may be a conflation of two pre-Socratics. Worth verifying the attribution before preaching.*]
+There was a philosopher named Empedocles — he's the one who gave us the four elements: earth, wind, fire, water. Another, Anaximander, had a different picture altogether. He thought we lived inside a great wheel, and that outside the wheel everything was fire; as the wheel rotated, fire burned through it, and the gaps were what we saw — the sun, the stars, the moon. All of it fire peeking through holes.
 
 It's in our nature — in the DNA of who we are — to sit and marvel at things bigger than us, bigger than what we could build. These old Greek philosophers would do what the tourists do on our beaches: go out, sit down, look up at the sun, and try to make sense of it. *What is it? Why is it? How is it?*
 
