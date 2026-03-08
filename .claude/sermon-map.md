@@ -383,6 +383,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Titus 1:1–4 | Slavery as a picture of salvation; Hammurabi's Code vs. Mosaic Law slavery (humanitarian contrast); Greek/Roman improvements via Christian influence; Paul's use of *doulos* (slave, not servant — Anchor Yale Bible Dictionary); John 8:34 (slaves to sin); Jeremiah 17:9; Ecclesiastes 7:20; Tabletalk magazine — covenant of works; Eph 2 (we are corpses); 1 Cor 6:19-20 (bought at a price); Christ paid our slave debt; church sign "taking strangers, making family"; Clement of Alexandria c.195 | `Titus 1 - slavery.txt` | sermon |
 | Titus 2:11-14; Romans 5:8-10 | Christian hope in the second coming | `Titus 2 pt 2.txt` | sermon |
 | Titus 3:1–7 | Submission to authorities; political idolatry (SBC convention applause anecdote); Tim Keller on religion vs. gospel; cultural Christianity critique; Obama/Trump political commentary; Passover illustration (Smith and Brown — blood of the lamb, not faith intensity, saves); "I have no other argument, I need no other plea" hymn quote; gospel invitation | `Titus 3 - dumb laws.txt` | sermon |
 
@@ -516,6 +517,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Exodus 14 - red sea.txt` — Exodus 14:1-31 — Archaeological context for Red Sea crossing: Nuweiba crossing site, "Nuweiba al Muzayyinah" place-name, Solomon's pillars, chariot remains in coral (claims associated with Ron Wyatt expeditions — disputed by mainstream and some Christian archaeologists; archived as historical document)
 
 ### Atonement / Cross / Substitution
+- `Titus 1 - slavery.txt` — Titus 1:1–4 — Christ purchased our slave debt; we are slaves to sin (John 8:34) bought at a price (1 Cor 6:19-20); Eph 2 (we are corpses — we bring nothing to the table); every religion tries to balance cosmic scales; covenant of works (*Tabletalk*); Hebrew debtor slavery as OT picture of what God would do in Christ
 - `Thankfulness - 1 Thess 5.txt` — 1 Thess 5:16-18 — A. W. Pink on voluntary atonement (quoted twice, frames the whole sermon): "It was not the nails but the strength of His love to the Father and to His elect which held Him to the cross"; John 10:17-18 ("no one takes my life from me, I lay it down"); John 15:13 ("greater love has no one than this"); Matt 16:24 cross-bearing as willing public shame
 - `is 53.txt` — Isaiah 53 — Suffering servant prophesied
 - `Mk 14 - easter.txt` — Mark 14:41-50 — Judas's betrayal; Easter
@@ -811,6 +813,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `The Lords day romans 14 gal 4.md` — Romans 14; Galatians 4 — Lord's Day as conscience, not command; legalism vs. antinomianism on Sabbath observance
 
 ### Sin / Depravity / The Fall
+- `Titus 1 - slavery.txt` — Titus 1:1–4 — We are slaves to sin (John 8:34); Jeremiah 17:9 (heart deceitful above all things); Ecclesiastes 7:20 (no righteous man who never sins); covenant of works in Adam (*Tabletalk*); every religion reflects mankind's awareness of falling short; we bring nothing to the table but the sin that made salvation necessary; Eph 2 (corpse analogy)
 - `2 Tim 3 - heathens gonna heath.txt` — 2 Timothy 3:1-5 — Full catalogue of last-days sins exposited: lovers of self, lovers of money, proud, arrogant, abusive, disobedient to parents, ungrateful, unholy, heartless, unappeasable, slanderous, without self-control, brutal, not loving good, treacherous, reckless, swollen with conceit, lovers of pleasure, having the appearance of godliness; Genesis 6:5 (every intention of the heart evil); Calvin: perpetual factory of idols; True North compass metaphor; 56% of men not raising their kids
 - `Gen 3.txt` — Genesis 3:1-6 — The fall; trusting self over God
 - `hamartiology.txt` — Colossians 3:1-11 — Doctrine of sin
