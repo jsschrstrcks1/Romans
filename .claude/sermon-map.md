@@ -382,6 +382,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Philippians 1:27-2:16 | Manner of life worthy of the gospel | `phil 2.md` | sermon |
 | Philippians 3:1 | Rejoicing and God's sovereignty | `Philippians 3 - 2025.md` | sermon |
 | Philippians 3:1-12 | Sola Gratia; Paul's résumé as refuse; Luther; indulgences; BFM Article V; total depravity; Ephesians 2 summary; John 6:44, 65; Jonathan Edwards and Billy Sunday quotes; James Petigru Boyce [attribution flagged] | `sola gracia phil 3.md` | sermon |
+| Philippians 3:2–16 | Following hard after God; σκύβαλα (skubala); Spicq and Manning on Greek lexicography; Tozer on Abraham and idols of the heart; Piper compilation (Tozer, Bernard, Henry); H.B. Charles at Southeastern; William Cowper hymn; multiple citations flagged for verification | `phil 3 2-16 following hard after god.md` | sermon |
 | Philippians 4:4-7 | Stress, anxiety, and rejoicing in the Lord | `Philipians 4.md` | sermon |
 
 ### Colossians
@@ -415,6 +416,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 |---|---|---|---|
 | 2 Timothy 1 | Faithfulness under betrayal; fanning the gift; guarding the deposit | `2 Tim 1.md` | sermon |
 | 2 Timothy 3:13-17 | Scripture alone as ultimate authority | `sola scriptura.md` / `Sola Scriptura 24.md` | sermon |
+| 2 Timothy 3:13–17 | Sola Scriptura; 2020 election pastoral remarks; political idolatry; Luther on Scripture (4 quotes, sources unlocated); BFM Article I; Masoretes; Dead Sea Scrolls; Romans 13:1 cited in sermon as "Romans 12" (error noted in file); quote attributed to "Trevor Noah" flagged as probable misattribution (see file); pastor's claim that Catholic Church declared earth flat flagged as historically inaccurate (see file); Dead Sea Scrolls age figure flagged for correction (see file) | `2 tim 3 13-17 sola scriptura.md` | sermon |
 | 2 Timothy 3:14+ | Authority and sufficiency of Scripture | `2 tim 3.md` | sermon |
 | 2 Timothy 4:1-5 | Paul's charge to preach; Easter sermon | `Second Timothy 4.md` / `easter 2020...md` | sermon |
 
