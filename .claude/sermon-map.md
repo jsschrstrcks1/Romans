@@ -82,8 +82,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 |---|---|---|---|
 | Exodus 2:23; Psalm 115:4 | God hears, sees, knows, acts against idolatry | `Exodus 2.txt` | sermon |
 | Exodus 5:22-6:13 | Discouragement; asking God why; trusting Him | `ex 6-7.txt` | sermon |
-| Exodus 14:1-10 | Red Sea crossing with archaeological evidence | `Exodus 14.txt` | sermon |
-| Exodus 14:1-31 | Red Sea crossing with geography and deepening faith | `exodus 14 - red sea.txt` | sermon |
+| Exodus 14:1-31 | Red Sea crossing; archaeological context (Nuweiba); sovereignty; the crucible of faith | `Sermon - The Crucible.md` (sources: `Exodus 14.txt` complete, `exodus 14 - red sea.txt` partial draft) | sermon |
 
 ### 1 Samuel
 
