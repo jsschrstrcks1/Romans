@@ -82,8 +82,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 |---|---|---|---|
 | Exodus 2:23; Psalm 115:4 | God hears, sees, knows, acts against idolatry | `Exodus 2.txt` | sermon |
 | Exodus 5:22-6:13 | Discouragement; asking God why; trusting Him | `ex 6-7.txt` | sermon |
-| Exodus 14:1-10 | Red Sea crossing with archaeological evidence | `Exodus 14.txt` | sermon |
-| Exodus 14:1-31 | Red Sea crossing with geography and deepening faith | `exodus 14 - red sea.txt` | sermon |
+| Exodus 14:1-31 | Red Sea crossing; archaeological context (Nuweiba); sovereignty; the crucible of faith | `Sermon - The Crucible.md` (sources: `Exodus 14.txt` complete, `exodus 14 - red sea.txt` partial draft) | sermon |
 
 ### 1 Samuel
 
@@ -117,7 +116,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| Ezra 4:1-6; 6:2-end | God's sovereignty over nations and captivity | `Ezra 4 and 6.txt` | sermon |
+| Ezra 4:1-6; 6:2-end | God's sovereignty over nations and captivity | `Sermon - When God Is For Us.md` / `Ezra 4 and 6.txt` | sermon |
 
 ### Nehemiah
 
@@ -158,6 +157,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 24 | Clean hands; pure hearts; idolatry and integrity | `psalms 24.txt` | sermon |
 | Psalm 34 | Acrostic structure; fear of the Lord; long life | `Psalms 34.txt` | sermon |
 | Psalm 46 | God as refuge and fortress | `Psalm 46.txt` | sermon |
+| Psalm 46 / 2 Chronicles 20 | Jehoshaphat's battle; Luther and the Reformation; Five Solas; you and God are the majority | `Sermon - A Mighty Fortress.md` | sermon |
 | Psalm 56 | Is Jesus worth it; Pilgrim's Progress | `psalm 56.txt` | sermon |
 | Psalm 63:1-8 | Thirsting for God; worship in the wilderness | `psalms 63.txt` | sermon |
 | Psalm 68:1-4 | Power of God; nothing too difficult | `Psalms 68 (2).txt` | sermon |
@@ -221,6 +221,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Matthew 9:9-13 | Calling of Matthew; Roman tax system; sovereignty draws sinners; beauty for ashes | `Sermon - Beauty for Ashes.md` | sermon |
 | Matthew 5:2-11 | Meekness and the Beatitudes | `Mat 5.txt` | sermon |
 | Matthew 5 (salt/light) | Christians as salt and light | `Jesus calls us to be salt and light.txt` | teaching |
 | Matthew 5:13-16 | Christians and the social order (BFM article) | `article 15.txt` | teaching |
@@ -336,6 +337,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Philippians 1:1-3 | Paul's response to persecution; Nero's Rome; grace and peace; doulos | `Sermon - Grace and Peace.md` | sermon (outline) |
 | Philippians 1:27-2:16 | Manner of life worthy of the gospel | `phil 2.txt` | sermon |
 | Philippians 3:1 | Rejoicing and God's sovereignty | `Philippians 3 - 2025.txt` | sermon |
 | Philippians 4:4-7 | Stress, anxiety, and rejoicing in the Lord | `Philipians 4.txt` | sermon |
@@ -374,7 +376,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| Hebrews 3:12-4:16 | Rest in the Lord and accountability | `Heb 3.txt` | sermon |
+| Hebrews 3:12-4:16 | Rest in the Lord and accountability | `Sermon - Rest in the Lord.md` / `Heb 3.txt` | sermon |
 | Hebrews 11:1 / 1 John 4:18 | Fear as opposite of love; trusting God | `heb 11 - fear.txt` | sermon |
 | Hebrews 12:3-17 | God's discipline as training and refining | `Heb 12.txt` | sermon |
 
@@ -385,7 +387,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | 1 Peter 1:1-3 | Elect exiles and identity in Christ | `1 peter 1 2.txt` | sermon |
 | 1 Peter 1:1-end | Election, promises, and perseverance | `1 peter 1(b).txt` | sermon |
 | 1 Peter 1:3-8 | Trials are not always punishment from God | `1 peter 1 pt3.txt` | sermon |
-| 1 Peter 1:13-end | Parental spiritual legacy and holiness | `1 peter 1 - legacies.txt` | sermon |
+| 1 Peter 1:13-end | Parental spiritual legacy and holiness | `Sermon - Legacies.md` / `1 peter 1 - legacies.txt` | sermon |
 | 1 Peter 1 (final) | Holiness and obedience under persecution | `1 Peter 1 final week.txt` | sermon |
 | 1 Peter 2:1-12 | Longing for pure spiritual milk | `1 peter 2.txt` | sermon |
 | 1 Peter 3:8-18 | Biblical brotherly love and blessings | `1 peter 3 brotherly love.txt` | sermon |
