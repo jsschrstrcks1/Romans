@@ -154,7 +154,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 23 (pt 1) | Want; hastiness; greed; sloth; debauchery | `Psalms 23 (pt 1).txt` | sermon |
 | Psalm 23 (pt 1) | Shepherding; want caused by sin (2025 update) | `Psalms 23 (pt 1) 2025 update.txt` | sermon |
 | Psalm 23 (pt 2) | Shepherd's rod and staff; goodness and mercy | `psalms 23 pt 2.txt` | sermon |
-| Psalm 23 | Need for a personal shepherd | `Psalms 23.txt` / `We need a shepherd psalms 23.txt` | sermon |
+| Psalm 23 | We need a shepherd; Judges cycles of sin; American slavery/denominational repentance; nationalism meme; Catahoula puppy abscess illustration; 2009 UK Muslim missionary work; Saul hunting David ("Hunted" TV show; Israel = 6,600 sq mi); broken-leg shepherd illustration; Spurgeon on trials; Dottie's leg testimony; Hurricane Irma aftermath; cursing and the tongue (Eph 4:29; Rom 12:14; 1 Pet 3:10; James 3; Matt 15:18-19) | `We need a shepherd psalms 23.txt` | sermon |
 | Psalm 23 | Memorial for Barbara; comfort of the shepherd | `Psalm 23.txt` (archive) | memorial |
 | Psalm 24 | Clean hands; pure hearts; idolatry and integrity | `psalms 24.txt` | sermon |
 | Psalm 34 | Acrostic structure; fear of the Lord; long life | `Psalms 34.txt` | sermon |
@@ -524,6 +524,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Catholicism.txt` — Romans 3-5; Eph 2:8-9 — Catholic vs Protestant justification
 
 ### Brokenness / Weakness / Suffering
+- `We need a shepherd psalms 23.txt` — Psalm 23 — Dottie's leg: God using a hard season to redirect from horses to music/writing ministry; Hurricane Irma aftermath (evacuated to Kenny Duffield's house); being made to lie down in green pastures as equipping; training ground for eternity
 - `Exodus 14 - red sea.txt` — Exodus 14:1-31 — Crucible of faith: unarmed civilians facing the full Egyptian army; hammer/anvil/iron illustration; counselor story (eating disorder, patient suicide, negligence trial, rat poison, deathbed gospel conversion after 20 years of hardship); roller coaster: feeling out of control while actually safe in God's hands
 - `2 cor 12.txt` — 2 Corinthians 12:7-10 — Theology of weakness
 - `IS 43 anti-prosperity gospel.txt` — Isaiah 43 — Against prosperity gospel; suffering
@@ -602,6 +603,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sunday school notes week 2.txt` — 1 Cor 13:8-10; John 10:27-28 — Cessation; eternal security
 
 ### Evangelism / Missions / Great Commission
+- `We need a shepherd psalms 23.txt` — Psalm 23 — 2009 UK Muslim missionary work: encrypted laptop (128-char password), Pakistani/Afghan immigrant communities, "what the state wants the state gets" — God's providence protected every contact
 - `Evangelism.txt` — Matthew 28:18-20 — Great Commission
 - `MT 28.txt` — Matthew 28:16-20 — Great Commission and evangelism
 - `evangelism (romans 15, mt 28, and rev 7).md` — Mt 28; Rom 15; Rev 7 — Missions priority
@@ -691,6 +693,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `John 12.txt` — John 12:1-8 — John Wesley doing everything for God — orphanages, prison ministry, hospital visits, itinerant preaching — then realizing years in that he was lost and bound for hell; the Judas pattern: near Christ for social and earthly benefits; American Christianity statistics: what 73% claiming to be Christians actually believe
 
 ### Idolatry / False Gods / Politics as Idol
+- `We need a shepherd psalms 23.txt` — Psalm 23 — Nationalism meme (girl in pink = nationalism, guy = American evangelicalism, girlfriend = the way of Jesus); politics as idol; church's complicity in American slavery as denominational blind spot; "plurosexuality" neologism for LGBTQ+ embrace; every generation has its pet sin
 - `Jeremiah 17.txt` — Jeremiah 17:1-18 — Idol of politics
 - `jeremiah 7.txt` — Jeremiah 7 — Idolatry of happiness
 - `1 kings 18.txt` — 1 Kings 18 — Elijah; double-mindedness; Baal
@@ -778,6 +781,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Psalms 139 (abortion).txt` — Psalm 139:13 — Sanctity of life and abortion
 
 ### Shepherding / Pastoral Care
+- `We need a shepherd psalms 23.txt` — Psalm 23 — Broken-leg shepherd illustration (carries wounded sheep everywhere; sheep learns safety is with the shepherd, never strays again); Catahoula puppy abscess (loving to treat the wound; took her to vet; tooth in skull); Dottie's leg testimony (God using hardship to equip for ministry; horses → musician/author); Spurgeon: "The Christian is made strong and firmly rooted by all the trials of life"
 - `Psalm 23` (multiple versions) — God as shepherd
 - `Manatee Creek Sheep.txt` — (sheep breeding, but useful for shepherd illustrations)
 - `psalms 23 pt 2.txt` — Rod and staff; goodness and mercy
