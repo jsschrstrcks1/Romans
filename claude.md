@@ -403,6 +403,38 @@ Cross-references are **welcome and encouraged**. This series has consistently wo
 - Type and fulfillment
 - Prophetic anticipation and apostolic proclamation
 
+### Spurgeon Quote Reference System
+
+A full corpus of Spurgeon's sermons (3,356 sermons, converted to Markdown) lives at:
+
+```
+quotes-and-references/spurgeon/sermons/chsN.md
+```
+
+Three searchable maps exist for locating and verifying Spurgeon quotes:
+
+| Map | Location | Contents |
+|-----|----------|----------|
+| Scripture (OT) | `quotes-and-references/spurgeon/maps/scripture-ot.md` | 1,899 OT passages → sermons |
+| Scripture (NT) | `quotes-and-references/spurgeon/maps/scripture-nt.md` | 2,094 NT passages → sermons |
+| Subject | `quotes-and-references/spurgeon/maps/subject.md` | 3,519 alphabetical topics |
+| Theology | `quotes-and-references/spurgeon/maps/theology.md` | 2,014 entries, 9 theological themes |
+
+**These are strictly reference tools — not part of the sermon corpus.**
+
+- They are **separate** from `.claude/sermon-map.md` and `.claude/theological-map.md`, which index *your own* sermons only
+- Do **not** merge them, cross-link them, or treat them as part of the preaching archive
+- Use them only to: (1) find a Spurgeon quote on a topic, (2) verify the exact wording of an attributed quote, (3) confirm the sermon number before citing
+
+**How to use:**
+1. Open the subject or theology map → find topic → note sermon number(s)
+2. Open `quotes-and-references/spurgeon/sermons/chsN.md` → search for the quote
+3. Confirm wording exactly, then cite: *"Quote." — C.H. Spurgeon, Sermon Title, No. N, Date*
+
+Not for reproduction. Short quotes with proper citation only.
+
+---
+
 ### Verification Standard
 
 **CRITICAL: Every Scripture reference and every quotation must be verified.**
@@ -412,6 +444,7 @@ Cross-references are **welcome and encouraged**. This series has consistently wo
 - If a quote cannot be verified, do not use it
 - No fabricated quotes, no paraphrases presented as direct quotes, no "attributed to" guesswork
 - When in doubt, leave it out
+- For Spurgeon quotes specifically: use the maps above to locate the source, then confirm exact wording in the sermon file before using
 
 We only include what is verifiably real. The pulpit is not a place for misattribution.
 
