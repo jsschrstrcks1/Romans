@@ -48,7 +48,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 |---|---|---|---|
 | Luke 23:39-43 | Today You Will Be With Me | `Sermon - Today You Will Be With Me v2.md` | Thief on the cross; grace; sovereign election |
 | Luke 23:42 | Remember Me | `Interlude - Remember Me.md` | Interlude on the thief's request |
-| Romans 14; Galatians 4 | The Lord's Day | `The Lords day romans 14 gal 4.md` | Legalism; antinomianism; Lord's Day |
+| Romans 14:1-12; Galatians 4:8-20 | The Lord's Day | `Sermon - The Lord's Day.md` | BFM Article 8; Lord's Day; Sabbath; legalism; antinomianism; grace as middle ground; John Owen on mortification; Sinclair Ferguson; Meo of Pakistan people group |
 | Romans 15:18+; Mt 28; Rev 7 | Evangelism | `evangelism (romans 15, mt 28, and rev 7).md` | Great Commission; missions; panta ethne |
 | Romans 15:14+ | Holy Obsession | `romans 15 (2).md` | Goodness; knowledge; Great Commission |
 
@@ -56,6 +56,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Title | File | Subject |
 |---|---|---|---|
+| Psalm 22; Romans 12:15; 2 Corinthians 5:18 | Weep With Those Who Weep | `Sermon - Weep With Those Who Weep.md` | Pastoral response to racial violence; Dallas shootings (July 7, 2016); lament; Psalm 22 structure; ministers of reconciliation |
 | 1 Samuel 17 | The Magnet on the Compass | `Sermon - The Magnet on the Compass.md` | David and Goliath; typology; total depravity; the compass illustration |
 | 1 Samuel 28 | Power Encounter | `Sermon - Power Encounter.md` | Mediums; the occult; Wicca; spiritual warfare; evangelism to occultists |
 | 1 Kings 18:33-41 | Choose This Day | `Sermon - Choose This Day.md` | Elijah vs Baal; double-mindedness; idolatry; God's jealousy |
@@ -80,6 +81,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Numbers 23:19; Psalm 31:5-6; Jude 9; John 3:16 | More Than Love | `Sermon - More Than Love.md` | BFM Article 2 (God); names of God; false religious conceptions (Islam, JW, Mormon); Trinity; God is more than love; gospel; Arain of Pakistan people group |
 | Acts 13:48; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8 | Out of the Cistern | `Sermon - Out of the Cistern.md` | BFM Article 5 (Grace/Election); sovereign election; man contributes only the sin that made salvation necessary; Brahmin of Nepal people group |
 | Acts 2:1-9, 36-40 | Clowns Entertaining the Goats | `Sermon - Clowns Entertaining the Goats.md` | BFM Article on Holy Spirit; BFM series; tongues; Lakeland Revival critique; spiritual maturity; Lampung Pesisir people group |
+| Romans 14:1-12; Galatians 4:8-20 | The Lord's Day | `Sermon - The Lord's Day.md` | BFM Article 8; Lord's Day; Sabbath; legalism; antinomianism; grace as middle ground; John Owen; Sinclair Ferguson; Meo of Pakistan people group |
 
 ---
 
