@@ -100,6 +100,12 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Exodus 5:22-6:13 | Discouragement; asking God why; trusting Him | `ex 6-7.txt` | sermon |
 | Exodus 14:1-31 | Red Sea crossing; archaeological context (Nuweiba); sovereignty; the crucible of faith | `Sermon - The Crucible.md` (sources: `Exodus 14.txt` complete, `exodus 14 - red sea.txt` partial draft) | sermon |
 
+### Numbers
+
+| Passage | Subject | File | Type |
+|---|---|---|---|
+| Numbers 21:5-9 | Bronze serpent in the wilderness; Israel's grumbling; type of Christ lifted up; cross-references 1 Cor 10:9 and John 3:14-21 | `Numbers 21 John 3.txt` | sermon |
+
 ### 1 Samuel
 
 | Passage | Subject | File | Type |
@@ -275,6 +281,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| John 3:13-21 | Bronze serpent typology; "look and live"; John Newton quote; light vs. darkness; gospel invitation; cross-references Num 21:5-9 and 1 Cor 10:9 | `Numbers 21 John 3.txt` | sermon |
 | John 3:16 | Christian marriage reflecting Christ and the church | `Grannys Wedding jn 316.txt` | personal (wedding) |
 | John 5 / John 6:29-60 | Irresistible grace and God's sovereign election | `John 5.txt` | sermon |
 | John 6:43-65 | Salvation by grace alone | `sola gracia.txt` / `sola gracia 2021.txt` | sermon |
@@ -317,6 +324,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| 1 Corinthians 10:9 | Israel's testing of Christ in the wilderness; serpents; type of cross; cross-references Num 21:5-9 and John 3:13-21 | `Numbers 21 John 3.txt` | sermon |
 | 1 Corinthians 3:10-15 | Eternal legacy and what lasts beyond death | `1 cor 3.txt` | sermon |
 | 1 Corinthians 9:19-23 | Motivation for sharing the gospel | `1 cor 9.txt` / `1 cor 9 19ff...txt` | sermon |
 | 1 Corinthians 12:12-27 | Church membership and body commitment | `Commitment to the church body 1 cor 12.txt` | sermon |
@@ -386,6 +394,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Titus 1:1-5 | Introduction to Titus; bondservant (δοῦλος) theology; Sanctus martyr illustration; false teaching and compromise; doulos as slave vs servant (NET/ESV translation discussion) | `Titus 1.txt` | sermon |
 | Titus 2:11-14; Romans 5:8-10 | Christian hope in the second coming | `Titus 2 pt 2.txt` | sermon |
 
 ### Hebrews
