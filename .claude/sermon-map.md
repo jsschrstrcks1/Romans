@@ -384,6 +384,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Titus 2:11-14; Romans 5:8-10 | Christian hope in the second coming | `Titus 2 pt 2.txt` | sermon |
+| Titus 3:1–7 | Submission to authorities; political idolatry (SBC convention applause anecdote); Tim Keller on religion vs. gospel; cultural Christianity critique; Obama/Trump political commentary; Passover illustration (Smith and Brown — blood of the lamb, not faith intensity, saves); "I have no other argument, I need no other plea" hymn quote; gospel invitation | `Titus 3 - dumb laws.txt` | sermon |
 
 ### Hebrews
 
@@ -707,6 +708,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `John 12.txt` — John 12:1-8 — John Wesley doing everything for God — orphanages, prison ministry, hospital visits, itinerant preaching — then realizing years in that he was lost and bound for hell; the Judas pattern: near Christ for social and earthly benefits; American Christianity statistics: what 73% claiming to be Christians actually believe
 
 ### Idolatry / False Gods / Politics as Idol
+- `Titus 3 - dumb laws.txt` — Titus 3:1–7 — Political idolatry: SBC convention — deafening applause for "Ra ra America" political hack, silence for gospel preaching; if you spend more time on politics than on Jesus, politics is your idol; submission to authorities without worshipping them; anything above obedience to God is an idol
 - `We need a shepherd psalms 23.txt` — Psalm 23 — Nationalism meme (girl in pink = nationalism, guy = American evangelicalism, girlfriend = the way of Jesus); politics as idol; church's complicity in American slavery as denominational blind spot; "plurosexuality" neologism for LGBTQ+ embrace; every generation has its pet sin
 - `Jeremiah 17.txt` — Jeremiah 17:1-18 — Idol of politics
 - `jeremiah 7.txt` — Jeremiah 7 — Idolatry of happiness
@@ -784,6 +786,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `psalms 63.txt` — Psalm 63:1-8 — The Insanity of God: believers weeping over and tearing apart a Bible to share it; Americans who have full copies and tune them out; prosperity breeds contempt for Scripture; Hebrews 12:2 as the corrective — keep your eyes on Jesus
 
 ### Salvation / Conversion / New Birth
+- `Titus 3 - dumb laws.txt` — Titus 3:1–7 — Passover illustration: Smith (anxious, one son) and Brown (confident) — death passed over both because it was the blood of the lamb, not the intensity of faith, that saved; "I have no other argument, I need no other plea — it is enough that Jesus died for me"; gospel invitation; cultural Christianity vs. genuine conversion
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Deathbed conversion; grace
 - `2 cor 5.txt` — 2 Corinthians 5:16-6:3 — New creation
 - `ezekiel 37.txt` — Ezekiel 37 — Dry bones; spiritual resurrection
