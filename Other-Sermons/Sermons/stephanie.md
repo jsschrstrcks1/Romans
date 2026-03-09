@@ -1,0 +1,21 @@
+To Whom it May concern.
+I have been Stephanie’s pastor for the last two years. With the exceptions of illness (rare), and time spent with her dad, she has been a constant presence in the church since. If the doors are open outside of school hours, you will most likely find her here. She is a dearly loved part of the congregation. Every week she makes sure she comes up and gives me a hug. Then proceeds to tell me about how her week went. Often asking me to play with her doll or asking me to watch while she plays with her dolls. Most weeks she has a new bible verse that she has memorized. She’s bashful about sharing bible verses, but with some prompting she demonstrates she truly has memorized many verses. She was quoting John 1:1 and following a few weeks back with incredible precision. 
+
+In regard to her hygiene, she always comes to church dressed cutely in clean clothes. Her hair is washed, and she smells as one does when recently cleaned. I can’t think of a time when she has come to church wearing dirty clothes, or with any odor other than the one left behind by her body wash or shampoo. I don’t always look at fingernails, but the times she has called attention to them, they were clean and an appropriate length. I have never seen food in her teeth or anything else to suggest bad hygiene. 
+
+In regard to her behavior, she is like many of the other women in her family; smart, and with a confidence that comes from being frequently right. This strength of will can be seen at mealtimes on occasion where she like any child wants more desert, or extra candy and so forth. Though the women in her life gently and firmly redirect her towards the foods her body needs over the foods her kindergarten brain wants. 
+
+I spoke with her one time about candy in particular and reminded her that she is the dolly’s “mommy”, and “mommies have to set a good example, and that means eating her vegetables first”. She sighed, said she would be a good mommy, and put the candy back. She is still a kid, and kids act in childish ways from time to time, but she is a very good kid as far as I am concerned; and is blossoming under her mother’s excellent care. 
+
+Its been lovely seeing her growing into her own person, and develop her own thoughts and ideas. She has a deep love for church and Jesus, and I worry for her personal and spiritual growth when she’s absent. Her memorization of scripture and time spent with other believers has been vital in her own subconscious quest for peace. After time spent away from church, you can really see a change in her behavior. I believe its vital for her to continue in her journey with the Lord. One that would be hindered by her father having full custody. He has already stopped her from coming to church any time he has had custody. I believe that would have profoundly negative effects on her as she grows up. 
+
+In fact, some of the times she has come back from visits with her father her behavior has been quite sullen and emotional. As though she is dealing with some new pain. Perhaps it’s the lack of stability and tumult of living between two places. All I can say is that she wasn’t this way when her mom had sole custody. Since custody has been shared, sometimes, there has been a less than ideal change in her emotional state. One that I doubt would be helped by her father having sole custody. Separating her from the love and support of her church family and inhibiting her relationship with the Lord certainly won’t be an improvement. 
+
+If you have any further questions, feel free to reach out to me. 
+
+_______________________________
+
+Reverend Ken Baker
+Pastor at Lakeview Fellowship Church
+Bachelors of Arts in Biblical Studies from Trinity College of Florida
+A senior in pursuit of his Masters of Divinity in Christian Leadership at Southeastern Baptist Theological Seminary.

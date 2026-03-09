@@ -9,8 +9,8 @@
 
 ### Source Notes
 
-- **Primary source**: `Other-Sermons/Sermons-txt/sola gracia.txt` (2017 manuscript, this file)
-- **Revised version**: `Other-Sermons/Sermons-txt/sola gracia 2021.txt` — preached 2021 (504th anniversary); adds a people group of the week (Dar Hamid of Sudan), expanded Reformation/Catholic context, revised Michelangelo illustration in the "draws him" section, and minor edits to the children/sin illustration
+- **Primary source**: `Other-Sermons/Sermons/sola gracia.md` (2017 manuscript, this file)
+- **Revised version**: `Other-Sermons/Sermons/sola gracia 2021.md` — preached 2021 (504th anniversary); adds a people group of the week (Dar Hamid of Sudan), expanded Reformation/Catholic context, revised Michelangelo illustration in the "draws him" section, and minor edits to the children/sin illustration
 - **Hymn**: "Grace Alone" — written by Scott Wesley Brown and Jeff Nelson. *[Note: CCLI number and exact copyright year need verification before projection or bulletin use. Commonly listed as ©1998 Universal Music — Brentwood Benson Songs, but verify against CCLI license.]*
 - **Jonathan Edwards quote**: "You contribute nothing to your salvation except the sin that made it necessary!" — widely attributed to Edwards in Reformed and Baptist literature. *[Note: The specific source text in Edwards' writings has not been confirmed. This may be a secondary attribution or condensed paraphrase of Edwards' theology of total depravity rather than a verbatim quotation. Verify before using in print.]*
 - **R.C. Sproul**: Described as "a pastor out of Orlando." Technically, Sproul pastored Saint Andrew's Chapel in Sanford, FL, and Ligonier Ministries is in Lake Mary, FL — both north of Orlando. "Out of Orlando" functions as a general regional reference and is not a significant error.

@@ -707,6 +707,14 @@ Finish strong.
 
 ---
 
+## Sermon Map Standard: Read the Whole Thing
+
+Before adding any sermon to `sermon-map.md` or `theological-map.md`, **read the entire file** — not just the title and opening lines. A sermon's actual content, illustrations, theological moves, and conclusions are rarely predictable from its title or first paragraph. Partial reads produce inaccurate summaries and misclassification.
+
+**This is a firm rule, not a shortcut to skip.** If a file is long, read all of it. Only then can it be accurately catalogued.
+
+---
+
 ## Integrity Rule: Careful, Not Clever
 
 > **Active skill: `.claude/skills/careful-not-clever/SKILL.md`**

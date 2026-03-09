@@ -1,0 +1,1 @@
+Alef, Bet, Gimel, Dalet, Heh, Vav, Zayin, Khet, Tet, Yud, Kaf, Lamed, Mem, Nun, Samekh, Ayin, Peh, Tzadi(k), Qof, Resh, Shin, Tav
