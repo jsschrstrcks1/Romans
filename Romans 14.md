@@ -4,11 +4,12 @@ I have a quick story about my dog Grace, you guys remember grace? She was one of
 There are lots of things that can divide us – When to have church, drinking, smoking, trump, biden, or anyone else.
 Early church divided over food sacrificed to idols.
                So much fear mongering in politics. I’m pretty sure the bible describes politicians in 2tim 3:13
+               *(Note: 2 Tim 3:13 ESV reads "while evil people and impostors will go on from bad to worse, deceiving and being deceived" — describes evil people and impostors generally, not politicians specifically. Illustrative application; worth acknowledging from the pulpit as such.)*
 	The only thing that matters is what God thinks RE our actions, thoughts and beliefs.
                Story about watching grace through the window as getting in the garbage, but checking first to 
                see if anyone was watching. Grace KNEW I wouldn’t like it, chose to do it any way – punished. 
                Not fully convinced it’s wrong.
-	The bible illuminates God’s thoughts. Scripture is called the cannon – reed – measuring stick. 
+	The bible illuminates God’s thoughts. Scripture is called the canon – reed – measuring stick.
                Use it to measure our actions, our thoughts, and beliefs.
 	Christian, If you read a scripture, and it doesn’t draw you to the Lord, or convict you, or have |
                some effect upon you, then perhaps you are not yet fully convinced of Christ!
@@ -43,7 +44,7 @@ Will I cause others to stumble. 13-21 vs 20 – **do not for the sake of food de
               times we ought to abstain.
 Someone else is struggling with a thing – then abstain. Food sacrificed to idols is an example 
               Paul gives. Some people were really worked up, and thought the sky was falling.
-God had declared all food clean to Peter. Even food served to Idols.
+God had declared all food clean to Peter. Even food served to Idols. *(Acts 10:9–16)*
 Grace, by her example, caused opie to get in trouble as well. She got in the trash, and Opie
                joined right in.
 This is the classic scripture used to argue against Christians drinking. You may not be an 
@@ -64,11 +65,11 @@ If I share that on facebook, how does that better reflect God? If I tell that st
               Lord? Or could it be a stumbling block?
 The only kind of stumbling block I want to be is the kind that keeps people out of hell. Like Charles Spurgeon wrote:
 “If sinners be damned, at least let them leap to Hell over our dead bodies. And if they perish, let them perish with our arms wrapped about their knees, imploring them to stay. If Hell must be filled, let it be filled in the teeth of our exertions, and let not one go unwarned and unprayed for.”
+*(C.H. Spurgeon, “The Wailing of Risca,” Spurgeon's Sermons, Vol. 7, 1860 — verified ✓)*
 
 In our mens bible study Thursday night Nik Ripken was writing about how there are only two teams. There is our Lords team, and our Lord’s enemies team. Which team do you play for? If our enemies goal is to keep Christians from sharing the gospel, then not sharing the gospel is following his plans. Its playing for the team of the enemy of our savior and our soul. 
 
 Last week our verse said “choose this day whom you will serve”. Whether youre sharing the gospel or not – and honestly that’s between you and God – should tell you everything you need to know about which team you’re playing for. Which team you’re serving. Our Lord’s team, or his enemies team. 
 
-“If sinners be damned, at least let them leap to Hell over our dead bodies. And if they perish, let them perish with our arms wrapped about their knees, imploring them to stay. If Hell must be filled, let it be filled in the teeth of our exertions, and let not one go unwarned and unprayed for.”
 In a related note There has been some talk about us being small, and the natural expansion and contraction that happens in any church; and I want to speak to that. I don’t care how big we are, I care that we tell people about Jesus. If we’ve done that, and are doing that, we are a success. If we are being obedient to God in that then we are successful. Its up to God to draw people to church. Whoever is here today, is here because God drew them here for a purpose. Maybe that purpose is to start sharing the gospel with folks. Maybe that purpose is to hear and respond to the gospel.
 So as we close, are you fully convinced of the Lord? If the Lord were to return tonight, and we were standing in the presence of God – the one who holds our molecules together. The one who created the heavens and the earth. The God so big he is everywhere at once. Knows everything at once. The one who knows every thought you’ve ever had, and every thought you are having right now. There is no way to hide who you truly are from God – he KNOWS you. If he were to return tonight, and he were to ask you why he should let you into his heaven, would you be able to say because his son Jesus Christ saved you? If not, then that is the first step. Believe in Jesus, and you can have eternal life. Put your faith in Jesus, and you can spend eternity with him in Heaven.
