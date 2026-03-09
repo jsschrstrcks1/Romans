@@ -1,3 +1,66 @@
+========================================================================
+SERMON CORRECTIONS & FLAGGED ITEMS — Psalms 139 (Abortion)
+Passage: Psalm 139:13 (with context from Psalm 139:5)
+========================================================================
+
+1. FLAGGED — Matthew 18:6 paraphrase: "better to commit suicide"
+   The sermon says: "Jesus says as you have received these little children, so you have
+   received me. He goes on to say its better to commit suicide, to literally tie a millstone
+   around your neck and cast yourself into the depths of the sea, than cause a child that
+   believes in Christ to sin."
+   Matthew 18:5 (ESV): "Whoever receives one such child in my name receives me."
+   Matthew 18:6 (ESV): "but whoever causes one of these little ones who believe in me to
+   sin, it would be better for him to have a great millstone fastened around his neck and
+   to be drowned in the depth of the sea."
+   Two issues with the paraphrase:
+   (a) "Better to commit suicide" mischaracterizes the grammar. Jesus says it would be
+   BETTER FOR HIM to be drowned — meaning the judgment awaiting those who harm children is
+   so severe that drowning would be preferable by comparison. He is not prescribing
+   self-harm; he is warning about the severity of divine judgment. The passive construction
+   matters: a stone fastened around your neck by others, then drowned — not self-inflicted.
+   (b) The framing removes the comparative sense. The point is not that death is good; the
+   point is that the coming judgment is worse. If used again, frame it as: Jesus says the
+   judgment on those who harm children is so terrible that he would compare it to a fate
+   where even being drowned with a stone around your neck would be the more merciful
+   outcome.
+
+2. CORRECTION NEEDED — Genesis 18: Abraham started at 50, not 100
+   The sermon says: "but God if you find just 100 people, wouldn't that be enough to save
+   the city."
+   Genesis 18:24 (ESV): "Suppose there are fifty righteous within the city. Will you then
+   sweep away the place and not spare it for the fifty righteous who are in it?"
+   Abraham begins the negotiation at fifty, not one hundred. The sequence is:
+   50 → 45 → 40 → 30 → 20 → 10 (Genesis 18:24-32).
+   This is a factual error. Correct before any future use.
+
+3. FLAGGED — Exodus 20:13: "Do not Kill" vs. "You shall not murder"
+   The sermon says: "Do not Kill. Its one of the ten commandments."
+   Exodus 20:13 (ESV): "You shall not murder."
+   The Hebrew is לֹא תִרְצָח (lo tirtsach) from the root רָצַח (ratsach), which refers
+   specifically to premeditated, unlawful killing — murder — not all taking of life. The KJV
+   renders it "Thou shalt not kill," but ESV, NIV, NASB, and NKJV all say "murder." The
+   distinction matters: the commandment does not prohibit capital punishment or war, only
+   murder. Given that the sermon's entire argument is that abortion is the unlawful taking
+   of innocent life, using "murder" rather than "kill" actually strengthens the point and is
+   more precise to the Hebrew. Recommend updating the wording.
+
+4. FLAGGED — Statistics: unnamed source and unnamed physician
+   The sermon cites "a medical journal" for the claim that less than 1% of abortions were
+   for rape, incest, or the life of the mother, and breaks that down further into specific
+   sub-percentages (1/3 of 1% for life of the mother; half of those were already-deceased
+   babies; etc.). These are very specific figures and the journal is never named.
+   The physician featured in the abortion video is also unnamed ("the man we just watched
+   on video"), yet his claim that a C-section would have been safer than abortion in every
+   medically necessary case since Roe v. Wade is presented as authoritative fact.
+   Before using any of these statistics outside this sermon, the medical journal must be
+   identified and cited, and the physician in the video must be named so his credentials
+   and claims can be verified. Do not use the specific sub-percentages without a named,
+   cited primary source.
+
+========================================================================
+END CORRECTIONS LOG
+========================================================================
+
 Today were going to talk about a topic that has been in the news. Its not an easy one by any stretch, but in todays day and age it’s a necessary one. They say what one generation tolerates the next embraces, and in the 1970s the scientific community came together and called a baby a lump of cells, many didn’t tolerate that, but more did, and it became a womans choice in our society to terminate the life of the baby. Terminate is such a cold dispassionate clinical term that we use to assuage our consciences about the reality of the situation. The word fetus is used that way too. A fetus is a baby, and terminte means to cut that precious little innocent baby up into pieces and suck them out of the womb with a vacuum. 
 
 I have to warn you – in a few minutes were going to show an animation of what happens. Its heart breaking, its disturbing, and we need to see this, so that we can know and truly believe it is in fact evil. 

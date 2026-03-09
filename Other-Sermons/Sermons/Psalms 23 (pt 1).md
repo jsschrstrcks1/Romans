@@ -29,14 +29,20 @@ CORRECTIONS LOG — READ BEFORE USING THIS FILE IN ANY CONTEXT
    "sensuality" for the same underlying Greek (ἀσέλγεια, aselgeia). Do not present this
    quote as ESV in any future use.
 
-2. CORRECTED IN 2025 UPDATE — Hebrew word claim inaccurate
+2. FLAGGED — Hebrew "only used twice" claim: needs clarification
    The sermon says: "Its only used twice. Once in the old testament, and once in a Hebrew
    translation of the new testament that I have." The Hebrew word for "want" in Psalm 23:1
-   is חָסֵר (chasar / ḥāsēr), meaning to lack or be in need. The root חָסֵר appears dozens
-   of times in the Old Testament (e.g., Deuteronomy 2:7; Proverbs 31:11; Ecclesiastes 1:15).
-   The claim that it is "only used twice" is inaccurate. The 2025 update of this sermon
-   corrects this with accurate Hebrew information. Do not repeat the "only used twice" claim
-   in any future use.
+   is אֶחְסָר (echsar), the first person singular imperfect of the root חָסֵר (chasar /
+   ḥāsēr), meaning "I shall lack / I shall want." The root חָסֵר appears dozens of times
+   in the OT, but the pastor is likely looking at the specific inflected form אֶחְסָר, which
+   is rare in the Masoretic Text. If that exact form appears only once in the Hebrew OT and
+   once in his Hebrew NT translation (e.g., Delitzsch, Salkinson-Ginsburg, or similar), his
+   claim of "used twice" would be consistent with a concordance search on the specific form
+   rather than the root. This cannot be confirmed without access to his specific Hebrew NT.
+   The claim is confusing as stated because most listeners will understand "the word" to mean
+   the root, not one inflected form. The 2025 update wisely replaces this with a broader
+   discussion of the root's meaning and OT usage. Do not repeat the "only used twice" claim
+   without this clarification.
 
 3. FLAGGED — Nelson's Bible Dictionary attribution: needs verification
    The sermon attributes the four-fold schema (hastiness, greed, sloth, debauchery) to
