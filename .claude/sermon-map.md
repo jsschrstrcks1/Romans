@@ -211,6 +211,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Proverbs 13 | Generation gaps; Puritan education; wise companions | `prov 13.txt` | sermon |
+| Proverbs 13 | Generation gaps; Puritan education; Paul Washer / Puritan schoolbook; 700% Ngram claim; Edwin Starr; screen time stats; Live PD / Pasco deputy; Proverbs 13:20 *(raw draft)* | `Proverbs 13 (raw draft).md` | ⚠️ Edwin Starr / Lockheed Martin claim — HIGH RISK, very likely false, remove or verify from primary source; ⚠️ "700% decline" stat — needs citation; ⚠️ 3–7 hrs screen time stat — needs citation; ⚠️ 3 hrs Puritan scripture study — needs citation; ⚠️ Paul Washer book story — identify the specific Puritan book; ❌ "Isaac Newton wrote a paper about earth being round" — rephrase: Newton's work was gravity; earth-roundness precedes even Greek philosophers via Isaiah 40:22; ❌ "spare the rod, spoil the child" — paraphrase, not Bible quote; use Prov 13:24 ESV; ⬜ pew Bible page number — fill before Sunday |
 
 ### Ecclesiastes
 
