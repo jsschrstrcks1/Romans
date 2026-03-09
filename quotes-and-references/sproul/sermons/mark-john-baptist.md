@@ -1,0 +1,9 @@
+# John the Baptist
+
+**Series:** Mark
+**Scripture:** (see transcript)
+**Topic:** Biblical Studies
+**Source:** [https://learn.ligonier.org/sermons/mark-john-baptist](https://learn.ligonier.org/sermons/mark-john-baptist)
+
+---
+

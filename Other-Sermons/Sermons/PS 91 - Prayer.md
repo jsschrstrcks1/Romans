@@ -1,0 +1,39 @@
+Psalms 91
+
+James 4:8
+
+There has been a lot going on this week. From animal stuff, to drama, and illness. Lots of things to think about. Lots of things from people loosing their job, to being diagnosed with melanoma, and so forth. Not to mention those who will be traveling back to Indiana soon. Lots of things to keep in our prayers. So it seemed like a good time to have a prayer service. We used to do these once a quarter, and we’ve gotten away from it a bit over the last few years. But you know me, I can’t not preach on a Sunday, so were going to spend some time in psalms 91 if you’ve rbought your bible and I hope you have. 
+
+While you are turning there I have a relatively unrelated story that I want to tell you. I was at my parents house this week watching TV one morning and a show came on that was talking about the heaps of scientific advancements that have been made by studying animals. Seraded edge wings and fan blades are being made for instance as a result of studying the hump back whale. When you think of a propellor or a fan blade, or an airplane wing you think of something smooth and flat. But the humpback whale has a series of ridges – kind of like a seraded edge on a steak knife. Scientists have been studing that and realized it gives them a better turning radius, better speed, and better efficiency of movement because of that bumpy edge. Turns out both air and water move faster through the channels providing more lift and propulsion than a smooth limb would have. The scientists of course were going on about mans brilliance in learning from things that are already around and how we should look to nature blah blah blah. But it struck me that number one it isn't wise for us to have looked to the animals, its foolishness on our part that it took so long to try and emulate the way God did things, and secondly they tried to say it was the brilliance of the animals. But in truth, the animals didn't give themselves these features, they were designed by someone that designed all the rules for how things work to create the perfect balance they had at the garden of eden. Isn't God good? You know if we found a tiffany and co lamp shade on the ground at the beach we would say “huh, someone must have designed it, and given it as a gift and it accidently stayed here. But when modern scientists see that same lamp on the beach they think hmm it must have developed over billions of years of evolution to ultimately become the beautiful thing that it is. 
+
+But thats not true is it? God designed it. God designed the rules it opperates under – things like hydro dynamics. So God knew just how to plan things, to design things to best make use of its created surroundings. 
+
+Its just taken us thousands of years to figure out that we should look past our navel and design things based upon God's designs. 
+
+OK are we all in Psalms chapter 91? ok lets start. 
+
+You can see why I chose this. There is a prayer loosly based around this called the soldiers prayer. It covers a lot of the same ground. Its sort of a military centric re-wording. But I think that it fits for us as well are we not engaged in a battle? Remember the hymn that calls us soldiers of the cross? Remember the passage that talks about putting on the armor of God, the sword of the spirit and breast plate of righteousness and so on. This kind of imagery, this analogy is found in a lot of places throughout scripture. 
+
+Vs 1 is kind of the thesis for the rest of the chapter. Thesis is the main point. Its telling us what the rest of the chapter will be about. It says basically stay close to God, and he will give you rest. As we read through the rest of the chapter he also gives peace, and protection, shelter, camouflage. 
+
+He promises to save us from snares, and the evil one. From accusers, from pestilence, plague, and war. With our country the way it is right now, with all of the different tensions. With the rumors of war, and the hostile language between our own country and several others war is a real possibility. Maybe with Russia. Maybe with China. Maybe Iran or Korea, or maybe all of them together. 
+
+Kids are being shot at and killed in holiday, did you hear about that? 3 kids shot and in the hospital. 
+
+Illegal drugs are rampant. 
+
+Bot what do we know? The lord is our refuge and strength. An ever present help in times of need. He's a shelter, a strong tower, he's the wing that shields us. 
+
+He's our refuge when when we lose our job. He’s our shield while you guys are driving back to Indiana. He’s our shelter, and strong tower. He’s our help in times of need. 
+
+Alot of people mistakenly think that becoming a christian means a smooth and easy life. But we have all been around enough to know that they are misguided in thinking that. Even this passage doesn't say you will never have trouble, but it does say when there is trouble, he's going to be there right beside us. I think it foreshadows heaven a little bit too. Where is the only place in existence, where no harm can over take us? Heaven. What is an assault at our doorsteps here, will be a distant enemy who can’t even get near the gates of heaven. Things like cancer, or cirrhosis of the liver, or wars, or Hasimoto, or kids getting hurt. That won’t be anything more than a distant memory once we are in glory. 
+
+In this world you will have troubles Jesus said, but take heart for I have overcome the world.
+
+It carries with it this sense of already, but not yet. What we have a taste of now, what is fully true now, will be perfectly present in glory for eternity. 
+
+Note too that this promise is only extended to those who are in a relationship with the Lord. Only those who know his name it says. Only those who love him and call on him. Our passage says. 
+
+If you don’t yet know Jesus, come talk to me after the service. 
+
+But in the mean time,  I'd like to spend the rest of our time this morning in prayer. Praying for our church as we look into buying this building as we have done for the past ten years. Praying for the leadership of the church as we go forward for wisdom, and guidance. Praying for our country, and her leadership. Praying for this community, and the lost. Praying for our neighbors that aren't going to church. Praying for opportunities for evangelism. Then finally praying for the needs even within our own body. How many of us have health needs that we can pray for? Probably most of us. Not to mention other concerns, financial and otherwise. Any way, were close enough I don't think I need to list all the needs, we know what they are. If you run out of things that you can think of, then pray for the parts of the church that are in persecution. Pray for those who weep over having a few pages of the book of numbers. Pray for the church in Somalia. If you still need more, then Dottie has been printing a prayer guide for us. SO what I want to do is ask someone randomly to open, and I'll close and anyone who wants to pray in the middle just speak up. We called that popcorn prayer when I was working with teenagers. Alright, lets Go to the Lord in prayer.
