@@ -30,7 +30,7 @@
 | Judicial caning (Malaysia/Singapore) | CONFIRMED — procedure description substantially accurate | Retained; one nuance corrected (see body) |
 | Saudi Arabia eye-gouging — Noushad | PARTIALLY CONFIRMED with a critical correction | Retained and corrected (see below) |
 | India — panchayat rape as punishment | CONFIRMED — 2015 Baghpat, Uttar Pradesh case documented | Retained with sourcing note |
-| John Brown's *Analytical Exposition* | BOOK CONFIRMED REAL — passage consistent with his style but not yet indexed online | Retained with verification note |
+| John Brown's *Analytical Exposition* | BOOK CONFIRMED REAL — passage consistent with his style but not indexed online; not verifiable through any web source | **Moved out of sermon body to Pending Verification section** |
 
 ### Critical correction: The Noushad case
 
@@ -98,13 +98,7 @@ It all comes back to motivation. If you're trying to do enough good to offset th
 
 ---
 
-In fact, John Brown of Edinburgh in his *Analytical Exposition of the Epistle of Paul the Apostle to the Romans* — a volume Spurgeon called "among the first of the first class" — writes on antinomianism:
-
-> "They have sought, by its means, to get rid of the disagreeable feelings of responsibility and remorse, and to conjoin two things which God never meant should go together — indulged sin, and a comfortable opinion of their own spiritual state and prospects. They confound the struggles of the flesh and the Spirit, to which they are strangers, 'not having the Spirit,' with the contest between inclination and conscience, with which they are but too familiar; and concluding, in a sense in which the apostle never intended it, that because their conscience lifts up a feeble ineffectual protest when they violate God's law, it is not they but indwelling sin that is in fault, they look on themselves as fitter objects of pity than of blame, and say peace, peace, to themselves, when there is no peace.
->
-> The best way of preventing or exposing this very loathsome form of practical antinomianism is to point out as distinctly as possible the true meaning of the apostle's expressions, so that, while they answer the purpose they were meant to serve — to sustain the true Christian in his struggle with indwelling sin, and show him both where he cannot, and where he may find strength to conquer it — they may not be perverted into the means of delusion and ruin on the part of the falsehearted professor, but that he may be driven out of the refuge of lies which he endeavors to find in God's word, and that that word may be clearly seen to be 'profitable for doctrine, and for reproof, and for correction, and for instruction in righteousness.'"
-
-*[NOTE: The book is confirmed real (Edinburgh, 1857; Internet Archive: archive.org/details/analyticalexpos00browgoog). This specific passage has not been located in an indexed digital copy. Verify against the physical or digital text before preaching this as a direct quote.]*
+*[John Brown quote — PENDING VERIFICATION. See "Pending Verification" section at end of file. Do not preach until confirmed against the source text.]*
 
 ---
 
@@ -148,7 +142,27 @@ Don't miss heaven by eighteen inches.
 - Noushad case — Human Rights Watch, December 2005. The sentence was *not carried out*; the victim forgave him. Original manuscript incorrectly stated the eye was gouged out.
 - *Qisas* / eye-for-an-eye — documented in Saudi Arabia; legally sanctioned but rarely carried out in full (HRW 2005, 2013). Do not describe as "relatively common."
 - India panchayat rape — 2015 Baghpat, Uttar Pradesh. Amnesty International; TIME Magazine. Confirmed.
-- John Brown, *Analytical Exposition of the Epistle of Paul the Apostle to the Romans* (Edinburgh: Oliphant & Co., 1857). Book confirmed real. Passage not yet verified against digital text. URL: archive.org/details/analyticalexpos00browgoog
+- John Brown, *Analytical Exposition of the Epistle of Paul the Apostle to the Romans* (Edinburgh: Oliphant & Co., 1857). Book confirmed real. Passage not yet verified against digital text. URL: archive.org/details/analyticalexpos00browgoog — **quote moved to Pending Verification section; do not preach until confirmed**
 - Spurgeon on John Brown: "among the first of the first class" — BiblicalStudies.org.uk
 - "Those who have been most effective for the Lord..." — author not identified; presented as such in body
 - Three laws removed (Oklahoma, Lebanon, Salt Lake County) — all confirmed fabrications or unverified internet myths
+
+---
+
+## Pending Verification
+
+### John Brown quote — DO NOT PREACH UNTIL CONFIRMED
+
+**Source:** John Brown of Edinburgh, *Analytical Exposition of the Epistle of Paul the Apostle to the Romans* (Edinburgh: Oliphant & Co., 1857). Digitized copy: archive.org/details/analyticalexpos00browgoog
+
+**Status:** The book is confirmed real. Spurgeon rated it "among the first of the first class." The passage below is consistent with Brown's style and theological concerns. However, it cannot be found in any online-indexed text — not through Google, not through a text search of the Archive URL (which returns 403), not through Google Books (body text not exposed). The passage requires manual verification against the physical book or a fully accessible digital copy before it may be attributed to Brown and preached.
+
+**Intended placement:** After the paragraph ending "pay attention to them when they appear in the coming weeks" — as a scholarly reinforcement of the antinomianism section.
+
+**Passage to verify:**
+
+> "They have sought, by its means, to get rid of the disagreeable feelings of responsibility and remorse, and to conjoin two things which God never meant should go together — indulged sin, and a comfortable opinion of their own spiritual state and prospects. They confound the struggles of the flesh and the Spirit, to which they are strangers, 'not having the Spirit,' with the contest between inclination and conscience, with which they are but too familiar; and concluding, in a sense in which the apostle never intended it, that because their conscience lifts up a feeble ineffectual protest when they violate God's law, it is not they but indwelling sin that is in fault, they look on themselves as fitter objects of pity than of blame, and say peace, peace, to themselves, when there is no peace.
+>
+> The best way of preventing or exposing this very loathsome form of practical antinomianism is to point out as distinctly as possible the true meaning of the apostle's expressions, so that, while they answer the purpose they were meant to serve — to sustain the true Christian in his struggle with indwelling sin, and show him both where he cannot, and where he may find strength to conquer it — they may not be perverted into the means of delusion and ruin on the part of the falsehearted professor, but that he may be driven out of the refuge of lies which he endeavors to find in God's word, and that that word may be clearly seen to be 'profitable for doctrine, and for reproof, and for correction, and for instruction in righteousness.'"
+
+**To resolve:** Open the Archive link above, read the chapter on Romans 3:5–8, and confirm whether this passage appears and whether the wording matches exactly.
