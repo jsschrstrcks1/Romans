@@ -8,21 +8,31 @@
 
 ## Verification Flags
 
-- ⚠️ "in the Greek" (re: Psalm 8:1 Yahweh/Adonai): Psalm 8 is Hebrew, not Greek — correct to "in the Hebrew" before preaching
-- ⚠️ Deuteronomy 20:9 wrong reference: ESV Deut 20:9 is about military commanders; the "portion and heritage" language is Deuteronomy 32:9 ("But the LORD's portion is his people, Jacob his allotted heritage") — significant error, must correct
-- ⚠️ Colombian river/volcano: Description sounds like Caño Cristales, but Caño Cristales is in Serranía de la Macarena (not a volcano) — verify specific location before preaching
-- ⚠️ David Platt / cab driver story: Verify this story is attributable to Platt and from a citable source
-- ⚠️ "How He Loves": Written by John Mark McMillan; David Crowder Band recorded the popular cover — preacher correctly identifies the Crowder version but authorship should be noted
-- ⚠️ J.C. Ryle quote ("cheap Christianity that offends no one"): Verify exact wording against *Holiness* by J.C. Ryle
-- ⚠️ MacArthur quote ("Christians should serve righteousness exactly like they served sin — as slaves"): Verify exact wording and source; may be a paraphrase of Romans 6:18–19 rather than a direct MacArthur quote
-- ⚠️ Edwards quote ("just the sin that made salvation necessary"): Verify what Edwards actually said and the source
-- ⚠️ "filthy rags": ESV Isaiah 64:6 reads "polluted garment" — "filthy rags" is KJV; use ESV wording or cite KJV explicitly
-- ⚠️ "Loue key reef": Correct spelling is Looe Key Reef
+### Confirmed Errors — Must Correct Before Preaching
 
-**Verified:**
-- Psalm 8:1 — LORD (Yahweh, all caps) and Lord (Adonai, capital L) distinction: correct ✓
-- Hebrews 2:6–9 ESV: confirmed; quotes Psalm 8:4 and applies to Christ ✓
-- Psalm 8:4 / Hebrews 2:6 parallel: theologically sound ✓
+- ❌ **"in the Greek"** (Ps 8:1 Yahweh/Adonai discussion): Psalm 8 is Hebrew, not Greek. Correct to "in the Hebrew."
+- ❌ **Deuteronomy 20:9** is wrong reference. ESV Deut 20:9 is about appointing military commanders. The "portion and heritage" verse is **Deuteronomy 32:9**: "But the LORD's portion is his people, Jacob his allotted heritage." Must correct.
+- ❌ **Caño Cristales / volcano**: The river is Caño Cristales (Serranía de la Macarena, Meta, Colombia). It is *not* in or near a volcano. The region sits atop the Guiana Shield — ancient non-volcanic geology ~1.2 billion years old. The volcano detail is simply wrong and must be removed or corrected.
+- ❌ **"filthy rags"**: ESV Isaiah 64:6 reads "polluted garment." "Filthy rags" is KJV. Use ESV wording or explicitly cite KJV.
+- ❌ **"Loue key reef"**: Correct spelling is **Looe Key Reef**.
+
+### Unverifiable — Pastor Must Decide How to Handle
+
+- ⚠️ **David Platt / Muslim cab driver story**: No published or indexed source confirms this specific story (Muslim driver, dreams of a baby, converted). Platt has shared similar Muslim-dream stories publicly (SBC context), but this particular account with these details cannot be sourced. Do not attribute to Platt without a specific citation (book/page or sermon date). Consider telling it as a personal account if that is its actual origin.
+- ⚠️ **Edwards quote** ("just the sin that made salvation necessary"): Full form widely circulated as "You contribute nothing to your salvation except the sin that made it necessary." This quote does **not** appear in the Yale critical edition of Edwards' works. Possibly misattributed — may originate with a 2013 devotional compilation or with Melanchthon. Do not present as a confirmed Edwards quote without a primary source.
+- ⚠️ **MacArthur quote** ("Christians should serve righteousness exactly like they served sin — as slaves"): Cannot be verified as a direct MacArthur quote from any indexed source. It is an accurate paraphrase of Romans 6:18–19. Either attribute to the biblical text directly, or note it as a paraphrase (e.g., "as MacArthur summarizes Romans 6").
+
+### Substantially Accurate — Minor Wording Notes
+
+- ✅ **J.C. Ryle quote**: Genuine. From *Holiness* (1883), p. 204. Exact wording: "There is a common, worldly kind of Christianity in this day, which many have, and think they have enough—a cheap Christianity which offends nobody, and requires no sacrifice—which costs nothing, and is worth nothing." Preacher's version is slightly paraphrased ("today" for "in this day," "offends no one" for "offends nobody") but the substance and core phrases are accurate.
+- ✅ **"How He Loves"**: Written by **John Mark McMillan** (2005), not David Crowder. Crowder's well-known cover (2009, *Church Music*) caused widespread attribution confusion; Crowder himself credited McMillan publicly. Noting McMillan as the writer is courteous and accurate.
+
+### Verified Correct
+
+- ✅ Psalm 8:1 — LORD (Yahweh, all caps) / Lord (Adonai, capital L) distinction: correct
+- ✅ Hebrews 2:6–9 ESV: confirmed; quotes Psalm 8:4 and applies it to Christ
+- ✅ Psalm 8:4 / Hebrews 2:6 parallel: theologically sound
+- ✅ Caño Cristales is in Colombia ✓; "remotest parts of Colombia" is fair ✓; multicolored algae description is accurate ✓ — only the volcano detail is wrong
 
 ---
 
