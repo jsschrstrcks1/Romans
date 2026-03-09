@@ -1,3 +1,78 @@
+Psalm 23 (Part 1)
+Passage: Psalm 23:1 ("I shall not want")
+Context: Evening service ("tonight"). Hurricane Harvey is active in Houston (late Aug / early
+  Sep 2017). Multi-week series on Psalm 23. The "praise team" closes — evening service format.
+  The 2025 update of this sermon is at: Psalms 23 (pt 1) 2025 update.txt
+Illustrations: building buyer (haste ≠ faith); gas station church-goer; unnamed horse story
+  (referenced but not told in this version — told in the 2025 update); European con-man movie;
+  Eeyore coworker and $20 bill; Trinity Bible College disciplinary committee anecdotes.
+
+---
+
+CORRECTIONS LOG — READ BEFORE USING THIS FILE IN ANY CONTEXT
+
+1. CRITICAL — Galatians 5:19-21: NIV quoted, not ESV
+   The sermon quotes Galatians 5:19-21 as:
+   "The acts of the flesh are obvious: sexual immorality, impurity and debauchery; idolatry
+   and witchcraft; hatred, discord, jealousy, fits of rage, selfish ambition, dissensions,
+   factions and envy; drunkenness, orgies, and the like. I warn you, as I did before, that
+   those who live like this will not inherit the kingdom of God."
+   This is the NIV. This repository uses ESV only. ESV Galatians 5:19-21 reads:
+   "Now the works of the flesh are evident: sexual immorality, impurity, sensuality, idolatry,
+   sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, divisions, envy,
+   drunkenness, orgies, and things like these. I warn you, as I warned you before, that those
+   who do such things will not inherit the kingdom of God."
+   Key word-level differences: "debauchery" (NIV) → "sensuality" (ESV); "witchcraft" (NIV)
+   → "sorcery" (ESV); "discord" (NIV) → "enmity, strife" (ESV); "fits of rage" (NIV) →
+   "fits of anger" (ESV); "factions" (NIV) → "divisions" (ESV). Note: the pastor chose the
+   NIV because it uses "debauchery," matching the word he is preaching on. The ESV uses
+   "sensuality" for the same underlying Greek (ἀσέλγεια, aselgeia). Do not present this
+   quote as ESV in any future use.
+
+2. CORRECTED IN 2025 UPDATE — Hebrew word claim inaccurate
+   The sermon says: "Its only used twice. Once in the old testament, and once in a Hebrew
+   translation of the new testament that I have." The Hebrew word for "want" in Psalm 23:1
+   is חָסֵר (chasar / ḥāsēr), meaning to lack or be in need. The root חָסֵר appears dozens
+   of times in the Old Testament (e.g., Deuteronomy 2:7; Proverbs 31:11; Ecclesiastes 1:15).
+   The claim that it is "only used twice" is inaccurate. The 2025 update of this sermon
+   corrects this with accurate Hebrew information. Do not repeat the "only used twice" claim
+   in any future use.
+
+3. FLAGGED — Nelson's Bible Dictionary attribution: needs verification
+   The sermon attributes the four-fold schema (hastiness, greed, sloth, debauchery) to
+   "Nelsons Bible dictionary." This specific list under the entry for the Hebrew word chasar
+   has not been independently verified. The 2025 update removes the Nelson's attribution and
+   replaces it with "one commentator pointed out." If citing in print, verify the Nelson's
+   entry directly before attributing.
+
+4. FLAGGED — Jeremiah 17:9: paraphrase changes the meaning
+   The sermon says: "Your heart is still desperately sinful, Jeremiah says." ESV Jeremiah
+   17:9 reads: "The heart is deceitful above all things, and desperately sick; who can
+   understand it?" The ESV says "desperately sick" (וְאָנֻשׁ, ve'anush — incurable, mortally
+   ill). The sermon's substitution of "sinful" for "sick" is a common paraphrase but shifts
+   the emphasis from incurability to moral guilt. In future use, quote ESV exactly.
+
+5. NOTE — Romans 7:15: paraphrase
+   "That which I hate I do, that which I long to do I don't do." This is a paraphrase of
+   Romans 7:15 (ESV: "For I do not understand my own actions. For I do not do what I want,
+   but I do the very thing I hate."). Accurate in substance. Note as paraphrase, not quotation.
+
+6. NOTE — Matthew 10:33 / Mark 8:38: paraphrase blends two verses
+   "Jesus says if you are ashamed of him in front of man, he will be ashamed of you in front
+   of God." ESV Matthew 10:33: "but whoever denies me before men, I also will deny before my
+   Father who is in heaven." ESV Mark 8:38: "For whoever is ashamed of me and of my words...
+   the Son of Man also will be ashamed of him." The sermon's version uses "ashamed" (from Mark
+   8:38 / Luke 9:26) and "before God" phrasing (loosely from Matthew 10:33). The sense is
+   accurate but it is a blended paraphrase. Do not present as a direct quotation.
+
+7. NOTE — Luke 16:10: paraphrase
+   "Scripture says he who is faithful with little, can be trusted with much." ESV Luke 16:10:
+   "One who is faithful in a very little is also faithful in much." Accurate in substance.
+
+---
+
+TRANSCRIPT (original 2017 delivery — for the 2025 revision, see Psalms 23 (pt 1) 2025 update.txt)
+
 Father we lift up all those in Houston and beyond that are struggling in the midst of this storm. We ask that you would use it to draw many people to you, and to help us to remember that in heaven there will be no hurricanes, no earth quakes, no tornados or other natural disasters ripping the world apart. Give us a longing for the new heaven and earth where there will be no blowing storms, or drowning floods, or quaking earths. Help us to not love this world so well, and to love our savior more deeply, even in the midst of the storms of life. 
 
 It struck me this week that our world is in serious need of a shepherd. Were going to be looking at Psalm 23 tonight, while you’re turning there I wanted to talk about somethings. 
