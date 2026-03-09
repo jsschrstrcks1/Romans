@@ -49,11 +49,13 @@ Verse 10 says *a day in your courts is better than a thousand elsewhere.* Let's 
 
 At this point in Israel's history, the house of the Lord was the place where God's presence dwelt in a particular, powerful way. He was still God everywhere — in heaven, on earth, in everything. But the temple was a visible, physical reminder of that presence. A place you could actually go to be near God. The Bible says *draw near to God and he will draw near to you.* The sons of Korah got to live there.
 
-One thousand days is roughly three years. The sons of Korah are saying: better is a single day near the presence of God than three years in any other position. Better a day in God's courts than three years as king of Israel. Better a single day near God than three years as a wealthy man who doesn't have to work. Better to be near God's presence than to spend three years as a billionaire adventurer doing whatever you want.
+One thousand days. That's almost three years — thirty-three months. Think about what you'd do with three years and no obligations. Some of you would fish every single day. Others have had a trip on a list forever — the Holy Land, Alaska, somewhere in Europe, maybe just somewhere warm with nobody asking you anything. Some of you would sit on a back porch with a cup of coffee and a stack of books and never leave. And I know at least one person in this room is thinking about a beach, all the animals you could ever want, and perfect peace and quiet from now until the end of time.
 
-What's your dream? Living with family, in peace and prosperity? Living on an island with servants? Some of you want all the cats. Someone else wants all the dogs. Fine. All of that sounds good.
+Three years of that. Your dream. Best version of it. Nothing goes wrong, the money doesn't run out, nobody gets sick. Just thirty-three months of the best life you can imagine.
 
-The sons of Korah would say — no, that's fine, but I'd rather spend a single day near the presence of the Lord than a thousand days fulfilling that dream.
+The sons of Korah would hand all of it back. Every single day of it. For one afternoon standing at the door of God's house.
+
+Not because the dream is nothing. It isn't nothing. But they knew something that people who've never been close to the presence of God have a hard time understanding — that one moment with him makes everything else look pale by comparison. The way a candle looks at noon. The world's best day is real and good and worth having. But a single day in the courts of God makes a thousand of those look like a very good copy of something even better.
 
 What are some practical ways we can dwell in God's house today? What are ways we can draw near to God right now?
 
@@ -143,7 +145,7 @@ All of these blessings come inside a relationship with God. The joy of the Lord 
 
 ## Source Notes — Verify Before Print Use
 
-**CRITICAL — "ten thousand days" vs. the text:** Psalm 84:10 ESV reads "a day in your courts is better than **a thousand** elsewhere." The Hebrew is מֵאָלֶף (*mē'ālep*) — "than a thousand." This is consistent across ESV, NIV, NASB, and KJV. The sermon uses "10,000 days" throughout. That number is not in the text — it's off by a factor of ten. 1,000 days ≈ 2.7 years, not 27. The rhetorical comparison ("better than 30 years as Elon Musk") does not hold with the actual verse. Needs correction before preaching or print — either adjust the illustration to ~3 years, or use a different number for the comparison without claiming it comes from the text. Corrected to 1,000 / ~3 years above, but flagging for pastoral review before use.
+**"Ten thousand days" in original draft — corrected:** Original draft used "10,000 days = 30 years." Psalm 84:10 ESV reads "a day in your courts is better than **a thousand** elsewhere" (Hebrew מֵאָלֶף — consistent across all major translations). Illustration rebuilt around 1,000 days ≈ 3 years. New illustration: fishing/travel/back porch/beach — three years of your best dream, handed back without hesitation for one day in God's courts.
 
 **Korah's rebellion (Numbers 16):** The characterization of Korah's accusation ("anyone could have done it," "Moses was speaking for Moses") is a homiletical expansion. Numbers 16:3 records the actual accusation: "You have gone too far! For all in the congregation are holy, every one of them, and the Lord is among them. Why then do you exalt yourselves above the assembly of the Lord?" (ESV). The expansion is reasonable but not a direct quote from the text; label accordingly if preaching closely.
 
