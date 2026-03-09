@@ -173,6 +173,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 3 | David fleeing Absalom; trusting God in desperation | `psalms 3.txt` | sermon |
 | Psalm 8 / Hebrews 2 | God's majesty; Yahweh and Adonai | `Psalm 8.txt` | sermon |
 | Psalm 11 | World upside down; trusting God's foundation | `Psalms 11.txt` | sermon |
+| Psalm 2:1-12 | Nations raging; royal/prophetic psalm; David and Christ; God's laughter; persecution *(raw draft)* | `Psalm 2 (raw draft).md` | Evening service; double-entendre prophecy model; persecuted church (IDOP); Edwards "Sinners in the Hands" (two quotes); Insanity of God documentary; gospel invitation; ⚠️ Heb 13:3 is KJV not ESV; ⚠️ Edwards Q2 transcription error; ⚠️ "Lord" should be "LORD" in quoted Psalm 2; ⚠️ IDOP date verify; ⚠️ "53 countries" verify |
 | Psalm 14 | Foolishness; the fall; God's sovereignty over free will | `ps14.txt` | sermon |
 | Psalm 19 | General and special revelation of God | `Psalm 19.txt` | sermon |
 | Psalm 23:1-4 | Sheep behavior; cast sheep; shadow of death | `psalm 23 1-4..txt` | sermon |
