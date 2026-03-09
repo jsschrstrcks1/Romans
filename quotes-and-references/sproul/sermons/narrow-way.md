@@ -1,0 +1,9 @@
+# The Narrow Way
+
+**Series:** Other
+**Scripture:** (see transcript)
+**Topic:** Biblical Studies
+**Source:** [https://learn.ligonier.org/sermons/narrow-way](https://learn.ligonier.org/sermons/narrow-way)
+
+---
+
