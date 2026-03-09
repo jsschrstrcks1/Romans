@@ -19,6 +19,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Title | File | Subject |
 |---|---|---|---|
+| Romans 1:1-2 (Psalm 22) | Prophecy and the Credentials of Christ *(raw draft)* | `Romans 1 - Psalm 22 (Prophecy raw draft).md` | Debate/voting intro; Psalm 22 fulfillment table (11 prophecies); double-entendre model of prophecy; Adrian Rogers 108 OT refs (unverified); R.A. Torrey 300 OT refs (unverified); temple genealogy records; Lamb's Book of Life; heaven/hell three-door joke; gospel |
 | Romans 1:18-32 | The Fingerprints of God | `Romans 1c - The Fingerprints of God.md` | Anthropic principle; fine-tuning; Balija of India; Winslow/Shultz on providence; BFM 2A; election |
 | Romans 1:18-24+ | The Darkness We Chose | `Romans 1.md` / `Romans 1 (2024).md` | Suppression of truth; God revealed in creation; wrath |
 | Romans 2:1-11 | The Darkness We Deny | `Romans 2 mt 23 col 3 eph 2.md` | Religious hypocrisy; judgment by conscience |
@@ -27,7 +28,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Romans 4:1-8 | Not What We Deserve (evening) | `Romans 4b - Not What We Deserve.md` | Prayer for law enforcement and persecuted church; Abraham/Isaac; Razzle the ram; dog/door illustration; Isaiah 40:31; wages vs. gift (4:4); slave ship illustration for bondage to sin; Spurgeon gospel close; Communion |
 | Romans 5:1-11 | Love Poured Out, Wrath Satisfied | `Romans 5.md` | Peace with God; love demonstrated while sinners |
 | Romans 6:15-23 | Whose Slave Are You? | `Romans_6b_with_boulder.md` | Grace not a license; Bannockburn illustration |
-| Romans 7 | The War in the Dark | (referenced in notes; no full manuscript) | Law reveals sin; inner war |
+| Romans 7:7-12, 21-25 | The War in the Dark *(raw draft)* | `Romans 7.md` | Law not evil; cave/darkness illustration; Christ fulfills law; Tesla resonance illustration; rock-pushing story; Paul's struggle; ⚠️ Jn 14:16 reference error (should be 15:16); MacArthur quote unverified |
 | Romans 8:26-32 | No Condemnation at Dawn | `Ordo Solutis Romans 8.md` | Ordo Salutis; Spirit's intercession |
 | Romans 9 (Parts 1-3) | The Potter in the Dark | `romans 9 pt 1.md` / `Romans 9 pt 2.md` / `Romans 9 Pt 3.md` | Sovereignty; mercy; Aunt Judy; Nik Ripken |
 | Romans 10:1-13 | The Gospel That Reformed the World | `Romans 10.md` | Five Solas; Luther; faith comes by hearing |
