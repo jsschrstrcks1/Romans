@@ -107,7 +107,6 @@ And here's what makes the offering acceptable: a greater Priest already went to 
 
 Paul can bring the Gentiles as an offering because Christ already made the offering that counts. We are not the first sacrifice. We are the fruit of the first sacrifice.
 
-I knew men like this. Justin Gamble. Anthony Cox. Chip Hall. Their lives were so saturated with the gospel that to know them was to hear it. They didn't just talk about Christ. They carried people to him. Every conversation, every hospital visit, every quiet word in a parking lot after church — priestly service. Bringing people to the altar.
 I knew men like this. Bob Clark. Anthony Cox. Chip Hall. Their lives were so saturated with the gospel that to know them was to hear it. They didn't just talk about Christ. They carried people to him. Every conversation, every hospital visit, every quiet word in a parking lot after church — priestly service. Bringing people to the altar.
 
 That's what Paul is describing. And that's what the mission demands.
