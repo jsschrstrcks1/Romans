@@ -152,6 +152,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 |---|---|---|---|
 | Nehemiah 1 | Brokenness, prayer, and Humpty Dumpty analogy | `Neh 1.md` | sermon |
 | Nehemiah 1 | Hebrew word Chesed; God's steadfast love | `neh 1 second.md` | study |
+| Nehemiah 2:9-19 | City in Ruins | `Nehemiah 2 - City in Ruins.md` | sermon — Midwest manure fire illustration; Nehemiah's night survey; Ground Zero illustration; life in ruins (pride/greed/lust); 1 John 2:15-17; Ordo Salutis; foreknowledge; Augustine quote; Romans 5:8 / 1 Pet 3:18 / Romans 6:23; Communion |
 | Nehemiah 5 | Predatory loans and righteous anger | `neh 5.md` / `neh 5(2).md` | sermon |
 | Nehemiah 6 | Enemy attacks and spiritual warfare | `Neh 6.md` | sermon |
 | Nehemiah 7 | Gatekeepers, faithfulness, and genealogy | `Neh 7.md` | sermon |
@@ -195,6 +196,8 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 84 | Dwelling in God's house; vacation analogy | `Psalms 84(1).md` | sermon |
 | Psalm 84 | Delight, strength, and trust in the Lord | `Psalms 84 (2).md` | sermon |
 | Psalm 84 | Sparrows; dwelling in God's presence; valley of tears | `psalms 84 - better is one day (AutoRecovered).md` | sermon |
+| Psalm 84 | Where the Sparrows Nest | `Psalm 84 - Where the Sparrows Nest.md` | sermon — Sons of Korah background; security guard/Disney illustrations; Baptist emotions in worship; 12 attributes of God (Platt); Ground Zero illustration; Valley of Baca; murdered child/laid-off member illustrations; sparrows (Platt/Barnhouse quotes); Augustine *Confessions* 1.1; Communion (Matt 26:26-28) |
+| Psalm 84 | Three Blessings | `Psalm 84 - Three Blessings.md` | sermon — Korah's rebellion (Num 16); Benedict Arnold / Platt reference; three blessings (v.4/5/12); 1,000 days illustration (CRITICAL: draft had 10,000 — text says 1,000); idols as vampires; Calvin on idolatry (*Institutes* 1.11.8); sound board feedback loop; Ps 46/Prov 18:10/Neh 8:10/Isa 41:10/Exod 15:2 (translated from NIV — congregation reading format); Ps 42:1-2,5; Communion (1 Cor 11:23-29) |
 | Psalm 91 | God as refuge; prayer service | `PS 91 - Prayer.md` | sermon |
 | Psalm 96 | Worship; Yahweh; evangelism as worship | `Psalms 96.md` | sermon |
 | Psalm 97 | Moses; Exodus; God's power and judgment | `Psalms 97.md` | sermon |
