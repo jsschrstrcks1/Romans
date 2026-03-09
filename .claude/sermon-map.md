@@ -24,6 +24,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Romans 2:1-11 | The Darkness We Deny | `Romans 2 mt 23 col 3 eph 2.md` | Religious hypocrisy; judgment by conscience |
 | Romans 3:19-26 | God's Wrath (Parts 1 & 2) | `Romans 3 - wrath of God (final).md` / `Romans 3 - pt 2.md` | All unrighteous; justification introduced |
 | Romans 4:1-8 | In Christ Alone: Where Justice Meets Grace | `Romans 4 - In Christ Alone- Where Justice Meets Grace.md` | Abraham justified before Law; imputed righteousness |
+| Romans 4:1-8 | Not What We Deserve (evening) | `Romans 4b - Not What We Deserve.md` | Prayer for law enforcement and persecuted church; Abraham/Isaac; Razzle the ram; dog/door illustration; Isaiah 40:31; wages vs. gift (4:4); slave ship illustration for bondage to sin; Spurgeon gospel close; Communion |
 | Romans 5:1-11 | Love Poured Out, Wrath Satisfied | `Romans 5.md` | Peace with God; love demonstrated while sinners |
 | Romans 6:15-23 | Whose Slave Are You? | `Romans_6b_with_boulder.md` | Grace not a license; Bannockburn illustration |
 | Romans 7 | The War in the Dark | (referenced in notes; no full manuscript) | Law reveals sin; inner war |
