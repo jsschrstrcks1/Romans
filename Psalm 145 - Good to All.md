@@ -96,13 +96,13 @@ There is no sin so ugly that God's grace and mercy can't forgive it.
 
 Charles Spurgeon wrote about verse 2 — *"Every day I will bless you"* — this way:
 
-> "To bless God is to praise him with a personal affection for him, and a wishing well to him; this is a growingly easy exercise as we advance in experience and grow in grace."
+> "He uses the word 'bless' not merely for variation of sound, but also for the deepening and sweetening of the sense. To bless God is to praise him with a personal affection for him, and a wishing well to him: this is a growingly easy exercise as we advance in experience and grow in grace."
 
-And on the four "I wills" packed into the opening verses of this psalm, Spurgeon observed:
+And in a sermon on these opening verses, Spurgeon observed:
 
-> "Observe that David is firmly resolved to praise God. My text has four 'I wills' in it. Frequently it is foolish for us poor mortals to say 'I will,' because our will is so feeble and fickle; but when we resolve upon the praise of God, we may say, 'I will,' and 'I will,' and 'I will,' and 'I will.'"
+> "Observe that David is firmly resolved to praise God. My text has four 'I wills' in it. Frequently it is foolish for us poor mortals to say 'I will,' because our will is so feeble and fickle; but when we resolve upon the praise of God, we may say, 'I will,' and 'I will,' and 'I will,' and 'I will,' till we make a solid square of determinations."
 
-David heaps praise after praise. Maybe because he understood the weight of his own sin debt. David was a murderer. He had been a terrible father. He had been disobedient to God — and on and on. We all know who David was. David knew who he was too, and so did God. But God didn't reject David. And so David praises him — so earnestly that it's been said David considered it dishonorable to withhold his praise or to offer God anything half-hearted.
+David heaps praise after praise. Maybe because he understood the weight of his own sin debt. David was a murderer. He had been a terrible father. He had been disobedient to God — and on and on. We all know who David was. David knew who he was too, and so did God. But God didn't reject David. And so David praises him — so earnestly that commentator David Guzik writes: "We get the feeling that David felt it would be dishonorable to withhold his praise to God or to give Him half-hearted praise."
 
 I think David understood having a debt he could never fully repay. The best he could do — the best we can do — is praise God. Not because we have to, or because it's required. We are free. There are no strings. But out of gratitude. Out of thanksgiving. He would have been right to include strings, to attach conditions. But he didn't. Want your debt paid? Here. Free.
 
