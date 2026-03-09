@@ -188,6 +188,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 56 | Is Jesus worth it; Pilgrim's Progress | `psalm 56.txt` | sermon |
 | Psalm 63:1-8 | Thirsting for God; worship in the wilderness | `psalms 63.txt` | sermon |
 | Psalm 68:1-4 | Power of God; nothing too difficult | `Psalms 68 (2).txt` | sermon |
+| Psalm 68:1-6 | Father of the Fatherless *(raw draft — Part 2)* | `Psalm 68 Part 2 (raw draft).md` | Continuation of series; Baal contrast (rides through deserts); Elijah/Baal prophets (1 Kings 18); adoption; widows/orphans; seed metaphor; Japanese of Japan people group; ⚠️ Prov 27:17 is NIV not ESV; ⚠️ 1 Kgs 18 "Lord" should be "LORD"; ⚠️ prophet count 850 not ~1,000 |
 | Psalm 75 / 1 Peter 1:13+ | God's judgment and holiness | `Psalms 75.txt` | sermon |
 | Psalm 78:1-8 | Remembering God's deeds; teaching children | `psalm 78.txt` | sermon |
 | Psalm 84 | Dwelling in God's house; vacation analogy | `Psalms 84(1).txt` | sermon |
