@@ -93,8 +93,10 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Genesis 1–2 | Gap Theory refuted; Hebrew chiasm in creation week; creation reflects God; Sabbath; beautiful but not safe | `Gen 1-2 - beautiful but not safe.txt` | sermon |
 | Genesis 3:1-6 | Importance of Scripture; danger of trusting self over God | `Gen 3.md` | sermon |
 | Genesis 11 | Tower of Babel; self-reliance vs trusting God | `Gen 11 - thru the bible in a year.md` | sermon |
+| Genesis 29:3-15 | Jacob and Laban; Laban as case study in depravity; you reap what you sow; total depravity; gospel | `Gen 29 - depravity of man.txt` | sermon |
 | Genesis 37 | Joseph as a type of Christ | `Sermon 2 gen 37 joeseph.md` | sermon |
 
 ### Exodus
@@ -284,6 +286,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Luke 14 | Parable of the Great Banquet; rejecting God's invitation | `Luke 14.md` | sermon |
 | Luke 23:1-25 | Jesus vs Barabbas; what people wanted vs needed | `Luke 23.md` | sermon |
 | Luke 23:13-25 | Man's injustice vs God's justice at Easter | `easter 24.md` | sermon |
+| Luke 23:32-43 | Two thieves; lēstai; Dismas and the unrepentant thief; apologetics of the resurrection | `Luke 23 32ff - two thieves.txt` | sermon |
 
 ### John
 
@@ -407,6 +410,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | 2 Timothy 1 | Faithfulness under betrayal; fanning the gift; guarding the deposit | `2 Tim 1.md` | sermon |
+| 2 Timothy 3:1-5 | Heathens gonna heath; lovers of self; lovers of money; appearance of godliness; Peter vs. Judas; gospel | `2 Tim 3 - heathens gonna heath.txt` | sermon |
 | 2 Timothy 3:13-17 | Scripture alone as ultimate authority | `sola scriptura.md` / `Sola Scriptura 24.md` | sermon |
 | 2 Timothy 3:14+ | Authority and sufficiency of Scripture | `2 tim 3.md` | sermon |
 | 2 Timothy 4:1-5 | Paul's charge to preach; Easter sermon | `Second Timothy 4.md` / `easter 2020...md` | sermon |
@@ -416,7 +420,9 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Titus 1:1-5 | Introduction to Titus; bondservant (δοῦλος) theology; Sanctus martyr illustration; false teaching and compromise | `Titus 1.md` | sermon |
+| Titus 1:1-4 | Slavery as a picture of salvation; Paul's use of doulos; Hammurabi's Code vs Mosaic Law; Christ paid our slave debt | `Titus 1 - slavery.txt` | sermon |
 | Titus 2:11-14; Romans 5:8-10 | Christian hope in the second coming | `Titus 2 pt 2.md` | sermon |
+| Titus 3:1-7 | Submission to authorities; political idolatry; Tim Keller on religion vs. gospel; gospel invitation | `Titus 3 - dumb laws.txt` | sermon |
 
 ### Hebrews
 
@@ -481,6 +487,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Christian Science | John 14:1-7 | `Christian science...md` | teaching |
 | Cultural Marxism | Romans 10:12-13 | `Cultural Marxism.md` | teaching |
 | Evangelism / Missions | Mt 28; Rom 15; Rev 7 | `Evangelism.md` / `evangelism...md` | sermon |
+| God's Aseity / Missions / Hell | Mk 9:48-49; Is 66:24; 2 Pet 2:17; Mt 24:51; Mt 13:49-50; Is 59:2 | `Missions and Hell - why it matters.txt` | sermon |
 | Adoption (Theology) | Galatians 3-4 | `Adoption.md` / `adoption - gal 3.md` | sermon |
 
 ---
