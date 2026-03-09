@@ -451,6 +451,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Topic | Passage | File | Type |
 |---|---|---|---|
+| Eschatology: Rapture | Matthew 24 (Olivet Discourse) + key rapture passages | `Rapture - Study Paper (incomplete draft).md` | study paper (incomplete) — pre-millennial presupposition; compares Pre-Wrath, Pre-Trib, Post-Trib; ⚠️ Pre-Wrath ≠ Mid-Trib (flag in draft); draft cuts off at start of Scripture section |
 | Five Solas: Sola Scriptura | 2 Timothy 3:13-17 | `sola scriptura.txt` / `Sola Scriptura 24.txt` | sermon |
 | Five Solas: Sola Gratia | John 6:43-65 | `sola gracia.txt` / `sola gracia 2021.txt` | sermon |
 | Five Solas: Solus Christus | 1 Timothy 2:1-7 | `Sola Christus.txt` | sermon |
