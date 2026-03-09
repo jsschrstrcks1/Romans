@@ -1,0 +1,128 @@
+Today, we’re diving into Psalm 1. If you have your Bible with you, please open it to that passage. If you didn’t bring one, there should be a Bible in the pew in front of you. Psalms is roughly in the middle of the Bible, and if you turn a bit backward, you’ll be right there. If you hit Proverbs, you’ve gone too far, and if you come across Ezra, Nehemiah, or Job, just go a little further.
+As you turn there, I want to share something I read this week. Ed Stetzer, a North American missiologist, asked a powerful question: "How many Bibles do you own?" I couldn’t help but think about this as we gathered this week at church. People were talking about the number of Bibles they owned—some had 5, others 20, and in my case, I’ve got nearly 100. But then I remembered that there are people, like the Khedi Buzurg people in India, who don’t even have access to a Bible in their own language. They don't have anyone working to translate it for them. No missionaries. No churches. Just thousands of people, working on farms, struggling to make ends meet, living without the Word of God.
+It struck me how easy it is for us to take the Bible for granted. But the reality is that many don’t even have the opportunity to read it, much less treasure it like we do. So, who will pray for the Khedi Buzurg, a people group still unreached with the Gospel?
+Let’s take a moment and pray for them.
+Pray. 
+
+That article by ed Stetzer  lets start there, how many bibles do you own? Anyone have a bible raise your hand? More than 2? More than 5? More than 10? More than 50? More than 100? Alright that’s not really fair, I have what amounts to a collection of bible translations and have about 739 different ones right now. That’s full translations, copies in the original languges, and copies of fragments and codicies in the original languages. If we count all the NASB copies under this alter, there are quite a few more. I didn’t set out to collect bibles, but here we are. Any way, according to life way research, 9 in ten americans have at least one bible in their home, but only 5 in ten have opened it in the past year, and of those only a smattering read more than a passage here or there around the holidays. 
+
+IF the bible is God’s love letter to us, IF the bible is the sum total of God’s special revelation to us about himself. And It IS.  If we claim to love and worship God, shouldn’t we be reading his word? 
+
+The God of all creation, who spoke the universe into existence, who claims the heavens as a footstool, wants to know you personally, enough that he wrote you a love letter. Hes given us a tremendous treasure for free, and all we need to do is pick it up and read it. 
+
+David wrote in Psalms 119:103 “How sweet are your words to my taste, sweeter than honey to my mouth!”
+
+God the source of all joy, has given us access to his word, to help us grow, to bring us joy, and peace and love when we aren’t feeling those things. The word of God strong medicine for the sick. The word of God is as David said, sweeter than honey. 
+
+I talked to someone once who said “but pastor I read the bible once”. Once. My answer to that guy was a quote from a Greek philosopher named heraclitis, who said “you can never enter the same river twice, for the river always changes, as does the man”. With our bible, it remains the same, but our understanding of life, the world around us and the Lord changes, as does who we are. Because we are always in a state of change, no matter how much anyone hates change, they are still always changing, and because of that what you take away from scripture always changes. You – and people have – can spend your whole life reading the bible over and over and over and over and over and never fully plumb the depths of scripture, because each time you try, your measuring stick has changed because you have changed. Because the things you know have changed, because what God has revealed to you has changed. Charles Spurgeon wrote ““Nobody ever outgrows Scripture; the book widens and deepens with our years.” Its sort of like a string of lightbulbs lighting up. It happens so much faster than we can see with our naked eyes, but if you could slow things down, and watch in slow motion, you would see each bulb light up one after the other. The first bulb lights up in a perfectly dark room and we can see a little bit. We can see that there is a bulb, and maybe some of the rudiments of the room. The second bulb lights, and maybe now we can see that there are multiple light bulbs in a string. Then the third light comes on, and we can see that there is a table in the room. By then the fourth light kicks on, and we can see there is something on the table, and so on to reveal that there is a bountiful feast waiting for us. 
+
+IF we had closed our eyes after the first bulb, we would have never seen the fullness of the banquet awaiting us. The bible is kinda like the meals we had on the cruise ship five years ago for my parents anniversary and birthday. Every single time we went back to that main dining room they had something amazing, and most nights numerous amazing things just waiting for us to try. Cheese plates with crackers, and escargot, or shrimp cocktail, or lobster, or a dozen other amazing and wonderful appetizers. Which were followed by a beautiful steak, or fish, or lamb, or some nights multiples of each. One night on the cruise we had probably the best snapper I’ve ever eaten, and we eat a lot of snapper. It was moist, and flavorful, and a little sweet, with a crispy skin. It was absolutely phenomenal. Perfectly cooked. I didn’t know fish could have such a fantastic flavor. Or another night they served us the perfect steak. Or the crispy goat cheese salad. Or a hundred other things, and then for deserts the most delectable deserts you could imagine. Crème brulee, and cheesecake, and chocolate anything and everything it was fantastic. It was the food of kings, hot and ready and waiting for us to eat. 
+
+But what if instead of eating, and I know someone who because of dietary restrictions has to do something similar, but imagine we had sat there with our eyes and nose closed, breathing out of our mouths. Drank a glass of water, and ignored all of the amazing food that had been set before us. Wouldn’t that be silly? Half of the cruise is eating the wonderful food. You would leave dinner hungry, under nourished, and probably a little grouchy. You wouldn’t have the fuel you need to get through the week, you wouldn’t have the stuff your body needs, and so you would languish. You probably wouldn’t die in a week. But how much less of a trip that would be. No food for a week. 
+
+Yet this is exactly what the Christian does that ignores their bible.
+
+We have access to the full and lavish banquet table of the king of kings and lord of lords, and how many people ignore that to their own detriment, and to the disappointment of God. In fact, Psalms 1, if you’ll open your bible there with me gives a list of stern warnings about what happens when we neglect reading our bible. 
+
+1 Blessed is the man[a]
+    who walks not in the counsel of the wicked,
+nor stands in the way of sinners,
+    nor sits in the seat of scoffers;
+2 but his delight is in the law[b] of the Lord,
+    and on his law he meditates day and night.
+3 He is like a tree
+    planted by streams of water
+that yields its fruit in its season,
+    and its leaf does not wither.
+In all that he does, he prospers.
+4 The wicked are not so,
+    but are like chaff that the wind drives away.
+5 Therefore the wicked will not stand in the judgment,
+    nor sinners in the congregation of the righteous;
+6 for the Lord knows the way of the righteous,
+    but the way of the wicked will perish.
+
+I read 12 warnings in there : They do walk in the counsel of the wicked (1), They do stand in the way of sinners (1), They do sit in the seat of scoffers (1), They do not delight in the law of the LORD (2), They do not meditate on the law day and night (2), They are not planted by streams of water (3), They do not yield fruit (3), Their leaf withers (3), They do not prosper (3), They are like chaff that the wind drives away (4), They will not stand in the judgment (5), They will perish (6). 
+
+Lets go through a few of these. What happens when you walk in the counsel of wicked? Anyone have a story they are brave enough to share? 
+
+One of the things that came to my mind was the story of Absalom, he was chasing his father with the army of the kingdom trying to over throw him. Trying to kill his own father, the God ordained King of Israel David. King David who wrote many psalms. King David whose son Solomon would be counted the wisest man that would ever live. King David for whom God still had big plans for. So after this one particular battle, David had been defeated, his troops were demoralized, and he was on the run. Absolom was given two options. Sit back and recover allowing David to do the same, or to give chase, to strike while the iron was hot. Scripture says God confused Absolom so that he would accept BAD council. As a result, Absolom was soon defeated. His worst fears realized, his forward momentum was stopped, and as a result we read about King Soloman in scripture and not King Absolom. If King Absolom had listened to good council, perhaps he would have been victorious over David. Perhaps his goals would have been reached. Perhaps he would have been a good king. But that isn’t what happened was it? He listened to bad council, and everything he was planning to do went to rust and ruin. 
+
+I knew a guy that started hanging out with the wrong crowd, and it wasn’t long before he was drinking, and smoking pot, sleeping around, and so forth. Wasn’t long after that, that he dropped out of church all together and for years. It all started when he started running around with this new friend of his that had gotten a medical marijuana card just so he could smoke more pot. Then he started dating a girl that was doing the same, and between the two of them, one thing led to another, and he traded the truth of God’s word for a lie. He traded the good counsel of scripture, for the counsel of this world that may feel good, but is empty, and leaves you more empty than before. It led him to ruin, like Absalom.
+When we don’t delight in the word of God vs 2, and walk in the counsil of God through His word, we end up walking in the counsel of the wicked. We end up like Absalom. We end up making choices for the wrong reasons, based on poor council, and end up with consequences that last for years and years. We end up like my friend, empty, and broken. 
+
+IS the word of God like honey to your lips? Does it bring joy to your soul? Are you letting it wash you clean? Are you drinking deeply from the well of living water? Or going thirsty sitting next to it?
+
+Secondly when we fail to walk in the counsel of God, and instead Walk in the counsel of the wicked, we end up sitting in the seat of Scoffers. I read an article by a guy named Denny Burk this week that outlined what it means to be a scoffer. He says a scoffer speaks with derision and contempt. He focuses that Derision on other people. He is Proud and UnTeachable, he is the opposite of wise, he makes a big deal about other peoples short comings, ultimately he reaches his doom. Proverbs 29 says judgements are prepared for Scoffers, and Isaiah wrote that scoffers will find their end, and all who are intent on doing evil will be cut off. In short a scoffer is one who uses their mouth to sin. Slander. Gossip. Lying, flattering, pride, one who is quick to speak, cursing, and on and on and on. A stoic philosopher named Seneca wrote that the tongue is the index of the mind. If someone were to read your index, would you be sitting in the seat of scoffers? My friend who listened to unwise counsel, was like that. It didn’t matter what anyone tried to do for him, he found fault with them. He was angry all the time, because his choices had made him miserable. He took that out on those around him. Some things were legitimate, and some things were – you’ve heard the expression straining gnats, and swallowing camels? Even the most minor thing offended him to great ends, and yet his personal choices in the midst of all of this were an absolute wreck. If you tried to talk with this guy about his issues, he blew up, and would obfuscate, and blame shift. Well I had to be that way, because so and so is a hypocrite. He’d say. But Spurgeon says "If any man thinks ill of you, do not be angry with him; for you are worse than he thinks you to be." Or the book of Romans which says “let no one think more highly of themselves than they ought” or in Mathew where it says “Matthew 7:3-5 (NIV)
+“Why do you look at the speck of sawdust in your brother’s eye and pay no attention to the plank in your own eye? How can you say to your brother, ‘Let me take the speck out of your eye,’ when all the time there is a plank in your own eye? You hypocrite, first take the plank out of your own eye, and then you will see clearly to remove the speck from your brother’s eye.”
+
+Even paul wrote in 1 Timothy 1:15 (NIV)
+“Here is a trustworthy saying that deserves full acceptance: Christ Jesus came into the world to save sinners—of whom I am the worst.”
+
+Do you think my friend would be where he was, if he found the Lords words to be honey on his lips? 
+
+So ask yourself: Can you receive correction? Are your words always marked by strict adherence to the truth? Do you speak about people negatively behind their back? Do your words build people up or tear people down. Have you torn anyone down this week? What about Pride? Have you used your mouth to talk your self up this week? Have you made any foolish choices? Because if so, maybe you need to spend more time in scripture and less time watching survivor, or football, or working, or whatever it is you think is more important than reading God’s word. Sure its hard – at first. Sure your mind will wander. Its like any muscle. You have to use it to get better. 
+
+I’m sure we will not get through all 12 of these. But I feel like I should point out that vs 2 they do not delight in the law of the Lord, is the reason for much of what we see going on in the world at large. 
+
+Killing babies, or shooting up your workplace or school is ok if you don’t know, or care that God says we are made in his image, and the life of an image bearer isn’t to be taken lightly, or without strong cause. 
+
+Homosexuality is ok, but only if you don’t know or care that God has a specific set of plans for mankind, and that we are to follow them at the exclusion of other ways. 
+
+Pediaphilia is a big issue right now on the world stage – Epstein, and those that knew him – the Clintons, Prince Andrew of England, and maybe even Donald Trump – went to his private island, and slept with young – some underage – women. Women who were not given the full picture of what they would be doing. Some were promised training as massage therapists, and others promised a future as models, or actresses. Then they would hop on a plane and now that they are trapped, told they MUST please this man, or that man, or that married couple, or else their dreams would be crushed, and they would go back to anonymity. Pedophilia is only OK, if you disregard what scripture says about so very many things. The missionary Elizabeth Elliot wrote in her journal that “The Word of God (is) as a straight edge, which shows up our own crookedness. We can’t really tell how crooked our thinking is until we line it up with the straight edge of Scripture.” 
+
+Every societal ill in the world today comes back to a lack of delighting or walking in the counsel of God. Do you think someone for whom the word of God is like honey to their lips, could really 
+
+Are you delighting in the word of the Lord? 
+
+Do you remember when you were first courting your partner? How excited you were to talk to them? I almost said texted them, but for many in this room, texting was sending and receiving letters. In fact a friend of mine from bible college met a young lady in nicoragua as a pen pal, and their relationship grew deeper and deeper, ultimately they ended up married, he’s a pastor, they have a lovely family, but I remember when he’d get a letter from her he’d be so excited, joy was written across his face. He had a hard time focusing on classes. Hed be grinning like the chesrhire cat with a thousand mile stare. His body was here in florida but his heard was in nicoragua. How many of you have that level of excitement about your bible? About studying god’s word? Do you feel joy when you read it? Or is it more of a rote  and mechanical experience for you? 
+
+One of those honors God more than the other, and the other honors God more than not reading it all together. But God loved us enough to send his son to die for us, loved us enough to leave a letter for us. Loved us enough to preserve and protect that letter across the centuries for us, so that as we study it we can see it is the wholly true, and unaltered word from God. 
+
+I remember a story about Bob Clark, some of you may remember him, he was a pastor here for a lot of years. He was living life one way, as one does. He had his issues and areas where growth was needed as we all do. But then he was invited to go to this youth camp. 
+
+He spoke one night, and all he could think of to say was “god saved me, and now I’m ok”. 
+
+But that really didn’t settle well. The next night the preacher preached, and our friend continued to mull things over. The following night, the preacher preached out of revelations “I wish that you were either hot or cold, but because you are not, I will spit you out of my mouth”. He said in that moment, he knew that was him. He had been living his life lukewarm – neither hot nor cold. But right then and there, in that moment, God was speaking directly to him. It broke his heart, and he prayed, and God made a change in him. The next night he asked if he could try again, and they agreed and let him, and 100 kids became believers in jesus christ. The following night they let him preach a third time, and the rest of the kids came forward and became believers in Jesus Christ. After wards he gets home, and his wife was like “I don’t know who you are, but you’re not the same man I married, and I like it” I like this new you. He tasted, and saw that the Lord is good. He rejected the counsel of the wicked. He began to walk in the ways of righteousness. He began to feast at the banquet table God has set for us in scripture, and in relationship with God. God’s word became like honey to his lips. He began to delight in the Lord. It completely changed his approach to life. His luke warm water became a blazing bonfire, and God became his joy. His peace. His portion. His light in the darkness.
+
+As we bring things to a close, I want you to think about the illustration were given in vs 3. Someone read vs 1-3 for me. 
+
+1 Blessed is the man[a]
+    who walks not in the counsel of the wicked,
+nor stands in the way of sinners,
+    nor sits in the seat of scoffers;
+2 but his delight is in the law[b] of the Lord,
+    and on his law he meditates day and night.
+3 He is like a tree
+    planted by streams of water
+that yields its fruit in its season,
+    and its leaf does not wither.
+In all that he does, he prospers.
+
+My grandparents planted a stand of banana trees. They are kind of cool, the banana itself tastes a little bit like apple mixed with banana. They are pretty tasty. One day I was outside, and the neighbors had cut one down. It was a young banana plant, just coming up. I was upset about that. But figured I could maybe try and save it. I stuck it in a trash can full of water, and left it sit there for about a week, and then dug a hole, and planted it by the canal. 
+
+The banana tree struggled for a while. It had been cut off from its roots, and then sat in a trash can for a week. It needed constant care and attention because it lacked roots, it lacked any way of feeding itself properly. IF a strong wind had come, it would have been knocked down, if a drought had come, it would have withered and died. Daily I tended to it, and slowly over time it re-grew roots, and sent them down deep. When they finally reached the canal, the tree exploded with growth, it took in all that nutrient rich soil from the canal, and grew, and produced fruit, and produced baby banana trees. You’ve heard of “your best lifenow” for a banana tree, its best life is when its roots are deep into soil that carries the nutrients and moisture that it needs. In the right spot, the banana tree grew like crazy and was very healthy. 
+
+How do you think it did cut off from its roots? What would have happened to it? What about if it was left in the trash can? It NEEDED to be planted, it needed to have roots, it needed the nutrient rich soil along the canal bank. It needed desperately to be fed the things banana trees need. 
+
+Christian apart from God, and his word, and the church, you’re like that banana tree that’s been cut down. Can that tree grow? No. Can it heal it self? No. What can it do? Wither, die and be blown away by the winds. 
+
+Don’t raise your hands, but I want you to think about your self, and this past month. 
+
+Have you been sinking your roots down deep into scripture? Have you been feasting at the dinner table on the cruise ship? Have you been allowing your soul to be nourished by the word of God? Or are you going through life like the person sitting at the table on the cruise ship nose pinched shut, eyes closed, surrounded by the best food there is, and yet starving. 
+
+Normally we talk about the gospel at the end of the service, but today I want you guys to commit to memorizing scripture with us. 
+
+We’ve been working on 1 john 1 for a while. I think we can memorize the whole book of first john pretty easily over the next few years. We will go slow enough that everyone that tries can keep up. 
+
+I have printed up a commitment that I would like you to sign if you’re serious. Its up here at the front. Those of you that do this, I want you to sign two. Put one in the offering box. But put the second one in your bible. One is a promise to God, and the other a reminder to your self. 
+
+Don’t put it in the box if you’re not serious. 
+
+Here is mine. 
+
+Both of them. 
+
+I’m putting this one in the box, and this one in my bible. And in my phone so that my phone will remind me each day. 
+
+ As the praise team comes up and sings a final song, I want you to seek the Lord on this. If you decide not to sign it, I want you to pray and tell God why his word to you, isn’t important enough to warrant your time right now. If you can’t do that, then you’re better off signing and trying to abide by your commitment.
