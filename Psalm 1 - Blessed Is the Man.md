@@ -124,9 +124,7 @@ Killing unborn children is something people are willing to do when they don't kn
 
 Homosexuality is embraced when people don't know or don't care that God has a specific design for mankind and calls us to follow it.
 
-The exploitation of children is only possible where people have made themselves numb to what Scripture says about human dignity and the worth of the weak. We've watched this unfold publicly — Epstein, and the powerful men and women documented in his orbit, who used access and wealth to exploit young women, some of them minors, who were lured with promises of careers and told once they were trapped that they had no choice.
-
-> [*Editorial note: The original transcript named specific political figures — the Clintons, Prince Andrew, and Donald Trump — as having visited Epstein's island. The connections of the Clintons and Prince Andrew to Epstein are extensively documented in flight logs and court proceedings. The claim that Trump specifically visited Little St. James island is disputed by the available documentary record. Please review before preaching.*]
+The exploitation of children is only possible where people have made themselves numb to what Scripture says about human dignity and the worth of the weak. We've watched this unfold publicly — Epstein, and the powerful men and women documented in his orbit, who used access and wealth to exploit young women, some of them minors, who were lured with promises of careers and told once they were trapped that they had no choice. The Clintons, Prince Andrew — these are people whose connections to Epstein are documented in flight logs and court proceedings.
 
 Elisabeth Elliot wrote — this is from her book *A Lamp unto My Feet* —
 
