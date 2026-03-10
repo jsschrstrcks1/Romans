@@ -160,7 +160,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Nehemiah 2:9-19 | City in Ruins | `Nehemiah 2 - City in Ruins.md` | sermon — Midwest manure fire illustration; Nehemiah's night survey; Ground Zero illustration; life in ruins (pride/greed/lust); 1 John 2:15-17; Ordo Salutis; foreknowledge; Augustine quote; Romans 5:8 / 1 Pet 3:18 / Romans 6:23; Communion |
 | Nehemiah 2 (companion) | Corporate prayer guide — ACTS structure; adoration (omniscience, provision, protection, salvation); confession (drugs/alcohol, sexual sin, gender identity, occult); thanksgiving (God's faithfulness, sister's boyfriend being drawn to the Lord); intercession (location/building, food pantry, laborers for harvest, nation and leaders, Dave Gerner, Kenny Duffield) | `neh 2 prayer guide.md` | prayer guide |
 | Nehemiah 5 | Predatory loans and righteous anger | `neh 5.md` / `neh 5(2).md` | sermon |
-| Nehemiah 6 | Enemy attacks and spiritual warfare | `Neh 6.md` | sermon |
+| Nehemiah 6:1-9 | Stand Up for Jesus — Enemy Attacks and Spiritual Warfare | `Neh 6.md` | sermon — Ono as temptation (city name means vigorous wealth one step from wickedness; "Ono resort and conference center" from unnamed favorite preacher; cruise analogy after hard work); three enemy motives (sack city / murder Nehemiah / frame Nehemiah for rebellion); open letter as smear campaign — heads-of-state protocol context; political survey illustration (G.W. Bush axe murderer question; respondents believe rumor); Clinton/Lewinsky and Bill Cosby news cycle analogy; Cyril Barber's three attack vectors tied to Trinity (Father/sense of belonging; Son/value and worth; Holy Spirit/empowerment — doing things *for* God vs. *with* God); Mt 10:28-31 (sparrows and fear); Mt 6:26 (birds and value); Lk (sparrows bought 3 get 1 free — not one forgotten); Jn 3:16; "If our enemy can't make you bad, he will make you busy"; dying preacher / corn shelling machine — "tell them to stand up for Jesus"; hymn "Stand Up for Jesus" by George Duffield Jr. (all four stanzas); Communion (1 Cor 11:24-26 KJV) |
 | Nehemiah 7 | Gatekeepers, faithfulness, and genealogy | `Neh 7.md` | sermon |
 | Nehemiah 8 | Revival, reading scripture, and fellowship | `neh 8.md` | sermon |
 | Nehemiah 13:1-14 | Sin in the temple and gatekeeping holiness | `Neh 13.md` | sermon |
@@ -865,7 +865,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - The Magnet on the Compass.md` — 1 Samuel 17 — The compass illustration: sin as a magnet redirecting the heart's needle; "we can't even identify which way is up apart from Christ"; our will and desires corrupted (lines 98-112)
 
 ### Spiritual Warfare / Enemy Attacks
-- `Neh 6.md` — Nehemiah 6 — Enemy attacks and spiritual warfare
+- `Neh 6.md` — Nehemiah 6:1-9 — Enemy attacks and spiritual warfare; Ono illustration; Cyril Barber's three attack vectors (Father/Son/Spirit); "Stand Up for Jesus" dying preacher story; George Duffield Jr. hymn
 - `Luke 4.md` — Luke 4:1-13 — Christ's temptation; resisting sin
 - `Gen 3.md` — Genesis 3:1-6 — Serpent's deception
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Demonic power is real but limited; Eph 6:12 "we do not wrestle against flesh and blood"; Denete the witch's spells ineffective against a child of God; the occult spectrum (lines 86-90, 126-146)
