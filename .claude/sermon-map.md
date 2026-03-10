@@ -515,6 +515,7 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 | `Antigua.md` | Caribbean island and cruise port list |
 | `AutoRecovery save of Document4.md` | COVID-19 pandemic personal journal |
 | `BCO5500 Online Syllabus Fall 2018.md` | Seminary biblical counseling syllabus |
+| `Let the Nations be Glad PT 2-3.md` | Seminary book review — *Let the Nations be Glad* Parts 2–3; reflection on suffering in missions and the cost of martyrdom; Ken Baker 000210914 |
 | `bfm holy spirit.md` | Baptist Faith and Message article text |
 | `Coconut Flour Sourdough Starter Recipe and Techniques.md` | Sourdough recipe |
 | `flooring receipt.md` | Bamboo flooring receipt |
