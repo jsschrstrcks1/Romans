@@ -171,7 +171,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 1 | Neglecting scripture; twelve warnings; banana tree | `psalms 1 (12-5-19).md` | sermon |
 | Psalm 1 | Scripture as honey; twelve warnings; commitment | `psalms 1 3-15-25 (edited with AI).md` | sermon |
 | Psalm 3 | David fleeing Absalom; trusting God in desperation | `psalms 3.md` | sermon |
-| Psalm 8 / Hebrews 2 | God's majesty; Yahweh and Adonai | `Psalm 8.md` | sermon |
+| Psalm 8 / Hebrews 2 | "Our Lord, Our Lord — The Majesty That Stoops"; Yahweh and Adonai; incarnation as condescension; Hebrews 2:6-9; Copernicus illustration | `Psalm 8.md` | sermon |
 | Psalm 11 | World upside down; trusting God's foundation | `Psalms 11.md` | sermon |
 | Psalm 14 | Foolishness; the fall; God's sovereignty over free will | `ps14.md` | sermon |
 | Psalm 19 | General and special revelation of God | `Psalm 19.md` | sermon |
@@ -190,7 +190,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 63:1-8 | Thirsting for God; worship in the wilderness | `psalms 63.md` | sermon |
 | Psalm 68:1-4 | Power of God; nothing too difficult | `Psalms 68 (2).md` | sermon |
 | Psalm 75 / 1 Peter 1:13+ | God's judgment and holiness | `Psalms 75.md` | sermon |
-| Psalm 78:1-8 | Remembering God's deeds; teaching children | `psalm 78.md` | sermon |
+| Psalm 78:1-8 | "Don't Forget What the Lord Has Done"; teaching the next generation; Word/church/testimony as triple lifeline; JFK Jr. illustration; 9/11 memory; Hurricane Irma | `psalm 78.md` | sermon |
 | Psalm 84 | Dwelling in God's house; vacation analogy | `Psalms 84(1).md` | sermon |
 | Psalm 84 | Delight, strength, and trust in the Lord | `Psalms 84 (2).md` | sermon |
 | Psalm 84 | Sparrows; dwelling in God's presence; valley of tears | `psalms 84 - better is one day (AutoRecovered).md` | sermon |
