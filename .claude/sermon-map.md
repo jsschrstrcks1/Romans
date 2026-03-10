@@ -158,6 +158,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Nehemiah 1 | Brokenness, prayer, and Humpty Dumpty analogy | `Neh 1.md` | sermon |
 | Nehemiah 1 | Hebrew word Chesed; God's steadfast love | `neh 1 second.md` | study |
 | Nehemiah 2:9-19 | City in Ruins | `Nehemiah 2 - City in Ruins.md` | sermon — Midwest manure fire illustration; Nehemiah's night survey; Ground Zero illustration; life in ruins (pride/greed/lust); 1 John 2:15-17; Ordo Salutis; foreknowledge; Augustine quote; Romans 5:8 / 1 Pet 3:18 / Romans 6:23; Communion |
+| Nehemiah 2 (companion) | Corporate prayer guide — ACTS structure; adoration (omniscience, provision, protection, salvation); confession (drugs/alcohol, sexual sin, gender identity, occult); thanksgiving (God's faithfulness, sister's boyfriend being drawn to the Lord); intercession (location/building, food pantry, laborers for harvest, nation and leaders, Dave Gerner, Kenny Duffield) | `neh 2 prayer guide.md` | prayer guide |
 | Nehemiah 5 | Predatory loans and righteous anger | `neh 5.md` / `neh 5(2).md` | sermon |
 | Nehemiah 6 | Enemy attacks and spiritual warfare | `Neh 6.md` | sermon |
 | Nehemiah 7 | Gatekeepers, faithfulness, and genealogy | `Neh 7.md` | sermon |
