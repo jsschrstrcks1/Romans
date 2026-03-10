@@ -328,6 +328,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Romans 3:10-end | No one righteous; righteousness given not earned | `Romans 3 - pt 2.md` | sermon |
 | Romans 4:1-8 | Justification by faith; credited righteousness | `Romans 4 - In Christ Alone...md` | sermon |
 | Romans 5:1-11 | Peace with God; love poured out; wrath satisfied | `Romans 5.md` | sermon |
+| Romans 8:12–17, 31–39 | Debtors to the Spirit; adoption; election; security of salvation; mini-golf debt illustration; title misspelled in original ("Debters"); 9 outstanding items in file: Romans 3:23 misapplied for death penalty (should be 6:23), Isaiah 66:1 conflation (heavens vs. earth as footstool), Romans 5:8 and 10:9 paraphrases differ from ESV, "demons" added to 8:38 list | `romans 8 12-17 debtors to the spirit.md` | sermon |
 | Romans 8:26+ | Order of salvation and BFM | `Ordo Solutis Romans 8.md` | teaching |
 | Romans 12 | Racial injustice; weeping with those who weep | `romans 12 - weep with those who weep.md` | sermon |
 | Romans 10:14-21 | Gospel chain; how shall they hear; proclamation and missions | `The Gospel Chain.md` | sermon |
@@ -407,6 +408,8 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 |---|---|---|---|
 | 1 Timothy 1:3-14 | Paul's final letter; crisis of faith in Asia; last charge to Timothy | `1 tim 1 vs 3.md` | sermon |
 | 1 Timothy 2:1-7 | Christ alone as mediator and savior | `Sola Christus.md` / `Sola Christus (AutoRecovered).md` | sermon |
+| 1 Timothy 2:1-7 | Solus Christus (week 3 of Five Solas); Reformation history intro; Baptist lineage; Wycliffe; Kashmiri Pandits people group; three roles of Christ (Prophet, Priest, King); Luther quotes ×2 (sources unverified); J.C. Ryle quote (source unverified); Toplady quote (source unverified); Steven Lawson quote (source unverified); Chris Tomlin "More Than Enough" (verify album); 15 outstanding items in file including critical errors: John 14:66 → 14:6; Luther translated from Greek/Hebrew not Latin; Knox did not die as martyr; Semper Fidelis not "siempre fidelis"; J.M. Carroll not "James Carroll"; Sacré-Cœur dedication inaccurate | `1 tim 2 1-7 sola christus.md` | sermon |
+| 1 Timothy 2:1-7 | Solus Christus — earlier preaching ca. October 2020 (election reference dates sermon); no Reformation history intro; people group blank in transcript; series order differs (Sola Gratia wk 1, Sola Fide wk 2, Solus Christus wk 3); same core body as the later version; same critical errors: John 14:66 → 14:6, Sacré-Cœur dedication inaccurate; same unverified quotes: Luther ×2, Ryle, Toplady, Lawson, Tomlin; 10 outstanding items in file | `1 tim 2 1-7 sola christus 2020.md` | sermon |
 | 1 Timothy 2 | Prayer for rulers; Dhanuk people of India; government and the church | `1 tim 2 pray for our leaders.md` | sermon |
 | 1 Timothy 2 | Women and authority in the church | `1 tim 2.md` | sermon |
 
@@ -526,6 +529,8 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 | `scripture memorization 1 john 1.md` | Memorization schedule |
 | `1 john 1 memorization.md` | Memorization schedule |
 | `5.md` | Seminary interpretive paper assignment notes |
+| `Second Timothy 4 (Paper).md` | Seminary hermeneutics paper on 1 Timothy 4:1-5 (PRS6100, Spring 2020) |
+| `easter 2020 - 2 tim 4 1-5 (sebts version).md` | Seminary hermeneutics manuscript on 1 Timothy 4:1-5 (SEBTS version, Spring 2020) |
 | `To FEMA Appeals Processor.md` | FEMA appeal letter |
 | `To the FEMA Appeals Agent.md` | FEMA appeal letter |
 | `To.md` | FEMA appeal for flood damage |
@@ -645,6 +650,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `jer 44.md` — Jeremiah 44 / Mt 28 — Disobedience in evangelism as idolatry
 - `rev 20.md` — Revelation 20:11-15 — Horrors of hell; urgency of missions
 - `1 cor 9.md` — 1 Corinthians 9:19-23 — Motivation for sharing the gospel
+- `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` — 1 Corinthians 9:19-23 — Why share the gospel; duty vs. joy as motive; "starving beggars telling other starving beggars where they found a feast"; invest in worship to fuel evangelism
 - `col 4 - prayer.md` / `prayer col 4.md` — Colossians 4:2-4 — Prayer and evangelism
 - `Psalms 96.md` — Psalm 96 — Evangelism as worship
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Evangelism framework for the occult; power encounter; Creation-Fall-Cross-Redemption
@@ -671,6 +677,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 ### Gospel / Justification / Righteousness
 - `Romans 3 - pt 2.md` — Romans 3:10-end — No one righteous
 - `Romans 4...md` — Romans 4:1-8 — Credited righteousness
+- `Romans 4 - In Christ Alone- Where Justice Meets Grace.md` — Romans 4:1-8 — Justification by faith; logizomai (crediting righteousness); Abraham and David as proof; "ledger of the guilty" illustration; Spurgeon, Calvin, Edwards, Sproul quotes; wages of sin vs. gift of grace
 - `gal 2.md` — Galatians 2:15-end — Justification by faith
 - `2 cor 5.md` — 2 Corinthians 5:16-6:3 — New creation
 - `John 14 - exclusivity of the gospel..md` — John 14:1-16 — Christ as the only way
@@ -680,6 +687,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 5.md` — Romans 5:1-11 — While we were still sinners
 - `Romans 11 - The Remnant of Grace.md` — Romans 11:1-10 — Grace leaves no room for works
 - `Leprosy - naaman - 2kings 5.md` — 2 Kings 5 — Naaman; grace through obedience
+- `Leprosy - naaman - 2kings 5 2024.md` — 2 Kings 5 — Naaman; 2024 revision of the Naaman grace sermon
 - `sola gracia.md` / `sola gracia 2021.md` — John 6 — Grace alone
 - `sola gracia phil 3.md` — Philippians 3:1-12 — Grace alone; Paul's résumé as refuse; total depravity
 
@@ -781,6 +789,14 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `romans 12 - weep with those who weep.md` — Romans 12 — Racial injustice; weeping
 - `Romans 15a...md` — Romans 15:7-12 — Jew and Gentile; one voice
 
+### Resources / Unattributed Material
+
+- `signs-of-spiritual-coldness-checklist.txt` — No passage identified. ~40-point checklist of
+  signs of spiritual coldness / backsliding. Source unknown; style resembles Nancy DeMoss
+  Wolgemuth's *Seeking Him* or Revive Our Hearts material. COVID-era ("or the virus" phrase).
+  CRITICAL: Do not use from the pulpit as original material until source is confirmed.
+  Research lead and verification path documented in the file.
+
 ### Revival / Scripture / Word of God
 - `neh 8.md` — Nehemiah 8 — Revival; reading scripture
 - `Psalms 119.md` — Psalm 119:161-168 — Treasure of scripture; Bible smuggling
@@ -791,6 +807,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Scripture has a "washing effect"; have them read it aloud; the sufficiency of Scripture vs. the Pope's chair (lines 69, 151-155)
 
 ### Salvation / Conversion / New Birth
+- `romans 8 12-17 debtors to the spirit.txt` — Romans 8:12–17, 31–39 — Debt that cannot be repaid; Christ pays it; adoption as sons; "Abba, Father"; election (Romans 8:28–30); security of salvation; gospel invitation; mini-golf illustration
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Deathbed conversion; grace
 - `2 cor 5.md` — 2 Corinthians 5:16-6:3 — New creation
 - `ezekiel 37.md` — Ezekiel 37 — Dry bones; spiritual resurrection
@@ -810,6 +827,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `John 10.md` — John 10:7-11 — Wicket gate; good shepherd
 
 ### Sin / Depravity / The Fall
+- `romans 8 12-17 debtors to the spirit.md` — Romans 8:12–17 — Living by the flesh; debt of sin; humanity chose the Fall; traded perfection for corruption
 - `Gen 3.md` — Genesis 3:1-6 — The fall; trusting self over God
 - `hamartiology.md` — Colossians 3:1-11 — Doctrine of sin
 - `Romans 1.md` / `Romans 1 (2024).md` — Romans 1 — Suppression of truth
@@ -866,6 +884,8 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Psalms 100.md` / `Psalms 100(2).md` — Psalm 100 — Serving with gladness
 - `psalms 84...md` (multiple) — Psalm 84 — Dwelling in God's presence
 - `Imagine tomorrow was your anniversary.md` — Worshipping from love not obligation
+- `The Lords day.md` — Romans 14:1-12 — Lord's Day; Sabbath freedom; legalism vs. liberty; opens with Meo people group prayer; paraphrase of Mk 2:27 (the Sabbath is for man, not man for the Sabbath)
+- `The Lords day romans 14 gal 4.md` — Romans 14 / Galatians 4 — Lord's Day; variant manuscript with Galatians 4 cross-reference
 
 ---
 
