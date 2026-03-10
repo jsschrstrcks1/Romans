@@ -283,6 +283,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Luke 9:57-62 | Cost of following Christ vs prosperity gospel | `Luke 9 - cost of following christ.md` | sermon |
 | Luke 10:38-42 | Mary and Martha; prioritizing time with God | `Good morning.md` | sermon |
 | Luke 14 | Parable of the Great Banquet; rejecting God's invitation | `Luke 14.md` | sermon |
+| Luke 14:25-35 | "On His Terms" — cost of discipleship; superior love over family; count the cost; saltless salt warning | `Luke 14 25-35.md` | sermon |
 | Luke 23:1-25 | Jesus vs Barabbas; what people wanted vs needed | `Luke 23.md` | sermon |
 | Luke 23:13-25 | Man's injustice vs God's justice at Easter | `easter 24.md` | sermon |
 
@@ -605,6 +606,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Discipleship / Cost of Following Christ
 - `Luke 9 - cost of following christ.md` — Luke 9:57-62 — Cost vs prosperity gospel
+- `Luke 14 25-35.md` — Luke 14:25-35 — "On His Terms" — superior love, count the cost, saltless salt
 - `mark 10 - sun june 2nd.md` — Mark 10:32-45 — Discipleship posture
 - `Following Christ - dilligence.md` — Mark 10:32-45 — Diligence in following
 - `Romans_6b_with_boulder.md` — Romans 6:15-23 — Whose slave are you?
