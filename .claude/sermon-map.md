@@ -283,6 +283,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Luke 2 | Christmas sermon — Longfellow's "I Heard the Bells" and the sovereignty of God; nativity as the first gospel proclamation; family tradition of reading Luke 2 before gifts | `Luke 2.md` | sermon |
 | Luke 4:1-13 | Christ's temptation; resisting sin at weak moments | `Luke 4.md` | sermon |
 | Luke 8 | Calming the storm; trusting God in storms | `Luke 8.md` | sermon |
 | Luke 9:57-62 | Cost of following Christ vs prosperity gospel | `Luke 9 - cost of following christ.md` | sermon |
