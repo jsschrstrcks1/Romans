@@ -96,6 +96,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Genesis 3:1-6 | Importance of Scripture; danger of trusting self over God | `Gen 3.txt` | sermon |
 | Genesis 11 | Tower of Babel; self-reliance vs trusting God | `Gen 11 - thru the bible in a year.txt` | sermon |
 | Genesis 37 | Joseph as a type of Christ | `Sermon 2 gen 37 joeseph.txt` | sermon |
+| Genesis 37–50 | Joseph typology reference — comprehensive Christ-parallels across the full narrative *(research doc)* | `Study - Joseph as a Type of Christ (typology reference).md` | ⚠️ All Scripture refs should be verified against each passage before preaching; typology is suggestive, not exhaustive |
 
 ### Exodus
 
@@ -211,7 +212,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Proverbs 13 | Generation gaps; Puritan education; wise companions | `prov 13.txt` | sermon |
-| Proverbs 13 | Generation gaps; Puritan education; Paul Washer / Puritan schoolbook; 700% Ngram claim; Edwin Starr; screen time stats; Live PD / Pasco deputy; Proverbs 13:20 *(raw draft)* | `Proverbs 13 (raw draft).md` | ⚠️ Edwin Starr / Lockheed Martin claim — HIGH RISK, very likely false, remove or verify from primary source; ⚠️ "700% decline" stat — needs citation; ⚠️ 3–7 hrs screen time stat — needs citation; ⚠️ 3 hrs Puritan scripture study — needs citation; ⚠️ Paul Washer book story — identify the specific Puritan book; ❌ "Isaac Newton wrote a paper about earth being round" — rephrase: Newton's work was gravity; earth-roundness precedes even Greek philosophers via Isaiah 40:22; ❌ "spare the rod, spoil the child" — paraphrase, not Bible quote; use Prov 13:24 ESV; ⬜ pew Bible page number — fill before Sunday |
+| Proverbs 13 | Generation gaps; Puritan education; Paul Washer / Puritan schoolbook; 700% Ngram claim; Edwin Starr; screen time stats; Live PD / Pasco deputy; Proverbs 13:20 *(raw draft)* | `Proverbs 13 (raw draft).md` | ✅ Paul Washer book — VERIFIED: "Depth of the Gospel Pt. 2" (SermonAudio/SermonIndex); book titled *Logic*, a Puritan logic primer; cover showed schoolmaster (not schoolmarm); say "a book on logic," don't claim the title; ❌ Edwin Starr / Lockheed Martin — CONFIRMED FALSE: no connection exists; Starr was an antiwar activist cheated of royalties; remove investor claim entirely; song reference is fine; ❌ "700% decline" — WRONG FIGURE: Ngram shows 61–76% real decline; "700%" is mathematically incoherent; rephrase as "dropped to a fraction of what it was a century ago"; ❌ "3–7 hrs screen time" — no single study uses this range; Common Sense Media (2021): tweens avg 5h33m, teens avg 8h39m; real figures are higher; say "5 to 9 hours daily"; ❌ "3 hrs Puritan scripture study" — UNVERIFIABLE: no historical source found; rephrase as Scripture being center of their entire education; ❌ "Isaac Newton / earth round" — CORRECTED IN DRAFT: Isaiah 40:22 (~700 BC) predates Aristotle (~350 BC); Newton irrelevant; ⚠️ "spare the rod, spoil the child" — paraphrase, not Bible quote; use Prov 13:24 ESV in delivery; ⬜ pew Bible page number — fill before Sunday |
 
 ### Ecclesiastes
 
@@ -374,6 +375,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Philippians 1:27-2:16 | Manner of life worthy of the gospel | `phil 2.txt` | sermon |
 | Philippians 3:1 | Rejoicing and God's sovereignty | `Philippians 3 - 2025.txt` | sermon |
 | Philippians 4:4-7 | Stress, anxiety, and rejoicing in the Lord | `Philipians 4.txt` | sermon |
+| Philippians 4 (broad) | Rejoicing in division; politics vs. gospel; eternal perspective; guarding the mind; Mo-Jer-Hai people group *(raw draft)* | `Philippians 4 (raw draft).md` | ⚠️ Mo-Jer-Hai people group details — verify against Joshua Project before preaching; ⚠️ C.T. Studd quote — verify exact wording; ⚠️ Samuel Sey quote — verify attribution/wording; ⚠️ "lovely" (*prosphilēs*) hapax claim + LXX occurrences — verify; ⚠️ *semnos* = "noble" — verify Greek; ⚠️ Spurgeon quote — verify wording; ⚠️ Richard Baxter quote — verify wording and source; ⬜ pew Bible page number |
 
 ### Colossians
 
