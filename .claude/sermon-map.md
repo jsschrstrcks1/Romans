@@ -473,6 +473,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Revelation 2:1-7 | Forgotten first love; Remember / Repent / Return; seven-sign diagnostic list; Greg Morse (verified: "Have You Left Your First Love?" DG, Apr 10 2025); Jer 2:5 paraphrase noted; Heb 4:16 verified; "Come Thou Fount" v.3 verified; Amazon/Peru illustration; Chamar of India people group | `rev 2 1-7 forgotten first love.md` | sermon |
 | Revelation 20:11-15 | Horrors of hell; urgency of missions and evangelism | `rev 20.md` | sermon |
 
 ---
