@@ -109,6 +109,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Numbers 11:1-15 | Discontentment as sin (distrust, complaint against God's plan, coveting, denying God's wisdom); God's wrath; Burroughs on good interpretations of God's dealings; cure in Philippians 3:8 and keeping eyes on Christ; lottery winner illustration | `Numbers 11.md` | sermon |
 | Numbers 21:5-9 | Bronze serpent in the wilderness; Israel's grumbling; type of Christ lifted up; cross-references 1 Cor 10:9 and John 3:14-21 | `Numbers 21 John 3.md` | sermon |
 
 ### 1 Samuel
