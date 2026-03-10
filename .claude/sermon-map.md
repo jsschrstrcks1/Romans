@@ -63,6 +63,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | 1 Samuel 28 | Power Encounter | `Sermon - Power Encounter.md` | Mediums; the occult; Wicca; spiritual warfare; evangelism to occultists |
 | 1 Kings 18:33-41 | Choose This Day | `Sermon - Choose This Day.md` | Elijah vs Baal; double-mindedness; idolatry; God's jealousy |
 | 1 Corinthians 3:10-15 | What Survives the Fire | `Sermon - What Survives the Fire.md` | Judgment of works; stewardship of time; legacy; Polycarp's martyrdom |
+| 1 Thessalonians 5:12-24 | Rejoice Always *(raw draft)* | `1 Thess 5 - Rejoice Always (raw draft).md` | Dad's stroke (Christmas Eve); Spurgeon quote (unverified — Facebook source); Shane and Shane "Though You Slay Me" (Job 13:15); 2 Cor 11:24-33 Paul's sufferings; de Gaulle/French Resistance illustration; ⚠️ "3 million French" overstated (actual ~1.3M); ⚠️ "Communists defeated" historically wrong |
 | 1 Thessalonians 3:12-4:8 | The List I Burned | `Sermon - The List I Burned.md` | Love (1 Cor 13); acts of service; sexual purity; keeping no record of wrong |
 | 1 Peter 1:1-9 | Wear the Jersey | `Sermon - Wear the Jersey.md` | Election (*eklektos*); identity in Christ; exile; Easter; living hope |
 | 1 Peter 3:8-18 | Live Like You're Leaving | `Sermon - Live Like You're Leaving.md` | Unity of mind; brotherly love; eternity perspective; tipping as witness |
@@ -95,9 +96,12 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Genesis 1–2 | Gap Theory refuted; Hebrew chiasm in creation week; creation reflects God; Sabbath; beautiful but not safe | `Gen 1-2 - beautiful but not safe.txt` | sermon |
 | Genesis 3:1-6 | Importance of Scripture; danger of trusting self over God | `Gen 3.md` | sermon |
 | Genesis 11 | Tower of Babel; self-reliance vs trusting God | `Gen 11 - thru the bible in a year.md` | sermon |
+| Genesis 29:3-15 | Jacob and Laban; Laban as case study in depravity; you reap what you sow; total depravity; gospel | `Gen 29 - depravity of man.txt` | sermon |
 | Genesis 37 | Joseph as a type of Christ | `Sermon 2 gen 37 joeseph.md` | sermon |
+| Genesis 37–50 | Joseph typology reference — comprehensive Christ-parallels across the full narrative *(research doc)* | `Study - Joseph as a Type of Christ (typology reference).md` | ⚠️ All Scripture refs should be verified against each passage before preaching; typology is suggestive, not exhaustive |
 
 ### Exodus
 
@@ -154,9 +158,10 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Nehemiah 1 | Brokenness, prayer, and Humpty Dumpty analogy; Ring Around the Rosie / Black Death; John Knox "Give me Scotland"; plaster mold illustration; original sin; Rom 6:23; James 2:19; 1 Cor 11:23-26 (communion) | `Neh 1.md` | sermon |
 | Nehemiah 1 | Hebrew word Chesed; God's steadfast love | `neh 1 second.md` | study |
 | Nehemiah 2:9-19 | City in Ruins | `Nehemiah 2 - City in Ruins.md` | sermon — Midwest manure fire illustration; Nehemiah's night survey; Ground Zero illustration; life in ruins (pride/greed/lust); 1 John 2:15-17; Ordo Salutis; foreknowledge; Augustine quote; Romans 5:8 / 1 Pet 3:18 / Romans 6:23; Communion |
+| Nehemiah 2 (companion) | Corporate prayer guide — ACTS structure; adoration (omniscience, provision, protection, salvation); confession (drugs/alcohol, sexual sin, gender identity, occult); thanksgiving (God's faithfulness, sister's boyfriend being drawn to the Lord); intercession (location/building, food pantry, laborers for harvest, nation and leaders, Dave Gerner, Kenny Duffield) | `neh 2 prayer guide.md` | prayer guide |
 | Nehemiah 4 | Dealing with Criticism; constructive vs. destructive criticism; Sanballat/Tobiah mockery; fox/jackal (*shu'al*); imprecatory prayer; Ordo Salutis — conformation; Eph 2; Rom 6:23; Rev 3:20; Rom 10:9 | `nehemiah 4 - dealing with criticism.md` | sermon |
 | Nehemiah 5 | Predatory loans and righteous anger | `neh 5.md` / `neh 5(2).md` | sermon |
-| Nehemiah 6 | Enemy attacks and spiritual warfare | `Neh 6.md` | sermon |
+| Nehemiah 6:1-9 | Stand Up for Jesus — Enemy Attacks and Spiritual Warfare | `Neh 6.md` | sermon — Ono as temptation (city name means vigorous wealth one step from wickedness; "Ono resort and conference center" from unnamed favorite preacher; cruise analogy after hard work); three enemy motives (sack city / murder Nehemiah / frame Nehemiah for rebellion); open letter as smear campaign — heads-of-state protocol context; political survey illustration (G.W. Bush axe murderer question; respondents believe rumor); Clinton/Lewinsky and Bill Cosby news cycle analogy; Cyril Barber's three attack vectors tied to Trinity (Father/sense of belonging; Son/value and worth; Holy Spirit/empowerment — doing things *for* God vs. *with* God); Mt 10:28-31 (sparrows and fear); Mt 6:26 (birds and value); Lk (sparrows bought 3 get 1 free — not one forgotten); Jn 3:16; "If our enemy can't make you bad, he will make you busy"; dying preacher / corn shelling machine — "tell them to stand up for Jesus"; hymn "Stand Up for Jesus" by George Duffield Jr. (all four stanzas); Communion (1 Cor 11:24-26 KJV) |
 | Nehemiah 7 | Gatekeepers, faithfulness, and genealogy | `Neh 7.md` | sermon |
 | Nehemiah 8 | Revival, reading scripture, and fellowship | `neh 8.md` | sermon |
 | Nehemiah 13:1-14 | Sin in the temple and gatekeeping holiness | `Neh 13.md` | sermon |
@@ -174,8 +179,10 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 1 | Two paths; blessed life; downward progression of sin | `Psalms 1.md` | sermon |
 | Psalm 1 | Neglecting scripture; twelve warnings; banana tree | `psalms 1 (12-5-19).md` | sermon |
 | Psalm 1 | Scripture as honey; twelve warnings; commitment | `psalms 1 3-15-25 (edited with AI).md` | sermon |
+| Psalm 2:1-12 | Nations raging; royal/prophetic psalm; David and Christ; God's laughter; persecution *(raw draft)* | `Psalm 2 (raw draft).md` | Evening service; double-entendre prophecy model; persecuted church (IDOP); Edwards "Sinners in the Hands" (two quotes); Insanity of God documentary; gospel invitation; ⚠️ Heb 13:3 is KJV not ESV; ⚠️ Edwards Q2 transcription error; ⚠️ "Lord" should be "LORD" in quoted Psalm 2; ⚠️ IDOP date verify; ⚠️ "53 countries" verify |
 | Psalm 3 | David fleeing Absalom; trusting God in desperation | `psalms 3.md` | sermon |
-| Psalm 8 / Hebrews 2 | God's majesty; Yahweh and Adonai | `Psalm 8.md` | sermon |
+| Psalm 8 / Hebrews 2 | "Our Lord, Our Lord — The Majesty That Stoops"; Yahweh and Adonai; incarnation as condescension; Hebrews 2:6-9; Copernicus illustration | `Psalm 8.md` | sermon |
+| Psalm 8 / Hebrews 2 | Majesty of God; Yahweh/Adonai; Caño Cristales; David Platt Muslim cab driver; J.C. Ryle "cheap Christianity"; MacArthur/Romans 6; "How He Loves"; People Group of the Week *(raw draft)* | `Psalm 8 - Hebrews 2 (raw draft).md` | ❌ "in the Greek" → "in the Hebrew"; ❌ Deut 20:9 → Deut 32:9; ❌ volcano detail wrong (Guiana Shield, non-volcanic); ❌ "filthy rags" KJV → ESV "polluted garment" (Isa 64:6); ❌ Looe Key spelling; ⚠️ Platt cab story unverifiable — needs citation or remove attribution; ⚠️ Edwards quote unverified in primary sources — do not attribute without source; ⚠️ MacArthur quote unverified — paraphrase of Rom 6:18–19, attribute to text; ✅ Ryle quote genuine (*Holiness* p.204, minor wording differences only); ✅ "How He Loves" by John Mark McMillan (Crowder cover) |
 | Psalm 11 | World upside down; trusting God's foundation | `Psalms 11.md` | sermon |
 | Psalm 14 | Foolishness; the fall; God's sovereignty over free will | `ps14.md` | sermon |
 | Psalm 19 | General and special revelation of God | `Psalm 19.md` | sermon |
@@ -194,8 +201,9 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 56 | Is Jesus worth it; Pilgrim's Progress | `psalm 56.md` | sermon |
 | Psalm 63:1-8 | Thirsting for God; worship in the wilderness | `psalms 63.md` | sermon |
 | Psalm 68:1-4 | Power of God; nothing too difficult | `Psalms 68 (2).md` | sermon |
+| Psalm 68:1-6 | Father of the Fatherless *(raw draft — Part 2)* | `Psalm 68 Part 2 (raw draft).md` | Continuation of series; Baal contrast (rides through deserts); Elijah/Baal prophets (1 Kings 18); adoption; widows/orphans; seed metaphor; Japanese of Japan people group; ⚠️ Prov 27:17 is NIV not ESV; ⚠️ 1 Kgs 18 "Lord" should be "LORD"; ⚠️ prophet count 850 not ~1,000 |
 | Psalm 75 / 1 Peter 1:13+ | God's judgment and holiness | `Psalms 75.md` | sermon |
-| Psalm 78:1-8 | Remembering God's deeds; teaching children | `psalm 78.md` | sermon |
+| Psalm 78:1-8 | "Don't Forget What the Lord Has Done"; teaching the next generation; Word/church/testimony as triple lifeline; JFK Jr. illustration; 9/11 memory; Hurricane Irma | `psalm 78.md` | sermon |
 | Psalm 84 | Dwelling in God's house; vacation analogy | `Psalms 84(1).md` | sermon |
 | Psalm 84 | Delight, strength, and trust in the Lord | `Psalms 84 (2).md` | sermon |
 | Psalm 84 | Sparrows; dwelling in God's presence; valley of tears | `psalms 84 - better is one day (AutoRecovered).md` | sermon |
@@ -216,6 +224,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Proverbs 13 | Generation gaps; Puritan education; wise companions | `prov 13.md` | sermon |
+| Proverbs 13 | Generation gaps; Puritan education; Paul Washer / Puritan schoolbook; 700% Ngram claim; Edwin Starr; screen time stats; Live PD / Pasco deputy; Proverbs 13:20 *(raw draft)* | `Proverbs 13 (raw draft).md` | ✅ Paul Washer book — VERIFIED: "Depth of the Gospel Pt. 2" (SermonAudio/SermonIndex); book titled *Logic*, a Puritan logic primer; cover showed schoolmaster (not schoolmarm); say "a book on logic," don't claim the title; ❌ Edwin Starr / Lockheed Martin — CONFIRMED FALSE: no connection exists; Starr was an antiwar activist cheated of royalties; remove investor claim entirely; song reference is fine; ❌ "700% decline" — WRONG FIGURE: Ngram shows 61–76% real decline; "700%" is mathematically incoherent; rephrase as "dropped to a fraction of what it was a century ago"; ❌ "3–7 hrs screen time" — no single study uses this range; Common Sense Media (2021): tweens avg 5h33m, teens avg 8h39m; real figures are higher; say "5 to 9 hours daily"; ❌ "3 hrs Puritan scripture study" — UNVERIFIABLE: no historical source found; rephrase as Scripture being center of their entire education; ❌ "Isaac Newton / earth round" — CORRECTED IN DRAFT: Isaiah 40:22 (~700 BC) predates Aristotle (~350 BC); Newton irrelevant; ⚠️ "spare the rod, spoil the child" — paraphrase, not Bible quote; use Prov 13:24 ESV in delivery; ⬜ pew Bible page number — fill before Sunday |
 
 ### Ecclesiastes
 
@@ -291,6 +300,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Luke 14 | Parable of the Great Banquet; rejecting God's invitation | `Luke 14.md` | sermon |
 | Luke 23:1-25 | Jesus vs Barabbas; what people wanted vs needed | `Luke 23.md` | sermon |
 | Luke 23:13-25 | Man's injustice vs God's justice at Easter | `easter 24.md` | sermon |
+| Luke 23:32-43 | Two thieves; lēstai; Dismas and the unrepentant thief; apologetics of the resurrection | `Luke 23 32ff - two thieves.txt` | sermon |
 
 ### John
 
@@ -389,6 +399,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Philippians 3:1-12 | Sola Gratia; Paul's résumé as refuse; Luther; indulgences; BFM Article V; total depravity; Ephesians 2 summary; John 6:44, 65; Jonathan Edwards and Billy Sunday quotes; James Petigru Boyce [attribution flagged] | `sola gracia phil 3.md` | sermon |
 | Philippians 3:2–16 | Following hard after God; σκύβαλα (skubala); Spicq and Manning on Greek lexicography; Tozer on Abraham and idols of the heart; Piper compilation (Tozer, Bernard, Henry); H.B. Charles at Southeastern; William Cowper hymn; multiple citations flagged for verification | `phil 3 2-16 following hard after god.md` | sermon |
 | Philippians 4:4-7 | Stress, anxiety, and rejoicing in the Lord | `Philipians 4.md` | sermon |
+| Philippians 4 (broad) | Rejoicing in division; politics vs. gospel; eternal perspective; guarding the mind; Mo-Jer-Hai people group *(raw draft)* | `Philippians 4 (raw draft).md` | ⚠️ Mo-Jer-Hai people group details — verify against Joshua Project before preaching; ⚠️ C.T. Studd quote — verify exact wording; ⚠️ Samuel Sey quote — verify attribution/wording; ⚠️ "lovely" (*prosphilēs*) hapax claim + LXX occurrences — verify; ⚠️ *semnos* = "noble" — verify Greek; ⚠️ Spurgeon quote — verify wording; ⚠️ Richard Baxter quote — verify wording and source; ⬜ pew Bible page number |
 
 ### Colossians
 
@@ -422,6 +433,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | 2 Timothy 1 | Faithfulness under betrayal; fanning the gift; guarding the deposit | `2 Tim 1.md` | sermon |
+| 2 Timothy 3:1-5 | Heathens gonna heath; lovers of self; lovers of money; appearance of godliness; Peter vs. Judas; gospel | `2 Tim 3 - heathens gonna heath.txt` | sermon |
 | 2 Timothy 3:13-17 | Scripture alone as ultimate authority | `sola scriptura.md` / `Sola Scriptura 24.md` | sermon |
 | 2 Timothy 3:13–17 | Sola Scriptura; 2020 election pastoral remarks; political idolatry; Luther on Scripture (4 quotes, sources unlocated); BFM Article I; Masoretes; Dead Sea Scrolls; Romans 13:1 cited in sermon as "Romans 12" (error noted in file); quote attributed to "Trevor Noah" flagged as probable misattribution (see file); pastor's claim that Catholic Church declared earth flat flagged as historically inaccurate (see file); Dead Sea Scrolls age figure flagged for correction (see file) | `2 tim 3 13-17 sola scriptura.md` | sermon |
 | 2 Timothy 3:14+ | Authority and sufficiency of Scripture | `2 tim 3.md` | sermon |
@@ -432,7 +444,9 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Titus 1:1-5 | Introduction to Titus; bondservant (δοῦλος) theology; Sanctus martyr illustration; false teaching and compromise | `Titus 1.md` | sermon |
+| Titus 1:1-4 | Slavery as a picture of salvation; Paul's use of doulos; Hammurabi's Code vs Mosaic Law; Christ paid our slave debt | `Titus 1 - slavery.txt` | sermon |
 | Titus 2:11-14; Romans 5:8-10 | Christian hope in the second coming | `Titus 2 pt 2.md` | sermon |
+| Titus 3:1-7 | Submission to authorities; political idolatry; Tim Keller on religion vs. gospel; gospel invitation | `Titus 3 - dumb laws.txt` | sermon |
 
 ### Hebrews
 
@@ -484,6 +498,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Topic | Passage | File | Type |
 |---|---|---|---|
+| Eschatology: Rapture | Matthew 24 (Olivet Discourse) + key rapture passages | `Rapture - Study Paper (incomplete draft).md` | study paper (incomplete) — pre-millennial presupposition; compares Pre-Wrath, Pre-Trib, Post-Trib; ⚠️ Pre-Wrath ≠ Mid-Trib (flag in draft); draft cuts off at start of Scripture section |
 | Five Solas: Sola Scriptura | 2 Timothy 3:13-17 | `sola scriptura.md` / `Sola Scriptura 24.md` | sermon |
 | Five Solas: Sola Gratia | John 6:43-65 | `sola gracia.md` / `sola gracia 2021.md` | sermon |
 | Five Solas: Sola Gratia | Philippians 3:1-12 | `sola gracia phil 3.md` | sermon |
@@ -499,6 +514,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Christian Science | John 14:1-7 | `Christian science...md` | teaching |
 | Cultural Marxism | Romans 10:12-13 | `Cultural Marxism.md` | teaching |
 | Evangelism / Missions | Mt 28; Rom 15; Rev 7 | `Evangelism.md` / `evangelism...md` | sermon |
+| God's Aseity / Missions / Hell | Mk 9:48-49; Is 66:24; 2 Pet 2:17; Mt 24:51; Mt 13:49-50; Is 59:2 | `Missions and Hell - why it matters.txt` | sermon |
 | Adoption (Theology) | Galatians 3-4 | `Adoption.md` / `adoption - gal 3.md` | sermon |
 
 ---
@@ -850,7 +866,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - The Magnet on the Compass.md` — 1 Samuel 17 — The compass illustration: sin as a magnet redirecting the heart's needle; "we can't even identify which way is up apart from Christ"; our will and desires corrupted (lines 98-112)
 
 ### Spiritual Warfare / Enemy Attacks
-- `Neh 6.md` — Nehemiah 6 — Enemy attacks and spiritual warfare
+- `Neh 6.md` — Nehemiah 6:1-9 — Enemy attacks and spiritual warfare; Ono illustration; Cyril Barber's three attack vectors (Father/Son/Spirit); "Stand Up for Jesus" dying preacher story; George Duffield Jr. hymn
 - `Luke 4.md` — Luke 4:1-13 — Christ's temptation; resisting sin
 - `Gen 3.md` — Genesis 3:1-6 — Serpent's deception
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Demonic power is real but limited; Eph 6:12 "we do not wrestle against flesh and blood"; Denete the witch's spells ineffective against a child of God; the occult spectrum (lines 86-90, 126-146)
