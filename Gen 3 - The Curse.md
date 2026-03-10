@@ -56,9 +56,9 @@ So who is Eve's seed? Who was born of a woman without any involvement from a man
 
 Only one person in human history. Jesus.
 
-What we have here, buried in the curse, is the first gospel promise in Scripture. Satan will strike Jesus. But Jesus will crush Satan's head. We see it fulfilled in Revelation 20:
+What we have here, buried in the curse, is the first gospel promise in Scripture. Satan will strike Jesus. But Jesus will crush Satan's head. We see it fulfilled in Revelation 20:10:
 
-*"And the devil, who deceived them, was thrown into the lake of burning sulfur, where the beast and the false prophet had been thrown. They will be tormented day and night for ever and ever."*
+*"and the devil who had deceived them was thrown into the lake of fire and sulfur where the beast and the false prophet were, and they will be tormented day and night forever and ever."*
 
 Jesus survived with a bruised heel.
 
@@ -78,9 +78,9 @@ I want to go back to the heel.
 
 In the week before the crucifixion, Christ's closest friends couldn't stay awake to pray with him for a single hour. One of them sold him to the religious authorities for thirty pieces of silver. When they came for him, another one drew a sword and cut off a soldier's ear — proving he still didn't fully understand what Jesus had been teaching. Christ was taken to an illegal trial in the middle of the night, where paid witnesses couldn't even get their stories to match. Then handed to Rome. Tried again. And condemned.
 
-The beating that followed was not a punishment. It was a death sentence — stopped one short of forty.
+The beating that followed was not a punishment. It was a death sentence.
 
-Old naval records describe how the cat-o'-nine-tails worked. The operator would swing it so the tails wrapped around the body, then snap it back to do maximum damage on the way out. By eight lashes bones were visible. By thirty-five, organs were being struck directly. By thirty-nine — which is where they stopped — a man's insides were largely outside.
+The Roman flagrum was designed to lacerate. The operator would swing it so the leather strips wrapped around the body, then snap it back to tear on the way out. Ancient writers described men who did not survive it. Rome used it to weaken the condemned before crucifixion — not to kill them, not yet.
 
 That is what Jesus walked to the cross carrying.
 
@@ -89,10 +89,11 @@ Nailed through hand and foot. Hung until he couldn't breathe. Mocked while he di
 And it was not Rome that put him there. Not Pilate. Not the Pharisees. It was my sin that held him there. Yours too.
 
 *"It was my sin that held him there until it was accomplished. His dying breath has brought me life — I know that it is finished. Why should I gain from his reward? I cannot give an answer. But this I know with all my heart — his wounds have paid my ransom."*
+— Stuart Townend, "How Deep the Father's Love for Us," 1995
 
 He died.
 
-And three days later he walked out of the tomb. Over five hundred people saw him after the resurrection. Five hundred witnesses.
+And three days later he walked out of the tomb. Over five hundred people saw him after the resurrection — 1 Corinthians 15:6. Five hundred witnesses.
 
 The head was crushed. The heel recovered.
 
