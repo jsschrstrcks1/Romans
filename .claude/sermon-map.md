@@ -328,8 +328,10 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Romans 3:10-end | No one righteous; righteousness given not earned | `Romans 3 - pt 2.md` | sermon |
 | Romans 4:1-8 | Justification by faith; credited righteousness | `Romans 4 - In Christ Alone...md` | sermon |
 | Romans 5:1-11 | Peace with God; love poured out; wrath satisfied | `Romans 5.md` | sermon |
+| Romans 6:15 | Can we sin occasionally? Habitual vs. occasional sin (6:1 vs. 6:15 Greek verbal distinction); slavery to sin (6:16, 6:20-21); gossip; marriage/church-attendance illustration; Locked Up Abroad; witness protection / new creation (2 Cor 5:17, verified); Heb 13:5 (verified); bee/orchid illustration; Great Pumpkin (paraphrase — corrected in file); benefits of obedience; fool's gold; outward sincerity not enough | `romans 6 15 can we sin occasionally.md` | sermon |
 | Romans 8:12–17, 31–39 | Debtors to the Spirit; adoption; election; security of salvation; mini-golf debt illustration; title misspelled in original ("Debters"); 9 outstanding items in file: Romans 3:23 misapplied for death penalty (should be 6:23), Isaiah 66:1 conflation (heavens vs. earth as footstool), Romans 5:8 and 10:9 paraphrases differ from ESV, "demons" added to 8:38 list | `romans 8 12-17 debtors to the spirit.md` | sermon |
 | Romans 8:26+ | Order of salvation and BFM | `Ordo Solutis Romans 8.md` | teaching |
+| Romans 9:1-3 / Romans 10 | Evangelism urgency; Paris attack pastoral response (prob. Nov. 13, 2015 Bataclan); Paul's anguish for the lost; Spurgeon (verified: "Wailing of Risca" sermon, 1860); Whitefield (13 Atlantic crossings, ~18,000 sermons); Edwards Resolution 7 (verified); Edwards Res. 1 & 2 (paraphrase — corrected in file); Florida Muslim statistic corrected from original; "Aleutian" corrected to "Algerian"; Jonah sovereignty; ta ethne (Rev 7); Balaam's donkey | `romans 9-10 paris evangelism.md` | sermon |
 | Romans 12 | Racial injustice; weeping with those who weep | `romans 12 - weep with those who weep.md` | sermon |
 | Romans 10:14-21 | Gospel chain; how shall they hear; proclamation and missions | `The Gospel Chain.md` | sermon |
 | Romans 12:1-2 | Living sacrifice; archive draft | `romans 12 1.md` (archive) | sermon |
@@ -653,6 +655,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` — 1 Corinthians 9:19-23 — Why share the gospel; duty vs. joy as motive; "starving beggars telling other starving beggars where they found a feast"; invest in worship to fuel evangelism
 - `col 4 - prayer.md` / `prayer col 4.md` — Colossians 4:2-4 — Prayer and evangelism
 - `Psalms 96.md` — Psalm 96 — Evangelism as worship
+- `romans 9-10 paris evangelism.md` — Romans 9:1-3 / Romans 10 — Paris attack pastoral response (prob. Nov. 13, 2015); Paul's unceasing anguish for the lost; Spurgeon, Piper, Platt, Whitefield, Edwards on evangelism urgency; Muslim outreach; Jonah sovereignty; ta ethne (Rev 7)
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Evangelism framework for the occult; power encounter; Creation-Fall-Cross-Redemption
 - `Romans 15b - The Mission in the Early Light.md` — Romans 15:14-33 — Priestly service of the gospel; frontier ambition; Jerusalem collection; Paul's missionary strategy; prayer as mission engine
 
@@ -769,6 +772,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Following Christ - dilligence.md` — Mark 10 — Diligence
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — "Choose this day whom you will serve"; undivided allegiance; Elijah's challenge
 - `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — Guard the deposit; fan the gift into flame; faithfulness under increasing hostility; Paul's final charge to Timothy
+- `romans 6 15 can we sin occasionally.txt` — Romans 6:15 — Benefits of obedience: holiness, eternal life, happiness; "Lilly" color-chart illustration; outward sincerity not enough; fool's gold; the Great Pumpkin
 
 ### Prayer
 - `PS 91 - Prayer.md` — Psalm 91 — God as refuge; prayer service
