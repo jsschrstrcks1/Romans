@@ -263,7 +263,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Nehemiah 6:1-9 | Stand Up for Jesus — Enemy Attacks and Spiritual Warfare | `Neh 6.md` | sermon — Ono as temptation (city name means vigorous wealth one step from wickedness; "Ono resort and conference center" from unnamed favorite preacher; cruise analogy after hard work); three enemy motives (sack city / murder Nehemiah / frame Nehemiah for rebellion); open letter as smear campaign — heads-of-state protocol context; political survey illustration (G.W. Bush axe murderer question; respondents believe rumor); Clinton/Lewinsky and Bill Cosby news cycle analogy; Cyril Barber's three attack vectors tied to Trinity (Father/sense of belonging; Son/value and worth; Holy Spirit/empowerment — doing things *for* God vs. *with* God); Mt 10:28-31 (sparrows and fear); Mt 6:26 (birds and value); Lk (sparrows bought 3 get 1 free — not one forgotten); Jn 3:16; "If our enemy can't make you bad, he will make you busy"; dying preacher / corn shelling machine — "tell them to stand up for Jesus"; hymn "Stand Up for Jesus" by George Duffield Jr. (all four stanzas); Communion (1 Cor 11:24-26 KJV) |
 | Nehemiah 7 | Gatekeepers, faithfulness, and genealogy | `Neh 7.md` | sermon |
 | Nehemiah 8 | Revival, reading scripture, and fellowship | `neh 8.md` | sermon |
-| Nehemiah 13:1-14 | Sin in the temple and gatekeeping holiness | `Neh 13.md` | sermon |
+| Nehemiah 13:1-14 | "What the Goldsmith Sees" — clean your temple, be a gatekeeper, make a pearl; genuine vs. counterfeit faith | `Neh 13.md` | sermon |
 
 ### Job
 
@@ -885,7 +885,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Mark 4.md` — Mark 4:26-34 — Growing seed; sanctification
 - `1 peter 1 - legacies.md` — 1 Peter 1:13-end — Be holy
 - `Romans_6b_with_boulder.md` — Romans 6:15-23 — Dead to sin; alive to God
-- `Neh 13.md` — Nehemiah 13:1-14 — Sin in the temple
+- `Neh 13.md` — Nehemiah 13:1-14 — "What the Goldsmith Sees" — clean your temple, be a gatekeeper, make a pearl
 - `Sermon - The List I Burned.md` — 1 Thess 3:12-4:8 — Love increasing; sexual purity; "more and more"
 - `Sermon - What Survives the Fire.md` — 1 Cor 3:10-15 — Stewardship of time; entertainment vs kingdom investment; lukewarmness
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — Spiritual surgery, not behavior modification; relationship with God as means of grace
