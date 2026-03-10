@@ -406,6 +406,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Luke 10:25-37 | Good Samaritan in the context of salvation, not mere morality; VBS tie-in (kid saved that week); Deut 6:5 and Lev 19:18 as summary of the Law (also Mt 22:37); 10/40 window and Bhat people of India; the question is not "be kind" but "how to be saved"; parable answered to a lawyer testing Jesus; Samaritans as most-hated (John 8 slur: "demon-possessed and a Samaritan"); apart from Christ we are the beaten man — Christ is the true Samaritan who paid our debts and sent the Spirit to nurse us back; priest/Levite = walking past the lost; "how much do you have to hate your friends" (Chris quote); Rom 5:10 closing | `Luke 10 - Good Samaritan.md` | sermon |
 | Luke 10:38-42 | Mary and Martha; prioritizing time with God | `Good morning.md` | sermon |
 | Luke 14 | Parable of the Great Banquet; rejecting God's invitation | `Luke 14.md` | sermon |
+| Luke 14:25-35 | "On His Terms" — cost of discipleship; superior love over family; count the cost; saltless salt warning | `Luke 14 25-35.md` | sermon |
 | Luke 15:1ff, 11ff | Prodigal Son; three parables: lost sheep, lost coin, lost son (sections I-III); elder brother represents scribes and Pharisees (line 26: "sins of the spirit as well as sins of the flesh," 2 Cor 7:1); elder brother's "hidden agenda" (line 28); father runs to meet son (Eastern cultural context, Deut 21:18-21, line 21); Wiersbe *Expository Outlines* pp.182-184 (source for outline); Mark Allan Powell *What Do They Hear?* cross-cultural reading comparison (Western = reform, Russian = recovery, Tanzanian = contrast); Greek notes on *dieilen* and *erēmos*; carob tree Hebrew "life tree" note | `Luke 15 - Prodigal Son.txt` | sermon |
 | Luke 23:1-25 | Jesus vs Barabbas; what people wanted vs needed | `Luke 23.md` | sermon |
 | Luke 23:13-25 | Man's injustice vs God's justice at Easter | `easter 24.md` | sermon |
@@ -797,6 +798,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Discipleship / Cost of Following Christ
 - `Luke 9 - cost of following christ.md` — Luke 9:57-62 — Cost vs prosperity gospel
+- `Luke 14 25-35.md` — Luke 14:25-35 — "On His Terms" — superior love, count the cost, saltless salt
 - `mark 10 - sun june 2nd.md` — Mark 10:32-45 — Discipleship posture
 - `Following Christ - dilligence.md` — Mark 10:32-45 — Diligence in following
 - `Romans_6b_with_boulder.md` — Romans 6:15-23 — Whose slave are you?
