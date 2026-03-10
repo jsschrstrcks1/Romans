@@ -1,0 +1,68 @@
+Were going to be in John chapter 12 today, john chapter 12. 
+
+While you are turning there I want to share a story that I brought on video tonight. Its one that our Director of the International Missions Board shared recently at a conference I was watching. David is a graduate of the same school I’m attending, and was pastor of a small church that started out meeting on Saturdays. The church at brook hills that he was pastor of went from a small group of 10-20 people to a church of thousands at several locations around the city of Birmingham Alabama. He’s about 40 years old, and was pastor there for about 15 years before being called to be the head of the international missions board. Any way, the point of his story is that sometimes love makes you do crazy things.
+That’s funny, but I think it’s a good introduction to our scripture tonight about a woman who loved Christ as her savior so much she did something the people around her felt was crazy. 
+
+Before we read the scripture, let me ask you, Is your heart full of Adoration for the Lord? Full of affection? Of Longing? Ultimately does your heart cry out with Love for our Lord? If your heart does not resound with a Loud Yes then at the end of the service during the final song just slip your hand up in the air and I’ll spend a few minutes talking with you one on one about all the things our savior has done for us. 
+
+In the mean time lets read
+Read John 12
+
+1. She gave everything she had for Jesus. 
+    A.  Financially
+    B. Socially (if the disciples didn’t understand, how do you think the world would have responded?)
+         1.  Noah’s ark. Neighbors thought he was crazy. But poured out everything he had for Jesus
+    C. Emotional.
+D. She was contemplative by nature – when Lazarus died Martha ran to Jesus and made demands, Mary stayed home with her thoughts and tears. 
+     E. Mary had no doubts, and was not confused about who Jesus was!
+     F. Mary knew she owed more to Christ than she could have ever repaid. 
+     G. the scent of her gift “filled” the house.
+2. We are statistically most like Judas.
+   A.  60% of americans say they have doubts about the God of the Bible.
+B.  73% of americans claim to be Christians. But of that 73% 41% say they have no need of reading their bible, going to church, spending time in prayer (unless they need something), no need for time in worship, no need for fellowship with other believers. Only 31% are involved with church, believe the bible, prayer, worship, and church are necessary in their lives. 
+   B.  90% of americans say Jesus was a real historical person.
+63 % of those say they have made a commitment to Jesus Christ that still is important in their life. 
+43 % of those say Jesus was both God and Man. 
+Only 31% of that 43% believe that God had a purpose in Sending jesus to the World. 
+Nearly 20% sad that either he was just the best possible man, or a great man and teacher, but not God himself. 
+54% of that 31% say that the Christian has no business telling people about Jesus, because (55%) Good works will send you to heaven.
+Ultimately the survey found that 48% of the people in our country when asked directly said they”Do not believe in God, or identify as agnostic, because faith is not important in their life. Nor have they prayed in the last year. When it came right down to it, they had never made a profession of faith in Jesus. Believe the bible is not accurate, nor have they read the Bible, or even attended a church in a year, and believe that Jesus was just as sinful as any other fallen man. 
+
+People this is half HALF of our country. In our area statistically less than 2% go to a bible believing church. We are living in a spiritual vacuum. Living in a time and in a place where most of the people in our community are lost and heading straight for hell. How can we stand by and watch? 
+
+Judas likewise lived in a time and place where most people were lost. 
+Judas maybe had some doubts of his own. 
+Judas seems to be there for the earthly benefits of being near Christ. Stealing from the money box. 
+Judas probably enjoyed the social elevation. Feeding 5000 people? Now 5000 people likely now knew Judas name. 
+Judas likely had some misconceptions too – Most of the disciples thought that Jesus was going to be King (till Jesus sorted them out). Judas may have thought having Christ arrested would trigger the revolution and allow him to be one of Christ’s right hand men as King.
+Have you guys ever heard of John Wesley? The Wesley brothers were the ones that more or less started the Methodist church. They wrote tons of hymns – in fact some of the hymns in our hymnal are by one of the wesleys. 
+
+Charles Wesley wrote this of Mary: Selfishness seeks a gift, Love loves to give; Love gives itself a way Love loves to live. Love’s grand munificence Counts not the cost; Feeling, tho' nought is left,  Nothing is lost. Charles Wesley was interesting because he did a lot of things for Christ. He founded numerous orphanages, regularly visited individually large numbers of prison inmnates. He was a fixture at the local hospital and met with the infirm and dying. He traveled and preached as much as any of the itinerate preachers of his day. One article I read compared him to Whitefield. Whitefield as you may know, when you count up all the miles he traveled on horse back to preach the gospel could have traveled to the moon and back or roughly the distance around the earth at its widest point 20 times. Wesley did everything he could for the Lord. But one of the most striking points is that a number of years into his ministry, he realized from reading the bible that he was lost and bound for hell. At that moment in tears he knelt down and accept Christ as his lord and savior. 
+
+He realized that to this point he had lived his life more like Judas than Mary.
+Whose life do you best reflect? Are you like Judas? Were going to come back to that in a minute. 
+
+It struck me this week as I was reading peoples reactions to the death of Hugh Hefner that we have lost sight of what a hero really looks like. People were calling this man of sin a hero. He exploited women, kept them basically as sex slaves. Humiliated them. Ordered them to have sex with all sorts of strange men – or else. This one acquaintance of mine said he bought her brothers home, and threatened to kick him and his kids out if she got out of line. She didn’t go too deeply into detail but she said it was the darkest chapter of her life to date. Not only that but Hugh took a form of depravity that was resigned to dark alleys, and brought it into the mainstream. Before Hugh perverts had to go to a place of perversion where they declared by their presence that they too were perverted. Hugh tried to remove the stigma and make this type of sin accessible by anyone. He has damaged countless marriages, caused countless little girls the anguish of not feeling like they could live up to Hugh’s imaginary perception of beauty. Even girls in the church. One little girl that used to go to Jasmine said this week that it had been one of her life goals to be one of Hugh’s Bunnies. One article I read said that “hugh was proud of the fact that he started his empire with 600$ and a camera. Yet when he died by his own account he was as hollow and miserable as anyone infatuated with the world”. Now short of the grace of God, and a death bed confession, and I pray he did accept Christ, but apart from that hugh is spending an eternity in Hell. As will anyone who dies apart from Christ.
+3.  Looking at your life, who does it most resemble?
+Deep down, do you come to church for the social benefits? If you’re looking for financial benefits this is probably the wrong church. Are you hear for the material things and blessings you can gain from being around God’s people? Or are you here for God. 
+
+    Ultimately Judas committed suicide out of shame and regret. We don’t know if he had a change of heart before his suicide. Its possible. I wish that none would spend an eternity in hell. But apart from Christ that’s where Judas is. 
+
+Let me ask you. 
+
+	Is your heart full of Adoration for the Lord? Full of affection? Of Longing? Ultimately does your heart cry out with Love for our Lord? If your heart does not resound with a Loud Yes then at the end of then maybe you need to spend a some time talking to the Lord tonight. Because one day we are all going to take that last breath, and if you don’t 
+
+I normally have the praise team come up and sing a song, but I’ve got a song I want to play on my laptop tonight. While the song plays – Christian if you have ought against your brother to not take communion and go make things right. The same is true of God, if you have unconfessed sin in your life, now is the time to spend this song in prayer making things right between you and the Lord. 
+If you aren’t a Christian, or you aren’t sure, then while everyone else has their eyes closed and is praying then slip your hand up, and make sure I see you, and after the service we will talk about what Jesus has done for you. If you’re ready to join the church, or if you’ve accepted Christ but never taken that next step in believers baptism, then talk to me after the service tonight. 
+
+After the song, I need two ushers to pass out the communion elements, we will pray, and then partake in the Lords supper. 
+
+Ok here is the song. Give me Jesus by Steve Camp. 
+
+Scripture says “that the Lord Jesus on the night when he was betrayed took bread, and when he had given thanks, he broke it, and said, “This is my body which is for you. Do this in remembrance of me.” In the same way also he took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.” For as often as you eat this bread and drink the cup, you proclaim the Lord’s death until he comes.”
+
+Keep Brenda in our Prayers
+Paula’s Grand daughter
+Ambers Family in PR. 
+Board Mtg
+Building

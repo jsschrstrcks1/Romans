@@ -1,0 +1,94 @@
+We are going to be in psalms 3 this morning, psalms 3, if you’ve brought your bible and I hope you have. 
+
+While you’re turning there our people group of the week is the Jot Dilluhn of Punjabi India. 
+
+The Dhillon Jats of India's Punjab State are often called the Raja Jats due to the large number of kings, royalty and warriors in their history. Some believe the Dhillon Jats founded India's capital city, Delhi. There is a strong Christian presence in India's Punjab state where most members of the Dhillon Jats live.
+Ministry Obstacles
+Unfortunately, people with high status such as the Dhillon Jats are often the least open to the gospel message and least open to change. Christianity got its foothold in India by appealing to the backward castes who eagerly welcomed the gospel message. It gave them hope, but it also made the Dhillon Jats see the church as being for "lower status" peoples.
+As far as we know despite their being 221,000 Jot Dilluns in the world there isn’t a single person in their people group that is saved, nor are there really any people actively engaging them for the gospel. 
+
+Who will pray for the Jot Dillun
+
+The background of our passage today is pretty heartbreaking. Absalom the son of David was hunting his father down to kill him and take the thrown. Can you imagine what that would be like? The grief that would be in that fathers heart as his own son tries to depose and kill him. In 1 samuel it talks about how david’s ranks were dwindling. Fewer and fewer people were following him, and instead were taking the side of Absalom whose much larger ranks were growing quickly. 
+
+Now if this were today, I’d expect to hear something like “If God really wanted me to be king, I wouldn’t have to go through this time of being hunted by my son, so I quit, since this is obviously not God’s will”. 
+
+When we read the passage in a moment, ask your self if that’s what David says and Does? In the mean time, tell me What do we know about David? He’s from the tribe of Judah, and when he became King at the command of God when Saul was disobedient and visiting mediums, David made Jersualem his capital. By this point Jersalem had been part of the tribe of Judah for a long time, and it would continue to be for more than 400 years until nebuchadnezzar concquered the area for the Babylonians. 
+
+Interesting side note, modern day Palestine is an English word, and a corruption of the Greek word for the land named “Philistia” or the land of the philistines, which was a tiny corner of the land that Israel now once more possesses. 
+
+So Israel had it, they sinned, They were conquered by a whole series of people, until possessed by rome, and the romans under emperor Hadrian, as a punishment for jewish disobedience, renamed the land syrio-palestine for seria and the phylistines who were Israels greatest enemies. Realistically there are no Philistines left, they were subjugated by the assyrians, and destroyed by the Babylonians. By 500bc which is before the end of the Old Testament, the philistines or the ethnic people we would today call philistines have been completely erased from the world to the extent the babylonains could. They no longer produced culture, or history, or identified as such. This remained true for around 650 years until Hadrian renamed judea to syriopalestine. So the Palestinians of today date to well after Israelite occupation of the area. Indeed Some amount of those who today identify as Palestinians are actually going to be ethnically tied back to the nation of Israel. Just as much as those who identify as being from the modern nation of Israel in some cases. 
+
+In any event, David didn’t whine or complain, he didn’t succumb to internal doubts and fears. He didn’t assume his pain meant he had disobeyed, or that God was somehow no longer good. He just continued to be obedient to God. Which is I think part of why God says David was a man after God’s own heart. 
+
+Even though it looked like he would be deposed. Even though it looked like his people were abandoning him. Even though it looked like all was lost, and that his son would surely put him to death. David still persevered and followed God. Even when everyone around him said, “even God can’t save him. Which is quite frankly, pretty bold. Can any man or woman anywhere contrive anything that could obstruct omnipotent God from doing what God wanted? Certainly not. 
+
+ I took that statement from those around David to mean they were saying obviously God has abandoned you, what did David do? How did David respond to all of this?
+
+This psalm. Psalms were to be sung in church originally. Some denominations still do that. 
+
+Point is David, when things were hard. No. Hard is an understatement. When things were desperate, and it looked like all was lost. David turned to the Lord. He prayed and worshipped God. 
+
+That’s pretty much the opposite of the average americans reaction today. Today we feel entitled to the fulfillment of the American dream. We demand to be given life, liberty and happiness, even though what our founders actually penned was life, liberty and the Persuit of happiness. For many the persuit of happiness has become an idol. I know a young man now, who in a moment of sadness and despair instead of turning to the Lord, instead turned to the bottle. Alcohol, marijuana, apparently cough syrup, and basically anything he could take to try and get high. He’s ruined four vehicles bought and paid for by his dad, and after his dad passed, he burned through his inheritance too. He had a job with his dads company and was on the fast track to take his dads job one day, but because he turned to the things this world has to offer, instead of turning to God, he lost all of that too. Now he’s living in a a friends apartment, strung out on drugs and alcohol, living and dying by whether he can get high that day or not. 
+
+So many people end up going that way when things are hard. Some have a sense of entitlement that they are owed this, and so its fine for them to throw away their life. 
+
+Kid was brilliant. He had a full ride scholarship to a prestigious school for robotics, but he couldn’t stay sober, and didn’t go to class. He just threw it all away and for what? 
+
+Its always darkest before the dawn, and so when you’re there in that dark place, the only place to turn is to Jesus. Because David knows God is his salvation. Salvation in the military sense. His victory in the battle. Because David knows God is his shield. His protection when things are hard. His advocate when things aren’t fair. So very much of life isn’t fair. But we don’t have to fight that battle do we? Thirdly God’s the lifter of david’s head. Which means he was an encouragement to David. Actual help when things are hard. Meaningful protection, and encouragement, and actual victory. So much of what this world has to offer can at best give the illusion of victory for a little while. But does it last? Certainly not. 
+
+When I was working with Bob Gilstrap and Kenny Spain in Monroe Michagin to help plant Anchor Baptist Church, I was at breakfast one day with Bob Gilstrap, and he took a phone call and came back looking grieved. So naturally I asked if everyting was ok. And he was a little snippy “no you may not ask if I’m ok, and you may not ask whats the matter, just suffice it to say that almost every problem I face is with “sam””. Whose that I asked? He responded not a who, it’s a what. Sex, Alcohol and Money. Not just alcohol either, drugs and anything else like that too he said. 
+
+The things we try and fill that emptiness we have in our soul with, apart from Christ.  Now he wasn’t talking about having a single glass of wine once in a while. Hes talking about drinking to excess, being drunk. He’s not talking about sex inside of marriage, he’s talking about sex outside of marriage. He’s not talking about the money we make to live off of each week. He’s talking about when we try to persue money at the expense of God. Each of these three things are fine in their biblical places, but outside of that, they can be like walking blindfolded through a mine field. EG not worth the risk. 
+
+Instead of turning to these things that give you a temporary high, turn to Jesus. 
+
+I read a book a number of years ago about how the KGB would turn americans into their spies. They would offer a person a life changing amount of money for something that’s not really illegal. One person turned by the kgb in the 50s was told the person he as helping was Norwegian, and the pentagon employee was offered 50,000 dollars for a copy of the pentagon phone book. The phone book wasn’t secret. It wasn’t a crime to take it out of the building. No one would care that an ally of the USA had a copy of it, so it was an easy thing to do. A few weeks later, they asked for a little more, and a little more and a little more. Office supplies, and dumb things. But increasingly risky things, giving 5000 here, and 10,000 there until one day they asked for something sensitive, information on a sensitive us government plan they had access to. Sometimes the American would balk, only to be reminded of all the ways they had compromised in the past, and all the things they had done, and if anyone finds out then they would lose their job for sure. At that point they would tell the truth about being the KGB, and sometimes threaten families too. But it all started with that little compromise. Just a little thing that they would tell themselves, that doesn’t hurt anyone. Next thing you know, you’re selling your country out, and your families life is at stake. 
+
+Sin is like that too. It sneaks up on you, and can consume you. That’s why we are to be at war with it. The Puritan John owen wrote be killing sin or sin will be killing you. I saw a shirt a few weeks ago that had translated that quote into young person slang. One of the translation of Owens words said “be mortifying sin or sin will be mortifying you”, and on this 20 something year olds shirt it said “are you even mortifying bro?”. 
+
+Even little compromises are dangerous when it comes to sin. 
+
+David wasn’t going to compromise though, he knew where his help came from. His words are brimming with confidence, because he KNOWS who he serves, and he KNEW he was doing what God wanted. So when things were hard he could lean into God. 
+
+How did he know that? He woke up that morning. Read vs 4 and 5 with me. 
+
+      4 I cried aloud to the LORD,
+and he answered me from his holy hill. Selah
+
+5 I lay down and slept;
+I woke again, for the LORD sustained me.
+The Hebrew there is difficult to translate, but Roy Zuck and Dallas Willard wrote that it would be better to translate it in the present tense like this: I lay down, and I slept; I awoke, because the LORD sustained me.
+
+Things were so desperate, surrounded, outnumbered and outgunned. If God hadn’t sustained him, he wouldn’t have made it through till morning.
+So vs 6, despite all of this. Despite being surrounded, and out numbered and out gunned, he said he won’t be afraid. Because the Lord is with him. 
+
+Finally we have vs 7 and 8. Someone with a different translation read those for me:
+
+They all have the same tense here, in the Hebrew its said in the perfect tense. Anyone know about the perfect tense? What it means is that an action that began in the past has been fully completed. 
+
+If you lets say hired denise to clean your house, and she came and did all the things on the list, and then went to you and said shes finished, that’s the sort of thing that’s in view here. Even though David is asking for help here, he’s doing so in a way that expresses his full and complete confidence that God will come through no matter how grim it looks. 
+
+I think that says something about the depth of David’s faith, and about the extent of God’s sovereignty. 
+
+I was talking with someone once, and they had gotten some bad news, and I said lets pray about it. But this person was like why? I’ve already got cancer, I know that now, the time to have prayed was when I didn’t have the results yet, now he can’t fix my cancer can he? Let me ask you guys, can he? Can God cure cancer? Certainly. 
+
+Is there anything God can’t do?
+
+For a God that holds the universe together, is there anything beyond the scope of his power? Certainly not. 
+
+Scripture talks about the heavens being his foot stool. There is a sun that if we could travel at the speed of light would take us a million or so years to get to, and once we got there, just to circle the sun once, it would take us an additional thousand years, its so big it would take a thousand years at the speed of light just to circle it once. 
+
+But that’s just a tiny corner of God’s footstool. 
+
+Scripture is full of people being healed, several people are brought back from the dead, God slows down time for a full day. Elsewere we read about God defeating the enemies of Israel without them even having to swing their swords, at least twice, once in Jericho, and the other time when the army arrive, the enemy in their confusion had killed each other in the night. 
+
+There is literally nothing that God can’t do. Which is a wonderful thing, for you and I. Because we have done so much to offend God in our lives. Right? Sin is anything that we do that displeases God, so any time we are sinning, it’s a form of offending God, and because of our Sin, we needed God’s son Jesus to die on the cross for us. 
+
+Did we deserve that? Certainly not! We cant solve our most important problems on our own, we need God for that. He does that willingly and freely for you and I. Even though it cost him his son. Scripture says that Jesus went to the cross not reluctantly, not just willingly but gladly. Heb 12:2 says “for the joy set before him (Christ) endured the cross, scorning its shame” God loves us that much! Even though the best we can do is filthy rags. Still he loves us. Even though we do offensive things daily, knowing that still he gladly went to the cross for us. 
+
+That’s the kind of God we follow. 
+
+Gospel.
+
+I lay down, and I slept; I awoke, because the Lord sustained me.

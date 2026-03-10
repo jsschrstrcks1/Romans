@@ -1,0 +1,58 @@
+Todays service will be a little unusual, normally I preach for about a half hour, but today its going to be a little shorter than that. How long remains to be seen… But I want to start by talking about What are we thankful for. Lets go around the room, I’ll start.
+Thanksgiving is one of the better holidays I think, right up there with Christmas and easter. In listening to people preach this week it struck me that one of the purposes of mankind was to give thanksgiving to God. We ought to be thankful for our very existence. God didn’t have to create us. Had he not decided to, we would never have had the opportunity to see a pretty sunrise or set. We’d never have the opportunity to worship God, to choose. We never would have even come into being. Further, we should be thankful for his continued patience with us. When I was a kid my mom would on occasion say “I brought you into this world, I can take you out, and make another one that looks just like you”. While that was not in the scope of my mothers power, not really, it was within the scope of God’s power. He created us perfect, in a perfect world, and as soon as he asked us not to do something, we ran right over and messed things up just like any kid does when told not to take a cookie from the jar. At that moment, he could have, and would have been just in doing so, he could have obliterated mankind, and the earth and started fresh. Whats a weeks work to a God of infinite time? He could have made us differently so we didn’t screw up so badly so quickly, but he chose to continue working with us even though we had taken a sledgehammer to his perfect creation shattering his reflection that he had so painstakingly imbued everything with. 
+
+You ever spend a bunch of time working on something? Trying to make something nice and special, only to have a kid come along and trash it before you had a chance to gift it, or put it on display? That’s basically what we did to God. 
+
+He would have been within his rights to destroy us; instead he died for us. For this we should be thankful. 
+
+We should be thankful for every nail hammered into the hands of Christ, thankful for each of the 39 lashes Christ took from the cat of 9 tails, thankful for christis substitutionary atonement for our sins. 
+
+He has done so much for us, we owe him so much gratitude, and thanks. Even then he didn’t stop. 
+
+Did you ever stop to think that earth took 7 days to complete. Earth, our solar system, our universe, our galaxy, and there are millions of them out there. Every scenic vista, every sunset, every mountain, all implicitly or explicitly created that first week. 
+
+God has been working on heaven as far as we know ever since. Earth is pretty amazing. Just imagine what our God could create with a year. Or ten years. Now ten thousand years. What a place heaven will be. What a wonderful God we serve. 
+
+When Paul commands believers to stop sinning, he also commands believers to put thanksgiving in its place. Paul writes: “Let there be no filthiness nor foolish talk nor crude joking, which are out of place, but instead let there be thanksgiving” (Ephesians 5:4).
+Paul knows that we are always acting. We either act with sinful, thankless hearts which leads to foolish talk or crude jokes, or we act with thankful hearts and thereby please God with our speech. John Piper explains,
+The key to unlocking a heart of gratitude and overcoming bitterness and ugliness and disrespect and violence is a strong belief in God, the Creator and Sustainer and Provider and Hope-giver. If we do not believe we are deeply indebted to God for all we have or hope to have, then the very spring of gratitude has gone dry. (“Violence, Ugliness, and Thanksgiving”)
+
+I know that we all have these areas in our lives. I do too. This one class I took a few years ago, the professor points out that any time we are engaged in bitterness, ugliness, or disrespect, or even violence. Any time we are engaged in these behaviors we have stolen worship from God and are worshipping how a thing makes us feel. We have supplanted God on his throne, and placed our backside in a place our backside should never go. So when you find yourself feeling sorry for yourself, or bitter, or angry – and I don’t mean righteous anger – or any of these things, its time to pray to God and ask for him to help you replace those feelings with thanksgiving. 
+
+I know this one person and I’m pretty sure that persons spiritual gift is condescension. If you know me, you’ll know that’s a quick way to aggravate me. I don’t handle condescension well, ESPECIALLY not when the person is also wrong WHILE condescending. Any way this person was condescending to me once a while back, and for the following two days I wrongly allowed it to keep me angry. Not throwing things angry. But it definitely clouded my outlook. It tainted the rest of my interactions with that person, and for two days! 
+
+It wasn’t until the evening of the second day when I sat down and started reading through scripture for our read through the bible in a year plan that I really started to re-adjust my focus. I needed to look to the Lord, and away from myself. I needed to focus on being thankful to God for allowing this person to be in my life. For their rough edges chipping away at mine. Leading me towards a closer relationship with God. It caused me to eventually realize that sometimes in the terms of that counselling professor. Sometimes my idol is me. His or her rudeness helped me smash an idol, and replace it with thanksgiving. Anytime we can smash something we can identify as an idol we are wise to do so. 
+
+I’m reminded of the story of Abraham and Isaac. In fact there is a song written by a talented young lady named Madison Rae, that I’d like to leave you with. You remember the story of God asking Abraham to sacrifice his son Isaac? Its about that story. 
+
+I won’t sing it. But here are the words: “And even when you tell me to lay my Isaac on the alter, You’ll find that I don’t love the promise more than you. And even though I believe that you’ll provide a ram. Who am I as a man not to trust you”. 
+
+it would have been easy for Abraham to say hey God, you said: “'Go from your country and your kindred and your father's house to the land that I will show you. And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse; and in you all the families of the earth shall be blessed”. I used to think he probably was wishy washy about it. I used to think he probably hemmed and hawed. I used to think that Abraham probably questioned God. Are you sure God. Sure you promised I’d be a Great nation, but here I am a 100 year old man, and all I have is this one single son. Whom I love. Are you sure? hey I have lots of sheep. Cant I use one of those? Could you have meant Hagars son? But I don’t think he did. Heres why. It seems like he left without telling his wife. That makes me think he left right after God told him what to do. We can see that, because after he gets back, his wife Sarah gets mad, and goes to live with her family. 
+
+Men can you picture that conversation with your wife? You did what with our son? Seriously? 
+
+You’re joking right? 
+
+And even when you tell me to lay my Isaac on the alter, You’ll find that I don’t love the promise more than you. And even though I believe that you’ll provide a ram. Who am I as a man not to trust you. 
+
+Can you imagine his relief at finding the ram God had provided in the thicket? 
+
+I bet he was never more thankful than he was in that moment. In fact there is an artifact at the british museum that I had the opportunity to see back in 2009. It was a gold and silver piece of art that depicted a ram caught in the thicket. You know when it dated back to? Around the time we think Abraham would have lived. 
+
+Its easy to make anything into an idol.  
+
+ He could have elevated his son to the position of an idol in his heart. But instead he trusted God, he had faith in God, and God provided for him a ram. Leading to a what I can only picture was his most thankful moment in his entire life. He even named an entire mountain “The Lord will Provide”. I think he either made, or commissioned that thing in the british museum. OR his telling of the story, and thanksgiving dripping from his words so inspired those he encountered that someone else made it because of the experiences of Abraham. 
+
+I want to spend the next little bit in prayer. We all have had successes and trials this year. I feel like its easy to be sour. Sarah, I imagine was sour when she heard what Abraham had done. Sarah couldn’t see the faith it took. Sarah was more focused on her son, than on God.  It takes work sometimes to be thankful, so Lets spend some time thanking God for what he’s been doing in our lives.
+
+Its hard to be thankful when our neighbors steal our stuff. But what Does God want from us? 
+
+Let there be no filthiness nor foolish talk nor crude joking, which are out of place, but instead let there be thanksgiving. 
+
+You know Nero was emperor when Paul wrote that. Nero. Who impaled Christians on posts, dipped them in oil, and used them as street lights. Who had them torn apart by lions for sport. Nero who is said to have fiddled while rome burned, likely was the one that started the fire, and then blamed everything on those evil Christians. 
+
+No filthiness. No crude joking. No “lets go Nero”.  Just thankfulness. 
+
+So lets take some time and be thankful. Lets thank the Lord for all the ways he’s blessed us this morning. 
+
+ Dottie would you open us in prayer anyone that wants to pray can do so and then When its been quiet for a time I’ll close, and bless the food.

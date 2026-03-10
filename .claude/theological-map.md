@@ -12,19 +12,19 @@
 
 #### One True God — Classical Monotheism
 > "There is one and only one living and true God. He is an intelligent, spiritual, and personal Being, the Creator, Redeemer, Preserver, and Ruler of the universe."
-> — `Theology Proper.txt` (BFM citation)
+> — `Theology Proper.md` (BFM citation)
 
 **Explicit. Tradition: Nicene orthodoxy, Baptist (BFM 2000).**
 
 #### Trinity — One God in Three Persons, Same Substance (Homoousios)
 > "It strikes me that at the heart of so many of the false religions today is the idea that Jesus just isn't enough... Instead of Jesus being the same as God — homoousias, changing the one letter changed Arius' understanding of who Jesus is to something less than God."
-> — `col 1.txt`
+> — `col 1.md`
 
 Tritheism (three separate beings) is explicitly rejected in the Theology Proper and counterfeit religions sermons. **Explicit. Tradition: Nicene orthodoxy.**
 
 #### God's Holiness as Governing Attribute
 > "God is perfect love, but he's a lot of other things too, perfect holiness, perfect grace, and mercy and justice. Emphasizing any one at the expense of the others cheapens God to a caricature."
-> — `Theology Proper.txt`
+> — `Theology Proper.md`
 
 Holiness governs all other attributes. R.C. Sproul's holiness-first theology is a primary influence. **Explicit. Tradition: Reformed (Sproul).**
 
@@ -39,7 +39,7 @@ Not petty rage. Not mere disappointment. Holy revulsion. **Explicit. Tradition: 
 
 #### Immutability and Truthfulness
 > "God's not human that he should lie, he doesn't change his mind. He says things, and they happen."
-> — `Theology Proper.txt`
+> — `Theology Proper.md`
 
 **Explicit. Tradition: Classical theism.**
 
@@ -48,22 +48,22 @@ Not petty rage. Not mere disappointment. Holy revulsion. **Explicit. Tradition: 
 > — `Romans 1 (2024).md`
 
 > "All things were created by Jesus — even kingdoms, dominions, thrones, authorities, even rulers. There is no ruler God didn't create specifically for the purpose he will call them to."
-> — `christology.txt`
+> — `christology.md`
 
 Sovereignty extends over creation, history, politics, individual lives, and salvation. **Explicit. Tradition: Calvinistic Reformed Baptist.**
 
 #### Aseity and Self-Sufficiency
 > "Were every man on earth to become atheist, it could not affect God in any way. He is what He is in Himself without regard to any other." (Tozer, quoted approvingly)
-> — `rev 20.txt`
+> — `rev 20.md`
 
 > "We are included in God's mission, not because he NEEDS us, but because he loves us enough to include us in his plan."
-> — `rev 20.txt`
+> — `rev 20.md`
 
 **Explicit. Tradition: Classical theism.**
 
 #### Omniscience
 > "You have never had a thought, made an action, or had a secret that Jesus didn't also know."
-> — `Eternal Security.txt`
+> — `Eternal Security.md`
 
 > "If he pays attention to little things like the potential energy in a brachyon, or the resonance frequency of the nucleus of a cell, do you think there is anything that escapes his notice?"
 > — `Romans 1 (2024).md`
@@ -90,7 +90,7 @@ Not mere prescience. Covenantal election-love. **Explicit. Tradition: Augustinia
 
 #### God's Refining Through Suffering
 > "The word paideo does carry the idea of discipline — but discipline in english carries with it the idea that its some sort of punishment... But really its closer to boot camp."
-> — `Heb 12.txt`
+> — `Heb 12.md`
 
 Suffering is not punishment for the believer. It is training. **Explicit. Tradition: Reformed, Puritan.**
 
@@ -100,43 +100,43 @@ Suffering is not punishment for the believer. It is training. **Explicit. Tradit
 
 #### Full Deity and Eternality
 > "In the beginning was Jesus, Jesus was with God, Jesus was God. Jesus made everything. Nothing exists that wasn't made by Jesus."
-> — `christology.txt`
+> — `christology.md`
 
 > "There was never a time when Christ was not."
-> — `christology.txt`
+> — `christology.md`
 
 **Explicit. Tradition: Nicene/Chalcedonian orthodoxy.**
 
 #### Christ as Creator and Sustainer
 > "Science doesn't really understand why our molecules stick together. We know how to make it stop. But we don't understand how they hold together... Hey we know, right? Jesus holds all things together."
-> — `christology.txt`
+> — `christology.md`
 
 **Explicit. Tradition: Reformed, Nicene.**
 
 #### Incarnation — Fully God, Fully Man
 > "Christ is the eternal Son of God. In His incarnation as Jesus Christ He was conceived of the Holy Spirit and born of the virgin Mary... identifying Himself completely with mankind yet without sin."
-> — `Theology Proper.txt` (BFM citation)
+> — `Theology Proper.md` (BFM citation)
 
 **Explicit. Tradition: Chalcedonian.**
 
 #### Three Offices: Prophet, Priest, King
 > "The three roles of Christ are Prophet, Priest and King."
-> — `Sola Christus.txt`
+> — `Sola Christus.md`
 
 Calvin's *munus triplex* explicitly taught. **Explicit. Tradition: Reformed (Calvin).**
 
 #### Sole Mediator
 > "There is one God and one mediator between God and mankind, the man Christ Jesus." (1 Tim 2:5, cited repeatedly)
-> — `Sola Christus.txt`, `galatians 1.txt`, `Romans 10.md`
+> — `Sola Christus.md`, `galatians 1.md`, `Romans 10.md`
 
 No saint, priest, pope, prophet, or governing body can mediate. **Explicit. Tradition: Protestant (Solus Christus).**
 
 #### Exclusivity for Salvation
 > "I am the way the truth and the life, NO one comes to the father except through me."
-> — `John 14 - exclusivity of the gospel..txt`
+> — `John 14 - exclusivity of the gospel..md`
 
 > "Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved."
-> — `John 14 - exclusivity of the gospel..txt` (Acts 4:12)
+> — `John 14 - exclusivity of the gospel..md` (Acts 4:12)
 
 **Explicit. Tradition: Evangelical, Protestant.**
 
@@ -148,7 +148,7 @@ No saint, priest, pope, prophet, or governing body can mediate. **Explicit. Trad
 > — `Romans 5.md`
 
 > "We owed a debt we could not pay, and he paid a debt he did not owe."
-> — `is 53.txt`
+> — `is 53.md`
 
 Central atonement theory. Named explicitly by term ("penal substitutionary atonement") in multiple sermons. **Explicit. Tradition: Reformed, Evangelical.**
 
@@ -169,22 +169,22 @@ Central atonement theory. Named explicitly by term ("penal substitutionary atone
 
 #### Bodily Resurrection
 > "Scripture says that three days later Christ rose from the dead. He had defeated sin, and death and hell and satan."
-> — `is 53.txt`
+> — `is 53.md`
 
 > "More than 500 people witnessed his resurrection."
-> — `John 10.txt`
+> — `John 10.md`
 
 **Explicit. Tradition: Universal Christian orthodoxy.**
 
 #### Ascension and Intercession
 > "He ascended into heaven and is now exalted at the right hand of God where He is the One Mediator."
-> — `Theology Proper.txt` (BFM)
+> — `Theology Proper.md` (BFM)
 
 **Explicit. Tradition: Nicene, Protestant.**
 
 #### Return in Judgment
 > "At the very name of Jesus, EVERY knee shall bow, and Every tongue WILL confess that Jesus is Lord. For some of us there will be no greater joy... But to others, depart from me I knew you not."
-> — `phil 2.txt`
+> — `phil 2.md`
 
 **Explicit. Tradition: Evangelical, Reformed.**
 
@@ -194,49 +194,49 @@ Central atonement theory. Named explicitly by term ("penal substitutionary atone
 
 #### Full Deity of the Holy Spirit
 > "The Holy Spirit is the Spirit of God, fully divine."
-> — `bfm holy spirit.txt`
+> — `bfm holy spirit.md`
 
 **Explicit. Tradition: Nicene orthodoxy, Baptist.**
 
 #### Agent of Regeneration
 > "He even has to do a work in us before salvation or we would reject the good news outright and call it foolishness."
-> — `Acts 2 Holy Spirit.txt`
+> — `Acts 2 Holy Spirit.md`
 
 > "Before we can even follow him, he has to do a work in us."
-> — `sola gracia.txt`
+> — `sola gracia.md`
 
 The Spirit effects the new birth. Regeneration precedes faith. **Explicit. Tradition: Calvinistic/Augustinian.**
 
 #### Spirit Baptism at Conversion — One-Time Event
 > "At the moment of regeneration He baptizes every believer into the Body of Christ."
-> — `bfm holy spirit.txt`
+> — `bfm holy spirit.md`
 
 > "Someone whose truly saved gets all of the Holy Spirit that will ever get."
-> — `Acts 2 Holy Spirit.txt`
+> — `Acts 2 Holy Spirit.md`
 
 Not a second experience. Not progressive. Complete at conversion. **Explicit. Tradition: Baptist, Reformed (contra second-blessing Pentecostalism).**
 
 #### Permanent Indwelling
 > "Unlike those two [Elijah/Elisha], it never leaves us once we are saved."
-> — `Acts 2 Holy Spirit.txt`
+> — `Acts 2 Holy Spirit.md`
 
 **Explicit. Tradition: Baptist, Reformed (eternal security).**
 
 #### Sealing Unto Final Redemption
 > "He seals the believer unto the day of final redemption. His presence in the Christian is the guarantee that God will bring the believer into the fullness of the stature of Christ."
-> — `bfm holy spirit.txt`
+> — `bfm holy spirit.md`
 
 **Explicit. Tradition: Baptist (BFM 2000).**
 
 #### Illumination of Scripture
 > "Through illumination He enables men to understand truth."
-> — `bfm holy spirit.txt`
+> — `bfm holy spirit.md`
 
 Without the Spirit, spiritual things are foolishness (1 Cor 2:14 cited repeatedly). **Explicit. Tradition: Reformed, Baptist.**
 
 #### Conviction of Sin
 > "He convicts men of sin, of righteousness, and of judgment."
-> — `bfm holy spirit.txt`
+> — `bfm holy spirit.md`
 
 **Explicit. Tradition: Baptist (BFM 2000).**
 
@@ -248,22 +248,22 @@ Without the Spirit, spiritual things are foolishness (1 Cor 2:14 cited repeatedl
 
 #### Tongues as Earthly Languages — Soft Cessationism
 > "Very clearly, here, Luke is talking about different languages... They aren't speaking gobbledygook."
-> — `Acts 2 Holy Spirit.txt`
+> — `Acts 2 Holy Spirit.md`
 
 > "I don't think its normal for it to happen today and given out as a gift like Peter had. But God is capable of doing that if he chooses."
-> — `Acts 2 Holy Spirit.txt`
+> — `Acts 2 Holy Spirit.md`
 
 Not hard cessationism (God can do anything). Not continuationism (apostolic gifts are not normal today). **Explicit. Tradition: Soft cessationist Baptist.**
 
 #### Effectual Drawing
 > "The most interesting part in the Greek in that sentence is the word Draws. It's the same word they would use of a sword being pulled from a sheath. Does the sword have a say in that?... The third way the word is used is 'Drag.'"
-> — `hamartiology.txt`
+> — `hamartiology.md`
 
 **Explicit. Tradition: Calvinistic (TULIP — I).**
 
 #### Testing Spirit Claims Against Scripture
 > "Anything that conflicts with the Word of God is NOT of God."
-> — `Acts 2 Holy Spirit.txt`
+> — `Acts 2 Holy Spirit.md`
 
 Extended critique of Todd Bentley / Lakeland Revival as an example of false Spirit claims. **Explicit. Tradition: Reformed Baptist, Sola Scriptura.**
 
@@ -273,10 +273,10 @@ Extended critique of Todd Bentley / Lakeland Revival as an example of false Spir
 
 #### Total Depravity — Radical Corruption
 > "Apart from Christ we are all as unholy as it gets. We are all as wayward as we individually are able to be."
-> — `Ezekiel 36.txt`
+> — `Ezekiel 36.md`
 
 > "Dead, Trespassers, sinners, Followers of the world, followers of the powers of the air, or satan, Sons of disobedience, lovers of the passions of the flesh, slaves to the passions of the body, slaves to the passions of the mind, by nature children of wrath."
-> — `Ezekiel 36.txt`
+> — `Ezekiel 36.md`
 
 > "Dead men don't cooperate. Dead men don't choose. God speaks, and the dead live."
 > — `romans 9 pt 1.md`
@@ -288,7 +288,7 @@ Not that everyone is as bad as possible, but that sin pervades every part of hum
 > — `Ordo Solutis Romans 8.md`
 
 > "Kids are born knowing how to sin. You don't have to teach them to tell a lie."
-> — `John 10.txt`
+> — `John 10.md`
 
 Federal headship of Adam. Sin transmitted to all. **Explicit. Tradition: Augustinian, Reformed.**
 
@@ -303,10 +303,10 @@ Sin is deceptive *and* defiant. Not mere frailty, ignorance, or poor choices. **
 
 #### Bondage of the Will
 > "If any man ascribes anything of salvation, even the very least, to the free-will of man — he knows nothing of grace, and he has not learned Jesus Christ properly." (Luther, quoted approvingly)
-> — `Ezekiel 36.txt`
+> — `Ezekiel 36.md`
 
 > "No one can come to me unless the Father who sent me draws him." (Cited repeatedly as proof of the will's inability)
-> — `Eternal Security.txt`, `Bible Study - The Thief Who Saw a King.md`
+> — `Eternal Security.md`, `Bible Study - The Thief Who Saw a King.md`
 
 **Explicit. Tradition: Augustinian, Lutheran/Reformed.**
 
@@ -369,10 +369,10 @@ See Christology section above.
 
 ##### Perseverance / Preservation of the Saints
 > "Its called 'once saved always saved' or to use the words of the reformers, they called it perseverance of the saints. That sort of makes it sounds like it has something to do with mans effort. It doesn't."
-> — `Eternal Security.txt`
+> — `Eternal Security.md`
 
 > "Not only can you not lose your salvation, but you can't get rid of it either."
-> — `Eternal Security.txt`
+> — `Eternal Security.md`
 
 > "Your adoption does not hang on the thin thread of your performance but on the steel cable of Christ's finished work."
 > — `romans 9 pt 1.md`
@@ -381,7 +381,7 @@ Prefers "preservation" language (Sproul). God's keeping work, not human effort. 
 
 #### Ordo Salutis (Order of Salvation)
 > "The biblical order of the things that have to have happened in order for one to have actually been saved: Predestination, Election, Calling, Regeneration, Faith, Repentance, Justification, Adoption, Sanctification, Perseverance, Glorification."
-> — `Ezekiel 36.txt`
+> — `Ezekiel 36.md`
 
 Classic Reformed ordo with regeneration preceding faith. **Explicit. Tradition: Calvinist.**
 
@@ -390,7 +390,7 @@ Classic Reformed ordo with regeneration preceding faith. **Explicit. Tradition: 
 > — `romans 9 pt 1.md`
 
 > "The only thing man contributes to his salvation is the sin that makes it necessary." (Edwards, quoted repeatedly)
-> — `Ordo Solutis Romans 8.md`, `Ezekiel 36.txt`
+> — `Ordo Solutis Romans 8.md`, `Ezekiel 36.md`
 
 Named by term. Synergism named and rejected. **Explicit. Tradition: Reformed/Calvinist.**
 
@@ -438,7 +438,7 @@ Sanctification flows *from* justification, not *toward* it. Holiness is not opti
 
 #### Assurance — Real, Grounded in Christ, Tested by Examination
 > "Search your heart, really dig deep. Evaluate your motives... is your interest really in Him? Or is your interest in a peripheral benefit."
-> — `Eternal Security.txt`
+> — `Eternal Security.md`
 
 > "My life is secure not because I hold on tightly to Christ, but because He holds tightly to me."
 > — `Romans 10.md`
@@ -447,7 +447,7 @@ Real assurance grounded in Christ's work. But false assurance is a pastoral dang
 
 #### Adoption
 > "We deserve Hell, but we were given an inheritance. We deserve a punishment, but instead we are equipped. We deserve fire for eternity, but instead we are made sons and daughters."
-> — `Heb 12.txt`
+> — `Heb 12.md`
 
 Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. **Explicit. Tradition: Reformed Baptist.**
 
@@ -478,25 +478,25 @@ Particular redemption held together with a free, sincere, urgent gospel offer. I
 > — `claude.md`
 
 > "At the foundation of the Baptist denomination almost every church held to Calvinism, and all of them held to believers baptism."
-> — `being baptist.txt`
+> — `being baptist.md`
 
 > "We are related to most of the reformers, the puritans, and the anabaptists. All of which were very gospel centered, focused on the word of God above all else."
-> — `being baptist.txt`
+> — `being baptist.md`
 
 The 1689 is cited directly on election, justification, sanctification, civil magistrate, and suffering. The BFM 2000 is cited on salvation, regeneration, the Holy Spirit, and Scripture. **Explicit. Tradition: 1689 LBCF / BFM 2000-aligned.**
 
 #### Landmarkism Rejected
 > "So Landmarkianism says we trace our history as Baptists back to John the Baptist, and that as a result we are not part of the reformation because we never strayed from God and so never needed a reformation... Crazy isn't it?"
-> — `being baptist.txt`
+> — `being baptist.md`
 
 > "Do you remember who I mentioned they credit with the foundation of the church? John the Baptist. But who is the church really based upon? Jesus."
-> — `being baptist.txt`
+> — `being baptist.md`
 
 **Explicit. Tradition: Mainstream Southern Baptist (anti-Landmark).**
 
 #### Christ as Head of the Church (Not the Pope)
 > "Jesus is the head of the church... while the catholics have a mere man as the head of their church, we follow Jesus as the head of ours."
-> — `christology.txt`
+> — `christology.md`
 
 **Explicit. Tradition: Protestant / Baptist.**
 
@@ -508,55 +508,55 @@ The 1689 is cited directly on election, justification, sanctification, civil mag
 
 #### Regenerate Church Membership
 > "The third Baptist distinctive is regenerate church membership. In order to join a Baptist church your pastor has to be convinced you are a believer in Jesus Christ."
-> — `being baptist.txt`
+> — `being baptist.md`
 
 > "Why would we want people who are currently rebelling against God to have a voice in the shaping of the direction of our denomination?"
-> — `being baptist.txt`
+> — `being baptist.md`
 
 Church membership is not optional. The church is body and family, not business. **Explicit. Tradition: Baptist.**
 
 #### Congregational Governance / Local Church Autonomy
 > "Many other churches followed the catholic style of top down leadership. One guy or group of guys at the helm, that can dictate what happens to everything downstream."
-> — `being baptist.txt`
+> — `being baptist.md`
 
 > "In our denomination we believe in congregational governance. So as the local churches go so go our denominations."
-> — `being baptist.txt`
+> — `being baptist.md`
 
 **Explicit. Tradition: Baptist / Congregationalist.**
 
 #### Believers' Baptism (Credobaptism)
 > "Lots of other churches baptize basically anyone. Even babies. They say its symbolic of old testament circumcision, but that isn't the model scripture gives us. The biblical model is that we are first saved by God, and then baptized as an outward sign of an inward change."
-> — `being baptist.txt`
+> — `being baptist.md`
 
 > "I've met people on the street that say they know they are a Christian because their parents baptized them as kids."
-> — `being baptist.txt`
+> — `being baptist.md`
 
 Baptism is the first act of obedience after salvation, not a condition of it. Infant baptism and baptismal regeneration rejected. **Explicit. Tradition: Baptist (contra paedobaptist and Campbellite).**
 
 #### Lord's Supper — Memorial / Ordinance
 > "This is my body which is for you. Do this in remembrance of me." (1 Cor 11:24-25, cited in communion contexts)
-> — `sola scriptura.txt`, `Jude 1.txt`
+> — `sola scriptura.md`, `Jude 1.md`
 
 > "Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord. Let a person examine himself."
-> — `sola scriptura.txt`
+> — `sola scriptura.md`
 
 Memorial view. Self-examination required before partaking. **Explicit. Tradition: Baptist / Zwinglian memorial.**
 
 #### Complementarian — Women Not as Pastors
 > "There are a lot of great and Godly women out there, that God has gifted with gifts appropriate to the office of pastors. And yet, he asks women not to become pastors."
-> — `Sola Scriptura 24.txt`
+> — `Sola Scriptura 24.md`
 
 > "Some women were made to be deacons. Some were made to be judges. They were excellent at the task they were called to. But those two separate rolls, are still both different from the roll of pastor, which God has withheld from women."
-> — `Sola Scriptura 24.txt`
+> — `Sola Scriptura 24.md`
 
 Women honored as co-laborers (Phoebe, Junia, Mary in Romans 16). Pastorate reserved for men. Women may serve as deacons. **Explicit. Tradition: Complementarian Baptist.**
 
 #### Church Growth Through Evangelism, Not Transfer
 > "As Christians leaving one church for another is sort of like cutting the foot off, and sewing it on a different body. That's part of the reason I don't want to grow because other churches are having issues. I would rather grow through evangelism."
-> — `Commitment to the church body 1 cor 12.txt`
+> — `Commitment to the church body 1 cor 12.md`
 
 > "When we fill up, I would love for us to be a church that plants another church in the place of greatest spiritual need."
-> — `Commitment to the church body 1 cor 12.txt`
+> — `Commitment to the church body 1 cor 12.md`
 
 **Explicit. Tradition: Baptist / Missional.**
 
@@ -574,13 +574,13 @@ The 1689, Chapter 24, applied to Romans 13: God ordains authorities, Christians 
 
 #### Conservative Resurgence Affirmed
 > "A few decades ago we started flirting with liberalism... because Godly men stood up for what they believed, in a few short years the entire denomination was pulled back towards orthodoxy."
-> — `being baptist.txt`
+> — `being baptist.md`
 
 **Explicit. Tradition: Conservative Southern Baptist.**
 
 #### SBC Cooperative Involvement
 > "Every year we have the opportunity to elect messengers to go to the convention, and help shape the course of things for the following year. This is something we should change, we should become involved going forward."
-> — `being baptist.txt`
+> — `being baptist.md`
 
 **Explicit. Tradition: Southern Baptist.**
 
@@ -599,57 +599,57 @@ The 1689, Chapter 24, applied to Romans 13: God ordains authorities, Christians 
 > — `claude.md`
 
 > "Catholics believe the Word of God comes in TWO forms — Sacred Scripture and Sacred Tradition... What does the Bible say about itself? 2 Timothy 3:16 says All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work. ALL scripture. Not tradition AND scripture."
-> — `Catching Counterfeits.txt`
+> — `Catching Counterfeits.md`
 
-An entire Five Solas series preaches this: `sola scriptura.txt`, `Sola Scriptura 24.txt`. **Explicit. Tradition: Reformation, Protestant (contra Catholic Magisterium).**
+An entire Five Solas series preaches this: `sola scriptura.md`, `Sola Scriptura 24.md`. **Explicit. Tradition: Reformation, Protestant (contra Catholic Magisterium).**
 
 #### Verbal Plenary Inspiration (God-Breathed)
 > "ALL scripture is God-breathed" (2 Tim 3:16, cited repeatedly across corpus)
 
 > "We believe that the Holy Bible was written by men divinely inspired and is God's revelation of Himself to man."
-> — `Theology Proper.txt` (BFM)
+> — `Theology Proper.md` (BFM)
 
 Not partial inspiration; all of it, every word. **Explicit. Tradition: Conservative Evangelical.**
 
 #### Inerrancy and Infallibility
 > "It is a perfect treasure of divine instruction. It has God for its author, salvation for its end, and truth, without any mixture of error, for its matter."
-> — `Theology Proper.txt` (BFM)
+> — `Theology Proper.md` (BFM)
 
 **Explicit. Tradition: Conservative Evangelical (Chicago Statement compatible).**
 
 #### Sufficiency of Scripture
 > "Adding or taking away from scripture is the source of every heresy and false religion tied to Christianity that exists."
-> — `galatians 1.txt`
+> — `galatians 1.md`
 
 > "The Bible is the only source of truth. Anything written by man cannot be infallible."
-> — `Catching Counterfeits.txt` (Malarkey letter, endorsed)
+> — `Catching Counterfeits.md` (Malarkey letter, endorsed)
 
 Scripture is complete. No additional revelations needed (contra LDS, JW, NAR). **Explicit. Tradition: Protestant.**
 
 #### Scripture Over Experience
 > "We don't test scripture through the lens of experience. We test experience through the lens of scripture."
-> — `Catching Counterfeits.txt`
+> — `Catching Counterfeits.md`
 
 > Bill Johnson of Bethel is critiqued for saying "I refuse to create a theology that denies the experience of other people" — the preacher responds: "We refuse to create a theology that *affirms* the experience of other people over the word of God."
-> — `Catching Counterfeits.txt`
+> — `Catching Counterfeits.md`
 
 This is a governing hermeneutical principle, applied against NAR, Bethel, and charismatic excesses. **Explicit. Tradition: Cessationist, Reformed.**
 
 #### Preservation of Scripture — Masoretes and Textual Transmission
 > "The Masoretes actually dedicated their entire lives to carefully and methodically creating precise copies of these documents."
-> — `sola scriptura.txt`
+> — `sola scriptura.md`
 
 > "If someone made an error on a page, they didn't erase it, they destroyed the page."
-> — `sola scriptura.txt`
+> — `sola scriptura.md`
 
 God's providential preservation of the text through meticulous human transmission. **Explicit. Tradition: Conservative Evangelical.**
 
 #### Closed Canon — 66 Books
 > "The council of Laodicea established our current list of 66 books."
-> — `sola scriptura.txt`
+> — `sola scriptura.md`
 
 > "These are the books they could link definitively to an apostle or a closely associated companion."
-> — `sola scriptura.txt`
+> — `sola scriptura.md`
 
 Apostolic authorship or connection as the criterion for canonicity. The Apocrypha is implicitly excluded. **Explicit. Tradition: Protestant.**
 
@@ -674,33 +674,33 @@ The entire corpus models verse-by-verse expositional preaching, consistently ret
 
 #### Christ's Literal, Physical Return
 > "We all agree that Christ is going to return at some point."
-> — `Titus 2 pt 2.txt`
+> — `Titus 2 pt 2.md`
 
 > "The second coming of Christ is the completion of his saving work. If you take it away, the whole fabric of his saving work unravels." (Piper, quoted approvingly)
-> — `Titus 2 pt 2.txt`
+> — `Titus 2 pt 2.md`
 
 > "He will return in power and glory to judge the world and to consummate His redemptive mission."
-> — `Theology Proper.txt` (BFM)
+> — `Theology Proper.md` (BFM)
 
 Theological liberalism's denial of bodily return is explicitly rejected (Bultmann critiqued by name). **Explicit. Tradition: Orthodox Christian, Conservative Evangelical.**
 
 #### Millennium — Pan-Millennialist (Deliberately Non-Committal)
 > "I heard a guy preaching one time and he claimed to be a pan-millenialist. Someone raised their hand and asked him what that meant, and the preacher responded 'its all going to pan out in the end'."
-> — `Titus 2 pt 2.txt`
+> — `Titus 2 pt 2.md`
 
 Does not commit to pre-, post-, or amillennialism. However, a futurist reading of Matthew 24 leans premillennial:
 
 > "I believe what we are seeing today is the beginnings of the birthpangs."
-> — `Mt 24.txt`
+> — `Mt 24.md`
 
 **Explicit (non-committal by design, with futurist leanings). Tradition: Broadly Baptist.**
 
 #### Hell — Eternal Conscious Torment
 > "This burning, state of being gnawed upon by maggots is eternal. It never stops."
-> — `rev 20.txt`
+> — `rev 20.md`
 
 > "The only thing you will be able to hear is the screams of agony of other people. Punctuated by the sound of billions of people grinding their teeth all at once."
-> — `rev 20.txt`
+> — `rev 20.md`
 
 > "Hell then, where humans go to experience the full measure of infinite God's infinite hatred for sin, is just. Sin is so repugnant to God... that our infinite crime is deserving of an infinite punishment."
 > — `Romans 3 - wrath of God (final).md`
@@ -709,13 +709,13 @@ Not annihilationism. Real, conscious, eternal. **Explicit. Tradition: Orthodox C
 
 #### Hell as Self-Chosen Separation
 > "If one spends a lifetime actively rejecting God, it seems to me it wouldn't be very loving of God to force them to live for eternity with the one they hate, so he allows them to have what they want — an eternity apart from him."
-> — `Theology Proper.txt`
+> — `Theology Proper.md`
 
 **Explicit. Tradition: Traditional / C.S. Lewis-influenced.**
 
 #### Heaven as Real and Beyond Imagination
 > "Paul said no eye has seen, no ear has heard, and no mind has conceived what its going to be like."
-> — `Titus 2 pt 2.txt`
+> — `Titus 2 pt 2.md`
 
 > "Heaven and judgment treated as realities, not illustrations."
 > — `claude.md` (preaching DNA)
@@ -724,7 +724,7 @@ Not annihilationism. Real, conscious, eternal. **Explicit. Tradition: Orthodox C
 
 #### Intermediate State — Immediate Presence with Christ at Death
 > "Absent from the body, present with the Lord... we KNOW that when we leave our body we go straight to Christ."
-> — `Catching Counterfeits.txt`
+> — `Catching Counterfeits.md`
 
 > "Today you will be with me in paradise." (The thief sermon treats this as immediate, conscious presence with Christ at death)
 > — `Sermon - Today You Will Be With Me v2.md`
@@ -733,19 +733,19 @@ Not annihilationism. Real, conscious, eternal. **Explicit. Tradition: Orthodox C
 
 #### Final Judgment
 > "At the very name of Jesus, EVERY knee shall bow, and Every tongue WILL confess that Jesus is Lord. For some of us there will be no greater joy... But to others, depart from me I knew you not."
-> — `phil 2.txt`
+> — `phil 2.md`
 
 **Explicit. Tradition: Orthodox Christian.**
 
 #### Maranatha — Eager Longing for Christ's Return
 > "We have a word — maranatha — which means an eager longing for Christ to return. Do you long for that?"
-> — `Titus 2 pt 2.txt`
+> — `Titus 2 pt 2.md`
 
 **Explicit. Tradition: Orthodox Christian.**
 
 #### Skepticism Toward "Visits to Heaven" Claims
 > "The boy Alex Malarkey's letter: 'I did not die. I did not go to Heaven. I said I went to Heaven because I thought it would get me attention... The Bible is the only source of truth.'"
-> — `Catching Counterfeits.txt`
+> — `Catching Counterfeits.md`
 
 Claims of visiting heaven tested against Scripture and found wanting. **Explicit. Tradition: Cessationist / Sola Scriptura.**
 
@@ -784,10 +784,10 @@ The `Lords day romans 14 gal 4.md` file treats Sabbath/Lord's Day observance as 
 
 #### Suffering as Refining, Not Punishment
 > "God uses our lives, our stories, our pain, struggles, grief, our cancer, our shingles, our messed up lungs, and failing knees to make an orchestra of redemption to reach the world around us."
-> — `Philippians 3 - 2025.txt`
+> — `Philippians 3 - 2025.md`
 
 > "God does not cause Sin, but He is capable of turning evil into good in a persons life."
-> — `Philippians 3 - 2025.txt`
+> — `Philippians 3 - 2025.md`
 
 **Explicit. Tradition: Reformed, Puritan.**
 
@@ -799,7 +799,7 @@ The `Lords day romans 14 gal 4.md` file treats Sabbath/Lord's Day observance as 
 
 #### Sanctity of Life
 > "Life is sacred to God. Its precious... Ultimately in most all cases its an issue of Idolatry."
-> — `Psalms 139 (abortion).txt`
+> — `Psalms 139 (abortion).md`
 
 Abortion explicitly condemned as idolatry — elevating comfort above God's commands. **Explicit. Tradition: Conservative Evangelical.**
 
@@ -824,7 +824,7 @@ Safety is not revenge. Refusing to return evil for evil does not mean offering y
 
 #### Great Commission as Every Believer's Mandate
 > "If you aren't sharing the gospel, you are missing out on a major part of worship."
-> — `evangelism (romans 15, mt 28, and rev 7).txt`
+> — `evangelism (romans 15, mt 28, and rev 7).md`
 
 > "If we are not sharing the gospel, we are following the plans of the enemy."
 > — `Romans 14.md`
@@ -833,16 +833,16 @@ Safety is not revenge. Refusing to return evil for evil does not mean offering y
 
 #### Unreached People Groups — Panta Ethne
 > "Panta means Every, or all without exception... Ethnos means basically every group of people drawn together by tradition or kinship."
-> — `evangelism (romans 15, mt 28, and rev 7).txt`
+> — `evangelism (romans 15, mt 28, and rev 7).md`
 
 Every sermon in the Romans series includes a specific "People Group of the Week" for prayer — Balija, Kunbi Konkani, Dhobi, Giddikki, Burmese, Shaikh, Hmong Bua, and many others. **Explicit. Tradition: IMB/SBC missions emphasis.**
 
 #### Missions Strategy — Go Where the Gospel Hasn't Gone
 > "Most of the resources are being sent to areas with a nice climate."
-> — `evangelism (romans 15, mt 28, and rev 7).txt`
+> — `evangelism (romans 15, mt 28, and rev 7).md`
 
 > "In 2003, we crossed a tipping point where more missionaries were being sent to the united states, than were going out from the united states."
-> — `evangelism (romans 15, mt 28, and rev 7).txt`
+> — `evangelism (romans 15, mt 28, and rev 7).md`
 
 **Explicit. Tradition: 10/40 Window missions strategy.**
 
@@ -864,21 +864,21 @@ Every sermon in the Romans series includes a specific "People Group of the Week"
 
 | Error | Key Quote | Source | Status |
 |-------|-----------|--------|--------|
-| **Mormonism** | "Mormons draw people away from God. They make something shiny that looks kinda like God if you are blind." | `1 john 4 - counterfeit.txt` | Explicitly rejected |
-| **Jehovah's Witnesses** | "Can the governing body of the Jehovah witness be the mediator between God and man? Certainly not." | `galatians 1.txt` | Explicitly rejected |
-| **Islam** | "Can Muhammad be the mediator between God and man? No." | `galatians 1.txt` | Explicitly rejected |
-| **Christian Science** | Standalone sermon refuting the movement | `Christian science...txt` | Explicitly rejected |
-| **Wicca / Occultism** | Standalone sermon: "1 Sam 28 wicca and the occult" | `1 sam 28 wicca and the occult..txt` | Explicitly rejected |
-| **Pantheism** | "There is a god in the microphone, a god in the podium, a god in the pews." (Dismissed as nonsense) | `evangelism.txt` | Explicitly rejected |
+| **Mormonism** | "Mormons draw people away from God. They make something shiny that looks kinda like God if you are blind." | `1 john 4 - counterfeit.md` | Explicitly rejected |
+| **Jehovah's Witnesses** | "Can the governing body of the Jehovah witness be the mediator between God and man? Certainly not." | `galatians 1.md` | Explicitly rejected |
+| **Islam** | "Can Muhammad be the mediator between God and man? No." | `galatians 1.md` | Explicitly rejected |
+| **Christian Science** | Standalone sermon refuting the movement | `Christian science...md` | Explicitly rejected |
+| **Wicca / Occultism** | Standalone sermon: "1 Sam 28 wicca and the occult" | `1 sam 28 wicca and the occult..md` | Explicitly rejected |
+| **Pantheism** | "There is a god in the microphone, a god in the podium, a god in the pews." (Dismissed as nonsense) | `evangelism.md` | Explicitly rejected |
 
 ### Soteriological Errors
 
 | Error | Key Quote | Source | Status |
 |-------|-----------|--------|--------|
-| **Pelagianism** | "Pelagius was a heretic. His beliefs were heterodox... man can be good enough on their own to merit salvation." | `Sola Deo Gloria mt 13.txt` | Explicitly rejected by name |
+| **Pelagianism** | "Pelagius was a heretic. His beliefs were heterodox... man can be good enough on their own to merit salvation." | `Sola Deo Gloria mt 13.md` | Explicitly rejected by name |
 | **Semi-Pelagianism / Arminianism** | "Grace is not God helping good people finish the climb; grace is God raising the dead." | `Romans 11.md` | Implicitly rejected by consistent monergism |
 | **Works-based salvation** | "If you add one gram of works to grace, you no longer have grace." | `Romans 11.md` | Explicitly rejected |
-| **Baptismal regeneration** | "We are Baptists, we hold baptism in high regard. But we believe it is the first step of a believer after salvation. It is then a work." | `galatians 1.txt` | Explicitly rejected |
+| **Baptismal regeneration** | "We are Baptists, we hold baptism in high regard. But we believe it is the first step of a believer after salvation. It is then a work." | `galatians 1.md` | Explicitly rejected |
 | **Decisional regeneration / Easy believism** | "Proximity to truth is not possession of Christ." | `Romans 11.md` | Implicitly rejected |
 | **False assurance** | "Many go to church their whole lives and never move from head knowledge to heart surrender — missing heaven by eighteen inches." | `Romans 11.md` | Explicitly rejected |
 
@@ -889,29 +889,29 @@ Every sermon in the Romans series includes a specific "People Group of the Week"
 | **"No creed but Christ"** | "'No creed but Christ' sounds humble. But it often means: 'No accountability but myself.'" | `Romans 14c.md` | Explicitly rejected |
 | **Megachurch pragmatism** | "I don't care how big we are, I care that we tell people about Jesus." | `Romans 14.md` | Implicitly rejected |
 | **Political pulpits** | "I don't like talking about politics, except in this way, are your politics subject to our King?" | `romans 12 - weep.md` | Explicitly rejected |
-| **Roman Catholic mediation** | "They wanted to be the mediators between God and man, but what does scripture say?" | `galatians 1.txt` | Explicitly rejected |
-| **Eastern Orthodoxy** | "They add in other things at points, things like tradition on top of scripture." | `Sola Deo Gloria mt 13.txt` | Implicitly rejected |
+| **Roman Catholic mediation** | "They wanted to be the mediators between God and man, but what does scripture say?" | `galatians 1.md` | Explicitly rejected |
+| **Eastern Orthodoxy** | "They add in other things at points, things like tradition on top of scripture." | `Sola Deo Gloria mt 13.md` | Implicitly rejected |
 | **Consumer Christianity** | "Do I see myself mainly as a consumer or as a member?" | `romans 12 pt 2.md` | Explicitly rejected |
 
 ### Cultural / Ethical Errors
 
 | Error | Key Quote | Source | Status |
 |-------|-----------|--------|--------|
-| **Prosperity gospel** | "Telling everyone God is a cosmic vending machine, put your quarters in and out pops the sugary sweet treat of your choice. But is that who God is?" | `mark 10.txt` | Explicitly rejected |
+| **Prosperity gospel** | "Telling everyone God is a cosmic vending machine, put your quarters in and out pops the sugary sweet treat of your choice. But is that who God is?" | `mark 10.md` | Explicitly rejected |
 | **Therapeutic moralism** | "Application aimed at mortification, not mood." | `claude.md` | Explicitly rejected |
 | **Christian nationalism** | "The state is not your savior. The church is not the state." | `claude.md` | Explicitly rejected |
 | **Fear-driven quietism** | Protected from by the 1689 framework | `claude.md` | Explicitly rejected |
 | **Kinism / Racism** | "Kinism is not a secondary issue. It is not a matter of conscience. It is an abomination." | `Romans 14c.md` | Explicitly rejected in strongest terms |
 | **Sentimental Christianity** | "Biblical love is not morally neutral. It does not bless what destroys people." | `romans 12 pt 3.md` | Explicitly rejected |
-| **Idolatry (broadly)** | "If football is more important than hearing the word of God... football is your idol." | `mark 10.txt` | Explicitly rejected |
+| **Idolatry (broadly)** | "If football is more important than hearing the word of God... football is your idol." | `mark 10.md` | Explicitly rejected |
 
 ### Methodological Errors
 
 | Error | Key Quote | Source | Status |
 |-------|-----------|--------|--------|
 | **Emotional manipulation** | "Conscience pressure without emotional manipulation." | `claude.md` | Explicitly rejected |
-| **Proof-texting** | "Only when we take things away from their context... can we find anything besides by grace through faith." | `galatians 1.txt` | Implicitly rejected |
-| **False prophets / NAR** | "No man knows the day or the hour." (Refuting specific self-appointed prophets) | `1 john 4 - counterfeit.txt` | Explicitly rejected |
+| **Proof-texting** | "Only when we take things away from their context... can we find anything besides by grace through faith." | `galatians 1.md` | Implicitly rejected |
+| **False prophets / NAR** | "No man knows the day or the hour." (Refuting specific self-appointed prophets) | `1 john 4 - counterfeit.md` | Explicitly rejected |
 
 ### Antinomianism and Legalism (Both Rejected)
 
@@ -920,7 +920,7 @@ Every sermon in the Romans series includes a specific "People Group of the Week"
 | **Antinomianism** | "Grace is not license. Freedom is not lawlessness." | `Romans 14c.md` | Explicitly rejected |
 | **Hyper-grace** | "Any doctrine of grace that produces arrogance has not been learned from the Bible." | `Romans 11.md` | Explicitly rejected |
 | **Legalism** | "The weak tends to judge — to condemn, to question the other's salvation, to treat secondary matters as gospel tests." | `Romans 14c.md` | Explicitly rejected |
-| **Hyper-Calvinism** | Calling out a local pastor who said a people group "doesn't deserve to go to heaven" | `evangelism.txt` | Implicitly rejected |
+| **Hyper-Calvinism** | Calling out a local pastor who said a people group "doesn't deserve to go to heaven" | `evangelism.md` | Implicitly rejected |
 
 ### Implicit Denials (Deduced from Consistent Affirmation)
 

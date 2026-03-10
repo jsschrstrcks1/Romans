@@ -1,0 +1,95 @@
+Were going to talk today about the most famous Baptist heretic – a man named Toy. The best and brightest minds in our denomination called this man the crown jewel. He was the smartest in his class, beloved by all his professors. He was popular amongst the student body. He was a good preacher, shared the gospel regularly, his church loved him as pastor. 
+
+He loved the bible deeply, he 
+
+He even had an on again off again girlfriend that maybe some of you have heard of. Her name was charlotte, you probably know her as lottie moon. They met at a Baptist seminary, he was her professor. She was the brilliant student. After she graduated he proposed they marry, and she declined. She was so sure that the Lord was calling her to missions that she declined to marry the love of her life because God had called her to china. She left. He remained single for several years. He started writing to her again. But by this point there had been a marked shift in Toy’s theology. They became close once more but the moment he revealed the change he’d made in what he believed she broke things off once and for all. This change in him was so egregious Lottie Moon would no longer talk to him. 
+
+Crawford Toy married another woman within two years, within three he was asked to leave Southern, and within ten he had renounced his faith, revoked his membership in the Baptist church and was teaching religion at Harvard. 
+
+It was his influence that led to the Baptist shake ups of the last few decades. He taught several thousand students, who became pastors, and professors, who taught more students. Who propagated this damnable heresy throughout the denomination. 
+
+Ultimately this led to the conservative resurgence, a time when people with solid biblical theology re-conquered the seminaries, and the halls of power throughout the denomination. His actions over a century ago are still felt today. When you watch discovery channel and hear about the contributions of the liars gospels – the so called secret gospels. It was Toy’s thoughts that led to their low view of Jesus, their low view of scripture, and their high view of anything that casts a shadow on either. 
+
+He knocked over the first domino’s in this area. 
+
+You may have a guess at his heresy at this point, but you’d be wrong. Being against the word of God was but a symptom of having made the decision trust his own thoughts, feelings, and opinions over the word of God. 
+
+Somewhere along the line, he became persuaded that evolution was true. Those thoughts led him to the conclusion that miracles cannot be true. That creation was false, that anything outside of the narrative was false. 
+
+So narrative is a philosophical term. Narrative means anything you can measure or smell, or taste, or touch or otherwise experience. The things we can see with our own eyes. Understand with our minds. Those things are the narrative. But God exists mostly outside of that. He does do things that affect the narrative. Prayers answered for instance. Healings. When he intervenes and gives you a sense of peace. At those points he has intervened in the narrative. But mostly he is in what they call the meta narrative. He exists in a plane we can’t see, or touch, or hear from earth – unless he chooses to let us. 
+
+Toy came to believe that because he didn’t see God work in extraordinary ways, that God didn’t work that way. So he argued because the bible talks about God working in extraordinary ways, where it says them the bible must be false. He stripped everything that wasn’t a work of history out of his reading of the bible, and turned the living word of God into a moralistic history book that couldn’t fully be trusted. 
+
+Ultimately though, the long and short of it was that he thought he knew more, and better than everyone else, and God. 
+
+There is another story in scripture where a person follows the same course. 
+
+Genesis 3:1
+
+It strikes me that eve followed the same trajectory as did Toy. He started out ok, but ended in a place where he thought what he knew was better than what God said. 
+
+Even did essentially the same thing. But first lets look at the Hebrew here a little bit. 
+
+look at vs 6 – my translation says “delight to the eyes” what does yours say? The Hebrew word – “hah-mad”, literally means desirable.  But I found it striking that in Ex 20:17 where we are given the commandment not to covet – guess what word they translate to covet? Hah-Mad. This has given rise to the thought that eve was more than just passingly attracted to the fruit. That perhaps she began to obsess about it. Certainly she desired it very deeply. Seems like she came awfully close to coveting.
+But like Toy, she didn’t start out that way did she? She was created from adams rib, she walked with The lord every day. She was obedient to him to this point in all things. 
+
+My study bible notes that Eves decision is based upon practical values, aesthetic appreciation, and intellectual gratification. These factors coalesced together and Eve decided that in that moment she didn’t trust God as much as she trusted herself, and her own opinions, and feelings, and thoughts on the subject. She even trusted the snake more than God. 
+
+Its easy, isn’t it to trust ones own assessment of things over that of anyone else. 
+
+Its annoying the rest of the time, but truthfully the problem comes when you trust yourself over God. We are in our fallen state why? Because – at that original sin – we decided what we thought, what we felt, what we desired was more important than what God commanded us to do. 
+
+Sin creeps into our lives, and one of its primary vectors comes through ignoring the word of God. 
+
+Toy, when he thought he knew better than God, when he chose to ignore the parts of God’s word that he didn’t like – what happened? 
+
+Did not the same thing happen with eve? She became obsessed near covetous with a thing, and it lead to the introduction of sin into the world. To the corruption of all of mankind for the rest of human time, until heaven!
+
+The point of all of this is to impress upon us the importance of the word of God in our lives. 
+
+I’ve heard it said that either God’s word will keep you from sin, or sin will keep you from God’s word. 
+
+Which path will you choose? 
+
+Hopefully you will choose the first path. To that end, I propose we spend the next year reading, or for the auditory learners listening to the word of God. We have a bible reading plan in our bulletin this week. In fact, I want you to open your bulletin, and pull out that section, and look at it for a second. 
+
+It outlines what we are to read in the coming week. We read through it together, I’ll preach on one of the passages we read through this week, and by this time next year we will have completed our reading through the bible. 
+
+There are many benefits to reading scripture. I found a list of 15. I’m not sure we are going to get through all 15, but I want you to know, there are more benefits than just helping keep us from sin. 
+
+This list was written by Ralph Drollinger, who is affiliated with Captial Baptist church in Washington Dc, which is lead by Mark Dever. 
+
+He points out that spending time in the word of God will help assure us of our salvation. He points to Romans 10:17 – faith comes from hearing, and hearing from the word of Christ! Saving faith comes from the Gospel, which is recorded in God’s word. It provides us with an objective standard for all elements of Christian Life. Because of that it helps us understand the difference between someone whose saved, and someone whose deceived themselves. We’ve talked before about being a sheep, vs a goat. 
+
+It will teach correct, rebute and train in all righteousness, so we can be equipped for every good work. 
+2 tim 3:16
+
+Scripture guides us. Many are the plans of a mans heart but the Lord directs his steps, and we know that God’s word is a lamp unto our feet, and a light unto our path. These things help protect us from evil. Not hardships. But from evil. 
+
+It counsels us. When you’re sad, or lonely, or happy, or weary, or sick, or any of a thousand things. When you’re not sure what to do, turn to Scripture, it will point you to Christ. It will offer wisdom which will guide you where God wants you to go. 
+
+Scripture will warn us when we get off track. 
+1 peter 2:2 Moreover, by them Your servant is warned; In keeping them there is great reward.
+IT WILL SANCTIFY YOU
+John 17:17 Sanctify them in the truth; Your word is truth.
+Sanctify as it is used throughout Scripture means a setting apart for Christian maturation. One grows through grappling with the truth and ultimate truth only stems from knowing the Scriptures. This boiler plate fact is stated again as Christ’s intended way of maturing His church in:
+Ephesians 5:26 That He might sanctify her, having cleansed her by the washing of water with the word.
+IT WILL STABILIZE YOU
+Psalm 1:3 He will be like a tree firmly planted by streams of water, Which yields its fruit in its season And its leaf does not wither; And in whatever he does, he prospers.
+Over the years I have seen so many “Christian” legislators wither: Come and go because they violate this principle of meditating on the Word. Unfortunately, they are like chaff which the wind drives away (1:4). God doesn’t honor them and suddenly they are out. It so saddens my heart to so often see this. They are double-minded . . . unstable in all their ways (James 1:8). Conversely: Joshua 1:8-9
+“This book of the law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it; for then you will make your way prosperous, and then you will have success. Have I not commanded you? Be strong and courageous! Do not tremble or be dismayed, for the LORD your God is with you wherever you go.”
+This passage promises prosperity and success to those who meditate on the Word day and night!
+IT WILL EMBOLDEN YOU
+Psalm 119:23 Even though princes sit and talk against me, Your servant meditates on Your statutes.
+Do you want to have the courage to do what is right no matter what the pressure is from others? Get into the Word! Set your mind to please God, versus others whose plans may run contrary to GOD’S Word.
+There are more… If you’d like I’ll print up the whole list, and pass them out next week. Even his list isn’t comprehensive. 
+
+In any event I want to close with a challenge. The praise team is going to come up here in a moment and sing a final song. Normally this is where we give a gospel presentation, and an alter call. This week I want you guys to think about something different. I want you to commit to reading through the bible in a year. I’ve got a print out up front here. I feel like we take more seriously things we sign. I’m going to sign it right now. If you want these benefits, if you want to grow closer to the Lord, if you want to commit to reading the word of God in this next year with the rest of us, please come up and sign this commitment. 
+
+If need be: I’ll make this available again next week for those that weren’t hear this week, and those who couldn’t be here will have the opportunity to participate along side us. 
+
+Then when everyone has signed up, we will give everyone a copy to keep in their bibles. 
+
+So while the praise team is singing, if you’re willing to this step in following the Lord, come on up and sign this commitment. 
+
+Won’t you come?

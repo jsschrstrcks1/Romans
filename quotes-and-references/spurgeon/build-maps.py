@@ -83,54 +83,83 @@ THEOLOGY_MAP = {
 
 def parse_scripture_index(md_path: Path) -> list[dict]:
     """
-    Parse a converted scripture index (NT or OT) into structured records.
-    Returns list of {reference, volume, title, sermon_no}.
+    Parse a converted scripture index (NT or OT).
+    Format is 4 lines per record: reference, volume, title, sermon_no.
+    Returns list of {reference, title, sermon_no}.
     """
     if not md_path.exists():
         return []
-    text = md_path.read_text(encoding="utf-8")
+    lines = [l.strip() for l in md_path.read_text(encoding="utf-8").splitlines()]
+
+    # Skip header lines until we hit the first scripture reference
+    scripture_pat = re.compile(r'^[A-Z][A-Za-z]+\.?\s+\d')
+    number_pat = re.compile(r'^\d+$')
+
     records = []
-    # Pattern: "Book ch:v  Volume  Title (Sermon #N)  N"
-    # The columns are: Scripture | Volume | Link | Sermon Number
-    line_pattern = re.compile(
-        r'^([A-Z][A-Za-z0-9 .:;\-,]+?)\s{2,}(\d+)\s{2,}(.+?)\s{2,}(\d+)\s*$',
-        re.MULTILINE
-    )
-    for m in line_pattern.finditer(text):
-        ref = m.group(1).strip()
-        title = m.group(3).strip()
-        try:
-            sermon_no = int(m.group(4).strip())
-        except ValueError:
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if not scripture_pat.match(line):
+            i += 1
             continue
-        records.append({"reference": ref, "title": title, "sermon_no": sermon_no})
+        ref = line
+        # Next non-blank is volume, then title, then sermon number
+        remaining = []
+        j = i + 1
+        while j < len(lines) and len(remaining) < 3:
+            if lines[j]:
+                remaining.append(lines[j])
+            j += 1
+        if len(remaining) >= 3 and number_pat.match(remaining[0]) and number_pat.match(remaining[2]):
+            title = remaining[1]
+            try:
+                sermon_no = int(remaining[2])
+                records.append({"reference": ref, "title": title, "sermon_no": sermon_no})
+            except ValueError:
+                pass
+        i += 1
     return records
 
 
 def parse_subject_index(md_path: Path) -> list[dict]:
     """
-    Parse the general subject/title index (chstix).
+    Parse the title/subject index (chstix).
+    Format is 3 lines per record: title, volume, sermon_no.
     Returns list of {subject, sermon_no, title}.
     """
     if not md_path.exists():
         return []
-    text = md_path.read_text(encoding="utf-8")
+    lines = [l.strip() for l in md_path.read_text(encoding="utf-8").splitlines()]
+
+    number_pat = re.compile(r'^\d+$')
+    skip_pat = re.compile(r'^(TITLE INDEX|www\.|AAA|Page \d|Press CTRL)', re.IGNORECASE)
+
     records = []
-    # Lines like: "Subject Title ..... N" or "Title  VolumeNo  SermonNo"
-    # chstix format: "Title  Vol  Sermon#  No"
-    line_pattern = re.compile(
-        r'^(.+?)\s{2,}(\d+)\s{2,}(.+?)\s{2,}(\d+)\s*$',
-        re.MULTILINE
-    )
-    for m in line_pattern.finditer(text):
-        subject = m.group(1).strip()
-        title = m.group(3).strip()
-        try:
-            sermon_no = int(m.group(4).strip())
-        except ValueError:
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if not line or skip_pat.match(line) or number_pat.match(line):
+            i += 1
             continue
-        if len(subject) > 2 and not subject.startswith("Page"):
-            records.append({"subject": subject, "title": title, "sermon_no": sermon_no})
+        # Look ahead: title is followed by a volume number and a sermon number
+        j = i + 1
+        # Skip blanks
+        while j < len(lines) and not lines[j]:
+            j += 1
+        if j < len(lines) and number_pat.match(lines[j]):
+            vol_j = j
+            k = j + 1
+            while k < len(lines) and not lines[k]:
+                k += 1
+            if k < len(lines) and number_pat.match(lines[k]):
+                try:
+                    sermon_no = int(lines[k])
+                    records.append({"subject": line, "title": line, "sermon_no": sermon_no})
+                except ValueError:
+                    pass
+                i = k + 1
+                continue
+        i += 1
     return records
 
 
