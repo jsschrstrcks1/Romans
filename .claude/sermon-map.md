@@ -19,6 +19,8 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Title | File | Subject |
 |---|---|---|---|
+| Romans 1:1-17 | The Power of God for Salvation | `Romans 1a - The Power of God for Salvation.md` | Japan people group (125M, <1% evangelical, 500 years since Francis Xavier); *doulos* = bondservant/slave; *aphōrismenos* = set apart (shares root with "Pharisee" — set apart *from* vs. now set apart *for*); "obedience of faith" as bookend of Romans (1:5 and 16:26); Octavius Winslow quote on God creating the tree Christ was crucified on; Luther discovering "righteousness of God" as given not demanded; Habakkuk 2:4 in Romans, Galatians, Hebrews (life, justification, perseverance); gospel as *dunamis* not advice |
+| Romans 1:18-32 | Without Excuse | `Romans 1b - Without Excuse.md` | Turkey people group (85M, <0.1% evangelical; land of Paul's journeys, seven churches of Revelation, Councils of Nicaea and Chalcedon); two revelations — wrath and righteousness — same God, same verb; nuclear resonance illustration (1% shift = all carbon becomes oxygen); sister's professor who believes in all-powerful designer God; three-fold "God gave them up" structure; Calvin: "human heart is a perpetual factory of idols" (*Institutes* I.xi.8); 21-sin vice list; sexual sin as symptom of worship failure; creation reveals God enough to condemn but not enough to save — missions is necessary |
 | Romans 1:18-32 | The Fingerprints of God | `Romans 1c - The Fingerprints of God.md` | Anthropic principle; fine-tuning; Balija of India; Winslow/Shultz on providence; BFM 2A; election |
 | Romans 1:18-24+ | The Darkness We Chose | `Romans 1.md` / `Romans 1 (2024).md` | Suppression of truth; God revealed in creation; wrath |
 | Romans 2:1-11 | The Darkness We Deny | `Romans 2 mt 23 col 3 eph 2.md` | Religious hypocrisy; judgment by conscience |
@@ -31,7 +33,10 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Romans 9 (Parts 1-3) | The Potter in the Dark | `romans 9 pt 1.md` / `Romans 9 pt 2.md` / `Romans 9 Pt 3.md` | Sovereignty; mercy; Aunt Judy; Nik Ripken |
 | Romans 10:1-13 | The Gospel That Reformed the World | `Romans 10.md` | Five Solas; Luther; faith comes by hearing |
 | Romans 11:1-10 | The Remnant of Grace | `Romans 11 - The Remnant of Grace.md` | Elijah and the 7,000; foreknew = fore-love |
+| Romans 11:11-32 | Grafted by Grace: Mercy That Humbles, Mercy That Sends | `romans 11 pt 2.md` | μὴ γένοιτο as "spiritual emergency brake"; Israel's stumble → Gentile salvation → arousing jealousy; Thomas Manton: "Grace is contagious"; wild olive branch grafting; warning against Gentile arrogance (Pharisee illustration); Ephesians 4:29 on corrupt speech — "holiness always touches the mouth"; mystery of Israel's partial hardening and future salvation; Isaiah 53 Suffering Servant; gifts and calling of God are irrevocable; Romans Road closing |
 | Romans 12:1-2 | A Life on the Altar | `romans 12 1.md` | Mount Moriah; living sacrifice; renewal of mind |
+| Romans 12:3-8 | What Does a Mercy-Shaped Church Look Like? | `romans 12 pt 2.md` | Worship-complainer story (pastor says "it's a good thing we aren't worshipping you"); *charismata* = grace-gifts; sewing closet analogy (grandma's materials — denim, leather, lace — each for its purpose); hammer/scalpel/coach pastor analogies; bereavement group as valid ministry circle; politics as middle ground between idol and legitimate engagement; Jesus wept at Lazarus even knowing He'd raise him; birthday wish to "Curt" mid-sermon |
+| Romans 12:9-13 | Love Without Hypocrisy | `romans 12 pt 3.md` | *anhypokritos* = without a mask; Romans 12 love does NOT mean staying in abuse — "if possible, so far as it depends on you"; love hates what is evil; *philadelphia* = family affection; "Outdo one another in showing honor" — competition redeemed; Colossians 3:3 "hidden with Christ in God" as basis for endurance; flashlight/battery analogy for connection to God; hospitality as love made visible; 1 Corinthians 13 quoted by "guest preacher last week" |
 | Romans 12:3-21 | Weep With Those Who Weep | `romans 12 - weep with those who weep.md` | Body of Christ; love without hypocrisy |
 | Romans 13:1-7 | Submission Before Sunrise | `Romans 13.md` | Governing authorities; obedience under Nero |
 | Romans 13:8-14 | The Debt You Can Never Repay | `Romans 13b - The Debt You Can Never Repay.md` | Love fulfills the law; the night is far gone |
@@ -46,9 +51,9 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Title | File | Subject |
 |---|---|---|---|
-| Luke 23:39-43 | Today You Will Be With Me | `Sermon - Today You Will Be With Me v2.md` | Thief on the cross; grace; sovereign election |
+| Luke 23:39-43 | Today You Will Be With Me | `Sermon - Today You Will Be With Me v2.md` / `Today You Will Be With Me Luke 23 - part of the series on Romans.md` (archive) | Thief on the cross; *lēstēs* word study; Matthew 20/27 seats at right and left; theology of dying criminal (doctrine of God, sin, innocence, kingship, resurrection in one breath); Romans 9:16 sovereignty; darkness at Golgotha (Luke 23:44-45); baptism not required for salvation (thief couldn't); practical application to addiction, broken marriage, estranged family, health crisis; Shaikh of Bangladesh people group (135M, Muslim, <0.1% Christian) |
 | Luke 23:42 | Remember Me | `Interlude - Remember Me.md` | Interlude on the thief's request |
-| Romans 14:1-12; Galatians 4:8-20 | The Lord's Day | `Sermon - The Lord's Day.md` | BFM Article 8; Lord's Day; Sabbath; legalism; antinomianism; grace as middle ground; John Owen on mortification; Sinclair Ferguson; Meo of Pakistan people group |
+| Romans 14:1-12; Galatians 4:8-20 | The Lord's Day | `Sermon - The Lord's Day.md` / `The Lords day romans 14 gal 4.md` (archive draft) | BFM Article 8; Lord's Day; Sabbath; legalism; antinomianism; Sinclair Ferguson — both legalism and antinomianism are opposites of grace, grace is the middle; John Owen on legalism and grace; Meo of Pakistan people group (1M+, no known believers); tie-wearing and dancing as Baptist legalism examples; seafood/pork freedom illustration; antinomianism explained and rebutted (Romans 6) |
 | Romans 15:18+; Mt 28; Rev 7 | Evangelism | `evangelism (romans 15, mt 28, and rev 7).md` | Great Commission; missions; panta ethne |
 | Romans 15:14+ | Holy Obsession | `romans 15 (2).md` | Goodness; knowledge; Great Commission |
 
@@ -93,6 +98,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 |---|---|---|---|
 | Genesis 3:1-6 | Importance of Scripture; danger of trusting self over God | `Gen 3.md` | sermon |
 | Genesis 11 | Tower of Babel; self-reliance vs trusting God | `Gen 11 - thru the bible in a year.md` | sermon |
+| Genesis 12 | Abrahamic covenant; rabbinic tradition of Abram smashing idols; Minecraft/Xbox modern idolatry illustration; grafted orange tree (hardy rootstock + good fruit scion = Gentiles grafted into Israel); land/descendants/blessing/cursing/world blessing through Christ; "It's that easy" gospel appeal; earlier style, no formal people group segment | `Sermon - Grafted In.md` | sermon |
 | Genesis 37 | Joseph as a type of Christ | `Sermon 2 gen 37 joeseph.md` | sermon |
 
 ### Exodus
@@ -121,8 +127,9 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| 2 Kings 5 | Leprosy as analogy for sin; Naaman's healing | `Leprosy - naaman - 2kings 5.md` / `...2024.md` | sermon |
+| 2 Kings 5 | Leprosy as analogy for sin; Naaman's healing | `Leprosy - naaman - 2kings 5.md` / `Leprosy - naaman - 2kings 5 2024.md` | sermon |
 | 2 Kings 25:1-12 | Trusting God over your own heart | `2 kings 25.md` | sermon |
+| 2 Kings 25:1-12 | Zedekiah trusting heart over God → destruction; critique of "God can't override unbelief" teaching; Jeremiah 17:9; sovereignty scriptures list (John 6:44, 6:65, Acts 13:48, 16:14, Rom 11:34-36, 1 Cor 1:30-31, Phil 1:6, Titus 3:5, Heb 12:2); Disney "trust your heart" as terrible advice; Pascal's wager; references "Mr. Furtick" | `Sermon - Don't Trust Your Heart.md` | sermon |
 
 ### 1 Kings
 
@@ -136,6 +143,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | 2 Chronicles 15 | Old vs New Testament salvation models | `2 chronicles 15.md` | teaching |
+| 2 Chronicles 15 | OT vs NT salvation models; 613 OT laws; eternal security passage sometimes misused; nephew toy illustration; Azariah's prophecy to Asa; God's hand won't let go of his people | `Sermon - The Hand That Won't Let Go.md` | sermon |
 
 ### Ezra
 
@@ -149,6 +157,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 |---|---|---|---|
 | Nehemiah 1 | Brokenness, prayer, and Humpty Dumpty analogy | `Neh 1.md` | sermon |
 | Nehemiah 1 | Hebrew word Chesed; God's steadfast love | `neh 1 second.md` | study |
+| Nehemiah 1 | "Ring Around the Rosie" / Black Death opening; Humpty Dumpty as allegory for the Fall; 9/11 memory (watching Pentagon hit, driving home when towers fell); Nehemiah as average Joe; cupbearer role explained; John Knox prayer for Scotland; prostitutes on road near church; 100 Muslims within a mile; opens with communion | `Sermon - All the Kings Men.md` | sermon |
 | Nehemiah 5 | Predatory loans and righteous anger | `neh 5.md` / `neh 5(2).md` | sermon |
 | Nehemiah 6 | Enemy attacks and spiritual warfare | `Neh 6.md` | sermon |
 | Nehemiah 7 | Gatekeepers, faithfulness, and genealogy | `Neh 7.md` | sermon |
@@ -198,6 +207,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 100 | Worship structure and serving with gladness | `Psalms 100.md` / `Psalms 100(2).md` | sermon |
 | Psalm 100 / Phil 3:4+ | Serving with gladness; counting all as loss | `psalm 100 (2).md` | sermon |
 | Psalm 100 | Missionary kidnapping story; serving with gladness | `Psalms 100(2).md` | sermon |
+| Psalm 103 | Blessing the Lord; self-examination before God; God's mercy new every morning; Thanksgiving theme; David alone with God as encouragement to lead by example; iron sharpens iron; Zaza-Dimli of Turkey people group | `Sermon - Bless the Lord O My Soul.md` | sermon |
 | Psalm 107:1-3 | Thankfulness to God for creation and salvation | `thanksgiving 2017 (2023).md` | sermon |
 | Psalm 119:161-168 | Treasure of scripture and Bible smuggling | `Psalms 119.md` | sermon |
 | Psalm 139:13 | Sanctity of life and abortion | `Psalms 139 (abortion).md` | sermon |
@@ -282,6 +292,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Luke 14 | Parable of the Great Banquet; rejecting God's invitation | `Luke 14.md` | sermon |
 | Luke 23:1-25 | Jesus vs Barabbas; what people wanted vs needed | `Luke 23.md` | sermon |
 | Luke 23:13-25 | Man's injustice vs God's justice at Easter | `easter 24.md` | sermon |
+| Luke 23:39-43 | Thief on the cross; *lēstēs* word study; doctrines of grace; what the thief saw that no one else could see; Bible study companion for *A Journey in Grace* | `Bible Study - The Thief Who Saw a King.md` | bible study |
 
 ### John
 
@@ -305,6 +316,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Acts 2:1-9, 36-40 | Holy Spirit ministry and gifts | `Acts 2 Holy Spirit.md` | teaching |
+| Acts 13:1-3 | Commissioning of Paul and Barnabas; William Borden "no retreats, no reserves, no regrets"; missionary calling as blank check; Nero and Domitian persecution; stoning of Stephen recalled; danger of obedience | `Sermon - The Blank Check.md` | sermon |
 | Acts 13:48; Romans 8:29-30 | Doctrines of grace and sovereign election | `acts 13 - BFM Grace.md` | teaching |
 | Acts 18:24-end; 1 Cor 3:4-11 | Baptist history, distinctives, and identity | `being baptist.md` | teaching |
 
@@ -323,7 +335,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Romans 5:1-11 | Peace with God; love poured out; wrath satisfied | `Romans 5.md` | sermon |
 | Romans 8:26+ | Order of salvation and BFM | `Ordo Solutis Romans 8.md` | teaching |
 | Romans 12 | Racial injustice; weeping with those who weep | `romans 12 - weep with those who weep.md` | sermon |
-| Romans 10:14-21 | Gospel chain; how shall they hear; proclamation and missions | `The Gospel Chain.md` | sermon |
+| Romans 10:14-21 | Five-link gospel chain (call → believe → hear → preach → send; apostellō = commissioned with authority); Isaiah 52:7 "beautiful feet" — sister's friend who hated feet nearly cried at the verse; Moses/eloquence illustration (Exod 4:11-12: "I will be with your mouth"); Tuareg Berbers of North Africa (~2M, <0.01% Christian); three mosques within 10 miles; 140+ nations within 25 miles (full list displayed on screen); Chinese restaurant story — woman who answers phone defended their food order ("You are NOT Greg Baker"); Ezekiel 33 watchman accountability; Spurgeon: "If sinners be damned, at least let them leap to hell over our bodies" (quoted twice — abbreviated and full version); Psalm 19 / creation language applied to gospel reach; Stephen's persecution scattering the church as divine strategy; "same sun that melts wax hardens clay" | `The Gospel Chain.md` | sermon |
 | Romans 12:1-2 | Living sacrifice; archive draft | `romans 12 1.md` (archive) | sermon |
 | Romans 14:1-21 | Conviction, liberty, and not causing stumbling | `Romans 14.md` | sermon |
 | Romans 14:10-12 | Judgment seat that ends all judging; archive draft | `Romans 14 c.md` (archive) | sermon |
@@ -346,6 +358,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | 2 Corinthians 5:1-10 | Eulogy for Kurt; life, death, and presence with Christ | `Kurt was a man I loved dearly.md` | memorial |
 | 2 Corinthians 5:6-8 | Detecting counterfeit claims about heaven | `Catching Counterfeits.md` | sermon |
 | 2 Corinthians 5:16-6:3 | New creation and genuine conversion | `2 cor 5.md` | sermon |
+| 2 Corinthians 5:16-6:3 | Pig and garbage story (Spurgeon/Washer); MasterChef Tilly Burger opening; new creation as transformation of appetites; ambassadors for Christ; genuine vs. counterfeit conversion | `Sermon - Sheep on the Outside.md` | sermon |
 | 2 Corinthians 12:7-10 | Theology of weakness and brokenness | `2 cor 12.md` | sermon |
 
 ### Galatians
@@ -356,6 +369,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Galatians 2:15-end | Justification by faith transforms the believer | `gal 2.md` | sermon |
 | Galatians 3:23+ | Law, faith, and adoption as children of God | `adoption - gal 3.md` | sermon |
 | Galatians 3:27-4:7 | Adoption as God's children | `Adoption.md` / `Adoption - christms eve 23.md` | sermon |
+| Galatians 3:27-4:7 | Lily and Mercedes adoption story; Abai Sungai of Malaysia people group; every little girl needs a daddy — God gives adoption and the Spirit crying "Abba Father"; heir vs. slave; fullness of time | `Sermon - Every Little Girl Needs a Daddy.md` | sermon |
 | Galatians 6:7-10 | Sowing for eternity not the world | `8-23-20.md` | sermon |
 
 ### Ephesians
@@ -373,6 +387,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Philippians 1:1-3 | Paul's response to persecution; Nero's Rome; grace and peace; doulos | `Sermon - Grace and Peace.md` | sermon (outline) |
 | Philippians 1:27-2:16 | Manner of life worthy of the gospel | `phil 2.md` | sermon |
 | Philippians 3:1 | Rejoicing and God's sovereignty | `Philippians 3 - 2025.md` | sermon |
+| Philippians 3:1 | Outline/notes version; *chairo*; rejoicing as command not feeling; God's sovereignty as ground for joy | `Sermon - Rejoice in the Lord.md` | sermon (outline) |
 | Philippians 4:4-7 | Stress, anxiety, and rejoicing in the Lord | `Philipians 4.md` | sermon |
 
 ### Colossians
@@ -389,23 +404,25 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| 1 Thessalonians 3:12-4:8 | Love in acts of service; grocery chain; sexual purity | `1 thess 3.md` | sermon |
+| 1 Thessalonians 3:12-4:8 | Love in acts of service; 1 Corinthians 13 exposition (patient, kind, not envious); Edwards quotes on unchecked anger becoming hatred; burned damage list illustration (list made anger worse); tipping/Grandma Baker illustration; sexual purity (4:1-8) | `1 thess 3.md` | sermon (archive draft of "The List I Burned") |
 
 ### 1 Timothy
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| 1 Timothy 1:3-14 | Paul's final letter; crisis of faith in Asia; last charge to Timothy | `1 tim 1 vs 3.md` | sermon |
 | 1 Timothy 2:1-7 | Christ alone as mediator and savior | `Sola Christus.md` / `Sola Christus (AutoRecovered).md` | sermon |
-| 1 Timothy 2 | Prayer for rulers; Dhanuk people of India; government and the church | `1 tim 2 pray for our leaders.md` | sermon |
-| 1 Timothy 2 | Women and authority in the church | `1 tim 2.md` | sermon |
+| 1 Timothy 2:1-7 | Prayer for rulers; four Greek prayer words (deēseis, proseuchōs, enteuxeis, eucharistias); Nero biography (poison attempts on mother, collapsible boat, clubbing, indoor lake, Christians dipped in oil and burned alive as street lighting); Biden COVID post — Christians cheering on Facebook ("I hope Covid succeeds where Jesus failed"); Romans 13:1-2; Dhanuk people of India (low caste, 30+ languages, fishing/animal husbandry, Kali/witchcraft); one mediator illustration (credit card mediation) | `1 tim 2 pray for our leaders.md` / `Sermon - Pray for Nero.md` (alternate version) | sermon |
+| 1 Timothy 2:8-15 | Women and authority in the church (worship service context only); Dr. Smith — 90-year-old public speaking professor, last class before retirement, "never start with an apology"; Tupac hologram illustration (projectors, animatronic mannequin — control is an illusion); "Buck" — disruptive church member who stood up mid-sermon; women in ministry: Miriam, Deborah, Huldah, Esther, Phoebe (deacon), Priscilla (teacher); Mary's honor — elevating all women through the incarnation; created order argument (1 Tim 2:13-14); Beth Moore mentioned; Hillsong noted | `1 tim 2.md` | sermon |
 
 ### 2 Timothy
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| 2 Timothy 1 | Faithfulness under betrayal; fanning the gift; guarding the deposit | `2 Tim 1.md` | sermon |
+| 2 Timothy 1 | Faithfulness under betrayal; fanning the gift; guarding the deposit; seminary acquaintance's social media post about smoking pot (conflict/fallout); Demas as cautionary type; Alaska train derailment illustration (parents' cruise, delayed by derailment); social media and politics as idols; C.T. Studd: "Only one life, 'twill soon be past, and only what's done for Christ will last"; student loan forgiveness as political example; Brett McCracken on church vs. 90 hrs/week of media; David Mathis on Christ abolishing death | `2 Tim 1.md` | sermon |
+| 2 Timothy 1 | Archive draft of "Be a Seawall" (seawall metaphor, Marxism/Pol Pot/Stalin, Khmer Rouge, Channel Tunnel illustration — London to Paris under the English Channel as a long dark tunnel — gospel as the light showing which way leads to freedom; elephant/donkey politics as rubbish; Malachi: "I do not change, therefore you are not destroyed"); filename is a mislabel — it is NOT a 1 Timothy sermon | `1 tim 1 vs 3.md` | sermon (archive draft) |
+| 2 Timothy 2:1-7 | Four analogies of the Christian life: teacher, soldier, athlete, farmer; MacArthur's hulk-in-river illustration (what machines of man can't do, tides accomplish — so it is with God's Spirit); entrust to faithful men; share in suffering | `Sermon - Teacher Soldier Athlete Farmer.md` | sermon |
 | 2 Timothy 3:13-17 | Scripture alone as ultimate authority | `sola scriptura.md` / `Sola Scriptura 24.md` | sermon |
+| 2 Timothy 3:14-17 | Baptist confessions history (1611 Helwys, 1689 Second London, Philadelphia, New Hampshire, Abstract of Principles, BFM); JW encounter — former Baptist who never took her Bible seriously; measuring stick for truth; Sanaani Arabs of Yemen people group | `Sermon - The Measuring Stick.md` | sermon |
 | 2 Timothy 3:14+ | Authority and sufficiency of Scripture | `2 tim 3.md` | sermon |
 | 2 Timothy 4:1-5 | Paul's charge to preach; Easter sermon | `Second Timothy 4.md` / `easter 2020...md` | sermon |
 
@@ -413,8 +430,9 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| Titus 1:1-5 | Introduction to Titus; bondservant (δοῦλος) theology; Sanctus martyr illustration; false teaching and compromise | `Titus 1.md` | sermon |
+| Titus 1:1-5 | Introduction to Titus; δοῦλος as "slave" (NET translation; Dallas Theological Seminary's deliberate documented choice vs ESV "servant"); Sanctus martyr — "I am a Christian" to every question, heated bronze chair, ultimately martyred (Eusebius, Eccl. History V.1, ~177 AD); Titus's resume: Corinth (immoral/divisive), Illyricum/Dalmatia (Illyrian pirates — "Paul said go; Titus said who's there?; Paul said pirates!"), now Crete; "cretin" and "Cretan" are etymologically unrelated words (pastor notes connection but internal annotation corrects it); "to play the Cretan with a Cretan" = out-scammed a scammer; banner story (friend Stephen replaced 22-year-old rotting banner at SBC church in Tennessee; long-time member gasped, slammed door, pastor spent 20 min talking him back in to teach Sunday school); false teachers unnamed but described — hell not eternal, annihilate, Quran reflects Jesus (attributed to Rick Warren per internal note but unverified); Pew Research: 60% of Americans affirmed essential doctrines plus false religious beliefs (statistic unverified per internal note); Sinclair Ferguson on pressure — does it push between you and God or push you closer? (source unverified per internal note); OT eved Yahweh connection (Moses, Elijah) | `Titus 1.md` | sermon |
 | Titus 2:11-14; Romans 5:8-10 | Christian hope in the second coming | `Titus 2 pt 2.md` | sermon |
+| Titus 3:1-7 | Subject to authorities; washing of regeneration; blood of the Lamb silences the accuser; dumb laws opening; political context (Trump in office, 8 years of Obama as backdrop); our leaders reflect the state of the people; gospel and political idolatry | `Sermon - The Blood of the Lamb Silences the Accuser.md` | sermon |
 
 ### Hebrews
 
@@ -521,6 +539,7 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 | `stephanie.md` | Pastoral character reference (custody) |
 | `stephanie 2.md` | Empty |
 | `stephanie 3.md` | Empty |
+| `Journey in Grace bible study - Chapters 17-19.md` | Men's Bible Study Guide for *A Journey in Grace* by Richard Belcher; chapters 17–19 cover providence, justice, and grace under fire; Reformed Baptist study guide format; discussion of personality vs. doctrine in ministry failure; unbalanced Calvinism case study |
 
 ---
 
