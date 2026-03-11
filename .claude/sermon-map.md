@@ -509,6 +509,14 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 ---
 
+## Ordination Services
+
+| Person | Passage | File | Subject |
+|---|---|---|---|
+| Kenny Baker | John 6:44; Ephesians 1:4; 4:1; Isaiah 64:8; Romans 9:21; Jeremiah 18:4 | `Ordination - The Calling.md` | Ordination sermon; the calling (election, John 6:44, Eph 1:4); cracked pot illustration; the preparation (education, Joseph, Paul; clay/potter; ongoing preparation through suffering); the service (Abraham; DL Moody/Kimball/Sunday/Graham chain; faith without sight); charge to Kenny; being set apart for all believers |
+
+---
+
 ## Non-Sermon Files in Archive
 
 These are not sermons — personal documents, receipts, recipes, etc. that were mixed into the sermon folder.
