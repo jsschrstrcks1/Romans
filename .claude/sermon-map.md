@@ -308,6 +308,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | John 11:1-16 | Trusting God through silence and unanswered prayers | `Fifteen.md` | study |
 | John 11:30-44 | Memorial for Jean; Jesus weeps and raises Lazarus | `We are gathered here...Jean.md` | memorial |
 | John 12 | Mary's devotion vs Judas's selfishness | `John 12.md` | sermon |
+| John 12 | Three people and one dirty dog — Judas, Mary; leaving God out of the equation | `John 12 (2026).md` | sermon |
 | John 14:1-7 | Christ as the only way to salvation | `John 14 - exclusivity of the gospel..md` | sermon |
 | John 14:1-7 | Memorial service for Chuck Weis | `Chuck Weis Memorial 2024.md` | memorial |
 
