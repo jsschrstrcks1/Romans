@@ -351,6 +351,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Luke 2 | Christmas sermon — Longfellow's "I Heard the Bells" and the sovereignty of God; nativity as the first gospel proclamation; family tradition of reading Luke 2 before gifts | `Luke 2.md` | sermon |
 | Luke 4:1-13 | Christ's temptation; resisting sin at weak moments | `Luke 4.md` | sermon |
 | Luke 8 | Calming the storm; trusting God in storms | `Luke 8.md` | sermon |
 | Luke 9:57-62 | Cost of following Christ vs prosperity gospel | `Luke 9 - cost of following christ.md` | sermon |
@@ -600,6 +601,7 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 | `Antigua.md` | Caribbean island and cruise port list |
 | `AutoRecovery save of Document4.md` | COVID-19 pandemic personal journal |
 | `BCO5500 Online Syllabus Fall 2018.md` | Seminary biblical counseling syllabus |
+| `Let the Nations be Glad PT 2-3.md` | Seminary book review — *Let the Nations be Glad* Parts 2–3; reflection on suffering in missions and the cost of martyrdom; Ken Baker 000210914 |
 | `bfm holy spirit.md` | Baptist Faith and Message article text |
 | `Coconut Flour Sourdough Starter Recipe and Techniques.md` | Sourdough recipe |
 | `flooring receipt.md` | Bamboo flooring receipt |
