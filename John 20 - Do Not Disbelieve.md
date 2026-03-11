@@ -48,7 +48,7 @@ I want to tell you another story. This one I heard from a missionary I know who 
 
 He was in his twenties at the time. They were in Uzbekistan — one of the Central Asian countries, not far from Afghanistan, Pakistan, Tajikistan. In that part of the world, converting away from Islam marks you as a traitor. So this house church met at 2am. People arrived in staggered intervals to avoid drawing attention. My friend had to walk two miles, jumping fences in the dark, to get there by 1:30.
 
-About twenty-seven people in a small room. They shared a meal — draal soup, which is basically okra slime — around 2am. By 2:30, people were putting their plates away when an armed man burst in, fired a few rounds into the ceiling, and ordered everyone back to their seats.
+About twenty-seven people in a small room. They shared a meal — draal soup, a Nigerian okra soup cooked down until it's thick enough for your spoon to stand in it — around 2am. By 2:30, people were putting their plates away when an armed man burst in, fired a few rounds into the ceiling, and ordered everyone back to their seats.
 
 In Uzbekistan, it is against the law to be a believer in Christ.
 
