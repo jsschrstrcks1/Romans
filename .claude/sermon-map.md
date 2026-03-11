@@ -255,7 +255,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 34 | Acrostic structure; fear of the Lord; long life | `Psalms 34.md` | sermon |
 | Psalm 46 | God as refuge and fortress | `Psalm 46.md` | sermon |
 | Psalm 46 / 2 Chronicles 20 | Jehoshaphat's battle; Luther and the Reformation; Five Solas; you and God are the majority | `Sermon - A Mighty Fortress.md` | sermon |
-| Psalm 51 | Confession; mercy vs. grace; machah; hyssop; bara; David's sins; Epstein illustration | `Psalm 51.md` | sermon |
+| Psalm 51 | Confession; mercy vs. grace; machah; hyssop; bara; David's sins; Epstein illustration | `Psalm 51.txt` | sermon |
 | Psalm 56 | Is Jesus worth it; Pilgrim's Progress | `psalm 56.md` | sermon |
 | Psalm 63:1-8 | Thirsting for God; worship in the wilderness | `psalms 63.md` | sermon |
 | Psalm 68:1-4 | Power of God; nothing too difficult | `Psalms 68 (2).md` | sermon |
@@ -435,7 +435,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Galatians 1:1-12 | True gospel and the five solas | `galatians 1.md` | sermon |
 | Galatians 2:15-end | Justification by faith transforms the believer | `gal 2.md` | sermon |
 | Galatians 3:23+ | Law, faith, and adoption as children of God | `adoption - gal 3.md` | sermon |
-| Galatians 3:27-4:7 | Adoption as God's children | `Adoption.md` / `Adoption - christms eve 23.md` | sermon |
+| Galatians 3:27-4:7 | Adoption as God's children | `adoption - gal 3.md` / `Adoption - christms eve 23.md` | sermon |
 | Galatians 6:7-10 | Sowing for eternity not the world | `8-23-20.md` | sermon |
 
 ### Ephesians
@@ -466,7 +466,6 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Colossians 1:12-23 | Christ's supremacy, creation, and reconciliation | `col 1.md` / `christology.md` | sermon |
 | Colossians 2:1-8 | Thanksgiving and guarding against deceit | `Col 2 - thanksigiving.md` | sermon |
 | Colossians 3:1-11 | The doctrine and weight of sin | `hamartiology.md` | sermon |
-| Colossians 3:1-17 | Putting sin to death; setting minds on Christ | `I have been thinking about going back to seminary.md` | sermon |
 | Colossians 4:2-4 | Biblical model of prayer; evangelism | `col 4 - prayer.md` / `prayer col 4.md` | sermon |
 
 ### 1 Thessalonians
@@ -573,7 +572,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Cultural Marxism | Romans 10:12-13 | `Cultural Marxism.md` | teaching |
 | Evangelism / Missions | Mt 28; Rom 15; Rev 7 | `Evangelism.md` / `evangelism (romans 15, mt 28, and rev 7).md` | sermon |
 | God's Aseity / Missions / Hell | Mk 9:48-49; Is 66:24; 2 Pet 2:17; Mt 24:51; Mt 13:49-50; Is 59:2 | `Missions and Hell - why it matters.txt` | sermon |
-| Adoption (Theology) | Galatians 3-4 | `Adoption.md` / `adoption - gal 3.md` | sermon |
+| Adoption (Theology) | Galatians 3-4 | `adoption - gal 3.md` / `Adoption - christms eve 23.md` | sermon |
 
 ---
 
@@ -596,27 +595,12 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 | File | Contents |
 |---|---|
 | `Alef.md` | Hebrew alphabet listing |
-| `Animal Instructions.md` | Farm animal care instructions |
-| `Antigua.md` | Caribbean island and cruise port list |
-| `AutoRecovery save of Document4.md` | COVID-19 pandemic personal journal |
-| `BCO5500 Online Syllabus Fall 2018.md` | Seminary biblical counseling syllabus |
 | `bfm holy spirit.md` | Baptist Faith and Message article text |
-| `Coconut Flour Sourdough Starter Recipe and Techniques.md` | Sourdough recipe |
-| `flooring receipt.md` | Bamboo flooring receipt |
-| `Manatee Creek Sheep.md` | Sheep breeding program documentation |
-| `Mistborn.md` | Brandon Sanderson novel reading list |
 | `scripture memorization 1 john 1.md` | Memorization schedule |
 | `1 john 1 memorization.md` | Memorization schedule |
-| `5.md` | Seminary interpretive paper assignment notes |
-| `Second Timothy 4 (Paper).md` | Seminary hermeneutics paper on 1 Timothy 4:1-5 (PRS6100, Spring 2020) |
 | `easter 2020 - 2 tim 4 1-5 (sebts version).md` | Seminary hermeneutics manuscript on 1 Timothy 4:1-5 (SEBTS version, Spring 2020) |
-| `To FEMA Appeals Processor.md` | FEMA appeal letter |
-| `To the FEMA Appeals Agent.md` | FEMA appeal letter |
-| `To.md` | FEMA appeal for flood damage |
-| `To Whom it May Concern.md` | Adoption reference letter |
 | `stephanie.md` | Pastoral character reference (custody) |
 | `stephanie 2.md` | Empty |
-| `stephanie 3.md` | Empty |
 | `Church Hotel Assistance Policy.md` | Emergency shelter policy with biblical foundation (James 2:15-16; Matt 25:35-36; 2 Thess 3:10; Rom 14:15b, 19); eligibility, weather triggers, consensus requirements, stability pathways; Appendix A: comprehensive Pasco County community resource directory (~1,500 lines — shelters, food pantries, housing programs, medical/dental/vision, mental health, DV services, veterans, legal aid, employment, transportation, sober living, elder services, human trafficking hotlines); Appendix B: Hernando County resources for county-line members |
 | `sermon-queue.md` | Sermon processing queue and status tracking |
 | `evangelism-content-survey.md` | Evangelism and missions content catalog; resource index |
@@ -640,7 +624,7 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 Searchable by topic. Each entry lists every sermon that substantively treats that subject.
 
 ### Adoption (Theology of)
-- `Adoption.md` — Galatians 3:27-4:7 — Adoption as God's children
+- `adoption - gal 3.md` — Galatians 3:27-4:7 — Adoption as God's children
 - `Adoption - christms eve 23.md` — Galatians 3:27-4:7 — Christmas Eve adoption sermon
 - `adoption - gal 3.md` — Galatians 3:23+ — Law, faith, and adoption
 - `evangelism (romans 15, mt 28, and rev 7).md` — Adoption as microcosm of God's heart for the lost
@@ -797,7 +781,6 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Holiness / Sanctification / Putting Off Sin
 - `hamartiology.md` — Colossians 3:1-11 — The weight of sin
-- `I have been thinking about going back to seminary.md` — Col 3:1-17 — Putting sin to death
 - `Mark 4.md` — Mark 4:26-34 — Growing seed; sanctification
 - `1 peter 1 - legacies.md` — 1 Peter 1:13-end — Be holy
 - `Romans_6b_with_boulder.md` — Romans 6:15-23 — Dead to sin; alive to God
@@ -918,7 +901,6 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Shepherding / Pastoral Care
 - `Psalm 23` (multiple versions) — God as shepherd
-- `Manatee Creek Sheep.md` — (sheep breeding, but useful for shepherd illustrations)
 - `psalms 23 pt 2.md` — Rod and staff; goodness and mercy
 - `John 10.md` — John 10:7-11 — Wicket gate; good shepherd
 
@@ -980,7 +962,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Psalms 100.md` / `Psalms 100(2).md` — Psalm 100 — Serving with gladness
 - `Psalms 84(1).md` / `Psalms 84 (2).md` / `psalms 84 - better is one day (AutoRecovered).md` — Psalm 84 — Dwelling in God's presence
 - `Imagine tomorrow was your anniversary.md` — Worshipping from love not obligation
-- `The Lords day.md` — Romans 14:1-12 — Lord's Day; Sabbath freedom; legalism vs. liberty; opens with Meo people group prayer; paraphrase of Mk 2:27 (the Sabbath is for man, not man for the Sabbath)
+- `Sermon - The Lord's Day.md` / `The Lords day romans 14 gal 4.md` — Romans 14:1-12 — Lord's Day; Sabbath freedom; legalism vs. liberty; opens with Meo people group prayer; paraphrase of Mk 2:27 (the Sabbath is for man, not man for the Sabbath)
 - `The Lords day romans 14 gal 4.md` — Romans 14 / Galatians 4 — Lord's Day; variant manuscript with Galatians 4 cross-reference
 
 ---
