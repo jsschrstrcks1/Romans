@@ -540,6 +540,7 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 | `stephanie 2.md` | Empty |
 | `stephanie 3.md` | Empty |
 | `Journey in Grace bible study - Chapters 17-19.md` | Men's Bible Study Guide for *A Journey in Grace* by Richard Belcher; chapters 17–19 cover providence, justice, and grace under fire; Reformed Baptist study guide format; discussion of personality vs. doctrine in ministry failure; unbalanced Calvinism case study |
+| `When Are We Leaving - Rapture Research Paper (THEO 6130).md` | Seminary research paper (THEO 6130) on the timing of the Rapture; pre-mil framework assumed; compares pre-trib, pre-wrath, and post-trib positions; ἁρπάζω word study (30 NT uses); key passages: 1 Thess 4:16-17, Matt 24-25 (Olivet Discourse), Rev 7:9, 12:1-6, 2:10; author lands with historic pre-mil / post-trib position; Ladd, Moo, Spurgeon, Schaff cited; written December 2014 |
 
 ---
 
