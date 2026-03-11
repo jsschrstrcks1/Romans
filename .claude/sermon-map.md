@@ -429,6 +429,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | John 3:16 | Christian marriage reflecting Christ and the church | `Grannys Wedding jn 316.md` | personal (wedding) |
 | John 4:7-26 | Woman at the Well; crossing social barriers (Samaritan, woman, outcast); betrothal type-scene (Isaac/Rebekah, Jacob/Rachel, Moses/Zipporah); God-shaped hole (Augustine, C.S. Lewis, Audio Adrenaline "God Shaped Hole"); five husbands / five foreign gods parallel (2 Kings 17, Calvin); Huffington Post "heal yourself" rebuttal (appendix/dog/feral children analogies); Acts 17:27-28; Eph 2 dead body self-reanimation image; Muhamasheen people group of Yemen; woman's conversion → mission change (sets down water jar); Pastor Coates arrest in Canada — government and church autonomy; closing extended prayer for persecuted pastors | `John 4 - Woman at the Well.md` | sermon |
 | John 5 / John 6:29-60 | Irresistible grace and God's sovereign election | `John 5.md` | sermon |
+| John 14:1-16 | "One Way" — exclusivity of Christ; 3.4 billion unreached; false gospels (social gospel, political gospel); unregenerate heart; Jose Luis de Miranda; Beethoven illustration; MacArthur quote (attribution unverified); leads into Romans 3:23 | `John 14 1-16.md` | sermon |
 | John 6:43-65 | Salvation by grace alone | `sola gracia.md` / `sola gracia 2021.md` | sermon |
 | John 10:7-11 | The wicket gate; gospel; Pilgrim's Progress | `John 10.md` | sermon |
 | John 10:11, 17-18 | Thankfulness and Christ's sacrificial love | `jn 10.md` | sermon |
