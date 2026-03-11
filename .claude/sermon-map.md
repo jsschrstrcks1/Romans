@@ -185,7 +185,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| 2 Kings 5 | Leprosy as analogy for sin; Naaman's healing | `Leprosy - naaman - 2kings 5.md` / `...2024.md` | sermon |
+| 2 Kings 5 | Leprosy as analogy for sin; Naaman's healing | `Leprosy - naaman - 2kings 5.md` / `Leprosy - naaman - 2kings 5 2024.md` | sermon |
 | 2 Kings 25:1-12 | Trusting God over your own heart | `2 kings 25.md` | sermon |
 
 ### 1 Kings
@@ -372,7 +372,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | John 10:11, 17-18 | Thankfulness and Christ's sacrificial love | `jn 10.md` | sermon |
 | John 10:25-30; 6:37-65 | Perseverance and preservation of the saints | `Eternal Security.md` | teaching |
 | John 11:1-16 | Trusting God through silence and unanswered prayers | `Fifteen.md` | study |
-| John 11:30-44 | Memorial for Jean; Jesus weeps and raises Lazarus | `We are gathered here...Jean.md` | memorial |
+| John 11:30-44 | Memorial for Jean; Jesus weeps and raises Lazarus | `We are gathered here today to celebrate the memory of Jean.md` | memorial |
 | John 12 | Mary's devotion vs Judas's selfishness | `John 12.md` | sermon |
 | John 14:1-7 | Christ as the only way to salvation | `John 14 - exclusivity of the gospel..md` | sermon |
 | John 14:1-7 | Memorial service for Chuck Weis | `Chuck Weis Memorial 2024.md` | memorial |
@@ -396,7 +396,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Romans 2:1-11 | Hypocrisy; whitewashed tombs; political idolatry | `Romans 2 mt 23 col 3 eph 2.md` | sermon |
 | Romans 3 | God's wrath, holiness, and cost of sin | `romans 3 - the wrath of God.md` / `Romans 3 - wrath of God (final).md` | sermon |
 | Romans 3:10-end | No one righteous; righteousness given not earned | `Romans 3 - pt 2.md` | sermon |
-| Romans 4:1-8 | Justification by faith; credited righteousness | `Romans 4 - In Christ Alone...md` | sermon |
+| Romans 4:1-8 | Justification by faith; credited righteousness | `Romans 4 - In Christ Alone- Where Justice Meets Grace.md` | sermon |
 | Romans 5:1-11 | Peace with God; love poured out; wrath satisfied | `Romans 5.md` | sermon |
 | Romans 6:15 | Can we sin occasionally? Habitual vs. occasional sin (6:1 vs. 6:15 Greek verbal distinction); slavery to sin (6:16, 6:20-21); gossip; marriage/church-attendance illustration; Locked Up Abroad; witness protection / new creation (2 Cor 5:17, verified); Heb 13:5 (verified); bee/orchid illustration; Great Pumpkin (paraphrase — corrected in file); benefits of obedience; fool's gold; outward sincerity not enough | `romans 6 15 can we sin occasionally.md` | sermon |
 | Romans 8:12–17, 31–39 | Debtors to the Spirit; adoption; election; security of salvation; mini-golf debt illustration; title misspelled in original ("Debters"); 9 outstanding items in file: Romans 3:23 misapplied for death penalty (should be 6:23), Isaiah 66:1 conflation (heavens vs. earth as footstool), Romans 5:8 and 10:9 paraphrases differ from ESV, "demons" added to 8:38 list | `romans 8 12-17 debtors to the spirit.md` | sermon |
@@ -415,7 +415,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 |---|---|---|---|
 | 1 Corinthians 10:9 | Israel's testing of Christ in the wilderness; serpents; type of cross; cross-references Num 21:5-9 and John 3:13-21 | `Numbers 21 John 3.md` | sermon |
 | 1 Corinthians 3:10-15 | Eternal legacy and what lasts beyond death | `1 cor 3.md` | sermon |
-| 1 Corinthians 9:19-23 | Motivation for sharing the gospel | `1 cor 9.md` / `1 cor 9 19ff...md` | sermon |
+| 1 Corinthians 9:19-23 | Motivation for sharing the gospel | `1 cor 9.md` / `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` | sermon |
 | 1 Corinthians 12:12-27 | Church membership and body commitment | `Commitment to the church body 1 cor 12.md` | sermon |
 | 1 Corinthians 13:8-10; John 10:27-28 | Cessation of sign gifts; eternal security | `Sunday school notes week 2.md` | study |
 
@@ -495,7 +495,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | 2 Timothy 3:13-17 | Scripture alone as ultimate authority | `sola scriptura.md` / `Sola Scriptura 24.md` | sermon |
 | 2 Timothy 3:13–17 | Sola Scriptura; 2020 election pastoral remarks; political idolatry; Luther on Scripture (4 quotes, sources unlocated); BFM Article I; Masoretes; Dead Sea Scrolls; Romans 13:1 cited in sermon as "Romans 12" (error noted in file); quote attributed to "Trevor Noah" flagged as probable misattribution (see file); pastor's claim that Catholic Church declared earth flat flagged as historically inaccurate (see file); Dead Sea Scrolls age figure flagged for correction (see file) | `2 tim 3 13-17 sola scriptura.md` | sermon |
 | 2 Timothy 3:14+ | Authority and sufficiency of Scripture | `2 tim 3.md` | sermon |
-| 2 Timothy 4:1-5 | Paul's charge to preach; Easter sermon | `Second Timothy 4.md` / `easter 2020...md` | sermon |
+| 2 Timothy 4:1-5 | Paul's charge to preach; Easter sermon | `Second Timothy 4.md` / `easter 2020 - 2 tim 4 1-5.md` | sermon |
 
 ### Titus
 
@@ -569,9 +569,9 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Baptist Identity | Acts 18; 1 Cor 3 | `being baptist.md` | teaching |
 | Holy Spirit (BFM) | BFM article text | `bfm holy spirit.md` | teaching |
 | Catholicism | Romans 3-5; Eph 2:8-9 | `Catholicism.md` | teaching |
-| Christian Science | John 14:1-7 | `Christian science...md` | teaching |
+| Christian Science | John 14:1-7 | `Christian science is the next group we are going to look at.md` | teaching |
 | Cultural Marxism | Romans 10:12-13 | `Cultural Marxism.md` | teaching |
-| Evangelism / Missions | Mt 28; Rom 15; Rev 7 | `Evangelism.md` / `evangelism...md` | sermon |
+| Evangelism / Missions | Mt 28; Rom 15; Rev 7 | `Evangelism.md` / `evangelism (romans 15, mt 28, and rev 7).md` | sermon |
 | God's Aseity / Missions / Hell | Mk 9:48-49; Is 66:24; 2 Pet 2:17; Mt 24:51; Mt 13:49-50; Is 59:2 | `Missions and Hell - why it matters.txt` | sermon |
 | Adoption (Theology) | Galatians 3-4 | `Adoption.md` / `adoption - gal 3.md` | sermon |
 
@@ -584,7 +584,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Ann Burdette | Ecclesiastes 3:1-8 | `Ecclesiastes 3 Ann Burdette Funeral.md` |
 | Barbara | Psalm 23 | `Psalm 23.md` (archive) |
 | Chuck Weis | John 14:1-7 | `Chuck Weis Memorial 2024.md` |
-| Jean | John 11:30-44 | `We are gathered here...Jean.md` |
+| Jean | John 11:30-44 | `We are gathered here today to celebrate the memory of Jean.md` |
 | Kurt | 2 Corinthians 5:1-10 | `Kurt was a man I loved dearly.md` |
 
 ---
@@ -683,8 +683,8 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Church / Body of Christ / Membership
 - `Commitment to the church body 1 cor 12.md` — 1 Cor 12:12-27 — Church membership
-- `Romans 14a...md` through `Romans 14d...md` — Romans 14 — Weak and strong in the church
-- `Romans 15a...md` — Romans 15:1-13 — Welcome one another
+- `Romans 14a - The Welcome That Costs You Nothing.md` through `Romans 14d - Love That Surrenders Its Rights.md` — Romans 14 — Weak and strong in the church
+- `Romans 15a - The Welcome We've Been Given.md` — Romans 15:1-13 — Welcome one another
 
 ### Christian Witness / Conduct
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Tipping; Sunday lunch; fake $20 tracts; loving with your wallet
@@ -693,7 +693,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Cults / False Teaching / Counterfeits
 - `Catholicism.md` — Romans 3-5 — Catholic vs Protestant justification
-- `Christian science...md` — John 14:1-7 — Reaching Christian Scientists
+- `Christian science is the next group we are going to look at.md` — John 14:1-7 — Reaching Christian Scientists
 - `1 john 4 - counterfeit.md` — 1 John 4:1-6 — Testing spirits
 - `Catching Counterfeits.md` — 2 Cor 5:6-8 — Counterfeit claims about heaven
 - `1 sam 28 wicca and the occult..md` — 1 Samuel 28 — Wicca and the occult
@@ -705,7 +705,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Ecclesiastes 3 Ann Burdette Funeral.md` — Funeral for Ann Burdette
 - `Psalm 23.md` (archive) — Memorial for Barbara
 - `Chuck Weis Memorial 2024.md` — Memorial for Chuck Weis
-- `We are gathered here...Jean.md` — Memorial for Jean; Lazarus raised
+- `We are gathered here today to celebrate the memory of Jean.md` — Memorial for Jean; Lazarus raised
 - `Kurt was a man I loved dearly.md` — Eulogy for Kurt
 - `psalm 23 1-4..md` — Psalm 23:1-4 — Shadow of death
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Judy Ayers memorial; death as homecoming
@@ -771,7 +771,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Gospel / Justification / Righteousness
 - `Romans 3 - pt 2.md` — Romans 3:10-end — No one righteous
-- `Romans 4...md` — Romans 4:1-8 — Credited righteousness
+- `Romans 4 - In Christ Alone- Where Justice Meets Grace.md` — Romans 4:1-8 — Credited righteousness
 - `Romans 4 - In Christ Alone- Where Justice Meets Grace.md` — Romans 4:1-8 — Justification by faith; logizomai (crediting righteousness); Abraham and David as proof; "ledger of the guilty" illustration; Spurgeon, Calvin, Edwards, Sproul quotes; wages of sin vs. gift of grace
 - `gal 2.md` — Galatians 2:15-end — Justification by faith
 - `2 cor 5.md` — 2 Corinthians 5:16-6:3 — New creation
@@ -814,7 +814,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 15b - The Mission in the Early Light.md` — Romans 15:30 — Synagonisasthai; prayer as agonizing combat; Paul's vulnerability
 
 ### Hope / Endurance / Perseverance
-- `Romans 15a...md` — Romans 15:13 — God of hope; abound in hope
+- `Romans 15a - The Welcome We've Been Given.md` — Romans 15:13 — God of hope; abound in hope
 - `Titus 2 pt 2.md` — Titus 2:11-14 — Hope in the second coming
 - `Philippians 3 - 2025.md` — Philippians 3:1 — Rejoicing and sovereignty
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:3-9 — Living hope through resurrection; imperishable inheritance; eternity contrasted with Buddhism (sermon lines 81-85)
@@ -854,7 +854,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 ### Marriage / Family
 - `Grannys Wedding jn 316.md` — John 3:16 — Christian marriage
 - `Imagine tomorrow was your anniversary.md` — Worshipping from love not obligation
-- `Romans 15a...md` — Application: marriage struggles and welcome
+- `Romans 15a - The Welcome We've Been Given.md` — Application: marriage struggles and welcome
 
 ### Obedience / Faithfulness / Diligence
 - `Josh 7 & 8.md` — Joshua 7-8 — Consequences of leaving God out
@@ -883,7 +883,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 ### Racial Reconciliation / Unity
 - `Cultural Marxism.md` — Romans 10:12-13 — Biblical racial equality
 - `romans 12 - weep with those who weep.md` — Romans 12 — Racial injustice; weeping
-- `Romans 15a...md` — Romans 15:7-12 — Jew and Gentile; one voice
+- `Romans 15a - The Welcome We've Been Given.md` — Romans 15:7-12 — Jew and Gentile; one voice
 
 ### Resources / Unattributed Material
 
@@ -898,7 +898,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Psalms 119.md` — Psalm 119:161-168 — Treasure of scripture; Bible smuggling
 - `2 tim 3.md` — 2 Timothy 3:14+ — Authority and sufficiency of Scripture
 - `sola scriptura.md` / `Sola Scriptura 24.md` — 2 Timothy 3 — Scripture alone
-- `psalms 1 (12-5-19).md` / `psalms 1 3-15-25...md` — Psalm 1 — Neglecting scripture
+- `psalms 1 (12-5-19).md` / `psalms 1 3-15-25 (edited with AI).md` — Psalm 1 — Neglecting scripture
 - `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — The Word of God as the seawall; "follow the pattern of the sound words"; guard the good deposit; Scripture washes politics and discourse (line 55)
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Scripture has a "washing effect"; have them read it aloud; the sufficiency of Scripture vs. the Pope's chair (lines 69, 151-155)
 
@@ -927,8 +927,8 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Gen 3.md` — Genesis 3:1-6 — The fall; trusting self over God
 - `hamartiology.md` — Colossians 3:1-11 — Doctrine of sin
 - `Romans 1.md` / `Romans 1 (2024).md` — Romans 1 — Suppression of truth
-- `Romans 2...md` — Romans 2:1-11 — Hypocrisy
-- `Romans 3...md` — Romans 3 — None righteous
+- `Romans 2 mt 23 col 3 eph 2.md` — Romans 2:1-11 — Hypocrisy
+- `Romans 3 - pt 2.md` — Romans 3 — None righteous
 - `ps14.md` — Psalm 14 — Foolishness; the fall
 - `vbs 2019.md` — Ephesians 2 — Depravity of man
 - `Psalms 1.md` — Psalm 1 — Downward progression of sin
@@ -968,7 +968,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - The Magnet on the Compass.md` — 1 Samuel 17 — David as type of Christ: fights without armor as Christ fights through apparent weakness; uses Goliath's own sword as Christ uses death itself; David fights on behalf of Israel as Christ fights on behalf of his people (lines 78-86)
 
 ### Welcome / Hospitality / Unity in the Church
-- `Romans 14a...md` through `Romans 15a...md` — Romans 14-15 — Weak and strong; welcome one another
+- `Romans 14a - The Welcome That Costs You Nothing.md` through `Romans 15a - The Welcome We've Been Given.md` — Romans 14-15 — Weak and strong; welcome one another
 - `Romans 15b - The Mission in the Early Light.md` — Romans 15:25-27 — Jerusalem collection as cross-ethnic generosity; gospel creates family across divides
 - `1 peter 3 brotherly love.md` — 1 Peter 3:8-18 — Brotherly love
 - `1 john 3 pt 2.md` — 1 John 3:11-24 — Love among believers
@@ -978,7 +978,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 ### Worship
 - `Psalms 96.md` — Psalm 96 — Worship; evangelism as worship
 - `Psalms 100.md` / `Psalms 100(2).md` — Psalm 100 — Serving with gladness
-- `psalms 84...md` (multiple) — Psalm 84 — Dwelling in God's presence
+- `Psalms 84(1).md` / `Psalms 84 (2).md` / `psalms 84 - better is one day (AutoRecovered).md` — Psalm 84 — Dwelling in God's presence
 - `Imagine tomorrow was your anniversary.md` — Worshipping from love not obligation
 - `The Lords day.md` — Romans 14:1-12 — Lord's Day; Sabbath freedom; legalism vs. liberty; opens with Meo people group prayer; paraphrase of Mk 2:27 (the Sabbath is for man, not man for the Sabbath)
 - `The Lords day romans 14 gal 4.md` — Romans 14 / Galatians 4 — Lord's Day; variant manuscript with Galatians 4 cross-reference
