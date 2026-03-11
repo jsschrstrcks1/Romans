@@ -62,7 +62,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 |---|---|---|---|
 | Luke 23:39-43 | Today You Will Be With Me | `Sermon - Today You Will Be With Me v2.md` | Thief on the cross; grace; sovereign election |
 | Luke 23:39-43 | Today You Will Be With Me *(earlier version)* | `Sermon - Today You Will Be With Me.md` | Earlier draft of the same sermon; thief on the cross |
-| Luke 23:39-43 | The Thief Who Saw a King *(Bible study)* | `Bible Study - The Thief Who Saw a King.md` | Doctrines of grace; faith and works; crucifixion and shame; spiritual discernment |
+| Luke 23:39-43 | The Thief Who Saw a King *(Bible study)* | `Bible Study - The Thief Who Saw a King.md` | TULIP applied to Luke 23:39-43 — each doctrine as a "layer"; total depravity (confession humanly impossible); unconditional election (why one thief not the other); irresistible grace (regeneration preceding faith; Sproul); definite atonement ("you *will* be with me" as decree); preservation (verdict final without works or baptism); Queen Elizabeth motorcade illustration (contrast with crucified King); what the thief couldn't do (sobriety, marriage, family, health); companion to Journey in Grace study |
 | Luke 23:42 | Remember Me | `Interlude - Remember Me.md` | Interlude on the thief's request |
 | Romans 14:1-12; Galatians 4:8-20 | The Lord's Day | `Sermon - The Lord's Day.md` | BFM Article 8; Lord's Day; Sabbath; legalism; antinomianism; grace as middle ground; John Owen on mortification; Sinclair Ferguson; Meo of Pakistan people group |
 | Romans 15:18+; Mt 28; Rev 7 | Evangelism | `evangelism (romans 15, mt 28, and rev 7).md` | Great Commission; missions; panta ethne |
