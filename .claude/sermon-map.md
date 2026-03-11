@@ -302,6 +302,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | John 3:13-21 | Bronze serpent typology; "look and live"; John Newton quote; light vs. darkness; gospel invitation; cross-references Num 21:5-9 and 1 Cor 10:9 | `Numbers 21 John 3.md` | sermon |
 | John 3:16 | Christian marriage reflecting Christ and the church | `Grannys Wedding jn 316.md` | personal (wedding) |
 | John 5 / John 6:29-60 | Irresistible grace and God's sovereign election | `John 5.md` | sermon |
+| John 14:1-16 | "One Way" — exclusivity of Christ; 3.4 billion unreached; false gospels (social gospel, political gospel); unregenerate heart; Jose Luis de Miranda; Beethoven illustration; MacArthur quote (attribution unverified); leads into Romans 3:23 | `John 14 1-16.md` | sermon |
 | John 6:43-65 | Salvation by grace alone | `sola gracia.md` / `sola gracia 2021.md` | sermon |
 | John 10:7-11 | The wicket gate; gospel; Pilgrim's Progress | `John 10.md` | sermon |
 | John 10:11, 17-18 | Thankfulness and Christ's sacrificial love | `jn 10.md` | sermon |
