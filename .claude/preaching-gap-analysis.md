@@ -985,4 +985,203 @@ This text — which the rabbis called the *Thirteen Attributes*, which echoes th
 
 ---
 
+---
+
+## Part XI: Additional Gaps Identified in Extended Review
+
+*Ten doctrinal and practical areas not fully covered by the ten-branch audit (Part IX) or the names/attributes audit (Part X). Each spans multiple branches or falls between them. All ratings follow the Part IX convention.*
+
+---
+
+### 1. Anthropology — Doctrine of Man (Imago Dei)
+
+**Rating: ★ (Present but thin)**
+
+The corpus has extensive hamartiology — what sin did *to* humanity. It has almost no anthropology — what humanity *is* before sin acts on it.
+
+**What is present:** The image of God (*imago Dei*) appears in multiple sermons, but always in the context of its shatteredness through the fall. "The image of God imprinted on us and on nature was shattered" (`Sermon - More Than Love.md`, `Theology Proper.md`). The mold illustration (Nehemiah 1) and the shards-of-mirror illustration (Philippians 4 draft) both treat the image as something broken. `Psalm 8 / Hebrews 2 (raw draft).md` is the closest thing to a positive anthropology — it covers human dignity in Christ and "God's intimacy with humanity" — but the draft has multiple flagged factual errors (wrong Scripture reference for Deut 32:9; volcano error in geography illustration; "filthy rags" is KJV, not ESV) and has never been preached in finished form.
+
+**What is absent:**
+- Genesis 1:26-27 as a primary preaching text — what it means to be made "in the image of God," before sin
+- Human dignity as a warrant for care of neighbor (the neighbor bears God's image)
+- Male and female as complementary image-bearers — the theology of sexual difference grounded in creation, not culture
+- The goodness of embodiment — that humans are not souls trapped in bodies (Gnostic error) but embodied creatures whose physicality is part of God's good design
+- The creation mandate (Gen 1:28) — work, dominion, and fruitfulness as part of the imago Dei, not a consequence of the fall
+
+This gap is the mirror image of the strength: the corpus is saturated with what humans are *before God in their sin*; it is silent on what humans are *before God in their design*.
+
+---
+
+### 2. Covenant Theology
+
+**Rating: ★ (Present but never taught as a unit)**
+
+The 1689 Second London Baptist Confession is cited from the pulpit. The covenantal *language* is present. The covenantal *structure* has never been taught.
+
+**What is present:**
+- **Covenant of grace** — `romans 9 pt 1.md` cites 1689 LBCF 7.2 directly: "God's covenant of grace promises to give unto all those that are ordained unto eternal life, His Holy Spirit, to make them willing and able to believe"
+- **Covenant of works** — `Eternal Security.md` quotes Jonathan Edwards on the covenant of works: "It is a covenant of works, and not a covenant of grace that suspends eternal life on what is the fruit of a man's own strength." A seminary reference paper (`Titus 1 - slavery.txt`) provides a formal definition of the covenant of works grounded in Romans 5:12-21 and Genesis 2
+- **Abrahamic covenant** — `Sermon - Grafted In.md` (Genesis 12); Romans 4 and 11 treat Abraham and grafting in Gentiles
+
+**What is absent:**
+- **Covenant of redemption / pactum salutis** — the eternal agreement between Father, Son, and Spirit before creation to accomplish redemption — not found anywhere in the corpus
+- **The covenantal framework as a teaching unit** — the congregation has never been walked through the sequence: creation covenant → fall → covenant of grace administered through Noah, Abraham, Moses, David, and finally Christ. They hold the pieces; no one has assembled the picture
+- **1689 Federalism / New Covenant theology** — the specific way the 1689 handles the Mosaic covenant (as a republication of the covenant of works, not the covenant of grace) has never been addressed, even though it governs how the preacher handles the law and the Lord's Day
+
+For a confessional Reformed Baptist, covenantal theology is the architecture beneath every doctrine in the corpus. The congregation lives in the house without knowing what holds it up.
+
+---
+
+### 3. Common Grace
+
+**Rating: ★ (Named once; never a primary subject)**
+
+**What is present:** `ps14.md` (Sunday school archive) names "common grace" explicitly: "Even if we as a result of God's common grace chose to do something that benefited mankind, it would have been done with false motives... motivated by sin." `Romans 1c - The Fingerprints of God.md` and `Romans 1b - Without Excuse.md` treat general revelation extensively — which overlaps with common grace.
+
+**What is absent:** The distinction between *special* grace (saving, given to the elect) and *common* grace (general benevolence to all humanity — restraining evil, enabling cultural achievement, making civil life possible) has never been the primary subject of a sermon. Matthew 5:45 ("he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust") has never been preached from.
+
+This matters pastorally: without a doctrine of common grace, the congregation has no framework for:
+- Why non-Christians can produce genuine beauty, goodness, and truth
+- Why they should value civic institutions and cultural goods made by unbelievers
+- Why God's patience with the world is itself a gift, not a suspension of his character
+
+---
+
+### 4. Three Uses of the Law
+
+**Rating: ★★ / ★ / ★ (varies by use)**
+
+The three classical uses of the law — civil, pedagogical, normative — are present in different strengths.
+
+| Use | Description | Rating | Basis |
+|-----|-------------|--------|-------|
+| **Civil / First Use** (law restrains sin in society) | Law as curb | ★ | Romans 13 covers governing authority as God's instrument; the civil function of law is implicit but never named as such |
+| **Pedagogical / Second Use** (law drives to Christ) | Law as mirror | ★★ | The strongest use in the corpus — "the law isn't a ladder, it's a mirror" (`Romans 3 pt 2.md`, `Romans 10.md`). Luther's use of the law to drive to the gospel is named and modeled throughout Romans 1-4 |
+| **Normative / Third Use** (law guides the believer) | Law as rule | ★ | `jeremiah 7.md` briefly names the third use. Romans 12-15 implicitly applies moral law to the believer's life. But the *principle* that the moral law functions as a guide for the regenerate — and how to distinguish it from legalism — has never been the primary preaching subject |
+
+**The gap:** The second use is genuinely strong — it is the backbone of the Romans 1-4 argument. What is missing is a sermon that teaches the congregation *how* to read the law: what still applies (moral law), what is fulfilled (ceremonial law), what is relocated (civil law of Israel), and how the believer relates to the law after justification. Without this framework, the congregation can read Leviticus or the Sermon on the Mount without knowing what to do with it.
+
+---
+
+### 5. Angelology and the Spiritual Realm
+
+**Rating: ★ (Functional coverage; systematic treatment absent)**
+
+**What is present:** Spiritual warfare is addressed — `1 Sam 28 wicca and the occult` (primary), `Gen 3 - The Curse.md` (the serpent), `Ephesians 6` referenced across multiple sermons (armor of God). `Sermon - Power Encounter.md` addresses occult practices directly. Demons and demonic influence are real in this preacher's worldview.
+
+**What is absent:**
+- The nature and ministry of holy angels — what angels *are*, what they *do*, why they exist
+- The origin and fall of Satan — Isaiah 14, Ezekiel 28, Jude 6, Revelation 12 — never a primary text
+- The cosmic dimension of spiritual conflict (Daniel 10; Eph 6:12 "principalities and powers") — referenced but not expounded
+- Angels as ministering spirits sent to serve the heirs of salvation (Heb 1:14) — never taught
+- How to distinguish demonic influence from psychological illness, cultural darkness, and personal sin — a practically urgent distinction for a congregation in spiritual warfare context
+
+The corpus can tell a congregation to put on the armor. It cannot fully tell them what they are fighting, why the enemy fell, or what the angelic host is doing on their behalf.
+
+---
+
+### 6. Theology of Worship
+
+**Rating: ★ (Present in fragments; never a systematic treatment)**
+
+**What is present:** `Psalms 96.md` is the strongest single sermon on worship — anchored in the holiness of YHWH's name and what it demands of those who draw near. `Sermon - Clowns Entertaining the Goats.md` (BFM Holy Spirit series) addresses false and manipulative worship practices directly. `Sermon - The Lord's Day.md` covers the time and occasion of worship. `1 Cor 12 / Commitment to the church body` addresses the corporate nature of the gathered assembly.
+
+**What is absent:**
+- A comprehensive theology of *what worship is* — the definition, the direction (toward God, not toward self), the content (word-centered vs. experience-centered)
+- The *regulative vs. normative principle* debate — whether anything not commanded is forbidden (regulative) or anything not forbidden is permitted (normative). The 1689 leans regulative; this preacher's practice leans normative; the congregation has never been given the framework to understand why the church does what it does on Sunday morning
+- Worship and the heart — the relationship between internal devotion and external form (Amos 5:21-24; Isaiah 1:11-17; John 4:23-24)
+- Praise and thanksgiving as distinct acts of worship — their content, their grammar, their relationship to lament
+- The Lord's Supper as worship — more than ordinance; as proclamation ("you proclaim the Lord's death," 1 Cor 11:26)
+
+---
+
+### 7. General Providence
+
+**Rating: ★ (Present in Christology context; never a standalone doctrine)**
+
+**What is present:** Christ's sustaining work is explicit: "Jesus holds all things together" (`christology.md`, citing Col 1:17); "he upholds the universe by the word of his power" (Heb 1:3, cited in `christology.md` and `Mt 11.md`). The molecules-not-understood-by-science illustration appears in three separate sermons. God's sovereignty over *salvation* is the strongest branch in the corpus.
+
+**What is absent:** General providence as a doctrine distinct from sovereignty over salvation — God's ongoing care for *all* creation, not just his elect. This includes:
+- God feeding the birds and clothing the grass (Matt 6:26-30 — cited in anxiety context, but the *doctrine of providence* beneath the pastoral application is never taught)
+- God ordering the rise and fall of nations and historical events
+- Concurrence — God working through secondary causes without removing human responsibility
+- The difference between providence and fate — why trusting God's providence is not fatalism
+
+Without this, the congregation hears "God is in control" as a soteriological claim (he controls *your salvation*) rather than a cosmological one (he controls *everything*).
+
+---
+
+### 8. Biblical Theology and Redemptive History
+
+**Rating: ○ (Assumed throughout; never the primary subject)**
+
+**What is present:** The individual moves of redemptive history are preached: creation, fall, election of Abraham, Exodus, Davidic covenant, incarnation, atonement, resurrection, consummation. Typology is used extensively (Joseph, bronze serpent, Rahab, Boaz's ram at Moriah). The Christocentric hermeneutic is present in almost every sermon.
+
+**What is absent:** The *framework itself* — the redemptive-historical storyline taught as an explicit, named, navigable unit. The congregation holds the pieces but has never been given the map. They cannot tell a neighbor "here is the Bible's one story from beginning to end." They have not been taught to read any passage by asking "where does this fit in the story?"
+
+This matters because:
+- It gives the congregation a way to read the Old Testament — not just as a collection of stories with moral lessons, but as the unfolding of a single promise
+- It explains why Christ is in every book of the Bible — not because you have to look for him, but because the whole story is about him
+- It frames suffering, mission, and ethics within a narrative that has a trajectory and a destination
+
+A single series — creation to new creation, four or five movements — would serve the congregation for decades.
+
+---
+
+### 9. Lament as a Spiritual Discipline
+
+**Rating: ★ (Door opened; never walked through)**
+
+**What is present:** `Sermon - Weep With Those Who Weep.md` (Dallas shootings, July 2016) is the strongest moment of pastoral grief in the corpus — Psalm 22's structure is analyzed, lament's form is honored. Suffering-as-refining is genuinely strong (Hebrews 12, Philippians 3, 1 Thessalonians 3). The preacher does not enforce false positivity.
+
+**What is absent:** The *practice* of lament — that Scripture not only permits but commands grieving honestly to God, that darkness before God is itself faith, that the psalms of desolation (Psalms 42-43, 88, 13, 22 as a standalone) and Lamentations teach the church *how* to suffer before resolution comes. Specifically:
+- Psalm 88 — the only psalm with no resolution, no turn to praise, ending in darkness. The existence of this psalm in the canon is itself a theological statement.
+- Lamentations — five chapters of unresolved grief; Jeremiah's raw howl over Jerusalem's destruction
+- The distinction between lament and complaint, between grief brought *to* God and grief that turns *from* God
+
+The congregation has been given permission to suffer. They have not been given language for it.
+
+---
+
+### 10. Apologetics
+
+**Rating: ★ (Incidental content; no systematic treatment)**
+
+**What is present:**
+- General revelation as evidence (Romans 1b/1c) — anthropic principle, fine-tuning, nuclear resonance, solar system design — well-developed *within* the Romans argument but in service of the "without excuse" claim, not as a defense of Christian truth claims
+- Manuscript reliability (`Sermon - Trusting God in Ambiguity, Matthew 2.md`) — Masoretes' precision, textual transmission
+- Counterfeit religion refutation — Mormonism, JW, Islam, Christian Science, Wicca — addressed directly in multiple sermons; this is the strongest apologetic strand in the corpus
+- Historical resurrection evidence — cited in passing (`John 10.md`: "more than 500 people witnessed his resurrection") but never argued as a primary case
+
+**What is absent:**
+- Classical arguments for God's existence as a unit (cosmological, teleological, ontological) — the fine-tuning content exists but is never gathered into a coherent case
+- Evidential apologetics for the resurrection — 1 Corinthians 15:3-8 as historical argument; the empty tomb; the conversion of Paul and James — never a primary sermon
+- How to answer specific objections ("the Bible was written by men," "religion is for weak people," "science has disproved God") — handled incidentally in various sermons but never as a teaching
+- Presuppositionalism vs. evidentialism — the methodological question of *how* Christians should defend the faith; not addressed
+
+**The practical gap:** This congregation lives in Pasco County, described in the corpus as having "100+ Muslim households within a mile of the church" and as "least-reached east of the Mississippi." They evangelism-oriented. They do not have a toolkit for answering the questions of educated, skeptical, or religiously committed neighbors.
+
+---
+
+### Summary: Additional Gaps
+
+| Gap | Rating | Priority |
+|-----|--------|----------|
+| Anthropology / Imago Dei (positive doctrine of humanity) | ★ | High — the missing complement to the corpus's saturated hamartiology |
+| Covenant Theology (covenantal framework as a unit) | ★ | High — the unspoken architecture beneath every doctrine in this corpus |
+| Biblical Theology / Redemptive History | ○ | High — the map the congregation needs to read their Bibles |
+| Common Grace | ★ | Medium — needed for cultural engagement and patience with the unbelieving world |
+| Three Uses of the Law | ★/★★ | Medium — second use is strong; first and third use need dedicated treatment |
+| Theology of Worship | ★ | Medium — the congregation worships without knowing what they are doing or why |
+| General Providence | ★ | Medium — sovereignty over salvation is strong; general providence of creation is thin |
+| Angelology | ★ | Medium — spiritual warfare context exists; systematic angelology absent |
+| Lament as Discipline | ★ | Medium — permission to suffer given; language for suffering not yet taught |
+| Apologetics | ★ | Medium — counterfeit refutation is strong; positive evidential case for Christianity is not |
+
+---
+
+*Part XI compiled March 2026. Verified against direct file reads and grep searches of corpus. Covenant of works claim verified in `Eternal Security.md` and `Other-Sermons/sebts-reference/Titus 1 - slavery.txt`. Common grace claim verified in `Other-Sermons/Sermons/ps14.md`. Three uses of the law verified in `Other-Sermons/Sermons/jeremiah 7.md`, `Romans 3 - pt 2.md`, and `Romans 10.md`. All gap claims reflect this repository only.*
+
+---
+
 *Last updated: March 2026. Cross-referenced against sermon-map.md (1,043 lines) and theological-map.md (1,018 lines).*
