@@ -1,0 +1,369 @@
+ROMANS — EARLY SERIES, SERMON 2: Creation, Idolatry, and the Gospel
+Passage: Romans 1:18-32 (with gospel close drawing from Romans 3, 5, 6, 10; Ephesians 2)
+Context: Evening service ("tonight"). Second sermon in an early/pre-"Night Is Far Gone" Romans series.
+  "As we talked about last week, Romans opens up with Paul talking about the Gospel." The first
+  sermon covered Romans 1:1-17. This sermon covers Romans 1:18-32.
+  NOTE: The title "Romans 2" used by the pastor denotes this being the second sermon in his early
+  series — NOT a sermon on the passage Romans chapter 2. The polished Romans 2 manuscript on
+  religious hypocrisy (Mt 23; clean cups; dead cats) is a separate, distinct sermon:
+  "Romans 2 mt 23 col 3 eph 2.md".
+No People Group of the Week in this dictation.
+Illustrations: Indian fish legend; watchmaker/beach; grandmother's painting; T-shirt; Goldilocks zone;
+  Behe mousetrap; Jonathan Edwards; grandma's painting; Esau; marching blindfolded off a cliff.
+
+---
+
+CORRECTIONS LOG — READ BEFORE USING THIS FILE IN ANY CONTEXT
+
+1. REPAIRED — Westminster Confession quote: DOUBLE ERROR (both errors corrected in transcript)
+
+   (a) The quoted passage is NOT from the Westminster Confession of Faith. The pastor
+   introduced it as a WCF quote in delivery. The WCF Chapter 3.1 reads: "God from all eternity,
+   did, by the most wise and holy counsel of His own will, freely, and unchangeably ordain
+   whatsoever comes to pass: yet so, as thereby neither is God the author of sin, nor is
+   violence offered to the will of the creatures..." The passage quoted in this sermon does not
+   appear in the WCF. The actual source has not been positively identified. Possible candidates:
+   Robert Haldane (*Exposition of the Epistle to the Romans*), R.L. Dabney (*Lectures in
+   Systematic Theology*), or a similar 19th-century Reformed commentator. The WCF attribution
+   has been removed from the transcript. The quote is now marked [SOURCE UNIDENTIFIED] and must
+   not be attributed to the WCF in any public use without independent source verification.
+
+   (b) The historical relationship between the WCF and the 1689 LBC was stated BACKWARDS in
+   delivery. The pastor said: "Westminster confession of faith, which was based upon our own
+   London Baptist confession of faith." This is historically reversed. Correct sequence:
+     - Westminster Confession of Faith (1647) — written first
+     - Savoy Declaration (1658) — Congregationalist revision of the WCF
+     - Second London Baptist Confession (1677/1689) — Baptist revision of the Savoy Declaration
+   The 1689 LBC was based on the WCF (via Savoy), not the other way around. The transcript
+   has been repaired to read "doctrinally consistent with" rather than "based upon."
+
+2. FLAGGED — Isaiah 46:10 translation mismatch
+   The sermon quotes: "My purpose will stand, and I will do all that I please"
+   This is the NIV rendering. ESV reads: "my counsel shall stand, and I will accomplish all
+   my purpose." This repository uses ESV only. Do not present the NIV quote as ESV. If citing
+   in a future sermon, use the ESV text.
+
+3. VERIFIED — AW Pink quote
+   "Subject to none, influenced by none, absolutely independent; God does as He pleases,
+   only as He pleases, always as He pleases."
+   Confirmed real. Source: A.W. Pink, *The Attributes of God*, Chapter 6 ("The Sovereignty
+   of God"). The passage also appears in *The Sovereignty of God* (1918), Ch. 1. The sermon
+   drops the comma after "only as He pleases" — canonical text reads "only as He pleases,
+   always as He pleases." Minor punctuation discrepancy only; the quote is genuine.
+
+4. FLAGGED — Jonathan Edwards: paraphrase, not direct quote
+   The sermon says Edwards said: "we dangle as from a string over a fiery pit, and then the
+   string catches fire." This is a compressed paraphrase of *Sinners in the Hands of an Angry
+   God* (1741), not a direct quotation. The actual sermon uses a spider-over-fire image:
+   "The God that holds you over the pit of hell, much as one holds a spider, or some loathsome
+   insect, over the fire, abhors you..." The "string catches fire" language does not appear in
+   the original text. Present this as a paraphrase/summary of Edwards, not a direct quote.
+
+5. FLAGGED — Darwin overstated
+   The sermon says: "by Darwins own admission, the evolutionary model is flawed and impossible."
+   Darwin never made this admission. He wrote a conditional falsification criterion (*Origin of
+   Species*, 1859): "If it could be demonstrated that any complex organ existed which could not
+   possibly have been formed by numerous, successive, slight modifications, my theory would
+   absolutely break down." This is a hypothetical test, not an admission of failure. The
+   sermon overstates Darwin's own words. The Behe/irreducible complexity argument challenges
+   Darwin's criterion — but that is different from Darwin himself admitting impossibility.
+   Correct in any future use of this illustration.
+
+6. VERIFIED — Michael Behe / irreducible complexity
+   Michael Behe is a real biochemist (Lehigh University). *Darwin's Black Box* (1996) is his
+   real book. The mousetrap analogy (five components: base, spring, hammer, catch, retaining
+   bar) is accurately described. The irreducible complexity argument is accurately represented.
+   VERIFIED.
+
+7. NOTE — Scripture paraphrases
+   The following passages are quoted from memory/paraphrase rather than ESV. They are accurate
+   in substance but should not be presented as direct ESV quotes:
+   - Romans 3:23: sermon has "fallen short" / ESV has "fall short" (present tense)
+   - Romans 5:8: sermon has "while we were yet sinners" / ESV has "while we were still sinners"
+   - Romans 10:9: sermon has "confess with your mouth the Lord Jesus Christ" / ESV has "confess
+     with your mouth that Jesus is Lord"
+   - Ephesians 2:8-9: sermon summarizes accurately but is a paraphrase throughout
+   - Romans 6:23a: used accurately ("the wages of sin is death")
+   - Romans 1:22: "Claiming to be wise, they became fools" — ESV accurate
+   - Romans 1:16-17: accurately referenced, not directly quoted
+
+8. NOTE — Chris Tomlin / "Indescribable"
+   The pastor references "the chris tomlin song" in connection with the Job questions about
+   creation. The song is "Indescribable" (written by Laura Story, recorded by Chris Tomlin,
+   2004). The lyrics about lightning bolts and storehouses of snow ("Who has told every
+   lightning bolt where it should go, or seen heavenly storehouses laden with snow?") match
+   the sermon's paraphrase. The Job 38 basis is accurate. VERIFIED in substance.
+
+9. NOTE — "Temple to God's they didn't yet know about"
+   Reference to Acts 17:23 — Paul in Athens finds an altar "To the unknown God." Accurately
+   referenced. Paul was in Athens (Greek audience), not specifically Rome, but the pastor uses
+   it to illustrate the broader Gentile world's awareness of God. Appropriate use.
+
+---
+
+TRANSCRIPT (clean)
+
+INTRODUCTION — THE FISH THAT TALKED TOO MUCH
+
+An Indian legend about how man learned to fish. A man is sitting under a tree, and a fish comes
+up and starts talking to him. They become fast friends and soon talk every day — about what it's
+like to be a fish, and what it's like to be a person. The man learns what fish eat, what they
+look for in a place to eat, how they think — basically what life as a fish is like. After a
+week, the fish turns up to their meeting place and sees a red worm wiggling in the water.
+Without thinking, the fish bites, and so man learned to fish.
+
+The fish, in many ways, was caught in a trap of his own making. He perhaps trusted too easily,
+and the man took advantage of this. I think sometimes we too get caught in traps of our own
+making. We too like things we shouldn't. Some of us speed. Some of us worship the TV or other
+things with our lives that we shouldn't. Anyway, that story fits pretty well with what we're
+going to talk about tonight.
+
+THE CONTEXT: ROMANS 1
+
+As we talked about last week, Romans opens up with Paul talking about the Gospel. He references
+some Old Testament verses regarding Christ. But then in verse 16, he starts talking about
+salvation and righteousness. "The righteous will live by faith," Paul says. Paul then launches
+into a discussion of the attributes of God that are obvious to all mankind — even the lost. In
+fact, it says in verse 20 that they are "without excuse."
+
+The people who were not Christians in Paul's day — and frankly today — accepted pretty much
+universally that there was a God. Today there are a lot of people who think they are atheists
+but who are not in fact atheists. You see, you can't prove a negative. You can't prove that a
+person has never gone to some place or done a certain thing, because all you can say is that
+while you were looking, that person has not done X, Y, or Z. An atheist cannot prove that God
+does not exist; they can only say they have never knowingly had an experience with God — which
+of course presupposes that a God exists, making them not an atheist but an agnostic. The
+quickest way to convert an atheist to an agnostic is to ask them to disprove the existence of
+God. If they are intellectually honest with you, they will concede the point.
+
+The concept of atheism would have been foreign to the Romans — and even the Greeks, who had a
+god for everything, and even a temple to gods they didn't yet know about (see Acts 17:23). So
+while they knew that there was a God, they didn't honor him as God.
+
+It's like the guy who goes walking down the beach and finds a watch — but instead of thinking
+"huh, there must be a watchmaker," says "must've been a snail." So while they knew someone or
+something made the watch, they attributed the watch's creation to a lump of wood or a great big
+rock, rather than the true and living God who was making an effort to speak to them through the
+beauty of creation.
+
+THE FINGERPRINTS OF GOD IN CREATION
+
+The earth is a remarkable feat of engineering. If we were much closer to the sun, we'd fry;
+much further and we'd freeze. If we were located anywhere else in the Milky Way we would either
+be so protected we couldn't study the cosmos, or so exposed to meteoroids and comets that life
+would have gone extinct right away. We live in what's called the Goldilocks zone — meaning all
+the conditions for life to be possible are met, and not only that: we live in an ideal spot to
+be able to study our surroundings. How can someone look on the beauty of a sunset and not
+imagine God at work with a paintbrush, or look at the complexity of a seashell, or our own
+cells, and not see that God exists? God's orderly and creative fingerprints are all over
+creation.
+
+I've used this illustration before, but I want to share it again. My grandmother had this one
+particular painting of Indian children. She had her kids and grandkids put their names on things
+of hers that they wanted, so there would be no arguing, and so that before she passed she could
+imagine us using these things of hers. So she had this painting and no one would speak up saying
+they wanted it. A few months before she passed she offered it to me, saying she had poured so
+much of herself into her paintings that she wanted them to go to someone who would appreciate
+them. Of course I jumped at the chance. But the point is that the artist displays a bit of who
+they are in their craft. Much the same way as grandma poured herself into her paintings, God
+poured himself into the world to benefit us.
+
+As is pointed out to Job in the Old Testament — and in the Chris Tomlin song "Indescribable" —
+who else could have hung the stars in the sky? Told the lightning bolts where to go, built
+storehouses in the heaven full of snow? Who else could have designed the Milky Way galaxy in
+such a way that we would be protected enough from things crashing into us, but not so much that
+we couldn't stand in awe of the power and majesty of our creator God?
+
+Isaiah 46:10 — God says: "My purpose will stand, and I will do all that I please."
+[NOTE: This is the NIV rendering. ESV reads: "my counsel shall stand, and I will accomplish all
+my purpose." See correction log item 2.]
+
+AW Pink wrote on this verse: "Subject to none, influenced by none, absolutely independent; God
+does as He pleases, only as He pleases, always as He pleases."
+[SOURCE VERIFIED: A.W. Pink, *The Attributes of God*, Ch. 6. Also in *The Sovereignty of God*
+(1918), Ch. 1. See correction log item 3.]
+
+Some people think that makes God capricious and unaccountable. However, a God who can design a
+universe to work better than a fine Swiss watch — or even the human body, trillions of cells all
+working together to repair themselves, to keep going, to be a reflection of God himself in a way
+— even the tiniest living part of our body, the cell, reflects an incredible amount of
+craftsmanship.
+
+IRREDUCIBLE COMPLEXITY
+
+Have you ever heard of the idea of irreducible complexity? In Darwin's day they had relatively
+recently discovered the cell and were aware of its foundational nature as part of our bodies.
+This was before DNA, and before they could see the smaller structures of the cell itself.
+However, Darwin posited that if the cell was so complex that pieces couldn't be removed and the
+cell still survive and serve its function, then evolution would be false.
+
+A biologist and author — Michael Behe — started studying the cell and came to the conclusion
+that it was indeed irreducibly complex. That is, if any parts are cut off, the cell either dies
+or ceases to function in its expected way. Damaged cells are something we are all aware of —
+cancer, for instance, is one of the things that can happen when a cell becomes damaged. Behe
+went on to compare the cell to a mousetrap.
+
+A mousetrap has been refined over the years to basically its most simplistic version. Behe
+argued that in order for a mousetrap to work you need a platform, a spring, a retaining bar, a
+catch, and a hammer. You can reconfigure those parts or combine them, but in the end you still
+have those five functions being served. If you try to remove any of the parts, the trap ceases
+to be a trap. Remove the spring — you might use it as a paperweight, but not a trap. Remove the
+catch or the retaining bar — without the ability to store and release power against the mouse
+the trap ceases to function. Without a base, the device would be unable to store and release the
+power of the spring against the neck of the mouse. Truly, with any fewer parts serving any
+fewer functions, the device loses purpose.
+
+Behe argues that a cell is like the trap — in order for it to survive there are something like
+thirteen systems required, or the cell dies. I suspect that as we gain devices of increased
+sensitivity we might learn there are even more things going on that we simply can't see yet.
+[SOURCE VERIFIED: Michael Behe, *Darwin's Black Box* (1996). The mousetrap analogy and
+five-component description are accurately represented. VERIFIED.]
+
+[NOTE: The sermon then says "by Darwins own admission, the evolutionary model is flawed and
+impossible." This overstates Darwin's position. Darwin wrote a conditional falsification
+criterion: "If it could be demonstrated that any complex organ existed which could not possibly
+have been formed by numerous, successive, slight modifications, my theory would absolutely break
+down" (*Origin of Species*, 1859). This is a hypothetical test, not an admission. See
+correction log item 5. The passage below retains the pastor's words but the factual
+overstatement is flagged.]
+
+In any case, by Darwin's own admission, the evolutionary model — if a cell is truly irreducibly
+complex — breaks down. I used to have a T-shirt that said on the front, "I believe in the Big
+Bang Theory." On the back: "God spoke and — Bang — it happened."
+
+Just in the things we've studied these last couple years: we know that God is sovereign over
+human will — look at Jonah. He's sovereign over where we go and why. He's sovereign over the
+wind and waves (remember Peter?). He's sovereign over the birds (Elijah), the brook, the rain,
+the tree, the worm. He is sovereign over all creation. How can we doubt he'd be sovereign over
+us too?
+
+IDOLATRY AND THE DARKENED HEART
+
+So in light of the fingerprints of God being manifest upon all creation, some people refuse to
+acknowledge God as God. Romans 1:22 — "Claiming to be wise, they became fools." It says their
+foolish hearts were darkened. They worshiped idols.
+
+And before you think we don't have trouble with idols today, let me point something out. I had
+a professor say one time that if you show me your checkbook, I'll show you your priorities. In
+America we may not worship statues of wood — though some do. Instead we worship our
+independence, we worship our comfort, we worship money. In a practical sense Americans are not
+much different than those who used to worship Baal — instead we're worshiping consumerism.
+Consider this past week: how much time have you spent watching TV, or playing video games, or
+pursuing your own entertainment? How much money do you spend on such things? Now think about
+how much time you've spent reading your Bible? In prayer?
+
+We can be worshippers of idols. We can do like Esau did — substitute the best thing we have
+going for something that might satisfy for a moment but leaves you suffering for an eternity.
+
+So these people Paul was talking about were wrapped up in idols, with wicked, foolish, and
+darkened hearts. In verse 24 it says they were given up to the lusts of their hearts. Then it
+specifically mentions a few things — impurities, dishonorable passions, dishonoring their
+bodies — and finally it mentions homosexuality. Then it describes these people as being full of
+all manner of unrighteousness, evil, covetousness, malice, envy, murder, strife, deceit,
+maliciousness, gossip, slander, hatred of God, insolence, haughtiness, boastfulness, inventors
+of evil, disobedience to parents, foolishness, faithlessness, heartlessness, ruthlessness. They
+know what they do is wrong — and not only continue doing these things themselves but give
+approval to, and encourage others to do the same. Ephesians 2 describes these people as
+"children of wrath." In fact earlier in this chapter, verse 18 says: "The wrath of God is
+revealed against" these very things and more.
+
+THE WRATH OF GOD
+
+We talked about hell a while back, and I'm not sure we can fully understand or come to grips
+with its depths. When a God can speak galaxies full of millions of stars into existence in an
+instant, what then will the place of punishment be like?
+
+Jonathan Edwards said we dangle as from a string over a fiery pit, and then the string catches
+fire.
+[NOTE: This is a paraphrase/summary of *Sinners in the Hands of an Angry God* (1741), not a
+direct quotation. The actual sermon uses the image of a spider held over a fire. Present in
+future use as a paraphrase of Edwards. See correction log item 4.]
+
+Life is so short. I have this mental picture of people marching blindfolded off a cliff. Those
+of us who believe can see what's happening — billions of people actively moving towards their
+eternal death. Those of us who can see our friends and family members marching off the cliff
+need to be helping them remove the blindfolds. What man in this room wouldn't lay his life down
+in a heartbeat to protect his kids from a gunman? I have no doubt that any of us would do so
+in an instant to save their kids and grandkids. Yet how many of us have loved ones facing
+eternal mortal danger with whom we've never shared the gospel? I know I have people like that
+in my life. I think we probably all do. Have you shared the gospel with someone this week?
+
+GOSPEL CLOSE
+
+You have to know Jesus to be able to share him.
+
+Maybe you are sitting there tonight and you've never come to know Jesus as your Savior. If you
+haven't, or if you aren't sure, this part is for you.
+
+Scripture says in Romans 3:23 — for all have sinned and fall short of the glory of God. Everyone
+everywhere has done things that displease God. I have. You have. Everyone has. It's a universal
+truth. Because of this sin in our lives, we are incapable of reaching God's standard. It's as
+though everyone is supposed to be wearing pure white clothes, and every time we sin, it's like
+we've gone outside and rolled in the mud — skidded in the grass and ruined the clothes. Now
+instead of white and clean and pure, our clothes are black, wet, and green. Clearly without help
+we can't be clean. In many ways it's like we're a rock on the ground and God's standard is way
+up here. The rock can't jump up to my hand on its own. It needs to be picked up. The same is
+true of us.
+
+Romans 6:23 says that the wages of sin is death. So we spend our whole lives working — trying
+to earn a wage. Except that apart from God, the best of what we can come up with is basically
+filthy rags. Because of our sin, the wage we have earned is death. On your own, handed a
+screwdriver and a ratchet, you'd never be able to build the Brooklyn Bridge. Likewise we could
+never earn our way into heaven.
+
+Scripture says in Ephesians 2:8-9 that by grace we have been saved, through faith — it is the
+gift of God, lest no man should boast.
+[NOTE: Paraphrase. ESV: "For by grace you have been saved through faith. And this is not your
+own doing; it is the gift of God, not a result of works, so that no one may boast." See
+correction log item 7.]
+
+When God created us with free will, he gave Adam the ability to reject God, to reject God's
+ways, to reject eternity in heaven with God. He gave Adam, in a sense, the ability to adopt for
+himself a sin nature. This is a doctrine the Westminster Confession of Faith and our own 1689
+London Baptist Confession hold in common. A Reformed theologian put it this way:
+
+[SOURCE UNIDENTIFIED: The pastor attributed this to the Westminster Confession of Faith in
+delivery, but the passage does not appear in the WCF. The WCF attribution has been removed.
+Possible sources: Robert Haldane (*Exposition of the Epistle to the Romans*), R.L. Dabney
+(*Lectures in Systematic Theology*), or a similar 19th-century Reformed commentator. Do not
+attribute to the WCF or any specific author in public use until the source is confirmed.
+See correction log item 1.]
+
+"God is not the author of sin. The creature is: and therefore can originate an act which is not
+God's. We must, therefore, make the distinction between God's permitting and causing the acts
+of man — and consequently between predestinating causatively and permissively. Man's will has
+resisted God's will: and may continue obstinately to the end to resist it. Grasp firmly the
+principle: all good originates with God; all evil with the creature; and most difficulties
+vanish. Election and its glory belong wholly to God; Reprobation and its responsibility, wholly
+to man. Scripture draws this distinction."
+
+Man, then, is the author of sin. God merely permitted us to author it. Adam then created for us
+a sin nature — one imputed to us, though one which we would all (like Adam) have willingly
+adopted on our own.
+
+Sin then is a trap of our own creation, that we readily and greedily run into with abandon. A
+trap incapable of being unlocked from the inside. We — like the fish — could never escape on
+our own. And so we needed a Savior.
+
+Scripture says in Romans 5:8-9 — while we were yet sinners, Christ died for us.
+[NOTE: ESV reads "while we were still sinners." See correction log item 7.]
+
+You see, we owed a debt we could not pay, and he paid a debt he did not owe. So what's the
+catch? Nothing. It's a gift. You just have to reach out and accept it. Romans 10:9-10 says that
+if you confess with your mouth the Lord Jesus Christ and believe in your heart that God raised
+him from the dead, you will be saved.
+[NOTE: ESV reads "if you confess with your mouth that Jesus is Lord and believe in your heart
+that God raised him from the dead, you will be saved." See correction log item 7.]
+
+Maybe tonight you identify with the fish. Maybe you feel like your sin is under your control —
+but the truth is, control is an illusion. Don't be the guy dangling by a string over the fire.
+If you have never come to a point in your spiritual life where you've been saved, then in a
+moment, Dad's going to sing a song to close the service. Come talk to me.
+
+If you have accepted Christ but your life looks more like the person described in Romans 1 than
+it resembles Christ, and you want to rededicate — come talk to me.
+
+If you're looking for a church to join — come talk to me. One of the things I love about this
+church is that when people bare their souls, there is no judgment here. People aren't treated
+differently because they accept Christ or rededicate their life. We just rejoice with you,
+because we love you.

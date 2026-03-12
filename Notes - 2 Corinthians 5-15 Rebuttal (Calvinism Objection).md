@@ -36,6 +36,63 @@ The objector must choose. Either "all" is universal in both clauses, which yield
 
 The grammar of the sentence will not allow selective universalism.
 
+#### Going Deeper: Why the Two "Alls" Must Be Coextensive
+
+The *ἄρα* ("therefore") creates a direct logical dependency between the two clauses. The "all" in "all have died" is not a separate group from the "all" in "died for all." It is the *same* group, now described from the other side of the transaction. One died *for* them; *therefore* they died *in* him. The inference flows from union, not merely from coverage.
+
+This is federal headship logic — the same logic Paul deployed in Romans 5:
+
+> *"Therefore, as one trespass led to condemnation for all men, so one act of righteousness leads to justification and life for all men. For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous."*
+> — Romans 5:18-19
+
+Adam's sin condemned those *in* him. Christ's obedience justified those *in* him. "All" in each case means everyone within that covenant headship — not every individual ever born, but every member of that representative relationship.
+
+Paul is doing the same thing in 2 Corinthians 5:14. Christ is the second Adam. He acts as the head and representative of a people. He dies *for* them — in their place, bearing their guilt. *Therefore* they die *in* him — their death is accomplished in his. This is not a description of every human being. This is a description of everyone Christ represents.
+
+#### The Arminian Cannot Escape Without Breaking the Logic
+
+Watch what happens when the Arminian tries to make "all" universal:
+
+He says: "He died for all" means every individual human being without exception.
+
+If that's true, then "therefore all have died" means every individual human being has died in Christ.
+
+Dying in Christ is union language. Paul uses it everywhere:
+
+> *"I have been crucified with Christ. It is no longer I who live, but Christ who lives in me."*
+> — Galatians 2:20
+
+> *"Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death? We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life."*
+> — Romans 6:3-4
+
+Dying with Christ is not a universal experience. It is the exclusive possession of those who are in Christ by regeneration and faith. If "all have died" meant every human being has died with Christ, then every human being would also rise with Christ — which is universalism.
+
+So the Arminian has to do something the text does not do: he has to *break* the logical connection. He has to read "died for all" as universal, and then quietly limit "all have died" to mean something like "all have died *potentially*" or "all have been placed in a position where they *can* die to themselves." But that is not what the aorist tense allows.
+
+#### The Aorist Tense Closes the Escape Hatch
+
+Both verbs in verse 14 are aorist: *ἀπέθανεν* ("has died" / "died") and *ἀπέθανον* ("have died" / "died"). The aorist in Greek describes a completed action. Not an ongoing process. Not a potential. Not a possibility that awaits human cooperation.
+
+*One died.* — Completed. Done. The cross is a historical event.
+
+*Therefore all died.* — Also completed. Done. The consequence is just as accomplished as the act that caused it.
+
+The Arminian reading requires the second clause to describe a potential or conditional state: "all *can now die* to themselves if they choose." But the grammar won't carry that weight. *ἀπέθανον* is not a subjunctive of possibility. It is an indicative of accomplished fact. The death is real. It has already happened. The only question is whose death it was — and Paul has already told us: it was the death of those for whom Christ died.
+
+#### The Penal Substitution Problem
+
+Here is the corner the objector cannot escape if he holds to penal substitutionary atonement — as most who raise this objection do.
+
+Penal substitution means Christ actually bore the specific guilt of specific sinners. He did not bear a general, floating mass of guilt hovering over all humanity. He bore guilt that belonged to particular people and was transferred to him in his death. God's wrath was actually poured out on him — not theoretically, not potentially, but actually and completely.
+
+Now: if Christ bore the actual guilt of every human being without exception — satisfied the actual divine wrath against every individual — then the debt of every individual has been paid in full. Justice has been served for everyone.
+
+If that is true, then God cannot in justice send anyone to hell for their sin. The punishment has already been served. You cannot punish a debt twice. If my debt is paid, my creditor cannot demand payment again.
+
+This is why universal atonement, held consistently alongside penal substitution, collapses into universalism. The only way to avoid universalism while holding universal atonement is to quietly abandon penal substitution — to say Christ didn't actually *pay* anyone's debt, he just *made payment possible* or *removed the legal barrier*. But that is a different gospel.
+
+The Calvinist position is the only one that holds penal substitution and avoids universalism: Christ bore the actual guilt of a particular people — the elect — and therefore those people are saved with certainty. His atonement is not a potential benefit. It is an accomplished redemption. Those for whom he died, *died*. Those who died with him, live.
+
 ---
 
 ### 2. The Result Defines the Group

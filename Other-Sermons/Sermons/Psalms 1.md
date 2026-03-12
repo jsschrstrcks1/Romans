@@ -43,6 +43,86 @@ Friends some of you have never come to a point in your life where you’ve decid
 
 Maybe some of you are believers but are turning away from the Lord, and trying to go back down some of those same old dark paths you used to walk apart from Christ. Stop right there, turn around and run back to Christ. He’s right there waiting for you. 
 
-But it all starts with the gospel. 
+But it all starts with the gospel.
 
 Gospel.
+
+---
+CORRECTIONS LOG (added by Claude Code)
+Verified against ESV, primary sources, and biographical records. Do not preach or republish
+without resolving flagged items below.
+
+1. YOGI BERRA — NAME ERROR
+   Sermon says "Lawrence Peters Yogi Berra." His legal name is Lawrence Peter Berra (no 's').
+   Born Lorenzo Pietro Berra, May 12, 1925. Correct before printing or republishing.
+
+2. YOGI BERRA — "STORMED THE BEACH" IS INACCURATE
+   Berra did not assault Omaha Beach as infantry. He served as a gunner's mate on a Navy
+   rocket boat that fired machine guns and rockets at German defenses from the water. He
+   participated in the invasion of Normandy — that framing is accurate and powerful on its
+   own. "Stormed the beach" implies a ground assault he did not make.
+
+3. YOGI BERRA — QUOTE WORDING
+   Sermon: "I never said all the things that I said."
+   Authenticated version (from Berra's own 1998 book title): "I really didn't say everything
+   I said." The sermon's wording is a common paraphrase but not the precise quote.
+
+4. YOGI BERRA — ALL-STAR COUNT
+   "15-time All-Star" refers to 15 All-Star game appearances; he was actually selected 18
+   times (double All-Star game years 1959–62 account for the gap). "15 appearances" is
+   technically accurate. "18-time All-Star" is the standard biographical figure.
+   Note: He won 10 World Series championships as a player. He appeared in 14 total as
+   player and manager. The "14 World Series" figure in the sermon is defensible for
+   appearances but should clarify it includes losses.
+
+5. SPURGEON QUOTE — VERIFIED, ADD CITATION
+   Core of the quote is authentic. Source: Sermon #349, "The Wailing of Risca," preached
+   December 9, 1860, at Exeter Hall, Strand — Metropolitan Tabernacle Pulpit, Vol. 7.
+   Spurgeon preached this the day after a coal mine explosion in Risca, Wales killed ~142
+   miners. The clause "let not one go unwarned and unprayed for" is a common appendage to
+   this quote in circulation; its exact presence in the original sermon text should be
+   confirmed before citing it as a verbatim quote.
+   Action: Add citation when quoting in print.
+
+6. ANDY STANLEY QUOTE — WORDING IS INACCURATE
+   Sermon: "we just need to unpin ourselves from scripture."
+   Stanley's actual word was "unhitch," and his specific target was the Old Testament, not
+   scripture broadly. His 2018 sermon series "Aftermath" argued the early church "unhitched"
+   from the Old Testament law of Moses. He later walked back the statement, saying he was
+   teaching from Acts 15. The sermon's version ("unpin" from "scripture") makes the position
+   sound more extreme than his actual words. The point of the sermon illustration still
+   stands, but the quote should be corrected.
+   Correction: Change to something like — Stanley argued that the church should "unhitch"
+   from the Old Testament, or note it as a paraphrase.
+
+7. LUKE 2 — TEMPLE STORY DETAILS
+   Sermon: "It took them a couple days to realize Christ wasn't with them."
+   Luke 2:44–46 (ESV): They went a day's journey before realizing he was missing, returned
+   to Jerusalem, and found him on the third day. Three days total — not a "couple days" to
+   realize he was missing.
+   Sermon: "He was studying the word of God."
+   Luke 2:46–47 (ESV): He was sitting among the teachers, "listening to them and asking
+   them questions; and all who heard him were amazed at his understanding and his answers."
+   He was not a passive student — the teachers were amazed at HIS answers. The illustration
+   is stronger with the accurate detail.
+
+8. EPHESIANS 6:12 — ADDED CLAUSE GOES BEYOND THE TEXT
+   Sermon: "Scripture says we fight not against flesh and blood alone — but we do fight
+   against that."
+   ESV: "For we do not wrestle against flesh and blood, but against the rulers, against the
+   authorities, against the cosmic powers over this present darkness, against the spiritual
+   forces of evil in the heavenly places."
+   The verse draws a contrast TO spiritual warfare — it does not say believers also fight
+   flesh and blood. The added clause "but we do fight against that" is not in the text and
+   could confuse the passage's intent.
+
+9. JOHN MACARTHUR CLAIM — UNVERIFIED
+   Sermon: "John MacArthur says to translate this word as joy would be selling it short."
+   No source given. Cannot verify this specific formulation. If this is from his commentary
+   on the Psalms or a sermon, add the citation. Do not repeat as a named attribution without
+   a source.
+
+10. ROMANS 1:29 — MINOR WORDING NOTE
+    Sermon says "strive" — ESV reads "strife." Also "murders" should be "murder" (ESV).
+    These are spoken/transcription variants, not doctrinal issues, but correct before
+    printing or publishing.

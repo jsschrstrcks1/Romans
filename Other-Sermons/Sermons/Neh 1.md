@@ -51,3 +51,68 @@ For I received from the Lord what I also delivered to you, that the Lord Jesus o
 Ushers could you please pass out the elements?
 
 Close in prayer – Kenny Duffield, lary and judy. Will. For those who couldn’t be here. Sherrys health. The sick, and the food.
+
+---
+CORRECTIONS LOG (added by Claude Code)
+Verified against ESV, primary sources, and historical records. Do not preach or republish
+without resolving flagged items below.
+
+1. RING AROUND THE ROSIE / BLACK DEATH — LIKELY APOCRYPHAL
+   The sermon presents the Black Death origin of "Ring Around the Rosie" as established fact.
+   This is a popular but widely disputed folk etymology. The rhyme first appears in print in
+   1881 — more than 500 years after the Black Death. Folklorists Peter and Iona Opie, the
+   leading authorities on English nursery rhymes, explicitly rejected the plague connection
+   in their authoritative "Oxford Dictionary of Nursery Rhymes" (1951). Most folklorists and
+   historians consider this a 20th-century invention with no documented medieval basis.
+   The illustration is vivid, but it rests on a claim that is almost certainly false. Consider
+   removing or clearly framing it as "some people say" rather than presenting it as history.
+
+2. BLACK DEATH POPULATION FIGURES — INACCURATE
+   The sermon states "scientists estimate there were only 350m people in 1300."
+   Most historical estimates place world population around 1300 at 400–450 million, not 350m.
+   At 400m, losing 75–200m would be 19–50%, not "almost 60%." The 200m death figure is also
+   at the very high end of scholarly estimates (range: 75–200m). Correct the population
+   figure before republishing.
+
+3. E. COLI / Y. PESTIS CLAIM — UNVERIFIED
+   The sermon claims: "There was an E. Coli outbreak in Germany a few years back that had in
+   its genetic code part of the y. pestis virus that triggered the black death."
+   No credible source for this claim could be identified. The 2011 German E. coli outbreak
+   (O104:H4) was notable for antibiotic resistance but is not linked to Y. pestis in published
+   research. Do not repeat this claim without a verifiable source.
+
+4. HUMPTY DUMPTY AS ALLEGORY FOR THE FALL OF ADAM — NO HISTORICAL DOCUMENTATION
+   The sermon presents the Humpty Dumpty / Fall of Adam connection as historical fact. The
+   rhyme first appears in print in 1797 as a simple riddle (answer: an egg). There is no
+   documented historical connection between the rhyme and the Fall of Adam. This is a
+   homiletical application — it works well as an illustration — but should not be presented
+   as the rhyme’s established meaning or origin.
+
+5. CRITICAL — JOHN KNOX / "BLOODY MARY" — TWO DIFFERENT QUEENS
+   The sermon says Knox lived "under the reign of the famous queen ‘bloody mary’ so named
+   for her murder of believers." This conflates two distinct historical figures:
+
+   - BLOODY MARY = Mary I of England (reigned 1553–1558), who burned approximately 280–300
+     Protestants at the stake in England. She was English, not Scottish.
+   - MARY QUEEN OF SCOTS = Mary Stuart (reigned Scotland 1542–1567), who is the queen
+     associated with John Knox and his Scottish Reformation ministry.
+
+   John Knox’s confrontations were with Mary Queen of Scots, not Bloody Mary. The famous
+   quote attributed to Mary about fearing Knox’s prayers more than armies is attributed to
+   Mary Queen of Scots. Bloody Mary died in 1558 before Knox’s most prominent confrontations
+   with the Scottish queen. Correct before republishing — this is a significant historical
+   error that would undermine credibility with any historically informed listener.
+
+6. "LIONS LYING DOWN WITH LAMBS" — NOT A DIRECT SCRIPTURE QUOTE
+   The sermon says "Scripture talks about lions lying down with lambs." The actual text:
+   - Isaiah 11:6 (ESV): "The wolf shall dwell with the lamb, and the leopard shall lie down
+     with the young goat, and the calf and the lion and the fattened calf together..."
+   - Isaiah 65:25 (ESV): "The wolf and the lamb shall graze together; the lion shall eat
+     straw like the ox..."
+   "Lions lying down with lambs" is a popular paraphrase that conflates these verses. The
+   wolf-and-lamb pairing is what Scripture actually says. Correct before publishing.
+
+7. JAMES 2:19 — "TREMBLE" VS. "SHUDDER"
+   Sermon: "even the demons believe and they tremble"
+   ESV (James 2:19): "Even the demons believe—and shudder!"
+   The ESV uses "shudder," not "tremble." Minor wording note; correct before printing.
