@@ -536,4 +536,320 @@ The corpus teaches God's forgiveness extensively. The mechanics of one human for
 
 ---
 
+---
+
+## Part IX: Branch-by-Branch Theological Audit
+
+*Every branch and sub-branch of theology mapped in theological-map.md is evaluated below for preaching coverage. Ratings apply only to content in this repository.*
+
+**Coverage ratings:**
+- ★★ **Covered** — Primary or major subject of at least one full sermon with developed exposition
+- ★ **Present** — Doctrine affirmed and touched but never the primary preaching subject; treated in passing
+- ○ **Gap** — Not the primary subject of any sermon in this corpus; affirmed by inference or not addressed at all
+
+**Gap count methodology:** Sub-branches rated ★ or ○ are counted as gaps — meaning the congregation has heard the doctrine mentioned but has never received a sermon aimed directly at that sub-branch. ○ indicates the more serious deficit.
+
+---
+
+### Branch 1: Theology Proper (Doctrine of God)
+
+| Sub-Branch | Rating | Basis |
+|------------|--------|-------|
+| One True God / Classical Monotheism | ★★ | BFM "More Than Love" sermon; multiple counterfeit-religion sermons (Mormonism, Islam, JW) |
+| Trinity — Homoousios, One God in Three Persons | ★★ | `col 1.md`, counterfeit religion series, Christology sermon; Arianism explicitly refuted |
+| God's Holiness as Governing Attribute | ★★ | Central organizing doctrine in Romans 1–3 series; Sproul cited repeatedly |
+| God's Wrath as Holy Revulsion | ★★ | Dedicated 2-sermon series on Romans 3 wrath; A.W. Pink cited; not petty rage |
+| Immutability and Truthfulness | ★ | `Theology Proper.md` cites Num 23:19; Romans 11 touches this — but no sermon has immutability as primary subject |
+| Absolute Sovereignty and Providence | ★★ | Romans 9 trilogy (primary subject); Genesis 37–39 Joseph series; runs through entire corpus |
+| Aseity and Self-Sufficiency | ★ | Tozer quoted in `rev 20.md`; "Missionaries or Imposters" touches this — but never a standalone sermon |
+| Omniscience | ★ | Referenced in `mt 6.md` (COVID anxiety sermon) and `Romans 1 (2024).md` — but never the primary subject |
+| Omnipresence | ★ | Brief mention in `mt 6.md` — never a primary subject or dedicated exposition |
+| Omnipotence | ★★ | `Psalm 68 - Nothing Too Hard for God`; `mt 6.md` — God's power in relation to anxiety; adequately treated |
+| God's Love — Holy, Costly, Substitutionary | ★★ | Romans 5 (primary); multiple sermons; love never pitted against holiness |
+| God's Justice and Judgment | ★★ | Romans 3 wrath series; `rev 20.md` (eternal conscious torment) |
+| Foreknowledge as Fore-Love (covenantal, not prescient) | ★★ | Romans 11 ("The Remnant of Grace") — primary treatment; Romans 9 reinforces |
+| God's Refining Through Suffering (paideo) | ★★ | `Heb 12.md`; Philippians 3 2025; 1 Thessalonians 3 suffering sermon |
+| Eternality / Atemporality | ★ | Affirmed in Christology context ("there was never a time when Christ was not") — never an independent topic |
+| Impassibility / Divine Emotions | ○ | Wrath is treated; but the classical question of whether and how God experiences emotion — never addressed |
+
+**Branch 1 gap count: 5 gaps (★: Immutability, Aseity, Omniscience, Omnipresence, Eternality) + 1 serious gap (○: Impassibility)**
+
+---
+
+### Branch 2: Christology (Doctrine of Christ)
+
+| Sub-Branch | Rating | Basis |
+|------------|--------|-------|
+| Full Deity and Eternality of Christ | ★★ | `christology.md`; Col 1 sermons; Nicene orthodoxy explicitly affirmed |
+| Christ as Creator and Sustainer | ★★ | `christology.md` — "science doesn't understand why molecules hold together... Jesus holds all things together" |
+| Incarnation — Fully God, Fully Man (Chalcedonian) | ★★ | `Theology Proper.md` BFM citation; Sola Christus series |
+| Hypostatic Union | ★★ | Homoousios argument made directly (col 1.md); Chalcedonian definition cited |
+| Three Offices: Prophet, Priest, King (munus triplex) | ★★ | `Sola Christus.md`; Calvin's formulation named explicitly |
+| Christ's Active Obedience | ★ | Imputed righteousness sermons assume it but active obedience is never expounded as a distinct doctrine |
+| Sole Mediator | ★★ | `Sola Christus.md`; `galatians 1.md`; `Romans 10.md` — cited from 1 Tim 2:5 repeatedly |
+| Exclusivity for Salvation (Acts 4:12) | ★★ | `John 14 - exclusivity of the gospel` — primary; Acts 4:12 cited |
+| Penal Substitutionary Atonement | ★★ | Named as a term; Romans 3–5 series; Isaiah 53; multiple sermons |
+| Definite / Particular Atonement | ★★ | Romans 9 series; Journey in Grace; directly argued in 4+ sermons |
+| Tetelestai — The Finished Work | ★★ | Romans 3 wrath sermon; "paid in full" exposition |
+| Bodily Resurrection of Christ | ★★ | John 20; "Today You Will Be With Me" series; 1 Peter 1; multiple Easter messages |
+| Humiliation and Exaltation (Philippians 2 kenosis) | ★ | `phil 2.md` exists and covers this — but the sermon focuses on every knee bowing and missions urgency; kenosis itself is treated briefly |
+| Ascension and Session | ★ | BFM cited in `Theology Proper.md`; affirmed but never expounded from Eph 1:20-23, Heb 4:14-16, or Ps 110 |
+| Present Intercession (Heb 7:25) | ○ | The congregation knows Christ died for them. They have not been taught he lives to intercede for them now. Not the primary subject of any sermon. |
+| Return in Judgment | ★★ | `phil 2.md`; `Titus 2 pt 2.md`; Bultmann refuted by name |
+
+**Branch 2 gap count: 3 gaps (★: Active Obedience, Humiliation/Exaltation as kenosis, Ascension/Session) + 1 serious gap (○: Present Intercession)**
+
+---
+
+### Branch 3: Pneumatology (Doctrine of the Holy Spirit)
+
+| Sub-Branch | Rating | Basis |
+|------------|--------|-------|
+| Full Deity of the Holy Spirit | ★★ | `bfm holy spirit.md`; `Acts 2 Holy Spirit.md` |
+| Agent of Regeneration | ★★ | Acts 2; Sola Gratia series; regeneration precedes faith throughout |
+| Spirit Baptism at Conversion — Once, Complete | ★★ | `Acts 2 Holy Spirit.md` — "someone truly saved gets all of the Holy Spirit they will ever get" |
+| Permanent Indwelling | ★★ | Acts 2 — "unlike Elijah/Elisha, it never leaves us" |
+| Sealing Unto Final Redemption | ★★ | `bfm holy spirit.md`; Eph 1:13-14 cited repeatedly |
+| Illumination of Scripture | ★★ | Multiple sermons; 1 Cor 2:14 cited as governing principle |
+| Conviction of Sin, Righteousness, Judgment | ★★ | `John 16 The Holy Spirit` — dedicated sermon |
+| Sanctifying Work | ★★ | Romans 8; Romans 6; BFM citation |
+| Tongues as Earthly Languages — Soft Cessationism | ★★ | `Acts 2 Holy Spirit.md` — clear; Lakeland Revival critique; Todd Bentley named |
+| Effectual Drawing / Irresistible Grace | ★★ | Sword/sheath illustration; throughout corpus |
+| Testing Spirit Claims Against Scripture | ★★ | `Catching Counterfeits.md`; `Acts 2 Holy Spirit.md` |
+| Gifts of the Spirit (charismata, 1 Cor 12 / Rom 12) | ★★ | `romans 12 pt 2.md` — gifts listed with practical application; `Commitment to the church body 1 cor 12.md` |
+| Fruit of the Spirit (Gal 5:22-23) | ★ | The list is mentioned in several sermons but Galatians 5:22-23 has never been the primary preaching text |
+| Spirit and Assurance (witness of the Spirit, Rom 8:15-16) | ★ | Romans 8:12-17 ("Debtors to the Spirit") covers adoption cry but not the Spirit's witness to assurance as a distinct subject |
+
+**Branch 3 gap count: 2 gaps (★: Fruit of the Spirit, Spirit's witness to assurance)**
+
+---
+
+### Branch 4: Hamartiology (Doctrine of Sin)
+
+| Sub-Branch | Rating | Basis |
+|------------|--------|-------|
+| Total Depravity — Radical Corruption | ★★ | Most preached doctrine in the corpus; Romans 1, Genesis 29, Ezekiel 36, Judges 1–2 |
+| Original Sin and the Fall | ★★ | Genesis 3; Romans 5; federal headship of Adam affirmed |
+| Sin as Active Rebellion, Not Passive Weakness | ★★ | Romans 1:18-32 ("suppress" = hold down by force); throughout |
+| Bondage of the Will | ★★ | Romans 9; Sola Gratia; Luther cited on free will |
+| Universal Guilt — No Exceptions | ★★ | Romans 2–3; Jew and Gentile addressed directly |
+| Conscience as Real Courtroom | ★★ | Romans 2 "Don't Miss Heaven by 18 Inches" |
+| Satan, Demons, and Temptation | ★★ | `1 Sam 28 wicca and the occult`; spiritual warfare references; Gurnall |
+| The Three Enemies (world, flesh, devil) | ★ | Referenced across many sermons but never systematically treated as a unit |
+| Sin's Cosmic Effects — Curse, Death, Disorder | ★★ | Genesis 3; Romans 5:12-21; Creation groaning (Rom 8:18-22) referenced |
+| Remaining Sin in the Believer (concupiscence) | ★★ | Romans 7 ("The War in the Dark") — dedicated sermon |
+| Idolatry as Root Sin | ★★ | Romans 1; `mark 10.md` (prosperity gospel); Psalm 139 abortion as idolatry |
+
+**Branch 4 gap count: 1 gap (★: Three enemies as systematic unit) — Hamartiology is among the strongest branches in the corpus**
+
+---
+
+### Branch 5: Soteriology (Doctrine of Salvation)
+
+| Sub-Branch | Rating | Basis |
+|------------|--------|-------|
+| Total Depravity (TULIP — T) | ★★ | See Hamartiology above |
+| Unconditional Election (TULIP — U) | ★★ | Romans 9 trilogy; Journey in Grace; 1689 LBCF cited directly |
+| Definite Atonement (TULIP — L) | ★★ | Romans 9; Journey in Grace; directly argued |
+| Irresistible Grace / Effectual Calling (TULIP — I) | ★★ | "Grace is a cheetah"; throughout corpus |
+| Perseverance / Preservation of the Saints (TULIP — P) | ★★ | Dedicated "Eternal Security" sermon; `2 Chronicles 15` |
+| Ordo Salutis | ★★ | `Ezekiel 36.md`; `Ordo Solutis Romans 8.md` — named and listed in order |
+| Monergism (vs. synergism, named and rejected) | ★★ | "Only the sin that makes it necessary"; Ezekiel 36; Romans 9 |
+| Justification — Forensic, by Imputation (not infusion) | ★★ | Romans 4 ("In Christ Alone: Where Justice Meets Grace") — primary; 1689 LBCF 11.1 cited |
+| Double Imputation | ★★ | Romans 4–5; Luther's "great exchange" named |
+| Regeneration Precedes Faith | ★★ | Thief on the cross series; Sola Gratia; Romans 9 |
+| Faith as Instrument, Not Work | ★★ | Romans 10 — "the empty hand that receives what grace has purchased" |
+| Sanctification — Progressive, Spirit-Wrought, Necessary | ★★ | Romans 6; Romans 8; "Sanctification flows from justification, not to it" |
+| Assurance — Real, Grounded in Christ, Examined | ★★ | "Eternal Security" sermon; false assurance as pastoral danger throughout |
+| Adoption | ★★ | `Galatians 3-4 adoption sermon`; `Heb 12.md`; Romans 8:12-17 |
+| Election and Reprobation — Infralapsarian | ★★ | Romans 9; preterition vs. active injection of unbelief distinguished |
+| Evangelical Gospel Offer (Fuller/Spurgeon Calvinism) | ★★ | Romans 9 — "doctrine must break our hearts"; Spurgeon quote; election never cancels invitation |
+| Calling — External and Internal | ★★ | Sola Gratia; Ordo Salutis |
+| Conversion — Repentance Side | ★ | Repentance is present throughout but the distinction between initial repentance and ongoing repentance as a discipline (2 Cor 7:9-10) has not been expounded |
+| Union with Christ | ★ | Romans 6:1-11 assumes it; "co-crucified, co-buried, co-raised" language appears — but mystical union has never been the primary preaching subject |
+| Glorification | ★ | Named in the Ordo Salutis list; Romans 8:30 cited — but no dedicated treatment of what glorification means for the body, mind, and soul |
+
+**Branch 5 gap count: 3 gaps (★: Repentance as ongoing discipline, Union with Christ, Glorification) — Soteriology is the most extensively preached branch; the gaps here are relative, not absolute**
+
+---
+
+### Branch 6: Ecclesiology (Doctrine of the Church)
+
+| Sub-Branch | Rating | Basis |
+|------------|--------|-------|
+| Confessional Reformed Baptist Identity | ★★ | `being baptist.md` — dedicated series; 1689 LBCF cited from the pulpit |
+| Landmarkism Rejected | ★★ | `being baptist.md` — "crazy isn't it?" |
+| Christ as Head of the Church | ★★ | `christology.md`; contra papal authority |
+| Creeds and Confessions as Guardrails | ★★ | Romans 14c; "no creed but Christ" refuted as pseudo-humility |
+| Regenerate Church Membership | ★★ | `being baptist.md`; "membership is not optional" |
+| Congregational Governance / Local Church Autonomy | ★★ | `being baptist.md`; contra top-down hierarchy |
+| Believers' Baptism (Credobaptism) | ★★ | `being baptist.md`; baptismal regeneration explicitly rejected |
+| Lord's Supper — Memorial / Ordinance | ★★ | Thanksgiving Communion sermon; `sola scriptura.md` |
+| Complementarian — Women Not as Pastors | ★★ | Romans 16 (Phoebe); `Sola Scriptura 24.md` |
+| Church Growth Through Evangelism, Not Transfer | ★★ | `Commitment to the church body 1 cor 12.md` |
+| Church and State — Two Kingdoms | ★★ | Romans 13 series — "the government of Nero did NOT share his values" |
+| Conservative Resurgence | ★★ | `being baptist.md` |
+| Church Discipline — Matthew 18 Process | ★ | `Second Timothy 4.md` touches this; Matthew 18 is referenced but never expounded as the primary text |
+| Elder and Deacon Qualifications (1 Tim 3 / Titus 1) | ★ | Affirmed in polity discussions but never the primary subject of a sermon |
+| Church Polity — Single vs. Plural Elders | ○ | Marked as undetermined in `theological-map.md Part IV`; never addressed from the pulpit |
+| Ordinances in Depth (immersion, frequency) | ★ | Affirmed but not expounded beyond identifying baptism as believers' baptism and Lord's Supper as memorial |
+
+**Branch 6 gap count: 3 gaps (★: Church Discipline, Elder/Deacon Qualifications, Ordinances in depth) + 1 serious gap (○: Church polity / elder structure)**
+
+---
+
+### Branch 7: Bibliology (Doctrine of Scripture)
+
+| Sub-Branch | Rating | Basis |
+|------------|--------|-------|
+| Sola Scriptura — Scripture Alone as Final Authority | ★★ | Dedicated Five Solas sermon; `Sola Scriptura 24.md`; `sola scriptura.md` |
+| Verbal Plenary Inspiration (God-Breathed) | ★★ | 2 Tim 3:16 cited across corpus; "The Measuring Stick" sermon |
+| Inerrancy and Infallibility | ★★ | `sola scriptura.md`; BFM "perfect treasure... truth without any mixture of error" |
+| Sufficiency of Scripture | ★★ | `galatians 1.md` — adding to Scripture is the source of every heresy |
+| Scripture Over Experience | ★★ | `Catching Counterfeits.md` — Bill Johnson/Bethel directly refuted |
+| Divine Design for Oral Transmission | ★★ | Genesis 1–2 sermon — Hebrew chiasm as evidence of inspiration; cognitive anthropology argument |
+| Preservation of Scripture (Masoretes) | ★★ | `sola scriptura.md` — destroyed the page rather than erased an error |
+| Closed Canon — 66 Books | ★★ | `sola scriptura.md` — Council of Laodicea; apostolic criterion |
+| Christocentric Hermeneutic | ★★ | Recurring framework; "OT concealed, NT revealed" across Romans, Colossians, Hebrews sermons |
+| Grammatical-Historical Hermeneutics | ★★ | Modeled in every sermon; Greek word studies throughout |
+| OT as Christian Scripture / Continuity-Discontinuity | ★ | OT used extensively, typology applied — but the hermeneutical question of *how* the OT functions for the church (law, types, promises) has never been the primary preaching subject |
+| Canon Formation Process | ★★ | `sola scriptura.md` — apostolic authorship or close connection as criterion |
+
+**Branch 7 gap count: 1 gap (★: OT/NT relationship and hermeneutics of the OT for the church) — Bibliology is a strong branch**
+
+---
+
+### Branch 8: Eschatology (Doctrine of Last Things)
+
+| Sub-Branch | Rating | Basis |
+|------------|--------|-------|
+| Christ's Literal, Physical Return | ★★ | `Titus 2 pt 2.md`; `phil 2.md`; Bultmann refuted; "completion of his saving work" (Piper) |
+| Millennium — Pan-Millennialist | ★ | Discussed in `Titus 2 pt 2.md` as deliberately non-committal; Matthew 24 futurist leanings; not expounded |
+| Hell — Eternal Conscious Torment | ★★ | `rev 20.md` — graphic, detailed, primary subject; annihilationism not an option |
+| Hell as Self-Chosen Separation | ★★ | `Theology Proper.md` — C.S. Lewis-influenced framing |
+| Heaven as Real and Beyond Imagination | ★★ | `Titus 2 pt 2.md`; 1 Cor 2:9 cited |
+| Intermediate State — Immediate Presence at Death | ★★ | "Today You Will Be With Me" series — primary subject; soul sleep rejected |
+| Final Judgment | ★★ | Romans 14c ("The Judgment Seat That Ends All Judging"); `rev 20.md`; 1 Cor 3 (What Survives the Fire) |
+| Maranatha — Eager Longing for Return | ★★ | `Titus 2 pt 2.md` |
+| Skepticism Toward "Visits to Heaven" | ★★ | `Catching Counterfeits.md` — Malarkey letter endorsed |
+| Bodily Resurrection of the Dead (1 Cor 15) | ★ | Affirmed in Christology context and in Ordo Salutis; but 1 Corinthians 15 has never been expounded as a primary text |
+| New Creation / New Heavens and New Earth | ○ | Romans 8:18-22 is cited in context of the Spirit but the positive vision of new creation (Rev 21-22, Isa 65) has never been the primary preaching subject |
+| Inaugurated Eschatology / Already-Not-Yet | ★ | `Sermon - The Kingdom of God` (BFM series) mentions "already and not yet" (citing Piper) — but this framework has not been developed into a sustained exposition |
+| Israel's Eschatological Future | ★ | Romans 11:25-32 expounded (partial hardening, fullness of Gentiles, "all Israel will be saved") — but whether this implies a future mass conversion or is fulfilled in the church is left unresolved |
+| Resurrection and Ethics (embodied life matters eternally) | ○ | 1 Corinthians 6:19-20 cited in passing; but the connection between bodily resurrection and why what we do *in* our bodies matters eternally — not expounded |
+
+**Branch 8 gap count: 4 gaps (★: Bodily resurrection 1 Cor 15, Inaugurated eschatology, Israel's eschatological future, Millennium) + 2 serious gaps (○: New Creation, Resurrection and embodied ethics) — Eschatology is the most underdeveloped major branch**
+
+---
+
+### Branch 9: Ethics and Christian Life
+
+| Sub-Branch | Rating | Basis |
+|------------|--------|-------|
+| Sanctification / Mortification (Owen) | ★★ | Romans 6; Romans 8; "slight thoughts of sin" quote throughout |
+| Love as Law-Fulfillment | ★★ | Romans 13b "The Debt You Can Never Repay" — primary |
+| Liberty of Conscience in Disputable Matters | ★★ | Romans 14 four-sermon series — thorough |
+| Lord's Day / Rest | ★★ | Dedicated sermon from Romans 14 and Galatians 4 |
+| Suffering as Refining, Not Punishment | ★★ | Hebrews 12; Philippians 3 2025; 1 Thess 3; throughout |
+| Spiritual Warfare as Endurance | ★★ | `1 Sam 28 wicca and the occult`; Gurnall (`The Christian in Complete Armour`) |
+| Sanctity of Life (abortion) | ★★ | `Psalms 139 (abortion).md` — explicit and direct |
+| Political Neutrality of the Pulpit | ★★ | Romans 12 weep; Romans 13; "Jesus wasn't a Republican or Democrat" |
+| Submission to Governing Authority | ★★ | Romans 13 ("Submission Before Sunrise") — primary; Nero context applied |
+| Racial Reconciliation | ★★ | "Weep With Those Who Weep" (July 2016 Dallas shootings); Romans 16 multi-ethnic names; kinism condemned in strongest terms |
+| Sexual Purity | ★★ | `1 Thess 3 "The List I Burned"` — covers lust and purity directly |
+| Care for the Poor / Justice | ★★ | Nehemiah 5 ("The Watching World"); Romans 12 hospitality |
+| Abuse and Marriage | ★ | Romans 12 pt 3 provides a pastoral disclaimer — but the theology of marriage, abuse, and love has never been a primary preaching subject |
+| Anger, Envy, Pride (specific vices) | ★ | Vice lists appear in Romans 1 (21 sins named) and throughout — but individual vices have never been expounded in their own right |
+| Prayer as Spiritual Discipline | ★ | `col 4 - prayer.md` and `PS 91 - Prayer.md` exist in the archive — but neither comes from the primary preaching texts (Lord's Prayer, Philippians 4:6-7 given a sermon on anxiety, not prayer itself) |
+| Fasting | ○ | Referenced in context of Acts 13:1-3 ("The Blank Check") and briefly in "Rejoice Always" — but fasting has never been the primary preaching subject from Matthew 6:16-18, Isaiah 58, or any other text |
+| Scripture Memory and Meditation | ★ | `Psalm 1 - Blessed Is the Man.md` and `1 john 1 memorization.md` touch this — but meditation as a discipline from Psalm 1 or Joshua 1:8 has never been the primary sustained subject |
+| Stewardship / Money / Generosity | ★ | `Malachi 3.md` addresses tithing as one of three issues in a sermon primarily about God's refining fire (Mal 3:1-12); giving is mentioned in several other sermons — but no sermon has stewardship as its primary subject from Matt 6:19-24, 2 Cor 8–9, or 1 Tim 6 |
+| Christian Vocation / Work | ○ | Not addressed. The theology of everyday labor — that work is worship, that vocation flows from creation mandate (Gen 1–2), that all work is done unto the Lord (Col 3:23) — is absent from the corpus |
+| Marriage Theology (comprehensive) | ★ | Marriage is mentioned in context of abuse disclaimer and sexual purity; no sermon has expounded the marriage covenant from Eph 5:22-33 or Gen 2:24 as primary text |
+| Parenting and Family | ★ | Genesis 37 (Jacob's passivity as father) touches this critically; Ephesians 6:1-4 never expounded; no dedicated family theology sermon |
+| Interpersonal Forgiveness | ★ | Matt 18:21-35 (parable of the unforgiving servant) never preached; forgiveness language appears throughout but never as primary subject |
+| Lament as Spiritual Practice | ★ | Weep with Those Who Weep opens the door; Psalm 22 structure analyzed — but the practice of lament (bringing grief honestly to God, Lam 3, Ps 88) has not been taught |
+
+**Branch 9 gap count: 5 gaps (★: Abuse/marriage, specific vices, prayer disciplines, scripture memory, marriage theology, parenting, interpersonal forgiveness, lament) + 3 serious gaps (○: Fasting, Stewardship/money, Christian vocation) — Ethics/Christian Life has the widest spread of underdeveloped sub-branches**
+
+---
+
+### Branch 10: Missiology
+
+| Sub-Branch | Rating | Basis |
+|------------|--------|-------|
+| Great Commission as Every Believer's Mandate | ★★ | `evangelism (romans 15, mt 28, and rev 7).md`; Jeremiah 44 (evangelism as obedience) |
+| Unreached People Groups — Panta Ethne | ★★ | Every Romans sermon includes a specific people group for prayer; IMB/SBC methodology |
+| Missions Strategy — Go Where Gospel Hasn't Gone | ★★ | `Romans 15b`; critique of sending most missionaries to the US |
+| Election Does Not Cancel Evangelism | ★★ | Romans 9 — "at least let them leap to hell over our dead bodies" (Spurgeon) |
+| Persecution / Cost of Missions | ★★ | Korea martyrdom sermon; Nik Ripken stories; Night of Prayer for Persecuted Church |
+| Gospel Contextualization | ★ | Korea, Haiti, Peru, Dominican Republic missions stories — cross-cultural engagement illustrated, but the theology of contextualization never expounded |
+| Church Planting as Missions Strategy | ★ | Mentioned briefly in `Commitment to the church body 1 cor 12.md` — "plant another church in the place of greatest spiritual need" — but never developed |
+| Mercy Ministry / Integral Mission | ★ | Nehemiah 5 (economic justice); but whole-person mercy and diaconal ministry never made the primary preaching subject |
+
+**Branch 10 gap count: 3 gaps (★: Contextualization, Church planting, Mercy ministry) — Missiology is one of the stronger applied branches; gaps are secondary**
+
+---
+
+### Cumulative Gap Summary
+
+| Branch | Sub-Branches Mapped | ★★ Covered | ★ Present | ○ Absent | Total Gaps |
+|--------|--------------------|-----------|-----------|-----------|-----------|
+| 1. Theology Proper | 16 | 10 | 5 | 1 | **6** |
+| 2. Christology | 16 | 11 | 3 | 1 | **4** |
+| 3. Pneumatology | 14 | 12 | 2 | 0 | **2** |
+| 4. Hamartiology | 11 | 10 | 1 | 0 | **1** |
+| 5. Soteriology | 20 | 17 | 3 | 0 | **3** |
+| 6. Ecclesiology | 16 | 12 | 3 | 1 | **4** |
+| 7. Bibliology | 12 | 11 | 1 | 0 | **1** |
+| 8. Eschatology | 14 | 8 | 4 | 2 | **6** |
+| 9. Ethics/Christian Life | 23 | 13 | 8 | 2 | **10** |
+| 10. Missiology | 8 | 5 | 3 | 0 | **3** |
+| **TOTALS** | **150** | **109** | **33** | **7** | **40** |
+
+---
+
+### Serious Gaps by Priority (○ Absent from Corpus)
+
+These 7 sub-branches have received no dedicated exposition anywhere in the repository:
+
+| Priority | Sub-Branch | Why It Matters |
+|----------|------------|----------------|
+| 1 | **New Creation / New Heavens and New Earth** | The congregation knows what they are saved *from*; they have not been shown what they are saved *toward*. The positive eschatological hope of Rev 21-22, Isa 65, and Rom 8:18-22 is absent. |
+| 2 | **Christian Vocation / Work** | Most of the congregation's waking hours are spent working. That labor has no theological framework in this corpus. No creation mandate, no Col 3:23, no category for secular work as worship. |
+| 3 | **Fasting** | Practiced but not taught. Matt 6:16-18, Isa 58, Acts 13:2-3 — zero primary treatments. |
+| 4 | **Resurrection and Embodied Ethics (1 Cor 6)** | Why the body matters eternally — the reason sexual purity, stewardship, and physical suffering all have weight — never connected to the resurrection. |
+| 5 | **Present Intercession of Christ (Heb 7:25)** | The congregation knows Christ died. They do not know he prays for them right now. |
+| 6 | **Church Polity / Elder Structure** | An undetermined position (per theological-map.md Part IV) that has never been addressed from the pulpit. |
+| 7 | **Impassibility / Divine Emotions** | The classical question of how God relates to creaturely suffering and experience — never addressed. Relevant given the pastoral weight of this congregation. |
+
+---
+
+### Gap Concentration by Branch (Ranked)
+
+1. **Ethics / Christian Life** — 10 gaps (widest spread; behavioral and pastoral disciplines)
+2. **Eschatology** — 6 gaps (most serious theological deficiency in a doctrinal branch)
+3. **Theology Proper** — 6 gaps (communicable vs. incommunicable attributes underexposed)
+4. **Christology** — 4 gaps (the living, interceding, active Christ underdeveloped)
+5. **Ecclesiology** — 4 gaps (church discipline and polity)
+6. **Soteriology** — 3 gaps (union with Christ, glorification — the endpoints of redemption)
+7. **Missiology** — 3 gaps (secondary; applied areas)
+8. **Pneumatology** — 2 gaps (Fruit of Spirit)
+9. **Hamartiology** — 1 gap
+10. **Bibliology** — 1 gap
+
+---
+
+### What This Corpus Does Best
+
+The audit confirms what was already visible: this preacher's theological center of gravity is the **forensic and soteriological core** — what God has done in Christ to rescue the utterly sinful and wholly undeserving. Within that center, coverage is deep, repeated, and well-argued. TULIP is not just affirmed but defended. The Ordo Salutis is not just mentioned but mapped. Justification is not just cited but exposited from the text.
+
+The corpus is weaker — and the gaps cluster — in two predictable directions: (1) **what the Christian does in response** (disciplines, stewardship, vocation, family, fasting), and (2) **what God is doing now and will do finally** (Christ's present intercession, inaugurated kingdom, new creation, bodily resurrection). The congregation has been shaped to know the price of salvation. They have less framework for the shape of the life it purchases, or the glory it is aimed toward.
+
+---
+
+*Part IX compiled March 2026. 150 sub-branches audited across 10 theological branches. Ratings derived from systematic cross-reference of theological-map.md and sermon-map.md. All gap claims reflect this repository only — argument from silence; what is taught in other settings not tracked here.*
+
+---
+
 *Last updated: March 2026. Cross-referenced against sermon-map.md (1,043 lines) and theological-map.md (1,018 lines).*
