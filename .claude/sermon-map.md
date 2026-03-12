@@ -186,11 +186,24 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Exodus 5:22-6:13 | Discouragement; asking God why; trusting Him | `ex 6-7.md` | sermon |
 | Exodus 14:1-31 | Red Sea crossing; archaeological context (Nuweiba); sovereignty; the crucible of faith | `Sermon - The Crucible.md` (sources: `Exodus 14.md` complete, `Exodus 14 - red sea.txt` raw dictation, `exodus 14 - red sea.md` cleaned/edited version of the .txt) | sermon |
 
+### Joshua
+
+| Passage | Subject | File | Type |
+|---|---|---|---|
+| Joshua 2; Joshua 6 | An Unlikely Hero — Rahab; prostitute (possibly temple/Baal); Josephus on Rahab's inn; "large uterus" name etymology; Boaz → David → Jesus lineage; faith vs. circumstances; red cord; Jericho walls (17ft above / 9ft below, ~27ft wide); Israelites marched 7 days; wall collapsed except Rahab's section; UNESCO/Rachel's tomb; personal testimony and gospel invitation | `Joshua 2 & 6 - An Unlikely Hero.md` | sermon |
+| Joshua 10 | The Power of God — Jericho/Ai/Gibeonite recap; five Amorite kings; prayer as first step (contrast with Ai and Gibeonite failures); Bunyan prayer quote; magnet illustration (time with God = effectiveness); ABCs of salvation; Joshua defends Gibeonites — "you and I were no better"; Gen 3:15 protoevangelium; Communion | `Joshua 10 - The Power of God.md` | sermon |
+
 ### Numbers
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Numbers 21:5-9 | Bronze serpent in the wilderness; Israel's grumbling; type of Christ lifted up; cross-references 1 Cor 10:9 and John 3:14-21 | `Numbers 21 John 3.md` | sermon |
+
+### Judges
+
+| Passage | Subject | File | Type |
+|---|---|---|---|
+| Judges 11 | Jephthah *(archive version)* — illegitimate birth; God uses the broken; messianic line (Perez, Rahab, Solomon); original sin (Augustinian); Joseph parallel; rash vow; Robert E. Lee high ground; Prov 3:5-6 | `Sermon - Judges 11.md` | sermon |
 
 ### 1 Samuel
 
@@ -237,6 +250,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Nehemiah 2:9-19; Rom 8:29-30 | City in Ruins | `Nehemiah 2 - City in Ruins.md` | ⚠️ Midwest manure fire illustration (unverified news story, no source); Dung Gate connection; Ground Zero 2004 visit (cross in rubble, flag behind it); Nehemiah's night survey; life in ruins without Christ (pride, greed, lust); 1 John 2:15-17; "sinners stink to God" — fragrant offering inference (2 Cor 2:15-16, Eph 5:2, Phil 4:18); Ordo Salutis introduced (Rom 8:29-30); foreknowledge (classical view, omniscience); ⚠️ Augustine quote on foreknowledge (unverified exact source — possibly *De Libero Arbitrio* or *City of God* V); butterfly effect analogy; Rom 5:8, 1 Pet 3:18, Rom 6:23; Communion (Matt 26:26-28); multiple corrections from raw draft (Hanani not brother-in-law; survey one night not three days; four months Kislev→Nisan not two; ESV corrected from KJV/NASB) |
 | Nehemiah 2 (companion) | Corporate prayer guide — ACTS structure; adoration (omniscience, provision, protection, salvation); confession (drugs/alcohol, sexual sin, gender identity, occult); thanksgiving (God's faithfulness, sister's boyfriend being drawn to the Lord); intercession (location/building, food pantry, laborers for harvest, nation and leaders, Dave Gerner, Kenny Duffield) | `neh 2 prayer guide.md` | prayer guide |
 | Nehemiah 4 | Dealing with Criticism; constructive vs. destructive criticism; Sanballat/Tobiah mockery; fox/jackal (*shu'al*); imprecatory prayer; Ordo Salutis — conformation; Eph 2; Rom 6:23; Rev 3:20; Rom 10:9 | `nehemiah 4 - dealing with criticism.md` | sermon |
+| Nehemiah 4 | Divided Attentions — sword in one hand, trowel in the other; salt and light (not sugar and light); oatmeal/brown sugar illustration; church busyness without movement toward Jesus; syncretism (Catholic 1700s origin, "with Crete"); compromise on Scripture | `Nehemiah 4 - Divided Attentions.md` | sermon |
 | Nehemiah 5 | Predatory loans and righteous anger | `neh 5.md` / `neh 5(2).md` | sermon |
 | Nehemiah 6:1-9 | Stand Up for Jesus — Enemy Attacks and Spiritual Warfare | `Neh 6.md` | sermon — Ono as temptation (city name means vigorous wealth one step from wickedness; "Ono resort and conference center" from unnamed favorite preacher; cruise analogy after hard work); three enemy motives (sack city / murder Nehemiah / frame Nehemiah for rebellion); open letter as smear campaign — heads-of-state protocol context; political survey illustration (G.W. Bush axe murderer question; respondents believe rumor); Clinton/Lewinsky and Bill Cosby news cycle analogy; Cyril Barber's three attack vectors tied to Trinity (Father/sense of belonging; Son/value and worth; Holy Spirit/empowerment — doing things *for* God vs. *with* God); Mt 10:28-31 (sparrows and fear); Mt 6:26 (birds and value); Lk (sparrows bought 3 get 1 free — not one forgotten); Jn 3:16; "If our enemy can't make you bad, he will make you busy"; dying preacher / corn shelling machine — "tell them to stand up for Jesus"; hymn "Stand Up for Jesus" by George Duffield Jr. (all four stanzas); Communion (1 Cor 11:24-26 KJV) |
 | Nehemiah 7 | Gatekeepers, faithfulness, and genealogy | `Neh 7.md` | sermon |
@@ -248,6 +262,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Job 1:1 | The character of Job and fearing God rightly | `job 1.md` | sermon |
+| Job 42 | What We Think About God — Tozer *Knowledge of the Holy* opening sentence ("What comes into our minds when we think about God is the most important thing about us"); congregation response exercise; beliefs about God reveal trajectory of life; God's anger at wrong theology (Job 42); practical reasons to believe right things about God | `Job 42 - What We Think About God.md` | sermon |
 
 ### Psalms
 
@@ -380,6 +395,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Luke 4:1-13 | Christ's temptation; resisting sin at weak moments | `Luke 4.md` | sermon |
 | Luke 8 | Calming the storm; trusting God in storms | `Luke 8.md` | sermon |
 | Luke 9:57-62 | Cost of following Christ vs prosperity gospel | `Luke 9 - cost of following christ.md` | sermon |
+| Luke 10:25-37 | Good Samaritan in the context of salvation, not mere morality; VBS tie-in; Deut 6:5 and Lev 19:18 as summary of the Law; 10/40 window and Bhat people of India; the question is not "be kind" but "how to be saved"; parable answered to a lawyer testing Jesus | `Luke 10 - Good Samaritan.md` | sermon |
 | Luke 10:38-42 | Mary and Martha; prioritizing time with God | `Good morning.md` | sermon |
 | Luke 14 | Parable of the Great Banquet; rejecting God's invitation | `Luke 14.md` | sermon |
 | Luke 15:1ff, 11ff | Prodigal Son; three parables: lost sheep, lost coin, lost son (sections I-III); elder brother represents scribes and Pharisees (line 26: "sins of the spirit as well as sins of the flesh," 2 Cor 7:1); elder brother's "hidden agenda" (line 28); father runs to meet son (Eastern cultural context, Deut 21:18-21, line 21); Wiersbe *Expository Outlines* pp.182-184 (source for outline); Mark Allan Powell *What Do They Hear?* cross-cultural reading comparison (Western = reform, Russian = recovery, Tanzanian = contrast); Greek notes on *dieilen* and *erēmos*; carob tree Hebrew "life tree" note | `Luke 15 - Prodigal Son.txt` | sermon |
@@ -391,16 +407,20 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| John 1:1-5 | The Logos; *en archē* (no article — "in any beginning"); John answering Genesis 1:1 for a Greek audience; Greek philosophical search for the real God behind the pantheon; six blind elephants illustration | `John 1.md` | sermon (raw notes) |
 | John 3:13-21 | Bronze serpent typology; "look and live"; John Newton quote; light vs. darkness; gospel invitation; cross-references Num 21:5-9 and 1 Cor 10:9 | `Numbers 21 John 3.md` | sermon |
 | John 3:16 | Christian marriage reflecting Christ and the church | `Grannys Wedding jn 316.md` | personal (wedding) |
+| John 4:7-26 | Woman at the Well; crossing social barriers (Samaritan, woman, outcast); betrothal type-scene (Isaac/Rebekah, Jacob/Rachel, Moses/Zipporah); God-shaped hole (Augustine, C.S. Lewis, Audio Adrenaline); five husbands / five foreign gods parallel (2 Kings 17, Calvin); Muhamasheen people group of Yemen; Pastor Coates arrest in Canada re: government and church | `John 4 - Woman at the Well.md` | sermon |
 | John 5 / John 6:29-60 | Irresistible grace and God's sovereign election | `John 5.md` | sermon |
 | John 6:43-65 | Salvation by grace alone | `sola gracia.md` / `sola gracia 2021.md` | sermon |
 | John 10:7-11 | The wicket gate; gospel; Pilgrim's Progress | `John 10.md` | sermon |
 | John 10:11, 17-18 | Thankfulness and Christ's sacrificial love | `jn 10.md` | sermon |
+| John 10:1-30 | The Good Shepherd; three-part structure (illustration, explanation, application); communal sheep pen and the porter; hired hand vs. owner; sheep illustrations from personal flock (Hope, Sir Loin, Anna, Frazzle, Sugar); "other sheep" = Gentiles; eternal security | `John 10 - The Good Shepherd.md` | sermon |
 | John 10:25-30; 6:37-65 | Perseverance and preservation of the saints | `Eternal Security.md` | teaching |
 | John 11:1-16 | Trusting God through silence and unanswered prayers | `Fifteen.md` | study |
 | John 11:30-44 | Memorial for Jean; Jesus weeps and raises Lazarus | `We are gathered here today to celebrate the memory of Jean.md` | memorial |
 | John 12 | Mary's devotion vs Judas's selfishness | `John 12.md` | sermon |
+| John 13:1-17 | He Washed Their Feet — Christ washing us clean at salvation (2 Cor 5:17, 21; Rom 6:23); the Word keeps us clean; children's sermon callback (colored water cleared by one drop); continuation of John 13 series | `John 13 - He Washed Their Feet (raw notes).md` | sermon (raw notes) |
 | John 14:1-7 | Christ as the only way to salvation | `John 14 - exclusivity of the gospel..md` | sermon |
 | John 14:1-7 | Memorial service for Chuck Weis | `Chuck Weis Memorial 2024.md` | memorial |
 
@@ -481,6 +501,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Philippians 1:1-3 | Paul's response to persecution; Nero's Rome; grace and peace; doulos | `Sermon - Grace and Peace.md` | sermon (outline) |
+| Philippians 1:12-14, 27-29 | New Year's 2017; suffering as gift (*charisthomai* — freely given + joyously); rough year retrospective; cocoon/butterfly and astronaut muscle-loss illustrations; "Is Jesus worth it" (*Insanity of God* film); manner of life worthy of the gospel; gospel appointments in hardship | `Phil 1 - New Years 2017.md` | sermon |
 | Philippians 1:27-2:16 | Manner of life worthy of the gospel | `phil 2.md` | sermon |
 | Philippians 3:1 | Rejoicing and God's sovereignty | `Philippians 3 - 2025.md` | sermon |
 | Philippians 3:1-12 | Sola Gratia; Paul's résumé as refuse; Luther; indulgences; BFM Article V; total depravity; Ephesians 2 summary; John 6:44, 65; Jonathan Edwards and Billy Sunday quotes; James Petigru Boyce [attribution flagged] | `sola gracia phil 3.md` | sermon |
@@ -543,6 +564,12 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Hebrews 3:12-4:16 | Rest in the Lord and accountability | `Sermon - Rest in the Lord.md` / `Heb 3.md` | sermon |
 | Hebrews 11:1 / 1 John 4:18 | Fear as opposite of love; trusting God | `heb 11 - fear.md` | sermon |
 | Hebrews 12:3-17 | God's discipline as training and refining | `Heb 12.md` | sermon |
+
+### James
+
+| Passage | Subject | File | Type |
+|---|---|---|---|
+| James 1:1-4 | Bondservants in the Crucible; δοῦλος (*doulos*) — slave, not just servant; identity vs. activity; Hurricane Idalia; BFM Article III (Man); testing produces steadfastness; caterpillar/cocoon illustration; servant is who James *is*, not what he *does*; 1 Cor 6:20 purchase language | `James 1 - Bondservants in the Crucible.md` | sermon (raw notes) |
 
 ### 1 Peter
 
@@ -615,6 +642,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Barbara | Psalm 23 | `Psalm 23.md` (archive) |
 | Chuck Weis | John 14:1-7 | `Chuck Weis Memorial 2024.md` |
 | Jean | John 11:30-44 | `We are gathered here today to celebrate the memory of Jean.md` |
+| Kim | Psalm 23 | `Service - Kim's Funeral (Psalm 23).md` |
 | Kurt | 2 Corinthians 5:1-10 | `Kurt was a man I loved dearly.md` |
 
 ---
@@ -667,6 +695,7 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 | `A Journey in Grace ch 17-19.md` | Alternate version of *A Journey in Grace* Chapters 17-19 study; different subtitle ("Sovereignty Without Pride, Zeal Without Extremes" vs root file's "Providence, Justice, and Grace Under Fire"); 267 lines vs 224 in root version; covers same chapters but distinct treatment — NOT a copy | bible study |
 | `Notes - 2 Corinthians 5-15 Rebuttal (Calvinism Objection).md` | Rebuttal to Calvinism objection from 2 Corinthians 5:15; theological argumentation | notes |
 | `Notes - Empire and Suppression (Romans 1 Book Revision).md` | Research notes on empire and suppression for Romans 1 book revision | notes |
+| `Notes - Missions Bibliography (25 Books for Local Church).md` | Twenty-five annotated bibliography entries for teaching missions in the local church; dual-purpose books prioritized (foreign + domestic); entries include Greenway *Guidelines for Urban Church Planting* (1976), Snyder *The Problem of Wineskins* (1975), Richardson *Peace Child* (1974), Miller *A Christian's Response to Islam* (1976), and 21 others | bibliography |
 | `Notes - Missional Helix (Church Planting Strategy).md` | Church planting strategy; missional helix model | notes |
 | `Notes - There and Back Again.md` | Research notes; pastoral or theological reflection | notes |
 | `Sunday School - Cessationism and Prevenient Grace.md` | Cessation of sign gifts; prevenient grace critique; eternal security; soft cessationism; part of Tozer Pursuit of God series | sunday school |
