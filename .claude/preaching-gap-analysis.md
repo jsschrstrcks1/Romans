@@ -292,8 +292,8 @@ Ranked by theological weight and pastoral relevance to this congregation.
 For completeness — areas where no additional preaching is urgently needed.
 
 - **Romans 1–16** — Complete and polished. Series finale.
-- **Nehemiah** — 8-sermon arc, the strongest non-Romans sustained series.
-- **Psalms** — 54 psalms touched, deep and varied.
+- **Nehemiah** — Chapters 1–8 and 13 covered across 10+ sermons and studies; the strongest non-Romans sustained series.
+- **Psalms** — 51 Psalm entries in the sermon map, deep and varied.
 - **1 Peter** — Multiple sermons, thorough sustained coverage.
 - **James** — Well-covered in the archive.
 - **2 Timothy** — Multiple sermons including an exegetical paper.
@@ -303,6 +303,65 @@ For completeness — areas where no additional preaching is urgently needed.
 - **Election and Sovereignty** — No gap; probably the single most-preached theme in the corpus.
 - **Christian Liberty** — Romans 14 four-part series is excellent; no gap.
 - **False Teaching / Counterfeits** — Multiple sermons on cults, cessationism, NAR, Catholicism.
+
+---
+
+## Part VI: Books Never Preached From
+
+*Verified against sermon-map.md. These books have no primary preaching text in the entire corpus — primary or archive. Cross-references, passing mentions, and quotations in other sermons do not count.*
+
+---
+
+### Old Testament — 19 Books
+
+| Book | Notes |
+|------|-------|
+| **Leviticus** | No dedicated sermons. Atonement typology (Day of Atonement, Lev 16) is a significant absence for a corpus so focused on propitiation. |
+| **Deuteronomy** | Cited throughout the corpus but never the primary text. Contains the *Shema* (Deut 6), covenant renewals, blessings/curses. |
+| **Ruth** | Completely absent. The kinsman-redeemer (*go'el*) is one of the most direct Christ-types in the OT. |
+| **2 Samuel** | David's entire reign — including the Davidic covenant (2 Sam 7) and Nathan's rebuke of David (2 Sam 11–12) — is unpreached despite heavy use of Psalms written in that period. |
+| **1 Chronicles** | No dedicated sermons. |
+| **Esther** | Mentioned in passing in one Nehemiah 2 note ("possibly Esther or descendant of Esther"). Never a primary text. |
+| **Song of Solomon** | Entirely absent. No treatment of marital love, human sexuality under God's design, or the bride-and-bridegroom typology. |
+| **Lamentations** | No dedicated sermons. The biblical model for grief is unpreached. |
+| **Daniel** | No dedicated sermons. Faithfulness under empire (Dan 1–6) is directly relevant to a congregation navigating cultural displacement. |
+| **Hosea** | Appears only as a corrected cross-reference in Romans 9 (Hos 2:23 / Hos 1:10). Never a primary text. |
+| **Joel** | No dedicated sermons. Joel 2:28–32 (Spirit poured out) is quoted in Acts 2 and Romans 10 but the book itself has never been preached. |
+| **Amos** | No dedicated sermons. |
+| **Obadiah** | No dedicated sermons. |
+| **Micah** | Appears only as a cross-reference in Judges 1–2 notes (Mic 7:2-4). Never a primary text. |
+| **Nahum** | No dedicated sermons. |
+| **Habakkuk** | Hab 2:4 ("the righteous shall live by his faith") is cited in the Romans 1 sermon — but Habakkuk itself has never been the primary preaching text. One of the OT pillars of the entire series; the book remains unpreached. |
+| **Zephaniah** | No dedicated sermons. Zeph 3:17 ("he will rejoice over you with singing") — a striking portrait of God's delight — unpreached. |
+| **Haggai** | No dedicated sermons. |
+| **Zechariah** | No dedicated sermons. Despite Zech 9:9, 11:12-13, and 12:10 being extensively quoted in the NT and used in the Romans series, the book itself has never been preached. |
+
+---
+
+### New Testament — 5 Books
+
+| Book | Notes |
+|------|-------|
+| **2 Thessalonians** | No dedicated sermons. |
+| **Philemon** | No dedicated sermons. Paul's plea for Onesimus — forgiveness, reconciliation, the social implications of the gospel — is brief and often skipped but theologically rich. |
+| **2 Peter** | Entirely absent. 2 Pet 1:3-11 (making your calling sure) and 2 Pet 3 (patience of God, coming judgment) are natural fits for this corpus. |
+| **2 John** | No dedicated sermons. |
+| **3 John** | No dedicated sermons. |
+
+---
+
+**Total: 24 books of the Bible have never been the primary preaching text in this corpus** (19 OT, 5 NT).
+
+Of those 24, the following carry the most theological and pastoral weight given this preacher's framework and this congregation's needs:
+
+1. **Ruth** — kinsman-redeemer typology
+2. **Daniel** — faithfulness under empire
+3. **Lamentations** — biblical grief
+4. **Habakkuk** — the book that supplies Romans 1:17's OT anchor
+5. **2 Samuel** — Davidic covenant; David's failure and restoration
+6. **Hosea** — God's pursuing love for the unfaithful
+7. **Zechariah** — Messianic prophecy at its most concentrated
+8. **2 Peter** — sanctification and eschatological urgency
 
 ---
 
