@@ -416,17 +416,123 @@ The theological map's own Part IV lists these as positions the corpus does not r
 
 ---
 
-### Summary: The Four Biggest Theological Gaps
+### Part VIII: Significant Gaps Identified in Review
 
-If the goal is the full counsel of God — not just getting doctrine right but preaching *all* of it — these are the four areas where the corpus most noticeably underserves the congregation:
+The following gaps were identified after the initial analysis and deserve their own treatment.
 
-1. **The positive theology of humanity** — *What were we made to be?* Depravity is exhaustively taught. Dignity, design, vocation, embodiment, and beauty as theological categories are almost entirely absent.
+---
 
-2. **Eschatology at depth** — The return of Christ, hell, and heaven are affirmed. But the *shape* of the end — new creation, resurrection body, the millennium, Israel's future — is unpreached. The congregation needs more of the story's ending than they currently have.
+#### 1. The Eschaton — The Shape of the End
 
-3. **Lament as a practice** — The theology of suffering-as-refining is present. What's missing is the *permission to grieve honestly* — to say "Where are you, God?" and have Scripture answer from within that darkness (Job, Lamentations, Psalm 88).
+*Note: The preacher is deliberately agnostic on contested millennial and tribulation models, which is a theologically defensible position. That is not the gap. The gap is in the clear biblical promises that don't require settling any of those debates.*
 
-4. **The covenant framework as a teaching unit** — Every doctrine in the corpus assumes a covenantal storyline, but that storyline has never been explicitly taught. Many in the congregation are reading their Bibles without knowing what it *is* — one covenant drama from Genesis to Revelation.
+What exists in the corpus:
+- **Hell** — preached with urgency and theological precision
+- **Second coming** — affirmed in BFM citation and Titus 2
+- **Heaven as "real"** — asserted against counterfeit claims
+- **Intermediate state** — "absent from the body, present with the Lord" affirmed
+
+What is absent — and which requires no millennial position to preach:
+- **Bodily resurrection of the dead** — 1 Corinthians 15 has never been the primary text in the entire corpus. The resurrection of *the body* — not just the soul — is the Christian hope and is unpreached.
+- **New creation** — Romans 8:18-25 (creation groaning toward its redemption), Isaiah 65-66, Revelation 21-22. The final state is not disembodied spirits in clouds but a renewed physical creation. This has never been expounded.
+- **The glory that outweighs suffering** — Romans 8:18 ("the sufferings of this present time are not worth comparing with the glory that is to be revealed to us") is in the Romans 8 sermons, but its full eschatological weight as the *answer* to a suffering congregation has not been developed.
+
+For a congregation carrying cancer diagnoses, addiction, broken families, and grief, the absence of a full-bodied biblical eschatology is not an academic gap. They are enduring without the complete picture of what they are enduring *toward*. The eschaton is what makes suffering *temporary*. Without it, endurance has no horizon.
+
+**Key texts unpreached as primary**: 1 Corinthians 15, Romans 8:18-25, Isaiah 65-66, Revelation 21-22.
+
+---
+
+#### 2. The Ascension and Session of Christ
+
+The theological map has one entry under "Ascension and Intercession":
+> *"He ascended into heaven and is now exalted at the right hand of God where He is the One Mediator."* — `Theology Proper.md` (BFM citation)
+
+That is the totality of it. It is a confessional affirmation, not an exposition.
+
+What has never been preached:
+- **Christ's current heavenly ministry** — he is not dormant between his resurrection and return. He is reigning (Eph 1:20-23), interceding (Heb 7:25; Rom 8:34), and ruling over all things for the church.
+- **The session at the right hand** — Psalm 110:1, the most-quoted OT verse in the NT, has never been expounded. "Sit at my right hand until I make your enemies a footstool" is the lens through which the apostles understood everything that happened after the resurrection.
+- **Christ's ongoing intercession** — distinct from the Spirit's intercession (well-covered in the Ordo Salutis). Hebrews 7:25 ("he always lives to make intercession for them") and Romans 8:34 ("who is interceding for us") are absent. The congregation knows Christ *died for* them; they have not been taught that Christ *lives for* them right now.
+
+This is not a minor doctrinal detail. It answers the question every suffering person asks: *Where is Jesus now, and is he doing anything?*
+
+---
+
+#### 3. Union with Christ
+
+The phrase "in Christ" appears approximately 160 times in Paul's letters. It is arguably the organizing center of Pauline theology — the ground of justification, the basis of sanctification, the reason for adoption, the logic of the resurrection hope. Every doctrine in this corpus flows from it.
+
+It has never been the subject of a dedicated sermon.
+
+The corpus uses the language constantly:
+- "In Christ Alone" (Romans 4 sermon title)
+- "Identity in Christ / Exile" (subject index heading)
+- "Hidden with Christ in God" (Romans 12 citation)
+
+But *union with Christ as a theological category* — what it means to be *in* him, how it differs from mere forgiveness, why Paul's "with Christ" language is not metaphor but ontological reality — has never been expounded.
+
+The congregation knows Christ died *for* them. They may not know they are *in* him — that his death was their death, his resurrection their resurrection, his life their life. This is the difference between a transactional gospel and a participatory one.
+
+**Key texts unpreached as primary**: Romans 6:1-11, Galatians 2:20, Ephesians 1:3-14 (the "in him" / "in Christ" litany), Colossians 3:3 ("your life is hidden with Christ in God").
+
+---
+
+#### 4. The Kingdom of God — Already and Not Yet
+
+The BFM sermon on the Kingdom (Matthew 13:44) mentions "already and not yet (Piper)" in passing. It is not developed there.
+
+The *inaugurated eschatology* framework — that the kingdom has broken in with Christ's first coming but is not yet fully consummated at his return — is the hermeneutical key to how Christians understand:
+- Why they still suffer despite Christ's victory
+- Why they pray "thy kingdom come" if the King is already enthroned
+- Why the church's mission matters in history
+- What the relationship is between the present age and the age to come
+
+This framework is absent from the preaching program. The congregation has been given the King (extensively) but not the shape of his kingdom — what it is, where it is, how it advances, and what its final arrival looks like.
+
+**Key texts unpreached as primary**: Matthew 12:28, Luke 17:20-21, Romans 8:18-25, 1 Corinthians 15:20-28, Revelation 11:15.
+
+---
+
+#### 5. Repentance as a Discipline
+
+In the ordo salutis. In every gospel invitation. Never the primary subject of a dedicated sermon.
+
+The corpus has the *call* to repentance. It does not have the *theology* of repentance. The congregation does not know from the pulpit what genuine repentance looks like, how it differs from remorse, or what to do when they can't seem to find it.
+
+**2 Corinthians 7:9-10** (godly grief vs. worldly grief — sorrow that leads to repentance vs. sorrow that leads to death) has never been touched. For a congregation with addiction and relapse, this distinction is not academic.
+
+---
+
+#### 6. Fasting
+
+Completely absent from the corpus. Not a single sermon. Matthew 6:16-18 ("*when* you fast" — Jesus assumes the practice), Isaiah 58 (the fast God chooses: loosing bonds of injustice), Acts 13:2-3 (the church fasted before commissioning missionaries). The congregation practices extended prayer. They have never been taught the discipline Jesus assumed alongside prayer and giving.
+
+---
+
+#### 7. Interpersonal Forgiveness
+
+The corpus teaches God's forgiveness extensively. The mechanics of one human forgiving another — what it is, what it isn't, whether it requires reconciliation, how to forgive someone who isn't sorry — have no dedicated treatment.
+
+**Matthew 18:21-35** (Peter's question and the parable of the unforgiving servant) has never been preached. For a congregation with broken families and estrangement as documented burdens, the absence of a theology of human forgiveness is a pastoral gap.
+
+---
+
+### Summary: The Revised Biggest Theological Gaps
+
+1. **The eschaton** — bodily resurrection, new creation, the glory that outweighs suffering. The congregation knows what they are saved *from*. They need to know what they are saved *toward*.
+
+2. **The positive theology of humanity** — depravity is exhaustively taught; dignity, design, vocation, and embodiment as theological categories are almost entirely absent.
+
+3. **Union with Christ** — the organizing center of Pauline theology; assumed throughout, never expounded.
+
+4. **Lament as a practice** — suffering-as-refining is present; the *permission to grieve honestly* from within the darkness is absent.
+
+5. **The ascension and session** — the congregation knows Christ died for them; they have not been taught that he lives and intercedes for them right now.
+
+6. **The covenant framework** — every doctrine assumes a covenantal storyline that has never been explicitly taught as a unit.
+
+7. **The Kingdom / already-not-yet** — the framework that explains why Christians still suffer, why mission matters, and what the church is waiting for.
 
 ---
 
