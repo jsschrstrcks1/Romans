@@ -262,7 +262,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Job 1:1 | The character of Job and fearing God rightly | `job 1.md` | sermon |
-| Job 42 | What We Think About God — Tozer *Knowledge of the Holy* opening sentence ("What comes into our minds when we think about God is the most important thing about us"); congregation response exercise; beliefs about God reveal trajectory of life; God's anger at wrong theology (Job 42); practical reasons to believe right things about God | `Job 42 - What We Think About God.md` | sermon |
+| Job 42 | What We Think About God — Tozer *Knowledge of the Holy* opening sentence ("What comes into our minds when we think about God is the most important thing about us"); congregation response exercise; beliefs about God reveal trajectory of life; God's anger at wrong theology (Job 42:7-9); Eliphaz and the prosperity gospel (Job 4:7-9); detailed apostolic martyrdom walkthrough (James son of Zebedee — Acts 12:2, Peter, Andrew, Thomas/India, Philip, Matthew, Bartholomew, Simon, Matthias, John/Patmos — Rev 1:9); Tertullian "semen est sanguis Christianorum"; if prosperity gospel were true, Jesus was lost too; Gal 1:8 "let him be accursed"; God's judgment as kindness (Jonah/Nineveh callback); Ray Comfort / Living Waters Ten Commandments walkthrough; sheep stall illustration (holy God doesn't let sin in); 1 Cor 6:9-11 "and such were some of you"; Col 3:3; 613 Torah commandments (*taryag mitzvot*); sermon incomplete (gospel placeholder at end) | `Job 42 - What We Think About God.md` | sermon |
 
 ### Psalms
 
@@ -395,7 +395,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Luke 4:1-13 | Christ's temptation; resisting sin at weak moments | `Luke 4.md` | sermon |
 | Luke 8 | Calming the storm; trusting God in storms | `Luke 8.md` | sermon |
 | Luke 9:57-62 | Cost of following Christ vs prosperity gospel | `Luke 9 - cost of following christ.md` | sermon |
-| Luke 10:25-37 | Good Samaritan in the context of salvation, not mere morality; VBS tie-in; Deut 6:5 and Lev 19:18 as summary of the Law; 10/40 window and Bhat people of India; the question is not "be kind" but "how to be saved"; parable answered to a lawyer testing Jesus | `Luke 10 - Good Samaritan.md` | sermon |
+| Luke 10:25-37 | Good Samaritan in the context of salvation, not mere morality; VBS tie-in (kid saved that week); Deut 6:5 and Lev 19:18 as summary of the Law (also Mt 22:37); 10/40 window and Bhat people of India; the question is not "be kind" but "how to be saved"; parable answered to a lawyer testing Jesus; Samaritans as most-hated (John 8 slur: "demon-possessed and a Samaritan"); apart from Christ we are the beaten man — Christ is the true Samaritan who paid our debts and sent the Spirit to nurse us back; priest/Levite = walking past the lost; "how much do you have to hate your friends" (Chris quote); Rom 5:10 closing | `Luke 10 - Good Samaritan.md` | sermon |
 | Luke 10:38-42 | Mary and Martha; prioritizing time with God | `Good morning.md` | sermon |
 | Luke 14 | Parable of the Great Banquet; rejecting God's invitation | `Luke 14.md` | sermon |
 | Luke 15:1ff, 11ff | Prodigal Son; three parables: lost sheep, lost coin, lost son (sections I-III); elder brother represents scribes and Pharisees (line 26: "sins of the spirit as well as sins of the flesh," 2 Cor 7:1); elder brother's "hidden agenda" (line 28); father runs to meet son (Eastern cultural context, Deut 21:18-21, line 21); Wiersbe *Expository Outlines* pp.182-184 (source for outline); Mark Allan Powell *What Do They Hear?* cross-cultural reading comparison (Western = reform, Russian = recovery, Tanzanian = contrast); Greek notes on *dieilen* and *erēmos*; carob tree Hebrew "life tree" note | `Luke 15 - Prodigal Son.txt` | sermon |
@@ -407,10 +407,10 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| John 1:1-5 | The Logos; *en archē* (no article — "in any beginning"); John answering Genesis 1:1 for a Greek audience; Greek philosophical search for the real God behind the pantheon; six blind elephants illustration | `John 1.md` | sermon (raw notes) |
+| John 1:1-18 | The Logos; *en archē* (no article — "in any beginning"); John answering Genesis 1:1 for a Greek audience; Greek philosophical search for the real God behind the pantheon; Logos as "Reason" — rational principle behind reality; NASA nebula app and 4.3M unique sunrises illustration; six blind elephants / John Godfrey Saxe poem callback; "the world missed Him" (1:9-14) — *tetelestai* and fullness of Christ's ministry; cavern darkness illustration (1 Cor 2:14); Eph 2:1-5 "made alive together with Christ"; are you dragging the corpse of your old life over the light?; Einstein's Spinoza's God; communion (1 Cor 11:23-29) | `John 1.md` | sermon (raw notes) |
 | John 3:13-21 | Bronze serpent typology; "look and live"; John Newton quote; light vs. darkness; gospel invitation; cross-references Num 21:5-9 and 1 Cor 10:9 | `Numbers 21 John 3.md` | sermon |
 | John 3:16 | Christian marriage reflecting Christ and the church | `Grannys Wedding jn 316.md` | personal (wedding) |
-| John 4:7-26 | Woman at the Well; crossing social barriers (Samaritan, woman, outcast); betrothal type-scene (Isaac/Rebekah, Jacob/Rachel, Moses/Zipporah); God-shaped hole (Augustine, C.S. Lewis, Audio Adrenaline); five husbands / five foreign gods parallel (2 Kings 17, Calvin); Muhamasheen people group of Yemen; Pastor Coates arrest in Canada re: government and church | `John 4 - Woman at the Well.md` | sermon |
+| John 4:7-26 | Woman at the Well; crossing social barriers (Samaritan, woman, outcast); betrothal type-scene (Isaac/Rebekah, Jacob/Rachel, Moses/Zipporah); God-shaped hole (Augustine, C.S. Lewis, Audio Adrenaline "God Shaped Hole"); five husbands / five foreign gods parallel (2 Kings 17, Calvin); Huffington Post "heal yourself" rebuttal (appendix/dog/feral children analogies); Acts 17:27-28; Eph 2 dead body self-reanimation image; Muhamasheen people group of Yemen; woman's conversion → mission change (sets down water jar); Pastor Coates arrest in Canada — government and church autonomy; closing extended prayer for persecuted pastors | `John 4 - Woman at the Well.md` | sermon |
 | John 5 / John 6:29-60 | Irresistible grace and God's sovereign election | `John 5.md` | sermon |
 | John 6:43-65 | Salvation by grace alone | `sola gracia.md` / `sola gracia 2021.md` | sermon |
 | John 10:7-11 | The wicket gate; gospel; Pilgrim's Progress | `John 10.md` | sermon |
@@ -420,7 +420,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | John 11:1-16 | Trusting God through silence and unanswered prayers | `Fifteen.md` | study |
 | John 11:30-44 | Memorial for Jean; Jesus weeps and raises Lazarus | `We are gathered here today to celebrate the memory of Jean.md` | memorial |
 | John 12 | Mary's devotion vs Judas's selfishness | `John 12.md` | sermon |
-| John 13:1-17 | He Washed Their Feet — Christ washing us clean at salvation (2 Cor 5:17, 21; Rom 6:23); the Word keeps us clean; children's sermon callback (colored water cleared by one drop); continuation of John 13 series | `John 13 - He Washed Their Feet (raw notes).md` | sermon (raw notes) |
+| John 13:1-17 | He Washed Their Feet — Christ washing us clean at salvation (2 Cor 5:17, 21; Rom 6:23); the Word keeps us clean (Heb 4:12); children's sermon callback (colored water cleared by one drop); high priest washing tradition (further out = more washing needed); "not all of you are clean" — Judas in the circle; ~13% genuine believers statistic; pride vs. humility in evangelism; Moses at the burning bush (Ex 4:12) and Jonah's worst sermon; "He knew Judas, He knows you" — church attendance ≠ salvation; "Come Thou Fount" (Robinson 1758) closing; continuation of John 13 series | `John 13 - He Washed Their Feet (raw notes).md` | sermon (raw notes) |
 | John 14:1-7 | Christ as the only way to salvation | `John 14 - exclusivity of the gospel..md` | sermon |
 | John 14:1-7 | Memorial service for Chuck Weis | `Chuck Weis Memorial 2024.md` | memorial |
 
@@ -569,7 +569,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| James 1:1-4 | Bondservants in the Crucible; δοῦλος (*doulos*) — slave, not just servant; identity vs. activity; Hurricane Idalia; BFM Article III (Man); testing produces steadfastness; caterpillar/cocoon illustration; servant is who James *is*, not what he *does*; 1 Cor 6:20 purchase language | `James 1 - Bondservants in the Crucible.md` | sermon (raw notes) |
+| James 1:1-4 | Bondservants in the Crucible; δοῦλος (*doulos*) — slave, not just servant; identity vs. activity; Hurricane Idalia; BFM Article III (Man); Downton Abbey servant illustration; Gal 5:19-21 works of the flesh as mirror; 1 Cor 6:20 purchase language; Marine Corps Crucible (45-mile march, 54 hours); personal testimonies (flood, Grandpa, Guy, Lindsey); nephew afraid of the wind — Christ walking beside us; "He Leadeth Me" hymn (Gilmore 1862, full text); Dottie's leg testimony; ὑπομένω (*hupomeno*) — steadfastness/perseverance; Heb 12:1-3 Christ as model of endurance; Rom 5:3-4 suffering → endurance → character → hope; Noah's ~75-year perseverance; 1 Cor 15:57-58; Isa 40:8, Ps 62:2, Isa 26:4 — God as rock; Mt 7:24-27 house on the rock; armor of God; practical tools for spiritual assault; sermon incomplete (gospel placeholder at end) | `James 1 - Bondservants in the Crucible.md` | sermon (raw notes) |
 
 ### 1 Peter
 
