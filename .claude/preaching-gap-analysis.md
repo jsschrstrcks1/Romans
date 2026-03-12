@@ -852,4 +852,137 @@ The corpus is weaker — and the gaps cluster — in two predictable directions:
 
 ---
 
+---
+
+## Part X: Names of God and Attributes of God
+
+*A focused audit of two sub-areas within Theology Proper that the branch-level audit (Part IX) could not fully resolve. Both the divine names and the divine attributes span incommunicable and communicable categories; the coverage pattern differs significantly between them.*
+
+---
+
+### Section A: Names of God
+
+**Coverage ratings follow Part IX convention: ★★ Covered / ★ Present / ○ Gap**
+
+#### What is covered
+
+| Name / Category | Rating | Primary Source in Corpus |
+|-----------------|--------|--------------------------|
+| **El-Elyon** (God Most High) | ★★ | `Sermon - More Than Love.md` — listed with translation in dedicated names section; BFM Article 2 context |
+| **El-Shaddai** (God Almighty) | ★★ | `Sermon - More Than Love.md`; Theology Proper.md archive |
+| **El-Olam** (Eternal God) | ★★ | `Sermon - More Than Love.md` |
+| **El-Kanna** (God the Jealous) | ★★ | `Sermon - More Than Love.md`; jealousy of God also present in `Sermon - Choose This Day.md` (1 Kings 18) |
+| **Elohim** (God of Strength / Power) | ★★ | `Sermon - More Than Love.md`; `psalms 84 - better is one day.md` (Elohim named and defined) |
+| **Elohay Emet** (God of Truth) | ★★ | `Sermon - More Than Love.md` — expounded directly from Psalm 31:6 ESV |
+| **Yahweh / YHWH** (The Tetragrammaton) | ★★ | `Psalms 96.md` — primary subject: etymology, pronunciation, Tetragrammaton term explained, Masoretes' ritual, how to identify it in English Bible (LORD in small caps) |
+| **Jehovah-Shalom** (The LORD Is Peace) | ★★ | `Judges 6 - Lord Just Once More.md` — named, translated, and connected directly to Eph 2: Christ is our peace |
+| **Compound Jehovah names** (Bara, Chereb, Adon Kol Ha'aretz) | ★ | Listed with translations in `Sermon - More Than Love.md` — not expounded from their narrative contexts |
+| **I AM / *ego eimi*** (John's seven I AM statements) | ★ | Individual statements cited in dozens of sermons (John 14:6 is one of the most-quoted verses in the corpus; John 10:11 in `jn 10.md`; John 6:35 in Thanksgiving Communion) — but never preached as a unit or series |
+
+#### What is absent
+
+| Name | Rating | Notes |
+|------|--------|-------|
+| **Yahweh-Jireh** (The LORD Will Provide, Gen 22:14) | ★ | Listed in `Sermon - More Than Love.md`; Genesis 22 / Razzle the ram is illustrated in Romans 4b — but Yahweh-Jireh as the revealed name at Moriah has not been the primary preaching subject |
+| **Yahweh-Rapha** (The LORD Who Heals, Ex 15:26) | ○ | Not found as a primary subject; Exodus 15 not in corpus |
+| **Yahweh-Nissi** (The LORD My Banner, Ex 17:15) | ○ | Not found; Exodus 17 not in corpus |
+| **Yahweh-Tsidkenu** (The LORD Our Righteousness, Jer 23:6) | ○ | Not found; Jeremiah 23 not in corpus — notable gap given the centrality of imputed righteousness in this preacher's soteriology |
+| **Yahweh-Shammah** (The LORD Is There, Ezek 48:35) | ○ | Not found |
+| **El Roi** (The God Who Sees, Gen 16:13) | ○ | Not found; Hagar's encounter entirely absent |
+| **Adonai** (Lord / Master) | ★ | Used throughout; the theological content of Adonai as title of mastery and submission not expounded |
+| **I AM THAT I AM** (*Ehyeh Asher Ehyeh*, Ex 3:14) | ★ | Referenced in context of Christ's deity and the burning bush — never the primary text of a sermon |
+
+#### Summary: Names of God
+
+The names coverage is better than most gaps in this corpus. `Sermon - More Than Love.md` provides a genuine list-based treatment of the El names and Jehovah compounds in the apologetic context of distinguishing the God of Scripture from false religious conceptions. `Psalms 96.md` gives Yahweh/YHWH its most sustained exposition. `Judges 6` develops Jehovah-Shalom pastorally.
+
+What's missing is not knowledge of the names but **encounter with the names from their narrative contexts** — the moments in Scripture where God reveals a new name *because something has just happened*. Yahweh-Jireh at Moriah. Yahweh-Rapha at the bitter waters. Yahweh-Nissi after the battle with Amalek. El Roi in the desert with Hagar. These are not doctrinal abstractions — they are the record of God's self-disclosure in specific acts of deliverance. The corpus has the names as vocabulary. It does not have the names as encounter.
+
+The seven I AM statements of John (*ego eimi* — "I am the bread of life," "the light of the world," "the door," "the good shepherd," "the resurrection and the life," "the way, the truth, and the life," "the true vine") are individually cited but never preached as a series. Given this preacher's christological depth and expositional method, a series through the I AM statements would be natural and well-suited to the congregation.
+
+---
+
+### Section B: Attributes of God
+
+The classical division distinguishes *incommunicable* attributes (unique to God, not shared with creatures) from *communicable* attributes (present in God perfectly; reflected in creatures derivatively). The coverage pattern differs sharply between them.
+
+---
+
+#### Incommunicable Attributes
+
+| Attribute | Rating | Basis |
+|-----------|--------|-------|
+| **Aseity** (self-existence; God depends on nothing outside himself) | ★ | Tozer quoted in `rev 20.md`: "Were every man on earth to become atheist, it could not affect God in any way." `Sermon - Missionaries or Imposters.md` — Tozer's *Knowledge of the Holy* on God not needing us. Never the primary subject of a sermon. |
+| **Immutability** (God does not change in being, character, or purposes) | ★ | Numbers 23:19 cited in `Sermon - More Than Love.md`; Malachi 3:6 ("I the LORD do not change") cited in `Sermon - Power Encounter.md` and `Sermon - Be a Seawall.md`. Never expounded as the primary text. |
+| **Eternity / Atemporality** (God exists outside time; no beginning or end) | ★ | "There was never a time when Christ was not" (`christology.md`) treats Christ's eternity; El-Olam listed in More Than Love. God's eternity never the primary subject. |
+| **Omniscience** (God knows all things — actual, possible, past, future) | ★ | `mt 6.md` (COVID anxiety sermon) — brief, clear treatment in context of why we should not fear; God knows the number of hairs on your head, varying by thousands in a day. `Romans 1 (2024).md` — nuclear resonance illustration. Never a primary subject. |
+| **Omnipresence** (God is fully present everywhere) | ★ | `mt 6.md` — yocto-measurement illustration: "there is not a yocto of any measurement in all the vastness of the universe that God doesn't occupy." Brief; never a primary subject. |
+| **Omnipotence** (God can do all things consistent with his nature) | ★★ | `Psalm 68 - Nothing Too Hard for God.md` — primary subject; `mt 6.md` — Job 38 cited; pulsar illustration (a star so large it would take 1,000 years to circle at the speed of light). Best-covered incommunicable attribute in the corpus. |
+| **Sovereignty** (God governs all things according to his will) | ★★ | The single most developed attribute in the entire corpus. Romans 9 trilogy; Genesis 37–39 Joseph series; throughout. This is where the corpus is strongest. |
+| **Simplicity** (God is not composed of parts; he does not have attributes as additions to his being — he *is* each attribute) | ○ | Not addressed anywhere in the corpus. The classical doctrine that God is not a being who *has* holiness and *has* love but who *is* holy and *is* love — never taught. |
+| **Infinity** (God is unlimited in every perfection) | ★ | Present in the hell sermons ("infinite crime deserving infinite punishment," `Romans 3 - wrath of God (final).md`) — but infinity as a divine attribute itself never the primary subject. |
+| **Spirituality** (God is spirit; not material or physical) | ★ | Affirmed in BFM citation; never expounded as a primary subject. |
+| **Unity / Uniqueness** (there is only one God; God is not divided against himself) | ★★ | `Sermon - More Than Love.md`; counterfeit religion series. Nicene monotheism explicitly taught. |
+| **Impassibility** (God is not subject to external emotional change; his "emotions" are not like human passions) | ○ | Not addressed. Wrath is treated as holy revulsion (which is consistent with classical impassibility) — but the doctrine itself, and the question of how God's wrath and love relate without contradiction, is never the primary subject. |
+
+---
+
+#### Communicable Attributes
+
+| Attribute | Rating | Basis |
+|-----------|--------|-------|
+| **Holiness** (God is set apart from all evil; morally perfect) | ★★ | The governing attribute throughout the corpus. Romans 1–3 series. R.C. Sproul's holiness-first theology named as a primary influence. Repeated in almost every sermon. |
+| **Love** (God's self-giving, costly, covenant-keeping love) | ★★ | Romans 5 — primary; "God's love is not soft and permissive." Love never pitted against holiness. Multiple sermons. |
+| **Wrath** (God's holy revulsion against sin) | ★★ | Dedicated 2-sermon series on Romans 3; A.W. Pink's definition named and expounded. Best-preached communicable attribute after holiness and sovereignty. |
+| **Mercy** (God does not give us what we deserve) | ★★ | Sola Gratia series; Romans 4–5; throughout. |
+| **Grace** (God gives us what we do not deserve) | ★★ | Central to every sermon on salvation; Sola Gratia series; "grace is a cheetah." |
+| **Justice / Righteousness** (God always acts in perfect conformity with his own righteous character) | ★★ | Romans 3; `rev 20.md`; hell as just punishment. |
+| **Faithfulness / *Hesed*** (God keeps his covenant promises; his steadfast love endures) | ★★ | `Psalm 103 - Bless the Lord O My Soul.md`; `2 Chronicles 15 - The Hand That Won't Let Go.md`; Romans 11:29 ("the gifts and calling of God are irrevocable"). |
+| **Goodness** (God is benevolent; he does good to his creatures) | ★★ | `Psalm 145 - Good to All.md` — primary subject; Psalm 84 ("no good thing does he withhold"). |
+| **Wisdom** (God always chooses the best ends by the best means) | ★ | Romans 11:33-36 doxology expounded at the close of Romans 11 pt 2 ("Oh the depth of the riches and wisdom…"); `Sermon - The Kingdom of God` cites Tozer on wisdom. Never the primary subject of a sermon. |
+| **Truth / Veracity** (God is truth; he cannot lie or deceive) | ★ | Numbers 23:19 cited in `Sermon - More Than Love.md`; Elohay Emet expounded briefly from Psalm 31:6. Never a primary subject. |
+| **Patience / Long-suffering** (God withholds judgment; bears long with sinners) | ★ | Romans 2:4 ("God's kindness is meant to lead you to repentance") cited; never the primary subject. |
+| **Jealousy / Zeal** (God will not share his glory with another; he pursues his people) | ★ | `Sermon - Choose This Day.md` (1 Kings 18 — Elijah vs. Baal); El-Kanna listed in More Than Love; Romans 11:14 ("arouse holy jealousy"). Never the primary preaching subject. |
+| **Transcendence** (God is above and beyond creation; wholly other) | ★★ | Job 38 cited in `mt 6.md`; Romans 11:33-36 doxology; Isa 40 imagery throughout. |
+| **Immanence** (God is near; he acts within creation and history) | ★ | Present throughout but never the primary preaching subject as a distinct attribute. |
+| **Beauty / Glory** | ★ | God's glory is referenced constantly but never treated as a primary subject in its own right — what it means that God is beautiful, that his glory is the weight and radiance of all that he is. |
+
+---
+
+### Section C: The Pattern
+
+Two things are visible when the names and attributes are laid side by side:
+
+**1. Soteriological attributes dominate; classical attributes are thin.**
+
+Every attribute that feeds directly into the doctrine of salvation — holiness, wrath, love, mercy, grace, justice, sovereignty — is covered well, some exhaustively. Every attribute that describes God as he is *in himself*, independent of his saving acts — aseity, simplicity, immutability, impassibility, infinity — is present at best, absent at worst. The corpus is shaped by soteriology, and it shows.
+
+**2. Tozer is on the shelf but not in the pulpit.**
+
+*The Knowledge of the Holy* is cited approvingly in at least five sermons. The congregation has been pointed toward Tozer's attribute-by-attribute treatment of God. But those attributes have not been preached systematically from Scripture. The book is recommended; the content it covers is not taught.
+
+**3. Exodus 34:6-7 is the most concentrated divine self-disclosure in Scripture.**
+
+> "The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin, but who will by no means clear the guilty…"
+
+This text — which the rabbis called the *Thirteen Attributes*, which echoes through Nehemiah 9, Psalms 86 and 103, Jonah 4, Joel 2, and Micah 7 — appears in the corpus only as a supporting citation in Psalm 145 and Romans 2. It has never been the primary preaching text of a sermon. For a preacher whose theology is built on the convergence of God's holiness and God's love at the cross, this passage is a natural home base that has not yet been occupied.
+
+---
+
+### Serious Gaps: Names and Attributes
+
+| Gap | Why It Matters |
+|-----|----------------|
+| **Narrative covenant names** (Yahweh-Rapha, Yahweh-Nissi, El Roi, Yahweh-Tsidkenu) | These names are not vocabulary items — they are the record of God acting in history and then naming himself after what he did. Yahweh-Tsidkenu in particular (Jer 23:6) is the name that ties the LORD's righteousness directly to justification — a central doctrine in this corpus with no corresponding name-sermon. |
+| **Seven I AM statements of John** | Each one is a self-identification by Christ using the divine name (*ego eimi*) plus a metaphor drawn from Israel's story. Preaching them as a series would be both christologically rich and pastorally grounding. |
+| **Divine simplicity** | Not a dry scholastic category — it is the doctrine that God does not have a dark side, that his love and his wrath are not in tension, that he is not partly holy and partly loving but entirely holy *and* entirely loving in every act. For a congregation that has heard extensively about the apparent tension between God's love and God's wrath, this is the doctrine that resolves it. |
+| **Immutability as its own sermon** | Frequently implied but never preached. The congregation that lives in constant anxiety about change — jobs, bodies, relationships, culture — has not been directly told from Scripture that the one who holds them does not change. |
+| **Exodus 34:6-7 as a primary text** | The passage that grounds every biblical attribute in a single divine self-disclosure. The fullest answer to "what is God like?" that Scripture gives in one place. Absent from the primary preaching texts. |
+
+---
+
+*Part X compiled March 2026. Verified against sermon-map.md, theological-map.md, and direct file reads of `Sermon - More Than Love.md`, `Psalms 96.md`, `Judges 6 - Lord Just Once More.md`, `mt 6.md`, `Psalm 145 - Good to All.md`, `rev 20.md`, and `Sermon - Missionaries or Imposters.md`. All gap claims reflect this repository only.*
+
+---
+
 *Last updated: March 2026. Cross-referenced against sermon-map.md (1,043 lines) and theological-map.md (1,018 lines).*
