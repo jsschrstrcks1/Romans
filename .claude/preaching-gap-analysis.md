@@ -365,4 +365,69 @@ Of those 24, the following carry the most theological and pastoral weight given 
 
 ---
 
+## Part VII: Theological Topics with the Least Coverage
+
+*Derived from theological-map.md. Sections are assessed by depth and number of entries, not just presence. A doctrine may be affirmed and still be underdeveloped as a preaching topic.*
+
+---
+
+### Tier 1 — Explicitly Underdetermined (theological-map.md flags these itself)
+
+The theological map's own Part IV lists these as positions the corpus does not resolve:
+
+| Topic | What's Present | What's Missing |
+|-------|---------------|----------------|
+| **Millennium** | Pan-millennial stated; futurist leanings noted | No commitment to pre-, post-, or amillennialism; rapture study paper is incomplete |
+| **Covenant theology framework** | 1689 LBCF confessional subscription; New Covenant affirmed | The covenantal architecture (Abrahamic → Mosaic → Davidic → New) has never been explicitly taught as a system |
+| **Israel and the church** | Remnant, grafted-in Gentiles, future hope taught in Romans 9–11 | Whether "all Israel saved" = ethnic mass conversion or church fulfillment is unresolved |
+| **Divorce and remarriage** | Abuse victims counseled to seek safety | No full theology of divorce, remarriage, or grounds for dissolution |
+| **Church polity beyond congregationalism** | Congregational governance, regenerate membership affirmed | Elder-led vs. single-pastor vs. plurality of elders: never explicitly mapped |
+| **Creation / age of the earth** | Young-earth sympathies ("five to ten thousand years"), Gap Theory rejected | No sustained engagement with the creation/evolution debate, radiometric dating, or framework hypothesis |
+
+---
+
+### Tier 2 — Present but Thin (affirmed in the map, rarely preached)
+
+| Topic | Depth in Map | Why It Matters |
+|-------|-------------|----------------|
+| **Eschatology broadly** | Hell and heaven strong; second coming affirmed; but resurrection body, new creation, and final state are only surface-level | The congregation lives under real suffering — they need more than "heaven is real"; they need what it *is* |
+| **Imago Dei / Theological anthropology (positive)** | Sin side (total depravity) is the corpus's most-preached doctrine. The *positive* side — what humans were made to be, beauty, dignity, design, embodiment — has almost no treatment | Depravity without dignity produces despair without hope of restoration |
+| **Pneumatology — Fruit and gifts** | Spirit's role in regeneration, sealing, and conviction is well-covered. Cessationism affirmed. | The *fruit* of the Spirit (Gal 5:22-23) has never been the primary preaching text. Practical Spirit-empowered life is underdeveloped. |
+| **Spiritual disciplines** | Mortification (sin-killing) is very strong. Prayer is referenced. | Fasting, solitude, Scripture memory, corporate worship as discipline — no dedicated treatment |
+| **Marriage and human sexuality** | One line on abuse (Romans 12 sermon). Complementarianism affirmed. | No positive theology of marriage, covenant love, physical intimacy, gender design, or sexual ethics for singles |
+| **Theology of work and vocation** | God's sovereignty over all things affirmed | No teaching on work as worship, calling in secular life, Monday-Friday discipleship, rest, or Sabbath theology |
+| **Lament as spiritual discipline** | Suffering as refining is taught. God's discipline explained. | The *practice* of lament — how to grieve honestly before God — has no dedicated treatment. Lamentations, Psalm 88, and Job 38–42 are all absent. |
+| **Stewardship and money** | Missions giving referenced. 2 Corinthians 8–9 touched. | No dedicated sermon on money as a spiritual issue, generosity as worship, or the theology of enough |
+| **Prayer as theology** | Nehemiah 1–2 and Colossians 4 cover prayer in context | No systematic theology of prayer: its basis, its mechanics, why God answers (or doesn't), unanswered prayer |
+| **Covenant theology as a teaching unit** | New covenant affirmed throughout | No standalone preaching unit connecting the covenants and showing the believer's place in the storyline of Scripture |
+
+---
+
+### Tier 3 — Nearly Absent (one or two passing references only)
+
+| Topic | Status |
+|-------|--------|
+| **Creation theology** — goodness of the material world, embodiment, rest, beauty as theological category | Affirmed in Gen 1-2 sermon but never developed |
+| **Suffering and theodicy at full depth** | Job 1 preached; Job 38–42 (God's answer to Job) never preached |
+| **Biblical theology of justice** | Weeping with those who weep (Romans 12) is one sermon; Amos, Micah, and Isaiah's justice passages untouched |
+| **The theology of the body / resurrection body** | Bodily resurrection affirmed; 1 Corinthians 15 never the primary text |
+| **Spiritual warfare (practical)** | Eph 6:12 cited once as a cross-reference; the armor of God never preached as primary text |
+| **Assurance for the doubting believer** | Assurance is taught doctrinally; no pastoral sermon aimed specifically at those who struggle to *feel* assured |
+
+---
+
+### Summary: The Four Biggest Theological Gaps
+
+If the goal is the full counsel of God — not just getting doctrine right but preaching *all* of it — these are the four areas where the corpus most noticeably underserves the congregation:
+
+1. **The positive theology of humanity** — *What were we made to be?* Depravity is exhaustively taught. Dignity, design, vocation, embodiment, and beauty as theological categories are almost entirely absent.
+
+2. **Eschatology at depth** — The return of Christ, hell, and heaven are affirmed. But the *shape* of the end — new creation, resurrection body, the millennium, Israel's future — is unpreached. The congregation needs more of the story's ending than they currently have.
+
+3. **Lament as a practice** — The theology of suffering-as-refining is present. What's missing is the *permission to grieve honestly* — to say "Where are you, God?" and have Scripture answer from within that darkness (Job, Lamentations, Psalm 88).
+
+4. **The covenant framework as a teaching unit** — Every doctrine in the corpus assumes a covenantal storyline, but that storyline has never been explicitly taught. Many in the congregation are reading their Bibles without knowing what it *is* — one covenant drama from Genesis to Revelation.
+
+---
+
 *Last updated: March 2026. Cross-referenced against sermon-map.md (1,043 lines) and theological-map.md (1,018 lines).*
