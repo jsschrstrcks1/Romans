@@ -3,9 +3,9 @@
 
 ---
 
-I heard a statistic recently, and every time I hear it I'm floored. Nik Ripkin was citing research done by a division of LifeWay — the people who study the church — and he said that ninety percent of all believers in the United States, even those born and raised in the church, will never share the gospel before they are buried by the church.
+I heard a statistic recently, and every time I hear it I'm floored. Nik Ripkin was citing research done by LifeWay — the people who study the church — and he said that the majority of believers in the United States, even those born and raised in the church, will never share the gospel before they are buried by the church.
 
-[*Editorial note: The 90% statistic is attributed to LifeWay Research, as cited by Nik Ripkin. Verify the specific figure and report before preaching. LifeWay Research does produce evangelism data. If the exact figure differs, use the accurate one — the point stands regardless.*]
+[*Editorial note: The original figure the pastor cited was 90%, but LifeWay Research's verified 2012 study found that 61% of U.S. churchgoers had not shared the gospel with anyone in the prior six months. No source was found linking Ripken to a 90% figure. The manuscript has been adjusted to "the majority" — accurate and defensible. If the pastor has a specific Ripken recording or transcript with the 90% figure, that source should be reviewed before using the larger number from the pulpit.*]
 
 Born and raised in the church. Went to Sunday school. Sang the songs. Served on committees. Buried by the church. Never once, in the presence of a person who needed to hear the gospel, opened their mouth and said it.
 
@@ -21,9 +21,9 @@ Did it say *when the door opens for you*, go make disciples? Did it say *when yo
 
 If you are doing less than that — if I am doing less than that — that's disobedience. Isn't it.
 
-Nik Ripkin said it plainly: *"It is a simple matter of obedience. If He is our Lord, then we will obey Him. If we do not obey Him, then He is not our Lord."*
+Nik Ripkin said it plainly: *"It is simply a matter of obedience. If He is our Lord, then we will obey Him. If we do not obey Him, then He is not our Lord."*
 
-[*Editorial note: Verify exact wording. Pastor's notes have "simply" — likely a transcription error for "simple." Source is likely* The Insanity of Obedience *(B&H Publishing, 2013). Confirm before preaching.*]
+[*Editorial note: Verified. Source:* The Insanity of God *(B&H Publishing, 2013, co-authored with Gregg Lewis). Full quote: "Serving God is not a matter of location, but a matter of obedience. It is simply a matter of obedience. If He is our Lord, then we will obey Him. If we do not obey Him, then He is not our Lord." The opening sentence can be included or omitted depending on pacing.*]
 
 On that note — let's stop and open in prayer, and then I want to tell you a little about the man who said that.
 
@@ -41,11 +41,11 @@ He tells about meeting a man who was running an orphanage. The kids looked happy
 
 Things went from bad to worse.
 
-Nik had a son. His son had asthma — bad asthma. Africa and his allergies just didn't mix. One night his son had an attack. Nik was in the backseat of a car, giving CPR, while someone else drove them to the hospital. His son didn't make it.
+The family eventually relocated to Nairobi, Kenya. But the hardship followed them there. Nik had a son named Timothy. Timothy had asthma — bad asthma. The allergens in East Africa and his lungs just didn't mix. One night Timothy had an attack. Nik was in the backseat of the car, giving CPR, while someone else drove them to the hospital. Timothy didn't make it. He was sixteen years old. It was Easter Sunday, 1997.
 
-[*Editorial note: Verify the son's name and the details of his death — cause (asthma/allergies), circumstances (CPR in the car on the way to hospital). Source likely* The Insanity of God *(B&H Publishing, 2012). Do not preach with the son's name unless confirmed.*]
+[*Editorial note: Verified. Timothy Ripken, age 16, died of cardiac arrest triggered by a severe asthma attack — likely from mold in the family's home in Nairobi. Nik administered CPR in the back of the car. Source:* The Insanity of God *(B&H Publishing, 2013, with Gregg Lewis). Note: the family served in Somalia during the early 1990s famine but had moved to Nairobi by 1997 when Timothy died — the son did not die in Somalia.*]
 
-It was in the shadow of all of that — the orphanage, the famine, the grave — that Nik wrote: *"It is a simple matter of obedience. If He is our Lord, then we will obey Him. If we do not obey Him, then He is not our Lord."*
+It was in the shadow of all of that — the orphanage, the famine, the grave — that Nik wrote: *"It is simply a matter of obedience. If He is our Lord, then we will obey Him. If we do not obey Him, then He is not our Lord."*
 
 ---
 
@@ -109,7 +109,7 @@ Think back over this past year. Can any of you say, beyond a shadow of a doubt, 
 
 Paul Washer wrote that we must *"remember that to sin is more than just breaking a rule — it's grieving the person who loves us beyond measure."*
 
-[*Editorial note: Verify Paul Washer quote — exact wording and source needed. May be from a sermon rather than a published text. Confirm before using in print.*]
+[*Editorial note: UNVERIFIED. No primary source found — not traced to any known sermon, transcript, or published text. Widely circulated online without citation. Do not attribute to Washer from the pulpit until a specific sermon or book is identified. Consider using without attribution ("Someone put it this way…") or replacing with a verified source.*]
 
 So often we try to minimize it. I spoke to a couple not long ago about pre-marital sex. He wanted to see where in Scripture it's prohibited. I showed him. He cracked jokes, made light of the sin he had put above his obedience to God.
 
@@ -117,7 +117,7 @@ It's an easy thing to do. We rationalize it. We compare it to something worse. *
 
 Thomas Manton wrote: *"We make light of sin, but Christ found it not so light."*
 
-[*Editorial note: Verify Thomas Manton quote — exact wording and source. Variations of this circulate widely in Puritan collections. Common attribution to Manton's Works but specific volume and sermon unknown. Verify before preaching.*]
+[*Editorial note: UNVERIFIED. This quote could not be confirmed in Manton's works via digitized sources (CCEL, Wesley Center). The sentiment is consistent with Manton's writing on sin, but the specific line "We make light of sin, but Christ found it not so light" was not located. If the pastor has this in a printed volume, cite the specific volume and sermon before using. Do not attribute to Manton from the pulpit on the strength of online circulation alone.*]
 
 Every time we sin, we make the cross necessary.
 
@@ -137,7 +137,7 @@ Before the praise team comes up, Christian — one last thing.
 
 A.W. Pink wrote: *"If you are still following a course of self-pleasing, you are only deceiving yourself if you think you have come to Christ."*
 
-[*Editorial note: Verify A.W. Pink quote — exact wording and source. Consistent with Pink's documented theology throughout his works. Possible sources include* Studies in the Scriptures, The Doctrine of Sanctification, *or* Repentance. *Verify before preaching.*]
+[*Editorial note: Verified. Source: A.W. Pink,* Studies on Saving Faith *(available in full at Monergism.com). Exact text: "Dear reader, if you are still following a course of self-pleasing, you are only deceiving yourself if you think you have come to Christ." The "Dear reader" salutation is appropriately dropped for preaching. Wording is otherwise word-for-word accurate.*]
 
 If you — and how you feel, and what you want, and what keeps you comfortable — if that is your first priority, then you are not on the throne of your heart. You are. Christ isn't your Lord. He's a name you carry.
 
