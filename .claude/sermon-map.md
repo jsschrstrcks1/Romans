@@ -67,6 +67,8 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Romans 14:1-12; Galatians 4:8-20 | The Lord's Day | `Sermon - The Lord's Day.md` | BFM Article 8; Lord's Day; Sabbath; legalism; antinomianism; grace as middle ground; John Owen on mortification; Sinclair Ferguson; Meo of Pakistan people group |
 | Romans 15:18+; Mt 28; Rev 7 | Evangelism | `evangelism (romans 15, mt 28, and rev 7).md` | Great Commission; missions; panta ethne |
 | Romans 15:14+ | Holy Obsession | `romans 15 (2).md` | Goodness; knowledge; Great Commission |
+| Luke 23:39-43 | Today You Will Be With Me *(archive copy)* | `Today You Will Be With Me Luke 23 - part of the series on Romans.md` | Archive copy of `Sermon - Today You Will Be With Me.md`; same sermon, different filename |
+| Romans 15:14-33 | The Mission in the Early Light *(archive copy)* | `The Mission in the Early Light romans 15b.md` | Archive copy of `Romans 15b - The Mission in the Early Light.md`; same sermon, different filename |
 
 ### Special Messages (Non-Romans, Current Series)
 
@@ -119,6 +121,23 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | *(incomplete)* | Thankfulness | `Sermon - Thankfulness.md` | Difficulty of gratitude in trials; faith and God's grace in suffering; terminal illness narrative; incomplete |
 | Various | Night of Prayer for the Persecuted Church | `Service - Night of Prayer for the Persecuted Church.md` | Persecution of believers worldwide; prayer for suffering Christians; video testimonies; intercession; special service |
 
+| Genesis 3:9-end | The Curse | `Gen 3 - The Curse.md` | Snakes; vestigial bones (pelvis/femur in boas); serpent cast down; protoevangelium (3:15); dad's "two kinds of snakes" saying; Moon Lake moccasins; dog bitten by rattlesnake; pygmy rattler in grandmother's garden |
+| Genesis 39 | The Faithful Servant | `Genesis 39 - The Faithful Servant.md` | Joseph in Potiphar's house; faithful service; Aunt Dottie illustration; God blessing everything Joseph touched; Enron illustration; Gen 38 recap (Judah, Tamar, cult prostitute); Joseph as contrast to Judah |
+| Genesis 37–39 | Joseph *(raw notes)* | `Sermon - Genesis 37-39.md` | Joseph typology (Part 1); Jacob's passivity as father; coat of many colors = "wristed coat" (nobility cloak); boomerang kids statistic; Rachel's idols from Laban; sins of the father — goatskin deception revisited; Joseph sold for ~$4 profit each; Joseph as picture of Christ |
+| Jeremiah 44:1-14; Matthew 28:18-20 | The Altar of Your Heart | `Jeremiah 44 - The Altar of Your Heart.md` | Evangelism disobedience as idolatry; Nik Ripken — "the majority" of believers never share the gospel (original 90% figure adjusted — LifeWay 2012 found 61%); *The Insanity of God* quote verified; Great Commission imperative ("Go" not "when you feel like it") |
+| John 20 | Do Not Disbelieve | `John 20 - Do Not Disbelieve.md` | Thomas; niece Lilly jumping into canal holding pastor's hand; Thomas's courage (John 11:16 "Let us also go, that we may die with him"); holding an adult's hand in the dark; faith despite fear |
+| Judges 1–2 | Humpty Dumpty *(raw notes)* | `Judges 1-2 - Humpty Dumpty (raw notes).md` | Canaanite creep; total depravity; Eccl 7:29; Rom 3:23; 2 Chr 6:36; Micah 7:2-4; Mark 7:21-23; Gen 6:5; Gen 8:21; Prov 28:26; John 8:34; 2 Tim 2:25-26 |
+| Judges 6:11-13 | Called in the Wine Press *(raw notes, Pt. 1 of Gideon)* | `Judges 6 - Called in the Wine Press (raw notes).md` | Gideon; Baal worship (*Asherah*); Midianite oppression; A Bug's Life analogy; wife/husband pick-up truck illustration; Haiti/Peru/Dominican Republic missions stories; Pastor Willow ($300 meal = nearly a year's wages); American spending vs. charitable giving; dog food vs. giving statistic; companion to `Judges 6 - Lord Just Once More.md` |
+| Luke 15 | The Lost Sheep *(raw transcript)* | `Luke 15 - The Lost Sheep (raw transcript).md` | Raw dictation of `Sermon - Lost and Found.md`; SBC annual meeting commentary (critical race theory, intersectionality, abortion resolutions); concerns about denomination president on inerrancy; conservative resurgence reference; sheep personality illustrations (Grace the dog killed 4 lambs; Anna, Trouble, Razzle, Frazzle) |
+| John 11:1-53 | Lazarus | `Sermon - John 11 Lazarus.md` | Becca/cancer (neuroblastoma); Bridge Church Pastor Nathan; James 1:2-4; missionary induction — friend taken hostage; Thomas (11:16); Jesus wept (11:35); Martha's confession (11:27); Lazarus raised; Caiaphas's unwitting prophecy (11:49-52) |
+| John 16 | The Holy Spirit | `Sermon - John 16 The Holy Spirit.md` | Helper/Comforter/Advocate (*parakletos*); John 16:7-11; context: disciples weeping at Jesus's departure; Pastor Bob stepping down at Jasmine; Holy Spirit convicts concerning sin, righteousness, and judgment; characteristics and ministry of the Spirit |
+| Judges 11 | Jephthah | `Sermon - Judges 11.md` | Jephthah's parentage (prostitute's son); God uses the broken; messianic line includes questionable births (Perez, Boaz's mother Rahab, Solomon); original sin (Augustinian view); Jephthah/Joseph parallels; rash vow and sacrifice; Robert E. Lee and the high ground; Prov 3:5-6; "Jesus Take the Wheel" |
+| 1 John 2:28–3:10 | Little Children | `Sermon - Little Children.md` | *Teknia* (term of endearment); John as beloved grandfather; abide in him (5 co-requisites: Bible, prayer, fellowship, worship, evangelism); earphones-in illustration; born of God; practice of sin vs. occasional sin; children of God vs. children of the devil |
+| Revelation 20:11; Missions | Missionaries or Imposters | `Sermon - Missionaries or Imposters.md` | IMB president story — "I bet God is really glad to have me on his team"; Tozer *Knowledge of the Holy* extended quote (God doesn't need us); missions urgency; hell; distinction between missionaries and imposters |
+| Matthew 5:13-16 | Salt and Light | `Sermon - Salt and Light.md` | Salt chemistry (preserves, fertilizes, pickles — osmotic pressure); magnesium fires (burns underwater, breaks down CO2); Holy Spirit as salt in the believer; Cheerful Charlie and Waterworks Willie children's story; contagious enthusiasm |
+| Luke 14:15-24 | The Party and the Excuses | `Sermon - The Party and the Excuses.md` | Parable of the Great Banquet; two-invitation system in Jesus's culture; three flimsy excuses (field, oxen, marriage); newlywed social obligation in ancient culture; rejection of God's invitation; streets/lanes/highways/hedges |
+| Joshua 9:1-27 | The Price of Integrity | `Sermon - The Price of Integrity.md` | Integrity defined as "doing the right thing regardless of cost"; $300 envelope in grocery store (returned to crying single mother); seminary friend at Lowes (stain/sealer scam refused — "your integrity is worth more than $25"); rich kid's bribery attempts; Gibeonite deception; Joshua failed to pray before diplomacy; prayer as first step; John Bunyan prayer quote; mother healed of rheumatoid arthritis; Joshua defended Gibeonites despite Israel's anger |
+
 ### Five Solas of the Reformation Series (2017, 500th Anniversary)
 
 | Passage | Title | File | Subject |
@@ -165,7 +184,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 |---|---|---|---|
 | Exodus 2:23; Psalm 115:4 | God hears, sees, knows, acts against idolatry | `Exodus 2.md` | sermon |
 | Exodus 5:22-6:13 | Discouragement; asking God why; trusting Him | `ex 6-7.md` | sermon |
-| Exodus 14:1-31 | Red Sea crossing; archaeological context (Nuweiba); sovereignty; the crucible of faith | `Sermon - The Crucible.md` (sources: `Exodus 14.md` complete, `exodus 14 - red sea.md` partial draft) | sermon |
+| Exodus 14:1-31 | Red Sea crossing; archaeological context (Nuweiba); sovereignty; the crucible of faith | `Sermon - The Crucible.md` (sources: `Exodus 14.md` complete, `Exodus 14 - red sea.txt` raw dictation, `exodus 14 - red sea.md` cleaned/edited version of the .txt) | sermon |
 
 ### Numbers
 
@@ -185,7 +204,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| 2 Kings 5 | Leprosy as analogy for sin; Naaman's healing | `Leprosy - naaman - 2kings 5.md` / `...2024.md` | sermon |
+| 2 Kings 5 | Leprosy as analogy for sin; Naaman's healing | `Leprosy - naaman - 2kings 5.md` / `Leprosy - naaman - 2kings 5 2024.md` | sermon |
 | 2 Kings 25:1-12 | Trusting God over your own heart | `2 kings 25.md` | sermon |
 
 ### 1 Kings
@@ -255,7 +274,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 34 | Acrostic structure; fear of the Lord; long life | `Psalms 34.md` | sermon |
 | Psalm 46 | God as refuge and fortress | `Psalm 46.md` | sermon |
 | Psalm 46 / 2 Chronicles 20 | Jehoshaphat's battle; Luther and the Reformation; Five Solas; you and God are the majority | `Sermon - A Mighty Fortress.md` | sermon |
-| Psalm 51 | Confession; mercy vs. grace; machah; hyssop; bara; David's sins; Epstein illustration | `Psalm 51.md` | sermon |
+| Psalm 51 | Confession; mercy vs. grace; machah; hyssop; bara; David's sins; Epstein illustration | `Psalm 51.txt` | sermon |
 | Psalm 56 | Is Jesus worth it; Pilgrim's Progress | `psalm 56.md` | sermon |
 | Psalm 63:1-8 | Thirsting for God; worship in the wilderness | `psalms 63.md` | sermon |
 | Psalm 68:1-4 | Power of God; nothing too difficult | `Psalms 68 (2).md` | sermon |
@@ -313,6 +332,12 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Ezekiel 36:22-32 | Salvation by grace alone for God's glory | `Ezekiel 36.md` | teaching |
 | Ezekiel 37 | Total depravity; spiritual resurrection of dry bones | `ezekiel 37.md` | teaching |
 
+### Jonah
+
+| Passage | Subject | File | Type |
+|---|---|---|---|
+| Jonah 4 | God's sovereignty over enemies; Jonah's anger at Nineveh's repentance; WWII Jewish-man-to-Berlin analogy (line 14); Sennacherib/Hezekiah (British Museum artifacts, lines 8-10); Gujar of India people group (line 25); post-election pastoral comfort (Biden presidency context, dates sermon to late 2020); Calvin "perpetual factory of idols" (line 53); Rom 13 ordained authority (line 84); sheep illustration from personal experience (line 82); extended Scripture collection (Ps 91:4, Ps 34:7-9, 2 Thess 3:3-5, Isa 41:10-12, Ps 23); sermon ends at "Share the gospel. Pray for your enemies. Rejoice when they are saved." — does NOT cover the vine/worm passage (Jonah 4:6-7) | `Jonah 4 - God is in control.txt` | sermon |
+
 ### Malachi
 
 | Passage | Subject | File | Type |
@@ -357,6 +382,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Luke 9:57-62 | Cost of following Christ vs prosperity gospel | `Luke 9 - cost of following christ.md` | sermon |
 | Luke 10:38-42 | Mary and Martha; prioritizing time with God | `Good morning.md` | sermon |
 | Luke 14 | Parable of the Great Banquet; rejecting God's invitation | `Luke 14.md` | sermon |
+| Luke 15:1ff, 11ff | Prodigal Son; three parables: lost sheep, lost coin, lost son (sections I-III); elder brother represents scribes and Pharisees (line 26: "sins of the spirit as well as sins of the flesh," 2 Cor 7:1); elder brother's "hidden agenda" (line 28); father runs to meet son (Eastern cultural context, Deut 21:18-21, line 21); Wiersbe *Expository Outlines* pp.182-184 (source for outline); Mark Allan Powell *What Do They Hear?* cross-cultural reading comparison (Western = reform, Russian = recovery, Tanzanian = contrast); Greek notes on *dieilen* and *erēmos*; carob tree Hebrew "life tree" note | `Luke 15 - Prodigal Son.txt` | sermon |
 | Luke 23:1-25 | Jesus vs Barabbas; what people wanted vs needed | `Luke 23.md` | sermon |
 | Luke 23:13-25 | Man's injustice vs God's justice at Easter | `easter 24.md` | sermon |
 | Luke 23:32-43 | Two thieves; lēstai; Dismas and the unrepentant thief; apologetics of the resurrection | `Luke 23 32ff - two thieves.txt` | sermon |
@@ -373,7 +399,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | John 10:11, 17-18 | Thankfulness and Christ's sacrificial love | `jn 10.md` | sermon |
 | John 10:25-30; 6:37-65 | Perseverance and preservation of the saints | `Eternal Security.md` | teaching |
 | John 11:1-16 | Trusting God through silence and unanswered prayers | `Fifteen.md` | study |
-| John 11:30-44 | Memorial for Jean; Jesus weeps and raises Lazarus | `We are gathered here...Jean.md` | memorial |
+| John 11:30-44 | Memorial for Jean; Jesus weeps and raises Lazarus | `We are gathered here today to celebrate the memory of Jean.md` | memorial |
 | John 12 | Mary's devotion vs Judas's selfishness | `John 12.md` | sermon |
 | John 14:1-7 | Christ as the only way to salvation | `John 14 - exclusivity of the gospel..md` | sermon |
 | John 14:1-7 | Memorial service for Chuck Weis | `Chuck Weis Memorial 2024.md` | memorial |
@@ -393,16 +419,17 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Romans 1:16-24 | Unitarian Universalism cult; God's wrath | `Romans 1.md` | teaching |
+| Romans 1:18-32 | Early/pre-"Night Is Far Gone" series, sermon 2; creation, idolatry, and the gospel; Indian fish legend; watchmaker/beach illustration; Goldilocks zone; Behe mousetrap / irreducible complexity (verified: *Darwin's Black Box*, 1996); AW Pink sovereignty quote (verified: *Attributes of God*, Ch. 6); Jonathan Edwards *Sinners in the Hands of an Angry God* (paraphrase, not direct quote — see file); WCF quote removed (not from WCF — source unidentified); WCF/1689 LBC historical relationship corrected (WCF came first); Darwin "admission" overstated (see file); Isaiah 46:10 is NIV not ESV; multiple Scripture paraphrases flagged; Chris Tomlin "Indescribable" (Laura Story, 2004); gospel close | `romans early series 2 - creation idolatry gospel.txt` | sermon |
 | Romans 1:18-end | Anthropic principle; God revealed in creation | `Romans 1 (2024).md` | sermon |
 | Romans 2:1-11 | Hypocrisy; whitewashed tombs; political idolatry | `Romans 2 mt 23 col 3 eph 2.md` | sermon |
 | Romans 3 | God's wrath, holiness, and cost of sin | `romans 3 - the wrath of God.md` / `Romans 3 - wrath of God (final).md` | sermon |
 | Romans 3:10-end | No one righteous; righteousness given not earned | `Romans 3 - pt 2.md` | sermon |
-| Romans 4:1-8 | Justification by faith; credited righteousness | `Romans 4 - In Christ Alone...md` | sermon |
+| Romans 4:1-8 | Justification by faith; credited righteousness | `Romans 4 - In Christ Alone- Where Justice Meets Grace.md` | sermon |
 | Romans 5:1-11 | Peace with God; love poured out; wrath satisfied | `Romans 5.md` | sermon |
 | Romans 6:15 | Can we sin occasionally? Habitual vs. occasional sin (6:1 vs. 6:15 Greek verbal distinction); slavery to sin (6:16, 6:20-21); gossip; marriage/church-attendance illustration; Locked Up Abroad; witness protection / new creation (2 Cor 5:17, verified); Heb 13:5 (verified); bee/orchid illustration; Great Pumpkin (paraphrase — corrected in file); benefits of obedience; fool's gold; outward sincerity not enough | `romans 6 15 can we sin occasionally.md` | sermon |
 | Romans 8:12–17, 31–39 | Debtors to the Spirit; adoption; election; security of salvation; mini-golf debt illustration; title misspelled in original ("Debters"); 9 outstanding items in file: Romans 3:23 misapplied for death penalty (should be 6:23), Isaiah 66:1 conflation (heavens vs. earth as footstool), Romans 5:8 and 10:9 paraphrases differ from ESV, "demons" added to 8:38 list | `romans 8 12-17 debtors to the spirit.md` | sermon |
 | Romans 8:26+ | Order of salvation and BFM | `Ordo Solutis Romans 8.md` | teaching |
-| Romans 9:1-3 / Romans 10 | Evangelism urgency; Paris attack pastoral response (prob. Nov. 13, 2015 Bataclan); Paul's anguish for the lost; Spurgeon (verified: "Wailing of Risca" sermon, 1860); Whitefield (13 Atlantic crossings, ~18,000 sermons); Edwards Resolution 7 (verified); Edwards Res. 1 & 2 (paraphrase — corrected in file); Florida Muslim statistic corrected from original; "Aleutian" corrected to "Algerian"; Jonah sovereignty; ta ethne (Rev 7); Balaam's donkey | `romans 9-10 paris evangelism.md` | sermon |
+| Romans 9:1-3 / Romans 10 | Evangelism urgency; Paris attack pastoral response (prob. Nov. 13, 2015 Bataclan); Paul's anguish for the lost; Spurgeon (verified: "Wailing of Risca" sermon, 1860); Whitefield (13 Atlantic crossings, ~18,000 sermons); Edwards Resolution 7 (verified); Edwards Res. 1 & 2 (paraphrase — corrected in file); Florida Muslim statistic corrected from original; "Aleutian" corrected to "Algerian"; Jonah sovereignty; ta ethne (Rev 7); Balaam's donkey | `romans 9-10 paris evangelism.txt` | sermon |
 | Romans 12 | Racial injustice; weeping with those who weep | `romans 12 - weep with those who weep.md` | sermon |
 | Romans 10:14-21 | Gospel chain; how shall they hear; proclamation and missions | `The Gospel Chain.md` | sermon |
 | Romans 12:1-2 | Living sacrifice; archive draft | `romans 12 1.md` (archive) | sermon |
@@ -416,7 +443,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 |---|---|---|---|
 | 1 Corinthians 10:9 | Israel's testing of Christ in the wilderness; serpents; type of cross; cross-references Num 21:5-9 and John 3:13-21 | `Numbers 21 John 3.md` | sermon |
 | 1 Corinthians 3:10-15 | Eternal legacy and what lasts beyond death | `1 cor 3.md` | sermon |
-| 1 Corinthians 9:19-23 | Motivation for sharing the gospel | `1 cor 9.md` / `1 cor 9 19ff...md` | sermon |
+| 1 Corinthians 9:19-23 | Motivation for sharing the gospel | `1 cor 9.md` / `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` | sermon |
 | 1 Corinthians 12:12-27 | Church membership and body commitment | `Commitment to the church body 1 cor 12.md` | sermon |
 | 1 Corinthians 13:8-10; John 10:27-28 | Cessation of sign gifts; eternal security | `Sunday school notes week 2.md` | study |
 
@@ -436,7 +463,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Galatians 1:1-12 | True gospel and the five solas | `galatians 1.md` | sermon |
 | Galatians 2:15-end | Justification by faith transforms the believer | `gal 2.md` | sermon |
 | Galatians 3:23+ | Law, faith, and adoption as children of God | `adoption - gal 3.md` | sermon |
-| Galatians 3:27-4:7 | Adoption as God's children | `Adoption.md` / `Adoption - christms eve 23.md` | sermon |
+| Galatians 3:27-4:7 | Adoption as God's children | `adoption - gal 3.md` / `Adoption - christms eve 23.md` | sermon |
 | Galatians 6:7-10 | Sowing for eternity not the world | `8-23-20.md` | sermon |
 
 ### Ephesians
@@ -446,6 +473,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Ephesians 2 | Theological anthropology; depravity of man | `vbs 2019.md` | sermon |
 | Ephesians 5:4 | Thankfulness to God for creation and salvation | `thanksgiving 2017.md` | sermon |
 | Ephesians 5:4; Genesis 22 | Thanksgiving; smashing idols; Abraham and Isaac | `thanksgiving 2018.md` | sermon |
+| Ephesians 2 | VBS Sunday closing; theological anthropology ("But God"); Malay of Indonesia people group; extended depravity list from Ephesians (walkers in iniquity through unarmored and unable to withstand evil); 1 Cor 2:14; "But God" as pivot (Eph 2:4); parent-child love analogy; Billy Sunday quote (verified: "I'm against sin. I'll kick it as long as I've got a foot…"); sanctification through the Spirit; gospel as starting point | `Eph 2 - but God.txt` | sermon |
 | Ephesians 5:4 | Shorter Thanksgiving service; gratitude vs. bitterness; citation from Piper article (source unverified); congregational prayer; pastoral illustration on condescension and idol-smashing | `thanksgiving eph 5.md` | sermon |
 
 ### Philippians
@@ -467,7 +495,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Colossians 1:12-23 | Christ's supremacy, creation, and reconciliation | `col 1.md` / `christology.md` | sermon |
 | Colossians 2:1-8 | Thanksgiving and guarding against deceit | `Col 2 - thanksigiving.md` | sermon |
 | Colossians 3:1-11 | The doctrine and weight of sin | `hamartiology.md` | sermon |
-| Colossians 3:1-17 | Putting sin to death; setting minds on Christ | `I have been thinking about going back to seminary.md` | sermon |
+| Colossians 3:1-17 | Political idolatry; sexual immorality (πορνεία); foul language; Christian formation; seminary reflection intro; election-year context (Trump/Biden references date sermon to late 2020); "a puritan" quoted: "be mortifying sin or sin will be mortifying you" (commonly attr. John Owen, *Mortification of Sin* — sermon does not name Owen); prosthetic-leg / baby-learning-to-walk sanctification illustrations; "you might be the only bible someone ever reads" | `I have been thinking about going back to seminary.md` | sermon |
 | Colossians 4:2-4 | Biblical model of prayer; evangelism | `col 4 - prayer.md` / `prayer col 4.md` | sermon |
 
 ### 1 Thessalonians
@@ -475,6 +503,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | 1 Thessalonians 3:12-4:8 | Love in acts of service; grocery chain; sexual purity | `1 thess 3.md` | sermon |
+| 1 Thessalonians 5:16-18; Psalm 100; Philippians 4:4-7 | Thankfulness in all circumstances; third-person testimony of a pastor's wife and 2-year-old daughter healed of leukemia (heard that week, not the preacher's own family); Stephen Davey on Thanksgiving history (Sarah Josepha Hale, Lincoln, Civil War); Psalm 100 called "first thanksgiving hymn" (attributed to unnamed preacher); A.W. Pink quote: "It was not the nails that held Him to the cross…" (attributed to Pink in file; specific source work not identified); Heb 12:2-3; John 10:11, 17-18; Matt 16:24 (Greek word for deny = "to reject, disown"); complaining as self-worship; cross as reason for all thanksgiving | `Thankfulness - 1 Thess 5.txt` | sermon |
 
 ### 1 Timothy
 
@@ -482,8 +511,8 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 |---|---|---|---|
 | 1 Timothy 1:3-14 | Paul's final letter; crisis of faith in Asia; last charge to Timothy | `1 tim 1 vs 3.md` | sermon |
 | 1 Timothy 2:1-7 | Christ alone as mediator and savior | `Sola Christus.md` / `Sola Christus (AutoRecovered).md` | sermon |
-| 1 Timothy 2:1-7 | Solus Christus (week 3 of Five Solas); Reformation history intro; Baptist lineage; Wycliffe; Kashmiri Pandits people group; three roles of Christ (Prophet, Priest, King); Luther quotes ×2 (sources unverified); J.C. Ryle quote (source unverified); Toplady quote (source unverified); Steven Lawson quote (source unverified); Chris Tomlin "More Than Enough" (verify album); 15 outstanding items in file including critical errors: John 14:66 → 14:6; Luther translated from Greek/Hebrew not Latin; Knox did not die as martyr; Semper Fidelis not "siempre fidelis"; J.M. Carroll not "James Carroll"; Sacré-Cœur dedication inaccurate | `1 tim 2 1-7 sola christus.md` | sermon |
-| 1 Timothy 2:1-7 | Solus Christus — earlier preaching ca. October 2020 (election reference dates sermon); no Reformation history intro; people group blank in transcript; series order differs (Sola Gratia wk 1, Sola Fide wk 2, Solus Christus wk 3); same core body as the later version; same critical errors: John 14:66 → 14:6, Sacré-Cœur dedication inaccurate; same unverified quotes: Luther ×2, Ryle, Toplady, Lawson, Tomlin; 10 outstanding items in file | `1 tim 2 1-7 sola christus 2020.md` | sermon |
+| 1 Timothy 2:1-7 | Solus Christus (week 3 of Five Solas); Reformation history intro; Baptist lineage; Wycliffe; Kashmiri Pandits people group; three roles of Christ (Prophet, Priest, King); Luther quotes ×2 (sources unverified); J.C. Ryle quote (source unverified); Toplady quote (source unverified); Steven Lawson quote (source unverified); Chris Tomlin "More Than Enough" (verify album); 15 outstanding items in file including critical errors: John 14:66 → 14:6; Luther translated from Greek/Hebrew not Latin; Knox did not die as martyr; Semper Fidelis not "siempre fidelis"; J.M. Carroll not "James Carroll"; Sacré-Cœur dedication inaccurate | `1 tim 2 1-7 sola christus.txt` | sermon |
+| 1 Timothy 2:1-7 | Solus Christus — earlier preaching ca. October 2020 (election reference dates sermon); no Reformation history intro; people group blank in transcript; series order differs (Sola Gratia wk 1, Sola Fide wk 2, Solus Christus wk 3); same core body as the later version; same critical errors: John 14:66 → 14:6, Sacré-Cœur dedication inaccurate; same unverified quotes: Luther ×2, Ryle, Toplady, Lawson, Tomlin; 10 outstanding items in file | `1 tim 2 1-7 sola christus 2020.txt` | sermon |
 | 1 Timothy 2 | Prayer for rulers; Dhanuk people of India; government and the church | `1 tim 2 pray for our leaders.md` | sermon |
 | 1 Timothy 2 | Women and authority in the church | `1 tim 2.md` | sermon |
 
@@ -496,7 +525,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | 2 Timothy 3:13-17 | Scripture alone as ultimate authority | `sola scriptura.md` / `Sola Scriptura 24.md` | sermon |
 | 2 Timothy 3:13–17 | Sola Scriptura; 2020 election pastoral remarks; political idolatry; Luther on Scripture (4 quotes, sources unlocated); BFM Article I; Masoretes; Dead Sea Scrolls; Romans 13:1 cited in sermon as "Romans 12" (error noted in file); quote attributed to "Trevor Noah" flagged as probable misattribution (see file); pastor's claim that Catholic Church declared earth flat flagged as historically inaccurate (see file); Dead Sea Scrolls age figure flagged for correction (see file) | `2 tim 3 13-17 sola scriptura.md` | sermon |
 | 2 Timothy 3:14+ | Authority and sufficiency of Scripture | `2 tim 3.md` | sermon |
-| 2 Timothy 4:1-5 | Paul's charge to preach; Easter sermon | `Second Timothy 4.md` / `easter 2020...md` | sermon |
+| 2 Timothy 4:1-5 | Paul's charge to preach; Easter sermon | `Second Timothy 4.md` / `easter 2020 - 2 tim 4 1-5.md` | sermon |
 
 ### Titus
 
@@ -548,7 +577,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| Revelation 2:1-7 | Forgotten first love; Remember / Repent / Return; seven-sign diagnostic list; Greg Morse (verified: "Have You Left Your First Love?" DG, Apr 10 2025); Jer 2:5 paraphrase noted; Heb 4:16 verified; "Come Thou Fount" v.3 verified; Amazon/Peru illustration; Chamar of India people group | `rev 2 1-7 forgotten first love.md` | sermon |
+| Revelation 2:1-7 | Forgotten first love; Remember / Repent / Return; seven-sign diagnostic list; Greg Morse (verified: "Have You Left Your First Love?" DG, Apr 10 2025); Jer 2:5 paraphrase noted; Heb 4:16 verified; "Come Thou Fount" v.3 verified; Amazon/Peru illustration; Chamar of India people group | `rev 2 1-7 forgotten first love.txt` | sermon |
 | Revelation 20:11-15 | Horrors of hell; urgency of missions and evangelism | `rev 20.md` | sermon |
 
 ---
@@ -570,11 +599,11 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Baptist Identity | Acts 18; 1 Cor 3 | `being baptist.md` | teaching |
 | Holy Spirit (BFM) | BFM article text | `bfm holy spirit.md` | teaching |
 | Catholicism | Romans 3-5; Eph 2:8-9 | `Catholicism.md` | teaching |
-| Christian Science | John 14:1-7 | `Christian science...md` | teaching |
+| Christian Science | John 14:1-7 | `Christian science is the next group we are going to look at.md` | teaching |
 | Cultural Marxism | Romans 10:12-13 | `Cultural Marxism.md` | teaching |
-| Evangelism / Missions | Mt 28; Rom 15; Rev 7 | `Evangelism.md` / `evangelism...md` | sermon |
+| Evangelism / Missions | Mt 28; Rom 15; Rev 7 | `Evangelism.md` / `evangelism (romans 15, mt 28, and rev 7).md` | sermon |
 | God's Aseity / Missions / Hell | Mk 9:48-49; Is 66:24; 2 Pet 2:17; Mt 24:51; Mt 13:49-50; Is 59:2 | `Missions and Hell - why it matters.txt` | sermon |
-| Adoption (Theology) | Galatians 3-4 | `Adoption.md` / `adoption - gal 3.md` | sermon |
+| Adoption (Theology) | Galatians 3-4 | `adoption - gal 3.md` / `Adoption - christms eve 23.md` | sermon |
 
 ---
 
@@ -585,7 +614,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Ann Burdette | Ecclesiastes 3:1-8 | `Ecclesiastes 3 Ann Burdette Funeral.md` |
 | Barbara | Psalm 23 | `Psalm 23.md` (archive) |
 | Chuck Weis | John 14:1-7 | `Chuck Weis Memorial 2024.md` |
-| Jean | John 11:30-44 | `We are gathered here...Jean.md` |
+| Jean | John 11:30-44 | `We are gathered here today to celebrate the memory of Jean.md` |
 | Kurt | 2 Corinthians 5:1-10 | `Kurt was a man I loved dearly.md` |
 
 ---
@@ -603,37 +632,52 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 | `BCO5500 Online Syllabus Fall 2018.md` | Seminary biblical counseling syllabus |
 | `Let the Nations be Glad PT 2-3.md` | Seminary book review — *Let the Nations be Glad* Parts 2–3; reflection on suffering in missions and the cost of martyrdom; Ken Baker 000210914 |
 | `bfm holy spirit.md` | Baptist Faith and Message article text |
-| `Coconut Flour Sourdough Starter Recipe and Techniques.md` | Sourdough recipe |
-| `flooring receipt.md` | Bamboo flooring receipt |
-| `Manatee Creek Sheep.md` | Sheep breeding program documentation |
-| `Mistborn.md` | Brandon Sanderson novel reading list |
 | `scripture memorization 1 john 1.md` | Memorization schedule |
 | `1 john 1 memorization.md` | Memorization schedule |
-| `5.md` | Seminary interpretive paper assignment notes |
-| `Second Timothy 4 (Paper).md` | Seminary hermeneutics paper on 1 Timothy 4:1-5 (PRS6100, Spring 2020) |
-| `easter 2020 - 2 tim 4 1-5 (sebts version).md` | Seminary hermeneutics manuscript on 1 Timothy 4:1-5 (SEBTS version, Spring 2020) |
-| `To FEMA Appeals Processor.md` | FEMA appeal letter |
-| `To the FEMA Appeals Agent.md` | FEMA appeal letter |
-| `To.md` | FEMA appeal for flood damage |
-| `To Whom it May Concern.md` | Adoption reference letter |
+| `easter 2020 - 2 tim 4 1-5 (sebts version).md` | Seminary hermeneutics manuscript on 2 Timothy 4:1-5 (SEBTS version, PRS6100, Spring 2020); ⚠️ file line 1 says "1 Timothy" but content is 2 Timothy |
 | `stephanie.md` | Pastoral character reference (custody) |
 | `stephanie 2.md` | Empty |
-| `stephanie 3.md` | Empty |
 | `Church Hotel Assistance Policy.md` | Emergency shelter policy with biblical foundation (James 2:15-16; Matt 25:35-36; 2 Thess 3:10; Rom 14:15b, 19); eligibility, weather triggers, consensus requirements, stability pathways; Appendix A: comprehensive Pasco County community resource directory (~1,500 lines — shelters, food pantries, housing programs, medical/dental/vision, mental health, DV services, veterans, legal aid, employment, transportation, sober living, elder services, human trafficking hotlines); Appendix B: Hernando County resources for county-line members |
 | `sermon-queue.md` | Sermon processing queue and status tracking |
 | `evangelism-content-survey.md` | Evangelism and missions content catalog; resource index |
 | `theological-extraction-ecclesiology-eschatology-bibliology.md` | Exhaustive theological extraction: ecclesiology, eschatology, bibliology; doctrinal positions cataloged from sermon corpus |
+
+### SEBTS Reference Files
+
+| File | Contents |
+|---|---|
+| `5.md` | Research notes and assignment description for PRS6100 2 Timothy 4:1-5 exegetical paper; Greek lexical notes (*εὐκαίρως*, *ἀκαίρως*); Tacitus on Nero's persecution; Anchor Yale Bible Dictionary on Timothy; MacArthur study note on *διαμαρτύρομαι*; companion to `Second Timothy 4 (Paper).md` |
+| `BCO5500 Online Syllabus Fall 2018.md` | SEBTS course syllabus — BCO5500 Online: Biblical Counseling (Fall 2018); Dr. Kristin L. Kellen; course description, student learning outcomes, core competencies; not sermon content |
+| `Second Timothy 4 (Paper).md` | Full exegetical paper on 2 Timothy 4:1-5 (PRS6100 Bible Exposition I Online, Spring 2020); Ken Baker; contextual background (Nero, Paul's imprisonment, Timothy's role); Greek analysis (*διαμαρτύρομαι*, *κήρυξον* aorist imperative, *νῆφε*); reprove/rebuke/exhort (*ἔλεγξον*, *ἐπιτίμησον*, *παρακάλεσον*); Tertullian "blood of the martyrs" quote; church discipline narrative; Robert Hawker quotes; same sermon content as `easter 2020 - 2 tim 4 1-5 (sebts version).md` but in academic paper format with bibliography (Friberg, AYBD, Lightfoot, Elwell/Beitzel) |
+
+### Pastoral Resources
+
+| File | Contents |
+|---|---|
+| `Church Emergency Shelter Assistance Policy.md` | Archive copy of root-level `Church Hotel Assistance Policy.md`; same emergency shelter policy; different filename |
+| `Emergency Contacts.md` | Emergency hotlines and crisis contacts for Pasco County — 211, 988, FEMA, DV hotlines (Sunrise of Pasco, Salvation Army), Harbor Behavioral Health, DOH CORE opioid recovery, AA/NA, Veterans Crisis Line; standalone reference extracted from the full policy |
+| `Pasco Community Resources.md` | Comprehensive Pasco County community resource directory — emergency contacts, housing, food pantries, medical/dental/vision, mental health, substance abuse, DV services, veterans, legal aid, employment, transportation, sober living, elder services; standalone version of Appendix A from the shelter assistance policy |
 
 ### Studies, Notes, & Bible Studies (Root Directory)
 
 | File | Subject | Type |
 |---|---|---|
 | `Journey in Grace bible study - Chapters 17-19.md` | Men's Bible study guide for Richard Belcher's *A Journey in Grace*, Chapters 17-19: Ch.17 — personality vs. doctrine (Jim Mitchell's unbalanced Calvinism, 1 Cor 8:1, James 4:6); Ch.18 — justice of unconditional election (infralapsarianism vs. supralapsarianism, dictionary test on "tyrant/despot," Rom 9:14-16,20, Rom 11:33, grace cannot be demanded); Ch.19 — false accusations and grace under fire (Dr Bloom's public attack, Ira's response: let fruit speak, set boundaries, trust providence; Rom 12:17-19, Rom 8:28, Matt 5:11-12); connections to Romans series throughout | bible study |
+| `Chapter 8.md` | Men's Bible study guide for Richard Belcher's *A Journey in Grace*, Chapters 8-13: Ch.8 — Effectual Calling (John Murray quote, John 10:27-28, Rom 8:30, Ezek 36:26-27, 1 Cor 1:22-24); Ch.9 — Perseverance (Joel Beeke quote, John 10:29, Phil 1:6, 1 Pet 1:3-5, Jude 24-25, John Newton quote); Ch.10 — Justification (Luther quotes ×2, Rom 5:1-2, 2 Cor 5:21, Rom 4:4-5, Gal 2:20-21, Spurgeon quote); Ch.11 — Regeneration (Jonathan Edwards quote, John 3:3-8, Titus 3:4-5, Ezek 36:26, 1 Pet 1:3, John Bunyan quote); Ch.12 — Conversion (Thomas Watson quote, Acts 11:18, Phil 1:29, Mark 1:15, 2 Tim 2:25, Richard Sibbes quote); Ch.13 — Sanctification (John Owen quotes ×2, Phil 2:12-13, 1 Thess 4:3, Rom 8:13, Gal 5:16-17); each chapter includes reflection questions, group discussion, and prayer focus; TULIP summary appended after Ch.10 prayer | bible study |
+| `A Journey in Grace ch 17-19.md` | Alternate version of *A Journey in Grace* Chapters 17-19 study; different subtitle ("Sovereignty Without Pride, Zeal Without Extremes" vs root file's "Providence, Justice, and Grace Under Fire"); 267 lines vs 224 in root version; covers same chapters but distinct treatment — NOT a copy | bible study |
 | `Notes - 2 Corinthians 5-15 Rebuttal (Calvinism Objection).md` | Rebuttal to Calvinism objection from 2 Corinthians 5:15; theological argumentation | notes |
 | `Notes - Empire and Suppression (Romans 1 Book Revision).md` | Research notes on empire and suppression for Romans 1 book revision | notes |
 | `Notes - Missional Helix (Church Planting Strategy).md` | Church planting strategy; missional helix model | notes |
 | `Notes - There and Back Again.md` | Research notes; pastoral or theological reflection | notes |
 | `Sunday School - Cessationism and Prevenient Grace.md` | Cessation of sign gifts; prevenient grace critique; eternal security; soft cessationism; part of Tozer Pursuit of God series | sunday school |
+| `The Thief Who Saw a King.md` | Archive copy of root-level `Bible Study - The Thief Who Saw a King.md` (312 lines vs 315 in root); same content, minor differences in length | bible study |
+| `Eph 2 - but God.txt` | *(see Ephesians passage table above for full entry)* | sermon |
+| `Thankfulness - 1 Thess 5.txt` | *(see 1 Thessalonians passage table above for full entry)* | sermon |
+| `romans early series 2 - creation idolatry gospel.txt` | *(see Romans archive passage table above for full entry)* | sermon |
+| `sola gracia phil 3.txt` | Raw/dictation source of `sola gracia phil 3.md`; same sermon content | sermon (raw) |
+| `phil 3 2-16 following hard after god.txt` | Raw/dictation source of `phil 3 2-16 following hard after god.md`; same sermon content | sermon (raw) |
+| `2 tim 3 13-17 sola scriptura.txt` | Raw/dictation source of `2 tim 3 13-17 sola scriptura.md`; same sermon content | sermon (raw) |
+| `thanksgiving eph 5.txt` | Raw/dictation source of `thanksgiving eph 5.md`; same sermon content | sermon (raw) |
 
 ---
 
@@ -642,7 +686,7 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 Searchable by topic. Each entry lists every sermon that substantively treats that subject.
 
 ### Adoption (Theology of)
-- `Adoption.md` — Galatians 3:27-4:7 — Adoption as God's children
+- `adoption - gal 3.md` — Galatians 3:27-4:7 — Adoption as God's children
 - `Adoption - christms eve 23.md` — Galatians 3:27-4:7 — Christmas Eve adoption sermon
 - `adoption - gal 3.md` — Galatians 3:23+ — Law, faith, and adoption
 - `evangelism (romans 15, mt 28, and rev 7).md` — Adoption as microcosm of God's heart for the lost
@@ -662,6 +706,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 3 - wrath of God (final).md` — Romans 3 — Wrath; propitiation
 - `Romans 5.md` — Romans 5:1-11 — While we were still sinners
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:18 — Christ suffered once for sins, the righteous for the unrighteous
+- `Thankfulness - 1 Thess 5.txt` — 1 Thess 5:16-18; Psalm 100; Phil 4:4-7 — Pink on the nails vs. the love; Heb 12:2-3; John 10:17-18; cross as reason for all thanksgiving
 
 ### Baptist Distinctives / Identity
 - `being baptist.md` — Acts 18; 1 Cor 3 — Baptist history and distinctives
@@ -685,8 +730,8 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Church / Body of Christ / Membership
 - `Commitment to the church body 1 cor 12.md` — 1 Cor 12:12-27 — Church membership
-- `Romans 14a...md` through `Romans 14d...md` — Romans 14 — Weak and strong in the church
-- `Romans 15a...md` — Romans 15:1-13 — Welcome one another
+- `Romans 14a - The Welcome That Costs You Nothing.md` through `Romans 14d - Love That Surrenders Its Rights.md` — Romans 14 — Weak and strong in the church
+- `Romans 15a - The Welcome We've Been Given.md` — Romans 15:1-13 — Welcome one another
 
 ### Christian Witness / Conduct
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Tipping; Sunday lunch; fake $20 tracts; loving with your wallet
@@ -695,7 +740,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Cults / False Teaching / Counterfeits
 - `Catholicism.md` — Romans 3-5 — Catholic vs Protestant justification
-- `Christian science...md` — John 14:1-7 — Reaching Christian Scientists
+- `Christian science is the next group we are going to look at.md` — John 14:1-7 — Reaching Christian Scientists
 - `1 john 4 - counterfeit.md` — 1 John 4:1-6 — Testing spirits
 - `Catching Counterfeits.md` — 2 Cor 5:6-8 — Counterfeit claims about heaven
 - `1 sam 28 wicca and the occult..md` — 1 Samuel 28 — Wicca and the occult
@@ -707,7 +752,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Ecclesiastes 3 Ann Burdette Funeral.md` — Funeral for Ann Burdette
 - `Psalm 23.md` (archive) — Memorial for Barbara
 - `Chuck Weis Memorial 2024.md` — Memorial for Chuck Weis
-- `We are gathered here...Jean.md` — Memorial for Jean; Lazarus raised
+- `We are gathered here today to celebrate the memory of Jean.md` — Memorial for Jean; Lazarus raised
 - `Kurt was a man I loved dearly.md` — Eulogy for Kurt
 - `psalm 23 1-4..md` — Psalm 23:1-4 — Shadow of death
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Judy Ayers memorial; death as homecoming
@@ -749,7 +794,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` — 1 Corinthians 9:19-23 — Why share the gospel; duty vs. joy as motive; "starving beggars telling other starving beggars where they found a feast"; invest in worship to fuel evangelism
 - `col 4 - prayer.md` / `prayer col 4.md` — Colossians 4:2-4 — Prayer and evangelism
 - `Psalms 96.md` — Psalm 96 — Evangelism as worship
-- `romans 9-10 paris evangelism.md` — Romans 9:1-3 / Romans 10 — Paris attack pastoral response (prob. Nov. 13, 2015); Paul's unceasing anguish for the lost; Spurgeon, Piper, Platt, Whitefield, Edwards on evangelism urgency; Muslim outreach; Jonah sovereignty; ta ethne (Rev 7)
+- `romans 9-10 paris evangelism.txt` — Romans 9:1-3 / Romans 10 — Paris attack pastoral response (prob. Nov. 13, 2015); Paul's unceasing anguish for the lost; Spurgeon, Piper, Platt, Whitefield, Edwards on evangelism urgency; Muslim outreach; Jonah sovereignty; ta ethne (Rev 7)
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Evangelism framework for the occult; power encounter; Creation-Fall-Cross-Redemption
 - `Romans 15b - The Mission in the Early Light.md` — Romans 15:14-33 — Priestly service of the gospel; frontier ambition; Jerusalem collection; Paul's missionary strategy; prayer as mission engine
 
@@ -773,7 +818,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Gospel / Justification / Righteousness
 - `Romans 3 - pt 2.md` — Romans 3:10-end — No one righteous
-- `Romans 4...md` — Romans 4:1-8 — Credited righteousness
+- `Romans 4 - In Christ Alone- Where Justice Meets Grace.md` — Romans 4:1-8 — Credited righteousness
 - `Romans 4 - In Christ Alone- Where Justice Meets Grace.md` — Romans 4:1-8 — Justification by faith; logizomai (crediting righteousness); Abraham and David as proof; "ledger of the guilty" illustration; Spurgeon, Calvin, Edwards, Sproul quotes; wages of sin vs. gift of grace
 - `gal 2.md` — Galatians 2:15-end — Justification by faith
 - `2 cor 5.md` — 2 Corinthians 5:16-6:3 — New creation
@@ -787,6 +832,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Leprosy - naaman - 2kings 5 2024.md` — 2 Kings 5 — Naaman; 2024 revision of the Naaman grace sermon
 - `sola gracia.md` / `sola gracia 2021.md` — John 6 — Grace alone
 - `sola gracia phil 3.md` — Philippians 3:1-12 — Grace alone; Paul's résumé as refuse; total depravity
+- `Eph 2 - but God.txt` — Ephesians 2 — "But God, being rich in mercy"; alive together with Christ; undeserved grace
 
 ### Hell / Judgment / Wrath
 - `rev 20.md` — Revelation 20:11-15 — Horrors of hell
@@ -799,7 +845,6 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Holiness / Sanctification / Putting Off Sin
 - `hamartiology.md` — Colossians 3:1-11 — The weight of sin
-- `I have been thinking about going back to seminary.md` — Col 3:1-17 — Putting sin to death
 - `Mark 4.md` — Mark 4:26-34 — Growing seed; sanctification
 - `1 peter 1 - legacies.md` — 1 Peter 1:13-end — Be holy
 - `Romans_6b_with_boulder.md` — Romans 6:15-23 — Dead to sin; alive to God
@@ -816,7 +861,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 15b - The Mission in the Early Light.md` — Romans 15:30 — Synagonisasthai; prayer as agonizing combat; Paul's vulnerability
 
 ### Hope / Endurance / Perseverance
-- `Romans 15a...md` — Romans 15:13 — God of hope; abound in hope
+- `Romans 15a - The Welcome We've Been Given.md` — Romans 15:13 — God of hope; abound in hope
 - `Titus 2 pt 2.md` — Titus 2:11-14 — Hope in the second coming
 - `Philippians 3 - 2025.md` — Philippians 3:1 — Rejoicing and sovereignty
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:3-9 — Living hope through resurrection; imperishable inheritance; eternity contrasted with Buddhism (sermon lines 81-85)
@@ -856,7 +901,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 ### Marriage / Family
 - `Grannys Wedding jn 316.md` — John 3:16 — Christian marriage
 - `Imagine tomorrow was your anniversary.md` — Worshipping from love not obligation
-- `Romans 15a...md` — Application: marriage struggles and welcome
+- `Romans 15a - The Welcome We've Been Given.md` — Application: marriage struggles and welcome
 
 ### Obedience / Faithfulness / Diligence
 - `Josh 7 & 8.md` — Joshua 7-8 — Consequences of leaving God out
@@ -885,7 +930,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 ### Racial Reconciliation / Unity
 - `Cultural Marxism.md` — Romans 10:12-13 — Biblical racial equality
 - `romans 12 - weep with those who weep.md` — Romans 12 — Racial injustice; weeping
-- `Romans 15a...md` — Romans 15:7-12 — Jew and Gentile; one voice
+- `Romans 15a - The Welcome We've Been Given.md` — Romans 15:7-12 — Jew and Gentile; one voice
 
 ### Resources / Unattributed Material
 
@@ -900,7 +945,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Psalms 119.md` — Psalm 119:161-168 — Treasure of scripture; Bible smuggling
 - `2 tim 3.md` — 2 Timothy 3:14+ — Authority and sufficiency of Scripture
 - `sola scriptura.md` / `Sola Scriptura 24.md` — 2 Timothy 3 — Scripture alone
-- `psalms 1 (12-5-19).md` / `psalms 1 3-15-25...md` — Psalm 1 — Neglecting scripture
+- `psalms 1 (12-5-19).md` / `psalms 1 3-15-25 (edited with AI).md` — Psalm 1 — Neglecting scripture
 - `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — The Word of God as the seawall; "follow the pattern of the sound words"; guard the good deposit; Scripture washes politics and discourse (line 55)
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Scripture has a "washing effect"; have them read it aloud; the sufficiency of Scripture vs. the Pope's chair (lines 69, 151-155)
 
@@ -920,7 +965,6 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Shepherding / Pastoral Care
 - `Psalm 23` (multiple versions) — God as shepherd
-- `Manatee Creek Sheep.md` — (sheep breeding, but useful for shepherd illustrations)
 - `psalms 23 pt 2.md` — Rod and staff; goodness and mercy
 - `John 10.md` — John 10:7-11 — Wicket gate; good shepherd
 
@@ -929,8 +973,8 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Gen 3.md` — Genesis 3:1-6 — The fall; trusting self over God
 - `hamartiology.md` — Colossians 3:1-11 — Doctrine of sin
 - `Romans 1.md` / `Romans 1 (2024).md` — Romans 1 — Suppression of truth
-- `Romans 2...md` — Romans 2:1-11 — Hypocrisy
-- `Romans 3...md` — Romans 3 — None righteous
+- `Romans 2 mt 23 col 3 eph 2.md` — Romans 2:1-11 — Hypocrisy
+- `Romans 3 - pt 2.md` — Romans 3 — None righteous
 - `ps14.md` — Psalm 14 — Foolishness; the fall
 - `vbs 2019.md` — Ephesians 2 — Depravity of man
 - `Psalms 1.md` — Psalm 1 — Downward progression of sin
@@ -970,7 +1014,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - The Magnet on the Compass.md` — 1 Samuel 17 — David as type of Christ: fights without armor as Christ fights through apparent weakness; uses Goliath's own sword as Christ uses death itself; David fights on behalf of Israel as Christ fights on behalf of his people (lines 78-86)
 
 ### Welcome / Hospitality / Unity in the Church
-- `Romans 14a...md` through `Romans 15a...md` — Romans 14-15 — Weak and strong; welcome one another
+- `Romans 14a - The Welcome That Costs You Nothing.md` through `Romans 15a - The Welcome We've Been Given.md` — Romans 14-15 — Weak and strong; welcome one another
 - `Romans 15b - The Mission in the Early Light.md` — Romans 15:25-27 — Jerusalem collection as cross-ethnic generosity; gospel creates family across divides
 - `1 peter 3 brotherly love.md` — 1 Peter 3:8-18 — Brotherly love
 - `1 john 3 pt 2.md` — 1 John 3:11-24 — Love among believers
@@ -980,9 +1024,9 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 ### Worship
 - `Psalms 96.md` — Psalm 96 — Worship; evangelism as worship
 - `Psalms 100.md` / `Psalms 100(2).md` — Psalm 100 — Serving with gladness
-- `psalms 84...md` (multiple) — Psalm 84 — Dwelling in God's presence
+- `Psalms 84(1).md` / `Psalms 84 (2).md` / `psalms 84 - better is one day (AutoRecovered).md` — Psalm 84 — Dwelling in God's presence
 - `Imagine tomorrow was your anniversary.md` — Worshipping from love not obligation
-- `The Lords day.md` — Romans 14:1-12 — Lord's Day; Sabbath freedom; legalism vs. liberty; opens with Meo people group prayer; paraphrase of Mk 2:27 (the Sabbath is for man, not man for the Sabbath)
+- `Sermon - The Lord's Day.md` / `The Lords day romans 14 gal 4.md` — Romans 14:1-12 — Lord's Day; Sabbath freedom; legalism vs. liberty; opens with Meo people group prayer; paraphrase of Mk 2:27 (the Sabbath is for man, not man for the Sabbath)
 - `The Lords day romans 14 gal 4.md` — Romans 14 / Galatians 4 — Lord's Day; variant manuscript with Galatians 4 cross-reference
 
 ---
