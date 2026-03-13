@@ -502,6 +502,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Ephesians 5:4; Genesis 22 | Thanksgiving; smashing idols; Abraham and Isaac | `thanksgiving 2018.md` | sermon |
 | Ephesians 2 | VBS Sunday closing; theological anthropology ("But God"); Malay of Indonesia people group; extended depravity list from Ephesians (walkers in iniquity through unarmored and unable to withstand evil); 1 Cor 2:14; "But God" as pivot (Eph 2:4); parent-child love analogy; Billy Sunday quote (verified: "I'm against sin. I'll kick it as long as I've got a foot…"); sanctification through the Spirit; gospel as starting point | `Eph 2 - but God.txt` | sermon |
 | Ephesians 5:4 | Shorter Thanksgiving service; gratitude vs. bitterness; citation from Piper article (source unverified); congregational prayer; pastoral illustration on condescension and idol-smashing | `thanksgiving eph 5.md` | sermon |
+| Ephesians 3:3-6 | The Covenants — God's Unfolding Plan from Adam to Christ; Edenic/Adamic/Noahic/Abrahamic/Mosaic/Davidic covenants as covenants of works → new covenant of grace; mystery of Christ; Kirar of India people group (Joshua Project: ~979K, Hindu, unreached); 400 years of silence (intertestamental); Gen 3:15 "he shall bruise your head" thread through each covenant; man's utter inability demonstrated through Adam/Noah/Abraham/Moses/David; local murder illustration (man killed by PT Cruiser); gospel | `Eph 3 - The Covenants.md` | sermon |
 
 ### Philippians
 
