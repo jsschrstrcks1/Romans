@@ -336,7 +336,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Isaiah 43:16-25 | Against the prosperity gospel; suffering | `IS 43 anti-prosperity gospel.md` | sermon |
-| Isaiah 49:22-25 | God's protection; contending with idolatry | `Isaiah 49.md` | sermon |
+| Isaiah 49:22-25 | I Will Save Your Children — Billy Graham tribute (215M people, 185 countries; ⚠️ MLK bail story disputed; Grant Wacker *America's Pastor* quote ⚠️ verify against book); Isaiah's ministry in Jerusalem (~740–680 BC) during Assyrian threat; ⚠️ original had Isaiah exiled to Assyria (corrected — he remained in Jerusalem); ⚠️ original had Shadrach/Daniel during Assyrian captivity (corrected — Babylonian); ⚠️ original called Jeremiah an Isaiah contemporary (corrected — Jeremiah ~627 BC, after Isaiah); prophets as spiritual parents; American idolatry (comfort, wealth, materialism); Katrina/Irma illustrations; David's family as example of godly parent with wayward children; Billy Graham's last Facebook post (Feb 20, 2018, verified); Proverbs 22:6 applied as parental hope; ⚠️ original misattributed Jer 29:11 as NT and Prov 22:6 as Psalm (corrected); Romulus and Remus (⚠️ spelling corrected from "Romulous and reemus"); Romans 3:23; gospel | `Isaiah 49.md` | sermon |
 | Isaiah 53 | The rejection and suffering of Christ prophesied | `is 53.md` | sermon |
 
 ### Jeremiah
