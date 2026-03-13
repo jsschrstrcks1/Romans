@@ -453,8 +453,8 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Romans 3:10-end | Archery/mountain illustration (line up at base of mountain, target = glory of God at top — nobody's arrow even threatens to hit the mark); *hamartia* = "to miss the mark" — the radiant, flawless glory of God; "none righteous, no not one" (v.10); garage fire pastoral anecdote ("God wants you to get back in church"); Jeremy Camp "Holy fire burn away" reference; God not grading on a curve — measuring against His holiness; cruel spouse illustration (callback from previous week's wrath sermon); A.W. Tozer t-shirt summation ("God has already factored in my stupidity" — ⚠️ not a direct Tozer quote, sermon acknowledges this); Tozer actual quotes ("God never hurries" / "God knows instantly and effortlessly all matter"); "shot myself in the foot and accidentally shot Bob Moulds" (congregant named); 2 Cor 12:9 "power made perfect in weakness"; Special Olympics wheelchair friend illustration ("What have I really won if all I've done is beat people with the same limitations?"); whitewashed tomb / cleanest sinner analogy; law as courtroom transcript / mirror not ladder; "climbing out of a pit by digging deeper"; Rom 3:19-24 exposition — "But now" thunderous turn; righteousness imputed not earned; Col 3 "hidden in Christ with God"; Third Day "I'll give you my life" (Mac Powell); Rom 3:27 boasting excluded; gospel | `Romans 3 - pt 2.md` | sermon |
 | Romans 4:1-8 | Justification by faith; credited righteousness | `Romans 4 - In Christ Alone- Where Justice Meets Grace.md` | sermon |
 | Romans 5:1-11 | Peace with God; love poured out; wrath satisfied | `Romans 5.md` | sermon |
-| Romans 6:15 | Can we sin occasionally? Habitual vs. occasional sin (6:1 vs. 6:15 Greek verbal distinction); slavery to sin (6:16, 6:20-21); gossip; marriage/church-attendance illustration; Locked Up Abroad; witness protection / new creation (2 Cor 5:17, verified); Heb 13:5 (verified); bee/orchid illustration; Great Pumpkin (paraphrase — corrected in file); benefits of obedience; fool's gold; outward sincerity not enough | `romans 6 15 can we sin occasionally.md` | sermon |
-| Romans 8:12–17, 31–39 | Debtors to the Spirit; adoption; election; security of salvation; mini-golf debt illustration; title misspelled in original ("Debters"); 9 outstanding items in file: Romans 3:23 misapplied for death penalty (should be 6:23), Isaiah 66:1 conflation (heavens vs. earth as footstool), Romans 5:8 and 10:9 paraphrases differ from ESV, "demons" added to 8:38 list | `romans 8 12-17 debtors to the spirit.md` | sermon |
+| Romans 6:15 | Can we sin occasionally? Habitual vs. occasional sin (6:1 vs. 6:15 Greek verbal distinction); slavery to sin (6:16, 6:20-21); gossip; marriage/church-attendance illustration; Locked Up Abroad; witness protection / new creation (2 Cor 5:17, verified); Heb 13:5 (verified); bee/orchid illustration; Great Pumpkin (paraphrase — corrected in file); benefits of obedience; fool's gold; outward sincerity not enough | `romans 6 15 can we sin occasionally.txt` | sermon |
+| Romans 8:12–17, 31–39 | Debtors to the Spirit; adoption; election; security of salvation; mini-golf debt illustration; title misspelled in original ("Debters"); 9 outstanding items in file: Romans 3:23 misapplied for death penalty (should be 6:23), Isaiah 66:1 conflation (heavens vs. earth as footstool), Romans 5:8 and 10:9 paraphrases differ from ESV, "demons" added to 8:38 list | `Romans 8.12-17 - Debtors to the Spirit.md` (root) / `romans 8 12-17 debtors to the spirit.txt` (Other-Sermons) | sermon |
 | Romans 8:26+ | Order of salvation and BFM | `Ordo Solutis Romans 8.md` | teaching |
 | Romans 9:1-3 / Romans 10 | Evangelism urgency; Paris attack pastoral response (prob. Nov. 13, 2015 Bataclan); Paul's anguish for the lost; Spurgeon (verified: "Wailing of Risca" sermon, 1860); Whitefield (13 Atlantic crossings, ~18,000 sermons); Edwards Resolution 7 (verified); Edwards Res. 1 & 2 (paraphrase — corrected in file); Florida Muslim statistic corrected from original; "Aleutian" corrected to "Algerian"; Jonah sovereignty; ta ethne (Rev 7); Balaam's donkey | `romans 9-10 paris evangelism.txt` | sermon |
 | Romans 12 | Racial injustice; weeping with those who weep | `romans 12 - weep with those who weep.md` | sermon |
@@ -663,9 +663,9 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 | File | Contents |
 |---|---|
 | `Alef.md` | Hebrew alphabet listing |
-| `Animal Instructions.md` | Farm animal care instructions |
-| `Antigua.md` | Caribbean island and cruise port list |
-| `AutoRecovery save of Document4.md` | COVID-19 pandemic personal journal |
+| `Animal Instructions.docx` | Farm animal care instructions |
+| `Antigua.md` | Caribbean island and cruise port list (file may have been removed) |
+| `AutoRecovery save of Document4.md` | COVID-19 pandemic personal journal (file may have been removed) |
 | `BCO5500 Online Syllabus Fall 2018.md` | Seminary biblical counseling syllabus |
 | `Let the Nations be Glad PT 2-3.md` | Seminary book review — *Let the Nations be Glad* Parts 2–3; reflection on suffering in missions and the cost of martyrdom; Ken Baker 000210914 |
 | `bfm holy spirit.md` | Baptist Faith and Message article text |
@@ -1007,7 +1007,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `John 10.md` — John 10:7-11 — Wicket gate; good shepherd
 
 ### Sin / Depravity / The Fall
-- `romans 8 12-17 debtors to the spirit.md` — Romans 8:12–17 — Living by the flesh; debt of sin; humanity chose the Fall; traded perfection for corruption
+- `Romans 8.12-17 - Debtors to the Spirit.md` (root) — Romans 8:12–17 — Living by the flesh; debt of sin; humanity chose the Fall; traded perfection for corruption
 - `Gen 3.md` — Genesis 3:1-6 — The fall; trusting self over God
 - `hamartiology.md` — Colossians 3:1-11 — Doctrine of sin
 - `Romans 1.md` / `Romans 1 (2024).md` — Romans 1 — Suppression of truth
