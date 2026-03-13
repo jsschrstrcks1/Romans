@@ -1184,4 +1184,139 @@ The congregation has been given permission to suffer. They have not been given l
 
 ---
 
-*Last updated: March 2026. Cross-referenced against sermon-map.md (1,043 lines) and theological-map.md (1,018 lines).*
+## Part XII: Corrections and New Findings After Sermon-Map Expansion (PR #90)
+
+*This section corrects prior ratings and identifies new findings that emerged from the sermon-map expansion in PR #90 (`add-missing-sermons-maps-Zqd0d`), which added Joshua sections (Josh 2 & 6, Josh 10), the James section (James 1), Job 42, Jeremiah 44, John 1, John 4, John 13, John 20, Luke 10, Luke 14, Matthew 5, Genesis 39, Judges 1–2 (raw notes), Judges 6 (raw notes), and Nehemiah 4. The branch was then rebased onto main (commit d0be9d1). All corrections supersede the prior rating.*
+
+---
+
+### Corrections to Prior Parts
+
+#### 1. Joshua (Part V, Part VI — was: "Josh 9 only — thin")
+
+**Correction: Well-covered. Rating revised to ★★★.**
+
+Prior analysis based on the mapped state at the time. The full map (including pre-PR #90 entries at the sermon-map appendix plus new entries from PR #90) shows:
+
+| File | Passage |
+|------|---------|
+| `Joshua 2 & 6 - An Unlikely Hero.md` | Josh 2; Josh 6 — Rahab; typology (red cord → blood of Christ); redemptive-historical lineage |
+| `Josh 7 & 8.md` | Josh 7–8 — consequences of leaving God out |
+| `Sermon - The Price of Integrity.md` | Josh 9 — Gibeonite deception; integrity |
+| `Joshua 10 - The Power of God.md` | Josh 10 — prayer as first step; protoevangelium |
+| `Joshua 24.md` / `Joshua 24 - 2024.md` | Josh 24 — "choose this day whom you will serve" |
+
+Joshua is one of the best-covered OT narrative books in the corpus. The claim in Part VI that Joshua was "never preached from" was incorrect; it belongs on neither the thin-coverage nor the never-preached list.
+
+**Remaining genuine gap:** Joshua 1 (the commissioning — "be strong and courageous"; Deut 31 handover; Josh 1:8 on Scripture meditation) — never a primary text.
+
+---
+
+#### 2. Job (Part V, Part VIII — was: "Job 1 only — thin; Job 38–42 absent")
+
+**Correction: Job 1 + Job 42 now mapped. Rating revised to ★★ (thin but includes the climax).**
+
+`Job 42 - What We Think About God.md` was already in the filesystem and is now mapped. Key content:
+
+- **Tozer** (*Knowledge of the Holy*, opening line) — verified ✓
+- **God's anger at wrong theology** (Job 42:7–9) — the congregation has never been told God holds them accountable for *what they believe about him*
+- **Prosperity gospel refutation** — the most extensive and best-sourced treatment of the prosperity gospel in the entire corpus; refuted serially through the apostolic martyrdom walkthrough
+- **Apostolic martyrdom walkthrough** — all twelve listed; sourced by reliability tier (James: Acts 12:2 Scripture; John: Rev 1:9 Scripture; Peter: Tertullian/Eusebius strong tradition; Thomas/Andrew/Philip: moderate tradition; Matthew/Bartholomew/Simon/Matthias: acknowledged as sparse or disputed; Paul: beheading under Nero, well-attested)
+- **Tertullian** — "semen est sanguis Christianorum" — Latin form correct; English expansion noted as paraphrase, not translation ✓
+- **613 commandments** — Talmud Makkot 23b; Maimonides codification — accurate and sourced ✓
+- **Sermon incomplete** — notes end at "Romans 10:9." Gospel presentation and closing appeal need to be written before delivery
+
+**Remaining genuine gap:** Job 38–40 (God's speeches from the whirlwind — the theodicy, the cosmological questions, God's direct answer to suffering) — the most theologically rich section of Job and still absent.
+
+---
+
+#### 3. James (Part V — was: "James 1–5 — Well-Covered")
+
+**Correction: Only James 1 (raw notes, incomplete). Rating revised to ★ (thin).**
+
+The Part V "well-covered" rating appears to have been based on James appearing extensively as a cross-reference text across the corpus (James 1:2-4 in John 11; James 2:19 in Neh 1; James 2:15-16 in the Church Hotel Policy; James 4:6 in the Journey in Grace study). Cross-reference presence is not preaching coverage. As a primary text, only one James sermon exists:
+
+- `James 1 - Bondservants in the Crucible.md` — James 1:1-4 (raw notes, incomplete; gospel placeholder at end). Covers: δοῦλος (slave identity), BFM Article III on Man (anthropology), ὑπομένω (perseverance), Heb 12:1-3, Noah's ~75-year perseverance, Marines Crucible illustration.
+
+**James 2–5 has never been a primary preaching text.**
+
+This is a significant gap for a Reformed Baptist congregation, because:
+
+- **James 2** ("faith without works is dead") is the first text critics of Reformed soteriology cite. The congregation has no primary sermon equipping them to interpret James 2 in context — to explain the relationship between justification and sanctification, between Pauline and Jamesian soteriology, between the faith that saves and the faith that shows
+- **James 3** (the tongue / wisdom from above) — practical holiness for a congregation regularly engaged in evangelism and relationships
+- **James 4** (worldliness, humility, "God opposes the proud") — cited in the Journey in Grace study but never preached
+- **James 5** (prayer of faith; anointing the sick; Elijah's prayer) — directly relevant to the congregation's prayer culture; never preached
+
+---
+
+#### 4. John (Part V — was: John 3, 5–6, 10–14, 16, 20 covered; John 1 and John 4 listed as gaps)
+
+**Correction: John 1 and John 4 now mapped. Narrowing the gap.**
+
+- `John 1.md` — *The Logos* (John 1:1-18): *en archē*; Logos as Greek philosophical search for the rational principle behind reality; NASA nebula illustration; "the world missed Him" (John 1:9-14); *tetelestai* and the fullness of Christ's ministry; Einstein's Spinoza's God (noted without endorsing); communion.
+- `John 4 - Woman at the Well.md` — John 4:7-26: betrothal type-scene; five husbands / five foreign gods (2 Kings 17, Calvin); God-shaped hole (Augustine, C.S. Lewis); Huffington Post "heal yourself" rebuttal; Muhamasheen people group of Yemen; woman's conversion → immediate mission (sets down water jar).
+
+**Remaining genuine John gaps:** John 7–9 (healing of the blind man — sight/depravity/regeneration), John 15 (abiding in the vine — though covered partially in 1 John Little Children via John 15:1-11), John 17 (High Priestly Prayer), John 18–19 (trial and Passion narrative).
+
+---
+
+#### 5. Apologetics (Part XI, Gap 10 — was: "evidential case for resurrection, not systematic")
+
+**Update: Job 42 apostolic martyrdom walkthrough is the strongest evidential apologetics content in the corpus. Rating revised to ★★ (from ★).**
+
+The walkthrough in `Job 42 - What We Think About God.md` is sourced by reliability tier, distinguishes Scripture from tradition, notes where traditions are early vs. late, and builds a coherent argument: if the prosperity gospel is true, all the apostles were lost — and Jesus was lost too. This is structured evidential reasoning from historical data, not a passing reference. It is the most careful piece of apologetic argumentation in the entire corpus.
+
+**Remaining genuine apologetics gaps:**
+- 1 Corinthians 15:3-8 as a unit of historical argument for the resurrection (appears in context in Easter sermons but never as a primary apologetics case)
+- Classical arguments (cosmological, teleological) as a *named* unit — the fine-tuning content exists but has never been gathered into a coherent standalone case
+- Presuppositional vs. evidential methodology — not addressed
+
+---
+
+### New Flags: Unverified Claims in Newly-Mapped Sermons
+
+These claims were identified as unverified in the sermon manuscripts themselves (editorial notes embedded in the text). They are listed here for action before the sermons are preached.
+
+| File | Claim | Status |
+|------|-------|--------|
+| `Jeremiah 44 - The Altar of Your Heart.md` | Paul Washer — "to sin is more than just breaking a rule — it's grieving the person who loves us beyond measure" | ⚠️ **UNVERIFIED.** Not traced to any Washer sermon, transcript, or publication. Widely circulated without citation. Do not attribute from the pulpit until a specific source is identified. Use without attribution or replace with a verified source. |
+| `Jeremiah 44 - The Altar of Your Heart.md` | Thomas Manton — "We make light of sin, but Christ found it not so light" | ⚠️ **UNVERIFIED.** Not located in Manton's digitized works (CCEL, Wesley Center). Consistent with his tone but unconfirmed. If available in a printed volume, verify before using. |
+| `John 13 - He Washed Their Feet (raw notes).md` | "~13% genuine believers in the US" | ⚠️ **UNVERIFIED/DATED.** Map notes: figures tied to a ~2016 survey (based on 323M population). Source should be confirmed against Pew, LifeWay, or Gallup before use. The figure is plausible but may be outdated and its origin is not identified in the manuscript. |
+| `Job 42 - What We Think About God.md` | Prosperity gospel fraud — named pastor and dollar figure (in raw notes) | ⚠️ **NOT IN MANUSCRIPT (already removed).** The raw notes contained a named example; it could not be verified and was replaced with a placeholder. Confirm from a reliable news source before adding back. |
+| `Job 42 - What We Think About God.md` | Sermon incomplete | ⬜ Gospel presentation ends at "Romans 10:9" placeholder. Full closing needed before delivery. |
+| `James 1 - Bondservants in the Crucible.md` | Sermon incomplete | ⬜ Notes end at armor of God section. Gospel presentation placeholder present. Full closing needed before delivery. |
+
+---
+
+### New Findings: Additional Content Not Previously Mapped
+
+**Jeremiah 44 — The Altar of Your Heart.** First Jeremiah sermon mapped in full. The idolatry-of-disobedience argument (failure to evangelize as a form of idol worship — self placed on the heart's altar) is pastoral and original. LifeWay 2012 statistic (61% of churchgoers had not shared the gospel in the prior six months) is verified and the manuscript corrects the original 90% figure. A.W. Pink closing quote verified ✓ (*Studies on Saving Faith*, exact wording).
+
+**John 20 — Do Not Disbelieve.** Thomas sermon with the Uzbekistan house church testimony (27 believers, 22 who did not recant under armed coercion). Strong evangelism and perseverance content. Thomas's prior courage established from John 11:16 before addressing his doubt — contextually responsible.
+
+**Luke 14 — The Party and the Excuses** (Parable of the Great Banquet). Heaven described from five texts (John 14:2; Matthew 18:10; Revelation 5:9-10; 1 Corinthians 2:9; Revelation 21:4). Uncle Rich cancer testimony (PET-CT, tumors reduced to two lung spots — mid-sermon). This is one of the few sermons that describes heaven positively and at length.
+
+**Matthew 5:13-16 — Salt and Light.** Samuel Rutherford extended quote (Communion Sermon 2, modernized) — bride of Christ loving the sin that killed her husband. Ten Commandments walkthrough (idolatry, Lord's name, stealing, lying, murder via 1 John 3:15). The seminary friend smoking behind the pepper plant ("it's just my lungs") is one of the preacher's best integrity illustrations.
+
+**Journey in Grace — Chapters 18 & 20** (men's Bible study, added in PR #92). Covers infralapsarianism vs. supralapsarianism, the justice objection to unconditional election, and limited atonement. This is study-guide content, not a sermon, but it is the most sustained treatment of *particular redemption* (limited atonement) in the entire corpus — an area rated ★ in Part IX's soteriology audit. The study is theologically careful: the dictionary test (every word used to accuse God of injustice — tyrant, despot, autocrat — describes the relationship between equals) is a strong apologetic move. This material partially fills the Part IX gap on particular redemption, but only in the men's study format, not from the pulpit.
+
+---
+
+### Summary: What Changed
+
+| Item | Prior Rating | Revised Rating | Basis |
+|------|-------------|----------------|-------|
+| Joshua coverage | ★ ("Josh 9 only — thin") | ★★★ (well-covered) | Josh 2, 6, 7, 8, 9, 10, 24 all exist |
+| Job coverage | ★ ("Job 1 only") | ★★ (thin but includes climax) | Job 42 now mapped |
+| James coverage | ★★★ ("Well-Covered") | ★ (only James 1, incomplete) | Only one James sermon found; James 2–5 never preached |
+| John coverage | ★★ (John 1 and 4 listed as gaps) | ★★ (narrowed) | John 1 and John 4 now mapped |
+| Apologetics | ★ | ★★ | Job 42 martyrdom walkthrough is substantive evidential apologetics |
+| Particular redemption | ★ | ★ + study | Journey in Grace Ch.20 covers limited atonement in men's study format |
+
+---
+
+*Part XII compiled March 2026. Branch rebased onto main (d0be9d1) after fetching origin/main. Corrections verified against direct file reads of `Joshua 2 & 6 - An Unlikely Hero.md`, `Josh 7 & 8.md`, `Joshua 24.md`, `Job 42 - What We Think About God.md`, `James 1 - Bondservants in the Crucible.md`, `Jeremiah 44 - The Altar of Your Heart.md`, `John 1.md`, `John 4 - Woman at the Well.md`, and `Journey in Grace bible study - Chapters 18 and 20.md`. All gap claims reflect this repository only.*
+
+---
+
+*Last updated: March 2026. Cross-referenced against sermon-map.md and theological-map.md.*
