@@ -47,3 +47,35 @@ The same is true of our denominations today. What after all is a Baptist, or a P
 We need to be careful to not become puffed up, or depressed because of what God does. Sometimes God sends blessings, and sometimes God leads us into the desert. Sometimes there will be standing room only, and sometimes its just us. So long as we are doing what God wants, the rest is up to God. God brings here whom he wants when he wants for his own reasons. We just have to be faithful to share the gospel with those that do. 
 
 I had more planned to say, but I don’t think I can finish it in the time remaining, so we will hold off on that, here is a list of verses that I hope you will look up and read in the coming week. So lets close by spending a few minutes in prayer for our denomination. There are issue theological that we are facing, that are infecting the seminaries, that need to be brought to our Lord in prayer. Namely this idea of woke theology. We as a denomination are allowing race to enter into the lens through which we read the bible. Its dangerous and wrong. It seems from my position to be a growing cancer. Lets pray for God to cut it out, and for all the other needs we have. In fact I’ll open, I need someone to pray in the middle, and someone to close?
+
+---
+
+## Integrity Log
+
+**File**: `being baptist.md`
+**Review date**: 2026-03-13
+**Status**: Raw transcript with corrections applied
+
+### Scripture Corrections Applied
+1. **1 Corinthians 3:11**: Original quoted NIV wording ("any foundation other than the one already laid"). Corrected to ESV: "For no one can lay a foundation other than that which is laid, which is Jesus Christ."
+2. **Acts 18:24-28**: The sermon’s summary of the Apollos narrative is mostly accurate. Minor overstatement: calling Apollos "a follower of John the Baptist" — the ESV says he "knew only the baptism of John" (v.25), meaning his knowledge was incomplete, not that he was merely a disciple of John. He already "taught accurately the things concerning Jesus" (v.25). Left as-preached — the homiletical point stands.
+
+### Factual Corrections — Flagged ⚠️
+3. **Donatist description**: The sermon’s characterization of the Donatists is substantially inaccurate on 4 of 5 points. ⚠️ The Donatists were 4th-century North African rigorists whose core dispute was about whether sacraments administered by morally compromised clergy (*traditores*) were valid. They insisted on the purity of the church community and its ministers. They did NOT: (a) believe tradition superseded Scripture; (b) teach works-salvation; (c) believe man could be perfect without God’s help. They were rigorists about ministerial purity, not Pelagians. Augustine opposed them by arguing sacramental validity depends on Christ, not the minister’s holiness. The one partially correct claim is that ministers had to demonstrate moral purity — but the sermon overstates this into full self-perfection. Left as-preached — flagged here for future sermon preparation.
+4. **Baptist origins**: The sermon says Baptists have roots "in Geneva under Calvin" and "in Germany under Luther" via Anabaptists. The scholarly consensus is that Baptists emerged primarily from **English Separatists/Puritans** (John Smyth, Thomas Helwys, c. 1609-1612), with theological (not organizational) debts to the Reformation. The English Separatist origin is not mentioned. Left as-preached — flagged.
+5. **"Almost every church held to Calvinism"**: Overstated. The **General Baptists** (founded first, c. 1609) were Arminian. The **Particular Baptists** (late 1630s) were Calvinist and became more numerically dominant. More accurate for early American Baptists specifically. Left as-preached — flagged.
+6. **"Hugely popular book"**: Almost certainly J.M. Carroll’s *The Trail of Blood* (1931). Identification is reasonable.
+
+### Verified and Left Alone
+- **Landmarkism description**: Accurate characterization of Landmark Baptist theology.
+- **Heraclitus** ("early philosopher... everything made of fire"): Correct — Heraclitus of Ephesus (fl. c. 500 BC), fire as the *arche*.
+- **SBC Conservative Resurgence**: Accurate in broad strokes — the 1979-2000 movement led by Pressler and Patterson to return SBC institutions to conservative theology.
+- **"Woke theology" / CRT controversy**: Correctly identified — flashpoint was Resolution 9 at the 2019 SBC Annual Meeting in Birmingham.
+- **Baptist distinctives** (biblical authority, believers’ baptism, regenerate church membership, local church autonomy): Standard Baptist identity markers, accurately described.
+- **Apollos/Rocky joke**: Personal humor, left as-is.
+
+### Intentionally Left Alone
+- Raw transcript format preserved
+- Polemical characterizations left as-preached
+- Spelling and grammar irregularities left as-is (raw transcript)
+- "Woke theology" section left as-preached — reflects the preacher’s position on a live denominational debate

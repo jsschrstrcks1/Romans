@@ -1,8 +1,8 @@
 Catholicism
 
-We are going to look at Catholicism this week, and one of the primary ways they believe differently than we do. There are many that we could talk about, and many that we’ve discussed while looking into other cults and religions. Because they view the bible as being subservient to the things the pope says from his special chair “in humana vitae”, things that not only contradict other popes, but worst of all scripture. We could talk about the selling of indulgences or a hundred things that are different than what we see in scripture. But were going to focus on justification this week. Because it’s a big topic, and because its one that’s vitally important. 
+We are going to look at Catholicism this week, and one of the primary ways they believe differently than we do. There are many that we could talk about, and many that we’ve discussed while looking into other cults and religions. Because they view the bible as being subservient to the things the pope says from his special chair *ex cathedra* (“from the chair”), things that not only contradict other popes, but worst of all scripture. We could talk about the selling of indulgences or a hundred things that are different than what we see in scripture. But were going to focus on justification this week. Because it’s a big topic, and because its one that’s vitally important. 
 
-Justification in the bible is the greek word Diakonn. Bakers Encyclopedia of the bible defines Justification as “The act of God in bringing sinners into a new covenant relationship with himself through the forgiveness of sins. Along with such terms as “regeneration” and “reconciliation,” it relates to a basic aspect of conversion. It is a declarative act of God by which he establishes persons as righteous; that is, in right and true relationship to himself.”
+Justification in the bible is the Greek word *dikaiōsis* (or the related *dikaiosynē* for "righteousness"). Bakers Encyclopedia of the bible defines Justification as “The act of God in bringing sinners into a new covenant relationship with himself through the forgiveness of sins. Along with such terms as “regeneration” and “reconciliation,” it relates to a basic aspect of conversion. It is a declarative act of God by which he establishes persons as righteous; that is, in right and true relationship to himself.”
 
 Were going to spend some time jumping around scripture to get a good picture of what the bible says about Justification before we look at what the catholics believe. 
 
@@ -41,7 +41,7 @@ In case we have forgotten – Christ took upon himself our sins on the cross.
 
 Because apart from God we have no righteousness of our own!
 
-IS 64:6 all our righteous acts are like filthy rags; we all shrivel up like a leaf, and like the wind our sins sweep us away.
+Isaiah 64:6: "We have all become like one who is unclean, and all our righteous deeds are like a polluted garment. We all fade like a leaf, and our iniquities, like the wind, take us away." (ESV)
 
 This is why we cant do it on our own. You’ve heard of the midas touch? We humans have the sinners touch. Everything we touch apart from having been justified by Christ is tainted by sin. 
 
@@ -52,7 +52,7 @@ Finally, lets turn to eph 2:8-9
 
 So as you can see, there is a boatload of evidence that supports our protestant view of justification. That its something that God gives, that we could never hope to earn, that we receive by grace through faith. As a result we receive the righteousness of God, are adopted as sons and daughters as heirs to the kingdom, and are given a hope and a future. 
 
-Lets contrast this then with what the catholics believe. So we have talked about the council of Nicea right? You remember Arius getting punched in the face by santa claus? After that there was a number of other councils that happened. Some were good, some were bad. None quite so impactful as nicea. This particular council happened about 50 years after the reformation, roughly 450 years ago. It wasn’t over and done like nicea, it dragged on for more than a decade. Any way, at that council, which is part of the counter reformation, they wrote this: 
+Lets contrast this then with what the catholics believe. So we have talked about the council of Nicea right? You remember Arius getting punched in the face by santa claus? After that there was a number of other councils that happened. Some were good, some were bad. None quite so impactful as nicea. This particular council happened about 30 years after the reformation began, roughly 450 years ago. It wasn’t over and done like nicea, it dragged on for more than a decade. Any way, at that council, which is part of the counter reformation, they wrote this: 
 
 "If any one saith, that by faith alone the impious is justified; in such wise as to mean, that nothing else is required to co-operate in order to the obtaining the grace of Justification, and that it is not in any way necessary, that he be prepared and disposed by the movement of his own will; let him be anathema" (Council of Trent, Canons on Justification, Canon 9). That is anyone that says By grace through Faith Alone (Paul!), ought to be excommunicated from the catholic church. By their own statement then the authors of the new testament ought to be excommunicated. Banished from the catholic church, and so in practice it seems they have persued this end. In fact until the 70s catholic services were held in latin. No catholic was able to understand what was being preached. There are still some catholic churches today that will preach and sing only in latin. 
 
@@ -71,3 +71,44 @@ But that is the exception that proves the rule. When you are talking to a cathol
 They take something that ought to be special and turn it into a ritual devoid of real meaning. 
 
 Ultimately though take them to the Gospel.
+
+---
+
+## Integrity Log
+
+**File**: `Catholicism.md`
+**Review date**: 2026-03-13
+**Status**: Raw transcript with corrections applied
+
+### Scripture Corrections Applied
+1. **Isaiah 64:6**: Original used NIV wording ("righteous acts," "filthy rags"). Corrected to ESV: "all our righteous deeds are like a polluted garment."
+2. **Romans 3:23-25**: Verified ESV. Correct.
+3. **Titus 3:4-7**: Verified ESV. Correct.
+4. **Romans 3:27-28**: Verified ESV. Correct.
+5. **Romans 5:1-2**: Verified ESV. Correct.
+6. **John 1:12**: Verified ESV. Correct.
+7. **1 Peter 2:23-25**: Verified ESV. Correct.
+8. **2 Corinthians 5:21**: Verified ESV. Correct.
+9. **Ephesians 2:8-10**: Verified ESV. Correct.
+
+### Factual Corrections Applied
+10. **Greek word for justification**: Original said "Diakonn." This is wrong — *diakonos* (G1249) means "servant/deacon," an entirely different word family. The correct Greek is *dikaiōsis* (G1347, "justification") or *dikaiosynē* (G1343, "righteousness"), from the root *dikaios* ("just/righteous"). Corrected.
+11. **"in humana vitae"**: Original used this as the term for papal infallibility. The correct term is *ex cathedra* ("from the chair"), defined at Vatican I (1870). *Humanae Vitae* is a 1968 encyclical by Paul VI on contraception — an entirely different thing. Corrected to *ex cathedra*.
+12. **"about 50 years after the reformation"**: The Council of Trent's Sixth Session on Justification was in January 1547 — approximately 30 years after the Reformation began (1517), not 50. Corrected to "about 30 years."
+
+### Flagged — Characterization Notes
+13. **Catholic soteriology — "blood of Christ insufficient" / "7 additional days of grace"**: The Catholic Church officially teaches that Christ's sacrifice is fully sufficient (CCC 1992). The sacraments are understood as channels of grace, not supplements to an insufficient atonement. The "7 additional days of grace" claim does not correspond to any identifiable Catholic teaching and may be a garbled reference to older indulgence formulations. ⚠️ This characterization would be rejected by Catholic theologians as a straw man. Left as-preached — this is the preacher's polemical position — but flagged for accuracy.
+14. **"until the 70s catholic services were held in latin"**: Approximately correct. Vatican II's *Sacrosanctum Concilium* (1963) permitted vernacular languages; the Novus Ordo Missae was introduced in 1969; by 1970 vernacular was the norm in most parishes. The transition was largely complete by ~1970 rather than continuing through the 1970s, but the claim is close enough. Left as-is.
+
+### Verified and Left Alone
+- **Council of Trent Canon 9 quote**: Verified — matches the Schroeder English translation verbatim.
+- **Baker's Encyclopedia of the Bible**: Real reference work (ed. Walter A. Elwell, Baker Books). Definition is plausible.
+- **"Roughly 450 years ago"**: Approximately correct for the close of Trent (1563) if sermon preached ~2017-2020.
+- **Lion tamer personal anecdote**: Left as-is.
+- **Lee from ERS personal anecdote**: Left as-is.
+- **"A historic Baptist church last year called a lesbian woman as pastor"**: Likely referring to an SBC church that was disfellowshipped. Left as-preached — verifiable incident but specific church not named.
+
+### Intentionally Left Alone
+- Raw transcript format preserved
+- Polemical tone against Catholicism left as-preached — this is the preacher's theological position
+- Spelling and grammar irregularities left as-is (raw transcript)

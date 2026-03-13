@@ -50,12 +50,51 @@ The Wrong shall fail,
 The Right prevail,
 With peace on earth, good-will to men."
 
-As he was laying there holding his son who may be dying. With cannons firing in the background, the first thing Henry's mind goes to is "God is not Dead, nor doth he sleep the wrong shall fail, the right prevail with peace on earth good will to men". Its basically a nod to the sovereignty of God. We can only see a tiny fragment of the picture of what God is doing in the world. Even that tiny bit that we can see Paul says is like seeing the back of a rug. Have you ever seen the back of a hand made rug? The front is beautiful – intricate patterns, bright colors, order and love all visible. But if you look at the back it's a tangled up mess. The order in the front is invisible through the chaos of the back. Elsewhere Paul says we see as through a mirror dimly. Have you ever looked into an old mirror? They were not as nice as what we have today and at best you can see general shapes and colors. Fine details are lost to the poor quality of ancient mirrors. That's the best we can hope to see of God's plan here on earth. So when you encounter something like your spouse burning to death, or the possibility of losing a child I hope you can find the place Longfellow found where he was able to depend upon God to work even when he couldn't see what was happening. Even though he couldn't understand it. He know God was at work. He is not dead, nor doth he sleep.
+As he was laying there holding his son who may be dying. With cannons firing in the background, the first thing Henry's mind goes to is "God is not Dead, nor doth he sleep the wrong shall fail, the right prevail with peace on earth good will to men". Its basically a nod to the sovereignty of God. We can only see a tiny fragment of the picture of what God is doing in the world. Even that tiny bit that we can see is like seeing the back of a rug ⚠️ *(the rug/tapestry metaphor is from Corrie ten Boom, not Paul — see integrity log)*. Have you ever seen the back of a hand made rug? The front is beautiful – intricate patterns, bright colors, order and love all visible. But if you look at the back it's a tangled up mess. The order in the front is invisible through the chaos of the back. Elsewhere Paul says we see as through a mirror dimly. Have you ever looked into an old mirror? They were not as nice as what we have today and at best you can see general shapes and colors. Fine details are lost to the poor quality of ancient mirrors. That's the best we can hope to see of God's plan here on earth. So when you encounter something like your spouse burning to death, or the possibility of losing a child I hope you can find the place Longfellow found where he was able to depend upon God to work even when he couldn't see what was happening. Even though he couldn't understand it. He know God was at work. He is not dead, nor doth he sleep.
 
 That story always reminds me of another father who experienced deep loss at Christmas.
 
-Reading this passage (Luke 2) on Christmas is a tradition in my family, and I hope it becomes one in yours. Before presents are opened, often before we even ate breakfast we would sit in the living room and read most of this chapter. The tradition exists to help us keep our focus on the most important part of Christmas. The kids think that's presents. The parents often think its time together as a family. And those things are important. But the most important part of Christmas is the gift that we were given through Christ. Our salvation begins the moment Christ is born, and is consummated with his death on the Cross. It's a time symbolic of God being separated from his Son, and so we celebrate by bringing family together. It's a time to remind us of the Gift God and Jesus gave us, and so we give gifts. The gifts and togetherness are not the point of the holiday, they are the byproduct of what Christ has done for us. They are the byproduct of God very God emptying part of himself out, coming to earth 100% God and 100% man living and walking among us. Experiencing life, and death, happiness, sadness, grief, loss, and temptation. He experienced everything any human does and overcame it. Then in an act of love that should re-define love for us, he went to the cross and allowed himself to be killed on our account. And that is what Christmas is all about. And it's the first time the gospel is preached in scripture.
+Reading this passage (Luke 2) on Christmas is a tradition in my family, and I hope it becomes one in yours. Before presents are opened, often before we even ate breakfast we would sit in the living room and read most of this chapter. The tradition exists to help us keep our focus on the most important part of Christmas. The kids think that's presents. The parents often think its time together as a family. And those things are important. But the most important part of Christmas is the gift that we were given through Christ. Our salvation begins the moment Christ is born, and is consummated with his death on the Cross. It's a time symbolic of God being separated from his Son, and so we celebrate by bringing family together. It's a time to remind us of the Gift God and Jesus gave us, and so we give gifts. The gifts and togetherness are not the point of the holiday, they are the byproduct of what Christ has done for us. They are the byproduct of God the Son setting aside the independent exercise of his divine prerogatives, coming to earth 100% God and 100% man living and walking among us. Experiencing life, and death, happiness, sadness, grief, loss, and temptation. He experienced everything any human does and overcame it. Then in an act of love that should re-define love for us, he went to the cross and allowed himself to be killed on our account. And that is what Christmas is all about. And it's the first time the gospel is preached in scripture.
 
 Greg will you come up, and bring up the kids, and read the passage to them like you would do at home on Christmas morning?
 
 So as we close, I urge you to establish these traditions with your own family. Help keep their eyes upon Christ instead of the flashy fun of the tree remind them of the Gift God gave us.
+
+---
+
+## Integrity Log
+
+**File**: `Luke 2.md`
+**Review date**: 2026-03-13
+**Status**: Raw transcript with corrections and flags applied
+
+### Longfellow Story — Factual Corrections ⚠️
+The Longfellow illustration as preached contains several significant factual errors. Since this is a raw transcript, the narrative is left as-preached but the following corrections are documented for future use:
+
+1. **Wife's death was NOT on Christmas Day**: Fanny Longfellow died **July 9-10, 1861**, from burns after her dress caught fire from sealing wax or a candle (not a cook stove fire). The "Christmas Day" detail is incorrect.
+2. **Cause of fire**: Her light summer dress caught fire while she was using sealing wax to preserve a lock of her child's hair — not from a cook stove apron fire. The "wick to her fat" description is sermonic embellishment not found in historical sources.
+3. **Henry's response**: He first tried to smother flames with a small rug, then used his body. He received burns to his hands and face (grew his famous beard to hide facial scars). He could not attend Fanny's funeral.
+4. **Son's illness**: Charles had camp fever (typhoid), not pneumonia. He fell ill in early June 1863, recovered through July-August.
+5. **Shot day AFTER Thanksgiving**: Charles was wounded **November 27, 1863**, at the Battle of New Hope Church — the day after Thanksgiving (Nov 26 in 1863), not on Thanksgiving Day itself.
+6. **Bullet path description**: Remarkably accurate — entered left shoulder, traveled across back, nicked spine, exited under right shoulder blade.
+7. **"New church in Virginia"**: Correct — New Hope Church, Virginia, serving as a field hospital.
+8. **Henry did NOT travel on foot**: He and son Ernest traveled by **train** to Washington, D.C., arriving **December 3, 1863** — not on foot, not Christmas morning.
+9. **Timeline compression**: The sermon compresses events spanning **July 1861 to December 1863** (2.5 years) into what sounds like a single year. Wife died 1861; Charles joined army March 1863; wounded November 1863; poem written December 25, 1863.
+10. **Poem circumstances**: Henry wrote "Christmas Bells" on **December 25, 1863**, at his home in Cambridge, Massachusetts — not while holding his injured son. Charles had been home since approximately December 9. The poem was first published February 1865 in *Our Young Folks* magazine.
+
+### Attribution Correction Applied
+11. **"Paul says is like seeing the back of a rug"**: Paul never used the rug/tapestry metaphor. The "mirror dimly" is from 1 Corinthians 13:12 (Paul). The rug/tapestry illustration — tangled back vs. beautiful front — is most prominently associated with **Corrie ten Boom** (*The Hiding Place*) and is sometimes connected to Romans 8:28, not to Paul's writings. Flagged inline with ⚠️ note.
+
+### Theological Correction Applied
+12. **"God very God emptying part of himself out"**: Changed to "setting aside the independent exercise of his divine prerogatives" — same orthodox Chalcedonian formulation applied in the Isaiah 53 companion notes and verified against Philippians 2:7 ESV: "but emptied himself, by taking the form of a servant." The emptying is by addition (taking servant form), not by subtraction of deity.
+
+### Verified and Left Alone
+- **"I Heard the Bells on Christmas Day" lyrics**: Verified — these are the original stanzas of Longfellow's poem "Christmas Bells" (1863).
+- **"100% God and 100% man"**: Standard expression of the hypostatic union. Correct.
+- **1 Corinthians 13:12 "mirror dimly"**: Verified Paul. ESV: "For now we see in a mirror dimly, but then face to face."
+- **Luke 2 family Christmas tradition**: Personal anecdote, left as-is.
+
+### Intentionally Left Alone
+- Longfellow narrative left as-preached in the transcript body — corrections documented here rather than rewriting the preacher's oral retelling
+- Raw transcript format preserved
+- Spelling ("famos," "leaches," etc.) left as-is — raw transcript
