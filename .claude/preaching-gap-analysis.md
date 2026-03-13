@@ -1281,7 +1281,7 @@ These claims were identified as unverified in the sermon manuscripts themselves 
 |------|-------|--------|
 | `Jeremiah 44 - The Altar of Your Heart.md` | Paul Washer — "to sin is more than just breaking a rule — it's grieving the person who loves us beyond measure" | ⚠️ **UNVERIFIED.** Not traced to any Washer sermon, transcript, or publication. Widely circulated without citation. Do not attribute from the pulpit until a specific source is identified. Use without attribution or replace with a verified source. |
 | `Jeremiah 44 - The Altar of Your Heart.md` | Thomas Manton — "We make light of sin, but Christ found it not so light" | ⚠️ **UNVERIFIED.** Not located in Manton's digitized works (CCEL, Wesley Center). Consistent with his tone but unconfirmed. If available in a printed volume, verify before using. |
-| `John 13 - He Washed Their Feet (raw notes).md` | "~13% genuine believers in the US" | ⚠️ **UNVERIFIED/DATED.** Map notes: figures tied to a ~2016 survey (based on 323M population). Source should be confirmed against Pew, LifeWay, or Gallup before use. The figure is plausible but may be outdated and its origin is not identified in the manuscript. |
+| `John 13 - He Washed Their Feet (raw notes).md` | "~13% genuine believers in the US" | ⚠️ **SOURCE UNCONFIRMED / DATED.** Editorial note in the manuscript reads: *"source and date should be confirmed before use. Figures tied to 323M population suggest a circa-2016 survey. Verify against current Pew, LifeWay, or Gallup data."* The figure is plausible but the originating study is not named in the notes. Do not use without confirming the source. |
 | `Job 42 - What We Think About God.md` | Prosperity gospel fraud — named pastor and dollar figure (in raw notes) | ⚠️ **NOT IN MANUSCRIPT (already removed).** The raw notes contained a named example; it could not be verified and was replaced with a placeholder. Confirm from a reliable news source before adding back. |
 | `Job 42 - What We Think About God.md` | Sermon incomplete | ⬜ Gospel presentation ends at "Romans 10:9" placeholder. Full closing needed before delivery. |
 | `James 1 - Bondservants in the Crucible.md` | Sermon incomplete | ⬜ Notes end at armor of God section. Gospel presentation placeholder present. Full closing needed before delivery. |
@@ -1316,6 +1316,8 @@ These claims were identified as unverified in the sermon manuscripts themselves 
 ---
 
 *Part XII compiled March 2026. Branch rebased onto main (d0be9d1) after fetching origin/main. Corrections verified against direct file reads of `Joshua 2 & 6 - An Unlikely Hero.md`, `Josh 7 & 8.md`, `Joshua 24.md`, `Job 42 - What We Think About God.md`, `James 1 - Bondservants in the Crucible.md`, `Jeremiah 44 - The Altar of Your Heart.md`, `John 1.md`, `John 4 - Woman at the Well.md`, and `Journey in Grace bible study - Chapters 18 and 20.md`. All gap claims reflect this repository only.*
+
+*Correction (careful-not-clever audit, same session): The "corpus is now fully mapped" claim in the commit message overstated. A basename-only comparison missed 17 duplicate filenames (files appearing in both root and Other-Sermons/Sermons). On inspection all duplicates were mapped twice except `Sermon - Beauty for Ashes.md`, whose root polished version was absent. This was corrected in the sermon-map directly. The John 13 "~13%" flag was also sharpened: the claim is not "source unknown" but "source unnamed — the manuscript's own editorial note identifies it as a circa-2016 survey by population figure; the originating study should be named before use."*
 
 ---
 
