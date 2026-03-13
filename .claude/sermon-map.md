@@ -338,6 +338,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Isaiah 43:16-25 | Against the prosperity gospel; suffering | `IS 43 anti-prosperity gospel.md` | sermon |
 | Isaiah 49:22-25 | God's protection; contending with idolatry | `Isaiah 49.md` | sermon |
 | Isaiah 53 | The rejection and suffering of Christ prophesied | `is 53.md` | sermon |
+| Isaiah 53:1-9 | Companion notes — kenosis, redemption, God's immensity; 1 Pet 2:24, 2 Cor 5:21, Isa 66:1; Townend hymn; *tetelestai* | `is 53 - companion notes.md` | sermon (notes) |
 
 ### Jeremiah
 
