@@ -198,6 +198,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Numbers 11:1-15 | "The Sin We Don't Call Sin" — discontentment as failure of trust, complaint against God's plan, and covetousness; God's wrath at Taberah (v.1); the rabble's craving vs. manna; Moses overwhelmed to the point of wishing for death; Burroughs on making good interpretations of God's dealings (⚠️ verify exact title — standard source is *The Rare Jewel of Christian Contentment*); Paul Tripp paraphrase; Beethoven / deaf-from-birth illustration; lottery winner illustration; Stapelia flower (rotten aroma vs. pleasing aroma of faithfulness); Philippians 3:8; 2 Corinthians 11:23-28; James 1:2; Matthew 13:44; gospel close | `Numbers 11.md` | sermon |
 | Numbers 21:5-9 | Bronze serpent in the wilderness; Israel's grumbling; type of Christ lifted up; cross-references 1 Cor 10:9 and John 3:14-21 | `Numbers 21 John 3.md` | sermon |
 
 ### Judges
@@ -262,7 +263,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Nehemiah 6:1-9 | Stand Up for Jesus — Enemy Attacks and Spiritual Warfare | `Neh 6.md` | sermon — Ono as temptation (city name means vigorous wealth one step from wickedness; "Ono resort and conference center" from unnamed favorite preacher; cruise analogy after hard work); three enemy motives (sack city / murder Nehemiah / frame Nehemiah for rebellion); open letter as smear campaign — heads-of-state protocol context; political survey illustration (G.W. Bush axe murderer question; respondents believe rumor); Clinton/Lewinsky and Bill Cosby news cycle analogy; Cyril Barber's three attack vectors tied to Trinity (Father/sense of belonging; Son/value and worth; Holy Spirit/empowerment — doing things *for* God vs. *with* God); Mt 10:28-31 (sparrows and fear); Mt 6:26 (birds and value); Lk (sparrows bought 3 get 1 free — not one forgotten); Jn 3:16; "If our enemy can't make you bad, he will make you busy"; dying preacher / corn shelling machine — "tell them to stand up for Jesus"; hymn "Stand Up for Jesus" by George Duffield Jr. (all four stanzas); Communion (1 Cor 11:24-26 KJV) |
 | Nehemiah 7 | Gatekeepers, faithfulness, and genealogy | `Neh 7.md` | sermon |
 | Nehemiah 8 | Revival, reading scripture, and fellowship | `neh 8.md` | sermon |
-| Nehemiah 13:1-14 | Sin in the temple and gatekeeping holiness | `Neh 13.md` | sermon |
+| Nehemiah 13:1-14 | Sin in the temple and gatekeeping holiness — Tobiah in the temple; Nehemiah throws out household goods and fumigates; Sabbath commerce; Sanballat's daughter married into priesthood; fools gold / colonial gold illustration; "Making Pearls" passage from Kent Hughes commentary on James (⚠️ verify: may be Hughes citing a prior writer — do not quote verbatim until source confirmed); Stephen Davey on not wanting the smell of sin to linger; body as temple (1 Cor 3:16); gospel | `Neh 13.md` | sermon |
 
 ### Job
 
@@ -429,6 +430,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | John 12 | Mary's devotion vs Judas's selfishness | `John 12.md` | sermon |
 | John 13:1-17 | He Washed Their Feet — Christ washing us clean at salvation (2 Cor 5:17, 21; Rom 6:23); the Word keeps us clean (Heb 4:12); children's sermon callback (colored water cleared by one drop); high priest washing tradition (further out = more washing needed); "not all of you are clean" — Judas in the circle; ~13% genuine believers statistic; pride vs. humility in evangelism; Moses at the burning bush (Ex 4:12) and Jonah's worst sermon; "He knew Judas, He knows you" — church attendance ≠ salvation; "Come Thou Fount" (Robinson 1758) closing; continuation of John 13 series | `John 13 - He Washed Their Feet (raw notes).md` | sermon (raw notes) |
 | John 14:1-7 | Christ as the only way to salvation | `John 14 - exclusivity of the gospel..md` | sermon |
+| John 14:1-16 | "One Way" — cleaned manuscript; 3.4B unreached framing; exclusivity of Christ (Jn 14:6, Acts 4:12); Calvin "perpetual forge of idols" (Institutes I.11.8 — verified); Jose Luis de Jesus Miranda false-prophet case study; Beethoven / deaf-from-birth illustration; social gospel vs. political gospel; MacArthur themes (paraphrase — ⚠️ verbatim source not confirmed; cf. Ashamed of the Gospel, 1993); Jon Wood quotes removed (unverified); Gen 3:15, Ps 96:5, Ps 97:7, Rom 3:10-11, Rom 10:9; gospel to Romans 3:23 | `John 14 1-16.md` | sermon |
 | John 14:1-7 | Memorial service for Chuck Weis | `Chuck Weis Memorial 2024.md` | memorial |
 
 ### Acts

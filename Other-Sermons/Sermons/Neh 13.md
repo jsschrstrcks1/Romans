@@ -33,7 +33,7 @@ So make sure your temple is clean, be the gatekeeper for those in your care, and
 
 Thirdly, make a pearl. 
 
-In a commentary on James by a man named Kent Hughes I read the following: Making Pearls
+In a commentary on James by a man named Kent Hughes I read the following: Making Pearls [⚠️ VERIFY BEFORE PRINT: Attribution is to Kent Hughes, James: Faith That Works (1991, Preaching the Word). The prose style reads older and Hughes may be quoting a prior writer — confirm whether this is Hughes's own language or a secondary citation. Do not quote verbatim from the pulpit until the primary source is confirmed.]
 Life on earth would not be worth much if every source of tribulation were removed. Yet
 most of us rebel against the things that irritate us, and count as heavy loss what ought to be
 rich gain. We are told that the oyster is wiser; then when an irritating object, like a
