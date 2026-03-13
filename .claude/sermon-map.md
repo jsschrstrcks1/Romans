@@ -463,6 +463,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Romans 14:1-21 | Conviction, liberty, and not causing stumbling | `Romans 14.md` | sermon |
 | Romans 14:10-12 | Judgment seat that ends all judging; archive draft | `Romans 14 c.md` (archive) | sermon |
 | Romans 15:14 | Holy obsession; goodness; knowledge; Great Commission | `romans 15 (2).md` | sermon |
+| Romans 13:1-7 | Early/raw draft (~2014–2016, Obama era); police as small-scale picture of Christ's protection; named political figures (Obama, Pelosi, Reid, Schumer, Ginsburg); FDR/WW2 illustration; Billy Graham 215M statistic; Proverbs 21:1 (king's heart); Nero history (⚠️ AD 55/59 date confusion — Britannicus poisoned AD 55, Agrippina murdered AD 59); Molinism/possible worlds excursus (⚠️ Molina dated to 1100s, actually 1535–1600; label "Molinism" imprecise — pastor rejects most of Molinism but affirms God knows all possible worlds); Shannon's Grandma cancer; Judy missionary to mentally disabled (same as Party/Excuses sermon); Lilly behavior chart; Stephen martyrdom callback; ⚠️ "Romans 12:6" should be Hebrews 12:6; ⚠️ Prov 21:1 quoted in NKJV not ESV; ⚠️ FDR "shipping men covertly" overstated (materiel not troops); gospel close | `Romans 13 - Trust God Respect Authority (raw early draft).md` (Other-Sermons/Sermons/) | sermon |
 
 ### 1 Corinthians
 
