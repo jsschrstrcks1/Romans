@@ -297,7 +297,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 46 | God as refuge and fortress | `Psalm 46.md` | sermon |
 | Psalm 46 / 2 Chronicles 20 | Jehoshaphat's battle; Luther and the Reformation; Five Solas; you and God are the majority | `Sermon - A Mighty Fortress.md` | sermon |
 | Psalm 51 | Confession; mercy vs. grace; machah; hyssop; bara; David's sins; Epstein illustration | `Psalm 51.txt` | sermon |
-| Psalm 56 | Is Jesus worth it; Pilgrim's Progress | `psalm 56.md` | sermon |
+| Psalm 56 | Is Jesus Worth It — Bunyan's *Pilgrim's Progress* (Slough of Despond, lions at Palace Beautiful); *Insanity of God* (Nik Ripken, persecuted church stories, Chinese church leaders praying for Somalia); Samson recap (Judges 15–16); David fleeing Saul to Gath (1 Sam 21:10-15); personal testimony (UK evangelism, Scripture memory); evangelism challenge; missions trip call; communion (1 Cor 11:23b-26); ⚠️ prison story unverifiable against known *Insanity of God* sources | `psalm 56.md` | sermon |
 | Psalm 63:1-8 | Thirsting for God; worship in the wilderness | `psalms 63.md` | sermon |
 | Psalm 68:1-4 | Power of God; nothing too difficult | `Psalms 68 (2).md` | sermon |
 | Psalm 68:1-6 | Father of the Fatherless *(raw draft — Part 2)* | `Psalm 68 Part 2 (raw draft).md` | Continuation of series; Baal contrast (rides through deserts); Elijah/Baal prophets (1 Kings 18); adoption; widows/orphans; seed metaphor; Japanese of Japan people group; ⚠️ Prov 27:17 is NIV not ESV; ⚠️ 1 Kgs 18 "Lord" should be "LORD"; ⚠️ prophet count 850 not ~1,000 |
@@ -731,7 +731,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `mt 6.md` — Matthew 6:25 / Phil 4:6-7 — Worry; coronavirus; God's sovereignty
 - `Philipians 4.md` — Philippians 4:4-7 — Stress, anxiety, and rejoicing
 - `heb 11 - fear.md` — Hebrews 11:1 / 1 John 4:18 — Fear as opposite of love
-- `psalm 56.md` — Psalm 56 — Is Jesus worth it; Pilgrim's Progress
+- `psalm 56.md` — Psalm 56 — Is Jesus Worth It; Pilgrim's Progress (Slough of Despond, lions); Insanity of God; persecuted church; personal evangelism testimony; communion
 
 ### Atonement / Cross / Substitution
 - `is 53.md` — Isaiah 53 — Suffering servant prophesied
