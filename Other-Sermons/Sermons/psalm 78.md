@@ -1,59 +1,177 @@
-If you’ve brought your bibles, and I hope you have, open with me to psalms 78. While you’re turning there, lets talk about our people group of the week, and then I have a story for you that I saw on a documentary this week. 
+# Psalm 78:1-8
+## "Don't Forget What the Lord Has Done"
 
-(people group of the week)
+*Primary Text: Psalm 78:1-8*
+*Theme: Remembering and transmitting God's faithfulness; the triple lifeline of Word, church, and testimony*
 
-I saw a documentary about JFK Jr recently, specifically about the night he died. He was a pilot you see, his marriage was on the rocks, and he, his wife, and sister in law were heading to Martha’s vineyard. He had about 200 hours of time in his six seat piper airplane. That sounds like a lot, but if you were to compare it to driving a car, its basically the equivalent of a 16 year old who just traded their restricted permit, for a full blown license. JR was so new to his plane that he wasn’t certified for instrument flying. That is he could only fly as long as the conditions were good, which they were when he took off. 
+---
 
-Most of the flight was uneventful. The take off was fine, and the skies were nice and clear. Flying towards marthas vineyard most of the way you are flying over land, which is a good thing. In those little airplanes when youre flying by sight, over water, it is easy to confuse sky for sea and think you’re going to crash. You have to be able to fly by instrument to safely travel over sea. 
+### People Group of the Week
 
-Even more dangerous is flying by sight, over water at night. You’re even more likely to make the same mistakes. So when he approached Rhode Islands Buzzards bay he had two choices that he could make. The safe choice, was to follow the coastline – as he was flying at night, and by sight without his instrument certification. The second choice was considerably faster, as it was a straight line, but it also increased the risk exponentially. The second choice was to fly in a straight line over the bay, and loose sight of land for a while. Kennedy opted for the second faster choice. They had been off to a late start, people have said they were seen arguing, so he likely was emotionally compromised. A few minutes after he lost sight of shore, the fog came up. 
+*(Insert people group focus here)*
 
-If he had been fully through his instrument training, it would have been a different story all together. His friend, and flight instructor advised against the flight, and then offered to co-pilot with him for more training and safety, but Kennedy declined that also. 
+---
 
-for 95% of the flight, his path was as expected. However right at the very end, he starts turning erratically. In fact he came really close to a passenger airline. The tower tried to raise him, but he had his radios set to the wrong channel. Investigators later came to the conclusion he had lost sight of which way was up, in his emotionally compromised state, he panicked. He could have activated the auto-pilot which would have leveled him out, and kept him from crashing. But he was in such a state that he did not. In stead he made a VERY sharp right turn, and began to lose altitude. By 700 feet from the sea it looked like he had figured it out, and then he pushed the nose down, and traveled pretty much nose first into the sea. 
+### Opening Illustration — JFK Jr.
 
-If JFK Jr had been trained in trusting his instruments when his eyes couldn’t be trusted, then he never would have crashed. If he had taken his friend and instructor with him, who was instrument certified, they never would have crashed. If he had stuck to the daylight, or the shore, if he had stuck to his guideposts, he never would have crashed. 
+I watched a documentary this week about JFK Jr. — specifically about the night he died.
 
-Lets read our passage today – Psalms 78:1-8
+He was a pilot. His marriage was on the rocks. He, his wife, and his sister-in-law were flying to Martha's Vineyard. He had logged about two hundred hours in his six-seat Piper airplane. That sounds like a lot, but put it in perspective: two hundred hours in a small aircraft is roughly the equivalent of a sixteen-year-old who just traded in his restricted permit for a full license. He was new. And he was not certified for instrument flying — meaning he could only fly legally and safely as long as the conditions were good. They were good when he took off.
 
-I don’t think we’ve ever talked about super scriptions, and sub scriptions before. You see right there before vs 1, it says “a maskil of asaph”?
+Most of the flight was uneventful. Clear skies. Flying over land. That matters in small planes, because when you're flying by sight over open water, it is surprisingly easy to lose track of which way is up. Sky and sea start to look the same. Instrument training is what teaches you not to trust your eyes in those conditions.
 
-These things were given to us by the authors to help us place the Hebrew hymn with the events that were going on, or some other important bit of information regarding the song. A maskil in this case. Maskil has a couple of meanings. I read a theological journal entry that said its referring to a complex musical arrangement, where multiple groups are reacting to each other and sharing these stories of God’s provision in reaction to each other. Basically. Yet it carries with it another meaning, that this is instruction that is important to repeat to each other, until you remember it and fully believe it. This is a way for Asaph to say STOP, Pay ATTENTION, this is IMPORTANT.
-The very next things he says is basically don’t forget what the Lord has done for you. Remind each other and your children, and their children the good things the Lord has done. 
+Even worse: doing that at night. At night over water, you are far more likely to make that mistake and far less likely to catch it.
 
-This week marks a couple of historic things. Firstly is 9/11 – everyone who was alive that day remembers where they were and what they were doing when that first plane hit. I was in a Greek class about to fail a Greek test. A group of us were there early studying together before then test trying to nail down some of the things that you have no choice but to brute force memorize. 
+So when he approached Buzzard's Bay in Rhode Island, Kennedy had two choices. The safe route was to follow the coastline — it kept landmarks in sight, kept him oriented, kept him over land until he got close enough to the island to see it. The faster route was a straight line across the open bay — quicker, but it meant losing sight of land for a stretch. They'd gotten a late start. People who saw them before the flight said there had been an argument. Kennedy opted for the shorter, riskier line. A few minutes after he lost sight of shore, the fog came up.
 
-A friend burst into the room and announced a little piper cub had crashed into the world trade center. We hurried him out of the room so we could get back to work. Class started, and the professor as was his usual went around the room and took prayer requests, and we had just finished opening with prayer when the same friend came in, and said a second plane has hit the second tower of the world trade center, our nation is under attack. We of course were confused by what he said, a second plane hit the second tower? So three planes have struck the two world trade center buildings? Another little private plane? No. A hijacked passenger plane. 
+His flight instructor had advised against the flight. Then offered to come along as co-pilot. Kennedy declined both.
 
-The professor said we should go look at the news, and so we gathered as a class in the commons area just around the corner from the classroom. I got a tv cart, and plugged it in. someone else tuned in a local broadcast station. Terror attack they said. Another plane has been hijacked, where is it going? Will it hit the white house? A nuclear power plant? 
+For ninety-five percent of the flight, his path was exactly where it should have been. Then, right at the end, the plane starts turning erratically. He came dangerously close to a passenger airliner. The tower tried to reach him, but his radio was set to the wrong channel. Investigators concluded he had lost his spatial orientation — he no longer knew which way was up. Emotionally compromised, probably exhausted, he panicked. The airplane had an autopilot that would have leveled him out. He didn't activate it. Instead he made a sharp right turn, began losing altitude, briefly appeared to correct — and then pushed the nose down and flew almost straight into the Atlantic.
 
-The Pentagon is hit. People are jumping out of the top of the world trade center – 200 in total. Can you imagine the desperate state they must have been in to see jumping 100 stories to their death as preferable to staying inside the building? Hellfire on oneside, and a ten second drop to certain death on the other. 
+Three failures. He didn't trust his instruments when his eyes couldn't be trusted. He refused the friend who could have helped him through the hard part. He abandoned the landmarks that would have kept him oriented.
 
-The south tower falls. The north tower falls. Another plane is missing, where will it hit? 
+Three failures. One crash.
 
-At that point the president of the school sent us home for the day, dismissed classes, canceled tests. We spent a moment in prayer, and headed home. It was a day to be with your family. 
+Hold that image. We're going to come back to it.
 
-But do you remember what God did in our country in the aftermath of this? I don’t think churches have ever been fuller in my lifetime. People were seeking God! Everywhere people were spending time in prayer. Everywhere people were buying up bibles. There was a massive movement of confused and hurting people towards the Lord. Thousands became Christians after that. Thousands that were heading for hell were saved by the Grace of God. People talk about wanting to see miracles, a dead person being made alive in Christ is the best miracle we could ever see. 
- :4-6 
+---
 
-Its so important that we share these stories of what the Lord did with our children. Not just the things we have been through, but the things we see the Lord do in scripture. Fathers – this is first and foremost on you. You need to be telling your kids and grand kids about the Lord. You need to be teaching them the bible. You need to be both joyfully modeling – that is living your life as scripture says, but also teaching your kids to follow scripture as well. Teaching them to Love God. Teaching them to spend time in his word. Teaching them to do better than we have done. 
+### Scripture Reading
 
-How many of you have kids or grandkids? Raise your hand? 
+*Open with me to Psalm 78. I'll read the first eight verses from the ESV.*
 
-Don’t raise your hands… How many of you spend time intentionally teaching them about the Lord? This is something scripture tells us to do. 
+> **Psalm 78:1-8** *(A Maskil of Asaph)*
+>
+> Give ear, O my people, to my teaching;
+> incline your ears to the words of my mouth!
+> I will open my mouth in a parable;
+> I will utter dark sayings from of old,
+> things that we have heard and known,
+> that our fathers have told us.
+> We will not hide them from their children,
+> but tell to the coming generation
+> the glorious deeds of the LORD, and his might,
+> and the wonders that he has done.
+>
+> He established a testimony in Jacob
+> and appointed a law in Israel,
+> which he commanded our fathers to teach to their children,
+> that the next generation might know them,
+> the children yet unborn,
+> and arise and tell them to their children,
+> so that they should set their hope in God
+> and not forget the works of God,
+> but keep his commandments;
+> and that they should not be like their fathers,
+> a stubborn and rebellious generation,
+> a generation whose heart was not steadfast,
+> whose spirit was not faithful to God.
 
-Let me ask you this, as a child growing up, if your dad told you to do something, and you didn’t do it… if your kid, you told them to do something, and they didn’t do it. Over and over, they neglected to do what you told them. What happened?
+---
 
-The second story I want to remind us of is Irma – a few years ago this week, a massive hurricane hit the state pretty hard. It was powerful enough, and the storm surge was enough that we needed to find a place that was stronger to stay in, further inland. Our dear friend Kenny Duffield let us stay with him for a few days inland, and in his brick home we were safe. 
+### The Superscription — Stop. Pay Attention. This Is Important.
 
-I remember the night the storm came through, it was ugly. The sound the eye wall made, an unearthly mournful howl. I remember sitting there thinking, well, my home is gone. I’m probably homeless now. I’ll admit I grieved for a moment, and then it occurred to me, that God gave me the first home, and I gave it back to him. If he chose to take it, then it was his to take. He’d provide me with something else. I had peace. 
+Before verse 1, you'll notice it says *"A Maskil of Asaph."* We haven't spent much time on superscriptions and subscriptions before. These are notes the authors placed on their hymns to give us context — the occasion, the intended use, something important about how this was to be understood or performed.
 
-I still fully expected to find a debris field when I drove home the next day, but there was my house, still standing. The storm that had leveled entire islands making them uninhabitable, had spared my home. The storm that ten miles away had knocked down huge trees, only registered on my weather station as having produced 30 mph gusts of wind. A big tree limb that should have fallen on my house, instead somehow fell into the wind, and landed behind my house instead of on top of it. 
+*Maskil* has a couple of meanings. One is musical — a complex arrangement where multiple groups respond to each other as they recount God's acts of provision. But it also carries the sense of instruction that is meant to be repeated, passed on, rehearsed until it is deeply known and fully believed.
 
-God is so good to us. We could talk about God healing my mother of arthritis. We could talk about a lot of things. I think there are a lot of stories in this room that could be shared. Healing from drug addiction. Healing from all sorts of things, and yet none of those miracles are as amazing as God taking a dead man, a sinner, and making him alive in Christ. You and I are responsible – because of our sin – for Christ’s death. It was your sin, and my sin, and the sin of everyone like us across time that made it necessary for Christ to die for us. We hold some of the blame for that. We were rebels that killed the Son of God because of our actions, and God’s response was to bring us in, to make us part of the family, to give us eternal life with him in glory. 
+It's Asaph's way of saying: *Stop. Pay attention. This is important.*
 
-Folks, God is so much better to us than we deserve, and God’s word is the instrument that keeps us on course. If JFK Jr had trusted his instruments, he would have never crashed that night. God gave us the church to help keep us on course. IF JFK had taken his friend that night, he never would have gone off course, and never would have crashed. Staying in church is important, and helps keep us on course. Scripture says as iron sharpens iron so one man sharpens another. If JFK JR had followed his land marks, and stuck close to the shore, he would still be here today. People we have God’s word, we have the church, we have the stories of God’s provision in our lives, and in our parents lives. For some in our grandparents lives. We have the writings of our fathers in the faith that go back for centuries. We have RC Sproul, and Charles Spurgeon, we have scores of Godly men who are still with us today in their writings. We have centuries of these kinds of things to learn from and be inspired by. Especially scripture. In fact it was Charles spurgeon that said read many good books, but live in the bible. Not only for your sake, but for the sake of your kids. 
+And then the very next thing out of his mouth is: *don't forget what God has done for you. Tell it to your children. Tell your children to tell their children.*
 
-Maybe youre here today and you don’t have a relationship with God. 
+---
 
-Gospel.
+### Point 1 — The Command: Tell the Next Generation
+
+That word *tell* appears in both verse 4 and implied through verse 6. It's not a suggestion. God commanded the fathers to teach their children — verse 5 is plain about that. So that the children yet unborn would know them. So that they would tell their children. Generation to generation, an unbroken chain of testimony.
+
+This week marks a couple of anniversaries worth naming. The first is September 11th. Everyone who was alive that day knows exactly where they were when the first plane hit. I was in a Greek class, about to fail a Greek test. A group of us were there early, studying together, trying to brute-force memorize things that don't come easy. A friend burst in and said a small plane had hit the World Trade Center. We hurried him out — we had a test to get back to. Class started. The professor took prayer requests, we prayed, and then the same friend came back in. A second plane had hit the second tower. Our nation is under attack.
+
+We were confused. *A second plane hit the second tower?* So three planes and two buildings? Another small private plane? No. A hijacked passenger jet.
+
+The professor said we should go look at the news. I got a TV cart from the hallway and plugged it in. Someone found a broadcast signal. Terror attack. Another plane hijacked — where is it going? The White House? A nuclear plant? Then: the Pentagon. People jumping from the top floors of the World Trade Center — two hundred of them. Think about that for a moment. Think about what state of desperation it takes for a human being to see jumping from the hundredth floor as the better option. Hell on one side. A ten-second drop on the other.
+
+The South Tower falls. The North Tower falls. A fourth plane is missing somewhere over Pennsylvania.
+
+The president of the school dismissed classes for the day. We prayed and went home. It was a day to be with your family.
+
+But do you remember what happened in our country in the weeks that followed?
+
+I don't think churches have been that full in my lifetime. People were pouring in, seeking God, buying Bibles, spending time in prayer. A massive movement of confused, grieving, frightened people toward the Lord. Thousands became Christians in the aftermath of that day. Thousands who were heading toward a Christless eternity were redirected by the grace of God.
+
+People talk about wanting to see miracles. That's a miracle. A dead person made alive in Christ is the greatest miracle we could ever witness.
+
+---
+
+### Point 2 — The Responsibility: Fathers, This Is On You
+
+Verses 5-7 are direct. God commanded the fathers to teach the children, so the children would tell their children, so that each generation would set their hope in God and not forget His works.
+
+Fathers — this is on you first. You need to be telling your children and your grandchildren what the Lord has done. You need to be teaching them the Bible. Not just living it — though that matters — but *teaching* it. Speaking it out loud. Making it part of the regular conversation of your home. Teaching them to love God. Teaching them to spend time in His Word. Teaching them to do better than we have done.
+
+How many of you have children or grandchildren? I'll let you answer that in your own head.
+
+Now the harder question: How many of you spend time intentionally teaching them about the Lord?
+
+Scripture tells us to do this.
+
+Let me ask it a different way. If your father told you to do something and you didn't do it — kept not doing it, over and over — what happened? If *you* told your child to do something and they just kept not doing it? What happened then?
+
+There's a consequence built into verse 8 that we don't want. *"That they should not be like their fathers, a stubborn and rebellious generation, a generation whose heart was not steadfast, whose spirit was not faithful to God."* That verse exists because stubborn and rebellious generations are produced. Faithlessness has a genealogy. It gets handed down. The antidote — the only antidote Asaph identifies — is parents who tell their children what God has done.
+
+---
+
+### Point 3 — The Second Story: Hurricane Irma
+
+The second anniversary I want to name is Hurricane Irma — which came through this area a few years ago this same week. It was powerful enough, and the storm surge threat was real enough, that we needed to find somewhere stronger to wait it out. Our friend Kenny Duffield let us stay with him for a few days inland, in a solid brick house.
+
+I remember the night the storm came through. The sound the eye wall makes — it's an unearthly, mournful howl. I sat there thinking: *My house is gone. I'm probably homeless.* I'll admit I grieved for a moment. And then it struck me — God gave me that house. I gave it back to Him when I moved in. If He chose to take it, it was His to take. He would provide something else. I had peace.
+
+I still fully expected to find a debris field when I drove back the next day. But my house was standing. The storm that had leveled entire islands — made them uninhabitable — had passed over my neighborhood. The storm that knocked down massive trees ten miles away had registered on my weather station as thirty-mile-an-hour gusts. A large tree limb that by every natural account should have fallen on the roof had somehow fallen *into the wind* and landed in the backyard instead.
+
+We could also talk about God healing my mother of arthritis. We could talk about a lot of things — I think there are stories in this room today that ought to be told. Healing from drug addiction. Marriages that should have ended but didn't. Situations that shouldn't have resolved but did.
+
+None of those miracles, though — not one — is as staggering as God taking a dead man, a rebel, a sinner, and making him alive in Christ. You and I are responsible, because of our sin, for Christ's death. That's not hyperbole. The sin of people like us across all of time is what made it necessary for the Son of God to die. We bear some of that weight. And God's response was to bring us into the family anyway. To give us eternal life. To make us heirs.
+
+God is so much better to us than we deserve.
+
+---
+
+### The Triple Lifeline
+
+Go back to JFK Jr. for a moment.
+
+Three failures. He didn't trust his instruments. He refused the friend who could help him. He abandoned the landmarks.
+
+We have been given all three.
+
+God gave us His Word. When our eyes can't be trusted — when emotions are high, when the fog comes up, when you can't tell which way is up — the Word is the instrument. It is not wrong. It does not panic. It does not lose its orientation. If Kennedy had trusted his instruments, he would be alive today. If we trust the Word when everything in us is disoriented, we won't crash.
+
+God gave us the church. Kennedy's friend — a certified instrument pilot — offered to come with him. He said no. Scripture says iron sharpens iron, one man sharpens another. The church is not optional equipment. It is not a preference. It is the friend in the cockpit who has been through the training and is willing to sit with you through the hard part. If Kennedy had taken his friend, he would be alive today.
+
+And God gave us the stories. The stories of His provision in Scripture. The stories of His faithfulness in our own lives and our parents' lives and our grandparents' lives. The accounts of what He has done for His people across centuries. We have the writings of men like R.C. Sproul and Charles Spurgeon — men who spent their lives in this Book and left behind what they found. Spurgeon, who probably spent more time in Scripture than almost any man of the last two centuries, came back again and again to the same counsel: *read many good books, but live in the Bible.* Kennedy had landmarks — the coastline — that would have kept him oriented the whole flight. He left them behind. We should not make the same mistake.
+
+The Word. The church. The testimony.
+
+Not only for your sake — for your kids' sake.
+
+---
+
+### Gospel
+
+Maybe you're here today and you don't have a relationship with God. Maybe you've been polite about Jesus. Maybe you've heard the stories — 9/11, the hurricane, the cab driver at four in the morning — and they made you think for a minute, but you haven't actually stopped and dealt with the question of where you stand with Him.
+
+Here's the thing about the instruments, the friend, and the landmarks: they only help you if you use them. Kennedy had access to all three. He turned them all down. And at seven hundred feet above the Atlantic, in the dark, in the fog, it was too late to change his mind.
+
+The good news of this Book — the thing Asaph is desperate for the next generation to know — is that the God who parted the Red Sea and healed the sick and calmed the storm and raised the dead is the same God who is mindful of you, right now, in this room. He is not passive. He is not distant. He is not waiting for you to earn your way in. He sent His Son to do what you could not do — to live the life you should have lived and die the death you deserved — so that anyone who comes to Him in faith will find the door open.
+
+Don't leave the landmarks behind. Don't decline the Friend who's offered to fly with you.
+
+Come to Him today.
+
+---
+
+*Cross-references: Psalm 78:1-8 | Proverbs 27:17 (iron sharpens iron)*
+*Illustrations: JFK Jr. crash (instruments / instructor / landmarks); 9/11 personal memory; Hurricane Irma / Kenny Duffield*
+*Quotes: Spurgeon on living in the Bible (consistent counsel, not a direct quotation)*
+*Historical figures: R.C. Sproul, Charles Spurgeon*

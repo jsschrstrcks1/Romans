@@ -1,3 +1,6 @@
+Were going to be in psalm 100 today if you've brought your bible, and I hope you have. While you're turning there, I want to talk about our people group of the week. The Arab Yemeni of Yemen. Yemen is a predominately muslim country, that is very closed and hostile towards Christian. There are a precious few Christians among the Yemeni people, and they are faced every day with strong persecution. To be caught being a Christian usually means death in this area of the world. The standard of living is quite low. Most of them are farmers of animals or grain, or khat – a stimulant – a drug. Which many are addicted to. It is a difficult missions field, and are precious few believers in Jesus Christ. Pray for the missionaries working there, and for those that convert. For boldness and protection, and clarity of witness.
+
+
 I was listening to a missionary speak this past week. Her and her husband were serving in the back country of the philipines. They were missionary pilots. They described their job as grocery shopping and delivery for 12 missionary families week in and week out. All the things you would normally buy from a grocery or department store, or what have you in a given week, they would have to find it, buy it, and then fly it into some of the most remote jungle you can imagine on islands far from anything else. Their love of aviation was a natural fit for this ministry that enabled missionaries to serve uninterrupted on the front lines. Shopping for twelve families, or about 50-60 people consumed their work day. They were always flying in somewhere or flying out, or buying things that the missionaries needed. Or if one of those people had an emergency and needed to be flown out this family of two were the only way that could happen. Pilots frequently train hard for new and complicated situations for quite some time.
 
 Any way, life went on this way year after year. They learned the local language, and culture, and were sharing the gospel in their context as well. Finally for their twentieth anniversary, they decided to take a week vacation at a resort on an adjacent muslim controlled island. 
@@ -70,3 +73,60 @@ None of us start out in a place where we could look at something horrible like t
 So as the praise team comes up and sings a final song. I want you to ask yourself, if something were to happen, and we all died and were standing in front of the gates of heaven, and God were to walk up to you and say “why should I let you in”. what answer would you give? If you don’t know, or if its anything other than because I have a relationship with Jesus Christ, my savior. Then please come talk to me, or greg, or dottie, or someone before you leave today. Don’t let another day go by without knowing for sure that Jesus is your savior. 
 
 Wont you come?
+
+---
+CORRECTIONS LOG (added by Claude Code)
+Verified against ESV, primary biographical sources, and historical records. Do not preach
+or republish without resolving flagged items below.
+
+1. BURNHAM — "TWENTIETH ANNIVERSARY" IS INCORRECT
+   Martin and Gracia Burnham (New Tribes Mission) were kidnapped May 27, 2001, at Dos
+   Palmas Resort, Palawan, Philippines — while celebrating their 18th wedding anniversary,
+   not their 20th. Correct before reusing this illustration.
+   Source: Burnham family biography, Baptist Press, Dos Palmas kidnappings record.
+
+2. BURNHAM — "FOUR YEARS" IS INCORRECT
+   They were held captive for 376 days — approximately one year — from May 27, 2001 to
+   June 7, 2002. The sermon says "four years." This significantly misrepresents their
+   ordeal (which was already extraordinary at one year).
+
+3. BURNHAM — "THE UNITED STATES WAS ABLE TO GET HER BACK" IS IMPRECISE
+   Gracia was recovered in a Philippine military rescue operation on June 7, 2002. U.S.
+   troops were not involved in the rescue itself, though the U.S. provided a military
+   helicopter to fly her to safety afterward. The rescue was a Philippine military action.
+
+4. "IT IS WELL" — HIS WIFE SURVIVED; IT WAS HIS DAUGHTERS
+   The sermon says "the hymnist who saw where his family died." Horatio Spafford's wife
+   Anna survived the 1873 sinking of the SS Ville du Havre. His four daughters (Maggie,
+   Tanetta, Annie, Bessie) drowned. He wrote the hymn while sailing over the approximate
+   location where his daughters perished, after receiving Anna's telegram: "Saved alone."
+   Correct to: "the hymnist whose four daughters drowned" or similar.
+
+5. PSALM 100 INLINE QUOTE USES NIV, NOT ESV
+   The inline block quote ("Worship the Lord with gladness...") uses NIV wording. The ESV
+   reads "Serve the LORD with gladness" — which the sermon correctly cites later. The two
+   versions within the same sermon are inconsistent. If preaching from ESV, use "Serve"
+   throughout and remove or label the NIV block quote accordingly.
+
+6. "CAT OF 9 TALES" — SPELLING ERROR (LINE 57)
+   The instrument is a "cat-o'-nine-tails" — "tails," not "tales." One instance is spelled
+   correctly later in the same paragraph (line 59); the first instance needs correction.
+
+7. "ROMAN HISTORY THAT HIS LEGS WEREN'T BROKEN" — OVERSTATES EXTRA-BIBLICAL EVIDENCE
+   The sermon says "we know from Roman history that his legs weren't broken on the cross."
+   This is documented in Scripture (John 19:33–36, fulfilling Psalm 34:20 and Exodus 12:46),
+   not independently in Roman historical records. The crucifixion details are not extensively
+   attested in surviving Roman sources. Correct to: "We know from Scripture that..."
+
+8. "PAUL WROTE MOST OF THE NEW TESTAMENT" — OVERSTATED
+   Paul wrote 13 of 27 NT books. By book count that is less than half. By word count the
+   four Gospels together far exceed Paul's letters. More accurate: "Paul wrote more books
+   of the New Testament than any other single author" or "Paul wrote a large portion..."
+
+9. YEMEN — "USUALLY MEANS DEATH" OVERSTATES THE LEGAL SITUATION
+   Persecution of Christians in Yemen is severe and real — particularly from extremist
+   groups, Abu Sayyaf-affiliated organizations, and intense social pressure. However, Yemen
+   does not have a national apostasy law with automatic death penalty. "Usually means death"
+   overstates the formal legal situation. A more accurate framing: "Christians in Yemen face
+   severe persecution and risk of death, particularly in areas controlled by extremist
+   groups." The missions urgency is not diminished by precision here.
