@@ -52,7 +52,7 @@ No matter what happens a leaders heart is in the hand of the Lord. God directs i
 Secondly — and bear with me a minute, because this is deep stuff to consider.
 God's knowledge of possible worlds. Different shoes, different results. Late vs early vs on time to work. Win vs lose WW2. String Theory. Called Molinism after Molina ~~the guy that thought about these things in the 1100s~~ ⚠️ **Luis de Molina was a 16th-century Jesuit (1535–1600); not 1100s**. ~~1100s you may remember was when the tower of London was constructed, and also around when the first crusade happened.~~
 
-⚠️ **Theological note**: The Molinism / middle knowledge framework used here is inconsistent with the pastor's later established Reformed/Calvinist theology (strong sovereignty/decree model, not counterfactual knowledge). This appears to be an early sermon before his theological convictions were as refined. The later polished Romans 13 sermons ground God's sovereignty in decree, not possible worlds.
+⚠️ **Theological note**: The label "Molinism" is imprecise. The pastor rejects most of Molinism (particularly middle knowledge as logically prior to God's decree), but affirms that God in His sovereignty knows all possible worlds — not merely the one that ended up existing. This is compatible with Reformed omniscience (God's *natural knowledge* of all possibilities), which Calvin, Owen, and the whole tradition affirm. The error here is the label and the Molina dating, not the underlying conviction that God's knowledge encompasses every possibility. The "String Theory" analogy is a loose illustration, not a theological commitment.
 
 So if God knows everything, and scripturally I believe he does. IF he knows every possible everything, and we know that we can trust God, then we know that the evil of Nero had to happen to create a world wherein the most possible people would be saved and spend eternity in Heaven.
 Just like Stephen last week. If he hadn't been stoned to death by Paul and the other, would the church have ever left Jerusalem? Perhaps. But slowly. Stephens death bought redemption for much of the known world.
@@ -83,8 +83,8 @@ So in the end Trust God even when whats going on around us is beyond our compreh
 - **FDR "shipping American military vehicles and men covertly"** — Lend-Lease Act (March 1941) shipped materiel publicly, not troops. US troops were not deployed before Pearl Harbor (December 1941).
 
 ### Theological Notes
-- **Molinism/middle knowledge** framing is inconsistent with the pastor's later Reformed theology. Later sermons ground God's sovereignty in eternal decree, not counterfactual possible-worlds reasoning. This represents theological development, not error — but the framework was abandoned in later preaching.
-- **"String Theory"** conflated with philosophical possible worlds — imprecise analogy.
+- **Molinism label** is imprecise. The pastor rejects most of Molinism but affirms that God in His sovereignty knows all possible worlds, not merely the one that exists. The underlying conviction is sound; the label and the Molina dating are the errors, not the theology itself.
+- **"String Theory"** — loose illustration, not a theological commitment; conflates physics multiverse with philosophical possible worlds.
 
 ### Factual Claims (Acceptable Range)
 - Billy Graham "215 million people" — widely cited figure from BGEA; acceptable as delivered
