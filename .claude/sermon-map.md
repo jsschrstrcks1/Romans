@@ -641,6 +641,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Evangelism / Missions | Mt 28; Rom 15; Rev 7 | `Evangelism.md` / `evangelism (romans 15, mt 28, and rev 7).md` | sermon |
 | God's Aseity / Missions / Hell | Mk 9:48-49; Is 66:24; 2 Pet 2:17; Mt 24:51; Mt 13:49-50; Is 59:2 | `Missions and Hell - why it matters.txt` | sermon |
 | Adoption (Theology) | Galatians 3-4 | `adoption - gal 3.md` / `Adoption - christms eve 23.md` | sermon |
+| IDOP: Persecuted Church | 2 Cor 11:23b–33; Mt 5:44 | `IDOP - Intl Day of Prayer for the Persecuted Church (raw transcript).md` | prayer service *(raw transcript)* — Bairagi people group prayer; VOM Korea video on Pastor Han Chung-Ryeol (martyred 2016, Changbai border town); North Korea background (Pyongyang "Jerusalem of the East," Juche mimicry of Christianity, concentration camps, three-generation punishment); prayer for persecutors (Mt 5:44); book ref: girl in NK camp (unidentified — possibly *These Are the Generations*, VOM Korea); ⚠️ 2 Cor 11 and Mt 5:44 read from NIV not ESV; ⚠️ "Korean by birth, Chinese by naturalization" inaccurate (ethnic Korean born in China); ⚠️ "10 Glorious Principles" wrong name; ⚠️ "160,000 in camps" may be dated; ⚠️ book unidentified — see corrections log |
 
 ---
 
