@@ -60,7 +60,7 @@ Each of these says pretty much the same thing as our Baptist Faith and Message w
 In fact, when it comes to Scripture — with the exception of a brief time period in the 1970s and '80s — the chorus of Baptists present and past has always been that Scripture is God's word to us, and to be trusted, defended, and supported.
 
 **In 1611** it was written in Thomas Helwys' Baptist confession that Scripture "set down an absolute, and perfect rule of direction, for all persons, at all times, to be observed; Which no Prince, nor any whosoever, may add to, or diminish from."
-[Note: This quote is from Helwys' *A Declaration of Faith of English People Remaining at Amsterdam in Holland* (1611). The exact wording should be verified against a critical edition such as Joe Early Jr., *The Life and Writings of Thomas Helwys* (Mercer University Press, 2009), before formal publication.]
+[Verified: Article 9 of Helwys' *A Declaration of Faith of English People Remaining at Amsterdam in Holland* (1611). Wording confirmed.]
 
 **In the 1689 Second London Baptist Confession** — which was a significant influence on our Baptist Faith and Message of today — they wrote (and excuse the long quote):
 
@@ -202,10 +202,12 @@ But all of that starts with a relationship with God.
 - BFM 2000 Article 1 — Text matches the published statement
 - Chicago Statement on Biblical Inerrancy — Real document, signed 1978 by evangelical leaders
 
+**Verified (updated):**
+- Thomas Helwys 1611 quote ("absolute, and perfect rule of direction...") — Confirmed from Article 9 of *A Declaration of Faith of English People Remaining at Amsterdam in Holland* (1611). Wording matches the Reformed Reader transcription.
+
 **Unverified (flagged for follow-up before publication):**
-- Al Mohler quote on "truthfulness and trustworthiness" — Consistent with Mohler's theology; exact source not located
-- Thomas Helwys 1611 quote ("absolute, and perfect rule of direction...") — Confession is real; exact wording should be confirmed against Joe Early Jr.'s critical edition
-- "Another man" who prefers "the term infallibility" — Speaker not identified in sermon notes
+- Al Mohler quote on "truthfulness and trustworthiness" — Mohler uses this phrase elsewhere, but this specific wording ("probably the best words in the English language...frame the perfection of the Bible in positive terms") may come from *Did God Really Say?: Affirming the Truthfulness and Trustworthiness of Scripture* (P&R, 2012), ed. David B. Garner — not Mohler directly. Verify before attributing to Mohler.
+- "Another man" who prefers "the term infallibility" — Likely Greg Boyd or Donald Bloesch. CAUTION: Both hold views on infallibility that diverge from traditional Baptist inerrancy. If using this quote in a sermon affirming inerrancy, note the theological context or consider dropping the attribution.
 - R.C. Sproul paraphrases on studying Scripture and loving God's word — Presented honestly as paraphrases, not direct quotes; consistent with Sproul's teaching
 
 **Historical claims verified in substance:**
