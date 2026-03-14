@@ -24,7 +24,7 @@
 | **Genesis** | Gen 1–3, 11, 29, 37–39, 43 | Thin | Good on creation, fall, Joseph. **Gaps: Gen 4 (Cain/Abel), Gen 6–9 (Flood/covenant), Gen 12/15/17 (Abrahamic covenant texts), Gen 22 covered only in a study note** |
 | **Exodus** | Ex 2, 5–6, 14 | Thin | Red Sea covered well. **Gaps: Ex 3 (burning bush/the name of God), Ex 19–20 (Sinai/Ten Commandments), Ex 32–34 (golden calf/renewal)** |
 | **Leviticus** | None found | **MISSING** | Rich with atonement typology — Day of Atonement (Lev 16), holiness code (Lev 17–26). No dedicated sermons in the entire corpus. Significant gap for a preacher so focused on propitiation and substitution. |
-| **Numbers** | Num 16 (Korah — ref only), Num 21 | Thin | Bronze serpent covered (Num 21). **Gaps: Num 6 (Aaronic blessing), Num 14 (unbelief in the wilderness)** |
+| **Numbers** | Num 11 ✓, Num 16 (ref only), Num 21 ✓ | Thin | Discontentment and manna (Num 11 — *The Sin We Don't Call Sin*, cleaned ms. 2026) and bronze serpent (Num 21) covered. **Gaps: Num 6 (Aaronic blessing), Num 14 (unbelief in the wilderness)** |
 | **Deuteronomy** | Referenced throughout but never primary text | **MISSING** | The book of Moses's sermons — *shema* (Deut 6), covenant renewals, blessings/curses (Deut 27–30), Deut 32–33. Cited in Romans frequently but never preached in its own right. |
 
 ---
@@ -1322,3 +1322,95 @@ These claims were identified as unverified in the sermon manuscripts themselves 
 ---
 
 *Last updated: March 2026. Cross-referenced against sermon-map.md and theological-map.md.*
+
+---
+
+## Part XIII: Additions and Corrections — Current Session (March 2026)
+
+*Documents changes from the session following PR #91. Two new cleaned sermon manuscripts added; one existing manuscript flagged; one integrity error corrected.*
+
+---
+
+### New Manuscripts Added
+
+#### 1. Numbers 11:1-15 — *The Sin We Don't Call Sin* (`Numbers 11.md`)
+
+**Status: Cleaned manuscript, verified, committed.**
+
+A dedicated sermon on discontentment as a theological complex — failure of trust, complaint against God's plan, covetousness — drawn from Israel's grumbling over manna and Moses's death-wish under the weight of the people. Fills the Numbers 11 gap identified in Part I.
+
+**Coverage update:** Numbers section revised from "Num 16 (ref only), Num 21" to "Num 11 ✓, Num 16 (ref only), Num 21 ✓."
+
+Key content verified:
+- Numbers 11:1-11, 15 ESV block quote — verified accurate ✓
+- 2 Corinthians 11:23-28 ESV — verified (corrected from NIV) ✓
+- Romans 8:18, 8:32; Philippians 3:8; James 1:2; Matthew 13:44 — all ESV-verified ✓
+- Jeremiah Burroughs quote — attributed to *Contentment, Prosperity, and God's Glory* (⚠️ title unverified; standard Burroughs work on this theme is *The Rare Jewel of Christian Contentment*, 1648 — confirm before pulpit use)
+- Paul Tripp — cited as paraphrase, not direct quote ✓
+- Philip Holmes quote — removed; ideas retained in preacher's voice ✓
+- "In Romans he says" for Romans 8:18 — attribution corrected from prior version that said "In James he says" ✓
+
+**Remaining open items:** Burroughs title confirmation against physical copy.
+
+---
+
+#### 2. John 14:1-16 — *One Way* (`John 14 1-16.md`)
+
+**Status: Cleaned manuscript, verified, committed.**
+
+A full-length exclusivity-of-Christ sermon on John 14:1-16, extending the earlier `John 14 - exclusivity of the gospel..md` (which covered John 14:1-7 only). The new manuscript covers the full passage through verse 16 and adds a developed false-religion case study (Jose Luis de Jesus Miranda) and a Beethoven/deaf-from-birth illustration on natural knowledge of God.
+
+**Coverage impact:** John 14 was already in the corpus; this adds a cleaned, expanded manuscript for the same passage. The John coverage rating (★★, "Good") is unchanged; this manuscript supersedes the earlier version for preaching use.
+
+Key verifications:
+- John 14:1-16 ESV block — verified accurate ✓
+- Acts 4:12; Romans 3:10-11; Romans 10:9; Psalm 96:5 — all ESV-verified ✓
+- Psalm 97:7 — partial quote; corrected to include ellipsis and "(partial)" notation (ESV continues "; worship him, all you gods!") ✓
+- Genesis 3:15 ESV "bruise" (not NIV "crush") — corrected ✓
+- Calvin "perpetual forge of idols" — Institutes I.11.8 — verified ✓
+- Jose Luis de Jesus Miranda — died August 2013, cirrhosis, Doral FL, claimed to be Jesus Christ, "666" tattoo — consistent with documented record ✓
+- Jon Wood quotes — removed (unverified) ✓
+- MacArthur block quote — converted to documented paraphrase (⚠️ verbatim source unconfirmed; cf. *Ashamed of the Gospel*, 1993 — confirm before quoting directly)
+- 9/11 death toll (2,977), Joshua Project 3.4 billion unreached, world population 8.3 billion — all within documented range ✓
+
+**Remaining open items:** MacArthur source confirmation.
+
+---
+
+### Existing Manuscript Flagged
+
+#### 3. Neh 13.md — Kent Hughes "Making Pearls" Attribution
+
+**Status: Flag added to body text.**
+
+The passage attributed to Kent Hughes (*James: Faith That Works*, 1991, Preaching the Word series) was flagged ⚠️ in the body text: the prose style reads older than Hughes's own voice and he may be citing a prior writer rather than speaking in his own words. Verbatim quotation from the pulpit is on hold until the primary source is confirmed in the physical volume.
+
+**No change to gap analysis ratings** — Nehemiah is already rated Well-Covered.
+
+---
+
+### Integrity Correction
+
+#### 4. Psalm 97:7 Partial Quote (John 14 1-16.md)
+
+The ESV of Psalm 97:7 reads: *"All worshipers of images are put to shame, who make their boast in worthless idols; worship him, all you gods!"* The John 14 1-16.md manuscript had quoted only the first clause without indicating truncation. Corrected to `…worthless idols…` with `(partial)` citation note.
+
+---
+
+### Unchanged High-Priority Gaps
+
+The top-15 priority list from Part IV is unchanged. All 15 items remain unpreached. The additions in this session do not close any of them:
+
+| Priority | Book/Passage | Status |
+|----------|--------------|--------|
+| 1 | Jeremiah 31:31–34 (New Covenant) | Still absent |
+| 2 | 1 Corinthians 15 (Resurrection) | Still absent |
+| 3 | Revelation 4–5, 21–22 | Still absent |
+| 4 | Ruth | Still absent |
+| 5 | Daniel 1–6 | Still absent |
+
+The James gap flagged in Part XII (James 2–5 never the primary text) remains unaddressed.
+
+---
+
+*Part XIII compiled March 2026. Verified against `Numbers 11.md`, `John 14 1-16.md`, `Neh 13.md`, and `John 14 1-16.md` (Psalm 97:7 edit). Committed to branch `claude/map-preaching-gaps-YhjkO`.*
