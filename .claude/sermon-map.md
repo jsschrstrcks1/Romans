@@ -473,7 +473,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | 1 Corinthians 10:9 | Israel's testing of Christ in the wilderness; serpents; type of cross; cross-references Num 21:5-9 and John 3:13-21 | `Numbers 21 John 3.md` | sermon |
 | 1 Corinthians 3:10-15 | Eternal legacy and what lasts beyond death | `1 cor 3.md` | sermon |
 | 1 Corinthians 9:19-23 | Motivation for sharing the gospel | `1 cor 9.md` / `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` | sermon |
-| 1 Corinthians 12:12-27 | Church membership and body commitment | `Commitment to the church body 1 cor 12.md` | sermon |
+| 1 Corinthians 12:12-27 | Church membership and body commitment | `Commitment to the church body 1 cor 12.md` | sermon — David Platt dating story (priorities: God, family, church, homework, then girlfriend); church-hopping critique; "I love Jesus but not the church" confronted; Dhangar of India people group; body metaphor (hand, leg, dirty diaper); Brenda and Dalia commitment examples; "taking strangers making family"; church planting vision over building projects; communion; Romans 3:23 gospel close |
 | 1 Corinthians 13:8-10; John 10:27-28 | Cessation of sign gifts; eternal security | `Sunday school notes week 2.md` | study |
 
 ### 2 Corinthians
@@ -493,12 +493,13 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Galatians 2:15-end | Justification by faith transforms the believer | `gal 2.md` | sermon |
 | Galatians 3:23+ | Law, faith, and adoption as children of God | `adoption - gal 3.md` | sermon |
 | Galatians 3:27-4:7 | Adoption as God's children | `adoption - gal 3.md` / `Adoption - christms eve 23.md` | sermon |
-| Galatians 6:7-10 | Sowing for eternity not the world | `8-23-20.md` | sermon |
+| Galatians 6:7-10 | Sowing for eternity not the world | `8-23-20.md` | sermon — Titanic oranges illustration (crew throwing oranges to drowning passengers); David and Svea Flood missionary story (one convert in Africa → generations of fruit); Aggie's discovery of her parents' legacy; sowing/reaping principle; Toplady, Spurgeon, Luther, Steven Lawson quotes on free will and sovereignty; Sindhi Samas of Pakistan people group; do not grow weary in doing good |
 
 ### Ephesians
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Ephesians 1:3-14 | Angels, demons, and the spiritual realm | `Ephesians 1 - Angels Demons Etcetera.md` | sermon (condensed outline) — BFM angelology/demonology; Chuck Hastings quote on cultural angel obsession; pseudepigrapha vs. canon vs. apocrypha; Testament of Solomon demon names and "binding" origins; 1 John 4:4, Col 1:13-14; cargo cult analogy (don't worship the boat); dualism heresy critique; "the devil made me do it" traced to Eden; lottery winners illustration; God's riches vs. worldly riches; Bahdai of India people group (~600K, no known believers) |
 | Ephesians 2 | Theological anthropology; depravity of man | `vbs 2019.md` | sermon |
 | Ephesians 5:4 | Thankfulness to God for creation and salvation | `thanksgiving 2017.md` | sermon |
 | Ephesians 5:4; Genesis 22 | Thanksgiving; smashing idols; Abraham and Isaac | `thanksgiving 2018.md` | sermon |
@@ -525,10 +526,10 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Colossians 1:12-23 | Christ's supremacy, creation, and reconciliation | `col 1.md` / `christology.md` | sermon |
-| Colossians 2:1-8 | Thanksgiving and guarding against deceit | `Col 2 - thanksigiving.md` | sermon |
+| Colossians 2:1-8 | Thanksgiving and guarding against deceit | `Col 2 - thanksigiving.md` | sermon — quilting metaphor (grandmother's quilt, each square a person knit together); bronze patina metaphor for church unity (individual pieces weathering together); John Piper quote on encouragement producing gratitude; eucharisteo word study (thanksgiving as Eucharist root); Ann Voskamp quote on eucharisteo; 1 Thess 5:17-18; warning against philosophy and empty deceit (v.8); communion service close |
 | Colossians 3:1-11 | The doctrine and weight of sin | `hamartiology.md` | sermon |
 | Colossians 3:1-17 | Political idolatry; sexual immorality (πορνεία); foul language; Christian formation; seminary reflection intro; election-year context (Trump/Biden references date sermon to late 2020); "a puritan" quoted: "be mortifying sin or sin will be mortifying you" (commonly attr. John Owen, *Mortification of Sin* — sermon does not name Owen); prosthetic-leg / baby-learning-to-walk sanctification illustrations; "you might be the only bible someone ever reads" | `I have been thinking about going back to seminary.md` | sermon |
-| Colossians 4:2-4 | Biblical model of prayer; evangelism | `col 4 - prayer.md` / `prayer col 4.md` | sermon |
+| Colossians 4:2-4 | Biblical model of prayer; evangelism | `col 4 - prayer.md` / `prayer col 4.md` | sermon — Esther/Xerxes audience illustration (approaching the throne); Putin/Kim Jong Un modern parallel; 2nd London Baptist Confession prayer model (ASCST: Adoration, Submission, Confession, Supplication, Thanksgiving); George Müller quote on prayer beginning with meditation on God's Word; guided prayer exercise at close; open door for the Word (v.3) |
 
 ### 1 Thessalonians
 
@@ -640,7 +641,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Holy Spirit (BFM) | BFM article text | `bfm holy spirit.md` | teaching |
 | Catholicism | Romans 3-5; Eph 2:8-9 | `Catholicism.md` | teaching |
 | Christian Science | John 14:1-7 | `Christian science is the next group we are going to look at.md` | teaching |
-| Cultural Marxism | Romans 10:12-13 | `Cultural Marxism.md` | teaching |
+| Cultural Marxism | Romans 10:12-13 | `Cultural Marxism.md` | teaching — part 2 of previous week; cultural Marxism defined (suppress/support culture by group identity); critical race theory and intersectionality critique; SBC convention resolution context; David Brooks quote (older liberals vs younger militants); experience-as-truth error compared to Catholic/JW/Mormon elevation of tradition; Gal 3:26-29, Acts 10:34-35, Col 3:11, Acts 10:28, Rev 5:9-10, Deut 10:17; Dhund Abbasi of Pakistan people group (Abbasid dynasty descendants, ~1M, zero known believers); citizenship-in-heaven close |
 | Evangelism / Missions | Mt 28; Rom 15; Rev 7 | `Evangelism.md` / `evangelism (romans 15, mt 28, and rev 7).md` | sermon |
 | God's Aseity / Missions / Hell | Mk 9:48-49; Is 66:24; 2 Pet 2:17; Mt 24:51; Mt 13:49-50; Is 59:2 | `Missions and Hell - why it matters.txt` | sermon |
 | Adoption (Theology) | Galatians 3-4 | `adoption - gal 3.md` / `Adoption - christms eve 23.md` | sermon |
