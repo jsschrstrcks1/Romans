@@ -910,4 +910,9 @@ There is an advisory board meeting immediately following the service, if you're 
 
 ---
 
-## PROCESSING MARKER: Remaining sermons to be appended (Catholicism, Jn 14, Lk 2, Rom 2, Acts 18, BFM HS, 2 Cor 5)
+## PROCESSING MARKER — COMPLETED
+**Batch processed 2026-03-13**: Catholicism, Jn 14, Lk 2, Rom 2, Acts 18 (being baptist), BFM HS, 2 Cor 5
+- All 7 already existed as files in Other-Sermons/Sermons/
+- Each file fact-checked, Scripture corrected to ESV, integrity log appended
+- Files: Catholicism.md, John 14 - exclusivity of the gospel..md, Luke 2.md, Romans 2 mt 23 col 3 eph 2.md, being baptist.md, bfm holy spirit.md, 2 cor 5.md
+- Committed and pushed to branch claude/review-docs-sermon-prep-uxX7M
