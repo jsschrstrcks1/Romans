@@ -1413,4 +1413,28 @@ The James gap flagged in Part XII (James 2–5 never the primary text) remains u
 
 ---
 
-*Part XIII compiled March 2026. Verified against `Numbers 11.md`, `John 14 1-16.md`, `Neh 13.md`, and `John 14 1-16.md` (Psalm 97:7 edit). Committed to branch `claude/map-preaching-gaps-YhjkO`.*
+---
+
+### Archive Sermon Added to Corpus
+
+#### 5. Romans 15 - Carry Water.md — Archive Treatment of Romans 15:1-3
+
+**File:** `Other-Sermons/Sermons/Romans 15 - Carry Water.md`
+**Passage:** Romans 15:1-3 (primary); Romans 14:20; Proverbs 27:17; Colossians 3:3; John 4:14; Matthew 26:53; Psalm 34:8; John 14:6
+
+**Status:** Cleaned, verified, and added to corpus. This is an earlier/archive manuscript on Romans 15:1-3 distinct from the primary series manuscript `Romans 15a - The Welcome We've Been Given.md`. The two treatments are complementary: this one focuses on bearing with the weak and the water-carrying motif; the primary series manuscript focuses on welcome and Gentile inclusion.
+
+**Scripture corrections made during cleaning:**
+- Proverbs 27:17 — raw notes had NIV form ("as iron sharpens iron, so one person sharpens another"); corrected to ESV ("Iron sharpens iron, and one man sharpens another.")
+- John 14:6 — raw notes had "the light"; corrected to ESV "the life."
+- Psalm 34:8 — raw notes mislocated this verse to John 4; corrected to Psalm 34:8. (John 4:14 is a separate cross-reference in the same sermon.)
+
+All 8 Scripture quotes verified ESV (March 2026).
+
+**Illustration flag:** Gulf War lieutenant/sergeant story marked ⚠️ — circulated widely in preaching contexts but origin not traced to a named publication. Verify before use in print.
+
+**Gap analysis impact:** Romans 15 remains Well-Covered. The corpus now holds two distinct manuscripts on Romans 15:1-3. No change to priority gap list.
+
+---
+
+*Part XIII compiled March 2026. Verified against `Numbers 11.md`, `John 14 1-16.md`, `Neh 13.md`, `John 14 1-16.md` (Psalm 97:7 edit), and `Romans 15 - Carry Water.md`. Committed to branch `claude/map-preaching-gaps-YhjkO`.*
