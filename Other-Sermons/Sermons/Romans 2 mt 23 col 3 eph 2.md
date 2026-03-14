@@ -26,12 +26,11 @@ I knew someone that had a cat growing up, and it had escaped they thought. They 
 People febreeze can cover a lot of smells, but not the nauseating stench of something that’s been dead for a while. But she tried. Then she sprayed Lysol, no help. So she went into her bedroom and brought out some of the Dolce and Gabana perfume she had been given for Christmas. Even that didn’t make it better. So she put the lid on the box, and tried to seal it inside a plastic garbage bag. Even then, she could still smell the stink of death, through the bag, over the perfume and Lysol and febreeze. It didn’t matter what she did, she didn’t have anything that smelled strongly enough to cover the stink of death. 
 
 So it is for those who live their week for themselves, and try to only live Sundays for the lord.
-Paul writes in vs 3: do you think you will escape God’s judgment? 4 Or do you show contempt for the riches of his kindness, forbearance and patience, not realizing that God’s kindness is intended to lead you to repentance?
-5 But because of your stubbornness and your unrepentant heart, you are storing up wrath against yourself for the day of God’s wrath, when his righteous judgment will be revealed. 6 God “will repay each person according to what they have done.”[a] 7 To those who by persistence in doing good seek glory, honor and immortality, he will give eternal life. 8 But for those who are self-seeking and who reject the truth and follow evil, there will be wrath and anger. 9 There will be trouble and distress for every human being who does evil: first for the Jew, then for the Gentile. 
+Paul writes in vs 3: "Do you suppose, O man—you who judge those who practice such things and yet do them yourself—that you will escape the judgment of God? Or do you presume on the riches of his kindness and forbearance and patience, not knowing that God’s kindness is meant to lead you to repentance? But because of your hard and impenitent heart you are storing up wrath for yourself on the day of wrath when God’s righteous judgment will be revealed. He will render to each one according to his works: to those who by patience in well-doing seek for glory and honor and immortality, he will give eternal life; but for those who are self-seeking and do not obey the truth, but obey unrighteousness, there will be wrath and fury. There will be tribulation and distress for every human being who does evil, the Jew first and also the Greek" (Romans 2:3-9, ESV).
 
 You know what Jesus said about such people? About these white washed tombs, about these people like my cup, clean on the outside but full of filth and rot and decay on the inside? People like that cat laid out all pretty in a boot box, with little towels, sprayed with expensive perfume but reeking of death? 
 
-Jesus says in mt 23 woe to you, you brood of vipers. How will you escape the fires of hell? 
+Jesus says in Matthew 23:33: "You serpents, you brood of vipers, how are you to escape being sentenced to hell?" (ESV) 
 
 Such people reek of hellfires. You know the ones I mean, those that come to church on Sunday, and on Monday, they go back to cursing like sailors. They dress nice on Sunday, but on Monday, they go back to having sex outside of marriage. They may smell of nice perfume on Sunday, but on Monday they live for themselves. They seek out whatever earthly pleasure the lusts of their heart desire. On Sunday, they wear nice shoes; and on Monday they worship their true slavemaster – the devil. But boy their hair looks nice on Sunday. 
 
@@ -41,7 +40,7 @@ In truth the difference between these people we’ve been talking about – the 
 
 Someone who yields their life to Christ, who becomes a believer in Jesus Christ has that filth scrubbed out of their cup. Where it was nasty and gross and full of mold, and stink, Jesus comes in like mr clean and scrubs all the dirt and stink away. Even the dirt on the outside that you and I can’t see, He takes care of that too. 
 
-That cat, dead, and stinking of too much perfume and death. He doesn’t just take the stink away, he resurrects the cat. Eph 2 says we were dead in our trespasses and sins,     But God, being rich in mercy, because of His great love with which He loved us even when we were dead in our transgressions, made us alive together with Christ (by grace you have been saved), and raised us up with Him, and seated us with Him in the heavenly places in Christ Jesus, so that in the ages to come He might show the surpassing ariches of His grace in kindness toward us in Christ Jesus. For by grace you have been saved through faith; and that not of yourselves, it is the gift of God; as a result of works, so that no one may boast. For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand so that we would walk in them.
+That cat, dead, and stinking of too much perfume and death. He doesn’t just take the stink away, he resurrects the cat. Eph 2 says "And you were dead in the trespasses and sins... But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved—and raised us up with him and seated us with him in the heavenly places in Christ Jesus, so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus. For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them." (Ephesians 2:1, 4-10, ESV)
 In short, that person inside the white washed tomb, Jesus doesn’t help them do better at hiding their mess. He resurrects the corpse. He doesn’t spray it with perfume, he gives the dead guy a new body, a new nature. 
 
 What then should we do, those of us who have been made new. We’ve been resurrected as believers, were no longer dead, were no longer a corpse inside that tomb. Should we then crawl back inside the tomb to sleep? Certainly not. Should we go back to sinning? Certainly not. We need to set our minds on things above. 
@@ -68,3 +67,35 @@ Think back over your conversations this week, or maybe better. Look at your face
 If you have not yet become a believer in Jesus Christ, then I challenge you to ask your self this question: EE
 
 Gospel.
+
+---
+
+## Integrity Log
+
+**File**: `Romans 2 mt 23 col 3 eph 2.md`
+**Review date**: 2026-03-13
+**Status**: Raw transcript with corrections applied
+
+### Scripture Corrections Applied
+1. **Romans 2:3-9**: Original quoted NIV wording ("show contempt," "stubbornness and your unrepentant heart," "storing up wrath against yourself," "will repay each person according to what they have done"). Replaced with ESV: "presume on the riches," "hard and impenitent heart," "storing up wrath for yourself," "will render to each one according to his works."
+2. **Ephesians 2:1, 4-10**: Original quoted NASB 1995 wording (capitalized divine pronouns, "surpassing riches," "not as a result of works," "so that we would walk in them"). Replaced with ESV: lowercase pronouns, "immeasurable riches," "not a result of works," "that we should walk in them."
+3. **Matthew 23:33**: Original said "woe to you, you brood of vipers. How will you escape the fires of hell?" This conflates the "woe" refrain (vv. 13-29) with v.33, and adds "fires of" which is not in any major translation. ESV: "You serpents, you brood of vipers, how are you to escape being sentenced to hell?"
+4. **Colossians 3:1-6**: The sermon paraphrases this passage with interpretive glosses ("old nature is gone, we have a new heart, new nature hidden in Christ"). The ESV says "you have died, and your life is hidden with Christ in God" (3:3). The paraphrase is theologically reasonable but inserts terminology not in the text. Left as-preached — clearly a gloss in oral context.
+
+### Factual Corrections — Flagged ⚠️
+5. **Jonathan Edwards / Hebrews 10:31**: The sermon says Edwards "quoted Hebrews" with "it is a dreadful thing to fall into the hands of an angry God." ⚠️ This is a conflation. Edwards' sermon "Sinners in the Hands of an Angry God" was based on **Deuteronomy 32:35**, not Hebrews. The title alludes to Hebrews 10:31, but the actual verse says "the **living** God," not "angry God." The word "dreadful" matches the NIV rendering; the ESV says "**fearful** thing." Left as-preached — flagged for accuracy.
+6. **"God says it's better to kill yourself than to hurt a child"**: ⚠️ Significant overstatement of Matthew 18:6 (ESV: "whoever causes one of these little ones who believe in me to sin, it would be better for him to have a great millstone fastened around his neck and to be drowned in the depth of the sea"). The text says: (a) passive drowning, not active suicide; (b) "cause to sin/stumble," not "hurt" generally; (c) "little ones who believe in me" — likely disciples, not children generically. Left as-preached — flagged for future sermon preparation.
+7. **"39 kids kidnapped to be sold into sexual slavery"**: ⚠️ This refers to Operation Not Forgotten (U.S. Marshals, Georgia, August 2020). While 39 children were recovered, only about 15 were identified as sex trafficking victims. The others included endangered runaways, children missing from state care, and parental custody cases. They were found across 20 Georgia counties and several other states, not in a single trafficking ring. The U.S. Marshals explicitly corrected viral social media claims that inflated the trafficking element. Left as-preached — flagged.
+8. **Barnabas Piper quotes** ("politically homeless" and "at ease in either political party"): ⚠️ Could not verify these specific quotes in any indexed source. Barnabas Piper (son of John Piper) is a real author, and the sentiment aligns with his general theological posture, but the exact wording may come from a tweet or podcast that is not well-archived. Left as-preached with flag.
+
+### Verified and Left Alone
+- **1 Corinthians 11 on head coverings**: Accurately summarizes the passage (men uncovered, women covered in prayer).
+- **Cup/bone illustration**: Personal anecdote, left as-is.
+- **Dead cat/Febreze illustration**: Personal anecdote, left as-is.
+- **Political idolatry discussion**: Reflects the preacher's theological position. Left as-preached.
+- **Georgia pastor conversation**: Personal anecdote, left as-is.
+
+### Intentionally Left Alone
+- Raw transcript format preserved
+- Spelling and grammar irregularities left as-is (raw transcript)
+- "EE" at end likely refers to Evangelism Explosion or a similar gospel presentation method — left as-is
