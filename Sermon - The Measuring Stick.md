@@ -143,6 +143,8 @@ That's why we look around and see injustice. We did that. Our sin caused this.
 
 If God saw everything the same way the sinful world sees it, what would we need God for? If God agreed with us on everything, he would not be God. He *could* not be God. God giving us commands that we disagree with and expecting us to strive toward those goals is proof that he is God. Because as Tim Keller says — anything less than that, and we're probably just worshipping ourselves.
 
+Some of you in this room are wrestling with exactly this. You know what God says. And you don't like it. That's not a faith crisis. That's evidence that you're dealing with the real God and not a reflection of yourself.
+
 ---
 
 ## The Commitment
