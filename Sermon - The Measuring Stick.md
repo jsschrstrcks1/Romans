@@ -87,3 +87,64 @@ I know a lot of you signed the commitment last year to read through the Bible in
 We will finish our year-long process here in the next couple months, and I want to recommit as a church to reading through the Bible in a year. If you didn't make it last year, that's OK, let's try again. If you did, you're in for a double blessing because the second time through you find greater depths, your soul is more deeply anchored in times of trouble. You have greater instant access to the things the Prince of Peace has told us about himself.
 
 But all of that starts with a relationship with God.
+
+---
+
+## Communion — 1 Corinthians 11:23–29 (ESV)
+
+> For I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, and when he had given thanks, he broke it, and said, "This is my body, which is for you. Do this in remembrance of me." In the same way also he took the cup, after supper, saying, "This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me." For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes.
+>
+> Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord. Let a person examine himself, then, and so eat of the bread and drink of the cup. For anyone who eats and drinks without discerning the body eats and drinks judgment on himself.
+
+---
+
+CORRECTIONS LOG (added by Claude Code)
+Verified against ESV, primary sources, and historical records. Do not preach
+or republish without resolving flagged items below.
+
+1. PSALM 119:89 PARENTHETICAL SUMMARY IS INACCURATE
+   The sermon's BFM verse list summarizes this as "there are consequences for
+   disobedience to God's word." ESV: "Forever, O LORD, your word is firmly
+   fixed in the heavens." The verse is about the permanence of God's word,
+   not consequences for disobedience. Correct the parenthetical.
+
+2. PSALM 119:105 PARENTHETICAL SUMMARY IS INACCURATE
+   Summarized as "God keeps his promises!" ESV: "Your word is a lamp to my
+   feet and a light to my path." The verse is about God's word providing
+   guidance, not about promise-keeping. Correct to: "God's word guides us."
+
+3. PSALM 119:140 PARENTHETICAL SUMMARY IS INACCURATE
+   Summarized as "God is sovereign." ESV: "Your promise is well tried, and
+   your servant loves it." The verse is about the proven trustworthiness of
+   God's word. Correct to: "God's word is proven and trustworthy."
+
+4. "1689 IS MORE OR LESS A COPY OF WESTMINSTER" — OVERSTATED
+   The 2LBCF follows Westminster's structure (via the 1658 Savoy Declaration)
+   and many paragraphs are identical, but it makes substantive Baptist changes
+   on baptism, church government, and covenant theology. More accurate:
+   "modeled on" or "heavily influenced by" Westminster.
+
+5. "NEW HAMPSHIRE AND PHILADELPHIA ARE BASICALLY JUST THE 1689 RE-WORDED"
+   True for the Philadelphia Confession (1742 — adopted the 1689 verbatim
+   with two additional chapters). Not true for the New Hampshire Confession
+   (1833) — much shorter (18 articles vs. 32 chapters), deliberately
+   softened Calvinistic language, and is a distinct document in its own right.
+
+6. CHICAGO STATEMENT — "SIGNED BY THE LEADERSHIP OF EVERY MAJOR DENOMINATION"
+   Approximately 300 individual evangelical scholars and leaders signed
+   (Sproul, Packer, Schaeffer, Henry, MacArthur, Geisler, and others) from
+   38 denominations. They signed as individuals, not as official
+   denominational representatives. More accurate: "signed by hundreds of
+   evangelical leaders from dozens of denominations."
+
+7. AL MOHLER QUOTE — UNVERIFIED
+   The quote about "truthfulness and trustworthiness" is consistent with
+   Mohler's published positions (especially his chapter in Five Views on
+   Biblical Inerrancy, Zondervan 2013), but the exact source could not be
+   confirmed. The sermon's loose attribution ("Al Mohler wrote saying...")
+   is fair for spoken delivery; verify exact source before publishing.
+
+8. COMMUNION PASSAGE REFERENCE ABSENT IN ORIGINAL TRANSCRIPT
+   The communion reading (1 Corinthians 11:23-29 ESV) was not cited by
+   reference in the raw transcript. Added reference in the processed version
+   above. Text verified as ESV-accurate.

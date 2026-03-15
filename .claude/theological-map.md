@@ -61,6 +61,14 @@ Sovereignty extends over creation, history, politics, individual lives, and salv
 
 **Explicit. Tradition: Classical theism.**
 
+#### Omnipotence — Nothing Too Hard for God
+> "My God is so great, so strong and so mighty, there's nothing my God cannot do."
+
+> "Nothing is too hard for God, and he healed Sarai's womb, and allowed a single child to be born."
+> — `Gen 21 - My God Is So Great.md`
+
+God's power demonstrated through creation (stars, earth's precise placement, moon), providence (feeding millions in the desert, closing lions' mouths, directing animals to Noah's ark), and miraculous intervention (healing Sarah's barrenness, Jonah and the fish). The sermon catalogs God's omnipotence as the ground for trusting Scripture's preservation: a God this powerful would preserve his word. **Explicit. Tradition: Classical theism.**
+
 #### Omniscience
 > "You have never had a thought, made an action, or had a secret that Jesus didn't also know."
 > — `Eternal Security.md`
@@ -123,6 +131,8 @@ Suffering is not punishment for the believer. It is training. **Explicit. Tradit
 > "The three roles of Christ are Prophet, Priest and King."
 > — `Sola Christus.md`
 
+The Judges 8 sermon develops this extensively through Gideon as a negative type: Gideon acted as king (tax, signets of power), prophet (God spoke through angel), and priest (made an ephod) — but failed in all three offices, unlike Christ. Every OT figure who foreshadows Christ ultimately falls short. See `Judges 8 - Prophet Priest and King (raw notes).md`.
+
 Calvin's *munus triplex* explicitly taught. **Explicit. Tradition: Reformed (Calvin).**
 
 #### Sole Mediator
@@ -150,7 +160,10 @@ No saint, priest, pope, prophet, or governing body can mediate. **Explicit. Trad
 > "We owed a debt we could not pay, and he paid a debt he did not owe."
 > — `is 53.md`
 
-Central atonement theory. Named explicitly by term ("penal substitutionary atonement") in multiple sermons. **Explicit. Tradition: Reformed, Evangelical.**
+> "Blood had to be shed to cover Adam and Eve's nakedness when God knit them clothes of fur. Blood would have to continue to be shed to keep their sin covered."
+> — `Gen 4 - Cain and Abel.md`
+
+Central atonement theory. Named explicitly by term ("penal substitutionary atonement") in multiple sermons. The Genesis 4 sermon traces the blood-sacrifice principle back to Eden and Abel's firstborn lamb — a type of Christ. **Explicit. Tradition: Reformed, Evangelical.**
 
 #### Definite/Particular Atonement
 > "Christ's death was not a vague potential. He laid down His life for His sheep. He gave Himself for the church, to present her holy and blameless. The atonement is definite — not limited in its power, but particular in its design."
@@ -650,6 +663,12 @@ The Genesis 1–2 sermon argues that the Hebrew chiasm and step-by-step repetiti
 
 God's providential preservation of the text through meticulous human transmission. **Explicit. Tradition: Conservative Evangelical.**
 
+#### Preservation of Scripture — Manuscript Evidence as Apologetic
+> "What we have, is 50,000 plus manuscripts and fragments, and papyri and scrolls that have a mere handful of differences across time. Most of which are spelling... But none of them have any errors across all 50,000 documents that have anything to do with doctrine."
+> — `Gen 21 - My God Is So Great.md`
+
+Argues that if God is powerful enough to preserve his people, he would preserve his word — and the manuscript evidence confirms it. Links God's omnipotence directly to Scripture's reliability. Used as an apologetic response to those who "believe in the God of the Bible but not the Bible itself." **Explicit. Tradition: Conservative Evangelical (textual-criticism-as-apologetic).**
+
 #### Closed Canon — 66 Books
 > "The council of Laodicea established our current list of 66 books."
 > — `sola scriptura.md`
@@ -668,6 +687,8 @@ Apostolic authorship or connection as the criterion for canonicity. The Apocryph
 #### Christocentric Hermeneutic
 > "Everything in Scripture points to Christ. The Old Testament is the New Testament concealed; the New Testament is the Old Testament revealed."
 > — recurring framework across Romans, Colossians, Hebrews sermons
+
+The Genesis 4 sermon develops a detailed 14-point typology of Abel as a type of Christ — shepherd, hated without cause, violent death, offering to God, by faith, excellent offering, accepted, witnessed righteous, publicly testified — drawing from Genesis 4, Hebrews 11:4, and NT parallels. See `Gen 4 - Cain and Abel.md`.
 
 **Implicit. Tradition: Reformed.**
 

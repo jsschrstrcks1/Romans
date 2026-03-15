@@ -27,7 +27,7 @@ Jesus himself says what? I am the way, I am the truth, I am the life.
 
 Does he include anyone else in that list? Does he say I am the way, but so is Mohammad also? No. I am the way, but also, joseph smith? No. Does he include anyone else in that list? Or Just Jesus. Does he say “I am the way, but also, if you do more good things than bad things, that is an equally valid way?”. Certainly not. 
 
-Acts 4:12 says “Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.”
+Acts 4:12 says “And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved.” (ESV)
 
 No other name. None. Not the pope. Not even Jose Luis de Jesus Miranda. Have you ever heard of him? He was a guy down in south florida a few years back, down in Miami, that claims to be Jesus. He claims to be the Jesus from the bible. But the things he teaches contradicts scripture. For starters, he runs around with a 666 tattoo on his arm. He says theres no such thing as sin, and every one gets into heaven. 
 
@@ -73,3 +73,39 @@ If youre a Christian the gospel is important because we have been saved from the
 If you have never come to a point in your life where you’ve followed romans 10:9 where you’ve confessed with your mouth the lord jesus christ, and believed in your heart that God raised him from the dead, then there is nothing more important for you. Your eternity is at stake. There is only one way to heaven. Its found in Jesus Christ alone. No one else. Until you’ve become a believe in Jesus Christ, you can do nothing that’s more important. All of that starts with the true gospel. 
 
 That starts with Romans 3:23. Go ahead and open there with me.
+
+---
+
+## Integrity Log
+
+**File**: `John 14 - exclusivity of the gospel..md`
+**Review date**: 2026-03-13
+**Status**: Raw transcript with corrections applied
+
+### Scripture Corrections Applied
+1. **Acts 4:12**: Original used NIV wording ("Salvation is found in no one else... given to mankind"). Corrected to ESV: "And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved."
+2. **John 14:6**: Verified ESV. The sermon's quotation is correct: "I am the way, and the truth, and the life. No one comes to the Father except through me."
+3. **Romans 3:10-11**: The sermon paraphrases this as "No one is righteous, no one understands, and no one really seeks for God on their own." The ESV reads: "None is righteous, no, not one; no one understands; no one seeks for God." The words "really" and "on their own" are not in the text. Left as-preached — clearly a paraphrase in context, not presented as a direct quotation.
+
+### Attribution Verifications
+4. **Jon Wood**: Verified — Dr. Jon Wood is Vice President for Student Life and Assistant Professor of Theological Studies at Cedarville University. His quotes appear to come from his article "We Believe in the Exclusivity of the Gospel" published in *Cedarville Magazine* (2016).
+5. **Jon Wood "idol factory" quote**: "The image of the unregenerate heart is not one of a well-intentioned wanderer seeking truth, but of an idol factory producing false worship." This adapts Calvin's famous line from *Institutes* I.xi.8: "Man's nature, so to speak, is a perpetual factory of idols." Wood applies Calvin's concept to the unregenerate heart — a legitimate theological synthesis.
+6. **MacArthur "infatuated with false gospels"**: The most likely source is *Ashamed of the Gospel: When the Church Becomes Like the World* (1993). "More than twenty years ago" is accurate if sermon preached ~2025.
+7. **MacArthur extended quote** ("Not only do we not know what the gospel is, largely..."): Likely from sermon "The Exclusiveness of the Gospel, Part 1" (GTY code 80-233). Themes match — shallow churches, untrained pastors, synthetic gospel. ⚠️ Could not verify word-for-word (transcript unavailable at time of review). The source sermon is identified but the quotation may be a paraphrase from memory rather than a verbatim transcript. Left as-preached with this flag.
+
+### Factual Verifications
+8. **Jose Luis de Jesus Miranda**: All claims verified — (a) based in Doral, FL (Miami-Dade); (b) claimed to be Jesus (2004) and Antichrist (2006); (c) had 666 tattoo; (d) ex-wife Josefina Torres confirmed he threatened to send "death angels" to her and her sons; (e) died of liver cirrhosis, November 17, 2013.
+9. **"7.3 billion people... nearly 3 billion unreached"**: World population was 7.3 billion in ~2015. Joshua Project currently estimates ~3.42 billion in unreached people groups. The figures are consistent but date the sermon to approximately 2015-2016 — in tension with the "attacks on the first of the year" reference (likely the 2025 New Orleans Bourbon Street attack). The preacher may be using an older statistic.
+10. **Beethoven's deafness**: Verified — began losing hearing c. 1796-1798, nearly completely deaf by ~1815, composed entire Late Period including the Ninth Symphony (1824) while profoundly deaf.
+
+### Verified and Left Alone
+- **John 14:6 ESV**: Correct.
+- **"Attacks on the first of the year"**: Most likely the January 1, 2025 New Orleans Bourbon Street attack (14 killed, ISIS-inspired).
+- **Political idolatry / social gospel discussion**: Reflects the preacher's theological position. Left as-preached.
+- **Obesity/politics analogy**: Original illustration. Left as-preached.
+- **Deaf-from-birth symphony illustration**: Original illustration. Left as-preached.
+
+### Intentionally Left Alone
+- Raw transcript format preserved
+- Spelling ("bhudist," "youre," etc.) left as-is — raw transcript
+- Jon Wood extended quotation left as-is — verified source

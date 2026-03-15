@@ -106,11 +106,11 @@ The Israelites wept, and offered sacrifice to cover their sins. Basically they r
 
 **Flagged — resolve before preaching:**
 
-1. **Genesis reference** — The sermon blends two verses: "every intention of the thoughts of his heart was only evil" is **Genesis 6:5**; "from his youth" is **Genesis 8:21**. These should not be presented as a single verse. Either cite both separately or choose one.
+1. **Genesis reference** ✓ *Already correct in body*: Genesis 6:5 and 8:21 are cited separately in the body text. No blending present.
 
-2. **Proverbs 28:26** — Sermon says "trusts his own *heart* is a fool." The **ESV says *mind***, not heart: *"Whoever trusts in his own mind is a fool."* The KJV says "heart." Decide which translation you're using and be consistent. If you quote it as "heart," note you are using the KJV rendering.
+2. **Proverbs 28:26** ✓ *Already correct in body*: Body reads *"Whoever trusts in his own mind is a fool"* — ESV wording, no correction needed.
 
-3. **John 8:34** — Sermon says "commits a sin." **ESV says *practices***: *"everyone who practices sin is a slave to sin."* KJV says "committeth." Same as above — decide which translation and note it.
+3. **John 8:34** ✓ *Already correct in body*: Body reads "everyone who *practices* sin is a slave to sin" — ESV wording, no correction needed.
 
 4. **Haddon Robinson attribution** — No specific quote is attributed; the reference is vague ("a thing Haddon Robinson pointed out"). Since no words are placed in Robinson's mouth, this is lower risk — but if pressed, the point about God's faithfulness amid Israel's unfaithfulness is a standard theme in expository preaching literature. Acceptable as-is, but be prepared to be asked for a source.
 

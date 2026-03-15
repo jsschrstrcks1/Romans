@@ -44,7 +44,7 @@ His repentance was as flimsy in that moment to us, as ours is to God when we don
 
 So someone whose truly a believer when they are dealing with these deep sin struggles, they seek help. They show repentance. They show heartfelt remorse. They are actively at war with these things in their lives, and anything less than full on war againt their sin is a sign they never really had a true encounter with Christ. 
 
-So your job today, is to determine if I’m accurately presenting the word of God. If so, then its God being hard on you, not me. Its God’s word bringing conviction. Scripture says the Word of God is sharper than any two edged sword, separating bone from marrow. 
+So your job today, is to determine if I’m accurately presenting the word of God. If so, then its God being hard on you, not me. Its God’s word bringing conviction. Scripture says "the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow" (Hebrews 4:12, ESV). 
 
 I want you to ask your self right now are you truly a believer in Jesus Christ? Were you truly repentant at the moment of your salvation. Really ask your self. Deep down. Do you believe it. Don’t just say yeah yeah. I’m fine. Really ask your self if you were truly repentant. Do you exhibit the signs we’ve talked about. Do you hate the sin in your life? Are you waging war against it? Because that’s what we see in someone who has really become a believer in jesus Christ. You don’t even need the bible for this washing effect to start. We see this all over the world. We talked last week about pastors with only a few pages of scripture leading a congregation. Imagine you only had a few pages from the book of numbers. What that would be like. Yet when that happens, all around the persecuted world we still have people that are being drawn more into the likeness of Christ. The bible makes a huge difference in that process. But God is powerful enough to make it happen any way for people that live in these places without full copies of the word of God. Don’t get me wrong, I’m not saying not to read your bible. Heavens no. The point is at the moment of your salvation you are made into a new creature. You’re given a new heart, and so if your life hasn’t changed, perhaps you’re not yet saved. 
 
@@ -57,3 +57,37 @@ There are a bunch of passages we could go to that say more or less the same thin
 As the praise team comes up here, I want you to be thinking about whether you are truly saved or not. Whether that prayer you prayed half a life time ago was something you believe or beleived with your heart or not. Because if not, then the words were empty of meaning, and value. Only you and God know for sure if that moment changed you. If not, don’t let your pride keep you from going another day without knowing for a fact that Jesus Christ is the Lord of your life. If you didn’t believe them, and you don’t see how God has been working in your life to draw you closer to you, if you are a sheep in church, but a goat everywhere else, or if you secretly are eating from the trash bucket of sin, please don’t let another day go by. Come talk to me after the service.
 
 Close in prayer
+
+---
+
+## Integrity Log
+
+**File**: `2 cor 5.md`
+**Review date**: 2026-03-13
+**Status**: Raw transcript with corrections applied
+
+### Scripture Corrections Applied
+1. **Hebrews 4:12**: Original paraphrased as "separating bone from marrow." The ESV says "piercing to the division of soul and of spirit, of joints and of marrow." The word is "joints" (*harmōn*), not "bone," and the structure is a list of pairs, not a separation of one from the other. Corrected to full ESV quotation.
+2. **Romans 10:10**: Verified — the sermon's "with the heart you believe and are justified" is a faithful rendering of the ESV: "For with the heart one believes and is justified, and with the mouth one confesses and is saved."
+3. **Matthew 25:31ff**: Verified — correct passage for the sheep and goats judgment.
+
+### Flagged — Attribution Notes
+4. **Spurgeon pig illustration**: The sermon attributes the pig-choosing-garbage illustration to "a story told by Charles Spurgeon, and retold by Paul Washer." This is widely attributed to Spurgeon in Reformed circles, and Washer does introduce it as such, but no specific Spurgeon sermon number or published source has been identified. ⚠️ Traditional attribution — unverified to a specific Spurgeon text.
+5. **Paul Washer quote**: "so often today people think they can profess Christ at church, and live like a demon and think they are gonna be ok" — This captures Washer's well-known position (cf. his "Shocking Youth Message") but appears to be a paraphrase, not a direct quote. Left as-preached.
+6. **David Platt "witch's incantation"**: Platt was president of the IMB (2014-2018) — "leader of our missions board" is accurate. Platt did use the word "incantation" and "superstitious" regarding the sinner's prayer (Verge conference, 2012). The exact phrase "as empty as a witch's incantation" appears to be the preacher's embellishment of Platt's position. Left as-preached — the sentiment is faithful to Platt's teaching.
+
+### Factual Note
+7. **Sheep vs. goat ear distinction**: The sermon says "goat ears are long and dangly, while sheep ears are pert and stand up." The general zoological pattern is actually more variable — many sheep breeds have drooping ears, and many goat breeds have erect ears (though Nubian goats have long, pendulous ears). Tail position (goats up, sheep down) is generally considered a more reliable distinguishing feature. However, this is a personal anecdote about a specific animal at auction, and the preacher's point — that sheep and goats can be hard to tell apart — is the rhetorical point driving the Matthew 25 application. Left as-preached.
+
+### Verified and Left Alone
+- **Romans 10:10 ESV**: Verified correct.
+- **Matthew 25:31ff**: Correct passage reference.
+- **Kenny Duffield and Kurt stories**: Personal anecdotes, left as-is.
+- **MasterChef / Tilly Burger illustration**: Personal anecdote, left as-is.
+- **Bleach/dye children's demonstration**: Common Sunday school illustration, left as-is.
+- **Sheep/goat auction story**: Personal anecdote — the point (outward appearance vs. inward reality) is the application, not the zoology.
+
+### Intentionally Left Alone
+- Raw transcript format preserved — this reads as preached, not polished prose
+- Spelling and grammar irregularities left as-is (raw transcript)
+- Personal illustrations and congregant references left as-preached
