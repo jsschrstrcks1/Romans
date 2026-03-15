@@ -10,7 +10,7 @@ So any way that morning, since he wouldn't call an ambulance (other than Stroke,
 
 I had to stay behind, the kids needed an adult, and mom needed to be with Dad. So I went back in the house, and began thinking about all the things I knew about strokes. All the people Ive known that have had strokes, and began to be upset. We've known and know several that are really struggling with the after effects – even some who have a really hard time forming sentences years after the stroke. I realized pretty quickly that I was focusing on ME, rather than on the Lord in the midst of the storm, and so I prayed one more time, and decided to try and distract my self before I went and had to face the kids.
 
-About that time I got a facebook notification, and opened it on my phone and it was a post, a quote by Charles Spurgeon that says this: It is well to praise the Lord for his mercy when you have health, BUT MAKE SURE YOU DO IT WHEN YOU ARE SICK AS WELL because then your praise is more likely to be genuine. *(Verified: Spurgeon, Sermon #2483, "The Objective of Christ's Death," Metropolitan Tabernacle Pulpit Vol. 42.)*
+About that time I got a Facebook notification, and opened it on my phone and it was a post — a quote by Charles Spurgeon that says this: *"It is well to praise the Lord for His mercy when you are in health, but make sure that you do it when you are sick, for then your praise is more likely to be genuine."* *(Verified: Spurgeon, Sermon #2483, "The Objective of Christ's Death," Metropolitan Tabernacle Pulpit Vol. 42, 1896.)*
 
 I know Brenda and Carol saw it. But it really hit home in that moment, It was as though God were saying "Will you still praise me, if I take your father, or worse, allow him to become a vegetable?".
 
