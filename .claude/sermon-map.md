@@ -189,7 +189,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| Exodus 2:23; Psalm 115:4 | God hears, sees, knows, acts against idolatry | `Exodus 2.md` | sermon |
+| Exodus 2:23–25; Psalm 115:4–8 | Thai people group (Thailand, Theravada Buddhism, ~23M, <1% evangelical); Joseph background — slavery, 600,000 babies killed (⚠️ Midrash tradition, not biblical text; ~3-year duration also from Midrash); Moses' birth; Nile River dangers — hippos (third-largest land mammal, ~9,000 lbs), asp viper (4% fatal untreated), Nile crocodiles, monitor lizards; Moses raised in palace, Josephus confirms Hebrew identity (*Antiquities* Bk. 2); Israelite hope in Moses disappointed (exile); Egyptian idolatry — 2,000+ deities, animism → anthropomorphism; America–Egypt parallel (wealth, security); Cuban refugee boats (Ponce Inlet museum; Keys diving find of abandoned boat with children's clothes and machete); Attu Island 1942 — 42 Unangan residents captured from Sunday Russian Orthodox services, transported to Hokkaido, 16 died in captivity; Psalm 115:4–8 ESV — powerless idols; politics/comfort/rights as modern idols; A.W. Tozer (*Knowledge of the Holy*, ch. 1): "What comes into our minds when we think about God is the most important thing about us"; Exodus 2:23–25 — God hears, God remembers, God knows; Luke 18 widow and unjust judge — God gives justice to his elect (Luke 18:7–8 ESV); James 4:2–3 ESV — you do not have because you do not ask; Exodus 3:7–8 — God surely sees affliction, has come down to deliver; trials build faith; gospel close | `Other-Sermons/Sermons/Exodus 2.md` | sermon |
 | Exodus 5:22-6:13 | Discouragement; asking God why; trusting Him | `ex 6-7.md` | sermon |
 | Exodus 14:1-31 | Red Sea crossing; archaeological context (Nuweiba); sovereignty; the crucible of faith | `Sermon - The Crucible.md` (sources: `Exodus 14.md` complete, `Exodus 14 - red sea.txt` raw dictation, `exodus 14 - red sea.md` cleaned/edited version of the .txt) | sermon |
 
@@ -951,7 +951,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `jeremiah 7.md` — Jeremiah 7 — Idolatry of happiness
 - `1 kings 18.md` — 1 Kings 18 — Elijah; double-mindedness; Baal
 - `1 Kings 3 - Soloman.md` — 1 Kings 3 — Solomon's compromise with idolatry
-- `Exodus 2.md` — Exodus 2:23; Psalm 115:4 — Idolatry vs the living God
+- `Other-Sermons/Sermons/Exodus 2.md` — Exodus 2:23–25; Psalm 115:4–8 — Egyptian idolatry (2,000+ deities, animism → anthropomorphism); America–Egypt parallel; politics/comfort/rights as modern idols; Psalm 115:4–8 (idols cannot speak, see, hear; those who make them become like them); Tozer on thinking rightly about God; contrasted with God who sees, hears, knows, and acts (Exod 2:23–25; 3:7–8)
 - `psalms 24.md` — Psalm 24 — Clean hands; idolatry and integrity
 - `thanksgiving 2018.md` — Eph 5:4; Gen 22 — Smashing idols
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — Baal worship; adding gods to the collection; modern idols of comfort and money; God strikes at idols (sermon lines 46-88)
@@ -991,8 +991,10 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `PS 91 - Prayer.md` — Psalm 91 — God as refuge; prayer service
 - `col 4 - prayer.md` / `prayer col 4.md` — Colossians 4:2 — Devotion to prayer
 - `Neh 1.md` — Nehemiah 1 — Brokenness and prayer
+- `Other-Sermons/Sermons/Exodus 2.md` — Exodus 2:23–25; Luke 18:7–8; James 4:2–3 — God hears the cry of his people; Luke 18 widow and unjust judge as model of persistent prayer; "you do not have because you do not ask"
 
 ### Providence / God's Sovereignty Over History
+- `Other-Sermons/Sermons/Exodus 2.md` — Exodus 2:23–25; 3:7–8 — God sees, hears, knows, and acts; 40 years of silence does not mean inaction; trials as God's tool for deepening faith
 - `Ezra 4 and 6.md` — Ezra 4-6 — God's sovereignty over nations
 - `Romans 1 (2024).md` — Romans 1:18+ — Anthropic principle; fine-tuning
 - `2 kings 25.md` — 2 Kings 25 — Trusting God over your own heart

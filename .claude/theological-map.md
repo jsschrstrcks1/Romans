@@ -78,6 +78,22 @@ God's power demonstrated through creation (stars, earth's precise placement, moo
 
 **Explicit. Tradition: Classical theism, Reformed Baptist.**
 
+#### God's Intimate Knowledge of Human Suffering — He Sees, Hears, Knows, Acts
+
+God is not distant or dispassionate. He sees every struggle intimately. He hears the groanings of his people. He remembers his covenant. And he acts — though not always on our timeline.
+
+Grounded in Exodus 2:23–25 ("God heard their groaning, and God remembered his covenant... God knew"): the four verbs — heard, remembered, knew, saw — are treated as pastoral realities, not theological abstractions.
+
+Because Jesus lived every element of human life — temptation, adversity, poverty, grief, loss — God knows from the inside what human suffering costs. This is not only doctrinal omniscience; it is incarnational solidarity.
+
+The 40-year wait in Midian while the Israelites suffered is the controlling illustration: God's delay is not God's absence. Trials are his tool for deepening faith. The sermon draws the pastoral application to every person in the room carrying a long wait.
+
+Cross-reference: Luke 18:7–8 (ESV) — "will not God give justice to his elect, who cry to him day and night?... I tell you, he will give justice to them speedily." James 4:2–3 — "you do not have, because you do not ask."
+
+— `Other-Sermons/Sermons/Exodus 2.md`
+
+**Explicit. Tradition: Classical theism with pastoral application; Reformed Baptist.**
+
 #### God's Love — Holy, Costly, Substitutionary
 > "God's love is not the soft, permissive kind that ignores sin. It is the strong, holy, covenant-keeping kind that deals with sin fully and finally in the person of Christ."
 > — `Romans 5.md`
@@ -931,6 +947,7 @@ Every sermon in the Romans series includes a specific "People Group of the Week"
 | **Kinism / Racism** | "Kinism is not a secondary issue. It is not a matter of conscience. It is an abomination." | `Romans 14c.md` | Explicitly rejected in strongest terms |
 | **Sentimental Christianity** | "Biblical love is not morally neutral. It does not bless what destroys people." | `romans 12 pt 3.md` | Explicitly rejected |
 | **Idolatry (broadly)** | "If football is more important than hearing the word of God... football is your idol." | `mark 10.md` | Explicitly rejected |
+| **Idolatry — Egypt/America parallel** | Egypt had 2,000+ deities, starting from animism and morphing into anthropomorphism. America has politics, comfort, rights, and presidents. Psalm 115:4–8: idols cannot speak, see, or hear — and those who make them become like them. A.W. Tozer (*The Knowledge of the Holy*, ch. 1): "What comes into our minds when we think about God is the most important thing about us." The idols we choose to worship reveal who we are. | `Other-Sermons/Sermons/Exodus 2.md` | Explicitly rejected |
 
 ### Methodological Errors
 
