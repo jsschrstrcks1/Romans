@@ -1,6 +1,9 @@
-1 Thessalonians 5:12-24 — Rejoice Always
-*(Raw draft — unpolished; personal intro re: dad's stroke, de Gaulle/French Resistance illustration, Shane and Shane)*
-*(Verification flags at bottom — review before preaching)*
+# 1 Thessalonians 5:12-24 — Rejoice Always
+
+**Text**: 1 Thessalonians 5:12-24
+**Theme**: Rejoicing and giving thanks in all circumstances; the resistance of worship; peace that passes understanding
+**Status**: Hard errors corrected; Spurgeon quote corrected to verified text; duplicate line cleaned
+**Flags remaining**: 0 ⚠️ — all flags resolved (see flags section)
 
 ---
 
@@ -10,7 +13,7 @@ So any way that morning, since he wouldn't call an ambulance (other than Stroke,
 
 I had to stay behind, the kids needed an adult, and mom needed to be with Dad. So I went back in the house, and began thinking about all the things I knew about strokes. All the people Ive known that have had strokes, and began to be upset. We've known and know several that are really struggling with the after effects – even some who have a really hard time forming sentences years after the stroke. I realized pretty quickly that I was focusing on ME, rather than on the Lord in the midst of the storm, and so I prayed one more time, and decided to try and distract my self before I went and had to face the kids.
 
-About that time I got a facebook notification, and opened it on my phone and it was a post, a quote by Charles Spurgeon that says this: It is well to praise the Lord for his mercy when you have health, BUT MAKE SURE YOU DO IT WHEN YOU ARE SICK AS WELL because then your praise is more likely to be genuine. *(Verified: Spurgeon, Sermon #2483, "The Objective of Christ's Death," Metropolitan Tabernacle Pulpit Vol. 42.)*
+About that time I got a facebook notification, and opened it on my phone and it was a post, a quote by Charles Spurgeon that says this: *“It is well to praise the Lord for His mercy when you are in health, but make sure that you do it when you are sick, for then your praise is more likely to be genuine.”* (Sermon #2483, *Metropolitan Tabernacle Pulpit*, Vol. 42, 1896)
 
 I know Brenda and Carol saw it. But it really hit home in that moment, It was as though God were saying "Will you still praise me, if I take your father, or worse, allow him to become a vegetable?".
 
@@ -36,7 +39,6 @@ In light of all of that, lets read 1 thessalonians 5:12 and following.
 > — 1 Thessalonians 5:12-24
 
 IN light of all that Paul says "Rejoice always". I think this must have been what Spurgeon had in mind when he wrote the quote from the start. That we should be praising God no matter what comes. No matter the storm. No matter if you've been beaten within an inch of your life, or stoned and left for dead, or shipwrecked, or left to drift at sea for two days. No matter if your dad has a stroke and might be a vegetable for the rest of his life, no matter if your kids are struggling, or hateful, or lost. No matter if your shoulder was broken by a dog, or your child dies, or you've been diagnosed with cancer, or any of a hundred other things that are represented just by the people sitting here in this room today.
-I think when our enemy shuts our mouth about how Good God is, we've lost the battle.
 I think when our enemy shuts our mouth about how Good God is, we've lost the battle. Ultimately we know God wins the war. But in that moment, we've lost the battle. The way I see things, we are mere mortals caught up in a war between Immortal eternal God and His enemy, and his enemies armies.
 
 We are living in the dominion of our enemy. We are stuck behind enemy lines. In a lot of way we are like the French in June of 1940. The Nazi's occupied their country, their political leaders had yielded to the germans in exchange for continuing in power, and had largely convinced the French people to capitulate as well. The French for all intents and purposes had been defeated. Until June 18 1940. An exiled 2 star general called Charles spoke to the BBC passionately, and rejected the collaboration between the French government, and the Nazis, and pleaded with the French military to reject their leaders capitulation and begin to fight back.
@@ -58,7 +60,7 @@ Clubs are a maybe, food pantry will still happen. Praise Practice is up to dotti
 
 ## ⚠️ Flags for Future Polish
 
-- **Spurgeon quote** *(verified)*: "It is well to praise the Lord for His mercy when you are in health, but make sure that you do it when you are sick, for then your praise is more likely to be genuine." — **Sermon #2483, "The Objective of Christ's Death," Metropolitan Tabernacle Pulpit, Vol. 42 (1896).** Full context: "It is a great thing to praise Jesus Christ by day, but there is no music sweeter than the nightingale's—and she praises God by night. [quote]. When you are deep down in sorrow, do not rob God of the gratitude that is due to Him—never stint Him of His revenue of praise whatever else goes short." Verified via CCEL full text (ccel.org/ccel/spurgeon/sermons42/sermons42.xxxviii.html). Draft wording is a faithful paraphrase; minor differences: "you have health" → original "you are in health"; "as well" added. ✓
+- **Spurgeon quote** *(verified and corrected)*: Body now reads the exact verified text — *"It is well to praise the Lord for His mercy when you are in health, but make sure that you do it when you are sick, for then your praise is more likely to be genuine."* Source: Sermon #2483, "The Objective of Christ's Death," *Metropolitan Tabernacle Pulpit*, Vol. 42 (1896). Verified via CCEL. Prior draft had "you have health," capitalized shouting, and "as well" — all corrected. ✓
 - **"3 million French directly fighting under Gaulle"** *(corrected)*: Changed to "more than a million" — historical record puts the Free French Forces at ~1.3 million by war's end, the fourth-largest Allied army in Europe. ✓
 - **"Nazis and Communists were defeated"** *(corrected)*: Changed to "the Nazi occupation was over." The French Communist Party (PCF) was a core part of the Resistance after 1941, not the enemy. They emerged as the largest French political party post-war. ✓
 - **Job 13:15 / Shane and Shane** *(verified with note)*: ESV reads "Though **he** slay me, I will hope in **him**" (third person). The song adapts this to second-person address ("though you slay me, still I will hope in you"), which is consistent with the song being a prayer directed to God. The draft correctly presents it as a song lyric. If quoting Job 13:15 as Scripture, use the ESV wording; if quoting the song, attribute it as the song lyric. ✓
