@@ -756,6 +756,9 @@ Not annihilationism. Real, conscious, eternal. **Explicit. Tradition: Orthodox C
 > "Today you will be with me in paradise." (The thief sermon treats this as immediate, conscious presence with Christ at death)
 > — `Sermon - Today You Will Be With Me v2.md`
 
+> "Scripture tells us that when we take that last breath, we wake up the next moment in glory with our Savior Jesus."
+> — `Service - Donna Hulen Funeral (John 11).md`
+
 **Explicit. Tradition: Protestant (contra soul sleep).**
 
 #### Final Judgment

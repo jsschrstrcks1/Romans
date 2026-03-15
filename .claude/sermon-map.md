@@ -445,6 +445,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | John 10:1-30 | The Good Shepherd; three-part structure (illustration, explanation, application); communal sheep pen and the porter; hired hand vs. owner; sheep illustrations from personal flock (Hope, Sir Loin, Anna, Frazzle, Sugar); "other sheep" = Gentiles; eternal security | `John 10 - The Good Shepherd.md` | sermon |
 | John 10:25-30; 6:37-65 | Perseverance and preservation of the saints | `Eternal Security.md` | teaching |
 | John 11:1-16 | Trusting God through silence and unanswered prayers | `Fifteen.md` | study |
+| John 11:33-43 | Memorial for Donna Hulen (March 2021); Jesus wept; unbelief of Martha and Mary; "Did I not tell you that if you believed you would see the glory of God?"; hospital security guard story; ice cream sundae on her last evening; her confidence of heaven; free from diabetes and wheelchair; death as beginning not end; gospel close | `Service - Donna Hulen Funeral (John 11).md` | memorial |
 | John 11:30-44 | Memorial for Jean; Jesus weeps and raises Lazarus | `We are gathered here today to celebrate the memory of Jean.md` | memorial |
 | John 12 | Mary's devotion vs Judas's selfishness | `John 12.md` | sermon |
 | John 13:1-17 | He Washed Their Feet — Christ washing us clean at salvation (2 Cor 5:17, 21; Rom 6:23); the Word keeps us clean (Heb 4:12); children's sermon callback (colored water cleared by one drop); high priest washing tradition (further out = more washing needed); "not all of you are clean" — Judas in the circle; ~13% genuine believers statistic; pride vs. humility in evangelism; Moses at the burning bush (Ex 4:12) and Jonah's worst sermon; "He knew Judas, He knows you" — church attendance ≠ salvation; "Come Thou Fount" (Robinson 1758) closing; continuation of John 13 series | `John 13 - He Washed Their Feet (raw notes).md` | sermon (raw notes) |
@@ -680,6 +681,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Ann Burdette | Ecclesiastes 3:1-8 | `Ecclesiastes 3 Ann Burdette Funeral.md` |
 | Barbara | Psalm 23 | `Psalm 23.md` (archive) |
 | Chuck Weis | John 14:1-7 | `Chuck Weis Memorial 2024.md` |
+| Donna Hulen | John 11:33-43 | `Service - Donna Hulen Funeral (John 11).md` |
 | Jean | John 11:30-44 | `We are gathered here today to celebrate the memory of Jean.md` |
 | Kim | Psalm 23 | `Service - Kim's Funeral (Psalm 23).md` |
 | Kurt | 2 Corinthians 5:1-10 | `Kurt was a man I loved dearly.md` |
@@ -824,6 +826,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Ecclesiastes 3 Ann Burdette Funeral.md` — Funeral for Ann Burdette
 - `Psalm 23.md` (archive) — Memorial for Barbara
 - `Chuck Weis Memorial 2024.md` — Memorial for Chuck Weis
+- `Service - Donna Hulen Funeral (John 11).md` — John 11:33-43 — Funeral for Donna Hulen (March 2021); Jesus wept; faith vs. unbelief; death is not the end; gospel close
 - `We are gathered here today to celebrate the memory of Jean.md` — Memorial for Jean; Lazarus raised
 - `Kurt was a man I loved dearly.md` — Eulogy for Kurt
 - `psalm 23 1-4..md` — Psalm 23:1-4 — Shadow of death
@@ -1112,7 +1115,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - **Romans series manuscripts**: 20+ files (primary series)
 - **Onboarding sermons**: 10 (special messages indexed across thematic categories)
 - **Archive sermons**: ~160 sermons/teachings
-- **Memorial services**: 5
+- **Memorial services**: 6
 - **Non-sermon files**: ~20
 - **Bible books covered**: 40+ (Genesis through Revelation)
 - **Total unique passages preached**: 150+
