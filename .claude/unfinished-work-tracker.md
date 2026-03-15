@@ -205,7 +205,7 @@ These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT b
 
 | # | Sermon | Primary Text | Status |
 |---|--------|-------------|--------|
-| 1 | Paul's Final Letter | 2 Timothy 1:1-2 | Raw in memory2.md — needs extraction, cleanup, ESV conversion, verification |
+| 1 | Paul's Final Letter | 2 Timothy 1:1-2 | ~~Extracted~~ → `2 Timothy 1 1-2 - Paul's Final Letter (raw draft).md` ✓ |
 | 2 | Cultural Marxism / CRT | Romans 10:12-13 | Raw in memory2.md — needs extraction, cleanup, ESV conversion, verification |
 | 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | Raw in memory2.md — needs extraction, cleanup, verification |
 | 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | Partially extracted (`00c1185`); verify if complete |
@@ -336,7 +336,7 @@ These items could be resolved in a single session each:
 2. **Resolve Sola Christus 2024 incomplete draft** — needs Scripture reference and three-role exposition completed (or marked as permanently incomplete if the 2020 version is the authoritative one)
 3. **Resolve Thankfulness sermon** — request remainder of transcript from pastor
 4. **Fix Romans 7 reference error** — Jn 14:16 should be 15:16
-5. **Convert NIV/KJV quotes to ESV** in raw drafts (Psalm 2, Psalm 68 Part 2, 1 Thess 5)
+5. ~~**Convert NIV/KJV quotes to ESV** in raw drafts (Psalm 2, Psalm 68 Part 2, 1 Thess 5)~~ ✓ Completed
 
 ---
 

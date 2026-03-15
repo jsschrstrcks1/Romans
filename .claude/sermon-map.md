@@ -579,7 +579,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 |---|---|---|---|
 | Hebrews 3–4 | Christ superior to Moses; Christ's rest superior; wind-up toy / flashlight / hot coal illustrations; Grace the dog (puppy phase); Glenn Beck reference (~2009–2011); Minority Report movie illustration (12 spies); Jonah "sushi taxi"; five disciplines (Bible, prayer, worship, fellowship, evangelism); ⚠️ "Galatians 2:4" should be Galatians 5:1 (yoke of slavery); ⚠️ Moses told to "speak to the rock" not "touch the stone" (Num 20:8-12); ⚠️ Romans 6:2 "may it never be" is NASB not ESV; ⚠️ *archēgos* = "founder" (ESV) not "author"; ⚠️ Jonah bleached skin is tradition not Scripture; gospel close | `Heb 3-4 - Christ Superior to Moses (raw early draft).md` (Other-Sermons/Sermons/) | sermon |
 | Hebrews 3:12-4:16 | Rest in the Lord and accountability | `Sermon - Rest in the Lord.md` / `Heb 3.md` | sermon |
-| Hebrews 11:1 / 1 John 4:18 | Fear as opposite of love; trusting God | `heb 11 - fear.md` | sermon |
+| Hebrews 11:1 / 1 John 4:18 | Fear as opposite of love; trusting God; A.W. Pink quote (verified — *Exposition of Hebrews* p.808); grandmother's dark room childhood fear; Hurricane flooding (March '93 — mobile home destroyed, God provided better house); murdered child who lived with family; fear for physical needs / singleness / politics; Romans 13:1 God's sovereignty over governing authorities (corrected NLT→ESV); "Fear is the evidence of things in our heart that we love as much or more than God" (Heb 11:1 echo reversed); testimony service format; Trump/Hillary era (~2017-2020) | `heb 11 - fear.md` | sermon |
 | Hebrews 12:3-17 | God's discipline as training and refining | `Heb 12.md` | sermon |
 
 ### James
