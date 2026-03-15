@@ -52,6 +52,15 @@ Not petty rage. Not mere disappointment. Holy revulsion. **Explicit. Tradition: 
 
 Sovereignty extends over creation, history, politics, individual lives, and salvation. **Explicit. Tradition: Calvinistic Reformed Baptist.**
 
+#### God's Answer to "Why" Is His Name, Not an Explanation
+> "When you're asking why, God introduces himself."
+> — Steven Davey (paraphrase), cited in `Other-Sermons/Sermons/ex 6-7.md`
+
+> "So what does God say to Moses, how does he respond to Moses plea from this slough of despond? He says: I am the Lord."
+> — `Other-Sermons/Sermons/ex 6-7.md`
+
+God's pastoral response to human discouragement and despair is not a detailed explanation of His purposes but a covenantal self-disclosure — "I am the LORD" (Exodus 6:2, 6, 7, 8, 29; 7:5, 17). He does not answer the question "why" by explaining the suffering; He answers it by reminding His people who He is and what He has bound Himself to: *I am your God. You are my people. I will bring you out. I have a future for you.* The Cowper/Bunyan "Slough of Despond" framework grounds this pastorally: experienced believers often fall deeper into discouragement the more clearly they see God, because they also see more clearly how far they fall short. God's answer to both the new believer overwhelmed by their sinfulness and the long-time believer overwhelmed by the distance yet to travel is the same: *I am the LORD.* **Explicit. Tradition: Reformed, Puritan (Bunyan, Cowper).**
+
 #### Aseity and Self-Sufficiency
 > "Were every man on earth to become atheist, it could not affect God in any way. He is what He is in Himself without regard to any other." (Tozer, quoted approvingly)
 > — `rev 20.md`
