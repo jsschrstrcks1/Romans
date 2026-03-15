@@ -21,7 +21,7 @@ Sing a song to the one who's all I need My heart and flesh may fail The earth be
 Though You take from me I will bless Your name Though You ruin me Still I will worship
 Sing a song to the one who's all I need.
 
-In that moment, I felt that peace that passes all understanding. *(Philippians 4:7 — uncited in draft; add when polishing.)* I was able to pull it together and go take care of the kids.
+In that moment, I felt that peace that passes all understanding (Philippians 4:7). I was able to pull it together and go take care of the kids.
 
 Just before all of this, last Sunday in fact, I was talking with Dottie, and it occurred to me that there were something like ten people that either attend, or who are loved by those who do, that were having surgery or something major medical. Kathy's shoulder, dads shoulder, bills shoulder, Donna's surgery, and on and on and on. You all know who I'm talking about. We are a small body of people, but yet looking back across the year, there has been a ton of things that have happened. It kind of made me think of Paul a little bit. Open with me to 2 corinthians 11. We will start in vs 24.
 
@@ -64,5 +64,5 @@ Clubs are a maybe, food pantry will still happen. Praise Practice is up to dotti
 - **Job 13:15 / Shane and Shane** *(verified with note)*: ESV reads "Though **he** slay me, I will hope in **him**" (third person). The song adapts this to second-person address ("though you slay me, still I will hope in you"), which is consistent with the song being a prayer directed to God. The draft correctly presents it as a song lyric. If quoting Job 13:15 as Scripture, use the ESV wording; if quoting the song, attribute it as the song lyric. ✓
 - **2 Corinthians 11:24-33** *(verified)*: Draft matches ESV exactly. Verse 29 is skipped in the reading (numbering jumps 28→30). May be intentional; flag for the author to confirm. ✓
 - **1 Thessalonians 5:12-24** *(verified)*: Draft matches ESV exactly. ✓
-- **Philippians 4:7** — "peace that passes all understanding" is used as a phrase but not cited. Add the reference when polishing.
+- **Philippians 4:7** ✓ *Corrected (March 2026)*: Citation added inline in the body text.
 - **de Gaulle June 18, 1940** *(verified)*: The Appeal of 18 June is historically accurate. Note: the original June 18 broadcast was not recorded; the archived BBC recording is from June 22, 1940. This does not affect the sermon's illustration but is worth knowing. ✓
