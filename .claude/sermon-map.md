@@ -317,7 +317,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 56 | Is Jesus Worth It — Bunyan's *Pilgrim's Progress* (Slough of Despond, lions at Palace Beautiful); *Insanity of God* (Nik Ripken, persecuted church stories, Chinese church leaders praying for Somalia); Samson recap (Judges 15–16); David fleeing Saul to Gath (1 Sam 21:10-15); personal testimony (UK evangelism, Scripture memory); evangelism challenge; missions trip call; communion (1 Cor 11:23b-26); ⚠️ prison story unverifiable against known *Insanity of God* sources | `psalm 56.md` | sermon |
 | Psalm 63:1-8 | Thirsting for God; worship in the wilderness | `psalms 63.md` | sermon |
 | Psalm 68:1-4 | Power of God; nothing too difficult | `Psalms 68 (2).md` | sermon |
-| Psalm 68:1-6 | Father of the Fatherless *(raw draft — Part 2)* | `Psalm 68 Part 2 (raw draft).md` | Continuation of series; Baal contrast (rides through deserts); Elijah/Baal prophets (1 Kings 18); adoption; widows/orphans; seed metaphor; Japanese of Japan people group; Prov 27:17 corrected to ESV ✓; 1 Kgs 18 LORD corrected ✓; prophet count corrected to 850 ✓ |
+| Psalm 68:1-6 | Father of the Fatherless *(raw draft — Part 2)* | `Psalm 68 Part 2 (raw draft).md` | Continuation of series; Baal contrast ("rides through deserts" = anti-Baal/Ashtaroth polemic); Elijah and 850 Baal/Asherah prophets (1 Kgs 18:19, 36-40 — fire consuming bull, stones, water); adoption illustration (Lindsay/Konner/Madison; Josh and Sarah's international adoption — paid twice, years-long process); widows/orphans as socially vulnerable in patriarchal culture; seed metaphor (cotyledons, wither/die before sprouting); Alone TV show / limpets vs. the buffet (fellowship vs. withdrawal); Proverbs 27:17 ESV; Japanese of Japan people group — MacArthur's post-WWII missions call (requested 10,000 missionaries; poor response; Japan remains ~95% Shinto/Buddhist); "preacher I used to know" quote ("more power in a fragment of God's fingernail clipping than all of mankind") — unattributed, do not name; prayer for Donna Albrecht, Curt, Gloria's brother; Prov 27:17 corrected to ESV ✓; 1 Kgs 18 LORD corrected ✓; prophet count corrected to 850 ✓; duplicate stub removed ✓ *(March 2026)*; ⚠️ Elijah timeline: "alone in a desert for a few years" — Cherith was pre-Zarephath phase; Zarephath is not alone; total drought 3.5 yrs (Lk 4:25; Jas 5:17); clarify before re-preaching |
 | Psalm 75 / 1 Peter 1:13+ | God's judgment and holiness | `Psalms 75.md` | sermon |
 | Psalm 78:1-8 | "Don't Forget What the Lord Has Done"; teaching the next generation; Word/church/testimony as triple lifeline; JFK Jr. illustration; 9/11 memory; Hurricane Irma | `psalm 78.md` | sermon |
 | Psalm 84 | Dwelling in God's house; vacation analogy | `Psalms 84(1).md` | sermon |
@@ -757,6 +757,7 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 Searchable by topic. Each entry lists every sermon that substantively treats that subject.
 
 ### Adoption (Theology of)
+- `Psalm 68 Part 2 (raw draft).md` — Psalm 68:5-6 — God as Father to the fatherless; adoption illustration (domestic and international); cost of adoption parallels cost of Christ; Psalm 68:6 "settles the solitary in a home"
 - `adoption - gal 3.md` — Galatians 3:27-4:7 — Adoption as God's children
 - `Adoption - christms eve 23.md` — Galatians 3:27-4:7 — Christmas Eve adoption sermon
 - `adoption - gal 3.md` — Galatians 3:23+ — Law, faith, and adoption
@@ -860,6 +861,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sunday school notes week 2.md` — 1 Cor 13:8-10; John 10:27-28 — Cessation; eternal security
 
 ### Evangelism / Missions / Great Commission
+- `Psalm 68 Part 2 (raw draft).md` — Psalm 68 / 1 Kings 18 — Japanese of Japan people group; MacArthur's post-WWII missions call; the church's inadequate response as cautionary tale; Japan ~95% non-Christian today
 - `Psalm 2 (raw draft).md` — Psalm 2:1-12 — Persecuted church; IDOP (first Sunday in November); Insanity of God documentary; Heb 13:3 "remember those in prison"; persecuted-church illustrations (Bible pages, secret meetings)
 - `Evangelism.md` — Matthew 28:18-20 — Great Commission
 - `MT 28.md` — Matthew 28:16-20 — Great Commission and evangelism
