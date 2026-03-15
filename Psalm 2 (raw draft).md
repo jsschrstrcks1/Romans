@@ -34,6 +34,7 @@ Maybe you're ready to join the church, and have a say in our direction, if so, c
 
 *(LORD corrected in vv. 2, 7, 11 — these use YHWH in Hebrew. V. 4 uses Adonai, so "Lord" is correct there.)*
 
+
 > Why do the nations rage
 > and the peoples plot in vain?
 > 2 The kings of the earth set themselves,
@@ -42,7 +43,7 @@ Maybe you're ready to join the church, and have a say in our direction, if so, c
 > 3 "Let us burst their bonds apart
 > and cast away their cords from us."
 > 4 He who sits in the heavens laughs;
-> the Lord holds them in derision.
+> the LORD holds them in derision.
 > 5 Then he will speak to them in his wrath,
 > and terrify them in his fury, saying,
 > 6 "As for me, I have set my King

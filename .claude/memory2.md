@@ -813,6 +813,28 @@ There is an advisory board meeting immediately following the service, if you're 
 
 ---
 
+## Sermon: Fear Is the Evidence — Hebrews 11:1 / 1 John 4:18
+
+**Primary Text**: Hebrews 11:1
+**Supporting Texts**: 1 John 4:18, Romans 13:1
+**Themes**: Fear vs. faith, fear vs. love, trusting God in suffering, God's sovereignty over politics, testimony service
+**Illustrations**: Grandmother's dark room (childhood fear), Hurricane flooding (March '93), murdered child, singleness, political fear (Trump/Hillary era)
+**Format**: Short sermon followed by open testimony time
+
+- Childhood fear: age 5-6, spooked at grandmother's house; dad reassured him, told him to face his fears or they'd cripple him; never afraid of the dark again
+- Irma, grandfather's salvation unknown, the flood of March '93: waters rising inch by inch over everything they owned — sewage, mold, total loss of mobile home
+- Little girl who lived with the family murdered by her babysitter — God protected the preacher and sister from lasting trauma/fear
+- "But God could" — God provided a better house (800 sq ft mobile → 2000+ sq ft on stilts), $100 left over
+- A.W. Pink (*An Exposition of Hebrews*, p. 808): "Fear is the result of distrust, of taking the eye off God, of being unduly occupied with difficulties and troubles." *(Verified.)*
+- 1 John 4:18 (ESV): "There is no fear in love, but perfect love casts out fear." Love is the opposite of fear.
+- **Sermon's thesis**: "Fear is the evidence of things in our heart that we love as much or more than God." (Deliberate Heb 11:1 echo reversed — faith/evidence → fear/evidence.)
+- Fear for physical needs = telling God his provision is insufficient; Bob and Sherry hospitality illustration
+- Young lady struggling with singleness — fear she'll never meet the right guy
+- Politics: fear of Hillary/Biden; Romans 13:1 — God places all authorities *(corrected NLT → ESV)*
+- "Hate isn't the opposite of love. Fear is." — pastoral closing before testimony time
+
+---
+
 ## Sermon: 2 Timothy 2:14-26 — The Approved Workman
 
 **People Group**: Kachin of India — Buddhism stronghold, ~1 million, ~5,000 believers (mostly outside India). Many vibrant Kachin believers in Myanmar and China who could be ambassadors. Prayer requests: Kachin believers to live such spiritual lives Buddhist neighbors seek the Savior; Holy Spirit to move Kachin outside India to go to Arunachal Pradesh.
@@ -910,4 +932,9 @@ There is an advisory board meeting immediately following the service, if you're 
 
 ---
 
-## PROCESSING MARKER: Remaining sermons to be appended (Catholicism, Jn 14, Lk 2, Rom 2, Acts 18, BFM HS, 2 Cor 5)
+## PROCESSING MARKER — COMPLETED
+**Batch processed 2026-03-13**: Catholicism, Jn 14, Lk 2, Rom 2, Acts 18 (being baptist), BFM HS, 2 Cor 5
+- All 7 already existed as files in Other-Sermons/Sermons/
+- Each file fact-checked, Scripture corrected to ESV, integrity log appended
+- Files: Catholicism.md, John 14 - exclusivity of the gospel..md, Luke 2.md, Romans 2 mt 23 col 3 eph 2.md, being baptist.md, bfm holy spirit.md, 2 cor 5.md
+- Committed and pushed to branch claude/review-docs-sermon-prep-uxX7M
