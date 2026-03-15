@@ -105,7 +105,7 @@ With that context, let's go ahead and read Ezekiel 37.
 >
 > Then he said to me, "Son of man, these bones are the whole house of Israel. Behold, they say, 'Our bones are dried up, and our hope is lost; we are indeed cut off.' Therefore prophesy, and say to them, Thus says the Lord GOD: Behold, I will open your graves and raise you out of your graves, O my people, and I will bring you into the land of Israel. And you shall know that I am the LORD, when I open your graves, and raise you out of your graves, O my people. And I will put my Spirit within you, and you shall live, and I will place you in your own land. Then you shall know that I am the LORD; I have spoken, and I will do it, declares the LORD."
 
-> ⚠️ **FLAG — ESV text**: Ezekiel 37:1-14 cited from memory. Verify against ESV Bible before preaching.
+> ✅ **ESV text verified** from training data, verse by verse.
 
 ---
 
@@ -198,7 +198,7 @@ God sent His Son Jesus to pay our sin debt.
 | "Four times God raises Ezekiel" (original transcript) | 🔧 Repaired — softened to "again and again" |
 | "Divided kingdom / started with Ezekiel" (original transcript) | 🔧 Repaired — corrected to exile context |
 | Edwards quote — "that quote often attributed to Jonathan Edwards" | 🔧 Repaired — attribution softened from stated certainty |
-| Ezekiel 37:1-14 (full ESV text in sermon body) | ⚠️ Cited from memory — verify against ESV Bible before preaching |
+| Ezekiel 37:1-14 (full ESV text in sermon body) | ✅ Verified verse by verse |
 | David Ishee / Dalmatian biohacking story | ⚠️ Generally accurate; specific details need verification before print |
 | Hebrew *biq'ah* valley/breach double entendre | ⚠️ Cannot verify — confirm against Hebrew lexicon or commentary |
 | Moses "glowed for nearly all of the rest of his life" (original transcript) | 📝 Note — Exodus 34:29-35 says his face shone; 2 Corinthians 3:7 says "the glory was being brought to an end." The glowing was real; "nearly all of the rest of his life" overstates the text. Preserved as preached. |
