@@ -271,7 +271,7 @@ The sermon-map.md contains **46+ entries** with ⚠️ flags indicating unverifi
 - `Romans 1 - Psalm 22 (Prophecy raw draft).md` — 8 flags
 - `1 Thess 5 - Rejoice Always (raw draft).md` — 7 flags
 - `Psalm 68 Part 2 (raw draft).md` — substantially resolved March 2026; 1 standing item (Elijah timeline phrasing) for print polish
-- `Sermon - Faithful and God-Fearing.md` — 7 flags
+- `Sermon - Faithful and God-Fearing.md` — manuscript substantially polished; major errors corrected in end notes (king succession, Xerxes-Cyrus, 50→52 days, NIV→ESV for Isa 45/Luke 12:5); standing items: (1) Gospel presentation not developed — must complete before preaching; (2) Pascal's Wager section not developed; (3) Dr. Alvin Reid quote — exact source unverified; (4) Great Wall bribery number — unverifiable, already qualified in body
 - `Sola Scriptura 2021.md` — 7 flags
 
 ---
