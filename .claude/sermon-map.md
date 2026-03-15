@@ -433,6 +433,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | John 14:1-7 | Christ as the only way to salvation | `John 14 - exclusivity of the gospel..md` | sermon |
 | John 14:1-16 | "One Way" — cleaned manuscript; 3.4B unreached framing; exclusivity of Christ (Jn 14:6, Acts 4:12); Calvin "perpetual forge of idols" (Institutes I.11.8 — verified); Jose Luis de Jesus Miranda false-prophet case study; Beethoven / deaf-from-birth illustration; social gospel vs. political gospel; MacArthur themes (paraphrase — ⚠️ verbatim source not confirmed; cf. Ashamed of the Gospel, 1993); Jon Wood quotes removed (unverified); Gen 3:15, Ps 96:5, Ps 97:7, Rom 3:10-11, Rom 10:9; gospel to Romans 3:23 | `John 14 1-16.md` | sermon |
 | John 14:1-7 | Memorial service for Chuck Weis | `Chuck Weis Memorial 2024.md` | memorial |
+| John 18:4-14 | The Betrayal — Jesus's foreknowledge and obedience; matzah tash / afikomen typology (Feast of Unleavened Bread); *egō eimi* divine name (Jn 18:5-6, soldiers fall); 12 legions of angels (Mt 26:53); OT saints who failed (Adam, Abraham, Jonah, Gideon, Moses); Peter's sword / later denial; Judas's betrayal with a kiss; Satan entered Judas (Lk 22:3, Jn 13:27); "How Deep the Father's Love for Us" (Townend 1995); Lk 22:44 sweat like blood; our sin = Judas's kiss; gospel close; callbacks to Gideon sermon; evening service continuing John series (12→13→14→18); ⚠️ matzah tash tradition is post-Temple, not 1st century; ⚠️ "about 20 grand" for 30 pieces of silver is high ($12K–$16K); ⚠️ Pharaoh "5 times" wrong count (6 narrative + 3 predictive = 9); ⚠️ Lk 22:43-44 textual variant (double-bracketed in NA28) | `John 18 - The Betrayal (raw transcript).md` | sermon *(raw transcript)* |
 
 ### Acts
 
@@ -577,6 +578,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Hebrews 1:1-14 | Old vs New — God's sovereignty in OT and NT; Christ's righteousness (vv.8-9); three temptations of Christ (Mt 4 / Lk 4) with Greek ordering evidence; Moses/Elijah/Israelites 40-day parallels; Massah (Ex 17:1-7); Elijah and prophets of Baal (1 Ki 18); Col 2:14 nailed to cross; Heb 1:12 clothing metaphor / brevity of life vs. God's eternity; election-cycle application (Obama era, ~2014–2016); Phil 4:6-7 quoted exactly; David Platt cup-of-wrath imagery (paraphrase); ⚠️ "purification for us on the cross" — ESV says "for sins" not "for us," and "the cross" not in verse; ⚠️ Col 2:14 "record of our wrongdoing" — ESV says "record of debt"; ⚠️ "80 or 90 years" — Psalm 90:10 says 70 or 80; ⚠️ Israelites wandered "40 days" — should be 40 years; ⚠️ Elijah "tested by the brook" conflates 1 Ki 17 (Cherith) with 1 Ki 19 (40-day journey); ⚠️ Massah — "wished for slavery in Egypt" conflates Ex 17 with Ex 14:12/16:3; gospel close | `Hebrews 1 - Old vs New (raw transcript).md` (Other-Sermons/Sermons/) | sermon |
 | Hebrews 3–4 | Christ superior to Moses; Christ's rest superior; wind-up toy / flashlight / hot coal illustrations; Grace the dog (puppy phase); Glenn Beck reference (~2009–2011); Minority Report movie illustration (12 spies); Jonah "sushi taxi"; five disciplines (Bible, prayer, worship, fellowship, evangelism); ⚠️ "Galatians 2:4" should be Galatians 5:1 (yoke of slavery); ⚠️ Moses told to "speak to the rock" not "touch the stone" (Num 20:8-12); ⚠️ Romans 6:2 "may it never be" is NASB not ESV; ⚠️ *archēgos* = "founder" (ESV) not "author"; ⚠️ Jonah bleached skin is tradition not Scripture; gospel close | `Heb 3-4 - Christ Superior to Moses (raw early draft).md` (Other-Sermons/Sermons/) | sermon |
 | Hebrews 3:12-4:16 | Rest in the Lord and accountability | `Sermon - Rest in the Lord.md` / `Heb 3.md` | sermon |
 | Hebrews 11:1 / 1 John 4:18 | Fear as opposite of love; trusting God; A.W. Pink quote (verified — *Exposition of Hebrews* p.808); grandmother's dark room childhood fear; Hurricane flooding (March '93 — mobile home destroyed, God provided better house); murdered child who lived with family; fear for physical needs / singleness / politics; Romans 13:1 God's sovereignty over governing authorities (corrected NLT→ESV); "Fear is the evidence of things in our heart that we love as much or more than God" (Heb 11:1 echo reversed); testimony service format; Trump/Hillary era (~2017-2020) | `heb 11 - fear.md` | sermon |
@@ -648,6 +650,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Evangelism / Missions | Mt 28; Rom 15; Rev 7 | `Evangelism.md` / `evangelism (romans 15, mt 28, and rev 7).md` | sermon |
 | God's Aseity / Missions / Hell | Mk 9:48-49; Is 66:24; 2 Pet 2:17; Mt 24:51; Mt 13:49-50; Is 59:2 | `Missions and Hell - why it matters.txt` | sermon |
 | Adoption (Theology) | Galatians 3-4 | `adoption - gal 3.md` / `Adoption - christms eve 23.md` | sermon |
+| IDOP: Persecuted Church | 2 Cor 11:23b–33; Mt 5:44 | `IDOP - Intl Day of Prayer for the Persecuted Church (raw transcript).md` | prayer service *(raw transcript)* — Bairagi people group prayer; VOM Korea video on Pastor Han Chung-Ryeol (martyred 2016, Changbai border town); North Korea background (Pyongyang "Jerusalem of the East," Juche mimicry of Christianity, concentration camps, three-generation punishment); prayer for persecutors (Mt 5:44); book ref: girl in NK camp (unidentified — possibly *These Are the Generations*, VOM Korea); ⚠️ 2 Cor 11 and Mt 5:44 read from NIV not ESV; ⚠️ "Korean by birth, Chinese by naturalization" inaccurate (ethnic Korean born in China); ⚠️ "10 Glorious Principles" wrong name; ⚠️ "160,000 in camps" may be dated; ⚠️ book unidentified — see corrections log |
 
 ---
 
@@ -755,6 +758,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 5.md` — Romans 5:1-11 — While we were still sinners
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:18 — Christ suffered once for sins, the righteous for the unrighteous
 - `Thankfulness - 1 Thess 5.txt` — 1 Thess 5:16-18; Psalm 100; Phil 4:4-7 — Pink on the nails vs. the love; Heb 12:2-3; John 10:17-18; cross as reason for all thanksgiving
+- `Hebrews 1 - Old vs New (raw transcript).md` — Hebrews 1:1-14; Col 2:14 — Christ nailed record of debt to cross; Platt cup-of-wrath imagery; purification for sins (Heb 1:3); Gethsemane
 
 ### Baptist Distinctives / Identity
 - `being baptist.md` — Acts 18; 1 Cor 3 — Baptist history and distinctives
@@ -825,6 +829,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — God's patience is not God losing; the conclusion already written
 - `Ezekiel 36.md` — Ezekiel 36:22-32 — Grace alone for God's glory
 - `ezekiel 37.md` — Ezekiel 37 — Total depravity; dry bones
+- `Hebrews 1 - Old vs New (raw transcript).md` — Hebrews 1:1-14 — God sovereign over everything through Christ; politics as a breath of air next to eternity
 
 ### Eternal Security / Perseverance
 - `Eternal Security.md` — John 6:37-65; 10:25-30 — Preservation of the saints
@@ -974,6 +979,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon 2 gen 37 joeseph.md` — Genesis 37 — Joseph as type of Christ
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-2 — Election (*eklektos* word study); foreknowledge of God; John 6:44 "no one can come unless the Father draws him"; Romans 9:22-25 vessels of mercy (lines 34-56)
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — God's patience confused with God losing; "the story's conclusion had already been written — spoiler alert, God wins!" (line 15)
+- `Hebrews 1 - Old vs New (raw transcript).md` — Hebrews 1:1-14 — God sovereign over leaders and nations; who leads America is "a breath of air" to the eternal God; election-cycle anxiety → Phil 4:6-7
 
 ### Racial Reconciliation / Unity
 - `Cultural Marxism.md` — Romans 10:12-13 — Biblical racial equality
