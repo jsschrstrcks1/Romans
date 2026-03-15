@@ -361,7 +361,7 @@ A four-part series working through the scriptural foundations of the doctrines o
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| Ecclesiastes 3:1-8 | Funeral service for Ann Burdette | `Ecclesiastes 3 Ann Burdette Funeral.md` | memorial |
+| Ecclesiastes 3:1-8 | Funeral for Ann Burdette — three seasons: Granny's time (heaven: new body, no pain, tears of joy, "well done" Matt 25:21); our time (grief and hope; Prov 3:5–6 shared favorite verse; 1 Cor 15:55 "O death, where is your sting?"); God's time (Jer 29:11; goodness of God; hell as opposite of God); Ten Commandments (commandments 3, 5, 8, hatred = murder 1 John 3:15); Rom 3:23; Eph 2:8–9; Rom 6:23; visual gospel; cross and resurrection (500 witnesses 1 Cor 15:6); Rom 10:9; sinner's prayer; Ann's dying declaration: "I've been waiting to go there and be with Jesus — I just want all my family to be there too" | `Ecclesiastes 3 Ann Burdette Funeral.md` | memorial |
 
 ### Isaiah
 
@@ -848,7 +848,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - The Magnet on the Compass.md` — 1 Samuel 17 — Prosperity gospel critiqued: "speak it into existence and you've basically manipulated God"; getting a promotion ≠ defeating Goliath; Spurgeon: "If he was pleased to bruise and crush his Son for his glory, how can we expect him to treat us better?" (lines 64-70)
 
 ### Death / Funeral / Comfort
-- `Ecclesiastes 3 Ann Burdette Funeral.md` — Funeral for Ann Burdette
+- `Ecclesiastes 3 Ann Burdette Funeral.md` — Ecclesiastes 3:1–8 — Funeral for Ann Burdette; three-season structure (Granny's time / our time / God's time); Ann's dying declaration: "I've been waiting to go there and be with Jesus — I just want all my family to be there too"; heaven (new body, no pain, tears of joy, Matt 25:21); Prov 3:5–6 (shared favorite verse of pastor's grandmother and Ann); 1 Cor 15:55; Jer 29:11; God's goodness and hell as the opposite of God; Ten Commandments gospel bridge (blasphemy, disobedience, theft, hatred = murder 1 John 3:15); Rom 3:23; Eph 2:8–9; Rom 6:23; visual gospel; cross and resurrection (500 witnesses, 1 Cor 15:6); Rom 10:9; sinner's prayer
 - `Psalm 23.md` (archive) — Memorial for Barbara
 - `Chuck Weis Memorial 2024.md` — Memorial for Chuck Weis
 - `We are gathered here today to celebrate the memory of Jean.md` — Memorial for Jean; Lazarus raised
@@ -1141,7 +1141,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - **Romans series manuscripts**: 20+ files (primary series)
 - **Onboarding sermons**: 10 (special messages indexed across thematic categories)
 - **Archive sermons**: ~160 sermons/teachings
-- **Memorial services**: 5
+- **Memorial services**: 6
 - **Non-sermon files**: ~20
 - **Bible books covered**: 40+ (Genesis through Revelation)
 - **Total unique passages preached**: 150+
