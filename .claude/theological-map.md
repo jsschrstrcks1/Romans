@@ -816,7 +816,16 @@ The `Lords day romans 14 gal 4.md` file treats Sabbath/Lord's Day observance as 
 > "God does not cause Sin, but He is capable of turning evil into good in a persons life."
 > — `Philippians 3 - 2025.md`
 
+> "God lets hard things happen. God lets bad things happen to good people to produce better people. In the fire of the crucible God burns away imperfections in your life."
+> — `Exodus 2 - Suffering Is Not Outside His Plan.md`
+
 **Explicit. Tradition: Reformed, Puritan.**
+
+#### Suffering as Protective Providence
+> "If they had remained in the promised land rather than traveling to Egypt — apart from the direct intervention of God — they would have been destroyed many times over, or brought into subjugation by a far less merciful master."
+> — `Exodus 2 - Suffering Is Not Outside His Plan.md`
+
+God's protective purposes can be invisible inside the hardship itself. The egg illustration: the constriction that looks like cruelty is the process that produces the strength to survive. Suffering is not merely discipline — it is sometimes the only path to life. **Explicit. Tradition: Reformed, pastoral.**
 
 #### Spiritual Warfare as Endurance, Not Theatrics
 > "William Gurnall — The Christian in Complete Armour. Spiritual warfare framed as endurance, not theatrics."

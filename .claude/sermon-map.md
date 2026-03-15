@@ -190,6 +190,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Exodus 2:23; Psalm 115:4 | God hears, sees, knows, acts against idolatry | `Exodus 2.md` | sermon |
+| Exodus 2:23-25 | Suffering Is Not Outside of God's Plan — three reasons God allows hard times: (1) protection (Israel in Egypt as chick in egg — the struggle builds necessary strength); (2) strengthening (Marine Corps Crucible illustration — 54-hour test, 45-mile march; personal crucibles: flood year, multiple deaths, grandmother night nursing); (3) God hears, sees, knows — pastoral application to "ask not why but where"; cousin with MS/broken leg/cancer scare as opening pastoral illustration; 2016 dating | `Exodus 2 - Suffering Is Not Outside His Plan.md` | sermon |
 | Exodus 5:22-6:13 | Discouragement; asking God why; trusting Him | `ex 6-7.md` | sermon |
 | Exodus 14:1-31 | Red Sea crossing; archaeological context (Nuweiba); sovereignty; the crucible of faith | `Sermon - The Crucible.md` (sources: `Exodus 14.md` complete, `Exodus 14 - red sea.txt` raw dictation, `exodus 14 - red sea.md` cleaned/edited version of the .txt) | sermon |
 
@@ -793,6 +794,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `1 peter 1 pt3.md` — 1 Peter 1:3-8 — Trials are not always punishment
 - `Neh 1.md` — Nehemiah 1 — Brokenness and prayer
 - `Heb 12.md` — Hebrews 12:3-17 — God's discipline as training
+- `Exodus 2 - Suffering Is Not Outside His Plan.md` — Exodus 2:23-25 — Three reasons God allows suffering: protection, strengthening, and his covenant faithfulness (hears, sees, knows); ask not why but where; 2016
 
 ### Children / Parenting / Legacy
 - `1 peter 1 - legacies.md` — 1 Peter 1:13-end — Parental spiritual legacy
@@ -993,6 +995,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Neh 1.md` — Nehemiah 1 — Brokenness and prayer
 
 ### Providence / God's Sovereignty Over History
+- `Exodus 2 - Suffering Is Not Outside His Plan.md` — Exodus 2:23-25 — God's protective providence in suffering; Israel's 430 years in Egypt as providential preparation, not abandonment; God hears, sees, knows
 - `Ezra 4 and 6.md` — Ezra 4-6 — God's sovereignty over nations
 - `Romans 1 (2024).md` — Romans 1:18+ — Anthropic principle; fine-tuning
 - `2 kings 25.md` — 2 Kings 25 — Trusting God over your own heart
