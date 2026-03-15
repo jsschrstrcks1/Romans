@@ -515,7 +515,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Galatians 2:15-end | Justification by faith transforms the believer | `gal 2.md` | sermon |
 | Galatians 3:23+ | Law, faith, and adoption as children of God | `adoption - gal 3.md` | sermon |
 | Galatians 3:27-4:7 | Adoption as God's children | `adoption - gal 3.md` / `Adoption - christms eve 23.md` | sermon |
-| Galatians 6:7-10 | Sowing for eternity not the world | `8-23-20.md` / `Galatians 6 - Sowing and Reaping (raw draft).md` | sermon — Titanic oranges illustration (crew throwing oranges to drowning passengers); David and Svea Flood missionary story (one convert in Africa → generations of fruit); Aggie's discovery of her parents' legacy; sowing/reaping principle; Toplady, Spurgeon, Luther, Steven Lawson quotes on free will and sovereignty; Sindhi Samas of Pakistan people group; do not grow weary in doing good |
+| Galatians 6:7-10 | Sowing for eternity not the world | `8-23-20.md` / `Galatians 6 - Sowing and Reaping (raw draft).md` | sermon — Titanic oranges illustration (⚠️ historicity uncertain — may be apocryphal); David and Svea Flood missionary story (one convert in Africa → generations of fruit; Aggie Hurst née Flood; ⚠️ verify specific details against Hurst's published accounts); sowing/reaping principle; Toplady free will quote ⚠️ unverified; Spurgeon "free will sent many to hell" ⚠️ unverified (subject map → chs52 "Free Will—A Slave," but sermon files not yet generated for text verification); Luther *Bondage of the Will* quote ⚠️ unverified exact wording; Steven Lawson "dirt for diamonds" ⚠️ unverified; Sindhi Samas of Pakistan ⚠️ verify current figures; Gal 6:7-10 ESV added to draft ✓; summary notes only — not full transcript |
 
 ### Ephesians
 
