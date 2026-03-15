@@ -381,16 +381,21 @@ See Christology section above.
 **Explicit. Tradition: Five-Point Calvinist.**
 
 ##### Perseverance / Preservation of the Saints
-> "Its called 'once saved always saved' or to use the words of the reformers, they called it perseverance of the saints. That sort of makes it sounds like it has something to do with mans effort. It doesn't."
-> — `Eternal Security.md`
+> "It's called 'once saved always saved,' or to use the words of the reformers, they called it perseverance of the saints. That sort of makes it sound like it has something to do with man's effort. It doesn't."
+> — `Sermon - Eternal Security.md`
 
 > "Not only can you not lose your salvation, but you can't get rid of it either."
-> — `Eternal Security.md`
+> — `Sermon - Eternal Security.md`
+
+> "When we hear the phrase 'perseverance of the saints,' it's not us that perseveres — it's God's work through Christ that perseveres."
+> — `Sermon - Eternal Security.md`
+
+*Note: `Sermon - Eternal Security.md` cites Jonathan Edwards on the covenant of grace vs. covenant of works — arguing that since God did not leave the first covenant to man's keeping, the covenant of grace similarly does not depend on man's perseverance. Edwards quote source unverified; exact location in his works flagged for confirmation before print use.*
 
 > "Your adoption does not hang on the thin thread of your performance but on the steel cable of Christ's finished work."
 > — `romans 9 pt 1.md`
 
-Prefers "preservation" language (Sproul). God's keeping work, not human effort. **Explicit. Tradition: Reformed Baptist (TULIP — P).**
+Prefers "preservation" language (Sproul — God's keeping work, not human effort). Explicitly frames the doctrine as building on the prior three — Total Depravity, Unconditional Election, and Definite Atonement: if man cannot save himself, he cannot maintain salvation either. God holds what God saved. **Explicit. Tradition: Reformed Baptist (TULIP — P).**
 
 #### Ordo Salutis (Order of Salvation)
 > "The biblical order of the things that have to have happened in order for one to have actually been saved: Predestination, Election, Calling, Regeneration, Faith, Repentance, Justification, Adoption, Sanctification, Perseverance, Glorification."

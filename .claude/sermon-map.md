@@ -156,6 +156,16 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 *[Note: Archive versions also exist: `sola scriptura.md`, `Sola Scriptura 24.md`, `Sola Christus.md`, `Sola Deo Gloria mt 13.md`]*
 
+### Doctrines of Grace Series
+
+A four-part series working through the scriptural foundations of the doctrines of grace (Total Depravity, Unconditional Election, Definite Atonement, Perseverance of the Saints). The first three sermons are not separately catalogued under this series heading in the archive; the fourth and final sermon has been polished to a primary manuscript.
+
+| Passage | Title | File | Subject |
+|---|---|---|---|
+| John 6:37, 39, 44, 63, 65; John 10:25–30 | Eternal Security — Perseverance of the Saints *(Series 4 of 4)* | `Sermon - Eternal Security.md` | Perseverance/preservation of the saints; "once saved always saved"; Sproul on "preservation" vs. "perseverance"; Arminian objection addressed; Josh and Rachel Havel story (good Christians on both sides; neither extreme correct); Jonathan Edwards on covenant of grace vs. covenant of works (Heb 7:25 embedded); sheep illustration (failed veterinary care → God does not lose what He saves); Joel Hemphill "He's Still Working on Me"; brain-hemisphere illustration for intimacy of Christ's knowledge; self-examination appeal (motives for coming to church); gospel call; pray to end abortion |
+
+*[Note: Archive source is `Other-Sermons/Sermons/Eternal Security.md`. Corrections in polished version: "2 cor 2" → 1 Corinthians 2:14; "John said" → "Jesus said" (John 6:44); grammar throughout. Edwards quote flagged — verify source before print.]*
+
 ### Baptist Faith and Message Series
 
 | Passage | Title | File | Subject |
@@ -449,7 +459,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | John 10:7-11 | The wicket gate; gospel; Pilgrim's Progress | `John 10.md` | sermon |
 | John 10:11, 17-18 | Thankfulness and Christ's sacrificial love | `jn 10.md` | sermon |
 | John 10:1-30 | The Good Shepherd; three-part structure (illustration, explanation, application); communal sheep pen and the porter; hired hand vs. owner; sheep illustrations from personal flock (Hope, Sir Loin, Anna, Frazzle, Sugar); "other sheep" = Gentiles; eternal security | `John 10 - The Good Shepherd.md` | sermon |
-| John 10:25-30; 6:37-65 | Perseverance and preservation of the saints | `Eternal Security.md` | teaching |
+| John 10:25-30; 6:37-65 | Perseverance and preservation of the saints *(raw archive)* | `Eternal Security.md` | teaching — ⚠️ raw transcript; polished version at `Sermon - Eternal Security.md` |
 | John 11:1-16 | Trusting God through silence and unanswered prayers | `Fifteen.md` | study |
 | John 11:30-44 | Memorial for Jean; Jesus weeps and raises Lazarus | `We are gathered here today to celebrate the memory of Jean.md` | memorial |
 | John 12 | Mary's devotion vs Judas's selfishness | `John 12.md` | sermon |
@@ -868,7 +878,8 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Hebrews 1 - Old vs New (raw transcript).md` — Hebrews 1:1-14 — God sovereign over everything through Christ; politics as a breath of air next to eternity
 
 ### Eternal Security / Perseverance
-- `Eternal Security.md` — John 6:37-65; 10:25-30 — Preservation of the saints
+- `Sermon - Eternal Security.md` *(polished root-level manuscript)* — John 6:37, 39, 44, 63, 65; John 10:25–30 — Perseverance/preservation of the saints; 4th in Doctrines of Grace series; Edwards on covenant of grace; Josh/Rachel Havel story; sheep illustration; self-examination close
+- `Eternal Security.md` *(raw archive source)* — John 6:37-65; 10:25-30 — Preservation of the saints
 - `Sundayschool pt 3.md` — Romans 8:29-30 — Order of salvation; final salvation
 - `Sunday school notes week 2.md` — 1 Cor 13:8-10; John 10:27-28 — Cessation; eternal security
 
