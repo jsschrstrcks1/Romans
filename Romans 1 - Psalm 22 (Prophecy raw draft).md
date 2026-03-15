@@ -44,10 +44,10 @@ Hands and feet pierced
 Psalm 22:16
 John 20:20, 25-28
 Bones not broken
-Psalm 22:17
+Psalm 34:20 *(corrected March 2026 — draft had Ps 22:17; that verse is "I can count all my bones — they stare and gloat over me," which is the stared-at entry below. The bones-not-broken prophecy cited in John 19:36 is Psalm 34:20: "He keeps all his bones; not one of them is broken.")*
 John 19:31-36
 Stared at by the people
-Psalm 22:17
+Psalm 22:17b *(ESV: "they stare and gloat over me")*
 Matthew 27:55-56
 Lots cast for His clothing
 Psalm 22:18
@@ -82,6 +82,6 @@ You know which door you've been living behind. And you know if tonight's the nig
 - **Adrian Rogers — 108 OT references to Christ**: Number cited without a specific source document or sermon. Verify the quote before repeating from the pulpit.
 - **R.A. Torrey — 300 OT references**: Book title not given. Widely attributed to Torrey; confirm the specific work (likely *The Bible and Its Christ* or a similar compilation) before citing.
 - **Romans 10:9** ✓ *Corrected (March 2026)*: Body now reads ESV exactly — "confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead."
-- **Psalm 22 prophecy table**: 11 cross-references listed (Ps 22 → Matthew/John passages). Individual references not checked line-by-line here; verify each fulfillment citation against ESV before printing for congregational use.
+- **Psalm 22 prophecy table**: ✅ **"Bones not broken" reference corrected** *(March 2026)*: Draft had Psalm 22:17; this is wrong — Ps 22:17 says "I can count all my bones — they stare and gloat over me" (the *stared at* entry). The bones-not-broken prophecy cited in John 19:36 is **Psalm 34:20**: "He keeps all his bones; not one of them is broken." Table corrected. Other 10 cross-references are directionally sound; verify remaining fulfillment citations against ESV before printing for congregational use.
 - **Deuteronomy 18:20–22** ✓ *Corrected (March 2026)*: Verse numbers added in body.
 - **Debate/voting intro**: Contains politically identifying commentary (unnamed candidate described in detail). Review before re-preaching or publishing to assess whether this dates the sermon or creates unnecessary controversy.
