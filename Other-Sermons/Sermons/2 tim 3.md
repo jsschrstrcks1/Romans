@@ -205,10 +205,12 @@ But all of that starts with a relationship with God.
 **Verified (updated):**
 - Thomas Helwys 1611 quote ("absolute, and perfect rule of direction...") — Confirmed from Article 9 of *A Declaration of Faith of English People Remaining at Amsterdam in Holland* (1611). Wording matches the Reformed Reader transcription.
 
+**Verified (paraphrases):**
+- R.C. Sproul paraphrases — Both trace to *Knowing Scripture* (IVP, 1977), Chapter 1: "Why Study the Bible." Sproul's actual words: "We want to understand the doctrine of God so that we can understand God, so that we can meet the living God in His Word and deepen our personal relationship with Him." And: "We cannot love God at all if we do not love His truth." Paraphrases are faithful to Sproul's meaning.
+
 **Unverified (flagged for follow-up before publication):**
-- Al Mohler quote on "truthfulness and trustworthiness" — Mohler uses this phrase elsewhere, but this specific wording ("probably the best words in the English language...frame the perfection of the Bible in positive terms") may come from *Did God Really Say?: Affirming the Truthfulness and Trustworthiness of Scripture* (P&R, 2012), ed. David B. Garner — not Mohler directly. Verify before attributing to Mohler.
-- "Another man" who prefers "the term infallibility" — Likely Greg Boyd or Donald Bloesch. CAUTION: Both hold views on infallibility that diverge from traditional Baptist inerrancy. If using this quote in a sermon affirming inerrancy, note the theological context or consider dropping the attribution.
-- R.C. Sproul paraphrases on studying Scripture and loving God's word — Presented honestly as paraphrases, not direct quotes; consistent with Sproul's teaching
+- Al Mohler quote on "truthfulness and trustworthiness" — The Garner volume (*Did God Really Say?*, P&R, 2012) is ruled out; Mohler did not contribute to that book. The quote is stylistically consistent with Mohler and the best remaining lead is his essay in *Five Views on Biblical Inerrancy* (Zondervan, 2013), which needs to be checked in print. The phrasing has a spoken quality suggesting it may come from a lecture.
+- "Another man" who prefers "the term infallibility" — Most likely **Kevin Vanhoozer**, who wrote: "The older term to express biblical authority — infallibility — remains useful. Infallibility means that Scripture never fails in its purpose" (C.S. Lewis Institute, 2010). Secondary candidate: **J.I. Packer**, who defined infallibility as Scripture not failing "to accomplish the task for which God has spoken and speaks it" (*Fundamentalism and the Word of God*, 1958). Both affirm inerrancy AND infallibility — no theological concern with citing either in this sermon context.
 
 **Historical claims verified in substance:**
 - Thomas Helwys' 1611 confession is the earliest Baptist confession of faith
