@@ -12,8 +12,8 @@
 - ✓ Forrest Fenn / poem clues *(corrected March 2026)*: Body now references "home of Brown" and "where warm waters halt" as closer paraphrases. Prior draft said "brown house" and "end of the warm water."
 - ✓ Forrest Fenn / deaths *(corrected March 2026)*: Body now reads "at least five documented deaths." Prior draft said "at least one." Note: "foul play" phrasing removed — specific sourcing was unavailable; the documented deaths are sufficient for the illustration.
 - ✓ Forrest Fenn / geography *(corrected March 2026)*: Body now reads "Mountain West." Prior draft said "the Midwest."
-- ⚠️ Brother Andrew / prayer: verify exact wording against *God's Smuggler*
-- ⚠️ Brother Andrew / Romania: verify destination was Romania specifically (some tellings reference Yugoslavia or other Eastern Bloc countries)
+- ✓ Brother Andrew / prayer *(confirmed March 2026)*: Draft prayer is substantially accurate. Published version (*God's Smuggler* / Open Doors accounts) reads "in my luggage" where draft says "in my car" — minor paraphrase. The "make seeing eyes blind" core and the "do not let the guards see what You do not want them to see" closing are confirmed. Guard holding the door closed with his knee: confirmed detail. ✓
+- ✓ Brother Andrew / Romania *(confirmed March 2026)*: Romania is correct. The car-loaded-with-Bibles incident is the famous Romanian border crossing. Open Doors confirms this specifically. Andrew also crossed into Bulgaria, Yugoslavia, and other countries — but the featured incident is Romania. ✓
 - ⚠️ Florida stats / opiates: "more than rest of country combined" — verify currency and accuracy; likely from pill-mill era (~2010)
 - ⚠️ Florida stats / Xanax: same concern
 - ✓ US population *(corrected March 2026)*: Body now reads "~330 million." Prior draft said "400m."
