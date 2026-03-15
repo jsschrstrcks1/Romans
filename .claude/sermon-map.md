@@ -81,7 +81,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | 1 Samuel 28 | Power Encounter | `Sermon - Power Encounter.md` | Mediums; the occult; Wicca; spiritual warfare; evangelism to occultists |
 | 1 Kings 18:33-41 | Choose This Day | `Sermon - Choose This Day.md` | Elijah vs Baal; double-mindedness; idolatry; God's jealousy |
 | 1 Corinthians 3:10-15 | What Survives the Fire | `Sermon - What Survives the Fire.md` | Judgment of works; stewardship of time; legacy; Polycarp's martyrdom |
-| 1 Thessalonians 5:12-24 | Rejoice Always *(raw draft)* | `1 Thess 5 - Rejoice Always (raw draft).md` | Dad's stroke (Christmas Eve); Spurgeon quote verified ✓ (Sermon #2483, "The Objective of Christ's Death," MTP Vol. 42); Shane and Shane "Though You Slay Me" (Job 13:15); 2 Cor 11:24-33 Paul's sufferings; de Gaulle/French Resistance illustration; "3 million" corrected to ~1.3M ✓; "Communists defeated" corrected ✓ |
+| 1 Thessalonians 5:12-24 | Rejoice Always *(raw draft)* | `1 Thess 5 - Rejoice Always (raw draft).md` | Dad's stroke (Christmas Eve); Spurgeon quote verified ✓ (Sermon #2483, "The Objective of Christ's Death," MTP Vol. 42); Shane and Shane "Though You Slay Me" (Job 13:15 — song adapts to 2nd person, ESV is 3rd person); 2 Cor 11:24-33 Paul's sufferings; de Gaulle June 18 1940 BBC appeal ✓; French Resistance as Christian-in-enemy-territory metaphor; "3 million" corrected to ~1.3M ✓; "Communists defeated" corrected ✓; Phil 4:7 citation added ✓; duplicate stub removed ✓ *(March 2026)* |
 | 1 Thessalonians 3:12-4:8 | The List I Burned | `Sermon - The List I Burned.md` | Love (1 Cor 13); acts of service; sexual purity; keeping no record of wrong |
 | 1 Peter 1:1-9 | Wear the Jersey | `Sermon - Wear the Jersey.md` | Election (*eklektos*); identity in Christ; exile; Easter; living hope |
 | 1 Peter 3:8-18 | Live Like You're Leaving | `Sermon - Live Like You're Leaving.md` | Unity of mind; brotherly love; eternity perspective; tipping as witness |
@@ -941,6 +941,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 15b - The Mission in the Early Light.md` — Romans 15:30 — Synagonisasthai; prayer as agonizing combat; Paul's vulnerability
 
 ### Hope / Endurance / Perseverance
+- `1 Thess 5 - Rejoice Always (raw draft).md` — 1 Thess 5:12-24 — Rejoice always; praise in the storm; dad's stroke; Spurgeon on praising when sick; "though you slay me" (Job 13:15 / Shane and Shane); Paul's sufferings (2 Cor 11) as context for "rejoice always"
 - `Romans 15a - The Welcome We've Been Given.md` — Romans 15:13 — God of hope; abound in hope
 - `Titus 2 pt 2.md` — Titus 2:11-14 — Hope in the second coming
 - `Philippians 3 - 2025.md` — Philippians 3:1 — Rejoicing and sovereignty
@@ -1069,6 +1070,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - The Magnet on the Compass.md` — 1 Samuel 17 — The compass illustration: sin as a magnet redirecting the heart's needle; "we can't even identify which way is up apart from Christ"; our will and desires corrupted (lines 98-112)
 
 ### Spiritual Warfare / Enemy Attacks
+- `1 Thess 5 - Rejoice Always (raw draft).md` — 1 Thess 5:12-24 — French Resistance as extended metaphor: Christians are behind enemy lines; worship/holiness/prayer/evangelism as acts of resistance; "we can stand and fight or give up and go home"
 - `Neh 6.md` — Nehemiah 6:1-9 — Enemy attacks and spiritual warfare; Ono illustration; Cyril Barber's three attack vectors (Father/Son/Spirit); "Stand Up for Jesus" dying preacher story; George Duffield Jr. hymn
 - `Luke 4.md` — Luke 4:1-13 — Christ's temptation; resisting sin
 - `Gen 3.md` — Genesis 3:1-6 — Serpent's deception
