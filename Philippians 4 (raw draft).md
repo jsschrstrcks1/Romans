@@ -10,13 +10,13 @@
 ## Verification Flags
 
 - [ ] **Mo-Jer-Hai of China** — People group details need confirmation before presenting publicly. Claimed: ~7,000 members, Hunan mountains, completely unreached and unengaged, culture centers on singing and dancing. [FLAG: VERIFY WITH JOSHUA PROJECT OR EQUIVALENT SOURCE BEFORE PREACHING]
-- [ ] **C.T. Studd quote** — "This life twill soon be past, only whats done for Christ will last." Verify exact wording and that it is correctly attributed to C.T. Studd (1860–1931). [FLAG: VERIFY EXACT WORDING]
-- [ ] **Samuel Sey quote** — "If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear." Preacher describes him as "a southern Baptist from Ghana." Verify attribution, exact wording, and that the denominational description is accurate. [FLAG: VERIFY ATTRIBUTION AND WORDING]
-- [ ] **"Lovely" used only once in the NT** — The Greek word in Philippians 4:8 is *prosphilēs*. Verify that this is its only NT occurrence. Also verify that the two LXX (Septuagint) occurrences are indeed Song of Solomon and Psalm 84:1. [FLAG: VERIFY LINGUISTIC CLAIM]
-- [ ] **Psalm 84 quote** — Preacher quotes: *"How lovely is your dwelling place, O LORD of hosts! My soul longs, yes, faints for the courts of the LORD; my heart and flesh sing for joy to the living God."* Verify this is ESV Psalm 84:1–2 and that the LXX uses *prosphilēs* here. [FLAG: VERIFY PASSAGE AND LXX WORD]
+- [x] **C.T. Studd quote** *(corrected March 2026)*: Attribution confirmed — Charles Thomas Studd (1860–1931). **Exact wording: "Only one life, 'twill soon be past, only what's done for Christ will last."** The couplet is the refrain of a poem titled "Only One Life, 'Twill Soon Be Past." Draft body had "This life twill soon be past" — corrected to "Only one life, 'twill soon be past." No specific composition date documented in indexed sources; most likely archival source is Norman Grubb's 1933 biography *C.T. Studd: Cricketer & Pioneer*. Body text updated.
+- [ ] **Samuel Sey quote** *(researched March 2026 — UNVERIFIED)*: Quote could not be found in any indexed source (not on slowtowrite.com, not on X/Twitter, not in any article). The description in the body also has **three factual errors** that must be corrected: (1) He is NOT Southern Baptist — he writes for Founders Ministries and Monergism (Reformed circles); (2) He does NOT live in Ghana — he is a Ghanaian-Canadian currently living in Ohio; (3) He is NOT a preacher — he is a writer and cultural commentator. Body text corrected for the description errors. Quote itself must either be verified against a primary source or removed. [FLAG: DO NOT USE UNTIL QUOTE IS SOURCED]
+- [x] **"Lovely" used only once in the NT** *(verified March 2026)*: Confirmed NT hapax legomenon — Strong's G4375, 1 NT occurrence (Phil 4:8 only). **However, the LXX claim is wrong.** ❌ Psalm 84:1 LXX uses **ἀγαπητά (agapēta)**, not prosphilēs. ❌ No occurrence of prosphilēs found in Song of Solomon. Actual LXX occurrences: Esther LXX 5:1 (Addition D); Sirach 4:7; Sirach 20:13 — all deuterocanonical. The thematic connection between Phil 4:8 "lovely" and Psalm 84:1 "lovely" holds in English, but the shared-Greek-word claim must be removed from the sermon. Body text updated.
+- [x] **Psalm 84 quote** *(verified March 2026)*: ESV Psalm 84:1–2 confirmed word-for-word: *"How lovely is your dwelling place, O LORD of hosts! My soul longs, yes, faints for the courts of the LORD; my heart and flesh sing for joy to the living God."* ✓ The LXX note that Psalm 84:1 uses prosphilēs has been removed (see above — the LXX word is ἀγαπητά, not prosphilēs).
 - [x] **Greek word for "noble/honorable" = semnos** ✓ *Confirmed*: The Greek behind "whatever is honorable" (ESV Phil 4:8) is σεμνός (*semnos*). The body gloss "noble" is acceptable; ESV renders it "honorable." Both capture the sense of dignified, worthy of respect.
-- [ ] **Spurgeon quote** — "You will never glory in God till first of all God has killed your glorying in yourself." Verify exact wording and source. [FLAG: VERIFY EXACT WORDING AND SOURCE]
-- [ ] **Richard Baxter quote** — "Unbelievers seek their happiness in the things of the world. Believers find their happiness in God. It is contrary to the nature of faith for a believer to seek peace in his earthly enjoyments. Our present pilgrimage is a prison, yet alas, we too commonly do this. By this we kill our comforts and then complain they are missing. It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain." Verify attribution and accuracy. [FLAG: VERIFY]
+- [x] **Spurgeon quote** *(verified March 2026)*: Confirmed. Exact text (from primary source): **"You will never glory in God till, first of all, God has killed your glorying in yourself."** — Sermon No. 1178, "Glorying in the Lord," preached January 1, 1874; published in *Metropolitan Tabernacle Pulpit*, Vol. 20. Sermon text: 1 Corinthians 1:31. Draft omits the commas around "first of all" — cosmetic only; substance is correct. Full text at CCEL and spurgeon.org.
+- [ ] **Richard Baxter quote** *(researched March 2026 — PARTIALLY VERIFIED)*: The closing sentence — "It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain" — is confirmed as Baxter's, from *The Practical Works of Richard Baxter*, Vol. II, pp. 884–885 (Paternoster edition, 1830); also in *Voices from the Past: Puritan Devotional Readings* (Banner of Truth). The full extended block quote as a single continuous passage could not be confirmed from available online sources. The theology and style are consistent with Baxter (esp. *The Saints' Everlasting Rest*, *A Christian Directory*), but the complete wording may be a paraphrase or composite. To verify: check *Practical Works* Vol. II, pp. 884–885 on archive.org or Logos. [FLAG: VERIFY FULL PASSAGE BEFORE CITING VERBATIM]
 - [ ] **Pew Bible page number** — Left blank in draft. Fill before Sunday.
 
 ---
@@ -69,7 +69,7 @@ The solution to communism is the gospel. The solution to sin in this world is th
 
 **[Eternal perspective]**
 
-As I mentioned last week, we are eternal beings having a temporal experience. This world and its hundred years of life will soon be past. In the words of C.T. Studd: *"This life twill soon be past, only what's done for Christ will last."*
+As I mentioned last week, we are eternal beings having a temporal experience. This world and its hundred years of life will soon be past. In the words of C.T. Studd: *"Only one life, 'twill soon be past, only what's done for Christ will last."* *(Corrected March 2026 — draft had "This life twill soon be past"; correct opening is "Only one life, 'twill soon be past." From the poem titled "Only One Life, 'Twill Soon Be Past.")*
 
 **[FLAG: Verify C.T. Studd quote — exact wording before citing from pulpit.]**
 
@@ -133,9 +133,7 @@ Worthy rewards for sure.
 
 **[Whatever is true — the list]**
 
-As we turn to the final part of the chapter, I want to read a quote from a preacher named Samuel Sey. He's a Southern Baptist from Ghana who now lives and preaches in Ghana. He wrote: *"If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear."*
-
-**[FLAG: Verify Samuel Sey quote — exact wording, attribution, and whether "Southern Baptist from Ghana" is an accurate description.]**
+As we turn to the final part of the chapter, I want to read a quote from a writer named Samuel Sey. He is a Ghanaian-Canadian Christian writer and blogger (slowtowrite.com) currently living in Ohio. *(Corrected March 2026 — draft said "Southern Baptist from Ghana who now lives and preaches in Ghana"; all three details are wrong: he is not Southern Baptist, not currently in Ghana, and not a preacher. He writes for Reformed-leaning platforms including Founders Ministries and Desiring God.)* He wrote: *"If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear."* *(⚠️ Quote unverified — not found in any indexed source. Do not cite until sourced.)*
 
 I think that's important to keep in mind as we read this last section, because there is a wonderful list of things we can focus on.
 
@@ -165,15 +163,15 @@ Unlike other things in this world: if you hear something on the news, maybe it's
 
 ---
 
-**Whatever is lovely.** This is a neat word — it's the only time it's used in the New Testament. However, in the Greek translation of the Hebrew Old Testament it appears twice. Once in Song of Solomon, and a second time in Psalm 84:
+**Whatever is lovely.** This is a neat word — it's the only time it's used in the New Testament. *(Corrected March 2026 — earlier version claimed the Greek word prosphilēs also appears in Song of Solomon and Psalm 84:1. This is wrong. Psalm 84:1 LXX uses ἀγαπητά, from agapē — a different and equally beautiful word. No occurrence of prosphilēs is found in Song of Solomon. The thematic connection below still holds in English, but do not claim a shared Greek word.)*
+
+Even so, the theme of loveliness in Psalm 84 is a beautiful companion to what Paul is saying here:
 
 *"How lovely is your dwelling place, O LORD of hosts! My soul longs, yes, faints for the courts of the LORD; my heart and flesh sing for joy to the living God."* (Psalm 84:1–2, ESV)
 
 Where it says "how lovely is your dwelling place" — it's talking about the place where God is. At that time it was the temple. Today, where is God? He's in our hearts. And He's in heaven.
 
 Looking forward to the glories of heaven helps quite a bit when things are hard.
-
-**[FLAG: Verify that "lovely" (prosphilēs) in Philippians 4:8 is indeed a NT hapax legomenon, and that its two LXX occurrences are Song of Solomon and Psalm 84:1. Confirm LXX spelling and ESV accuracy of Psalm 84:1–2 quote above.]**
 
 ---
 
@@ -197,9 +195,7 @@ In the meantime, if you can't quite rejoice, at least be reasonable. Paul says: 
 
 It all comes back to setting aside yourself in favor of what God wants.
 
-Charles Spurgeon once said: *"You will never glory in God till first of all God has killed your glorying in yourself."*
-
-**[FLAG: Verify Spurgeon quote — exact wording and source before using from pulpit.]**
+Charles Spurgeon once said: *"You will never glory in God till, first of all, God has killed your glorying in yourself."* *(Sermon No. 1178, "Glorying in the Lord," Metropolitan Tabernacle Pulpit, Vol. 20, January 1, 1874 — verified ✓)*
 
 I think he would agree that when we get overly upset about thieving neighbors, it falls under that category. When we are upset about the direction our country is heading and have rebellious thoughts — that falls under that category. We want to be comfortable, we want to be successful, we want to be prosperous, we want to live in what is — in my opinion — the greatest nation in the world. We want all of these things. But when the rubber meets the road, all too often it's all about "I." What Spurgeon calls "glorying in yourself."
 
@@ -211,7 +207,7 @@ Richard Baxter wrote:
 
 *"Unbelievers seek their happiness in the things of the world. Believers find their happiness in God. It is contrary to the nature of faith for a believer to seek peace in his earthly enjoyments. Our present pilgrimage is a prison, yet alas, we too commonly do this. By this we kill our comforts and then complain they are missing. It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain."*
 
-**[FLAG: Verify Richard Baxter quote — exact wording and source before using from pulpit.]**
+*(⚠️ Partially verified — closing sentence confirmed as Baxter's, from* The Practical Works of Richard Baxter*, Vol. II, pp. 884–885. Full extended passage as a single continuous quote could not be confirmed from available online sources; may be a paraphrase or composite. Verify against* Practical Works *Vol. II, pp. 884–885 — available on archive.org — before citing verbatim.)*
 
 ---
 
