@@ -495,7 +495,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | 1 Corinthians 10:9 | Israel's testing of Christ in the wilderness; serpents; type of cross; cross-references Num 21:5-9 and John 3:13-21 | `Numbers 21 John 3.md` | sermon |
 | 1 Corinthians 3:10-15 | Eternal legacy and what lasts beyond death | `1 cor 3.md` | sermon |
 | 1 Corinthians 9:19-23 | Motivation for sharing the gospel | `1 cor 9.md` / `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` | sermon |
-| 1 Corinthians 12:12-27 | Church membership and body commitment | `Commitment to the church body 1 cor 12.md` | sermon — David Platt dating story (priorities: God, family, church, homework, then girlfriend); church-hopping critique; "I love Jesus but not the church" confronted; Dhangar of India people group; body metaphor (hand, leg, dirty diaper); Brenda and Dalia commitment examples; "taking strangers making family"; church planting vision over building projects; communion; Romans 3:23 gospel close |
+| 1 Corinthians 12:12-27 | Church membership and body commitment | `Commitment to the church body 1 cor 12.md` / `1 Corinthians 12 - Church Membership (raw draft).md` | sermon — unnamed seminary friend's dating story (priorities: God, family, church, homework, then girlfriend; preacher chose not to name him); church-hopping critique; "I love Jesus but not the church" confronted; Dhangar of India people group ⚠️ verify current figures; body metaphor (hand, leg, dirty diaper); Brenda and Dalia commitment examples; "taking strangers making family"; church planting vision over building projects; 1 Cor 12:12-27 ESV restored in raw draft ✓; 1 Cor 12:27 corrected from NIV to ESV ✓; Rom 10:15 corrected from paraphrase to ESV ✓; communion; Romans 3:23 gospel close |
 | 1 Corinthians 13:8-10; John 10:27-28 | Cessation of sign gifts; eternal security | `Sunday school notes week 2.md` | study |
 
 ### 2 Corinthians
@@ -804,7 +804,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Psalms 139 (abortion).md` — Psalm 139:13 — Sanctity of life
 
 ### Church / Body of Christ / Membership
-- `Commitment to the church body 1 cor 12.md` / `1 Corinthians 12 - Church Membership (raw draft).md` — 1 Cor 12:12-27 — Church membership; body of Christ; mutual commitment; church-hopping culture critique; seminary friend illustration; ⚠️ Dhangar of India people group (~3M, ~0.04% Christian — verify current numbers)
+- `Commitment to the church body 1 cor 12.md` / `1 Corinthians 12 - Church Membership (raw draft).md` — 1 Cor 12:12-27 — Church membership; body of Christ; mutual commitment; church-hopping culture critique; unnamed seminary friend illustration; ⚠️ Dhangar of India people group (~3M, ~0.04% Christian — verify current numbers); raw draft flags resolved ✓
 - `Romans 14a - The Welcome That Costs You Nothing.md` through `Romans 14d - Love That Surrenders Its Rights.md` — Romans 14 — Weak and strong in the church
 - `Romans 15a - The Welcome We've Been Given.md` — Romans 15:1-13 — Welcome one another
 
