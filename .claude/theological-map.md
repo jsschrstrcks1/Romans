@@ -61,6 +61,14 @@ Sovereignty extends over creation, history, politics, individual lives, and salv
 
 **Explicit. Tradition: Classical theism.**
 
+#### Omnipotence — Nothing Too Hard for God
+> "My God is so great, so strong and so mighty, there's nothing my God cannot do."
+
+> "Nothing is too hard for God, and he healed Sarai's womb, and allowed a single child to be born."
+> — `Gen 21 - My God Is So Great.md`
+
+God's power demonstrated through creation (stars, earth's precise placement, moon), providence (feeding millions in the desert, closing lions' mouths, directing animals to Noah's ark), and miraculous intervention (healing Sarah's barrenness, Jonah and the fish). The sermon catalogs God's omnipotence as the ground for trusting Scripture's preservation: a God this powerful would preserve his word. **Explicit. Tradition: Classical theism.**
+
 #### Omniscience
 > "You have never had a thought, made an action, or had a secret that Jesus didn't also know."
 > — `Eternal Security.md`
@@ -654,6 +662,12 @@ The Genesis 1–2 sermon argues that the Hebrew chiasm and step-by-step repetiti
 > — `sola scriptura.md`
 
 God's providential preservation of the text through meticulous human transmission. **Explicit. Tradition: Conservative Evangelical.**
+
+#### Preservation of Scripture — Manuscript Evidence as Apologetic
+> "What we have, is 50,000 plus manuscripts and fragments, and papyri and scrolls that have a mere handful of differences across time. Most of which are spelling... But none of them have any errors across all 50,000 documents that have anything to do with doctrine."
+> — `Gen 21 - My God Is So Great.md`
+
+Argues that if God is powerful enough to preserve his people, he would preserve his word — and the manuscript evidence confirms it. Links God's omnipotence directly to Scripture's reliability. Used as an apologetic response to those who "believe in the God of the Bible but not the Bible itself." **Explicit. Tradition: Conservative Evangelical (textual-criticism-as-apologetic).**
 
 #### Closed Canon — 66 Books
 > "The council of Laodicea established our current list of 66 books."
