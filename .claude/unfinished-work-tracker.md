@@ -250,7 +250,7 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 | `Psalm 2 (raw draft).md` | 11 flags requiring verification: Heb 13:3 may be KJV not ESV; Edwards quote may have transcription error; "Lord" vs "LORD" in Psalm 2 quotes flagged; IDOP date and "53 countries" flagged as needing verification |
 | `Psalm 8 - Hebrews 2 (raw draft).md` | 4 flags: needs ESV conversion, quote verification |
 | `Psalm 119 161-168 (raw draft).md` | 10 flags: multiple quotes and cross-references unverified |
-| `Psalm 68 Part 2 (raw draft).md` | 7 flags requiring verification: Prov 27:17 may be NIV not ESV; 1 Kgs 18 "Lord" vs "LORD" flagged; prophet count (~1,000 in draft vs. 850 in 1 Kings 18:19) flagged for verification |
+| `Psalm 68 Part 2 (raw draft).md` | *(substantially resolved March 2026)* Prov 27:17 → ESV ✓; 1 Kgs 18 LORD corrected (confirmed YHWH via BibleHub interlinear) ✓; prophet count → 850 (450 Baal + 400 Asherah) ✓; Elijah timeline flag updated with specific phase breakdown (Cherith ~months; Zarephath ~2+ years; total 3.5 yrs). One standing item: body text "alone, in a desert, for a few years" is imprecise — needs rewording when polishing for print. MacArthur/Japan narrative: historically accurate in substance; specific missionary request count (~10,000) should be verified if citing in print. |
 | `1 Thess 5 - Rejoice Always (raw draft).md` | 7 flags requiring verification: Spurgeon quote source unverified; "3 million French" figure flagged as possibly overstated; "Communists defeated" claim flagged as needing historical verification |
 | `Philippians 4 (raw draft).md` | 16 flags: extensive verification needed |
 | `Romans 1 - Psalm 22 (Prophecy raw draft).md` | 8 flags requiring verification: Adrian Rogers "108 OT refs" claim flagged as unverified; R.A. Torrey "300 OT refs" claim flagged as unverified |
@@ -270,7 +270,7 @@ The sermon-map.md contains **46+ entries** with ⚠️ flags indicating unverifi
 - `Study - Joseph as a Type of Christ (typology reference).md` — 10 flags
 - `Romans 1 - Psalm 22 (Prophecy raw draft).md` — 8 flags
 - `1 Thess 5 - Rejoice Always (raw draft).md` — 7 flags
-- `Psalm 68 Part 2 (raw draft).md` — 7 flags
+- `Psalm 68 Part 2 (raw draft).md` — substantially resolved March 2026; 1 standing item (Elijah timeline phrasing) for print polish
 - `Sermon - Faithful and God-Fearing.md` — 7 flags
 - `Sola Scriptura 2021.md` — 7 flags
 
