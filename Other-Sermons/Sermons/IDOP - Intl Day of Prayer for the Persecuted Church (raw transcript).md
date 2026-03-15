@@ -65,7 +65,7 @@ Our next slide asks us to pray that [Slide 7]
 
 **Pastor Han's Funeral**
 
-At Han's funeral, the Chinese government did everything they could to restrict the funeral to as few people as possible. They also covered up his body — everything but his face. They hid what Korea did to Han, but they couldn't hide the peace on his face. In spite of what happened, he died with a smile — I think this was twofold. For one because he knows the blood of the martyrs is the seed of the church, for two I believe he was smiling because he knew what was coming next. He knew that he would be seeing his savior in just a moment. I kind of wish I could have been there as Christ gave him a hug and said well done my good and faithful servant.
+At Han's funeral, the Chinese government did everything they could to restrict the funeral to as few people as possible. They also covered up his body — everything but his face. They hid what Korea did to Han, but they couldn't hide the peace on his face. In spite of what happened, he died with a smile — I think this was twofold. For one because he knows, as Tertullian said, the blood of the martyrs is the seed of the church, for two I believe he was smiling because he knew what was coming next. He knew that he would be seeing his savior in just a moment. I kind of wish I could have been there as Christ gave him a hug and said well done my good and faithful servant.
 
 [Slide 9]
 

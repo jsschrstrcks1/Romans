@@ -41,7 +41,7 @@ How often do we do this? Scripture says when we do this we are like a dog return
 
 We have victory over sin, freedom from its bondage and yet so many times we return to it over and over and over.
 
-Sin will keep you from the word, or the word will keep you from sin.
+As the old saying goes, sin will keep you from the word, or the word will keep you from sin. *(See flags — commonly attributed to John Bunyan, but no verified primary source in his published works. Also attributed to D.L. Moody and Leonard Ravenhill.)*
 
 Rejoice in the Lord and again I say rejoice. Whatever is true, whatever is noble, whatever is right, whatever is pure, if it is lovely, admirable, excellent or praiseworthy think on these things.
 

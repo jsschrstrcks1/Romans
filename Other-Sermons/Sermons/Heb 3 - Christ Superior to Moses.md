@@ -59,7 +59,7 @@ But Paul said shall we continue in Sin that grace may abound? By no means! (Roma
 Rest then is found in the context of a relationship with Jesus. Run to him, rejoice in him, cling to him. When you feel down, and discouraged, or when you feel tempted, or when ever anything comes a long that you don't think you can bear run to Jesus.
 Whether we are in the midst of trouble or not, we should be participating in a relationship with God daily through these things:
 Reading our bible
-God's word will keep you from sin, or sin will keep you from God's word.
+As the old saying goes, God's word will keep you from sin, or sin will keep you from God's word. *(See flags — commonly attributed to John Bunyan, but no verified primary source in his published works. Also attributed to D.L. Moody and Leonard Ravenhill.)*
 Praying – 1 thess 5:16-18 16 Rejoice always, 17 pray without ceasing, 18 give thanks in all circumstances; for this is the will of God in Christ Jesus for you.
 Worship – Phillippians 4:8 8 Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things. 9 What you have learned and received and heard and seen in me—practice these things, and the God of peace will be with you.
 Fellowship with other believers – Go to church.

@@ -14,7 +14,7 @@ Galatians 6:7-10 — Sowing and Reaping
 - 2019-2020 difficulties: hurricanes, protests, racial tensions, COVID-19, financial train wreck
 - "God wanted you right here, right now, for a reason. Will you pursue the diamonds of the world or the oranges of heaven?"
 
-### David and Svea Flood — Missionary Story
+### David and Svea Flood — Missionary Story *(as told by Aggie Hurst; widely shared through Randy Alcorn, Eternal Perspective Ministries)*
 - Young couple called to one village tribe in Africa (~650-700 people), 1920s
 - Tribal chief suspicious, only allowed one boy to sell them eggs/chicken twice weekly
 - ~5 years in, Svea discovers she's pregnant — 4 months travel to get back to Sweden, decide to stay
