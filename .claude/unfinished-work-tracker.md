@@ -208,7 +208,7 @@ These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT b
 | 1 | Paul's Final Letter | 2 Timothy 1:1-2 | ~~Extracted~~ → `2 Timothy 1 1-2 - Paul's Final Letter (raw draft).md` ✓ |
 | 2 | Cultural Marxism / CRT | Romans 10:12-13 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Cultural Marxism.md` ✓ |
 | 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ~~Raw in memory2.md~~ → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` ✓ |
-| 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | Partially extracted (`00c1185`); verify if complete |
+| 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | ~~Partially extracted~~ → `Other-Sermons/Sermons/Eph 3 - The Covenants.md` ✓ (complete Integrity Log present, 6 Scripture corrections + 3 factual notes applied) |
 | 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Col 2 - thanksigiving.md` ✓ |
 | 6 | Prayer | Colossians 4:2-4 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/col 4 - prayer.md` (full version) + `Other-Sermons/Sermons/prayer col 4.md` (prayer service version) ✓ |
 | 7 | Church Membership / Body of Christ | 1 Corinthians 12:12-27 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Commitment to the church body 1 cor 12.md` ✓ |
