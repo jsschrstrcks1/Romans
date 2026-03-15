@@ -572,7 +572,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Hebrews 3:12-4:16 | Rest in the Lord and accountability | `Sermon - Rest in the Lord.md` / `Heb 3.md` | sermon |
-| Hebrews 11:1 / 1 John 4:18 | Fear as opposite of love; trusting God | `heb 11 - fear.md` | sermon |
+| Hebrews 11:1 / 1 John 4:18 | Fear as opposite of love; trusting God; A.W. Pink quote (verified — *Exposition of Hebrews* p.808); grandmother's dark room childhood fear; Hurricane flooding (March '93 — mobile home destroyed, God provided better house); murdered child who lived with family; fear for physical needs / singleness / politics; Romans 13:1 God's sovereignty over governing authorities (corrected NLT→ESV); "Fear is the evidence of things in our heart that we love as much or more than God" (Heb 11:1 echo reversed); testimony service format; Trump/Hillary era (~2017-2020) | `heb 11 - fear.md` | sermon |
 | Hebrews 12:3-17 | God's discipline as training and refining | `Heb 12.md` | sermon |
 
 ### James
