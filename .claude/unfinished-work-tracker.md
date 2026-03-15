@@ -207,7 +207,7 @@ These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT b
 |---|--------|-------------|--------|
 | 1 | Paul's Final Letter | 2 Timothy 1:1-2 | ~~Extracted~~ → `2 Timothy 1 1-2 - Paul's Final Letter (raw draft).md` ✓ |
 | 2 | Cultural Marxism / CRT | Romans 10:12-13 | Raw in memory2.md — needs extraction, cleanup, ESV conversion, verification |
-| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | Raw in memory2.md — needs extraction, cleanup, verification |
+| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ~~Raw in memory2.md~~ → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` ✓ |
 | 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | Partially extracted (`00c1185`); verify if complete |
 | 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | Raw in memory2.md — needs extraction, cleanup, verification |
 | 6 | Prayer | Colossians 4:2-4 | Raw in memory2.md — needs extraction, cleanup, verification |
