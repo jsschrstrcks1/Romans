@@ -345,6 +345,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Ecclesiastes 2:14-26 | What Matters? — vanity (*hebel*) as breath on glass; human wisdom, effort, achievement, human life all vanity; global wealth comparison (Pew Research); gout as "rich man's disease"; *Life After People* TV show; CT Studd cricket/Cambridge/China Inland Mission/Hudson Taylor/Moody/India/Africa; C.T. Studd quotes verified; "Only one life" poem; food pantry / children's program; parenting for eternity; Jer 17:9; 1 Cor 1:25; Isa 55:8-9 | `Ecclesiastes 2 - What Matters.md` | sermon — ✓ CT Studd biography (Cambridge, CIM, Hudson Taylor, Moody donation — all verified); ✓ CT Studd quotes: "rescue shop within a yard of hell," "If Jesus Christ be God and died for me," "Only one life" poem — all verified; ✓ Gout prevalence corrected to 3.9% (NHANES); ✓ Math corrected: 28,835 days (79 × 365); ✓ Jer 17:9 ESV ("desperately sick"); ✓ Isa 55:8-9 ESV ("For as the heavens"); ✓ 1 Cor 1:25 ESV; ❌ "became a doctor" removed — CT Studd was never a physician; ⚠️ Global income stats (Pew 2015, directionally accurate — $20/day = top ~16% not "20%"; 71% not "60%" under $10/day; 25% under $2/day is pre-2015 World Bank figure); ⚠️ Work hours "46 hrs/week, 60% at 50+ hrs" — BLS shows 34–38 average (full-time only runs higher; 60% at 50+ hrs unverified by current data); ⚠️ Dual-income "70%" — current Pew shows ~59% |
 | Ecclesiastes 3:1-8 | Funeral service for Ann Burdette | `Ecclesiastes 3 Ann Burdette Funeral.md` | memorial |
 
 ### Isaiah
@@ -795,6 +796,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Heb 12.md` — Hebrews 12:3-17 — God's discipline as training
 
 ### Children / Parenting / Legacy
+- `Ecclesiastes 2 - What Matters.md` — Ecclesiastes 2:14-26 — "raise up a child in the way he should go"; reading Scripture, praying, discipling as things that last; only 2,500 meaningful days — invest them in your children; parents as living examples of loving God
 - `1 peter 1 - legacies.md` — 1 Peter 1:13-end — Parental spiritual legacy
 - `psalm 78.md` — Psalm 78:1-8 — Remembering God's deeds; teaching children
 - `prov 13.md` — Proverbs 13 — Generation gaps; wise companions
@@ -858,6 +860,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sunday school notes week 2.md` — 1 Cor 13:8-10; John 10:27-28 — Cessation; eternal security
 
 ### Evangelism / Missions / Great Commission
+- `Ecclesiastes 2 - What Matters.md` — Ecclesiastes 2:14-26 — CT Studd: Cambridge cricketer → China Inland Mission (Hudson Taylor); gave away cricket earnings + £29,000 inheritance; £5,000 to Moody (Moody Bible Institute); 10 yrs China, 6 yrs India, ~18 yrs Africa; "rescue shop within a yard of hell"; "if Jesus Christ be God and died for me, no sacrifice too great"; missions as the thing that lasts; food pantry and children's program as local mission
 - `Evangelism.md` — Matthew 28:18-20 — Great Commission
 - `MT 28.md` — Matthew 28:16-20 — Great Commission and evangelism
 - `evangelism (romans 15, mt 28, and rev 7).md` — Mt 28; Rom 15; Rev 7 — Missions priority
@@ -1067,6 +1070,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — Increasing hostility toward Christians; Marxism and church decline; erosion of faith; Paul building a seawall against spiritual erosion (lines 37-55)
 
 ### Stewardship / Time / Money
+- `Ecclesiastes 2 - What Matters.md` — Ecclesiastes 2:14-26 — *Hebel* (vanity); 28,835 days in a life; 2,500 meaningful days left after sleep/work/eating; "only what's done for Christ will last"; CT Studd gave away cricket fortune and inheritance; Pew Research global wealth comparison; American poverty line vs. global context
 - `Sermon - What Survives the Fire.md` — 1 Cor 3:10-15 — 168-hour weekly time audit; checkbook reveals priorities; entertainment vs. kingdom investment; "show me how you spend your money, I'll show you your priorities" (lines 42-60)
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Tipping as Christian witness; fake $20 tracts without real tips; "saving $20 is not worth giving Christ a black eye" (line 116)
 - `Sermon - The List I Burned.md` — 1 Thess 3:12-4:8 — Tipping (recurring); waitresses hate Sundays; Grandma Baker the waitress; charging servers to serve you (lines 96-97)
