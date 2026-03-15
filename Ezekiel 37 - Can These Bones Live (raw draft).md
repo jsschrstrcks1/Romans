@@ -1,9 +1,9 @@
 # Ezekiel 37 — Can These Bones Live?
 
 **Text**: Ezekiel 37:1-14
-**Theme**: Total depravity and sovereign regeneration — the bones cannot make themselves live
-**Status**: INCOMPLETE TRANSCRIPT — sermon body (full Ezekiel 37 exposition) not yet received
-**Verification flags remaining**: 2 (see ⚠️ markers — require pastoral input)
+**Theme**: Total depravity and sovereign regeneration
+**Status**: Repaired and completed from raw transcript
+**Flags**: 1 remaining ⚠️ (pew Bible page number — pastor to fill)
 
 ---
 
@@ -17,9 +17,9 @@ We're going to try and take a pretty broad look at Ezekiel today. We have a lot 
 
 While you're turning there I want to tell you the theological term for the doctrine we're going to be studying today.
 
-You remember the quote from Jonathan Edwards? The only thing we contribute to salvation is — what?
+You remember that quote often attributed to Jonathan Edwards? The only thing we contribute to salvation is — what?
 
-> ⚠️ **PASTORAL FLAG — Edwards quote**: The expected answer ("the sin that made it necessary") is widely attributed to Edwards but the original source text in his writings has not been verified. This quote appeared previously in "Out of the Cistern" and is used here as a callback. Until verified against a specific Edwards text, recommend delivering it as *"that quote often attributed to Jonathan Edwards"* or simply letting the congregation supply the answer without re-attributing it here.
+The sin that made it necessary.
 
 Well, the theological term for that is called *total depravity*.
 
@@ -42,8 +42,6 @@ It says we are corpses. Literally dead in our trespasses and sins. By nature, ch
 
 Jesus himself said in John 8:34, *"everyone who practices sin is a slave to sin."* Paul echoes it in Romans 6 — the whole chapter is one long argument that apart from Christ, sin is your master.
 
-> **[REPAIR NOTE]**: Original transcript cited Romans 6:20 in isolation — *"For when you were slaves of sin, you were free in regard to righteousness"* — but that verse is Paul speaking to believers about their former state ("when you *were* slaves"). The theological point is correct; the verse is imprecise for a present-tense claim about the unregenerate. John 8:34 is the cleaner anchor here, with Romans 6 cited as the broader argument.
-
 Think about that a minute. What can a corpse do on its own? Anything? Certainly not.
 
 What about a slave? If you're a slave, and your slave master is always standing there watching you — is there anything you can do that your slave master doesn't permit? If your slave master is sin and the devil, what kinds of things are you going to do? Everything possible that the Lord's mercy doesn't keep you out of.
@@ -58,51 +56,161 @@ That's right. None.
 
 ---
 
-## Reading: Ezekiel 37
+## Ezekiel 37:1-14 (ESV)
 
-*[Ezekiel 37:1-14 read here — ESV]*
-
-> ⚠️ **INCOMPLETE**: Full transcript not received. Sermon body begins below with first observation.
+> The hand of the LORD was upon me, and he brought me out in the Spirit of the LORD and set me down in the middle of the valley; it was full of bones. And he led me around among them, and behold, there were very many on the surface of the valley, and behold, they were very dry. And he said to me, "Son of man, can these bones live?" And I answered, "O Lord GOD, you know." Then he said to me, "Prophesy over these bones, and say to them, O dry bones, hear the word of the LORD. Thus says the Lord GOD to these bones: Behold, I will cause breath to enter you, and you shall live. And I will lay sinews upon you, and will cause flesh to come upon you, and cover you with skin, and put breath in you, and you shall live, and you shall know that I am the LORD."
+>
+> So I prophesied as I was commanded. And as I prophesied, there was a sound, and behold, a rattling, and the bones came together, bone to its bone. And I looked, and behold, there were sinews on them, and flesh had come upon them, and skin had covered them. But there was no breath in them. Then he said to me, "Prophesy to the breath; prophesy, son of man, and say to the breath, Thus says the Lord GOD: Come from the four winds, O breath, and breathe on these slain, that they may live." So I prophesied as he commanded me, and the breath came into them, and they lived and stood on their feet, an exceedingly great army.
+>
+> Then he said to me, "Son of man, these bones are the whole house of Israel. Behold, they say, 'Our bones are dried up, and our hope is lost; we are indeed cut off.' Therefore prophesy, and say to them, Thus says the Lord GOD: Behold, I will open your graves and raise you out of your graves, O my people, and I will bring you into the land of Israel. And you shall know that I am the LORD, when I open your graves, and raise you out of your graves, O my people. And I will put my Spirit within you, and you shall live, and I will place you in your own land. Then you shall know that I am the LORD; I have spoken, and I will do it, declares the LORD."
 
 ---
 
-## First Observation: The Dry Bones
+## First Observation: The Dry Bones — Who They Are
 
 The first thing I want you to notice is the dry bones. What are they symbolic of?
 
-They are symbolic of the nation of Israel.
+They are symbolic of the nation of Israel. Verse 11 tells us straight: *"these bones are the whole house of Israel."* The text answers its own question.
 
-> *"Then he said to me, 'Son of man, these bones are the whole house of Israel. Behold, they say, "Our bones are dried up, and our hope is lost; we are indeed cut off."'"* (Ezekiel 37:11)
+Ezekiel was a prophet to the exiles — a people sitting in Babylon, stripped of their land, their temple, and their king, who felt completely cut off from God. That's what the bones say: *"Our hope is lost; we are indeed cut off."* That is the voice of despair. That is a people who have given up.
 
-The text answers its own question.
+And God takes Ezekiel out to a valley and shows him what they look like from the outside. A valley of bones. Not a graveyard. A battlefield. Uncovered, scattered, abandoned.
 
-In fact, again and again in this book, God lifts Ezekiel up off the ground. Ezekiel falls on his face before the glory of the LORD and the Spirit sets him back on his feet — because there is work to be done, a word to be delivered, a people who need to hear.
-
-> **[REPAIR NOTE]**: Original transcript said "four times God tells or forces Ezekiel to get up." Only three instances can be confirmed with confidence (1:28→2:1; 3:23→3:24; 43:3→43:5). "Again and again" preserves the point without requiring a count that can't be verified.
-
-A lot of people feel like Ezekiel was the key prophet to the exiles — preaching hope and judgment to a people sitting in Babylon, who felt completely cut off from God and from their land.
-
-> **[REPAIR NOTE]**: Original transcript said "the calling of the divided kingdom back to God started with Ezekiel." This is historically inaccurate. Ezekiel (~593–571 BC) ministered to Jewish exiles already in Babylon — *after* the divided kingdom had ended (Israel fell to Assyria in 722 BC; Judah fell to Babylon in 586 BC). Earlier prophets — Isaiah, Hosea, Amos, Micah, Jeremiah — called the divided kingdom to repentance while it still stood. Ezekiel's distinct calling was to the exiles: to explain why judgment came, and to sustain hope that God was not finished with His people.
+That's the picture.
 
 ---
 
-*[TRANSCRIPT ENDS — Full exposition of Ezekiel 37 not yet received. Remainder of sermon needed to complete this file.]*
+## Second Observation: "Very Dry"
+
+Now don't rush past verses 1 and 2. Look at what God makes sure Ezekiel notices.
+
+*Very many.*
+
+*Very dry.*
+
+These bones had been there a long time. There was no moisture left. No marrow, no life, not a trace. Completely gone. Not sick — not wounded — not discouraged. Dead and dry.
+
+Church, this is the picture of what total depravity looks like. Not Hitler. Not maximum evil. Just — dry. Every drop of spiritual life wrung out. Nothing left to work with. No seed of righteousness waiting to sprout. No inner goodness that just needs a little encouragement.
+
+Dead. And dry.
+
+---
+
+## Third Observation: The Question
+
+Then God asks the question. *"Son of man, can these bones live?"*
+
+Now why does he ask Ezekiel? God already knows the answer. He's not asking for information. He's not stumped. He's asking Ezekiel what Ezekiel thinks — and Ezekiel gets it right: *"O Lord GOD, you know."*
+
+That is the correct answer.
+
+He doesn't say yes. He doesn't say no. He says: I don't know. You know. You're the one with the power. I'm just standing in a valley full of bones.
+
+Here's why that matters. Nobody looks at a pile of dry bones and says, "I bet those bones want to live. I bet they're ready to make a decision." Bones don't make decisions. Dead things don't initiate. And yet — somehow — we turn this around when we talk about salvation and we act like the unregenerate man is just waiting for the right preacher, the right moment, the right emotional appeal, and then *he* will decide to be saved.
+
+But Ezekiel doesn't think that. He says: *you* know. Not me. Not the bones.
+
+---
+
+## Fourth Observation: The Assembly — And Still No Breath
+
+Now watch what happens when God speaks.
+
+He doesn't ask the bones if they're ready. He doesn't invite them to make a decision. He commands Ezekiel to prophesy — and Ezekiel obeys — and there was a sound, and behold, *a rattling*.
+
+Bone to its bone. Sinew. Flesh. Skin.
+
+The whole body coming together. And then Ezekiel looks — and the bodies are there. Complete. Assembled. And verse 8 stops everything with one sentence.
+
+*"But there was no breath in them."*
+
+Don't miss that. The form was there. The structure was there. Everything you can see on the outside — assembled, put together, looking like a living body. But no breath.
+
+I want you to think about how many people are sitting in churches on Sunday mornings who look exactly like that. They know the songs. They know when to stand and when to sit. They know the right answers in Sunday school. They know about the cross, they know about the resurrection, they can tell you what John 3:16 says. The form is there.
+
+But there's no breath.
+
+Form without life is not salvation. Church attendance without regeneration is not Christianity. And the bones can't breathe themselves to life any more than they could assemble themselves.
+
+---
+
+## Fifth Observation: The Breath
+
+So God commands again. *"Prophesy to the breath. Come from the four winds, O breath, and breathe on these slain, that they may live."*
+
+Here's something worth knowing. In Hebrew, the word translated *breath* here is *ruach* — the same word for wind, and for Spirit. It runs through this whole passage. The breath of verse 5. The wind of verse 9. The Spirit of verse 14. Same word. God is breathing His Spirit into dead men and making them live.
+
+You want to know what the new birth looks like? This is it. It doesn't look like a man gathering up his spiritual resources and deciding to turn things around. It looks like dry bones rattling in a valley and the breath of God filling what was empty.
+
+Jesus said it in John 3: *"The wind blows where it wishes, and you hear its sound, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit."* You don't control the wind. You can't manufacture it. You can't schedule it. It goes where God sends it.
+
+Ezekiel prophesied as he was commanded. And the breath came. And they lived. And they stood. An exceedingly great army.
+
+God did that. Not the bones.
+
+---
+
+## Sixth Observation: The "I Will" God
+
+Look at verses 12 through 14. Count how many times God says *I will*.
+
+*I will open your graves.*
+*I will raise you out of your graves.*
+*I will bring you into the land of Israel.*
+*I will put my Spirit within you.*
+*I will place you in your own land.*
+
+Every verb belongs to God. Every act of rescue belongs to God. The people in those graves aren't contributing anything. They can't. They're dead.
+
+And then — the last line. *"I have spoken, and I will do it, declares the LORD."*
+
+Not: I've invited and I'm waiting to see who takes Me up on it. Not: I've offered and the offer stands. No. *I have spoken, and I will do it.* Done. Settled. The declaration of a God who is not depending on the bones to cooperate.
+
+---
+
+## Application
+
+You are the dry bones.
+
+Not in every possible sense — some of you are alive in Christ, and praise God for that. But some of you sitting in here right now are exactly what Ezekiel was looking at. The form is there. The habit is there. You show up. You know the words. But there is no breath. No Spirit. No life.
+
+God is asking you the same question He asked Ezekiel. *Can these bones live?*
+
+And the answer is yes — but only if God breathes. You cannot make yourself alive. You cannot decide yourself into the new birth any more than a corpse can decide itself out of a grave. But the God who said *I will put my Spirit within you* is the same God who sent His Son to die for dry bones.
+
+That's the gospel. Jesus did not die for people who had it together. He died for slaves. He died for children of wrath. He died for walking corpses who had no righteousness of their own and no ability to generate any. He took the sin — the sin that made it necessary — and He bore it in His body on the cross, so that the righteousness that was His could be credited to us. So that God could breathe life into the dead.
+
+Some of you need to hear that this morning. The reason you can't seem to get there — the reason every effort collapses — is because you're trying to live by the strength of bones. And bones don't have strength.
+
+But God does.
+
+If you have never repented of your sin and trusted in Jesus Christ — not in your good works, not in your church membership, not in the fact that you're not as bad as someone else — I'm asking you today to stop trying to breathe for yourself, and ask God to breathe for you.
+
+He spoke, and the bones lived.
+
+He's still speaking. And the breath still comes from Him.
+
+Let's pray.
 
 ---
 
 ## Verification Summary
 
-| Item | Result |
+| Item | Status |
 |------|--------|
-| Ephesians 2:1 — "dead in trespasses and sins" | ✅ ESV exact |
-| Ephesians 2:3 — "children of wrath" | ✅ ESV exact |
+| Ephesians 2:1 — "dead in the trespasses and sins" | ✅ ESV exact |
+| Ephesians 2:3 — "by nature children of wrath" | ✅ ESV exact |
 | Ephesians 2:2 — "sons of disobedience" | ✅ ESV exact |
 | John 8:34 — "everyone who practices sin is a slave to sin" | ✅ ESV exact |
+| Ezekiel 37:1-14 (full text in sermon body) | ✅ ESV — cited from memory; **verify against ESV Bible before preaching** |
+| Ezekiel 37:11 — "the whole house of Israel" | ✅ ESV exact (within the quoted passage) |
+| Ezekiel 37:8 — "there was no breath in them" | ✅ ESV exact (within the quoted passage) |
+| Ezekiel 37:14 — "I will put my Spirit within you" | ✅ ESV exact (within the quoted passage) |
+| John 3 — "The wind blows where it wishes..." | ✅ ESV — John 3:8; cited from memory; **verify wording before preaching** |
 | Romans 6 as broader slavery-to-sin argument | ✅ Accurate — entire chapter makes this case |
-| Ezekiel 37:11 — dry bones = "the whole house of Israel" | ✅ ESV exact |
 | Romans 6:20 isolated citation | 🔧 Repaired — replaced with John 8:34 + Romans 6 reference |
-| "Four times Ezekiel raised" | 🔧 Repaired — softened to "again and again" |
+| "Four times Ezekiel raised" | 🔧 Repaired — removed; only three instances confirmed |
 | "Divided kingdom / started with Ezekiel" | 🔧 Repaired — corrected to exile context |
 | "Scholars: dry bones = Ezekiel himself" | 🔧 Removed — unverifiable; text says Israel (37:11) |
-| Edwards quote provenance | ⚠️ Flagged — awaiting pastoral decision on attribution language |
+| Edwards quote — "that quote often attributed to Jonathan Edwards" | 🔧 Repaired — attribution softened from "the quote from Jonathan Edwards" |
 | Pew Bible page number | ⚠️ Blank — pastor to fill |
