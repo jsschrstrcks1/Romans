@@ -369,7 +369,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Ezekiel 36:22-32 | Salvation by grace alone for God's glory | `Ezekiel 36.md` | teaching |
-| Ezekiel 37:1-14 | Total depravity and sovereign regeneration; Edwards "contribute to salvation" callback; dead/corpse illustration (Eph 2:1, 2:3); sons of disobedience (Eph 2:2); John 8:34 slaves to sin; enslaved corpse cannot decide; dry bones = whole house of Israel (37:11); Ezekiel as prophet to the Babylonian exiles; **INCOMPLETE TRANSCRIPT** — full exposition not received ⚠️ Edwards quote provenance unverified | `Ezekiel 37 - Can These Bones Live (raw draft).md` | sermon |
+| Ezekiel 37 | Total depravity (R.C. Sproul "radical corruption"); Eph 2:1/2/3 (dead in trespasses, sons of disobedience, children of wrath); John 8:34 slaves to sin; David Ishee / Dalmatian genetic-virus illustration (sin pervasive like DNA); 1 Cor 2:14-16 natural person cannot understand; dirty glasses illustration; dry bones = whole house of Israel (37:11); Hebrew *biq'ah* valley/breach double entendre (⚠️ unverified); Israel's idolatry as cause of exile; Moses glowing (Exod 34); laundry/bleach illustration (encounter with God changes you); new wineskins (Matt 9:17); St. Louis block party / "plenty of Spirit" story; gospel call. Source: `Other-Sermons/Sermons/ezekiel 37.md`. ⚠️ Ezek 37:1-14 ESV text from memory | `Ezekiel 37 - Can These Bones Live (raw draft).md` | sermon |
 
 ### Jonah
 
