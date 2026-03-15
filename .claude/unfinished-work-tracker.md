@@ -42,7 +42,7 @@ The repository has been developed across 21 distinct Claude Code thread families
 **PRs merged**: #56, #59, #67, #73, #79
 **Status**: **Substantially complete** — Romans 1–16 is fully preached and archived.
 **Unfinished**:
-- Romans 7 raw draft still has verification flags (⚠️ Jn 14:16 reference error, MacArthur quote unverified)
+- Romans 7 raw draft: Jn 15:16 corrected ✓; Lk 22:42 corrected ✓; MacArthur reworded to paraphrase ✓; standing items minor (see Part IV)
 - Romans 1 - Psalm 22 raw draft: Rogers/Torrey refs substantially resolved March 2026; Psalm 22:17 cross-reference table needs one correction before printing
 
 ---
@@ -248,14 +248,14 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 |------|-----------|
 | `Proverbs 13 (raw draft).md` | Multiple verification flags on quotes and statistics |
 | `Psalm 2 (raw draft).md` | 11 flags requiring verification: Heb 13:3 may be KJV not ESV; Edwards quote may have transcription error; "Lord" vs "LORD" in Psalm 2 quotes flagged; IDOP date and "53 countries" flagged as needing verification |
-| `Psalm 8 - Hebrews 2 (raw draft).md` | 4 flags: needs ESV conversion, quote verification |
+| `Psalm 8 - Hebrews 2 (raw draft).md` | *(substantially resolved March 2026)* All ESV corrections applied ✓; Ryle quote confirmed ✓; "How He Loves" → McMillan ✓; Deut 32:9 corrected ✓; Caño Cristales corrected ✓. Standing: Platt cab story unverifiable without citation; Edwards quote possibly misattributed (not in Yale critical edition); MacArthur quote is paraphrase of Rom 6:18–19, attribute to text not to MacArthur |
 | `Psalm 119 161-168 (raw draft).md` | 10 flags: multiple quotes and cross-references unverified |
 | `Psalm 68 Part 2 (raw draft).md` | *(substantially resolved March 2026)* Prov 27:17 → ESV ✓; 1 Kgs 18 LORD corrected (confirmed YHWH via BibleHub interlinear) ✓; prophet count → 850 (450 Baal + 400 Asherah) ✓; Elijah timeline flag updated with specific phase breakdown (Cherith ~months; Zarephath ~2+ years; total 3.5 yrs). One standing item: body text "alone, in a desert, for a few years" is imprecise — needs rewording when polishing for print. MacArthur/Japan narrative: historically accurate in substance; specific missionary request count (~10,000) should be verified if citing in print. |
 | `1 Thess 5 - Rejoice Always (raw draft).md` | 7 flags requiring verification: Spurgeon quote source unverified; "3 million French" figure flagged as possibly overstated; "Communists defeated" claim flagged as needing historical verification |
 | `Philippians 4 (raw draft).md` | 16 flags: extensive verification needed |
 | `Romans 1 - Psalm 22 (Prophecy raw draft).md` | *(substantially resolved March 2026)* Rogers "108 OT refs" ✓ sermon #2299 Love Worth Finding; Torrey "300 OT refs" partially confirmed (The New Topical Text Book 1897); Romans 10:9 ESV ✓; Deut 18:20-22 ✓. Standing items: (1) Psalm 22:17 → John 19:31-36 "bones not broken" — incorrect cross-reference; John 19:36 cites Psalm 34:20, not Psalm 22:17; correct the table before printing; (2) "68% accuracy" modern prophet stat — no source, do not cite; (3) debate/voting intro is politically dated — review before re-preaching |
-| `Romans 7.md` | 4 flags: Jn 14:16 reference error (should be 15:16); MacArthur quote unverified |
-| `Romans 3 - antinomianism draft.md` | 3 flags |
+| `Romans 7.md` | *(substantially resolved March 2026)* Jn 15:16 corrected ✓; Lk 22:42 corrected to exact ESV ✓; MacArthur reworded to paraphrase ✓; John 15:12-17 ✓; 1 Cor 11:23-26 ✓. Standing: Phil 2:8 KJV phrasing in body (paraphrase not quote — polish when reprinting); Tesla resonance story flagged as disputed illustration; "3 in 5 dieters" stat unverified |
+| `Romans 3 - antinomianism draft.md` | *(substantially resolved March 2026)* All fabricated laws removed ✓; Noushad case corrected (sentence not carried out — victim forgave) ✓; Scripture citations corrected ✓. Standing: John Brown quote in Pending Verification section — Archive.org 403'd, cannot confirm; do not preach until verified against physical copy of *Analytical Exposition* (Edinburgh: Oliphant & Co., 1857) |
 
 ---
 
@@ -335,7 +335,7 @@ These items could be resolved in a single session each:
 1. **Extract remaining memory2.md sermons** — 9 sermons need standalone file extraction, cleanup, and mapping
 2. **Resolve Sola Christus 2024 incomplete draft** — needs Scripture reference and three-role exposition completed (or marked as permanently incomplete if the 2020 version is the authoritative one)
 3. **Resolve Thankfulness sermon** — request remainder of transcript from pastor
-4. **Fix Romans 7 reference error** — Jn 14:16 should be 15:16
+4. ~~**Fix Romans 7 reference error** — Jn 14:16 should be 15:16~~ ✓ Completed March 2026; Lk 22:42 also corrected to exact ESV
 5. ~~**Convert NIV/KJV quotes to ESV** in raw drafts (Psalm 2, Psalm 68 Part 2, 1 Thess 5)~~ ✓ Completed
 
 ---
