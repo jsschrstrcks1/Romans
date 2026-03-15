@@ -43,7 +43,7 @@ The repository has been developed across 21 distinct Claude Code thread families
 **Status**: **Substantially complete** — Romans 1–16 is fully preached and archived.
 **Unfinished**:
 - Romans 7 raw draft still has verification flags (⚠️ Jn 14:16 reference error, MacArthur quote unverified)
-- Romans 1 - Psalm 22 raw draft has multiple unverified references (Adrian Rogers 108 OT refs, R.A. Torrey 300 OT refs)
+- Romans 1 - Psalm 22 raw draft: Rogers/Torrey refs substantially resolved March 2026; Psalm 22:17 cross-reference table needs one correction before printing
 
 ---
 
@@ -253,7 +253,7 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 | `Psalm 68 Part 2 (raw draft).md` | *(substantially resolved March 2026)* Prov 27:17 → ESV ✓; 1 Kgs 18 LORD corrected (confirmed YHWH via BibleHub interlinear) ✓; prophet count → 850 (450 Baal + 400 Asherah) ✓; Elijah timeline flag updated with specific phase breakdown (Cherith ~months; Zarephath ~2+ years; total 3.5 yrs). One standing item: body text "alone, in a desert, for a few years" is imprecise — needs rewording when polishing for print. MacArthur/Japan narrative: historically accurate in substance; specific missionary request count (~10,000) should be verified if citing in print. |
 | `1 Thess 5 - Rejoice Always (raw draft).md` | 7 flags requiring verification: Spurgeon quote source unverified; "3 million French" figure flagged as possibly overstated; "Communists defeated" claim flagged as needing historical verification |
 | `Philippians 4 (raw draft).md` | 16 flags: extensive verification needed |
-| `Romans 1 - Psalm 22 (Prophecy raw draft).md` | 8 flags requiring verification: Adrian Rogers "108 OT refs" claim flagged as unverified; R.A. Torrey "300 OT refs" claim flagged as unverified |
+| `Romans 1 - Psalm 22 (Prophecy raw draft).md` | *(substantially resolved March 2026)* Rogers "108 OT refs" ✓ sermon #2299 Love Worth Finding; Torrey "300 OT refs" partially confirmed (The New Topical Text Book 1897); Romans 10:9 ESV ✓; Deut 18:20-22 ✓. Standing items: (1) Psalm 22:17 → John 19:31-36 "bones not broken" — incorrect cross-reference; John 19:36 cites Psalm 34:20, not Psalm 22:17; correct the table before printing; (2) "68% accuracy" modern prophet stat — no source, do not cite; (3) debate/voting intro is politically dated — review before re-preaching |
 | `Romans 7.md` | 4 flags: Jn 14:16 reference error (should be 15:16); MacArthur quote unverified |
 | `Romans 3 - antinomianism draft.md` | 3 flags |
 
@@ -268,7 +268,7 @@ The sermon-map.md contains **46+ entries** with ⚠️ flags indicating unverifi
 - `Psalm 2 (raw draft).md` — 11 flags
 - `Psalm 119 161-168 (raw draft).md` — 10 flags
 - `Study - Joseph as a Type of Christ (typology reference).md` — 10 flags
-- `Romans 1 - Psalm 22 (Prophecy raw draft).md` — 8 flags
+- `Romans 1 - Psalm 22 (Prophecy raw draft).md` — substantially resolved March 2026; standing: Psalm 22:17/"bones not broken" cross-reference needs table correction; "68%" stat uncitable; voting intro dated
 - `1 Thess 5 - Rejoice Always (raw draft).md` — 7 flags
 - `Psalm 68 Part 2 (raw draft).md` — substantially resolved March 2026; 1 standing item (Elijah timeline phrasing) for print polish
 - `Sermon - Faithful and God-Fearing.md` — manuscript substantially polished; major errors corrected in end notes (king succession, Xerxes-Cyrus, 50→52 days, NIV→ESV for Isa 45/Luke 12:5); standing items: (1) Gospel presentation not developed — must complete before preaching; (2) Pascal's Wager section not developed; (3) Dr. Alvin Reid quote — exact source unverified; (4) Great Wall bribery number — unverifiable, already qualified in body
