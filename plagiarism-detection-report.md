@@ -184,7 +184,74 @@ This is **not plagiarism** — it is the documented and intended workflow of the
 
 ---
 
-## SECTION 5: Conclusion
+## SECTION 5: New Sermons Added After Initial Report (March 2026 Update)
+
+The following sermons were added to the repository after the initial plagiarism scan. Each has been read in full and cross-checked against the existing corpus.
+
+### 5.1 Romans 15 — "Carry Water" (`Other-Sermons/Sermons/Romans 15 - Carry Water.md`)
+
+**Verdict: No plagiarism. Proper attribution throughout.**
+
+| Item | Status |
+|---|---|
+| Gulf War lieutenant/sergeant story | ⚠️ Source unverified — the sermon itself flags this: "circulated in preaching contexts but origin not traced to a named publication." Not found in any other sermon in the corpus. **Original to this sermon.** |
+| Psalm 34:8 | Correctly cited (ESV verified) |
+| John 4:14 (living water) | Correctly cited (ESV verified) |
+| Matthew 26:53 (legions of angels) | Correctly cited (ESV verified) |
+| Colossians 3:3 ("hidden with Christ in God") | Correctly cited. **Recycled** — appears in 13+ other sermons (see Section 2.1). Standard repertoire. |
+| "He paid a debt he did not owe" formulation | Common preaching aphorism, no attribution needed |
+| Proverbs 27:17 ("iron sharpens iron") | Correctly cited. Raw notes had NIV form — corrected to ESV in processed version |
+
+**Recycled content from other sermons:** Colossians 3:3 theme only. The "carry water" illustration, Gulf War story, and "He is the water" turn are all unique to this sermon.
+
+**Duplicate status:** This is a distinct earlier treatment of Romans 15:1-3, separate from the primary "Night Is Far Gone" series manuscript (`Romans 15a`). Both cover the same passage from different angles — this one on bearing with the weak, the primary on welcome and Gentile inclusion. Not a duplicate.
+
+---
+
+### 5.2 The Measuring Stick — 2 Timothy 3:14-17
+
+Three versions exist:
+- `Other-Sermons/Sermons/2 Tim 3 14-17 - The Measuring Stick (raw transcript).md` — minimal raw transcript
+- `Other-Sermons/Sermons/2 tim 3.md` — expanded polished version with verification notes (217 lines)
+- `Sermon - The Measuring Stick.md` — root-level polished version (151 lines)
+
+**Verdict: No plagiarism. Proper attribution with flagged items.**
+
+| Item | Status |
+|---|---|
+| Tim Keller: "If your god never disagrees with you…" | Attributed. Verified via Keller's Twitter/X and Gospel Coalition. **Recycled** — appears in 5+ other sermons (Romans 10, Psalm 19, etc.). Properly attributed each time. |
+| R.C. Sproul paraphrases (studying Scripture, loving God's word) | Honestly presented as paraphrases, not direct quotes. Consistent with Sproul's published teaching. Specific source not identified. |
+| Al Mohler: "truthfulness and trustworthiness…" | ⚠️ Attributed to Mohler but exact source unconfirmed. May come from *Did God Really Say?* (P&R, 2012), ed. David B. Garner — possibly not Mohler directly. Fair for spoken delivery; verify before publication. |
+| "Another man" who prefers "infallibility" | ⚠️ Speaker unidentified. Consistent with Greg Boyd or Donald Bloesch — both hold views diverging from traditional Baptist inerrancy. Caution if using in inerrancy context. |
+| 1689 LBCF 1.1 (long quote) | Correctly quoted in modern English rendering. Substance verified against original. |
+| Thomas Helwys 1611 quote | Correctly quoted. Verified: Article 9 of *A Declaration of Faith of English People Remaining at Amsterdam in Holland* (1611). |
+| BFM 2000 Article 1 | Text matches published statement exactly. |
+| Chicago Statement on Biblical Inerrancy | Real document (1978). The claim it was "signed by the leadership of every major denomination" is overstated — ~300 individual scholars signed, not denominational officials. Flagged in corrections log. |
+| Canon/reed/measuring stick etymology | **Original to this sermon.** Not found elsewhere in corpus. |
+| "Filthy rags" (Isaiah 64:6) | Standard theological language appearing in 59+ files. Not a plagiarism concern. |
+
+**Corrections log items** (already flagged in the sermon files):
+1. Psalm 119:89, 105, 140 parenthetical summaries — inaccurate, correction noted
+2. "1689 is more or less a copy of Westminster" — overstated, correction noted
+3. "New Hampshire and Philadelphia are basically just the 1689 re-worded" — partially false for New Hampshire, correction noted
+4. Chicago Statement denominational signing claim — overstated, correction noted
+5. Al Mohler quote — unverified exact source, flagged
+6. Communion passage reference absent in original transcript — added in processed version
+
+---
+
+### 5.3 Summary of New Sermon Findings
+
+| Sermon | External Plagiarism | Recycled Content | Unverified Attributions |
+|---|---|---|---|
+| Romans 15 — Carry Water | None | Col 3:3 only (standard) | Gulf War story source |
+| The Measuring Stick (2 Tim 3) | None | Keller quote (5+ sermons) | Mohler quote, unnamed "infallibility" theologian |
+
+**No new plagiarism concerns.** Both new sermons follow the same attribution patterns as the rest of the corpus — quotes attributed, external sources cited, personal stories clearly personal.
+
+---
+
+## SECTION 6: Conclusion
 
 ### No Plagiarism Found
 
