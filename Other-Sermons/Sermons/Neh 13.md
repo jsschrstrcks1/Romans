@@ -1,61 +1,203 @@
-Open your bibles with me to Nehemiah ch 13 vs one if you’ve brought your bibles, and I hope you have. While you’re turning there, I want to talk to you about something that struck me while listening to another preacher on this passage tonight, that after the destruction of the temple the first leader of the Israelites took Israel out of Babylon, but couldn’t take Babylon out of the people. Ezra, likewise the second leader of the Israelites after the destruction of the temple returned to the people the word of God, but couldn’t make the people follow it, and finally Nehemiah – who comes at the very end of the recorded biblical history for Israel was able to secure the wall against outsiders who didn’t follow God, but that wall offered no protection against the insiders who were not following God. No protection against idolatry, against violating God’s precepts, and his commands through the Mosaic law. You’ve all heard the saying you can lead a horse to water, but you can’t …. What – someone tell me. Likewise it shed a new light on that passage where paul wrote in 1 cor 3:6 I planted, Apollos watered, but God gave the growth. Zerubabel led them out of Babylon, Ezra restored to them the word of God, Nehemiah helped build the wall, instituted worship, rebuilt them as a people with an identity, pointed them in the right direction regarding scripture, and corporate worship. But what happens as soon as he leaves town? 
+# Nehemiah 13:1-14
+## "What the Goldsmith Sees"
 
-Read vs 1-14
+*Primary Text: Nehemiah 13:1-14*
+*Theme: Outward conformity is not holiness; clean your temple; be a gatekeeper for those in your care; face tribulation rather than retreat from it; genuine vs. counterfeit faith before God*
 
-Were going to stop reading there – the rest of the chapter is largely talking about the ways in which Israel had returned to sin during Nehemiahs 10 year absence. It is most likely that Ezra died in Nehemiahs absence. Some of the sins they return to are some of the ones Ezra fought hard against as you can read in the book of Ezra. Any way, Nehemiah now in his seventies comes back to find a number of startling thigns. Firstly we have Tobiah moving into the temple. Remember tobiah? Who can tell me about tobiah? That’s right enemy of God. As soon as Nehemiah leaves, he moves right into the temple. Because his cousin is reffered to in the NIV as “the priest” but we know not only from the Hebrew, but from historians that that the cousin was not only a priest, but indeed was THE priest, the high priest. A lifetime appointment. Not only had he let the enemy of God set up camp in the Temple, but the nations tithe which were meant to support the levites as they served the Lord were being abused. Stolen by the officials of the city. Not only that, but they had forsaken the Sabbath. They were gathering grain, keeping markets open, crushing grapes in the winepress. That’s a difficult job, making wine. Kind of gross too. They filled a round vessel up with grapes, put some cheese cloth over a drain in the side, and then marched around in circles barefoot until all the grapes and been pressed into juice, the juice infected with a local strain of bacteria, then bottled, and left to age. 
+---
 
-Sanballat had managed to get his hooks into Israel as well. He married off one of his daughters to one of the sons of the high priest. Nehemiah’s position on this is clear – vs 29 says Remember them o my god because they have desecrated the priesthood and the covenant of the priesthood and the Levites. 
+### People Group of the Week
 
-One author said that, inviting Tobiah to live in the Jewish temple was like inviting a possum to live in the chicken coup. Stephen Davey wrote that Sometimes that is how the enemy of God’s people works. Another author commented, Even to this day, Satan does not always fight churches, sometimes he joins them. Nehemiah reminds me of our Lord, who came into the temple cracking a whip. He ran all of the merchants extorting the people out of the temple property, turning over their tables and driving them out. Notice verses 8 and 9. And it was very displeasing to me, so I threw all of Tobiah’s household goods out of the room [suite]. Then I gave an order and they cleansed the rooms; and I returned there the utensils of the house of God with the grain offerings and the frankincense. Can you see Nehemiah? As soon as he sees what is happening, he throws out all of Tobiah’s clothes, his furniture, his razor, and his bathrobe. He hauls it all out and then, has the rooms ceremonially fumigated. One author commented that, Nehemiah didn’t even want the smell of Tobiah hanging around.
-Nehehmiahs reaction to all of these things was quick and severe. He confronted them. We don’t see any of the measured responses of his younger years. He doesn’t go to the Lord in prayer first, or take council with himself first. He confronts them first. He cursed some of them, vs 25 pulled out their hair and by the force of his fists forced them to take oaths that they would never again take wives or husbands from the ranks of the enemies of God that surrounded them. He spent –perhaps most of the rest of his days fighting to keep Israel pure, and holy as God would have them to be. Fighting to keep them from following solomans example in marrying foreign women and being led into their sin and idolatry. Fighting to keep the appropriate offerings and tithes in place. HE fought with everything HE had in him to pull Israel back to holiness. But ultimately who was all of that up to? 1 cor 3:6 I planted, Apollos watered, but God gave the growth. Zerubabel and Ezra Planted, Nehemiah watered, but who gives the growth? God gives the growth. 
+*(Insert people group focus here)*
 
-The best Nehemiah, or Ezra, or Paul, or any man can do is enforce outward conformity. But Outward conformity to holiness is not the same as being holy. This is a common thought in certain religions around us that our thought life doesn’t matter, the evil things that go on in our heart,  that our sin nature doesn’t matter as long as we look good on the outside the inside doesn’t matter. 
+---
 
-That reminds me of a story, have you ever read the books from sea to shining sea or his other book the light and the glory? One of the stories told in that book is of all the gold some of the early citizens mined. They saved up and saved up and saved up Gold. Some of the people mined gold as their principal responsibility. They had finally mined enough gold to fill three large ships. So when the ships returned from Europe with their supplies, they loaded them full of Gold, anticipating a great payout when they reached Europe. Perhaps they could purchase their own ships, or any of a thousand things the fledgling colonies would have needed and been unable to produce at that point in time. So they shipped off all this Gold that they had spent too much time mining. The following year when the ships returned all they had earned for their efforts was two or three gold coins. You see while what they had been mining looked like Gold, when a goldsmith saw it, measured it, weighed it, and thoroughly checked it, what they had sent turned out not to be Gold at all, but was instead fools Gold. It may have conformed on the outside to the appearance of Gold, but on the inside where it mattered it was not Gold at all. In that way they had wasted the better part of two years effort producing something that was better served being tossed into the sea for all of the wealth it brought them. Likewise, holiness, an external conformity to holiness is not the same thing as being transformed by a relationship with the true and holy God. You can’t encounter God in truth and his perfect holiness and come away unchanged. 
+### Opening — The Arc of Three Leaders
 
-Remember moses, he didn’t even fully see God, just the shadow of his glory, and moses face glowed for the rest of his life. We know most of each others testmonies here as well – Kenny Duffield encountered the Lord, and knew he needed to throw away the bottle. God freed him from alcoholism. We know Kurts story as well, the people he ran around with, the things he used to do, but look at how the Lord has worked in his life! The kurt from 15 years ago, would you have expected him to be sitting in church, lap full of little kids loving this kind, gentle giant of a man? When you truly encounter God, it leaves a mark. Relationship with God is transformational internally, and that does have an effect on your actions. 
+Open your Bibles with me to Nehemiah 13, verse 1. While you're turning, I want to share something that struck me while thinking through this passage.
 
-Stephen Davey raised another point that is worth repeating. He points out that Nehemiah never lollygags when dealing with sin in the temple. As soon as he sees it he drives it off. He doesn’t even want the aroma of sin to persist. He fights it with every bit of his strength. Hitting, pulling hair, and so on. All the instant it becomes known.  Davey says that in accordance with 1 cor 3:16 we are the temple of God. And according to vs 16 your body is the temple of the holy spirit. I want you to ask yourself, how do you deal with Sin in your temple? Have you set up a room for the enemy of God in your heart? Something that doesn’t belong in the temple of God? Maybe Lust or Pride or dishonesty? 
+There's an arc across the post-exile history of Israel that I hadn't seen clearly until recently. Three leaders. Three moments. Each one faithful. And each one running into the same wall.
 
-I dealt with a situation one time, where a little girl pooped herself and lied about it. When stuff like that happens, its pretty apparent. There is the smell, and the wet pants, and well you get the idea. She was a mess. The same child looked me in the eye and lied about what she had done. No no no, I’m fine, nothing happened. I didn’t do anything like that. Ultimately I called on a woman to intercede with the child, and help her get cleaned up. But do we not do the same thing with God? I asked a moment ago about how you deal with the sin in your temple. God knows what sin is there. Maybe pride, or a hundred other things. But most peoples first inclination is going to be towards self justification. I’m not that bad. I don’t really have a sin problem. I don’t have any bad odors in my temple that need cleaned out. Maybe you really believe that. But God sees and knows the truth. We have all soiled our temple, and sometimes the smell of your sin is overwhelmingly bad. Nehemiah would go to war fighting with everything he has against that sin. What will you do about it?
+Zerubbabel led the first wave of exiles out of Babylon. He could take Israel out of Babylon. But he couldn't take Babylon out of Israel.
 
-So Nehemiah was able to secure the city from outsiders, but was unable to secure the city against the persistence of Sin. 
+Ezra returned to the people the Word of God — restored it, read it publicly, explained it, wept over Israel's sin. He gave them back the Scripture. But he couldn't make them obey it.
 
-Secondly, he appointed the levites as gatekeeps on the Sabbath. It was clear that they were struggling too much with the temptation to buy and sell on their day of rest, so in order to help enforce it he added to the list of duties of the levites. They became gatekeepers. In fact the first couple times Nehemiah helped with that duty himself. He even threatens to punch their lights out in vs 20 and 21 if they don’t stop coming on their day of rest. 
+Nehemiah — coming at the very end of recorded biblical history for Israel — secured the wall. He rebuilt the city. He reestablished worship, drove off enemies, reorganized the people, pointed them back toward the Lord. But as soon as he leaves town, watch what happens.
 
-It struck me that anyone in any kind of leadership position is a gatekeeper in a way. Parents especially are to help keep temptation away from their children. It can be a difficult job. I was reading an article a few months back about the childrens video game roblox. I guess its kind of like minecraft for those of you unfamiliar it’s a sandbox building game. You have blocks and you can build different things as you go. In any event this article went on to talk about a man that was arrested for lude and lascivious acts against a minor that he had met on this game. They think there may be more than one, they are investigating. He had developed a relationship with this kid online, and through clever use of technology discovered the kid lived in the same town, what school the kid went to, and his schedule. He had planned to kidnap the child, but thanks to the vigilance of the parents they caught on to this guy, and had the police show up instead. They caught this man red handed. The author of the article went on to say that she had posed as an 8 year old boy and within 20 minutes of playing this game online she had been sexually solicited several times, told to disrobe and lay down on this game bed, where the pervert proceeded to try and simulate sexual acts on someone he thought was a child. All on a simple childrens video game based on the wholesome concept of a simple sandbox. The threats to our kids are plentiful. One that was tolerated when I was growing up by the other children of my generation is now being embraced by the kids of this upcoming generation and that is the sin of homosexuality. When I was a kid, girls would kiss other girls to get the attention of a boy, or vice versa. no one thought anything was meant by it, most of us kind of rolled our eyes at it, and now some of these same people are having kids. I know of a kid whose mother was encouraging him to be gay. Another young girl I know her mother is actively trying to convince her to be a lesbian. A kid I grew up with, now, as an adult, has declared shes a lesbian and refuses to be friends with anyone who doesn’t accept the lie that Jesus wants her to be gay. Needless to say, she unfriended me. Scripture is completely against homosexuality not only in the old testament but also in the new. This idea that people are born that way, is pseudoscience. There was a conference in the last few decades that declared gay to be ok, and that people are born that way, and that its not a deviant behavior. Did you know that out of all of the attendents of this conference only two were not themselves gay, or the parent of someone who identified that way? Talk about the possum in the henhouse. But now its accepted as fact, and this gender ambiguity has led to people thinking there are 12billion genders. Let me tell you what, scripture says that God created them Male and Female. Have you ever seen God do something half way? He doesn’t. If God does something he does it right. He didn’t accidently create half men, or people without genders, or people with fluid genders, or men in womens bodies or women trapped in mans bodies. He did allow us the option to sin however, so when something goes sideways do you think its more likely to be God messing up, or more likely to be the result of the corrupting influence of Sin? Clearly sin! Scripture talks about in Romans that there is a clear downward spiral of things God gives you over to, with homosexuality being one of the last. God condemns homosexuality in both the old and new testaments. Would he condemn something he created? Certainly not. He condemns sin, he condemns concepts encouraged by our enemy to cause confusion, and pain. Any way.
+You've all heard the saying: you can lead a horse to water, but you can't make him drink. This is the Zerubbabel, Ezra, and Nehemiah story. It sheds new light on what Paul wrote in 1 Corinthians 3:6:
 
-Another vector of attack is through pornography. Focus on the family released an article saying that 90% of 8 year olds have been exposed to pornography on the internet. That 47% of grade school children with email receive pornographic spam in their inbox at least once weekly. Our children are under assault being exposed to things they need not be at younger and younger ages. Before they are equipped mentally and emotionally to understand what it is they are seeing they are having this sin pushed upon them. Its more important than ever to keep the lines of communication clear with our kids. Pornography is linked to poorer performance in school, to erectile dysfunction in adults, and is cited commonly as a cause for divorce. A little bit of protection now, can help save them loads of anguish down the line. Be their gatekeeper and keep an eye on their computer usage. Make sure they are able to stay innocent to these things that plague so many. 
+> *I planted, Apollos watered, but God gave the growth.*
 
-But these are just the start. Imagine how much different your life would have been if you had been taught to avoid alcohol Kenny? or Kurt, if you’d been taught to follow Christ at a young age… what would your life have looked like? 
+Zerubbabel planted. Ezra watered. Nehemiah watered some more. But who gives the growth? God does. Only God does. Which means the best any man can do — the best any pastor, elder, or parent can do — is plant and water. The transformation has to come from somewhere else.
 
-So make sure your temple is clean, be the gatekeeper for those in your care, and 
+Keep that in mind. We'll come back to it.
 
-Thirdly, make a pearl. 
+---
 
-In a commentary on James by a man named Kent Hughes I read the following: Making Pearls
-Life on earth would not be worth much if every source of tribulation were removed. Yet
-most of us rebel against the things that irritate us, and count as heavy loss what ought to be
-rich gain. We are told that the oyster is wiser; then when an irritating object, like a
-bit of sand, gets under the mantle of his shell, he begins covering it with the most precious
-part of his being – and he fashions a pearl. The irritation that it was causing is stopped
-by encrusting it with the pearly formation. Imagine that – a pearl is simply a victory over
-tribulation. 
+### Background — Who Is Tobiah?
 
-How  do we see Nehemiah responding to trouble. He’s getting up there in age. He could probably have justified laying down, and ignoring the trouble back in Jerusalem. He had his old job back. He was in the comfort of his own home. He was done with the political struggles, he was for all intents and purposes retired. 
+*(Raw notes reference — Making Pearls, from Kent Hughes commentary on James [⚠️ VERIFY BEFORE PRINT: Attribution is to Kent Hughes, James: Faith That Works (1991, Preaching the Word). The prose style reads older and Hughes may be quoting a prior writer — confirm whether this is Hughes's own language or a secondary citation. Do not quote verbatim from the pulpit until the primary source is confirmed.] — used in Part 3 below.)*
 
-I’ve known enough people that were close to retirement age to know that retirement is an alluring thing. It calls to people. Rest calls to people. They want to be able to set aside the stress and business that they have been committed to for so long. My dad for instance is coming up on his 40th anniversary with the company he works for. 160-180 hrs a month every month for approaching 500 months. Or some 80-90,000 hours of his life spent in service to anothers goals, and ambitions, and lining their pockets with money. Keeping their machines built, their wire coiled, their computers running even when they push him hard to do the opposite. He’s ready to take a break from that and focus on the things he’s ready to do. He wants to travel, and sing for the Lord, he wants to use the land he has to farm his own meat. He wants to work to expand the kingdom of God rather than the pockets of his employer. 
+Before we read, a quick word on Tobiah. If you've been with us through the book of Nehemiah, you know him. If not, here's the short version.
 
-I expect Nehemiah probably felt similar. He put his life and ambitions aside to do anything and everything he could do to help his people. He quit his job, and moved to his foreign homeland. To put up with being mocked, insulted, and threatened by people from surrounding nations. He dealt with his broken people, trying to build them up as he built up the wall, to forge them back into God’s chosen people. He fought, and cursed, and even pulled hair to accomplish the plan God had for him in Israel with one hand tied behind their backs. He gave everything he had, and at the end of the book he finds out that his people have once more turned their backs on the Lord. 
+Tobiah was an Ammonite official. An enemy of God's people from the beginning of Nehemiah's work. He mocked the wall-builders. He conspired to stop the construction. He sent threatening letters. He tried to lure Nehemiah into a trap. He worked every angle available to him to oppose the work of God in Jerusalem.
 
-At this point it would be easy for him to say he was tired and worn out, that he was done. It would be easy to pretend he didn’t get the letter, and feign ignorance. But that’s not who Nehemiah was. When he got word that things were going sideways, he traveled back to Israel, in his seventies, and went back to work doing the things he knew the Lord wanted him to do. 
+And now, while Nehemiah is away in Persia, Tobiah moves into the temple.
 
-If he was an oyster, the situation in Israel was a mouth full of sand and Nehemiah opened wide and took a bite. I mentioned last week that we know Israel returned to the Lord for a few generations after Nehemiah. We know that from historians because after the book of Nehemiah nothing else is recorded for a period of 400 years of silence from God. That silence is broken by the birth of Jesus Christ. 
+I'm going to let that land for a moment.
 
-One day, hopefully a long time from now, you’re going to be sitting there face to face with God the master goldsmith. Remember the fools gold story I told you about from colonial America? Any way, you’ll be sitting there face to face with God, and he’s going to look at you and he’s going to know whether you belong to Christ or not. He’s going to know whether you are made of Gold, or fools gold. Whether you’re name is written in the lambs book of life. Whetehr you have accepted his sons payment on the cross for your sins, or whether you have rejected Jesus. Failing to accept Jesus is rejecting him. 
+---
 
-When you’re standing there face to face with God. What kind of Gold will he see in you? Will he see a son or daughter, or will he see a lump of useless fools Gold? 
+### Scripture Reading
 
-If you’ve never come to the point in your spiritual life where you’ve accepted Jesus payment for your sins, then the only thing he can see you as is fools Gold. No matter how Good you think you’ve been. The absolute best person in the world that does not have a relationship with Jesus Christ will be told depart from me I knew you not. 
+*Nehemiah 13, verses 1 through 14.*
 
-So as the praise team sings, if you’ve never come to a point in your spiritual life where you’ve asked jesus to pay the price for your sins, then come talk to me.
+> **Nehemiah 13:1-14 (ESV)**
+>
+> On that day they read from the Book of Moses in the hearing of the people. And in it was found written that no Ammonite or Moabite should ever enter the assembly of God, for they did not meet the people of Israel with bread and water, but hired Balaam against them to curse them—yet our God turned the curse into a blessing. As soon as the people heard the law, they separated from Israel all those of foreign descent.
+>
+> Now before this, Eliashib the priest, who was appointed over the chambers of the house of our God, and who was related to Tobiah, prepared for Tobiah a large chamber where they had previously put the grain offering, the frankincense, the vessels, and the tithes of grain, wine, and oil, which were given by commandment to the Levites, singers, and gatekeepers, and the contributions for the priests. While this was taking place, I was not in Jerusalem, for in the thirty-second year of Artaxerxes king of Babylon I went to the king. And after some time I asked leave of the king and came to Jerusalem, and I then discovered the evil that Eliashib had done for Tobiah, preparing for him a chamber in the courts of the house of God. And I was very angry, and I threw all the household furniture of Tobiah out of the chamber. Then I gave orders, and they cleansed the chambers, and I brought back there the vessels of the house of God, with the grain offering and the frankincense. I also found out that the portions of the Levites had not been given to them, so that the Levites and the singers, who did the work, had fled each to his field. So I confronted the officials and said, "Why is the house of God forsaken?" And I gathered them together and set them in their stations. Then all Judah brought the tithe of the grain, wine, and oil into the storehouses. And I appointed as treasurers over the storehouses Shelemiah the priest, Zadok the scribe, and Pedaiah of the Levites, and as their assistant Hanan the son of Zaccur, son of Mattaniah, for they were considered reliable, and their duty was to distribute to their brothers. Remember me, O my God, concerning this, and do not wipe out my good deeds that I have done for the house of my God and for his service.
+
+We'll stop there. The rest of the chapter describes the ways Israel returned to sin during Nehemiah's absence. It's likely that Ezra died while Nehemiah was away in Persia. Some of the sins they fall back into are the very same sins Ezra had fought hard against — you can read about that in his own book.
+
+---
+
+### Part 1 — Clean Your Temple
+
+Look at what Nehemiah does the moment he arrives. He walks into the house of God and finds Tobiah's personal belongings filling a room that was meant to hold the grain offering, the frankincense, the sacred vessels. The room had been emptied to make a suite for his furniture and his razor.
+
+What does Nehemiah do?
+
+He throws it all out. Everything. Hauls it into the street. Then orders the chambers ceremonially cleansed. Stephen Davey, in his Nehemiah commentary, noted that Nehemiah didn't even want the smell of Tobiah hanging around.
+
+One writer described it this way: inviting Tobiah to live in the Jewish temple was like inviting a possum to live in the henhouse. The 20th-century revivalist preacher Vance Havner put a broader version of it in terms I've never forgotten: *"Satan is not fighting churches; he is joining them. He does more harm by sowing tares than by pulling up wheat. He accomplishes more by imitation than by outright opposition."* *(Three-Score & Ten, Fleming H. Revell, 1973)*
+
+The enemy's most effective strategy has never been outright attack. It's infiltration. Accommodation. Getting comfortable in the room.
+
+Nehemiah reminds me of our Lord clearing the temple — driving out the merchants, overturning tables, refusing to tolerate commerce in the house of prayer. The same holy fury. The same refusal to allow the sacred to be cheapened.
+
+---
+
+Now — what is Nehemiah doing when he throws out Tobiah's things? He's enforcing outward conformity. He drives Tobiah out. He restores the vessels. He reorganizes the Levites. He confronts the officials. He threatens the merchants who keep showing up on the Sabbath — verse 21: *"If you do so again, I will lay hands on you."* No measured diplomacy at this stage of life. Just holy indignation, fast.
+
+But here's what outward conformity cannot do. You can drag the furniture out. You can clean the room. You can lock the gate.
+
+And still — in this same chapter — they drift right back.
+
+Because outward conformity to holiness is not the same as being holy.
+
+---
+
+Peter Marshall and David Manuel, in their American history series, tell a story about the early colonies that has always stuck with me. Some of the settlers spent years mining what they believed was gold. They filled three large ships and sent them back to Europe — three ships full of treasure, enough to change everything. When the ships returned, all they had earned for their years of effort was a handful of coins.
+
+What they had spent all that time mining looked like gold. But when a goldsmith weighed it and ran his tests, it came back as iron pyrite. Fool's gold. It conformed on the outside to the appearance of gold. But it wasn't gold. And the difference mattered enormously.
+
+*(Confirm specific volume — The Light and the Glory covers the colonial period and is more likely the source than From Sea to Shining Sea, which covers 1787-1837.)*
+
+External religion can look like holiness. It can smell like it, sound like it, show up on Sunday like it. But God is the goldsmith, and He tests what's real.
+
+The contrast is Moses. He didn't see God fully — only what we might call the trailing edge of His glory, as God passed before him in Exodus 33. And even that was too much for Moses' face. When he came down from the mountain, his face shone. He had been with God, and it left a visible mark. That's what genuine encounter with God does. It doesn't just clean the room. It transforms the person from the inside out.
+
+Most of you know Kenny's story — what the Lord pulled him out of, what his life looks like now. And Kurt. The man some of you knew fifteen years ago would not be recognizable in the man sitting here today — gentle, quiet, kids piled up on his lap like he was furniture. That's not outward conformity. That's what it looks like when someone actually meets God.
+
+---
+
+Paul writes in 1 Corinthians 3:16: *"Do you not know that you are God's temple and that God's Spirit dwells in you?"* And in 1 Corinthians 6:19: *"Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own."*
+
+We are the temple.
+
+Which raises the same question Nehemiah raises when he gets back to Jerusalem: *Why is the house of God forsaken?*
+
+Not the building. You.
+
+I want you to sit with this. Have you given Tobiah a room? Not Tobiah literally — but something that doesn't belong in God's temple. Something you've furnished and made comfortable in a corner of your heart. Lust. Pride. A long-running dishonesty. A bitterness arranged like furniture. You know it's there. God knows it's there.
+
+I dealt with a situation once where a small child had made quite a mess of herself and was working very hard to convince me nothing had happened. Straight in the eye. *Nothing happened. I'm fine.* The evidence in the room told a different story, and everybody knew it. But the denial was sincere.
+
+We do the same thing with God. *I don't really have a sin problem. My temple's fine.* But God sees what's in the room. We have all soiled our temple, and sometimes the smell is overwhelming. Nehemiah went to war with what he found the moment he walked in. He didn't want the aroma of it to linger for another hour.
+
+What will you do about what's in yours?
+
+---
+
+### Part 2 — Be the Gatekeeper
+
+Later in the chapter, Nehemiah appoints the Levites as gatekeepers on the city walls for the Sabbath. The people couldn't handle the temptation on their own — merchants kept showing up at the walls, goods kept changing hands — so he added accountability. He took shifts himself. And for the merchants camping outside hoping to catch a sale, he tells them in verse 21: *If you do so again, I will lay hands on you.* That's not a threat anyone took lightly.
+
+Nehemiah understood something. Sometimes you have to protect people from temptations they can't protect themselves from. That's what a gatekeeper does.
+
+Anyone in a position of responsibility is a gatekeeper in some way. Parents especially. The walls around your children are yours to staff. That's not a guilt trip — it's a calling.
+
+The threats pressing against those walls have never been more sophisticated. I read an article a while back about a children's video game — building blocks, simple graphics, meant for kids. A man was arrested for crimes against a minor he had found and groomed entirely inside that game. He had pieced together the child's real town, school, and schedule through what looked like innocent conversation. The parents caught it. A journalist who tested the platform posed as an eight-year-old and was solicited multiple times within twenty minutes.
+
+The gates need keepers.
+
+And the cultural pressures don't only come through screens. They come through peer groups, through media, through a world working hard to convince your children that what God calls sin is identity. Scripture is clear on what God made: *male and female he created them.* And Romans 1 describes with precision what happens in a culture that turns away from the Creator's design — a downward spiral that Paul is not offering as ancient history but as a present diagnostic. The answer is not to pretend the culture doesn't exist. The answer is to build the wall, staff the gate, keep the conversation open, and stay close.
+
+On that same front: research from Focus on the Family has documented that a significant portion of children are first exposed to online pornography before they are mentally or emotionally equipped to process what they're seeing. Pornography is consistently cited in research as a factor in marital breakdown, adolescent development problems, and adult dysfunction. *(Verify specific statistics against current Focus on the Family research before preaching — exact numbers in this area shift and should be confirmed.)*
+
+Be their gatekeeper. Know what they're watching. Keep the lines open.
+
+Think about it from the other direction. What would have been different for some of you — what roads would you have not gone down — if someone had been at the gate when you were young?
+
+---
+
+### Part 3 — Make a Pearl
+
+There is an illustration in the world of preaching on James 1 — when you encounter it, it stays with you. It goes something like this:
+
+> *Life on earth would not be worth much if every source of tribulation were removed. Yet most of us rebel against the things that irritate us, and count as heavy loss what ought to be rich gain. We are told that the oyster is wiser: when an irritating object, like a bit of sand, gets under the mantle of his shell, he begins covering it with the most precious part of his being and fashions a pearl. The irritation that it was causing is stopped by encrusting it with the pearly formation. A pearl is simply a victory over tribulation.*
+
+*(This illustration appears in preaching literature on James 1. The raw notes attribute it to Kent Hughes — James: Faith That Works, Crossway. Verify the exact passage directly from the book before attributing in print, as this could not be confirmed from available online sources.)*
+
+How does Nehemiah respond when he finds out what has happened in Jerusalem while he was gone?
+
+He could have stayed in Persia. He had earned it. He had poured years into a broken people, fought enemies on all sides, organized and rebuked and prayed and wept and rebuilt. He was older now. He had his position back. The work was done, as far as anyone would have blamed him for thinking.
+
+Retirement calls to people. My dad is coming up on forty years with the same company — forty years of early mornings, long shifts, keeping other people's machines running. He wants to travel. He wants to farm. He wants to sing for the Lord and work for the kingdom rather than someone else's bottom line. That is a good and right desire, and he has earned it.
+
+Nehemiah gets the letter from Jerusalem. He goes back anyway.
+
+He walks back into a city where Tobiah has moved into the temple, the Sabbath has been abandoned, and through the marriage of a grandson of the high priest to Sanballat's daughter, the enemy has threaded his line into the priesthood itself. Verse 28: *one of the sons of Jehoiada, the son of Eliashib the high priest, was the son-in-law of Sanballat the Horonite.* Nehemiah's response in verse 29: *Remember them, O my God, because they have desecrated the priesthood and the covenant of the priesthood and the Levites.*
+
+And then he goes back to work.
+
+He confronts them. He curses them. He beats some of them. Verse 25: *I confronted them and cursed them and beat some of them and pulled out their hair.* He is at an age when a man could be forgiven for declining the fight. He opens his mouth wide and bites down on the sand.
+
+He made a pearl.
+
+We know from historians that Israel returned to the Lord for several generations after Nehemiah. And then Scripture goes silent. Nothing recorded for four hundred years. Four centuries of quiet. And then that silence is broken — not by a prophet, not by a king, not by a new Ezra — but by an angel appearing to a young woman in Nazareth, saying: *Do not be afraid.*
+
+The God who gives the growth is not finished. He never is. And the faithfulness of a man who went back when he could have stayed home was part of what He used to keep the thread uncut.
+
+---
+
+### Gospel
+
+One day you will be face to face with God.
+
+He is the master goldsmith. He knows gold from fool's gold. He knows the real thing from the imitation. He knows who belongs to His Son — whose name is written in the Lamb's book of life, who has received the payment Jesus made on the cross for their sins. And He knows who has made religion without ever making Christ their own.
+
+The best people in the world, who have never received Jesus, will hear: *Depart from me. I never knew you.*
+
+That's not because God is cruel. It's because fool's gold is not gold, no matter how long it has been sitting in the collection plate.
+
+If you have never come to the point where you received Jesus — not as a figure you respect, not as a teacher you admire, but as the Lord who paid what you owed and rose from the dead to prove it — then the only thing the goldsmith will see in you is the imitation.
+
+Tonight, as the music plays, if that's you — don't leave without talking to someone. Come find me.
+
+He is offering you the real thing.
+
+---
+
+*Cross-references: Nehemiah 13:1-14, 20-21, 25, 28-29 | 1 Corinthians 3:6, 16 | 1 Corinthians 6:19 | Romans 1:18-32 | Genesis 1:27 | Exodus 33-34*
+
+*Quotes: Vance Havner, Three-Score & Ten (Fleming H. Revell, 1973) — verified; Stephen Davey, Nehemiah commentary (Charity House, 2012) — confirmed*
+
+*Illustrations: Zerubbabel/Ezra/Nehemiah arc; Tobiah in the temple; possum in the henhouse (source unattributed in notes); Vance Havner (verified); Nehemiah clears the chamber like Christ clears the temple; fool's gold / colonial settlers (Peter Marshall & David Manuel — confirm specific volume; The Light and the Glory more likely than From Sea to Shining Sea); Moses' face shining; Kenny and Kurt testimonies; child who soiled herself; Roblox predator article; pearl-making illustration; dad's retirement; Nehemiah returning in old age; 400 years of silence*
+
+*Flags before print:*
+*— Pearl/oyster illustration: attributed in raw notes to Kent Hughes, James: Faith That Works (Crossway). Check book directly — could not be confirmed from available online sources.*
+*— Fool's gold story: verify specific Marshall-Manuel volume. The Light and the Glory (colonial period) is the more likely source. From Sea to Shining Sea covers 1787-1837.*
+*— Focus on the Family pornography statistics: verify current figures before preaching. Specific percentages in raw notes are potentially outdated.*
+*— Neh 13:28 correction: text says grandson of Eliashib (son of Jehoiada) married Sanballat's daughter, not a direct son of the high priest. Corrected in manuscript.*

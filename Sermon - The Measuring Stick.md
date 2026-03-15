@@ -163,7 +163,7 @@ But all of that starts with a relationship with God.
 
 ---
 
-## Communion
+## Communion — 1 Corinthians 11:23–29 (ESV)
 
 We hold to an open communion at this church. You do not have to be a member to participate. However, Scripture has stern warnings that if you do not believe in Jesus Christ and have not become a Christian, it is not safe for you to participate — you are heaping judgment upon yourself. Likewise, Scripture says we need to examine ourselves before we partake. If you have something against a brother or sister, stop what you're doing and go make things right before you even think about taking communion. If Scripture says that about our relationships with one another, how much more care should we take in examining our walk with the Lord?
 
@@ -188,3 +188,56 @@ Take a moment. Get right with God.
 - **1 Corinthians 11:23–29** — ESV verified against corpus. ✓
 - **2 Timothy 3:14–17** — ESV verified. ✓
 - **Chicago Statement on Biblical Inerrancy** — signed 1978, Chicago. Described in sermon as having been "signed by the leadership of every major denomination that still holds tight to Scripture." This is broadly accurate for its era. Note: the Statement is not distinctively Calvinist — it was signed by figures from a range of evangelical traditions.
+
+---
+
+CORRECTIONS LOG (added by Claude Code)
+Verified against ESV, primary sources, and historical records. Do not preach
+or republish without resolving flagged items below.
+
+1. PSALM 119:89 PARENTHETICAL SUMMARY IS INACCURATE
+   The sermon's BFM verse list summarizes this as "there are consequences for
+   disobedience to God's word." ESV: "Forever, O LORD, your word is firmly
+   fixed in the heavens." The verse is about the permanence of God's word,
+   not consequences for disobedience. Correct the parenthetical.
+
+2. PSALM 119:105 PARENTHETICAL SUMMARY IS INACCURATE
+   Summarized as "God keeps his promises!" ESV: "Your word is a lamp to my
+   feet and a light to my path." The verse is about God's word providing
+   guidance, not about promise-keeping. Correct to: "God's word guides us."
+
+3. PSALM 119:140 PARENTHETICAL SUMMARY IS INACCURATE
+   Summarized as "God is sovereign." ESV: "Your promise is well tried, and
+   your servant loves it." The verse is about the proven trustworthiness of
+   God's word. Correct to: "God's word is proven and trustworthy."
+
+4. "1689 IS MORE OR LESS A COPY OF WESTMINSTER" — OVERSTATED
+   The 2LBCF follows Westminster's structure (via the 1658 Savoy Declaration)
+   and many paragraphs are identical, but it makes substantive Baptist changes
+   on baptism, church government, and covenant theology. More accurate:
+   "modeled on" or "heavily influenced by" Westminster.
+
+5. "NEW HAMPSHIRE AND PHILADELPHIA ARE BASICALLY JUST THE 1689 RE-WORDED"
+   True for the Philadelphia Confession (1742 — adopted the 1689 verbatim
+   with two additional chapters). Not true for the New Hampshire Confession
+   (1833) — much shorter (18 articles vs. 32 chapters), deliberately
+   softened Calvinistic language, and is a distinct document in its own right.
+
+6. CHICAGO STATEMENT — "SIGNED BY THE LEADERSHIP OF EVERY MAJOR DENOMINATION"
+   Approximately 300 individual evangelical scholars and leaders signed
+   (Sproul, Packer, Schaeffer, Henry, MacArthur, Geisler, and others) from
+   38 denominations. They signed as individuals, not as official
+   denominational representatives. More accurate: "signed by hundreds of
+   evangelical leaders from dozens of denominations."
+
+7. AL MOHLER QUOTE — UNVERIFIED
+   The quote about "truthfulness and trustworthiness" is consistent with
+   Mohler's published positions (especially his chapter in Five Views on
+   Biblical Inerrancy, Zondervan 2013), but the exact source could not be
+   confirmed. The sermon's loose attribution ("Al Mohler wrote saying...")
+   is fair for spoken delivery; verify exact source before publishing.
+
+8. COMMUNION PASSAGE REFERENCE ABSENT IN ORIGINAL TRANSCRIPT
+   The communion reading (1 Corinthians 11:23-29 ESV) was not cited by
+   reference in the raw transcript. Added reference in the processed version
+   above. Text verified as ESV-accurate.
