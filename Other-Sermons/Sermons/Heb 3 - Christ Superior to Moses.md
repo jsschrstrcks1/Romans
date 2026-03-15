@@ -15,16 +15,16 @@ If you are not constantly connected to Christ you're like the toy that needs win
 By the way (update on grace). Were back to actively training. She is still very much the mess puppy. But she's bright enough to be able to predict what were going to do next. She's also independent enough to decide whether she wants to do that or not. I walk two houses down to my parents a couple times a day. Its good for her I think to get some exercise in, to socialize with the other dogs, and so forth. However she's getting to where she would rather stay in their yard sometimes. Once she refused to go through the gate. I had to get a leash and pull her through. Now I frequently keep her on a leash when we go back and forth. The same was true of Jonah, and will be true of us. God's will WILL happen. But whether we get to be a willing partner, or cause God to deal more harshly with us is a whole different story.
 God rewards obedience and punishes rebellion.
 Gideon (as we talked about briefly a while back) was an example of obedience.
-Moses was disobedient to God. Moses was supposed to touch the stone with his staff. Instead in his anger he struck the stone. Because of his disobedience he was allowed to see the promised land, but barred from entry.
+Moses was disobedient to God. Moses was supposed to speak to the rock (Numbers 20:8). Instead in his anger he struck the rock. Because of his disobedience he was allowed to see the promised land, but barred from entry.
 This section is basically comparing Christianity to Judaism. Moses being the figurehead of Judaism, and Christ of Christianity.
 The author seems to be saying "How can you go back to Judaism when Christ is so much better!
-He Does most every miracle God did throughout the OT (Chapter 1)
-He is better than the angles (chapter 2)
+He is the radiance of God's glory, superior to the angels (Chapter 1)
+He became human to destroy the devil's power and serve as our high priest (chapter 2)
 And now He's better than Moses (Chapter 3).
 Christ was sent while moses was called.
 Christ the High Priest, moses was not.
 Christ's ministry related to a persons eternity, moses ministry related to a nations earthly future.
-Moses was an apostle of the Law, while Christ was the author – the arkaygos – of salvation by grace.
+Moses was a servant of the Law, while Christ is the Apostle of our confession (Heb 3:1) – the archegos (Heb 2:10) – the founder of salvation by grace.
 Moses gave his life getting his people to the Promised Land, but was barred from entry. Christ gave his life getting his people to heaven, where we will be with him for eternity.
 Christ's Ministry is superior
 This would have rocked their world. It would be as mind boggling and borderline offensive as though someone walked in here and declared communism was better than democracy.
@@ -33,7 +33,7 @@ Old Testament ministry was one of bondage and servitude.
 Daniel – served his way to the top
 Joseph served his way to the top
 Moses floated his way down the nile, clear to the top.
-Paul calls the Law (in Galatians 2:4) a yoke of bondage.
+Paul calls the Law (in Galatians 5:1) a yoke of slavery.
 Jesus came from the top, and set us free from the law, and from sin, death and satan.
 Jesus ministry was one of grace and reconciliation
 Moses ministry pointed to Christ
@@ -54,7 +54,7 @@ In their choice of spouse.
 They can be seen in our own lives in terms of our flesh being drawn towards pet sins.
 Sometimes people addicted to drugs accept Christ and never have an interest in drugs again, however more often God gives us the opportunity to do his will in spite of our weakness.
 Even Paul had something he struggled with "that which I want to do I do not do, that which I hate I do".
-But Paul said shall we continue in Sin that grace may abound, may it never be!
+But Paul said shall we continue in Sin that grace may abound? By no means! (Romans 6:1-2)
 1 cor 10:13 No temptation has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape, that you may be able to endure it.
 Rest then is found in the context of a relationship with Jesus. Run to him, rejoice in him, cling to him. When you feel down, and discouraged, or when you feel tempted, or when ever anything comes a long that you don't think you can bear run to Jesus.
 Whether we are in the midst of trouble or not, we should be participating in a relationship with God daily through these things:
