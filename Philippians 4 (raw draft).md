@@ -29,9 +29,7 @@
 
 Good morning and welcome to Lakeview Fellowship. We're going to be in Philippians chapter 4 today, and while you're turning there I want to talk about our people group of the week.
 
-**[People group segment]**
-
-This week our people group is the Mo-Jer-Hai of China. They are a relatively small people group — only about 7,000 known members. They are completely unreached and unengaged. Which means that as things stand today, they have no opportunity to hear the gospel. To the best of our knowledge, this people group — isolated by the Hunan mountains — has never left the mountains, much less the country. So they will need to be reached in China.
+This week our people group is the Mo-Jer-Hai of China. ⚠️ *[Unverified — verify name spelling, population, location, unreached/unengaged status, and cultural description against Joshua Project before preaching.]* They are a relatively small people group — only about 7,000 known members. They are completely unreached and unengaged. Which means that as things stand today, they have no opportunity to hear the gospel. To the best of our knowledge, this people group — isolated by the Hunan mountains — has never left the mountains, much less the country. So they will need to be reached in China.
 
 Their culture centers around singing and dancing. Stories are told and important occasions marked by these things. That may be a great foothold for the gospel — music as a bridge.
 
@@ -39,11 +37,9 @@ Please pray for them. Pray that they would hear of Christ and that their hearts 
 
 Who will pray for the Mo-Jer-Hai of China?
 
-**[FLAG: Verify all people group details — name spelling, population, location (Hunan mountains), unreached/unengaged status, cultural description — against Joshua Project or similar missiological database before preaching.]**
-
 ---
 
-**[Introduction — the divided world]**
+### The Divided World
 
 In my reading this week I came across this passage, and the first few verses made me think about our world today. People at odds with each other. Bickering and fighting.
 
@@ -67,11 +63,9 @@ The solution to communism is the gospel. The solution to sin in this world is th
 
 ---
 
-**[Eternal perspective]**
+### Eternal Perspective
 
-As I mentioned last week, we are eternal beings having a temporal experience. This world and its hundred years of life will soon be past. In the words of C.T. Studd: *"This life twill soon be past, only what's done for Christ will last."*
-
-**[FLAG: Verify C.T. Studd quote — exact wording before citing from pulpit.]**
+As I mentioned last week, we are eternal beings having a temporal experience. This world and its hundred years of life will soon be past. In the words of C.T. Studd: *"This life twill soon be past, only what's done for Christ will last."* ⚠️ *[Unverified — verify exact wording against published sources before citing from pulpit.]*
 
 For the believer, this world is the worst thing we will ever experience. For the lost, however, this is as good as it gets. That should break our hearts. There are good things in this life — love, family, and so on. But even those things are dim shadows of what will come in heaven for eternity. Even now those things are tainted by our sinful hearts. But one day — already and at once not-yet and for eternity — that taint of sin will be fully removed from our perspective and we will be rejoicing in the presence of our Savior forever. Loving fully.
 
@@ -85,7 +79,7 @@ That will be just as true for those of us who believe in Jesus Christ. But for n
 
 ---
 
-**[The Fall]**
+### The Fall
 
 Adam and Eve were in the garden, and it was perfect — with no sin. A perfect reflection of our Savior. But Adam and Eve, like all kids pretty much, went straight to the one thing they were told not to do, and did it. Which introduced sin into the world, and in so doing shattered the image of God in creation. Instead of us each being a mirror perfectly reflecting God, we are each a broken shard of glass from the original mirror. As we grow closer to the Lord — studying God's Word, spending time in fellowship and worship and evangelism — we better reflect God. Though it will never be perfect until one day we are in heaven with Him.
 
@@ -95,7 +89,7 @@ We have all this sin, and consequences of sin, and pain and heartache in the wor
 
 ---
 
-**[What do we do?]**
+### What Do We Do?
 
 So what do we do? What do we do when our choice for president isn't elected and everyone is shouting doom and gloom from the rooftops? On top of that there are actually scary elements. How hard will the new administration be on Christians? Our church secretary, under Obama, was audited eight consecutive years in a row — presumably merely for working at the church. Everything came out fine; she's above board. But still. What about freedom of speech? What about freedom of religion? What if this, what if that? What if America becomes a "communist country"?
 
@@ -103,7 +97,7 @@ All are scary thoughts. All are a result of sin. And you know what Scripture say
 
 ---
 
-**[Catahoula puppy illustration]**
+### Illustration — Catahoula Puppy
 
 I had a situation this week where I was getting pretty frustrated with my Catahoula puppy. He wanted me to get up at 5am, and I didn't want to. I wanted to get up closer to 7. So I scolded him and went back to bed.
 
@@ -115,7 +109,7 @@ There are things we can find to rejoice in — if we're looking.
 
 ---
 
-**[Grandfather's broken hip illustration]**
+### Illustration — Grandfather's Broken Hip
 
 Another time my grandfather was in the hospital with a broken hip. He'd fallen by the fish-cleaning table, dragged himself clear up to the house and up the stairs. And my grandmother — Grandma Fran — was absolutely adamant that he toughen up and walk it off. So to his credit, and Grandma's chagrin, she made him get up and walk on his broken hip. Ended up having surgery. Ended up spending a few weeks in the hospital, then rehab.
 
@@ -131,11 +125,19 @@ Worthy rewards for sure.
 
 ---
 
-**[Whatever is true — the list]**
+---
 
-As we turn to the final part of the chapter, I want to read a quote from a preacher named Samuel Sey. He's a Southern Baptist from Ghana who now lives and preaches in Ghana. He wrote: *"If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear."*
+## Primary Text — Philippians 4:4–9 (ESV)
 
-**[FLAG: Verify Samuel Sey quote — exact wording, attribution, and whether "Southern Baptist from Ghana" is an accurate description.]**
+> 4 Rejoice in the Lord always; again I will say, rejoice. 5 Let your reasonableness be known to everyone. The Lord is at hand; 6 do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. 7 And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.
+>
+> 8 Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things. 9 What you have learned and received and heard and seen in me—practice these things, and the God of peace will be with you.
+
+---
+
+### Whatever Is True — The List
+
+As we turn to the final part of the chapter, I want to read a quote from a preacher named Samuel Sey. He's a Southern Baptist from Ghana who now lives and preaches in Ghana. He wrote: *"If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear."* ⚠️ *[Unverified — verify exact wording, attribution, and whether "Southern Baptist from Ghana" is accurate before citing.]*
 
 I think that's important to keep in mind as we read this last section, because there is a wonderful list of things we can focus on.
 
@@ -151,9 +153,7 @@ Unlike other things in this world: if you hear something on the news, maybe it's
 
 ---
 
-**Whatever is noble.** Noble in English means possessing high values or morality. In Greek the word is *semnos* — whatever is worthy of extra respect, or honor. Things of great dignity.
-
-**[FLAG: Verify that the Greek behind "whatever is honorable/noble" in Philippians 4:8 ESV is semnos — confirm before using from pulpit.]**
+**Whatever is noble.** Noble in English means possessing high values or morality. In Greek the word is *semnos* — whatever is worthy of extra respect, or honor. Things of great dignity. *(Verified: σεμνός is the Greek behind ESV "honorable" in Phil 4:8. ✓)*
 
 ---
 
@@ -173,7 +173,7 @@ Where it says "how lovely is your dwelling place" — it's talking about the pla
 
 Looking forward to the glories of heaven helps quite a bit when things are hard.
 
-**[FLAG: Verify that "lovely" (prosphilēs) in Philippians 4:8 is indeed a NT hapax legomenon, and that its two LXX occurrences are Song of Solomon and Psalm 84:1. Confirm LXX spelling and ESV accuracy of Psalm 84:1–2 quote above.]**
+⚠️ *[Unverified — confirm that prosphilēs (Phil 4:8) is a NT hapax legomenon; confirm its two LXX occurrences are Song of Solomon and Psalm 84:1; verify ESV accuracy of Psalm 84:1–2 quote above.]*
 
 ---
 
@@ -197,9 +197,7 @@ In the meantime, if you can't quite rejoice, at least be reasonable. Paul says: 
 
 It all comes back to setting aside yourself in favor of what God wants.
 
-Charles Spurgeon once said: *"You will never glory in God till first of all God has killed your glorying in yourself."*
-
-**[FLAG: Verify Spurgeon quote — exact wording and source before using from pulpit.]**
+Charles Spurgeon once said: *"You will never glory in God till first of all God has killed your glorying in yourself."* ⚠️ *[Unverified — verify exact wording and source before using from pulpit.]*
 
 I think he would agree that when we get overly upset about thieving neighbors, it falls under that category. When we are upset about the direction our country is heading and have rebellious thoughts — that falls under that category. We want to be comfortable, we want to be successful, we want to be prosperous, we want to live in what is — in my opinion — the greatest nation in the world. We want all of these things. But when the rubber meets the road, all too often it's all about "I." What Spurgeon calls "glorying in yourself."
 
@@ -209,10 +207,8 @@ Christian — there is only One we should glory in, and that is Jesus Christ. If
 
 Richard Baxter wrote:
 
-*"Unbelievers seek their happiness in the things of the world. Believers find their happiness in God. It is contrary to the nature of faith for a believer to seek peace in his earthly enjoyments. Our present pilgrimage is a prison, yet alas, we too commonly do this. By this we kill our comforts and then complain they are missing. It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain."*
-
-**[FLAG: Verify Richard Baxter quote — exact wording and source before using from pulpit.]**
+*"Unbelievers seek their happiness in the things of the world. Believers find their happiness in God. It is contrary to the nature of faith for a believer to seek peace in his earthly enjoyments. Our present pilgrimage is a prison, yet alas, we too commonly do this. By this we kill our comforts and then complain they are missing. It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain."* ⚠️ *[Unverified — verify exact wording and source (likely Baxter's* The Saints' Everlasting Rest *or* A Christian Directory*) before citing in print or from pulpit.]*
 
 ---
 
-**Gospel.**
+### Gospel
