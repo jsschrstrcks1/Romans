@@ -571,6 +571,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Hebrews 1:1-14 | Old vs New — God's sovereignty in OT and NT; Christ's righteousness (vv.8-9); three temptations of Christ (Mt 4 / Lk 4) with Greek ordering evidence; Moses/Elijah/Israelites 40-day parallels; Massah (Ex 17:1-7); Elijah and prophets of Baal (1 Ki 18); Col 2:14 nailed to cross; Heb 1:12 clothing metaphor / brevity of life vs. God's eternity; election-cycle application (Obama era, ~2014–2016); Phil 4:6-7 quoted exactly; David Platt cup-of-wrath imagery (paraphrase); ⚠️ "purification for us on the cross" — ESV says "for sins" not "for us," and "the cross" not in verse; ⚠️ Col 2:14 "record of our wrongdoing" — ESV says "record of debt"; ⚠️ "80 or 90 years" — Psalm 90:10 says 70 or 80; ⚠️ Israelites wandered "40 days" — should be 40 years; ⚠️ Elijah "tested by the brook" conflates 1 Ki 17 (Cherith) with 1 Ki 19 (40-day journey); ⚠️ Massah — "wished for slavery in Egypt" conflates Ex 17 with Ex 14:12/16:3; gospel close | `Hebrews 1 - Old vs New (raw transcript).md` (Other-Sermons/Sermons/) | sermon |
 | Hebrews 3–4 | Christ superior to Moses; Christ's rest superior; wind-up toy / flashlight / hot coal illustrations; Grace the dog (puppy phase); Glenn Beck reference (~2009–2011); Minority Report movie illustration (12 spies); Jonah "sushi taxi"; five disciplines (Bible, prayer, worship, fellowship, evangelism); ⚠️ "Galatians 2:4" should be Galatians 5:1 (yoke of slavery); ⚠️ Moses told to "speak to the rock" not "touch the stone" (Num 20:8-12); ⚠️ Romans 6:2 "may it never be" is NASB not ESV; ⚠️ *archēgos* = "founder" (ESV) not "author"; ⚠️ Jonah bleached skin is tradition not Scripture; gospel close | `Heb 3-4 - Christ Superior to Moses (raw early draft).md` (Other-Sermons/Sermons/) | sermon |
 | Hebrews 3:12-4:16 | Rest in the Lord and accountability | `Sermon - Rest in the Lord.md` / `Heb 3.md` | sermon |
 | Hebrews 11:1 / 1 John 4:18 | Fear as opposite of love; trusting God | `heb 11 - fear.md` | sermon |
@@ -748,6 +749,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 5.md` — Romans 5:1-11 — While we were still sinners
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:18 — Christ suffered once for sins, the righteous for the unrighteous
 - `Thankfulness - 1 Thess 5.txt` — 1 Thess 5:16-18; Psalm 100; Phil 4:4-7 — Pink on the nails vs. the love; Heb 12:2-3; John 10:17-18; cross as reason for all thanksgiving
+- `Hebrews 1 - Old vs New (raw transcript).md` — Hebrews 1:1-14; Col 2:14 — Christ nailed record of debt to cross; Platt cup-of-wrath imagery; purification for sins (Heb 1:3); Gethsemane
 
 ### Baptist Distinctives / Identity
 - `being baptist.md` — Acts 18; 1 Cor 3 — Baptist history and distinctives
@@ -818,6 +820,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — God's patience is not God losing; the conclusion already written
 - `Ezekiel 36.md` — Ezekiel 36:22-32 — Grace alone for God's glory
 - `ezekiel 37.md` — Ezekiel 37 — Total depravity; dry bones
+- `Hebrews 1 - Old vs New (raw transcript).md` — Hebrews 1:1-14 — God sovereign over everything through Christ; politics as a breath of air next to eternity
 
 ### Eternal Security / Perseverance
 - `Eternal Security.md` — John 6:37-65; 10:25-30 — Preservation of the saints
@@ -967,6 +970,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon 2 gen 37 joeseph.md` — Genesis 37 — Joseph as type of Christ
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-2 — Election (*eklektos* word study); foreknowledge of God; John 6:44 "no one can come unless the Father draws him"; Romans 9:22-25 vessels of mercy (lines 34-56)
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — God's patience confused with God losing; "the story's conclusion had already been written — spoiler alert, God wins!" (line 15)
+- `Hebrews 1 - Old vs New (raw transcript).md` — Hebrews 1:1-14 — God sovereign over leaders and nations; who leads America is "a breath of air" to the eternal God; election-cycle anxiety → Phil 4:6-7
 
 ### Racial Reconciliation / Unity
 - `Cultural Marxism.md` — Romans 10:12-13 — Biblical racial equality
