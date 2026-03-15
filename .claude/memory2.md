@@ -932,4 +932,26 @@ There is an advisory board meeting immediately following the service, if you're 
 
 ---
 
+## Sermon: Philippians 4:1-9 — He Who Has the Son Has Life
+
+**File**: `Other-Sermons/Sermons/Philippians 4 - He Who Has the Son (raw draft).md`
+**Primary Text**: Philippians 4:1-9
+**Supporting Texts**: Eph 4:26, 2 Tim 3:16, Luke 13:25-27, 1 Tim 2:5, Eph 2:8-9, 1 Pet 3:18, 1 John 4:10, Rom 3:23, Rom 6:23, Rom 5:8, John 3:16, Rom 10:9, 1 John 5:12, Isa 64:6
+**Themes**: Unity, Euodia and Syntyche, worship and the mind, eternal perspective, gospel, book of life
+**Status**: Polished from raw transcript, 2026-03-15. Third Philippians 4 sermon in archive.
+
+**Key content**:
+- Introduction: 80-90 day Europe trip metaphor — life is short, can't take earthly things with you
+- Unity (4:1-3): Macedonian call; church founded by river by women (Lydia); Paul's crown; Euodia/Syntyche disagreement — possibly over handling heretics; Paul addresses directly but doesn't take sides; "like Facebook or two siblings in a squabble"
+- Worship (4:8): Whatever is true/noble/right/pure — each attribute applied to God's character; noble = coin of purest gold; "you can't out give God" (Haiti missions trip); friend's song about not wasting his life; Tom Brady completion stats vs. kids hearing the gospel
+- Hay and stubble fire illustration — things labeled and tossed into fire; bedtimes, politics, addictions burn; only knowing Christ, fruits of spirit, evangelism survive
+- Gospel close: Art auction illustration (Vietnam veteran paints self-portrait, takes own life; father's art collection auctioned; "he who gets the son gets it all" — ⚠️ apocryphal parable, Ivor Powell 1954, not a true story)
+- Ryrie on propitiation: "placating or satisfying the wrath of God by the atoning sacrifice of Christ" (verified — *Basic Theology*, Moody)
+- Heavy gospel presentation: 10+ verses rapid-fire (Rom 3:23, 6:23, 5:8, John 3:16, Rom 10:9, etc.)
+- Altar call with invitation for salvation, rededication, and church membership
+
+**Integrity notes**: 10 Scripture corrections (KJV/NIV → ESV); Ryrie quote verified; art auction illustration flagged as apocryphal; 4 typo fixes; duplicate paragraphs removed from transcript
+
+---
+
 ## PROCESSING MARKER: Remaining sermons to be appended (Catholicism, Jn 14, Lk 2, Rom 2, Acts 18, BFM HS, 2 Cor 5)
