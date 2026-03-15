@@ -1,3 +1,5 @@
+# Colossians 4:2 — Prayer Service
+
 We havent had a prayer service in a while, and I think today is a good day for one. 
 
 I can’t help but preach a bit, so were going to be in Col 4:2, if you’ve brought your bible and I hope you have. 
@@ -50,3 +52,15 @@ A trap Christians so often fall into when praying, is we ask God for what we wan
 I remember at thanksgiving time growing up, we had an aunt that seemed like she always prayed for 45 minutes. When you’re ten and hungry that is tough.  Anytime they asked me to pray back then it was basically two things, bless the food, help grandma stop smoking, amen. Sometimes just bless the food amen. No time or consideration given to just who I am making requests of. 
 
 Some of us knew a child that couldn’t use words like we use words, and when he wanted something, he just squealed for it. I wonder how often our prayers sound like that to God. The impatient demands of a hungry child, and yet God still chooses to answer our pleas. We serve a good God. God is good!
+
+---
+
+## Flags for Future Polish
+
+- **Spurgeon quote — medicine** *(unverified)*: "to neglect prayer when things are hard is like rejecting medicine when you're sick." Attributed to Spurgeon. Widely circulated but exact source not confirmed. Verify before republication.
+- **Spurgeon quote — locust** *(unverified)*: "neglect of prayer is the locust devouring the church." Attributed to Spurgeon. Exact source not confirmed. Verify before republication.
+- **John Owen quote** *(unverified)*: "until you have prayed you can do no more." Attributed to "owen" — almost certainly John Owen (1616-1683). Consistent with his theology of prayer but exact source not confirmed. Verify.
+- **Robert Louis Stevenson anecdote** *(unverified)*: "Momma, you can't be good without praying." Widely attributed to Stevenson in devotional literature. Not traceable to a specific primary source. Use as illustrative anecdote, not verified quotation.
+- **Colossians 4:6** *(NIV wording)*: The sermon quotes "Let your conversation be always full of grace, seasoned with salt, so that you may know how to answer everyone." ESV reads: "Let your speech always be gracious, seasoned with salt, so that you may know how to answer each person." "Conversation" (NIV) vs "speech" (ESV); "everyone" (NIV) vs "each person" (ESV). Correct to ESV when polishing.
+- **"Israel was attacked last night"** *(dating note)*: This prayer request suggests the sermon was preached around April 13-14, 2024 (Iran's drone/missile attack on Israel). Consistent with "election year" reference later in the sermon.
+- **"ACTS" vs "ACTS" acrostic** *(minor)*: The sermon uses both "Adoration, Confession, Thanksgiving, Supplication" (ACTS) and "Adoration, Submission, Confession, Supplication, Thanksgiving" (5-part from the longer Col 4 sermon). The shorter version here correctly uses ACTS. No correction needed.

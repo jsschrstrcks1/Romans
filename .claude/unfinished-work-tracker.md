@@ -209,11 +209,11 @@ These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT b
 | 2 | Cultural Marxism / CRT | Romans 10:12-13 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Cultural Marxism.md` ✓ |
 | 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ~~Raw in memory2.md~~ → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` ✓ |
 | 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | Partially extracted (`00c1185`); verify if complete |
-| 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 6 | Prayer | Colossians 4:2-4 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 7 | Church Membership / Body of Christ | 1 Corinthians 12:12-27 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 8 | Sowing and Reaping | Galatians 6:7-10 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 9 | Angels, Demons, Etcetera | Ephesians 1:3-14 | Raw in memory2.md — needs extraction, cleanup, verification |
+| 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Col 2 - thanksigiving.md` ✓ |
+| 6 | Prayer | Colossians 4:2-4 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/col 4 - prayer.md` (full version) + `Other-Sermons/Sermons/prayer col 4.md` (prayer service version) ✓ |
+| 7 | Church Membership / Body of Christ | 1 Corinthians 12:12-27 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Commitment to the church body 1 cor 12.md` ✓ |
+| 8 | Sowing and Reaping | Galatians 6:7-10 | **No file found.** Still needs extraction from memory2.md. |
+| 9 | Angels, Demons, Etcetera | Ephesians 1:3-14 | ~~Raw in memory2.md~~ → **Two versions exist**: `Other-Sermons/Sermons/Eph 1 - Angels Demons Etcetera.md` (complete, with Integrity Log) and `Other-Sermons/Sermons/Ephesians 1 - Angels Demons Etcetera.md` (condensed, earlier draft). The `Eph 1` version is the authoritative one. The `Ephesians 1` version should be reviewed for any unique content, then either merged or deprecated. |
 
 **Note**: Several of these (2 Tim 2:3-7, 2 Tim 3:14+, Titus 3:1-7, Gal 3:23+, 2 Tim 2:14-26, Matt 5:13-16) have been processed per sermon-queue.md — they exist in Other-Sermons but also remain as raw text in memory2.md. The 9 listed above are the ones still needing standalone file extraction.
 
