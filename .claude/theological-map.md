@@ -390,16 +390,21 @@ See Christology section above.
 **Explicit. Tradition: Five-Point Calvinist.**
 
 ##### Perseverance / Preservation of the Saints
-> "Its called 'once saved always saved' or to use the words of the reformers, they called it perseverance of the saints. That sort of makes it sounds like it has something to do with mans effort. It doesn't."
-> — `Eternal Security.md`
+> "It's called 'once saved always saved,' or to use the words of the reformers, they called it perseverance of the saints. That sort of makes it sound like it has something to do with man's effort. It doesn't."
+> — `Sermon - Eternal Security.md`
 
 > "Not only can you not lose your salvation, but you can't get rid of it either."
-> — `Eternal Security.md`
+> — `Sermon - Eternal Security.md`
+
+> "When we hear the phrase 'perseverance of the saints,' it's not us that perseveres — it's God's work through Christ that perseveres."
+> — `Sermon - Eternal Security.md`
+
+*Note: `Sermon - Eternal Security.md` cites Jonathan Edwards on the covenant of grace vs. covenant of works — arguing that since God did not leave the first covenant to man's keeping, the covenant of grace similarly does not depend on man's perseverance. Edwards quote source unverified; exact location in his works flagged for confirmation before print use.*
 
 > "Your adoption does not hang on the thin thread of your performance but on the steel cable of Christ's finished work."
 > — `romans 9 pt 1.md`
 
-Prefers "preservation" language (Sproul). God's keeping work, not human effort. **Explicit. Tradition: Reformed Baptist (TULIP — P).**
+Prefers "preservation" language (Sproul — God's keeping work, not human effort). Explicitly frames the doctrine as building on the prior three — Total Depravity, Unconditional Election, and Definite Atonement: if man cannot save himself, he cannot maintain salvation either. God holds what God saved. **Explicit. Tradition: Reformed Baptist (TULIP — P).**
 
 #### Ordo Salutis (Order of Salvation)
 > "The biblical order of the things that have to have happened in order for one to have actually been saved: Predestination, Election, Calling, Regeneration, Faith, Repentance, Justification, Adoption, Sanctification, Perseverance, Glorification."
@@ -490,6 +495,12 @@ Election is active. Reprobation is preterition (passing over). **Explicit. Tradi
 > — `romans 9 pt 1.md`
 
 Particular redemption held together with a free, sincere, urgent gospel offer. In the tradition of Andrew Fuller and Spurgeon — not hyper-Calvinist. **Explicit. Tradition: Evangelical Calvinism.**
+
+#### God's Sovereignty Over the Human Will — The Pharaoh Argument
+> "There are entire denominations founded around the idea that man's will is sovereign over God. Yet time after time after time in this story we see God hardening the heart of a man, or of men. If God has the power to harden Pharaoh's heart, does he not have the power to soften people's hearts? To draw people to himself? Absolutely — and praise God for it. No one is ever too far gone for God to reach and woo back to himself."
+> — `Sermon - The Crucible.md` (Exodus 14)
+
+The Exodus 14 narrative is used as a counter-apologetic: if Arminian theology claims God never overrides the human will, Pharaoh's hardening (Exod 14:8; cf. 9:12, 10:20, 10:27) is a direct rebuttal — and the same power that hardens also softens and draws. This argument runs parallel to the treatment in `Romans 9 - Who Are Gods People (raw transcript).md` and `Romans 9 pt 2.md`. Cross-preach opportunity: Exodus 14 as the narrative counterpart to Romans 9's doctrinal treatment. **Explicit. Tradition: Reformed.**
 
 ---
 
@@ -657,6 +668,12 @@ Scripture is complete. No additional revelations needed (contra LDS, JW, NAR). *
 
 This is a governing hermeneutical principle, applied against NAR, Bethel, and charismatic excesses. **Explicit. Tradition: Cessationist, Reformed.**
 
+#### Scripture Over Science
+> "When we elevate it — or our understanding of it — above God's Word to us, then we have trouble."
+> — `Gen 1 - Two Ways to Know Truth (raw transcript).md`
+
+Science is valued as a God-given tool for exploring creation but cannot be a co-equal authority alongside Scripture. The critical error is treating science as an arbiter of truth alongside (or above) the Word — which amounts to appointing oneself, not God, as the final judge of truth. Scripture's goal and the original goal of science were the same: knowing God. The sermon applies this specifically against a teacher who subordinated Genesis to carbon-14 dating results and then built a second argument (genetic incompatibility with a two-person human origin) on the same foundation. Argument structure: if the carbon dates are wrong, the entire house of cards falls. Science conducted by fallen humans is inherently limited and has repeatedly reversed itself (butter/margarine illustration). Science cannot address morality, history, or religion. Where Scripture has spoken to scientific questions it has proven accurate. See also `Gen 21 - My God Is So Great.md` (manuscript evidence apologetic) and `Sermon - Sola Scriptura 2021.md` (which addresses the Isaiah 40:22 "circle of the earth" claim directly). **Explicit. Tradition: Protestant, Conservative Evangelical (Sola Scriptura applied to natural science).**
+
 #### Divine Design of Scripture for Oral Transmission
 The Genesis 1–2 sermon argues that the Hebrew chiasm and step-by-step repetition in Genesis 1 are not merely literary features but evidence of divine foreknowledge: God knew how oral tradition societies remember and structured the creation account so it could be passed down "for oodles of generations" without corruption. This is an apologetic argument for inspiration grounded in cognitive anthropology. **Explicit. Tradition: Conservative Evangelical / Inerrancy.**
 
@@ -764,6 +781,9 @@ Not annihilationism. Real, conscious, eternal. **Explicit. Tradition: Orthodox C
 
 > "Today you will be with me in paradise." (The thief sermon treats this as immediate, conscious presence with Christ at death)
 > — `Sermon - Today You Will Be With Me v2.md`
+
+> "Scripture tells us that when we take that last breath, we wake up the next moment in glory with our Savior Jesus."
+> — `Service - Donna Hulen Funeral (John 11).md`
 
 **Explicit. Tradition: Protestant (contra soul sleep).**
 
