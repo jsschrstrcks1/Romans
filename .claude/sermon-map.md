@@ -469,6 +469,7 @@ A four-part series working through the scriptural foundations of the doctrines o
 | John 10:1-30 | The Good Shepherd; three-part structure (illustration, explanation, application); communal sheep pen and the porter; hired hand vs. owner; sheep illustrations from personal flock (Hope, Sir Loin, Anna, Frazzle, Sugar); "other sheep" = Gentiles; eternal security | `John 10 - The Good Shepherd.md` | sermon |
 | John 10:25-30; 6:37-65 | Perseverance and preservation of the saints *(raw archive)* | `Eternal Security.md` | teaching — ⚠️ raw transcript; polished version at `Sermon - Eternal Security.md` |
 | John 11:1-16 | Trusting God through silence and unanswered prayers | `Fifteen.md` | study |
+| John 11:33-43 | Memorial for Donna Hulen (March 2021); Jesus wept; unbelief of Martha and Mary; "Did I not tell you that if you believed you would see the glory of God?"; hospital security guard story; ice cream sundae on her last evening; her confidence of heaven; free from diabetes and wheelchair; death as beginning not end; gospel close | `Service - Donna Hulen Funeral (John 11).md` | memorial |
 | John 11:30-44 | Memorial for Jean; Jesus weeps and raises Lazarus | `We are gathered here today to celebrate the memory of Jean.md` | memorial |
 | John 12 | Mary's devotion vs Judas's selfishness | `John 12.md` | sermon |
 | John 12 | Three people and one dirty dog — Judas, Mary; leaving God out of the equation | `John 12 (2026).md` | sermon |
@@ -713,6 +714,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Ann Burdette | Ecclesiastes 3:1-8 | `Ecclesiastes 3 Ann Burdette Funeral.md` |
 | Barbara | Psalm 23 | `Psalm 23.md` (archive) |
 | Chuck Weis | John 14:1-7 | `Chuck Weis Memorial 2024.md` |
+| Donna Hulen | John 11:33-43 | `Service - Donna Hulen Funeral (John 11).md` |
 | Jean | John 11:30-44 | `We are gathered here today to celebrate the memory of Jean.md` |
 | Kim | Psalm 23 | `Service - Kim's Funeral (Psalm 23).md` |
 | Kurt | 2 Corinthians 5:1-10 | `Kurt was a man I loved dearly.md` |
@@ -858,6 +860,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Ecclesiastes 3 Ann Burdette Funeral.md` — Ecclesiastes 3:1–8 — Funeral for Ann Burdette; three-season structure (Granny's time / our time / God's time); Ann's dying declaration: "I've been waiting to go there and be with Jesus — I just want all my family to be there too"; heaven (new body, no pain, tears of joy, Matt 25:21); Prov 3:5–6 (shared favorite verse of pastor's grandmother and Ann); 1 Cor 15:55; Jer 29:11; God's goodness and hell as the opposite of God; Ten Commandments gospel bridge (blasphemy, disobedience, theft, hatred = murder 1 John 3:15); Rom 3:23; Eph 2:8–9; Rom 6:23; visual gospel; cross and resurrection (500 witnesses, 1 Cor 15:6); Rom 10:9; sinner's prayer
 - `Psalm 23.md` (archive) — Memorial for Barbara
 - `Chuck Weis Memorial 2024.md` — Memorial for Chuck Weis
+- `Service - Donna Hulen Funeral (John 11).md` — John 11:33-43 — Funeral for Donna Hulen (March 2021); Jesus wept; faith vs. unbelief; death is not the end; gospel close
 - `We are gathered here today to celebrate the memory of Jean.md` — Memorial for Jean; Lazarus raised
 - `Kurt was a man I loved dearly.md` — Eulogy for Kurt
 - `psalm 23 1-4..md` — Psalm 23:1-4 — Shadow of death
