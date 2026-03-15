@@ -43,7 +43,7 @@ Maybe you're ready to join the church, and have a say in our direction, if so, c
 > 3 "Let us burst their bonds apart
 > and cast away their cords from us."
 > 4 He who sits in the heavens laughs;
-> the LORD holds them in derision.
+> the Lord holds them in derision.
 > 5 Then he will speak to them in his wrath,
 > and terrify them in his fury, saying,
 > 6 "As for me, I have set my King
@@ -68,10 +68,10 @@ Maybe you're ready to join the church, and have a say in our direction, if so, c
 
 ## ⚠️ Flags for Future Polish
 
-- **Psalm 2 — "Lord" vs "LORD" in quoted text** *(corrected)*: Vv. 2, 7, 11 use YHWH in Hebrew → corrected to **LORD**. V. 4 uses Adonai → "Lord" is correct as-is. Verified via BibleHub interlinear. ✓
+- **Psalm 2 — "Lord" vs "LORD" in quoted text** *(corrected)*: Vv. 2, 7, 11 use YHWH in Hebrew → corrected to **LORD**. V. 4 uses Adonai → **"Lord"** (not "LORD") — correction now applied to Scripture block. Confirmed against ESV.org (Psalm 2:4: "the Lord holds them in derision"). ✓
 - **Hebrews 13:3** *(corrected)*: Was KJV-adjacent wording. Replaced with ESV: "Remember those who are in prison, as though in prison with them, and those who are mistreated, since you also are in the body." Verified via BibleGateway. ✓
 - **Edwards Quote 1** *(verified, minor punctuation)*: Substance accurate; minor variations in capitalization/"can't" vs "cannot" reflect period editions. Verify a specific edition if citing in print.
-- **Edwards Quote 2** *(corrected)*: Two fixes applied to body text: (1) restored missing subject "They" at sentence start; (2) removed "Sinners in the Hands of an Angry God" accidentally inserted mid-sentence. Body text now matches the passage as it appears in Edwards' 1741 sermon. Verify against a critical edition before print use.
+- **Edwards Quote 2** *(corrected and partially verified)*: Two fixes applied to body text: (1) restored missing subject "They" at sentence start; (2) removed title accidentally inserted mid-sentence. Core wording verified March 2026 against Voices of Democracy (University of Maryland) transcription of the 1741 sermon: "They are as great heaps of light chaff before the whirlwind; or large quantities of dry stubble before devouring flames" ✓ and "We find it easy to tread on and crush a worm that we see crawling on the earth; so 'tis easy for us to cut or singe a slender thread that any thing hangs by; thus easy is it for God when he pleases to cast his enemies down to hell" ✓. ⚠️ The closing sentence — "What are we, that we should think to stand before him, at whose Rebuke the Earth trembles, and before whom the Rocks are thrown down?" — was not located in that transcript and may be from a separate section of the sermon or a different edition. Verify before citing in print.
 - **"53 countries" where gospel is illegal** *(update before reprising)*: Plausible for mid-2010s when this was preached. Open Doors World Watch List tracked ~50 countries at extreme/very high persecution at that time; by 2024 that figure had risen to 60. Do not cite the specific number without checking current Open Doors or VOM data.
 - **IDOP — "first Sunday in November"** *(corrected)*: Changed from "second Sunday." The WEA Religious Liberty Commission designated the first Sunday of November in 1996. Confirmed via VOM and Open Doors. Still verify the exact date for the current year before announcing from the pulpit. ✓
 - **"Russia is mentioned in Revelation"** *(interpretive claim)*: The identification of Russia in Revelation (typically via Gog/Magog) is a widely held pre-millennial interpretive position, but it is contested by other evangelical scholars. Accurate to present as one view; not accurate to present as settled fact without qualification.
