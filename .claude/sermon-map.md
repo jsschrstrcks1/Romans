@@ -189,6 +189,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
+| Exodus 2:1–15 | A Godly Home — Moses' birth; Amram and Jochebed's faith; courage to have children under Pharaoh's infanticide decree; Egypt as pinnacle of human knowledge vs. God's power; Moses' murder of the Egyptian (Exodus 2:12 "looked this way and that"); fleeing into the desert; grandmother illustration (piety, prayer, daily devotion); Hiroo Onoda illustration (fighting a war already won; corrected: surrendered 1974 after ~29 years, age 52); gospel call (John 3:16; Phil 2:10–11; Matt 7:23); Patrick Henry will quote (verified); Adrian Rogers quote (verified); Chuck Swindoll family quote; ⚠️ "three abortions per year" from chemical contraceptives — contested theological/medical claim, professor's research cited but not reproducible; ⚠️ silphium extinction date ("second century") approximate — actual date debated; ⚠️ Luke 12:3 used as partial quote ("what you have whispered in private rooms shall be proclaimed on the housetops") — accurately cited ESV | `Other-Sermons/Sermons/Sermon - A Godly Home.md` | sermon |
 | Exodus 2:23; Psalm 115:4 | God hears, sees, knows, acts against idolatry | `Exodus 2.md` | sermon |
 | Exodus 5:22-6:13 | Discouragement; asking God why; trusting Him | `ex 6-7.md` | sermon |
 | Exodus 14:1-31 | Red Sea crossing; archaeological context (Nuweiba); sovereignty; the crucible of faith | `Sermon - The Crucible.md` (sources: `Exodus 14.md` complete, `Exodus 14 - red sea.txt` raw dictation, `exodus 14 - red sea.md` cleaned/edited version of the .txt) | sermon |
@@ -976,6 +977,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Grannys Wedding jn 316.md` — John 3:16 — Christian marriage
 - `Imagine tomorrow was your anniversary.md` — Worshipping from love not obligation
 - `Romans 15a - The Welcome We've Been Given.md` — Application: marriage struggles and welcome
+- `Other-Sermons/Sermons/Sermon - A Godly Home.md` — Exodus 2:1–15 — Godly home; courage of faith under persecution; the spiritual legacy of Amram and Jochebed; grandmother illustration; what will you leave your children?
 
 ### Obedience / Faithfulness / Diligence
 - `Josh 7 & 8.md` — Joshua 7-8 — Consequences of leaving God out

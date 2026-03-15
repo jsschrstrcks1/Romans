@@ -221,12 +221,12 @@ These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT b
 
 ## Part III: Blocked Sermons (Source Text Missing)
 
-These 2 sermons were cataloged in previous processing but their source text cannot be found in the repository:
+These sermons were cataloged in previous processing but their source text cannot be found in the repository:
 
 | Sermon | Text | Issue |
 |--------|------|-------|
 | **At the Altar of Our Convenience** | Psalm 106 | No .docx or .md source file in repo. Cataloged from an earlier info dump. Source text must be re-provided to process. |
-| **A Godly Home** | Exodus / Moses | No .docx or .md source file in repo. Same situation. Source text must be re-provided. |
+| ~~**A Godly Home**~~ | ~~Exodus / Moses~~ | ~~No .docx or .md source file in repo.~~ **RESOLVED** — Source text provided March 2026. Polished and verified manuscript saved to `Other-Sermons/Sermons/Sermon - A Godly Home.md`. Sermon-map updated (Exodus section + Marriage/Family index). Key corrections: Hiroo Onoda timeline (1974, ~29 years, age 52); ESV Scripture quotations; Patrick Henry/Rogers/Swindoll quotes verified. Two remaining ⚠️ flags: "three abortions/year" contraceptive claim (contested); silphium extinction date approximate. |
 
 ---
 
