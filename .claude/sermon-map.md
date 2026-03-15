@@ -369,7 +369,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Ezekiel 36:22-32 | Salvation by grace alone for God's glory | `Ezekiel 36.md` | teaching |
-| Ezekiel 37 | Total depravity; spiritual resurrection of dry bones | `ezekiel 37.md` | teaching |
+| Ezekiel 37:1-14 | Total depravity and sovereign regeneration; Edwards "contribute to salvation" callback; dead/corpse illustration (Eph 2:1, 2:3); sons of disobedience (Eph 2:2); John 8:34 slaves to sin; enslaved corpse cannot decide; dry bones = whole house of Israel (37:11); Ezekiel as prophet to the Babylonian exiles; **INCOMPLETE TRANSCRIPT** — full exposition not received ⚠️ Edwards quote provenance unverified | `Ezekiel 37 - Can These Bones Live (raw draft).md` | sermon |
 
 ### Jonah
 
@@ -849,7 +849,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - The Magnet on the Compass.md` — 1 Samuel 17 — Total depravity; compass illustration; effectual calling; monergistic regeneration
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — God's patience is not God losing; the conclusion already written
 - `Ezekiel 36.md` — Ezekiel 36:22-32 — Grace alone for God's glory
-- `ezekiel 37.md` — Ezekiel 37 — Total depravity; dry bones
+- `Ezekiel 37 - Can These Bones Live (raw draft).md` — Ezekiel 37:1-14 — Total depravity; dry bones = Israel; enslaved corpse illustration; ⚠️ INCOMPLETE TRANSCRIPT
 - `Hebrews 1 - Old vs New (raw transcript).md` — Hebrews 1:1-14 — God sovereign over everything through Christ; politics as a breath of air next to eternity
 
 ### Eternal Security / Perseverance
@@ -1028,7 +1028,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `romans 8 12-17 debtors to the spirit.txt` — Romans 8:12–17, 31–39 — Debt that cannot be repaid; Christ pays it; adoption as sons; "Abba, Father"; election (Romans 8:28–30); security of salvation; gospel invitation; mini-golf illustration
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Deathbed conversion; grace
 - `2 cor 5.md` — 2 Corinthians 5:16-6:3 — New creation
-- `ezekiel 37.md` — Ezekiel 37 — Dry bones; spiritual resurrection
+- `Ezekiel 37 - Can These Bones Live (raw draft).md` — Ezekiel 37:1-14 — Dry bones; spiritual resurrection; ⚠️ INCOMPLETE TRANSCRIPT
 - `Ezekiel 36.md` — Ezekiel 36:22-32 — New heart; grace for God's glory
 - `2 chronicles 15.md` — OT vs NT salvation models
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Matt Slick's conversion from the occult; power encounter; Creation-Fall-Cross-Redemption framework
