@@ -10,13 +10,13 @@
 ## Verification Flags
 
 - [ ] **Mo-Jer-Hai of China** — People group details need confirmation before presenting publicly. Claimed: ~7,000 members, Hunan mountains, completely unreached and unengaged, culture centers on singing and dancing. [FLAG: VERIFY WITH JOSHUA PROJECT OR EQUIVALENT SOURCE BEFORE PREACHING]
-- [ ] **C.T. Studd quote** — "This life twill soon be past, only whats done for Christ will last." Verify exact wording and that it is correctly attributed to C.T. Studd (1860–1931). [FLAG: VERIFY EXACT WORDING]
-- [ ] **Samuel Sey quote** — "If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear." Preacher describes him as "a southern Baptist from Ghana." Verify attribution, exact wording, and that the denominational description is accurate. [FLAG: VERIFY ATTRIBUTION AND WORDING]
-- [ ] **"Lovely" used only once in the NT** — The Greek word in Philippians 4:8 is *prosphilēs*. Verify that this is its only NT occurrence. Also verify that the two LXX (Septuagint) occurrences are indeed Song of Solomon and Psalm 84:1. [FLAG: VERIFY LINGUISTIC CLAIM]
-- [ ] **Psalm 84 quote** — Preacher quotes: *"How lovely is your dwelling place, O LORD of hosts! My soul longs, yes, faints for the courts of the LORD; my heart and flesh sing for joy to the living God."* Verify this is ESV Psalm 84:1–2 and that the LXX uses *prosphilēs* here. [FLAG: VERIFY PASSAGE AND LXX WORD]
-- [x] **Greek word for "noble/honorable" = semnos** ✓ *Confirmed*: The Greek behind "whatever is honorable" (ESV Phil 4:8) is σεμνός (*semnos*). The body gloss "noble" is acceptable; ESV renders it "honorable." Both capture the sense of dignified, worthy of respect.
-- [ ] **Spurgeon quote** — "You will never glory in God till first of all God has killed your glorying in yourself." Verify exact wording and source. [FLAG: VERIFY EXACT WORDING AND SOURCE]
-- [ ] **Richard Baxter quote** — "Unbelievers seek their happiness in the things of the world. Believers find their happiness in God. It is contrary to the nature of faith for a believer to seek peace in his earthly enjoyments. Our present pilgrimage is a prison, yet alas, we too commonly do this. By this we kill our comforts and then complain they are missing. It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain." Verify attribution and accuracy. [FLAG: VERIFY]
+- ✅ **C.T. Studd quote** *(corrected March 2026)*: Correct wording: "Only one life, 'twill soon be past, only what's done for Christ will last." Draft had "This life twill soon be past" — wrong first line. Corrected in body. Source: poem "Only One Life, 'Twill Soon Be Past" by C.T. Studd (1860–1931). Confirmed via multiple published sources.
+- ⚠️ **Samuel Sey quote** *(corrected March 2026)*: "Southern Baptist from Ghana" is inaccurate on both counts. He is Ghanaian-Canadian (currently lives in Ohio), and is Baptist but explicitly NOT SBC — he attends/attended Grace Fellowship Church, a Reformed Baptist congregation affiliated with FEB Canada. His quote "If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear" cannot be confirmed in any indexed source (social media posts often aren't). Do not attribute to him without a specific citation. Consider presenting it as an unattributed saying, or locate the original post before reusing.
+- ✅ **"Lovely" = *prosphilēs* — NT hapax legomenon** *(verified March 2026)*: Confirmed NT hapax — appears only in Phil 4:8. ✓ However, the LXX claim needs correction: **Psalm 84:1 LXX uses *agapēta* (ἀγαπητά), not *prosphilēs*.** Vine's confirms *prosphilēs* appears in the LXX at Esther 5:1. The Song of Solomon connection is unconfirmed. Do not use the "Psalm 84 in the LXX uses the same word" claim from the pulpit — it is incorrect for Ps 84:1. The Psalm 84:1–2 ESV quote and its application remain valid regardless of the LXX connection.
+- ✅ **Psalm 84:1–2 ESV** *(verified March 2026)*: "How lovely is your dwelling place, O LORD of hosts! My soul longs, yes, faints for the courts of the LORD; my heart and flesh sing for joy to the living God." — confirmed ESV. ✓
+- ✅ **Greek word for "noble/honorable" = *semnos*** ✓ *Confirmed*: The Greek behind "whatever is honorable" (ESV Phil 4:8) is σεμνός (*semnos*). The body gloss "noble" is acceptable; ESV renders it "honorable." Both capture the sense of dignified, worthy of respect.
+- ✅ **Spurgeon quote** *(verified March 2026)*: "You will never glory in God till first of all God has killed your glorying in yourself." — exact wording confirmed. Source: Sermon No. 1178, "Glorying in the Lord," Metropolitan Tabernacle Pulpit Vol. 20, January 1, 1874 (text: 1 Cor 1:31). ✓
+- ⚠️ **Richard Baxter quote** *(unverifiable March 2026)*: "Unbelievers seek their happiness in the things of the world…" etc. — Themes are entirely consistent with Baxter's *The Saints' Everlasting Rest* (1650) and *The Right Method for a Settled Peace of Conscience* (1653), but the exact wording cannot be located in any indexed digital source. May be a paraphrase, condensation, or from a lesser-digitized edition of *A Christian Directory* (1673). Do not present as a verbatim quote without a specific work/chapter/page citation. May be used as a paraphrase of Baxter's themes if clearly presented as such.
 - [ ] **Pew Bible page number** — Left blank in draft. Fill before Sunday.
 
 ---
@@ -69,7 +69,7 @@ The solution to communism is the gospel. The solution to sin in this world is th
 
 **[Eternal perspective]**
 
-As I mentioned last week, we are eternal beings having a temporal experience. This world and its hundred years of life will soon be past. In the words of C.T. Studd: *"This life twill soon be past, only what's done for Christ will last."*
+As I mentioned last week, we are eternal beings having a temporal experience. This world and its hundred years of life will soon be past. In the words of C.T. Studd: *"Only one life, 'twill soon be past, only what's done for Christ will last."*
 
 **[FLAG: Verify C.T. Studd quote — exact wording before citing from pulpit.]**
 
@@ -133,7 +133,7 @@ Worthy rewards for sure.
 
 **[Whatever is true — the list]**
 
-As we turn to the final part of the chapter, I want to read a quote from a preacher named Samuel Sey. He's a Southern Baptist from Ghana who now lives and preaches in Ghana. He wrote: *"If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear."*
+As we turn to the final part of the chapter, I want to read a quote from a writer named Samuel Sey. He's a Ghanaian-Canadian Christian writer at SlowToWrite.com. *(Note: "Southern Baptist from Ghana" was inaccurate — he is Baptist but not SBC, and is Ghanaian-Canadian, not currently based in Ghana.)* He wrote: *"If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear."*
 
 **[FLAG: Verify Samuel Sey quote — exact wording, attribution, and whether "Southern Baptist from Ghana" is an accurate description.]**
 
@@ -165,7 +165,7 @@ Unlike other things in this world: if you hear something on the news, maybe it's
 
 ---
 
-**Whatever is lovely.** This is a neat word — it's the only time it's used in the New Testament. However, in the Greek translation of the Hebrew Old Testament it appears twice. Once in Song of Solomon, and a second time in Psalm 84:
+**Whatever is lovely.** This is a neat word — it's the only time it's used in the New Testament. *(Note: the claim that the two LXX occurrences are Song of Solomon and Psalm 84 is not accurate — Psalm 84:1 LXX uses agapēta, not prosphilēs. The confirmed LXX occurrence is Esther 5:1. Remove the LXX cross-reference claim from delivery; the Psalm 84 quote and its application stand on their own.)* Psalm 84 says:
 
 *"How lovely is your dwelling place, O LORD of hosts! My soul longs, yes, faints for the courts of the LORD; my heart and flesh sing for joy to the living God."* (Psalm 84:1–2, ESV)
 
