@@ -150,7 +150,10 @@ No saint, priest, pope, prophet, or governing body can mediate. **Explicit. Trad
 > "We owed a debt we could not pay, and he paid a debt he did not owe."
 > — `is 53.md`
 
-Central atonement theory. Named explicitly by term ("penal substitutionary atonement") in multiple sermons. **Explicit. Tradition: Reformed, Evangelical.**
+> "Blood had to be shed to cover Adam and Eve's nakedness when God knit them clothes of fur. Blood would have to continue to be shed to keep their sin covered."
+> — `Gen 4 - Cain and Abel.md`
+
+Central atonement theory. Named explicitly by term ("penal substitutionary atonement") in multiple sermons. The Genesis 4 sermon traces the blood-sacrifice principle back to Eden and Abel's firstborn lamb — a type of Christ. **Explicit. Tradition: Reformed, Evangelical.**
 
 #### Definite/Particular Atonement
 > "Christ's death was not a vague potential. He laid down His life for His sheep. He gave Himself for the church, to present her holy and blameless. The atonement is definite — not limited in its power, but particular in its design."
@@ -668,6 +671,8 @@ Apostolic authorship or connection as the criterion for canonicity. The Apocryph
 #### Christocentric Hermeneutic
 > "Everything in Scripture points to Christ. The Old Testament is the New Testament concealed; the New Testament is the Old Testament revealed."
 > — recurring framework across Romans, Colossians, Hebrews sermons
+
+The Genesis 4 sermon develops a detailed 14-point typology of Abel as a type of Christ — shepherd, hated without cause, violent death, offering to God, by faith, excellent offering, accepted, witnessed righteous, publicly testified — drawing from Genesis 4, Hebrews 11:4, and NT parallels. See `Gen 4 - Cain and Abel.md`.
 
 **Implicit. Tradition: Reformed.**
 
