@@ -94,6 +94,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Nehemiah 1 | All the King's Men | `Sermon - All the Kings Men.md` | Brokenness; gospel; rebuilding; prayer; leadership |
 | Nehemiah 5 | The Watching World | `Sermon - The Watching World.md` | Injustice within God's people; righteous anger; confronting sin; integrity of witness |
 | Nehemiah 7:1-5 | Faithful and God-Fearing | `Sermon - Faithful and God-Fearing.md` | Faithfulness; fear of God; leadership; worship; diligence |
+| Esther 4:10–17 | For Such a Time as This | `Esther 4 - For Such a Time as This.md` | Providence without God's name; courage and obedience under a pagan king; Mordecai's blunt challenge; election typology (Esther chosen, not choosing); Uyghur people group; Gen 3:15; Ps 22; 1 Cor 15:6; gospel |
 | 2 Kings 25:1-12 | Don't Trust Your Heart | `Sermon - Don't Trust Your Heart.md` | Obedience; God's sovereignty; will of God; discernment; holiness |
 | 2 Chronicles 15 | The Hand That Won't Let Go | `Sermon - The Hand That Won't Let Go.md` | OT salvation models; preservation of the saints; eternal security; God's grip on believers |
 | Psalm 1 | Blessed Is the Man | `Psalm 1 - Blessed Is the Man.md` | Scripture study; meditation; separation from evil; fruitfulness; judgment |
@@ -294,6 +295,12 @@ A four-part series working through the scriptural foundations of the doctrines o
 | Nehemiah 7 | Gatekeepers, faithfulness, and genealogy | `Neh 7.md` | sermon |
 | Nehemiah 8 | Revival, reading scripture, and fellowship | `neh 8.md` | sermon |
 | Nehemiah 13:1-14 | "What the Goldsmith Sees" — clean your temple, be a gatekeeper, make a pearl; Tobiah in the temple; Nehemiah throws out household goods and fumigates; Sabbath commerce; Sanballat's daughter married into priesthood; fools gold / colonial gold illustration; "Making Pearls" passage from Kent Hughes commentary on James (⚠️ verify: may be Hughes citing a prior writer — do not quote verbatim until source confirmed); Stephen Davey on not wanting the smell of sin to linger; body as temple (1 Cor 3:16); genuine vs. counterfeit faith; gospel | `Neh 13.md` | sermon |
+
+### Esther
+
+| Passage | Subject | File | Type |
+|---|---|---|---|
+| Esther 4:10–17 | "For Such a Time as This" — Providence without God's name; Vashti and the drunken 180-day banquet (Est 1); Esther chosen (not choosing) — election typology; Mordecai's refusal to bow to Haman; Haman's genocide plot (pettiest genocide attempt in history); Esther's fear and timidity as relatable entry point; Mordecai's blunt challenge ("you'll probably die either way — but who knows?"); Esther 4:16 ESV ("if I perish, I perish"); three things Esther did: prayer, boldness, obedience; "for such a time as this" applied to congregation's vocational positions; Haman's end on his own gallows (Est 7:10); Gen 3:15 — protoevangelium applied; Psalm 22 tradition (Midrash Esther Rabbah — Esther reciting Ps 22 before approaching the king); 1 Cor 15:6 ("more than 500 witnesses"); Uyghur people group (≈13M, <0.01% Christian, Xinjiang internment camps); James 2:19 ESV ("even the demons believe — and shudder"); gospel; Esther as Christ-type (willing to die for her people; chosen not choosing) | `Esther 4 - For Such a Time as This.md` | sermon |
 
 ### Job
 
@@ -889,6 +896,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Evangelism.md` — Matthew 28:18-20 — Great Commission
 - `MT 28.md` — Matthew 28:16-20 — Great Commission and evangelism
 - `evangelism (romans 15, mt 28, and rev 7).md` — Mt 28; Rom 15; Rev 7 — Missions priority
+- `Esther 4 - For Such a Time as This.md` — Esther 4:10–17 — Uyghur people group (≈13M, <0.01% Christian, Xinjiang camps); vocational calling as missional position ("for such a time as this"); "we only have to risk opening our mouths"
 - `romans 15 (2).md` — Romans 15:14 — Holy obsession; Great Commission
 - `jer 44.md` — Jeremiah 44 / Mt 28 — Disobedience in evangelism as idolatry
 - `rev 20.md` — Revelation 20:11-15 — Horrors of hell; urgency of missions
@@ -1030,6 +1038,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-2 — Election (*eklektos* word study); foreknowledge of God; John 6:44 "no one can come unless the Father draws him"; Romans 9:22-25 vessels of mercy (lines 34-56)
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — God's patience confused with God losing; "the story's conclusion had already been written — spoiler alert, God wins!" (line 15)
 - `Hebrews 1 - Old vs New (raw transcript).md` — Hebrews 1:1-14 — God sovereign over leaders and nations; who leads America is "a breath of air" to the eternal God; election-cycle anxiety → Phil 4:6-7
+- `Esther 4 - For Such a Time as This.md` — Esther 4:10–17 — Providence without God's name; God positioning people (vocational calling); Mordecai's "who knows?"; Haman's trap reversed; Gen 3:15 protoevangelium; Esther as Christ-type
 
 ### Racial Reconciliation / Unity
 - `Cultural Marxism.md` / `Cultural Marxism - CRT - Romans 10 (raw draft).md` — Romans 10:12-13 — Biblical racial equality; CRT and intersectionality critique; cultural Marxism defined; David Brooks quote on generational clash (⚠️ source unverified); Gal 3:26-29; Acts 10:34-35; Col 3:11; Deut 10:17; citizenship in heaven; Dhund Abbasi of Pakistan people group (~1M, Muslim, no known believers — ⚠️ verify current numbers)
