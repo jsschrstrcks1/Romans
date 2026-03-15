@@ -648,6 +648,12 @@ Scripture is complete. No additional revelations needed (contra LDS, JW, NAR). *
 
 This is a governing hermeneutical principle, applied against NAR, Bethel, and charismatic excesses. **Explicit. Tradition: Cessationist, Reformed.**
 
+#### Scripture Over Science
+> "When we elevate it — or our understanding of it — above God's Word to us, then we have trouble."
+> — `Gen 1 - Two Ways to Know Truth (raw transcript).md`
+
+Science is valued as a God-given tool for exploring creation but cannot be a co-equal authority alongside Scripture. The critical error is treating science as an arbiter of truth alongside (or above) the Word — which amounts to appointing oneself, not God, as the final judge of truth. Scripture's goal and the original goal of science were the same: knowing God. The sermon applies this specifically against a teacher who subordinated Genesis to carbon-14 dating results and then built a second argument (genetic incompatibility with a two-person human origin) on the same foundation. Argument structure: if the carbon dates are wrong, the entire house of cards falls. Science conducted by fallen humans is inherently limited and has repeatedly reversed itself (butter/margarine illustration). Science cannot address morality, history, or religion. Where Scripture has spoken to scientific questions it has proven accurate. See also `Gen 21 - My God Is So Great.md` (manuscript evidence apologetic) and `Sermon - Sola Scriptura 2021.md` (which addresses the Isaiah 40:22 "circle of the earth" claim directly). **Explicit. Tradition: Protestant, Conservative Evangelical (Sola Scriptura applied to natural science).**
+
 #### Divine Design of Scripture for Oral Transmission
 The Genesis 1–2 sermon argues that the Hebrew chiasm and step-by-step repetition in Genesis 1 are not merely literary features but evidence of divine foreknowledge: God knew how oral tradition societies remember and structured the creation account so it could be passed down "for oodles of generations" without corruption. This is an apologetic argument for inspiration grounded in cognitive anthropology. **Explicit. Tradition: Conservative Evangelical / Inerrancy.**
 
