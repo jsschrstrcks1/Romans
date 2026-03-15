@@ -481,6 +481,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Romans 8:26+ | Order of salvation and BFM | `Ordo Solutis Romans 8.md` | teaching |
 | Romans 9:1-3 / Romans 10 | Evangelism urgency; Paris attack pastoral response (prob. Nov. 13, 2015 Bataclan); Paul's anguish for the lost; Spurgeon (verified: "Wailing of Risca" sermon, 1860); Whitefield (13 Atlantic crossings, ~18,000 sermons); Edwards Resolution 7 (verified); Edwards Res. 1 & 2 (paraphrase — corrected in file); Florida Muslim statistic corrected from original; "Aleutian" corrected to "Algerian"; Jonah sovereignty; ta ethne (Rev 7); Balaam's donkey | `romans 9-10 paris evangelism.txt` | sermon |
 | Romans 12 | Racial injustice; weeping with those who weep | `romans 12 - weep with those who weep.md` | sermon |
+| Romans 10:12-13 | Biblical racial equality; CRT and intersectionality critique; cultural Marxism defined; Gal 3:26-29; Acts 10:34-35; Col 3:11; Deut 10:17; citizenship in heaven; David Brooks quote (⚠️ source unverified); Dhund Abbasi of Pakistan (⚠️ stats unverified) | `Cultural Marxism - CRT - Romans 10 (raw draft).md` | sermon |
 | Romans 10:14-21 | Gospel chain; how shall they hear; proclamation and missions | `The Gospel Chain.md` | sermon |
 | Romans 12:1-2 | Living sacrifice; archive draft | `romans 12 1.md` (archive) | sermon |
 | Romans 14:1-21 | Conviction, liberty, and not causing stumbling | `Romans 14.md` | sermon |
