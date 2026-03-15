@@ -251,7 +251,96 @@ Three versions exist:
 
 ---
 
-## SECTION 6: Conclusion
+## SECTION 6: Batch 2 — Additional Sermons (March 2026, continued)
+
+Eleven more sermons were added after the Section 5 review. Each was read in full and cross-checked against external sources for content that may have originated with other preachers. Focus: **unattributed external content** (not self-recycling).
+
+### 6.1 External Plagiarism Findings
+
+#### ⚠️ ITEM 1: "Sin will keep you from the word, or the word will keep you from sin"
+
+**Appears in:** Hebrews 3 (line 62), Hebrews 1 (line 44)
+**Status:** Used without attribution in both sermons as if it were the preacher's own line.
+**Actual source:** This is a well-known quote from **John Bunyan** (1628–1688), author of *Pilgrim's Progress*. Reportedly found handwritten in the cover of his Bible: "Either this book will keep you from sin, or sin will keep you from this book." Also widely attributed to **D.L. Moody**. John Piper has cited it attributing it to his mother's inscription in his childhood Bible.
+**Verdict:** This is the clearest instance of unattributed external content in the corpus. The quote is famous enough that knowledgeable listeners would recognize it. **Should be attributed to Bunyan (or at minimum acknowledged as a well-known saying) in future use.**
+
+#### ⚠️ ITEM 2: David and Svea Flood missionary story (Galatians 6)
+
+**Appears in:** Galatians 6 — Sowing and Reaping (lines 17–33)
+**Status:** Told as a detailed narrative with no source attribution.
+**Actual source:** This is a widely published missionary story. The primary source is **Aggie Hurst's** own published account (*Aggie: The Inspiring Story of a Girl without a Country*, Access Publishing). It has been popularized by **Randy Alcorn** through Eternal Perspective Ministries, and retold by countless preachers. The specific details in the sermon (boy selling eggs, Svea's death at 27, white cross, 600 believers, 110,000-person national church) closely match the Alcorn/Hurst version.
+**Verdict:** This is not plagiarism in the malicious sense — retelling well-known missionary stories is standard preaching practice. However, a story this detailed and this well-documented should credit its source (e.g., "As told by Aggie Hurst" or "Randy Alcorn shares the story of…"). **Add attribution when reusing.**
+
+#### ⚠️ ITEM 3: Titanic oranges illustration (Galatians 6)
+
+**Appears in:** Galatians 6 — Sowing and Reaping (line 12)
+**Status:** Told without source attribution.
+**Actual source:** This is a widely circulated sermon illustration found in multiple collections including *10,000 Sermon Illustrations* (source unknown). Charles Swindoll has retold it. A historical kernel may trace to **Major Arthur Peuchen**, a Titanic survivor who left $300,000 in cash and securities to take three oranges (documented in Marshall Everett, ed., *Wreck and Sinking of the Titanic*). Most sermon versions feature an unnamed woman rather than Peuchen.
+**Verdict:** Common homiletical illustration with no single "owner." No attribution required, but acknowledging it as a well-known story (e.g., "There's a famous story from the Titanic…") would be good practice.
+
+#### ITEM 4: "Blood of the martyrs is the seed of the church" (IDOP)
+
+**Appears in:** IDOP transcript (line 68)
+**Status:** Used without attribution.
+**Actual source:** **Tertullian**, *Apologeticus* ch. 50 (c. AD 197).
+**Verdict:** This phrase has entered common Christian parlance to the point where attribution is not strictly necessary. However, it is a direct quote from a named author. Noting "as Tertullian said" would be best practice.
+
+### 6.2 Properly Attributed External Content (No Issues)
+
+All of the following are correctly attributed to their sources in the sermon text:
+
+| Sermon | Attributed Quote/Source | Status |
+|---|---|---|
+| Colossians 2 | John Piper — "knit together in love" commentary (×2) | Attributed ✓ (exact source unverified) |
+| Colossians 2 | Ann Voskamp — eucharisteo/charis/chara (*One Thousand Gifts*) | Attributed ✓ |
+| Colossians 2 | Stuart Townend — "How Deep the Father's Love" hymn | Attributed ✓ |
+| Colossians 4 | George Muller — on prayer and reading the Word | Attributed ✓ |
+| Colossians 4 | FB Meyer — "un-answered prayer vs. un-offered prayer" | Attributed ✓ |
+| Colossians 4 | Calvin Wittman — Greek word for "steadfastly" | Attributed ✓ |
+| Cultural Marxism | David Brooks — cultural Marxism quote | Attributed ✓ (exact source unverified) |
+| Cultural Marxism | Albert Mohler reference (unnamed, "president of SBTS") | Attributed ✓ |
+| Ephesians 1 | Chuck Hastings — angels on consumer products | Attributed ✓ (source unverified) |
+| Galatians 6 | Toplady — free will / toothache quote | Attributed ✓ |
+| Galatians 6 | Spurgeon — "free will has sent many to hell" | Attributed ✓ |
+| Galatians 6 | Martin Luther — "compelled to serve kingdom of Satan" | Attributed ✓ |
+| Galatians 6 | Steven Lawson — "dirt for diamonds" | Attributed ✓ |
+| Hebrews 1 | David Platt — cup of wrath imagery | Attributed ✓ |
+| John 18 | Stuart Townend — "How Deep the Father's Love" hymn | Attributed ✓ |
+| John 18 | "Friends are the family you choose" — acknowledged as floating quote | Attributed ✓ |
+| Psalm 103 | JFB commentary — "suited to man's frailty" | Attributed ✓ |
+
+### 6.3 Common Sayings and Shared Theological Language (No Issues)
+
+The following items appear without attribution but are common enough in Christian discourse that no attribution is expected:
+
+| Item | Sermon | Notes |
+|---|---|---|
+| "Show me your checkbook, I'll show you your priorities" | 1 Cor 12 | Attributed to "a professor." Origins uncertain (traced to at least 1964). Honest attribution. |
+| "Death is a promotion" | Gal 6 | Widely used phrase in Christian preaching; no single originator identified. |
+| "If you don't like Christ's bride, maybe it's really Christ you don't like" | 1 Cor 12 | Common argument across many preachers (Spurgeon, 9Marks, Desiring God). Not traceable to one source. |
+| Matzah tash / afikomen Christological teaching | John 18 | Standard Messianic Jewish teaching since Robert Eisler (1925). Common knowledge in evangelical circles. |
+| Cargo cult analogy | Eph 1 | No specific preacher's version identified. Note: cargo cults are Melanesian/Pacific, not African as stated. |
+| "10% do 90% of the work" | 1 Cor 12 | Common church statistic (sometimes 80/20). No single source. |
+
+### 6.4 Sermon-by-Sermon Summary
+
+| Sermon | External Plagiarism | Unattributed Famous Quotes | Properly Attributed |
+|---|---|---|---|
+| 1 Corinthians 12 — Church Membership | None | None | "Checkbook" quote (to professor) |
+| Colossians 2 — Quilted Together | None | None | Piper (×2), Voskamp, Townend |
+| Colossians 4 — Prayer | None | None | Muller, Meyer, Wittman |
+| Cultural Marxism / CRT | None | None | Brooks, Mohler |
+| Ephesians 1 — Angels/Demons | None | None | Hastings |
+| Galatians 6 — Sowing/Reaping | None | **Flood story (unattributed), Titanic (common)** | Toplady, Spurgeon, Luther, Lawson |
+| Hebrews 3 — Christ > Moses | None | **⚠️ Bunyan quote (unattributed)** | None needed |
+| Hebrews 1 — Old vs New | None | **⚠️ Bunyan quote (unattributed)** | Platt |
+| IDOP — Persecuted Church | None | Tertullian (minor) | VOM Korea material |
+| John 18 — The Betrayal | None | None | Townend, floating "friends" quote |
+| Psalm 103 — Hesed Love | None | None | JFB commentary |
+
+---
+
+## SECTION 7: Conclusion
 
 ### No Plagiarism Found
 
