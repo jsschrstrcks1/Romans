@@ -248,7 +248,7 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 |------|-----------|
 | `Proverbs 13 (raw draft).md` | Multiple verification flags on quotes and statistics |
 | `Psalm 2 (raw draft).md` | ~~11 flags~~ — **All resolved** ✓ (Heb 13:3 ESV, Edwards Q2 fixed, LORD/Lord corrected incl. v.4 Adonai, IDOP first Sunday, 7 duplicate lines removed); ⚠️ "53 countries" and "Russia in Revelation" remain as noted interpretive/dated-data flags |
-| `Psalm 8 - Hebrews 2 (raw draft).md` | 4 flags: needs ESV conversion, quote verification |
+| `Psalm 8 - Hebrews 2 (raw draft).md` | ~~4 flags~~ — **Duplicates resolved** ✓ (4 partial lines removed); ESV corrections applied ✓; J.C. Ryle verified ✓; "How He Loves" / McMillan corrected ✓; Caño Cristales corrected ✓. ⚠️ David Platt cab driver story unverified (no indexed source); ⚠️ Edwards "just the sin" quote not in Yale critical edition (possibly misattributed); ⚠️ MacArthur "serve righteousness as slaves" — paraphrase of Rom 6:18-19, not confirmed direct quote — all three flagged inline in draft |
 | `Psalm 119 161-168 (raw draft).md` | ~~10 flags~~ — **8 resolved** ✓ (Fenn corrections, US population, Brother Andrew prayer/Romania verified); ⚠️ Florida "more than rest of country combined" (opiates/Xanax) — directionally accurate for pill-mill era, exact phrase unverified; update with sourced stats before reprising |
 | `Psalm 68 Part 2 (raw draft).md` | ~~7 flags~~ — **All resolved** ✓ (Prov 27:17 ESV, 1 Kgs 18 LORD, prophet count 850, Elijah timeline, duplicate line removed) |
 | `1 Thess 5 - Rejoice Always (raw draft).md` | ~~7 flags~~ — **All resolved** ✓ (Spurgeon verified Sermon #2483, "3 million" → ~1.3M, "Communists defeated" corrected, duplicate line removed) |
