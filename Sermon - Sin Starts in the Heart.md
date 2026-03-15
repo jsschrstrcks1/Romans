@@ -1,7 +1,7 @@
 # Sin Starts in the Heart
 ## Genesis 2:15–17
 
-*[Part of the through-the-Bible series. Follows the Genesis 1–2 sermon on creation and precedes the Genesis 3 sermon on the fall.]*
+*[Part of the through-the-Bible series. Follows the Genesis 1–2 sermon on creation and precedes the Genesis 3 sermon on the fall. Conclusion drafted from series arc and theological lineage — see end notes.]*
 
 ---
 
@@ -60,11 +60,25 @@ Fortunately my mom — who swore she had eyes in the back of her head, and I'm s
 
 Adam and Eve did this in a major way.
 
-They had a proverbial fork. They were huddled around the socket. And when they pushed the fork in together, instead of just damaging the two of them, it triggered a curse — a shattering of all creation. We talked earlier about how something doesn't seem —
+They had a proverbial fork. They were huddled around the socket. And when they pushed the fork in together, instead of just damaging the two of them, it triggered a curse — a shattering of all creation. We talked earlier about how something doesn't seem right about the world anymore. About how that staggeringly balanced creation we described in Genesis 1 — built to flourish, running exactly as designed for thousands of years — doesn't match what we experience. There's a gap between what creation was made to be and what it is.
 
----
+Those stories I told you this morning are not news. They are symptoms.
 
-*[MANUSCRIPT INCOMPLETE — raw notes end here, mid-sentence. The sermon continues but the source material was cut off. The final thought appears to connect to a prior discussion about how the world now feels wrong or broken — that something in creation, after the fall, no longer fits the way it was designed. Complete this section and provide a closing before preaching.]*
+The child in the parking lot. The little girl dragged toward a stranger's car. The man who held his own child at gunpoint for eight hours. The husband who hid a secret life until it destroyed his family. All of it is downstream from this moment — from this tree, this fruit, this decision in the heart before the act. Every headline you read, every tragedy that lands in your newsfeed, every thing about this world that makes you say *this is not right* — it traces back here. To Genesis 2:15–17. To the fork in the socket.
+
+That's the bad news.
+
+But here's the thing. There was a second garden.
+
+Where Adam faced a tree and failed, the second Adam faced a garden too. In Gethsemane, Jesus knelt in the dirt and prayed: *Father, if it be possible, let this cup pass from me.* He knew what was in the cup. He chose to drink it anyway. *Not my will, but yours.*
+
+Where Adam said *I will eat* — Jesus said *I will drink.*
+
+Paul puts it plainly in Romans 5 — just as through one man's disobedience the many were made sinners, so through one man's obedience the many will be made righteous. The first Adam broke it. The last Adam is putting it back together.
+
+That's where this series is heading. And that's the gospel.
+
+Let's pray.
 
 ---
 
@@ -72,8 +86,10 @@ They had a proverbial fork. They were huddled around the socket. And when they p
 
 **Scripture verified (ESV):**
 - Genesis 2:15–17: "The LORD God took the man and put him in the garden of Eden to work it and keep it. And the LORD God commanded the man, saying, 'You may surely eat of every tree of the garden, but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.'" ✓
+- Romans 5:19: "For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous." ✓
+- Matthew 26:39: "And going a little farther he fell on his face and prayed, saying, 'My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will.'" ✓
 
-**Manuscript is incomplete:** The raw notes cut off mid-sentence: "We talked earlier about how something doesn't seem ihf." "ihf" is an apparent voice-to-text transcription error and the actual word could not be determined from context. The sentence appears to reference a concept from a prior sermon in the series about how the post-fall world feels wrong or disordered — a reflection of what sin broke. This section requires completion before the sermon can be preached. Add a conclusion that: (1) completes the "shattering of creation" arc, (2) connects the depravity in the opening news stories to the root cause (the fall), and (3) brings it forward to the gospel — how Christ is the answer to what Adam and Eve broke.
+**Manuscript completion note:** The raw notes cut off mid-sentence with a voice-to-text error ("ihf"). The conclusion was drafted from the series arc: (1) completing the "shattering of creation" thought by connecting it to the prior Gen 1–2 sermon on perfect creation vs. what we experience now; (2) closing the loop on the opening news stories as symptoms of the fall; (3) gesturing toward the gospel via the second-Adam contrast (Adam's tree / Christ's garden, Romans 5:19). The Romans 5 treatment is intentionally brief — the Gen 3 sermon carries the fall forward and the gospel development belongs to later messages in the series.
 
 **Series context:** This message follows `Other-Sermons/Sermons/Gen 1-2 - beautiful but not safe.txt` (creation, anthropic principle, poetry of Genesis 1, the grandmother painting illustration) and precedes `Other-Sermons/Sermons/Gen 3.md` (Crawford Toy, Genesis 3:1, the fall). The literal-tree argument, the reference to the anthropic principle from prior weeks, and the "walked with God as a pattern" reference all presuppose the congregation has the earlier messages in their ears.
 
