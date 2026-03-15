@@ -95,7 +95,7 @@ Every time *hesed* is used, there is another dimension to it though. There is an
 
 Rahab is a better example. She is said to have exhibited *hesed* love for the soldiers, and they — and God — in turn expressed *hesed* love for her, in sparing her and her family, in their home still standing after the destruction of Jericho.
 
-**The Good Samaritan.** Another example is the Good Samaritan. You remember the story, of course. An Israelite was walking down the road, was beaten up, robbed, and left for dead. A Levite walks past and did nothing. Then a priest came along, and he scurried on to church rather than help the dying destitute man. Finally a Samaritan walks past, and the Samaritan bandages him up, gets him to an inn, and leaves enough money for them to take care of the Israelite until he's well again. When Jesus says, "Which of these three loved their neighbor?" — the word he used was *hesed*.
+**The Good Samaritan.** Another example is the Good Samaritan. You remember the story, of course. An Israelite was walking down the road, was beaten up, robbed, and left for dead. A Levite walks past and did nothing. Then a priest came along, and he scurried on to church rather than help the dying destitute man. Finally a Samaritan walks past, and the Samaritan bandages him up, gets him to an inn, and leaves enough money for them to take care of the Israelite until he's well again. When Jesus asks, "Which of these three proved to be a neighbor?" — the answer points to the one who showed mercy, the Greek word *eleos*. It's the same concept the Old Testament captured in *hesed*: undeserved, covenant-faithful, pursuing love.
 
 It's undeserved, steadfast love from God — and the loving response that engenders in a truly saved person as a result.
 
@@ -121,7 +121,12 @@ Yet Scripture says:
 > But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ — by grace you have been saved.
 > — Ephesians 2:4-5 (ESV)
 
-And in another place — while we were yet sinners, Christ died for us. Or:
+And in another place:
+
+> but God shows his love for us in that while we were still sinners, Christ died for us.
+> — Romans 5:8 (ESV)
+
+Or:
 
 > For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit.
 > — 1 Peter 3:18 (ESV)
