@@ -12,10 +12,10 @@
 - ✓ Forrest Fenn / poem clues *(corrected March 2026)*: Body now references "home of Brown" and "where warm waters halt" as closer paraphrases. Prior draft said "brown house" and "end of the warm water."
 - ✓ Forrest Fenn / deaths *(corrected March 2026)*: Body now reads "at least five documented deaths." Prior draft said "at least one." Note: "foul play" phrasing removed — specific sourcing was unavailable; the documented deaths are sufficient for the illustration.
 - ✓ Forrest Fenn / geography *(corrected March 2026)*: Body now reads "Mountain West." Prior draft said "the Midwest."
-- ⚠️ Brother Andrew / prayer: verify exact wording against *God's Smuggler*
-- ⚠️ Brother Andrew / Romania: verify destination was Romania specifically (some tellings reference Yugoslavia or other Eastern Bloc countries)
-- ⚠️ Florida stats / opiates: "more than rest of country combined" — verify currency and accuracy; likely from pill-mill era (~2010)
-- ⚠️ Florida stats / Xanax: same concern
+- ✓ Brother Andrew / prayer *(verified)*: Exact text from *God's Smuggler*: "Lord, in my luggage I have Scripture that I want to take to Your children across this border. When You were on earth, You made blind eyes see. Now, I pray, make seeing eyes blind. Do not let the guards see those things You do not want them to see." Sermon uses "in my car" (consistent with the Romanian VW Beetle crossing) and abbreviates slightly — acceptable in preaching; use full book version if citing in print.
+- ✓ Brother Andrew / Romania *(verified)*: Romania confirmed. The 1957 crossing into Romania is the famous incident. *(Note: Andrew smuggled into multiple Eastern Bloc countries over his career; Romania is accurately the most documented story.)*
+- ⚠️ Florida stats / opiates: "more than rest of country combined" — exact phrase unverified. What is documented: 90 of the top 100 oxycodone-purchasing doctors in the entire US were in Florida during the pill-mill era (~2010). The illustration is directionally accurate; the specific "combined" phrasing is likely hyperbolic. Consider updating to the verifiable "90 of 100" statistic if reprising.
+- ⚠️ Florida stats / Xanax: Benzodiazepines (including Xanax/alprazolam) were heavily prescribed alongside opioids in Florida's pill mills — the "holy trinity" combo (opioid + benzo + muscle relaxant) is well documented. "More than the rest of the country combined" for Xanax alone is not verified by any specific study found. Flag for update if reprising.
 - ✓ US population *(corrected March 2026)*: Body now reads "~330 million." Prior draft said "400m."
 
 ---
@@ -34,7 +34,7 @@ One man named Andrew had searched for and found some of this treasure we've been
 
 The same thing happened to the second car, and the third. So brother Andrew began to pray. He prayed "Lord, in my car I have Scripture I want to take to your children. When you were on earth, You made blind eyes see. Now, I pray, make seeing eyes blind.  Do not let the guards see those things You do not want them to see."
 
-He felt God urging him to put a couple bibles on the dash in plain view. He obedient did so.
+He felt God urging him to put a couple bibles on the dash in plain view. He obediently did so.
 
 Car number four in line received the same treatment, car number five received the same treatment. People were handcuffed and held at gun point till everything in their car had been searched thoroughly.
 

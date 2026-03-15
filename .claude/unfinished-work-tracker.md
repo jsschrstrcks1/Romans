@@ -247,9 +247,9 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 | File | Key Flags |
 |------|-----------|
 | `Proverbs 13 (raw draft).md` | Multiple verification flags on quotes and statistics |
-| `Psalm 2 (raw draft).md` | 11 flags requiring verification: Heb 13:3 may be KJV not ESV; Edwards quote may have transcription error; "Lord" vs "LORD" in Psalm 2 quotes flagged; IDOP date and "53 countries" flagged as needing verification |
+| `Psalm 2 (raw draft).md` | ~~11 flags~~ — **All resolved** ✓ (Heb 13:3 ESV, Edwards Q2 fixed, LORD/Lord corrected incl. v.4 Adonai, IDOP first Sunday, 7 duplicate lines removed); ⚠️ "53 countries" and "Russia in Revelation" remain as noted interpretive/dated-data flags |
 | `Psalm 8 - Hebrews 2 (raw draft).md` | 4 flags: needs ESV conversion, quote verification |
-| `Psalm 119 161-168 (raw draft).md` | 10 flags: multiple quotes and cross-references unverified |
+| `Psalm 119 161-168 (raw draft).md` | ~~10 flags~~ — **8 resolved** ✓ (Fenn corrections, US population, Brother Andrew prayer/Romania verified); ⚠️ Florida "more than rest of country combined" (opiates/Xanax) — directionally accurate for pill-mill era, exact phrase unverified; update with sourced stats before reprising |
 | `Psalm 68 Part 2 (raw draft).md` | ~~7 flags~~ — **All resolved** ✓ (Prov 27:17 ESV, 1 Kgs 18 LORD, prophet count 850, Elijah timeline, duplicate line removed) |
 | `1 Thess 5 - Rejoice Always (raw draft).md` | ~~7 flags~~ — **All resolved** ✓ (Spurgeon verified Sermon #2483, "3 million" → ~1.3M, "Communists defeated" corrected, duplicate line removed) |
 | `Philippians 4 (raw draft).md` | 16 flags: extensive verification needed |
