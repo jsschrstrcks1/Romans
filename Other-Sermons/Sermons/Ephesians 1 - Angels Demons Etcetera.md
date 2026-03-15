@@ -1,3 +1,5 @@
+> **DEPRECATED** — This is an earlier condensed draft. The authoritative version with all corrections applied is `Eph 1 - Angels Demons Etcetera.md`. This file is retained for reference only and should not be used for preaching or publication.
+
 # Ephesians 1:3-14 — Angels, Demons, Etcetera
 
 **Primary Text**: Ephesians 1:3-14
