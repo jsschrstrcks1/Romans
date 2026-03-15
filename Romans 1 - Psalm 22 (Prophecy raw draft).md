@@ -79,8 +79,8 @@ You know which door you've been living behind. And you know if tonight's the nig
 ## ⚠️ Flags for Future Polish
 
 - **"68% accuracy" stat for modern prophets**: No source given in draft. Inline flag reads "Source needed — verify before preaching." Do not cite without a verified attribution.
-- **Adrian Rogers — 108 OT references to Christ**: Number cited without a specific source document or sermon. Verify the quote before repeating from the pulpit.
-- **R.A. Torrey — 300 OT references**: Book title not given. Widely attributed to Torrey; confirm the specific work (likely *The Bible and Its Christ* or a similar compilation) before citing.
+- ✅ **Adrian Rogers — 108 OT references to Christ** *(confirmed March 2026)*: Verified. Number comes from Rogers' sermon "Christ of the Old Testament," Sermon #2299 (Love Worth Finding Ministries). The sermon highlights 8 of the 108 as examples. Also connects to Professor Peter Stoner's probability calculations. ✓
+- ⚠️ **R.A. Torrey — 300 OT references**: Book title not confirmed in indexed sources. Torrey published extensively on OT prophecy and Christ (works include *The Bible and Its Christ*, sermons in *Studies in the Life and Teachings of Our Lord*). The "300 prophecies" figure is widely repeated but the exact source text cannot be confirmed from available digital sources. Verify the specific title before citing from the pulpit.
 - **Romans 10:9** ✓ *Corrected (March 2026)*: Body now reads ESV exactly — "confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead."
 - **Psalm 22 prophecy table**: 11 cross-references listed (Ps 22 → Matthew/John passages). Individual references not checked line-by-line here; verify each fulfillment citation against ESV before printing for congregational use.
 - **Deuteronomy 18:20–22** ✓ *Corrected (March 2026)*: Verse numbers added in body.
