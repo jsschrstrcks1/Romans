@@ -954,4 +954,28 @@ There is an advisory board meeting immediately following the service, if you're 
 
 ---
 
+## Sermon: Genesis 31:4-21 — Idolatry
+
+**File**: `Other-Sermons/Sermons/Genesis 31 - Idolatry (raw draft).md`
+**Primary Text**: Genesis 31:4-21
+**Supporting Texts**: Gen 30, Gen 31:41, Gal 5:19-21, Lev 19:26, 19:31, 20:6, 20:27, Ex 22:18, Deut 18:10-12, Rom 3:10, John 3:16
+**Themes**: Idolatry, divination/occult, teraphim, Rachel's stolen household gods, God uses imperfect people, cycle of idolatry in Israel
+**Status**: Polished from raw transcript, 2026-03-15. Transcript appears truncated at personal anecdote.
+
+**Key content**:
+- Backstory: Jacob works 20 years for Laban; wages changed 10 times; spotted sheep via peeled bark sticks (Gen 30) — bark mold/epigenetics hypothesis (Dr. Joshua Backon, *Jewish Bible Quarterly* 2008; plausible but speculative)
+- Rachel steals Laban's teraphim (Gen 31:19) — Hebrew תְּרָפִים; associated with divination and fertility
+- Teaching on divination/occult: all such practices appeal to demonic power; Gal 5:19-21 lists sorcery among works of flesh; OT death penalty for practitioners (Ex 22:18, Lev 20:27); seekers cut off (Lev 20:6)
+- Moon Lake area druids — local geographic reference
+- Rachel's possible motives: interrupt Laban's divination, or use teraphim for fertility (given her barrenness)
+- Cycle of idolatry begins with Rachel; recurring theme through Israel's history
+- God uses imperfect people: Jacob (deceiver, polygamist), David (murdering adulterer) — yet God uses them
+- "Dad" references — preacher's father also preaches at this church (David sermons)
+- Preacher studying Hebrew at time of delivery
+- Personal anecdote: someone destroyed wireless router with water hose; preacher admits he didn't handle it with grace (transcript cuts off here)
+
+**Integrity notes**: 2 Scripture corrections (Rom 3:10 NIV→ESV, John 3:16 KJV/NIV→ESV); death penalty counts overstated (claimed 3× Leviticus / 5× OT; actual: 1× Lev, 2× OT); teraphim description broadly correct but "crude" is unsupported; four-entity categorization flagged as pedagogical simplification; bark mold hypothesis flagged as speculative; 6 typo fixes
+
+---
+
 ## PROCESSING MARKER: Remaining sermons to be appended (Catholicism, Jn 14, Lk 2, Rom 2, Acts 18, BFM HS, 2 Cor 5)
