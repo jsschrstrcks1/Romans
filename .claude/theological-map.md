@@ -123,6 +123,8 @@ Suffering is not punishment for the believer. It is training. **Explicit. Tradit
 > "The three roles of Christ are Prophet, Priest and King."
 > — `Sola Christus.md`
 
+The Judges 8 sermon develops this extensively through Gideon as a negative type: Gideon acted as king (tax, signets of power), prophet (God spoke through angel), and priest (made an ephod) — but failed in all three offices, unlike Christ. Every OT figure who foreshadows Christ ultimately falls short. See `Judges 8 - Prophet Priest and King (raw notes).md`.
+
 Calvin's *munus triplex* explicitly taught. **Explicit. Tradition: Reformed (Calvin).**
 
 #### Sole Mediator
