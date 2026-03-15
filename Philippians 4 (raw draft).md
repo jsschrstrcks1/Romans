@@ -10,13 +10,13 @@
 ## Verification Flags
 
 - [ ] **Mo-Jer-Hai of China** — People group details need confirmation before presenting publicly. Claimed: ~7,000 members, Hunan mountains, completely unreached and unengaged, culture centers on singing and dancing. [FLAG: VERIFY WITH JOSHUA PROJECT OR EQUIVALENT SOURCE BEFORE PREACHING]
-- [ ] **C.T. Studd quote** — "This life twill soon be past, only whats done for Christ will last." Verify exact wording and that it is correctly attributed to C.T. Studd (1860–1931). [FLAG: VERIFY EXACT WORDING]
-- [ ] **Samuel Sey quote** — "If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear." Preacher describes him as "a southern Baptist from Ghana." Verify attribution, exact wording, and that the denominational description is accurate. [FLAG: VERIFY ATTRIBUTION AND WORDING]
-- [ ] **"Lovely" used only once in the NT** — The Greek word in Philippians 4:8 is *prosphilēs*. Verify that this is its only NT occurrence. Also verify that the two LXX (Septuagint) occurrences are indeed Song of Solomon and Psalm 84:1. [FLAG: VERIFY LINGUISTIC CLAIM]
-- [ ] **Psalm 84 quote** — Preacher quotes: *"How lovely is your dwelling place, O LORD of hosts! My soul longs, yes, faints for the courts of the LORD; my heart and flesh sing for joy to the living God."* Verify this is ESV Psalm 84:1–2 and that the LXX uses *prosphilēs* here. [FLAG: VERIFY PASSAGE AND LXX WORD]
+- [x] **C.T. Studd quote** — ⚠️ WORDING ERROR CORRECTED. The correct refrain is: *"Only one life, 'twill soon be past, only what's done for Christ will last."* The draft uses "This life" — but the poem begins "Only one life." Attribution to C.T. Studd (1860–1931) is confirmed. The draft text at line 72 has been corrected.
+- [ ] **Samuel Sey quote** — "If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear." ⚠️ Quote NOT FOUND in online sources — cannot be verified before preaching. ⚠️ DESCRIPTION ERROR: The draft describes him as "a Southern Baptist from Ghana who now lives and preaches in Ghana" — this is inaccurate on both counts. Samuel Sey is a Ghanaian-Canadian Christian writer based in Ohio (not Ghana); his denominational affiliation is unconfirmed (he contributes to Founders.org and Desiring God but is not confirmed Southern Baptist). Description in body text corrected. Quote itself must be verified with Sey directly or removed before preaching.
+- [x] **"Lovely" used only once in the NT** — ✅ CONFIRMED: *prosphilēs* (Phil 4:8) is a NT hapax legomenon. ⚠️ LXX CLAIM CORRECTED: The draft states the two LXX occurrences are Song of Solomon and Psalm 84:1 — this is WRONG. LXX Psalm 84:1 uses ἀγαπητά (*agapēta*), not *prosphilēs*. Song of Solomon also does not use *prosphilēs*. The confirmed LXX occurrences of *prosphilēs* are **Esther 5:1** and **Sirach 4:7; 20:13**. The connection to Psalm 84 is thematic (same concept of love/loveliness) but the Greek words differ. Body text corrected.
+- [x] **Psalm 84 quote** — ✅ ESV Psalm 84:1–2 confirmed exact: *"How lovely is your dwelling place, O LORD of hosts! My soul longs, yes, faints for the courts of the LORD; my heart and flesh sing for joy to the living God."* ⚠️ However, note that the LXX does NOT use *prosphilēs* at Psalm 84:1 — it uses ἀγαπητά. The thematic connection stands; the linguistic claim does not. Body text corrected.
 - [x] **Greek word for "noble/honorable" = semnos** ✓ *Confirmed*: The Greek behind "whatever is honorable" (ESV Phil 4:8) is σεμνός (*semnos*). The body gloss "noble" is acceptable; ESV renders it "honorable." Both capture the sense of dignified, worthy of respect.
-- [ ] **Spurgeon quote** — "You will never glory in God till first of all God has killed your glorying in yourself." Verify exact wording and source. [FLAG: VERIFY EXACT WORDING AND SOURCE]
-- [ ] **Richard Baxter quote** — "Unbelievers seek their happiness in the things of the world. Believers find their happiness in God. It is contrary to the nature of faith for a believer to seek peace in his earthly enjoyments. Our present pilgrimage is a prison, yet alas, we too commonly do this. By this we kill our comforts and then complain they are missing. It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain." Verify attribution and accuracy. [FLAG: VERIFY]
+- [x] **Spurgeon quote** — ✅ VERIFIED. Exact wording confirmed against primary text. Source: *"Glorifying in the Lord,"* C.H. Spurgeon, January 1, 1874, on 1 Corinthians 1:31, Metropolitan Tabernacle Pulpit Vol. 20.
+- [ ] **Richard Baxter quote** — ❌ UNVERIFIED. Exhaustive search of online Baxter sources (Goodreads, GraceQuotes, Wikiquote, ChristianQuotes.info, Hail and Fire, EEBO-adjacent sources) found NO match for this quote in any known Baxter text including *The Saints' Everlasting Rest*, *The Reformed Pastor*, *A Call to the Unconverted*, or *Dying Thoughts*. This quote MUST NOT be attributed to Baxter from the pulpit until a primary source is identified. Options: (1) Remove the quote entirely; (2) Replace with a verified Baxter quote; (3) Present it without attribution as a paraphrase of Puritan thought; (4) Research the *Practical Works* (23 vols.) directly. The body text flag below has been updated accordingly.
 - [ ] **Pew Bible page number** — Left blank in draft. Fill before Sunday.
 
 ---
@@ -69,9 +69,9 @@ The solution to communism is the gospel. The solution to sin in this world is th
 
 **[Eternal perspective]**
 
-As I mentioned last week, we are eternal beings having a temporal experience. This world and its hundred years of life will soon be past. In the words of C.T. Studd: *"This life twill soon be past, only what's done for Christ will last."*
+As I mentioned last week, we are eternal beings having a temporal experience. This world and its hundred years of life will soon be past. In the words of C.T. Studd: *"Only one life, 'twill soon be past, only what's done for Christ will last."*
 
-**[FLAG: Verify C.T. Studd quote — exact wording before citing from pulpit.]**
+**[✅ VERIFIED — wording corrected from draft. "Only one life" not "This life."]**
 
 For the believer, this world is the worst thing we will ever experience. For the lost, however, this is as good as it gets. That should break our hearts. There are good things in this life — love, family, and so on. But even those things are dim shadows of what will come in heaven for eternity. Even now those things are tainted by our sinful hearts. But one day — already and at once not-yet and for eternity — that taint of sin will be fully removed from our perspective and we will be rejoicing in the presence of our Savior forever. Loving fully.
 
@@ -133,9 +133,9 @@ Worthy rewards for sure.
 
 **[Whatever is true — the list]**
 
-As we turn to the final part of the chapter, I want to read a quote from a preacher named Samuel Sey. He's a Southern Baptist from Ghana who now lives and preaches in Ghana. He wrote: *"If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear."*
+As we turn to the final part of the chapter, I want to read a quote from a Christian writer named Samuel Sey — a Ghanaian-Canadian writer whose work has appeared at Desiring God and Founders Ministries. He wrote: *"If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear."*
 
-**[FLAG: Verify Samuel Sey quote — exact wording, attribution, and whether "Southern Baptist from Ghana" is an accurate description.]**
+**[⚠️ DESCRIPTION CORRECTED: He is Ghanaian-Canadian, based in Ohio — not "Southern Baptist from Ghana preaching in Ghana." Denominational affiliation unconfirmed. QUOTE STILL UNVERIFIED — cannot be found in online sources. Verify with Sey directly or remove before preaching.]**
 
 I think that's important to keep in mind as we read this last section, because there is a wonderful list of things we can focus on.
 
@@ -165,7 +165,7 @@ Unlike other things in this world: if you hear something on the news, maybe it's
 
 ---
 
-**Whatever is lovely.** This is a neat word — it's the only time it's used in the New Testament. However, in the Greek translation of the Hebrew Old Testament it appears twice. Once in Song of Solomon, and a second time in Psalm 84:
+**Whatever is lovely.** This is a neat word — it's the only time it's used in the New Testament. The Greek word is *prosphilēs* — it means "that which inspires love and affection," something pleasing and dear to the heart.
 
 *"How lovely is your dwelling place, O LORD of hosts! My soul longs, yes, faints for the courts of the LORD; my heart and flesh sing for joy to the living God."* (Psalm 84:1–2, ESV)
 
@@ -173,7 +173,7 @@ Where it says "how lovely is your dwelling place" — it's talking about the pla
 
 Looking forward to the glories of heaven helps quite a bit when things are hard.
 
-**[FLAG: Verify that "lovely" (prosphilēs) in Philippians 4:8 is indeed a NT hapax legomenon, and that its two LXX occurrences are Song of Solomon and Psalm 84:1. Confirm LXX spelling and ESV accuracy of Psalm 84:1–2 quote above.]**
+**[✅ VERIFIED: *prosphilēs* is a NT hapax legomenon (Phil 4:8 only). ✅ Psalm 84:1–2 ESV text confirmed exact. ⚠️ LXX CLAIM CORRECTED: The original draft stated the two LXX occurrences were Song of Solomon and Psalm 84:1. This is wrong — verified against the Blue Letter Bible LXX: Psalm 84:1 uses ἀγαπητὰ (*agapēta*), not *prosphilēs*. The thematic connection to Psalm 84 is real and the illustration stands, but the linguistic claim ("the same word") has been removed from the body text above.]**
 
 ---
 
@@ -199,7 +199,7 @@ It all comes back to setting aside yourself in favor of what God wants.
 
 Charles Spurgeon once said: *"You will never glory in God till first of all God has killed your glorying in yourself."*
 
-**[FLAG: Verify Spurgeon quote — exact wording and source before using from pulpit.]**
+**[✅ VERIFIED — exact wording confirmed against primary text. Source: *"Glorifying in the Lord,"* C.H. Spurgeon, January 1, 1874, on 1 Corinthians 1:31, Metropolitan Tabernacle Pulpit Vol. 20.]**
 
 I think he would agree that when we get overly upset about thieving neighbors, it falls under that category. When we are upset about the direction our country is heading and have rebellious thoughts — that falls under that category. We want to be comfortable, we want to be successful, we want to be prosperous, we want to live in what is — in my opinion — the greatest nation in the world. We want all of these things. But when the rubber meets the road, all too often it's all about "I." What Spurgeon calls "glorying in yourself."
 
@@ -207,11 +207,10 @@ Christian — there is only One we should glory in, and that is Jesus Christ. If
 
 ---
 
-Richard Baxter wrote:
+**[⚠️ BAXTER QUOTE REMOVED FROM PREACHING TEXT — UNVERIFIED. This quote could not be traced to any known Baxter work after exhaustive search. Do not attribute to Baxter from the pulpit. If this illustration is needed, either find the primary source in Baxter's *Practical Works* (23 vols.) or replace with a verified quote on the same theme. Options: Thomas Watson, *The Art of Divine Contentment*; Richard Sibbes, *The Bruised Reed*; or a direct paraphrase of Philippians 4:11 without attribution.]**
 
-*"Unbelievers seek their happiness in the things of the world. Believers find their happiness in God. It is contrary to the nature of faith for a believer to seek peace in his earthly enjoyments. Our present pilgrimage is a prison, yet alas, we too commonly do this. By this we kill our comforts and then complain they are missing. It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain."*
-
-**[FLAG: Verify Richard Baxter quote — exact wording and source before using from pulpit.]**
+*Original draft text (unverified attribution to Richard Baxter — do not preach as Baxter's):*
+> "Unbelievers seek their happiness in the things of the world. Believers find their happiness in God. It is contrary to the nature of faith for a believer to seek peace in his earthly enjoyments. Our present pilgrimage is a prison, yet alas, we too commonly do this. By this we kill our comforts and then complain they are missing. It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain."
 
 ---
 
