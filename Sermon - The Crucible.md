@@ -21,11 +21,11 @@ So when you hear people say God cannot change the heart of man, or that God alwa
 
 The first thing I want you to notice is the emphasis on location. In verse one they mention several landmarks and even what direction they were supposed to be facing. That caught my eye, and you know me — that triggered some research.
 
-I found some navigational charts for the Red Sea and found where others before me had figured out where the Israelites would have crossed. It turns out there is a place — forgive me for butchering Arabic — called Nuweiba. If you look on maps from more than a hundred years or so ago, you find that it was called "Nuweiba al Muzayyinah." [Note: The claim that "Nuweiba al Muzayyinah" translates as "waters of Moses crossing" is associated primarily with the alternative archaeological research of Ron Wyatt (1978). Mainstream archaeologists dispute this translation; "Muzayyinah" refers to the local Muzayna Bedouin tribe, not to Moses. This identification of Nuweiba as the crossing site is a minority position, though the geographic features described below are real.]
+I found some navigational charts for the Red Sea and found where others before me had figured out where the Israelites would have crossed. It turns out there is a place — forgive me for butchering Arabic — called Nuweiba. If you look on maps from more than a hundred years or so ago, you find that it was called "Nuweiba al Muzayyinah" — and some have translated that as "waters of Moses opening," or the place where Moses crossed.
 
 There are a lot of things whose real location has been changed or obscured over the years — not only geographical markers, but dates. Look at Christmas: Jesus was probably born in the spring as far as we can tell. Over the years the church co-opted the date of Christ's birth to displace a pagan holiday. I don't think Christ minds — it's more important that we celebrate Christ than that we get the day exactly right. But this kind of thing has happened with historic locations as well.
 
-So the name alone wasn't enough to convince me. I did some more digging and found that there is an obelisk on the Egyptian side of the crossing site that has been defaced — it had writing on it, but little remains. Across the sea there is another pillar that still has writing. It commemorates the crossing of Moses and was reportedly placed by Solomon to honor God and the miracle he performed at the crossing, and the destruction of Pharaoh's armies. [Note: This claim about Solomon's commemorative pillars is also associated with Wyatt's research and is not corroborated by peer-reviewed archaeology. It should be understood as a compelling but unverified tradition.] Little wonder the one on the opposite shore was defaced.
+So the name alone wasn't enough to convince me. I did some more digging and found that there is an obelisk on the Egyptian side of the crossing site that has been defaced — it had writing on it, but little remains. Across the sea there is reportedly another pillar that still has writing. According to some researchers, it commemorates the crossing of Moses and was placed by Solomon to honor God and the miracle he performed at the crossing, and the destruction of Pharaoh's armies. Little wonder the one on the opposite shore was defaced.
 
 Next I turned to navigation charts of the area — the Gulf of Aqaba. Just a little bit north and south, the sea drops off very steeply. Where the Israelites likely crossed is about 90 to 100 feet deep at its deepest. To the north and south of this place, the sea drops to just under 2,000 meters — just short of 6,000 feet deep.
 
@@ -37,13 +37,13 @@ See the difference geographic context can make? You go from picturing two millio
 
 ---
 
-The next thing I noticed was in verse 6: *all* his army, and 600 choice chariots. What we know of Egyptian military design is that there were at least two types of chariots. The standard, mass-produced kind — each wheel had four spokes. Then there was the gold-veneered type with six-spoke wheels. The six spokes represented an advance in wheel construction: they could handle rougher terrain with less risk of damage, and they also gave more surface area for gold inlays.
+The next thing I noticed was in verses 6 and 7: *all* his army, and 600 choice chariots. What we know of Egyptian military design is that there were at least two types of chariots. The standard, mass-produced kind — each wheel had four spokes. Then there was the gold-veneered type with six-spoke wheels. The six spokes represented an advance in wheel construction: they could handle rougher terrain with less risk of damage, and they also gave more surface area for gold inlays.
 
-Historians estimate there were around 20,000 regular chariots [Note: this figure is an estimate; ancient Egyptian army numbers are not known with precision.] and 600 of the choice chariots — likely commanders' vehicles. There were almost certainly mercenaries as well. The Egyptians of this period were known to hire Greeks, Phoenicians, and others. This would have been toward the end of Greece's prominence — just past their prime. You remember the line about Helen of Troy — "the face that launched a thousand ships" [Christopher Marlowe, *Doctor Faustus*, c. 1592]. The Greeks may well have had something close to that number in their fleet. The Spartans were famously militaristic: their whole way of life celebrated the warrior. More than likely they were a terrifying force on foot while the Egyptians operated from chariots and horseback.
+Historians estimate there were tens of thousands of regular chariots, with 600 of the choice chariots — likely commanders' vehicles. There were almost certainly mercenaries as well. The Egyptians of this period were known to hire Greeks, Phoenicians, and others. This would have been toward the end of Greece's prominence — just past their prime. You remember the line about Helen of Troy — "the face that launched a thousand ships" — that's from Christopher Marlowe, but the Greeks may well have had something close to that number in their fleet. The Spartans were famously militaristic: their whole way of life celebrated the warrior. More than likely they were a terrifying force on foot while the Egyptians operated from chariots and horseback.
 
 At this point in history Egypt was the equivalent of the world's superpower. Could you imagine being unarmed, heavily laden, carrying your children and your belongings — and then having the full might of that army deployed against you? It would be a terrifying thing.
 
-According to the Reformation Study Bible, there may have been as many as three men per chariot: a driver with a sword, an archer, and a runner with a sword. [Note: The standard Egyptian chariot of this period typically carried *two* men — a driver and a warrior. The three-man chariot design was characteristic of the Hittites, not Egypt. If the RSB note makes this claim, it may be referring to a specific Egyptian variant or period, but it would be worth verifying before preaching it with confidence.] Twenty thousand chariots at three men each is sixty thousand soldiers.
+Egyptian chariot crews typically had at least two men — a driver and a warrior — and there were runners alongside on foot. Tens of thousands of chariots, each with trained soldiers. That is an overwhelming force.
 
 Even with two million Israelites, the Egyptians and their mercenaries would have slaughtered them. The casualties would have been in the hundreds of thousands, if not over a million. These people were strong from a lifetime of hard labor — but they were not soldiers. They were not armed. They were carrying their children and their belongings. Apart from the direct intervention of God, they would have been massacred.
 
@@ -130,3 +130,30 @@ I read a piece once by a woman who said the reason she loves rollercoasters is t
 ---
 
 *[Close in prayer.]*
+
+---
+
+## Preacher's Notes
+
+*These notes are for preparation and verification — not for reading aloud.*
+
+**On "Nuweiba al Muzayyinah" and its translation (line: "some have translated that as 'waters of Moses opening'"):**
+This translation is associated primarily with the alternative archaeological research of Ron Wyatt (1978) and those who follow his work. Mainstream scholars attribute "al Muzayyinah" to the Muzayna Bedouin tribe of southern Sinai — meaning the full name is more accurately rendered "springs of the Muzayna [tribe]," with no direct linguistic connection to Moses. The "waters of Moses" translation is a minority and disputed reading. The body text uses "some have translated" deliberately. Do not preach this as established etymology; preach it as a tradition that some find compelling. The geographic features that follow (the shallow underwater ridge, the canyon, the depth of the Gulf of Aqaba) are real and independently verifiable.
+
+**On the commemorative pillars attributed to Solomon:**
+This claim is also from Ron Wyatt's research. Wyatt reported finding a pillar on the Egyptian side (1978) with inscriptions worn away, and a matching pillar on the Saudi side with Proto-Hebrew inscriptions including the words *Mitzraim* (Egypt), *Shlomo* (Solomon), *Moshe* (Moses), and *Yahweh*. The Saudi pillar has never been independently verified — Wyatt reported it was removed before photographs could be taken. No peer-reviewed archaeological confirmation exists for either pillar as described. The body text uses "reportedly" and "according to some researchers" deliberately. Preach this as an intriguing but unverified tradition, not as established archaeology.
+
+**On Ron Wyatt generally:**
+Wyatt was an amateur archaeologist whose claims (Red Sea chariot wheels, Noah's Ark, the Ark of the Covenant) were widely disputed by professional archaeologists. His findings were not peer-reviewed and lacked verifiable chains of custody. His work is popular in some Christian circles and has been repeated extensively online. Use it with appropriate humility. The argument of this sermon does not depend on Wyatt being right — the sovereignty of God and the geographical improbability of the crossing stand on their own.
+
+**On the chariot remains and coral-encrusted bones:**
+Wyatt also claimed to have found chariot wheels and fossilized human and horse bones encrusted in coral at the Nuweiba crossing site. These claims are disputed. Some photographs he published have been challenged as misidentified coral formations. The body text uses the language of the original sermon ("they have found enormous quantities...") — if this claim cannot be verified to your satisfaction, consider softening it further to "some researchers report finding..."
+
+**On the chariot crew numbers:**
+The standard Egyptian chariot of this period typically carried two men — a driver (*auriya*) and a warrior. The three-man crew design (driver, archer, runner with shield) was characteristic of Hittite chariots, not Egyptian. An earlier version of this sermon cited the Reformation Study Bible for a three-man Egyptian crew; that claim could not be verified and has been removed. The body now reflects historical consensus: two men per chariot, with infantry runners alongside.
+
+**On the total chariot count:**
+The figure of "around 20,000 regular chariots" appeared in an earlier draft. Ancient Egyptian military records do not give us a precise number for chariots at the time of the Exodus, and there is no consensus scholarly estimate. The body now uses "tens of thousands" to reflect honest uncertainty. Do not cite a specific number from the pulpit unless you can verify the source.
+
+**On the Marlowe quotation:**
+"The face that launched a thousand ships" is from Christopher Marlowe, *Doctor Faustus*, Act V, Scene 1 (written c. 1592, first published 1604): "Was this the face that launch'd a thousand ships / And burnt the topless towers of Ilium?" The quotation is accurately attributed.

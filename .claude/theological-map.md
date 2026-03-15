@@ -482,6 +482,12 @@ Election is active. Reprobation is preterition (passing over). **Explicit. Tradi
 
 Particular redemption held together with a free, sincere, urgent gospel offer. In the tradition of Andrew Fuller and Spurgeon — not hyper-Calvinist. **Explicit. Tradition: Evangelical Calvinism.**
 
+#### God's Sovereignty Over the Human Will — The Pharaoh Argument
+> "There are entire denominations founded around the idea that man's will is sovereign over God. Yet time after time after time in this story we see God hardening the heart of a man, or of men. If God has the power to harden Pharaoh's heart, does he not have the power to soften people's hearts? To draw people to himself? Absolutely — and praise God for it. No one is ever too far gone for God to reach and woo back to himself."
+> — `Sermon - The Crucible.md` (Exodus 14)
+
+The Exodus 14 narrative is used as a counter-apologetic: if Arminian theology claims God never overrides the human will, Pharaoh's hardening (Exod 14:8; cf. 9:12, 10:20, 10:27) is a direct rebuttal — and the same power that hardens also softens and draws. This argument runs parallel to the treatment in `Romans 9 - Who Are Gods People (raw transcript).md` and `Romans 9 pt 2.md`. Cross-preach opportunity: Exodus 14 as the narrative counterpart to Romans 9's doctrinal treatment. **Explicit. Tradition: Reformed.**
+
 ---
 
 ### 6. Ecclesiology (Doctrine of the Church)
