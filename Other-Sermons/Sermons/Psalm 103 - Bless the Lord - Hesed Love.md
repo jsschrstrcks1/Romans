@@ -73,6 +73,8 @@ When Bathsheba found she was pregnant, she contacted the king. David tried to ma
 
 That's the weight David is carrying when he says: *Forgive my sins.*
 
+Some of you carry weight like that. Not his exact sins — yours. The thing you did that you can't undo. The person you hurt who doesn't know it was you. David knew. And he came to God anyway.
+
 God's judgment on David was public. Their first-born son died. The prophet of God showed up and declared it was punishment for David's sin against Uriah and Bathsheba. David spent time in sackcloth and ashes, publicly mourning his sin and his son.
 
 It's interesting that public repentance seems to have preceded the great revivals throughout history as well.
@@ -85,7 +87,7 @@ David is thankful our sins are forgiven (v. 3), and then he gives thanks for sal
 
 Think about that word *steadfast*. Can anyone define it?
 
-Let me tell you about Hesed love.
+Now — Hesed.
 
 Remember the story of Abraham and Lot? They parted ways and Lot chose to go toward Sodom and Gomorrah — first living nearby, then beside it, then inside it. And one night Abraham pleaded for Lot's life. Hesed love is ascribed to God when he spares Lot's family the night those cities are destroyed — people who had no particular claim on God's protection, yet God extended mercy beyond what anyone had earned.
 
@@ -135,6 +137,8 @@ We deserved death and hell. Christ offers life eternal.
 
 We have so much to be thankful for.
 
+Sit with that for a moment. Really sit with it.
+
 ---
 
 ## Tesla and the Molecules
@@ -155,7 +159,17 @@ But he didn't. He allowed the trial. He allowed the beatings. He carried the cro
 
 > "This is my commandment, that you love one another as I have loved you. Greater love has no one than this, that someone lay down his life for his friends."
 
-He did all of that because he loved God with all his heart, soul, and strength — and he loved his neighbor as himself. Christ completed the law. Where the law was a flashlight in a cave, Christ is a lighthouse. And because of him, we who believe are dead to sin, dead to the consequence of the law, new creations. The old has passed away; behold, all things have become new.
+He knew what he could do. He didn't do it. That's the love.
+
+Christ completed the law. Where the law was a flashlight in a cave, Christ is a lighthouse. And because of him, we who believe are dead to sin, dead to the consequence of the law, new creations. The old has passed away; behold, all things have become new.
+
+---
+
+Some of you walked in here today carrying that billion-dollar debt. You know you can't pay it. You've known for a long time. The checkbook has been opened. Every cent — paid. Not because you earned it. Not because you deserved it. That's the whole point. That's Hesed.
+
+The question isn't whether Christ paid it. He did.
+
+The question is whether you'll receive it.
 
 ---
 
