@@ -12,7 +12,8 @@ Colossians 2:1-8 — Quilted Together in Love / Gratitude as Guardian
 
 ---
 
-Lets read our passage today. Col 2:1-8
+> 1 For I want you to know how great a struggle I have for you and for those at Laodicea and for all who have not seen me face to face, 2 that their hearts may be encouraged, being knit together in love, to reach all the riches of full assurance of understanding and the knowledge of God's mystery, which is Christ, 3 in whom are hidden all the treasures of wisdom and knowledge. 4 I say this in order that no one may delude you with plausible arguments. 5 For though I am absent in body, yet I am with you in spirit, rejoicing to see your good order and the firmness of your faith in Christ. 6 Therefore, as you received Christ Jesus the Lord, so walk in him, 7 rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving. 8 See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ.
+> — Colossians 2:1–8 (ESV)
 
 I want you to notice the quilting language in this passage in verse 2. Speaking of – I love the quilt that Carol, and you guys all made and signed for me. I have had a few opportunities to use it, sitting in my recliner in the evenings these past few cold nights. Its been a blessing. But like that quilt where we all had a hand in tying a knot, this passage is a quilt.
 
@@ -30,20 +31,31 @@ Their strength gives him strength. He knows his efforts haven't been wasted. He 
 
 A friend of mine from seminary said the hardest part of being a parent is not dirty diapers, but piano recitals. Apparently his kids school has multi hour events where small groups of kids perform poorly, group after group after group until your kids finally perform flawlessly. Then after that you sit there and wait while everyone elses kids finish their performances as well. He says it's a form of torture. You want to sleep, but don't want to be rude, and yet its becoming harder and harder to keep your eyes open, and then your wife elbows you in the ribs to help you keep awake, which is only fair because you elbowed her in the ribs just a few minutes ago to help her stay awake. But you go through these things, and endure them with joy because of the joy, and benefits they have to your children. Similar situation here, except with fewer instruments, and more prison.
 
-In fact, Pastor John Piper wrote "the way to get assured understanding about the mystery of God, namely, Jesus Christ the treasure chest of wisdom, is to have your heart knit together in love with other believers. The deepest and most certain insights into the character of God and the wisdom of God come into heads that are attached to loving hearts." *(See flags — Piper quote, verify exact source.)* Loving your brothers and sisters in Christ helps unlock the doors of wisdom, and knowledge of Christ. If God is love, if Christ is Love, to know and be like them is to exude love on those around us. Not just those that love us back. Scripture says, while we were yet sinners, Christ died for us. *(See flags — "yet" is KJV; ESV reads "still sinners.")* Did we love God while we were yet sinners? No. We didn't even really have a good handle on what love meant. We weren't even a glimmer in our parents eye, and yet Romans 5:7-8 says "7Very rarely will anyone die for a righteous man, though for a good man someone might possibly dare to die. 8But God proves His love for us in this: While we were still sinners, Christ died for us. *(See flags — this is NIV, not ESV.)* God knew us to a point well beyond we are even capable of knowing ourselves. He knew the sins we would commit knowingly. He knew the sins we would accidently commit. He knew every thing good bad or otherwise that we would do, rightly compared our righteousness to used menstrual rags *(See flags — Isa 64:6 allusion; ESV reads "polluted garment." The Hebrew behind "filthy rags" does refer to menstrual cloths, so the rendering is linguistically defensible but should be noted as going behind the English.)* and chose to die for us any way.
+In fact, Pastor John Piper wrote: "The way to get assured understanding about the mystery of God, namely, Jesus Christ the treasure chest of wisdom, is to have your heart knit together in love with other believers. The deepest and most certain insights into the character of God and the wisdom of God come into heads that are attached to loving hearts."
+
+⚠️ *[Piper quote — verify exact source and wording, likely from a sermon or article on Colossians 2.]*
+
+Loving your brothers and sisters in Christ helps unlock the doors of wisdom and knowledge of Christ. If God is love, if Christ is love, to know him and be like him is to exude love on those around us. Not just those that love us back. Scripture says, while we were still sinners, Christ died for us. Did we love God while we were still sinners? No. We didn't even have a good handle on what love meant. We weren't even a glimmer in our parents' eyes, and yet Romans 5:7-8 says:
+
+> For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die—but God shows his love for us in that while we were still sinners, Christ died for us.
+> — Romans 5:7–8 (ESV)
+
+God knew us to a point well beyond what we are even capable of knowing ourselves. He knew the sins we would commit knowingly. He knew the sins we would accidentally commit. He knew everything — good, bad, or otherwise — that we would do, rightly compared our righteousness to filthy rags, and chose to die for us anyway.
 
 What an awesome and loving God we serve.
 
 This brings us to the last half of the passage. Verses 6-8. These verses are a fresh repeating of what has already been said in slightly different words. Vs 4 was a warning against being deceived. Vs 8 likewise is a warning against being deceived.
 
-Verse 8: "See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ." Verse 4: "I say this in order that no one may delude you with plausible arguments." Both verses warn the Colossians to guard themselves from traditions or philosophies or words that lead away from Christ. *(See flags — the original transcript used RSV/YLT renderings here; corrected to ESV in this draft.)*
+Verse 8: "See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ." Verse 4: "I say this in order that no one may delude you with plausible arguments." Both verses warn the Colossians to guard themselves from traditions, philosophies, and words that lead away from Christ.
 
-Verses 6-7 correspond to verses 2-3. Giving us tools to guard ourselves against the "beguiling speech". There is some variation on how that phrase beguiling speech is translated. Youngs literal translation settled on beguiling speech, and I liked that quite a bit. One translation said "big talk". We have all known people who come in and talk big, and then they go right on out, and never follow through, or cant' follow through. NRSV says "Plausible Arguments", Oddly my favorite rending in the English comes from the new living translation which says: "well-crafted but deceptive arguments". Beguiling speech indeed.
+Verses 6-7 correspond to verses 2-3. Giving us tools to guard ourselves against what various translations call "beguiling speech." Young's Literal Translation uses that phrase, and I like it quite a bit. One translation says "big talk." We have all known people who come in talking big and then go right on out and never follow through. The NRSV says "plausible arguments." My favorite rendering in English comes from the New Living Translation: "well-crafted but deceptive arguments." Beguiling speech indeed.
 
-Any way, the tools are fourfold:
+The tools are fourfold:
 Sit under teaching of the Truth of Christ. 2, receive the word of Christ. Third, Become rooted, and built up in Christ, and fourth live a certain way as a result – a way that abounds in thanksgiving.
 
-Piper writes "In verses 2 and 3 the deep assurance of our knowledge of Christ leads to strong encouragement that guards us from the deceit mentioned in verse 4. In verses 6 and 7 being rooted and built up in Christ leads to an overflowing gratitude that guards us from deceit mentioned in verse 8. If you were to ask me how the guardian of 'encouragement' (in verse 2) relates to the guardian of 'gratitude' (in verse 7), I would say that gratitude is the completion of encouragement." *(See flags — Piper quote, verify exact source.)*
+Piper writes: "In verses 2 and 3 the deep assurance of our knowledge of Christ leads to strong encouragement that guards us from the deceit mentioned in verse 4. In verses 6 and 7 being rooted and built up in Christ leads to an overflowing gratitude that guards us from deceit mentioned in verse 8. If you were to ask me how the guardian of 'encouragement' (in verse 2) relates to the guardian of 'gratitude' (in verse 7), I would say that gratitude is the completion of encouragement."
+
+⚠️ *[Piper quote — verify exact source and wording.]*
 
 He goes on to say that thankfulness is an essential guardian of the soul, and so we should guard ourselves with gratitude. Unless we are singing the song of thanksgiving in our hearts, the enemies at the gates can overwhelm our walls, and march right on in. Does your life reflect this quilt of love? Does it reflect encouragement as a result? Is that encouragement consummated in gratitude?
 
@@ -51,7 +63,7 @@ How would you feel, if your beloved son, who could have lived, but chose to give
 
 Christ died for us, and if we don't have encouragement that leads to gratitude and thanksgiving then we have dropped the ball, and are letting our savior down.
 
-He knew we would. He planned for that. And yet shall we continue in sin that grace may abound? May it never be. *(See flags — Romans 6:1-2; ESV reads "By no means!" not "May it never be" which is NASB.)*
+He knew we would. He planned for that. And yet — are we to continue in sin that grace may abound? By no means!
 
 Finally, I want to draw our attention to one more verse, that we are just going to briefly hit. Go ahead and turn in your bibles to 1 Thessalonians 5:18. Someone near the camera read it out loud for us.
 
@@ -63,8 +75,17 @@ Pray without ceasing, and give thanks in all circumstances; for this is the will
 
 So what are we to do when our circumstances are hard? Be thankful. Christ lived this out.
 
-Remember the situation in the upper room? Where Christ instituted the practice of observing communion? The word in the Greek is "eucharisteo". A lady named Ann Voskamp wrote this about that word "Ann Voskamp: The root word of eucharisteo is charis, meaning 'grace.' Jesus took the bread and saw it as grace and gave thanks. He took the bread and knew it to be gift and gave thanks. Eucharisteo, thanksgiving, envelopes the Greek word for grace, charis. But it also holds its derivative, the Greek word chara, meaning 'joy.' Charis. Grace. Eucharisteo. Thanksgiving. Chara. Joy. When he prayed during that last supper, John Piper says this is essentially what Jesus Prayed "Thank you, Father, that my body, symbolized by this bread, is about to be brutally broken and I am about to be (momentarily) damned by your wrath (Isaiah 53:10) so that you will receive supreme glory in being able to forgive undeserving sinners (Philippians 2:11) and I will share eternally full joy (John 15:11; Psalm 16:11) with hundreds of millions of forgiven sinners made righteous through my sacrifice (Isaiah 53:11).
-Jesus's thanks was not based on his present circumstances. He was about to endure the worst possible horror. And yet He felt thankful to the Father for the grace and glory that was coming because of the cross and this gave him joy." *(See flags — Voskamp quote from "One Thousand Gifts"; Piper paraphrase embedded within; both should be verified against published sources.)*
+Remember the situation in the upper room? Where Christ instituted the practice of observing communion? The word in the Greek is "eucharisteo". Ann Voskamp wrote this about that word in *One Thousand Gifts*:
+
+> "The root word of eucharisteo is charis, meaning 'grace.' Jesus took the bread and saw it as grace and gave thanks. He took the bread and knew it to be gift and gave thanks. Eucharisteo, thanksgiving, envelopes the Greek word for grace, charis. But it also holds its derivative, the Greek word chara, meaning 'joy.' Charis. Grace. Eucharisteo. Thanksgiving. Chara. Joy."
+
+⚠️ *[Voskamp quote — verify exact wording against published text of One Thousand Gifts (2010).]*
+
+And John Piper writes that this is essentially what Jesus prayed in that upper room:
+
+> "Thank you, Father, that my body, symbolized by this bread, is about to be brutally broken and I am about to be (momentarily) damned by your wrath (Isaiah 53:10) so that you will receive supreme glory in being able to forgive undeserving sinners (Philippians 2:11) and I will share eternally full joy (John 15:11; Psalm 16:11) with hundreds of millions of forgiven sinners made righteous through my sacrifice (Isaiah 53:11). Jesus's thanks was not based on his present circumstances. He was about to endure the worst possible horror. And yet He felt thankful to the Father for the grace and glory that was coming because of the cross and this gave him joy."
+
+⚠️ *[Piper paraphrase — verify source.]*
 
 If anyone had a right to be angry, it was Jesus, and yet we see him respond with joy. With thanksgiving. With grace. He set his own rights aside, because he loved you. Any other injustice we endure on this earth has to be examined in that context. In that light. So my neighbors stole some of my grandfathers tools. Christ died for that sin, like he died for my many sins.
 
@@ -72,12 +93,12 @@ So my neighbors lied about me to my landlord. Christ died for that sin too like 
 
 In the words of the old Hymn, it was my sin that held him there, until it was accomplished. His dying breath has brought me life. I know that it is finished. *(Stuart Townend, "How Deep the Father's Love for Us")*
 
-Gospel.
+*[Gospel presentation.]*
 
-Communion.
+> 23 For I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, 24 and when he had given thanks, he broke it, and said, "This is my body, which is for you. Do this in remembrance of me." 25 In the same way also he took the cup, after supper, saying, "This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me." 26 For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes. 27 Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord. 28 Let a person examine himself, then, and so eat of the bread and drink of the cup. 29 For anyone who eats and drinks without discerning the body eats and drinks judgment on himself.
+> — 1 Corinthians 11:23–29 (ESV)
 
-For I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, 24 and when he had given thanks, he broke it, and said, "This is my body, which is for you. Do this in remembrance of me." 25 In the same way also he took the cup, after supper, saying, "This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me." 26 For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes.
-27 Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord. 28 Let a person examine himself, then, and so eat of the bread and drink of the cup. 29 For anyone who eats and drinks without discerning the body eats and drinks judgment on himself.
+*[Communion.]*
 
 ---
 
