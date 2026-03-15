@@ -398,6 +398,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Matthew 24:23-36 | Eschatology; refuting false date-setting; Christ's return is certain but unknowable | `You Too Can know the day and hour.md` | sermon |
 | Matthew 28:16-20 | Great Commission and evangelism | `MT 28.md` / `Evangelism.md` | sermon |
 | Matthew 28:18-20 | The King's command; no exceptions; royal decree vs. suggestion; unreached peoples | `the great commission 10-19-25.md` | sermon |
+| Matthew 28:18-20 / Luke 10:16 | Who Dares Wins — evangelism training session; SAS selection illustration (Fan Dance ~15 miles, Long Drag 64 km, cap badge one winged sword, motto "Who Dares Wins"); SAS as Delta Force model (Col. Charlie Beckwith); Great Commission as Christ's final command; Luke 10:16 on rejection not being personal; Billy Graham — 2.2 billion reached, 2.2 million in-person decisions; congregation practice gospel presentation with cheat sheet; two gospel presentations: standard Romans Road + Genesis-based scaffold (Gen 1:31 very good → Gen 3 fall → Rom 3:23 → Eph 2:8 → Rom 6:23 → Isa 53:6 → Rom 5:8 → 1 Pet 3:18 → Jn 3:16 → Rom 10:9); Spurgeon authenticated quote (*The Soul Winner*, "Qualifications for Soul-Winning — Godward") on speaking of the wicked's doom with holy grief | `Matt 28 - Who Dares Wins (raw draft).md` | sermon — corrections applied (March 2026) |
 
 ### Mark
 
