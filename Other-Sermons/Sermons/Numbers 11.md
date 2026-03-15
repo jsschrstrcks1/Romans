@@ -156,9 +156,9 @@ What he meant was a compliment. She received it as a criticism. When you consist
 
 The same thing applies to your relationship with God. If you're discontent with what He's allowing — if you're questioning His motives, His methods, His wisdom — then you have constructed a version of God who is working against you. And that version is not real.
 
-Philip Holmes wrote: *If we truly believed what the Bible says about how God sees us, it would transform the way we interpret all His actions as mercies. I know that in the midst of my battles with discontentment and besetting sins, it's hard to view what is happening in my life as anything but a condemnation and punishment.*
+Most of us know this from the inside. In the middle of hard seasons, it is difficult to see what is happening as anything but punishment. The mind slides there naturally. But that is a bad interpretation of a good God. Burroughs' prescription applies directly: make good interpretations of His dealings. The God who did not spare His own Son is not withholding good from you out of indifference or cruelty.
 
-I think most of us know that place. It's hard not to go there. After pride, discontentment may be the thing we struggle with most on this side of heaven.
+After pride, discontentment may be the thing we struggle with most on this side of heaven.
 
 ---
 
@@ -184,11 +184,11 @@ The best possible things this world can offer — the best — are rubbish measu
 
 Now remember who wrote that. Here's what preceded it:
 
-> *I have worked much harder, been in prison more frequently, been flogged more severely, and been exposed to death again and again. Five times I received at the hands of the Jews the forty lashes less one. Three times I was beaten with rods. Once I was stoned. Three times I was shipwrecked; a night and a day I was adrift at sea; on frequent journeys, in danger from rivers, danger from robbers, danger from my own people, danger from Gentiles, danger in the city, danger in the wilderness, danger at sea, danger from false brothers; in toil and hardship, through many a sleepless night, in hunger and thirst, often without food, in cold and exposure. And apart from other things, there is the daily pressure on me of my anxiety for all the churches.* (2 Corinthians 11:23-28)
+> *…with far greater labors, far more imprisonments, with countless beatings, and often near death. Five times I received at the hands of the Jews the forty lashes less one. Three times I was beaten with rods. Once I was stoned. Three times I was shipwrecked; a night and a day I was adrift at sea; on frequent journeys, in danger from rivers, danger from robbers, danger from my own people, danger from Gentiles, danger in the city, danger in the wilderness, danger at sea, danger from false brothers; in toil and hardship, through many a sleepless night, in hunger and thirst, often without food, in cold and exposure. And apart from other things, there is the daily pressure on me of my anxiety for all the churches.* (2 Corinthians 11:23-28)
 
 That man — with those marks on his body, with that list behind him — says the best things this world has to offer are garbage in comparison to knowing Jesus.
 
-In James he says: *Count it all joy, my brothers, when you meet trials of various kinds.* (James 1:2)
+James says it the same way: *Count it all joy, my brothers, when you meet trials of various kinds.* (James 1:2)
 
 In Romans he says: *For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.* (Romans 8:18)
 
@@ -219,6 +219,6 @@ Do you know Him today?
 ---
 
 *Cross-references: Numbers 11:1-15 | Romans 8:18, 32 | Philippians 3:8 | 2 Corinthians 11:23-28 | James 1:2 | Matthew 13:44*
-*Quotes: Jeremiah Burroughs (Contentment, Prosperity, and God's Glory); Paul Tripp (paraphrase); Philip Holmes (unverified source — verify before print)*
+*Quotes: Jeremiah Burroughs (Contentment, Prosperity, and God's Glory — ⚠️ verify exact title; standard Burroughs work on this theme is The Rare Jewel of Christian Contentment, 1648); Paul Tripp (paraphrase — not a direct quote)*
 *Illustrations: Mark Dever / Numbers overview; nephew and stuffed animal; lottery winner; Stapelia flower; counseling class / four horsemen; niece and the rain*
-*Note: Philip Holmes quote source unverified. Confirm before finalizing for print.*
+*Note: Philip Holmes quote was reviewed and removed — ideas retained in preacher's voice. No Holmes attribution remains in the sermon body.*

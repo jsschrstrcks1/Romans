@@ -36,6 +36,8 @@ Keep that in mind. We'll come back to it.
 
 ### Background — Who Is Tobiah?
 
+*(Raw notes reference — Making Pearls, from Kent Hughes commentary on James [⚠️ VERIFY BEFORE PRINT: Attribution is to Kent Hughes, James: Faith That Works (1991, Preaching the Word). The prose style reads older and Hughes may be quoting a prior writer — confirm whether this is Hughes's own language or a secondary citation. Do not quote verbatim from the pulpit until the primary source is confirmed.] — used in Part 3 below.)*
+
 Before we read, a quick word on Tobiah. If you've been with us through the book of Nehemiah, you know him. If not, here's the short version.
 
 Tobiah was an Ammonite official. An enemy of God's people from the beginning of Nehemiah's work. He mocked the wall-builders. He conspired to stop the construction. He sent threatening letters. He tried to lure Nehemiah into a trap. He worked every angle available to him to oppose the work of God in Jerusalem.
