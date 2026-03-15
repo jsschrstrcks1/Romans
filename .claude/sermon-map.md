@@ -101,7 +101,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Psalm 68:1-4 | Nothing Too Hard for God | `Psalm 68 - Nothing Too Hard for God.md` | God's power and omnipotence; enemies scattered; protection; comfort in crisis |
 | Psalm 8; Hebrews 2:6-9 | Our Lord, Our Lord *(raw draft)* | `Psalm 8 - Hebrews 2 (raw draft).md` | Majesty of God; human dignity in Christ; transformation through grace; God's intimacy with humanity |
 | Psalm 103 | Bless the Lord, O My Soul | `Sermon - Bless the Lord O My Soul.md` / `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` | Gratitude; thanksgiving; forgiveness; God's mercy; hesed love; David examining his heart; worship; Zaza-Dimli in Turkey people group (Alevi Shiites) |
-| Psalm 119:161-168 | Psalm 119 *(raw draft)* | `Psalm 119 161-168 (raw draft).md` | Bible as treasure; Word of God; faith and trust; love of God's Word |
+| Psalm 119:161-168 | Scripture as treasure; Brother Andrew Bible smuggling | `Psalm 119 161-168 (raw draft).md` | Evening service; Forrest Fenn treasure hunt (corrected ✓); Brother Andrew / *God's Smuggler* (⚠️ prayer wording unverified; ⚠️ Romania vs. Yugoslavia destination unverified); Florida opiates/Xanax stats (⚠️ pill-mill era ~2010 — verify current data); compass illustration; peace from God's Word; Psalm 119:161-168 ESV text added ✓ |
 | Psalm 145 | Good to All | `Psalm 145 - Good to All.md` | God's mercy; forgiveness; grace to enemies; redemption; wholehearted praise |
 | Matthew 2:1-23 | Trusting God in Ambiguity | `Sermon - Trusting God in Ambiguity (Matthew 2).md` | The Magi; God's faithfulness in confusion; manuscript reliability of Scripture; trust in uncertainty |
 | Luke 15 | Lost and Found | `Sermon - Lost and Found.md` | Redemption; seeking; rejoicing; gospel; God's initiative |
@@ -1022,7 +1022,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Revival / Scripture / Word of God
 - `neh 8.md` — Nehemiah 8 — Revival; reading scripture
-- `Psalms 119.md` — Psalm 119:161-168 — Treasure of scripture; Bible smuggling
+- `Psalms 119.md` / `Psalm 119 161-168 (raw draft).md` — Psalm 119:161-168 — Treasure of scripture; Bible smuggling; Brother Andrew (⚠️ prayer wording and destination unverified against *God's Smuggler*)
 - `2 tim 3.md` — 2 Timothy 3:14+ — Authority and sufficiency of Scripture
 - `sola scriptura.md` / `Sola Scriptura 24.md` — 2 Timothy 3 — Scripture alone
 - `psalms 1 (12-5-19).md` / `psalms 1 3-15-25 (edited with AI).md` — Psalm 1 — Neglecting scripture
