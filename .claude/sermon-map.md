@@ -201,6 +201,14 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Numbers 11:1-15 | "The Sin We Don't Call Sin" — discontentment as failure of trust, complaint against God's plan, and covetousness; God's wrath at Taberah (v.1); the rabble's craving vs. manna; Moses overwhelmed to the point of wishing for death; Burroughs on making good interpretations of God's dealings (⚠️ verify exact title — standard source is *The Rare Jewel of Christian Contentment*); Paul Tripp paraphrase; Beethoven / deaf-from-birth illustration; lottery winner illustration; Stapelia flower (rotten aroma vs. pleasing aroma of faithfulness); Philippians 3:8; 2 Corinthians 11:23-28; James 1:2; Matthew 13:44; gospel close | `Numbers 11.md` | sermon |
 | Numbers 21:5-9 | Bronze serpent in the wilderness; Israel's grumbling; type of Christ lifted up; cross-references 1 Cor 10:9 and John 3:14-21 | `Numbers 21 John 3.md` | sermon |
 
+### Joshua
+
+| Passage | Subject | File | Type |
+|---|---|---|---|
+| Joshua 7-8 | Achan; consequences of hidden sin and leaving God out of battle | `Josh 7 & 8.md` | sermon |
+| Joshua 24 | Choose this day; covenant renewal at Shechem (raw notes) | `Joshua 24.md` / `Joshua 24 - 2024.md` | sermon notes |
+| Joshua 24:6-15 | "Choose This Day" — America's blessings parallel to Israel's; God's faithfulness despite ingratitude; Baal as powerless stick; idols in the camp; gospel invitation | `Joshua 24 6-15.md` | sermon |
+
 ### Judges
 
 | Passage | Subject | File | Type |
@@ -263,7 +271,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Nehemiah 6:1-9 | Stand Up for Jesus — Enemy Attacks and Spiritual Warfare | `Neh 6.md` | sermon — Ono as temptation (city name means vigorous wealth one step from wickedness; "Ono resort and conference center" from unnamed favorite preacher; cruise analogy after hard work); three enemy motives (sack city / murder Nehemiah / frame Nehemiah for rebellion); open letter as smear campaign — heads-of-state protocol context; political survey illustration (G.W. Bush axe murderer question; respondents believe rumor); Clinton/Lewinsky and Bill Cosby news cycle analogy; Cyril Barber's three attack vectors tied to Trinity (Father/sense of belonging; Son/value and worth; Holy Spirit/empowerment — doing things *for* God vs. *with* God); Mt 10:28-31 (sparrows and fear); Mt 6:26 (birds and value); Lk (sparrows bought 3 get 1 free — not one forgotten); Jn 3:16; "If our enemy can't make you bad, he will make you busy"; dying preacher / corn shelling machine — "tell them to stand up for Jesus"; hymn "Stand Up for Jesus" by George Duffield Jr. (all four stanzas); Communion (1 Cor 11:24-26 KJV) |
 | Nehemiah 7 | Gatekeepers, faithfulness, and genealogy | `Neh 7.md` | sermon |
 | Nehemiah 8 | Revival, reading scripture, and fellowship | `neh 8.md` | sermon |
-| Nehemiah 13:1-14 | Sin in the temple and gatekeeping holiness — Tobiah in the temple; Nehemiah throws out household goods and fumigates; Sabbath commerce; Sanballat's daughter married into priesthood; fools gold / colonial gold illustration; "Making Pearls" passage from Kent Hughes commentary on James (⚠️ verify: may be Hughes citing a prior writer — do not quote verbatim until source confirmed); Stephen Davey on not wanting the smell of sin to linger; body as temple (1 Cor 3:16); gospel | `Neh 13.md` | sermon |
+| Nehemiah 13:1-14 | "What the Goldsmith Sees" — clean your temple, be a gatekeeper, make a pearl; Tobiah in the temple; Nehemiah throws out household goods and fumigates; Sabbath commerce; Sanballat's daughter married into priesthood; fools gold / colonial gold illustration; "Making Pearls" passage from Kent Hughes commentary on James (⚠️ verify: may be Hughes citing a prior writer — do not quote verbatim until source confirmed); Stephen Davey on not wanting the smell of sin to linger; body as temple (1 Cor 3:16); genuine vs. counterfeit faith; gospel | `Neh 13.md` | sermon |
 
 ### Job
 
@@ -407,6 +415,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | Luke 10:25-37 | Good Samaritan in the context of salvation, not mere morality; VBS tie-in (kid saved that week); Deut 6:5 and Lev 19:18 as summary of the Law (also Mt 22:37); 10/40 window and Bhat people of India; the question is not "be kind" but "how to be saved"; parable answered to a lawyer testing Jesus; Samaritans as most-hated (John 8 slur: "demon-possessed and a Samaritan"); apart from Christ we are the beaten man — Christ is the true Samaritan who paid our debts and sent the Spirit to nurse us back; priest/Levite = walking past the lost; "how much do you have to hate your friends" (Chris quote); Rom 5:10 closing | `Luke 10 - Good Samaritan.md` | sermon |
 | Luke 10:38-42 | Mary and Martha; prioritizing time with God | `Good morning.md` | sermon |
 | Luke 14 | Parable of the Great Banquet; rejecting God's invitation | `Luke 14.md` | sermon |
+| Luke 14:25-35 | "On His Terms" — cost of discipleship; superior love over family; count the cost; saltless salt warning | `Luke 14 25-35.md` | sermon |
 | Luke 15:1ff, 11ff | Prodigal Son; three parables: lost sheep, lost coin, lost son (sections I-III); elder brother represents scribes and Pharisees (line 26: "sins of the spirit as well as sins of the flesh," 2 Cor 7:1); elder brother's "hidden agenda" (line 28); father runs to meet son (Eastern cultural context, Deut 21:18-21, line 21); Wiersbe *Expository Outlines* pp.182-184 (source for outline); Mark Allan Powell *What Do They Hear?* cross-cultural reading comparison (Western = reform, Russian = recovery, Tanzanian = contrast); Greek notes on *dieilen* and *erēmos*; carob tree Hebrew "life tree" note | `Luke 15 - Prodigal Son.txt` | sermon |
 | Luke 23:1-25 | Jesus vs Barabbas; what people wanted vs needed | `Luke 23.md` | sermon |
 | Luke 23:13-25 | Man's injustice vs God's justice at Easter | `easter 24.md` | sermon |
@@ -421,6 +430,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 | John 3:16 | Christian marriage reflecting Christ and the church | `Grannys Wedding jn 316.md` | personal (wedding) |
 | John 4:7-26 | Woman at the Well; crossing social barriers (Samaritan, woman, outcast); betrothal type-scene (Isaac/Rebekah, Jacob/Rachel, Moses/Zipporah); God-shaped hole (Augustine, C.S. Lewis, Audio Adrenaline "God Shaped Hole"); five husbands / five foreign gods parallel (2 Kings 17, Calvin); Huffington Post "heal yourself" rebuttal (appendix/dog/feral children analogies); Acts 17:27-28; Eph 2 dead body self-reanimation image; Muhamasheen people group of Yemen; woman's conversion → mission change (sets down water jar); Pastor Coates arrest in Canada — government and church autonomy; closing extended prayer for persecuted pastors | `John 4 - Woman at the Well.md` | sermon |
 | John 5 / John 6:29-60 | Irresistible grace and God's sovereign election | `John 5.md` | sermon |
+| John 14:1-16 | "One Way" — exclusivity of Christ; 3.4 billion unreached; false gospels (social gospel, political gospel); unregenerate heart; Jose Luis de Miranda; Beethoven illustration; MacArthur quote (attribution unverified); leads into Romans 3:23 | `John 14 1-16.md` | sermon |
 | John 6:43-65 | Salvation by grace alone | `sola gracia.md` / `sola gracia 2021.md` | sermon |
 | John 10:7-11 | The wicket gate; gospel; Pilgrim's Progress | `John 10.md` | sermon |
 | John 10:11, 17-18 | Thankfulness and Christ's sacrificial love | `jn 10.md` | sermon |
@@ -812,6 +822,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Discipleship / Cost of Following Christ
 - `Luke 9 - cost of following christ.md` — Luke 9:57-62 — Cost vs prosperity gospel
+- `Luke 14 25-35.md` — Luke 14:25-35 — "On His Terms" — superior love, count the cost, saltless salt
 - `mark 10 - sun june 2nd.md` — Mark 10:32-45 — Discipleship posture
 - `Following Christ - dilligence.md` — Mark 10:32-45 — Diligence in following
 - `Romans_6b_with_boulder.md` — Romans 6:15-23 — Whose slave are you?
@@ -901,7 +912,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Mark 4.md` — Mark 4:26-34 — Growing seed; sanctification
 - `1 peter 1 - legacies.md` — 1 Peter 1:13-end — Be holy
 - `Romans_6b_with_boulder.md` — Romans 6:15-23 — Dead to sin; alive to God
-- `Neh 13.md` — Nehemiah 13:1-14 — Sin in the temple
+- `Neh 13.md` — Nehemiah 13:1-14 — "What the Goldsmith Sees" — clean your temple, be a gatekeeper, make a pearl
 - `Sermon - The List I Burned.md` — 1 Thess 3:12-4:8 — Love increasing; sexual purity; "more and more"
 - `Sermon - What Survives the Fire.md` — 1 Cor 3:10-15 — Stewardship of time; entertainment vs kingdom investment; lukewarmness
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — Spiritual surgery, not behavior modification; relationship with God as means of grace
