@@ -2,7 +2,7 @@
 
 **Series/Context:** Evening service
 **Passage:** Psalm 119:161–168 (Shin stanza)
-**Status:** Raw preaching draft — unedited
+**Status:** Corrections applied (March 2026) — Forrest Fenn details corrected; US population corrected; inline flags added for unverified items
 
 ---
 
@@ -12,10 +12,10 @@
 - ✓ Forrest Fenn / poem clues *(corrected March 2026)*: Body now references "home of Brown" and "where warm waters halt" as closer paraphrases. Prior draft said "brown house" and "end of the warm water."
 - ✓ Forrest Fenn / deaths *(corrected March 2026)*: Body now reads "at least five documented deaths." Prior draft said "at least one." Note: "foul play" phrasing removed — specific sourcing was unavailable; the documented deaths are sufficient for the illustration.
 - ✓ Forrest Fenn / geography *(corrected March 2026)*: Body now reads "Mountain West." Prior draft said "the Midwest."
-- ⚠️ Brother Andrew / prayer: verify exact wording against *God's Smuggler*
-- ⚠️ Brother Andrew / Romania: verify destination was Romania specifically (some tellings reference Yugoslavia or other Eastern Bloc countries)
-- ⚠️ Florida stats / opiates: "more than rest of country combined" — verify currency and accuracy; likely from pill-mill era (~2010)
-- ⚠️ Florida stats / Xanax: same concern
+- ⚠️ Brother Andrew / prayer: verify exact wording against *God's Smuggler* — inline flag added in body
+- ⚠️ Brother Andrew / Romania: verify destination was Romania specifically (some tellings reference Yugoslavia or other Eastern Bloc countries) — inline flag added in body
+- ⚠️ Florida stats / opiates: "more than rest of country combined" — verify currency and accuracy; likely from pill-mill era (~2010) — inline flag added in body
+- ⚠️ Florida stats / Xanax: same concern — inline flag added in body
 - ✓ US population *(corrected March 2026)*: Body now reads "~330 million." Prior draft said "400m."
 
 ---
@@ -34,13 +34,15 @@ One man named Andrew had searched for and found some of this treasure we've been
 
 The same thing happened to the second car, and the third. So brother Andrew began to pray. He prayed "Lord, in my car I have Scripture I want to take to your children. When you were on earth, You made blind eyes see. Now, I pray, make seeing eyes blind.  Do not let the guards see those things You do not want them to see."
 
+**[⚠️ UNVERIFIED: Prayer wording above not checked against *God’s Smuggler* (1967). Verify exact wording before preaching — the substance is consistent with known accounts but specific phrasing may differ.]**
+
 He felt God urging him to put a couple bibles on the dash in plain view. He obedient did so.
 
 Car number four in line received the same treatment, car number five received the same treatment. People were handcuffed and held at gun point till everything in their car had been searched thoroughly.
 
 Andrew approached the guard house, and he went to open the door to get out, and the border crossing guard used his knee to hold the door closed, and told him to go on through.
 
-Safe to say Andrew's prayer was answered. He said he kept his foot poised over the brake because he was absolutely certain they were going to change their minds. But they didn't! He was able to bring all of his bibles into Romania. Lets read our passage tonight. Page ______ or _______
+Safe to say Andrew's prayer was answered. He said he kept his foot poised over the brake because he was absolutely certain they were going to change their minds. But they didn't! He was able to bring all of his bibles into Romania. **[⚠️ UNVERIFIED: Destination confirmed as Romania in this telling, but some accounts of the Brother Andrew story reference Yugoslavia or other Eastern Bloc countries. Verify against *God’s Smuggler* before preaching.]** Lets read our passage tonight. Page ______ or _______
 
 How many of you have a bible? 2? 3? 4? More than 10? I have a little bit of a collection. I have around 70 unique translations that stretch back to some of the first translations that ever were made in English, and a half dozen in greek, Hebrew, and latin. What treasure we have! And at no cost!
 
@@ -64,7 +66,7 @@ God's not going to spare you from every trouble. How would we ever learn or grow
 
 If you never read your bible, how would you ever know that? From reading our bible we learn this and other truths that bring us comfort in the midst of all kinds of troubles and fears. It may not be our plan, but it's a better plan than we could have imagined. It may not be in our timing, but his timing causes our growth. When we grow, were better people for it.
 
-How much anxiety is there out in the world today? I read that we have more prescriptions for opiates in florida than the rest of the country does combined. Likewise we have more prescriptions written for Xanax than the rest of the country combined here in florida. I know sometimes medications are necessary. But when a state of near 20m people has more prescriptions for Xanax than the other ~330 million people in the united states, there is a problem. *(Corrected March 2026 — prior draft said "400m"; US population is approximately 330–340 million.)* And at the root of that problem is a lack of faith, a lack of trust, a lack of knowledge of God. All of that springs from reading the word of God.
+How much anxiety is there out in the world today? I read that we have more prescriptions for opiates in florida than the rest of the country does combined. **[⚠️ UNVERIFIED: Source and currency unknown — likely from pill-mill era (~2010). Verify or soften to “among the highest in the nation” before preaching.]** Likewise we have more prescriptions written for Xanax than the rest of the country combined here in florida. **[⚠️ UNVERIFIED: Same concern — source and currency unknown. Verify or soften before preaching.]** I know sometimes medications are necessary. But when a state of near 20m people has more prescriptions for Xanax than the other ~330 million people in the united states, there is a problem. *(Corrected March 2026 — prior draft said "400m"; US population is approximately 330–340 million.)* And at the root of that problem is a lack of faith, a lack of trust, a lack of knowledge of God. All of that springs from reading the word of God.
 
 In a lot of ways were like treasure hunters, that found the box with 2 million bucks inside it, but never open the box. Never see whats inside. We buy the book of scripture, but never experience the joy and peace that the word of God has to offer.
 Vs 163 talks about how we abhor falsehood. The word of God helps re-orient our priorities, and our sense of right and wrong.
