@@ -1,6 +1,6 @@
-Cultural Marxism / CRT — Romans 10:12-13
-*(Raw draft — unpolished; addresses Critical Race Theory and intersectionality from a biblical perspective)*
-*(Verification flags at bottom — review before preaching again)*
+# Cultural Marxism / CRT — Romans 10:12-13
+
+**Status:** Corrections applied — ESV conversions ✓; Hitler “half Jewish” claim corrected in body ✓; ⚠️ David Brooks quote unverified; ⚠️ people group statistics unverified
 
 ---
 
@@ -82,6 +82,6 @@ As the praise team comes up and sings a final song, I want you to ask yourselves
 - **Acts 10:28, Revelation 5:9-10** *(not quoted)*: Referenced as congregational readings ("Someone open to…") but the text is not quoted in the sermon transcript. No text to verify.
 - **David Brooks quote** *(unverified)*: "Two great belief systems are clashing here…" — Attributed to David Brooks but no publication or date given. The quote sounds consistent with Brooks' NYT column writing on generational and cultural divides, but the exact source should be verified before citing again.
 - **"President of the southern Baptist theological seminary in Kentucky"** *(noted)*: This refers to Albert Mohler, president of The Southern Baptist Theological Seminary in Louisville, KY. He has spoken publicly about cultural Marxism in the SBC. The attribution is accurate in substance.
-- **Hitler — "half Jewish"** *(needs correction)*: The draft claims Hitler "was half jewish." This is historically inaccurate. Hitler was not half Jewish. There were unsubstantiated rumors about his paternal grandfather, but no credible historical evidence supports any Jewish ancestry. Correct before preaching again.
+- **Hitler — "half Jewish"** *(corrected in body)*: Body now reads that Hitler didn’t fit his own racial ideal — the “half Jewish” claim is removed and replaced with an inline correction note. No credible historical evidence supports Jewish ancestry. ✓
 - **SBC Resolution on CRT** *(historically accurate)*: The SBC passed Resolution 9 on Critical Race Theory and Intersectionality at the 2019 annual meeting in Birmingham, AL. The resolution acknowledged CRT and intersectionality as "analytical tools" subordinate to Scripture — it was controversial within the denomination. The sermon's general characterization is accurate.
 - **Dhund Abbasi people group** *(noted)*: Statistics and background should be verified against current Joshua Project or IMB data before reuse. The claim that "not a single one is a believer" may reflect available data at the time of preaching but should be stated carefully.

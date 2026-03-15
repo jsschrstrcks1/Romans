@@ -1,6 +1,6 @@
-Galatians 6:7-10 — Sowing and Reaping
-*(Raw draft — summary notes from sermon, not full transcript)*
-*(Verification flags at bottom — review before preaching again)*
+# Galatians 6:7-10 — Sowing and Reaping
+
+**Status:** Summary notes only — not a full transcript; ⚠️ multiple unverified quotes (Toplady, Spurgeon, Luther, Lawson); ⚠️ Svea/Aggie Flood story details unverified
 
 ---
 

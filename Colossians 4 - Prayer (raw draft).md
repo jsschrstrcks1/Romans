@@ -1,6 +1,6 @@
-Prayer — Colossians 4:2-4
-*(Raw draft — unpolished; sermon on prayer as relationship, persistence, and devotion)*
-*(Verification flags at bottom — review before preaching again)*
+# Prayer — Colossians 4:2-4
+
+**Status:** Corrections applied — Col 4:2 ESV ✓; ⚠️ George Müller quote unverified; ⚠️ F.B. Meyer quote unverified
 
 ---
 

@@ -1,6 +1,6 @@
-Church Membership / The Body of Christ — 1 Corinthians 12:12-27
-*(Raw draft — unpolished; sermon on church membership, mutual commitment, body of Christ, church hopping culture)*
-*(Verification flags at bottom — review before preaching again)*
+# Church Membership / The Body of Christ — 1 Corinthians 12:12-27
+
+**Status:** Corrections applied — 1 Cor 12:27 and Rom 10:15 converted to ESV ✓; Dhangar statistics ⚠️ unverified (see flags)
 
 ---
 

@@ -1,6 +1,6 @@
-Ephesians 1:3-14 — Angels, Demons, Etcetera
-*(Raw draft — summary notes from sermon, not full transcript)*
-*(Verification flags at bottom — review before preaching again)*
+# Ephesians 1:3-14 — Angels, Demons, Etcetera
+
+**Status:** Summary notes only — 1 John 4:4 corrected to ESV ✓; cargo cult geography corrected inline; ⚠️ Chuck Hastings and demon names unverified; ⚠️ Bahdai statistics unverified
 
 ---
 
@@ -28,7 +28,7 @@ Ephesians 1:3-14 — Angels, Demons, Etcetera
 - Colossians 1:13-14: rescued from power of darkness, transferred to kingdom of beloved Son
 - Ephesians 1: sealed with Holy Spirit — believers cannot be demon-possessed
 - Angels are sentient tools in God's hands — hero is God, not angels
-- **Cargo cult analogy**: African tribe worships cargo ships instead of God who sent them — don't worship the boat
+- **Cargo cult analogy**: Pacific/Melanesian tribes (historically post-WWII) worshipped cargo ships instead of God who sent them — don’t worship the boat **[⚠️ NOTE: Cargo cults are historically Melanesian/Pacific Island, not African. Correct geography before preaching.]**
 
 ### Dualism Heresy
 - Everything as galactic fight between angels and demons — fails by leaving out sovereign God
