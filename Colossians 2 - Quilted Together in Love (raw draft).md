@@ -31,6 +31,12 @@ Yet we have such a song — and we don't sing it.
 
 ---
 
+We're going to be in Colossians chapter 2. While you're turning there, let's talk about the people group of the week: **Prayer**.
+
+I was listening to a pastor preach this week, and he told this story. He said: "Imagine you are in a battle. Completely outnumbered. Surrounded. The city you are in is bound to fall. There are enemy sympathizers in the city doing everything they can to help bring the enemy inside. The enemy outside wants to do everything it can to get in and destroy you. Personally, you. Pretty bad news, right? Pretty bad day, all told. Until you find out that there is a song — and if you sing it, it will make the enemy tremble and flee. So you try it, and sure enough, it works. Who wouldn't then sing that song everywhere they went? You might get one of those boom boxes they used to carry in the eighties and blast it everywhere you went. You would want to sing it and teach everyone to sing it. In the end you would conquer the enemy, and there would be no threat at all."
+
+Yet we have such a song, and we don't sing it.
+
 Let's read our passage today. Colossians 2:1–8.
 
 ---
