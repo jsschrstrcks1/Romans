@@ -21,8 +21,8 @@
 
 | Book | Coverage | Status | Notes |
 |------|----------|--------|-------|
-| **Genesis** | Gen 1–3, 11, 29, 37–39, 43 | Thin | Good on creation, fall, Joseph. **Gaps: Gen 4 (Cain/Abel), Gen 6–9 (Flood/covenant), Gen 12/15/17 (Abrahamic covenant texts), Gen 22 covered only in a study note** |
-| **Exodus** | Ex 2, 5–6, 14 | Thin | Red Sea covered well. **Gaps: Ex 3 (burning bush/the name of God), Ex 19–20 (Sinai/Ten Commandments), Ex 32–34 (golden calf/renewal)** |
+| **Genesis** | Gen 1–3, 11, 29, 37–39, 43; Gen 6–9 and 12/15 (survey only) | Thin | Good on creation, fall, Joseph. Gen 6–9 (Noahic covenant) and Gen 12:1–3, 15:1–6 (Abrahamic covenant) are surveyed in overview form in `Eph 3 - The Covenants.md` — not expository primary texts. **Remaining gaps: Gen 4 (Cain/Abel), Gen 12/15/17 as dedicated expository sermons, Gen 22 covered only in a study note.** |
+| **Exodus** | Ex 2, 5–6, 14; Ex 19 (survey only) | Thin | Red Sea covered well. Ex 19:3–8 (Mosaic covenant, Sinai overview) surveyed in `Eph 3 - The Covenants.md` — not an expository primary text. **Remaining gaps: Ex 3 (burning bush/the name of God), Ex 19–20 as a dedicated Sinai sermon, Ex 32–34 (golden calf/renewal).** |
 | **Leviticus** | None found | **MISSING** | Rich with atonement typology — Day of Atonement (Lev 16), holiness code (Lev 17–26). No dedicated sermons in the entire corpus. Significant gap for a preacher so focused on propitiation and substitution. |
 | **Numbers** | Num 11 ✓, Num 16 (ref only), Num 21 ✓ | Thin | Discontentment and manna (Num 11 — *The Sin We Don't Call Sin*, cleaned ms. 2026) and bronze serpent (Num 21) covered. **Gaps: Num 6 (Aaronic blessing), Num 14 (unbelief in the wilderness)** |
 | **Deuteronomy** | Referenced throughout but never primary text | **MISSING** | The book of Moses's sermons — *shema* (Deut 6), covenant renewals, blessings/curses (Deut 27–30), Deut 32–33. Cited in Romans frequently but never preached in its own right. |
@@ -37,7 +37,7 @@
 | **Judges** | Judg 1–2, 6, 11 | Thin | Gideon and Jephthah covered. **Gaps: Judg 13–16 (Samson), full arc of the Judges cycle (sin-oppression-cry-deliverance)** |
 | **Ruth** | None found | **MISSING** | Ruth and Boaz as kinsman-redeemer (*go'el*) typology — one of the most direct Christ-pictures in the OT. Complete absence. **High priority gap.** |
 | **1 Samuel** | 1 Sam 16–17, 28 | Thin | David's calling and Goliath covered. **Gaps: 1 Sam 1 (Hannah's prayer), 1 Sam 7 (Ebenezer), 1 Sam 13 (Saul's impatience)** |
-| **2 Samuel** | None found | **MISSING** | David's entire reign: covenant with David (2 Sam 7), Bathsheba and Nathan's rebuke (2 Sam 11–12), the pattern of grace-failure-restoration. Complete absence despite heavy use of Psalm 51. |
+| **2 Samuel** | 2 Sam 7 (survey only) | **MISSING** | 2 Sam 7 (Davidic covenant) is surveyed in overview form in `Eph 3 - The Covenants.md` — not an expository primary text. **Remaining gaps: 2 Sam 11–12 (Bathsheba, Nathan's rebuke), the pattern of grace-failure-restoration. No dedicated expository sermon on any 2 Samuel text.** Heavy use of Psalm 51 throughout corpus without ever preaching the backstory that generated it. |
 | **1 Kings** | 1 Kgs 3, 18 | Thin | Elijah on Carmel covered well. **Gaps: 1 Kgs 8 (Solomon's dedication prayer), 1 Kgs 19 (Elijah under the broom tree — exhaustion and ministry burnout, directly relevant to congregation)** |
 | **2 Kings** | 2 Kgs 5, 25 | Thin | Naaman and the fall of Jerusalem. **Gaps: 2 Kgs 18–19 (Hezekiah's prayer and God's deliverance)** |
 | **1 Chronicles** | None found | **MISSING** | Less urgent — largely parallel to Samuel/Kings — but 1 Chron 4:10 (Jabez) is frequently misused; a corrective sermon has value. |

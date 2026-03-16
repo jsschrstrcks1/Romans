@@ -321,7 +321,7 @@ From `preaching-gap-analysis.md`, the top 15 preaching gaps ranked by theologica
 | 11 | Lamentations 3 + Job 38–42 | Theology of lament |
 | 12 | Acts 17 (Mars Hill) | Apologetics in pagan context |
 | 13 | Habakkuk | "The righteous shall live by faith" — never preached from its source |
-| 14 | 2 Samuel 7 | Davidic covenant — missing link in covenantal chain |
+| 14 | 2 Samuel 7 | Davidic covenant — surveyed in `Eph 3 - The Covenants.md` but no dedicated expository sermon; covenant-as-primary-text gap remains |
 | 15 | Galatians 5 (Fruit of the Spirit) | Referenced constantly; never primary preaching text |
 
 **24 books of the Bible** have never been the primary preaching text (19 OT, 5 NT).
