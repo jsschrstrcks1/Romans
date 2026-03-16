@@ -612,12 +612,39 @@ Memorial view. Self-examination required before partaking. **Explicit. Tradition
 
 Women honored as co-laborers (Phoebe, Junia, Mary in Romans 16). Pastorate reserved for men. Women may serve as deacons. **Explicit. Tradition: Complementarian Baptist.**
 
+#### Body of Christ as Mutual Suffering and Care — Not Optional Membership
+
+> "If one part of the body is hurting, the whole body hurts. If one part of the body is hurting, the body should tend to it and care for it and support it and take up the slack for the part that is hurting. We are more than individuals. We are more together than we are apart."
+> — `1 Corinthians 12 - Church Membership.md`
+
+> "We're a church. We're family. Sometimes you do what you have to do — endure what you have to endure — for family."
+> — `1 Corinthians 12 - Church Membership.md`
+
+The church is not a voluntary association of convenience. It is a living body under one Head. Withdrawal from the body injures the body. Suffering in one member summons care from every other member. This is not idealism — it is biology applied by Paul to ecclesiology (1 Cor 12:26). **Explicit. Tradition: Baptist, Pauline ecclesiology.**
+
+#### Consumer Christianity — The Idol of Comfort
+
+> "They are looking for a church that worships the idol of comfort — just like them."
+> — `1 Corinthians 12 - Church Membership.md`
+
+> "People want to come to church, want to be comfortable in their heated and air-conditioned seats, want to be entertained by a band, and have nice things said to them from the pulpit about how God's going to make them comfortable and wealthy and life's going to be easy. They want to continue in their comfortable ignorance of Scripture."
+> — `1 Corinthians 12 - Church Membership.md`
+
+Consumer Christianity is named as idolatry — worshipping comfort rather than Christ. The critique runs from worship style ("goosebumps" as the measure of valid worship) to giving ("comfortable ignorance of scripture") to church-shopping. The pastor situates himself inside the critique: "I absolutely have been where those people are." This is not condescension — it is pastoral testimony. **Explicit. Tradition: Reformed Baptist (Dever-adjacent, 9Marks ecclesiology).**
+
+#### "I Love Jesus But Not His Church" — Named as Self-Contradiction
+
+> "If you don't like Christ's bride, maybe it's really Christ you don't like. People think they can stay home, and — in contradiction to Scripture — continue to live for Christ apart from his church. This is a form of rebelling against Christ."
+> — `1 Corinthians 12 - Church Membership.md`
+
+The increasingly common sentiment — "I love Jesus, I just don't like organized religion" or "I don't like his church" — is not accepted as a devotional position. It is confronted as a self-contradiction. To reject the bride is to reject the Groom. To stay home in willful isolation from the local church is not personal piety — it is defiance of Christ's design for his people. **Explicit. Tradition: Ecclesiological Baptist (Mark Dever, 9Marks).**
+
 #### Church Growth Through Evangelism, Not Transfer
 > "As Christians leaving one church for another is sort of like cutting the foot off, and sewing it on a different body. That's part of the reason I don't want to grow because other churches are having issues. I would rather grow through evangelism."
-> — `Commitment to the church body 1 cor 12.md`
+> — `1 Corinthians 12 - Church Membership.md`
 
 > "When we fill up, I would love for us to be a church that plants another church in the place of greatest spiritual need."
-> — `Commitment to the church body 1 cor 12.md`
+> — `1 Corinthians 12 - Church Membership.md`
 
 **Explicit. Tradition: Baptist / Missional.**
 
