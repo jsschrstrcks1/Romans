@@ -44,7 +44,7 @@ Hands and feet pierced
 Psalm 22:16
 John 20:20, 25-28
 Bones not broken
-Psalm 22:17
+Psalm 34:20
 John 19:31-36
 Stared at by the people
 Psalm 22:17
@@ -83,7 +83,7 @@ You know which door you've been living behind. And you know if tonight's the nig
 - **R.A. Torrey — 300 OT references** *(partially resolved March 2026)*: Likely source is Torrey's *The New Topical Text Book* (1897), section "Prophecies respecting Christ." The general "300 prophecies" figure is widely cited in evangelical contexts and consistent with Torrey's work; however, Torrey as the specific originator of the "300" count is not confirmed. Acceptable to say "Torrey catalogued hundreds of OT prophecies about Christ" without citing the specific number as his. If citing "300" specifically, qualify as approximate.
 - **Romans 10:9** ✓ *Corrected (March 2026)*: Body now reads ESV exactly — "confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead."
 - **Psalm 22 prophecy table** *(partially verified March 2026)*: 11 cross-references listed. One cross-reference requires correction before printing:
-  - **"Bones not broken / Psalm 22:17 → John 19:31-36"** ⚠️: John 19:36 explicitly cites **Psalm 34:20** ("Not one of his bones will be broken"), not Psalm 22:17. Psalm 22:17 ("I can count all my bones") is descriptive of the suffering/exposure in crucifixion, not the direct prophecy about unbroken bones. The John 19 citation should be listed under Psalm 34:20. The "stared at by the people" entry (also listed as Psalm 22:17 → Matthew 27:55-56) is the correct use of that verse.
+  - ~~**"Bones not broken / Psalm 22:17 → John 19:31-36"** ⚠️~~ — **RESOLVED March 2026.** Table corrected: "Bones not broken" row now cites Psalm 34:20 (not 22:17). John 19:36 explicitly cites Ps 34:20. The "Stared at by the people" row correctly retains Psalm 22:17 → Matthew 27:55-56. ✓
   - Remaining 10 references not checked line-by-line. Verify each against ESV before printing for congregational use.
 - **Deuteronomy 18:20–22** ✓ *Corrected (March 2026)*: Verse numbers added in body.
 - **Debate/voting intro**: Contains politically identifying commentary (unnamed candidate described in detail). Review before re-preaching or publishing to assess whether this dates the sermon or creates unnecessary controversy.

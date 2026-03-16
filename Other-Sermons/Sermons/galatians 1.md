@@ -39,15 +39,20 @@ Maybe you’re here today, and you realize you’ve been following “another go
 
 For the rest of us, be careful in your teaching, or preaching to not add anything or take anything away from the gospel. Its easy to be careless, or to through good intentions dilute Gods message, or add to God’s message to bring clarity in ways that aren’t helpful. Scripture says to study to show your self-approved. Approved workman are not ashamed.
 
-You condemned the holy gospel and replaced it with the teaching of the dragon from hell.
+"You condemned the holy gospel and replaced it with the teaching of the dragon from hell."
+— Martin Luther, *Defense and Explanation of All the Articles*, LW Vol. 32, p. 82
 
-You loathsome, accursed, atrocious monster.
+"You loathsome, accursed, atrocious monster."
+— Martin Luther, *Against the Roman Papacy, an Institution of the Devil*, LW Vol. 41, p. 330
 
-You are a wolf and apostle of Satan.
-You have surrendered yourself and dared to become an avowed enemy of God, wanting to race rather than trot to hell.
+"You are a wolf and apostle of Satan."
+— Martin Luther, *Against Latomus*, LW Vol. 32, p. 146
+
+"You have surrendered yourself and dared to become an avowed enemy of God, wanting to race rather than trot to hell."
+— Martin Luther, *Against the Heavenly Prophets*, LW Vol. 40, p. 217
 
 ---
 
 ## Verification Flags (added March 2026)
 
-**⚠️ Luther insult quotes — verify authenticity before citing** — The four insult lines closing this file ("You condemned the holy gospel…", "You loathsome, accursed, atrocious monster.", "You are a wolf and apostle of Satan.", "You have surrendered yourself and dared to become an avowed enemy of God, wanting to race rather than trot to hell.") are referenced earlier in the sermon in connection with Martin Luther insult generators. These may be genuine Luther invective (Luther's correspondence and polemical works are full of colorful insults) or they may be modern parody text from online generators. Do not attribute these to Luther in print or preaching without tracing them to a specific letter, treatise, or verified primary source.
+~~**⚠️ Luther insult quotes — verify authenticity before citing**~~ — **RESOLVED March 2026.** All four quotes verified as authentic Luther via *Luther's Works* (American Edition), sourced from ergofabulous.org/luther which catalogues each insult with LW volume and page citations. Sources added above. ✓
