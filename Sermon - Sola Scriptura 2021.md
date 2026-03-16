@@ -2,7 +2,7 @@
 
 **Occasion**: Evening service / Sunday school — estimated October 2021 (pastor appreciation month; "504 years ago this year" dates Luther's 1517 theses to 2021); part of the Five Solas series
 **Scripture**: 2 Timothy 3:13–17
-**Status**: Corrections noted (March 2026) — Trevor Noah attribution removed; flat earth claim corrected; DSS “2,000 years” → “1,000 years” applied; 4 Luther quotes ⚠️ unverified; see source notes
+**Status**: Corrections noted (March 2026) — Trevor Noah attribution removed (source unresolved, withheld from print); flat earth claim corrected; DSS “2,000 years” → “1,000 years” applied; Luther quotes researched: Quotes 1–2 confirmed (LW 49:161; Large Catechism Preface §10), Quotes 3–4 source located but edition unspecified ⚠️; see source notes
 
 ---
 
@@ -77,17 +77,17 @@ When we have a book that, as our passage tonight says, is God-breathed — let m
 
 As such, what kind of view do you think we should have of it? Martin Luther argued that it was vital we believe nothing more or nothing less than scripture.
 
-*(All four Luther quotes below are unattributed — no work cited; see source notes.)*
+*(All four Luther quotes researched March 2026 — see source notes for citation status.)*
 
 > "You have the Apostle Paul who shows to you a garden, or paradise, which is full of comfort, when he says: 'Whatever was written, was written for our instruction, so that through patience and the consolation of the Scriptures we might have hope' (Romans 15:4). Here he attributes to Holy Scripture the function of comforting. Who may dare to seek or ask for comfort anywhere else?"
 >
-> — Martin Luther *(source unverified)*
+> — Martin Luther *(LW 49:161, letter to Henning Teppen ✓)*
 
 We see he believed scripture brings us hope and comfort. When we are being attacked we should turn to it:
 
 > "Nothing helps more powerfully against the devil, the world, the flesh, and all evil thoughts than occupying oneself with God's Word, having conversations about it, and contemplating it."
 >
-> — Martin Luther *(source unverified)*
+> — Martin Luther *(Large Catechism, Preface §10 ✓)*
 
 When you're down because of politics, and because you're afraid for your 401k and so forth, turn to scripture. Turn to God through scripture.
 
@@ -97,13 +97,13 @@ When you're down because of politics, and because you're afraid for your 401k an
 
 > "You may, therefore, if you so please, oppose your power to the might of the devil. It will then be very easily seen what an utterly unequal conflict it is, if one does not have at hand in the beginning the Word of God."
 >
-> — Martin Luther *(source unverified)*
+> — Martin Luther *(Commentary on Romans, pp. 179–180 — edition unspecified ⚠️)*
 
 The Word of God frees us:
 
 > "So we also labor by the Word of God that we may set at liberty those that are entangled, and bring them to the pure doctrine of faith, and hold them there…. The Scripture does not set forth Christ as an accuser, a judge, or a tempter, but as a reconciler, a mediator, a comforter, and a throne of grace."
 >
-> — Martin Luther *(source unverified)*
+> — Martin Luther *(Commentary on Galatians, pp. 333, 126 — edition unspecified ⚠️)*
 
 So if you're weary, where should you turn? Scripture.
 If you're sad, where should you turn? Scripture.
