@@ -821,6 +821,35 @@ Not annihilationism. Real, conscious, eternal. **Explicit. Tradition: Orthodox C
 
 Claims of visiting heaven tested against Scripture and found wanting. **Explicit. Tradition: Cessationist / Sola Scriptura.**
 
+#### Already / Not Yet — Inaugurated Eschatology
+> "In the New Testament, there is this underlying theme of how some things are already true, and yet not yet. Our citizenship is in heaven, our sins have been paid for, we're truly free from sin. Already. And yet final victory against sin will not happen until we reach heaven."
+> — `Deuteronomy 8 - Count Your Blessings (repaired draft).md`
+
+The already/not yet tension is described as an "underlying theme" of the New Testament with clear application to:
+- Citizenship in heaven (Philippians 3:20) — already true, not yet physically arrived
+- Justification and freedom from sin — already accomplished, yet daily battles continue
+- Community of the redeemed — already real, not yet complete in God's presence
+- The Promised Land typology in Deuteronomy 8 as a preview of heaven — already promised, not yet possessed
+
+The same double-horizon structure is noted in Old Testament prophecy: the "present already" context for the original readers, and the "not yet" that points beyond to ultimate fulfillment. **Explicit. Tradition: Inaugurated eschatology (Ladd); consistent with Reformed / Baptist theology.**
+
+#### Heaven — Concrete Biblical Descriptions
+The sermon on Deuteronomy 8 develops a detailed portrait of heaven grounded in specific texts:
+
+- **A feast of nations** (Luke 13:29 ESV ✓) — "People will come from east and west, and from north and south, and recline at table in the kingdom of God"
+- **Many rooms prepared** (John 14:2 ESV ✓) — accommodations for everyone; the Father's house has space
+- **No hunger, no thirst** (Revelation 7:16–17 ESV ✓) — the Lamb shepherds to springs of living water
+- **God wipes every tear** (Revelation 7:17 ESV ✓) — the preacher interprets these as tears of joy at the overwhelming reality of God's presence; Christ personally wipes them
+- **No more curse** (Revelation 22:3 ESV ✓) — the curse from Genesis 3 fully reversed; creation's shattered reflection restored
+- **No broken bodies** — no cancer, no wheelchair, no addiction's hold; the body's corruption undone
+
+The Promised Land (Deuteronomy 8:7–10) is treated as a typological foretaste of heaven — land of plenty, no want, mineral wealth — with one meaning for Israel (the literal land of milk and honey) and a second, fuller meaning pointing to eternal life in God's presence.
+
+> "God will wipe away every tear from our eyes. I think those are going to be happy tears. We are going to be so blown away by the reality of the presence of God that we won't be able to help it — and in the midst of all of that, our Savior will walk over and wipe those tears from our face."
+> — `Deuteronomy 8 - Count Your Blessings (repaired draft).md`
+
+**Explicit. Tradition: Orthodox Christian.**
+
 ---
 
 ### 9. Ethics and Christian Life
