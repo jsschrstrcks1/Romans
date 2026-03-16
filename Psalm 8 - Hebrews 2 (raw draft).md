@@ -2,7 +2,7 @@
 
 **Series/Context:** Sunday morning (with "People Group of the Week" segment)
 **Passages:** Psalm 8; Hebrews 2:6–9
-**Status:** Raw preaching draft — unedited
+**Status:** Corrections applied (March 2026) — hard errors fixed, attributions softened; 3 flags remain (see below)
 
 ---
 
@@ -26,6 +26,12 @@
 
 - ✅ **J.C. Ryle quote**: Genuine. From *Holiness* (1883), p. 204. Exact wording: "There is a common, worldly kind of Christianity in this day, which many have, and think they have enough—a cheap Christianity which offends nobody, and requires no sacrifice—which costs nothing, and is worth nothing." Preacher's version is slightly paraphrased ("today" for "in this day," "offends no one" for "offends nobody") but the substance and core phrases are accurate.
 - ✅ **"How He Loves"**: Written by **John Mark McMillan** (2005), not David Crowder. Corrected in body with inline note. Crowder himself credited McMillan publicly.
+
+### Additional Cleanup — March 2026
+
+- ✅ **Duplicate transcript lines**: 4 pairs of incomplete/repeated lines removed (transcription artifacts).
+- ✅ **Edwards attribution softened**: "What did Edwards say?" → "a quote often attributed to Edwards."
+- ✅ **MacArthur direct-quote removed**: Body now reads "as MacArthur summarizes Romans 6" rather than presenting an unverified direct quote.
 
 ### Verified Correct
 

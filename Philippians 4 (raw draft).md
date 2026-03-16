@@ -3,7 +3,7 @@
 **Series/Context:** Sunday morning
 **Passage:** Philippians 4 (key verses: 4, 6–7, 8)
 **Theme:** Rejoicing and guarding the mind in a divided world; politics vs. the gospel; eternal perspective
-**Status:** Raw preaching draft — unedited dictation
+**Status:** Corrections applied (March 2026) — Phil 4:7 and Psalm 84:1–2 ESV verified ✓; C.T. Studd quote wording noted; inline flags added for unverified attributions
 
 ---
 
@@ -71,7 +71,7 @@ The solution to communism is the gospel. The solution to sin in this world is th
 
 As I mentioned last week, we are eternal beings having a temporal experience. This world and its hundred years of life will soon be past. In the words of C.T. Studd: *"Only one life, 'twill soon be past, only what's done for Christ will last."* *(Corrected March 2026 — draft had "This life twill soon be past"; correct opening is "Only one life, 'twill soon be past." From the poem titled "Only One Life, 'Twill Soon Be Past.")*
 
-**[FLAG: Verify C.T. Studd quote — exact wording before citing from pulpit.]**
+**[NOTE: The widely-known form of this poem is “Only one life, ‘twill soon be past, / only what’s done for Christ will last.” The draft drops the opening line “Only one life,” and reads “twill” for “‘twill.” Correct before preaching. ⚠️ Primary source in Studd’s published writings unconfirmed — attribution widely held but treat as unverified.]**
 
 For the believer, this world is the worst thing we will ever experience. For the lost, however, this is as good as it gets. That should break our hearts. There are good things in this life — love, family, and so on. But even those things are dim shadows of what will come in heaven for eternity. Even now those things are tainted by our sinful hearts. But one day — already and at once not-yet and for eternity — that taint of sin will be fully removed from our perspective and we will be rejoicing in the presence of our Savior forever. Loving fully.
 

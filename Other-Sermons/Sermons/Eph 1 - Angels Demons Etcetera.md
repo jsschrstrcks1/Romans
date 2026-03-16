@@ -3,6 +3,7 @@
 **Primary Text**: Ephesians 1:3-14
 **Supporting Texts**: 1 John 4:4, Colossians 1:13-14, Genesis 3:12-13
 **People Group**: Badhai of India
+**Series**: Baptist Faith and Message (Angelology/Demonology)
 **Format**: Sermon outline with notes (not a full transcript)
 
 ---

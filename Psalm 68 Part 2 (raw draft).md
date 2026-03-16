@@ -1,6 +1,9 @@
-Psalm 68:1-6 — Part 2 (continuing series)
-*(Raw draft — unpolished; picks up from previous week at Psalm 68:5-6)*
-*(Verification flags at bottom — review before preaching again)*
+# Psalm 68:1-6 — Part 2 (continuing series)
+
+**Text**: Psalm 68:1-6
+**Theme**: God as father to the fatherless, protector of widows; God's power vs. the Baals; Japanese people group
+**Status**: Scripture corrected (1 Kings 18 LORD, prophet count, Prov 27:17 ESV); duplicate line cleaned
+**Flags remaining**: 1 ⚠️ (Elijah timeline compression — see flags section)
 
 ---
 

@@ -1,3 +1,5 @@
+# 1 Corinthians 12:12-27 — Commitment to the Body
+
 I was talking to a guy that graduated from southeastern. He had introduced me to his wife, and I asked the usual question, how did you guys meet? So they started sharing. He had been kind of a shy guy, but he like her, So some of his friends, got with some of her friends, and they sort of orchestrated them going out on a date. Things were going well, one thing was leading to another, and they were spending a lot of time on the phone. 
 
 At this point, he’s a pastor of a rapidly growing church, working two jobs, and full time in seminary, so this guy was absolutely swamped. She actually shared this story. So one night a couple of months in, he was feeling overwhelmed and like he was spending too much time on the phone. He said I was just spending ALL my time on the phone,  so he called up his girlfriend, and get this. He said “I don’t like spending all this time on the phone with you, my priorities are God, my family, my church and my homework, and then you. I just can’t keep spending all this time on you. 
@@ -84,3 +86,14 @@ There is an advisory board meeting immediately following the service, if you’r
 Business Meeting:
 
 Sound system - ~1000$ Set money aside monthly towards it.
+
+---
+
+## Flags for Future Polish
+
+- **Dhangar Bharwad people group statistics** *(needs verification)*: "around 3m of them in india" and "roughly 4 hundreths of one percent are believers." Verify current figures against Joshua Project or IMB data before reuse.
+- **Romans 3:23** *(referenced, not quoted)*: "open there with me…I want you to read it out loud with me." ESV: "for all have sinned and fall short of the glory of God." Not quoted inline — no correction needed, but could add the ESV text in a polished version.
+- **"scripture says how beautiful are the feet of those that carry the good news of the gospel of peace"** *(paraphrase, uncited)*: Alludes to Romans 10:15 ("How beautiful are the feet of those who preach the good news!") which quotes Isaiah 52:7. The paraphrase is close. Add citation when polishing.
+- **"10% of people do 90% of the work"** *(unverified statistic)*: Common pastoral observation. No source cited. Treat as illustrative, not empirical.
+- **"head of the international missions board"** *(unnamed figure)*: The pastor identifies the seminary friend as a former IMB president. This likely refers to a specific individual. If identified, the name can be added when polishing.
+- **Announcements section** *(pastoral notes)*: Lines 78-88 are service announcements and a business meeting agenda. These are not part of the sermon manuscript proper and can be removed in any polished version.

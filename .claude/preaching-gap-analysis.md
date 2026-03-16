@@ -44,7 +44,7 @@
 | **2 Chronicles** | 2 Chron 15, 20 | Thin | Jehoshaphat's battle covered well. **Gap: 2 Chron 7:14 (one of the most-quoted but most-misapplied OT promises)** |
 | **Ezra** | Ezra 4, 6 | Thin | God's sovereignty over opposition covered. **Gap: Ezra 7–8 (Ezra's preparation: "he had set his heart to study the law")** |
 | **Nehemiah** | Neh 1–8, 13 | **Well-Covered** | 8-sermon arc. The strongest non-Romans sustained series in the archive. |
-| **Esther** | Referenced in Neh 2 only | **MISSING** | "For such a time as this" — providence without God's name; courage under an evil king. Relevant to congregation in culture-war anxiety. **High priority gap.** |
+| **Esther** | Esther 4:10–17 | **FILLED** | "For Such a Time as This" — preached; Mordecai's challenge, Esther's three responses (prayer, boldness, obedience), Gen 3:15 protoevangelium, Ps 22 tradition, Christ-type typology, Uyghur people group. See `Esther 4 - For Such a Time as This.md`. |
 | **Job** | Job 1 only | Thin | Character of Job covered. **Critical gap: Job 38–42 (God's speeches from the whirlwind) — theodicy at full depth; no sermon on suffering that matches this congregation's pain level.** |
 
 ---
@@ -276,7 +276,7 @@ Ranked by theological weight and pastoral relevance to this congregation.
 | **5** | Daniel 1–6 | Faithfulness under empire — directly complements Romans 13 and the congregation's political anxiety |
 | **6** | Ephesians 1, 3, 6 | Election doxology (ch. 1), fullness of God (ch. 3), armor of God (ch. 6) — significant doctrinal gaps |
 | **7** | Hebrews 9–10 | Old covenant shadow → new covenant substance — the typological architecture missing from OT preaching |
-| **8** | Esther | Providence without God's name; courage under a pagan king; relevant to cultural moment |
+| **8** | ~~Esther~~ ✅ FILLED | "For Such a Time as This" — Esther 4:10–17 preached. See `Esther 4 - For Such a Time as This.md`. |
 | **9** | Isaiah 40, 55 | "Comfort ye" and "Come, everyone who thirsts" — the congregation needs comfort; the lost need this invitation |
 | **10** | Ephesians 5:22–33 + Gen 2 + Song of Solomon | Biblical theology of marriage — congregation's most documented burden; no dedicated series |
 | **11** | Lamentations 3 + Job 38–42 | Theology of lament — grief is in the corpus but not the *discipline* of biblical grief |
@@ -321,7 +321,7 @@ For completeness — areas where no additional preaching is urgently needed.
 | **Ruth** | Completely absent. The kinsman-redeemer (*go'el*) is one of the most direct Christ-types in the OT. |
 | **2 Samuel** | David's entire reign — including the Davidic covenant (2 Sam 7) and Nathan's rebuke of David (2 Sam 11–12) — is unpreached despite heavy use of Psalms written in that period. |
 | **1 Chronicles** | No dedicated sermons. |
-| **Esther** | Mentioned in passing in one Nehemiah 2 note ("possibly Esther or descendant of Esther"). Never a primary text. |
+| **Esther** | ✅ Now preached — Esther 4:10–17, "For Such a Time as This." See `Esther 4 - For Such a Time as This.md`. |
 | **Song of Solomon** | Entirely absent. No treatment of marital love, human sexuality under God's design, or the bride-and-bridegroom typology. |
 | **Lamentations** | No dedicated sermons. The biblical model for grief is unpreached. |
 | **Daniel** | No dedicated sermons. Faithfulness under empire (Dan 1–6) is directly relevant to a congregation navigating cultural displacement. |

@@ -1,3 +1,5 @@
+# Colossians 2:1-8 — Quilted Together in Love
+
 Were going to be I Colossians chapter 2. While you re turning there lets talk about the people group of the week:
 
 Prayer. 
@@ -23,7 +25,7 @@ Their strength gives him strength. He knows his efforts haven’t been wasted. H
 
 A friend of mine from seminary said the hardest part of being a parent is not dirty diapers, but piano recitals. Apparently his kids school has multi hour events where small groups of kids perform poorly, group after group after group until your kids finally perform flawlessly. Then after that you sit there and wait while everyone elses kids finish their performances as well. He says it’s a form of torture. You want to sleep, but don’t want to be rude, and yet its becoming harder and harder to keep your eyes open, and then your wife elbows you in the ribs to help you keep awake, which is only fair because you elbowed her in the ribs just a few minutes ago to help her stay awake. But you go through these things, and endure them with joy because of the joy, and benefits they have to your children. Similar situation here, except with fewer instruments, and more prison. 
 
-In fact, Pastor John Piper wrote “the way to get assured understanding about the mystery of God, namely, Jesus Christ the treasure chest of wisdom, is to have your heart knit together in love with other believers. The deepest and most certain insights into the character of God and the wisdom of God come into heads that are attached to loving hearts.” Loving your brothers and sisters in Christ helps unlock the doors of wisdom, and knowledge of Christ. If God is love, if Christ is Love, to know and be like them is to exude love on those around us. Not just those that love us back. Scripture says, while we were yet sinners, Christ died for us. Did we love God while we were yet sinners? No. We didn’t even really have a good handle on what love meant. We weren’t even a glimmer in our parents eye, and yet Romans 5:7-8 says “7Very rarely will anyone die for a righteous man, though for a good man someone might possibly dare to die. 8But God proves His love for us in this: While we were still sinners, Christ died for us. God knew us to a point well beyond we are even capable of knowing ourselves. He knew the sins we would commit knowingly. He knew the sins we would accidently commit. He knew every thing good bad or otherwise that we would do, rightly compared our righteousness to used menstrual rags and chose to die for us any way. 
+In fact, Pastor John Piper wrote “the way to get assured understanding about the mystery of God, namely, Jesus Christ the treasure chest of wisdom, is to have your heart knit together in love with other believers. The deepest and most certain insights into the character of God and the wisdom of God come into heads that are attached to loving hearts.” Loving your brothers and sisters in Christ helps unlock the doors of wisdom, and knowledge of Christ. If God is love, if Christ is Love, to know and be like them is to exude love on those around us. Not just those that love us back. Scripture says, while we were yet sinners, Christ died for us. Did we love God while we were yet sinners? No. We didn’t even really have a good handle on what love meant. We weren’t even a glimmer in our parents eye, and yet Romans 5:7-8 says “7 For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die— 8 but God shows his love for us in that while we were still sinners, Christ died for us. God knew us to a point well beyond we are even capable of knowing ourselves. He knew the sins we would commit knowingly. He knew the sins we would accidently commit. He knew every thing good bad or otherwise that we would do, rightly compared our righteousness to used menstrual rags and chose to die for us any way. 
 
 What an awesome and loving God we serve. 
 
@@ -68,5 +70,18 @@ Gospel.
 
 Communion.
 
-For I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, 24 and when he had given thanks, he broke it, and said, “This is my body, which is for[b] you. Do this in remembrance of me.”[c] 25 In the same way also he took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.” 26 For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes.
+*1 Corinthians 11:23-29 (ESV):*
+
+For I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, 24 and when he had given thanks, he broke it, and said, “This is my body, which is for you. Do this in remembrance of me.” 25 In the same way also he took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.” 26 For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes.
 27 Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord. 28 Let a person examine himself, then, and so eat of the bread and drink of the cup. 29 For anyone who eats and drinks without discerning the body eats and drinks judgment on himself.
+
+---
+
+## Flags for Future Polish
+
+- **Romans 5:7-8** *(corrected)*: Was NIV wording ("Very rarely will anyone die for a righteous man…God proves His love"). Corrected to ESV ("For one will scarcely die for a righteous person…God shows his love"). ✓
+- **1 Corinthians 11:23-29** *(corrected)*: ESV footnote markers `[b]` and `[c]` removed. Citation added before the quote. ✓
+- **John Piper quote (vs. 2-3)** *(unverified)*: "the way to get assured understanding about the mystery of God…is to have your heart knit together in love with other believers." Attributed to Piper. Exact source (sermon, book, article) not given. Likely from his Colossians sermon series. Verify before republication.
+- **John Piper quote (vs. 6-7)** *(unverified)*: "In verses 2 and 3 the deep assurance…leads to strong encouragement…In verses 6 and 7 being rooted and built up in Christ leads to an overflowing gratitude…" Attributed to Piper. Verify source.
+- **Ann Voskamp quote** *(unverified)*: Extended quote on *eucharisteo*, charis, and chara. Attributed to Ann Voskamp. Consistent with her book *One Thousand Gifts* (2011) — exact wording should be verified against the published text before citing in print. The embedded Piper quote within the Voskamp passage also needs source verification.
+- **"scripture says, while we were yet sinners, Christ died for us"** *(acceptable prose paraphrase)*: Used conversationally, not as a formal quotation. The corrected ESV of Romans 5:7-8 appears in the same paragraph. No correction needed.

@@ -1,6 +1,9 @@
-Romans 1:1-2 — Prophecy and the Credentials of Christ
-*(Raw draft — unpolished; debate/voting intro, Psalm 22 fulfillment table, gospel close)*
-*(Verification flags inline — see notes before preaching)*
+# Romans 1:1-2 — Prophecy and the Credentials of Christ
+
+**Text**: Romans 1:1-2; Psalm 22
+**Theme**: OT prophecy as credential for Christ; double-entendre model of prophecy
+**Status**: Romans 10:9 and Deut 18:20-22 corrected to ESV; prophecy table reformatted
+**Flags remaining**: 3 ⚠️ (Rogers/Torrey figures unverified; Ps 22:17 "bones not broken" citation; "68% accuracy" stat — see flags section)
 
 ---
 
@@ -84,4 +87,5 @@ You know which door you've been living behind. And you know if tonight's the nig
 - **Romans 10:9** ✓ *Corrected (March 2026)*: Body now reads ESV exactly — "confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead."
 - **Psalm 22 prophecy table**: ✅ **"Bones not broken" reference corrected** *(March 2026)*: Draft had Psalm 22:17; this is wrong — Ps 22:17 says "I can count all my bones — they stare and gloat over me" (the *stared at* entry). The bones-not-broken prophecy cited in John 19:36 is **Psalm 34:20**: "He keeps all his bones; not one of them is broken." Table corrected. Other 10 cross-references are directionally sound; verify remaining fulfillment citations against ESV before printing for congregational use.
 - **Deuteronomy 18:20–22** ✓ *Corrected (March 2026)*: Verse numbers added in body.
-- **Debate/voting intro**: Contains politically identifying commentary (unnamed candidate described in detail). Review before re-preaching or publishing to assess whether this dates the sermon or creates unnecessary controversy.
+- **Prophecy table reformatted** ✓ *March 2026*: Plain-text list converted to markdown table; trailing comma on Matt 27:35 removed; "Surrounded by enemies" rows disambiguated.
+- **Debate/voting intro**: Contains politically identifying commentary (unnamed candidate described in detail). Review before re-preaching or publishing.

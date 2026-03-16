@@ -1,11 +1,15 @@
-Galatians 6:7-10 — Sowing and Reaping
-*(Raw draft — summary notes from sermon, not full transcript)*
-*(Verification flags at bottom — review before preaching again)*
+# Galatians 6:7-10 — Sowing and Reaping
+
+**Status:** Summary notes only — not a full transcript; ⚠️ multiple unverified quotes (Toplady, Spurgeon, Luther, Lawson); ⚠️ Svea/Aggie Flood story details unverified
 
 ---
 
 **Primary Text**: Galatians 6:7-10
-**People Group**: Sindhi Samas of Pakistan — storied past, ancestors used to be in charge, worship of dead ancestors fused with Islam, difficult place to reach. Need medical doctors and gospel.
+
+> 7 Do not be deceived: God is not mocked, for whatever one sows, that will he also reap. 8 For the one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life. 9 And let us not grow weary of doing good, for in due season we will reap, if we do not give up. 10 So then, as we have opportunity, let us do good to everyone, and especially to those who are of the household of faith.
+> — Galatians 6:7–10 (ESV)
+
+**People Group**: Sindhi Samas of Pakistan — storied past, ancestors used to be in charge, worship of dead ancestors fused with Islam, difficult place to reach. Need medical doctors and gospel. ⚠️ *Verify current statistics against Joshua Project/IMB before repreaching.*
 
 ---
 

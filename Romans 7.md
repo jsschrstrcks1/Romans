@@ -1,5 +1,9 @@
-# Romans 7:7-12
-## Raw Sermon Draft
+# Romans 7:7-12 — The War in the Dark
+
+**Text**: Romans 7:7-12, 21-25
+**Theme**: The law as revealer of sin; Christ as fulfillment of the law; the ongoing war in the believer
+**Status**: Scripture corrections applied (Phil 2:8, Lk 22:42 ESV) — prose is raw transcript, not fully polished
+**Flags remaining**: 2 ⚠️ (Tesla story, dieting statistic — see flags section)
 
 ---
 
@@ -58,5 +62,5 @@ For a church building.
 - **John 15:12-17** *(verified)*: The block quotation in the draft matches ESV exactly. ✓
 - **1 Cor 11:23-26** *(verified)*: Communion passage corrected to exact ESV in this file (comma after "body" restored). ✓
 - **MacArthur quote** *(reworded to paraphrase)*: "the God-ordained role of the law in a fallen world is to reveal the nature of human sin" — exact phrase not found in MacArthur's published material; likely a paraphrase of his teaching. Reworded in draft from direct quote to "As MacArthur has taught..." to reflect this. The concept is consistent with MacArthur's Romans and Galatians exposition. No further action needed unless exact source is located.
-- **Tesla resonance story**: Historical legend, widely repeated, but disputed. Mythbusters reference is from an unaired segment, not a broadcast episode. Flag as illustration with uncertain historical accuracy.
-- **"3 in 5 dieters gain weight" statistic**: Unverified, no source given. Flag before publishing.
+- **Tesla resonance story** *(fully researched — see detailed flags at top of file)*: Multiple factual errors confirmed. Mythbusters verdict was BUSTED (not dramatic); bridge was a truss bridge, not suspension; not in California; no 4-inch displacement; molecular vaporization claim scientifically inaccurate. See top-of-file flag for full detail and recommendations.
+- **"3 in 5 dieters gain weight" statistic** *(fully researched — see detailed flags at top of file)*: No traceable source; "lack of will power" framing contradicted by current biology. See top-of-file flag for full detail and recommendations.
