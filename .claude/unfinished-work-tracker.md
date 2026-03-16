@@ -206,14 +206,14 @@ These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT b
 | # | Sermon | Primary Text | Status |
 |---|--------|-------------|--------|
 | 1 | Paul's Final Letter | 2 Timothy 1:1-2 | ~~Extracted~~ → `2 Timothy 1 1-2 - Paul's Final Letter (raw draft).md` ✓ |
-| 2 | Cultural Marxism / CRT | Romans 10:12-13 | Raw in memory2.md — needs extraction, cleanup, ESV conversion, verification |
-| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | Partially extracted (`00c1185`); verify if complete |
-| 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 6 | Prayer | Colossians 4:2-4 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 7 | Church Membership / Body of Christ | 1 Corinthians 12:12-27 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 8 | Sowing and Reaping | Galatians 6:7-10 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 9 | Angels, Demons, Etcetera | Ephesians 1:3-14 | Raw in memory2.md — needs extraction, cleanup, verification |
+| 2 | Cultural Marxism / CRT | Romans 10:12-13 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Cultural Marxism.md` ✓ |
+| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ~~Raw in memory2.md~~ → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` ✓ |
+| 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | ~~Partially extracted~~ → `Other-Sermons/Sermons/Eph 3 - The Covenants.md` ✓ (complete Integrity Log present, 6 Scripture corrections + 3 factual notes applied) |
+| 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Col 2 - thanksigiving.md` ✓ |
+| 6 | Prayer | Colossians 4:2-4 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/col 4 - prayer.md` (full version) + `Other-Sermons/Sermons/prayer col 4.md` (prayer service version) ✓ |
+| 7 | Church Membership / Body of Christ | 1 Corinthians 12:12-27 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Commitment to the church body 1 cor 12.md` ✓ |
+| 8 | Sowing and Reaping | Galatians 6:7-10 | ~~No file found~~ → `Other-Sermons/Sermons/Galatians 6 - Sowing and Reaping.md` ✓ (condensed outline; Svea Flood story documented; 4 quotes flagged as unverified) |
+| 9 | Angels, Demons, Etcetera | Ephesians 1:3-14 | ~~Raw in memory2.md~~ → ✓ `Other-Sermons/Sermons/Eph 1 - Angels Demons Etcetera.md` is authoritative (all corrections applied, Integrity Log, Series label added). `Ephesians 1 - Angels Demons Etcetera.md` deprecated with header pointing to authoritative version. |
 
 **Note**: Several of these (2 Tim 2:3-7, 2 Tim 3:14+, Titus 3:1-7, Gal 3:23+, 2 Tim 2:14-26, Matt 5:13-16) have been processed per sermon-queue.md — they exist in Other-Sermons but also remain as raw text in memory2.md. The 9 listed above are the ones still needing standalone file extraction.
 
@@ -221,12 +221,12 @@ These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT b
 
 ## Part III: Blocked Sermons (Source Text Missing)
 
-These 2 sermons were cataloged in previous processing but their source text cannot be found in the repository:
+These sermons were cataloged in previous processing but their source text cannot be found in the repository:
 
 | Sermon | Text | Issue |
 |--------|------|-------|
 | **At the Altar of Our Convenience** | Psalm 106 | No .docx or .md source file in repo. Cataloged from an earlier info dump. Source text must be re-provided to process. |
-| **A Godly Home** | Exodus / Moses | No .docx or .md source file in repo. Same situation. Source text must be re-provided. |
+| ~~**A Godly Home**~~ | ~~Exodus / Moses~~ | ~~No .docx or .md source file in repo.~~ **RESOLVED** — Source text provided March 2026. Polished and verified manuscript saved to `Other-Sermons/Sermons/Sermon - A Godly Home.md`. Sermon-map updated (Exodus section + Marriage/Family index). Key corrections: Hiroo Onoda timeline (1974, ~29 years, age 52); ESV Scripture quotations; Patrick Henry/Rogers/Swindoll quotes verified. Two remaining ⚠️ flags: "three abortions/year" contraceptive claim (contested); silphium extinction date approximate. |
 
 ---
 
