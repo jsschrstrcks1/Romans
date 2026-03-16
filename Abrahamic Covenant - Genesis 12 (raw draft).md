@@ -2,7 +2,18 @@
 
 **Series/Context:** Abraham series — Sunday evening
 **Passages:** Genesis 12; Romans 3:23; Romans 10:9; Romans 15:27 (approx); Ephesians 3; Zechariah 12
-**Status:** Raw preaching draft — unedited, unverified
+**Status:** Raw preaching draft — unedited, unverified. ⚠️ DO NOT PREACH FROM THIS VERSION. See corrected versions below.
+
+> **Corrected versions available:**
+> - `Abrahamic Covenant - Genesis 12 (flagged draft).md` — errors annotated with inline flags and verified Scripture references
+> - `Abrahamic Covenant - Genesis 12 (repaired draft).md` — all confirmed errors corrected; use this for preaching
+>
+> **Known errors in this raw draft (corrected in repaired draft):**
+> - "its probably ba'al, and his consorts" — Ba'al not named in the midrash; removed in repaired draft
+> - "only ever has two sons" — Abraham had eight sons (Isaac, Ishmael, and six by Keturah, Gen 25:1–2); corrected in repaired draft
+> - "filthy rags" — KJV phrasing; ESV Isaiah 64:6 reads "polluted garment"; corrected in repaired draft
+> - "confess with our mouth the Lord Jesus Christ" — Romans 10:9 ESV reads "confess with your mouth that Jesus is Lord"; corrected in repaired draft
+> - "fallen short" — ESV reads "fall short" (present tense); corrected in repaired draft
 
 ---
 
