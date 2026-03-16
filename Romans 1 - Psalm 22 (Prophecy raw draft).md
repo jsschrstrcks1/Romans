@@ -3,7 +3,7 @@
 **Text**: Romans 1:1-2; Psalm 22
 **Theme**: OT prophecy as credential for Christ; double-entendre model of prophecy
 **Status**: Romans 10:9 and Deut 18:20-22 corrected to ESV; prophecy table reformatted
-**Flags remaining**: 3 ⚠️ (Rogers/Torrey figures unverified; Ps 22:17 "bones not broken" citation; "68% accuracy" stat — see flags section)
+**Flags remaining**: 2 ⚠️ (Rogers/Torrey figures — see flags section; "68% accuracy" stat — unverified, do not cite) | ✅ "Bones not broken" table row corrected to Ps 34:20 (March 2026)
 
 ---
 
