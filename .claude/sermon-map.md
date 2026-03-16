@@ -600,7 +600,8 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Colossians 2:1-8 | Thanksgiving and guarding against deceit | `Col 2 - thanksigiving.md` / `Colossians 2 - Quilted Together in Love (raw draft).md` | sermon — quilting metaphor (grandmother's quilt, each square a person knit together); bronze patina metaphor for church unity (individual pieces weathering together); John Piper quote on encouragement producing gratitude; eucharisteo word study (thanksgiving as Eucharist root); Ann Voskamp quote on eucharisteo; 1 Thess 5:17-18; warning against philosophy and empty deceit (v.8); communion service close |
 | Colossians 3:1-11 | The doctrine and weight of sin | `hamartiology.md` | sermon |
 | Colossians 3:1-17 | Political idolatry; sexual immorality (πορνεία); foul language; Christian formation; seminary reflection intro; election-year context (Trump/Biden references date sermon to late 2020); "a puritan" quoted: "be mortifying sin or sin will be mortifying you" (commonly attr. John Owen, *Mortification of Sin* — sermon does not name Owen); prosthetic-leg / baby-learning-to-walk sanctification illustrations; "you might be the only bible someone ever reads" | `I have been thinking about going back to seminary.md` | sermon |
-| Colossians 4:2-4 | Biblical model of prayer; evangelism | `col 4 - prayer.md` / `prayer col 4.md` / `Colossians 4 - Prayer (raw draft).md` | sermon — Esther/Xerxes audience illustration (approaching the throne); Putin/Kim Jong Un modern parallel; 2nd London Baptist Confession prayer model (ASCST: Adoration, Submission, Confession, Supplication, Thanksgiving); George Müller quote on prayer beginning with meditation on God's Word; guided prayer exercise at close; open door for the Word (v.3) |
+| Colossians 4:2-4 | Approaching God in prayer; five-part prayer model; devotion to prayer; evangelism | `col 4 - prayer.md` / `prayer col 4.md` | sermon — Esther/Xerxes audience illustration (approaching the throne of a powerful king); Putin/Kim Jong Un modern parallel (cost of audience with human rulers); 2nd London Baptist Confession five-part prayer model (Adoration, Submission, Confession, Supplication, Thanksgiving); George Müller quote (unverified: "not only orders our steps, but also orders our stops"); guided prayer exercise at close; open door for the Word (v.3–4) |
+| Colossians 4:2-4 | Prayer as relationship, not emergency; persistent prayer for the lost; neglect of prayer | `Colossians 4 - Devoted to Prayer.md` | sermon — airplane/pilot story (prayer only in crisis); high school friend illustration (one-sided friendship mirrors neglected prayer); F.B. Meyer (*The Secret of Guidance*: "great tragedy of life is not unanswered prayer, but unoffered prayer" — ⚠️ attribution contested); George Müller quote on persisting in Word and prayer despite spiritual dryness (⚠️ strongly attributed; verify edition); Calvin Wittman on προσκαρτερέω (lexical range confirmed; Wittman sermon unverified); Luke 11 ask/seek/knock as continuous present imperative; prayer for open doors for the gospel (v.3); popcorn prayer exercise at close |
 
 ### 1 Thessalonians
 
@@ -927,6 +928,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `1 cor 9.md` — 1 Corinthians 9:19-23 — Motivation for sharing the gospel
 - `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` — 1 Corinthians 9:19-23 — Why share the gospel; duty vs. joy as motive; "starving beggars telling other starving beggars where they found a feast"; invest in worship to fuel evangelism
 - `col 4 - prayer.md` / `prayer col 4.md` — Colossians 4:2-4 — Prayer and evangelism
+- `Colossians 4 - Devoted to Prayer.md` — Colossians 4:2-4 — Persistent prayer for open doors for the gospel (v.3); community lostness
 - `Psalms 96.md` — Psalm 96 — Evangelism as worship
 - `romans 9-10 paris evangelism.txt` — Romans 9:1-3 / Romans 10 — Paris attack pastoral response (prob. Nov. 13, 2015); Paul's unceasing anguish for the lost; Spurgeon, Piper, Platt, Whitefield, Edwards on evangelism urgency; Muslim outreach; Jonah sovereignty; ta ethne (Rev 7)
 - `Sermon - Power Encounter.md` — 1 Samuel 28 — Evangelism framework for the occult; power encounter; Creation-Fall-Cross-Redemption
@@ -1051,7 +1053,8 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Prayer
 - `PS 91 - Prayer.md` — Psalm 91 — God as refuge; prayer service
-- `col 4 - prayer.md` / `prayer col 4.md` — Colossians 4:2 — Devotion to prayer
+- `col 4 - prayer.md` / `prayer col 4.md` — Colossians 4:2-4 — Devotion to prayer; approaching God as King; five-part prayer model (Adoration, Submission, Confession, Supplication, Thanksgiving); guided prayer service
+- `Colossians 4 - Devoted to Prayer.md` — Colossians 4:2-4 — Prayer as relationship, not emergency; neglect of prayer; persistent prayer for the lost; Meyer on unoffered prayer (⚠️ attribution contested); Müller on discipline of Word and prayer (⚠️ strongly attributed)
 - `Neh 1.md` — Nehemiah 1 — Brokenness and prayer
 - `Other-Sermons/Sermons/Exodus 2.md` — Exodus 2:23–25; Luke 18:7–8; James 4:2–3 — God hears the cry of his people; Luke 18 widow and unjust judge as model of persistent prayer; "you do not have because you do not ask"
 
