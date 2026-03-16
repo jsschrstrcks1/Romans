@@ -748,6 +748,26 @@ Before adding any sermon to `sermon-map.md` or `theological-map.md`, **read the 
 
 ---
 
+## Git Status Rule: Fetch Before Answering
+
+**ALWAYS run `git fetch origin` before answering any question about:**
+- Whether the branch is up to date
+- Whether there are conflicts to resolve
+- Whether a pull or merge is needed
+- The state of the remote
+
+`git status` compares against the local tracking ref only. Without fetching first, it reports stale data. Reporting stale data as fact is a lie. Do not do it.
+
+**Required sequence before any git status answer:**
+```
+git fetch origin
+git status
+```
+
+No exceptions.
+
+---
+
 ## Integrity Rule: Careful, Not Clever
 
 > **Active skill: `.claude/skills/careful-not-clever/SKILL.md`**

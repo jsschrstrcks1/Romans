@@ -1,3 +1,5 @@
+# Colossians 4:2-4 — Prayer
+
 We are reaching the end of colossians this week, and it talks a bit about prayer. Seemed like a good launching point for a sermon on prayer. 
 
 We have a unique opportunity as americans right? We can pretty much go to the white house whenever we wanted, we can visit the capital. We can have an audience with our congressmen, and maybe even our president. This is unique in the world. I’m reminded of the story of ester. You guys remember esther? She caught word that the this guy named Haman was plotting against her people. Plotting to have them killed. 
@@ -51,3 +53,13 @@ But remember ONLY pray the part were working on now. Its going to be tempting to
 
 Lets start with Adoration. I’ll open. We will JUST pray our adoration of God, and when we have prayed ourselves empty, I’ll lead us into the next section. Ok?
 Say them with me: Adoration, Submission, Confession, Supplication, Thanksgiving.
+
+---
+
+## Flags for Future Polish
+
+- **George Müller quote** *(unverified)*: "not only orders our steps, but he also orders our stops." Attributed to George Müller. Widely cited in devotional literature but the exact source in Müller's writings has not been confirmed. Verify before republication.
+- **Vladimir Putin / Kim Jong Un statistics** *(unverified)*: The claim that an audience with Putin requires 100,000 signatures plus four inner-circle endorsements and approximately $50 million, and the anecdote about a North Korean admiral being imprisoned or executed after a ship tipped over, are presented as fact. These are unverified and should be treated as illustrative anecdotes, not citations. Verify or soften before print use.
+- **Second London Baptist Confession (1689)** *(verified)*: The 2LBC is a real confessional document. The five-part prayer framework (Adoration, Submission, Supplication, Confession, Spiritual Warfare) drawn from the Lord's Prayer is consistent with Reformed/Baptist catechetical tradition, though the specific wording of this breakdown should be verified against the published text.
+- **Romans 13 reference** *(paraphrase)*: "The bible says there is no authority except that which God has established" — paraphrases Romans 13:1 (ESV: "there is no authority except from God"). Acceptable as prose reference.
+- **"God's man to be elected" (prayer request)** *(contextual note)*: This is a prayer request in the body of the sermon, not a theological claim. No correction needed.

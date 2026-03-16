@@ -8,7 +8,7 @@ Continuing the theme of last week, were going to be in Psalms 103 today. Psalms 
 
 While you're turning there, lets talk about our people group of the week.
 
-Zaza-Dimli in Turkey ⚠️ *[Unverified — verify current statistics against Joshua Project/IMB before reuse.]*
+Zaza-Dimli in Turkey
 Caspian sea called Dailam. They have been fierce warriors, focused on conquest. The Dimli differ from the Kurds in two ways: language and religion. They have a distinct dialect, and are seen as heretics by the Kurds, who are Sunnis. The Dimli follow Alevi Shiite religious traditions.
 Ministry Obstacles
 
@@ -27,62 +27,13 @@ Lets pray for them.
 
 One of the commentators I read who is much better at the Hebrew here than I am. Says it carries with it the sense that our passage today was David setting himself aside from people, alone, just him and God. Its as though he's crying out for the sum total of his being to worship God, heart, soul and mind. Interestingly enough, almost any time you read the English word heart in the new testament (and I know were in the old testament here) the Greek reads "intestines". The people of this time period believed the center of their emotions was not their heart, but instead was their intestines. If were being honest, the heart pumps blood, but doesn't really have a lot to do with emotions other than moving the blood that carries the neurotransmitters sent out by the body, so we do basically the same thing. If we were to say heart sick, we know someone is having a hard time emotionally, if we say body sick, we would think something else, even if the latter might be a bit more accurate. Any way. David wanted his heart, and soul, and mind to worship God. ALL of his inmost parts, and my commentator believed that David had set himself aside, alone with God, and was opening himself up to examination by God to make sure he was being thankful, to make sure his life reflected "blessing the Lord" or thanksgiving to God.
 
-People think thanksgiving is about turkey and stuffing, but its about more than that. Its about being together with those we love, and giving thanks to God. About examining ourselves and seeing whether we live up to the biblical standard of thanksgiving, and giving thanks for the fact that though we fail, God's mercies are new every morning (Lamentations 3:22-23). We can never run so far away from God that he can't draw us back. God is so good to us!
+People think thanksgiving is about turkey and stuffing, but its about more than that. Its about being together with those we love, and giving thanks to God. About examining ourselves and seeing whether we live up to the biblical standard of thanksgiving, and giving thanks for the fact that though we fail, God's mercies are new every morning *(Lamentations 3:22-23)*. We can never run so far away from God that he can't draw us back. God is so good to us!
 
 Lets read. The whole thing.
 
-> 1 Bless the LORD, O my soul,
-> and all that is within me,
-> bless his holy name!
-> 2 Bless the LORD, O my soul,
-> and forget not all his benefits,
-> 3 who forgives all your iniquity,
-> who heals all your diseases,
-> 4 who redeems your life from the pit,
-> who crowns you with steadfast love and mercy,
-> 5 who satisfies you with good
-> so that your youth is renewed like the eagle's.
-> 6 The LORD works righteousness
-> and justice for all who are oppressed.
-> 7 He made known his ways to Moses,
-> his acts to the people of Israel.
-> 8 The LORD is merciful and gracious,
-> slow to anger and abounding in steadfast love.
-> 9 He will not always chide,
-> nor will he keep his anger forever.
-> 10 He does not deal with us according to our sins,
-> nor repay us according to our iniquities.
-> 11 For as high as the heavens are above the earth,
-> so great is his steadfast love toward those who fear him;
-> 12 as far as the east is from the west,
-> so far does he remove our transgressions from us.
-> 13 As a father shows compassion to his children,
-> so the LORD shows compassion to those who fear him.
-> 14 For he knows our frame;
-> he remembers that we are dust.
-> 15 As for man, his days are like grass;
-> he flourishes like a flower of the field;
-> 16 for the wind passes over it, and it is gone,
-> and its place knows it no more.
-> 17 But the steadfast love of the LORD is from everlasting to everlasting on those who fear him,
-> and his righteousness to children's children,
-> 18 to those who keep his covenant
-> and remember to do his commandments.
-> 19 The LORD has established his throne in the heavens,
-> and his kingdom rules over all.
-> 20 Bless the LORD, O you his angels,
-> you mighty ones who do his bidding,
-> obeying the voice of his word!
-> 21 Bless the LORD, all his hosts,
-> his ministers, who do his will!
-> 22 Bless the LORD, all his works,
-> in all places of his dominion.
-> Bless the LORD, O my soul!
-> — Psalm 103:1–22 (ESV)
+It strikes me right away, that though in the moment of writing David was alone, examining himself before God, and yet in recording that moment in scripture he made this very personal and private moment, very public. He's encouraging others to follow his example, I think both in private, and in public. To lead by example is in view here, and should be how Christians live. In private we should read our bible, and pray, we should live a lifestyle of evangelism, and worship in public and in private. We should be fellowshipping with other believers as well. In so doing scripture says as iron sharpens iron, and one man sharpens another *(Proverbs 27:17)*. Living for Christ makes one different. Makes one peculiar in this world. A true follower of Christ stands out from the crowd in the same way one would if they had pressed their face into a red hot glowing stove burner. The circular scars for the rest of your life would mark you has having pressed your face into the stove. The same is true of followers of Christ. We should live our lives as examples of God's mercy. That's uncomfortable sometimes. Who wants their failures on display. But as Paul said, if I boast, let me boast in Christ *(cf. 2 Corinthians 10:17 — paraphrase)*!
 
-It strikes me right away, that though in the moment of writing David was alone, examining himself before God, and yet in recording that moment in scripture he made this very personal and private moment, very public. He's encouraging others to follow his example, I think both in private, and in public. To lead by example is in view here, and should be how Christians live. In private we should read our bible, and pray, we should live a lifestyle of evangelism, and worship in public and in private. We should be fellowshipping with other believers as well. In so doing scripture says as Proverbs 27:17 says: "Iron sharpens iron, and one man sharpens another" (ESV). Living for Christ makes one different. Makes one peculiar in this world. A true follower of Christ stands out from the crowd in the same way one would if they had pressed their face into a red hot glowing stove burner. The circular scars for the rest of your life would mark you has having pressed your face into the stove. The same is true of followers of Christ. We should live our lives as examples of God's mercy. That's uncomfortable sometimes. Who wants their failures on display. But as Paul said if I boast, let me boast in Christ!
-
-A commentary called JFB said this that God is "not only intrinsically worthy of praise, but … (is) specially suited to man's frailty." ⚠️ *[Unverified — verify exact wording against the Jamieson, Fausset & Brown published commentary before citing in print.]*
+A commentary called JFB said this that God is "not only intrinsically worthy of praise, but … (is) specially suited to man's frailty. *(See flags — JFB quote should be verified against the actual commentary text.)*
 
 I had a situation a few weeks back, you guys know I took in Cooper a while back, as a rescue. He did what puppies do, and absolutely destroyed my sandals, both pair, and my shoes – all of them. ALL in about five minutes. I hate shoe shopping, I really don't enjoy shopping for most things. But there is something about the process of finding shoes that I really don't like. Part of it is that its hard to find shoes in my size, if a shoe store has 1-2 pairs in stock in my size, its because of God's providential grace for sure. I've been told I might have better luck at a boatyard. But any way, its hard to find shoes. So when I find a pair I like, I go back, and buy them over and over and over again. Shoes that are comfortable, and fit just right whether walking, or hiking, or preaching are hard to find. So when I find them, I stick with them. Its had to find shoes that feel like they were made just for you. Yet we have that same thing with God. We were made and then we broke ourselves in ways that only God can make up for. Or said another way, our frailty is specifically suited to God's power. Where we are weak, God is strong. Where we are broken, God can repair it. Where we hurt, God brings healing. Where we struggle God supplies us with his strength. His comfort, his protection and security. Where we lack God is there, and he provides, and God is great.
 
@@ -108,7 +59,7 @@ Its kind of deep stuff. People that don't deserve God's love, being the recipien
 
 Every time its used there is another dimension to it though. There is an expectation of reciprocity. God showed his Hesed love to Lot by sparing his family from the hellfire and brimstone that rained down upon the city, and he expected them not to look back, and to persue God. Both Lot, his wife, and his daughters, screwed up in different ways, with different results. Most of you remember Lot's wife turning into a pillar of salt. Lot didn't look back, but the next thing that's said of lot involves him going and getting drunk. His daughters took advantage of that, and they all had their own consequences. Though none as dramatic as those Lot's wife encountered. Rahab is a better example. She is said to have exhibited hesed love for the soldiers, and they (and God) in turn expressed hesed love for her, In sparing her and her family, in their home still standing after the destruction of Jericho.
 
-Another example is the good Samaritan. You remember the story of course, an isralite was walking down the road, was beaten up, robbed and left for dead. A levite walks past and did nothing, then a priest came along, and he scurried on to church, rather than help the dying destitute man. Finally a Samaritan walks past, and the samirtan bandages him up, gets him to an inn, and leaves enough money for them to take care of the Israelite until he's well again. When Jesus says which of these three loved their neighbor the Greek word in Luke 10:37 is *eleos* — mercy, compassion — the same concept as the Old Testament Hebrew *hesed*, steadfast covenant love. The theological connection is the same; the linguistic terms differ by testament and language.
+Another example is the good Samaritan. You remember the story of course, an isralite was walking down the road, was beaten up, robbed and left for dead. A levite walks past and did nothing, then a priest came along, and he scurried on to church, rather than help the dying destitute man. Finally a Samaritan walks past, and the samirtan bandages him up, gets him to an inn, and leaves enough money for them to take care of the Israelite until he's well again. When Jesus says which of these three loved their neighbor the word he used was Hesed. *(See flags — the Greek word in Luke 10:37 is "eleos," not the Hebrew "hesed." The theological connection is valid but the linguistic claim needs clarification.)*
 
 Its un-deserved steadfast love from God, and the loving response that engenders in a truly saved person as a result.
 
@@ -120,7 +71,7 @@ But then in our analogy something happens, someone comes along, opens up their c
 
 Yet we have done the same thing. Scripture says in romans 6:23 that the wages of our sin is death. We have spent our life sinning, and racking up debt. The only way that debt can be satisfied is with our death, followed by an eternity in Hell.
 
-Pretty grim news. We can't do anything about it. Might as well be a billion dollar debt. Its overwhelming, and insurmountable. It's an unclimbable mountain of debt. Yet Scripture says in Ephesians 2:4, "But God, being rich in mercy, because of the great love with which he loved us" — and in Romans 5:8, "while we were still sinners, Christ died for us." Or in 1 peter 3:18 For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit.
+Pretty grim news. We can't do anything about it. Might as well be a billion dollar debt. Its overwhelming, and insurmountable. It's an unclimbable mountain of debt. Yet Scripture says in eph 2 "But God, being rich in mercy, and because of his Great steadfast love for us" *(See flags — ESV reads "great love," not "Great steadfast love.")* and in another place, "while we were still sinners, Christ died for us" *(Romans 5:8)*. Or in 1 peter 3:18 For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit.
 
 We deserved death, and hell. But Christ offers of life eternal.
 
@@ -130,15 +81,15 @@ We have so much to be thankful for.
 
 ## Flags for Future Polish
 
-- **Psalm 103:1-22** *(added)*: ESV text added as blockquote. ✓
-- **Proverbs 27:17** *(corrected)*: NIV "as iron sharpens iron, so one person sharpens another" → ESV "Iron sharpens iron, and one man sharpens another." ✓
-- **Ephesians 2:4** *(corrected)*: "Great steadfast love" removed; corrected to exact ESV: "the great love with which he loved us." ✓
-- **Romans 5:8** *(corrected)*: KJV "yet sinners" → ESV "still sinners"; citation added. ✓
-- **Romans 6:23** *(minor paraphrase)*: "wages of our sin" — ESV reads "wages of sin" (no "our"). Minor paraphrase acceptable in preaching. ✓
-- **1 Peter 3:18** *(verified)*: Matches ESV. ✓
-- **Good Samaritan / hesed** *(corrected)*: "the word he used was Hesed" replaced with accurate explanation: Greek *eleos* (Luke 10:37) carries the same concept as Hebrew *hesed*. ✓
-- **Lamentations 3:22-23** *(added)*: Citation added for "God's mercies are new every morning." ✓
-- **JFB commentary quote** ⚠️: "not only intrinsically worthy of praise, but … (is) specially suited to man's frailty." Verify exact wording against JFB published commentary before citing in print.
-- **2 Corinthians boasting** *(paraphrase, uncited)*: "if I boast, let me boast in Christ" — loose paraphrase; closest texts are 2 Cor 10:17 and 2 Cor 11:30. Add specific reference if polishing for print.
-- **David and Bathsheba narrative** *(interpretive)*: Reading of rape based on power dynamics; preacher acknowledges it as his interpretation ("my best guess"). No correction needed. ✓
-- **Zaza-Dimli people group** ⚠️: Verify current statistics against Joshua Project/IMB before reuse.
+- **Psalm 103** *(not quoted inline)*: The preacher says "Lets read. The whole thing." — the full text of Psalm 103 was read aloud but is not transcribed in the sermon notes. Consider adding the ESV text in a blockquote for completeness.
+- **Proverbs 27:17 allusion** *(corrected)*: Was NIV wording ("one person sharpens another"). Corrected to ESV ("one man sharpens another") with citation added inline. ✓
+- **Ephesians 2:4-5** *(not exact ESV)*: Draft says "But God, being rich in mercy, and because of his Great steadfast love for us." ESV reads: "But God, being rich in mercy, because of the great love with which he loved us." The word "steadfast" is added to connect to the sermon's hesed theme — acceptable as pastoral paraphrase but should not be presented as a direct ESV quote.
+- **Romans 5:8** *(corrected)*: Was KJV wording ("yet sinners") and uncited. Corrected to ESV ("still sinners") with citation added inline. ✓
+- **Romans 6:23** *(paraphrase)*: Draft says "the wages of our sin is death." ESV reads "the wages of **sin** is death" (no "our"). Minor paraphrase — acceptable in preaching but note if quoting formally.
+- **1 Peter 3:18** *(verified)*: "For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit." — Matches ESV. ✓
+- **Good Samaritan / "hesed"** *(linguistically imprecise)*: Draft claims "the word he used was Hesed" in the Good Samaritan parable (Luke 10:37). The Greek text uses "eleos" (mercy/compassion), not the Hebrew "hesed." The theological connection between eleos and hesed is valid — both refer to mercy/lovingkindness — but claiming Jesus used the Hebrew word "hesed" in a Greek text is imprecise. Clarify when polishing: e.g., "the concept behind the Greek word here is the same as the Old Testament hesed."
+- **JFB commentary quote** *(unverified)*: "not only intrinsically worthy of praise, but … (is) specially suited to man's frailty" — Attributed to Jamieson, Fausset, and Brown commentary. JFB is a real, reputable commentary. Exact wording should be verified against the published text before citing in print.
+- **2 Corinthians 10:17 / "if I boast, let me boast in Christ"** *(cf. citation added)*: Loose paraphrase of 2 Cor 10:17 / 11:30. Added inline as "cf. 2 Corinthians 10:17 — paraphrase" to flag the approximation clearly. ✓
+- **David and Bathsheba narrative** *(interpretive)*: The interpretation that David raped Bathsheba is a legitimate scholarly reading based on the power dynamics (king sending messengers to "take" a subject). The preacher acknowledges this is his interpretation ("my best guess"). No correction needed, but note the interpretive nature.
+- **"God's mercies are new every morning"** *(cited)*: Lamentations 3:22-23 citation added inline. ✓
+- **Zaza-Dimli people group** *(noted)*: Statistics and background should be verified against current Joshua Project or IMB data before reuse.

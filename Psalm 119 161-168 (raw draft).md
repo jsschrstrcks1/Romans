@@ -2,7 +2,7 @@
 
 **Series/Context:** Evening service
 **Passage:** Psalm 119:161–168 (Shin stanza)
-**Status:** Raw preaching draft — unedited
+**Status:** Corrections applied (March 2026) — Forrest Fenn details corrected; US population corrected; inline flags added for unverified items
 
 ---
 
@@ -12,10 +12,10 @@
 - ✓ Forrest Fenn / poem clues *(corrected March 2026)*: Body now references "home of Brown" and "where warm waters halt" as closer paraphrases. Prior draft said "brown house" and "end of the warm water."
 - ✓ Forrest Fenn / deaths *(corrected March 2026)*: Body now reads "at least five documented deaths." Prior draft said "at least one." Note: "foul play" phrasing removed — specific sourcing was unavailable; the documented deaths are sufficient for the illustration.
 - ✓ Forrest Fenn / geography *(corrected March 2026)*: Body now reads "Mountain West." Prior draft said "the Midwest."
-- ⚠️ Brother Andrew / prayer: verify exact wording against *God's Smuggler*
-- ⚠️ Brother Andrew / Romania: verify destination was Romania specifically (some tellings reference Yugoslavia or other Eastern Bloc countries)
-- ⚠️ Florida stats / opiates: "more than rest of country combined" — verify currency and accuracy; likely from pill-mill era (~2010)
-- ⚠️ Florida stats / Xanax: same concern
+- ⚠️ Brother Andrew / prayer: verify exact wording against *God's Smuggler* — inline flag added in body
+- ⚠️ Brother Andrew / Romania: verify destination was Romania specifically (some tellings reference Yugoslavia or other Eastern Bloc countries) — inline flag added in body
+- ⚠️ Florida stats / opiates: "more than rest of country combined" — verify currency and accuracy; likely from pill-mill era (~2010) — inline flag added in body
+- ⚠️ Florida stats / Xanax: same concern — inline flag added in body
 - ✓ US population *(corrected March 2026)*: Body now reads "~330 million." Prior draft said "400m."
 
 ---
@@ -26,13 +26,15 @@ I saw a video going around facebook this week. This boy and his girlfriend are o
 
 A tv program I saw one time was about these folks and what they find in storage lockers that they buy at auction. I'm sure its staged… But this one scene really stuck with me. This one man Jarrod has an obscession with safes. Every time he sees a safe in an auction, he over pays. This particular auction was no different. There was a safe in the corner of the storage locker. It was incredibly ornate. It looked like a big pineapple. The fruit itself appeared to be Gold, and it had silver inlay all around it. The safe had these ornate black legs, the feet of which were also pineaplles – gold with silver inlay. The top of the pineapple was the way into the safe. It had a combination lock disguised by very intricate detailed leaves. You had to know which leaf to pull on to reveal the combination lock, and then the combination to get inside. Jarrod is kind of a meat head. In his mind the value is only what might be inside the safe. So he got out a ten pound sledge hammer and started going to town pounding on the safe with it. He battered the legs off, battered the leaves off, battered the combination lock off. He battered and battered and battered it until he was worn out, and then carried this super expensive safe up on top of the roof of a building and tosses it off the side. The now ruined safe popped open, to reveal some old banking records. He destroyed the safe, to get at whatever was inside, and in the process missed the only thing of value in the process.
 
-Finally I heard a true story recently about a modern day treasure hunt. A man named fenn was diagnosed with cancer and decided he wanted to leave a mark on the world. So he sold off part of his antique collection, and took a percentage of that, and put it in an antique gold and silver box. He reportedly went on foot into the Rocky Mountains, found a place to hide it, and then made a treasure map, and as the only clue he wrote a vague poem about a place called "home of Brown," where warm waters halt, and a blaze in the woods. Hundreds, if not thousands of people have been combing the rocky mountains from new Mexico to montana looking for this multi-million dollar treasure. This multi state treasure hunt has resulted in at least five documented deaths. Its lead to new hotels being opened, and flooded with customers. People are flooding to the Mountain West, because of this vague clue, more money than has been hidden has been spent in search of this old mans treasure.
+Finally I heard a true story recently about a modern day treasure hunt. A man named fenn was diagnosed with cancer and decided he wanted to leave a mark on the world. So he sold off part of his antique collection, and took a percentage of that, and put it in an antique gold and silver box. He reportedly went on foot into the Rocky Mountains, found a place to hide it, and then made a treasure map, and as the only clue he wrote a vague poem about a place called "home of Brown," where warm waters halt, and a blaze in the woods. *(Corrected March 2026 — prior draft said "took off in a helicopter"; Fenn reportedly hid the chest on foot. Clue descriptions updated to closer paraphrase of the actual poem; prior draft's "brown house" and "end of the warm water" were loose paraphrases.)* Hundreds, if not thousands of people have been combing the rocky mountains from new Mexico to montana looking for this multi-million dollar treasure. This multi state treasure hunt has resulted in at least five documented deaths. Its lead to new hotels being opened, and flooded with customers. People are flooding to the Mountain West, because of this vague clue, more money than has been hidden has been spent in search of this old mans treasure.
 
 It strikes me though that each and every one of us has a treasure infinitely more valuable that mostly sits ignored. This is a treasure – like that 2 million in the rockies that people daily risk their lives for. People run a foul of the law for. That people sneak out of jails for the chance to look at a single page.
 
 One man named Andrew had searched for and found some of this treasure we've been talking about. He filled his car up with it from floor to ceiling. Knowing that it was against the law to take this treasure across the border, but also knowing the desperate need his loved ones, and even strangers had he risked smuggling the treasure back into his home country. In order to save the people he loved, as well as friends, aquaintences and even strangers. In order to save his home town, he knew he had to break the law and successfully smuggle this treasure back home. So Andrew gets in line for the border crossing. His treasure was a thousand bibles. He had bibles in his trunk, bibles in his backseat, bibles in the passenger seat. He had bibles stacked clear to the roof. As many bibles as he could possibly get in his eastern European car. His one hope for bringing the lifesaving truth contained in the bible was that the guards would be not paying attention at the border crossing. He had a sheet covering the bibles, so they would remain somewhat hidden. He was the sixth car in line, and the first car in line the officer made him get out of the car, lay on the ground, was searched, then they handcuffed the guy while they pulled everything out of car spread it out, and carefully examined every item looking for contraband.
 
-The same thing happened to the second car, and the third. So brother Andrew began to pray. He prayed "Lord, in my car I have Scripture I want to take to your children. When you were on earth, You made blind eyes see. Now, I pray, make seeing eyes blind. Do not let the guards see those things You do not want them to see." ⚠️ *[Unverified — verify exact wording of this prayer against *God's Smuggler* (Brother Andrew with John and Elizabeth Sherrill) before citing in print.]*
+The same thing happened to the second car, and the third. So brother Andrew began to pray. He prayed "Lord, in my car I have Scripture I want to take to your children. When you were on earth, You made blind eyes see. Now, I pray, make seeing eyes blind.  Do not let the guards see those things You do not want them to see."
+
+**[⚠️ UNVERIFIED: Prayer wording above not checked against *God’s Smuggler* (1967). Verify exact wording before preaching — the substance is consistent with known accounts but specific phrasing may differ.]**
 
 He felt God urging him to put a couple bibles on the dash in plain view. He obedient did so.
 
@@ -40,25 +42,7 @@ Car number four in line received the same treatment, car number five received th
 
 Andrew approached the guard house, and he went to open the door to get out, and the border crossing guard used his knee to hold the door closed, and told him to go on through.
 
-Safe to say Andrew's prayer was answered. He said he kept his foot poised over the brake because he was absolutely certain they were going to change their minds. But they didn't! He was able to bring all of his bibles into Romania. ⚠️ *[Unverified — destination given as Romania; some tellings of this Brother Andrew account reference Yugoslavia or other Eastern Bloc countries. Verify against *God's Smuggler*.]* Let's read our passage tonight. Page ______ or _______
-
-> 161 Princes persecute me without cause,
-> but my heart stands in awe of your words.
-> 162 I rejoice at your word
-> like one who finds great spoil.
-> 163 I hate and abhor falsehood,
-> but I love your law.
-> 164 Seven times a day I praise you
-> for your righteous rules.
-> 165 Great peace have those who love your law;
-> nothing can make them stumble.
-> 166 I hope for your salvation, O LORD,
-> and I do your commandments.
-> 167 My soul keeps your testimonies;
-> I love them exceedingly.
-> 168 I keep your precepts and testimonies,
-> for all my ways are before you.
-> — Psalm 119:161–168 (ESV)
+Safe to say Andrew's prayer was answered. He said he kept his foot poised over the brake because he was absolutely certain they were going to change their minds. But they didn't! He was able to bring all of his bibles into Romania. **[⚠️ UNVERIFIED: Destination confirmed as Romania in this telling, but some accounts of the Brother Andrew story reference Yugoslavia or other Eastern Bloc countries. Verify against *God’s Smuggler* before preaching.]** Lets read our passage tonight. Page ______ or _______
 
 How many of you have a bible? 2? 3? 4? More than 10? I have a little bit of a collection. I have around 70 unique translations that stretch back to some of the first translations that ever were made in English, and a half dozen in greek, Hebrew, and latin. What treasure we have! And at no cost!
 
@@ -82,7 +66,7 @@ God's not going to spare you from every trouble. How would we ever learn or grow
 
 If you never read your bible, how would you ever know that? From reading our bible we learn this and other truths that bring us comfort in the midst of all kinds of troubles and fears. It may not be our plan, but it's a better plan than we could have imagined. It may not be in our timing, but his timing causes our growth. When we grow, were better people for it.
 
-How much anxiety is there out in the world today? I read that we have more prescriptions for opiates in florida than the rest of the country does combined. Likewise we have more prescriptions written for Xanax than the rest of the country combined here in florida. ⚠️ *[Unverified — these figures likely reflect Florida's pill-mill era (~2010); verify current DEA/CDC data before reprising.]* I know sometimes medications are necessary. But when a state of near 20m people has more prescriptions for Xanax than the other ~330 million people in the united states, there is a problem. And at the root of that problem is a lack of faith, a lack of trust, a lack of knowledge of God. All of that springs from reading the word of God.
+How much anxiety is there out in the world today? I read that we have more prescriptions for opiates in florida than the rest of the country does combined. **[⚠️ UNVERIFIED: Source and currency unknown — likely from pill-mill era (~2010). Verify or soften to “among the highest in the nation” before preaching.]** Likewise we have more prescriptions written for Xanax than the rest of the country combined here in florida. **[⚠️ UNVERIFIED: Same concern — source and currency unknown. Verify or soften before preaching.]** I know sometimes medications are necessary. But when a state of near 20m people has more prescriptions for Xanax than the other ~330 million people in the united states, there is a problem. *(Corrected March 2026 — prior draft said "400m"; US population is approximately 330–340 million.)* And at the root of that problem is a lack of faith, a lack of trust, a lack of knowledge of God. All of that springs from reading the word of God.
 
 In a lot of ways were like treasure hunters, that found the box with 2 million bucks inside it, but never open the box. Never see whats inside. We buy the book of scripture, but never experience the joy and peace that the word of God has to offer.
 Vs 163 talks about how we abhor falsehood. The word of God helps re-orient our priorities, and our sense of right and wrong.

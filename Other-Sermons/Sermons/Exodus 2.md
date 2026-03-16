@@ -1,82 +1,205 @@
-Exodus 2:23
-Psalm 115:4
-I heard a guy preach this week on the exodus. In fact if you’ve brought your bibles, and I hope you have, we will be in Exodus ch 2 this week, exodus chapter 2. There are some attributes of God I want you to make sure you catch in our passage. But while we are turning there, I want to talk to you about the exodus a bit, what lead up to it. But also we need to talk about our people group of the week. The Thai people of Thailand have a reputation for being easy-going, courteous, and hospitable. Wet-rice agriculture dominates the Thai economy, with about half of Thailand's population living in rural agricultural communities. Buddhism is a central and unifying force in Thai society. The Thai regularly make merit by giving gifts to the temple, attending festivals and having their sons ordained. In Thailand, Buddhism is a syncretic religion: it incorporates a mixture of pre-Buddhist Hindu beliefs and practices, interwoven with animism and Theravada Buddhist philosophy and rituals. Signs of the religious tradition are everywhere in Bangkok and throughout the country. Of the 23 million plus Thai people, the believers number in the tens of thousands.
-Much prayer is needed for the Thai people, that the Lord will increasingly give them understanding of who He is and how they can establish a relationship with Him.
+# He Sees. He Hears. He Knows. He Acts.
+### Exodus 2:23–25 | Psalm 115:4–8
+
+---
+
+I heard a man preach on the Exodus this week. And if you've brought your Bibles — I hope you have — we're going to be in Exodus chapter 2 this morning. There are some attributes of God I want you to make sure you catch in our passage. But while we're turning there, I want to talk about the Exodus — what led up to it, what was at stake, and why any of it matters for us today.
+
+But first, we need to talk about our people group of the week.
+
+---
+
+## People Group: The Thai of Thailand
+
+The Thai people have a reputation for being easy-going, courteous, and hospitable. Wet-rice agriculture dominates the Thai economy, with about half of Thailand's population living in rural agricultural communities.
+
+Buddhism is a central and unifying force in Thai society. The Thai regularly make merit by giving gifts to the temple, attending festivals, and having their sons ordained. In Thailand, Buddhism is a syncretic religion — a mixture of pre-Buddhist Hindu beliefs and practices, woven together with animism and Theravada Buddhist philosophy and ritual. Signs of this tradition are everywhere in Bangkok and throughout the country.
+
+Of the more than twenty-three million Thai people, believers number in the tens of thousands.
+
+Much prayer is needed — that the Lord will increasingly give the Thai people understanding of who He is and how they can know Him.
 
 Who will pray for the Thai of Thailand?
 
-So Joseph, the one with the coat of many colors, was sold into slavery, remember that? And he ended up rising through the ranks – as they say cream floats to the top, and before you know it, he has a very important Job in Egypt during the midst of a famine. The famine ultimately brought reconciliation between Joseph and his brothers that sold him into slavery, and he was able to settle them in some choice lands near Goshen. Where his family before long became roughly two million people. Pharoah became threatened by that, and so he declared them all slaves, and murdered a bunch of people. Its possible that until this point people were looking to their politics, to their country to save them. To Pharoah their God king to keep them. Then their king turns on them and starts murdering their kids. According to the Midrash, which is the jewish commentary on the old testament, its recorded that 600,000 babies were killed, considering there were likely about that many adult males of reproduction age, it may have been far more than that. We know again from the midrash which is jewish tradition, traditional jewish commentary on scriptures that this period of killing babies stretched on for about 3 years. In the midst of all this exodus chapter 2 happens. Moses is born, and put in the river. 
+---
 
-Think about that for a moment mothers. How horrible would things have to be for you to believe whole heartedly that the best and safest thing to do is to put your baby in the nile river. I mean on the one hand you have Hippos. People love Hippos – at the zoo. In the wild hippos are terrifying and violent. They weigh up to 9000 pounds making them the largest land mammal. On every list of the worlds most dangerous animals, in the top 5, somewhere between crocodiles, and malaria infected mosquitos is the hippo. Hippos kill more people than lions, and tigers, and bears combined. Hippos live in the nile. Moses was at risk from Hippos, and snakes. They have a snake called the asp viper, which is extremely painful, and sometimes deadly (4% of the time untreated asp bites are fatal). I don’t know, but I can’t imagine it being safer for babies. Not to mention nile crocidiles. Carnivourous fish with dagger like teeth, predatory lizards that are faster than people, and 7 feet long – easily big enough to be dangerous for an unattended baby. Its an incredibly dangerous place! No mask would have protected moses. On the other hand, you have pharaoh whose committing murder – genocide against an entire generation of babies. Hundreds of thousands of babies. If she had kept moses, he would have been found out, and likely killed. But the alternative was to let him float down the nile, maybe to his own death also. But God being rich in mercy, and love, and grace, had great plans for moses. Directed that baby right to Pharoahs daughter who had no children of her own, was able to be nursed by his own mother, and his mother was paid for it. 
+## The Road to Exodus 2
 
-At this point the Israelites, under the heal of the Egyptians were beginning to chafe, and seeing a native son being raised in the palace gave them hope that Moses would be able to change things. Everyone knew moses was a Hebrew according to the historian josephus. Even Pharoahs daughter when she pulled him out of the water remarked that he was a Hebrew child.  Yet she took him in any way. 
+So Joseph — the one with the coat of many colors — was sold into slavery. You remember that. He ended up rising through the ranks. As they say, cream floats to the top. Before you know it, he has a very important position in Egypt during a severe famine. That famine ultimately brought reconciliation between Joseph and the brothers who had sold him into slavery, and he was able to settle his family in some choice land near Goshen.
 
-Oh finally, we have our man in office they may have thought, things are going to get easier. But Pharoah dies, and moses becomes an exile, and things don’t really change. 
+His family grew. Before long, you're looking at roughly two million people. Pharaoh became threatened by that. So he declared them all slaves — and started murdering their children.
 
-I heard a preacher say this week that the only thing worse than slavery is death, and the Hebrews were being slaved to death by the Egyptians. This isn’t the kinder softer gentler softer slavery talked about in the new testament, this is full on gory, lets drive down the numbers of the Hebrews hard labor camp slavery of the horror stories we hear about civil war days. And it chafed the Israelites. They pinned their hopes on a man, and that man let them down, and ran away in defeat. They finally started to look in the right direction, and that’s where we find them today in our passage. 
+It's possible that until this point, the Israelites were looking to their politics. To their country. To Pharaoh their god-king to protect them. And then their king turned on them.
 
-Were not really sure who was Pharoah at this point in history. There are lots of theories, and not a lot of artifacts that date back to 1500s bc. However there are a few things I want us to notice. It wasn’t until after pharaoh died, and his son succeeded him, and moses had left that the Israelites began to look to God. 
+According to the Midrash — the traditional Jewish commentary on the Old Testament — it's recorded that some 600,000 babies were killed. Given that there were likely about that many adult males of reproductive age, the actual toll may have been far higher. Jewish tradition also places the duration of this campaign at roughly three years. In the middle of all this, Exodus chapter 2 happens. Moses is born. And then placed in the Nile.
 
-If they weren’t looking to God to that point, what were they looking to? May well have been idols. Egypt was a land of idols. They had idols for everything, even idols to protect against snake bites. Worship of the idols consumed much of Egyptian life. They believed these idols would bring them security, and peace, and comfort. Protection in child birth, health, and all sorts of things. There were over 2000 egyptians idols that were worshiped. They started out as animists, can anyone tell me what an animist is? God’s in the table, God’s in the chair, God’s in the light bulb, and everything. Every inanimate or animate thing has a little g god in it, the animist believes. We of course know there is only one True and living God. But the animists believed there were a ton of them. 
+---
 
-Could you imagine going through life having to worry about offending the fake deity that lives in your door? Or shoes? Or the pavement? 
+## A Mother's Impossible Calculation
 
-This was the life of the Egyptian of that time. It morphed and anthropomorphized to what we know today, maybe 20 or 30 main idols, with pictures and what not. In the old imagery, sometimes a particular God was portrayed as a cat, or a dog, or a vulture. It took a while for their myths to take a particular shape consistently. Some more than others. Either way, Egypt was the super power of the day, they had all the power, and money, and authority. They were prosperous, and everyone trembled at the thought of the Egyptian army. Kind of like the American army today. Kind of like America today, were wealthy, and comfortable, we don’t do everything perfect, but we do enough right that people die trying to get here. 
+Think about that for a moment, mothers. How horrible would things have to be for you to believe — wholeheartedly — that the best and safest thing you could do is put your baby in the Nile River?
 
-I saw a post on facebook this week about ponce inlet, and the museum of Cuban boats they have recovered from Cubans attempting to start a new life here. Some of them looked like metal plumbing, wrapped in tarps. People risking their lives to get here… we came across one boat down in the keys one year, we were diving and found a boat, that had sank in maybe 15 feet of water or so. I found a cool looking hand made machette  in the boat. There were kids clothes, little girls, and little boys clothing. Someone risked the life of their family to travel something like 160 miles from cuba to where we were to try and taste the freedom we take for granted. How desperate would you have to be to risk your kids lives like that? That’s a long way to travel in a little tiny boat made of plumbing pipe and plastic tarps. 
+On one hand, you have hippos. People love hippos at the zoo. In the wild, hippos are terrifying. They weigh up to nine thousand pounds, making them one of the largest land animals on earth — third in size only to the elephant and the white rhinoceros. On every list of the world's most dangerous animals, they rank in the top five, somewhere between crocodiles and malaria-infected mosquitoes. They are extraordinarily territorial and unpredictably aggressive. Hippos live in the Nile.
 
-Any way, there are a lot of paralells between Egypt then and America today. Both Egypt then and America now are ridiculously wealthy. Its been said – and I agree – that America is the only country in the world right now where even our poor can grow fat. Were probably the safest country to live in. Relatively peaceful transitions of power, no wars. Anyone know the last time America was attacked on our own soil – by a foreign power? 1942 – the Island of Attu. All 40 islanders were taken captive as they left church, and were taken to Japan to live out the war. It’s the only time American soil has been occupied by a foreign power since the war of 1812. 
+Moses was also at risk from snakes. The asp viper is native to that region — extremely painful, and sometimes fatal when untreated. Then there are the Nile crocodiles. Predatory monitor lizards that can reach seven feet in length. Fish with teeth like daggers. The river was not a nursery. It was a predator's corridor.
 
-Two or three times in 209 years. Were pretty safe. Were well fed. Were wealthy by most metrics. Even our poor are in the wealthiest few percent in the world. God has blessed us so much. 
+No mask would have protected Moses.
 
-But it would be easy for us to forget its God that provides for us, and come to think that we do it for ourselves, or our nation does it for us. It would be easy to turn our nation, or politics into an idol. Scripture says in Psalms 115:4 and following “4 But their idols are silver and gold,
-    made by human hands.
-5 They have mouths, but cannot speak,
-    eyes, but cannot see.
-6 They have ears, but cannot hear,
-    noses, but cannot smell.
-7 They have hands, but cannot feel,
-    feet, but cannot walk,
-    nor can they utter a sound with their throats.
-8 Those who make them will be like them,
-    and so will all who trust in them.
+On the other hand, you have Pharaoh — committing genocide against an entire generation of babies. Hundreds of thousands of babies. If Moses' mother had kept him, he would have been found and likely killed. But the alternative was to let him float down the Nile, perhaps to his death as well.
 
-Egypt was a land of idols and idolatry. America is too. We worship politics and political parties and presidents. We worship our comfort, and our freedom. We worship our rights, and whether or not a thing is right. We say things like I deserve, or I don’t deserve. But what is the only thing that we all really deserve. Do we really deserve anything? And I know all of you would say the right church answer “the only thing I really deserve is to spend eternity in hell”, but on an interpersonal day to day level most people still feel deep down that they deserve to have this or that, or to be treated this way or that way. Or don’t deserve this or that. Idols have mouths but cannot speak, eyes but cannot see, ears but cannot hear. Those who make them will be like them. 
+But God — being rich in mercy, and love, and grace — had great plans for Moses. He directed that baby right to Pharaoh's daughter, who had no children of her own. Moses was nursed by his own mother, and his mother was paid for it.
 
-As we talked about last week, AW Tozer said “what comes into our minds when we think about God is the most important thing… About us.” What you think God is like, reveals the trajectory your life is on and who you as a person right now are.
+---
+
+## One Man's Failure, One Nation's Drift
+
+At this point the Israelites, chafing under the heel of Egypt, saw a native son being raised in the palace. They had hope. According to the historian Josephus, everyone knew Moses was Hebrew — even Pharaoh's daughter, who remarked on it when she pulled him from the water, took him in anyway.
+
+*Oh — finally, we have our man in office.* Things are going to change. Things are going to get easier.
+
+But Pharaoh died. Moses became an exile. Things didn't change.
+
+I heard a preacher say this week that the only thing worse than slavery is death — and the Hebrews were being worked to death. This isn't the kinder, gentler servitude described in the New Testament. This is full-on, hard-labor-camp slavery — the kind you hear about in the horror stories of American history. And it chafed them. They had pinned their hopes on a man, and that man let them down and ran away in defeat. They finally started to look in the right direction. And that's where we find them today.
+
+---
+
+## The Idol Problem — Then and Now
+
+We're not entirely sure who was Pharaoh at this point in history. There are a lot of theories and very few artifacts that date back that far. But there are a few things worth noticing. It wasn't until *after* Pharaoh died, and his son succeeded him, and Moses had fled, that the Israelites began to look to God.
+
+What were they looking to before? Most likely, idols.
+
+Egypt was a land of idols. They had idols for everything — even idols to protect against snake bites. Worship of idols consumed much of Egyptian life. They believed these idols would bring them security, peace, comfort, protection in childbirth, health. There were over two thousand Egyptian deities worshiped across that civilization.
+
+They started out as animists. Can anyone tell me what an animist is? God's in the table. God's in the chair. God's in the light bulb. Every inanimate or animate thing has a little-g god in it — that's what the animist believes. We know there is only one true and living God. But the animists believed there were a lot of them.
+
+Could you imagine going through life worried about offending the deity that lives in your door? Your shoes? The pavement?
+
+Over time, Egypt's animism morphed and anthropomorphized into what we recognize today — maybe twenty or thirty major deities, given human or animal forms. Cats, dogs, vultures. The mythology took centuries to stabilize. Either way, Egypt was the superpower of the day. They had all the power, all the money, all the authority. They were prosperous, and everyone trembled at the thought of the Egyptian army.
+
+Kind of like America today.
+
+We're wealthy and comfortable. We don't do everything right, but we do enough right that people die trying to get here.
+
+I saw a post this week about Ponce Inlet and the museum of Cuban boats they've recovered — boats built by Cubans attempting to start a new life in this country. Some of them looked like metal plumbing wrapped in tarps. I came across one myself once, down in the Keys. We were diving and found a boat that had sunk in maybe fifteen feet of water. There was a hand-made machete in the boat. And kids' clothes. Little girls' and little boys' clothing. Somebody had risked the lives of their children to travel a hundred and sixty miles in a boat made of plumbing pipe and plastic tarps to try to taste the freedom we take for granted.
+
+How desperate would you have to be to risk your children's lives like that?
+
+There are a lot of parallels between Egypt then and America now. Both are ridiculously wealthy. It's been said — and I agree — that America is the only country in the world right now where even our poor can grow fat. We're probably the safest nation to live in. Relatively peaceful transitions of power. No wars on our soil. Anyone know the last time American soil was occupied by a foreign power?
+
+1942. The Island of Attu, in the Aleutian chain. Forty-two Unangan residents were captured as they left Sunday services at their Russian Orthodox church and transported to an internment camp in Hokkaido, Japan, where sixteen of them died in captivity. It's the only time American soil has been occupied by a foreign power since the War of 1812.
+
+Two or three times in two hundred years. We're pretty safe. Pretty well fed. Wealthy by almost every global metric. Even our poor are among the wealthiest few percent of people in the world. God has blessed us greatly.
+
+But it would be easy to forget it's God who provides — and to begin thinking we do it ourselves. That our nation does it for us. It would be easy to turn our nation, or our politics, into an idol.
+
+Scripture says in Psalm 115:4–8:
+
+> Their idols are silver and gold,
+>     the work of human hands.
+> They have mouths, but do not speak;
+>     eyes, but do not see.
+> They have ears, but do not hear;
+>     noses, but do not smell.
+> They have hands, but do not feel;
+>     feet, but do not walk;
+>     and they do not make a sound in their throat.
+> Those who make them become like them;
+>     so do all who trust in them.
+
+Egypt was a land of idols and idolatry. America is too. We worship politics and political parties and presidents. We worship our comfort, and our freedom. We worship our rights — and whether or not a thing is *right*. We say things like *I deserve this*, or *I don't deserve that*.
+
+But what is the only thing we all actually deserve?
+
+I know every one of you will give the right church answer — "the only thing I really deserve is eternity in hell." But on a day-to-day, interpersonal level, most people still feel deep down that they deserve to have this or be treated that way. Idols have mouths but cannot speak. Eyes but cannot see. Ears but cannot hear. And those who make them become like them.
+
+As we talked about last week, A.W. Tozer said: *"What comes into our minds when we think about God is the most important thing about us."* What you think God is like reveals the trajectory your life is on and who you are right now.
 
 The idols you choose to worship say a lot about you too. What idols are you choosing to worship?
 
-But our passage in exodus 2 talks about more than just the evils of idolatry. It tells us some important things about God to. 
+---
 
-Some people say God is this distant, dispassionate uninvolved unknowable being. But what we read here is something different than that.  Someone read vs 24 and 25 for me. God hears and remembers and knows. 
+## What God Is Actually Like
 
-He knows intimately every struggle you have and will go through. Parents, he knows what it is to see your children struggle and suffer. He knows what it is for his body to betray him. He knows what it is to lose a loved one. Most people believe his earthly father had passed away before Jesus death. 
+But our passage in Exodus 2 tells us more than just the evils of idolatry. It tells us something essential about God.
 
-God knows what it is to go through every single element of human life, because Jesus experienced human life, and temptation, and adversity, and poverty, and humiliation, and so on and so on. He knows!
+Some people say God is a distant, dispassionate, uninvolved, unknowable being. But what we read here is something different altogether. Would someone read verses 24 and 25 for me.
 
-He knows and her persevered through the midst of injustice, and pain, and suffering. He persevered against temptation, and grief. He pushed on through all of these things in a flawless sinless way. So he understands your pain as you watch your loved ones struggle. He knows! 
+*God hears. God remembers. God knows.*
 
-Secondly he hears. Though he’s in heaven, he still hears you. So spend time in prayer. Our example is found in luke 18 – the godly woman knocking at the door of the unrighteous judges house. 
+**He knows.**
 
-Judges were very corrupt, and if not the judge then their staff. You had to have power and authority to have your case heard. Or you had to have a lot of money, and the desire to bribe the judge or his staff. Otherwise your case would never be heard. So the Godly woman goes up to the judges tent and knocks on his door, and keeps going until the judge decides he had better help her find justice just so she’ll go away. Vs 7 says “will not God bring about justice for his chosen ones, who cry out to him day and night? Will he keep putting them off? 8 I tell you, he will see that they get justice.
+He knows intimately every struggle you have and will go through. Parents — he knows what it is to see your children struggle and suffer. He knows what it is for his body to betray him. He knows what it is to lose a loved one. Most people believe his earthly father had passed away before the crucifixion.
 
-Or as the book of James says “you have not because you ask not, and you have not because you ask wrongly”. 
+God knows what it is to go through every element of human life — because Jesus lived it. Temptation. Adversity. Poverty. Humiliation. He knows.
 
-Pray day and night, and your groanings will be heard by God. Because God hears us when we pray. Maybe he doesn’t move today, or tomorrow. But scripture says “he WILL see that they get justice”. 
+He persevered through injustice and pain and suffering. He persevered against temptation and grief. He pushed through all of it in a flawless, sinless way. So he understands your pain as you watch your loved ones struggle.
 
-Finally He sees! God isn’t hiding his face from whats going on. He isn’t oblivious. He isn’t blind. He isn’t so busy with everyone else that he can’t know, and hear and see you in your time of need. What kind of God would he be if he were clueless when it came to what we are going through. He sees us struggling, and he will act. 
+He knows.
 
-Now maybe he will act when we want him to, but most likely he will act in his timeline, when he is ready. 
+**He hears.**
 
-The Israelites had a while to wait. Moses lived with his father in law for how many years? Anyone remember? 40 years! For 40 years the Hebrew people struggled under an intolerable yoke of slavery. But, if you were to ask any one of them how long they would choose to be in slavery, what do you think they would say? How long would you choose to be in slavery? I know I wouldn’t, if God said I had to, but could choose how long, I’d choose to be a slave for about a half second. Then I’d want to be done with it. But God choosing what was best for them in the long run, allowed them to endure for an additional fourty years. Under the leadership of this baby killing, slave holding family. 
+Though he's in heaven, he still hears you. So spend time in prayer.
 
-But as we mentioned before, God sees, hears, knows, and acts. 
+Our example is found in Luke 18 — a widow who kept going to the door of an unjust judge. Judges in that day were corrupt, and if not the judge then his staff. You needed power, authority, or money to bribe someone just to get your case heard. Without those, you would never be seen.
 
-Lets turn the page to chapter 3, starting in vs 7 7 Then the Lord said, “I have surely seen the affliction of my people who are in Egypt and have heard their cry because of their taskmasters. I know their sufferings, 8 and I have come down to deliver them out of the hand of the Egyptians and to bring them up out of that land to a good and broad land, a land flowing with milk and honey, to the place of the Canaanites (Etc). 
+So this widow keeps coming back. She keeps knocking. And the judge eventually decides he had better help her find justice — if only to make her stop bothering him.
 
-and if you were to skip down to the bottom of the chapter, you’d see that God promises to strike the Egyptians, and make them happy to see the Hebrews go with their Gold and riches. 
+Then Jesus makes the application: Luke 18:7–8 says —
 
-God sees, and hears, and knows, and acts. For our good. Even in the midst of terrible things, God means them for good for us. Even if we can’t see it. The Hebrews had a hard time seeing it when they reached the red sea with the Egyptian army behind them. But God had a plan to wipe out the part of the army that chased the Hebrews. They just had to trust God a little further. Trials have the effect on our life of building our faith. Deepening our trust in God. Folks, that means that those of you who have little faith, may need to buckle up and prepare for some trials. Its one of God’s tools for deepening faith. Those of you with deep faith, that doesn’t mean you’re going to be free from trials. Your faith can always be deeper. Hardships come and hardships go, but our God is forever, and he hears, and he sees, and he knows, and he acts. 
+> "And will not God give justice to his elect, who cry to him day and night? Will he delay long over them? I tell you, he will give justice to them speedily."
 
-Isn’t that a wonderful thing? But that starts with being a Christian, and being a Christian starts with the gospel.
+Or as James puts it in James 4:2–3 —
+
+> "You do not have, because you do not ask. You ask and do not receive, because you ask wrongly, to spend it on your passions."
+
+Pray day and night. Your groanings will be heard by God. Maybe he doesn't move today, or tomorrow. But Scripture says he *will* see that they get justice.
+
+**He sees.**
+
+God isn't hiding his face from what's going on. He isn't oblivious. He isn't blind. He isn't so busy with everyone else that he can't know, hear, and see you in your time of need. What kind of God would he be if he were clueless about what we're going through?
+
+He sees us struggling. And he will act.
+
+Now — maybe he will act when we want him to. Most likely, he will act in his timeline, when he is ready.
+
+---
+
+## Forty Years
+
+The Israelites had a while to wait. Moses lived with his father-in-law in Midian for how many years? Anyone? Forty years. For forty years the Hebrew people struggled under an intolerable yoke of slavery. If you asked any one of them how long they would choose to be a slave, what do you think they'd say? How long would *you* choose to be in slavery?
+
+I know I wouldn't — but if God said I had to, and I could choose how long, I'd choose about half a second. Then I'd want to be done with it. But God, choosing what was best for them in the long run, allowed them to endure an additional forty years. Under the heel of this baby-killing, slave-holding empire.
+
+But as we said before — God sees, hears, knows, and acts.
+
+Turn the page to chapter 3, beginning at verse 7:
+
+> "Then the LORD said, 'I have surely seen the affliction of my people who are in Egypt and have heard their cry because of their taskmasters. I know their sufferings, and I have come down to deliver them out of the hand of the Egyptians and to bring them up out of that land to a good and broad land, a land flowing with milk and honey.'" — Exodus 3:7–8
+
+And if you were to skip down to the end of the chapter, you'd see God promising to strike the Egyptians — and to make them *glad* to see the Hebrews leave, loaded with gold and silver.
+
+God sees. God hears. God knows. God acts. For our good.
+
+Even in the middle of terrible things, God means them for good. Even when we can't see it. The Hebrews had a hard time seeing it when they reached the Red Sea with the Egyptian army closing behind them. But God had a plan. They just had to trust him a little further.
+
+Trials do something to us. They build faith. They deepen trust in God. And church — that means those of you with little faith may need to buckle up and prepare for some trials. It's one of God's tools for growing what isn't there yet. And those of you with deep faith — that doesn't mean you're free from trials. Your faith can always be deeper.
+
+Hardships come and hardships go. But our God is forever. And he hears. And he sees. And he knows. And he acts.
+
+Isn't that a wonderful thing?
+
+But that starts with being a Christian — and being a Christian starts with the gospel.
+
+---
+
+*⚠️ Verification notes:*
+- *Midrash statistics (600,000 babies; ~3 years duration): Traditional Jewish rabbinic claims, not biblical text. Properly attributed to the Midrash in the sermon. Do not preach as historical certainties.*
+- *Thai people believers count ("tens of thousands"): Verified approximately accurate. The Central Thai people group (Joshua Project) numbers ~23 million with <1% evangelical — tens of thousands is a reasonable and conservative estimate. Recommend re-checking Joshua Project data before each use.*
+- *Island of Attu, 1942: All details verified from multiple sources (NPS, National WWII Museum, When In Your State, Juneau Empire). Confirmed: 42 Unangan residents; captured during Sunday Russian Orthodox services (June 7, 1942 was a Sunday); transported to Otaru, Hokkaido; 16 died in captivity.*
+- *Josephus account of Moses' Hebrew identity: Referenced in Antiquities of the Jews, Book 2. Accurately cited.*
+- *A.W. Tozer quote ("What comes into our minds when we think about God is the most important thing about us"): Verified. The Knowledge of the Holy, ch. 1.*
+- *All Scripture quotations converted to ESV.*
+- *Hippo "largest land mammal" claim: Corrected. Hippos are the third-largest land mammal (after African elephant and white rhinoceros).*
+- *Luke 18 character: Corrected from "godly woman" to "widow" per Luke 18:3 ESV.*
+- *James 4:2–3: Properly cited with ESV text.*
