@@ -246,7 +246,7 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 
 | File | Key Flags |
 |------|-----------|
-| `Proverbs 13 (raw draft).md` | Multiple verification flags on quotes and statistics |
+| `Proverbs 13 (raw draft).md` | *(substantially resolved March 2026)* Edwin Starr investor story removed ✓; 700% figure corrected to "fraction" ✓; screen time updated to Common Sense Media figures ✓; "3 hrs Puritan scripture" reframed ✓; Newton corrected to Greek philosophers ✓; Paul Washer story verified ✓; "spare the rod" ESV correct in body ✓. Standing: pew Bible page number (fill before Sunday); gospel section placeholder |
 | `Psalm 2 (raw draft).md` | 11 flags requiring verification: Heb 13:3 may be KJV not ESV; Edwards quote may have transcription error; "Lord" vs "LORD" in Psalm 2 quotes flagged; IDOP date and "53 countries" flagged as needing verification |
 | `Psalm 8 - Hebrews 2 (raw draft).md` | *(substantially resolved March 2026)* All ESV corrections applied ✓; Ryle quote confirmed ✓; "How He Loves" → McMillan ✓; Deut 32:9 corrected ✓; Caño Cristales corrected ✓. Standing: Platt cab story unverifiable without citation; Edwards quote possibly misattributed (not in Yale critical edition); MacArthur quote is paraphrase of Rom 6:18–19, attribute to text not to MacArthur |
 | `Psalm 119 161-168 (raw draft).md` | 10 flags: multiple quotes and cross-references unverified |
@@ -267,7 +267,7 @@ The sermon-map.md contains **46+ entries** with ⚠️ flags indicating unverifi
 - `Philippians 4 (raw draft).md` — 16 flags
 - `Psalm 2 (raw draft).md` — 11 flags
 - `Psalm 119 161-168 (raw draft).md` — 10 flags
-- `Study - Joseph as a Type of Christ (typology reference).md` — 10 flags
+- `Study - Joseph as a Type of Christ (typology reference).md` — partially resolved March 2026: Gen. 37:28 ESV ✓; Heb. 7:26 ESV ✓; Phil. 2:9 "new name" heading flagged as inaccurate (use Rev. 3:12 or revise heading). Standing: all quotes are KJV — convert to ESV before preaching; source/attribution unknown
 - `Romans 1 - Psalm 22 (Prophecy raw draft).md` — substantially resolved March 2026; standing: Psalm 22:17/"bones not broken" cross-reference needs table correction; "68%" stat uncitable; voting intro dated
 - `1 Thess 5 - Rejoice Always (raw draft).md` — 7 flags
 - `Psalm 68 Part 2 (raw draft).md` — substantially resolved March 2026; 1 standing item (Elijah timeline phrasing) for print polish
