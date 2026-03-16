@@ -12,9 +12,8 @@
 - [ ] **Translation** — All quotations below appear to be KJV. The repo standard is ESV. Verify each OT and NT reference against ESV before using from the pulpit, and replace quotations with ESV wording in any final sermon draft. Do not mix translations within a single passage without noting it.
 - [ ] **Source / Attribution** — No source is given for this typology list. It may derive from a published study Bible, a commentary (e.g., J. Vernon McGee, Alva McClain, Harry Ironside), or a typology reference work. Identify and credit the source before distributing or preaching from this material. [FLAG: IDENTIFY SOURCE]
 - [ ] **All Scripture references** — Verify every reference (chapter and verse) listed below. Spot-checks are noted inline where issues are most likely. [FLAG: VERIFY ALL]
-- [x] **Heb. 7:26 wording** *(corrected March 2026)*: Updated from KJV ("holy, harmless, undefiled, separate from sinners") to ESV: "holy, innocent, unstained, separated from sinners, and exalted above the heavens." Heb. 4:15b also updated to ESV. ✓
-- [x] **Phil. 2:9 "new name" question** *(resolved March 2026)*: Corrected from KJV to ESV: "Therefore God has highly exalted him and bestowed on him the name that is above every name." Neither KJV nor ESV uses "new name" in Phil. 2:9; that language is from Rev. 3:12. The typology section heading ("Given a New Name") is the source author's framing; a note has been added in the inline flag directing preachers to Rev. 3:12 for the "new name" language. ✓
-- [x] **Gen. 45:5a stray character** *(cleaned)*: Stray `v` removed. Gen. 45:5 is Joseph's "do not be distressed" speech — reference confirmed correct. ✓
+- [ ] **Heb. 7:26 wording** — Draft contained a web-copy artifact (`HYPERLINK "http://biblia.com/bible/nkjv/Heb.%207.26"`) indicating the text was copied from an online document using the NKJV. The hyperlink has been cleaned; the quotation has been retained as-is but must be verified against ESV. [FLAG: VERIFY TRANSLATION — NKJV artifact found]
+- [ ] **Gen. 45:5a stray character** — Original had a stray `v` after the Gen. 45:5a citation. Removed below. Verify the verse reference is correct: Gen. 45:5 is Joseph's "do not be distressed" speech — confirm sub-verse letter.
 
 ---
 
@@ -96,7 +95,7 @@
 
 > and they bargained with him [Judas] for thirty pieces of silver (Matt. 26:15b).
 
-**[FLAG: Verify Gen. 37:28b — price is twenty pieces of silver in Joseph's case vs. thirty for Jesus. This is intentional as a parallel, not an error — both involve a betrayal for silver, with the amounts differing. Confirm Gen. 37:28 says "twenty" (ESV: "twenty shekels of silver").]**
+**[✓ Gen. 37:28 ESV confirmed (March 2026): "Then Midianite traders passed by. And they drew Joseph up and lifted him out of the pit, and sold him to the Ishmaelites for twenty shekels of silver. They took Joseph to Egypt." Twenty vs. thirty is intentional — both are betrayal for silver; the difference is preachable (types are shadows, not photographs).]**
 
 ---
 
@@ -126,11 +125,11 @@
 ### RESISTED TEMPTATION
 > The temptation by Potiphar's wife (Read Gen. 39:7–12).
 
-> For it was indeed fitting that we should have such a high priest, holy, innocent, unstained, separated from sinners, and exalted above the heavens. (Heb. 7:26, ESV)
+> For such a high priest was fitting…who is holy, harmless, undefiled, separate from sinners… (Heb. 7:26).
 
-> …he in every respect has been tempted as we are, yet without sin. (Heb. 4:15b, ESV)
+> …[he] was in all points tempted like as we are, yet without sin (Heb. 4:15b).
 
-**[FLAG: Heb. 7:26 ✅ Corrected to ESV — "holy, innocent, unstained, separated from sinners, and exalted above the heavens." Previous KJV wording ("holy, harmless, undefiled, separate from sinners") replaced. Heb. 4:15b updated to ESV.]**
+**[✓ Heb. 7:26 ESV confirmed (March 2026): "For it was indeed fitting that we should have such a high priest, holy, innocent, unstained, separated from sinners, and exalted above the heavens." KJV above reads "harmless, undefiled" — replace with ESV when preaching.]**
 
 ---
 
@@ -165,9 +164,9 @@
 ### PROMOTED TO HONOR AND GLORY AND GIVEN A NEW NAME
 > And Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt (Gen. 41:41). *(See also Gen. 41:45a.)*
 
-> Therefore God has highly exalted him and bestowed on him the name that is above every name (Phil. 2:9, ESV)
+> …God also hath highly exalted him, and given him a name which is above every name (Phil. 2:9).
 
-**[FLAG: Phil. 2:9 ✅ Corrected to ESV — "bestowed on him the name that is above every name." Neither KJV nor ESV uses "new name" in Phil. 2:9; the "new name" language is from Rev. 3:12. The typology reference appears to intend Phil. 2:9 (exaltation + supreme name), not Rev. 3:12's "new name." KJV rendering updated to ESV. The section heading "given a new name" is the typology author's framing — preachers should note the "new name" language is not from Phil. 2:9 but could be supplemented with Rev. 3:12.]**
+**[⚠️ Phil. 2:9 "new name" — heading says "GIVEN A NEW NAME" but neither KJV nor ESV Phil. 2:9 uses the word "new." ESV: "Therefore God has highly exalted him and bestowed on him the name that is above every name." KJV: "given him a name which is above every name." The "new name" language is Rev. 3:12 ("I will write on him the name of my God...and my own new name"). The heading should be revised to "GIVEN THE NAME ABOVE EVERY NAME" or similar. The Phil. 2:9 citation itself is correct.]**
 
 ---
 

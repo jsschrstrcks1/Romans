@@ -52,6 +52,15 @@ Not petty rage. Not mere disappointment. Holy revulsion. **Explicit. Tradition: 
 
 Sovereignty extends over creation, history, politics, individual lives, and salvation. **Explicit. Tradition: Calvinistic Reformed Baptist.**
 
+#### God's Answer to "Why" Is His Name, Not an Explanation
+> "When you're asking why, God introduces himself."
+> — Steven Davey (paraphrase), cited in `Other-Sermons/Sermons/ex 6-7.md`
+
+> "So what does God say to Moses, how does he respond to Moses plea from this slough of despond? He says: I am the Lord."
+> — `Other-Sermons/Sermons/ex 6-7.md`
+
+God's pastoral response to human discouragement and despair is not a detailed explanation of His purposes but a covenantal self-disclosure — "I am the LORD" (Exodus 6:2, 6, 7, 8, 29; 7:5, 17). He does not answer the question "why" by explaining the suffering; He answers it by reminding His people who He is and what He has bound Himself to: *I am your God. You are my people. I will bring you out. I have a future for you.* The Cowper/Bunyan "Slough of Despond" framework grounds this pastorally: experienced believers often fall deeper into discouragement the more clearly they see God, because they also see more clearly how far they fall short. God's answer to both the new believer overwhelmed by their sinfulness and the long-time believer overwhelmed by the distance yet to travel is the same: *I am the LORD.* **Explicit. Tradition: Reformed, Puritan (Bunyan, Cowper).**
+
 #### Aseity and Self-Sufficiency
 > "Were every man on earth to become atheist, it could not affect God in any way. He is what He is in Himself without regard to any other." (Tozer, quoted approvingly)
 > — `rev 20.md`
@@ -77,6 +86,22 @@ God's power demonstrated through creation (stars, earth's precise placement, moo
 > — `Romans 1 (2024).md`
 
 **Explicit. Tradition: Classical theism, Reformed Baptist.**
+
+#### God's Intimate Knowledge of Human Suffering — He Sees, Hears, Knows, Acts
+
+God is not distant or dispassionate. He sees every struggle intimately. He hears the groanings of his people. He remembers his covenant. And he acts — though not always on our timeline.
+
+Grounded in Exodus 2:23–25 ("God heard their groaning, and God remembered his covenant... God knew"): the four verbs — heard, remembered, knew, saw — are treated as pastoral realities, not theological abstractions.
+
+Because Jesus lived every element of human life — temptation, adversity, poverty, grief, loss — God knows from the inside what human suffering costs. This is not only doctrinal omniscience; it is incarnational solidarity.
+
+The 40-year wait in Midian while the Israelites suffered is the controlling illustration: God's delay is not God's absence. Trials are his tool for deepening faith. The sermon draws the pastoral application to every person in the room carrying a long wait.
+
+Cross-reference: Luke 18:7–8 (ESV) — "will not God give justice to his elect, who cry to him day and night?... I tell you, he will give justice to them speedily." James 4:2–3 — "you do not have, because you do not ask."
+
+— `Other-Sermons/Sermons/Exodus 2.md`
+
+**Explicit. Tradition: Classical theism with pastoral application; Reformed Baptist.**
 
 #### God's Love — Holy, Costly, Substitutionary
 > "God's love is not the soft, permissive kind that ignores sin. It is the strong, holy, covenant-keeping kind that deals with sin fully and finally in the person of Christ."
@@ -334,6 +359,18 @@ Both Jew and Gentile, religious and irreligious. No exceptions. **Explicit. Trad
 
 Humans actively suppress truth they know (Rom 1), exchanging it for lies. Conscience testifies to God's law. **Explicit. Tradition: Puritan/Reformed.**
 
+#### Idolatry as the Wrong Master
+> "At the end of the day, if your master isn't the Lord, your master is the devil."
+> — `Psalm 42 - As the Deer Pants.md`
+
+Every person has a master. Sports, money, television, alcohol, drugs, sex — whatever controls the affections controls the person. Idolatry is defined not by the formal worship of carved images but by whatever masters the heart. The diagnostic is the soul's thirst: *Does your soul long after God with the urgency of a deer panting for water (Ps 42:1)?* If not, idolatry is the likely cause. The soul that does not long for God is the soul already drinking from another source. **Explicit. Tradition: Reformed Baptist.**
+
+#### Spiritual Callousing Through Small Compromises
+> "It's a death by a thousand cuts. We allow things to happen. Slowly we let these things bleed our joy and our contentment and our happiness out of our lives."
+> — `Psalm 42 - As the Deer Pants.md`
+
+Christians do not typically drift into cold-heartedness through deliberate rebellion but through incremental, often unintentional compromise: skipping Bible reading, skipping prayer, skipping fellowship, skipping worship, allowing the business of life to crowd out the most important things. Each compromise individually seems harmless. Together they calcify the heart and extinguish the soul's longing for God. The remedy is vigilant attention to the ordinary means of grace before the thirst dries up entirely. **Explicit. Tradition: Reformed, Puritan.**
+
 ---
 
 ### 5. Soteriology (Doctrine of Salvation)
@@ -381,16 +418,21 @@ See Christology section above.
 **Explicit. Tradition: Five-Point Calvinist.**
 
 ##### Perseverance / Preservation of the Saints
-> "Its called 'once saved always saved' or to use the words of the reformers, they called it perseverance of the saints. That sort of makes it sounds like it has something to do with mans effort. It doesn't."
-> — `Eternal Security.md`
+> "It's called 'once saved always saved,' or to use the words of the reformers, they called it perseverance of the saints. That sort of makes it sound like it has something to do with man's effort. It doesn't."
+> — `Sermon - Eternal Security.md`
 
 > "Not only can you not lose your salvation, but you can't get rid of it either."
-> — `Eternal Security.md`
+> — `Sermon - Eternal Security.md`
+
+> "When we hear the phrase 'perseverance of the saints,' it's not us that perseveres — it's God's work through Christ that perseveres."
+> — `Sermon - Eternal Security.md`
+
+*Note: `Sermon - Eternal Security.md` cites Jonathan Edwards on the covenant of grace vs. covenant of works — arguing that since God did not leave the first covenant to man's keeping, the covenant of grace similarly does not depend on man's perseverance. Edwards quote source unverified; exact location in his works flagged for confirmation before print use.*
 
 > "Your adoption does not hang on the thin thread of your performance but on the steel cable of Christ's finished work."
 > — `romans 9 pt 1.md`
 
-Prefers "preservation" language (Sproul). God's keeping work, not human effort. **Explicit. Tradition: Reformed Baptist (TULIP — P).**
+Prefers "preservation" language (Sproul — God's keeping work, not human effort). Explicitly frames the doctrine as building on the prior three — Total Depravity, Unconditional Election, and Definite Atonement: if man cannot save himself, he cannot maintain salvation either. God holds what God saved. **Explicit. Tradition: Reformed Baptist (TULIP — P).**
 
 #### Ordo Salutis (Order of Salvation)
 > "The biblical order of the things that have to have happened in order for one to have actually been saved: Predestination, Election, Calling, Regeneration, Faith, Repentance, Justification, Adoption, Sanctification, Perseverance, Glorification."
@@ -440,6 +482,16 @@ Our sin to Christ. His righteousness to us. **Explicit. Tradition: Reformed.**
 
 **Explicit. Tradition: Reformation (Sola Fide).**
 
+#### Faith Proved by Works — James and Paul Not in Conflict
+The apparent contradiction between James 2:21 ("Was not Abraham our father justified by works when he offered up his son Isaac on the altar?") and Romans 4:3 / Genesis 15:6 ("Abraham believed God, and it was credited to him as righteousness") is addressed directly in the Genesis 22-23 sermon.
+
+The resolution: Paul and James address different questions. Paul addresses the *grounds* of justification — faith alone, apart from works, prior to any obedience (Genesis 15 precedes Genesis 22 by decades). James addresses the *evidence* of justification — genuine faith produces works; works demonstrate that faith is real. Genesis 22 (the Akedah) is the proof of Genesis 15, not its cause. Same man. Same faith. Decades apart. Faith without works is dead — and Genesis 22 is the evidence that Abraham's faith was alive.
+
+> "The Akedah is not the cause of Abraham's justification. It is the proof of it."
+> — `Genesis 22-23 - The Testing Ground (raw draft).md`
+
+**Explicit. Tradition: Reformed (consistent with Westminster/1689 on faith and works).**
+
 #### Sanctification — Progressive, Spirit-Wrought, Necessary
 > "True salvation is not only justification; it is also sanctification. God does not save you to leave you the way you are — He saves you to make you like His Son." (MacArthur, quoted approvingly)
 > — `Romans_6b r2.md`
@@ -481,6 +533,12 @@ Election is active. Reprobation is preterition (passing over). **Explicit. Tradi
 > — `romans 9 pt 1.md`
 
 Particular redemption held together with a free, sincere, urgent gospel offer. In the tradition of Andrew Fuller and Spurgeon — not hyper-Calvinist. **Explicit. Tradition: Evangelical Calvinism.**
+
+#### God's Sovereignty Over the Human Will — The Pharaoh Argument
+> "There are entire denominations founded around the idea that man's will is sovereign over God. Yet time after time after time in this story we see God hardening the heart of a man, or of men. If God has the power to harden Pharaoh's heart, does he not have the power to soften people's hearts? To draw people to himself? Absolutely — and praise God for it. No one is ever too far gone for God to reach and woo back to himself."
+> — `Sermon - The Crucible.md` (Exodus 14)
+
+The Exodus 14 narrative is used as a counter-apologetic: if Arminian theology claims God never overrides the human will, Pharaoh's hardening (Exod 14:8; cf. 9:12, 10:20, 10:27) is a direct rebuttal — and the same power that hardens also softens and draws. This argument runs parallel to the treatment in `Romans 9 - Who Are Gods People (raw transcript).md` and `Romans 9 pt 2.md`. Cross-preach opportunity: Exodus 14 as the narrative counterpart to Romans 9's doctrinal treatment. **Explicit. Tradition: Reformed.**
 
 ---
 
@@ -564,12 +622,39 @@ Memorial view. Self-examination required before partaking. **Explicit. Tradition
 
 Women honored as co-laborers (Phoebe, Junia, Mary in Romans 16). Pastorate reserved for men. Women may serve as deacons. **Explicit. Tradition: Complementarian Baptist.**
 
+#### Body of Christ as Mutual Suffering and Care — Not Optional Membership
+
+> "If one part of the body is hurting, the whole body hurts. If one part of the body is hurting, the body should tend to it and care for it and support it and take up the slack for the part that is hurting. We are more than individuals. We are more together than we are apart."
+> — `1 Corinthians 12 - Church Membership.md`
+
+> "We're a church. We're family. Sometimes you do what you have to do — endure what you have to endure — for family."
+> — `1 Corinthians 12 - Church Membership.md`
+
+The church is not a voluntary association of convenience. It is a living body under one Head. Withdrawal from the body injures the body. Suffering in one member summons care from every other member. This is not idealism — it is biology applied by Paul to ecclesiology (1 Cor 12:26). **Explicit. Tradition: Baptist, Pauline ecclesiology.**
+
+#### Consumer Christianity — The Idol of Comfort
+
+> "They are looking for a church that worships the idol of comfort — just like them."
+> — `1 Corinthians 12 - Church Membership.md`
+
+> "People want to come to church, want to be comfortable in their heated and air-conditioned seats, want to be entertained by a band, and have nice things said to them from the pulpit about how God's going to make them comfortable and wealthy and life's going to be easy. They want to continue in their comfortable ignorance of Scripture."
+> — `1 Corinthians 12 - Church Membership.md`
+
+Consumer Christianity is named as idolatry — worshipping comfort rather than Christ. The critique runs from worship style ("goosebumps" as the measure of valid worship) to giving ("comfortable ignorance of scripture") to church-shopping. The pastor situates himself inside the critique: "I absolutely have been where those people are." This is not condescension — it is pastoral testimony. **Explicit. Tradition: Reformed Baptist (Dever-adjacent, 9Marks ecclesiology).**
+
+#### "I Love Jesus But Not His Church" — Named as Self-Contradiction
+
+> "If you don't like Christ's bride, maybe it's really Christ you don't like. People think they can stay home, and — in contradiction to Scripture — continue to live for Christ apart from his church. This is a form of rebelling against Christ."
+> — `1 Corinthians 12 - Church Membership.md`
+
+The increasingly common sentiment — "I love Jesus, I just don't like organized religion" or "I don't like his church" — is not accepted as a devotional position. It is confronted as a self-contradiction. To reject the bride is to reject the Groom. To stay home in willful isolation from the local church is not personal piety — it is defiance of Christ's design for his people. **Explicit. Tradition: Ecclesiological Baptist (Mark Dever, 9Marks).**
+
 #### Church Growth Through Evangelism, Not Transfer
 > "As Christians leaving one church for another is sort of like cutting the foot off, and sewing it on a different body. That's part of the reason I don't want to grow because other churches are having issues. I would rather grow through evangelism."
-> — `Commitment to the church body 1 cor 12.md`
+> — `1 Corinthians 12 - Church Membership.md`
 
 > "When we fill up, I would love for us to be a church that plants another church in the place of greatest spiritual need."
-> — `Commitment to the church body 1 cor 12.md`
+> — `1 Corinthians 12 - Church Membership.md`
 
 **Explicit. Tradition: Baptist / Missional.**
 
@@ -648,6 +733,12 @@ Scripture is complete. No additional revelations needed (contra LDS, JW, NAR). *
 
 This is a governing hermeneutical principle, applied against NAR, Bethel, and charismatic excesses. **Explicit. Tradition: Cessationist, Reformed.**
 
+#### Scripture Over Science
+> "When we elevate it — or our understanding of it — above God's Word to us, then we have trouble."
+> — `Gen 1 - Two Ways to Know Truth (raw transcript).md`
+
+Science is valued as a God-given tool for exploring creation but cannot be a co-equal authority alongside Scripture. The critical error is treating science as an arbiter of truth alongside (or above) the Word — which amounts to appointing oneself, not God, as the final judge of truth. Scripture's goal and the original goal of science were the same: knowing God. The sermon applies this specifically against a teacher who subordinated Genesis to carbon-14 dating results and then built a second argument (genetic incompatibility with a two-person human origin) on the same foundation. Argument structure: if the carbon dates are wrong, the entire house of cards falls. Science conducted by fallen humans is inherently limited and has repeatedly reversed itself (butter/margarine illustration). Science cannot address morality, history, or religion. Where Scripture has spoken to scientific questions it has proven accurate. See also `Gen 21 - My God Is So Great.md` (manuscript evidence apologetic) and `Sermon - Sola Scriptura 2021.md` (which addresses the Isaiah 40:22 "circle of the earth" claim directly). **Explicit. Tradition: Protestant, Conservative Evangelical (Sola Scriptura applied to natural science).**
+
 #### Divine Design of Scripture for Oral Transmission
 The Genesis 1–2 sermon argues that the Hebrew chiasm and step-by-step repetition in Genesis 1 are not merely literary features but evidence of divine foreknowledge: God knew how oral tradition societies remember and structured the creation account so it could be passed down "for oodles of generations" without corruption. This is an apologetic argument for inspiration grounded in cognitive anthropology. **Explicit. Tradition: Conservative Evangelical / Inerrancy.**
 
@@ -689,6 +780,8 @@ Apostolic authorship or connection as the criterion for canonicity. The Apocryph
 > — recurring framework across Romans, Colossians, Hebrews sermons
 
 The Genesis 4 sermon develops a detailed 14-point typology of Abel as a type of Christ — shepherd, hated without cause, violent death, offering to God, by faith, excellent offering, accepted, witnessed righteous, publicly testified — drawing from Genesis 4, Hebrews 11:4, and NT parallels. See `Gen 4 - Cain and Abel.md`.
+
+The Genesis 22-23 sermon develops the Isaac typology: only son ("your only son" Gen 22:2 / John 3:16 "his only Son"); carries his own wood (Gen 22:6, cf. cross); three-day journey (Heb 11:19 — received back "figuratively" from death); willing submission despite capacity to resist; fire = judgment, knife = execution of judgment; ram substituted (substitutionary atonement); Moriah = Temple Mount (2 Chr 3:1), same mountain ridge as Golgotha. Critically: Abraham said "lamb" (Gen 22:8) but God provided a "ram" (Gen 22:13) — the Lamb would not come for roughly 1,900 years (John 1:29). God preached the gospel beforehand to Abraham (Gal 3:8 ✓). The "seed" through whom all nations are blessed (Gen 22:18) is explicitly interpreted as Christ by Paul in Galatians 3:16 (✓). See `Genesis 22-23 - The Testing Ground (raw draft).md`.
 
 **Implicit. Tradition: Reformed.**
 
@@ -756,6 +849,9 @@ Not annihilationism. Real, conscious, eternal. **Explicit. Tradition: Orthodox C
 > "Today you will be with me in paradise." (The thief sermon treats this as immediate, conscious presence with Christ at death)
 > — `Sermon - Today You Will Be With Me v2.md`
 
+> "Scripture tells us that when we take that last breath, we wake up the next moment in glory with our Savior Jesus."
+> — `Service - Donna Hulen Funeral (John 11).md`
+
 **Explicit. Tradition: Protestant (contra soul sleep).**
 
 #### Final Judgment
@@ -775,6 +871,35 @@ Not annihilationism. Real, conscious, eternal. **Explicit. Tradition: Orthodox C
 > — `Catching Counterfeits.md`
 
 Claims of visiting heaven tested against Scripture and found wanting. **Explicit. Tradition: Cessationist / Sola Scriptura.**
+
+#### Already / Not Yet — Inaugurated Eschatology
+> "In the New Testament, there is this underlying theme of how some things are already true, and yet not yet. Our citizenship is in heaven, our sins have been paid for, we're truly free from sin. Already. And yet final victory against sin will not happen until we reach heaven."
+> — `Deuteronomy 8 - Count Your Blessings (repaired draft).md`
+
+The already/not yet tension is described as an "underlying theme" of the New Testament with clear application to:
+- Citizenship in heaven (Philippians 3:20) — already true, not yet physically arrived
+- Justification and freedom from sin — already accomplished, yet daily battles continue
+- Community of the redeemed — already real, not yet complete in God's presence
+- The Promised Land typology in Deuteronomy 8 as a preview of heaven — already promised, not yet possessed
+
+The same double-horizon structure is noted in Old Testament prophecy: the "present already" context for the original readers, and the "not yet" that points beyond to ultimate fulfillment. **Explicit. Tradition: Inaugurated eschatology (Ladd); consistent with Reformed / Baptist theology.**
+
+#### Heaven — Concrete Biblical Descriptions
+The sermon on Deuteronomy 8 develops a detailed portrait of heaven grounded in specific texts:
+
+- **A feast of nations** (Luke 13:29 ESV ✓) — "People will come from east and west, and from north and south, and recline at table in the kingdom of God"
+- **Many rooms prepared** (John 14:2 ESV ✓) — accommodations for everyone; the Father's house has space
+- **No hunger, no thirst** (Revelation 7:16–17 ESV ✓) — the Lamb shepherds to springs of living water
+- **God wipes every tear** (Revelation 7:17 ESV ✓) — the preacher interprets these as tears of joy at the overwhelming reality of God's presence; Christ personally wipes them
+- **No more curse** (Revelation 22:3 ESV ✓) — the curse from Genesis 3 fully reversed; creation's shattered reflection restored
+- **No broken bodies** — no cancer, no wheelchair, no addiction's hold; the body's corruption undone
+
+The Promised Land (Deuteronomy 8:7–10) is treated as a typological foretaste of heaven — land of plenty, no want, mineral wealth — with one meaning for Israel (the literal land of milk and honey) and a second, fuller meaning pointing to eternal life in God's presence.
+
+> "God will wipe away every tear from our eyes. I think those are going to be happy tears. We are going to be so blown away by the reality of the presence of God that we won't be able to help it — and in the midst of all of that, our Savior will walk over and wipe those tears from our face."
+> — `Deuteronomy 8 - Count Your Blessings (repaired draft).md`
+
+**Explicit. Tradition: Orthodox Christian.**
 
 ---
 
@@ -833,6 +958,12 @@ God's protective purposes can be invisible inside the hardship itself. The egg i
 
 **Explicit. Tradition: Puritan (Gurnall, Owen).**
 
+#### Vanity of Earthly Achievement — Eternal Perspective
+> "Only one life, 'twill soon be past, only what's done for Christ will last." (C.T. Studd)
+> — `Ecclesiastes 2 - What Matters.md`
+
+Human wisdom, effort, achievement, and life itself are *hebel* (breath, vapor) — there for a moment and gone without a trace. The sermon draws from Ecclesiastes 2:14-26 to argue that earthly wealth, fame, and accomplishment are not evil but are radically insufficient. The congregation (living by global standards as kings) is called to measure their remaining days against eternity — roughly 2,500 meaningful days after the accounting — and invest them in what lasts: sharing the gospel, discipling children, building the local church. **Explicit. Tradition: Wisdom literature (Qoheleth); Reformed evangelical ethics.**
+
 #### Sanctity of Life
 > "Life is sacred to God. Its precious... Ultimately in most all cases its an issue of Idolatry."
 > — `Psalms 139 (abortion).md`
@@ -853,6 +984,24 @@ Abortion explicitly condemned as idolatry — elevating comfort above God's comm
 > — `romans 12 pt 3.md`
 
 Safety is not revenge. Refusing to return evil for evil does not mean offering your body as a doormat for someone else's sin. **Explicit. Tradition: Pastoral.**
+
+#### Prayer — God-Centered, Self-Surrendering, Daily
+
+> "Prayer is not trying to get God to agree with me. Prayer is not trying to line God up with what I need. Prayer is myself affirming the sovereignty and majesty of God, and taking my will and making it submissive to His."
+> — MacArthur, *The Paternity of Prayer* (2234), cited in `Sermon - Lord Teach Us to Pray (Matthew 6).md`
+
+> "The death of self is the beginning of a true prayer life."
+> — MacArthur, *The Plan of Prayer, Part 2* (2238), cited in `Sermon - Lord Teach Us to Pray (Matthew 6).md`
+
+The Lord's Prayer treated as school not script — *houtōs oun* ("along these lines," Matthew 6:9) means a pattern to inhabit, not words to recite. Every petition oriented toward God before asking anything self-ward: three petitions Godward (name hallowed, kingdom, will) precede all personal petitions.
+
+**Two kinds of forgiveness distinguished**: (1) *Judicial* — once for all, positional, eternal (Romans 8:1 "no condemnation"); (2) *Parental* — relational, daily, confessional — restores the joy of fellowship without restoring salvation (Psalm 51:12 "restore to me the *joy* of your salvation"; 1 John 1:9). "Forgive us our debts" addressed to believers seeking parental forgiveness, not judicial re-entry. John 13 foot-washing is the governing illustration (already bathed = judicial settled; feet washed daily = parental maintained).
+
+**Prayer as perpetual dependence** — "daily bread" requires daily return to the Father; one-time provision followed by independence is not the model Jesus gave. George Mueller's "the answers are always coming" as description of life oriented around constant prayer.
+
+**"Lead us not into temptation"** does not accuse God of tempting (James 1:13 — God tempts no one); it is the prayer of a person who knows their own fragility and asks to be led rather than to lead themselves.
+
+**Explicit. Tradition: Puritan (Owen, Watson); MacArthur Matthew corpus.**
 
 ---
 
@@ -881,6 +1030,15 @@ Every sermon in the Romans series includes a specific "People Group of the Week"
 > — `evangelism (romans 15, mt 28, and rev 7).md`
 
 **Explicit. Tradition: 10/40 Window missions strategy.**
+
+#### Sacrificial Living as Missionary Posture
+> "If Jesus Christ be God and died for me, then no sacrifice can be too great for me to make for Him." (C.T. Studd, quoted approvingly)
+> — `Ecclesiastes 2 - What Matters.md`
+
+> "Some want to live within the sound of church or chapel bell; I want to run a rescue shop within a yard of hell." (C.T. Studd, quoted approvingly)
+> — `Ecclesiastes 2 - What Matters.md`
+
+CT Studd used as the paradigm case: elite cricketer, Cambridge graduate, gave away entire inheritance (including £5,000 to Moody Bible Institute) to fund missions in China, India, and Africa. The sermon holds him up not as extraordinary but as the logical conclusion of "only what's done for Christ will last." **Explicit. Tradition: 19th-century evangelical missions movement (Taylor, Moody, Studd).**
 
 #### Election Does Not Cancel Evangelism
 > "Doctrine must break our hearts. If our grasp of God's sovereign election does not move us to anguish for the lost, we have missed Paul's point."
@@ -938,8 +1096,13 @@ Every sermon in the Romans series includes a specific "People Group of the Week"
 | **Christian nationalism** | "The state is not your savior. The church is not the state." | `claude.md` | Explicitly rejected |
 | **Fear-driven quietism** | Protected from by the 1689 framework | `claude.md` | Explicitly rejected |
 | **Kinism / Racism** | "Kinism is not a secondary issue. It is not a matter of conscience. It is an abomination." | `Romans 14c.md` | Explicitly rejected in strongest terms |
+| **Critical Race Theory / Intersectionality** | "If you are comfortable, they seem to argue, you are comfortable because you took advantage of people to get to that point... This is nonsense." Experience-as-arbiter-of-truth rejected: "Under this worldview, experience is the arbiter of truth — especially the experience of those who have been the victims of white privilege... this is similar to the error many Catholics make when they elevate the words of the Pope or tradition above Scripture." | `Sermon - Cultural Marxism.md` | Explicitly rejected; CRT epistemology placed in the same category as papal/tradition supremacy over Scripture |
+| **Cultural Marxism (identity-based suppression)** | "Suppressing anyone or anything simply because it was thought of, painted by, or written by a person of a different group than you is racism. Full stop." Applies equally to the left and to the alt-right. | `Sermon - Cultural Marxism.md` | Explicitly rejected; race-based suppression named as racism regardless of political direction |
 | **Sentimental Christianity** | "Biblical love is not morally neutral. It does not bless what destroys people." | `romans 12 pt 3.md` | Explicitly rejected |
 | **Idolatry (broadly)** | "If football is more important than hearing the word of God... football is your idol." | `mark 10.md` | Explicitly rejected |
+| **Idolatry — Egypt/America parallel** | Egypt had 2,000+ deities, starting from animism and morphing into anthropomorphism. America has politics, comfort, rights, and presidents. Psalm 115:4–8: idols cannot speak, see, or hear — and those who make them become like them. A.W. Tozer (*The Knowledge of the Holy*, ch. 1): "What comes into our minds when we think about God is the most important thing about us." The idols we choose to worship reveal who we are. | `Other-Sermons/Sermons/Exodus 2.md` | Explicitly rejected |
+| **Idolatry — soul's thirst misdirected** | "If you desire anything in your life like this that isn't God, that's idolatry." The deer's panting thirst (Ps 42:1 — "As a deer pants for flowing streams, so pants my soul for you, O God") as diagnostic: what does your soul long after with that intensity? Every human soul thirsts after something with ultimate devotion; if that object is not God, it is an idol. Sin does not satisfy — it amplifies. "Instead of our thirst being satisfied, our thirsts are amplified." | `Psalm 42 - As the Deer Pants.md` | Explicitly rejected |
+| **Idolatry through drift, not deliberate rebellion** | "I think most people stumble into idolatry — not intentionally. They don't wake up one morning and say, *How can I rebel against God today?*" Long-time Christians lose sight of God through incremental compromise: skipping Bible reading, prayer, fellowship, worship — "a death by a thousand cuts." Idolatry of the heart is often the end result of accumulated small decisions, not a single act of apostasy. | `Psalm 42 - As the Deer Pants.md` | Explicitly rejected |
 
 ### Methodological Errors
 
@@ -976,7 +1139,7 @@ Every sermon in the Romans series includes a specific "People Group of the Week"
 | Political neutrality | Political-pundit pastors; theocracy |
 | Love with moral backbone | Sentimental redefinition of love |
 | Suffering as refining | Prosperity gospel; health-and-wealth theology |
-| Welcome across ethnic lines | Kinism; racial segregation |
+| Welcome across ethnic lines; "in Christ no distinction between Jew and Greek" | Kinism; racial segregation; race-based identity politics (CRT/intersectionality); cultural Marxism |
 | Liberty of conscience | Legalistic binding on secondary issues |
 
 ---
@@ -1035,7 +1198,7 @@ The following doctrines lack sufficient evidence in the corpus to map a firm pos
 | Doctrine | What We Know | What We Don't Know |
 |----------|-------------|-------------------|
 | **Millennium** | Self-described "pan-millennialist" (Titus 2 pt 2). Futurist reading of Matthew 24 leans premillennial ("beginnings of the birthpangs"). But deliberately non-committal. | Pre-mill, post-mill, or amill commitment |
-| **Covenant theology vs. progressive covenantalism** | 1689 LBCF is the confessional standard, Lord's Day treated as non-binding — suggesting 1689 Federalism or progressive covenantalism rather than strict WCF covenant theology. But no sermon explicitly maps the covenantal framework. | Precise covenantal position |
+| **Covenant theology vs. progressive covenantalism** | 1689 LBCF is the confessional standard, Lord's Day treated as non-binding — suggesting 1689 Federalism or progressive covenantalism rather than strict WCF covenant theology. `Eph 3 - The Covenants.md` (Bible study) explicitly traces the five OT covenants (Edenic, Adamic, Noahic, Abrahamic, Mosaic, Davidic) as "covenants of works" leading to the New Covenant of grace — a pedagogical simplification rather than a formal covenantal position. Notably, the preacher calls himself a "dispensationalist" in passing, then brackets it as a separate conversation, suggesting either functional dispensational sympathies or loose use of terminology. The sermon does not resolve the 1689 Federalism / progressive covenantalism distinction. | Whether the "dispensationalist" self-identification is firm or rhetorical; precise covenantal position |
 | **Creation / age of the earth** | God created. `Gen 1-2 - beautiful but not safe.txt` argues for a literal-historical reading of Genesis 1-2 while acknowledging the Hebrew chiasm as poetry within history. Explicitly rejects Gap Theory. Anthropic principle treated as evidence for design (Romans 1 2024). Estimates creation/early earth at "five to ten thousand years" — suggests young-earth sympathies without a full defense. No sermon addresses the creation/evolution debate, radiometric dating, or framework hypothesis. | Whether young-earth commitment is firm or soft; old-earth / framework hypothesis compatibility |
 | **Church government structure** | Baptist. Congregational governance. Regenerate membership. But no sermon explicitly outlines elder-led congregationalism vs. single-pastor model vs. plurality of elders. | Precise polity model beyond congregationalism |
 | **Divorce and remarriage** | Abuse victims counseled to seek safety. No sermon maps out a full divorce-and-remarriage theology. | Specific exceptions and boundaries |

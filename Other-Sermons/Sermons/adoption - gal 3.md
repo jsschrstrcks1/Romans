@@ -1,4 +1,23 @@
-Welcome all the visitors, thank them for coming. 
+# Galatians 3:23+ — Law, Faith, and Adoption
+## A Sermon on Galatians 3:23–29
+
+**Status:** Raw transcript — rough/informal language; verification flags added; gospel prayer missing from transcript (file ends mid-sentence at v. 82)
+
+---
+
+## Verification Flags
+
+- [ ] **Gospel prayer missing** — File ends at "just pray something like this to God:" with no prayer text. Prayer was likely spoken but not transcribed. Draft a gospel prayer before preaching. [FLAG: PRAYER TEXT MISSING — ADD BEFORE PREACHING]
+- [ ] **"613 laws"** — *"Jesus was able to keep all 613 laws in the old testament."* The 613-commandment count (*taryag mitzvot*) is traditional Rabbinic enumeration (attributed to Rabbi Simlai, Babylonian Talmud, *Makkot* 23b) — not a number from Scripture itself. Appropriate as a teaching shorthand; add qualifier: "the traditional Rabbinic count of 613 commandments." [FLAG: ADD QUALIFIER]
+- [ ] **Greek word *huion* discussion** — The manuscript offers an informal pronunciation attempt and describes the word as meaning "an honored and beloved child regardless of age" and "a student/disciple/spiritual child." Correction: *huios* (υἱός, accusative *huion*) primarily denotes **legal dignity and standing as a recognized heir** — Paul's choice over *teknon* (natural-born child) is deliberate. The "beloved child" application is theologically sound but is not the core lexical definition. Revise for accuracy if polishing for print. [FLAG: REVISE WORD DEFINITION FOR ACCURACY]
+- [ ] **Foster care opening illustration** — A specific girl in another state, foster care, chicken coop in winter. If this is a real person, confirm privacy is protected before distributing in print. If composite/illustrative, note as such. [FLAG: VERIFY PRIVACY / CONFIRM SOURCING]
+- [ ] **Galatians 3:13, James 2:10, Romans 3:23, 5:8, 6:23, 10:9, 1 Peter 3:18** — All cited from memory/paraphrase in the transcript. Check each against ESV before any polished version. Spot-check: Gal. 3:13 ESV ✓; James 2:10 ESV ✓; Rom. 3:23 ESV ✓; Rom. 5:8 ESV ✓; Rom. 6:23 ESV ✓; Rom. 10:9 ESV ✓; 1 Pet. 3:18 ESV ✓
+- [ ] **"There were more than 500 witnesses"** — Refers to 1 Cor. 15:6. The claim is accurate; cite the verse explicitly when polishing. [FLAG: CITE 1 COR. 15:6 EXPLICITLY]
+- [ ] **Translation** — No formal passage reading in the transcript. Add an ESV reading of Galatians 3:23–29 before polishing for print.
+
+---
+
+Welcome all the visitors, thank them for coming.
 
 Were going to be in galatians 3 starting in vs 23 today. 
 

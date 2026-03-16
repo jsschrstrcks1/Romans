@@ -1,6 +1,22 @@
 # Teacher, Soldier, Athlete, Farmer
 ## A Sermon on 2 Timothy 2:1-7
 
+**People Group opener:** Sanaani Arabs (Yemen)
+**Status:** Full manuscript — verification flags added
+
+---
+
+## Verification Flags
+
+- [ ] **MacArthur hulk story** — Introduced as "supposed to be a true story." MacArthur tells this in his preaching on this passage. Specific sermon or book source not confirmed. [FLAG: VERIFY MACARTHUR SOURCE — sermon series or book]
+- [ ] **"Journey before Destination"** — Attributed only to "my favorite author." This is the recurring motto of the Knights Radiant in Brandon Sanderson's *The Stormlight Archive* series. If using, attribute openly to the novel series rather than leaving it anonymous. [FLAG: ATTRIBUTE TO SANDERSON — *The Stormlight Archive*]
+- [ ] **"1% of population feeds the other 99%"** — Cited as "a statistic I heard." Roughly accurate for U.S. agricultural workforce (~1–2% of employed adults) but not a globally applicable figure. Add a qualifier: "Here in America, roughly 1% of the population feeds the rest." [FLAG: ADD US-SPECIFIC QUALIFIER — verify current figure]
+- [ ] **"Arlington" by Trace Adkins** — Used as a theme illustration, not a direct quote or plot summary. The manuscript accurately qualifies this: *"I don't agree with everything even in THIS song."* The song is sung from the perspective of a soldier buried at Arlington National Cemetery — the application to "using life as a shield" and "being told well done" is the preacher's thematic extension, not the song's explicit content. This use is acceptable with the existing disclaimer. ✓ [Note: verify song attribution — written by Jeremy Spillman and Dave Turnbull, 2005]
+- [ ] **Ukrainian soldier / children for adoption** — Dated illustration (post-Feb 2022 Russia-Ukraine war context). Verify accuracy before reusing in a different season. [FLAG: DATED — verify before repreaching]
+- [ ] **Greek Olympic requirements** — Three requirements cited (Greek citizen, 10-month training, oath before Zeus statue, disqualification for rule violations). Broadly accurate; 10-month training period is attested in Pausanias *Description of Greece* 5.24.9. ✓
+- [ ] **2 Timothy 2:1–7 ESV** — Confirmed correct. ✓
+- [ ] **MacArthur quotes throughout** — Multiple block quotes attributed to MacArthur. These are characteristic of his 2 Timothy series and consistent in content. Primary source (GTY sermon series on 2 Timothy) not cited by sermon number. For pulpit use, attribution to "John MacArthur" is sufficient; footnotes would require specific sermon IDs. ✓
+
 ---
 
 ## Opening: The Hulk in the River
