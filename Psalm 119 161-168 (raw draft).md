@@ -12,10 +12,10 @@
 - ✓ Forrest Fenn / poem clues *(corrected March 2026)*: Body now references "home of Brown" and "where warm waters halt" as closer paraphrases. Prior draft said "brown house" and "end of the warm water."
 - ✓ Forrest Fenn / deaths *(corrected March 2026)*: Body now reads "at least five documented deaths." Prior draft said "at least one." Note: "foul play" phrasing removed — specific sourcing was unavailable; the documented deaths are sufficient for the illustration.
 - ✓ Forrest Fenn / geography *(corrected March 2026)*: Body now reads "Mountain West." Prior draft said "the Midwest."
-- ⚠️ Brother Andrew / prayer *(partially resolved March 2026)*: Verified against *God's Smuggler* (Open Doors / Goodreads corpus). Exact wording from the book: *"Lord, in my luggage I have Scripture that I want to take to Your children across this border. When You were on earth, You made blind eyes see. Now, I pray, make seeing eyes blind. Do not let the guards see those things You do not want them to see."* The sermon uses **"in my car"** instead of "in my luggage" — this is a contextual adaptation (the sermon describes a car packed with Bibles), not a verbatim quote. Acceptable for preaching; if quoting directly in print, use the book's exact wording. "Make seeing eyes blind" and surrounding phrases ✅ confirmed.
-- ✅ Brother Andrew / Romania *(resolved March 2026)*: Confirmed. The most famous border crossing was at the **Romanian border in 1957**. Source: Open Doors USA, Christianity Today obituary (2022).
-- ✅ Florida stats / opiates *(resolved March 2026)*: Substantially accurate for the pill mill era (~2010). At peak, Florida accounted for **85% of the nation's oxycodone** and 90 of the top 100 opioid prescribers in the U.S. were practicing in Florida (CDC, JAMA Internal Medicine, PMC). "More than the rest of the country combined" is a reasonable characterization for that specific period. Add a timeframe qualifier if reprising: *"during the pill-mill era around 2010."*
-- ✓ Florida stats / Xanax *(resolved March 2026)*: Xanax/benzodiazepine claim removed from body — could not be verified. Body now cites only the verified opioid statistic (85% of oxycodone prescriptions, pill-mill era ~2010, JAMA Internal Medicine / CDC). ✓
+- ✓ Brother Andrew / prayer *(verified)*: Exact text from *God's Smuggler*: "Lord, in my luggage I have Scripture that I want to take to Your children across this border. When You were on earth, You made blind eyes see. Now, I pray, make seeing eyes blind. Do not let the guards see those things You do not want them to see." Sermon uses "in my car" (consistent with the Romanian VW Beetle crossing) and abbreviates slightly — acceptable in preaching; use full book version if citing in print.
+- ✓ Brother Andrew / Romania *(verified)*: Romania confirmed. The 1957 crossing into Romania is the famous incident. *(Note: Andrew smuggled into multiple Eastern Bloc countries over his career; Romania is accurately the most documented story.)*
+- ⚠️ Florida stats / opiates: "more than rest of country combined" — exact phrase unverified. What is documented: 90 of the top 100 oxycodone-purchasing doctors in the entire US were in Florida during the pill-mill era (~2010). The illustration is directionally accurate; the specific "combined" phrasing is likely hyperbolic. Consider updating to the verifiable "90 of 100" statistic if reprising.
+- ⚠️ Florida stats / Xanax: Benzodiazepines (including Xanax/alprazolam) were heavily prescribed alongside opioids in Florida's pill mills — the "holy trinity" combo (opioid + benzo + muscle relaxant) is well documented. "More than the rest of the country combined" for Xanax alone is not verified by any specific study found. Flag for update if reprising.
 - ✓ US population *(corrected March 2026)*: Body now reads "~330 million." Prior draft said "400m."
 
 ---
@@ -34,9 +34,7 @@ One man named Andrew had searched for and found some of this treasure we've been
 
 The same thing happened to the second car, and the third. So brother Andrew began to pray. He prayed "Lord, in my car I have Scripture I want to take to your children. When you were on earth, You made blind eyes see. Now, I pray, make seeing eyes blind.  Do not let the guards see those things You do not want them to see."
 
-**[⚠️ UNVERIFIED: Prayer wording above not checked against *God’s Smuggler* (1967). Verify exact wording before preaching — the substance is consistent with known accounts but specific phrasing may differ.]**
-
-He felt God urging him to put a couple bibles on the dash in plain view. He obedient did so.
+He felt God urging him to put a couple bibles on the dash in plain view. He obediently did so.
 
 Car number four in line received the same treatment, car number five received the same treatment. People were handcuffed and held at gun point till everything in their car had been searched thoroughly.
 

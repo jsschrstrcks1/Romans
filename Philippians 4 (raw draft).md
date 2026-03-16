@@ -9,14 +9,14 @@
 
 ## Verification Flags
 
-- [ ] **Mo-Jer-Hai of China** — People group details need confirmation before presenting publicly. Claimed: ~7,000 members, Hunan mountains, completely unreached and unengaged, culture centers on singing and dancing. [FLAG: VERIFY WITH JOSHUA PROJECT OR EQUIVALENT SOURCE BEFORE PREACHING]
-- [x] **C.T. Studd quote** — ⚠️ WORDING ERROR CORRECTED. The correct refrain is: *”Only one life, ‘twill soon be past, only what’s done for Christ will last.”* The draft uses “This life” — but the poem begins “Only one life.” Attribution to C.T. Studd (1860–1931) is confirmed. The draft text at line 72 has been corrected.
-- [ ] **Samuel Sey quote** — “If the word of God isn’t the loudest thing in my life, Satan’s whispers will be all I hear.” ⚠️ Quote NOT FOUND in online sources — cannot be verified before preaching. ⚠️ DESCRIPTION ERROR: The draft describes him as “a Southern Baptist from Ghana who now lives and preaches in Ghana” — this is inaccurate on both counts. Samuel Sey is a Ghanaian-Canadian Christian writer based in Ohio (not Ghana); his denominational affiliation is unconfirmed (he contributes to Founders.org and Desiring God but is not confirmed Southern Baptist). Description in body text corrected. Quote itself must be verified with Sey directly or removed before preaching.
-- [x] **”Lovely” used only once in the NT** — ✅ CONFIRMED: *prosphilēs* (Phil 4:8) is a NT hapax legomenon. ⚠️ LXX CLAIM CORRECTED: The draft states the two LXX occurrences are Song of Solomon and Psalm 84:1 — this is WRONG. LXX Psalm 84:1 uses ἀγαπητά (*agapēta*), not *prosphilēs*. Song of Solomon also does not use *prosphilēs*. The confirmed LXX occurrences of *prosphilēs* are **Esther 5:1** and **Sirach 4:7; 20:13**. The connection to Psalm 84 is thematic (same concept of love/loveliness) but the Greek words differ. Body text corrected.
-- [x] **Psalm 84 quote** — ✅ ESV Psalm 84:1–2 confirmed exact: *”How lovely is your dwelling place, O LORD of hosts! My soul longs, yes, faints for the courts of the LORD; my heart and flesh sing for joy to the living God.”* ⚠️ However, note that the LXX does NOT use *prosphilēs* at Psalm 84:1 — it uses ἀγαπητά. The thematic connection stands; the linguistic claim does not. Body text corrected.
-- [x] **Greek word for “noble/honorable” = semnos** ✓ *Confirmed*: The Greek behind “whatever is honorable” (ESV Phil 4:8) is σεμνός (*semnos*). The body gloss “noble” is acceptable; ESV renders it “honorable.” Both capture the sense of dignified, worthy of respect.
-- [x] **Spurgeon quote** — ✅ VERIFIED. Exact wording confirmed against primary text. Source: *”Glorifying in the Lord,”* C.H. Spurgeon, January 1, 1874, on 1 Corinthians 1:31, Metropolitan Tabernacle Pulpit Vol. 20.
-- [ ] **Richard Baxter quote** — ❌ UNVERIFIED. Exhaustive search of online Baxter sources (Goodreads, GraceQuotes, Wikiquote, ChristianQuotes.info, Hail and Fire, EEBO-adjacent sources) found NO match for this quote in any known Baxter text including *The Saints’ Everlasting Rest*, *The Reformed Pastor*, *A Call to the Unconverted*, or *Dying Thoughts*. This quote MUST NOT be attributed to Baxter from the pulpit until a primary source is identified. Options: (1) Remove the quote entirely; (2) Replace with a verified Baxter quote; (3) Present it without attribution as a paraphrase of Puritan thought; (4) Research the *Practical Works* (23 vols.) directly. The body text flag below has been updated accordingly.
+- [x] **Mo-Jer-Hai of China** *(researched March 2026 — substantially verified)*: "Mo-Jer-Hai" is not a documented name in Joshua Project or any indexed missions source. The overwhelmingly likely referent is the **Mozhihei** (Joshua Project ID 18611, joshuaproject.net/people_groups/18611/CH). All major sermon claims check out against that profile: (1) Population: JP says 6,600 — sermon says ~7,000, minor overstatement; (2) Location: western Hunan Province, mountainous region near Hunan/Sichuan/Guizhou junction — confirmed; (3) Unreached/unengaged: 0–0.1% evangelical, classified Frontier People/UUPG, "one of the most unevangelized areas in China today" — confirmed; (4) Singing and dancing: JP explicitly notes "a rich repertoire of traditional songs and dances" and the Hand Waving Dance (70 ritual gestures) — confirmed. **Correct the name to "Mozhihei" before preaching again.** Correct population to ~6,600 or "approximately 6,600."
+- [x] **C.T. Studd quote** *(corrected March 2026)*: Attribution confirmed — Charles Thomas Studd (1860–1931). **Exact wording: "Only one life, 'twill soon be past, only what's done for Christ will last."** The couplet is the refrain of a poem titled "Only One Life, 'Twill Soon Be Past." Draft body had "This life twill soon be past" — corrected to "Only one life, 'twill soon be past." No specific composition date documented in indexed sources; most likely archival source is Norman Grubb's 1933 biography *C.T. Studd: Cricketer & Pioneer*. Body text updated.
+- [ ] **Samuel Sey quote** *(researched March 2026 — UNVERIFIED)*: Quote could not be found in any indexed source. Searched: slowtowrite.com (direct fetch), X/@slowtowrite, founders.org, desiringgod.org, and general web — zero results for the phrase "Satan's whispers will be all I hear" or any variant attributed to Sey. The description in the body also had **three factual errors** (now corrected in body): (1) He is NOT Southern Baptist — he writes for Founders Ministries and Desiring God (Reformed circles); (2) He does NOT live in Ghana — he is a Ghanaian-Canadian currently living in Ohio; (3) He is NOT a preacher — he is a writer and cultural commentator. Quote may originate from a deleted or unindexed social media post. **DO NOT USE UNTIL SOURCED — remove or replace if source cannot be found.**
+- [x] **"Lovely" used only once in the NT** *(verified March 2026)*: Confirmed NT hapax legomenon — Strong's G4375, 1 NT occurrence (Phil 4:8 only). **However, the LXX claim is wrong.** ❌ Psalm 84:1 LXX uses **ἀγαπητά (agapēta)**, not prosphilēs. ❌ No occurrence of prosphilēs found in Song of Solomon. Actual LXX occurrences: Esther LXX 5:1 (Addition D); Sirach 4:7; Sirach 20:13 — all deuterocanonical. The thematic connection between Phil 4:8 "lovely" and Psalm 84:1 "lovely" holds in English, but the shared-Greek-word claim must be removed from the sermon. Body text updated.
+- [x] **Psalm 84 quote** *(verified March 2026)*: ESV Psalm 84:1–2 confirmed word-for-word: *"How lovely is your dwelling place, O LORD of hosts! My soul longs, yes, faints for the courts of the LORD; my heart and flesh sing for joy to the living God."* ✓ The LXX note that Psalm 84:1 uses prosphilēs has been removed (see above — the LXX word is ἀγαπητά, not prosphilēs).
+- [x] **Greek word for "noble/honorable" = semnos** ✓ *Confirmed*: The Greek behind "whatever is honorable" (ESV Phil 4:8) is σεμνός (*semnos*). The body gloss "noble" is acceptable; ESV renders it "honorable." Both capture the sense of dignified, worthy of respect.
+- [x] **Spurgeon quote** *(verified March 2026)*: Confirmed. Exact text (from primary source): **"You will never glory in God till, first of all, God has killed your glorying in yourself."** — Sermon No. 1178, "Glorying in the Lord," preached January 1, 1874; published in *Metropolitan Tabernacle Pulpit*, Vol. 20. Sermon text: 1 Corinthians 1:31. Draft omits the commas around "first of all" — cosmetic only; substance is correct. Full text at CCEL and spurgeon.org.
+- [ ] **Richard Baxter quote** *(researched March 2026 — FULL BLOCK QUOTE UNVERIFIED; prior "confirmed" note was wrong)*: Deeper research overturns the earlier partial verification. The citation "Practical Works, II:884–885" is unreliable: (1) In the 23-vol. 1830 Paternoster edition, Vol. II has only 616 pages — p. 884 does not exist. (2) In the standard 4-vol. 1846 edition, pages 884–885 of Vol. I (which contains the full *Christian Directory*) fall in Chapter XXIX–XXX on loving enemies and works of charity — **no resemblance to the quoted passage**. (3) The distinctive phrases "Our present pilgrimage is a prison," "By this we kill our comforts," and "Unbelievers seek their happiness in the things of the world" do not appear anywhere in digitized Baxter texts (*A Christian Directory* full text, Project Gutenberg, Monergism PDF). (4) The closing sentence ("It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain") circulates online attributed to Baxter/II:884–885, but could not be confirmed in the actual pages at that location in any edition. **The block quote as a whole appears to be a composite or paraphrase attributed to Baxter, not a verbatim passage.** The theology is consistent with Baxter but the words cannot be verified as his. **Do not cite as a direct Baxter quote. Either remove, paraphrase with attribution to the theological tradition, or hold until a physical copy of the relevant Baxter volume can be checked.**
 - [ ] **Pew Bible page number** — Left blank in draft. Fill before Sunday.
 
 ---
@@ -31,13 +31,13 @@ Good morning and welcome to Lakeview Fellowship. We're going to be in Philippian
 
 **[People group segment]**
 
-This week our people group is the Mo-Jer-Hai of China. They are a relatively small people group — only about 7,000 known members. They are completely unreached and unengaged. Which means that as things stand today, they have no opportunity to hear the gospel. To the best of our knowledge, this people group — isolated by the Hunan mountains — has never left the mountains, much less the country. So they will need to be reached in China.
+This week our people group is the Mozhihei of China. *(Corrected March 2026 — "Mo-Jer-Hai" is not a documented name; correct name is Mozhihei, Joshua Project ID 18611.)* They are a relatively small people group — only about 6,600 known members. *(Corrected March 2026 — sermon said ~7,000; Joshua Project figure is 6,600.)* They are completely unreached and unengaged. Which means that as things stand today, they have no opportunity to hear the gospel. To the best of our knowledge, this people group — isolated by the Hunan mountains — has never left the mountains, much less the country. So they will need to be reached in China.
 
 Their culture centers around singing and dancing. Stories are told and important occasions marked by these things. That may be a great foothold for the gospel — music as a bridge.
 
 Please pray for them. Pray that they would hear of Christ and that their hearts would be moved to pursue Him as a group. Pray for a people movement to Christ.
 
-Who will pray for the Mo-Jer-Hai of China?
+Who will pray for the Mozhihei of China?
 
 **[FLAG: Verify all people group details — name spelling, population, location (Hunan mountains), unreached/unengaged status, cultural description — against Joshua Project or similar missiological database before preaching.]**
 
@@ -69,7 +69,7 @@ The solution to communism is the gospel. The solution to sin in this world is th
 
 **[Eternal perspective]**
 
-As I mentioned last week, we are eternal beings having a temporal experience. This world and its hundred years of life will soon be past. In the words of C.T. Studd: *"Only one life, 'twill soon be past, only what's done for Christ will last."*
+As I mentioned last week, we are eternal beings having a temporal experience. This world and its hundred years of life will soon be past. In the words of C.T. Studd: *"Only one life, 'twill soon be past, only what's done for Christ will last."* *(Corrected March 2026 — draft had "This life twill soon be past"; correct opening is "Only one life, 'twill soon be past." From the poem titled "Only One Life, 'Twill Soon Be Past.")*
 
 **[✅ Wording corrected — body now reads “Only one life, ‘twill soon be past.” ⚠️ Primary source in Studd’s published writings unconfirmed — attribution is widely held but treat as unverified in print.]**
 
@@ -133,9 +133,7 @@ Worthy rewards for sure.
 
 **[Whatever is true — the list]**
 
-As we turn to the final part of the chapter, I want to read a quote from a Christian writer named Samuel Sey — a Ghanaian-Canadian writer whose work has appeared at Desiring God and Founders Ministries. He wrote: *"If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear."*
-
-**[⚠️ DESCRIPTION CORRECTED: He is Ghanaian-Canadian, based in Ohio — not "Southern Baptist from Ghana preaching in Ghana." Denominational affiliation unconfirmed. QUOTE STILL UNVERIFIED — cannot be found in online sources. Verify with Sey directly or remove before preaching.]**
+As we turn to the final part of the chapter, I want to read a quote from a writer named Samuel Sey. He is a Ghanaian-Canadian Christian writer and blogger (slowtowrite.com) currently living in Ohio. *(Corrected March 2026 — draft said "Southern Baptist from Ghana who now lives and preaches in Ghana"; all three details are wrong: he is not Southern Baptist, not currently in Ghana, and not a preacher. He writes for Reformed-leaning platforms including Founders Ministries and Desiring God.)* He wrote: *"If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear."* *(⚠️ Quote unverified — not found in any indexed source. Do not cite until sourced.)*
 
 I think that's important to keep in mind as we read this last section, because there is a wonderful list of things we can focus on.
 
@@ -165,15 +163,15 @@ Unlike other things in this world: if you hear something on the news, maybe it's
 
 ---
 
-**Whatever is lovely.** This is a neat word — it's the only time it's used in the New Testament. The Greek word is *prosphilēs* — it means "that which inspires love and affection," something pleasing and dear to the heart.
+**Whatever is lovely.** This is a neat word — it's the only time it's used in the New Testament. *(Corrected March 2026 — earlier version claimed the Greek word prosphilēs also appears in Song of Solomon and Psalm 84:1. This is wrong. Psalm 84:1 LXX uses ἀγαπητά, from agapē — a different and equally beautiful word. No occurrence of prosphilēs is found in Song of Solomon. The thematic connection below still holds in English, but do not claim a shared Greek word.)*
+
+Even so, the theme of loveliness in Psalm 84 is a beautiful companion to what Paul is saying here:
 
 *"How lovely is your dwelling place, O LORD of hosts! My soul longs, yes, faints for the courts of the LORD; my heart and flesh sing for joy to the living God."* (Psalm 84:1–2, ESV)
 
 Where it says "how lovely is your dwelling place" — it's talking about the place where God is. At that time it was the temple. Today, where is God? He's in our hearts. And He's in heaven.
 
 Looking forward to the glories of heaven helps quite a bit when things are hard.
-
-**[✅ VERIFIED: *prosphilēs* is a NT hapax legomenon (Phil 4:8 only). ✅ Psalm 84:1–2 ESV text confirmed exact. ⚠️ LXX CLAIM CORRECTED: The original draft stated the two LXX occurrences were Song of Solomon and Psalm 84:1. This is wrong — verified against the Blue Letter Bible LXX: Psalm 84:1 uses ἀγαπητὰ (*agapēta*), not *prosphilēs*. The thematic connection to Psalm 84 is real and the illustration stands, but the linguistic claim ("the same word") has been removed from the body text above.]**
 
 ---
 
@@ -197,9 +195,7 @@ In the meantime, if you can't quite rejoice, at least be reasonable. Paul says: 
 
 It all comes back to setting aside yourself in favor of what God wants.
 
-Charles Spurgeon once said: *"You will never glory in God till first of all God has killed your glorying in yourself."*
-
-**[✅ VERIFIED — exact wording confirmed against primary text. Source: *"Glorifying in the Lord,"* C.H. Spurgeon, January 1, 1874, on 1 Corinthians 1:31, Metropolitan Tabernacle Pulpit Vol. 20.]**
+Charles Spurgeon once said: *"You will never glory in God till, first of all, God has killed your glorying in yourself."* *(Sermon No. 1178, "Glorying in the Lord," Metropolitan Tabernacle Pulpit, Vol. 20, January 1, 1874 — verified ✓)*
 
 I think he would agree that when we get overly upset about thieving neighbors, it falls under that category. When we are upset about the direction our country is heading and have rebellious thoughts — that falls under that category. We want to be comfortable, we want to be successful, we want to be prosperous, we want to live in what is — in my opinion — the greatest nation in the world. We want all of these things. But when the rubber meets the road, all too often it's all about "I." What Spurgeon calls "glorying in yourself."
 
@@ -209,8 +205,9 @@ Christian — there is only One we should glory in, and that is Jesus Christ. If
 
 **[⚠️ BAXTER QUOTE REMOVED FROM PREACHING TEXT — UNVERIFIED. This quote could not be traced to any known Baxter work after exhaustive search. Do not attribute to Baxter from the pulpit. If this illustration is needed, either find the primary source in Baxter's *Practical Works* (23 vols.) or replace with a verified quote on the same theme. Options: Thomas Watson, *The Art of Divine Contentment*; Richard Sibbes, *The Bruised Reed*; or a direct paraphrase of Philippians 4:11 without attribution.]**
 
-*Original draft text (unverified attribution to Richard Baxter — do not preach as Baxter's):*
-> "Unbelievers seek their happiness in the things of the world. Believers find their happiness in God. It is contrary to the nature of faith for a believer to seek peace in his earthly enjoyments. Our present pilgrimage is a prison, yet alas, we too commonly do this. By this we kill our comforts and then complain they are missing. It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain."
+*"Unbelievers seek their happiness in the things of the world. Believers find their happiness in God. It is contrary to the nature of faith for a believer to seek peace in his earthly enjoyments. Our present pilgrimage is a prison, yet alas, we too commonly do this. By this we kill our comforts and then complain they are missing. It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain."*
+
+*(⚠️ UNVERIFIED — prior "confirmed closing sentence" note was wrong. Deeper research: the citation II:884–885 does not point to this content in any edition; the pages at that location are about loving enemies. None of the distinctive phrases appear in digitized Baxter texts. Full block appears to be a composite/paraphrase, not a verbatim Baxter passage. Do not cite as a direct quote — see flag above.)*
 
 ---
 
