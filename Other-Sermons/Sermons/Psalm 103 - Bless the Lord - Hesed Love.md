@@ -1,3 +1,13 @@
+<!--
+⚠️ DEPRECATED — This file is superseded by the authoritative polished version:
+  → Sermon - Bless the Lord O My Soul.md (root of Romans repo)
+
+This version was a prior-session Claude-expanded draft. It contains a Tesla/molecules
+illustration and a closing gospel appeal not present in the verified transcript, as well
+as a verse reference error (crowning with steadfast love attributed to v.3 rather than v.4).
+Do not use this file for preaching preparation. Use the canonical file above.
+-->
+
 # Bless the Lord, O My Soul
 ### Psalm 103 | Romans 6:23 | Ephesians 2:4–5 | 1 Peter 3:18
 
