@@ -42,13 +42,13 @@ He said 7-year-olds were being taught about impeccability versus peccability —
 
 I pulled up Google Ngram — a tool that tracks how often words and phrases appear in millions of books over time — and looked up the word "Puritan." Discussion of the Puritans peaked around the end of the 1800s and the beginning of the 1900s. Today we have dropped to a small fraction of what we once were. We barely talk about them anymore.
 
-**[NOTE: Do not cite a specific percentage — the real Ngram decline is 61–76%, not 700%. The 700% figure was an error and is mathematically incoherent. Rephrase as above or similar: "dropped to a fraction," "a small shadow," etc.]**
+**[✅ Corrected March 2026 — body now reads "dropped to a small fraction." Real Ngram decline is 61–76%, not 700%. "700%" was mathematically incoherent. See flags section.]**
 
 Now I don't agree with everything the Puritans had to say, but they said a lot of good things. One of the primary questions on their hearts and minds was how the Word of God applies to every facet of life. Things like that are worth thinking about and studying Scripture to find answers to.
 
 According to Common Sense Media, the average child today spends somewhere between 5 and 9 hours on entertainment screens every day — video games, television, social media. By contrast, Puritan children spent their entire school day saturated in Scripture. It was the center of everything they learned — reading, logic, ethics, law. The Word of God wasn't carved out as a separate subject. It *was* the subject.
 
-**[NOTE: "3–7 hours" had no source and understates reality. Real figures: tweens avg 5h33m, teens avg 8h39m (Common Sense Media 2021). The "3 hours of Scripture daily" requirement was also unverifiable — no primary source found. Reframe as above: Scripture was the center of their whole education, not a timed daily block.]**
+**[✅ Corrected March 2026 — body now uses Common Sense Media sourced figures (5–9 hrs entertainment screens daily) and frames Puritan education as Scripture-saturated throughout rather than citing a specific daily Scripture hour requirement (unverifiable). See flags section.]**
 
 The level and depth of theological education of the 1600s Puritan child was as great — or greater, according to Washer — than his own modern 21st century pastoral seminary education.
 
@@ -74,7 +74,7 @@ Science is an important part of our lives and it should be studied. But it needs
 
 Scripture refers to the earth as a circle or sphere thousands of years before the earliest Greek philosophers speculated about its shape.
 
-**[FLAG: The verse is Isaiah 40:22 — "It is he who sits above the circle of the earth" (ESV). The Hebrew word is חוּג (chug), which can mean circle/vault/sphere. Eratosthenes (~240 BC) calculated the earth's circumference; Aristotle (~350 BC) argued for a spherical earth. Isaiah 40 is dated ~700 BC — that is a legitimate point. BUT the original draft said "before Isaac Newton wrote a paper about his theory" — Newton's Principia is about gravity, not earth's roundness. Rephrase to reference the Greek philosophers, not Newton.]**
+**[✅ Isaiah 40:22 — "It is he who sits above the circle of the earth" (ESV). Hebrew חוּג (*chug*) = circle/vault/sphere. Isaiah ~700 BC predates Aristotle (~350 BC) and Eratosthenes (~240 BC) — a legitimate point. Body corrected March 2026: original draft's Newton reference removed; body now correctly says "earliest Greek philosophers." See flags section.]**
 
 When Scripture speaks on a subject, it is authoritative. Sometimes we're just not listening.
 
@@ -112,7 +112,7 @@ This is memorialized in their music, their art, and even their politics. Remembe
 
 That sentiment captures the spirit of the whole era. Young people were convinced they had a better read on the world than anyone who had come before them. And they sang it loudly.
 
-**[NOTE: The original illustration about Edwin Starr investing in a defense company and writing in his diary that "war was very good for jobs and the economy" has been CUT. Research confirmed it is false — no such investment, no such diary, no such quote exists in any source. Starr was an antiwar activist who was financially exploited and died in relative obscurity in England in 2003. The song reference above is fine to use. Do not add the investor story back without a verified primary source.]**
+**[✅ Corrected March 2026 — Edwin Starr investor/diary illustration removed. Confirmed false: no connection to Lockheed Martin or any defense company; Starr was an antiwar activist who died in Nottinghamshire in 2003. Song reference above is confirmed and safe to use. See flags section.]**
 
 ---
 
