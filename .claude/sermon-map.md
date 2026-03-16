@@ -960,6 +960,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `John 14 - exclusivity of the gospel..md` — John 14:1-16 — Christ as the only way
 
 ### Grace / Mercy / Unmerited Favor
+- `Sermon - Bless the Lord O My Soul.md` — Psalm 103 — Forgiveness of sins as God's first benefit; David's sins (Bathsheba/Uriah) and God's mercy; billion-dollar debt paid; undeserved *hesed*; Romans 6:23; Ephesians 2:4-5; 1 Peter 3:18
 - `Sermon - Today You Will Be With Me v2.md` — Luke 23:39-43 — Grace to a dying criminal
 - `Romans 5.md` — Romans 5:1-11 — While we were still sinners
 - `Romans 11 - The Remnant of Grace.md` — Romans 11:1-10 — Grace leaves no room for works
@@ -1023,6 +1024,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — "Eternal beings having a temporal experience"; live like you're leaving; send treasures on ahead (line 122)
 
 ### Love of God / God's Character
+- `Sermon - Bless the Lord O My Soul.md` — Psalm 103 — *Hesed* love (steadfast, covenant-keeping, undeserved); God's character as suited to human frailty; Lot, Rahab, Good Samaritan as *hesed* illustrations; crowned with steadfast love and mercy (Ps 103:4)
 - `1 john 4 b.md` — 1 John 4:7-21 — God's love as overwhelming hurricane
 - `Romans 5.md` — Romans 5:8 — While we were still sinners
 - `neh 1 second.md` — Nehemiah 1 — Chesed; God's steadfast love
@@ -1137,6 +1139,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - The List I Burned.md` — 1 Thess 3:12-4:8 — Tipping (recurring); waitresses hate Sundays; Grandma Baker the waitress; charging servers to serve you (lines 96-97)
 
 ### Thanksgiving / Gratitude
+- `Sermon - Bless the Lord O My Soul.md` — Psalm 103 — Thanksgiving; *hesed* love; self-examination before God; David alone with God; God's forgiveness; crowned with steadfast love; billion-dollar debt illustration; Zaza-Dimli of Turkey people group
 - `thanksgiving 2017.md` — Ephesians 5:4 — Thankfulness
 - `thanksgiving 2017 (2023).md` — Psalm 107:1-3 — Thankfulness (2023 revision)
 - `thanksgiving 2018.md` — Eph 5:4; Gen 22 — Thanksgiving; Abraham and Isaac
@@ -1163,6 +1166,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Unity of mind (*homophrones*); McLean Bible Church letter (John and Ashley's community group — car, house projects, groceries, Thanksgiving); "what would our world look like?" (lines 43-69)
 
 ### Worship
+- `Sermon - Bless the Lord O My Soul.md` — Psalm 103 — "Bless the LORD, O my soul"; wholehearted worship; David alone before God; public and private worship; leading by example; iron sharpens iron (Prov 27:17)
 - `Psalms 96.md` — Psalm 96 — Worship; evangelism as worship
 - `Psalms 100.md` / `Psalms 100(2).md` — Psalm 100 — Serving with gladness
 - `Psalms 84(1).md` / `Psalms 84 (2).md` / `psalms 84 - better is one day (AutoRecovered).md` — Psalm 84 — Dwelling in God's presence

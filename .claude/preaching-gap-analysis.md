@@ -937,7 +937,7 @@ The classical division distinguishes *incommunicable* attributes (unique to God,
 | **Mercy** (God does not give us what we deserve) | ★★ | Sola Gratia series; Romans 4–5; throughout. |
 | **Grace** (God gives us what we do not deserve) | ★★ | Central to every sermon on salvation; Sola Gratia series; "grace is a cheetah." |
 | **Justice / Righteousness** (God always acts in perfect conformity with his own righteous character) | ★★ | Romans 3; `rev 20.md`; hell as just punishment. |
-| **Faithfulness / *Hesed*** (God keeps his covenant promises; his steadfast love endures) | ★★ | `Psalm 103 - Bless the Lord O My Soul.md`; `2 Chronicles 15 - The Hand That Won't Let Go.md`; Romans 11:29 ("the gifts and calling of God are irrevocable"). |
+| **Faithfulness / *Hesed*** (God keeps his covenant promises; his steadfast love endures) | ★★ | `Sermon - Bless the Lord O My Soul.md`; `2 Chronicles 15 - The Hand That Won't Let Go.md`; Romans 11:29 ("the gifts and calling of God are irrevocable"). |
 | **Goodness** (God is benevolent; he does good to his creatures) | ★★ | `Psalm 145 - Good to All.md` — primary subject; Psalm 84 ("no good thing does he withhold"). |
 | **Wisdom** (God always chooses the best ends by the best means) | ★ | Romans 11:33-36 doxology expounded at the close of Romans 11 pt 2 ("Oh the depth of the riches and wisdom…"); `Sermon - The Kingdom of God` cites Tozer on wisdom. Never the primary subject of a sermon. |
 | **Truth / Veracity** (God is truth; he cannot lie or deceive) | ★ | Numbers 23:19 cited in `Sermon - More Than Love.md`; Elohay Emet expounded briefly from Psalm 31:6. Never a primary subject. |
