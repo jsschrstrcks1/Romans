@@ -8,21 +8,16 @@
 
 ## Verification Flags
 
-### Confirmed Errors — Must Correct Before Preaching
+### Confirmed Errors — Corrected ✓
 
-- ❌ **Spurgeon quote**: The quote as written — "Never let us speak of the doom of the wicked harshly, flippantly, or without holy grief…grind our hearts to powder…" — **cannot be verified as authentic Spurgeon.** It does not appear in any verified Spurgeon text, sermon archive, or database (Spurgeon Center, Spurgeon Gems, Metropolitan Tabernacle Pulpit). It appears to be a paraphrase or confabulation built around a real Spurgeon passage. The authenticated Spurgeon text on this theme is in *The Soul Winner* (chapter: "Qualifications for Soul-Winning — Godward"):
-  > "It is a horrible thing for a man to be so doctrinal that he can speak coolly of the doom of the wicked, so that, if he does not actually praise God for it, it costs him no anguish of heart to think of the ruin of millions of our race. This is horrible! I hate to hear the terrors of the Lord proclaimed by men whose hard visages, harsh tones, and unfeeling spirit betray a sort of doctrinal desiccation: all the milk of human kindness is dried out of them."
-  **Do not use the quote as written. Either use the authenticated *Soul Winner* passage (with citation) or remove the attribution entirely and preach the sentiment without it.**
-
-- ❌ **Fan Dance distance — "64 miles"**: Wrong. The Fan Dance (Pen y Fan, Brecon Beacons) is approximately **15 miles / 24 km**. The "64" figure comes from the **Long Drag / Endurance March** — the climactic final test of selection — which is **64 km (40 miles)**, not 64 miles. The draft has confused the two events AND swapped km for miles. The Fan Dance and the Long Drag are separate events; the draft's description conflates them into one march.
-
-- ❌ **"Two daggers on the beret"**: Wrong. The SAS cap badge has **one** downward-pointing winged sword (Excalibur, technically, not a dagger) on a blue Crusader-shield background. There is definitively one, not two.
-
-- ❌ **"vincere Quis audit"**: Wrong on multiple levels. (1) The SAS badge does not use Latin — it says **"Who Dares Wins"** in English. (2) "vincere Quis audit" is not a recognized Latin motto of any SAS unit. (3) Breaking it down: *vincere* = to conquer, *quis* = who, *audit* = hears/listens (from *audire*) — it means something like "who hears, to conquer," which is nonsense. It appears "audit" is a garbled version of "audet" (dares). The correct Latin equivalent of the motto is **"Qui audet adipiscitur"** (Who Dares Wins). **The badge itself says "Who Dares Wins" — just use the English.**
-
-- ❌ **Billy Graham — "two people"** (body, paragraph 7): Obvious dictation error. Should read "2.2 billion" — consistent with the corrected figures below.
-
-- ❌ **Romans 5:8 gloss — "while we were yet sinners"**: ESV reads "while we were **still** sinners" — "yet" is KJV. Since this is a presentation that tracks ESV references, align the gloss to ESV when polishing.
+- ✅ **Spurgeon quote**: Unverified quote replaced with authenticated *The Soul Winner* passage. ✓
+- ✅ **Fan Dance distance**: "64 miles" corrected to "15 miles." ✓
+- ✅ **"Two daggers on the beret"**: Corrected to "winged sword on a blue shield." ✓
+- ✅ **"vincere Quis audit"**: Replaced with English motto "Who Dares Wins." ✓
+- ✅ **Billy Graham — "two people"**: Corrected to "2.2 billion." ✓
+- ✅ **Romans 5:8 "yet sinners"**: Corrected to ESV "still sinners." ✓
+- ✅ **Gen 1:26 "created perfect"**: Corrected to Gen 1:31 "very good." ✓
+- ✅ **Matthew 28:18–20 ESV**: Text added to draft. ✓
 
 ### Misleading / Needs Clarification Before Preaching
 
@@ -61,13 +56,13 @@
 
 ---
 
-"Never let us speak of the doom of the wicked harshly, flippantly, or without holy grief. For the loss of heaven and the endurance of hell, must always be themes for tears. For to live without Christ is grief enough, but to die without Him, is an overwhelming horror, that should grind our hearts to powder as we fall on our faces and cry, 'Oh God have mercy upon them, for thy grace and love's sake"
-
-Charles Spurgeon
+> "It is a horrible thing for a man to be so doctrinal that he can speak coolly of the doom of the wicked, so that, if he does not actually praise God for it, it costs him no anguish of heart to think of the ruin of millions of our race. This is horrible! I hate to hear the terrors of the Lord proclaimed by men whose hard visages, harsh tones, and unfeeling spirit betray a sort of doctrinal desiccation: all the milk of human kindness is dried out of them."
+>
+> — Charles Spurgeon, *The Soul Winner*
 
 I was reading an article the other day about the SAS and their training and so forth the other day. They are one of the most elite, if not the most elite special forces teams in the world. Some classes have a 0% pass rate. Some only 3-4%. In fact, our own delta force is based though kinder than the British SAS.
 
-They start out usually in the winter, in the mountains with a 64 mile hike up and down the mountains in the snow called the fan dance all while carrying 70lbs of gear and your rifle. Lose any item and fail. This is where most people fail out and some even die. There are so many deaths in fact during 22sas training that the organization as a whole has been granted immunity in advance for any deaths that happen during the course of training. Every year there are some that die, and every year someones parent or loved one tries to sue the SAS, and every year they lose the suit because of the immunity. The BBC says the course is at the extreme edge of the limits of human endurance.
+They start out usually in the winter, in the mountains with a 15-mile hike up and down the mountains in the snow called the Fan Dance — all while carrying over 60 pounds of gear and your rifle. Lose any item and fail. This is where most people fail out and some even die. There are so many deaths in fact during 22 SAS training that the Ministry of Defence cannot be criminally prosecuted for training deaths the way a private company could be — the men go in knowing the risk. The BBC says the course is at the extreme edge of the limits of human endurance.
 
 After the fan dance, they are given an inaccurately hand drawn map and forced to march on timed marches across difficult terrain. Each day they are required to carry more and more weight. These marches are the most grueling of the selection and training process. This part is called "endurance".
 
@@ -75,15 +70,17 @@ next is the "jungle phase" where soldiers are dropped off in the jungle with lot
 
 In the final phase where they had to hide out and avoid being detected Another had an improvised kitchen explode giving him 3rd degree burns all over the area from belly button to knees. His shoes were also ruined by the fire. He spent the remaining 5 weeks, in the rainforest, with nothing but his shirt for protection. He ended up contracting malaria, and fought through to become a part of the SAS.
 
-Once they get through all of these things, they are given a beret with two daggers on it, and patch that says "vincere Quis audit" which means "Who dares wins".
+Once they get through all of these things, they are given a beret with the SAS cap badge — a winged sword on a blue shield — and the motto: "Who Dares Wins."
 
 Who dares wins. Said another way – the journey of a thousand miles begins with a single step.
 
-Who wouldn't like to wake up tomorrow and have Billy Grahams God given gift for evangelism. That man shared the gospel with something like two people over the course of his life. Whatever you think of his techniques, He has probably shared the gospel with more people than anyone else has ever done in the history of the world. What an honor to be used by God in this way. Who doesn't want to be used by God to their fullest potential.
-We KNOW
-We KNOW its something we are to be a part of because it was one of Christ's final commands.
+Who wouldn't like to wake up tomorrow and have Billy Grahams God given gift for evangelism. That man shared the gospel with something like 2.2 billion people over the course of his life. Whatever you think of his techniques, He has probably shared the gospel with more people than anyone else has ever done in the history of the world. What an honor to be used by God in this way. Who doesn't want to be used by God to their fullest potential.
+We KNOW it's something we are to be a part of because it was one of Christ's final commands.
 
-Lets read mt 28:18 together. Christ's last command to Christians was to be involved in making disciples. This doesn't mean JUST sharing the gospel like happens at a billy graham crusade. It means going through life with people after and living how Christ live, teaching them to obey ALL that Christ commanded.
+Let's read Matthew 28:18-20 together.
+
+> 18 And Jesus came and said to them, "All authority in heaven and on earth has been given to me. 19 Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."
+> — Matthew 28:18–20 (ESV) Christ's last command to Christians was to be involved in making disciples. This doesn't mean JUST sharing the gospel like happens at a billy graham crusade. It means going through life with people after and living how Christ live, teaching them to obey ALL that Christ commanded.
 
 So today we are going to be daring to take that first step.
 
@@ -106,16 +103,17 @@ Gospel
 First the standard, second the one that tracks from Genesis.
 
 Second presentation:
-Gen 1:26 Everything was created perfect.
+Gen 1:31 — God saw everything he had made, and it was very good. Creation was as God intended — whole, unbroken, without sin.
 Gen 3:6 Then we were disobedient – doing the one thing they had been commanded not to do, and in so doing introduced sin into the world. What was meant to be perfect, is now broken by our actions.
 Romans 3:23 – ultimately as a result of the fall everyone has sinned. We all fall short. Because of Adams actions we are all tainted by sin
 Eph 2:8- nothing we can do about this in our own strength.
 Romans 6:23a the payment we deserve for our sinful actions is death.
 ISA 53:6 All we like sheep have gone astray; we have turned—every one—to his own way; and the LORD has laid on him the iniquity of us all.
 6:23b The free gift of god is eternal life in Christ Jesus our lord
-romans 5:8 – while we were yet sinners Christ died for us
+Romans 5:8 — "while we were still sinners, Christ died for us" (ESV)
 1 peter 3:18 18 For Christ also suffered[a] once for sins, the righteous for the unrighteous, that he might bring us to God, (Christ) being put to death in the flesh but made alive in the spirit, We deserved death, but Christ died for us. We deserved punishment, but Jesus took our punishment for us. Jn 3:16 for God so loved the world
-Jn 3:16 for God so loved the world Romans 10:9
-Romans 10:9DO you have any questions? <- KEY
-DO you have any questions? <- KEYSinners prayer – the most important part is
-Sinners prayer – the most important part is confess with your mouth the Lord Jesus Christ. The rest of it is open to interpretation. I tend to make them repeat what we've covered so far.
+Jn 3:16 — for God so loved the world
+Romans 10:9
+DO you have any questions? ← KEY
+
+Sinners prayer — the most important part is confess with your mouth the Lord Jesus Christ. The rest of it is open to interpretation. I tend to make them repeat what we've covered so far.
