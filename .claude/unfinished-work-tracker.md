@@ -201,21 +201,21 @@ The repository has been developed across 21 distinct Claude Code thread families
 
 ## Part II: Unprocessed Sermons in memory2.md
 
-These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT been extracted to standalone files, cleaned, verified, or added to the sermon map:
+~~These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT been extracted to standalone files.~~
+
+**Updated March 2026 — all 9 now have standalone files.**
 
 | # | Sermon | Primary Text | Status |
 |---|--------|-------------|--------|
-| 1 | Paul's Final Letter | 2 Timothy 1:1-2 | ~~Extracted~~ → `2 Timothy 1 1-2 - Paul's Final Letter (raw draft).md` ✓ |
-| 2 | Cultural Marxism / CRT | Romans 10:12-13 | Raw in memory2.md — needs extraction, cleanup, ESV conversion, verification |
-| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | Partially extracted (`00c1185`); verify if complete |
-| 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 6 | Prayer | Colossians 4:2-4 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 7 | Church Membership / Body of Christ | 1 Corinthians 12:12-27 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 8 | Sowing and Reaping | Galatians 6:7-10 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 9 | Angels, Demons, Etcetera | Ephesians 1:3-14 | Raw in memory2.md — needs extraction, cleanup, verification |
-
-**Note**: Several of these (2 Tim 2:3-7, 2 Tim 3:14+, Titus 3:1-7, Gal 3:23+, 2 Tim 2:14-26, Matt 5:13-16) have been processed per sermon-queue.md — they exist in Other-Sermons but also remain as raw text in memory2.md. The 9 listed above are the ones still needing standalone file extraction.
+| 1 | Paul's Final Letter | 2 Timothy 1:1-2 | ✅ `2 Timothy 1 1-2 - Paul's Final Letter (raw draft).md` |
+| 2 | Cultural Marxism / CRT | Romans 10:12-13 | ✅ `Cultural Marxism - CRT - Romans 10 (raw draft).md` — ⚠️ flags remain |
+| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ✅ `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` — ⚠️ flags remain |
+| 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | ✅ `Other-Sermons/Sermons/Eph 3 - The Covenants.md` |
+| 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | ✅ `Colossians 2 - Quilted Together in Love (raw draft).md` — quotes verified/flagged March 2026 |
+| 6 | Prayer | Colossians 4:2-4 | ✅ `Colossians 4 - Prayer (raw draft).md` — quotes verified March 2026 |
+| 7 | Church Membership / Body of Christ | 1 Corinthians 12:12-27 | ✅ `1 Corinthians 12 - Church Membership (raw draft).md` — ⚠️ flags remain |
+| 8 | Sowing and Reaping | Galatians 6:7-10 | ✅ `Galatians 6 - Sowing and Reaping (raw draft).md` — ⚠️ flags remain |
+| 9 | Angels, Demons, Etcetera | Ephesians 1:3-14 | ✅ `Ephesians 1 - Angels Demons Etcetera (raw draft).md` — ⚠️ flags remain |
 
 ---
 
@@ -254,7 +254,7 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 | `1 Thess 5 - Rejoice Always (raw draft).md` | 7 flags requiring verification: Spurgeon quote source unverified; "3 million French" figure flagged as possibly overstated; "Communists defeated" claim flagged as needing historical verification |
 | `Philippians 4 (raw draft).md` | 16 flags: extensive verification needed |
 | `Romans 1 - Psalm 22 (Prophecy raw draft).md` | 8 flags requiring verification: Adrian Rogers "108 OT refs" claim flagged as unverified; R.A. Torrey "300 OT refs" claim flagged as unverified |
-| `Romans 7.md` | 4 flags: Jn 14:16 reference error (should be 15:16); MacArthur quote unverified |
+| ~~`Romans 7.md`~~ | ✅ Resolved March 2026 — Jn 14:16 → 15:16 corrected; MacArthur reworded to paraphrase ("As MacArthur has taught…") |
 | `Romans 3 - antinomianism draft.md` | 3 flags |
 
 ---
@@ -332,11 +332,12 @@ From `preaching-gap-analysis.md`, the top 15 preaching gaps ranked by theologica
 
 These items could be resolved in a single session each:
 
-1. **Extract remaining memory2.md sermons** — 9 sermons need standalone file extraction, cleanup, and mapping
+1. ~~**Extract remaining memory2.md sermons**~~ ✅ All 9 now have standalone files (confirmed March 2026)
 2. **Resolve Sola Christus 2024 incomplete draft** — needs Scripture reference and three-role exposition completed (or marked as permanently incomplete if the 2020 version is the authoritative one)
 3. **Resolve Thankfulness sermon** — request remainder of transcript from pastor
-4. **Fix Romans 7 reference error** — Jn 14:16 should be 15:16
-5. ~~**Convert NIV/KJV quotes to ESV** in raw drafts (Psalm 2, Psalm 68 Part 2, 1 Thess 5)~~ ✓ Completed
+4. ~~**Fix Romans 7 reference error**~~ ✅ Jn 14:16 → 15:16 corrected; MacArthur reworded to paraphrase
+5. ~~**Convert NIV/KJV quotes to ESV** in raw drafts (Psalm 2, Psalm 68 Part 2, 1 Thess 5)~~ ✅ Completed
+6. **Josh 7 & 8** — processed March 2026; Spurgeon, Edwards, MacArthur, Taylor quotes all flagged ⚠️ unverified
 
 ---
 

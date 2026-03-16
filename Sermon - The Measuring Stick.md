@@ -135,12 +135,15 @@ or republish without resolving flagged items below.
    CORRECTED MARCH 2026 — Body now reads "signed by hundreds of evangelical
    leaders from dozens of denominations." Inline correction note added.
 
-7. AL MOHLER QUOTE — UNVERIFIED
-   The quote about "truthfulness and trustworthiness" is consistent with
-   Mohler's published positions (especially his chapter in Five Views on
-   Biblical Inerrancy, Zondervan 2013), but the exact source could not be
-   confirmed. The sermon's loose attribution ("Al Mohler wrote saying...")
-   is fair for spoken delivery; verify exact source before publishing.
+✅ 7. AL MOHLER QUOTE — VERIFIED MARCH 2026
+   The phrase "the Bible's total truthfulness and trustworthiness" is confirmed
+   as Mohler's own language. Verbatim match: "The affirmation of biblical
+   inerrancy is nothing more, and nothing less, than the affirmation of the
+   Bible's total truthfulness and trustworthiness." Source: R. Albert Mohler Jr.,
+   "The Devil is in the Details: Biblical Inerrancy and the Licona Controversy,"
+   AlbertMohler.com, September 14, 2011. The same phrase appears in his chapter
+   in Five Views on Biblical Inerrancy (Zondervan, 2013), p. 45 and p. 176.
+   The sermon's loose paraphrase is faithful to Mohler's documented position.
 
 8. COMMUNION PASSAGE REFERENCE ABSENT IN ORIGINAL TRANSCRIPT
    The communion reading (1 Corinthians 11:23-29 ESV) was not cited by
