@@ -359,6 +359,18 @@ Both Jew and Gentile, religious and irreligious. No exceptions. **Explicit. Trad
 
 Humans actively suppress truth they know (Rom 1), exchanging it for lies. Conscience testifies to God's law. **Explicit. Tradition: Puritan/Reformed.**
 
+#### Idolatry as the Wrong Master
+> "At the end of the day, if your master isn't the Lord, your master is the devil."
+> — `Psalm 42 - As the Deer Pants.md`
+
+Every person has a master. Sports, money, television, alcohol, drugs, sex — whatever controls the affections controls the person. Idolatry is defined not by the formal worship of carved images but by whatever masters the heart. The diagnostic is the soul's thirst: *Does your soul long after God with the urgency of a deer panting for water (Ps 42:1)?* If not, idolatry is the likely cause. The soul that does not long for God is the soul already drinking from another source. **Explicit. Tradition: Reformed Baptist.**
+
+#### Spiritual Callousing Through Small Compromises
+> "It's a death by a thousand cuts. We allow things to happen. Slowly we let these things bleed our joy and our contentment and our happiness out of our lives."
+> — `Psalm 42 - As the Deer Pants.md`
+
+Christians do not typically drift into cold-heartedness through deliberate rebellion but through incremental, often unintentional compromise: skipping Bible reading, skipping prayer, skipping fellowship, skipping worship, allowing the business of life to crowd out the most important things. Each compromise individually seems harmless. Together they calcify the heart and extinguish the soul's longing for God. The remedy is vigilant attention to the ordinary means of grace before the thirst dries up entirely. **Explicit. Tradition: Reformed, Puritan.**
+
 ---
 
 ### 5. Soteriology (Doctrine of Salvation)
@@ -977,6 +989,8 @@ Every sermon in the Romans series includes a specific "People Group of the Week"
 | **Sentimental Christianity** | "Biblical love is not morally neutral. It does not bless what destroys people." | `romans 12 pt 3.md` | Explicitly rejected |
 | **Idolatry (broadly)** | "If football is more important than hearing the word of God... football is your idol." | `mark 10.md` | Explicitly rejected |
 | **Idolatry — Egypt/America parallel** | Egypt had 2,000+ deities, starting from animism and morphing into anthropomorphism. America has politics, comfort, rights, and presidents. Psalm 115:4–8: idols cannot speak, see, or hear — and those who make them become like them. A.W. Tozer (*The Knowledge of the Holy*, ch. 1): "What comes into our minds when we think about God is the most important thing about us." The idols we choose to worship reveal who we are. | `Other-Sermons/Sermons/Exodus 2.md` | Explicitly rejected |
+| **Idolatry — soul's thirst misdirected** | "If you desire anything in your life like this that isn't God, that's idolatry." The deer's panting thirst (Ps 42:1 — "As a deer pants for flowing streams, so pants my soul for you, O God") as diagnostic: what does your soul long after with that intensity? Every human soul thirsts after something with ultimate devotion; if that object is not God, it is an idol. Sin does not satisfy — it amplifies. "Instead of our thirst being satisfied, our thirsts are amplified." | `Psalm 42 - As the Deer Pants.md` | Explicitly rejected |
+| **Idolatry through drift, not deliberate rebellion** | "I think most people stumble into idolatry — not intentionally. They don't wake up one morning and say, *How can I rebel against God today?*" Long-time Christians lose sight of God through incremental compromise: skipping Bible reading, prayer, fellowship, worship — "a death by a thousand cuts." Idolatry of the heart is often the end result of accumulated small decisions, not a single act of apostasy. | `Psalm 42 - As the Deer Pants.md` | Explicitly rejected |
 
 ### Methodological Errors
 
