@@ -71,7 +71,7 @@ The solution to communism is the gospel. The solution to sin in this world is th
 
 As I mentioned last week, we are eternal beings having a temporal experience. This world and its hundred years of life will soon be past. In the words of C.T. Studd: *"Only one life, 'twill soon be past, only what's done for Christ will last."* *(Corrected March 2026 — draft had "This life twill soon be past"; correct opening is "Only one life, 'twill soon be past." From the poem titled "Only One Life, 'Twill Soon Be Past.")*
 
-**[NOTE: The widely-known form of this poem is “Only one life, ‘twill soon be past, / only what’s done for Christ will last.” The draft drops the opening line “Only one life,” and reads “twill” for “‘twill.” Correct before preaching. ⚠️ Primary source in Studd’s published writings unconfirmed — attribution widely held but treat as unverified.]**
+**[✅ Wording corrected — body now reads “Only one life, ‘twill soon be past.” ⚠️ Primary source in Studd’s published writings unconfirmed — attribution is widely held but treat as unverified in print.]**
 
 For the believer, this world is the worst thing we will ever experience. For the lost, however, this is as good as it gets. That should break our hearts. There are good things in this life — love, family, and so on. But even those things are dim shadows of what will come in heaven for eternity. Even now those things are tainted by our sinful hearts. But one day — already and at once not-yet and for eternity — that taint of sin will be fully removed from our perspective and we will be rejoicing in the presence of our Savior forever. Loving fully.
 
@@ -203,7 +203,7 @@ Christian — there is only One we should glory in, and that is Jesus Christ. If
 
 ---
 
-Richard Baxter wrote:
+**[⚠️ BAXTER QUOTE REMOVED FROM PREACHING TEXT — UNVERIFIED. This quote could not be traced to any known Baxter work after exhaustive search. Do not attribute to Baxter from the pulpit. If this illustration is needed, either find the primary source in Baxter's *Practical Works* (23 vols.) or replace with a verified quote on the same theme. Options: Thomas Watson, *The Art of Divine Contentment*; Richard Sibbes, *The Bruised Reed*; or a direct paraphrase of Philippians 4:11 without attribution.]**
 
 *"Unbelievers seek their happiness in the things of the world. Believers find their happiness in God. It is contrary to the nature of faith for a believer to seek peace in his earthly enjoyments. Our present pilgrimage is a prison, yet alas, we too commonly do this. By this we kill our comforts and then complain they are missing. It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain."*
 
