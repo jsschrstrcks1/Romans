@@ -95,7 +95,7 @@
 
 > and they bargained with him [Judas] for thirty pieces of silver (Matt. 26:15b).
 
-**[FLAG: Verify Gen. 37:28b — price is twenty pieces of silver in Joseph's case vs. thirty for Jesus. This is intentional as a parallel, not an error — both involve a betrayal for silver, with the amounts differing. Confirm Gen. 37:28 says "twenty" (ESV: "twenty shekels of silver").]**
+**[✓ Gen. 37:28 ESV confirmed (March 2026): "Then Midianite traders passed by. And they drew Joseph up and lifted him out of the pit, and sold him to the Ishmaelites for twenty shekels of silver. They took Joseph to Egypt." Twenty vs. thirty is intentional — both are betrayal for silver; the difference is preachable (types are shadows, not photographs).]**
 
 ---
 
@@ -129,7 +129,7 @@
 
 > …[he] was in all points tempted like as we are, yet without sin (Heb. 4:15b).
 
-**[FLAG: Heb. 7:26 wording above is KJV; original draft had a NKJV hyperlink artifact. Verify against ESV: "For it was indeed fitting that we should have such a high priest, holy, innocent, unstained, separated from sinners, and exalted above the heavens." Confirm sub-verse designation.]**
+**[✓ Heb. 7:26 ESV confirmed (March 2026): "For it was indeed fitting that we should have such a high priest, holy, innocent, unstained, separated from sinners, and exalted above the heavens." KJV above reads "harmless, undefiled" — replace with ESV when preaching.]**
 
 ---
 
@@ -166,7 +166,7 @@
 
 > …God also hath highly exalted him, and given him a name which is above every name (Phil. 2:9).
 
-**[FLAG: Phil. 2:9 KJV says "a new name" — verify ESV: "Therefore God has highly exalted him and bestowed on him the name that is above every name." ESV does not say "new name." KJV rendering: "given him a name which is above every name" — also does not say "new." The "new name" language comes from Rev. 3:12. Verify whether the typology reference intends Phil. 2:9 or Rev. 3:12.]**
+**[⚠️ Phil. 2:9 "new name" — heading says "GIVEN A NEW NAME" but neither KJV nor ESV Phil. 2:9 uses the word "new." ESV: "Therefore God has highly exalted him and bestowed on him the name that is above every name." KJV: "given him a name which is above every name." The "new name" language is Rev. 3:12 ("I will write on him the name of my God...and my own new name"). The heading should be revised to "GIVEN THE NAME ABOVE EVERY NAME" or similar. The Phil. 2:9 citation itself is correct.]**
 
 ---
 
