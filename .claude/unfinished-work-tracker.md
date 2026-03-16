@@ -42,8 +42,8 @@ The repository has been developed across 21 distinct Claude Code thread families
 **PRs merged**: #56, #59, #67, #73, #79
 **Status**: **Substantially complete** — Romans 1–16 is fully preached and archived.
 **Unfinished**:
-- Romans 7 raw draft still has verification flags (⚠️ Jn 14:16 reference error, MacArthur quote unverified)
-- Romans 1 - Psalm 22 raw draft has multiple unverified references (Adrian Rogers 108 OT refs, R.A. Torrey 300 OT refs)
+- Romans 7 raw draft: Jn 15:16 corrected ✓; Lk 22:42 corrected ✓; MacArthur reworded to paraphrase ✓; standing items minor (see Part IV)
+- Romans 1 - Psalm 22 raw draft: Rogers/Torrey refs substantially resolved March 2026; Psalm 22:17 cross-reference table needs one correction before printing
 
 ---
 
@@ -201,7 +201,7 @@ The repository has been developed across 21 distinct Claude Code thread families
 
 ## Part II: Unprocessed Sermons in memory2.md
 
-These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT been extracted to standalone files, cleaned, verified, or added to the sermon map:
+*(Updated March 2026 — all 9 extractions now complete; file paths verified against file system)*
 
 | # | Sermon | Primary Text | Status |
 |---|--------|-------------|--------|
@@ -215,7 +215,7 @@ These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT b
 | 8 | Sowing and Reaping | Galatians 6:7-10 | ~~Raw in memory2.md~~ → `Galatians 6 - Sowing and Reaping (raw draft).md` ✓ — Flood story corrected March 2026; Toplady ✓, Spurgeon ✓, Luther ✓ verified March 2026; Lawson wording confirmed, no primary source located; Sindhi Samas verified (Joshua Project — ~1.63M, Frontier/Unengaged); Titanic illustration researched — current version embellished/unattributed (real Peuchen kernel exists but woman/casino details are not historical) |
 | 9 | Angels, Demons, Etcetera | Ephesians 1:3-14 | ~~Raw in memory2.md~~ → ✓ `Other-Sermons/Sermons/Eph 1 - Angels Demons Etcetera.md` is authoritative (all corrections applied, Integrity Log, Series label added). `Ephesians 1 - Angels Demons Etcetera.md` deprecated with header pointing to authoritative version. |
 
-**Note**: Several of these (2 Tim 2:3-7, 2 Tim 3:14+, Titus 3:1-7, Gal 3:23+, 2 Tim 2:14-26, Matt 5:13-16) have been processed per sermon-queue.md — they exist in Other-Sermons but also remain as raw text in memory2.md. The 9 listed above are the ones still needing standalone file extraction.
+**All memory2.md extractions are complete.** All 9 files confirmed present on disk (March 2026). The extracted files are raw drafts — quote attribution, Scripture translation accuracy, and factual claims have not yet been verified in these files. That verification work remains for a future session.
 
 ---
 
@@ -267,12 +267,12 @@ The sermon-map.md contains **46+ entries** with ⚠️ flags indicating unverifi
 - `Philippians 4 (raw draft).md` — 16 flags
 - `Psalm 2 (raw draft).md` — 11 flags
 - `Psalm 119 161-168 (raw draft).md` — 10 flags
-- `Study - Joseph as a Type of Christ (typology reference).md` — 10 flags
-- `Romans 1 - Psalm 22 (Prophecy raw draft).md` — 8 flags
+- `Study - Joseph as a Type of Christ (typology reference).md` — partially resolved March 2026: Gen. 37:28 ESV ✓; Heb. 7:26 ESV ✓; Phil. 2:9 "new name" heading flagged as inaccurate (use Rev. 3:12 or revise heading). Standing: all quotes are KJV — convert to ESV before preaching; source/attribution unknown
+- `Romans 1 - Psalm 22 (Prophecy raw draft).md` — substantially resolved March 2026; standing: Psalm 22:17/"bones not broken" cross-reference needs table correction; "68%" stat uncitable; voting intro dated
 - `1 Thess 5 - Rejoice Always (raw draft).md` — 7 flags
-- `Psalm 68 Part 2 (raw draft).md` — 7 flags
-- `Sermon - Faithful and God-Fearing.md` — 7 flags
-- `Sola Scriptura 2021.md` — 7 flags
+- `Psalm 68 Part 2 (raw draft).md` — substantially resolved March 2026; 1 standing item (Elijah timeline phrasing) for print polish
+- `Sermon - Faithful and God-Fearing.md` — manuscript substantially polished; major errors corrected in end notes (king succession, Xerxes-Cyrus, 50→52 days, NIV→ESV for Isa 45/Luke 12:5); standing items: (1) Gospel presentation not developed — must complete before preaching; (2) Pascal's Wager section not developed; (3) Dr. Alvin Reid quote — exact source unverified; (4) Great Wall bribery number — unverifiable, already qualified in body
+- `Sermon - Sola Scriptura 2021.md` — manuscript substantially polished; standing items: (1) Trevor Noah attribution almost certainly wrong — must identify correct source before preaching (quote is evangelical theological commentary, not consistent with Trevor Noah); (2) 4 Luther quotes content-consistent but no primary LW source confirmed; Quote 2 ("Nothing helps more powerfully") traced to secondary source (Counseling Under the Cross); all other errors corrected in body/source notes (DSS "1,000 years" ✓, flat earth removed ✓, Isaiah 40:22 qualified ✓)
 
 ---
 
@@ -335,7 +335,7 @@ These items could be resolved in a single session each:
 1. **Extract remaining memory2.md sermons** — 9 sermons need standalone file extraction, cleanup, and mapping
 2. **Resolve Sola Christus 2024 incomplete draft** — needs Scripture reference and three-role exposition completed (or marked as permanently incomplete if the 2020 version is the authoritative one)
 3. **Resolve Thankfulness sermon** — request remainder of transcript from pastor
-4. **Fix Romans 7 reference error** — Jn 14:16 should be 15:16
+4. ~~**Fix Romans 7 reference error** — Jn 14:16 should be 15:16~~ ✓ Completed March 2026; Lk 22:42 also corrected to exact ESV
 5. ~~**Convert NIV/KJV quotes to ESV** in raw drafts (Psalm 2, Psalm 68 Part 2, 1 Thess 5)~~ ✓ Completed
 
 ---

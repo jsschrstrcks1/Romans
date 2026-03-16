@@ -1,6 +1,19 @@
 # The Blood of the Lamb Silences the Accuser
 ## A Sermon on Titus 3:1-7
 
+**Status:** Full manuscript — verification flags added
+
+---
+
+## Verification Flags
+
+- [ ] **"Dumb laws" opening** — Laws cited (Switzerland toilet/ignition, South Korea bribery self-report, UK shooting a Scotsman, Canada horse rails/murder-by-fright, California elephant leash) are widely repeated on internet lists. Many are satirical, exaggerated, or long-repealed. Verify before citing as factual in print. For oral delivery the hedged intro ("In my reading I came across...") is acceptable. [FLAG: VERIFY LEGAL CLAIMS BEFORE PRINT USE]
+- [ ] **Tim Keller quote** — *"If you can't show the difference between religion and the gospel, people will confuse morality with a changed heart."* Consistent with Keller's published work (*The Prodigal God*, *Center Church*) but exact wording not verified to a primary source. [FLAG: VERIFY EXACT WORDING AND SOURCE]
+- [ ] **"I have no other argument, I need no other plea, it is enough that Jesus died for me"** — Paraphrase of the hymn *"My Faith Has Found a Resting Place"* by Lidie H. Edmunds (c. 1891). Exact lyric: *"I need no other argument, I need no other plea, It is enough that Jesus died, and that He died for me."* Presented without attribution in the manuscript. Attribute to the hymn before preaching. [FLAG: ATTRIBUTE — Edmunds, "My Faith Has Found a Resting Place," c. 1891]
+- [ ] **Smith and Brown / Passover illustration** — Widely used evangelical illustration. No original source identified; possibly traces to Spurgeon. [FLAG: ATTRIBUTION UNKNOWN]
+- [ ] **Political dating** — References to Obama ("8 long years") and Trump ("happy he's in office") date this sermon to approximately 2017. Update or contextualize if repreaching.
+- [ ] **Titus 3:1–7 ESV** — Confirmed. ✓
+
 ---
 
 ## Opening: Dumb Laws

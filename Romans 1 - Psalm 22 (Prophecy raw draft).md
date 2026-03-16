@@ -3,7 +3,7 @@
 **Text**: Romans 1:1-2; Psalm 22
 **Theme**: OT prophecy as credential for Christ; double-entendre model of prophecy
 **Status**: Romans 10:9 and Deut 18:20-22 corrected to ESV; prophecy table reformatted
-**Flags remaining**: 3 ⚠️ (Rogers/Torrey figures unverified; Ps 22:17 "bones not broken" citation; "68% accuracy" stat — see flags section)
+**Flags remaining**: 2 ⚠️ (Rogers/Torrey figures — see flags section; "68% accuracy" stat — unverified, do not cite) | ✅ "Bones not broken" table row corrected to Ps 34:20 (March 2026)
 
 ---
 
@@ -24,40 +24,19 @@ The point is when God is involved in prophecy it is always true. When God is inv
 That said as we read this passage of prophecy I want to explain how you read it. Out of necessity, the passages usually are talking about two separate things. Are you familiar with the phrase double entendre? Think of it in terms of a mountain range. There are little mountains up close, big mountains further away. You can see both mountains, and if you were asked to describe the scene you'd describe both right? Same with prophecy. I remember my parents traveled out west a number of years ago as part of a trip to Alaska, they were flying into this major airport and from the plane they saw all these huge mountains. But ONE mountain (St Helens) stood out bigger and wider, and taller than all the other mountains around it. Most of the time a traveler to an area doesn't know the name of the mountains we look at. When we visted Gatlinburg UNLESS someone specifically named a mountain I had no idea what they were called. But this one mountain that they saw from the plane was so big, so imposing, and with a huge scar, that its identity was instantly known – it had to be mount st helens. Its like that with Christ too. Sometimes you have no other choice but to see that a given passage is talking about Christ. This passage is like that. Look past the little mountains and look at Christ as we read. I identified 11 references to Christ in the passage we are about to read. Keep track of them as we go, and see how many you can find. Adrian Rogers – whom you may have heard of – who helped pull our denomination back from liberalism – identified at least 108 prophecies about Christ in the old testament that Jesus, as a human being, could not have engineered or controlled. *(Corrected March 2026 — Rogers' exact wording from Sermon #2299 "Christ of the Old Testament," Love Worth Finding: "There are at least 108, many of which He had no control over, if He were only a human being." Source: lwf.org Sermon #2299. The sermon goes on to use Peter Stoner's probability calculations. Note: Rogers' 108 is specifically the count of prophecies Jesus couldn't control — not a count of all OT references to Christ.)* The venerable fundamentalist R. A. Torrey compiled lists of messianic prophecies and wrote compellingly about fulfilled prophecy in *The Fundamentals* and in *The Bible and Its Christ* (Fleming H. Revell, 1906). *(Corrected March 2026 — draft said Torrey "found 300 and put them all in his book." This is not accurate. Torrey's own compiled lists total roughly 61–79 prophecies depending on the edition. The widely-cited "300 OT prophecies" figure circulates in popular apologetics without a single authoritative source and cannot be specifically attributed to Torrey. Do not cite "300" as Torrey's number.)* I've never counted, but believe both men are careful students of scripture. Maybe there is 300, maybe 108 – the important part is God put references to His son in scripture so that we would have flashing neon signs RE when, and under what circumstances he would come, how he would live his life, and a number of other things. Lets not overlook the flashing neon sign in Romans. Read with me Psalms 22. Actually before we do that, I need some volunteers to read a couple passages elsewhere in the scriptures. Dad I need you in Psalms 22, but anyone else willing to read?
 Psalms 22
 
-Prophesy Found in: Fulfilled in:
-Verbally abused by men
-Psalm 22:6-7
-Matthew 26:67-68,
-Trust in God ridiculed
-Psalm 22:8
-Matthew 27:39-44
-Surrounded by enemies
-Psalm 22:12
-Matthew 27:27-31
-Physically weakened
-Psalm 22:14-15
-Matthew 27:32
-Thirsty
-Psalm 22:15
-John 19:28
-Surrounded by enemies
-Psalm 22:16
-Matthew 27:39-44
-Hands and feet pierced
-Psalm 22:16
-John 20:20, 25-28
-Bones not broken
-Psalm 34:20 *(corrected March 2026 — draft had Ps 22:17; that verse is "I can count all my bones — they stare and gloat over me," which is the stared-at entry below. The bones-not-broken prophecy cited in John 19:36 is Psalm 34:20: "He keeps all his bones; not one of them is broken.")*
-John 19:31-36
-Stared at by the people
-Psalm 22:17b *(ESV: "they stare and gloat over me")*
-Matthew 27:55-56
-Lots cast for His clothing
-Psalm 22:18
-Matthew 27:35,
-God heard His prayers
-Psalm 22:21, 24
-Hebrews 5:7-8
+| Prophecy | Found in (Psalm 22) | Fulfilled in |
+|----------|---------------------|--------------|
+| Verbally abused / mocked by men | Ps 22:6-7 | Matt 26:67-68 |
+| Trust in God ridiculed | Ps 22:8 | Matt 27:39-44 |
+| Surrounded by enemies | Ps 22:12 | Matt 27:27-31 |
+| Physically weakened | Ps 22:14-15 | Matt 27:32 |
+| Thirsty | Ps 22:15 | John 19:28 |
+| Encircled by evildoers | Ps 22:16 | Matt 27:39-44 |
+| Hands and feet pierced | Ps 22:16 | John 20:20, 25-28 |
+| Bones not broken | Ps 34:20 | John 19:31-36 |
+| Stared at by the people | Ps 22:17 | Matt 27:55-56 |
+| Lots cast for His clothing | Ps 22:18 | Matt 27:35 |
+| God heard His prayers | Ps 22:21, 24 | Heb 5:7-8 |
 
 That's just a handful of 300!!! Prophesies about Christ, and these 11 are all from one single chapter in the old testament. So now lets re-read Romans: 1 Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God, 2 which he promised beforehand through his prophets in the holy Scriptures, 3 concerning his Son, who was descended from David according to the flesh.
 
