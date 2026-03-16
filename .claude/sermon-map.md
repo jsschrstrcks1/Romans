@@ -212,7 +212,7 @@ These are the current, polished sermon manuscripts for the "Night Is Far Gone" s
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| Joshua 7-8 | Achan; consequences of hidden sin and leaving God out of battle | `Josh 7 & 8.md` | sermon |
+| Joshua 7:4-13; 8:1,27 | Leaving God Out / Achan and Ai — Lake Placid FL (lightbulbs/clown college) and Sopchoppy FL (worm gruntin') as small-town illustrations; Jericho recap; Israel sent spies and made battle plans without prayer; routed by tiny Ai; Deut 8:17-18 ("my power and the might of my hand") quoted; "sola bootstrapsa" (professor coinage); Achan's sin: *ḥērem* "devoted things" = destruction items + pagan worship objects + sexual sin associations; Canaanite Baal/Asherah worship (fertility prostitution, child sacrifice, Psalm 106); Spurgeon quote (marvel I'm saved at all); Edwards quote (we contribute only the sin); MacArthur quote (people don't fear God); Hudson Taylor biography (indigenization; CIM; 76 then 106 missionaries; 200M Chinese believers); Taylor quote ("God's work done God's way"); accountability application | `Josh 7 & 8.md` | sermon ⚠️ raw draft — Spurgeon, Edwards, MacArthur, two Taylor quotes all unverified; Lake Placid claims unverified; processed March 2026 |
 | Joshua 24 | Choose this day; covenant renewal at Shechem (raw notes) | `Joshua 24.md` / `Joshua 24 - 2024.md` | sermon notes |
 | Joshua 24:6-15 | "Choose This Day" — America's blessings parallel to Israel's; God's faithfulness despite ingratitude; Baal as powerless stick; idols in the camp; gospel invitation | `Joshua 24 6-15.md` | sermon |
 
