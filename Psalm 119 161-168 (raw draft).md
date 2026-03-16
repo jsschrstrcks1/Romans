@@ -34,9 +34,7 @@ One man named Andrew had searched for and found some of this treasure we've been
 
 The same thing happened to the second car, and the third. So Brother Andrew began to pray. He prayed: *"Lord, in my luggage I have Scripture that I want to take to Your children across this border. When You were on earth, You made blind eyes see. Now, I pray, make seeing eyes blind. Do not let the guards see those things You do not want them to see."*
 
-*(Prayer wording verified against multiple independent sources drawing from* God’s Smuggler *(1967). Corrected: draft said "in my car" — verified wording is "in my luggage." ✓)*
-
-He felt God urging him to put a couple bibles on the dash in plain view. He obedient did so.
+He felt God urging him to put a couple bibles on the dash in plain view. He obediently did so.
 
 Car number four in line received the same treatment, car number five received the same treatment. People were handcuffed and held at gun point till everything in their car had been searched thoroughly.
 
