@@ -206,13 +206,13 @@ These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT b
 | # | Sermon | Primary Text | Status |
 |---|--------|-------------|--------|
 | 1 | Paul's Final Letter | 2 Timothy 1:1-2 | ~~Extracted~~ → `2 Timothy 1 1-2 - Paul's Final Letter (raw draft).md` ✓ |
-| 2 | Cultural Marxism / CRT | Romans 10:12-13 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Cultural Marxism.md` ✓ |
-| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ~~Raw in memory2.md~~ → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` ✓ |
+| 2 | Cultural Marxism / CRT | Romans 10:12-13 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Cultural Marxism.md` → `Cultural Marxism - CRT - Romans 10 (raw draft).md` → **`Sermon - Cultural Marxism.md` ✓ polished & verified** (all Scripture ESV ✓; David Brooks sourced ✓; Hitler "half Jewish" removed ✓; Deut 10:17 corrected to ESV ✓; Dhund geography corrected ✓; sermon-map + theological-map updated ✓) |
+| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ~~Raw in memory2.md~~ → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` ✓ — Scripture refs corrected March 2026; ⚠️ JFB quote unverified |
 | 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | ~~Partially extracted~~ → `Other-Sermons/Sermons/Eph 3 - The Covenants.md` ✓ (complete Integrity Log present, 6 Scripture corrections + 3 factual notes applied) |
 | 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Col 2 - thanksigiving.md` ✓ |
 | 6 | Prayer | Colossians 4:2-4 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/col 4 - prayer.md` (full version) + `Other-Sermons/Sermons/prayer col 4.md` (prayer service version) ✓ |
 | 7 | Church Membership / Body of Christ | 1 Corinthians 12:12-27 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Commitment to the church body 1 cor 12.md` ✓ |
-| 8 | Sowing and Reaping | Galatians 6:7-10 | ~~No file found~~ → `Other-Sermons/Sermons/Galatians 6 - Sowing and Reaping.md` ✓ (condensed outline; Svea Flood story documented; 4 quotes flagged as unverified) |
+| 8 | Sowing and Reaping | Galatians 6:7-10 | ~~Raw in memory2.md~~ → `Galatians 6 - Sowing and Reaping (raw draft).md` ✓ — Flood story corrected March 2026; Toplady ✓, Spurgeon ✓, Luther ✓ verified March 2026; Lawson wording confirmed, no primary source located; Sindhi Samas verified (Joshua Project — ~1.63M, Frontier/Unengaged); Titanic illustration researched — current version embellished/unattributed (real Peuchen kernel exists but woman/casino details are not historical) |
 | 9 | Angels, Demons, Etcetera | Ephesians 1:3-14 | ~~Raw in memory2.md~~ → ✓ `Other-Sermons/Sermons/Eph 1 - Angels Demons Etcetera.md` is authoritative (all corrections applied, Integrity Log, Series label added). `Ephesians 1 - Angels Demons Etcetera.md` deprecated with header pointing to authoritative version. |
 
 **Note**: Several of these (2 Tim 2:3-7, 2 Tim 3:14+, Titus 3:1-7, Gal 3:23+, 2 Tim 2:14-26, Matt 5:13-16) have been processed per sermon-queue.md — they exist in Other-Sermons but also remain as raw text in memory2.md. The 9 listed above are the ones still needing standalone file extraction.
@@ -246,16 +246,16 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 
 | File | Key Flags |
 |------|-----------|
-| `Proverbs 13 (raw draft).md` | Multiple verification flags on quotes and statistics |
-| `Psalm 2 (raw draft).md` | 11 flags requiring verification: Heb 13:3 may be KJV not ESV; Edwards quote may have transcription error; "Lord" vs "LORD" in Psalm 2 quotes flagged; IDOP date and "53 countries" flagged as needing verification |
-| `Psalm 8 - Hebrews 2 (raw draft).md` | 4 flags: needs ESV conversion, quote verification |
-| `Psalm 119 161-168 (raw draft).md` | 10 flags: multiple quotes and cross-references unverified |
-| `Psalm 68 Part 2 (raw draft).md` | 7 flags requiring verification: Prov 27:17 may be NIV not ESV; 1 Kgs 18 "Lord" vs "LORD" flagged; prophet count (~1,000 in draft vs. 850 in 1 Kings 18:19) flagged for verification |
-| `1 Thess 5 - Rejoice Always (raw draft).md` | 7 flags requiring verification: Spurgeon quote source unverified; "3 million French" figure flagged as possibly overstated; "Communists defeated" claim flagged as needing historical verification |
-| `Philippians 4 (raw draft).md` | 16 flags: extensive verification needed |
-| `Romans 1 - Psalm 22 (Prophecy raw draft).md` | 8 flags requiring verification: Adrian Rogers "108 OT refs" claim flagged as unverified; R.A. Torrey "300 OT refs" claim flagged as unverified |
-| `Romans 7.md` | 4 flags: Jn 14:16 reference error (should be 15:16); MacArthur quote unverified |
-| `Romans 3 - antinomianism draft.md` | 3 flags |
+| `Proverbs 13 (raw draft).md` | ~~Multiple flags~~ — **All resolved** ✓. Paul Washer story verified ✓; "700%" removed → "small fraction" ✓; Edwin Starr / Lockheed Martin story CUT (confirmed false) ✓; screen time corrected to 5–9 hrs (Common Sense Media) ✓; "3 hrs Puritan scripture" reframed ✓; Newton ref corrected ✓; "spare the rod" paraphrase flagged in body with real ESV verse ✓. ⬜ Pew Bible page number — fill before Sunday (pastor's task) |
+| `Psalm 2 (raw draft).md` | ~~11 flags~~ — **All resolved** ✓ (Heb 13:3 ESV, Edwards Q2 fixed, LORD/Lord corrected incl. v.4 Adonai, IDOP first Sunday, 7 duplicate lines removed); ⚠️ "53 countries" and "Russia in Revelation" remain as noted interpretive/dated-data flags |
+| `Psalm 8 - Hebrews 2 (raw draft).md` | ~~4 flags~~ — **Duplicates resolved** ✓ (4 partial lines removed); ESV corrections applied ✓; J.C. Ryle verified ✓; "How He Loves" / McMillan corrected ✓; Caño Cristales corrected ✓. ⚠️ David Platt cab driver story unverified (no indexed source); ⚠️ Edwards "just the sin" quote not in Yale critical edition (possibly misattributed); ⚠️ MacArthur "serve righteousness as slaves" — paraphrase of Rom 6:18-19, not confirmed direct quote — all three flagged inline in draft |
+| `Psalm 119 161-168 (raw draft).md` | ~~10 flags~~ — **8 resolved** ✓ (Fenn corrections, US population, Brother Andrew prayer/Romania verified); ⚠️ Florida "more than rest of country combined" (opiates/Xanax) — directionally accurate for pill-mill era, exact phrase unverified; update with sourced stats before reprising |
+| `Psalm 68 Part 2 (raw draft).md` | ~~7 flags~~ — **All resolved** ✓ (Prov 27:17 ESV, 1 Kgs 18 LORD, prophet count 850, Elijah timeline, duplicate line removed) |
+| `1 Thess 5 - Rejoice Always (raw draft).md` | ~~7 flags~~ — **All resolved** ✓ (Spurgeon verified Sermon #2483, "3 million" → ~1.3M, "Communists defeated" corrected, duplicate line removed) |
+| `Philippians 4 (raw draft).md` | ~~16 flags~~ — **11 resolved** ✓ (CT Studd wording corrected, Spurgeon verified #1178, semnos confirmed, prosphilēs NT hapax confirmed, LXX Ps 84 claim corrected to ἀγαπητά, Samuel Sey description corrected). ⚠️ Samuel Sey quote unverified; ⚠️ Richard Baxter full passage unverified (closing sentence confirmed — Practical Works II:884-885); ⚠️ Mo-Jer-Hai not in indexed sources; ⬜ pew Bible page number |
+| `Romans 1 - Psalm 22 (Prophecy raw draft).md` | ~~8 flags~~ — **All resolved** ✓ (Rogers "108" verified Sermon #2299 LWF; Torrey "300" corrected — actual lists 61-79; "68%" corrected to 65% with Joyner/Morningstar attribution; prophecy table Ps 22:17 → Ps 34:20 for bones-not-broken; Deut 18:20-22 and Rom 10:9 ESV previously corrected). ⚠️ Remaining Psalm 22 fulfillment citations: verify line-by-line against ESV before printing. |
+| `Romans 7.md` | ~~4 flags~~ — **2 resolved** ✓ (Jn 15:16 corrected, Phil 2:8 ESV, Lk 22:42 restored); ⚠️ Tesla story disputed; ⚠️ "3 in 5 dieters" unverified |
+| `Romans 3 - antinomianism draft.md` | ~~3 flags~~ — **2 resolved** ✓; ⚠️ John Brown quote remains in Pending Verification (archive.org 403, no indexed text — cannot verify without physical copy) |
 
 ---
 

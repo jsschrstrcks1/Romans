@@ -55,7 +55,7 @@
 |------|----------|--------|-------|
 | **Psalms** | 51 Psalm entries in sermon-map.md | **Good** | Strong. Gaps exist in lament psalms (42–43, 88), royal psalms (2 — only raw draft; 45, 72, 110), and wisdom psalms (37, 49, 73). Psalm 22 (passion psalm) appears as a raw draft (Romans 1:1-2 companion) and a structural reference in one archive sermon — but has never been the primary preaching text of a standalone message. |
 | **Proverbs** | Prov 13 only (one raw draft) | **Thin/Missing** | Vast wisdom corpus untouched. No sermon on Prov 1–9 (Lady Wisdom), Prov 3:5-6 (trust in the Lord — cited constantly but never the primary text), Prov 31. The relational and practical ethics of Proverbs is a missing voice in this corpus. |
-| **Ecclesiastes** | Eccl 3 (memorial service only) | **Thin** | The book on meaning, futility, and fear of God preached only once — and that for a funeral. No engagement with Eccl 1–2 (vanity), Eccl 5 (words before God), Eccl 12 (remember your Creator). High relevance to the congregation's secular neighbors. |
+| **Ecclesiastes** | Eccl 2:14-26; Eccl 3 (memorial) | **Thin — growing** | Eccl 2:14-26 now preached ("What Matters?" — *hebel*, CT Studd, 2,500 meaningful days, what lasts). Eccl 3 remains only as a memorial service. Still unpreached: Eccl 1 (opening vanity of vanities), Eccl 5 (words before God), Eccl 12 (remember your Creator). The fear-of-God frame of the book has not been preached as a standalone theme. High relevance to the congregation's secular neighbors. |
 | **Song of Solomon** | None found | **MISSING** | The entire book is absent. No treatment of marital love, human sexuality under God's design, or the bride-and-groom Christ typology. Given the congregation's broken-marriage burden, this absence is notable. |
 
 ---
@@ -755,7 +755,7 @@ The corpus teaches God's forgiveness extensively. The mechanics of one human for
 | Sanctity of Life (abortion) | ★★ | `Psalms 139 (abortion).md` — explicit and direct |
 | Political Neutrality of the Pulpit | ★★ | Romans 12 weep; Romans 13; "Jesus wasn't a Republican or Democrat" |
 | Submission to Governing Authority | ★★ | Romans 13 ("Submission Before Sunrise") — primary; Nero context applied |
-| Racial Reconciliation | ★★ | "Weep With Those Who Weep" (July 2016 Dallas shootings); Romans 16 multi-ethnic names; kinism condemned in strongest terms |
+| Racial Reconciliation | ★★ | "Weep With Those Who Weep" (July 2016 Dallas shootings); Romans 16 multi-ethnic names; kinism condemned in strongest terms; `Sermon - Cultural Marxism.md` — direct treatment of CRT, intersectionality, and cultural Marxism as errors; Rom 10:12-13, Gal 3:26-29, Col 3:11, Acts 10:34-35, Deut 10:17 all deployed; epistemology grounded in Scripture over experience |
 | Sexual Purity | ★★ | `1 Thess 3 "The List I Burned"` — covers lust and purity directly |
 | Care for the Poor / Justice | ★★ | Nehemiah 5 ("The Watching World"); Romans 12 hospitality |
 | Abuse and Marriage | ★ | Romans 12 pt 3 provides a pastoral disclaimer — but the theology of marriage, abuse, and love has never been a primary preaching subject |
