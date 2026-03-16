@@ -5,7 +5,11 @@
 ---
 
 **Primary Text**: Galatians 6:7-10
-**People Group**: Sindhi Samas of Pakistan — storied past, ancestors used to be in charge, worship of dead ancestors fused with Islam, difficult place to reach. Need medical doctors and gospel.
+
+> 7 Do not be deceived: God is not mocked, for whatever one sows, that will he also reap. 8 For the one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life. 9 And let us not grow weary of doing good, for in due season we will reap, if we do not give up. 10 So then, as we have opportunity, let us do good to everyone, and especially to those who are of the household of faith.
+> — Galatians 6:7–10 (ESV)
+
+**People Group**: Sindhi Samas of Pakistan — storied past, ancestors used to be in charge, worship of dead ancestors fused with Islam, difficult place to reach. Need medical doctors and gospel. ⚠️ *Verify current statistics against Joshua Project/IMB before repreaching.*
 
 ---
 
@@ -38,10 +42,10 @@
 - "For someone whose life is centered around Christ, death is a promotion"
 
 ### Free Will Quotes
-- Toplady: "A man's free will cannot on its own even cure a toothache... yet madly thinks it is in his power to cure his soul" *(See flags — verify exact wording.)*
-- Spurgeon: "Free will has sent many men to hell, but never a man to heaven" *(See flags — verify exact wording.)*
+- Toplady: "A man's free will cannot on its own even cure a toothache... yet madly thinks it is in his power to cure his soul" ⚠️ *[Unverified — verify exact wording against published source.]*
+- Spurgeon: "Free will has sent many men to hell, but never a man to heaven" ⚠️ *[Unverified — verify exact wording against published source.]*
 - Martin Luther: "We are compelled to serve the kingdom of satan until we be liberated" by God *(See flags — verify exact wording and source.)*
-- Steven Lawson: "If you follow Christ you've given up dirt for diamonds" *(See flags — verify exact wording.)*
+- Steven Lawson: "If you follow Christ you've given up dirt for diamonds" ⚠️ *[Unverified — verify exact wording against published source.]*
 
 ---
 
