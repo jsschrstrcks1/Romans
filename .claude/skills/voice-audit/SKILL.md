@@ -34,7 +34,8 @@ Run this scan against any draft that has been written or edited with AI assistan
 - [ ] Hedging stacks: "It's important to note that," "One might argue," "It's worth considering," "It seems like," "Perhaps"
 - [ ] Adverb inflation: "truly remarkable," "deeply profound," "incredibly powerful"
 - [ ] Thesaurus syndrome: three words where one would do
-- [ ] AI-overrepresented vocabulary: *robust, comprehensive, landscape, realm, leveraging, framework, holistic, narrative, nuanced, multifaceted, foster, delve, tapestry, pivotal, navigate, unpack, resonate*
+- [ ] AI-overrepresented vocabulary: *robust, comprehensive, landscape, realm, leveraging, framework, holistic, narrative, multifaceted, foster, delve, tapestry, pivotal, navigate, unpack, resonate*
+  - **Do not flag**: *nuanced*, *omniscience* — confirmed author vocabulary (seminary-trained; verified March 2026)
 - [ ] Vague moral swaps: "brokenness" for sin, "issues" for wrath, "challenges" for idolatry, "struggles" for repentance, "disconnect" for judgment, "fresh start" for justification, "realign" for repent
 
 ### Rhythm tells

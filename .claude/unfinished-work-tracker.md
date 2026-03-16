@@ -205,15 +205,15 @@ The repository has been developed across 21 distinct Claude Code thread families
 
 | # | Sermon | Primary Text | Status |
 |---|--------|-------------|--------|
-| 1 | Paul's Final Letter | 2 Timothy 1:1-2 | ✓ Extracted → `Other-Sermons/Sermons/2 Tim 1 - Pauls Final Letter.md` |
-| 2 | Cultural Marxism / CRT | Romans 10:12-13 | ✓ Extracted → `Cultural Marxism - CRT - Romans 10 (raw draft).md` |
-| 3 | Bless the Lord / Hesed Love | Psalm 103 | ✓ Extracted → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` |
-| 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | ✓ Extracted → `Eph 3 - The Covenants.md` (Other-Sermons) |
-| 5 | Quilted Together in Love | Colossians 2:1-8 | ✓ Extracted → `Colossians 2 - Quilted Together in Love (raw draft).md` |
-| 6 | Prayer | Colossians 4:2-4 | ✓ Extracted → `Colossians 4 - Prayer (raw draft).md` |
-| 7 | Church Membership / Body of Christ | 1 Corinthians 12:12-27 | ✓ Extracted → `1 Corinthians 12 - Church Membership (raw draft).md` |
-| 8 | Sowing and Reaping | Galatians 6:7-10 | ✓ Extracted → `Galatians 6 - Sowing and Reaping (raw draft).md` |
-| 9 | Angels, Demons, Etcetera | Ephesians 1:3-14 | ✓ Extracted → `Ephesians 1 - Angels Demons Etcetera (raw draft).md` |
+| 1 | Paul's Final Letter | 2 Timothy 1:1-2 | ✓ → `Other-Sermons/Sermons/2 Tim 1 - Pauls Final Letter.md` |
+| 2 | Cultural Marxism / CRT | Romans 10:12-13 | ✓ → `Other-Sermons/Sermons/Cultural Marxism.md` |
+| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ✓ → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` |
+| 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | ✓ → `Other-Sermons/Sermons/Eph 3 - The Covenants.md` (Integrity Log present; 6 Scripture corrections + 3 factual notes applied) |
+| 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | ✓ → `Other-Sermons/Sermons/Col 2 - thanksigiving.md` |
+| 6 | Prayer | Colossians 4:2-4 | ✓ → `Other-Sermons/Sermons/col 4 - prayer.md` (full) + `Other-Sermons/Sermons/prayer col 4.md` (prayer service version) |
+| 7 | Church Membership / Body of Christ | 1 Corinthians 12:12-27 | ✓ → `Other-Sermons/Sermons/Commitment to the church body 1 cor 12.md` |
+| 8 | Sowing and Reaping | Galatians 6:7-10 | ✓ → `Other-Sermons/Sermons/Galatians 6 - Sowing and Reaping.md` (condensed outline; Svea Flood story documented; 4 quotes flagged unverified) |
+| 9 | Angels, Demons, Etcetera | Ephesians 1:3-14 | ✓ → `Other-Sermons/Sermons/Eph 1 - Angels Demons Etcetera.md` is authoritative (corrections applied, Integrity Log). `Ephesians 1 - Angels Demons Etcetera.md` deprecated. |
 
 **All memory2.md extractions are complete.** All 9 files confirmed present on disk (March 2026). The extracted files are raw drafts — quote attribution, Scripture translation accuracy, and factual claims have not yet been verified in these files. That verification work remains for a future session.
 
