@@ -127,6 +127,15 @@ Not mere prescience. Covenantal election-love. **Explicit. Tradition: Augustinia
 
 Suffering is not punishment for the believer. It is training. **Explicit. Tradition: Reformed, Puritan.**
 
+> "My grace is sufficient for you, for my power is made perfect in weakness."
+> — 2 Corinthians 12:9, ESV (cited in `Sermon - A Theology of Weakness.md`)
+
+Weakness is the workshop where God does his refining work — not incidental but purposeful. J.I. Packer's *Weakness Is the Way* introduced as frame. Buckwheat milling illustration: grain useless in its natural state; only through crushing between millstones does it become flour — useful. Applied to the believer: we are hard little rocks until God's refining process transforms us into something that can nourish and bless. **Explicit. Tradition: Reformed, Packer.**
+
+#### Idolatry of Happiness — The American Idol
+The Declaration of Independence's "pursuit of happiness" is identified as a paradigm lens through which Americans — including American Christians — unconsciously filter reality. When happiness becomes the center of worship, self is elevated above God (*ὑπεραίρωμαι*, inflated sense of one's own importance — 2 Cor 12:7). Social/political debates on same-sex marriage, abortion, and government entitlements are all analyzed as downstream effects of happiness-worship. Brokenness and suffering are God's appointed "medicine" for this idol — not as cruelty, but as parental love that will not let idolatry fester. **Explicit. Tradition: Conservative Reformed Evangelical.**
+> — `Sermon - A Theology of Weakness.md`
+
 ---
 
 ### 2. Christology (Doctrine of Christ)

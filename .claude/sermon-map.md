@@ -559,7 +559,8 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | 2 Corinthians 5:6-8 | Detecting counterfeit claims about heaven | `Catching Counterfeits.md` | sermon |
 | 2 Corinthians 5:16-6:3 | New creation and genuine conversion | `2 cor 5.md` | sermon |
 | 2 Corinthians 5:16-6:3 | Pig and garbage story (Spurgeon/Washer); MasterChef Tilly Burger opening; new creation as transformation of appetites; ambassadors for Christ; genuine vs. counterfeit conversion | `Sermon - Sheep on the Outside.md` | sermon |
-| 2 Corinthians 12:7-10 | Theology of weakness and brokenness | `2 cor 12.md` | sermon |
+| 2 Corinthians 12:7-10 | Theology of weakness and brokenness *(raw transcript — all flags resolved in repaired draft)* | `2 cor 12.md` (Other-Sermons — raw transcript) | sermon |
+| 2 Corinthians 12:7-10 | **Christmas sermon** — "A Theology of Weakness." J.I. Packer *Weakness Is the Way: Life with Christ Our Strength* (2013, Crossway) introduced — Packer's defeat in the Anglican Church of Canada controversy over biblical authority/same-sex blessings; church joined the Anglican Province of the Southern Cone (⚠️ raw transcript says "Anglican church of Argentina" — corrected; ⚠️ "five year battle" approximate — likely 2002–2008, ~6 yrs); American idol of happiness: Declaration of Independence / pursuit of happiness as paradigm lens; comfort/security/happiness as substitute worship — applied to same-sex marriage argument, abortion argument, healthcare and border-wall political debates; medicine illustration (brokenness as the treatment when happiness is the idol); 2 Cor 12:7–10 ESV ✓ (block quote added in repaired draft); Greek word for "conceited" (*ὑπεραίρωμαι*, Louw & Nida: "inflated with a sense of one's own importance") ✓; "thorn in the flesh" — raw transcript said "thorn in his side" ⚠️ corrected; Trinity Bible College failing-two-classes thorn illustration (15 credit hours + third-year Greek, 45 hrs/week homework, Eimi paradigm, failing Greek and counseling); ashes as symbol of mourning ✓; Isaiah 61:3 beauty for ashes (citation added ✓); buckwheat milling illustration (grandma's pancakes — two millstones shatter grain into flour — picture of how suffering transforms hard hearts into useful servants); 2 Cor 12:9 ESV ✓; Christmas connection: weakness caused the fall, weakness made law-keeping impossible, God sent Christ because of our weakness; 500 witnesses (1 Cor 15:6 citation added ✓); John 15:13 ESV corrected from KJV phrasing ✓; gospel close | `Sermon - A Theology of Weakness.md` (root — repaired draft) | sermon |
 
 ### Galatians
 
@@ -858,7 +859,8 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Catholicism.md` — Romans 3-5; Eph 2:8-9 — Catholic vs Protestant justification
 
 ### Brokenness / Weakness / Suffering
-- `2 cor 12.md` — 2 Corinthians 12:7-10 — Theology of weakness
+- `2 cor 12.md` — 2 Corinthians 12:7-10 — Theology of weakness (raw transcript)
+- `Sermon - A Theology of Weakness.md` — 2 Corinthians 12:7-10 — Theology of weakness (repaired draft); J.I. Packer; American idol of happiness; buckwheat milling illustration; beauty for ashes (Isaiah 61:3); Christmas connection
 - `IS 43 anti-prosperity gospel.md` — Isaiah 43 — Against prosperity gospel; suffering
 - `1 peter 4.md` — 1 Peter 4:1-11 — Arming with Christ's attitude in suffering
 - `1 peter 1 pt3.md` — 1 Peter 1:3-8 — Trials are not always punishment
@@ -1036,6 +1038,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `thanksgiving 2018.md` — Eph 5:4; Gen 22 — Smashing idols
 - `Sermon - Choose This Day.md` — 1 Kings 18:33-41 — Baal worship; adding gods to the collection; modern idols of comfort and money; God strikes at idols (sermon lines 46-88)
 - `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — Every political ideology (elephant or donkey) put ahead of God leads to the same Godless place (sermon line 55)
+- `Sermon - A Theology of Weakness.md` — 2 Corinthians 12:7-10 — The American idol of happiness; Declaration of Independence as paradigm lens; comfort/security/happiness as false worship; brokenness as God's appointed medicine when happiness is the idol
 
 ### Identity in Christ / Exile
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Team name "elect exiles"; wearing the jersey = living consistent with identity; refusing the jersey = refusing to identify with Christ; North Korea analogy for exile; citizenship in heaven (lines 11-19, 64-68)
