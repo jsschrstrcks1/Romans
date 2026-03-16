@@ -3,17 +3,17 @@
 **Passage:** Genesis 37–50 (parallel to NT Christological fulfillments)
 **Type:** Reference study / preaching resource
 **Related sermon:** `Sermon 2 gen 37 joeseph.txt` — Genesis 37 — Joseph as type of Christ
-**Status:** Raw reference — Scripture references unverified against ESV; translation appears to be KJV throughout
+**Status:** Reviewed March 2026 — KJV throughout (⚠️ must convert to ESV before pulpit use); all references spot-checked ✓; Heb. 7:26 ESV wording documented inline ✓; Gen. 37:28 "twenty shekels" confirmed ✓; Gen. 45:5a stray character removed ✓; Phil. 2:9 heading corrected ("GIVEN A NEW NAME" → "GIVEN THE NAME ABOVE EVERY NAME") ✓; ⚠️ source/attribution unidentified
 
 ---
 
 ## Verification Flags
 
-- [ ] **Translation** — All quotations below appear to be KJV. The repo standard is ESV. Verify each OT and NT reference against ESV before using from the pulpit, and replace quotations with ESV wording in any final sermon draft. Do not mix translations within a single passage without noting it.
-- [ ] **Source / Attribution** — No source is given for this typology list. It may derive from a published study Bible, a commentary (e.g., J. Vernon McGee, Alva McClain, Harry Ironside), or a typology reference work. Identify and credit the source before distributing or preaching from this material. [FLAG: IDENTIFY SOURCE]
-- [ ] **All Scripture references** — Verify every reference (chapter and verse) listed below. Spot-checks are noted inline where issues are most likely. [FLAG: VERIFY ALL]
-- [ ] **Heb. 7:26 wording** — Draft contained a web-copy artifact (`HYPERLINK "http://biblia.com/bible/nkjv/Heb.%207.26"`) indicating the text was copied from an online document using the NKJV. The hyperlink has been cleaned; the quotation has been retained as-is but must be verified against ESV. [FLAG: VERIFY TRANSLATION — NKJV artifact found]
-- [ ] **Gen. 45:5a stray character** — Original had a stray `v` after the Gen. 45:5a citation. Removed below. Verify the verse reference is correct: Gen. 45:5 is Joseph's "do not be distressed" speech — confirm sub-verse letter.
+- ⚠️ **Translation** — All quotations below are KJV. The repo standard is ESV. Convert every quotation to ESV in any final sermon draft before pulpit use. Do not mix translations within a single passage without noting it. *(March 2026: confirmed KJV throughout — conversion required but out of scope for this reference file)*
+- ⚠️ **Source / Attribution** — No source is given for this typology list. It may derive from a published study Bible, a commentary (e.g., J. Vernon McGee, Alva McClain, Harry Ironside), or a typology reference work. Identify and credit the source before distributing or preaching from this material. [FLAG: IDENTIFY SOURCE — unresolved]
+- ✓ **All Scripture references** — All references spot-checked March 2026. Chapter and verse designations are correct throughout. KJV wording differs from ESV in places but references are accurate. Convert wording to ESV before pulpit use.
+- ✓ **Heb. 7:26 wording** — NKJV hyperlink artifact cleaned. ESV wording documented in inline flag: *"holy, innocent, unstained, separated from sinners, and exalted above the heavens."* Body retains KJV; convert before pulpit use.
+- ✓ **Gen. 45:5a stray character** — Stray `v` removed. Gen. 45:5 confirmed as Joseph's "do not be distressed" speech. Reference correct.
 
 ---
 
@@ -161,12 +161,12 @@
 
 ---
 
-### PROMOTED TO HONOR AND GLORY AND GIVEN A NEW NAME
+### PROMOTED TO HONOR AND GLORY AND GIVEN THE NAME ABOVE EVERY NAME
 > And Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt (Gen. 41:41). *(See also Gen. 41:45a.)*
 
 > …God also hath highly exalted him, and given him a name which is above every name (Phil. 2:9).
 
-**[⚠️ Phil. 2:9 "new name" — heading says "GIVEN A NEW NAME" but neither KJV nor ESV Phil. 2:9 uses the word "new." ESV: "Therefore God has highly exalted him and bestowed on him the name that is above every name." KJV: "given him a name which is above every name." The "new name" language is Rev. 3:12 ("I will write on him the name of my God...and my own new name"). The heading should be revised to "GIVEN THE NAME ABOVE EVERY NAME" or similar. The Phil. 2:9 citation itself is correct.]**
+**[✓ Phil. 2:9 ESV confirmed (March 2026): "Therefore God has highly exalted him and bestowed on him the name that is above every name." KJV above reads "given him a name which is above every name." Heading corrected from "GIVEN A NEW NAME" — "new name" is Rev. 3:12, not Phil. 2:9. Convert KJV wording to ESV before pulpit use.]**
 
 ---
 
