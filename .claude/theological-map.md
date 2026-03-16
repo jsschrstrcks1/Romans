@@ -1007,6 +1007,8 @@ CT Studd used as the paradigm case: elite cricketer, Cambridge graduate, gave aw
 | **Christian nationalism** | "The state is not your savior. The church is not the state." | `claude.md` | Explicitly rejected |
 | **Fear-driven quietism** | Protected from by the 1689 framework | `claude.md` | Explicitly rejected |
 | **Kinism / Racism** | "Kinism is not a secondary issue. It is not a matter of conscience. It is an abomination." | `Romans 14c.md` | Explicitly rejected in strongest terms |
+| **Critical Race Theory / Intersectionality** | "If you are comfortable, they seem to argue, you are comfortable because you took advantage of people to get to that point... This is nonsense." Experience-as-arbiter-of-truth rejected: "Under this worldview, experience is the arbiter of truth — especially the experience of those who have been the victims of white privilege... this is similar to the error many Catholics make when they elevate the words of the Pope or tradition above Scripture." | `Sermon - Cultural Marxism.md` | Explicitly rejected; CRT epistemology placed in the same category as papal/tradition supremacy over Scripture |
+| **Cultural Marxism (identity-based suppression)** | "Suppressing anyone or anything simply because it was thought of, painted by, or written by a person of a different group than you is racism. Full stop." Applies equally to the left and to the alt-right. | `Sermon - Cultural Marxism.md` | Explicitly rejected; race-based suppression named as racism regardless of political direction |
 | **Sentimental Christianity** | "Biblical love is not morally neutral. It does not bless what destroys people." | `romans 12 pt 3.md` | Explicitly rejected |
 | **Idolatry (broadly)** | "If football is more important than hearing the word of God... football is your idol." | `mark 10.md` | Explicitly rejected |
 | **Idolatry — Egypt/America parallel** | Egypt had 2,000+ deities, starting from animism and morphing into anthropomorphism. America has politics, comfort, rights, and presidents. Psalm 115:4–8: idols cannot speak, see, or hear — and those who make them become like them. A.W. Tozer (*The Knowledge of the Holy*, ch. 1): "What comes into our minds when we think about God is the most important thing about us." The idols we choose to worship reveal who we are. | `Other-Sermons/Sermons/Exodus 2.md` | Explicitly rejected |
@@ -1046,7 +1048,7 @@ CT Studd used as the paradigm case: elite cricketer, Cambridge graduate, gave aw
 | Political neutrality | Political-pundit pastors; theocracy |
 | Love with moral backbone | Sentimental redefinition of love |
 | Suffering as refining | Prosperity gospel; health-and-wealth theology |
-| Welcome across ethnic lines | Kinism; racial segregation |
+| Welcome across ethnic lines; "in Christ no distinction between Jew and Greek" | Kinism; racial segregation; race-based identity politics (CRT/intersectionality); cultural Marxism |
 | Liberty of conscience | Legalistic binding on secondary issues |
 
 ---

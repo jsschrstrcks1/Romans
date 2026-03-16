@@ -206,7 +206,7 @@ These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT b
 | # | Sermon | Primary Text | Status |
 |---|--------|-------------|--------|
 | 1 | Paul's Final Letter | 2 Timothy 1:1-2 | ~~Extracted~~ → `2 Timothy 1 1-2 - Paul's Final Letter (raw draft).md` ✓ |
-| 2 | Cultural Marxism / CRT | Romans 10:12-13 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Cultural Marxism.md` ✓ |
+| 2 | Cultural Marxism / CRT | Romans 10:12-13 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Cultural Marxism.md` → `Cultural Marxism - CRT - Romans 10 (raw draft).md` → **`Sermon - Cultural Marxism.md` ✓ polished & verified** (all Scripture ESV ✓; David Brooks sourced ✓; Hitler "half Jewish" removed ✓; Deut 10:17 corrected to ESV ✓; Dhund geography corrected ✓; sermon-map + theological-map updated ✓) |
 | 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ~~Raw in memory2.md~~ → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` ✓ — Scripture refs corrected March 2026; ⚠️ JFB quote unverified |
 | 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | ~~Partially extracted~~ → `Other-Sermons/Sermons/Eph 3 - The Covenants.md` ✓ (complete Integrity Log present, 6 Scripture corrections + 3 factual notes applied) |
 | 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Col 2 - thanksigiving.md` ✓ |

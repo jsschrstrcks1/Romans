@@ -755,7 +755,7 @@ The corpus teaches God's forgiveness extensively. The mechanics of one human for
 | Sanctity of Life (abortion) | ★★ | `Psalms 139 (abortion).md` — explicit and direct |
 | Political Neutrality of the Pulpit | ★★ | Romans 12 weep; Romans 13; "Jesus wasn't a Republican or Democrat" |
 | Submission to Governing Authority | ★★ | Romans 13 ("Submission Before Sunrise") — primary; Nero context applied |
-| Racial Reconciliation | ★★ | "Weep With Those Who Weep" (July 2016 Dallas shootings); Romans 16 multi-ethnic names; kinism condemned in strongest terms |
+| Racial Reconciliation | ★★ | "Weep With Those Who Weep" (July 2016 Dallas shootings); Romans 16 multi-ethnic names; kinism condemned in strongest terms; `Sermon - Cultural Marxism.md` — direct treatment of CRT, intersectionality, and cultural Marxism as errors; Rom 10:12-13, Gal 3:26-29, Col 3:11, Acts 10:34-35, Deut 10:17 all deployed; epistemology grounded in Scripture over experience |
 | Sexual Purity | ★★ | `1 Thess 3 "The List I Burned"` — covers lust and purity directly |
 | Care for the Poor / Justice | ★★ | Nehemiah 5 ("The Watching World"); Romans 12 hospitality |
 | Abuse and Marriage | ★ | Romans 12 pt 3 provides a pastoral disclaimer — but the theology of marriage, abuse, and love has never been a primary preaching subject |
