@@ -45,3 +45,9 @@ You loathsome, accursed, atrocious monster.
 
 You are a wolf and apostle of Satan.
 You have surrendered yourself and dared to become an avowed enemy of God, wanting to race rather than trot to hell.
+
+---
+
+## Verification Flags (added March 2026)
+
+**⚠️ Luther insult quotes — verify authenticity before citing** — The four insult lines closing this file ("You condemned the holy gospel…", "You loathsome, accursed, atrocious monster.", "You are a wolf and apostle of Satan.", "You have surrendered yourself and dared to become an avowed enemy of God, wanting to race rather than trot to hell.") are referenced earlier in the sermon in connection with Martin Luther insult generators. These may be genuine Luther invective (Luther's correspondence and polemical works are full of colorful insults) or they may be modern parody text from online generators. Do not attribute these to Luther in print or preaching without tracing them to a specific letter, treatise, or verified primary source.

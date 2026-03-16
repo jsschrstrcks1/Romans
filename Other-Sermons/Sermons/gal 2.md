@@ -46,3 +46,13 @@ Maybe you became a Christian a long time ago but wandered away from God, fightin
 Today is the day to get right with God. 
 
 Gospel.
+
+---
+
+## Verification Flags (added March 2026)
+
+**⚠️ Romans 3:3 citation error** — Line 23: "Paul says in Romans 3 vs 3 'our unrighteousness serves to show the righteousness of God'" — The quoted content is Romans 3:5 ESV ("But if our unrighteousness serves to show the righteousness of God, what shall we say?"), not 3:3. Romans 3:3 reads: "What if some were unfaithful? Does their faithlessness nullify the faithfulness of God?" Correct the verse number before preaching or printing.
+
+**⚠️ Isaiah 64 / Romans 3:10 cross-reference error** — Line 19: "Paul quotes that passage [Isa 64] in Romans 3:10 when he says no one is righteous, no not one." Romans 3:10 quotes Psalm 14:1 / 53:1 / Ecclesiastes 7:20 ("There is no one righteous, not even one"), not Isaiah 64:6. The "filthy rags" image from Isaiah 64:6 is thematically connected but is not what Paul is quoting in Romans 3:10. Correct or decouple the cross-reference before preaching.
+
+**⚠️ Calvin quote unattributed** — Line 31: "A wise man once wrote the human heart is a factory of idols." This is John Calvin, *Institutes of the Christian Religion* 1.11.8: "man's nature, so to speak, is a perpetual factory of idols." Attribute to Calvin if used in print or preaching.
