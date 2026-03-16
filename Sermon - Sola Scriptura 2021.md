@@ -2,6 +2,7 @@
 
 **Occasion**: Evening service / Sunday school — estimated October 2021 (pastor appreciation month; "504 years ago this year" dates Luther's 1517 theses to 2021); part of the Five Solas series
 **Scripture**: 2 Timothy 3:13–17
+**Status**: Corrections noted (March 2026) — Trevor Noah attribution removed; flat earth claim corrected; DSS “2,000 years” → “1,000 years” applied; 4 Luther quotes ⚠️ unverified; see source notes
 
 ---
 
@@ -58,7 +59,7 @@ As Southern Baptists, we agree with other Southern Baptist churches that we beli
 
 > The Holy Bible was written by men divinely inspired and is God's revelation of Himself to man. It is a perfect treasure of divine instruction. It has God for its author, salvation for its end, and truth, without any mixture of error, for its matter. Therefore, all Scripture is totally true and trustworthy. It reveals the principles by which God judges us, and therefore is, and will remain to the end of the world, the true center of Christian union, and the supreme standard by which all human conduct, creeds, and religious opinions should be tried. All Scripture is a testimony to Christ, who is Himself the focus of divine revelation.
 
-In our constitution and bylaws, we have written that not only is scripture totally and completely accurate, but it is incapable of being inaccurate. So we believe that on any issue the Bible directly speaks about, it is completely and totally accurate. For instance, the Bible isn't a science textbook — but where it speaks of science, to the extent that things can be tested, it has been proved right. For instance, thousands of years before Christ, scripture speaks of the circle of the earth *(Isaiah 40:22 and similar; see source notes on the extent of this claim)*. *(The sermon states "It was man through the Catholic Church that got that twisted declaring the earth to be flat" — this is historically inaccurate; see source notes.)*
+In our constitution and bylaws, we have written that not only is scripture totally and completely accurate, but it is incapable of being inaccurate. So we believe that on any issue the Bible directly speaks about, it is completely and totally accurate. For instance, the Bible isn't a science textbook — but where it speaks of science, to the extent that things can be tested, it has been proved right. For instance, thousands of years before Christ, scripture speaks of the circle of the earth (Isaiah 40:22). **[NOTE: Original sermon added “It was man through the Catholic Church that got that twisted declaring the earth to be flat.” Removed — the medieval Church held a spherical earth; the “flat earth Middle Ages” narrative is a 19th-century myth. The broader point — Scripture’s statements about creation have proven accurate — stands.]**
 
 Let's pause there and read from God's word. 2 Timothy 3:13. *(Read aloud.)*
 
@@ -66,11 +67,11 @@ So what do we know about this passage? Let's look at it like this. Let's say tha
 
 Let's look at some of the contemporary issues of the day. There are two universal truths about all of them. First, they all come back to "I" — I want, I think, I need; ultimately, I don't want to depend on God. You've all heard me talk about that before. Second, they all come back to a misinterpretation of scripture. Think about abortion. If people had a proper view and understanding of scripture, do you think such a person would kill their own baby? Certainly not. What about homosexuality and the questions of sexuality? The party lifestyle? The roles of men and women? Evolution? All of these things come back to one's view of scripture and its sufficiency. If you have a high view of the Word of God, you're going to believe what it says, and you're not going to be getting dragged into the wrong side of these issues. A high view of the Word of God will keep us from slandering whoever becomes president. A high view of the Word of God can keep us from making a powerful man the object of our worship instead of God.
 
-*(The sermon attributes the following quote to "a man named Trevor Noah." The attribution is very likely incorrect — see source notes. Do not use until the original source is identified.)*
+**[NOTE: The original sermon attributed this quote to “a man named Trevor Noah.” That attribution is almost certainly wrong — the content is academic evangelical theology, not consistent with Trevor Noah’s known public writing. Quote retained below as source unknown. Do not use until original source is identified.]**
 
-> "When we have in evangelicalism the suggestion repeated over and over again that the Bible's not a textbook for this or that, and that one day when a textbook is written on this or that it will supersede scripture's authority on this or that — and those textbooks are being written all the time, and exceeding the authority of scripture all the time."
+> “When we have in evangelicalism the suggestion repeated over and over again that the Bible’s not a textbook for this or that, and that one day when a textbook is written on this or that it will supersede scripture’s authority on this or that — and those textbooks are being written all the time, and exceeding the authority of scripture all the time.”
 >
-> — Attributed to Trevor Noah *(attribution unverified; likely misattributed — see source notes)*
+> — *Source unknown (attribution to Trevor Noah removed)*
 
 When we have a book that, as our passage tonight says, is God-breathed — let me ask you this. If our God is all-knowing, and scripture says he is; if our God can see all of the past, all of the present, and all of the future, which scripture seems to indicate he can — then if such a God were to write a book, do you not think he would write down everything that was most important in such a way that it would be impactful for everyone across all time and across all the different issues they face in their time? God is not capricious, doesn't make mistakes, doesn't fly by the seat of his pants. If God puts it in the Bible, there is meaning in it that is relevant for us today. It is currently the highest earthly authority possible — something that God breathed out of himself and into the authors of the Old and New Testament.
 
