@@ -482,6 +482,16 @@ Our sin to Christ. His righteousness to us. **Explicit. Tradition: Reformed.**
 
 **Explicit. Tradition: Reformation (Sola Fide).**
 
+#### Faith Proved by Works — James and Paul Not in Conflict
+The apparent contradiction between James 2:21 ("Was not Abraham our father justified by works when he offered up his son Isaac on the altar?") and Romans 4:3 / Genesis 15:6 ("Abraham believed God, and it was credited to him as righteousness") is addressed directly in the Genesis 22-23 sermon.
+
+The resolution: Paul and James address different questions. Paul addresses the *grounds* of justification — faith alone, apart from works, prior to any obedience (Genesis 15 precedes Genesis 22 by decades). James addresses the *evidence* of justification — genuine faith produces works; works demonstrate that faith is real. Genesis 22 (the Akedah) is the proof of Genesis 15, not its cause. Same man. Same faith. Decades apart. Faith without works is dead — and Genesis 22 is the evidence that Abraham's faith was alive.
+
+> "The Akedah is not the cause of Abraham's justification. It is the proof of it."
+> — `Genesis 22-23 - The Testing Ground (raw draft).md`
+
+**Explicit. Tradition: Reformed (consistent with Westminster/1689 on faith and works).**
+
 #### Sanctification — Progressive, Spirit-Wrought, Necessary
 > "True salvation is not only justification; it is also sanctification. God does not save you to leave you the way you are — He saves you to make you like His Son." (MacArthur, quoted approvingly)
 > — `Romans_6b r2.md`
@@ -770,6 +780,8 @@ Apostolic authorship or connection as the criterion for canonicity. The Apocryph
 > — recurring framework across Romans, Colossians, Hebrews sermons
 
 The Genesis 4 sermon develops a detailed 14-point typology of Abel as a type of Christ — shepherd, hated without cause, violent death, offering to God, by faith, excellent offering, accepted, witnessed righteous, publicly testified — drawing from Genesis 4, Hebrews 11:4, and NT parallels. See `Gen 4 - Cain and Abel.md`.
+
+The Genesis 22-23 sermon develops the Isaac typology: only son ("your only son" Gen 22:2 / John 3:16 "his only Son"); carries his own wood (Gen 22:6, cf. cross); three-day journey (Heb 11:19 — received back "figuratively" from death); willing submission despite capacity to resist; fire = judgment, knife = execution of judgment; ram substituted (substitutionary atonement); Moriah = Temple Mount (2 Chr 3:1), same mountain ridge as Golgotha. Critically: Abraham said "lamb" (Gen 22:8) but God provided a "ram" (Gen 22:13) — the Lamb would not come for roughly 1,900 years (John 1:29). God preached the gospel beforehand to Abraham (Gal 3:8 ✓). The "seed" through whom all nations are blessed (Gen 22:18) is explicitly interpreted as Christ by Paul in Galatians 3:16 (✓). See `Genesis 22-23 - The Testing Ground (raw draft).md`.
 
 **Implicit. Tradition: Reformed.**
 
