@@ -14,8 +14,8 @@
 - ✓ Forrest Fenn / geography *(corrected March 2026)*: Body now reads "Mountain West." Prior draft said "the Midwest."
 - ✓ Brother Andrew / prayer wording *(verified March 2026)*: Corrected "in my car" → "in my luggage." Exact wording confirmed via Open Doors South Africa (opendoors.org.za/prayer-gods-smuggler-impossible-existence/), Trail Life USA (blog.traillifeusa.com/brother-andrew), and Open Doors UK (opendoorsuk.org/about/our-history/brother-andrew/) — all drawing independently from *God's Smuggler* (1967).
 - ✓ Brother Andrew / destination *(verified March 2026)*: Changed "Romania" → "Yugoslavia." Same three sources above confirm the "make seeing eyes blind" prayer was first prayed at the **Yugoslavia border (1957)** — Brother Andrew's first solo Communist-country crossing. The Romania anecdote in the book is a distinct story: Bibles placed openly on the car seat, different prayer, different outcome. The sermon conflated the two.
-- ⚠️ Florida stats / opiates: "more than rest of country combined" — verify currency and accuracy; likely from pill-mill era (~2010) — inline flag added in body
-- ⚠️ Florida stats / Xanax: same concern — inline flag added in body
+- ✓ Florida stats / opiates *(pastor-certified March 2026)*: Pastor confirms this is accurate. Primary source not documented — add CDC/DEA citation before publication or reprinting.
+- ✓ Florida stats / Xanax *(pastor-certified March 2026)*: Same — pastor confirms; primary source not documented.
 - ✓ US population *(corrected March 2026)*: Body now reads "~330 million." Prior draft said "400m."
 
 ---
