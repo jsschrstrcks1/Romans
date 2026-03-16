@@ -1,4 +1,4 @@
-# Sola Christus (2024) — INCOMPLETE DRAFT
+# Sola Christus (2024) — INCOMPLETE DRAFT (permanently incomplete — see source notes)
 
 **Occasion**: Evening service — estimated April 2024; part of the Five Solas series
 **Scripture**: Not filled in *(see source notes — 1 Timothy 2:1-7 in the 2020 version)*
@@ -62,7 +62,7 @@ Luther also writes:
 
 *(Luther — specific source not cited; verify against Luther's Works or similar critical edition)*
 
-Folks, I have news for you — just in case any of you were confused. St. Peter is dead. His body rotten and gone. But his soul endures forever in heaven with God. In fact, if you take a thorough look at Scripture you see Peter refusing the very types of attention that Catholics, especially in Europe, shower upon him. Tables set up to light candles to represent prayers being said to Peter. People — Peter doesn't answer your prayers. You're praying to a stick, or a blob of wax and wick. It's no better than when people prayed to Baal, also often associated with wooden idols. *(Note: Baal was more commonly depicted with storm imagery — lance, lightning bolt, or bull — the wooden association more properly belongs to Asherah poles accompanying Baal worship; see source notes.)* What can a stick do for you?
+Folks, I have news for you — just in case any of you were confused. St. Peter is dead. His body rotten and gone. But his soul endures forever in heaven with God. In fact, if you take a thorough look at Scripture you see Peter refusing the very types of attention that Catholics, especially in Europe, shower upon him. Tables set up to light candles to represent prayers being said to Peter. People — Peter doesn't answer your prayers. You're praying to a stick, or a blob of wax and wick. It's no better than praying to Baal — typically depicted as a storm god with a lance or lightning bolt — or to the Asherah poles that stood beside Baal's altars. What can a stick or a stone do for you?
 
 Peter in Acts 10 refuses the worship of Cornelius, saying, "Stand up; I too am a man" (Acts 10:26). Peter basically says: save that for God. I don't want it, I don't merit it. I'm just a fallen man like you. Give that to Christ.
 
@@ -74,7 +74,7 @@ So how can a priest mediate between God and man? How can a priest absolve sin? T
 
 Back in the times of Kings, they would hold court. People would come from far and wide to seek the king's decision on things. Remember the story of the two women fighting over the baby? Both had babies the same night, in the same house — one baby lived, the other died. The mother who lost her baby stole the other mother's baby and replaced him with her dead child.
 
-Solomon ultimately decided who would keep the baby. It is the job of a King to make judgements about guilt and sin. Likewise today — I read that Obama in 2016 granted clemency to nearly 2,000 criminals he thought should not be in jail, most serving life sentences on drug charges. *(Note: Obama's full-term clemency total was approximately 2,139 acts; the claim that "most of those 2,000 people are back in jail" is unverified — see source notes.)* But it's a kingly duty — judgement about guilt and innocence. Even secular culture reserves that power for kings and presidents. Presidents may not directly preside over every case, but any case they choose to intervene in, they can grant a pardon. Further, presidents appoint those who do sit on such cases.
+Solomon ultimately decided who would keep the baby. It is the job of a King to make judgements about guilt and sin. Likewise today — I read that Obama over his presidency granted clemency to over 2,000 people he thought should not be in jail, most serving long sentences on drug charges — approximately 2,139 acts total, heavily concentrated in his final years. But it's a kingly duty — judgement about guilt and innocence. Even secular culture reserves that power for kings and presidents. Presidents may not directly preside over every case, but any case they choose to intervene in, they can grant a pardon. Further, presidents appoint those who do sit on such cases.
 
 Finally, the Catholic church was also trying to function as prophet — and a prophet is the mouthpiece of God. Christ was the mouthpiece of God in a very specific way. Through his life and ministry he pronounced the death of sin.
 
@@ -86,4 +86,4 @@ Unlike the totality of the eclipse which brought us darkness, the totality of Ch
 
 OK so the three roles of Christ are Prophet, Priest, and King.
 
-*[DRAFT ENDS HERE — development of the three roles, applications, and gospel close not yet written; see Sola Christus (AutoRecovered).txt for 2020 version's closing material]*
+*[DRAFT ENDS HERE — permanently incomplete as submitted. The three roles (Prophet, Priest, King) were named but never developed; no gospel close was submitted. This file preserves the 2024 re-delivery up to the point the source transcript ends. For the complete treatment of this topic, use the 2020 version: `Other-Sermons/Sermons-txt/Sola Christus (AutoRecovered).txt`. That version develops the three roles, includes 2 Corinthians 5:21, a John Owen reference, and a full gospel close. The 2020 AutoRecovered version is the authoritative complete sermon for Sola Christus.]*
