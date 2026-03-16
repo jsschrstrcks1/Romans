@@ -29,7 +29,7 @@ In the 1689 Second London Baptist Confession, which was a significant influence 
 
 > The Holy Scriptures are the only sufficient, certain and infallible rule for saving knowledge, faith, and obedience. Although the light of nature and the works of creation and providence give such clear testimony to the goodness, wisdom and power of God that they leave people without excuse, yet they are not sufficient to give the knowledge of God and his will that is necessary for salvation. Therefore it pleased the Lord to reveal himself at various times and in different ways, and to declare his will to his church. To ensure the preservation and propagation of the truth, and to establish and support the church against human corruption, the malice of Satan, and the world, he committed his complete revelation to writing. The Holy Scriptures are therefore absolutely indispensable, for God's former ways of revealing his will to his people have now ceased.
 
-More recently there was a document signed by the leadership of every major denomination that still holds tight to Scripture, called the Chicago Statement on Biblical Inerrancy. This particular confession is Calvinistic and quite extensive, but it is in lockstep with Scripture every step of the way — every sentence is backed up and has the supporting Scriptures listed. Like our Baptist Faith and Message does. The New Hampshire and Philadelphia Confessions are basically just the 1689 Second London but re-worded.
+More recently there was a document signed by hundreds of evangelical leaders from dozens of denominations, called the Chicago Statement on Biblical Inerrancy. *(Corrected March 2026 — original transcript said "signed by the leadership of every major denomination"; approximately 300 individuals signed as individuals, not as official denominational representatives.)* This particular confession is Calvinistic and quite extensive, but it is in lockstep with Scripture every step of the way — every sentence is backed up and has the supporting Scriptures listed. Like our Baptist Faith and Message does. The Philadelphia Confession largely follows the 1689 Second London. The New Hampshire Confession is a distinct and shorter document — 18 articles rather than 32 chapters — and deliberately softened some of the Calvinistic language of the 1689. *(Corrected March 2026 — original transcript said both confessions were "basically just the 1689 re-worded"; this is true for Philadelphia but not for New Hampshire.)*
 
 ---
 
@@ -74,7 +74,7 @@ The problem today, and what I told this young person, was best summed up by Tim 
 
 > If your god never disagrees with you, you might just be worshiping an idealized version of yourself.
 
-In order for God to be God, he has to be different than us. His omnipresence gives him a view of current events we could never hope to match. The level of information and scope of view just across our world today would inform his infinite mind far better than we could ever hope to approximate. Because he is God, his nature demands he see things from a different perspective. Because he is timeless. God is past, present and future. He knows all the things that have, can and will happen. That perspective requires him to see things differently simply because we are incapable of knowing, of processing, and our limited minds would be incapable of storing that kind and amount of information. Because he is Good and Just he does what is best with that information in ways we could never hope to approximate because while we try to be good and just, our goodness is tainted by sin and is no better than filthy rags. And while we try to be just, our justice is tainted by sin and falls so far short. That's why we look around and see all these injustices — because of our own failings as people. We did that. It was our sin that caused this.
+In order for God to be God, he has to be different than us. His omnipresence gives him a view of current events we could never hope to match. The level of information and scope of view just across our world today would inform his infinite mind far better than we could ever hope to approximate. Because he is God, his nature demands he see things from a different perspective. Because he is timeless. God is past, present and future. He knows all the things that have, can and will happen. That perspective requires him to see things differently simply because we are incapable of knowing, of processing, and our limited minds would be incapable of storing that kind and amount of information. Because he is Good and Just he does what is best with that information in ways we could never hope to approximate because while we try to be good and just, our goodness is tainted by sin and is no better than what Isaiah calls a polluted garment *(Isaiah 64:6 ESV — corrected from KJV "filthy rags" March 2026)*. And while we try to be just, our justice is tainted by sin and falls so far short. That's why we look around and see all these injustices — because of our own failings as people. We did that. It was our sin that caused this.
 
 If God saw everything the same way the sinful world sees it, then what would we need God for? If God agreed with us on everything, he would not be God. He could not be God. God telling us things, and giving us commands that we disagree with and expecting us to strive towards those goals is proof that he is God. Because as Tim Keller says, anything less than that, and we're probably just worshipping ourselves.
 
@@ -123,19 +123,17 @@ or republish without resolving flagged items below.
    and many paragraphs are identical, but it makes substantive Baptist changes
    on baptism, church government, and covenant theology. More accurate:
    "modeled on" or "heavily influenced by" Westminster.
+   NOTE: This phrase does not appear in the current body text. Item may refer
+   to content not included in this draft. No body correction required.
 
-5. "NEW HAMPSHIRE AND PHILADELPHIA ARE BASICALLY JUST THE 1689 RE-WORDED"
-   True for the Philadelphia Confession (1742 — adopted the 1689 verbatim
-   with two additional chapters). Not true for the New Hampshire Confession
-   (1833) — much shorter (18 articles vs. 32 chapters), deliberately
-   softened Calvinistic language, and is a distinct document in its own right.
+✅ 5. "NEW HAMPSHIRE AND PHILADELPHIA ARE BASICALLY JUST THE 1689 RE-WORDED"
+   CORRECTED MARCH 2026 — Body now distinguishes: Philadelphia largely follows
+   the 1689; New Hampshire is a distinct, shorter document with softened
+   Calvinistic language. Inline correction note added.
 
-6. CHICAGO STATEMENT — "SIGNED BY THE LEADERSHIP OF EVERY MAJOR DENOMINATION"
-   Approximately 300 individual evangelical scholars and leaders signed
-   (Sproul, Packer, Schaeffer, Henry, MacArthur, Geisler, and others) from
-   38 denominations. They signed as individuals, not as official
-   denominational representatives. More accurate: "signed by hundreds of
-   evangelical leaders from dozens of denominations."
+✅ 6. CHICAGO STATEMENT — "SIGNED BY THE LEADERSHIP OF EVERY MAJOR DENOMINATION"
+   CORRECTED MARCH 2026 — Body now reads "signed by hundreds of evangelical
+   leaders from dozens of denominations." Inline correction note added.
 
 7. AL MOHLER QUOTE — UNVERIFIED
    The quote about "truthfulness and trustworthiness" is consistent with
