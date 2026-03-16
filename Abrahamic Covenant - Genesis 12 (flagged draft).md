@@ -8,15 +8,15 @@
 
 ## Verification Flags
 
-### Confirmed Errors — Must Correct Before Preaching
+### Confirmed Errors — Corrected in Repaired Draft *(March 2026)*
 
-- ❌ **"He only ever has two sons. One son Isaac, and another by his wife's handmaiden."** — Significantly wrong. Abraham had **eight sons** in total. Beyond Isaac (by Sarah) and Ishmael (by Hagar), Genesis 25:1–2 records that Abraham took another wife named Keturah, who bore him **six more sons**: Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. Genesis 25:5–6 notes Abraham gave all he had to Isaac but gave gifts to Keturah's sons and sent them east. If the point is theological — that only Isaac and Ishmael are the "significant" sons for the purposes of this promise — that is a defensible point, but it needs to be stated that way. As a factual claim that Abraham had only two sons, it is wrong and will be noticed by anyone who has read Genesis 25.
+- ✅ **"He only ever has two sons"** *(corrected)*: Repaired draft now reads: "He also has Ishmael by his wife's handmaiden. After Sarah's death he marries again and has more children still. But Isaac is the child of the covenant — the one God made him wait for." Abraham had eight sons total (Isaac, Ishmael, and six by Keturah: Zimran, Jokshan, Medan, Midian, Ishbak, Shuah — Gen 25:1–2). The covenant heir is Isaac; the repaired draft frames it correctly.
 
-- ❌ **"Its probably ba'al, and his consorts"** (re: Terah's idols) — The midrash does not name Ba'al. The story of Abraham smashing the idols is a real and well-known Jewish tradition — its source is **Genesis Rabbah 38:13** (attributed to Rabbi Hiyya b. Abba), with parallels in the **Book of Jubilees** and the **Apocalypse of Abraham**. In the midrash, Terah leaves Abraham in charge of his idol shop; Abraham smashes them all and places the stick in the hand of the largest idol, then tells his father the large idol did it. None of the idols are named. Ba'al is not mentioned in any version of this tradition. Simply remove the Ba'al claim and describe it as his father's household idols.
+- ✅ **"Its probably ba'al, and his consorts"** *(corrected)*: Repaired draft now reads: "We're not told precisely which idols — the tradition doesn't name them." Ba'al is not mentioned in Genesis Rabbah 38:13 or any version of this midrash. Source named in repaired draft as "a midrash recorded in Genesis Rabbah."
 
-- ❌ **"Filthy rags" attributed to Scripture (ESV context)** — The phrase "filthy rags" is from the **KJV** of Isaiah 64:6: *"all our righteousnesses are as filthy rags."* The **ESV** renders the same verse: *"all our righteous deeds are like a polluted garment."* The meaning is identical, but if this congregation uses ESV, say "polluted garment" or quote the verse explicitly. Don't mix translations silently. Either quote Isaiah 64:6 ESV accurately, or note you're using an older translation at that moment.
+- ✅ **"Filthy rags" (KJV in ESV context)** *(corrected)*: Repaired draft now uses "what Isaiah calls a polluted garment" on first reference (Isaiah 64:6 ESV: "all our righteous deeds are like a polluted garment"). One residual "filthy rags" on second reference in body — see repaired draft note.
 
-- ❌ **Romans 10:9 paraphrase — "confess with our mouth the Lord Jesus Christ"** — The ESV of Romans 10:9 reads: *"because, if you confess with your mouth that **Jesus is Lord** and believe in your heart that God raised him from the dead, you will be saved."* The confession is the declaration **"Jesus is Lord"** — three words. "The Lord Jesus Christ" is a common Pauline phrase from other letters but it is not what Romans 10:9 says. This is the key verse in the gospel invitation — get the exact wording right. *"Confess with your mouth that Jesus is Lord"* is what the text says.
+- ✅ **Romans 10:9 — "confess with our mouth the Lord Jesus Christ"** *(corrected)*: Repaired draft now reads: "confess with our mouth that Jesus is Lord, and believe in our hearts that God raised him from the dead" — exact ESV wording.
 
 ### Needs Clarification Before Preaching
 
