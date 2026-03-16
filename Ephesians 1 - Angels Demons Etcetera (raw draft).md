@@ -24,11 +24,11 @@ Ephesians 1:3-14 — Angels, Demons, Etcetera
   - Solomon's ring to bind demons, interrogating demons for their names and weakness words (Orniskelos = sore throats, flees from Raphael; Hellorath = gas, flees if you mutter "aiarhea"); ring broken when Solomon dallied with female demons
 
 ### What Scripture Actually Teaches
-- 1 John 4:4: "he who is in you is greater than he who is in the world" *(See flags — corrected from KJV to ESV.)*
+- 1 John 4:4: "he who is in you is greater than he who is in the world" *(ESV — corrected from KJV March 2026)*
 - Colossians 1:13-14: rescued from power of darkness, transferred to kingdom of beloved Son
 - Ephesians 1: sealed with Holy Spirit — believers cannot be demon-possessed
 - Angels are sentient tools in God's hands — hero is God, not angels
-- **Cargo cult analogy**: African tribe worships cargo ships instead of God who sent them — don't worship the boat
+- **Cargo cult analogy**: Pacific Island/Melanesian peoples (e.g., post-WWII John Frum movement, Vanuatu) worship cargo ships instead of God who sent them — don't worship the boat *(corrected March 2026 — notes originally said "African tribe"; cargo cults are Melanesian/Pacific Island, not African)*
 
 ### Dualism Heresy
 - Everything as galactic fight between angels and demons — fails by leaving out sovereign God
@@ -53,7 +53,7 @@ Ephesians 1:3-14 — Angels, Demons, Etcetera
 - **Ephesians 1:3-14** *(not quoted in notes)*: The primary text is referenced but not quoted in these summary notes. Consider adding the ESV text when expanding to full sermon draft.
 - **Pseudepigrapha examples** *(verified as real texts)*: The Sarah/Raphael story comes from the Book of Tobit (Apocrypha/Deuterocanon, chapters 3-8). The Solomon's ring story comes from the Testament of Solomon (Pseudepigrapha). The specific demon names "Orniskelos" and "Hellorath" are from the Testament of Solomon — spellings vary across translations; verify exact spellings against a standard edition.
 - **Chuck Hastings quote** *(unverified)*: Quote about angels on consumer products. Verify source — likely from a published sermon or book on angelology.
-- **Cargo cult analogy** *(noted)*: Described as "African tribe worships cargo ships." Cargo cults are historically associated with Melanesian/Pacific Island peoples (especially post-WWII), not African tribes. If used again, correct the geography or clarify it's being used illustratively.
+- ⚠️ **Cargo cult analogy** *(geography wrong)*: Notes say "African tribe worships cargo ships." Cargo cults are historically associated with Melanesian/Pacific Island peoples (Papua New Guinea, Vanuatu, etc. — especially post-WWII John Frum movement), not African tribes. Correct the geography to "Melanesian/Pacific Island peoples" before reusing this illustration. Body note added below.
 - **Bahdai of India statistics** *(unverified)*: ~600,000 population, no known believers. Verify against current Joshua Project or IMB data.
 - **"Believers cannot be demon-possessed"** *(theological claim)*: This is a standard Reformed/Baptist position based on the sealing of the Holy Spirit (Eph 1:13-14, 4:30). Some charismatic traditions disagree. The position as stated is consistent with the preacher's theological framework. No correction needed, but note it is a theological conviction, not a universally agreed doctrine.
 - **Format note**: This sermon exists only as summary bullet points, not a full transcript. If this is to be developed into a full sermon draft, the notes above serve as the outline.
