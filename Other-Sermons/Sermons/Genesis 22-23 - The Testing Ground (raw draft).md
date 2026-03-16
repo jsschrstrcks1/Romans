@@ -23,7 +23,7 @@ Justified by faith. That's Paul. Also in your Bible.
 
 Which is it?
 
-Here is what most people miss. Paul is quoting Genesis 15. Genesis 15 — which is years, maybe decades, before Genesis 22. Abraham was credited righteous by God because he believed — long before he ever climbed Mount Moriah. Long before Isaac was placed on an altar. Long before any of this.
+And most people walk right past it. Paul is quoting Genesis 15. Genesis 15 — which is years, maybe decades, before Genesis 22. Abraham was credited righteous by God because he believed — long before he ever climbed Mount Moriah. Long before Isaac was placed on an altar. Long before any of this.
 
 So what is James saying? He is not contradicting Paul. James is saying that what lived in Abraham's heart in Genesis 15 — genuine faith in God — became visible in Genesis 22. Works do not produce faith. But real faith produces works. The Akedah — the binding of Isaac — is not the cause of Abraham's justification. It is the proof of it.
 
@@ -56,6 +56,8 @@ The text is deliberate. God does not say "a son." He says *your only son*. Abrah
 We ought to ask an honest question here. Was it possible that Abraham loved Isaac more than he loved God? The test seems designed to expose exactly that. You do not test a man for what you do not suspect. God was asking Abraham: *Where does Isaac rank? Above me? Below me? Beside me?*
 
 The only way to answer that question was to act.
+
+Some of you have an Isaac. You know exactly what it is. You know exactly why this text makes you uncomfortable.
 
 ---
 
@@ -119,7 +121,7 @@ God did not ask Abraham to do anything He was not willing to do Himself. He stay
 
 And then this word — *seed*. *Offspring*. In your offspring shall all the nations of the earth be blessed.
 
-Paul unpacks this in Galatians 3:16 with a precision that is almost mathematical: *"Now the promises were made to Abraham and to his offspring. It does not say, 'And to offsprings,' referring to many, but referring to one, 'And to your offspring,' who is Christ."*
+Paul drives this point into the text of Galatians 3:16 with a precision that is almost mathematical: *"Now the promises were made to Abraham and to his offspring. It does not say, 'And to offsprings,' referring to many, but referring to one, 'And to your offspring,' who is Christ."*
 
 One. Christ. The blessing of every nation flows through one man — the seed of Abraham, the son of David, the Lamb of God, Jesus Christ. Paul says in Galatians 3:8 that God *preached the gospel beforehand to Abraham*. Abraham may have understood more of what was coming than we might expect. He saw it from a distance. He believed it. And it was counted to him as righteousness.
 
@@ -165,15 +167,17 @@ That is the testimony of Genesis 23. Not conquest. Not possession. A tomb. And u
 
 Some of you have been asked to put something on the altar.
 
-Not Isaac. But something that matters to you the way Isaac mattered to Abraham. A dream. A relationship. A comfort. A plan for how your life was supposed to go.
+Not Isaac. But something that matters to you the way Isaac mattered to Abraham. A dream. A relationship. A child you've made your identity. A marriage you've stopped trusting God with. A plan for how your life was supposed to go.
 
-And the question God is asking — the same question he asked Abraham — is not *"Will you obey a rule?"* The question is *"How much do you trust me?"*
+And the question God is asking — the same question he asked Abraham — is not *"Will you obey a rule?"* The question is: *"Do you trust me with this?"*
 
-Kierkegaard wrote about this story — he called it a *teleological suspension of the ethical*. A moment where God asks something that seems to violate every normal moral category. He wasn't wrong about that. Abraham could not have explained to his neighbors what he was doing. There was no framework for it. Except this one: God said so.
+Kierkegaard wrote about this story — he called it a *teleological suspension of the ethical*. A moment where God asks something that seems to violate every normal moral category. He wasn't wrong about that. Abraham could not have explained to his neighbors what he was doing. There was no category for it. Except this one: God said so.
 
 That is the absurdity of faith. Not irrational — but beyond rational. Faith that trusts God when there is no visible path.
 
-And God met that faith. He always does.
+And God met that faith.
+
+He does not always remove the knife. But he always meets the faith.
 
 This is before the Ten Commandments. This is before the law of Moses. This is before the temple, the priesthood, the sacrificial system. What Abraham had was a promise and a God who had never once failed to keep his word. That was enough. It still is.
 
