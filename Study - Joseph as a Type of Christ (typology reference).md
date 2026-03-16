@@ -3,7 +3,7 @@
 **Passage:** Genesis 37–50 (parallel to NT Christological fulfillments)
 **Type:** Reference study / preaching resource
 **Related sermon:** `Sermon 2 gen 37 joeseph.txt` — Genesis 37 — Joseph as type of Christ
-**Status:** Reviewed March 2026 — KJV throughout (⚠️ must convert to ESV before pulpit use); all references spot-checked ✓; Heb. 7:26 ESV wording documented inline ✓; Gen. 37:28 "twenty shekels" confirmed ✓; Gen. 45:5a stray character removed ✓; Phil. 2:9 "new name" error confirmed absent from body ✓; ⚠️ source/attribution unidentified
+**Status:** Reviewed March 2026 — KJV throughout (⚠️ must convert to ESV before pulpit use); all references spot-checked ✓; Heb. 7:26 ESV wording documented inline ✓; Gen. 37:28 "twenty shekels" confirmed ✓; Gen. 45:5a stray character removed ✓; Phil. 2:9 heading corrected ("GIVEN A NEW NAME" → "GIVEN THE NAME ABOVE EVERY NAME") ✓; ⚠️ source/attribution unidentified
 
 ---
 
@@ -161,12 +161,12 @@
 
 ---
 
-### PROMOTED TO HONOR AND GLORY AND GIVEN A NEW NAME
+### PROMOTED TO HONOR AND GLORY AND GIVEN THE NAME ABOVE EVERY NAME
 > And Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt (Gen. 41:41). *(See also Gen. 41:45a.)*
 
 > …God also hath highly exalted him, and given him a name which is above every name (Phil. 2:9).
 
-**[⚠️ Phil. 2:9 "new name" — heading says "GIVEN A NEW NAME" but neither KJV nor ESV Phil. 2:9 uses the word "new." ESV: "Therefore God has highly exalted him and bestowed on him the name that is above every name." KJV: "given him a name which is above every name." The "new name" language is Rev. 3:12 ("I will write on him the name of my God...and my own new name"). The heading should be revised to "GIVEN THE NAME ABOVE EVERY NAME" or similar. The Phil. 2:9 citation itself is correct.]**
+**[✓ Phil. 2:9 ESV confirmed (March 2026): "Therefore God has highly exalted him and bestowed on him the name that is above every name." KJV above reads "given him a name which is above every name." Heading corrected from "GIVEN A NEW NAME" — "new name" is Rev. 3:12, not Phil. 2:9. Convert KJV wording to ESV before pulpit use.]**
 
 ---
 
