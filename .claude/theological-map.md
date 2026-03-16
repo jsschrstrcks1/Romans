@@ -869,6 +869,12 @@ The `Lords day romans 14 gal 4.md` file treats Sabbath/Lord's Day observance as 
 
 **Explicit. Tradition: Puritan (Gurnall, Owen).**
 
+#### Vanity of Earthly Achievement — Eternal Perspective
+> "Only one life, 'twill soon be past, only what's done for Christ will last." (C.T. Studd)
+> — `Ecclesiastes 2 - What Matters.md`
+
+Human wisdom, effort, achievement, and life itself are *hebel* (breath, vapor) — there for a moment and gone without a trace. The sermon draws from Ecclesiastes 2:14-26 to argue that earthly wealth, fame, and accomplishment are not evil but are radically insufficient. The congregation (living by global standards as kings) is called to measure their remaining days against eternity — roughly 2,500 meaningful days after the accounting — and invest them in what lasts: sharing the gospel, discipling children, building the local church. **Explicit. Tradition: Wisdom literature (Qoheleth); Reformed evangelical ethics.**
+
 #### Sanctity of Life
 > "Life is sacred to God. Its precious... Ultimately in most all cases its an issue of Idolatry."
 > — `Psalms 139 (abortion).md`
@@ -917,6 +923,15 @@ Every sermon in the Romans series includes a specific "People Group of the Week"
 > — `evangelism (romans 15, mt 28, and rev 7).md`
 
 **Explicit. Tradition: 10/40 Window missions strategy.**
+
+#### Sacrificial Living as Missionary Posture
+> "If Jesus Christ be God and died for me, then no sacrifice can be too great for me to make for Him." (C.T. Studd, quoted approvingly)
+> — `Ecclesiastes 2 - What Matters.md`
+
+> "Some want to live within the sound of church or chapel bell; I want to run a rescue shop within a yard of hell." (C.T. Studd, quoted approvingly)
+> — `Ecclesiastes 2 - What Matters.md`
+
+CT Studd used as the paradigm case: elite cricketer, Cambridge graduate, gave away entire inheritance (including £5,000 to Moody Bible Institute) to fund missions in China, India, and Africa. The sermon holds him up not as extraordinary but as the logical conclusion of "only what's done for Christ will last." **Explicit. Tradition: 19th-century evangelical missions movement (Taylor, Moody, Studd).**
 
 #### Election Does Not Cancel Evangelism
 > "Doctrine must break our hearts. If our grasp of God's sovereign election does not move us to anguish for the lost, we have missed Paul's point."
