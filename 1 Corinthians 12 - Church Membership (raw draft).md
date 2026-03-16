@@ -68,9 +68,9 @@ Likewise what would happen if your hand decided it no longer wanted to be part o
 
 If your child has a dirty diaper, do you throw the child out? Do you leave the child somewhere else? No, you're committed to the child. When your husband, or husbands, when your wife is rude, do you throw him or her out? Of course not, you're committed to each other as one body. As the church is to be. Many parts, but one whole. Many individuals functioning together as one.
 
-Now you are the body of Christ and individually members of it. *(See flags — corrected from NIV to ESV.)*
+Now you are the body of Christ and individually members of it. *(1 Corinthians 12:27, ESV — corrected from NIV March 2026)*
 
-As Christians leaving one church for another is sort of like cutting the foot off, and sewing it on a different body. That's part of the reason I don't want to grow because other churches are having issues. I would rather grow through evangelism. We will take anyone who comes through those doors, and bring them into the family. But my preference is the people that come into the church because the feet have been out sharing the gospel. Because the hands have been out loving on our community. Scripture says how beautiful are the feet of those who preach the good news! *(See flags — corrected to ESV; originally a paraphrase blending Rom 10:15 and Isa 52:7.)*
+As Christians leaving one church for another is sort of like cutting the foot off, and sewing it on a different body. That's part of the reason I don't want to grow because other churches are having issues. I would rather grow through evangelism. We will take anyone who comes through those doors, and bring them into the family. But my preference is the people that come into the church because the feet have been out sharing the gospel. Because the hands have been out loving on our community. Scripture says how beautiful are the feet of those who preach the good news! *(Romans 10:15, ESV — corrected from blended paraphrase March 2026)*
 
 We are one body. We are one in purpose – to glorify God among the nations.
 
