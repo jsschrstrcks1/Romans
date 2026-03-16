@@ -359,6 +359,18 @@ Both Jew and Gentile, religious and irreligious. No exceptions. **Explicit. Trad
 
 Humans actively suppress truth they know (Rom 1), exchanging it for lies. Conscience testifies to God's law. **Explicit. Tradition: Puritan/Reformed.**
 
+#### Idolatry as the Wrong Master
+> "At the end of the day, if your master isn't the Lord, your master is the devil."
+> — `Psalm 42 - As the Deer Pants.md`
+
+Every person has a master. Sports, money, television, alcohol, drugs, sex — whatever controls the affections controls the person. Idolatry is defined not by the formal worship of carved images but by whatever masters the heart. The diagnostic is the soul's thirst: *Does your soul long after God with the urgency of a deer panting for water (Ps 42:1)?* If not, idolatry is the likely cause. The soul that does not long for God is the soul already drinking from another source. **Explicit. Tradition: Reformed Baptist.**
+
+#### Spiritual Callousing Through Small Compromises
+> "It's a death by a thousand cuts. We allow things to happen. Slowly we let these things bleed our joy and our contentment and our happiness out of our lives."
+> — `Psalm 42 - As the Deer Pants.md`
+
+Christians do not typically drift into cold-heartedness through deliberate rebellion but through incremental, often unintentional compromise: skipping Bible reading, skipping prayer, skipping fellowship, skipping worship, allowing the business of life to crowd out the most important things. Each compromise individually seems harmless. Together they calcify the heart and extinguish the soul's longing for God. The remedy is vigilant attention to the ordinary means of grace before the thirst dries up entirely. **Explicit. Tradition: Reformed, Puritan.**
+
 ---
 
 ### 5. Soteriology (Doctrine of Salvation)
@@ -848,6 +860,35 @@ Not annihilationism. Real, conscious, eternal. **Explicit. Tradition: Orthodox C
 
 Claims of visiting heaven tested against Scripture and found wanting. **Explicit. Tradition: Cessationist / Sola Scriptura.**
 
+#### Already / Not Yet — Inaugurated Eschatology
+> "In the New Testament, there is this underlying theme of how some things are already true, and yet not yet. Our citizenship is in heaven, our sins have been paid for, we're truly free from sin. Already. And yet final victory against sin will not happen until we reach heaven."
+> — `Deuteronomy 8 - Count Your Blessings (repaired draft).md`
+
+The already/not yet tension is described as an "underlying theme" of the New Testament with clear application to:
+- Citizenship in heaven (Philippians 3:20) — already true, not yet physically arrived
+- Justification and freedom from sin — already accomplished, yet daily battles continue
+- Community of the redeemed — already real, not yet complete in God's presence
+- The Promised Land typology in Deuteronomy 8 as a preview of heaven — already promised, not yet possessed
+
+The same double-horizon structure is noted in Old Testament prophecy: the "present already" context for the original readers, and the "not yet" that points beyond to ultimate fulfillment. **Explicit. Tradition: Inaugurated eschatology (Ladd); consistent with Reformed / Baptist theology.**
+
+#### Heaven — Concrete Biblical Descriptions
+The sermon on Deuteronomy 8 develops a detailed portrait of heaven grounded in specific texts:
+
+- **A feast of nations** (Luke 13:29 ESV ✓) — "People will come from east and west, and from north and south, and recline at table in the kingdom of God"
+- **Many rooms prepared** (John 14:2 ESV ✓) — accommodations for everyone; the Father's house has space
+- **No hunger, no thirst** (Revelation 7:16–17 ESV ✓) — the Lamb shepherds to springs of living water
+- **God wipes every tear** (Revelation 7:17 ESV ✓) — the preacher interprets these as tears of joy at the overwhelming reality of God's presence; Christ personally wipes them
+- **No more curse** (Revelation 22:3 ESV ✓) — the curse from Genesis 3 fully reversed; creation's shattered reflection restored
+- **No broken bodies** — no cancer, no wheelchair, no addiction's hold; the body's corruption undone
+
+The Promised Land (Deuteronomy 8:7–10) is treated as a typological foretaste of heaven — land of plenty, no want, mineral wealth — with one meaning for Israel (the literal land of milk and honey) and a second, fuller meaning pointing to eternal life in God's presence.
+
+> "God will wipe away every tear from our eyes. I think those are going to be happy tears. We are going to be so blown away by the reality of the presence of God that we won't be able to help it — and in the midst of all of that, our Savior will walk over and wipe those tears from our face."
+> — `Deuteronomy 8 - Count Your Blessings (repaired draft).md`
+
+**Explicit. Tradition: Orthodox Christian.**
+
 ---
 
 ### 9. Ethics and Christian Life
@@ -896,6 +937,12 @@ The `Lords day romans 14 gal 4.md` file treats Sabbath/Lord's Day observance as 
 
 **Explicit. Tradition: Puritan (Gurnall, Owen).**
 
+#### Vanity of Earthly Achievement — Eternal Perspective
+> "Only one life, 'twill soon be past, only what's done for Christ will last." (C.T. Studd)
+> — `Ecclesiastes 2 - What Matters.md`
+
+Human wisdom, effort, achievement, and life itself are *hebel* (breath, vapor) — there for a moment and gone without a trace. The sermon draws from Ecclesiastes 2:14-26 to argue that earthly wealth, fame, and accomplishment are not evil but are radically insufficient. The congregation (living by global standards as kings) is called to measure their remaining days against eternity — roughly 2,500 meaningful days after the accounting — and invest them in what lasts: sharing the gospel, discipling children, building the local church. **Explicit. Tradition: Wisdom literature (Qoheleth); Reformed evangelical ethics.**
+
 #### Sanctity of Life
 > "Life is sacred to God. Its precious... Ultimately in most all cases its an issue of Idolatry."
 > — `Psalms 139 (abortion).md`
@@ -916,6 +963,24 @@ Abortion explicitly condemned as idolatry — elevating comfort above God's comm
 > — `romans 12 pt 3.md`
 
 Safety is not revenge. Refusing to return evil for evil does not mean offering your body as a doormat for someone else's sin. **Explicit. Tradition: Pastoral.**
+
+#### Prayer — God-Centered, Self-Surrendering, Daily
+
+> "Prayer is not trying to get God to agree with me. Prayer is not trying to line God up with what I need. Prayer is myself affirming the sovereignty and majesty of God, and taking my will and making it submissive to His."
+> — MacArthur, *The Paternity of Prayer* (2234), cited in `Sermon - Lord Teach Us to Pray (Matthew 6).md`
+
+> "The death of self is the beginning of a true prayer life."
+> — MacArthur, *The Plan of Prayer, Part 2* (2238), cited in `Sermon - Lord Teach Us to Pray (Matthew 6).md`
+
+The Lord's Prayer treated as school not script — *houtōs oun* ("along these lines," Matthew 6:9) means a pattern to inhabit, not words to recite. Every petition oriented toward God before asking anything self-ward: three petitions Godward (name hallowed, kingdom, will) precede all personal petitions.
+
+**Two kinds of forgiveness distinguished**: (1) *Judicial* — once for all, positional, eternal (Romans 8:1 "no condemnation"); (2) *Parental* — relational, daily, confessional — restores the joy of fellowship without restoring salvation (Psalm 51:12 "restore to me the *joy* of your salvation"; 1 John 1:9). "Forgive us our debts" addressed to believers seeking parental forgiveness, not judicial re-entry. John 13 foot-washing is the governing illustration (already bathed = judicial settled; feet washed daily = parental maintained).
+
+**Prayer as perpetual dependence** — "daily bread" requires daily return to the Father; one-time provision followed by independence is not the model Jesus gave. George Mueller's "the answers are always coming" as description of life oriented around constant prayer.
+
+**"Lead us not into temptation"** does not accuse God of tempting (James 1:13 — God tempts no one); it is the prayer of a person who knows their own fragility and asks to be led rather than to lead themselves.
+
+**Explicit. Tradition: Puritan (Owen, Watson); MacArthur Matthew corpus.**
 
 ---
 
@@ -944,6 +1009,15 @@ Every sermon in the Romans series includes a specific "People Group of the Week"
 > — `evangelism (romans 15, mt 28, and rev 7).md`
 
 **Explicit. Tradition: 10/40 Window missions strategy.**
+
+#### Sacrificial Living as Missionary Posture
+> "If Jesus Christ be God and died for me, then no sacrifice can be too great for me to make for Him." (C.T. Studd, quoted approvingly)
+> — `Ecclesiastes 2 - What Matters.md`
+
+> "Some want to live within the sound of church or chapel bell; I want to run a rescue shop within a yard of hell." (C.T. Studd, quoted approvingly)
+> — `Ecclesiastes 2 - What Matters.md`
+
+CT Studd used as the paradigm case: elite cricketer, Cambridge graduate, gave away entire inheritance (including £5,000 to Moody Bible Institute) to fund missions in China, India, and Africa. The sermon holds him up not as extraordinary but as the logical conclusion of "only what's done for Christ will last." **Explicit. Tradition: 19th-century evangelical missions movement (Taylor, Moody, Studd).**
 
 #### Election Does Not Cancel Evangelism
 > "Doctrine must break our hearts. If our grasp of God's sovereign election does not move us to anguish for the lost, we have missed Paul's point."
@@ -1001,9 +1075,13 @@ Every sermon in the Romans series includes a specific "People Group of the Week"
 | **Christian nationalism** | "The state is not your savior. The church is not the state." | `claude.md` | Explicitly rejected |
 | **Fear-driven quietism** | Protected from by the 1689 framework | `claude.md` | Explicitly rejected |
 | **Kinism / Racism** | "Kinism is not a secondary issue. It is not a matter of conscience. It is an abomination." | `Romans 14c.md` | Explicitly rejected in strongest terms |
+| **Critical Race Theory / Intersectionality** | "If you are comfortable, they seem to argue, you are comfortable because you took advantage of people to get to that point... This is nonsense." Experience-as-arbiter-of-truth rejected: "Under this worldview, experience is the arbiter of truth — especially the experience of those who have been the victims of white privilege... this is similar to the error many Catholics make when they elevate the words of the Pope or tradition above Scripture." | `Sermon - Cultural Marxism.md` | Explicitly rejected; CRT epistemology placed in the same category as papal/tradition supremacy over Scripture |
+| **Cultural Marxism (identity-based suppression)** | "Suppressing anyone or anything simply because it was thought of, painted by, or written by a person of a different group than you is racism. Full stop." Applies equally to the left and to the alt-right. | `Sermon - Cultural Marxism.md` | Explicitly rejected; race-based suppression named as racism regardless of political direction |
 | **Sentimental Christianity** | "Biblical love is not morally neutral. It does not bless what destroys people." | `romans 12 pt 3.md` | Explicitly rejected |
 | **Idolatry (broadly)** | "If football is more important than hearing the word of God... football is your idol." | `mark 10.md` | Explicitly rejected |
 | **Idolatry — Egypt/America parallel** | Egypt had 2,000+ deities, starting from animism and morphing into anthropomorphism. America has politics, comfort, rights, and presidents. Psalm 115:4–8: idols cannot speak, see, or hear — and those who make them become like them. A.W. Tozer (*The Knowledge of the Holy*, ch. 1): "What comes into our minds when we think about God is the most important thing about us." The idols we choose to worship reveal who we are. | `Other-Sermons/Sermons/Exodus 2.md` | Explicitly rejected |
+| **Idolatry — soul's thirst misdirected** | "If you desire anything in your life like this that isn't God, that's idolatry." The deer's panting thirst (Ps 42:1 — "As a deer pants for flowing streams, so pants my soul for you, O God") as diagnostic: what does your soul long after with that intensity? Every human soul thirsts after something with ultimate devotion; if that object is not God, it is an idol. Sin does not satisfy — it amplifies. "Instead of our thirst being satisfied, our thirsts are amplified." | `Psalm 42 - As the Deer Pants.md` | Explicitly rejected |
+| **Idolatry through drift, not deliberate rebellion** | "I think most people stumble into idolatry — not intentionally. They don't wake up one morning and say, *How can I rebel against God today?*" Long-time Christians lose sight of God through incremental compromise: skipping Bible reading, prayer, fellowship, worship — "a death by a thousand cuts." Idolatry of the heart is often the end result of accumulated small decisions, not a single act of apostasy. | `Psalm 42 - As the Deer Pants.md` | Explicitly rejected |
 
 ### Methodological Errors
 
@@ -1040,7 +1118,7 @@ Every sermon in the Romans series includes a specific "People Group of the Week"
 | Political neutrality | Political-pundit pastors; theocracy |
 | Love with moral backbone | Sentimental redefinition of love |
 | Suffering as refining | Prosperity gospel; health-and-wealth theology |
-| Welcome across ethnic lines | Kinism; racial segregation |
+| Welcome across ethnic lines; "in Christ no distinction between Jew and Greek" | Kinism; racial segregation; race-based identity politics (CRT/intersectionality); cultural Marxism |
 | Liberty of conscience | Legalistic binding on secondary issues |
 
 ---
