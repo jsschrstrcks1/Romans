@@ -42,8 +42,8 @@ The repository has been developed across 21 distinct Claude Code thread families
 **PRs merged**: #56, #59, #67, #73, #79
 **Status**: **Substantially complete** — Romans 1–16 is fully preached and archived.
 **Unfinished**:
-- Romans 7 raw draft still has verification flags (⚠️ Jn 14:16 reference error, MacArthur quote unverified)
-- Romans 1 - Psalm 22 raw draft has multiple unverified references (Adrian Rogers 108 OT refs, R.A. Torrey 300 OT refs)
+- Romans 7 raw draft: Jn 15:16 corrected ✓; Lk 22:42 corrected ✓; MacArthur reworded to paraphrase ✓; standing items minor (see Part IV)
+- Romans 1 - Psalm 22 raw draft: Rogers/Torrey refs substantially resolved March 2026; Psalm 22:17 cross-reference table needs one correction before printing
 
 ---
 
@@ -201,21 +201,21 @@ The repository has been developed across 21 distinct Claude Code thread families
 
 ## Part II: Unprocessed Sermons in memory2.md
 
-These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT been extracted to standalone files, cleaned, verified, or added to the sermon map:
+*(Updated March 2026 — all 9 extractions now complete; file paths verified against file system)*
 
 | # | Sermon | Primary Text | Status |
 |---|--------|-------------|--------|
 | 1 | Paul's Final Letter | 2 Timothy 1:1-2 | ~~Extracted~~ → `2 Timothy 1 1-2 - Paul's Final Letter (raw draft).md` ✓ |
-| 2 | Cultural Marxism / CRT | Romans 10:12-13 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Cultural Marxism.md` ✓ |
-| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ~~Raw in memory2.md~~ → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` ✓ |
+| 2 | Cultural Marxism / CRT | Romans 10:12-13 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Cultural Marxism.md` → `Cultural Marxism - CRT - Romans 10 (raw draft).md` → **`Sermon - Cultural Marxism.md` ✓ polished & verified** (all Scripture ESV ✓; David Brooks sourced ✓; Hitler "half Jewish" removed ✓; Deut 10:17 corrected to ESV ✓; Dhund geography corrected ✓; sermon-map + theological-map updated ✓) |
+| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ~~Raw in memory2.md~~ → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` → **`Sermon - Bless the Lord O My Soul.md` ✓ (canonical; fully polished, Scripture verified, Integrity Log appended, sermon-map updated)** |
 | 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | ~~Partially extracted~~ → `Other-Sermons/Sermons/Eph 3 - The Covenants.md` ✓ (complete Integrity Log present, 6 Scripture corrections + 3 factual notes applied) |
 | 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Col 2 - thanksigiving.md` ✓ |
 | 6 | Prayer | Colossians 4:2-4 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/col 4 - prayer.md` (full version) + `Other-Sermons/Sermons/prayer col 4.md` (prayer service version) ✓ |
 | 7 | Church Membership / Body of Christ | 1 Corinthians 12:12-27 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Commitment to the church body 1 cor 12.md` ✓ |
-| 8 | Sowing and Reaping | Galatians 6:7-10 | ~~No file found~~ → `Other-Sermons/Sermons/Galatians 6 - Sowing and Reaping.md` ✓ (condensed outline; Svea Flood story documented; 4 quotes flagged as unverified) |
+| 8 | Sowing and Reaping | Galatians 6:7-10 | ~~Raw in memory2.md~~ → `Galatians 6 - Sowing and Reaping (raw draft).md` ✓ — Flood story corrected March 2026; Toplady ✓, Spurgeon ✓, Luther ✓ verified March 2026; Lawson wording confirmed, no primary source located; Sindhi Samas verified (Joshua Project — ~1.63M, Frontier/Unengaged); Titanic illustration researched — current version embellished/unattributed (real Peuchen kernel exists but woman/casino details are not historical) |
 | 9 | Angels, Demons, Etcetera | Ephesians 1:3-14 | ~~Raw in memory2.md~~ → ✓ `Other-Sermons/Sermons/Eph 1 - Angels Demons Etcetera.md` is authoritative (all corrections applied, Integrity Log, Series label added). `Ephesians 1 - Angels Demons Etcetera.md` deprecated with header pointing to authoritative version. |
 
-**Note**: Several of these (2 Tim 2:3-7, 2 Tim 3:14+, Titus 3:1-7, Gal 3:23+, 2 Tim 2:14-26, Matt 5:13-16) have been processed per sermon-queue.md — they exist in Other-Sermons but also remain as raw text in memory2.md. The 9 listed above are the ones still needing standalone file extraction.
+**All memory2.md extractions are complete.** All 9 files confirmed present on disk (March 2026). The extracted files are raw drafts — quote attribution, Scripture translation accuracy, and factual claims have not yet been verified in these files. That verification work remains for a future session.
 
 ---
 
@@ -246,16 +246,16 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 
 | File | Key Flags |
 |------|-----------|
-| `Proverbs 13 (raw draft).md` | Multiple verification flags on quotes and statistics |
-| `Psalm 2 (raw draft).md` | 11 flags requiring verification: Heb 13:3 may be KJV not ESV; Edwards quote may have transcription error; "Lord" vs "LORD" in Psalm 2 quotes flagged; IDOP date and "53 countries" flagged as needing verification |
-| `Psalm 8 - Hebrews 2 (raw draft).md` | 4 flags: needs ESV conversion, quote verification |
-| `Psalm 119 161-168 (raw draft).md` | 10 flags: multiple quotes and cross-references unverified |
-| `Psalm 68 Part 2 (raw draft).md` | 7 flags requiring verification: Prov 27:17 may be NIV not ESV; 1 Kgs 18 "Lord" vs "LORD" flagged; prophet count (~1,000 in draft vs. 850 in 1 Kings 18:19) flagged for verification |
-| `1 Thess 5 - Rejoice Always (raw draft).md` | 7 flags requiring verification: Spurgeon quote source unverified; "3 million French" figure flagged as possibly overstated; "Communists defeated" claim flagged as needing historical verification |
-| `Philippians 4 (raw draft).md` | 16 flags: extensive verification needed |
-| `Romans 1 - Psalm 22 (Prophecy raw draft).md` | 8 flags requiring verification: Adrian Rogers "108 OT refs" claim flagged as unverified; R.A. Torrey "300 OT refs" claim flagged as unverified |
-| `Romans 7.md` | 4 flags: Jn 14:16 reference error (should be 15:16); MacArthur quote unverified |
-| `Romans 3 - antinomianism draft.md` | 3 flags |
+| `Proverbs 13 (raw draft).md` | ~~Multiple flags~~ — **All resolved** ✓. Paul Washer story verified ✓; "700%" removed → "small fraction" ✓; Edwin Starr / Lockheed Martin story CUT (confirmed false) ✓; screen time corrected to 5–9 hrs (Common Sense Media) ✓; "3 hrs Puritan scripture" reframed ✓; Newton ref corrected ✓; "spare the rod" paraphrase flagged in body with real ESV verse ✓. ⬜ Pew Bible page number — fill before Sunday (pastor's task) |
+| `Psalm 2 (raw draft).md` | ~~11 flags~~ — **All resolved** ✓ (Heb 13:3 ESV, Edwards Q2 fixed, LORD/Lord corrected incl. v.4 Adonai, IDOP first Sunday, 7 duplicate lines removed); ⚠️ "53 countries" and "Russia in Revelation" remain as noted interpretive/dated-data flags |
+| `Psalm 8 - Hebrews 2 (raw draft).md` | ~~4 flags~~ — **Duplicates resolved** ✓ (4 partial lines removed); ESV corrections applied ✓; J.C. Ryle verified ✓; "How He Loves" / McMillan corrected ✓; Caño Cristales corrected ✓. ⚠️ David Platt cab driver story unverified (no indexed source); ⚠️ Edwards "just the sin" quote not in Yale critical edition (possibly misattributed); ⚠️ MacArthur "serve righteousness as slaves" — paraphrase of Rom 6:18-19, not confirmed direct quote — all three flagged inline in draft |
+| `Psalm 119 161-168 (raw draft).md` | ~~10 flags~~ — **All resolved** ✓ (Fenn corrections, US population, Brother Andrew prayer wording ✓ "in my luggage" confirmed, Brother Andrew destination ✓ corrected to Yugoslavia 1957 — three independent sources; Florida stats pastor-certified, primary source not documented — add before publication). |
+| `Psalm 68 Part 2 (raw draft).md` | ~~7 flags~~ — **All resolved** ✓ (Prov 27:17 ESV, 1 Kgs 18 LORD, prophet count 850, Elijah timeline, duplicate line removed) |
+| `1 Thess 5 - Rejoice Always (raw draft).md` | ~~7 flags~~ — **All resolved** ✓ (Spurgeon verified Sermon #2483, "3 million" → ~1.3M, "Communists defeated" corrected, duplicate line removed) |
+| `Philippians 4 (raw draft).md` | ~~16 flags~~ — **11 resolved** ✓ (CT Studd wording corrected, Spurgeon verified #1178, semnos confirmed, prosphilēs NT hapax confirmed, LXX Ps 84 claim corrected to ἀγαπητά, Samuel Sey description corrected). ⚠️ Samuel Sey quote unverified; ⚠️ Richard Baxter full passage unverified (closing sentence confirmed — Practical Works II:884-885); ⚠️ Mo-Jer-Hai not in indexed sources; ⬜ pew Bible page number |
+| `Romans 1 - Psalm 22 (Prophecy raw draft).md` | ~~8 flags~~ — **All resolved** ✓ (Rogers "108" verified Sermon #2299 LWF; Torrey "300" corrected — actual lists 61-79; "68%" corrected to 65% with Joyner/Morningstar attribution; prophecy table Ps 22:17 → Ps 34:20 for bones-not-broken; Deut 18:20-22 and Rom 10:9 ESV previously corrected). ⚠️ Remaining Psalm 22 fulfillment citations: verify line-by-line against ESV before printing. |
+| `Romans 7.md` | ~~4 flags~~ — **2 resolved** ✓ (Jn 15:16 corrected, Phil 2:8 ESV, Lk 22:42 restored); ⚠️ Tesla story disputed; ⚠️ "3 in 5 dieters" unverified |
+| `Romans 3 - antinomianism draft.md` | ~~3 flags~~ — **2 resolved** ✓; ⚠️ John Brown quote remains in Pending Verification (archive.org 403, no indexed text — cannot verify without physical copy) |
 
 ---
 
@@ -267,12 +267,12 @@ The sermon-map.md contains **46+ entries** with ⚠️ flags indicating unverifi
 - `Philippians 4 (raw draft).md` — 16 flags
 - `Psalm 2 (raw draft).md` — 11 flags
 - `Psalm 119 161-168 (raw draft).md` — 10 flags
-- `Study - Joseph as a Type of Christ (typology reference).md` — 10 flags
-- `Romans 1 - Psalm 22 (Prophecy raw draft).md` — 8 flags
+- `Study - Joseph as a Type of Christ (typology reference).md` — partially resolved March 2026: Gen. 37:28 ESV ✓; Heb. 7:26 ESV ✓; Phil. 2:9 "new name" heading flagged as inaccurate (use Rev. 3:12 or revise heading). Standing: all quotes are KJV — convert to ESV before preaching; source/attribution unknown
+- `Romans 1 - Psalm 22 (Prophecy raw draft).md` — substantially resolved March 2026; standing: Psalm 22:17/"bones not broken" cross-reference needs table correction; "68%" stat uncitable; voting intro dated
 - `1 Thess 5 - Rejoice Always (raw draft).md` — 7 flags
-- `Psalm 68 Part 2 (raw draft).md` — 7 flags
-- `Sermon - Faithful and God-Fearing.md` — 7 flags
-- `Sola Scriptura 2021.md` — 7 flags
+- `Psalm 68 Part 2 (raw draft).md` — substantially resolved March 2026; 1 standing item (Elijah timeline phrasing) for print polish
+- `Sermon - Faithful and God-Fearing.md` — manuscript substantially polished; major errors corrected in end notes (king succession, Xerxes-Cyrus, 50→52 days, NIV→ESV for Isa 45/Luke 12:5); standing items: (1) Gospel presentation not developed — must complete before preaching; (2) Pascal's Wager section not developed; (3) Dr. Alvin Reid quote — exact source unverified; (4) Great Wall bribery number — unverifiable, already qualified in body
+- `Sermon - Sola Scriptura 2021.md` — manuscript substantially polished; standing items: (1) Trevor Noah attribution almost certainly wrong — must identify correct source before preaching (quote is evangelical theological commentary, not consistent with Trevor Noah); (2) 4 Luther quotes content-consistent but no primary LW source confirmed; Quote 2 ("Nothing helps more powerfully") traced to secondary source (Counseling Under the Cross); all other errors corrected in body/source notes (DSS "1,000 years" ✓, flat earth removed ✓, Isaiah 40:22 qualified ✓)
 
 ---
 
@@ -321,7 +321,7 @@ From `preaching-gap-analysis.md`, the top 15 preaching gaps ranked by theologica
 | 11 | Lamentations 3 + Job 38–42 | Theology of lament |
 | 12 | Acts 17 (Mars Hill) | Apologetics in pagan context |
 | 13 | Habakkuk | "The righteous shall live by faith" — never preached from its source |
-| 14 | 2 Samuel 7 | Davidic covenant — missing link in covenantal chain |
+| 14 | 2 Samuel 7 | Davidic covenant — surveyed in `Eph 3 - The Covenants.md` but no dedicated expository sermon; covenant-as-primary-text gap remains |
 | 15 | Galatians 5 (Fruit of the Spirit) | Referenced constantly; never primary preaching text |
 
 **24 books of the Bible** have never been the primary preaching text (19 OT, 5 NT).
@@ -335,7 +335,7 @@ These items could be resolved in a single session each:
 1. **Extract remaining memory2.md sermons** — 9 sermons need standalone file extraction, cleanup, and mapping
 2. **Resolve Sola Christus 2024 incomplete draft** — needs Scripture reference and three-role exposition completed (or marked as permanently incomplete if the 2020 version is the authoritative one)
 3. **Resolve Thankfulness sermon** — request remainder of transcript from pastor
-4. **Fix Romans 7 reference error** — Jn 14:16 should be 15:16
+4. ~~**Fix Romans 7 reference error** — Jn 14:16 should be 15:16~~ ✓ Completed March 2026; Lk 22:42 also corrected to exact ESV
 5. ~~**Convert NIV/KJV quotes to ESV** in raw drafts (Psalm 2, Psalm 68 Part 2, 1 Thess 5)~~ ✓ Completed
 
 ---

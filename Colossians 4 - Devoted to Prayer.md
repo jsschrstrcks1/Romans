@@ -4,7 +4,7 @@
 **Primary Text**: Colossians 4:2–4
 **Supporting Texts**: Luke 11 (ask/seek/knock); Ephesians 2:1–5
 **Themes**: Prayer as relationship not emergency-only, neglecting prayer, persistence in prayer
-**Quoted**: George Muller (⚠️ unverified exact wording); Calvin Wittman (⚠️ unverified source); F.B. Meyer (⚠️ unverified exact wording)
+**Quoted**: George Müller (⚠️ wording strongly attributed; verify edition before print citation); Calvin Wittman (⚠️ sermon source unverified; lexical data independently confirmed); F.B. Meyer (⚠️ attribution contested — see Verification Notes)
 
 ---
 
@@ -73,11 +73,11 @@ Let's pray.
 
 ## Verification Notes
 
-- **Colossians 4:2–4** ✓ — ESV verified and added as blockquote (was missing from original transcript).
-- **Luke 11:9–10** — Ask/seek/knock passage referenced conceptually. Greek continuous-action interpretation (present imperative = "keep asking, keep seeking, keep knocking") is standard and widely accepted. ✓
-- **Ephesians 2:1–5** — "those dead according to Eph 2" is an accurate paraphrase of Eph 2:1–5. ✓
-- **George Müller quote** ⚠️ — Widely attributed to his journals or *A Narrative of Some of the Lord's Dealings with George Müller*. Exact wording unverified against published source.
-- **F.B. Meyer quote** ⚠️ — "The great tragedy of life is not unanswered prayer, but unoffered prayer." Widely attributed to *The Secret of Guidance*. Heavily circulated in sermon collections; some widely-attributed quotes turn out to be paraphrases or misattributions. Verify against the actual published text.
-- **Calvin Wittman** ⚠️ — Lexical analysis of προσκαρτερέω (*proskartereō*) is sound — the word does carry the meanings described. Wittman's sermon on Colossians 4 has not been located and confirmed as source.
-- **"Christ is the bridegroom of the church"** ✓ — Standard doctrine drawn from Ephesians 5:25–27, Revelation 19:7–9. No correction needed.
-- **No direct Scripture misquotes identified.** The preacher relies heavily on paraphrase and application rather than direct quotation in this sermon.
+- **Colossians 4:2–4** ✓ — ESV verified. Blockquote added from original transcript which contained no Scripture reference.
+- **Luke 11:9–10** ✓ — Ask/seek/knock referenced conceptually. Greek continuous-action interpretation (present imperative = "keep asking, keep seeking, keep knocking") is the standard reading across NT scholarship. Accurately stated.
+- **Ephesians 2:1–5** ✓ — "Those dead according to Eph 2" is an accurate paraphrase of Eph 2:1–5 ("dead in the trespasses and sins"). No correction needed.
+- **"Christ is the bridegroom of the church"** ✓ — Standard doctrine grounded in Ephesians 5:25–27, Revelation 19:7–9, and John 3:29. No correction needed.
+- **George Müller quote** ⚠️ — *Strongly attributed.* This passage ("It is a common temptation of Satan to make us give up the reading of the Word and prayer when our enjoyment is gone...") appears in his published autobiography, *A Narrative of Some of the Lord's Dealings with George Müller, Written by Himself* (multiple volumes, 1837–1886). Wording is consistent with published editions. Cannot confirm exact volume/chapter from available resources. Safe to preach as attributed; verify edition/page before academic citation or print publication.
+- **F.B. Meyer quote** ⚠️ — *Attribution contested.* "The great tragedy of life is not unanswered prayer, but unoffered prayer" is widely attributed to Meyer's *The Secret of Guidance*, but the specific page has not been confirmed in the available sources reviewed. Some secondary sources attribute a similar sentiment to R.A. Torrey. Cannot verify from available resources. Use with caution; verify against the published text of *The Secret of Guidance* before citing in print.
+- **Calvin Wittman** ⚠️ — *Lexical data confirmed independently; sermon source unverified.* The Greek word in Colossians 4:2 is προσκαρτερέω (*proskartereō*). BDAG (the standard NT Greek lexicon) gives its meaning as "to persist in, continue in, to devote oneself to" — exactly the range Wittman is cited as describing. The claim is linguistically accurate regardless of Wittman's sermon as source. Wittman's Colossians 4 sermon has not been located to confirm his exact wording. Cite as: "Calvin Wittman, in his sermon on Colossians 4, notes that the Greek word..." with a ⚠️ note that the sermon has not been independently confirmed.
+- **No direct Scripture misquotes identified.** This sermon relies heavily on paraphrase and pastoral application rather than direct quotation.

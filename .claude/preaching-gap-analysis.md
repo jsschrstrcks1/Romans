@@ -21,8 +21,8 @@
 
 | Book | Coverage | Status | Notes |
 |------|----------|--------|-------|
-| **Genesis** | Gen 1–3, 11, 29, 37–39, 43 | Thin | Good on creation, fall, Joseph. **Gaps: Gen 4 (Cain/Abel), Gen 6–9 (Flood/covenant), Gen 12/15/17 (Abrahamic covenant texts), Gen 22 covered only in a study note** |
-| **Exodus** | Ex 2, 5–6, 14 | Thin | Red Sea covered well. **Gaps: Ex 3 (burning bush/the name of God), Ex 19–20 (Sinai/Ten Commandments), Ex 32–34 (golden calf/renewal)** |
+| **Genesis** | Gen 1–3, 11, 29, 37–39, 43; Gen 6–9 and 12/15 (survey only) | Thin | Good on creation, fall, Joseph. Gen 6–9 (Noahic covenant) and Gen 12:1–3, 15:1–6 (Abrahamic covenant) are surveyed in overview form in `Eph 3 - The Covenants.md` — not expository primary texts. **Remaining gaps: Gen 4 (Cain/Abel), Gen 12/15/17 as dedicated expository sermons, Gen 22 covered only in a study note.** |
+| **Exodus** | Ex 2, 5–6, 14; Ex 19 (survey only) | Thin | Red Sea covered well. Ex 19:3–8 (Mosaic covenant, Sinai overview) surveyed in `Eph 3 - The Covenants.md` — not an expository primary text. **Remaining gaps: Ex 3 (burning bush/the name of God), Ex 19–20 as a dedicated Sinai sermon, Ex 32–34 (golden calf/renewal).** |
 | **Leviticus** | None found | **MISSING** | Rich with atonement typology — Day of Atonement (Lev 16), holiness code (Lev 17–26). No dedicated sermons in the entire corpus. Significant gap for a preacher so focused on propitiation and substitution. |
 | **Numbers** | Num 11 ✓, Num 16 (ref only), Num 21 ✓ | Thin | Discontentment and manna (Num 11 — *The Sin We Don't Call Sin*, cleaned ms. 2026) and bronze serpent (Num 21) covered. **Gaps: Num 6 (Aaronic blessing), Num 14 (unbelief in the wilderness)** |
 | **Deuteronomy** | Referenced throughout but never primary text | **MISSING** | The book of Moses's sermons — *shema* (Deut 6), covenant renewals, blessings/curses (Deut 27–30), Deut 32–33. Cited in Romans frequently but never preached in its own right. |
@@ -37,7 +37,7 @@
 | **Judges** | Judg 1–2, 6, 11 | Thin | Gideon and Jephthah covered. **Gaps: Judg 13–16 (Samson), full arc of the Judges cycle (sin-oppression-cry-deliverance)** |
 | **Ruth** | None found | **MISSING** | Ruth and Boaz as kinsman-redeemer (*go'el*) typology — one of the most direct Christ-pictures in the OT. Complete absence. **High priority gap.** |
 | **1 Samuel** | 1 Sam 16–17, 28 | Thin | David's calling and Goliath covered. **Gaps: 1 Sam 1 (Hannah's prayer), 1 Sam 7 (Ebenezer), 1 Sam 13 (Saul's impatience)** |
-| **2 Samuel** | None found | **MISSING** | David's entire reign: covenant with David (2 Sam 7), Bathsheba and Nathan's rebuke (2 Sam 11–12), the pattern of grace-failure-restoration. Complete absence despite heavy use of Psalm 51. |
+| **2 Samuel** | 2 Sam 7 (survey only) | **MISSING** | 2 Sam 7 (Davidic covenant) is surveyed in overview form in `Eph 3 - The Covenants.md` — not an expository primary text. **Remaining gaps: 2 Sam 11–12 (Bathsheba, Nathan's rebuke), the pattern of grace-failure-restoration. No dedicated expository sermon on any 2 Samuel text.** Heavy use of Psalm 51 throughout corpus without ever preaching the backstory that generated it. |
 | **1 Kings** | 1 Kgs 3, 18 | Thin | Elijah on Carmel covered well. **Gaps: 1 Kgs 8 (Solomon's dedication prayer), 1 Kgs 19 (Elijah under the broom tree — exhaustion and ministry burnout, directly relevant to congregation)** |
 | **2 Kings** | 2 Kgs 5, 25 | Thin | Naaman and the fall of Jerusalem. **Gaps: 2 Kgs 18–19 (Hezekiah's prayer and God's deliverance)** |
 | **1 Chronicles** | None found | **MISSING** | Less urgent — largely parallel to Samuel/Kings — but 1 Chron 4:10 (Jabez) is frequently misused; a corrective sermon has value. |
@@ -55,7 +55,7 @@
 |------|----------|--------|-------|
 | **Psalms** | 51 Psalm entries in sermon-map.md | **Good** | Strong. Gaps exist in lament psalms (42–43, 88), royal psalms (2 — only raw draft; 45, 72, 110), and wisdom psalms (37, 49, 73). Psalm 22 (passion psalm) appears as a raw draft (Romans 1:1-2 companion) and a structural reference in one archive sermon — but has never been the primary preaching text of a standalone message. |
 | **Proverbs** | Prov 13 only (one raw draft) | **Thin/Missing** | Vast wisdom corpus untouched. No sermon on Prov 1–9 (Lady Wisdom), Prov 3:5-6 (trust in the Lord — cited constantly but never the primary text), Prov 31. The relational and practical ethics of Proverbs is a missing voice in this corpus. |
-| **Ecclesiastes** | Eccl 3 (memorial service only) | **Thin** | The book on meaning, futility, and fear of God preached only once — and that for a funeral. No engagement with Eccl 1–2 (vanity), Eccl 5 (words before God), Eccl 12 (remember your Creator). High relevance to the congregation's secular neighbors. |
+| **Ecclesiastes** | Eccl 2:14-26; Eccl 3 (memorial) | **Thin — growing** | Eccl 2:14-26 now preached ("What Matters?" — *hebel*, CT Studd, 2,500 meaningful days, what lasts). Eccl 3 remains only as a memorial service. Still unpreached: Eccl 1 (opening vanity of vanities), Eccl 5 (words before God), Eccl 12 (remember your Creator). The fear-of-God frame of the book has not been preached as a standalone theme. High relevance to the congregation's secular neighbors. |
 | **Song of Solomon** | None found | **MISSING** | The entire book is absent. No treatment of marital love, human sexuality under God's design, or the bride-and-groom Christ typology. Given the congregation's broken-marriage burden, this absence is notable. |
 
 ---
@@ -755,7 +755,7 @@ The corpus teaches God's forgiveness extensively. The mechanics of one human for
 | Sanctity of Life (abortion) | ★★ | `Psalms 139 (abortion).md` — explicit and direct |
 | Political Neutrality of the Pulpit | ★★ | Romans 12 weep; Romans 13; "Jesus wasn't a Republican or Democrat" |
 | Submission to Governing Authority | ★★ | Romans 13 ("Submission Before Sunrise") — primary; Nero context applied |
-| Racial Reconciliation | ★★ | "Weep With Those Who Weep" (July 2016 Dallas shootings); Romans 16 multi-ethnic names; kinism condemned in strongest terms |
+| Racial Reconciliation | ★★ | "Weep With Those Who Weep" (July 2016 Dallas shootings); Romans 16 multi-ethnic names; kinism condemned in strongest terms; `Sermon - Cultural Marxism.md` — direct treatment of CRT, intersectionality, and cultural Marxism as errors; Rom 10:12-13, Gal 3:26-29, Col 3:11, Acts 10:34-35, Deut 10:17 all deployed; epistemology grounded in Scripture over experience |
 | Sexual Purity | ★★ | `1 Thess 3 "The List I Burned"` — covers lust and purity directly |
 | Care for the Poor / Justice | ★★ | Nehemiah 5 ("The Watching World"); Romans 12 hospitality |
 | Abuse and Marriage | ★ | Romans 12 pt 3 provides a pastoral disclaimer — but the theology of marriage, abuse, and love has never been a primary preaching subject |
@@ -937,7 +937,7 @@ The classical division distinguishes *incommunicable* attributes (unique to God,
 | **Mercy** (God does not give us what we deserve) | ★★ | Sola Gratia series; Romans 4–5; throughout. |
 | **Grace** (God gives us what we do not deserve) | ★★ | Central to every sermon on salvation; Sola Gratia series; "grace is a cheetah." |
 | **Justice / Righteousness** (God always acts in perfect conformity with his own righteous character) | ★★ | Romans 3; `rev 20.md`; hell as just punishment. |
-| **Faithfulness / *Hesed*** (God keeps his covenant promises; his steadfast love endures) | ★★ | `Psalm 103 - Bless the Lord O My Soul.md`; `2 Chronicles 15 - The Hand That Won't Let Go.md`; Romans 11:29 ("the gifts and calling of God are irrevocable"). |
+| **Faithfulness / *Hesed*** (God keeps his covenant promises; his steadfast love endures) | ★★ | `Sermon - Bless the Lord O My Soul.md`; `2 Chronicles 15 - The Hand That Won't Let Go.md`; Romans 11:29 ("the gifts and calling of God are irrevocable"). |
 | **Goodness** (God is benevolent; he does good to his creatures) | ★★ | `Psalm 145 - Good to All.md` — primary subject; Psalm 84 ("no good thing does he withhold"). |
 | **Wisdom** (God always chooses the best ends by the best means) | ★ | Romans 11:33-36 doxology expounded at the close of Romans 11 pt 2 ("Oh the depth of the riches and wisdom…"); `Sermon - The Kingdom of God` cites Tozer on wisdom. Never the primary subject of a sermon. |
 | **Truth / Veracity** (God is truth; he cannot lie or deceive) | ★ | Numbers 23:19 cited in `Sermon - More Than Love.md`; Elohay Emet expounded briefly from Psalm 31:6. Never a primary subject. |

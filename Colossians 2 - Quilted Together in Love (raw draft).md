@@ -2,9 +2,32 @@
 ## Colossians 2:1–8 *(Communion Sunday / Thanksgiving season)*
 
 **Primary Text**: Colossians 2:1–8
-**Supporting Texts**: Romans 5:7–8; 1 Thessalonians 5:17–18; 1 Corinthians 11:23–29; Isaiah 53:10–11
-**Themes**: Body of Christ as quilt, bronze patina illustration, beguiling speech, gratitude as guardian, communion
-**Quoted**: John Piper (⚠️ unverified source); Ann Voskamp, *One Thousand Gifts* (⚠️ unverified exact wording)
+**Supporting Texts**: Romans 5:7–8; 1 Thessalonians 5:17–18; 1 Corinthians 11:23–29; Isaiah 53:10–11; Isaiah 64:6
+**Themes**: Body of Christ as quilt, bronze patina illustration, beguiling speech, gratitude as guardian, eucharisteo word study, communion
+**People Group**: Shawiya of Algeria (Berber; ~3 million; no known believers) *(⚠️ population and evangelized % — verify against current Joshua Project data)*
+**Quoted**: John Piper (⚠️ unverified source — likely Colossians sermon series, desiringgod.org); Ann Voskamp, *One Thousand Gifts* (⚠️ unverified exact wording); Stuart Townend, "How Deep the Father's Love for Us" ✓
+
+---
+
+We're going to be in Colossians chapter 2. While you're turning there, let's talk about the people group of the week.
+
+The **Shawiya** of Algeria — pronounced *Shah-wee-ya* — are one of the numerous Berber groups in North Africa. The major feature that binds the Shawiya together is their language. Since the eighth century, they have been dominated by the Arabs, who forbade expressions of their language and culture until recent years. Life for the Shawiya is simple. They are Muslims, and they have long been mocked by their countrymen for being simpletons — yet they are known for their wisdom. There are around three million Shawiya, and no known believers in Jesus Christ.
+
+Who will pray for the Shawiya?
+
+---
+
+*[Prayer.]*
+
+---
+
+I was listening to a pastor preach this week, and he told this story.
+
+Imagine you are in a battle. Completely outnumbered. Surrounded. The city you are in is bound to fall. There are enemy sympathizers inside the walls, doing everything they can to bring the enemy in. The enemy outside wants to do everything it can to get in and destroy you — personally you. Pretty bad news. Pretty bad day all told.
+
+Until you find out that there is a song — and if you sing it, it will make the enemy tremble and flee. So you try it, and sure enough, it works. Who wouldn't sing that song everywhere they went? You might get one of those boom boxes they used to carry in the '80s and blast it everywhere you went. You would want to sing it and teach everyone to sing it. In the end you would conquer the enemy, and there would be no threat at all.
+
+Yet we have such a song — and we don't sing it.
 
 ---
 
@@ -114,11 +137,13 @@ In the words of the old hymn — it was my sin that held him there, until it was
 - **Romans 5:7–8** ✓ Original transcript quoted NIV. Converted to ESV.
 - **Romans 5:8 informal references** ✓ Recurring KJV phrasing "while we were yet sinners" corrected to ESV "still sinners."
 - **Romans 6:1–2** ✓ "May it never be" (NASB) corrected to ESV "By no means!"
-- **Isaiah 64:6** — "polluted garment" (ESV). Note: the preacher in delivery rendered this as "used menstrual rags," reflecting the literal Hebrew behind the ESV euphemism. Linguistically defensible; not the ESV rendering. Sermon text updated to ESV wording.
+- **Isaiah 64:6** ✓ "polluted garment" (ESV). Referenced in body text ("rightly compared our righteousness to a polluted garment"). Note: the preacher in delivery rendered this as "used menstrual rags," reflecting the literal Hebrew behind the ESV euphemism. Linguistically defensible; not the ESV rendering. Sermon text uses ESV wording.
 - **1 Thessalonians 5:17–18** ✓ Matches ESV.
 - **1 Corinthians 11:23–29** ✓ Matches ESV.
-- **Stuart Townend, "How Deep the Father's Love for Us"** ✓ Attribution verified.
-- **John Piper quotes** ⚠️ Two quotes — one on hearts knit together, one on encouragement/gratitude as guardians. Both read like Piper on Colossians 2. Exact sources not confirmed. Check desiringgod.org before citing in print.
+- **Stuart Townend, "How Deep the Father's Love for Us" (1995)** ✓ Verse 2 lyrics: "It was my sin that held him there / Until it was accomplished / His dying breath has brought me life / I know that it is finished." Attribution verified.
+- **John Piper quotes** ⚠️ Two quotes — one on hearts knit together in love unlocking the knowledge of Christ, one on encouragement/gratitude as guardians. Both read like Piper on Colossians 2. Exact sources not confirmed. Check desiringgod.org before citing in print.
 - **Ann Voskamp quote** ⚠️ From *One Thousand Gifts* (2010). Exact wording not verified against published text.
-- **Bronze patina illustration** — Metallurgical details approximately correct. "8 oz to 1" ratio and "crystal lattice" language should be verified for precision if reused in print.
-- **Nero** — Traditional accounts (Tacitus, *Annals* 15.44). "Fiddled while Rome burned" acknowledged as apocryphal. "Likely the man who put Paul in jail" — reasonable for Roman imprisonment; debated among scholars.
+- **Bronze patina illustration** — Metallurgical details approximately correct. Roughly 8:1 copper-to-tin ratio is standard. "Crystal lattice" language is a popular simplification of the oxidation chemistry; accurate enough for illustration purposes. Verify for precision if reused in print.
+- **Nero** — Traditional accounts (Tacitus, *Annals* 15.44). "Fiddled while Rome burned" acknowledged as apocryphal in the sermon itself. "Likely the man who put Paul in jail" — Nero was emperor during Paul's Roman imprisonment (~61–63 AD); Paul's arrest predates the 64 AD Christian persecution. Reasonable pastoral simplification; nuance preserved by "likely."
+- **Shawiya of Algeria** ⚠️ Population (~3 million) and evangelized percentage ("no known believers") should be verified against current Joshua Project data before citing in print. Historical claim — Arab domination since the 8th century — accurate (Arab conquest of the Maghreb, 647–709 AD). Language suppression of Berber/Tamazight dialects is historically documented; Tamazight became a national language in Algeria in 2002 and an official language in 2016. Sermon figures preserved as delivered.
+- **Battle/song illustration** — Attributed to "a pastor" without naming the source. No attribution issue; no verification required.

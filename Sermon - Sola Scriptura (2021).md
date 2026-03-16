@@ -27,10 +27,10 @@ Who will pray for the Buryat of China, Russia, and Mongolia?
 
 ## Text: 2 Timothy 3:16–17
 
-> *"All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work."*
-> — 2 Timothy 3:16–17
+> "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
+> — 2 Timothy 3:16–17 (ESV)
 
-*[Note: Quoted from the NIV. ESV renders it: "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."]*
+*[Note: Original pulpit reading was NIV ("God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work"). Corrected to ESV per repo standard. ✓]*
 
 ---
 
@@ -156,8 +156,8 @@ The donkey and the elephant aren't sovereign — God is. The pope isn't sovereig
 
 Our passage today said:
 
-> *"All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work."*
-> — 2 Timothy 3:16–17
+> "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
+> — 2 Timothy 3:16–17 (ESV)
 
 Teaching. Rebuking. Correcting. Training. Fully equipping. These are some of the things Scripture does for us.
 
