@@ -368,6 +368,7 @@ A four-part series working through the scriptural foundations of the doctrines o
 | Psalm 103 | Blessing the Lord; self-examination before God; God's mercy new every morning; Thanksgiving theme; David alone with God as encouragement to lead by example; iron sharpens iron; Zaza-Dimli of Turkey people group | `Sermon - Bless the Lord O My Soul.md` | sermon |
 | Psalm 107:1-3 | Thankfulness to God for creation and salvation | `thanksgiving 2017 (2023).md` | sermon |
 | Psalm 119:161-168 | Treasure of scripture and Bible smuggling | `Psalms 119.md` | sermon |
+| Psalm 139:13–16 | Memorial for Denise's friend — graveside service; God's intentional creation of each person; no one too alone or lost for Christ; hope in the resurrection; God's goodness in grief; dove release | `Service - Denise's Friend Funeral (Psalm 139).md` | memorial |
 | Psalm 139:13 | Sanctity of life and abortion; God's intimate foreknowledge of every person before the foundation of the world; "hemmed in" (Ps 139:5) — Hebrew meaning bound/encircled/wrapped; God planned each person for a purpose (congregation members named: Carol, David Gerner, Donna, Greg, Cindy, Paula); Mt 18:5-6 millstone warning — ⚠️ "better to commit suicide" mischaracterizes the grammar (passive construction warns of judgment severity, not self-harm prescription); abortion procedure animation shown in service; unnamed physician claims C-section safer in every case since Roe v. Wade — ⚠️ physician unnamed, credentials unverifiable; statistics: <1% of 61M abortions for rape/incest/life of mother — ⚠️ medical journal unnamed, verify before reusing; idolatry of comfort/convenience/sexual expression as root cause of most abortions; Lot/Sodom illustration — ⚠️ Abraham started at 50 not 100 (Gen 18:24, error in sermon); ⚠️ Ex 20:13 "Do not kill" should be "You shall not murder" (ESV/*ratsach*); adoption encouraged; gospel | `Psalms 139 (abortion).md` | sermon |
 
 ### Proverbs
@@ -738,6 +739,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Donna Hulen | John 11:33-43 | `Service - Donna Hulen Funeral (John 11).md` |
 | Jean | John 11:30-44 | `We are gathered here today to celebrate the memory of Jean.md` |
 | Kim | Psalm 23 | `Service - Kim's Funeral (Psalm 23).md` |
+| Denise's friend (unnamed) | Psalm 139:13–16 | `Service - Denise's Friend Funeral (Psalm 139).md` |
 | Kurt | 2 Corinthians 5:1-10 | `Kurt was a man I loved dearly.md` |
 
 ---
@@ -886,6 +888,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Kurt was a man I loved dearly.md` — Eulogy for Kurt
 - `psalm 23 1-4..md` — Psalm 23:1-4 — Shadow of death
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Judy Ayers memorial; death as homecoming
+- `Service - Denise's Friend Funeral (Psalm 139).md` — Psalm 139:13–16 — Graveside service for Denise's friend (unnamed); God's intentional creation (no one too alone or lost for Christ); hope in the resurrection; God's goodness in grief; dove release
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — New Year's Eve car accident; fragility of life
 
 ### Discipleship / Cost of Following Christ
