@@ -17,7 +17,6 @@
 - "Anglican church of Argentina" corrected to "Anglican Province of the Southern Cone" ✓
 - "vs 9" → "verse 9"; "2 corinthians 12" → "2 Corinthians 12"
 - "in sufficient" → "insufficient"
-- "The law that would have covered our sin" ⚠️ flagged — see Repair Log note above
 - ⚠️ "five year battle" — approximate; the Diocese of New Westminster authorized same-sex blessings in 2002; Packer formally departed 2008 — approximately six years
 - ⚠️ "Anglican church of Argentina" — corrected to "Anglican Province of the Southern Cone" (Provincia Anglicana del Cono Sur), covering Argentina, Bolivia, Chile, Paraguay, Peru, and Uruguay; Argentina is the primary administrative center; the sermon's shorthand is understandable but imprecise
 - ⚠️ "The law that would have covered our sin" (original transcript, Section VI) — slightly imprecise; the law cannot cover sin, it exposes and condemns it; what the law demanded was perfect righteousness we could not produce; suggested rephrasing: "The law that demanded a righteousness we couldn't produce"; not corrected in the body to avoid rewriting what was preached, but should be revised if re-preached or published
