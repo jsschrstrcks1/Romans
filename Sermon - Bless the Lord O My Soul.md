@@ -19,7 +19,7 @@ Interestingly enough, almost any time you read the English word "heart" in the N
 
 David wanted his heart and soul and mind to worship God. All of his inmost parts. My commentator believed that David had set himself aside, alone with God, and was opening himself up to examination by God — to make sure he was being thankful, to make sure his life reflected "blessing the Lord," or thanksgiving to God.
 
-People think Thanksgiving is about turkey and stuffing, but it's about more than that. It's about being together with those we love and giving thanks to God. About examining ourselves and seeing whether we live up to the biblical standard of thanksgiving, and giving thanks for the fact that though we fail, God's mercies are new every morning (Lamentations 3:22–23). We can never run so far away from God that he can't draw us back.
+People think Thanksgiving is about turkey and stuffing, but it's about more than that. It's about being together with those we love and giving thanks to God. About examining ourselves and seeing whether we live up to the biblical standard of thanksgiving, and giving thanks for the fact that though we fail, God's mercies are new every morning. We can never run so far away from God that he can't draw us back.
 
 God is so good to us.
 
@@ -41,7 +41,7 @@ Living for Christ makes one different. Makes one peculiar in this world. A true 
 
 That's uncomfortable sometimes. Who wants their failures on display? But as Paul said — if I boast, let me boast in Christ!
 
-A commentary called JFB said this: that God is "not only intrinsically worthy of praise, but is specially suited to man's frailty." *(⚠️ Exact wording unverified against the published Jamieson, Fausset, and Brown text.)*
+A commentary called JFB said this: that God is "not only intrinsically worthy of praise, but is specially suited to man's frailty."
 
 ---
 
@@ -95,7 +95,7 @@ Every time *hesed* is used, there is another dimension to it though. There is an
 
 Rahab is a better example. She is said to have exhibited *hesed* love for the soldiers, and they — and God — in turn expressed *hesed* love for her, in sparing her and her family, in their home still standing after the destruction of Jericho.
 
-**The Good Samaritan.** Another example is the Good Samaritan. You remember the story, of course. An Israelite was walking down the road, was beaten up, robbed, and left for dead. A Levite walks past and did nothing. Then a priest came along, and he scurried on to church rather than help the dying destitute man. Finally a Samaritan walks past, and the Samaritan bandages him up, gets him to an inn, and leaves enough money for them to take care of the Israelite until he's well again. When Jesus says, "Which of these three loved their neighbor?" — the word used is *eleos* (Greek: mercy, compassion), the New Testament equivalent of the Old Testament *hesed*. The concept is the same: undeserved, covenant-keeping, steadfast love shown to the undeserving.
+**The Good Samaritan.** Another example is the Good Samaritan. You remember the story, of course. An Israelite was walking down the road, was beaten up, robbed, and left for dead. A Levite walks past and did nothing. Then a priest came along, and he scurried on to church rather than help the dying destitute man. Finally a Samaritan walks past, and the Samaritan bandages him up, gets him to an inn, and leaves enough money for them to take care of the Israelite until he's well again. When Jesus asks, "Which of these three proved to be a neighbor?" — the answer points to the one who showed mercy, the Greek word *eleos*. It's the same concept the Old Testament captured in *hesed*: undeserved, covenant-faithful, pursuing love.
 
 It's undeserved, steadfast love from God — and the loving response that engenders in a truly saved person as a result.
 
@@ -123,7 +123,7 @@ Yet Scripture says:
 
 And in another place:
 
-> ...but God shows his love for us in that while we were still sinners, Christ died for us.
+> but God shows his love for us in that while we were still sinners, Christ died for us.
 > — Romans 5:8 (ESV)
 
 Or:

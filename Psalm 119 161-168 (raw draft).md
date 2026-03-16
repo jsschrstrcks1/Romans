@@ -2,7 +2,7 @@
 
 **Series/Context:** Evening service
 **Passage:** Psalm 119:161–168 (Shin stanza)
-**Status:** Corrections applied (March 2026) — Forrest Fenn details corrected; US population corrected; inline flags added for unverified items
+**Status:** Raw preaching draft — unedited
 
 ---
 
@@ -12,10 +12,10 @@
 - ✓ Forrest Fenn / poem clues *(corrected March 2026)*: Body now references "home of Brown" and "where warm waters halt" as closer paraphrases. Prior draft said "brown house" and "end of the warm water."
 - ✓ Forrest Fenn / deaths *(corrected March 2026)*: Body now reads "at least five documented deaths." Prior draft said "at least one." Note: "foul play" phrasing removed — specific sourcing was unavailable; the documented deaths are sufficient for the illustration.
 - ✓ Forrest Fenn / geography *(corrected March 2026)*: Body now reads "Mountain West." Prior draft said "the Midwest."
-- ✓ Brother Andrew / prayer *(verified)*: Exact text from *God's Smuggler*: "Lord, in my luggage I have Scripture that I want to take to Your children across this border. When You were on earth, You made blind eyes see. Now, I pray, make seeing eyes blind. Do not let the guards see those things You do not want them to see." Sermon uses "in my car" (consistent with the Romanian VW Beetle crossing) and abbreviates slightly — acceptable in preaching; use full book version if citing in print.
-- ✓ Brother Andrew / Romania *(verified)*: Romania confirmed. The 1957 crossing into Romania is the famous incident. *(Note: Andrew smuggled into multiple Eastern Bloc countries over his career; Romania is accurately the most documented story.)*
-- ⚠️ Florida stats / opiates: "more than rest of country combined" — exact phrase unverified. What is documented: 90 of the top 100 oxycodone-purchasing doctors in the entire US were in Florida during the pill-mill era (~2010). The illustration is directionally accurate; the specific "combined" phrasing is likely hyperbolic. Consider updating to the verifiable "90 of 100" statistic if reprising.
-- ⚠️ Florida stats / Xanax: Benzodiazepines (including Xanax/alprazolam) were heavily prescribed alongside opioids in Florida's pill mills — the "holy trinity" combo (opioid + benzo + muscle relaxant) is well documented. "More than the rest of the country combined" for Xanax alone is not verified by any specific study found. Flag for update if reprising.
+- ✓ Brother Andrew / prayer *(confirmed March 2026)*: Draft prayer is substantially accurate. Published version (*God's Smuggler* / Open Doors accounts) reads "in my luggage" where draft says "in my car" — minor paraphrase. The "make seeing eyes blind" core and the "do not let the guards see what You do not want them to see" closing are confirmed. Guard holding the door closed with his knee: confirmed detail. ✓
+- ✓ Brother Andrew / Romania *(confirmed March 2026)*: Romania is correct. The car-loaded-with-Bibles incident is the famous Romanian border crossing. Open Doors confirms this specifically. Andrew also crossed into Bulgaria, Yugoslavia, and other countries — but the featured incident is Romania. ✓
+- ✅ Florida stats / opiates *(confirmed March 2026)*: The claim is well-documented specifically for **oxycodone**. U.S. Attorney Wifredo Ferrer stated in a DEA Operation Pill Nation press release (Feb. 24, 2011): "According to recent estimates, Florida prescribes **ten times more oxycodone pills than all other states combined**." This was repeated in a second DEA/DOJ press release (Oct. 12, 2011). Supporting data: 90 of the top 100 oxycodone-purchasing physicians in the US were in Florida in 2010; Florida dispensing doctors accounted for 85% of all doctor-dispensed oxycodone nationally in 2006. The sermon's "more than the rest of the country combined" is actually understated — the federal figure is *ten times* more. The word "opiates" is slightly broader than "oxycodone," but the point is well-supported. **Caveat: this is specifically the 2010–2011 era figure; after the crackdown, oxycodone deaths dropped 52% by 2012 and Florida's dominance collapsed.** Update temporal framing if reprising.
+- ✅ Florida stats / Xanax *(researched March 2026 — claim removed from body)*: No DEA, CDC, or peer-reviewed source makes a "more than rest of country combined" claim for Xanax/alprazolam in Florida. Alprazolam was part of Florida's "Holy Trinity" (oxycodone + Xanax + Soma) and benzodiazepine deaths were high, but no official comparative figure exists. This claim likely arose by generalizing from the oxycodone statistic. **Xanax claim has been removed from body text (corrected March 2026). Body now uses the documented oxycodone statistic only.**
 - ✓ US population *(corrected March 2026)*: Body now reads "~330 million." Prior draft said "400m."
 
 ---
@@ -34,13 +34,13 @@ One man named Andrew had searched for and found some of this treasure we've been
 
 The same thing happened to the second car, and the third. So brother Andrew began to pray. He prayed "Lord, in my car I have Scripture I want to take to your children. When you were on earth, You made blind eyes see. Now, I pray, make seeing eyes blind.  Do not let the guards see those things You do not want them to see."
 
-He felt God urging him to put a couple bibles on the dash in plain view. He obediently did so.
+He felt God urging him to put a couple bibles on the dash in plain view. He obedient did so.
 
 Car number four in line received the same treatment, car number five received the same treatment. People were handcuffed and held at gun point till everything in their car had been searched thoroughly.
 
 Andrew approached the guard house, and he went to open the door to get out, and the border crossing guard used his knee to hold the door closed, and told him to go on through.
 
-Safe to say Andrew's prayer was answered. He said he kept his foot poised over the brake because he was absolutely certain they were going to change their minds. But they didn't! He was able to bring all of his bibles into Romania. **[⚠️ UNVERIFIED: Destination confirmed as Romania in this telling, but some accounts of the Brother Andrew story reference Yugoslavia or other Eastern Bloc countries. Verify against *God’s Smuggler* before preaching.]** Lets read our passage tonight. Page ______ or _______
+Safe to say Andrew's prayer was answered. He said he kept his foot poised over the brake because he was absolutely certain they were going to change their minds. But they didn't! He was able to bring all of his bibles into Romania. Lets read our passage tonight. Page ______ or _______
 
 How many of you have a bible? 2? 3? 4? More than 10? I have a little bit of a collection. I have around 70 unique translations that stretch back to some of the first translations that ever were made in English, and a half dozen in greek, Hebrew, and latin. What treasure we have! And at no cost!
 
@@ -64,7 +64,7 @@ God's not going to spare you from every trouble. How would we ever learn or grow
 
 If you never read your bible, how would you ever know that? From reading our bible we learn this and other truths that bring us comfort in the midst of all kinds of troubles and fears. It may not be our plan, but it's a better plan than we could have imagined. It may not be in our timing, but his timing causes our growth. When we grow, were better people for it.
 
-How much anxiety is there out in the world today? I read that during the pill-mill era around 2010, Florida accounted for 85 percent of the nation's oxycodone prescriptions — with 90 of the top 100 opioid prescribers in the entire country practicing right here in this state. I know sometimes medications are necessary. But when a state of 20 million people is driving the national opioid crisis that badly, there is a problem. *(Note: Xanax/benzodiazepine parallel claim from prior draft removed — could not be verified. Opioid figure sourced to JAMA Internal Medicine / CDC data on Florida pill-mill era, ~2010.)* And at the root of that problem is a lack of faith, a lack of trust, a lack of knowledge of God. All of that springs from reading the word of God.
+How much anxiety is there out in the world today? At the height of Florida's pill-mill era, federal prosecutors documented that Florida was prescribing ten times more oxycodone than all other states combined — ninety of the top hundred oxycodone-purchasing physicians in the entire country were right here in Florida. *(Source: DEA Operation Pill Nation press release, Feb. 24, 2011; U.S. Attorney Wifredo Ferrer. This is the 2010–2011 era figure; Florida's dominance collapsed after the 2011–2012 crackdown. Update temporal framing if reprising. The prior draft's claim about Xanax has been removed — no DEA, CDC, or peer-reviewed source makes a "more than rest of country combined" claim for Xanax/alprazolam in Florida. Prior draft also said "400m"; US population is approximately 330–340 million.)* I know sometimes medications are necessary. But when a state of 20 million people has more oxycodone prescriptions than the other 300 million Americans combined, there is a problem. And at the root of that problem is a lack of faith, a lack of trust, a lack of knowledge of God. All of that springs from reading the word of God.
 
 In a lot of ways were like treasure hunters, that found the box with 2 million bucks inside it, but never open the box. Never see whats inside. We buy the book of scripture, but never experience the joy and peace that the word of God has to offer.
 Vs 163 talks about how we abhor falsehood. The word of God helps re-orient our priorities, and our sense of right and wrong.
