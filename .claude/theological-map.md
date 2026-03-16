@@ -890,6 +890,24 @@ Abortion explicitly condemned as idolatry — elevating comfort above God's comm
 
 Safety is not revenge. Refusing to return evil for evil does not mean offering your body as a doormat for someone else's sin. **Explicit. Tradition: Pastoral.**
 
+#### Prayer — God-Centered, Self-Surrendering, Daily
+
+> "Prayer is not trying to get God to agree with me. Prayer is not trying to line God up with what I need. Prayer is myself affirming the sovereignty and majesty of God, and taking my will and making it submissive to His."
+> — MacArthur, *The Paternity of Prayer* (2234), cited in `Sermon - Lord Teach Us to Pray (Matthew 6).md`
+
+> "The death of self is the beginning of a true prayer life."
+> — MacArthur, *The Plan of Prayer, Part 2* (2238), cited in `Sermon - Lord Teach Us to Pray (Matthew 6).md`
+
+The Lord's Prayer treated as school not script — *houtōs oun* ("along these lines," Matthew 6:9) means a pattern to inhabit, not words to recite. Every petition oriented toward God before asking anything self-ward: three petitions Godward (name hallowed, kingdom, will) precede all personal petitions.
+
+**Two kinds of forgiveness distinguished**: (1) *Judicial* — once for all, positional, eternal (Romans 8:1 "no condemnation"); (2) *Parental* — relational, daily, confessional — restores the joy of fellowship without restoring salvation (Psalm 51:12 "restore to me the *joy* of your salvation"; 1 John 1:9). "Forgive us our debts" addressed to believers seeking parental forgiveness, not judicial re-entry. John 13 foot-washing is the governing illustration (already bathed = judicial settled; feet washed daily = parental maintained).
+
+**Prayer as perpetual dependence** — "daily bread" requires daily return to the Father; one-time provision followed by independence is not the model Jesus gave. George Mueller's "the answers are always coming" as description of life oriented around constant prayer.
+
+**"Lead us not into temptation"** does not accuse God of tempting (James 1:13 — God tempts no one); it is the prayer of a person who knows their own fragility and asks to be led rather than to lead themselves.
+
+**Explicit. Tradition: Puritan (Owen, Watson); MacArthur Matthew corpus.**
+
 ---
 
 ### 10. Missiology
