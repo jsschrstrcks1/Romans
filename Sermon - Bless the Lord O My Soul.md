@@ -15,7 +15,7 @@ Continuing the theme of last week, we're going to be in Psalm 103 today. Psalm 1
 
 One of the commentators I read, who is much better at the Hebrew here than I am, says it carries with it the sense that David was setting himself aside from people — alone, just him and God. It's as though he's crying out for the sum total of his being to worship God: heart, soul, and mind.
 
-Interestingly enough, almost any time you read the English word "heart" in the New Testament — and I know we're in the Old Testament here — the Greek reads "intestines." The people of this time period believed the center of their emotions was not their heart but their intestines. If we're being honest, the heart pumps blood but doesn't really have a lot to do with emotions other than moving the blood that carries the neurotransmitters sent out by the body. So we do basically the same thing. If we were to say "heartsick," we know someone is having a hard time emotionally. If we say "body sick," we would think something else — even if the latter might be a bit more accurate.
+Interestingly, there are places in the New Testament — and I know we're in the Old Testament here — where the English word "heart" or "deep affection" is actually translating a Greek word that means intestines: *splanchna*. Paul uses it that way — in Philippians and Philemon, where "affection" and "hearts" in English are really *splanchna* underneath. John uses it in 1 John 3:17, "closes his heart against him." The ancient world located deep emotion not in the chest but in the gut. And if we're being honest, the heart pumps blood but doesn't have a lot to do with emotions other than moving the blood that carries the neurotransmitters sent out by the body — so they weren't entirely wrong. We say "heartsick" and we mean someone is in a hard time emotionally. The ancient listener would have said the same thing and pointed a few inches lower.
 
 David wanted his heart and soul and mind to worship God. All of his inmost parts. My commentator believed that David had set himself aside, alone with God, and was opening himself up to examination by God — to make sure he was being thankful, to make sure his life reflected "blessing the Lord," or thanksgiving to God.
 
@@ -39,7 +39,7 @@ It strikes me right away that though in the moment of writing David was alone, e
 
 Living for Christ makes one different. Makes one peculiar in this world. A true follower of Christ stands out from the crowd in the same way one would if they had pressed their face into a red-hot glowing stove burner. The circular scars for the rest of your life would mark you as having pressed your face into the stove. The same is true of followers of Christ. We should live our lives as examples of God's mercy.
 
-That's uncomfortable sometimes. Who wants their failures on display? But as Paul said — if I boast, let me boast in Christ!
+That's uncomfortable sometimes. Who wants their failures on display? But as Paul said — *Let the one who boasts, boast in the Lord* (1 Corinthians 1:31).
 
 A commentary called JFB said this: that God is "not only intrinsically worthy of praise, but is specially suited to man's frailty." *(⚠️ Exact wording unverified against the published Jamieson, Fausset, and Brown text.)*
 

@@ -127,6 +127,15 @@ Not mere prescience. Covenantal election-love. **Explicit. Tradition: Augustinia
 
 Suffering is not punishment for the believer. It is training. **Explicit. Tradition: Reformed, Puritan.**
 
+> "My grace is sufficient for you, for my power is made perfect in weakness."
+> — 2 Corinthians 12:9, ESV (cited in `Sermon - A Theology of Weakness.md`)
+
+Weakness is the workshop where God does his refining work — not incidental but purposeful. J.I. Packer's *Weakness Is the Way* introduced as frame. Buckwheat milling illustration: grain useless in its natural state; only through crushing between millstones does it become flour — useful. Applied to the believer: we are hard little rocks until God's refining process transforms us into something that can nourish and bless. **Explicit. Tradition: Reformed, Packer.**
+
+#### Idolatry of Happiness — The American Idol
+The Declaration of Independence's "pursuit of happiness" is identified as a paradigm lens through which Americans — including American Christians — unconsciously filter reality. When happiness becomes the center of worship, self is elevated above God (*ὑπεραίρωμαι*, inflated sense of one's own importance — 2 Cor 12:7). Social/political debates on same-sex marriage, abortion, and government entitlements are all analyzed as downstream effects of happiness-worship. Brokenness and suffering are God's appointed "medicine" for this idol — not as cruelty, but as parental love that will not let idolatry fester. **Explicit. Tradition: Conservative Reformed Evangelical.**
+> — `Sermon - A Theology of Weakness.md`
+
 ---
 
 ### 2. Christology (Doctrine of Christ)
@@ -941,7 +950,16 @@ The `Lords day romans 14 gal 4.md` file treats Sabbath/Lord's Day observance as 
 > "God does not cause Sin, but He is capable of turning evil into good in a persons life."
 > — `Philippians 3 - 2025.md`
 
+> "God lets hard things happen. God lets bad things happen to good people to produce better people. In the fire of the crucible God burns away imperfections in your life."
+> — `Exodus 2 - Suffering Is Not Outside His Plan.md`
+
 **Explicit. Tradition: Reformed, Puritan.**
+
+#### Suffering as Protective Providence
+> "If they had remained in the promised land rather than traveling to Egypt — apart from the direct intervention of God — they would have been destroyed many times over, or brought into subjugation by a far less merciful master."
+> — `Exodus 2 - Suffering Is Not Outside His Plan.md`
+
+God's protective purposes can be invisible inside the hardship itself. The egg illustration: the constriction that looks like cruelty is the process that produces the strength to survive. Suffering is not merely discipline — it is sometimes the only path to life. **Explicit. Tradition: Reformed, pastoral.**
 
 #### Spiritual Warfare as Endurance, Not Theatrics
 > "William Gurnall — The Christian in Complete Armour. Spiritual warfare framed as endurance, not theatrics."
