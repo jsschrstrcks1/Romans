@@ -207,12 +207,12 @@ These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT b
 |---|--------|-------------|--------|
 | 1 | Paul's Final Letter | 2 Timothy 1:1-2 | ~~Extracted~~ → `2 Timothy 1 1-2 - Paul's Final Letter (raw draft).md` ✓ |
 | 2 | Cultural Marxism / CRT | Romans 10:12-13 | Raw in memory2.md — needs extraction, cleanup, ESV conversion, verification |
-| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | Raw in memory2.md — needs extraction, cleanup, verification |
+| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ~~Raw in memory2.md~~ → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` ✓ — Scripture refs corrected March 2026; ⚠️ JFB quote unverified |
 | 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | Partially extracted (`00c1185`); verify if complete |
 | 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | Raw in memory2.md — needs extraction, cleanup, verification |
 | 6 | Prayer | Colossians 4:2-4 | Raw in memory2.md — needs extraction, cleanup, verification |
 | 7 | Church Membership / Body of Christ | 1 Corinthians 12:12-27 | Raw in memory2.md — needs extraction, cleanup, verification |
-| 8 | Sowing and Reaping | Galatians 6:7-10 | Raw in memory2.md — needs extraction, cleanup, verification |
+| 8 | Sowing and Reaping | Galatians 6:7-10 | ~~Raw in memory2.md~~ → `Galatians 6 - Sowing and Reaping (raw draft).md` ✓ — Flood story corrected March 2026; Toplady ✓, Spurgeon ✓, Luther ✓ verified March 2026; Lawson wording confirmed, no primary source located; Sindhi Samas verified (Joshua Project — ~1.63M, Frontier/Unengaged); Titanic illustration researched — current version embellished/unattributed (real Peuchen kernel exists but woman/casino details are not historical) |
 | 9 | Angels, Demons, Etcetera | Ephesians 1:3-14 | Raw in memory2.md — needs extraction, cleanup, verification |
 
 **Note**: Several of these (2 Tim 2:3-7, 2 Tim 3:14+, Titus 3:1-7, Gal 3:23+, 2 Tim 2:14-26, Matt 5:13-16) have been processed per sermon-queue.md — they exist in Other-Sermons but also remain as raw text in memory2.md. The 9 listed above are the ones still needing standalone file extraction.
