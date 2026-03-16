@@ -11,12 +11,13 @@
 
 - [ ] **Mo-Jer-Hai of China** — People group details need confirmation before presenting publicly. Claimed: ~7,000 members, Hunan mountains, completely unreached and unengaged, culture centers on singing and dancing. [FLAG: VERIFY WITH JOSHUA PROJECT OR EQUIVALENT SOURCE BEFORE PREACHING]
 - [ ] **C.T. Studd quote** — The widely-known form is: “Only one life, ‘twill soon be past, / only what’s done for Christ will last.” The draft drops “Only one life,” — inline correction note added in body. ⚠️ Primary source in Studd’s published writings not confirmed — attribution widely held but treat as unverified.
-- [ ] **Samuel Sey quote** — "If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear." Preacher describes him as "a southern Baptist from Ghana." Verify attribution, exact wording, and that the denominational description is accurate. [FLAG: VERIFY ATTRIBUTION AND WORDING]
-- [ ] **"Lovely" used only once in the NT** — The Greek word in Philippians 4:8 is *prosphilēs*. Verify that this is its only NT occurrence. Also verify that the two LXX (Septuagint) occurrences are indeed Song of Solomon and Psalm 84:1. [FLAG: VERIFY LINGUISTIC CLAIM]
+- [ ] **Samuel Sey quote** — "If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear." ⚠️ The sermon body describes him as "a Southern Baptist from Ghana who now lives and preaches in Ghana" — this description appears to be inaccurate. Samuel Sey is a Ghanaian-Canadian Christian author and commentator, not a Southern Baptist pastor based in Ghana. Correct the description in the body before preaching. The quote itself still requires wording verification against his published work. [FLAG: CORRECT DESCRIPTION IN BODY; VERIFY QUOTE WORDING]
+- [x] **"Lovely" (*prosphilēs*) — NT hapax confirmed** ✓: The Greek word *prosphilēs* (προσφιλής) appears only once in the entire NT, at Philippians 4:8. NT hapax status confirmed.
+- [ ] **LXX occurrences of *prosphilēs*** — The claim that *prosphilēs* occurs twice in the LXX, in Song of Solomon and Psalm 84:1, still requires verification against a LXX concordance (e.g., Hatch-Redpath). Do not preach this claim as verified until confirmed. [FLAG: VERIFY LXX OCCURRENCES]
 - [x] **Psalm 84 quote** — ESV Psalm 84:1–2 verified ✓: the body quotation matches ESV exactly. ⚠️ LXX occurrence with *prosphilēs* cannot be confirmed without a concordance — see “lovely” flag.
 - [x] **Greek word for "noble/honorable" = semnos** ✓ *Confirmed*: The Greek behind "whatever is honorable" (ESV Phil 4:8) is σεμνός (*semnos*). The body gloss "noble" is acceptable; ESV renders it "honorable." Both capture the sense of dignified, worthy of respect.
 - [x] **Philippians 4:7 ESV** — Verified ✓: *“and the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.”* Body capitalizes “And” as quotation opener; ESV text is otherwise accurate.
-- [ ] **Spurgeon quote** — "You will never glory in God till first of all God has killed your glorying in yourself." Verify exact wording and source. [FLAG: VERIFY EXACT WORDING AND SOURCE]
+- [ ] **Spurgeon quote** — "You will never glory in God till first of all God has killed your glorying in yourself." The Spurgeon sermon corpus files are not downloaded in this repository (maps exist but sermon text files require download). Cannot verify from local sources. Verify against ccel.org, Logos, or a Spurgeon concordance before using from the pulpit. [FLAG: VERIFY — CORPUS NOT AVAILABLE LOCALLY]
 - [ ] **Richard Baxter quote** — "Unbelievers seek their happiness in the things of the world. Believers find their happiness in God. It is contrary to the nature of faith for a believer to seek peace in his earthly enjoyments. Our present pilgrimage is a prison, yet alas, we too commonly do this. By this we kill our comforts and then complain they are missing. It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain." Verify attribution and accuracy. [FLAG: VERIFY]
 - [ ] **Pew Bible page number** — Left blank in draft. Fill before Sunday.
 
@@ -134,7 +135,7 @@ Worthy rewards for sure.
 
 **[Whatever is true — the list]**
 
-As we turn to the final part of the chapter, I want to read a quote from a preacher named Samuel Sey. He's a Southern Baptist from Ghana who now lives and preaches in Ghana. He wrote: *"If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear."*
+As we turn to the final part of the chapter, I want to read a quote from a preacher named Samuel Sey. He's a Ghanaian-Canadian Christian author and commentator. **[NOTE: The original description "Southern Baptist from Ghana who now lives and preaches in Ghana" appears to be inaccurate — verify his description before preaching.]** He wrote: *"If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear."*
 
 **[FLAG: Verify Samuel Sey quote — exact wording, attribution, and whether "Southern Baptist from Ghana" is an accurate description.]**
 

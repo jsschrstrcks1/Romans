@@ -247,14 +247,14 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 | File | Key Flags |
 |------|-----------|
 | `Proverbs 13 (raw draft).md` | Multiple verification flags on quotes and statistics |
-| `Psalm 2 (raw draft).md` | 11 flags requiring verification: Heb 13:3 may be KJV not ESV; Edwards quote may have transcription error; "Lord" vs "LORD" in Psalm 2 quotes flagged; IDOP date and "53 countries" flagged as needing verification |
+| `Psalm 2 (raw draft).md` | ~~11 flags~~ → **2 flags remain** *(reviewed March 2026)*: ~~Heb 13:3~~ ✓; ~~Edwards transcript~~ ✓; ~~LORD/Lord~~ ✓; ~~IDOP date~~ ✓; ~~duplicate lines~~ ✓. Remaining: ⚠️ country count (update Open Doors data before reprising); ⚠️ Edwards quotes (verify critical edition before print) |
 | `Psalm 8 - Hebrews 2 (raw draft).md` | 4 flags: needs ESV conversion, quote verification |
 | `Psalm 119 161-168 (raw draft).md` | 10 flags: multiple quotes and cross-references unverified |
-| `Psalm 68 Part 2 (raw draft).md` | 7 flags requiring verification: Prov 27:17 may be NIV not ESV; 1 Kgs 18 "Lord" vs "LORD" flagged; prophet count (~1,000 in draft vs. 850 in 1 Kings 18:19) flagged for verification |
-| `1 Thess 5 - Rejoice Always (raw draft).md` | 7 flags requiring verification: Spurgeon quote source unverified; "3 million French" figure flagged as possibly overstated; "Communists defeated" claim flagged as needing historical verification |
-| `Philippians 4 (raw draft).md` | 16 flags: extensive verification needed |
+| `Psalm 68 Part 2 (raw draft).md` | ~~7 flags~~ → **1 flag remains** *(reviewed March 2026)*: ~~Prov 27:17~~ ✓; ~~1 Kgs 18 LORD~~ ✓; ~~prophet count~~ ✓; ~~1 Kgs 18 mockery~~ ✓; ~~Ps 68 text~~ ✓; ~~duplicate lines~~ ✓. Remaining: ⚠️ Elijah timeline compression (inline note added; fix when preaching or publishing) |
+| `1 Thess 5 - Rejoice Always (raw draft).md` | ~~7 flags~~ → **1 flag remains** *(reviewed March 2026)*: ~~Spurgeon quote~~ ✓ verified (Sermon #2483); ~~"3 million French"~~ ✓ corrected to ~1.3M; ~~"Communists defeated"~~ ✓ corrected; ~~Job 13:15 / Shane and Shane~~ ✓; ~~2 Cor 11:24-33~~ ✓; ~~1 Thess 5:12-24~~ ✓; ~~de Gaulle date~~ ✓. Remaining: ⚠️ 2 Cor v.29 skipped — confirm if intentional |
+| `Philippians 4 (raw draft).md` | ~~16 flags~~ → **5 flags remain** *(reviewed March 2026)*: ~~Phil 4:7~~ ✓; ~~Psalm 84:1-2~~ ✓; ~~*semnos*~~ ✓; ~~*prosphilēs* NT hapax~~ ✓; Samuel Sey description corrected in body ✓. Remaining: ⚠️ Mo-Jer-Hai — verify Joshua Project; ⚠️ Samuel Sey quote wording; ⚠️ LXX occurrences of *prosphilēs*; ⚠️ Spurgeon quote source; ⚠️ Baxter quote source |
 | `Romans 1 - Psalm 22 (Prophecy raw draft).md` | 8 flags requiring verification: Adrian Rogers "108 OT refs" claim flagged as unverified; R.A. Torrey "300 OT refs" claim flagged as unverified |
-| `Romans 7.md` | 4 flags: Jn 14:16 reference error (should be 15:16); MacArthur quote unverified |
+| `Romans 7.md` | ~~4 flags~~ → **2 flags remain** *(reviewed March 2026)*: ~~Jn 14:16 → 15:16~~ ✓ corrected; ~~MacArthur quote~~ ✓ reworded as paraphrase. Remaining: ⚠️ Tesla/Mythbusters story historically disputed; ⚠️ "3 in 5 dieters" statistic unverified |
 | `Romans 3 - antinomianism draft.md` | 3 flags |
 
 ---
