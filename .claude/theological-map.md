@@ -197,7 +197,10 @@ No saint, priest, pope, prophet, or governing body can mediate. **Explicit. Trad
 > "Blood had to be shed to cover Adam and Eve's nakedness when God knit them clothes of fur. Blood would have to continue to be shed to keep their sin covered."
 > — `Gen 4 - Cain and Abel.md`
 
-Central atonement theory. Named explicitly by term ("penal substitutionary atonement") in multiple sermons. The Genesis 4 sermon traces the blood-sacrifice principle back to Eden and Abel's firstborn lamb — a type of Christ. **Explicit. Tradition: Reformed, Evangelical.**
+> "It was a cosmic trade of sorts… Christ was the only living human that could be fully righteous. He was the only one able to make that payment. He was the only one who could do more than cover our sin like a bandaid. His death satisfied a debt we could never hope to pay."
+> — `Galatians 3 - Law Faith and Adoption.md`
+
+Central atonement theory. Named explicitly by term ("penal substitutionary atonement") in multiple sermons. The Genesis 4 sermon traces the blood-sacrifice principle back to Eden and Abel's firstborn lamb — a type of Christ. The Galatians 3 sermon uses the credit-card-debt illustration ($5T debt, sentenced to death) and the "cosmic exchange" language — the righteous for the unrighteous. **Explicit. Tradition: Reformed, Evangelical.**
 
 #### Definite/Particular Atonement
 > "Christ's death was not a vague potential. He laid down His life for His sheep. He gave Himself for the church, to present her holy and blameless. The atonement is definite — not limited in its power, but particular in its design."
@@ -363,6 +366,12 @@ Sin is deceptive *and* defiant. Not mere frailty, ignorance, or poor choices. **
 
 Both Jew and Gentile, religious and irreligious. No exceptions. **Explicit. Tradition: Pauline/Reformed.**
 
+#### The Law as Guardian — Cannot Save, Only Expose
+> "The law is there to show us where we fall short. To show us what is right and what is wrong. But the law can't save us. The law is a tool, like the bandaid."
+> — `Galatians 3 - Law Faith and Adoption.md`
+
+The Galatians 3 sermon teaches the law as *paidagōgos* (guardian, Gal 3:24) — holding us captive until faith came. The Ten Commandments test (3rd, 8th, 9th, 6th — all failed) demonstrates universal guilt under the law. The bandaid illustration: sacrifice covered sin but couldn't remove it; the debtors' prison illustration: the law imprisons but cannot pay the debt. James 2:10 cited: guilty of one, guilty of all. **Explicit. Tradition: Reformed, Pauline.**
+
 #### Conscience as Real Courtroom
 > "Conscience as a real courtroom." (claude.md theological profile)
 
@@ -523,7 +532,10 @@ Real assurance grounded in Christ's work. But false assurance is a pastoral dang
 > "We deserve Hell, but we were given an inheritance. We deserve a punishment, but instead we are equipped. We deserve fire for eternity, but instead we are made sons and daughters."
 > — `Heb 12.md`
 
-Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. **Explicit. Tradition: Reformed Baptist.**
+> "In a very real sense when we receive this gift, we become sons and daughters of God. We become heirs to the kingdom."
+> — `Galatians 3 - Law Faith and Adoption.md`
+
+Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. The Galatians 3 sermon develops the *huios* (υἱός) word study — Paul's deliberate choice over *teknon* to emphasize legal heir status and full inheritance rights. The foster-care-to-adoption illustration (chicken coop → family) mirrors God's adoption of sinners. John 1:12 cited: "he gave the right to become children of God." **Explicit. Tradition: Reformed Baptist.**
 
 #### Election and Reprobation — Infralapsarian
 > "God did not inject unbelief into Esau's heart. Esau, like all of us, was already a sinner by nature and choice. Reprobation is not God actively working sin into a man's life; it is God leaving a sinner to himself."
