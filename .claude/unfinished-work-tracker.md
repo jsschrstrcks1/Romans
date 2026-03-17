@@ -2,7 +2,9 @@
 
 *Compiled from review of all 21 distinct work threads (99 merged PRs across 21 branch families), the full sermon corpus, sermon-queue.md, memory2.md, preaching-gap-analysis.md, and individual file review.*
 
-*Date: March 13, 2026*
+*Date: March 13, 2026 — Last updated: March 16, 2026*
+
+**March 16 session notes**: Resolved merge from origin/main (10 files). All 10 new files verified and mapped in sermon-map. Two new files with standing pastoral flags documented below (Deuteronomy 8, Psalm 42 — Part IV). Tracker summary counts corrected accordingly. memory2.md extractions confirmed complete. 1 Corinthians 12 polished file reviewed — clean.
 
 ---
 
@@ -10,14 +12,14 @@
 
 | Category | Count |
 |----------|-------|
-| Unprocessed sermons in memory2.md | 9 |
-| Blocked sermons (source text missing) | 2 |
+| Unprocessed sermons in memory2.md | ~~9~~ **0 — all complete** |
+| Blocked sermons (source text missing) | 1 (Psalm 106; A Godly Home resolved) |
 | Incomplete/truncated sermon manuscripts | 3 |
-| Raw drafts needing polish and verification | 10 |
+| Raw drafts needing polish and verification | 12 (10 prior + 2 added from March 16 merge) |
 | Study papers incomplete | 2 |
 | Book revision material not yet integrated | 1 |
 | Sermon-map entries with verification flags (⚠️) | 46+ files |
-| **Total distinct unfinished items** | **~73** |
+| **Total distinct unfinished items** | **~67** |
 
 ---
 
@@ -256,6 +258,8 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 | `Romans 1 - Psalm 22 (Prophecy raw draft).md` | ~~8 flags~~ — **All resolved** ✓ (Rogers "108" verified Sermon #2299 LWF; Torrey "300" corrected — actual lists 61-79; "68%" corrected to 65% with Joyner/Morningstar attribution; prophecy table Ps 22:17 → Ps 34:20 for bones-not-broken; Deut 18:20-22 and Rom 10:9 ESV previously corrected). ⚠️ Remaining Psalm 22 fulfillment citations: verify line-by-line against ESV before printing. |
 | `Romans 7.md` | ~~4 flags~~ — **2 resolved** ✓ (Jn 15:16 corrected, Phil 2:8 ESV, Lk 22:42 restored); ⚠️ Tesla story disputed; ⚠️ "3 in 5 dieters" unverified |
 | `Romans 3 - antinomianism draft.md` | ~~3 flags~~ — **2 resolved** ✓; ⚠️ John Brown quote remains in Pending Verification (archive.org 403, no indexed text — cannot verify without physical copy) |
+| `Deuteronomy 8 - Count Your Blessings (repaired draft).md` | **Added March 16, 2026 — from main merge.** Three pastoral flags documented inline in source notes: (1) Oatman/Johnson "Count Your Blessings" hymn story — notes describe it as invented/embellished; verify or remove before reprising. (2) Jonathan Edwards "sinners in hands" quote — sermon attributes it to Edwards but wording does not match known primary text; treat as paraphrase or remove attribution. (3) Col 3:6 cited as support for "God's wrath falls on the disobedient" in a blessings-and-thanksgiving context — application is strained; consider removing or reframing. Sermon is usable; flags matter before reprising or print. |
+| `Psalm 42 - As the Deer Pants.md` | **Added March 16, 2026 — from main merge.** Two flags in source notes: (1) Unnamed "PhD scholar" cited for the claim that deer seek water to escape predators (not to drink) — no source named; claim appears in circulation but academic origin unverified. (2) Sermon attributes the "As the Deer" chorus tune to a specific composition context — verify before any print attribution. Sermon is fully usable for preaching; flags matter for print/book use only. |
 
 ---
 
