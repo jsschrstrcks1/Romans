@@ -937,6 +937,12 @@ The Promised Land (Deuteronomy 8:7–10) is treated as a typological foretaste o
 
 **Explicit. Tradition: Puritan (Owen).**
 
+#### The Refiner's Fire Leaves a Mark
+> "When we encounter the refiner's fire at salvation and beyond, we are fundamentally changed, and it leaves a mark on us. One the world doesn't understand. But one that makes us stand out to each other."
+> — `2 Tim 2 14-26 - The Approved Workman.md`
+
+True Christians are visibly different — illustrated by a man whose face was misshapen by surviving a fire (stretched, melted plastic — "all wrong wrinkles, and in other places out-of-place smoothness"). The refiner's fire of salvation and sanctification leaves a mark that is "instantly obvious" to fellow believers. Tied to the approved worker of 2 Timothy 2:15 — someone trained like an athlete, disciplined like a soldier, patient like a farmer. "True Christians are going to be more about their Father's business than the business of their country." **Explicit. Tradition: Reformed Baptist.**
+
 #### Love as Law-Fulfillment
 > "Love that never confronts sin is not love. Truth that never bleeds compassion is not Christ."
 > — `romans 12 pt 3.md`
@@ -999,6 +1005,17 @@ Abortion explicitly condemned as idolatry — elevating comfort above God's comm
 > — `romans 12 pt 2.md`
 
 **Explicit. Tradition: 9Marks-adjacent, Mark Dever's influence.**
+
+> "If someone were to look at your Facebook wall would they have a harder time hearing the gospel, or hearing about your favorite politics? ... if we talk more about our favorite or least favorite politician or position than we do about our Savior we have put the cart before the horse. This is probably one of the biggest, if not the biggest idol in our country right now."
+> — `2 Tim 2 14-26 - The Approved Workman.md`
+
+Politics explicitly named as likely the biggest idol in America. The "Facebook wall test" as diagnostic: does your public presence point to the gospel or to a party? Not a partisan critique — both Biden and Trump flag-flying neighbors are treated as well-intentioned people who "want to see the country be and do better." The problem isn't political conviction but political *priority* over gospel priority. Titus 3:9-10 applied: warn twice, then cut loose. **Explicit. Tradition: Reformed Baptist, non-partisan.**
+
+#### Speech Discipline — Quarreling and Irreverent Babble as Gangrene
+> "Such talk spreads like gangrene."
+> — 2 Timothy 2:17a (ESV), applied in `2 Tim 2 14-26 - The Approved Workman.md`
+
+Irreverent babble (κενοφωνία — "empty sound") and quarreling about words (v. 14) treated as life-threatening dangers to the church — compared to wet gangrene (rapidly spreading, requiring amputation) and pancreatic cancer (1 in 4 dead within a month). This is not hyperbole but Paul's own word picture. The approved worker (v. 15) is the antidote: someone trained like an athlete, disciplined like a soldier, patient like a farmer — and who avoids the gangrene of empty, edgy, boastful speech. **Explicit. Tradition: Pauline pastoral theology.**
 
 #### Marriage, Abuse, and Love
 > "If you are being abused, real love — biblical, Romans 12 love — does not mean you simply stay and keep taking the blows. It may mean you seek safety."
