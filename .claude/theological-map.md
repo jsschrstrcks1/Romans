@@ -470,6 +470,11 @@ Named by term. Synergism named and rejected. **Explicit. Tradition: Reformed/Cal
 
 Not infused (contra Rome). Imputed. Forensic declaration, not process. **Explicit. Tradition: Reformation (Sola Fide), 1689 LBCF.**
 
+> "In thinking we have any power at all in justification, in thinking we are able to keep the law good enough to earn salvation ourselves, we are like that woman who claimed to be a lion tamer. Full of hot air, but incapable of rising to our outrageous boasts!"
+> — `Catholicism.md`
+
+Extended treatment of justification *sola fide* contra Catholic soteriology. Nine Scripture passages marshalled (Rom 3:23-25; 3:27-28; 5:1-2; 5:8-10; Titus 3:4-7; John 1:12; 1 Pet 2:23-25; 2 Cor 5:21; Eph 2:8-10). Council of Trent Canon 9 quoted and rebutted. **Explicit. Tradition: Reformation (Sola Fide, contra Trent).**
+
 #### Double Imputation
 > "After Jesus saves us, when God looks at us, it isn't our sin that he sees any more, its his son."
 > — `romans 3 - the wrath of God.md`
@@ -1093,6 +1098,7 @@ CT Studd used as the paradigm case: elite cricketer, Cambridge graduate, gave aw
 | **Megachurch pragmatism** | "I don't care how big we are, I care that we tell people about Jesus." | `Romans 14.md` | Implicitly rejected |
 | **Political pulpits** | "I don't like talking about politics, except in this way, are your politics subject to our King?" | `romans 12 - weep.md` | Explicitly rejected |
 | **Roman Catholic mediation** | "They wanted to be the mediators between God and man, but what does scripture say?" | `galatians 1.md` | Explicitly rejected |
+| **Roman Catholic soteriology (works + sacraments)** | "Anyone that says 'by grace through faith alone' (Paul!) ought to be excommunicated from the Catholic church. By their own statement then the authors of the New Testament ought to be excommunicated." Council of Trent Canon 9 quoted and rebutted with nine passages. | `Catholicism.md` | Explicitly rejected |
 | **Eastern Orthodoxy** | "They add in other things at points, things like tradition on top of scripture." | `Sola Deo Gloria mt 13.md` | Implicitly rejected |
 | **Consumer Christianity** | "Do I see myself mainly as a consumer or as a member?" | `romans 12 pt 2.md` | Explicitly rejected |
 
