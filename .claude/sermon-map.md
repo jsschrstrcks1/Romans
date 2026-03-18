@@ -175,7 +175,7 @@ A four-part series working through the scriptural foundations of the doctrines o
 |---|---|---|---|
 | Numbers 23:19; Psalm 31:5-6; Jude 9; John 3:16 | More Than Love | `Sermon - More Than Love.md` | BFM Article 2 (God); names of God; false religious conceptions (Islam, JW, Mormon); Trinity; God is more than love; gospel; Arain of Pakistan people group |
 | Acts 13:48; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8 | Out of the Cistern | `Sermon - Out of the Cistern.md` | BFM Article 5 (Grace/Election); sovereign election; man contributes only the sin that made salvation necessary; Brahmin of Nepal people group |
-| Acts 2:1-9, 36-40 | Clowns Entertaining the Goats | `Sermon - Clowns Entertaining the Goats.md` | BFM Article on Holy Spirit; BFM series; tongues; Lakeland Revival critique; spiritual maturity; Lampung Pesisir people group |
+| Acts 2:1-9, 36-40 | Clowns Entertaining the Goats | `Sermon - Clowns Entertaining the Goats.md` | BFM Article II.C (Holy Spirit); BFM series; Pentecost; tongues as earthly languages (*heteros*, ἕτερος, Strong's 2087); Spirit baptism at conversion (one-time, complete); permanent indwelling (Elijah/Elisha contrast); soft cessationism; spiritual maturity as proof of Spirit's work; Todd Bentley / Lakeland Revival critique (2008); "clowns entertaining the goats" quote (Archibald Brown, not Spurgeon — corrected); Lampung Pesisir of Indonesia people group |
 | Romans 14:1-12; Galatians 4:8-20 | The Lord's Day | `Sermon - The Lord's Day.md` | BFM Article 8; Lord's Day; Sabbath; legalism; antinomianism; grace as middle ground; John Owen; Sinclair Ferguson; Meo of Pakistan people group |
 | Matthew 13:44 | The Kingdom of God | `Sermon - The Kingdom of God.md` | BFM Article IX; Kingdom defined (Ps 103:19); omniscience/omnipresence/omnipotence; Tozer; already and not yet (Piper); Westminster Shorter Catechism chief end of man; evangelism and discipleship; Christ's cross over throne; Qassab of Pakistan people group |
 | Matthew 28:18–20; Mark 16:15–18; Luke 24:45–49; John 20:21–23; Acts 1:8 | Won't You Go | `Sermon - Won't You Go.md` | BFM Article XI (Evangelism and Missions); all five Great Commission passages; "whose them?" — disciples = us; missions vs. philanthropy distinction; Southeastern Convocation story (Danny Akin chapel, three men who didn't stand); Francis Schaeffer "fifty-five minutes on sin" ⚠️ unverified; Ephesians 2 as the foundation before the gospel; Romans Road gospel method (3:23, 6:23, 5:8-9, Jn 3:16, Eph 2:8-9, Rom 10:9-10); God already at work in hearts; parent/child obedience analogy; Greek imperative "Go" — ongoing command; closing: "Normally I say won't you come — today I plead: won't you go"; Tarkahn of Pakistan people group (3M, ~0 believers, artisans/fighters, closed country) |
@@ -511,7 +511,7 @@ A four-part series working through the scriptural foundations of the doctrines o
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| Acts 2:1-9, 36-40 | Holy Spirit ministry and gifts | `Acts 2 Holy Spirit.md` | teaching |
+| Acts 2:1-9, 36-40 | Holy Spirit ministry and gifts | `Acts 2 Holy Spirit.md` | teaching *(raw transcript; polished version: `Sermon - Clowns Entertaining the Goats.md`)* |
 | Acts 13:1-3 | Commissioning of Paul and Barnabas; William Borden "no retreats, no reserves, no regrets"; missionary calling as blank check; Nero and Domitian persecution; stoning of Stephen recalled; danger of obedience | `Sermon - The Blank Check.md` | sermon |
 | Acts 13:48; Romans 8:29-30 | Doctrines of grace and sovereign election | `acts 13 - BFM Grace.md` | teaching |
 | Acts 18:24-end; 1 Cor 3:4-11 | Baptist history, distinctives, and identity | `being baptist.md` | teaching |
@@ -1013,8 +1013,10 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Identity-driven sanctification; sinning = scoring on your own team
 
 ### Holy Spirit
-- `Acts 2 Holy Spirit.md` — Acts 2:1-9, 36-40 — Spirit's ministry and gifts
-- `bfm holy spirit.md` — BFM article on the Holy Spirit
+- `Sermon - Clowns Entertaining the Goats.md` — Acts 2:1-9, 36-40 — BFM Holy Spirit teaching (polished); Pentecost; tongues as earthly languages; Spirit baptism at conversion; permanent indwelling; soft cessationism; Todd Bentley / Lakeland Revival critique; Lampung Pesisir people group
+- `Acts 2 Holy Spirit.md` — Acts 2:1-9, 36-40 — Spirit's ministry and gifts *(raw transcript; polished version is `Sermon - Clowns Entertaining the Goats.md`)*
+- `Sermon - John 16 The Holy Spirit.md` — John 16:7-14 — Helper/Comforter/Advocate (*parakletos*); Spirit convicts concerning sin, righteousness, judgment; Pastor Bob/Jasmine illustration *(incomplete — "The Command" section empty)*
+- `bfm holy spirit.md` — BFM 2000 Article II.C text on the Holy Spirit
 - `Ordo Solutis Romans 8.md` — Romans 8:26+ — Spirit's intercession
 - `Romans 15b - The Mission in the Early Light.md` — Romans 15:30 — Synagonisasthai; prayer as agonizing combat; Paul's vulnerability
 
