@@ -197,7 +197,10 @@ No saint, priest, pope, prophet, or governing body can mediate. **Explicit. Trad
 > "Blood had to be shed to cover Adam and Eve's nakedness when God knit them clothes of fur. Blood would have to continue to be shed to keep their sin covered."
 > — `Gen 4 - Cain and Abel.md`
 
-Central atonement theory. Named explicitly by term ("penal substitutionary atonement") in multiple sermons. The Genesis 4 sermon traces the blood-sacrifice principle back to Eden and Abel's firstborn lamb — a type of Christ. **Explicit. Tradition: Reformed, Evangelical.**
+> "It was a cosmic trade of sorts… Christ was the only living human that could be fully righteous. He was the only one able to make that payment. He was the only one who could do more than cover our sin like a bandaid. His death satisfied a debt we could never hope to pay."
+> — `Galatians 3 - Law Faith and Adoption.md`
+
+Central atonement theory. Named explicitly by term ("penal substitutionary atonement") in multiple sermons. The Genesis 4 sermon traces the blood-sacrifice principle back to Eden and Abel's firstborn lamb — a type of Christ. The Galatians 3 sermon uses the credit-card-debt illustration ($5T debt, sentenced to death) and the "cosmic exchange" language — the righteous for the unrighteous. **Explicit. Tradition: Reformed, Evangelical.**
 
 #### Definite/Particular Atonement
 > "Christ's death was not a vague potential. He laid down His life for His sheep. He gave Himself for the church, to present her holy and blameless. The atonement is definite — not limited in its power, but particular in its design."
@@ -244,6 +247,24 @@ Central atonement theory. Named explicitly by term ("penal substitutionary atone
 > — `bfm holy spirit.md`
 
 **Explicit. Tradition: Nicene orthodoxy, Baptist.**
+
+#### The Spirit as Helper, Comforter, Advocate (*Parakletos*)
+> "In this passage Jesus refers to the Holy Spirit as one who would come later and take his place, one who would be a Helper, one who would convict the world concerning sin, concerning righteousness, and concerning judgment. The KJV calls the Spirit 'the Comforter' — same Greek word, *parakletos*. Helper, Comforter, Advocate — it's all the same title."
+> — `Sermon - John 16 The Holy Spirit.md`
+
+Jesus's departure was not abandonment — the Spirit was the planned successor to Christ's bodily presence. The Spirit takes what belongs to Christ and declares it to believers (John 16:14). **Explicit. Tradition: Baptist, Reformed.**
+
+#### Inspiration of Scripture
+> "He inspired holy men of old to write the Scriptures."
+> — `bfm holy spirit.md`
+
+The Spirit is the agent of biblical inspiration (*theopneustos* — God-breathed, 2 Tim 3:16). **Explicit. Tradition: Baptist (BFM 2000), Reformed.**
+
+#### The Spirit Exalts Christ
+> "He will glorify me, for he will take what is mine and declare it to you."
+> — John 16:14, cited in `Sermon - John 16 The Holy Spirit.md`
+
+The Spirit's ministry is Christocentric — He does not draw attention to Himself but magnifies Christ. **Explicit. Tradition: Reformed, Baptist.**
 
 #### Agent of Regeneration
 > "He even has to do a work in us before salvation or we would reject the good news outright and call it foolishness."
@@ -330,6 +351,14 @@ Extended critique of Todd Bentley / Lakeland Revival as an example of false Spir
 
 Not that everyone is as bad as possible, but that sin pervades every part of human nature — mind, will, emotions, body. The most frequently and emphatically taught doctrine in the entire corpus. **Explicit. Tradition: Augustinian/Reformed (TULIP — T).**
 
+> "Our hearts are like that GPS... if their hearts aren't pointed in the right direction, if their eternal GPS is confused, then where will that advice lead them other than to hell? One thing we know for sure is that everyone's heart points away from Christ by default."
+> — `Sermon - Christians and the Social Order.md`
+
+> "It's like putting a magnet on a compass — ever done that? The compass becomes useless. Always points the wrong way."
+> — `Sermon - Christians and the Social Order.md`
+
+The compass/GPS illustration of total depravity: sin doesn't merely weaken the heart's compass — it redirects it entirely. The culture's advice to "follow your heart" is lethal because every heart's default orientation is away from God (Gen 6:5; Jer 17:9; Eph 4:18). Only God can remove the magnet and restore true north. See also the extended compass illustration in `Sermon - The Magnet on the Compass.md` (1 Samuel 17) and the heart-deceitfulness argument in `Sermon - Don't Trust Your Heart.md` (2 Kings 25). **Explicit. Tradition: Augustinian/Reformed.**
+
 #### Original Sin and the Fall
 > "In the garden Adam and Eve were created sinless and whole... But Eve and Adam both ate, both disobeyed, both doubted God, both rebelled against God and in so doing shattered the image of God we were meant to be."
 > — `Ordo Solutis Romans 8.md`
@@ -355,13 +384,28 @@ Sin is deceptive *and* defiant. Not mere frailty, ignorance, or poor choices. **
 > "No one can come to me unless the Father who sent me draws him." (Cited repeatedly as proof of the will's inability)
 > — `Eternal Security.md`, `Bible Study - The Thief Who Saw a King.md`
 
-**Explicit. Tradition: Augustinian, Lutheran/Reformed.**
+> "A man's free will cannot cure him even of the toothache, or a sore finger; and yet he madly thinks it is in its power to cure his soul." (Toplady, *Works*, 1794/1837 ed., p. 546)
+> — `Galatians 6 - Sowing and Reaping.md`
+
+> "Free will carried many a soul to hell, but never a soul to heaven." (Spurgeon, Series 1857–1858, p. 1783)
+> — `Galatians 6 - Sowing and Reaping.md`
+
+> "We are compelled to serve in the kingdom of Satan, until we be liberated by a Divine Power." (Luther, *De Servo Arbitrio*, 1525, Sec. CLXIII, Cole trans.)
+> — `Galatians 6 - Sowing and Reaping.md`
+
+Three witnesses from three centuries (Toplady, Spurgeon, Luther) marshalled to establish that apart from God's liberating work, the will is enslaved. The sermon applies this pastorally: "There are only two masters, and unless you've been freed by God, you serve the other one by default." **Explicit. Tradition: Augustinian, Lutheran/Reformed.**
 
 #### Universal Guilt
 > "Each of us because of our proclivity towards sin, because of our active rejection of God, because of our rebellion against God has based on our own merits earned separation from God for eternity."
 > — `Ordo Solutis Romans 8.md`
 
 Both Jew and Gentile, religious and irreligious. No exceptions. **Explicit. Tradition: Pauline/Reformed.**
+
+#### The Law as Guardian — Cannot Save, Only Expose
+> "The law is there to show us where we fall short. To show us what is right and what is wrong. But the law can't save us. The law is a tool, like the bandaid."
+> — `Galatians 3 - Law Faith and Adoption.md`
+
+The Galatians 3 sermon teaches the law as *paidagōgos* (guardian, Gal 3:24) — holding us captive until faith came. The Ten Commandments test (3rd, 8th, 9th, 6th — all failed) demonstrates universal guilt under the law. The bandaid illustration: sacrifice covered sin but couldn't remove it; the debtors' prison illustration: the law imprisons but cannot pay the debt. James 2:10 cited: guilty of one, guilty of all. **Explicit. Tradition: Reformed, Pauline.**
 
 #### Conscience as Real Courtroom
 > "Conscience as a real courtroom." (claude.md theological profile)
@@ -470,6 +514,11 @@ Named by term. Synergism named and rejected. **Explicit. Tradition: Reformed/Cal
 
 Not infused (contra Rome). Imputed. Forensic declaration, not process. **Explicit. Tradition: Reformation (Sola Fide), 1689 LBCF.**
 
+> "In thinking we have any power at all in justification, in thinking we are able to keep the law good enough to earn salvation ourselves, we are like that woman who claimed to be a lion tamer. Full of hot air, but incapable of rising to our outrageous boasts!"
+> — `Catholicism.md`
+
+Extended treatment of justification *sola fide* contra Catholic soteriology. Nine Scripture passages marshalled (Rom 3:23-25; 3:27-28; 5:1-2; 5:8-10; Titus 3:4-7; John 1:12; 1 Pet 2:23-25; 2 Cor 5:21; Eph 2:8-10). Council of Trent Canon 9 quoted and rebutted. **Explicit. Tradition: Reformation (Sola Fide, contra Trent).**
+
 #### Double Imputation
 > "After Jesus saves us, when God looks at us, it isn't our sin that he sees any more, its his son."
 > — `romans 3 - the wrath of God.md`
@@ -523,7 +572,10 @@ Real assurance grounded in Christ's work. But false assurance is a pastoral dang
 > "We deserve Hell, but we were given an inheritance. We deserve a punishment, but instead we are equipped. We deserve fire for eternity, but instead we are made sons and daughters."
 > — `Heb 12.md`
 
-Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. **Explicit. Tradition: Reformed Baptist.**
+> "In a very real sense when we receive this gift, we become sons and daughters of God. We become heirs to the kingdom."
+> — `Galatians 3 - Law Faith and Adoption.md`
+
+Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. The Galatians 3 sermon develops the *huios* (υἱός) word study — Paul's deliberate choice over *teknon* to emphasize legal heir status and full inheritance rights. The foster-care-to-adoption illustration (chicken coop → family) mirrors God's adoption of sinners. John 1:12 cited: "he gave the right to become children of God." **Explicit. Tradition: Reformed Baptist.**
 
 #### Election and Reprobation — Infralapsarian
 > "God did not inject unbelief into Esau's heart. Esau, like all of us, was already a sinner by nature and choice. Reprobation is not God actively working sin into a man's life; it is God leaving a sinner to himself."
@@ -861,7 +913,10 @@ Not annihilationism. Real, conscious, eternal. **Explicit. Tradition: Orthodox C
 > "Scripture tells us that when we take that last breath, we wake up the next moment in glory with our Savior Jesus."
 > — `Service - Donna Hulen Funeral (John 11).md`
 
-**Explicit. Tradition: Protestant (contra soul sleep).**
+> "For someone whose life is centered around Christ, death is a promotion. When we die, we go on to glory and live with our Lord and Savior, the one our lives have been centered around."
+> — `Galatians 6 - Sowing and Reaping.md`
+
+Applied to Svea Flood's death at 27 — death reframed not as tragedy but as going "on to glory." Philippians 1:21 ("to live is Christ, to die is gain") cited as the theological anchor. **Explicit. Tradition: Protestant (contra soul sleep).**
 
 #### Final Judgment
 > "At the very name of Jesus, EVERY knee shall bow, and Every tongue WILL confess that Jesus is Lord. For some of us there will be no greater joy... But to others, depart from me I knew you not."
@@ -925,6 +980,12 @@ The Promised Land (Deuteronomy 8:7–10) is treated as a typological foretaste o
 
 **Explicit. Tradition: Puritan (Owen).**
 
+#### The Refiner's Fire Leaves a Mark
+> "When we encounter the refiner's fire at salvation and beyond, we are fundamentally changed, and it leaves a mark on us. One the world doesn't understand. But one that makes us stand out to each other."
+> — `2 Tim 2 14-26 - The Approved Workman.md`
+
+True Christians are visibly different — illustrated by a man whose face was misshapen by surviving a fire (stretched, melted plastic — "all wrong wrinkles, and in other places out-of-place smoothness"). The refiner's fire of salvation and sanctification leaves a mark that is "instantly obvious" to fellow believers. Tied to the approved worker of 2 Timothy 2:15 — someone trained like an athlete, disciplined like a soldier, patient like a farmer. "True Christians are going to be more about their Father's business than the business of their country." **Explicit. Tradition: Reformed Baptist.**
+
 #### Love as Law-Fulfillment
 > "Love that never confronts sin is not love. Truth that never bleeds compassion is not Christ."
 > — `romans 12 pt 3.md`
@@ -979,6 +1040,11 @@ Human wisdom, effort, achievement, and life itself are *hebel* (breath, vapor) �
 
 Abortion explicitly condemned as idolatry — elevating comfort above God's commands. **Explicit. Tradition: Conservative Evangelical.**
 
+> "I used to have a hard time understanding how someone could kill a child. But more and more I think it's the same problem. Selfishness. They want their joy when and how they want it, in the way they want it. Anything that complicates or threatens that is to be removed."
+> — `Sermon - Christians and the Social Order.md`
+
+The BFM Article XV treatment frames abortion alongside all sexual immorality as downstream from the same root: a broken compass that points to self rather than God. The Jack Sparrow illustration — a compass that points toward what you want most, and when you want yourself most, it points back at you — is applied directly to abortion as self-worship. **Explicit. Tradition: Conservative Evangelical (BFM 2000).**
+
 #### Political Neutrality of the Pulpit
 > "Jesus wasn't a democrat. But Jesus wasn't a republican either. Our politics — as part of following Christ, must be subject to Christ."
 > — `romans 12 - weep with those who weep.md`
@@ -987,6 +1053,17 @@ Abortion explicitly condemned as idolatry — elevating comfort above God's comm
 > — `romans 12 pt 2.md`
 
 **Explicit. Tradition: 9Marks-adjacent, Mark Dever's influence.**
+
+> "If someone were to look at your Facebook wall would they have a harder time hearing the gospel, or hearing about your favorite politics? ... if we talk more about our favorite or least favorite politician or position than we do about our Savior we have put the cart before the horse. This is probably one of the biggest, if not the biggest idol in our country right now."
+> — `2 Tim 2 14-26 - The Approved Workman.md`
+
+Politics explicitly named as likely the biggest idol in America. The "Facebook wall test" as diagnostic: does your public presence point to the gospel or to a party? Not a partisan critique — both Biden and Trump flag-flying neighbors are treated as well-intentioned people who "want to see the country be and do better." The problem isn't political conviction but political *priority* over gospel priority. Titus 3:9-10 applied: warn twice, then cut loose. **Explicit. Tradition: Reformed Baptist, non-partisan.**
+
+#### Speech Discipline — Quarreling and Irreverent Babble as Gangrene
+> "Such talk spreads like gangrene."
+> — 2 Timothy 2:17a (ESV), applied in `2 Tim 2 14-26 - The Approved Workman.md`
+
+Irreverent babble (κενοφωνία — "empty sound") and quarreling about words (v. 14) treated as life-threatening dangers to the church — compared to wet gangrene (rapidly spreading, requiring amputation) and pancreatic cancer (1 in 4 dead within a month). This is not hyperbole but Paul's own word picture. The approved worker (v. 15) is the antidote: someone trained like an athlete, disciplined like a soldier, patient like a farmer — and who avoids the gangrene of empty, edgy, boastful speech. **Explicit. Tradition: Pauline pastoral theology.**
 
 #### Marriage, Abuse, and Love
 > "If you are being abused, real love — biblical, Romans 12 love — does not mean you simply stay and keep taking the blows. It may mean you seek safety."
@@ -1093,6 +1170,7 @@ CT Studd used as the paradigm case: elite cricketer, Cambridge graduate, gave aw
 | **Megachurch pragmatism** | "I don't care how big we are, I care that we tell people about Jesus." | `Romans 14.md` | Implicitly rejected |
 | **Political pulpits** | "I don't like talking about politics, except in this way, are your politics subject to our King?" | `romans 12 - weep.md` | Explicitly rejected |
 | **Roman Catholic mediation** | "They wanted to be the mediators between God and man, but what does scripture say?" | `galatians 1.md` | Explicitly rejected |
+| **Roman Catholic soteriology (works + sacraments)** | "Anyone that says 'by grace through faith alone' (Paul!) ought to be excommunicated from the Catholic church. By their own statement then the authors of the New Testament ought to be excommunicated." Council of Trent Canon 9 quoted and rebutted with nine passages. | `Catholicism.md` | Explicitly rejected |
 | **Eastern Orthodoxy** | "They add in other things at points, things like tradition on top of scripture." | `Sola Deo Gloria mt 13.md` | Implicitly rejected |
 | **Consumer Christianity** | "Do I see myself mainly as a consumer or as a member?" | `romans 12 pt 2.md` | Explicitly rejected |
 
@@ -1108,6 +1186,7 @@ CT Studd used as the paradigm case: elite cricketer, Cambridge graduate, gave aw
 | **Critical Race Theory / Intersectionality** | "If you are comfortable, they seem to argue, you are comfortable because you took advantage of people to get to that point... This is nonsense." Experience-as-arbiter-of-truth rejected: "Under this worldview, experience is the arbiter of truth — especially the experience of those who have been the victims of white privilege... this is similar to the error many Catholics make when they elevate the words of the Pope or tradition above Scripture." | `Sermon - Cultural Marxism.md` | Explicitly rejected; CRT epistemology placed in the same category as papal/tradition supremacy over Scripture |
 | **Cultural Marxism (identity-based suppression)** | "Suppressing anyone or anything simply because it was thought of, painted by, or written by a person of a different group than you is racism. Full stop." Applies equally to the left and to the alt-right. | `Sermon - Cultural Marxism.md` | Explicitly rejected; race-based suppression named as racism regardless of political direction |
 | **Sentimental Christianity** | "Biblical love is not morally neutral. It does not bless what destroys people." | `romans 12 pt 3.md` | Explicitly rejected |
+| **Sexual immorality as broken compass** | "This is the root cause of all sexual immorality. Whether it's adultery, pornography, fornication by those not married, or same-sex attraction — the root is sin tainting the longings of our heart, and the fruit is immorality." All sexual immorality — adultery, pornography, fornication, homosexuality — traced to the same root: a heart whose compass points to self rather than God (Jer 17:9; Gen 6:5; Eph 4:18). The culture's "follow your heart" ethic is named as the primrose path to hell. BFM Article XV applied directly. | `Sermon - Christians and the Social Order.md` | Explicitly rejected; all forms named and grounded in total depravity |
 | **Idolatry (broadly)** | "If football is more important than hearing the word of God... football is your idol." | `mark 10.md` | Explicitly rejected |
 | **Idolatry — Egypt/America parallel** | Egypt had 2,000+ deities, starting from animism and morphing into anthropomorphism. America has politics, comfort, rights, and presidents. Psalm 115:4–8: idols cannot speak, see, or hear — and those who make them become like them. A.W. Tozer (*The Knowledge of the Holy*, ch. 1): "What comes into our minds when we think about God is the most important thing about us." The idols we choose to worship reveal who we are. | `Other-Sermons/Sermons/Exodus 2.md` | Explicitly rejected |
 | **Idolatry — soul's thirst misdirected** | "If you desire anything in your life like this that isn't God, that's idolatry." The deer's panting thirst (Ps 42:1 — "As a deer pants for flowing streams, so pants my soul for you, O God") as diagnostic: what does your soul long after with that intensity? Every human soul thirsts after something with ultimate devotion; if that object is not God, it is an idol. Sin does not satisfy — it amplifies. "Instead of our thirst being satisfied, our thirsts are amplified." | `Psalm 42 - As the Deer Pants.md` | Explicitly rejected |
