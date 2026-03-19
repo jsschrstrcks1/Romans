@@ -448,6 +448,15 @@ Not for reproduction. Short quotes with proper citation only.
 
 We only include what is verifiably real. The pulpit is not a place for misattribution.
 
+### Authoritative Sources: People Groups & Missions Data
+
+For unreached people group data (People Group of the Week, missions illustrations, population figures, religious demographics), prefer these sources:
+
+1. **Joshua Project** (joshuaproject.net) — Primary source. People group profiles, population estimates, % Christian/Buddhist/Muslim/Hindu, prayer requests, and country-level breakdowns. When Joshua Project conflicts with other sources, Joshua Project is preferred.
+2. **Operation World** (operationworld.org) — Authoritative source. Country-level prayer profiles, religious demographics, church growth data, and missions analysis. Carries equal weight with Joshua Project; when both address the same data point, cross-reference and note any discrepancy.
+
+Wikipedia, news articles, and general web sources are supplementary only — useful for background context but not authoritative for people group statistics. If a figure cannot be confirmed by Joshua Project or Operation World, flag it as unverified in the integrity log.
+
 ---
 
 ## Sermon Structure & Format
