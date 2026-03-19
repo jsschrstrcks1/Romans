@@ -162,3 +162,35 @@ Bentley says he's here to — and I quote — blow the "bum hole" out of the chu
 ### Gospel
 
 ⚠️ *[Gospel presentation placeholder — preacher delivers gospel call live]*
+
+---
+
+### Integrity Log
+
+**Scripture verified ESV:**
+- Acts 2:3-4 ✅
+- Acts 2:5-6 ✅
+- Romans 8:5-11 ✅ (corrected from CSB to ESV)
+- Galatians 5:19-21 ✅ (corrected from KJV to ESV)
+- 1 Corinthians 13:1 ✅ (expanded from paraphrase to full quote)
+- 1 Kings 18 cross-reference ✅ (Elijah and prophets of Baal at Mt. Carmel)
+
+**Attributed quotes verified:**
+- "In essentials unity, in non-essentials liberty, in all things charity" — corrected from Augustine to Rupertus Meldenius (~1627, *Paraenesis votiva pro Pace Ecclesiae*); multiple scholarly sources confirm (Mark Ross, Hans Rollmann)
+- "A time will come when instead of shepherds feeding the sheep, the church will have clowns entertaining the goats" — commonly attributed to Spurgeon; likely originates from Archibald Brown, *The Devil's Mission of Amusement* (1889); flagged in sermon text
+
+**Historical claims verified:**
+- Todd Bentley / Lakeland Revival 2008: April–October 2008 at Ignited Church, Lakeland FL; ABC Nightline investigation aired July 9, 2008; specific incidents (kicking wheelchair-bound woman, grabbing crippled woman's legs, punching women) sourced from Bentley's own public statements and video recordings
+- "Around a half million people attended" — Fresh Fire Ministries self-reported 400,000+ cumulative attendance by June 30, 2008; event continued through October; no independent verification exists; preacher's round number is a reasonable approximation
+- Tongues debate "125 years" — Azusa Street Revival (1906) is the conventional starting point of the modern tongues movement; ~120 years as of preaching date, rounded
+
+**Corrections made:**
+- "Bently" → "Bentley" (spelling)
+- "150 years" → "125 years" (Azusa Street was 1906)
+- Galatians 5:19-21 translation corrected (KJV → ESV)
+- Romans 8:5-11 translation corrected (CSB → ESV)
+- Augustine → Rupertus Meldenius attribution
+- Spurgeon → likely Archibald Brown attribution
+- Duplicated paragraphs removed (spiritual maturity section, self-examination)
+
+**Standing flags:** None remaining.
