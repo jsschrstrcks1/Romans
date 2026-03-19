@@ -609,22 +609,28 @@ The Exodus 14 narrative is used as a counter-apologetic: if Arminian theology cl
 > "You preach as a confessional Reformed Baptist, standing consciously in the stream of the 1689 Second London Baptist Confession."
 > — `claude.md`
 
-> "At the foundation of the Baptist denomination almost every church held to Calvinism, and all of them held to believers baptism."
-> — `being baptist.md`
+> "At the foundation of the Baptist denomination, the Particular Baptists — who were Calvinist — became the dominant stream in America, and all of them held to believers' baptism."
+> — `Acts 18 1 Cor 3 - Being Baptist.md`
 
 > "We are related to most of the reformers, the puritans, and the anabaptists. All of which were very gospel centered, focused on the word of God above all else."
-> — `being baptist.md`
+> — `Acts 18 1 Cor 3 - Being Baptist.md`
 
 The 1689 is cited directly on election, justification, sanctification, civil magistrate, and suffering. The BFM 2000 is cited on salvation, regeneration, the Holy Spirit, and Scripture. **Explicit. Tradition: 1689 LBCF / BFM 2000-aligned.**
 
 #### Landmarkism Rejected
 > "So Landmarkianism says we trace our history as Baptists back to John the Baptist, and that as a result we are not part of the reformation because we never strayed from God and so never needed a reformation... Crazy isn't it?"
-> — `being baptist.md`
+> — `Acts 18 1 Cor 3 - Being Baptist.md`
 
 > "Do you remember who I mentioned they credit with the foundation of the church? John the Baptist. But who is the church really based upon? Jesus."
-> — `being baptist.md`
+> — `Acts 18 1 Cor 3 - Being Baptist.md`
 
 **Explicit. Tradition: Mainstream Southern Baptist (anti-Landmark).**
+
+#### Christ as Sole Foundation of the Church
+> "Quite simply, Jesus Christ is the foundation of the church. Not Jesus AND Peter's teaching. Not Jesus and the Pope. Not Jesus and tradition, or Jesus and something else. Just Jesus — as revealed to us in the Word of God we call the Bible."
+> — `Acts 18 1 Cor 3 - Being Baptist.md`
+
+Grounded in 1 Corinthians 3:11 (ESV): "For no one can lay a foundation other than that which is laid, which is Jesus Christ." The Apollos narrative in Acts 18:24-28 is treated as supporting evidence: John the Baptist's teaching pointed to Christ but was incomplete — Priscilla and Aquila corrected Apollos because the foundation must be Christ himself, not a predecessor's witness to Christ. **Explicit. Tradition: Protestant / Baptist / Sola Christus.**
 
 #### Christ as Head of the Church (Not the Pope)
 > "Jesus is the head of the church... while the catholics have a mere man as the head of their church, we follow Jesus as the head of ours."
@@ -640,28 +646,28 @@ The 1689 is cited directly on election, justification, sanctification, civil mag
 
 #### Regenerate Church Membership
 > "The third Baptist distinctive is regenerate church membership. In order to join a Baptist church your pastor has to be convinced you are a believer in Jesus Christ."
-> — `being baptist.md`
+> — `Acts 18 1 Cor 3 - Being Baptist.md`
 
 > "Why would we want people who are currently rebelling against God to have a voice in the shaping of the direction of our denomination?"
-> — `being baptist.md`
+> — `Acts 18 1 Cor 3 - Being Baptist.md`
 
 Church membership is not optional. The church is body and family, not business. **Explicit. Tradition: Baptist.**
 
 #### Congregational Governance / Local Church Autonomy
 > "Many other churches followed the catholic style of top down leadership. One guy or group of guys at the helm, that can dictate what happens to everything downstream."
-> — `being baptist.md`
+> — `Acts 18 1 Cor 3 - Being Baptist.md`
 
 > "In our denomination we believe in congregational governance. So as the local churches go so go our denominations."
-> — `being baptist.md`
+> — `Acts 18 1 Cor 3 - Being Baptist.md`
 
 **Explicit. Tradition: Baptist / Congregationalist.**
 
 #### Believers' Baptism (Credobaptism)
 > "Lots of other churches baptize basically anyone. Even babies. They say its symbolic of old testament circumcision, but that isn't the model scripture gives us. The biblical model is that we are first saved by God, and then baptized as an outward sign of an inward change."
-> — `being baptist.md`
+> — `Acts 18 1 Cor 3 - Being Baptist.md`
 
 > "I've met people on the street that say they know they are a Christian because their parents baptized them as kids."
-> — `being baptist.md`
+> — `Acts 18 1 Cor 3 - Being Baptist.md`
 
 Baptism is the first act of obedience after salvation, not a condition of it. Infant baptism and baptismal regeneration rejected. **Explicit. Tradition: Baptist (contra paedobaptist and Campbellite).**
 
@@ -733,13 +739,13 @@ The 1689, Chapter 24, applied to Romans 13: God ordains authorities, Christians 
 
 #### Conservative Resurgence Affirmed
 > "A few decades ago we started flirting with liberalism... because Godly men stood up for what they believed, in a few short years the entire denomination was pulled back towards orthodoxy."
-> — `being baptist.md`
+> — `Acts 18 1 Cor 3 - Being Baptist.md`
 
 **Explicit. Tradition: Conservative Southern Baptist.**
 
 #### SBC Cooperative Involvement
 > "Every year we have the opportunity to elect messengers to go to the convention, and help shape the course of things for the following year. This is something we should change, we should become involved going forward."
-> — `being baptist.md`
+> — `Acts 18 1 Cor 3 - Being Baptist.md`
 
 **Explicit. Tradition: Southern Baptist.**
 
@@ -1166,6 +1172,7 @@ CT Studd used as the paradigm case: elite cricketer, Cambridge graduate, gave aw
 
 | Error | Key Quote | Source | Status |
 |-------|-----------|--------|--------|
+| **Landmarkism / Baptist Successionism** | "Landmarkism says we trace our history as Baptists back to John the Baptist... They started with the idea that Baptists maybe had never strayed. So with that idea in mind, they tried to warp history to reflect this." J. R. Graves and J. M. Carroll's *Trail of Blood* identified as source. Donatists shown to be Catholic rigorists, not proto-Baptists. 1 Cor 3:11: Christ — not John the Baptist — is the sole foundation. | `Acts 18 1 Cor 3 - Being Baptist.md` | Explicitly rejected |
 | **"No creed but Christ"** | "'No creed but Christ' sounds humble. But it often means: 'No accountability but myself.'" | `Romans 14c.md` | Explicitly rejected |
 | **Megachurch pragmatism** | "I don't care how big we are, I care that we tell people about Jesus." | `Romans 14.md` | Implicitly rejected |
 | **Political pulpits** | "I don't like talking about politics, except in this way, are your politics subject to our King?" | `romans 12 - weep.md` | Explicitly rejected |
