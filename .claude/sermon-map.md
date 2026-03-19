@@ -737,7 +737,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Eternal Security | John 6:37-65; 10:25-30 | `Eternal Security.md` | teaching |
 | Baptist Identity | Acts 18; 1 Cor 3 | `being baptist.md` | teaching |
 | Holy Spirit (BFM) | BFM article text | `bfm holy spirit.md` | teaching |
-| Catholicism | Romans 3-5; Eph 2:8-9 | `Catholicism.md` | teaching |
+| Catholicism | Rom 3:23-25; 3:27-28; 5:1-2; 5:8-10; Titus 3:4-7; John 1:12; 1 Pet 2:23-25; 2 Cor 5:21; Is 64:6; Eph 2:8-10 | `Catholicism.md` | teaching — Cults & Religions series; justification by faith alone vs. Catholic soteriology; *dikaiōsis* Greek word study; Baker's Encyclopedia definition; lion tamer illustration (empty boasting); Kurt at the hospital (missiles/hope); Council of Trent Canon 9 quote (anathema on *sola fide*); Latin Mass history; Lee from ERS testimony (Catholic man saved through Romans 10:9, now leads bible study in his Catholic church); gospel close; Catholic characterizations are blunt but accurate to theopraxy — what the system produces in practice |
 | Christian Science | John 14:1-7 | `Christian science is the next group we are going to look at.md` | teaching |
 | Cultural Marxism | Romans 10:12-13 | `Cultural Marxism.md` | teaching — part 2 of previous week; cultural Marxism defined (suppress/support culture by group identity); critical race theory and intersectionality critique; SBC convention resolution context; David Brooks quote (older liberals vs younger militants); experience-as-truth error compared to Catholic/JW/Mormon elevation of tradition; Gal 3:26-29, Acts 10:34-35, Col 3:11, Acts 10:28, Rev 5:9-10, Deut 10:17; Dhund Abbasi of Pakistan people group (Abbasid dynasty descendants, ~1M, zero known believers); citizenship-in-heaven close |
 | Evangelism / Missions | Mt 28; Rom 15; Rev 7 | `Evangelism.md` / `evangelism (romans 15, mt 28, and rev 7).md` | sermon |
@@ -865,7 +865,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `being baptist.md` — Acts 18; 1 Cor 3 — Baptist history and distinctives
 - `article 15.md` — Matthew 5:13-16 — Christians and the social order (BFM)
 - `bfm holy spirit.md` — BFM article on the Holy Spirit
-- `Catholicism.md` — Romans 3-5; Eph 2:8-9 — Catholic vs Protestant justification
+- `Catholicism.md` — Rom 3:23-25; 5:1-2; Eph 2:8-10 — Catholic vs Protestant justification; *sola fide*; Council of Trent Canon 9; lion tamer illustration; Lee from ERS testimony
 
 ### Brokenness / Weakness / Suffering
 - `2 cor 12.md` — 2 Corinthians 12:7-10 — Theology of weakness (raw transcript)
@@ -895,7 +895,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Wearing the jersey; living consistent with identity; scoring on your own team
 
 ### Cults / False Teaching / Counterfeits
-- `Catholicism.md` — Romans 3-5 — Catholic vs Protestant justification
+- `Catholicism.md` — Rom 3:23-25; 5:1-2; Eph 2:8-10 — Catholic vs Protestant justification; Council of Trent Canon 9 (anathema on faith alone); Latin Mass; indulgences; Lee from ERS (Catholic man saved through Romans 10:9)
 - `Christian science is the next group we are going to look at.md` — John 14:1-7 — Reaching Christian Scientists
 - `1 john 4 - counterfeit.md` — 1 John 4:1-6 — Testing spirits
 - `Catching Counterfeits.md` — 2 Cor 5:6-8 — Counterfeit claims about heaven
