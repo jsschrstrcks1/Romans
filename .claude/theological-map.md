@@ -384,7 +384,16 @@ Sin is deceptive *and* defiant. Not mere frailty, ignorance, or poor choices. **
 > "No one can come to me unless the Father who sent me draws him." (Cited repeatedly as proof of the will's inability)
 > — `Eternal Security.md`, `Bible Study - The Thief Who Saw a King.md`
 
-**Explicit. Tradition: Augustinian, Lutheran/Reformed.**
+> "A man's free will cannot cure him even of the toothache, or a sore finger; and yet he madly thinks it is in its power to cure his soul." (Toplady, *Works*, 1794/1837 ed., p. 546)
+> — `Galatians 6 - Sowing and Reaping.md`
+
+> "Free will carried many a soul to hell, but never a soul to heaven." (Spurgeon, Series 1857–1858, p. 1783)
+> — `Galatians 6 - Sowing and Reaping.md`
+
+> "We are compelled to serve in the kingdom of Satan, until we be liberated by a Divine Power." (Luther, *De Servo Arbitrio*, 1525, Sec. CLXIII, Cole trans.)
+> — `Galatians 6 - Sowing and Reaping.md`
+
+Three witnesses from three centuries (Toplady, Spurgeon, Luther) marshalled to establish that apart from God's liberating work, the will is enslaved. The sermon applies this pastorally: "There are only two masters, and unless you've been freed by God, you serve the other one by default." **Explicit. Tradition: Augustinian, Lutheran/Reformed.**
 
 #### Universal Guilt
 > "Each of us because of our proclivity towards sin, because of our active rejection of God, because of our rebellion against God has based on our own merits earned separation from God for eternity."
@@ -904,7 +913,10 @@ Not annihilationism. Real, conscious, eternal. **Explicit. Tradition: Orthodox C
 > "Scripture tells us that when we take that last breath, we wake up the next moment in glory with our Savior Jesus."
 > — `Service - Donna Hulen Funeral (John 11).md`
 
-**Explicit. Tradition: Protestant (contra soul sleep).**
+> "For someone whose life is centered around Christ, death is a promotion. When we die, we go on to glory and live with our Lord and Savior, the one our lives have been centered around."
+> — `Galatians 6 - Sowing and Reaping.md`
+
+Applied to Svea Flood's death at 27 — death reframed not as tragedy but as going "on to glory." Philippians 1:21 ("to live is Christ, to die is gain") cited as the theological anchor. **Explicit. Tradition: Protestant (contra soul sleep).**
 
 #### Final Judgment
 > "At the very name of Jesus, EVERY knee shall bow, and Every tongue WILL confess that Jesus is Lord. For some of us there will be no greater joy... But to others, depart from me I knew you not."
