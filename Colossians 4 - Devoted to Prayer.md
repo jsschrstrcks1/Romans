@@ -7,7 +7,7 @@ Prayer — Colossians 4:2-4
 **Primary Text**: Colossians 4:2-4
 **Supporting Texts**: Luke 11 (ask/seek/knock)
 **Themes**: Prayer as relationship not emergency-only, neglecting prayer, persistence in prayer
-**Quoted**: George Muller (on reading/prayer habits), Calvin Wittman (on "steadfastly"), FB Meyer (unanswered vs unoffered prayer)
+**Quoted**: George Müller (⚠️ wording strongly attributed; verify edition before print citation); Calvin Wittman (⚠️ sermon source unverified; lexical data independently confirmed); F.B. Meyer (⚠️ attribution contested — see Verification Notes)
 **Illustrations**: Pilot running out of gas, high school friend who only called for rides
 
 ---
@@ -52,13 +52,13 @@ Lets pray.
 
 ---
 
-## Flags for Future Polish
+## Verification Notes
 
-- **Colossians 4:2** *(verified)*: "Continue steadfastly" — Matches ESV ("Continue steadfastly in prayer, being watchful in it with thanksgiving"). ✓
-- **Luke 11:9-10** *(referenced, not quoted)*: The ask/seek/knock passage is referenced conceptually. The Greek continuous-action interpretation (present imperative = "keep asking, keep seeking, keep knocking") is a standard and widely accepted reading. ✓
-- **Ephesians 2** *(allusion only)*: "those dead according to eph 2 being rejuvenated into new life in Christ" — Accurate paraphrase of Eph 2:1-5. ✓
-- **George Muller quote** *(unverified)*: "It is a common temptation of Satan to make us give up the reading of the Word and prayer when our enjoyment is gone..." — This is a widely circulated Muller quote. It is commonly attributed to his journals or "A Narrative of Some of the Lord's Dealings with George Müller." Verify exact wording against published source before citing in print.
-- **FB Meyer quote** *(unverified)*: "the great tragedy of life is not un-answered prayer, but un-offered prayer" — Widely attributed to FB Meyer's "The Secret of Guidance." This quote circulates heavily in sermon collections. Verify against the actual published text, as some widely-attributed quotes turn out to be paraphrases or misattributions.
-- **Calvin Wittman** *(unverified)*: Commentary on the Greek word for "steadfastly" (προσκαρτερέω / proskartereō). The lexical analysis is sound — the word does carry the meanings described (persist in, adhere firmly, devote oneself). Wittman is attributed as delivering a sermon on Colossians 4. Verify source.
-- **"Christ is the bridegroom of the church"** *(theological claim)*: Standard Christian doctrine drawn from Eph 5:25-27, Rev 19:7-9, and other passages. No correction needed. ✓
-- **No direct Scripture misquotes identified in this sermon.** The preacher relies heavily on paraphrase and application rather than direct quotation, which keeps the ESV-accuracy risk low. This is the cleanest sermon reviewed so far in terms of Scripture handling.
+- **Colossians 4:2–4** ✓ — ESV verified. Blockquote added from original transcript which contained no Scripture reference.
+- **Luke 11:9–10** ✓ — Ask/seek/knock referenced conceptually. Greek continuous-action interpretation (present imperative = "keep asking, keep seeking, keep knocking") is the standard reading across NT scholarship. Accurately stated.
+- **Ephesians 2:1–5** ✓ — "Those dead according to Eph 2" is an accurate paraphrase of Eph 2:1–5 ("dead in the trespasses and sins"). No correction needed.
+- **"Christ is the bridegroom of the church"** ✓ — Standard doctrine grounded in Ephesians 5:25–27, Revelation 19:7–9, and John 3:29. No correction needed.
+- **George Müller quote** ⚠️ — *Strongly attributed.* This passage ("It is a common temptation of Satan to make us give up the reading of the Word and prayer when our enjoyment is gone...") appears in his published autobiography, *A Narrative of Some of the Lord's Dealings with George Müller, Written by Himself* (multiple volumes, 1837–1886). Wording is consistent with published editions. Cannot confirm exact volume/chapter from available resources. Safe to preach as attributed; verify edition/page before academic citation or print publication.
+- **F.B. Meyer quote** ⚠️ — *Attribution contested.* "The great tragedy of life is not unanswered prayer, but unoffered prayer" is widely attributed to Meyer's *The Secret of Guidance*, but the specific page has not been confirmed in the available sources reviewed. Some secondary sources attribute a similar sentiment to R.A. Torrey. Cannot verify from available resources. Use with caution; verify against the published text of *The Secret of Guidance* before citing in print.
+- **Calvin Wittman** ⚠️ — *Lexical data confirmed independently; sermon source unverified.* The Greek word in Colossians 4:2 is προσκαρτερέω (*proskartereō*). BDAG (the standard NT Greek lexicon) gives its meaning as "to persist in, continue in, to devote oneself to" — exactly the range Wittman is cited as describing. The claim is linguistically accurate regardless of Wittman's sermon as source. Wittman's Colossians 4 sermon has not been located to confirm his exact wording. Cite as: "Calvin Wittman, in his sermon on Colossians 4, notes that the Greek word..." with a ⚠️ note that the sermon has not been independently confirmed.
+- **No direct Scripture misquotes identified.** This sermon relies heavily on paraphrase and pastoral application rather than direct quotation.

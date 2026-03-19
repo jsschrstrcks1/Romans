@@ -2,7 +2,9 @@
 
 *Compiled from review of all 21 distinct work threads (99 merged PRs across 21 branch families), the full sermon corpus, sermon-queue.md, memory2.md, preaching-gap-analysis.md, and individual file review.*
 
-*Date: March 13, 2026*
+*Date: March 13, 2026 — Last updated: March 16, 2026*
+
+**March 16 session notes**: Resolved merge from origin/main (10 files). All 10 new files verified and mapped in sermon-map. Two new files with standing pastoral flags documented below (Deuteronomy 8, Psalm 42 — Part IV). Tracker summary counts corrected accordingly. memory2.md extractions confirmed complete. 1 Corinthians 12 polished file reviewed — clean.
 
 ---
 
@@ -10,14 +12,14 @@
 
 | Category | Count |
 |----------|-------|
-| Unprocessed sermons in memory2.md | 9 |
-| Blocked sermons (source text missing) | 2 |
+| Unprocessed sermons in memory2.md | ~~9~~ **0 — all complete** |
+| Blocked sermons (source text missing) | 1 (Psalm 106; A Godly Home resolved) |
 | Incomplete/truncated sermon manuscripts | 3 |
-| Raw drafts needing polish and verification | 10 |
+| Raw drafts needing polish and verification | 12 (10 prior + 2 added from March 16 merge) |
 | Study papers incomplete | 2 |
 | Book revision material not yet integrated | 1 |
 | Sermon-map entries with verification flags (⚠️) | 46+ files |
-| **Total distinct unfinished items** | **~73** |
+| **Total distinct unfinished items** | **~67** |
 
 ---
 
@@ -209,7 +211,7 @@ The repository has been developed across 21 distinct Claude Code thread families
 |---|--------|-------------|--------|
 | 1 | Paul's Final Letter | 2 Timothy 1:1-2 | ~~Extracted~~ → `2 Timothy 1 1-2 - Paul's Final Letter (raw draft).md` ✓ |
 | 2 | Cultural Marxism / CRT | Romans 10:12-13 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Cultural Marxism.md` → `Cultural Marxism - CRT - Romans 10 (raw draft).md` → **`Sermon - Cultural Marxism.md` ✓ polished & verified** (all Scripture ESV ✓; David Brooks sourced ✓; Hitler "half Jewish" removed ✓; Deut 10:17 corrected to ESV ✓; Dhund geography corrected ✓; sermon-map + theological-map updated ✓) |
-| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ~~Raw in memory2.md~~ → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` ✓ — Scripture refs corrected March 2026; ⚠️ JFB quote unverified |
+| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ~~Raw in memory2.md~~ → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` → **`Sermon - Bless the Lord O My Soul.md` ✓ (canonical; fully polished, Scripture verified, Integrity Log appended, sermon-map updated)** |
 | 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | ~~Partially extracted~~ → `Other-Sermons/Sermons/Eph 3 - The Covenants.md` ✓ (complete Integrity Log present, 6 Scripture corrections + 3 factual notes applied) |
 | 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/Col 2 - thanksigiving.md` ✓ |
 | 6 | Prayer | Colossians 4:2-4 | ~~Raw in memory2.md~~ → `Other-Sermons/Sermons/col 4 - prayer.md` (full version) + `Other-Sermons/Sermons/prayer col 4.md` (prayer service version) ✓ |
@@ -251,13 +253,15 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 | `Proverbs 13 (raw draft).md` | ~~Multiple flags~~ — **All resolved** ✓. Paul Washer story verified ✓; "700%" removed → "small fraction" ✓; Edwin Starr / Lockheed Martin story CUT (confirmed false) ✓; screen time corrected to 5–9 hrs (Common Sense Media) ✓; "3 hrs Puritan scripture" reframed ✓; Newton ref corrected ✓; "spare the rod" paraphrase flagged in body with real ESV verse ✓. ⬜ Pew Bible page number — fill before Sunday (pastor's task) |
 | `Psalm 2 (raw draft).md` | ~~11 flags~~ — **All resolved** ✓ (Heb 13:3 ESV, Edwards Q2 fixed, LORD/Lord corrected incl. v.4 Adonai, IDOP first Sunday, 7 duplicate lines removed); ⚠️ "53 countries" and "Russia in Revelation" remain as noted interpretive/dated-data flags |
 | `Psalm 8 - Hebrews 2 (raw draft).md` | ~~4 flags~~ — **Duplicates resolved** ✓ (4 partial lines removed); ESV corrections applied ✓; J.C. Ryle verified ✓; "How He Loves" / McMillan corrected ✓; Caño Cristales corrected ✓. ⚠️ David Platt cab driver story unverified (no indexed source); ⚠️ Edwards "just the sin" quote not in Yale critical edition (possibly misattributed); ⚠️ MacArthur "serve righteousness as slaves" — paraphrase of Rom 6:18-19, not confirmed direct quote — all three flagged inline in draft |
-| `Psalm 119 161-168 (raw draft).md` | ~~10 flags~~ — **8 resolved** ✓ (Fenn corrections, US population, Brother Andrew prayer/Romania verified); ⚠️ Florida "more than rest of country combined" (opiates/Xanax) — directionally accurate for pill-mill era, exact phrase unverified; update with sourced stats before reprising |
+| `Psalm 119 161-168 (raw draft).md` | ~~10 flags~~ — **All resolved** ✓ (Fenn corrections, US population, Brother Andrew prayer wording ✓ "in my luggage" confirmed, Brother Andrew destination ✓ corrected to Yugoslavia 1957 — three independent sources; Florida stats pastor-certified, primary source not documented — add before publication). |
 | `Psalm 68 Part 2 (raw draft).md` | ~~7 flags~~ — **All resolved** ✓ (Prov 27:17 ESV, 1 Kgs 18 LORD, prophet count 850, Elijah timeline, duplicate line removed) |
 | `1 Thess 5 - Rejoice Always (raw draft).md` | ~~7 flags~~ — **All resolved** ✓ (Spurgeon verified Sermon #2483, "3 million" → ~1.3M, "Communists defeated" corrected, duplicate line removed) |
 | `Philippians 4 (raw draft).md` | ~~16 flags~~ — **11 resolved** ✓ (CT Studd wording corrected, Spurgeon verified #1178, semnos confirmed, prosphilēs NT hapax confirmed, LXX Ps 84 claim corrected to ἀγαπητά, Samuel Sey description corrected). ⚠️ Samuel Sey quote unverified; ⚠️ Richard Baxter full passage unverified (closing sentence confirmed — Practical Works II:884-885); ⚠️ Mo-Jer-Hai not in indexed sources; ⬜ pew Bible page number |
 | `Romans 1 - Psalm 22 (Prophecy raw draft).md` | ~~8 flags~~ — **All resolved** ✓ (Rogers "108" verified Sermon #2299 LWF; Torrey "300" corrected — actual lists 61-79; "68%" corrected to 65% with Joyner/Morningstar attribution; prophecy table Ps 22:17 → Ps 34:20 for bones-not-broken; Deut 18:20-22 and Rom 10:9 ESV previously corrected). ⚠️ Remaining Psalm 22 fulfillment citations: verify line-by-line against ESV before printing. |
 | `Romans 7.md` | ~~4 flags~~ — **2 resolved** ✓ (Jn 15:16 corrected, Phil 2:8 ESV, Lk 22:42 restored); ⚠️ Tesla story disputed; ⚠️ "3 in 5 dieters" unverified |
 | `Romans 3 - antinomianism draft.md` | ~~3 flags~~ — **2 resolved** ✓; ⚠️ John Brown quote remains in Pending Verification (archive.org 403, no indexed text — cannot verify without physical copy) |
+| `Deuteronomy 8 - Count Your Blessings (repaired draft).md` | **Added March 16, 2026 — from main merge.** Three pastoral flags documented inline in source notes: (1) Oatman/Johnson "Count Your Blessings" hymn story — notes describe it as invented/embellished; verify or remove before reprising. (2) Jonathan Edwards "sinners in hands" quote — sermon attributes it to Edwards but wording does not match known primary text; treat as paraphrase or remove attribution. (3) Col 3:6 cited as support for "God's wrath falls on the disobedient" in a blessings-and-thanksgiving context — application is strained; consider removing or reframing. Sermon is usable; flags matter before reprising or print. |
+| `Psalm 42 - As the Deer Pants.md` | **Added March 16, 2026 — from main merge.** Two flags in source notes: (1) Unnamed "PhD scholar" cited for the claim that deer seek water to escape predators (not to drink) — no source named; claim appears in circulation but academic origin unverified. (2) Sermon attributes the "As the Deer" chorus tune to a specific composition context — verify before any print attribution. Sermon is fully usable for preaching; flags matter for print/book use only. |
 
 ---
 

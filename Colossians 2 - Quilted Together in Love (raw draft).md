@@ -4,15 +4,36 @@ Colossians 2:1-8 — Quilted Together in Love / Gratitude as Guardian
 
 ---
 
-**Primary Text**: Colossians 2:1-8
-**Supporting Texts**: Romans 5:7-8, 1 Thessalonians 5:17-18, 1 Corinthians 11:23-29, Isaiah 53:10-11
-**Also preached with**: Shawiya of Algeria people group (alternate delivery)
-**Themes**: Body of Christ as quilt, bronze patina illustration, beguiling speech, gratitude as guardian, communion
-**Quoted**: John Piper (knit together in love), Ann Voskamp (eucharisteo/charis/chara)
+
+**Primary Text**: Colossians 2:1–8
+**Supporting Texts**: Romans 5:7–8; 1 Thessalonians 5:17–18; 1 Corinthians 11:23–29; Isaiah 53:10–11; Isaiah 64:6
+**Themes**: Body of Christ as quilt, bronze patina illustration, beguiling speech, gratitude as guardian, eucharisteo word study, communion
+**People Group**: Shawiya of Algeria (Berber; ~3 million; no known believers) *(⚠️ population and evangelized % — verify against current Joshua Project data)*
+**Quoted**: John Piper (⚠️ unverified source — likely Colossians sermon series, desiringgod.org); Ann Voskamp, *One Thousand Gifts* (⚠️ unverified exact wording); Stuart Townend, "How Deep the Father's Love for Us" ✓
 
 ---
 
-Lets read our passage today. Col 2:1-8
+We're going to be in Colossians chapter 2. While you're turning there, let's talk about the people group of the week.
+
+The **Shawiya** of Algeria — pronounced *Shah-wee-ya* — are one of the numerous Berber groups in North Africa. The major feature that binds the Shawiya together is their language. Since the eighth century, they have been dominated by the Arabs, who forbade expressions of their language and culture until recent years. Life for the Shawiya is simple. They are Muslims, and they have long been mocked by their countrymen for being simpletons — yet they are known for their wisdom. There are around three million Shawiya, and no known believers in Jesus Christ.
+
+Who will pray for the Shawiya?
+
+---
+
+*[Prayer.]*
+
+---
+
+I was listening to a pastor preach this week, and he told this story.
+
+Imagine you are in a battle. Completely outnumbered. Surrounded. The city you are in is bound to fall. There are enemy sympathizers inside the walls, doing everything they can to bring the enemy in. The enemy outside wants to do everything it can to get in and destroy you — personally you. Pretty bad news. Pretty bad day all told.
+
+Until you find out that there is a song — and if you sing it, it will make the enemy tremble and flee. So you try it, and sure enough, it works. Who wouldn't sing that song everywhere they went? You might get one of those boom boxes they used to carry in the '80s and blast it everywhere you went. You would want to sing it and teach everyone to sing it. In the end you would conquer the enemy, and there would be no threat at all.
+
+Yet we have such a song — and we don't sing it.
+
+Let's read our passage today. Colossians 2:1–8.
 
 I want you to notice the quilting language in this passage in verse 2. Speaking of – I love the quilt that Carol, and you guys all made and signed for me. I have had a few opportunities to use it, sitting in my recliner in the evenings these past few cold nights. Its been a blessing. But like that quilt where we all had a hand in tying a knot, this passage is a quilt.
 
@@ -99,3 +120,5 @@ For I received from the Lord what I also delivered to you, that the Lord Jesus o
 - **Hymn attribution** *(verified)*: "It was my sin that held him there, until it was accomplished. His dying breath has brought me life. I know that it is finished." — Stuart Townend, "How Deep the Father's Love for Us" (1995). ✓
 - **Nero historical claims** *(noted)*: The preacher's description of Nero's persecution of Christians draws on traditional accounts (Tacitus, Annals 15.44). The "fiddling while Rome burned" is acknowledged as possibly apocryphal. The claim that Nero was "likely the man that put Paul in jail" is historically reasonable for the Roman imprisonment but debated among scholars.
 - **Bronze patina metallurgy** *(noted)*: The illustration is creative and theologically effective. The metallurgical details are approximately correct (bronze = copper + tin, sometimes zinc; patina forms a protective layer). The "8 oz to 1" ratio and "crystal lattice" claims should be verified for scientific accuracy if this illustration is reused in print.
+- **Shawiya of Algeria** ⚠️ Population (~3 million) and evangelized percentage ("no known believers") should be verified against current Joshua Project data before citing in print. Historical claim — Arab domination since the 8th century — accurate (Arab conquest of the Maghreb, 647–709 AD). Language suppression of Berber/Tamazight dialects is historically documented; Tamazight became a national language in Algeria in 2002 and an official language in 2016. Sermon figures preserved as delivered.
+- **Battle/song illustration** — Attributed to "a pastor" without naming the source. No attribution issue; no verification required.

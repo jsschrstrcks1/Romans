@@ -1,6 +1,8 @@
 # Faithful and God-Fearing
 ## A Sermon on Nehemiah 7:1–5
 
+**Status**: Corrections applied (see end notes) — "50 days" → 52 days (Neh 6:15); Xerxes as grandson of Cyrus (not great-grandson); Nebuchadnezzar succession claim removed from body; ESV used throughout (Isa 45:1–4, Luke 12:5 corrected from NIV); ⚠️ Dr. Alvin Reid quote unverified; ⚠️ Great Wall illustration unverified; gospel/Pascal's Wager sections incomplete (placeholders only — pastor must complete before preaching)
+
 ---
 
 ## Context

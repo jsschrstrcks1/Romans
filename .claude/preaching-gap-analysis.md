@@ -121,7 +121,7 @@
 | **Romans** | Romans 1–16 | **Complete** | Primary series. No gaps. |
 | **1 Corinthians** | 1 Cor 1–3, 8–12, 13 | Good | **Critical gap: 1 Cor 15 (Resurrection chapter) — the most sustained NT treatment of the bodily resurrection. No dedicated sermon found.** Given the Easter emphasis in this corpus, the absence of an expositional 1 Corinthians 15 sermon is significant. |
 | **2 Corinthians** | 2 Cor 5, 8–9, 12 | Thin | Brokenness covered (2 Cor 12). **Gap: 2 Cor 1 (comfort in affliction — directly applicable to congregation's pain), 2 Cor 3 (glory of the new covenant, veiled/unveiled hearts), 2 Cor 4 (treasure in jars of clay).** |
-| **Galatians** | Gal 1–4, 6 | Good | Five Solas applied well here. **Gap: Gal 5 (fruit of the Spirit) — never the primary text despite fruit being regularly referenced.** |
+| **Galatians** | Gal 1–4, 6 | Good | Five Solas applied well here. Gal 3:23–29 now polished (`Galatians 3 - Law Faith and Adoption.md` — all ESV ✓, March 2026). **Gap: Gal 5 (fruit of the Spirit) — never the primary text despite fruit being regularly referenced.** |
 | **Ephesians** | Eph 2, 5 | Thin | **Critical gap: Eph 1 (every spiritual blessing — election and predestination in full doxological form), Eph 3 (Paul's prayer — the fullness of God), Eph 4 (unity and gifts), Eph 6 (armor of God). No stand-alone Ephesians 6 spiritual warfare sermon found despite spiritual warfare being a recurring theme.** |
 | **Philippians** | Phil 1, 3–4 | Good | Strong coverage across five sermons. **Gap: Phil 2:5-11 (kenosis hymn — Christ's humility) dedicated treatment.** |
 | **Colossians** | Col 1–4 | Good | Christ's supremacy and sanctification covered. |
@@ -937,7 +937,7 @@ The classical division distinguishes *incommunicable* attributes (unique to God,
 | **Mercy** (God does not give us what we deserve) | ★★ | Sola Gratia series; Romans 4–5; throughout. |
 | **Grace** (God gives us what we do not deserve) | ★★ | Central to every sermon on salvation; Sola Gratia series; "grace is a cheetah." |
 | **Justice / Righteousness** (God always acts in perfect conformity with his own righteous character) | ★★ | Romans 3; `rev 20.md`; hell as just punishment. |
-| **Faithfulness / *Hesed*** (God keeps his covenant promises; his steadfast love endures) | ★★ | `Psalm 103 - Bless the Lord O My Soul.md`; `2 Chronicles 15 - The Hand That Won't Let Go.md`; Romans 11:29 ("the gifts and calling of God are irrevocable"). |
+| **Faithfulness / *Hesed*** (God keeps his covenant promises; his steadfast love endures) | ★★ | `Sermon - Bless the Lord O My Soul.md`; `2 Chronicles 15 - The Hand That Won't Let Go.md`; Romans 11:29 ("the gifts and calling of God are irrevocable"). |
 | **Goodness** (God is benevolent; he does good to his creatures) | ★★ | `Psalm 145 - Good to All.md` — primary subject; Psalm 84 ("no good thing does he withhold"). |
 | **Wisdom** (God always chooses the best ends by the best means) | ★ | Romans 11:33-36 doxology expounded at the close of Romans 11 pt 2 ("Oh the depth of the riches and wisdom…"); `Sermon - The Kingdom of God` cites Tozer on wisdom. Never the primary subject of a sermon. |
 | **Truth / Veracity** (God is truth; he cannot lie or deceive) | ★ | Numbers 23:19 cited in `Sermon - More Than Love.md`; Elohay Emet expounded briefly from Psalm 31:6. Never a primary subject. |
