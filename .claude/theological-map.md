@@ -248,6 +248,24 @@ Central atonement theory. Named explicitly by term ("penal substitutionary atone
 
 **Explicit. Tradition: Nicene orthodoxy, Baptist.**
 
+#### The Spirit as Helper, Comforter, Advocate (*Parakletos*)
+> "In this passage Jesus refers to the Holy Spirit as one who would come later and take his place, one who would be a Helper, one who would convict the world concerning sin, concerning righteousness, and concerning judgment. The KJV calls the Spirit 'the Comforter' — same Greek word, *parakletos*. Helper, Comforter, Advocate — it's all the same title."
+> — `Sermon - John 16 The Holy Spirit.md`
+
+Jesus's departure was not abandonment — the Spirit was the planned successor to Christ's bodily presence. The Spirit takes what belongs to Christ and declares it to believers (John 16:14). **Explicit. Tradition: Baptist, Reformed.**
+
+#### Inspiration of Scripture
+> "He inspired holy men of old to write the Scriptures."
+> — `bfm holy spirit.md`
+
+The Spirit is the agent of biblical inspiration (*theopneustos* — God-breathed, 2 Tim 3:16). **Explicit. Tradition: Baptist (BFM 2000), Reformed.**
+
+#### The Spirit Exalts Christ
+> "He will glorify me, for he will take what is mine and declare it to you."
+> — John 16:14, cited in `Sermon - John 16 The Holy Spirit.md`
+
+The Spirit's ministry is Christocentric — He does not draw attention to Himself but magnifies Christ. **Explicit. Tradition: Reformed, Baptist.**
+
 #### Agent of Regeneration
 > "He even has to do a work in us before salvation or we would reject the good news outright and call it foolishness."
 > — `Acts 2 Holy Spirit.md`
