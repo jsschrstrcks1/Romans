@@ -121,7 +121,7 @@
 | **Romans** | Romans 1–16 | **Complete** | Primary series. No gaps. |
 | **1 Corinthians** | 1 Cor 1–3, 8–12, 13 | Good | **Critical gap: 1 Cor 15 (Resurrection chapter) — the most sustained NT treatment of the bodily resurrection. No dedicated sermon found.** Given the Easter emphasis in this corpus, the absence of an expositional 1 Corinthians 15 sermon is significant. |
 | **2 Corinthians** | 2 Cor 5, 8–9, 12 | Thin | Brokenness covered (2 Cor 12). **Gap: 2 Cor 1 (comfort in affliction — directly applicable to congregation's pain), 2 Cor 3 (glory of the new covenant, veiled/unveiled hearts), 2 Cor 4 (treasure in jars of clay).** |
-| **Galatians** | Gal 1–4, 6 | Good | Five Solas applied well here. **Gap: Gal 5 (fruit of the Spirit) — never the primary text despite fruit being regularly referenced.** |
+| **Galatians** | Gal 1–4, 6 | Good | Five Solas applied well here. Gal 3:23–29 now polished (`Galatians 3 - Law Faith and Adoption.md` — all ESV ✓, March 2026). **Gap: Gal 5 (fruit of the Spirit) — never the primary text despite fruit being regularly referenced.** |
 | **Ephesians** | Eph 2, 5 | Thin | **Critical gap: Eph 1 (every spiritual blessing — election and predestination in full doxological form), Eph 3 (Paul's prayer — the fullness of God), Eph 4 (unity and gifts), Eph 6 (armor of God). No stand-alone Ephesians 6 spiritual warfare sermon found despite spiritual warfare being a recurring theme.** |
 | **Philippians** | Phil 1, 3–4 | Good | Strong coverage across five sermons. **Gap: Phil 2:5-11 (kenosis hymn — Christ's humility) dedicated treatment.** |
 | **Colossians** | Col 1–4 | Good | Christ's supremacy and sanctification covered. |

@@ -1,0 +1,43 @@
+name: Validate
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  check:
+    name: Content Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check for broken markdown links (internal)
+        run: |
+          # Verify no markdown files reference missing local files
+          echo "Checking internal file references..."
+          broken=0
+          while IFS= read -r file; do
+            # Extract relative markdown links like [text](path) — skip http/https/anchors
+            grep -oP '\]\((?!http|#)[^)]+\)' "$file" 2>/dev/null | sed 's/](\(.*\))/\1/' | while read -r link; do
+              dir=$(dirname "$file")
+              target="$dir/$link"
+              if [ ! -e "$target" ]; then
+                echo "BROKEN: $file -> $link"
+                broken=1
+              fi
+            done
+          done < <(find . -name "*.md" -not -path "./.git/*" -not -path "./Other-Sermons/spurgeon/*")
+          exit $broken
+
+      - name: Verify no empty sermon files
+        run: |
+          echo "Checking for empty markdown files..."
+          empty=$(find . -name "*.md" -not -path "./.git/*" -empty)
+          if [ -n "$empty" ]; then
+            echo "Empty files found:"
+            echo "$empty"
+            exit 1
+          fi
+          echo "All markdown files have content."

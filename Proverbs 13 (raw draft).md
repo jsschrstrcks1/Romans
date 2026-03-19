@@ -3,7 +3,7 @@
 **Series/Context:** Sunday morning
 **Passage:** Proverbs 13 (key landing verse: v. 20)
 **Theme:** Generational gaps — listening to instruction, the Puritan example, cultural drift
-**Status:** Corrections applied — errors corrected, body cleaned; 1 item for pastor (pew Bible page number)
+**Status:** Raw preaching draft — unedited dictation
 
 ---
 
@@ -15,7 +15,7 @@
 - [x] **"Puritan children studied Scripture 3 hours daily"** — ❌ UNVERIFIABLE. No historical source specifying a "3-hour daily Scripture study requirement" for Puritan children was found. Puritan education was heavily Scripture-saturated (school days 7–8 hours, built around Bible and catechism), but the specific "3 hours" figure as a requirement is not attested in any source. **Remove or reframe: say Puritan children studied Scripture as the center of their entire education — not a 3-hour-daily figure.**
 - [x] **Edwin Starr / Lockheed Martin investment claim** — ❌ CONFIRMED FALSE. REMOVE ENTIRELY. Documented research finds no connection between Edwin Starr and Lockheed Martin or any defense company. Starr was an antiwar activist who was cheated out of his royalties, moved to England for financial reasons in the 1980s, and died in Nottinghamshire in 2003. The claim inverts his documented life. No diary, no investment, no such quote exists in any source. The "War" reference and song itself are fine to use; the investor story must be cut completely.
 - [x] **"Isaac Newton wrote a paper about the earth being round"** — ❌ REPHRASE. Newton's *Principia* (1687) is about universal gravitation, not earth's roundness. The draft already corrects this to reference Greek philosophers — that's the right framing. The verse is Isaiah 40:22 ("It is he who sits above the circle of the earth," Hebrew *chug*). Isaiah (~700 BC) predates Aristotle (~350 BC) and Eratosthenes (~240 BC). That's a legitimate and powerful point. ✅ Already corrected in draft body.
-- [x] **"Spare the rod, spoil the child"** — This is not a direct Scripture quote. Proverbs 13:24 (ESV): *"Whoever spares the rod hates his son, but he who loves him is diligent to discipline him."* The familiar phrase is a paraphrase. Draft body already uses the real ESV verse with an inline FLAG note reminding the preacher not to quote the paraphrase as Scripture. ✓
+- [x] **"Spare the rod, spoil the child"** *(resolved)*: Body already quotes Proverbs 13:24 (ESV) correctly and does not present "spare the rod, spoil the child" as a Bible quote. Inline [FLAG] note retained in body as a delivery reminder. ✓
 - [ ] **Pew Bible page number** — Left blank in draft. Fill before Sunday.
 
 ---
@@ -34,15 +34,21 @@ Before we go any further: Paul Washer has his bachelor's from a state university
 
 Anyway, his friend said, "Hey, I have this book I want you to read." So after a while it finally came up on his reading list, and he began skimming it. Despite his extensive studies in logic, philosophy, and theology he was still having a hard time with it — the logic was higher level, the theology much deeper than most theology texts go today. So the story goes, he stopped to get a glass of water, and when he came back the book had flipped closed to the back cover. There was a picture of several children and an old-fashioned looking schoolmaster. He read the preface and found out this was a reprint of a book of logic that had been used to train Puritan children in primary school.
 
+**[NOTE: Do not name a specific title from the pulpit — Washer never identifies it. Call it "a book on logic" or "a Puritan logic primer." The cover showed a schoolmaster, not a schoolmarm — correct above is now accurate.]**
+
 He said he was shocked to find out that in the days of the Puritans, 7–12 year olds were studying the deep questions of Scripture with higher-level logic than what is being taught in seminary today.
 
 He said 7-year-olds were being taught about impeccability versus peccability — could Christ have sinned if He wanted to? That kind of deep, esoteric theology is what these little children were studying. And it struck him just how great the generation gap is between us and the Puritans.
 
 I pulled up Google Ngram — a tool that tracks how often words and phrases appear in millions of books over time — and looked up the word "Puritan." Discussion of the Puritans peaked around the end of the 1800s and the beginning of the 1900s. Today we have dropped to a small fraction of what we once were. We barely talk about them anymore.
 
+**[✅ Corrected March 2026 — body now reads "dropped to a small fraction." Real Ngram decline is 61–76%, not 700%. "700%" was mathematically incoherent. See flags section.]**
+
 Now I don't agree with everything the Puritans had to say, but they said a lot of good things. One of the primary questions on their hearts and minds was how the Word of God applies to every facet of life. Things like that are worth thinking about and studying Scripture to find answers to.
 
 According to Common Sense Media, the average child today spends somewhere between 5 and 9 hours on entertainment screens every day — video games, television, social media. By contrast, Puritan children spent their entire school day saturated in Scripture. It was the center of everything they learned — reading, logic, ethics, law. The Word of God wasn't carved out as a separate subject. It *was* the subject.
+
+**[✅ Corrected March 2026 — body now uses Common Sense Media sourced figures (5–9 hrs entertainment screens daily) and frames Puritan education as Scripture-saturated throughout rather than citing a specific daily Scripture hour requirement (unverifiable). See flags section.]**
 
 The level and depth of theological education of the 1600s Puritan child was as great — or greater, according to Washer — than his own modern 21st century pastoral seminary education.
 
@@ -66,7 +72,9 @@ Case in point: the first lab, we had to capture hydrogen and oxygen, stick lit m
 
 Science is an important part of our lives and it should be studied. But it needs to be kept in its proper perspective — kneeling at the cross of Christ. Scripture is not a science text, but where it speaks of science it is the most authoritative source we have.
 
-Scripture refers to the earth as a circle or sphere thousands of years before the earliest Greek philosophers speculated about its shape. Isaiah wrote: *"It is he who sits above the circle of the earth"* (Isaiah 40:22, ESV) — roughly 700 BC, predating both Aristotle (~350 BC) and Eratosthenes (~240 BC).
+Scripture refers to the earth as a circle or sphere thousands of years before the earliest Greek philosophers speculated about its shape.
+
+**[✅ Isaiah 40:22 — "It is he who sits above the circle of the earth" (ESV). Hebrew חוּג (*chug*) = circle/vault/sphere. Isaiah ~700 BC predates Aristotle (~350 BC) and Eratosthenes (~240 BC) — a legitimate point. Body corrected March 2026: original draft's Newton reference removed; body now correctly says "earliest Greek philosophers." See flags section.]**
 
 When Scripture speaks on a subject, it is authoritative. Sometimes we're just not listening.
 
@@ -104,10 +112,11 @@ This is memorialized in their music, their art, and even their politics. Remembe
 
 That sentiment captures the spirit of the whole era. Young people were convinced they had a better read on the world than anyone who had come before them. And they sang it loudly.
 
+**[✅ Corrected March 2026 — Edwin Starr investor/diary illustration removed. Confirmed false: no connection to Lockheed Martin or any defense company; Starr was an antiwar activist who died in Nottinghamshire in 2003. Song reference above is confirmed and safe to use. See flags section.]**
 
 ---
 
-There is so much good in our passage this morning I had trouble picking out just a few things to talk about. I thought about talking about the verse about the rod — *"Whoever spares the rod hates his son, but he who loves him is diligent to discipline him"* (Proverbs 13:24, ESV). Note that "spare the rod, spoil the child" is a paraphrase, not a Bible quotation — the verse itself is above.
+There is so much good in our passage this morning I had trouble picking out just a few things to talk about. I thought about talking about the verse about the rod — *"Whoever spares the rod hates his son, but he who loves him is diligent to discipline him"* (Proverbs 13:24, ESV). **[FLAG: "Spare the rod, spoil the child" is a paraphrase, not a Bible quote. The actual ESV text is above — use the real verse.]**
 
 It's easier sometimes to indulge our kids than to fight with them, to help them think and behave rightly. Or the verse about the righteous being content while fools continue to pursue the lusts of their flesh.
 

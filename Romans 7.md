@@ -56,8 +56,8 @@ For a church building.
 ## ⚠️ Flags for Future Polish
 
 - **Jn 14:16 reference error** *(corrected)*: Was "vs 16 of Jn 14" — Jn 14:16 is about the Holy Spirit, not election. Corrected to **Jn 15:16** (ESV): *"You did not choose me, but I chose you and appointed you that you should go and bear fruit."* ✓
-- **Phil 2:8** *(corrected ✓)*: Updated from KJV/NKJV "obedient unto death" to ESV: *"humbled himself by becoming obedient to the point of death, even death on a cross."*
-- **Lk 22:42** *(corrected ✓)*: Restored full ESV text including "be done"; corrected "never the less" to "Nevertheless."
+- **Phil 2:8** *(verified)*: Draft says "obedient unto death" — that is KJV/NKJV language. ESV Phil 2:8 reads: *"he humbled himself by becoming obedient to the point of death, even death on a cross."* Correct to ESV when polishing.
+- **Lk 22:42** *(verified)*: Draft quotes loosely and truncates. ESV reads: *"Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done."* Draft omits "be done." Correct when polishing.
 - **Jn 14:15** *(verified)*: ESV reads *"If you love me, you will keep my commandments."* Draft paraphrase is faithful in substance.
 - **John 15:12-17** *(verified)*: The block quotation in the draft matches ESV exactly. ✓
 - **1 Cor 11:23-26** *(verified)*: Communion passage corrected to exact ESV in this file (comma after "body" restored). ✓
