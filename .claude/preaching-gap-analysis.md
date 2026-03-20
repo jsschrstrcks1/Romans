@@ -21,11 +21,11 @@
 
 | Book | Coverage | Status | Notes |
 |------|----------|--------|-------|
-| **Genesis** | Gen 1–3, 11, 29, 37–39, 43; Gen 6–9 and 12/15 (survey only) | Thin | Good on creation, fall, Joseph. Gen 6–9 (Noahic covenant) and Gen 12:1–3, 15:1–6 (Abrahamic covenant) are surveyed in overview form in `Eph 3 - The Covenants.md` — not expository primary texts. **Remaining gaps: Gen 4 (Cain/Abel), Gen 12/15/17 as dedicated expository sermons, Gen 22 covered only in a study note.** |
+| **Genesis** | Gen 1–3, 4, 11, 13, 21, 22–23, 24, 29, 37–39, 43; Gen 6–9 and 12/15 (survey only) | Good | Good on creation, fall, Joseph. Gen 4 (Cain/Abel) ✓. Gen 22 now covered by three manuscripts (`Genesis 22 - There and Back Again`, `Genesis 22 - Binding of Isaac`, `Genesis 22-23 - The Testing Ground`). Gen 13 (Tale of Two Men) ✓. Gen 21 (My God Is So Great) ✓. Gen 24 (Eliezer and Rebekah) ✓. Gen 6–9 (Noahic covenant) and Gen 12:1–3, 15:1–6 (Abrahamic covenant) are surveyed in overview form in `Eph 3 - The Covenants.md` — not expository primary texts. **Remaining gaps: Gen 12/15/17 as dedicated expository sermons.** *(Corrected March 2026 — Gen 4, Gen 22 were listed as gaps but files exist.)* |
 | **Exodus** | Ex 2, 5–6, 14; Ex 19 (survey only) | Thin | Red Sea covered well. Ex 19:3–8 (Mosaic covenant, Sinai overview) surveyed in `Eph 3 - The Covenants.md` — not an expository primary text. **Remaining gaps: Ex 3 (burning bush/the name of God), Ex 19–20 as a dedicated Sinai sermon, Ex 32–34 (golden calf/renewal).** |
-| **Leviticus** | None found | **MISSING** | Rich with atonement typology — Day of Atonement (Lev 16), holiness code (Lev 17–26). No dedicated sermons in the entire corpus. Significant gap for a preacher so focused on propitiation and substitution. |
+| **Leviticus** | Lev 16 ✓ | Thin | Day of Atonement covered (`Other-Sermons/Sermons/Leviticus 16.md`). *(Corrected March 2026 — previously listed as MISSING but Lev 16 sermon exists.)* **Remaining gaps: holiness code (Lev 17–26), sacrificial system overview (Lev 1–7).** |
 | **Numbers** | Num 11 ✓, Num 16 (ref only), Num 21 ✓ | Thin | Discontentment and manna (Num 11 — *The Sin We Don't Call Sin*, cleaned ms. 2026) and bronze serpent (Num 21) covered. **Gaps: Num 6 (Aaronic blessing), Num 14 (unbelief in the wilderness)** |
-| **Deuteronomy** | Referenced throughout but never primary text | **MISSING** | The book of Moses's sermons — *shema* (Deut 6), covenant renewals, blessings/curses (Deut 27–30), Deut 32–33. Cited in Romans frequently but never preached in its own right. |
+| **Deuteronomy** | Deut 8 ✓ | Thin | "Count Your Blessings" sermon on Deut 8:2–10, 17 (`Deuteronomy 8 - Count Your Blessings (repaired draft).md`). *(Corrected March 2026 — previously listed as MISSING but Deut 8 sermon exists.)* **Remaining gaps: Deut 6 (*shema*), Deut 27–30 (blessings/curses), Deut 32–33.** |
 
 ---
 
@@ -33,19 +33,19 @@
 
 | Book | Coverage | Status | Notes |
 |------|----------|--------|-------|
-| **Joshua** | Josh 9 only | Thin | Integrity sermon on the Gibeonite deception. **Gaps: Josh 1 (be strong and courageous), Josh 3–4 (Jordan crossing), Josh 24 (covenant renewal / "as for me and my house")** |
+| **Joshua** | Josh 2, 6, 7–8, 9, 10, 24 | **Well-Covered** | *(Corrected — see Part XII §1.)* Rahab (Josh 2 & 6), Achan (Josh 7–8), Gibeonite deception (Josh 9), Power of God (Josh 10), "Choose this day" (Josh 24, two versions). **Remaining gap: Josh 1 (commissioning — "be strong and courageous"; Josh 1:8 on Scripture meditation).** |
 | **Judges** | Judg 1–2, 6, 11 | Thin | Gideon and Jephthah covered. **Gaps: Judg 13–16 (Samson), full arc of the Judges cycle (sin-oppression-cry-deliverance)** |
 | **Ruth** | None found | **MISSING** | Ruth and Boaz as kinsman-redeemer (*go'el*) typology — one of the most direct Christ-pictures in the OT. Complete absence. **High priority gap.** |
 | **1 Samuel** | 1 Sam 16–17, 28 | Thin | David's calling and Goliath covered. **Gaps: 1 Sam 1 (Hannah's prayer), 1 Sam 7 (Ebenezer), 1 Sam 13 (Saul's impatience)** |
 | **2 Samuel** | 2 Sam 7 (survey only) | **MISSING** | 2 Sam 7 (Davidic covenant) is surveyed in overview form in `Eph 3 - The Covenants.md` — not an expository primary text. **Remaining gaps: 2 Sam 11–12 (Bathsheba, Nathan's rebuke), the pattern of grace-failure-restoration. No dedicated expository sermon on any 2 Samuel text.** Heavy use of Psalm 51 throughout corpus without ever preaching the backstory that generated it. |
 | **1 Kings** | 1 Kgs 3, 18 | Thin | Elijah on Carmel covered well. **Gaps: 1 Kgs 8 (Solomon's dedication prayer), 1 Kgs 19 (Elijah under the broom tree — exhaustion and ministry burnout, directly relevant to congregation)** |
 | **2 Kings** | 2 Kgs 5, 25 | Thin | Naaman and the fall of Jerusalem. **Gaps: 2 Kgs 18–19 (Hezekiah's prayer and God's deliverance)** |
-| **1 Chronicles** | None found | **MISSING** | Less urgent — largely parallel to Samuel/Kings — but 1 Chron 4:10 (Jabez) is frequently misused; a corrective sermon has value. |
+| **1 Chronicles** | 1 Chron 4 ✓ | Thin | "What God Remembers" on 1 Chron 4:5–10 (Jabez) — the corrective sermon exists (`Other-Sermons/Sermons/1 Chronicles 4 - What God Remembers.md`). *(Corrected March 2026 — previously listed as MISSING but sermon exists.)* |
 | **2 Chronicles** | 2 Chron 15, 20 | Thin | Jehoshaphat's battle covered well. **Gap: 2 Chron 7:14 (one of the most-quoted but most-misapplied OT promises)** |
 | **Ezra** | Ezra 4, 6 | Thin | God's sovereignty over opposition covered. **Gap: Ezra 7–8 (Ezra's preparation: "he had set his heart to study the law")** |
 | **Nehemiah** | Neh 1–8, 13 | **Well-Covered** | 8-sermon arc. The strongest non-Romans sustained series in the archive. |
 | **Esther** | Esther 4:10–17 | **FILLED** | "For Such a Time as This" — preached; Mordecai's challenge, Esther's three responses (prayer, boldness, obedience), Gen 3:15 protoevangelium, Ps 22 tradition, Christ-type typology, Uyghur people group. See `Esther 4 - For Such a Time as This.md`. |
-| **Job** | Job 1 only | Thin | Character of Job covered. **Critical gap: Job 38–42 (God's speeches from the whirlwind) — theodicy at full depth; no sermon on suffering that matches this congregation's pain level.** |
+| **Job** | Job 1, 42 | Thin | *(Corrected — see Part XII §2.)* Character of Job (Job 1) and What We Think About God (Job 42) both covered. Job 42 includes strongest evidential apologetics in corpus (apostolic martyrdom walkthrough). **Remaining critical gap: Job 38–40 (God's speeches from the whirlwind — theodicy at full depth).** |
 
 ---
 
