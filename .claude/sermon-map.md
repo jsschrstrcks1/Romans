@@ -764,7 +764,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Eternal Security | John 6:37-65; 10:25-30 | `Eternal Security.md` | teaching |
 | Baptist Identity | Acts 18:24-28; 1 Cor 3:4-11 | `Acts 18 1 Cor 3 - Being Baptist.md` ✓ **[polished]** / `being baptist.md` (raw transcript) | teaching — Landmarkism refuted; Donatists corrected (4th-c. rigorists, not proto-Baptists); Baptist origins (English Separatists → Reformation); 4 of 7 distinctives (biblical authority, believers' baptism, regenerate membership, local church autonomy); Conservative Resurgence; denomination ≠ Christ; Heraclitus fire analogy; computer troubleshooting; Lutheran certificate anecdote |
 | Holy Spirit (BFM) | BFM article text | `bfm holy spirit.md` | teaching |
-| Catholicism | Rom 3:23-25; 3:27-28; 5:1-2; 5:8-10; Titus 3:4-7; John 1:12; 1 Pet 2:23-25; 2 Cor 5:21; Is 64:6; Eph 2:8-10 | `Catholicism.md` | teaching — Cults & Religions series; justification by faith alone vs. Catholic soteriology; *dikaiōsis* Greek word study; Baker's Encyclopedia definition; lion tamer illustration (empty boasting); Kurt at the hospital (missiles/hope); Council of Trent Canon 9 quote (anathema on *sola fide*); Latin Mass history; Lee from ERS testimony (Catholic man saved through Romans 10:9, now leads bible study in his Catholic church); gospel close; Catholic characterizations are blunt but accurate to theopraxy — what the system produces in practice |
+| Catholicism | Rom 3:23-25; 3:27-28; 5:1-2; 5:8-10; Titus 3:4-7; John 1:12; 1 Pet 2:23-25; 2 Cor 5:21; Isa 64:6; Eph 2:8-10; 1 Tim 2:5 | `Catholicism.md` | teaching — Cults & Religions series; justification by faith alone vs. Catholic soteriology; *dikaiōsis* Greek word study; Baker's Encyclopedia definition; Council of Trent Canon 9 (Waterworth 1848 translation); *ex cathedra*; Latin Mass history; sola fide as Protestant distinctive; lion tamer illustration (empty boasts vs. works-righteousness); Kurt hospital conversation (wars/missiles/hope); Lee from ERS testimony (Catholic man saved through Romans 10:9, now leads Bible study in his Catholic church); gospel close; Catholic characterizations blunt but accurate to theopraxy |
 | Christian Science | John 14:1-7 | `Christian science is the next group we are going to look at.md` | teaching |
 | Cultural Marxism | Romans 10:12-13 | `Cultural Marxism.md` | teaching — part 2 of previous week; cultural Marxism defined (suppress/support culture by group identity); critical race theory and intersectionality critique; SBC convention resolution context; David Brooks quote (older liberals vs younger militants); experience-as-truth error compared to Catholic/JW/Mormon elevation of tradition; Gal 3:26-29, Acts 10:34-35, Col 3:11, Acts 10:28, Rev 5:9-10, Deut 10:17; Dhund Abbasi of Pakistan people group (Abbasid dynasty descendants, ~1M, zero known believers); citizenship-in-heaven close |
 | Evangelism / Missions | Mt 28; Rom 15; Rev 7 | `Evangelism.md` / `evangelism (romans 15, mt 28, and rev 7).md` | sermon |
@@ -901,7 +901,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Acts 18 1 Cor 3 - Being Baptist.md` ✓ **[polished]** — Acts 18:24-28; 1 Cor 3:4-11 — Baptist history and distinctives; Landmarkism refuted; Donatist correction; English Separatist origins; Particular vs. General Baptists; 4 of 7 distinctives covered; Conservative Resurgence; denomination vs. Christ
 - `article 15.md` — Matthew 5:13-16 — Christians and the social order (BFM)
 - `bfm holy spirit.md` — BFM article on the Holy Spirit
-- `Catholicism.md` — Rom 3:23-25; 5:1-2; Eph 2:8-10 — Catholic vs Protestant justification; *sola fide*; Council of Trent Canon 9; lion tamer illustration; Lee from ERS testimony
+- `Catholicism.md` — Rom 3-5; Titus 3; Eph 2:8-10; 1 Tim 2:5 — Catholic vs. Protestant justification; sola fide; Council of Trent Canon 9; *dikaiōsis*; lion tamer illustration; Lee from ERS testimony
 
 ### Brokenness / Weakness / Suffering
 - `2 cor 12.md` — 2 Corinthians 12:7-10 — Theology of weakness (raw transcript)
@@ -933,7 +933,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 
 ### Cults / False Teaching / Counterfeits
 - `Acts 18 1 Cor 3 - Being Baptist.md` ✓ **[polished]** — Acts 18:24-28; 1 Cor 3:4-11 — Landmarkism refuted as false Baptist history; Donatists corrected (not proto-Baptists); J. R. Graves / J. M. Carroll *Trail of Blood* identified; truth must shape opinion, not vice versa
-- `Catholicism.md` — Rom 3:23-25; 5:1-2; Eph 2:8-10 — Catholic vs Protestant justification; Council of Trent Canon 9 (anathema on faith alone); Latin Mass; indulgences; Lee from ERS (Catholic man saved through Romans 10:9)
+- `Catholicism.md` — Rom 3-5; Titus 3; Eph 2:8-10; Isa 64:6; 1 Tim 2:5 — Catholic vs. Protestant justification; sola fide; Council of Trent Canon 9; lion tamer illustration; Lee from ERS testimony
 - `Christian science is the next group we are going to look at.md` — John 14:1-7 — Reaching Christian Scientists
 - `1 john 4 - counterfeit.md` — 1 John 4:1-6 — Testing spirits
 - `Catching Counterfeits.md` — 2 Cor 5:6-8 — Counterfeit claims about heaven
