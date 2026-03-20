@@ -268,7 +268,7 @@ The Spirit's ministry is Christocentric — He does not draw attention to Himsel
 
 #### Agent of Regeneration
 > "He even has to do a work in us before salvation or we would reject the good news outright and call it foolishness."
-> — `Acts 2 Holy Spirit.md`
+> — `Sermon - Clowns Entertaining the Goats.md`
 
 > "Before we can even follow him, he has to do a work in us."
 > — `sola gracia.md`
@@ -280,13 +280,13 @@ The Spirit effects the new birth. Regeneration precedes faith. **Explicit. Tradi
 > — `bfm holy spirit.md`
 
 > "Someone whose truly saved gets all of the Holy Spirit that will ever get."
-> — `Acts 2 Holy Spirit.md`
+> — `Sermon - Clowns Entertaining the Goats.md`
 
 Not a second experience. Not progressive. Complete at conversion. **Explicit. Tradition: Baptist, Reformed (contra second-blessing Pentecostalism).**
 
 #### Permanent Indwelling
 > "Unlike those two [Elijah/Elisha], it never leaves us once we are saved."
-> — `Acts 2 Holy Spirit.md`
+> — `Sermon - Clowns Entertaining the Goats.md`
 
 **Explicit. Tradition: Baptist, Reformed (eternal security).**
 
@@ -316,10 +316,10 @@ Without the Spirit, spiritual things are foolishness (1 Cor 2:14 cited repeatedl
 
 #### Tongues as Earthly Languages — Soft Cessationism
 > "Very clearly, here, Luke is talking about different languages... They aren't speaking gobbledygook."
-> — `Acts 2 Holy Spirit.md`
+> — `Sermon - Clowns Entertaining the Goats.md`
 
 > "I don't think its normal for it to happen today and given out as a gift like Peter had. But God is capable of doing that if he chooses."
-> — `Acts 2 Holy Spirit.md`
+> — `Sermon - Clowns Entertaining the Goats.md`
 
 Not hard cessationism (God can do anything). Not continuationism (apostolic gifts are not normal today). **Explicit. Tradition: Soft cessationist Baptist.**
 
@@ -331,7 +331,7 @@ Not hard cessationism (God can do anything). Not continuationism (apostolic gift
 
 #### Testing Spirit Claims Against Scripture
 > "Anything that conflicts with the Word of God is NOT of God."
-> — `Acts 2 Holy Spirit.md`
+> — `Sermon - Clowns Entertaining the Goats.md`
 
 Extended critique of Todd Bentley / Lakeland Revival as an example of false Spirit claims. **Explicit. Tradition: Reformed Baptist, Sola Scriptura.**
 
