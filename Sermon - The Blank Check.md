@@ -108,3 +108,90 @@ Charles Spurgeon said:
 > — Charles Spurgeon
 
 So who would be willing to be a part of this group that drives around praying for our community? You don't have to stop at Bolton, either — every one of our neighborhoods is full of people lost and dying, people who need prayer. If you're willing, we need to set a date and a time, and we can meet here at the church and drive through the neighborhoods praying together.
+
+---
+
+## Integrity Log
+
+**Compiled: March 20, 2026**
+
+### 1. David Platt — Quote and Family Description (line 49)
+
+**Quote: "You don't fully trust God until you can trust him with your kids."**
+⚠️ **Exact wording not confirmed.** The sentiment is consistent with Platt's public teaching on radical obedience and trusting God with what is most precious, but this exact quote could not be located in any indexed sermon, book, or interview. It may be a paraphrase or from an unindexed sermon. **Recommendation:** Before reprising, either locate the primary source or reframe as "David Platt has said something to the effect that…"
+
+**"Several young children including one he and his wife have adopted from overseas"**
+⚠️ **Understated.** David and Heather Platt have **six children, four of whom are adopted** — Caleb from Kazakhstan, a daughter from China, Mercy (adoption finalized via Zoom), and Jeremiah Daniel (J.D.) from China (delayed over 3 years by COVID). The Platts' journey began with infertility and led to becoming vocal advocates for orphan care through Lifeline Children's Services. "One adopted from overseas" should be corrected to "four adopted from overseas."
+
+**Sources:** Lifeline Children's Services (David and Heather Platt testimony); Christian Post (J.D. Platt adoption story)
+
+---
+
+### 2. Missionary Family in Mogadishu / Somalia (lines 76–79)
+
+**Identification:** This is the story of **Nik Ripken** (pseudonym) and his wife **Ruth**, told in *The Insanity of God: A True Story of Faith Resurrected*.
+
+| Sermon Claim | Verified Finding |
+|---|---|
+| Spent 13 years in Mogadishu | ⚠️ **Overstated.** Sources indicate approximately **6–7 years** in Somalia (arrived early 1990s). Ripken's total missionary career spans 30+ years, but the Somalia period was not 13 years. |
+| Son died of an asthma attack | ✅ **Substantially correct.** Son Timothy, age 16, died of cardiac arrest brought on by a severe asthma attack. |
+| Son died in Mogadishu | ⚠️ **Incorrect.** Timothy died in **Nairobi, Kenya**, at their home base. Mold in the house exacerbated his asthma. The sermon does not explicitly say he died in Mogadishu, but the context implies it. |
+| Feeding tens of thousands of Somalis daily | ⚠️ **Plausible but imprecise.** Ripken led a large NGO providing food and supplies to "thousands of suffering Somalis" during the 1990s famine. "Tens of thousands daily" is not confirmed by available sources but is not implausible given the scale of the relief operation. |
+| Last known believers in the country when they left | ⚠️ **Close but not exact.** When the Ripkens arrived, there were about 150 believers. When they left, only **4 were known to remain alive** — most had been martyred. The Ripkens themselves were not "the last known believers," but the Christian community had been nearly annihilated. |
+| Letters from Somali parents about son's evangelism | ⚠️ **Not independently confirmed.** This detail may come from the book or from speaking engagements, but could not be verified in available public sources. |
+
+**Sources:** Fox News (Omar: The Muslim who walked from Somalia); Lifeway (*The Insanity of God* resources); Nik Ripken Ministries
+
+---
+
+### 3. "Cat of Nine Tails" — Scourging of Jesus (line 82)
+
+⚠️ **Anachronistic terminology.** The **cat-o'-nine-tails** was a British Royal Navy punishment whip from the 1700s–1800s. The Roman instrument used to scourge Jesus was called a **flagrum** (or **flagellum**) — a short-handled whip with multiple leather thongs embedded with metal balls, sharp bone fragments (often sheep knucklebones), and sometimes hooks. It was vastly more brutal than the British cat-o'-nine-tails.
+
+The flagrum did not necessarily have nine strands — archaeological evidence shows versions with three strands, though the number varied. Romans had three levels of scourging: *fustigatio* (beating with rods), *flagellatio* (flogging), and *verberatio* (the most severe, using a flagrum with metal and bone). Jesus likely received *verberatio* as a precursor to crucifixion. The historian Eusebius recorded that scourging victims were flayed "to the innermost veins and arteries."
+
+**Note:** The raw transcript spells it "cat of 9 tales" — "tales" (stories) should be "tails" (whip strands). The polished version corrected to "cat of nine tails" but the instrument name itself remains anachronistic.
+
+**Recommendation:** Replace "cat of nine tails" with "Roman flagrum" or simply "the Roman scourge" and describe its brutality. This correction applies across multiple sermons in the corpus that use the same term.
+
+**Sources:** ThreeThirtyMinistries (Roman Flagrum); Truth Magazine (The Scourging of Jesus)
+
+---
+
+### 4. Local Demographics — "80 Muslims within a mile" (lines 101–103)
+
+These are local statistics, likely from a church demographic survey tool (MissionInsite, Percept, or NAMB reports). **Unverifiable** from public sources.
+
+**Plausibility assessment:**
+
+- **80 Muslims out of 1,000 (8%):** ⚠️ **Higher than expected** for a rural/suburban American context. Muslims make up approximately 1% of the total U.S. population, and only 3% of Muslim Americans live in rural areas. An 8% concentration would be unusual outside specific urban neighborhoods or refugee resettlement areas. This figure may be accurate for the specific location but is worth re-confirming with current data before citing again.
+- **Only 20 out of 1,000 with a church home (2%):** ⚠️ **Very low.** Even in the least-churched areas of the U.S., regular church attendance typically runs 20–30%. A 2% figure would be extraordinarily low for most American contexts. The speaker may be using a narrow definition of "church home" (e.g., active membership rather than occasional attendance).
+- **"Less than half of those 20 will be believers":** This is a theological judgment about whether churchgoers are genuine believers — inherently unverifiable but pastorally reasonable.
+
+**Recommendation:** If reprising, confirm with current demographic data. Note these as "approximate local figures" rather than presenting as precise statistics.
+
+---
+
+### 5. Items Not Yet Verified (Future Session)
+
+The following claims in this sermon were not part of this fact-check round and remain unverified:
+
+- **William Borden story** — "No Retreats, No Reserves, No Regrets" narrative. Widely circulated; some details have been disputed by historians (particularly whether the exact phrases were written in his Bible margin). Needs dedicated verification.
+- **Nero impaling Christians to light streets** — Traditional account (Tacitus, *Annals* 15.44); generally accepted but details worth confirming.
+- **"Four emperors in a single year"** — Year of the Four Emperors (AD 69: Galba, Otho, Vitellius, Vespasian). ✅ Historically accurate.
+- **Vespasian built the Colosseum** — ✅ Correct (began construction c. AD 70–72).
+- **Titus destroyed the temple** — ✅ Correct (AD 70).
+- **Domitian "most remembered for persecution of Christians"** — ⚠️ Debatable. Domitian is remembered for many things; his persecution of Christians is attested but its scale is disputed among historians.
+- **Spurgeon quote** ("If sinners be damned…") — Widely attributed to Spurgeon but needs primary source verification. This quote appears in multiple forms and its exact provenance is contested.
+- **98-year-old evangelist in Haiti** — Personal testimony; unverifiable but no reason to doubt.
+
+---
+
+### Verified Accurate
+
+- **Acts 13:1-3 ESV** — ✅ Correctly quoted
+- **Acts 20:21-24 ESV** — ✅ Correctly quoted
+- **Philippians 3:7-8, 10-11 ESV** — ✅ Correctly quoted
+- **"Father, forgive them, for they know not what they do" (Luke 23:34)** — ✅ Correct (ESV)
+- **Year of Four Emperors / Vespasian / Titus / Colosseum** — ✅ Historically accurate
+- **Stoning of Stephen with Paul present** — ✅ Acts 7:58–8:1

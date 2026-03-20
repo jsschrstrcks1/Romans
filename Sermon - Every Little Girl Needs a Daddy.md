@@ -48,7 +48,7 @@ I am quick to tell people they cannot morally kill their baby, but I need to be 
 
 Adoption is a very biblical concept. The Old Testament is littered with references and commands regarding orphans and the fatherless, but also with Israel's status as his children, his people, his nation — his adopted family. Beyond that, it is spelled out in a number of stories regarding individuals.
 
-Moses was adopted by Pharaoh — like we are adopted by the King of Kings and Lord of Lords. Esther was adopted by her uncle Mordecai. In the New Testament, Paul talks a lot about this concept. You've heard me talk about Ephesians 2 a fair bit — that we are by nature children of wrath, sons of disobedience. But this concept is also all throughout Romans and Galatians and Corinthians. John talks about it too — right at the beginning of his book:
+Moses was adopted by Pharaoh — like we are adopted by the King of Kings and Lord of Lords. Esther was adopted by her cousin Mordecai. In the New Testament, Paul talks a lot about this concept. You've heard me talk about Ephesians 2 a fair bit — that we are by nature children of wrath, sons of disobedience. But this concept is also all throughout Romans and Galatians and Corinthians. John talks about it too — right at the beginning of his book:
 
 > But to all who did receive him, who believed in his name, he gave the right to become children of God, who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.
 > — John 1:12-13 (ESV)
@@ -99,7 +99,7 @@ In that same moment three shots ring out. What he didn't know was that his best 
 
 He thought he was saving her by shooting the bad guy, but because of where he was, and his perspective on the situation, he didn't have the whole scene in view, and the whole thing ended in tragedy. His enemy was dead — but at the cost of his best friend and future wife.
 
-We are like the hero in that story. Our vision is tainted by sin just like the hero's vision was tainted by the woods and by it being night. We can't see the whole picture — just a little corner, just like the hero could only see part of the hat. So sometimes when we take aim and shoot at things that we think will bring us happiness, all we end up doing is compounding our own grief. Like drugs. They may make someone feel a certain way for a moment, but what are the long-term effects? Or alcoholism? Or pornography? Other sexual sins like adultery or fornication — they're going to do the same thing.
+We are like the hero in that story. Our vision is tainted by sin just like the hero's vision was tainted by the woods and by it being night. We can't see the whole picture — just a little corner, just like the hero could only see part of the hat. So sometimes when we take aim and shoot at things that we think will bring us happiness, all we end up doing is compounding our own grief. Like drugs. They may make someone feel a certain way for a moment, but what are the long-term effects? Or alcoholism? Or pornography? Other sexual sins like adultery, fornication, homosexuality — they're going to do the same thing.
 
 Our heart is wicked and evil and can't be trusted. Scripture says that, and if we look around we can see it. What we lust after in our flesh because of sin and our enemy is our own ruin. So can God ask us to do things our heart doesn't want? Yes! Because that's the loving thing to do! If our hearts want ruin, and ruin is the opposite of what God wants, should we trust our own hearts or God?
 
@@ -109,7 +109,7 @@ Our heart is wicked and evil and can't be trusted. Scripture says that, and if w
 
 So we're like that little girl Lily. We are hungry and desperate and functionally alone. Worse than that, we have trusted our hearts and sinned against a perfect and holy God that gave us rules to keep us from ruin. In our sinning, we run headfirst at — and lovingly embrace — our own death.
 
-I think a couple of things happen at that moment. For people like that little girl Lily — God weeps. For Abby and Sam — God weeps. God weeps for Lily and Violet. We are commanded to weep with those who weep. We know the book of Jeremiah — God wept repeatedly for his wayward children. He wept for the land they ruined through disobedience, and he wept for the mountains, and he wept for the desert places. He wept for his people. And I think he wept for his Son.
+I think a couple of things happen at that moment. For people like that little girl Lily — God weeps. For Abby and Sam — God weeps. God weeps for Lily and Mercedes. We are commanded to weep with those who weep. We know the book of Jeremiah — God wept repeatedly for his wayward children. He wept for the land they ruined through disobedience, and he wept for the mountains, and he wept for the desert places. He wept for his people. And I think he wept for his Son.
 
 God's Son was the price that was paid for your adoption.
 
