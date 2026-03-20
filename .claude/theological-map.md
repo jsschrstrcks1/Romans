@@ -268,7 +268,7 @@ The Spirit's ministry is Christocentric — He does not draw attention to Himsel
 
 #### Agent of Regeneration
 > "He even has to do a work in us before salvation or we would reject the good news outright and call it foolishness."
-> — `Acts 2 Holy Spirit.md`
+> — `Sermon - Clowns Entertaining the Goats.md`
 
 > "Before we can even follow him, he has to do a work in us."
 > — `sola gracia.md`
@@ -280,13 +280,13 @@ The Spirit effects the new birth. Regeneration precedes faith. **Explicit. Tradi
 > — `bfm holy spirit.md`
 
 > "Someone whose truly saved gets all of the Holy Spirit that will ever get."
-> — `Acts 2 Holy Spirit.md`
+> — `Sermon - Clowns Entertaining the Goats.md`
 
 Not a second experience. Not progressive. Complete at conversion. **Explicit. Tradition: Baptist, Reformed (contra second-blessing Pentecostalism).**
 
 #### Permanent Indwelling
 > "Unlike those two [Elijah/Elisha], it never leaves us once we are saved."
-> — `Acts 2 Holy Spirit.md`
+> — `Sermon - Clowns Entertaining the Goats.md`
 
 **Explicit. Tradition: Baptist, Reformed (eternal security).**
 
@@ -316,10 +316,10 @@ Without the Spirit, spiritual things are foolishness (1 Cor 2:14 cited repeatedl
 
 #### Tongues as Earthly Languages — Soft Cessationism
 > "Very clearly, here, Luke is talking about different languages... They aren't speaking gobbledygook."
-> — `Acts 2 Holy Spirit.md`
+> — `Sermon - Clowns Entertaining the Goats.md`
 
 > "I don't think its normal for it to happen today and given out as a gift like Peter had. But God is capable of doing that if he chooses."
-> — `Acts 2 Holy Spirit.md`
+> — `Sermon - Clowns Entertaining the Goats.md`
 
 Not hard cessationism (God can do anything). Not continuationism (apostolic gifts are not normal today). **Explicit. Tradition: Soft cessationist Baptist.**
 
@@ -331,7 +331,7 @@ Not hard cessationism (God can do anything). Not continuationism (apostolic gift
 
 #### Testing Spirit Claims Against Scripture
 > "Anything that conflicts with the Word of God is NOT of God."
-> — `Acts 2 Holy Spirit.md`
+> — `Sermon - Clowns Entertaining the Goats.md`
 
 Extended critique of Todd Bentley / Lakeland Revival as an example of false Spirit claims. **Explicit. Tradition: Reformed Baptist, Sola Scriptura.**
 
@@ -572,10 +572,16 @@ Real assurance grounded in Christ's work. But false assurance is a pastoral dang
 > "We deserve Hell, but we were given an inheritance. We deserve a punishment, but instead we are equipped. We deserve fire for eternity, but instead we are made sons and daughters."
 > — `Heb 12.md`
 
+> "Our redemption through Christ isn't just penal substitutionary atonement — that means he didn't just get us out of trouble because of our rebellion against the law. He didn't just take our place and pay our punishment with his blood. He also adopted us as his sons and daughters."
+> — `Sermon - Every Little Girl Needs a Daddy.md`
+
+> "God's Son was the price that was paid for your adoption."
+> — `Sermon - Every Little Girl Needs a Daddy.md`
+
 > "In a very real sense when we receive this gift, we become sons and daughters of God. We become heirs to the kingdom."
 > — `Galatians 3 - Law Faith and Adoption.md`
 
-Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. The Galatians 3 sermon develops the *huios* (υἱός) word study — Paul's deliberate choice over *teknon* to emphasize legal heir status and full inheritance rights. The foster-care-to-adoption illustration (chicken coop → family) mirrors God's adoption of sinners. John 1:12 cited: "he gave the right to become children of God." **Explicit. Tradition: Reformed Baptist.**
+Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. Adoption is distinct from and complementary to penal substitutionary atonement: Christ's work both satisfies wrath *and* brings us into the family. Cost is central — God paid with his Son. The Galatians 3 sermon develops the *huios* (υἱός) word study — Paul's deliberate choice over *teknon* to emphasize legal heir status and full inheritance rights. The foster-care-to-adoption illustration (chicken coop → family) mirrors God's adoption of sinners. John 1:12 cited: "he gave the right to become children of God." **Explicit. Tradition: Reformed Baptist.**
 
 #### Election and Reprobation — Infralapsarian
 > "God did not inject unbelief into Esau's heart. Esau, like all of us, was already a sinner by nature and choice. Reprobation is not God actively working sin into a man's life; it is God leaving a sinner to himself."
