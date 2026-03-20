@@ -126,3 +126,133 @@ Take a moment, and get right with God.
 
 > For I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, and when he had given thanks, he broke it, and said, "This is my body, which is for you. Do this in remembrance of me." In the same way also he took the cup, after supper, saying, "This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me." For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes.
 > — 1 Corinthians 11:23-26 (ESV)
+
+---
+
+## Integrity Log
+
+*Compiled March 2026. Covers Scripture verification, factual claims, historical accuracy, and voice assessment.*
+
+---
+
+### Scripture Verified (ESV)
+
+| Reference | Status | Notes |
+|-----------|--------|-------|
+| Nehemiah 1:1 (ESV) | ✓ | "The words of Nehemiah the son of Hacaliah." Quoted accurately. |
+| Nehemiah 1:2 (ESV) | ✓ | "Hanani, one of my brothers, came with certain men from Judah..." Quoted accurately. |
+| Nehemiah 1:3 (ESV) | ✓ | Block-quoted accurately. |
+| Romans 3:23 (ESV) | ✓ | Block-quoted accurately. |
+| Romans 6:23 (ESV) | ✓ | Block-quoted accurately. |
+| 1 Corinthians 11:23-26 (ESV) | ✓ | Block-quoted accurately. |
+| James 2:19 | ⚠️ | Sermon says "even the demons believe, and they tremble." ESV reads "Even the demons believe — and **shudder**!" Minor wording difference. Correct to "shudder" before print. |
+
+### Factual Claims — Flagged
+
+**1. ⚠️ RING AROUND THE ROSIE / BLACK DEATH ORIGIN — LIKELY APOCRYPHAL**
+The sermon presents the Black Death origin as established fact, attributed to *The Annotated Mother Goose* (Baring-Gould, 1962). While that book does present this theory, folklorists have thoroughly disputed it. The rhyme first appears in print in 1881 — over 500 years after the Black Death. The plague interpretation only dates to 1949. Peter and Iona Opie rejected the plague connection in *The Oxford Dictionary of Nursery Rhymes* (1951, revised 1997). Folklorist Steve Roud called it "complete nonsense" in *The Lore of the Playground* (2010). The Library of Congress Folklife Today blog (July 2014) and Snopes classify it as false. Early versions of the rhyme lack the supposed plague references, and cremation — often cited in the theory — was forbidden in 14th-century England. The illustration is vivid but should be framed as "some people say" rather than presented as history if reprised. (Sources: Library of Congress Folklife Today, July 2014; Snopes fact-check; Opie, *Oxford Dictionary of Nursery Rhymes*, 1951.)
+
+**2. ⚠️ E. COLI / Y. PESTIS CLAIM — UNVERIFIED**
+The sermon claims a German E. coli outbreak had Y. pestis genetic material. The 2011 German E. coli O104:H4 outbreak was real and devastating (3,842 cases, 53 deaths — the largest HUS outbreak ever recorded). What made it unusual was NOT Y. pestis genetic material but a novel hybrid of enteroaggregative E. coli (EAEC) and Shiga toxin-producing E. coli (STEC), combining adherence genes from EAEC with Shiga toxin genes from a bacteriophage. No credible published source links this outbreak strain to Y. pestis DNA. Also note: Y. pestis is a **bacterium**, not a virus (the polished version already corrected "virus" to "bacterium"). Do not repeat the Y. pestis connection without a verifiable source. (Sources: Frank et al., *NEJM* 365:1771-1780, 2011; Rasko et al., *NEJM* 365:709-717, 2011.)
+
+**3. ⚠️ BLACK DEATH POPULATION FIGURES — HIGH-END ESTIMATES**
+Sermon says 350 million people in 1300 and 200 million deaths (~60%). Multiple scholarly estimates place world population around 1300 AD higher than 350 million — the US Census Bureau's Historical Estimates of World Population table lists estimates ranging from 360 to over 400 million for this period. The figure of 350 million is closer to post-Black Death estimates (c. 1400), after population had dropped. The 200 million death figure is at the very top of scholarly estimates (range: 75–200 million). At 400 million, losing 75–200 million would be 19–50%, not "almost 60%." The math is internally consistent with the numbers stated, but both inputs are at the extreme ends of scholarly ranges. (Source: US Census Bureau, Historical Estimates of World Population.)
+
+**4. ⚠️ HUMPTY DUMPTY AS ALLEGORY FOR THE FALL OF ADAM — HOMILETICAL APPLICATION, NOT HISTORY**
+No documented historical connection between the rhyme and the Fall of Adam. The rhyme first appears in print in 1797 as a riddle (answer: an egg). Theories include a cannon in the English Civil War (Colchester), Richard III, or simply a riddle. The Fall-of-Adam reading works beautifully as a sermon illustration but should not be presented as the rhyme's established meaning. Already used in the Judges 1–2 sermon — note illustration overlap.
+
+**5. ⚠️ CRITICAL — JOHN KNOX / "BLOODY MARY" — TWO DIFFERENT QUEENS**
+The sermon conflates two historical figures:
+- **Bloody Mary** = Mary I of England (r. 1553–1558), who burned ~280–300 Protestants.
+- **Mary Queen of Scots** = Mary Stuart (r. Scotland 1542–1567), whom Knox confronted.
+Knox's famous confrontations were with Mary Queen of Scots, not Bloody Mary. The prayer quote ("Lord, give me Scotland, lest I die") and the fear quote ("his prayers frightened her more than anything else on earth") are both associated with Mary Queen of Scots. Correct this before reprising — it is a significant historical error.
+
+**6. ⚠️ "LIONS LYING DOWN WITH LAMBS" — COMMON MISQUOTE**
+The sermon says "Scripture talks about lions lying down with lambs." The actual text:
+- Isaiah 11:6 (ESV): "The **wolf** shall dwell with the **lamb**, and the leopard shall lie down with the young goat, and the calf and the lion and the fattened calf together..."
+- Isaiah 65:25 (ESV): "The **wolf** and the **lamb** shall graze together; the lion shall eat straw like the ox..."
+"Lions lying down with lambs" is a widely repeated paraphrase that conflates these verses. The wolf-and-lamb pairing is what Scripture says. Correct before print.
+
+**7. ⚠️ EZRA AND THE WALLS — INCORRECT**
+The sermon says "Ezra had been in charge of the initial rebuilding of the walls." This is wrong. Ezra was a priest and scribe who led religious reform — teaching the Law and confronting intermarriage (Ezra 7–10). The initial rebuilding of the **temple** was under Zerubbabel (Ezra 3–6, completed ~516 BC). The walls were NOT rebuilt before Nehemiah — that is the entire point of Nehemiah's mission. Correct before reprising.
+
+**8. ⚠️ "EZRA WAS A WEALTHY MAN" — NOT ESTABLISHED IN SCRIPTURE**
+No Scripture passage describes Ezra as wealthy. He had royal authorization and provisions from Artaxerxes (Ezra 7:11–26), but personal wealth is not documented. Flag as unverified.
+
+**9. ⚠️ HACALIAH MENTIONED ONLY "HERE" — INCORRECT**
+The sermon says Hacaliah's name "is not recorded inside or outside of Scripture anywhere other than here." Hacaliah is mentioned twice in Scripture: Nehemiah 1:1 and Nehemiah 10:1 ("Nehemiah the governor, the son of Hacaliah"). The point about his obscurity stands — he is known solely as Nehemiah's father — but the "only here" claim is technically wrong.
+
+**10. ⚠️ NEHEMIAH FASTING "AS LONG AS A MONTH" — UNDERSTATED**
+The sermon says "scholars believe for perhaps as long as a month." Nehemiah 1:1 places Hanani's report in the month of Kislev (month 9). Nehemiah 2:1 places his request to the king in Nisan (month 1). That is approximately 3–4 months, not one. Most commentators interpret the "some days" of mourning and fasting as spanning this full Kislev-to-Nisan gap.
+
+**11. ⚠️ FDR PEARL HARBOR SPEECH — MISQUOTED**
+The sermon says "the president said that today was a day that would live in infamy." The actual quote: "Yesterday, December 7, 1941 — **a date which will live** in infamy." FDR used "date" not "day," and "which" not "that." This is a common misquotation. Minor for spoken delivery; correct before print.
+
+**12. ⚠️ EURIPIDES JOKE — "PHILOSOPHERS" IS INACCURATE**
+The joke references "two philosophers" — but Euripides (c. 480–406 BC) was a **playwright/tragedian**, one of the three great Athenian tragedians alongside Aeschylus and Sophocles. Not a philosopher. The second name in the joke ("I mend-a-dees") is a pun on Eumenides (a play by Aeschylus) or Archimedes (a mathematician). Neither was a philosopher either. The joke works fine as humor; just note that "philosopher" is the wrong category if precision matters.
+
+**13. PAUL AS "FOLLOWER OF GAMALIEL" — ACCEPTABLE PARAPHRASE**
+Acts 22:3 (ESV) says Paul was "educated at the feet of Gamaliel." "Follower" is a loose paraphrase of "student," but acceptable for spoken delivery.
+
+**14. CUPBEARERS AS "ACCOUNTANTS" — UNVERIFIED SPECIFICS**
+The claim that Persian cupbearers oversaw the king's money and functioned as accountants is not universally documented. Cupbearers held positions of significant political trust and influence (Xenophon's *Cyropaedia* describes this), and Nehemiah's ability to request a governorship confirms high access. The "accountant" comparison is plausible but should be qualified with "some scholars suggest" if reprised.
+
+### Claims Verified or Acceptable
+
+| Claim | Status |
+|-------|--------|
+| *The Annotated Mother Goose* — real book | ✓ By William S. and Ceil Baring-Gould (1962) |
+| Black Death in the 1300s (peak 1347–1351) | ✓ |
+| Nehemiah as cupbearer | ✓ Nehemiah 1:11 |
+| Jerusalem sacked ~140 years before Nehemiah | ✓ ~586 BC to ~445 BC = ~141 years |
+| Temple rebuilt ~70 years prior | ✓ Completed ~516 BC (Ezra 6:15) |
+| Esther as queen within recent memory | ✓ Under Xerxes I (r. 486–465 BC); Artaxerxes I succeeded him |
+| Aristotle and Plato roughly contemporaneous | ✓ Plato (428–348 BC) active during this era; Aristotle (384–322 BC) born about 60 years after Nehemiah |
+| Democracy's Greek foothold in this era | ✓ Cleisthenes' reforms ~508 BC |
+| 9/11 personal narrative | ✓ Personal illustration — taken as given |
+| Knox's prayer "Give me Scotland, lest I die" | ✓ Traditional attribution widely cited; exact primary source debated |
+| Knox's prayers frightened Mary | ✓ Traditional attribution to Mary Queen of Scots widely cited |
+| Romans 3:23, Romans 6:23, 1 Cor 11:23-26 | ✓ All verified ESV exact |
+
+### Illustration Overlap
+
+| Illustration | Also Used In |
+|-------------|-------------|
+| Humpty Dumpty / Fall of Adam | `Judges 1-2 - Humpty Dumpty (raw notes).md` — same extended illustration |
+| 9/11 memory (Pentagon hit, driving home) | `Nehemiah 2 - City in Ruins.md` — same memory retold |
+| Plaster of Paris ship mold | Appears to be unique to this sermon |
+| John Knox "Give me Scotland" | Appears to be unique to this sermon |
+
+---
+
+### Voice Audit
+
+**Authenticity Risk: LOW**
+
+This is unmistakably human, unmistakably this preacher. No machine tells detected.
+
+**Machine Tell Scan:** All clear. No uniform sentence length, no template loops, no AI transitions, no hedging stacks, no adverb inflation, no AI-overrepresented vocabulary.
+
+**Voice Markers Present:**
+- ✓ Compressed declarative chains: "All the king's horses. All the king's men. It's not enough. Only Christ is enough."
+- ✓ Antithetical parallelism: "Not flowers in the pocket. They needed soap on their hands."
+- ✓ Direct pastoral address: "Christian, when was the last time...?" / "Can we not even pray for them?"
+- ✓ Shrinking sentences at climax: "Lost. Dying. Damned to hell."
+- ✓ Gear-shift markers: "Alright, let's turn in our Bibles..."
+- ✓ Pause-and-pivot: "This was that day for Nehemiah."
+- ✓ Humor that earns trust: Euripides/Eumenides joke
+- ✓ Real-world analogies from the people's world: plaster mold, cookies, 9/11, sandspurs
+
+**Voice Markers Absent (expected):**
+- The "Night is far gone" refrain — this is a Nehemiah sermon, not Romans. N/A.
+- Greek word studies — not a text-heavy exposition. Acceptable.
+
+**Conviction Check:** PASS. Sin named directly (original sin, self-sufficiency, prayerlessness, indifference to the lost). Clear calls issued (come talk to me; pray for the lost; commit to daily prayer). Comfort does not arrive too early — conviction about prayerlessness sits before the gospel call.
+
+**Cadence Check:** PASS. Sentence shortening at climax. Anaphora in the gospel call ("Because I was a good person?... Because I believe you exist?... Because on balance..."). Pause-and-pivot after Knox section.
+
+**Doctrinal Sharpness:** PASS. Biblical vocabulary present — sin, original sin, wages of sin, death, eternal life, reconciled, hell, damned. TED talk test fails (this sermon cannot survive in a secular context). Corporate retreat test fails decisively ("Damned to hell. Can we not even pray for them?").
+
+**Note:** This sermon is more illustration-driven and less verse-by-verse than the Romans series. This is appropriate for a Nehemiah series opener — setting up themes that will develop over subsequent weeks. The text-first orbit is lighter than usual but adequate.
+
+**"Broken/brokenness" usage:** The voice-audit flags "brokenness" as a potential vague moral swap for "sin." In this sermon, "broken" is organic to the Humpty Dumpty metaphor — not therapeutic drift. The sermon also uses "sin," "original sin," "wages of sin," and "damned to hell" alongside it. No correction needed.
