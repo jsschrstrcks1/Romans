@@ -2,7 +2,9 @@
 
 *Compiled from review of all 21 distinct work threads (99 merged PRs across 21 branch families), the full sermon corpus, sermon-queue.md, memory2.md, preaching-gap-analysis.md, and individual file review.*
 
-*Date: March 13, 2026*
+*Date: March 13, 2026 — Last updated: March 16, 2026*
+
+**March 16 session notes**: Resolved merge from origin/main (10 files). All 10 new files verified and mapped in sermon-map. Two new files with standing pastoral flags documented below (Deuteronomy 8, Psalm 42 — Part IV). Tracker summary counts corrected accordingly. memory2.md extractions confirmed complete. 1 Corinthians 12 polished file reviewed — clean.
 
 ---
 
@@ -10,14 +12,14 @@
 
 | Category | Count |
 |----------|-------|
-| Unprocessed sermons in memory2.md | 9 |
-| Blocked sermons (source text missing) | 2 |
+| Unprocessed sermons in memory2.md | ~~9~~ **0 — all complete** |
+| Blocked sermons (source text missing) | 1 (Psalm 106; A Godly Home resolved) |
 | Incomplete/truncated sermon manuscripts | 3 |
-| Raw drafts needing polish and verification | 10 |
+| Raw drafts needing polish and verification | 12 (10 prior + 2 added from March 16 merge) |
 | Study papers incomplete | 2 |
 | Book revision material not yet integrated | 1 |
 | Sermon-map entries with verification flags (⚠️) | 46+ files |
-| **Total distinct unfinished items** | **~73** |
+| **Total distinct unfinished items** | **~67** |
 
 ---
 
@@ -201,7 +203,9 @@ The repository has been developed across 21 distinct Claude Code thread families
 
 ## Part II: Unprocessed Sermons in memory2.md
 
-*(Updated March 2026 — all 9 extractions now complete; file paths verified against file system)*
+~~These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT been extracted to standalone files.~~
+
+**Updated March 2026 — all 9 now have standalone files.**
 
 | # | Sermon | Primary Text | Status |
 |---|--------|-------------|--------|
@@ -221,7 +225,7 @@ The repository has been developed across 21 distinct Claude Code thread families
 
 ## Part III: Blocked Sermons (Source Text Missing)
 
-These sermons were cataloged in previous processing but their source text cannot be found in the repository:
+These 2 sermons were cataloged in previous processing but their source text cannot be found in the repository:
 
 | Sermon | Text | Issue |
 |--------|------|-------|
@@ -256,6 +260,8 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 | `Romans 1 - Psalm 22 (Prophecy raw draft).md` | ~~8 flags~~ — **All resolved** ✓ (Rogers "108" verified Sermon #2299 LWF; Torrey "300" corrected — actual lists 61-79; "68%" corrected to 65% with Joyner/Morningstar attribution; prophecy table Ps 22:17 → Ps 34:20 for bones-not-broken; Deut 18:20-22 and Rom 10:9 ESV previously corrected). ⚠️ Remaining Psalm 22 fulfillment citations: verify line-by-line against ESV before printing. |
 | `Romans 7.md` | ~~4 flags~~ — **2 resolved** ✓ (Jn 15:16 corrected, Phil 2:8 ESV, Lk 22:42 restored); ⚠️ Tesla story disputed; ⚠️ "3 in 5 dieters" unverified |
 | `Romans 3 - antinomianism draft.md` | ~~3 flags~~ — **2 resolved** ✓; ⚠️ John Brown quote remains in Pending Verification (archive.org 403, no indexed text — cannot verify without physical copy) |
+| `Deuteronomy 8 - Count Your Blessings (repaired draft).md` | **Added March 16, 2026 — from main merge.** Three pastoral flags documented inline in source notes: (1) Oatman/Johnson "Count Your Blessings" hymn story — notes describe it as invented/embellished; verify or remove before reprising. (2) Jonathan Edwards "sinners in hands" quote — sermon attributes it to Edwards but wording does not match known primary text; treat as paraphrase or remove attribution. (3) Col 3:6 cited as support for "God's wrath falls on the disobedient" in a blessings-and-thanksgiving context — application is strained; consider removing or reframing. Sermon is usable; flags matter before reprising or print. |
+| `Psalm 42 - As the Deer Pants.md` | **Added March 16, 2026 — from main merge.** Two flags in source notes: (1) Unnamed "PhD scholar" cited for the claim that deer seek water to escape predators (not to drink) — no source named; claim appears in circulation but academic origin unverified. (2) Sermon attributes the "As the Deer" chorus tune to a specific composition context — verify before any print attribution. Sermon is fully usable for preaching; flags matter for print/book use only. |
 
 ---
 
@@ -332,11 +338,12 @@ From `preaching-gap-analysis.md`, the top 15 preaching gaps ranked by theologica
 
 These items could be resolved in a single session each:
 
-1. **Extract remaining memory2.md sermons** — 9 sermons need standalone file extraction, cleanup, and mapping
+1. ~~**Extract remaining memory2.md sermons**~~ ✅ All 9 now have standalone files (confirmed March 2026)
 2. **Resolve Sola Christus 2024 incomplete draft** — needs Scripture reference and three-role exposition completed (or marked as permanently incomplete if the 2020 version is the authoritative one)
 3. **Resolve Thankfulness sermon** — request remainder of transcript from pastor
-4. ~~**Fix Romans 7 reference error** — Jn 14:16 should be 15:16~~ ✓ Completed March 2026; Lk 22:42 also corrected to exact ESV
-5. ~~**Convert NIV/KJV quotes to ESV** in raw drafts (Psalm 2, Psalm 68 Part 2, 1 Thess 5)~~ ✓ Completed
+4. ~~**Fix Romans 7 reference error**~~ ✅ Jn 14:16 → 15:16 corrected; MacArthur reworded to paraphrase
+5. ~~**Convert NIV/KJV quotes to ESV** in raw drafts (Psalm 2, Psalm 68 Part 2, 1 Thess 5)~~ ✅ Completed
+6. **Josh 7 & 8** — processed March 2026; Spurgeon, Edwards, MacArthur, Taylor quotes all flagged ⚠️ unverified
 
 ---
 

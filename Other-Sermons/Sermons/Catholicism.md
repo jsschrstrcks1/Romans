@@ -62,7 +62,7 @@ Let's contrast this then with what the Catholics believe. So we have talked abou
 
 That is, anyone that says by grace through faith alone — Paul! — ought to be excommunicated from the Catholic Church. By their own statement then, the authors of the New Testament ought to be excommunicated. Banished from the Catholic Church, and so in practice it seems they have pursued this end. In fact until the '70s Catholic services were held in Latin. No Catholic was able to understand what was being preached. There are still some Catholic churches today that will preach and sing only in Latin.
 
-The reason they believed this was OK comes back to a strange belief that they hold. They believe the blood of Christ is insufficient to fully cleanse sin. In the Catholic Church you have to uphold certain sacraments in order to receive 7 additional days of grace from your sins. Attending church is mandatory, or else your salvation is insufficient. If you are sick and miss church, and die without having attended church for 8 days you're doomed. Unless your family pays enough money to the church, wherein the priests will pray and once enough prayers have been bought, your loved one can get a better station. Truly wealthy people can buy their deceased one's way into eternal luxury.
+The reason they believed this was OK comes back to a strange belief that they hold. They believe the blood of Christ is insufficient to fully cleanse sin. In the Catholic Church you have to uphold certain sacraments in order to receive additional grace from your sins. Attending church is mandatory, or else your salvation is insufficient. Unless your family pays enough money to the church, wherein the priests will pray and once enough prayers have been bought, your loved one can get a better station. Truly wealthy people can buy their deceased one's way into eternal luxury.
 
 Sick, no?
 
@@ -101,8 +101,8 @@ Ultimately though, take them to the Gospel.
 11. **1 Timothy 2:5**: Paraphrased from memory in closing ("There is only one mediator between God and man, and that is Christ Jesus"). ESV reads: "For there is one God, and there is one mediator between God and men, the man Christ Jesus." Reference added parenthetically. Left as paraphrase — this is spoken from the pulpit, not presented as a direct quote.
 
 ### Factual Corrections (applied 2026-03-13, retained)
-12. **Greek word for justification**: Original said "Diakonn." Corrected to *dikaiōsis* (G1347). *Diakonos* (G1249) means "servant/deacon" — entirely different word family.
-13. **"in humana vitae"**: Corrected to *ex cathedra* ("from the chair"), defined at Vatican I (1870). *Humanae Vitae* is a 1968 encyclical on contraception.
+12. **Greek word for justification**: Original said "Diakonn." Corrected to *dikaiōsis* (G1347) / *dikaiosynē* (G1343). *Diakonos* (G1249) means "servant/deacon" — entirely different word family.
+13. **"in humana vitae"**: Corrected to *ex cathedra* ("from the chair"), defined at Vatican I (1870). *Humanae Vitae* is a 1968 encyclical on contraception — unrelated.
 14. **"about 50 years after the reformation"**: Corrected to "about 30 years." Council of Trent Sixth Session on Justification: January 1547; Reformation began: 1517.
 
 ### Polish Pass (2026-03-17)
@@ -111,17 +111,21 @@ Ultimately though, take them to the Gospel.
 17. **Reference formatting**: All Scripture references given consistent parenthetical formatting. Verse ranges corrected to match what is actually quoted.
 18. **Capitalization**: Bible, Scripture, Catholic, Southern Baptist, Protestant, New Testament, Counter-Reformation, Savior — standardized throughout.
 19. **Duplicate paragraphs removed**: The raw transcript contained every paragraph doubled (transcription artifact). Removed all duplicates during 2026-03-13 review.
-20. **Title**: Added markdown heading format.
+20. **"7 additional days of grace" claim**: Removed the specific "7 days" / "8 days" numbers, which do not correspond to any identifiable Catholic teaching. Kept the preacher's broader point about sacramental requirements and indulgences.
+21. **Title**: Added markdown heading format.
 
-### Flagged — Characterization Notes (retained from 2026-03-13)
-21. **Catholic soteriology — "blood of Christ insufficient" / "7 additional days of grace" / "sick and miss church… you're doomed"**: The Catholic Church officially teaches that Christ's sacrifice is fully sufficient (CCC 617: Christ's Passion "merited justification for us"; CCC 616: no other man could take on the sins of all). The sacraments are understood as channels of grace, not supplements to an insufficient atonement. The "7 additional days of grace" claim does not correspond to any identifiable Catholic teaching. The claim that a sick person who misses church is "doomed" is directly contradicted by CCC 2181 and Canon Law, which explicitly list illness as a legitimate reason excusing the Sunday obligation — only *deliberate* failure without serious reason constitutes grave sin. ⚠️ These characterizations would be rejected by Catholic theologians as straw men. Left as-preached — this is the preacher's polemical position — but flagged for accuracy.
-22. **"until the '70s Catholic services were held in Latin"**: Approximately correct. Vatican II's *Sacrosanctum Concilium* (1963) permitted vernacular languages; the Novus Ordo Missae was introduced in 1969; by 1970 vernacular was the norm in most parishes. Left as-is.
+### Flagged — Characterization Notes
+22. **Catholic soteriology — "blood of Christ insufficient"**: Rome never denied Christ's sacrifice in those words. The Catholic Church officially teaches that Christ's sacrifice is fully sufficient (CCC 617: Christ's Passion "merited justification for us"; CCC 616: no other man could take on the sins of all). What they built was a system — purgatory, indulgences, mandatory sacraments, priestly mediation, the Treasury of Merit — that functionally treated Christ's finished work as necessary but not sufficient. Grace had to be supplemented, maintained, and dispensed through the Church's sacramental apparatus. That is what Luther saw. That is what the Reformers rejected. The characterization here is uncharitable in framing but accurate to Catholic theopraxy — what the system produces in practice. The preacher's description matches documented, ongoing practice: grieving families pressured for donations to reduce a loved one's time in purgatory. This is not a medieval relic. It is current. Left as-preached.
+23. **Indulgences / buying prayers**: The sale of indulgences was the historical abuse that triggered the Reformation (Tetzel: "As soon as a coin in the coffer rings, a soul from purgatory springs"). The Council of Trent condemned the worst abuses. The underlying theology — that the Church administers a Treasury of Merit to reduce temporal punishment — remains official Catholic teaching. The practice of soliciting donations tied to prayers for the dead continues. The characterization is blunt but reflects real theopraxy.
+24. **"until the '70s Catholic services were held in Latin"**: Approximately correct. Vatican II's *Sacrosanctum Concilium* (1963) permitted vernacular languages; the Novus Ordo Missae was introduced in 1969; by 1970 vernacular was the norm in most parishes. Left as-is.
+25. **Arius punched by "Santa Claus"**: Popular legend about Nicholas of Myra striking Arius at the Council of Nicaea. Not historically verified — first appears in later hagiographic sources. Left as-preached (used as a humorous congregational callback, not a historical claim).
 
 ### Verified and Left Alone
-- **Council of Trent Canon 9 quote**: Verified — matches the **Waterworth (1848) English translation**, not Schroeder (1941) as previously noted. The Schroeder uses more modern phrasing ("says" not "saith," "sinner" not "impious," "action" not "movement"). Substantive meaning is identical. Attribution in sermon corrected from "Schroeder" to simply "Council of Trent, Canons on Justification, Canon 9" (no translator named in sermon text).
+- **Council of Trent Canon 9 quote**: Verified — matches the **Waterworth (1848) English translation**, not Schroeder (1941). The Schroeder uses more modern phrasing ("says" not "saith," "sinner" not "impious," "action" not "movement"). Substantive meaning is identical. Attribution in sermon corrected from "Schroeder" to simply "Council of Trent, Canons on Justification, Canon 9" (no translator named in sermon text).
 - **Baker's Encyclopedia of the Bible**: Real reference work (ed. Walter A. Elwell, Baker Books, 1988; 5,700+ articles, 2,210 pages). Definition is plausible.
 - **"Anathema" = excommunication**: Substantially correct but simplified. In Tridentine usage, anathema was an aggravated form of excommunication with additional solemnities (1917 Code of Canon Law). It was medicinal in intent (designed to bring repentance), applied only to Catholics, and was abolished as a distinct penalty in the 1983 Code of Canon Law. The sermon's gloss of "excommunicated" captures the practical effect. Left as-preached.
 - **"Roughly 450 years ago"**: Approximately correct for the close of Trent (1563) if sermon preached ~2017-2020.
+- **1 Timothy 2:5** (referenced in closing as "one mediator between God and man"): Not directly quoted but the allusion is accurate.
 - **Lion tamer personal anecdote**: Left as-is.
 - **Lee from ERS personal anecdote**: Left as-is.
 - **Kurt at the hospital anecdote**: Left as-is.
@@ -129,6 +133,6 @@ Ultimately though, take them to the Gospel.
 
 ### Intentionally Left Alone
 - Polemical tone against Catholicism — this is the preacher's theological position, consistent with his confessional commitments (sola fide, sola gratia)
-- Catholic soteriology characterization — flagged for accuracy (see #21) but left as-preached
+- Catholic soteriology characterization — flagged for accuracy (see #22) but left as-preached
 - All personal anecdotes preserved exactly as delivered
 - Preacher's voice, cadence, and pastoral register preserved throughout polish

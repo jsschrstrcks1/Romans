@@ -116,10 +116,14 @@ Secondly — does that sound like something the Holy Spirit would ever command s
 
 We have to have discernment. We have to know what our Bible says so that when we encounter these charlatans, we can know. Todd Bentley was pretty obvious to us. But there were hundreds of thousands upon hundreds of thousands that went and were entertained and believed this was a thing of God — to the point where he made national headlines back in 2008. Around a half million people attended this show. Since 2008 tens of millions of people have seen this and believed in Todd.
 
-I'm reminded of a quote attributed to Charles Spurgeon:
+I'm reminded of a quote often attributed to Spurgeon, though it likely originates from his student Archibald Brown's 1889 pamphlet *The Devil's Mission of Amusement*:
 
 > "A time will come when instead of shepherds feeding the sheep, the church will have clowns entertaining the goats."
 
 The sad thing about Bentley — I think he is deceived himself. He's all about feelings and emotions. He's not about the Word of God. Be wary of anyone like that. Anything that conflicts with the Word of God is not of God. Bentley says he's here to — and I quote — blow the "bum hole" out of the church and put back a whole new thing. Bentley says all of this started not when he encountered Jesus for the first time, but when he bodily encountered an angel. Not even an angel would whisper in the ear of Todd Bentley the things that have come out of his mouth.
 
 If it's not God or an angel that he's listening to — who does that leave?
+
+---
+
+*[Gospel presentation followed.]*
