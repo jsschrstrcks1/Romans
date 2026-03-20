@@ -1,63 +1,234 @@
-Phil 3:1 Rejoice in the Lord
-- The greek root word is CHairo, which means to be in a state of wellbeing because of what you hear.
-- Rejoice in my persecution
-- Paul knew there was a chance he would die (1:21)
-- Ultimately Paul would killed in the wake of the fire, and at the order of Nero.
-- Who was Nero?
-- Rejoice in what you hear.
-- Rejoice that their beloved friends needs are being met
-- 9Rejoice that many are hearing the truth of the Gospel.
-- How often do we let circumstances get us down?
-- Our health
-- Our jobs
-- Our kids
-- Our loved ones health
-- Paul says Rejoice, rejoice in the gospel, rejoice in the bible, rejoice in the Lord always (Phil 4:4) and again I say rejoice.
-- James 1:2 Count it all joy, my brothers, when you meet trials of various kinds, 3for you know that the testing of your faith produces steadfastness. 4And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing.
-- Gods Sovereignty allows us to Rejoice
-- He is good
-- Morally Good
-- Functionally Good.
-- He is in control
-- Elijah – sovereign over alter, the water, and the fire, Sovereign over baal, and his followers. God was sovereign over the brook, the birds, the old woman and her oil.
-- Jonah – God was sovereign over the wind, the waves, the ship, the fish, and the plant. God was sovereign over Jonah.
-- God was sovereign over Abraham, and Isaac. He was sovereign over the ram in the thicket.
-- God is sovereign over the weather, when Peter walked on water, sovereign over Peter.
-- God is sovereign over everything, nothing is outside of his command.
-- 2 cor 16:9 For the eyes of the Lord run to and fro throughout the whole earth, to give strong support to those whose heart is blameless toward him.
-- Nothing escapes his notice!
-- Mt 10:30 even the hairs on your head are numbered.
-- Job – lost his family, and all his earthly possessions and wishes to die, God responds: where were you when I hung the stars? Tell me oh man, do you know of the layers in the big clouds? Oh… wait that’s right… you’re not God.
-- God’s Sovereignty allows us rest.
-- If God is in control, what right have we to fret and fuss?
-- Mt 6:27 who of you by worrying can add a single day to your life?
-- Phillipians 4:6 Do not be anxious about anything.
-- A dear friend of mine once exclaimed “how can God be fully sovereign over the earth, if bad things happen to children?
-- We talked about abortion last week. God will take care of His own.
-- Sin was allowed as a possibility, or else Man couldn’t have really had free will.
-- When Man sinned, he polluted mankind for the rest of eternity. Hudson beach is periodically closed due to “pollution” what that means is that someones septic tank has ruptured and taints the water around the beach for weeks. No one can swim in that without also being tainted. Adam unwittingly ensured that everyone who would be born subsequent to them would have a similar taint.
-- It is this taint, this Evil, that Man embraced through Adam that causes little kids to be hurt. God in His sovereignty takes these little ones who have been marred by violence, or abuse, or death, and uses them to achieve a good purpose. What our enemy means for evil, God means for Good.
-- God uses our lives, our stories, our pain, struggles, grief,  our cancer, our shingles, our messed up lungs, and failing knees to make an orchestra of redemption to reach the world around us.
-- God does not cause Sin, but He is capable of turning evil into good in a persons life.
-- The suffering God asks us to go through is less than spending an eternity in hell.
-- Further consider the cost of your sin; your sin caused greater suffering for Christ, than any thing he will ask you or anyone else to do. He has led by example. He has suffered more for your sake than you will be asked to suffer for Him. Probably none of us will ever be asked to enduring a beating with a cat of 9 tales. While some of us may be called to die for our Lord, no one who believes in Jesus Christ as their Lord and savior will have to endure separation from God as Christ did on the Cross.
+# Philippians 3:1 — Rejoice in the Lord
 
-- Remember the story of Joshua and caleb? Moses and the Israelites had been wandering for 40 years.
-- About two years in, they reach the promised land and decide to send spies in.
-- 12 spies sent out, and 10 returned afraid their God couldn’t keep his promise, only Joshua and Caleb believed God could do it. As a result God was angry and they spent the next 38 years wandering the desert till they had all died out.
-- I came across this quote in a book that DL Moody wrote called 1001 thoughts from my library. He writes: “It honors religion, it proclaims to the world we serve a good Master. Cheerfulness is a friend to grace: it puts the heart in tune to praise God. Un-cheerful Christians, like the spies, bring an evil report of the good land; others suspect there is something unpleasant in religion, that they who profess it hang their harps upon the willows, and walk so dejectedly. Be serious, yet cheerful. Rejoice in the Lord always.
-- Remember then that while you are enduring hardships that people are watching you.
-- You may be the only bible someone ever reads.
-- Be honest with your struggles.
-- Wear your faith on your sleeve.
-- The way to get rid of your cross is to die upon it; there is no other way. Jesus bore no cross in the resurrection. (1001 thoughts from my library)
-- Deny your own wants in favor of what God wants.
-- Easy to say for your self, but what about what you want for your friends and loved ones? (world team).
-- Give up your own dreams, desire and fears to fulfill what God wants of you.
-- Live in submission to the Will of God.
-- Have the positivity of Monty Python’s green knight.
-- Whatever may come – press on towards the Goal
-- 12 Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us, 2 fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set before him he endured the cross, scorning its shame, and sat down at the right hand of the throne of God. 3 Consider him who endured such opposition from sinners, so that you will not grow weary and lose heart.
+**Primary Text**: Philippians 3:1
+**Series**: Philippians
 
-D. L. Moody, One Thousand and One Thoughts from My Library (New York; Chicago; Toronto: Fleming H. Revell, 1898), 314.
-D. L. Moody, One Thousand and One Thoughts from My Library (New York; Chicago; Toronto: Fleming H. Revell, 1898), 311.
+---
+
+We're in Philippians chapter 3 today. While you're turning there, let's talk about our people group of the week.
+
+*(People Group of the Week)*
+
+*(Prayer)*
+
+---
+
+Let's read our text. Philippians 3:1:
+
+> *"Finally, my brothers, rejoice in the Lord. To write the same things to you is no trouble to me and is safe for you."*
+
+There's a word in this verse I want you to see. It's the word *rejoice*. In the Greek it's *chairo* — χαίρω. It means to be glad, to be in a state of happiness and well-being. It's more than a feeling. It's a settled condition. It's the posture of a soul that knows something the world doesn't know.
+
+And Paul writes it from a Roman prison.
+
+---
+
+## I. Rejoice — In What?
+
+Think about where Paul is when he writes this letter. He's chained. He's awaiting trial. Back in chapter 1, verse 21, he told them plainly: "For to me to live is Christ, and to die is gain." That's a man who knows there's a real chance he won't walk out of that cell alive.
+
+And he was right.
+
+Church tradition tells us Paul was beheaded in Rome under the reign of Nero — one of the most brutal emperors in Roman history. A man who burned Christians as torches to light his garden parties. A man who blamed believers for the Great Fire of Rome to cover his own madness. And somewhere in the shadow of that evil, Paul lost his head for the gospel.
+
+And yet — *rejoice*.
+
+Not "rejoice because everything is fine." Not "rejoice because the trial went your way." Not "put on a happy face." Rejoice *in the Lord*. Rejoice because the Lord is still the Lord even when the emperor is insane and the chains are real.
+
+So what is Paul rejoicing in?
+
+He's rejoicing that even in his imprisonment, people are hearing the gospel. He told them that back in chapter 1 — what has happened to him has served to advance the gospel. The guards are hearing it. The other prisoners are hearing it. People who never would have encountered the truth are encountering it now because Paul is right where God put him.
+
+He's rejoicing that his beloved friends in Philippi — people he poured his life into — are being cared for. Their needs are being met. The church is holding together.
+
+He's rejoicing that the truth is going out.
+
+And then he tells *them* to rejoice.
+
+---
+
+## II. How Often Do We Let Circumstances Steal Our Joy?
+
+Now — be honest with me.
+
+How often do we let circumstances get us down? Our health. Our jobs. Our kids. Our loved ones' health. The diagnosis we didn't see coming. The phone call we weren't ready for. The bill we can't pay.
+
+Some of you are in the middle of something right now that you wouldn't wish on anyone. You're carrying a weight that nobody in this room fully understands. And if someone walked up to you right now and said "just rejoice," you might want to hit them.
+
+I get that.
+
+But Paul isn't being flippant. He's not tossing out a greeting card. He's writing from chains. He's facing execution. And he says: *Rejoice in the Lord always; again I will say, rejoice* (Philippians 4:4).
+
+James says the same thing:
+
+> *"Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing."* — James 1:2–4
+
+Did you hear that? Count it all joy. Not some of it. Not the easy parts. All of it. Because the testing — the refining — is producing something in you that comfort never could.
+
+---
+
+## III. God's Sovereignty Allows Us to Rejoice
+
+Here's why Paul can say what he says. Here's why James can say what he says. It's not positive thinking. It's not denial. It's theology.
+
+God is sovereign.
+
+### He Is Good
+
+Start there. God is good. Not "good" the way we use the word when someone asks how dinner was. Good in two senses that matter.
+
+He is *morally* good. There is no darkness in Him. No shadow of turning. No hidden cruelty, no capriciousness, no dice-rolling with your life. When God acts, He acts from perfect holiness and perfect love — every single time.
+
+And He is *functionally* good. He doesn't just sit on His goodness like a king on a throne doing nothing. He acts on it. He moves toward His people, intervenes when the situation is impossible, provides when the cupboard is bare. He is good, and He does good.
+
+### He Is in Control
+
+Walk through Scripture with me for a minute.
+
+Elijah — God was sovereign over the altar, the water, and the fire on Mount Carmel. Sovereign over Baal and his prophets. And before that, God was sovereign over the brook at Cherith, the ravens that fed Elijah, and the widow of Zarephath and her jar of flour and jug of oil. A widow who was ready to die, and God said: Not yet. I'm not done with you.
+
+Jonah ran the other way. Got on a boat headed anywhere but where God told him to go. And what happened? God sent the wind. God sent the waves. God sent the fish. God sent the plant and the worm that ate it. Jonah learned what every prophet eventually learns — you can't outrun the God who made the sea.
+
+Abraham took his son up a mountain because God told him to. Laid the boy on the altar. Raised the knife. And God said: Stop. I have provided. The ram was already in the thicket. God was sovereign over the test before Abraham ever felt the weight of it.
+
+Peter — when he stepped out of that boat onto the water, God was sovereign over the storm, sovereign over the waves, sovereign over Peter's faith and Peter's fear. And when Peter sank, Jesus didn't let him drown. He reached down and pulled him up.
+
+God is sovereign over everything. Nothing is outside His command.
+
+> *"For the eyes of the LORD run to and fro throughout the whole earth, to give strong support to those whose heart is blameless toward him."* — 2 Chronicles 16:9
+
+Nothing escapes His notice.
+
+> *"But even the hairs of your head are all numbered."* — Matthew 10:30
+
+Think about Job. He lost his children. He lost everything he owned. He was covered in sores and sitting in ashes, and he wanted to die. And when Job finally demanded an answer, God responded. But not the way Job expected.
+
+"Where were you when I laid the foundation of the earth?" (Job 38:4). "Do you know the balancings of the clouds?" (Job 37:16). "Can you bind the chains of the Pleiades or loose the cords of Orion?" (Job 38:31).
+
+In other words: You're not God. I am. And I haven't lost control of a single thing.
+
+---
+
+## IV. God's Sovereignty Allows Us Rest
+
+If God is in control — hear me — what right have we to fret and fuss?
+
+> *"And which of you by being anxious can add a single hour to his span of life?"* — Matthew 6:27
+
+> *"Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God."* — Philippians 4:6
+
+A dear friend of mine once asked me, point blank: "How can God be fully sovereign over the earth if bad things happen to children?"
+
+That's not a gotcha question. That's a question born from pain. And it deserves a careful answer.
+
+Here it is.
+
+We talked about abortion last week. God will take care of His own. That's not in question. But why does the suffering exist in the first place?
+
+Sin was allowed as a possibility — because without it, Man couldn't have truly had free will. And when Man sinned, he didn't just damage himself. He polluted all of mankind for the rest of history.
+
+Hudson Beach gets shut down periodically because of "pollution." You know what that means? Somebody's septic tank ruptured and the sewage is in the water. Nobody can swim in that water without being contaminated. That's what Adam did. He ruptured something, and every human being born after him has been swimming in that contamination. Not because they chose it. Because they were born into it.
+
+It is this taint — this evil that Man embraced through Adam — that causes little kids to be hurt. And God, in His sovereignty, takes those little ones who have been marred by violence, or abuse, or death, and He uses even that to achieve a good purpose.
+
+> *"As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today."* — Genesis 50:20
+
+What our enemy means for evil, God means for good.
+
+God uses our lives, our stories, our pain, our struggles, our grief — our cancer, our shingles, our messed-up lungs, our failing knees — to make an orchestra of redemption to reach the world around us.
+
+God does not cause sin. But He is capable of turning evil into good in a person's life.
+
+---
+
+## V. Consider the Cost
+
+The suffering God asks us to go through is less than spending an eternity in hell.
+
+And consider this: your sin caused greater suffering for Christ than anything He will ever ask you to endure. He has led by example. He has suffered more for your sake than you will be asked to suffer for Him.
+
+Probably none of us will ever be asked to endure a beating with a Roman scourge — the *flagrum*, with its leather straps embedded with bone and metal. Some of us may be called to die for our Lord. But no one who believes in Jesus Christ as their Lord and Savior will have to endure what Christ endured on the cross — separation from God the Father. That cup was His alone. And He drank it for you.
+
+Some of you are angry at God right now. Some of you are watching someone you love suffer, and you can't fix it, and you can't understand why He won't. Hear me: He is not absent. He is not indifferent. He drank that cup so you would never have to.
+
+Let that settle for a moment.
+
+---
+
+## VI. The Spies and the Cheerful Christian
+
+Remember the story of Joshua and Caleb?
+
+Moses and the Israelites had left Egypt. About two years in, they reached the border of the Promised Land and decided to send spies in. Twelve spies were sent out. They explored the land for forty days. Ten came back terrified — afraid their God couldn't keep His promise. Only Joshua and Caleb stood up and said: God can do this. Let's go.
+
+And the people sided with the ten.
+
+As a result, God was angry. And they spent the next thirty-eight years wandering that desert until every man of fighting age who refused to trust God had died. Thirty-eight years. Because ten men didn't believe God could do what God said He would do.
+
+I came across a quote in D. L. Moody's compiled book, *One Thousand and One Thoughts from My Library*. The original author — likely the Puritan Thomas Watson — wrote this:
+
+> *"It honors religion, it proclaims to the world we serve a good Master. Cheerfulness is a friend to grace: it puts the heart in tune to praise God. Un-cheerful Christians, like the spies, bring an evil report of the good land; others suspect there is something unpleasant in religion, that they who profess it hang their harps upon the willows, and walk so dejectedly. Be serious, yet cheerful. Rejoice in the Lord always."*
+
+Did you catch that? Un-cheerful Christians — like those ten spies — bring an evil report of the good land. When the world looks at you and sees misery, they conclude that the God you serve must not be very good.
+
+Remember — while you are enduring hardship, people are watching you.
+
+You may be the only Bible someone ever reads.
+
+Be honest with your struggles. Don't fake it. But wear your faith on your sleeve. Let them see that the God who sustains you is worth trusting, even when life is hard.
+
+From the same book, another entry reads:
+
+> *"The way to get rid of your cross is to die upon it; there is no other way. Jesus bore no cross in the resurrection."*
+
+⚠️ *[Verification note: This quote appears in Moody's compiled anthology (p. 311) but the original author could not be independently verified.]*
+
+That's worth sitting with. The way through the cross is not around it. It's through it. Die to yourself. Die to your comfort. Die to your plans.
+
+---
+
+## VII. Press On Toward the Goal
+
+Deny your own wants in favor of what God wants.
+
+That's easy enough to say for yourself. But what about what you want for your friends? For your loved ones? What about the missionary you support who's suffering overseas — do you want to pull them back? What about the friend whose calling takes them somewhere dangerous?
+
+Give up your own dreams, your desires, and your fears to fulfill what God wants of you. Live in submission to the will of God.
+
+You know the Black Knight in *Monty Python and the Holy Grail*? He loses both arms and both legs and still won't quit. "It's just a flesh wound!" Now — I'm not saying that's great theology. But there's something to the stubbornness. Whatever may come — press on toward the goal.
+
+And here's the goal. Here's the text that tells you why:
+
+> *"Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God. Consider him who endured from sinners such hostility against himself, so that you may not grow weary or fainthearted."* — Hebrews 12:1–3
+
+He endured. For you. So that you would not grow weary.
+
+So rejoice. Not because everything is easy. Because He is good, He is sovereign, and He is worth it.
+
+---
+
+*Gospel.*
+
+---
+
+**Sources:**
+
+D. L. Moody, *One Thousand and One Thoughts from My Library* (New York; Chicago; Toronto: Fleming H. Revell, 1898), 314.
+
+D. L. Moody, *One Thousand and One Thoughts from My Library* (New York; Chicago; Toronto: Fleming H. Revell, 1898), 311.
+
+---
+
+**Verification Flags:**
+
+- ⚠️ **Cheerfulness quote attribution**: The quote beginning "It honors religion..." appears on p. 314 of Moody's compiled anthology. Moody compiled quotes from other authors; he did not write them himself. The quote is consistent with the style of Thomas Watson (*The Beatitudes*, *A Body of Divinity*), but the specific original source has not been independently confirmed. Attributed in sermon as "likely the Puritan Thomas Watson."
+- ⚠️ **Cross quote attribution**: "The way to get rid of your cross is to die upon it..." appears on p. 311 of Moody's anthology. The original author could not be independently verified through available sources.
+- ✅ **2 Chronicles 16:9** — Corrected from original skeleton which erroneously cited "2 Cor 16:9" (2 Corinthians has only 13 chapters).
+- ✅ **Matthew 6:27** — Corrected to ESV: "a single hour to his span of life" (skeleton had "a single day to your life").
+- ✅ **Hebrews 12:1–3** — Corrected from NIV wording to ESV throughout.
+- ✅ **Black Knight** — Corrected from "green knight" (Monty Python and the Holy Grail character is the Black Knight).
+- ✅ **"altar"** — Corrected spelling from "alter."
+- ✅ **Widow of Zarephath** — Corrected from "old woman" (Scripture does not specify her age; she is called simply "a widow").
+- ✅ **χαίρω (chairo)** — Corrected definition to standard lexical meaning: "to be glad, to be in a state of happiness and well-being." Original skeleton included "because of what you hear," which is not part of the lexical definition.
+- ✅ **Roman scourge** — Corrected from "cat of 9 tales" (misspelling of tails) to "Roman scourge / flagrum." The cat-o'-nine-tails was a British naval instrument; Jesus was scourged with a Roman flagrum embedded with bone and metal.
+- ✅ **All ESV quotations verified**: Phil 3:1, Phil 4:4, Phil 4:6, Phil 1:21, James 1:2–4, 2 Chr 16:9, Matt 10:30, Matt 6:27, Gen 50:20, Job 37:16, Job 38:4, Job 38:31, Heb 12:1–3.
