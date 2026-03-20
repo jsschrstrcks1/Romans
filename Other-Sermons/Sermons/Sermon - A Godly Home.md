@@ -101,3 +101,58 @@ Maybe you're ready to join the church — we have a few who have expressed inter
 ---
 
 *Passage: Exodus 2:1–15, ESV*
+
+---
+
+## Integrity Log
+
+**Reviewed:** March 20, 2026
+
+### Scripture — Verified
+- Exodus 2:1–15 — correct passage for Moses' birth, hiding, and flight
+- Exodus 6:20 / Numbers 26:59 — Amram and Jochebed confirmed as Moses' parents; correctly noted as unnamed in Exodus 2
+- Luke 12:3 — corrected from loose paraphrase to ESV: "whatever you have said in the dark shall be heard in the light, and what you have whispered in private rooms shall be proclaimed on the housetops"
+- Romans 3:23 — corrected to ESV present tense: "fall short" (not "fallen short")
+- John 3:16 — corrected from KJV/NIV conflation to ESV
+- Philippians 2:10–11 — citation added; minor wording difference from ESV acceptable in sermonic paraphrase
+- Matthew 7:23 — corrected to exact ESV: "I never knew you; depart from me, you workers of lawlessness"
+
+### Quotes — Verified
+- **Patrick Henry** — "This is all the inheritance I give to my dear family…" — Verified from Last Will and Testament (1798). Original says "can give" not just "give"; corrected in polished text.
+- **Adrian Rogers** — "The same Jesus Who turned water into wine…" — Verified from *Unveiling the End Times in Our Time* (2004), p. 27
+- **Chuck Swindoll** — "A family is a place where principles are hammered…" — ⚠️ Widely attributed, consistent with his style, but no primary source (book title, page, broadcast) confirmed. Likely real.
+
+### Historical Claims
+- **430 years** — Corrected from "slavery lasted 430 years" to "time in Egypt lasted 430 years" per Exodus 12:40 ESV. Note: Galatians 3:17 strongly suggests the 430 years covers Abraham's call to the Exodus, not just time in Egypt. The "long sojourn" vs. "short sojourn" debate is unresolved.
+- **Midwives** — Exodus 1:15 names two midwives (Shiphrah and Puah), not "all midwives." Whether these two led a larger corps is debated. Moses was actually born under the more severe Nile decree (Exodus 1:22), after the midwife strategy had already failed. The sermon's phrasing is imprecise but the broader point (male babies targeted for death) is accurate.
+- **Moses ~400 years after Joseph** — Standard chronology places the gap at ~280–330 years (long sojourn view). "Roughly 400" overstates most reckonings; the sermon may be conflating Genesis 15:13's "400 years" prophecy with the gap between the two men.
+- **Silphium** — Verified: ancient abortifacient plant, effectively extinct by 1st–2nd century AD (last stalk reportedly given to Emperor Nero, 1st century)
+- **Jewish contraceptive methods (citric acid, honey on cotton)** — Referenced in rabbinic literature (Talmud); real methods but centuries later than Moses' era. Acceptable as illustration.
+- **Mercury as abortifacient** — Used in some ancient contexts; specific evidence for Egypt in Moses' era is thin. Acceptable as illustration.
+- **Chemical contraceptives / "three abortions per year"** — ⚠️ Attributed to unnamed professor in ethics class. The claim is contested even among pro-life physicians. No medical consensus supports this specific figure. Noted as pastor's honest report of what he was taught.
+- **Egyptian mummification superiority** — Pastor's honest recollection of a high school book. Defensible claim; some researchers agree.
+
+### Hiroo Onoda — Corrected
+Original raw transcript had multiple errors (fought until ~2000, age 80, CO nearly 100 on deathbed, arrested and deported). All corrected to verified facts:
+- Found March 1974, age 52
+- ~29 years in the jungle (not 60)
+- Major Taniguchi traveled to Lubang Island in person (not from deathbed)
+- Onoda received hero's welcome; pardoned by Philippine President Marcos (not arrested/deported)
+
+### Other Corrections
+- "Saturday" → "Sunday" (Baptist congregation)
+- "carry the bible to term" → "carry the baby to term"
+- "Raisin hands" → "Raising hands"
+- "praisin" → "praising"
+- "listing" → "listening"
+- "sphynx" → "Sphinx"
+
+### Flags Remaining
+- ⚠️ Chuck Swindoll quote — no primary source confirmed
+- ⚠️ Chemical contraceptive "3 abortions per year" claim — contested; attributed to professor
+
+### Voice Audit
+- **Authenticity Risk: LOW** — Raw preached material; no AI involvement
+- All corpus voice markers present (direct address, controlled fire, humor, gear-shifts, circle-back-to-verse)
+- Conviction check: passes (sin named, gospel after conviction, clear call)
+- Cadence check: passes (sentences shorten at climax, building pattern present)
