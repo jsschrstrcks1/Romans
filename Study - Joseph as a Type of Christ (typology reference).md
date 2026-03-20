@@ -9,11 +9,12 @@
 
 ## Verification Flags
 
-- ⚠️ **Translation** — All quotations below are KJV. The repo standard is ESV. Convert every quotation to ESV in any final sermon draft before pulpit use. Do not mix translations within a single passage without noting it. *(March 2026: confirmed KJV throughout — conversion required but out of scope for this reference file)*
-- ⚠️ **Source / Attribution** — No source is given for this typology list. It may derive from a published study Bible, a commentary (e.g., J. Vernon McGee, Alva McClain, Harry Ironside), or a typology reference work. Identify and credit the source before distributing or preaching from this material. [FLAG: IDENTIFY SOURCE — unresolved]
-- ✓ **All Scripture references** — All references spot-checked March 2026. Chapter and verse designations are correct throughout. KJV wording differs from ESV in places but references are accurate. Convert wording to ESV before pulpit use.
-- ✓ **Heb. 7:26 wording** — NKJV hyperlink artifact cleaned. ESV wording documented in inline flag: *"holy, innocent, unstained, separated from sinners, and exalted above the heavens."* Body retains KJV; convert before pulpit use.
-- ✓ **Gen. 45:5a stray character** — Stray `v` removed. Gen. 45:5 confirmed as Joseph's "do not be distressed" speech. Reference correct.
+- [ ] **Translation** — All quotations below appear to be KJV. The repo standard is ESV. Verify each OT and NT reference against ESV before using from the pulpit, and replace quotations with ESV wording in any final sermon draft. Do not mix translations within a single passage without noting it.
+- [ ] **Source / Attribution** — No source is given for this typology list. It may derive from a published study Bible, a commentary (e.g., J. Vernon McGee, Alva McClain, Harry Ironside), or a typology reference work. Identify and credit the source before distributing or preaching from this material. [FLAG: IDENTIFY SOURCE]
+- [x] **All Scripture references** *(spot-checked March 2026)* — All references spot-checked. Chapter and verse designations are correct throughout. KJV wording differs from ESV in places but references are accurate. Convert wording to ESV before pulpit use. [FLAG: VERIFY ALL — complete]
+- [x] **Heb. 7:26 wording** *(corrected March 2026)*: Updated from KJV ("holy, harmless, undefiled, separate from sinners") to ESV: "holy, innocent, unstained, separated from sinners, and exalted above the heavens." Heb. 4:15b also updated to ESV. ✓
+- [x] **Phil. 2:9 "new name" question** *(resolved March 2026)*: Corrected from KJV to ESV: "Therefore God has highly exalted him and bestowed on him the name that is above every name." Neither KJV nor ESV uses "new name" in Phil. 2:9; that language is from Rev. 3:12. The typology section heading ("Given a New Name") is the source author's framing; a note has been added in the inline flag directing preachers to Rev. 3:12 for the "new name" language. ✓
+- [x] **Gen. 45:5a stray character** *(cleaned)*: Stray `v` removed. Gen. 45:5 is Joseph's "do not be distressed" speech — reference confirmed correct. ✓
 
 ---
 
@@ -95,7 +96,7 @@
 
 > and they bargained with him [Judas] for thirty pieces of silver (Matt. 26:15b).
 
-**[✓ Gen. 37:28 ESV confirmed (March 2026): "Then Midianite traders passed by. And they drew Joseph up and lifted him out of the pit, and sold him to the Ishmaelites for twenty shekels of silver. They took Joseph to Egypt." Twenty vs. thirty is intentional — both are betrayal for silver; the difference is preachable (types are shadows, not photographs).]**
+**[FLAG: Verify Gen. 37:28b — price is twenty pieces of silver in Joseph's case vs. thirty for Jesus. This is intentional as a parallel, not an error — both involve a betrayal for silver, with the amounts differing. Confirm Gen. 37:28 says "twenty" (ESV: "twenty shekels of silver").]**
 
 ---
 
@@ -125,11 +126,11 @@
 ### RESISTED TEMPTATION
 > The temptation by Potiphar's wife (Read Gen. 39:7–12).
 
-> For such a high priest was fitting…who is holy, harmless, undefiled, separate from sinners… (Heb. 7:26).
+> For it was indeed fitting that we should have such a high priest, holy, innocent, unstained, separated from sinners, and exalted above the heavens. (Heb. 7:26, ESV)
 
-> …[he] was in all points tempted like as we are, yet without sin (Heb. 4:15b).
+> …he in every respect has been tempted as we are, yet without sin. (Heb. 4:15b, ESV)
 
-**[✓ Heb. 7:26 ESV confirmed (March 2026): "For it was indeed fitting that we should have such a high priest, holy, innocent, unstained, separated from sinners, and exalted above the heavens." KJV above reads "harmless, undefiled" — replace with ESV when preaching.]**
+**[FLAG: Heb. 7:26 ✅ Corrected to ESV — "holy, innocent, unstained, separated from sinners, and exalted above the heavens." Previous KJV wording ("holy, harmless, undefiled, separate from sinners") replaced. Heb. 4:15b updated to ESV.]**
 
 ---
 
@@ -164,9 +165,9 @@
 ### PROMOTED TO HONOR AND GLORY AND GIVEN THE NAME ABOVE EVERY NAME
 > And Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt (Gen. 41:41). *(See also Gen. 41:45a.)*
 
-> …God also hath highly exalted him, and given him a name which is above every name (Phil. 2:9).
+> Therefore God has highly exalted him and bestowed on him the name that is above every name (Phil. 2:9, ESV)
 
-**[✓ Phil. 2:9 ESV confirmed (March 2026): "Therefore God has highly exalted him and bestowed on him the name that is above every name." KJV above reads "given him a name which is above every name." Heading corrected from "GIVEN A NEW NAME" — "new name" is Rev. 3:12, not Phil. 2:9. Convert KJV wording to ESV before pulpit use.]**
+**[FLAG: Phil. 2:9 ✅ Corrected to ESV — "bestowed on him the name that is above every name." Neither KJV nor ESV uses "new name" in Phil. 2:9; the "new name" language is from Rev. 3:12. The typology reference appears to intend Phil. 2:9 (exaltation + supreme name), not Rev. 3:12's "new name." KJV rendering updated to ESV. The section heading "given a new name" is the typology author's framing — preachers should note the "new name" language is not from Phil. 2:9 but could be supplemented with Rev. 3:12.]**
 
 ---
 

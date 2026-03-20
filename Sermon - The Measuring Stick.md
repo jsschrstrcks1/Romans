@@ -1,5 +1,5 @@
 # The Measuring Stick
-## A Sermon on 2 Timothy 3:14–17
+## A Sermon on 2 Timothy 3:14-17
 
 **People Group of the Week: The Sanaani Arabs**
 
@@ -53,35 +53,40 @@ It is the chorus of our history, our present, and our future: the Word of God is
 
 ## The Woman Who Never Took Her Bible Seriously
 
-A few years back I met a pair of women that were Jehovah's Witnesses. They were going door to door in my neighborhood. One of the neighbors called me over, and we began talking. Come to find out the younger of the two women was a new recruit. As the conversation progressed I found out she had been a Southern Baptist — born to Southern Baptist parents. She had been on the cradle roll. She had been involved with GAs, and as a teenager had been part of a Baptist youth group. Yet according to her, she had never taken the Bible seriously. Not until she became a Jehovah's Witness — and they use a twisted version of the Bible. In their translation some places sound very familiar, but in others it's been perverted by adding to or taking away from it.
-
-I wish I could have talked to her longer because she began to waver. She knew what the truth was in her heart. When the older woman saw the younger one begin to waver, she pulled the plug and stormed out.
-
-She didn't know her Bible. So when the JWs came along and gave her something that sounded good, she jumped right on board. This is part of why it is so important for us to know our Bibles cover to cover. We won't get there tomorrow. But every time we read it, we are one step closer.
+A few years back I met a pair of women that were Jehovah's Witnesses. They were going door to door in my neighborhood. One of the neighbors called me over, and we began talking. Come to find out the younger of the two women was a new recruit. As the conversation progressed I found out she had been a Southern Baptist. She had been born to parents who were Southern Baptist, she had been on the cradle roll, she had been involved with GAs, and as a teenager had been part of a Baptist youth group. Yet according to her, she had never taken the Bible seriously. Not until she became a Jehovah's Witness, and they use a translation that has been twisted. I wish I could have talked to her longer because she began to waver — she knew what the truth was in her heart. When the old woman with her saw the younger woman begin to waver she pulled the plug and stormed out. She didn't know her Bible, and so when the JWs came along and gave her something that sounded good, she jumped right on board. This is part of why it is so important for us to know our Bibles cover to cover. We won't get there tomorrow, but every time we read it, we are one step closer.
 
 ---
 
-## Scripture Reading: 2 Timothy 3:14–17
+## A Chorus of Baptists on Scripture
+
+What started me down this line of thought was the kids' clubs this past Thursday. Their AWANA project covered the topic of the authority and power of Scripture. We really never got to what AWANAs wanted us to talk about. But we went down some — I think — important side roads when it asked us to read through our church's doctrinal statement on the Bible. As Baptists we have a number of statements that have been used historically to define our position. Most recently the Southern Baptist denomination has been using the Baptist Faith and Message. It's not perfect — none of them are — but it represents the necessary essentials that when boiled down are what we as a denomination have decided are enough to cooperate around. This statement has had a few things changed here and there, nothing fundamental, mostly just to add clarity, and to pull us back as a denomination from theological error.
+
+But this isn't the only, or even the oldest of the documents that we use to define what it is to be a Baptist. In the late 1800s we had the Abstract of Principles. It was the document that The Southern Baptist Theological Seminary was founded upon. Every professor at Southern, and my own seminary Southeastern has to sign it and agree with it fully without qualification even still. This was based upon even older American and European Baptist statements of faith. The 1800s also had the New Hampshire Baptist Confession, and the 1700s had the Philadelphia Confession. At the close of the 1600s we had the Second London Baptist Confession, and at the start of the 1600s — in 1611 as it happens — we had Thomas Helwys' confession of faith.
+
+Point is, when it comes to Scripture, with the exception of a brief time period in the 70s and 80s, that chorus of Baptists present and past has always been that Scripture is God's word to us, and to be trusted, defended and supported. In fact in 1611 it was written in one of the first Baptist confessions that Scripture "set down an absolute, and perfect rule of direction, for all persons, at all times, to be observed; Which no Prince, nor any whosoever, may add to, or diminish from."
+
+In the 1689 Second London Baptist Confession, which was a significant influence on our Baptist Faith and Message of today, they wrote:
+
+> The Holy Scriptures are the only sufficient, certain and infallible rule for saving knowledge, faith, and obedience. Although the light of nature and the works of creation and providence give such clear testimony to the goodness, wisdom and power of God that they leave people without excuse, yet they are not sufficient to give the knowledge of God and his will that is necessary for salvation. Therefore it pleased the Lord to reveal himself at various times and in different ways, and to declare his will to his church. To ensure the preservation and propagation of the truth, and to establish and support the church against human corruption, the malice of Satan, and the world, he committed his complete revelation to writing. The Holy Scriptures are therefore absolutely indispensable, for God's former ways of revealing his will to his people have now ceased.
+
+More recently there was a document signed by hundreds of evangelical leaders from dozens of denominations, called the Chicago Statement on Biblical Inerrancy. *(Corrected March 2026 — original transcript said "signed by the leadership of every major denomination"; approximately 300 individuals signed as individuals, not as official denominational representatives.)* This particular confession is Calvinistic and quite extensive, but it is in lockstep with Scripture every step of the way — every sentence is backed up and has the supporting Scriptures listed. Like our Baptist Faith and Message does. The Philadelphia Confession largely follows the 1689 Second London. The New Hampshire Confession is a distinct and shorter document — 18 articles rather than 32 chapters — and deliberately softened some of the Calvinistic language of the 1689. *(Corrected March 2026 — original transcript said both confessions were "basically just the 1689 re-worded"; this is true for Philadelphia but not for New Hampshire.)*
+
+---
+
+## Scripture Reading: 2 Timothy 3:14-17
 
 > But as for you, continue in what you have learned and have firmly believed, knowing from whom you learned it and how from childhood you have been acquainted with the sacred writings, which are able to make you wise for salvation through faith in Christ Jesus. All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work.
->
-> — 2 Timothy 3:14–17 (ESV)
-
----
-
-## "Continue" — A Command, Not a Suggestion
-
-It says we should *continue* in what we have learned. The verbs always add interesting tidbits, and this one is no different. In the Greek it is present active imperative. Someone tell me what imperative means — anyone? Right, exactly — a command. So we are to start right now, and continue without stopping to obey the command that follows. Continue acting in accordance with what Paul — and we can include the disciples in there also — have taught.
+> — 2 Timothy 3:14-17 (ESV)
 
 Today, how do we know what Paul and the disciples taught? Exactly. By reading Scripture. How can we continue in what we have learned without having learned it to start with? The study of Scripture is implicitly commanded here.
 
-R.C. Sproul wrote that we study Scripture so that we can understand and come to know God — so that we can meet the true and living God in his Word and deepen our personal relationship with him. But we cannot deepen a relationship with someone if we do not get to know them. So Scripture is a means to an end, and not an end in itself. Through Scripture we can come to better know the one who gave his life to save us. In another place he says something to the effect of "how can we claim to love God if we don't love his Word?"
+It says we should continue in what we have learned. The verbs always add interesting tidbits, and this one is no different. In the Greek it is present active imperative. Someone tell me what imperative means — anyone? Right, exactly — a command. So we are to start right now, and continue without stopping to obey the command that follows. Continue acting in accordance with what Paul — and we can include the disciples in there also — have taught. Today, how do we know what Paul and the disciples taught? Exactly, by reading Scripture! How can we continue in what we have learned without having learned it to start with? The study of Scripture is implicitly commanded here.
 
-I think he is right to give us a heart check on this. But I also think he words it a little strong. Not everyone is at the same point in their journey with God. Not everyone is at a point where they love reading Scripture — for some of you it's hard to read a chapter, and for others you are in a very different place. No one has ever been born an adult. And no one is born again and immediately ready and able and equipped to fully plumb the depths of every Scripture. It takes time and effort and study to get there.
+R.C. Sproul wrote that we study Scripture so that we can understand and come to know God. So that we can meet the true and living God in his Word and deepen our personal relationship with Him. But we cannot deepen a relationship with someone if we do not get to know them. So Scripture is a means to an end, and not an end in itself. Through Scripture we can come to better know the one who gave his life to save us. In another place he says something to the effect of "how can we claim to love God if we don't love his Word?"
 
----
+I think he is right to give us a heart check on this. BUT I also think he words it overly strong. Not everyone is at the same point in their journey with God. Not everyone is at a point where they love reading Scripture — for some of you it's hard to read a chapter, and for others you are in a different place. No one has ever been born an adult, and no one is born again and ready and able and equipped to fully plumb the depths of every Scripture. It takes time and effort and study to get to that point.
 
-## All Scripture Is God-Breathed
+### All Scripture Is God-Breathed
 
 Verse 16 says ALL Scripture is God-breathed. We believe that God inspired each of the authors in a special way — and through their vocabulary and personality God expressed eternal truths about Jesus to us in a way that would be translatable into every language, in a way that everyone would be able to understand, and in a nuanced way such that no matter how many times you read it, it always brings you to some new depth.
 
@@ -105,9 +110,9 @@ We've already read 2 Timothy 3. I want a handful of you to each pick a different
 
 ## The Canon: A Measuring Stick for Life
 
-I want us to think about the sentence that says Scripture reveals the principles by which God will judge us.
+I want us to think about the sentence that says it reveals the principles by which God will judge us. Judgment is kind of a hot button topic today — people are so quick to say don't judge me, or to claim that the Bible says "judge not." Truth is we are to constantly be judging, just know that we too are also being judged.
 
-Judgment is a hot button topic today. People are so quick to say don't judge me, or to claim that the Bible says "judge not." It does say judge not — but the truth is we are to constantly be judging. Just know that we too are also being judged. I had a friend who used to say: any time you point a finger at someone, there are three pointing back at yourself.
+Let's start with ourselves. We should be judging ourselves based on Scripture. The Bible is sometimes called the "canon of Scripture." This term canon has been co-opted by comic book franchises and so forth. People talk about the official Marvel canon, or what have you, but the source of this word is in relation to Scripture. They don't mean cannon — like the gunpowder weapon that fires massive iron balls at concrete structures or wooden boats. No. The word canon in this context goes back to the word for "reed." They used to use reeds of a certain length as measuring sticks. Scripture is a measuring stick for our life, our actions, our relationships. It contains both the standard we should live up to, and ways to measure our progress. We absolutely should be judging ourselves.
 
 So let's start with ourselves. We should be judging ourselves based on Scripture.
 
@@ -119,13 +124,13 @@ My father has a door that he has the grandkids back up against, and he takes the
 
 One day we are going to stand face to face with God, and he will take our measure. His measuring tape will be Scripture.
 
-So as our Baptist Faith and Message says: the Bible is the true center of Christian union and the supreme standard by which all human conduct, writings, and opinions should be tried.
+So as our creed says, the Bible is the true center of Christian union and the supreme standard by which all human conduct, writings, and opinions should be tried.
 
 ---
 
 ## The God Who Disagrees With You
 
-Judgment is hard for our culture. We have worshiped to the point of idolatry our own comfort and happiness — to the point that our kids don't see anything wrong with violating God's rules to be happy.
+Judgment is hard for our culture. We have worshiped to the point of idolatry our own comfort and happiness to the point that our kids don't see anything wrong with violating God's rules to be happy. I was talking to a young person a while back who struggles with elements of her identity, and when she talks to me about such things she couches them in phrases like "my friend" — did you guys ever have "air quotes friends" that you talked to someone about? Anyway, this young person was telling me that they have a hard time with any God that would ask you to forgo personal happiness in order to be obedient. You see the problem with that though right? Greg was talking last week about how we have lost the reality of the title Lord in our society. In the days of kings and queens having absolute power and authority, if they gave a command you were obligated to obey. It wasn't a request until you find something else that makes you happy. When the king commanded you to obey, you obeyed until they told you to stop or to do something else.
 
 I was talking to a young person a while back who struggles with elements of her identity. When she talks to me about such things she couches them in phrases like "my friend" — did you guys ever have "air quotes friends" you talked to someone about? Anyway, this young person was telling me that she has a hard time with any God that would ask you to forgo personal happiness in order to be obedient.
 
@@ -137,7 +142,7 @@ The problem today — what I told that young person — was best summed up by Ti
 
 > If your god never disagrees with you, you might just be worshiping an idealized version of yourself.
 
-In order for God to be God, he has to be different than us. His omnipresence gives him a view of current events we could never hope to match. The level of information and scope of view just across our world today would inform his infinite mind far better than we could ever hope to approximate. Because he is timeless — past, present and future — he knows all the things that have, can and will happen. That perspective requires him to see things differently, simply because we are incapable of knowing, processing, or storing that kind and amount of information. Because he is Good and Just, he does what is best with that information in ways we could never hope to match — because while we try to be good and just, our goodness is tainted by sin and is no better than filthy rags. Our justice is tainted by sin and falls so far short.
+In order for God to be God, he has to be different than us. His omnipresence gives him a view of current events we could never hope to match. The level of information and scope of view just across our world today would inform his infinite mind far better than we could ever hope to approximate. Because he is God, his nature demands he see things from a different perspective. Because he is timeless. God is past, present and future. He knows all the things that have, can and will happen. That perspective requires him to see things differently simply because we are incapable of knowing, of processing, and our limited minds would be incapable of storing that kind and amount of information. Because he is Good and Just he does what is best with that information in ways we could never hope to approximate because while we try to be good and just, our goodness is tainted by sin and is no better than what Isaiah calls a polluted garment *(Isaiah 64:6 ESV — corrected from KJV "filthy rags" March 2026)*. And while we try to be just, our justice is tainted by sin and falls so far short. That's why we look around and see all these injustices — because of our own failings as people. We did that. It was our sin that caused this.
 
 That's why we look around and see injustice. We did that. Our sin caused this.
 
@@ -151,7 +156,7 @@ Some of you in this room are wrestling with exactly this. You know what God says
 
 I know a lot of you committed to reading through the Bible in a year with us. I won't ask for a show of hands — but how many have mostly kept to your word to do so? We are at about the halfway point, and I want to re-commit as a church to reading through the Bible in a year.
 
-If you didn't make it last year, that's OK. Let's try again. If you did — you're in for a double blessing. Because the second time through you find greater depths. Your soul is more deeply anchored in times of trouble. You have greater instant access to the things the Prince of Peace has told us about himself.
+We will finish our year-long process here in the next couple months, and I want to recommit as a church to reading through the Bible in a year. If you didn't make it last year, that's OK, let's try again. If you did, you're in for a double blessing because the second time through you find greater depths, your soul is more deeply anchored in times of trouble. You have greater instant access to the things the Prince of Peace has told us about himself.
 
 But all of that starts with a relationship with God.
 
@@ -217,25 +222,24 @@ or republish without resolving flagged items below.
    on baptism, church government, and covenant theology. More accurate:
    "modeled on" or "heavily influenced by" Westminster.
 
-5. "NEW HAMPSHIRE AND PHILADELPHIA ARE BASICALLY JUST THE 1689 RE-WORDED"
-   True for the Philadelphia Confession (1742 — adopted the 1689 verbatim
-   with two additional chapters). Not true for the New Hampshire Confession
-   (1833) — much shorter (18 articles vs. 32 chapters), deliberately
-   softened Calvinistic language, and is a distinct document in its own right.
+✅ 5. "NEW HAMPSHIRE AND PHILADELPHIA ARE BASICALLY JUST THE 1689 RE-WORDED"
+   CORRECTED MARCH 2026 — Body now distinguishes: Philadelphia largely follows
+   the 1689; New Hampshire is a distinct, shorter document with softened
+   Calvinistic language. Inline correction note added.
 
-6. CHICAGO STATEMENT — "SIGNED BY THE LEADERSHIP OF EVERY MAJOR DENOMINATION"
-   Approximately 300 individual evangelical scholars and leaders signed
-   (Sproul, Packer, Schaeffer, Henry, MacArthur, Geisler, and others) from
-   38 denominations. They signed as individuals, not as official
-   denominational representatives. More accurate: "signed by hundreds of
-   evangelical leaders from dozens of denominations."
+✅ 6. CHICAGO STATEMENT — "SIGNED BY THE LEADERSHIP OF EVERY MAJOR DENOMINATION"
+   CORRECTED MARCH 2026 — Body now reads "signed by hundreds of evangelical
+   leaders from dozens of denominations." Inline correction note added.
 
-7. AL MOHLER QUOTE — UNVERIFIED
-   The quote about "truthfulness and trustworthiness" is consistent with
-   Mohler's published positions (especially his chapter in Five Views on
-   Biblical Inerrancy, Zondervan 2013), but the exact source could not be
-   confirmed. The sermon's loose attribution ("Al Mohler wrote saying...")
-   is fair for spoken delivery; verify exact source before publishing.
+✅ 7. AL MOHLER QUOTE — VERIFIED MARCH 2026
+   The phrase "the Bible's total truthfulness and trustworthiness" is confirmed
+   as Mohler's own language. Verbatim match: "The affirmation of biblical
+   inerrancy is nothing more, and nothing less, than the affirmation of the
+   Bible's total truthfulness and trustworthiness." Source: R. Albert Mohler Jr.,
+   "The Devil is in the Details: Biblical Inerrancy and the Licona Controversy,"
+   AlbertMohler.com, September 14, 2011. The same phrase appears in his chapter
+   in Five Views on Biblical Inerrancy (Zondervan, 2013), p. 45 and p. 176.
+   The sermon's loose paraphrase is faithful to Mohler's documented position.
 
 8. COMMUNION PASSAGE REFERENCE ABSENT IN ORIGINAL TRANSCRIPT
    The communion reading (1 Corinthians 11:23-29 ESV) was not cited by

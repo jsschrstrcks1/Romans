@@ -2,20 +2,26 @@
 
 **Series/Context:** Sunday morning — evangelism training session with congregation practice component
 **Passages:** Matthew 28:18–20; Luke 10:16; Genesis–Romans gospel presentation
-**Status:** Corrections applied (March 2026) — Spurgeon quote replaced with authenticated *Soul Winner* text; SAS details corrected (Fan Dance distance, cap badge, motto); Billy Graham dictation error fixed; Romans 5:8 ESV aligned
+**Status:** Raw preaching draft — unedited
 
 ---
 
 ## Verification Flags
 
-### Confirmed Errors — Must Correct Before Preaching
+### Confirmed Errors — Corrected in Body *(March 2026)*
 
-- ✅ **Spurgeon quote** *(corrected March 2026)*: Body now uses authenticated text from *The Soul Winner* (chapter: “Qualifications for Soul-Winning — Godward”). Original unverifiable quote removed and replaced.
-- ✅ **Fan Dance distance** *(corrected March 2026)*: Body now reads “approximately 15-mile (24 km)”. Prior draft said “64 miles” — that figure (64 km) belongs to the Long Drag / Endurance March, a separate event.
-- ✅ **SAS cap badge** *(corrected March 2026)*: Body now reads “one downward-pointing winged sword on a blue shield.” Prior draft said “two daggers.”
-- ✅ **SAS motto** *(corrected March 2026)*: Body now uses English “Who Dares Wins.” Prior draft used garbled Latin “vincere Quis audit” — not the SAS motto; the badge uses English.
-- ✅ **Billy Graham — dictation error** *(corrected March 2026)*: Body now reads “2.2 billion people.” Prior draft said “two people” — clear dictation error.
-- ✅ **Romans 5:8 gloss** *(corrected March 2026)*: Body now reads “while we were still sinners” (ESV). Prior draft used “yet” (KJV).
+- ✅ **Spurgeon quote** *(corrected)*: Unverifiable quote removed. Replaced with confirmed passage from *The Soul Winner*, chapter "Qualifications for Soul-Winning — Godward." The "grind our hearts to powder" wording does not appear in any verified Spurgeon source.
+
+- ✅ **Fan Dance distance — "64 miles"** *(corrected)*: Body now reads "approximately 15-mile march." The Fan Dance is ~15 miles / 24 km. The 64-figure belongs to the Long Drag (64 km / 40 miles), a separate event. Prior draft confused the two events and swapped km for miles.
+
+- ✅ **"Two daggers on the beret"** *(corrected)*: Body now reads "a single downward-pointing winged sword on a blue Crusader-shield background." There is one winged sword on the SAS badge, not two daggers.
+
+- ✅ **"vincere Quis audit"** *(corrected)*: Removed. The SAS motto is in English: "Who Dares Wins." No Latin motto exists on the badge. "vincere Quis audit" is not a real motto; "audit" is not "audet."
+
+- ✅ **Billy Graham — "two people"** *(corrected)*: Body now reads "2.2 billion." Prior "two people" was a dictation error.
+
+- ✅ **Romans 5:8 gloss — "yet sinners"** *(corrected)*: Body now reads "still sinners" — ESV wording.
+
 ### Misleading / Needs Clarification Before Preaching
 
 - ⚠️ **"Immunity in advance for any deaths during training"**: Overstatement. The MoD benefits from **Crown Immunity** under Section 48 of the Health and Safety at Work etc. Act 1974, which shields it from *criminal prosecution* under HSE law — it cannot be prosecuted the way a private employer can. This is *not* a specific pre-granted immunity for training deaths. The MoD still faces civil suits, coroner's inquests, and non-criminal Crown Censures. In the 2013 Brecon Beacons deaths (three soldiers died during SAS selection), the MoD received a Crown Censure but no criminal prosecution. Saying the SAS "has been granted immunity in advance" will mislead the congregation and is not accurate. Consider: "the Ministry of Defence cannot be criminally prosecuted for training deaths the way a private company could be sued — the men go in knowing the risk."
@@ -55,13 +61,13 @@
 
 *"It is a horrible thing for a man to be so doctrinal that he can speak coolly of the doom of the wicked, so that, if he does not actually praise God for it, it costs him no anguish of heart to think of the ruin of millions of our race. This is horrible! I hate to hear the terrors of the Lord proclaimed by men whose hard visages, harsh tones, and unfeeling spirit betray a sort of doctrinal desiccation: all the milk of human kindness is dried out of them."*
 
-— Charles Spurgeon, *The Soul Winner*, “Qualifications for Soul-Winning — Godward”
+Charles Spurgeon, *The Soul Winner*, chapter: "Qualifications for Soul-Winning — Godward"
 
-**[NOTE: Original dictated quote was unverifiable. Replaced with authenticated text from *The Soul Winner*. Prior version removed.]**
+*(Note: the prior draft's quote — "grind our hearts to powder…" — cannot be verified as authentic Spurgeon and has been replaced with the above confirmed passage from The Soul Winner. Corrected March 2026.)*
 
 I was reading an article the other day about the SAS and their training and so forth the other day. They are one of the most elite, if not the most elite special forces teams in the world. Some classes have a 0% pass rate. Some only 3-4%. In fact, our own delta force is based though kinder than the British SAS.
 
-They start out usually in the winter, in the mountains with an approximately 15-mile (24 km) hike up and down the mountains in the snow called the Fan Dance all while carrying 70lbs of gear and your rifle. Lose any item and fail. This is where most people fail out and some even die. There are so many deaths in fact during 22sas training that the organization as a whole has been granted immunity in advance for any deaths that happen during the course of training. Every year there are some that die, and every year someones parent or loved one tries to sue the SAS, and every year they lose the suit because of the immunity. The BBC says the course is at the extreme edge of the limits of human endurance.
+They start out usually in the winter, in the mountains with an approximately 15-mile march up and down the mountains in the snow called the Fan Dance — all while carrying over 60 pounds of gear and your rifle. Lose any item and fail. This is where most people fail out and some even die. *(Corrected March 2026 — prior draft said "64 miles." The Fan Dance is approximately 15 miles / 24 km. The "64" figure belongs to the Long Drag / Endurance March — the final selection event — which is 64 km / 40 miles, a separate event described below.)* There are so many deaths in fact during 22sas training that the organization as a whole has been granted immunity in advance for any deaths that happen during the course of training. Every year there are some that die, and every year someones parent or loved one tries to sue the SAS, and every year they lose the suit because of the immunity. The BBC says the course is at the extreme edge of the limits of human endurance.
 
 After the fan dance, they are given an inaccurately hand drawn map and forced to march on timed marches across difficult terrain. Each day they are required to carry more and more weight. These marches are the most grueling of the selection and training process. This part is called "endurance".
 
@@ -69,11 +75,11 @@ next is the "jungle phase" where soldiers are dropped off in the jungle with lot
 
 In the final phase where they had to hide out and avoid being detected Another had an improvised kitchen explode giving him 3rd degree burns all over the area from belly button to knees. His shoes were also ruined by the fire. He spent the remaining 5 weeks, in the rainforest, with nothing but his shirt for protection. He ended up contracting malaria, and fought through to become a part of the SAS.
 
-Once they get through all of these things, they are given a beret bearing the SAS cap badge — one downward-pointing winged sword on a blue shield — and a patch that says "Who Dares Wins".
+Once they get through all of these things, they are given a beret bearing the SAS cap badge — a single downward-pointing winged sword on a blue Crusader-shield background — and the motto: *"Who Dares Wins."* *(Corrected March 2026 — prior draft said "two daggers" and gave a Latin motto "vincere Quis audit." The badge has one winged sword, not two daggers. The SAS motto is in English, not Latin. "vincere Quis audit" is not a real motto and the Latin is garbled.)*
 
 Who dares wins. Said another way – the journey of a thousand miles begins with a single step.
 
-Who wouldn't like to wake up tomorrow and have Billy Grahams God given gift for evangelism. That man shared the gospel with something like 2.2 billion people over the course of his life. Whatever you think of his techniques, He has probably shared the gospel with more people than anyone else has ever done in the history of the world. What an honor to be used by God in this way. Who doesn't want to be used by God to their fullest potential.
+Who wouldn't like to wake up tomorrow and have Billy Grahams God given gift for evangelism. That man shared the gospel with something like 2.2 billion people over the course of his life. *(Corrected March 2026 — prior draft said "two people," a clear dictation error.)* Whatever you think of his techniques, He has probably shared the gospel with more people than anyone else has ever done in the history of the world. What an honor to be used by God in this way. Who doesn't want to be used by God to their fullest potential.
 We KNOW
 We KNOW its something we are to be a part of because it was one of Christ's final commands.
 
@@ -107,7 +113,7 @@ Eph 2:8- nothing we can do about this in our own strength.
 Romans 6:23a the payment we deserve for our sinful actions is death.
 ISA 53:6 All we like sheep have gone astray; we have turned—every one—to his own way; and the LORD has laid on him the iniquity of us all.
 6:23b The free gift of god is eternal life in Christ Jesus our lord
-romans 5:8 – while we were still sinners Christ died for us
+romans 5:8 – while we were still sinners Christ died for us *(ESV: "still," not "yet" — corrected March 2026)*
 1 peter 3:18 18 For Christ also suffered[a] once for sins, the righteous for the unrighteous, that he might bring us to God, (Christ) being put to death in the flesh but made alive in the spirit, We deserved death, but Christ died for us. We deserved punishment, but Jesus took our punishment for us. Jn 3:16 for God so loved the world
 Jn 3:16 for God so loved the world Romans 10:9
 Romans 10:9DO you have any questions? <- KEY

@@ -156,6 +156,8 @@ What he meant was a compliment. She received it as a criticism. When you consist
 
 The same thing applies to your relationship with God. If you're discontent with what He's allowing — if you're questioning His motives, His methods, His wisdom — then you have constructed a version of God who is working against you. And that version is not real.
 
+Philip Holmes wrote: *If we truly believed what the Bible says about how God sees us, it would transform the way we interpret all His actions as mercies. I know that in the midst of my battles with discontentment and besetting sins, it's hard to view what is happening in my life as anything but a condemnation and punishment.*
+
 Most of us know this from the inside. In the middle of hard seasons, it is difficult to see what is happening as anything but punishment. The mind slides there naturally. But that is a bad interpretation of a good God. Burroughs' prescription applies directly: make good interpretations of His dealings. The God who did not spare His own Son is not withholding good from you out of indifference or cruelty.
 
 After pride, discontentment may be the thing we struggle with most on this side of heaven.
