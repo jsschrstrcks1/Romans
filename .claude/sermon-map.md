@@ -174,7 +174,7 @@ A four-part series working through the scriptural foundations of the doctrines o
 | Passage | Title | File | Subject |
 |---|---|---|---|
 | Numbers 23:19; Psalm 31:5-6; Jude 9; John 3:16 | More Than Love | `Sermon - More Than Love.md` | BFM Article 2 (God); names of God; false religious conceptions (Islam, JW, Mormon); Trinity; God is more than love; gospel; Arain of Pakistan people group |
-| Acts 13:48; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8 | Out of the Cistern | `Sermon - Out of the Cistern.md` | BFM Article 5 (Grace/Election); sovereign election; man contributes only the sin that made salvation necessary; Brahmin of Nepal people group |
+| Acts 13:48; Acts 16:14; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8; 1 Corinthians 2:14-16; 2 Thessalonians 2:13; 2 Timothy 1:9; Philippians 1:6 | Out of the Cistern | `Sermon - Out of the Cistern.md` | BFM Article 5 (Grace/Election); sovereign election; monergistic regeneration; man contributes only the sin that made salvation necessary (Edwards); total depravity; God opens hearts (Lydia); golden chain of salvation (Rom 8:29-30); natural man cannot understand spiritual things (1 Cor 2:14-16); perseverance of the saints; J.C. Ryle "allowed sin"; Paul Washer "did he change your heart"; Philippians 1:6 assurance; BFM 2000 Article V quoted; cat-in-cistern illustration; Brahmin of Nepal people group |
 | Acts 2:1-9, 36-40 | Clowns Entertaining the Goats | `Sermon - Clowns Entertaining the Goats.md` | BFM Article on Holy Spirit; BFM series; tongues; Lakeland Revival critique; spiritual maturity; Lampung Pesisir people group |
 | Romans 14:1-12; Galatians 4:8-20 | The Lord's Day | `Sermon - The Lord's Day.md` | BFM Article 8; Lord's Day; Sabbath; legalism; antinomianism; grace as middle ground; John Owen; Sinclair Ferguson; Meo of Pakistan people group |
 | Matthew 13:44 | The Kingdom of God | `Sermon - The Kingdom of God.md` | BFM Article IX; Kingdom defined (Ps 103:19); omniscience/omnipresence/omnipotence; Tozer; already and not yet (Piper); Westminster Shorter Catechism chief end of man; evangelism and discipleship; Christ's cross over throne; Qassab of Pakistan people group |
@@ -513,7 +513,7 @@ A four-part series working through the scriptural foundations of the doctrines o
 |---|---|---|---|
 | Acts 2:1-9, 36-40 | Holy Spirit ministry and gifts | `Acts 2 Holy Spirit.md` | teaching |
 | Acts 13:1-3 | Commissioning of Paul and Barnabas; William Borden "no retreats, no reserves, no regrets"; missionary calling as blank check; Nero and Domitian persecution; stoning of Stephen recalled; danger of obedience | `Sermon - The Blank Check.md` | sermon |
-| Acts 13:48; Romans 8:29-30 | Doctrines of grace and sovereign election | `acts 13 - BFM Grace.md` | teaching |
+| Acts 13:48; Acts 16:14; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8; 1 Corinthians 2:14-16; 2 Thessalonians 2:13; 2 Timothy 1:9; Philippians 1:6 | Doctrines of grace and sovereign election; BFM Article V (Grace/Election) | `acts 13 - BFM Grace.md` | teaching |
 | Acts 18:24-end; 1 Cor 3:4-11 | Baptist history, distinctives, and identity | `being baptist.md` | teaching |
 
 ### Romans (Archive Versions)
@@ -915,7 +915,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans_6b_with_boulder.md` — Romans 6:15-23 — Whose slave are you?
 
 ### Election / Sovereignty / Predestination
-- `acts 13 - BFM Grace.md` — Acts 13:48; Rom 8:29-30 — Doctrines of grace
+- `acts 13 - BFM Grace.md` — Acts 13:48; Acts 16:14; Rom 8:29-30; Eph 1:4-5, 11; Eph 2:8; 1 Cor 2:14-16; 2 Thess 2:13; 2 Tim 1:9; Phil 1:6 — Doctrines of grace; sovereign election; BFM Article V; monergistic regeneration; total depravity; perseverance of the saints
 - `John 5.md` — John 6:29-60 — Irresistible grace; sovereign election
 - `sola gracia.md` / `sola gracia 2021.md` — John 6:43-65 — Grace alone
 - `sola gracia phil 3.md` — Philippians 3:1-12 — Grace alone; Paul's résumé as refuse; Luther; total depravity

@@ -1,13 +1,13 @@
 # Out of the Cistern
 ## Baptist Faith and Message: God's Purpose of Grace
 
-**Scripture**: Acts 13:48; Acts 16:14; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8; 2 Thessalonians 2:13; 2 Timothy 1:9
+**Scripture**: Acts 13:48; Acts 16:14; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8; 1 Corinthians 2:14-16; 2 Thessalonians 2:13; 2 Timothy 1:9
 
 ---
 
 ### People Group of the Week: Brahmin of Nepal
 
-The Brahmin are the upper crust of society. They are the educators, lawmakers, scholars, doctors, writers, poets, academics, land owners, engineers — the people at the top of the proverbial food chain. If you're a politician in Nepal, you're also Brahmin. Their status as Brahmin makes them proud, and they fear that they will lose all of their power, prestige, and social status by switching religions. While the lower castes have been open to Christ — because hey, we have nothing to lose, right? — the Brahmins have been more reluctant, seeing Christians as part of the lowest societal rungs. They need Christians that are well off, that are higher up on the food chain so to speak — the doctors and politicians and engineers, the poets and educators — to travel to Nepal, to reach these Brahmin with the gospel. Despite many years of ministry taking place in Nepal, there are no known believers amongst the Brahmin. Pray that God would reach some of the Brahmin and call them to be missionaries to other Brahmin.
+The Brahmin are the upper crust of society. They are the educators, lawmakers, scholars, doctors, writers, poets, academics, land owners, engineers — the people at the top of the proverbial food chain. If you're a politician in Nepal, you're also Brahmin. Their status as Brahmin makes them proud, and they fear that they will lose all of their power, prestige, and social status by switching religions. While the lower castes have been open to Christ — because hey, we have nothing to lose, right? — the Brahmins have been more reluctant, seeing Christians as part of the lowest societal rungs. They need Christians that are well off, that are higher up on the food chain so to speak — the doctors and politicians and engineers, the poets and educators — to travel to Nepal, to reach these Brahmin with the gospel. Despite many years of ministry taking place in Nepal, there are no known believers amongst any of the dozen or so Brahmin groups. Pray that God would reach some of the Brahmin and call them to be missionaries to other Brahmin.
 
 ---
 
@@ -51,7 +51,10 @@ Not only did he do all the hard parts in salvation, but he makes us sons and dau
 > For by grace you have been saved through faith. And this is not your own doing; it is the gift of God.
 > — Ephesians 2:8 (ESV)
 
-Even our faith is a gift from God. Can't be earned. No one is good enough. Not one.
+Even our faith is a gift from God. Can't be earned. No one is good enough. Not one. Further, we don't even have interest in the things of the Lord apart from a work of God:
+
+> The natural person does not accept the things of the Spirit of God, for they are folly to him, and he is not able to understand them because they are spiritually discerned. The spiritual person judges all things, but is himself to be judged by no one. "For who has understood the mind of the Lord so as to instruct him?" But we have the mind of Christ.
+> — 1 Corinthians 2:14-16 (ESV)
 
 > But we ought always to give thanks to God for you, brothers beloved by the Lord, because God chose you as the firstfruits to be saved, through sanctification by the Spirit and belief in the truth.
 > — 2 Thessalonians 2:13 (ESV)
@@ -61,7 +64,7 @@ Even our faith is a gift from God. Can't be earned. No one is good enough. Not o
 
 ---
 
-So knowing what the Bible says about the doctrines of grace — what is man's role in all of this? Do any of those passages say, "Well, as long as man works hard enough, as long as man is good enough, as long as man's belief is strong enough, then man can maybe get to heaven"? Certainly not. Very, very little depends upon us. And that's part of what's so amazing about it.
+So knowing what the Bible says about the doctrines of grace — what is man's role in all of this? Do any of those passages say, "Well, as long as man works hard enough, as long as man is good enough, as long as man's belief is strong enough, then man can maybe get to heaven"? Certainly not. Very, very little depends upon us. And that's part of what's so amazing about it. I could keep going because there are more than a hundred verses that say these same things. But I think we're good here.
 
 ### The Cat in the Cistern
 
@@ -83,7 +86,7 @@ Here is what the BFM says about Grace:
 
 > All true believers endure to the end. Those whom God has accepted in Christ, and sanctified by His Spirit, will never fall away from the state of grace, but shall persevere to the end. Believers may fall into sin through neglect and temptation, whereby they grieve the Spirit, impair their graces and comforts, and bring reproach on the cause of Christ and temporal judgments on themselves; yet they shall be kept by the power of God through faith unto salvation.
 
-So if someone says, "My free will is stronger than God's will" — what are you going to tell them? What if they say something a little more smooth — something like "God doesn't change people's minds," or that when it comes to free will "God is a gentleman"? God is a gentleman. But Scripture is full of people whose minds and hearts he changed. He removes the taint of sin so they can see him, and that is such a wonderful thing that once we can really and truly see, our hearts long for nothing so much as they long for Christ.
+So if someone says, "My free will is stronger than God's will" — what are you going to tell them? What if they say something a little more smooth — something like "God doesn't change people's minds," or that when it comes to free will "God is a gentleman"? God is a gentleman. But Scripture is full of people whose minds and hearts he changed. He removes enough of the taint of sin so they can see him, and that is such a wonderful thing that once we can really and truly see, our hearts long for nothing so much as they long for Christ.
 
 That doesn't mean we will never falter or fall. But it does mean we try to follow in the footsteps of our Savior.
 
