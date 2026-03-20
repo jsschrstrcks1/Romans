@@ -7,7 +7,7 @@
 
 ## Rejoice in the Lord (Philippians 3:1)
 
-The Greek root word is *chairo*, which means to be in a state of wellbeing because of what you hear.
+The Greek root word is *chairo* (χαίρω), which means to be in a state of happiness and well-being — to rejoice, to be glad. *(Corrected March 2026 — prior definition "because of what you hear" is not part of the lexical meaning; that was a contextual application, not the word itself. BDAG: "to be in a state of happiness and well-being, rejoice, be glad.")*
 
 - Rejoice in my persecution — Paul knew there was a chance he would die (1:21). Ultimately Paul would be killed in the wake of the fire, and at the order of Nero.
 - Rejoice in what you hear
@@ -40,7 +40,7 @@ Paul says Rejoice — rejoice in the gospel, rejoice in the Bible:
 
 ### He Is in Control
 
-- **Elijah** — sovereign over the altar, the water, and the fire. Sovereign over Baal and his followers. God was sovereign over the brook, the birds, the old woman and her oil.
+- **Elijah** — sovereign over the altar, the water, and the fire. Sovereign over Baal and his followers. God was sovereign over the brook, the birds, the widow and her oil. *(Corrected March 2026 — "the old woman" changed to "the widow." She is the widow of Zarephath, 1 Kings 17:8–16.)*
 - **Jonah** — God was sovereign over the wind, the waves, the ship, the fish, and the plant. God was sovereign over Jonah.
 - **Abraham and Isaac** — He was sovereign over the ram in the thicket.
 - **Peter walking on water** — God is sovereign over the weather, sovereign over Peter.
@@ -77,7 +77,7 @@ A dear friend of mine once exclaimed "How can God be fully sovereign over the ea
 - God uses our lives, our stories, our pain, struggles, grief, our cancer, our shingles, our messed up lungs, and failing knees to make an orchestra of redemption to reach the world around us.
 - God does not cause sin, but He is capable of turning evil into good in a person's life.
 - The suffering God asks us to go through is less than spending an eternity in hell.
-- Further consider the cost of your sin: your sin caused greater suffering for Christ than anything he will ask you or anyone else to do. He has led by example. He has suffered more for your sake than you will be asked to suffer for Him. Probably none of us will ever be asked to endure a beating with a cat of nine tails. While some of us may be called to die for our Lord, no one who believes in Jesus Christ as their Lord and Savior will have to endure separation from God as Christ did on the cross.
+- Further consider the cost of your sin: your sin caused greater suffering for Christ than anything he will ask you or anyone else to do. He has led by example. He has suffered more for your sake than you will be asked to suffer for Him. Probably none of us will ever be asked to endure a beating with a Roman scourge. *(Corrected March 2026 — "cat of nine tails" is an 18th-century British naval instrument. The Roman flagrum (or flagellum) was the instrument used on Jesus — a short whip with multiple leather thongs embedded with bone, metal, or stone. Replaced with "Roman scourge" for accuracy.)* While some of us may be called to die for our Lord, no one who believes in Jesus Christ as their Lord and Savior will have to endure separation from God as Christ did on the cross.
 
 ---
 
@@ -85,10 +85,10 @@ A dear friend of mine once exclaimed "How can God be fully sovereign over the ea
 
 Remember the story of Joshua and Caleb? Moses and the Israelites had been wandering for 40 years. About two years in, they reach the promised land and decide to send spies in. 12 spies sent out, and 10 returned afraid their God couldn't keep his promise. Only Joshua and Caleb believed God could do it. As a result God was angry and they spent the next 38 years wandering the desert till they had all died out.
 
-D. L. Moody writes:
+Thomas Watson writes: *(Corrected March 2026 — previously attributed to "D. L. Moody." Moody compiled this quote in his anthology One Thousand and One Thoughts from My Library (1898), p. 314, but the words belong to Thomas Watson, the English Puritan (c. 1620–1686). Watson is the author; Moody is the compiler.)*
 
 > It honors religion, it proclaims to the world we serve a good Master. Cheerfulness is a friend to grace: it puts the heart in tune to praise God. Uncheerful Christians, like the spies, bring an evil report of the good land; others suspect there is something unpleasant in religion, that they who profess it hang their harps upon the willows, and walk so dejectedly. Be serious, yet cheerful. Rejoice in the Lord always.
-> — D. L. Moody, *One Thousand and One Thoughts from My Library* (1898), p. 314
+> — Thomas Watson, compiled in D. L. Moody, *One Thousand and One Thoughts from My Library* (1898), p. 314
 
 ---
 
@@ -100,13 +100,15 @@ D. L. Moody writes:
 - Wear your faith on your sleeve.
 
 > The way to get rid of your cross is to die upon it; there is no other way. Jesus bore no cross in the resurrection.
-> — D. L. Moody, *One Thousand and One Thoughts from My Library* (1898), p. 311
+> — compiled in D. L. Moody, *One Thousand and One Thoughts from My Library* (1898), p. 311
+
+**[⚠️ Flag (March 2026): Original author unverified. Moody's book is a compilation of quotes from other authors, not Moody's own words. The original author of this particular entry could not be identified in any indexed source. Do not attribute to Moody from the pulpit — say "I read this quote" or "Someone once said" until the original author can be confirmed.]**
 
 - Deny your own wants in favor of what God wants.
 - Easy to say for yourself, but what about what you want for your friends and loved ones?
 - Give up your own dreams, desires, and fears to fulfill what God wants of you.
 - Live in submission to the will of God.
-- Have the positivity of Monty Python's Green Knight.
+- Have the positivity of Monty Python's Black Knight. *(Corrected March 2026 — "Green Knight" is a character from Arthurian legend (Sir Gawain). The Monty Python character who loses his limbs and insists "It's just a flesh wound" is the Black Knight, from Monty Python and the Holy Grail (1975).)*
 - Whatever may come — press on towards the goal.
 
 > Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God. Consider him who endured from sinners such hostility against himself, so that you may not grow weary or fainthearted.
