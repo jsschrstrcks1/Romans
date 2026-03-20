@@ -64,7 +64,7 @@ This is where the debate comes in. Some people tie that word to another passage 
 
 First, let's look at the word directly before it. *Other.* "Other" is an interesting word. In English it's pretty broad — Mr. Webster says "other" refers to a thing that is different or distinct from something already mentioned or known, or that it means additional. My grandmother used to love additional things. You'd go over and visit, and spend a couple hours, and as you were leaving she would say, "Oh, one more thing!" She had something *other* to talk to us about.
 
-If you look at the Greek word, you see something similar. Except *heteros* (ἕτερος) is in numerous places translated as "neighbor," as "stranger," as "man," as "the latest in a series" according to Strong's number 2087. If Luke had wanted to say the apostles were speaking an angelic prayer language, he had lots of words he could have used to do so. This word for "others" is a clue that Luke is speaking about earthly languages.
+If you look at the Greek word, you see something similar. Except *heteros* (ἕτερος) is in numerous places translated as "neighbor," as "stranger," as "another of the same kind" according to Strong's number 2087. If Luke had wanted to say the apostles were speaking an angelic prayer language, he had lots of words he could have used to do so. This word for "others" is a clue that Luke is speaking about earthly languages.
 
 Let's see what else we can find. The next thing worth noting is that Luke is speaking in plain language. He's not telling a parable. He's relaying a historical account. He's not telling a story to emphasize a point — he's being very literal. When the Bible is speaking literally, we should take it literally.
 
