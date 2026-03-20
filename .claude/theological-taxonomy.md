@@ -54,8 +54,8 @@
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
 | Full Deity (Homoousios) | Very Strong | `col 1.md`, `Christology.md`, `Catching Counterfeits.md` | Nicene, Chalcedonian |
-| Full Humanity | Strong | `Christology.md`, `Hebrews 4.md` | Chalcedonian |
-| Hypostatic Union | Strong | `col 1.md`, `Christology.md` | Chalcedonian |
+| Full Humanity | Strong | `Christology.md`, `Hebrews 4.md`, `Romans 1a - The Power of God for Salvation.md` | Chalcedonian |
+| Hypostatic Union | Strong | `col 1.md`, `Christology.md`, `Romans 1a - The Power of God for Salvation.md` | Chalcedonian |
 | Pre-existence / Eternality | Strong | `col 1.md`, `John 1.md` | Nicene |
 | Sinlessness | Strong | `Hebrews 4.md`, `Romans 5.md` | Orthodox |
 | Lordship / Cosmic Authority | Very Strong | `col 1.md`, `phil 2.md`, `Romans 14.md` | Reformed |
@@ -66,7 +66,7 @@
 | Penal Substitutionary Atonement | Very Strong | `Romans 3.md`, `Romans 5.md`, `Genesis 22-23*.md` | Reformed (PSA) |
 | Definite / Particular Atonement | Strong | `Romans 5.md`, `Journey in Grace bible study*.md` | Five-Point Calvinist |
 | Propitiation (Hilasterion) | Very Strong | `Romans 3.md` | Reformed |
-| Imputed Righteousness | Very Strong | `Romans 4*.md`, `Romans 5.md` | Reformed (Luther, Calvin) |
+| Imputed Righteousness | Very Strong | `Romans 1a - The Power of God for Salvation.md`, `Romans 4*.md`, `Romans 5.md` | Reformed (Luther, Calvin) |
 | Active and Passive Obedience | Strong | `Romans 5.md`, `Ordo Solutis Romans 8.md` | Reformed |
 | Resurrection — Bodily, Historical | Very Strong | `1 Cor 15.md`, `Romans 6.md` | Orthodox Christian |
 | Ascension and Session | Moderate | `phil 2.md`, `Hebrews 4.md` | Nicene |
@@ -147,8 +147,8 @@
 |---|---|---|---|
 | Predestination → Election → Calling | Very Strong | `Ezekiel 36.md`, `Ordo Solutis Romans 8.md` | Calvinist |
 | Regeneration Precedes Faith | Very Strong | `Ezekiel 36.md`, `Bible Study - The Thief*.md` | Reformed |
-| Effectual Calling | Very Strong | `Romans 10.md`, `Romans 8.md` | Reformed |
-| Justification by Faith Alone | Very Strong | `Romans 3.md`, `Romans 4*.md`, `Romans 5.md` | Reformation (Sola Fide) |
+| Effectual Calling | Very Strong | `Romans 10.md`, `Romans 8.md`, `Romans 1a - The Power of God for Salvation.md` | Reformed |
+| Justification by Faith Alone | Very Strong | `Romans 1a - The Power of God for Salvation.md`, `Romans 3.md`, `Romans 4*.md`, `Romans 5.md` | Reformation (Sola Fide) |
 | Adoption as Sons | Strong | `Galatians 3*.md`, `Romans 8.md`, `romans 9 pt 1.md` | Reformed |
 | Sanctification (Progressive) | Strong | `Romans 6.md`, `Romans 8.md`, `Romans 12.md` | Reformed |
 | Glorification | Strong | `Romans 8.md`, `Ordo Solutis Romans 8.md` | Reformed |
@@ -158,7 +158,7 @@
 |---|---|---|---|
 | Monergism (God Alone Saves) | Very Strong | `romans 9 pt 1.md` | Calvinist |
 | Sola Gratia | Very Strong | `Romans 4*.md`, `Romans 11*.md` | Reformation |
-| Sola Fide | Very Strong | `Romans 3.md`, `Romans 4*.md` | Reformation |
+| Sola Fide | Very Strong | `Romans 1a - The Power of God for Salvation.md`, `Romans 3.md`, `Romans 4*.md` | Reformation |
 | Solus Christus | Very Strong | `Romans 5.md`, `col 1.md` | Reformation |
 | Repentance — God-Granted | Strong | `Romans 2.md`, `Ezekiel 36.md` | Reformed |
 
@@ -240,7 +240,7 @@
 
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Great Commission — Every Believer | Very Strong | `evangelism (romans 15, mt 28, and rev 7).md`, `Sermon - Won't You Go.md` | Baptist, Missional |
+| Great Commission — Every Believer | Very Strong | `Romans 1a - The Power of God for Salvation.md`, `evangelism (romans 15, mt 28, and rev 7).md`, `Sermon - Won't You Go.md` | Baptist, Missional |
 | Missions vs. Humanitarianism | Strong | `Sermon - Won't You Go.md` | Conservative Evangelical |
 | Evangelism Through Relationships | Strong | `Romans 10.md`, `evangelism*.md` | Baptist |
 | Romans Road (Evangelistic Method) | Moderate | `Romans 3.md`, `Romans 6.md`, `Romans 10.md` | Baptist |
