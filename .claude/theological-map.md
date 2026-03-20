@@ -572,10 +572,16 @@ Real assurance grounded in Christ's work. But false assurance is a pastoral dang
 > "We deserve Hell, but we were given an inheritance. We deserve a punishment, but instead we are equipped. We deserve fire for eternity, but instead we are made sons and daughters."
 > — `Heb 12.md`
 
+> "Our redemption through Christ isn't just penal substitutionary atonement — that means he didn't just get us out of trouble because of our rebellion against the law. He didn't just take our place and pay our punishment with his blood. He also adopted us as his sons and daughters."
+> — `Sermon - Every Little Girl Needs a Daddy.md`
+
+> "God's Son was the price that was paid for your adoption."
+> — `Sermon - Every Little Girl Needs a Daddy.md`
+
 > "In a very real sense when we receive this gift, we become sons and daughters of God. We become heirs to the kingdom."
 > — `Galatians 3 - Law Faith and Adoption.md`
 
-Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. The Galatians 3 sermon develops the *huios* (υἱός) word study — Paul's deliberate choice over *teknon* to emphasize legal heir status and full inheritance rights. The foster-care-to-adoption illustration (chicken coop → family) mirrors God's adoption of sinners. John 1:12 cited: "he gave the right to become children of God." **Explicit. Tradition: Reformed Baptist.**
+Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. Adoption is distinct from and complementary to penal substitutionary atonement: Christ's work both satisfies wrath *and* brings us into the family. Cost is central — God paid with his Son. The Galatians 3 sermon develops the *huios* (υἱός) word study — Paul's deliberate choice over *teknon* to emphasize legal heir status and full inheritance rights. The foster-care-to-adoption illustration (chicken coop → family) mirrors God's adoption of sinners. John 1:12 cited: "he gave the right to become children of God." **Explicit. Tradition: Reformed Baptist.**
 
 #### Election and Reprobation — Infralapsarian
 > "God did not inject unbelief into Esau's heart. Esau, like all of us, was already a sinner by nature and choice. Reprobation is not God actively working sin into a man's life; it is God leaving a sinner to himself."
