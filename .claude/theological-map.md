@@ -1072,6 +1072,8 @@ CT Studd used as the paradigm case: elite cricketer, Cambridge graduate, gave aw
 | **Islam** | "Can Muhammad be the mediator between God and man? No." | `galatians 1.md` | Explicitly rejected |
 | **Christian Science** | Standalone sermon refuting the movement | `Christian science...md` | Explicitly rejected |
 | **Wicca / Occultism** | Standalone sermon: "1 Sam 28 wicca and the occult" | `1 sam 28 wicca and the occult..md` | Explicitly rejected |
+| **Dualism** | "Dualism says everything in existence and the world is a galactic fight between angels and demons. Dualism fails because it fails to factor in God. God is sovereign. God is in control. God has already won the battle." Dualism removes personal responsibility for sin and sees man as collateral damage in a battle of titans. | `Sermon - Angels Demons Etcetera.md` | Explicitly rejected |
+| **Demon-binding spiritism / Pseudepigraphal formulas** | TV preacher "said a few made-up words and claimed that the demon of debt was bound." Practice traced to Testament of Solomon and Book of Tobit — non-canonical literature, not Scripture. "That idea — that you can drive away demonic influence through specific ritual acts using specific substances — that's the root of a whole tradition of demon-binding and spiritual formulas." | `Sermon - Angels Demons Etcetera.md` | Explicitly rejected |
 | **Pantheism** | "There is a god in the microphone, a god in the podium, a god in the pews." (Dismissed as nonsense) | `evangelism.md` | Explicitly rejected |
 
 ### Soteriological Errors
