@@ -523,7 +523,13 @@ Real assurance grounded in Christ's work. But false assurance is a pastoral dang
 > "We deserve Hell, but we were given an inheritance. We deserve a punishment, but instead we are equipped. We deserve fire for eternity, but instead we are made sons and daughters."
 > — `Heb 12.md`
 
-Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. **Explicit. Tradition: Reformed Baptist.**
+> "Our redemption through Christ isn't just penal substitutionary atonement — that means he didn't just get us out of trouble because of our rebellion against the law. He didn't just take our place and pay our punishment with his blood. He also adopted us as his sons and daughters."
+> — `Sermon - Every Little Girl Needs a Daddy.md`
+
+> "God's Son was the price that was paid for your adoption."
+> — `Sermon - Every Little Girl Needs a Daddy.md`
+
+Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. Adoption is distinct from and complementary to penal substitutionary atonement: Christ's work both satisfies wrath *and* brings us into the family. Cost is central — God paid with his Son. **Explicit. Tradition: Reformed Baptist.**
 
 #### Election and Reprobation — Infralapsarian
 > "God did not inject unbelief into Esau's heart. Esau, like all of us, was already a sinner by nature and choice. Reprobation is not God actively working sin into a man's life; it is God leaving a sinner to himself."
