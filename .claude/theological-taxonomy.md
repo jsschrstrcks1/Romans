@@ -33,7 +33,7 @@
 | Omniscience | Strong | `Eternal Security.md`, `Romans 1 (2024).md` | Classical Theism |
 | Omnipotence | Strong | `Gen 21 - My God Is So Great.md` | Classical Theism |
 | Immutability / Truthfulness | Strong | `Theology Proper.md` | Classical Theism |
-| Wrath as Holy Revulsion | Very Strong | `Romans 3 - wrath of God (final).md`, `Romans 5.md` | Reformed (Pink, Sproul) |
+| Wrath as Holy Revulsion | Very Strong | `Romans 1b - Without Excuse.md`, `Romans 3 - wrath of God (final).md`, `Romans 5.md` | Reformed (Pink, Sproul) |
 | Love — Holy, Costly, Substitutionary | Very Strong | `Romans 5.md`, `Romans 8.md` | Reformed Baptist |
 | Patience / Longsuffering | Moderate | `Romans 2.md` | Classical Theism |
 | Jealousy (Holy) | Light | `Theology Proper.md` | Reformed |
@@ -103,13 +103,13 @@
 |---|---|---|---|
 | Imago Dei | Strong | `Theology Proper.md`, `Genesis sermons` | Classical Theism |
 | Male and Female (Binary, Complementary) | Strong | `Sola Scriptura 24.md`, `BFM Article 18*.md` | Complementarian Baptist |
-| Conscience as Real Courtroom | Strong | `Romans 1.md`, `Romans 2.md` | Puritan/Reformed |
+| Conscience as Real Courtroom | Strong | `Romans 1b - Without Excuse.md`, `Romans 2.md` | Puritan/Reformed |
 
 ### 4.2 Marriage and Family
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
 | Marriage — One Man, One Woman | Very Strong | `BFM Article 18*.md`, `Wedding sermons` | BFM 2000, Baptist |
-| Homosexuality — Sin, Not Identity | Strong | `Romans 1.md`, `BFM Article 18*.md` | Conservative Evangelical |
+| Homosexuality — Sin, Not Identity | Strong | `Romans 1b - Without Excuse.md`, `BFM Article 18*.md` | Conservative Evangelical |
 | Husbands Love / Wives Respect | Moderate | `Ephesians 5.md`, wedding sermons | Complementarian |
 | Parenting / Fatherhood | Moderate | `Deuteronomy 6.md`, `Deuteronomy 8*.md` | Baptist |
 
@@ -119,12 +119,12 @@
 
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Total Depravity (Universal) | Very Strong | `Romans 1.md`, `Romans 3.md`, `Ezekiel 36.md`, dozens more | Five-Point Calvinist |
+| Total Depravity (Universal) | Very Strong | `Romans 1b - Without Excuse.md`, `Romans 3.md`, `Ezekiel 36.md`, dozens more | Five-Point Calvinist |
 | Original Sin / Federal Headship (Adam) | Very Strong | `Romans 5.md` | Reformed (Augustinian) |
-| Active Rebellion, Not Passive Ignorance | Very Strong | `Romans 1.md` | Reformed |
-| Suppression of Known Truth (Rom 1:18) | Very Strong | `Romans 1.md`, `Romans 2.md` | Reformed |
+| Active Rebellion, Not Passive Ignorance | Very Strong | `Romans 1b - Without Excuse.md` | Reformed |
+| Suppression of Known Truth (Rom 1:18) | Very Strong | `Romans 1b - Without Excuse.md`, `Romans 2.md` | Reformed |
 | Law as Guardian — Exposes, Cannot Save | Strong | `Galatians 3*.md`, `Romans 7.md` | Reformed, Pauline |
-| Idolatry as Wrong Master | Strong | `Psalm 42*.md`, `Romans 1.md` | Reformed Baptist |
+| Idolatry as Wrong Master | Strong | `Psalm 42*.md`, `Romans 1b - Without Excuse.md` | Reformed Baptist |
 | Spiritual Callousing (Incremental) | Strong | `Psalm 42*.md` | Reformed, Puritan |
 | Sin as Slavery (Rom 6) | Very Strong | `Romans 6.md`, `Romans_6b r2.md` | Pauline |
 | Wages of Sin = Death | Very Strong | `Romans 6.md` | Orthodox Christian |
@@ -244,7 +244,7 @@
 | Missions vs. Humanitarianism | Strong | `Sermon - Won't You Go.md` | Conservative Evangelical |
 | Evangelism Through Relationships | Strong | `Romans 10.md`, `evangelism*.md` | Baptist |
 | Romans Road (Evangelistic Method) | Moderate | `Romans 3.md`, `Romans 6.md`, `Romans 10.md` | Baptist |
-| Unreached Peoples / Urgency | Strong | `Sermon - Won't You Go.md`, `evangelism*.md` | SBC Missions |
+| Unreached Peoples / Urgency | Strong | `Romans 1b - Without Excuse.md`, `Sermon - Won't You Go.md`, `evangelism*.md` | SBC Missions |
 
 ---
 
