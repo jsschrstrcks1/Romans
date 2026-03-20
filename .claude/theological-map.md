@@ -52,6 +52,14 @@ Not petty rage. Not mere disappointment. Holy revulsion. **Explicit. Tradition: 
 
 Sovereignty extends over creation, history, politics, individual lives, and salvation. **Explicit. Tradition: Calvinistic Reformed Baptist.**
 
+> "If the strongest man on earth can have his will bent like the flame of a candle responds to breath, then what earthly power or authority can stand before God?"
+> — `Sermon - When God Is For Us.md`
+
+> "When we talk about God being for us, that is the God who is for us. That is the one on our side — the one against whom none can stand."
+> — `Sermon - When God Is For Us.md`
+
+Ezra 4-6 narrative: God made Israel’s captors pay to rebuild the temple, the city, and her walls. Nebuchadnezzar’s humbling (Daniel 4) demonstrates that no earthly authority — however absolute — can resist God’s will. Applied pastorally: "You and God are the majority." If blessings keep you from obedience to the Lord, they are not from God. The Japanese soldier (Hiroo Onoda) illustration: the enemy fights on not knowing the war is already won. **Explicit. Tradition: Reformed Baptist, pastoral.**
+
 #### God's Answer to "Why" Is His Name, Not an Explanation
 > "When you're asking why, God introduces himself."
 > — Steven Davey (paraphrase), cited in `Other-Sermons/Sermons/ex 6-7.md`
@@ -455,6 +463,15 @@ See Hamartiology section above.
 
 Infralapsarian: election follows the decree of the Fall. **Explicit. Tradition: Five-Point Calvinist, 1689 Baptist Confession.**
 
+> "Can the strength of your will overcome the will of God? If you think so, then you fall onto one side of the debate. If you think not, then you are more in line with Scripture."
+> — `Sermon - Out of the Cistern.md`
+
+> "God has to do a work in our hearts in order for us to even have any interest in the things of God."
+> — `Sermon - Out of the Cistern.md`
+
+BFM treatment of God's Purpose of Grace. Election defended through Acts 13:48 ("as many as were appointed to eternal life believed"), Lydia's heart-opening (Acts 16:14), Romans 8:29-30 (golden chain), Ephesians 1:4-5 (chosen before the foundation of the world), Ephesians 2:8 (faith as gift), 2 Thessalonians 2:13, 2 Timothy 1:9. The cistern illustration grounds the sermon's title: apart from God's intervention, we remain trapped. **Explicit. Tradition: Five-Point Calvinist, BFM 2000.**
+
+
 ##### Definite Atonement
 See Christology section above.
 
@@ -504,10 +521,10 @@ Named by term. Synergism named and rejected. **Explicit. Tradition: Reformed/Cal
 
 #### Justification — Forensic, by Imputation
 > "God Himself pays the debt fully through Jesus Christ and credits (logizomai) His perfect righteousness to your account."
-> — `Romans 4 - In Christ Alone.md`
+> — `Romans 4 - In Christ Alone- Where Justice Meets Grace.md`
 
 > "He does not simply erase the entries; He fills the pages with His perfect righteousness, as though you had lived His flawless life."
-> — `Romans 4 - In Christ Alone.md`
+> — `Romans 4 - In Christ Alone- Where Justice Meets Grace.md`
 
 > "Those whom God effectually calls, He freely justifies, not by infusing righteousness into them, but by pardoning their sins and by accounting and accepting their persons as righteous." (1689 LBCF 11.1)
 > — `Romans 5.md`
@@ -555,7 +572,7 @@ The resolution: Paul and James address different questions. Paul addresses the *
 > — `Romans_6b r2.md`
 
 > "Sanctification flows from justification, not to it." (Stephen Davey)
-> — `Romans 4 - In Christ Alone.md`
+> — `Romans 4 - In Christ Alone- Where Justice Meets Grace.md`
 
 Sanctification flows *from* justification, not *toward* it. Holiness is not optional. **Explicit. Tradition: Reformed Baptist, Lordship Salvation.**
 
@@ -640,7 +657,7 @@ Grounded in 1 Corinthians 3:11 (ESV): "For no one can lay a foundation other tha
 
 #### Creeds and Confessions as Guardrails (Not Replacements)
 > "The Reformers didn't reject church history. They engaged it. They stood on the shoulders of Augustine and the church fathers even as they corrected Rome's errors. They gave us confessions — not to replace Scripture, but to summarize and protect what Scripture teaches."
-> — `Romans 14c.md`
+> — `Romans 14c - The Judgment Seat That Ends All Judging.md`
 
 **Explicit. Tradition: Confessional Protestant.**
 
@@ -1000,15 +1017,15 @@ The entire Romans 13b sermon ("The Debt You Can Never Repay") is built on this t
 
 #### Liberty of Conscience in Disputable Matters
 > "The standard isn't whether you were right about the secondary issue. The standard is whether you loved your brother while you disagreed with him."
-> — `Romans 14c.md`
+> — `Romans 14c - The Judgment Seat That Ends All Judging.md`
 
 > "Romans 14 is not about tolerance. Tolerance is cold. Tolerance keeps its distance."
-> — `Romans 15a.md`
+> — `Romans 15a - The Welcome We've Been Given.md`
 
 Extensive treatment across four Romans 14 sermons. Both the judgmental "weak" and the dismissive "strong" are corrected. **Explicit. Tradition: Reformed Baptist.**
 
 #### Lord's Day as Disputable Matter
-The `Lords day romans 14 gal 4.md` file treats Sabbath/Lord's Day observance as a matter of conscience rather than a binding New Covenant command, consistent with Galatians 4 and Colossians 2:16-17. **Explicit. Tradition: New Covenant theology (Baptist, contra strict Sabbatarianism).**
+The `The Lords day romans 14 gal 4.md` file treats Sabbath/Lord's Day observance as a matter of conscience rather than a binding New Covenant command, consistent with Galatians 4 and Colossians 2:16-17. **Explicit. Tradition: New Covenant theology (Baptist, contra strict Sabbatarianism).**
 
 #### Suffering as Refining, Not Punishment
 > "God uses our lives, our stories, our pain, struggles, grief, our cancer, our shingles, our messed up lungs, and failing knees to make an orchestra of redemption to reach the world around us."
@@ -1077,6 +1094,16 @@ Irreverent babble (κενοφωνία — "empty sound") and quarreling about wo
 
 Safety is not revenge. Refusing to return evil for evil does not mean offering your body as a doormat for someone else's sin. **Explicit. Tradition: Pastoral.**
 
+#### Worry as Lack of Faith — Trust in God's Sovereignty Over Anxiety
+
+> "Worry is lack of faith in God." (Stephen Davey, quoted approvingly)
+> — `Sermon - Worry Is Lack of Faith.md`
+
+> "The moment we make a case for the necessity of worry, we're really arguing that there are situations where it's reasonable to stop trusting God."
+> — `Sermon - Worry Is Lack of Faith.md`
+
+Philippians 4:4-7 and Matthew 6:25-34 treated as commands, not suggestions. Worry defined as an internal disposition (lack of faith) distinguished from anxiety (the body's physical expression). The pastoral application: act, prepare, do what you can — but past the wall of human capacity, give it to God. Worry past that wall says to God: "I don't trust you. Not with this." Applied to COVID, health, finances, politics, and family. **Explicit. Tradition: Reformed Baptist, pastoral.**
+
 #### Prayer — God-Centered, Self-Surrendering, Daily
 
 > "Prayer is not trying to get God to agree with me. Prayer is not trying to line God up with what I need. Prayer is myself affirming the sovereignty and majesty of God, and taking my will and making it submissive to His."
@@ -1098,6 +1125,16 @@ The Lord's Prayer treated as school not script — *houtōs oun* ("along these l
 ---
 
 ### 10. Missiology
+
+#### The Great Commission — Five-Fold Repetition and Universal Obligation
+
+> "Maybe you are the only Bible your lost friend has ever read."
+> — `Sermon - Won't You Go.md`
+
+> "Being active in sharing the gospel is practically a requirement for seminary admission... I admired those young men's honesty."
+> — `Sermon - Won't You Go.md`
+
+BFM Article XI (Evangelism and Missions) treatment. The Great Commission identified in all five Gospel/Acts occurrences (Matt 28:18-20, Mark 16:15-18, Luke 24:45-49, John 20:21-23, Acts 1:8). Missions distinguished from humanitarian work — feeding the hungry is good but is not missions without the gospel. Francis Schaeffer's 55-minute illustration: spend the first 55 minutes on man's bondage to sin before the gospel itself. People Group of the Week: the Tarkahn of Pakistan (3 million, no known believers). **Explicit. Tradition: Baptist, IMB/SBC missions emphasis.**
 
 #### Great Commission as Every Believer's Mandate
 > "If you aren't sharing the gospel, you are missing out on a major part of worship."
@@ -1153,29 +1190,29 @@ CT Studd used as the paradigm case: elite cricketer, Cambridge graduate, gave aw
 | **Mormonism** | "Mormons draw people away from God. They make something shiny that looks kinda like God if you are blind." | `1 john 4 - counterfeit.md` | Explicitly rejected |
 | **Jehovah's Witnesses** | "Can the governing body of the Jehovah witness be the mediator between God and man? Certainly not." | `galatians 1.md` | Explicitly rejected |
 | **Islam** | "Can Muhammad be the mediator between God and man? No." | `galatians 1.md` | Explicitly rejected |
-| **Christian Science** | Standalone sermon refuting the movement | `Christian science...md` | Explicitly rejected |
+| **Christian Science** | Standalone sermon refuting the movement | `Christian science is the next group we are going to look at.md` | Explicitly rejected |
 | **Wicca / Occultism** | Standalone sermon: "1 Sam 28 wicca and the occult" | `1 sam 28 wicca and the occult..md` | Explicitly rejected |
-| **Pantheism** | "There is a god in the microphone, a god in the podium, a god in the pews." (Dismissed as nonsense) | `evangelism.md` | Explicitly rejected |
+| **Pantheism** | "There is a god in the microphone, a god in the podium, a god in the pews." (Dismissed as nonsense) | `evangelism (romans 15, mt 28, and rev 7).md` | Explicitly rejected |
 
 ### Soteriological Errors
 
 | Error | Key Quote | Source | Status |
 |-------|-----------|--------|--------|
 | **Pelagianism** | "Pelagius was a heretic. His beliefs were heterodox... man can be good enough on their own to merit salvation." | `Sola Deo Gloria mt 13.md` | Explicitly rejected by name |
-| **Semi-Pelagianism / Arminianism** | "Grace is not God helping good people finish the climb; grace is God raising the dead." | `Romans 11.md` | Implicitly rejected by consistent monergism |
-| **Works-based salvation** | "If you add one gram of works to grace, you no longer have grace." | `Romans 11.md` | Explicitly rejected |
+| **Semi-Pelagianism / Arminianism** | "Grace is not God helping good people finish the climb; grace is God raising the dead." | `Romans 11 - The Remnant of Grace.md` | Implicitly rejected by consistent monergism |
+| **Works-based salvation** | "If you add one gram of works to grace, you no longer have grace." | `Romans 11 - The Remnant of Grace.md` | Explicitly rejected |
 | **Baptismal regeneration** | "We are Baptists, we hold baptism in high regard. But we believe it is the first step of a believer after salvation. It is then a work." | `galatians 1.md` | Explicitly rejected |
-| **Decisional regeneration / Easy believism** | "Proximity to truth is not possession of Christ." | `Romans 11.md` | Implicitly rejected |
-| **False assurance** | "Many go to church their whole lives and never move from head knowledge to heart surrender — missing heaven by eighteen inches." | `Romans 11.md` | Explicitly rejected |
+| **Decisional regeneration / Easy believism** | "Proximity to truth is not possession of Christ." | `Romans 11 - The Remnant of Grace.md` | Implicitly rejected |
+| **False assurance** | "Many go to church their whole lives and never move from head knowledge to heart surrender — missing heaven by eighteen inches." | `Romans 11 - The Remnant of Grace.md` | Explicitly rejected |
 
 ### Ecclesiological Errors
 
 | Error | Key Quote | Source | Status |
 |-------|-----------|--------|--------|
 | **Landmarkism / Baptist Successionism** | "Landmarkism says we trace our history as Baptists back to John the Baptist... They started with the idea that Baptists maybe had never strayed. So with that idea in mind, they tried to warp history to reflect this." J. R. Graves and J. M. Carroll's *Trail of Blood* identified as source. Donatists shown to be Catholic rigorists, not proto-Baptists. 1 Cor 3:11: Christ — not John the Baptist — is the sole foundation. | `Acts 18 1 Cor 3 - Being Baptist.md` | Explicitly rejected |
-| **"No creed but Christ"** | "'No creed but Christ' sounds humble. But it often means: 'No accountability but myself.'" | `Romans 14c.md` | Explicitly rejected |
+| **"No creed but Christ"** | "'No creed but Christ' sounds humble. But it often means: 'No accountability but myself.'" | `Romans 14c - The Judgment Seat That Ends All Judging.md` | Explicitly rejected |
 | **Megachurch pragmatism** | "I don't care how big we are, I care that we tell people about Jesus." | `Romans 14.md` | Implicitly rejected |
-| **Political pulpits** | "I don't like talking about politics, except in this way, are your politics subject to our King?" | `romans 12 - weep.md` | Explicitly rejected |
+| **Political pulpits** | "I don't like talking about politics, except in this way, are your politics subject to our King?" | `romans 12 - weep with those who weep.md` | Explicitly rejected |
 | **Roman Catholic mediation** | "They wanted to be the mediators between God and man, but what does scripture say?" | `galatians 1.md` | Explicitly rejected |
 | **Roman Catholic soteriology (works + sacraments)** | "Anyone that says 'by grace through faith alone' (Paul!) ought to be excommunicated from the Catholic church. By their own statement then the authors of the New Testament ought to be excommunicated." Council of Trent Canon 9 quoted and rebutted with nine passages. | `Catholicism.md` | Explicitly rejected |
 | **Eastern Orthodoxy** | "They add in other things at points, things like tradition on top of scripture." | `Sola Deo Gloria mt 13.md` | Implicitly rejected |
@@ -1185,16 +1222,16 @@ CT Studd used as the paradigm case: elite cricketer, Cambridge graduate, gave aw
 
 | Error | Key Quote | Source | Status |
 |-------|-----------|--------|--------|
-| **Prosperity gospel** | "Telling everyone God is a cosmic vending machine, put your quarters in and out pops the sugary sweet treat of your choice. But is that who God is?" | `mark 10.md` | Explicitly rejected |
+| **Prosperity gospel** | "Telling everyone God is a cosmic vending machine, put your quarters in and out pops the sugary sweet treat of your choice. But is that who God is?" | `mark 10 - sun june 2nd.md` | Explicitly rejected |
 | **Therapeutic moralism** | "Application aimed at mortification, not mood." | `claude.md` | Explicitly rejected |
 | **Christian nationalism** | "The state is not your savior. The church is not the state." | `claude.md` | Explicitly rejected |
 | **Fear-driven quietism** | Protected from by the 1689 framework | `claude.md` | Explicitly rejected |
-| **Kinism / Racism** | "Kinism is not a secondary issue. It is not a matter of conscience. It is an abomination." | `Romans 14c.md` | Explicitly rejected in strongest terms |
+| **Kinism / Racism** | "Kinism is not a secondary issue. It is not a matter of conscience. It is an abomination." | `Romans 14c - The Judgment Seat That Ends All Judging.md` | Explicitly rejected in strongest terms |
 | **Critical Race Theory / Intersectionality** | "If you are comfortable, they seem to argue, you are comfortable because you took advantage of people to get to that point... This is nonsense." Experience-as-arbiter-of-truth rejected: "Under this worldview, experience is the arbiter of truth — especially the experience of those who have been the victims of white privilege... this is similar to the error many Catholics make when they elevate the words of the Pope or tradition above Scripture." | `Sermon - Cultural Marxism.md` | Explicitly rejected; CRT epistemology placed in the same category as papal/tradition supremacy over Scripture |
 | **Cultural Marxism (identity-based suppression)** | "Suppressing anyone or anything simply because it was thought of, painted by, or written by a person of a different group than you is racism. Full stop." Applies equally to the left and to the alt-right. | `Sermon - Cultural Marxism.md` | Explicitly rejected; race-based suppression named as racism regardless of political direction |
 | **Sentimental Christianity** | "Biblical love is not morally neutral. It does not bless what destroys people." | `romans 12 pt 3.md` | Explicitly rejected |
 | **Sexual immorality as broken compass** | "This is the root cause of all sexual immorality. Whether it's adultery, pornography, fornication by those not married, or same-sex attraction — the root is sin tainting the longings of our heart, and the fruit is immorality." All sexual immorality — adultery, pornography, fornication, homosexuality — traced to the same root: a heart whose compass points to self rather than God (Jer 17:9; Gen 6:5; Eph 4:18). The culture's "follow your heart" ethic is named as the primrose path to hell. BFM Article XV applied directly. | `Sermon - Christians and the Social Order.md` | Explicitly rejected; all forms named and grounded in total depravity |
-| **Idolatry (broadly)** | "If football is more important than hearing the word of God... football is your idol." | `mark 10.md` | Explicitly rejected |
+| **Idolatry (broadly)** | "If football is more important than hearing the word of God... football is your idol." | `mark 10 - sun june 2nd.md` | Explicitly rejected |
 | **Idolatry — Egypt/America parallel** | Egypt had 2,000+ deities, starting from animism and morphing into anthropomorphism. America has politics, comfort, rights, and presidents. Psalm 115:4–8: idols cannot speak, see, or hear — and those who make them become like them. A.W. Tozer (*The Knowledge of the Holy*, ch. 1): "What comes into our minds when we think about God is the most important thing about us." The idols we choose to worship reveal who we are. | `Other-Sermons/Sermons/Exodus 2.md` | Explicitly rejected |
 | **Idolatry — soul's thirst misdirected** | "If you desire anything in your life like this that isn't God, that's idolatry." The deer's panting thirst (Ps 42:1 — "As a deer pants for flowing streams, so pants my soul for you, O God") as diagnostic: what does your soul long after with that intensity? Every human soul thirsts after something with ultimate devotion; if that object is not God, it is an idol. Sin does not satisfy — it amplifies. "Instead of our thirst being satisfied, our thirsts are amplified." | `Psalm 42 - As the Deer Pants.md` | Explicitly rejected |
 | **Idolatry through drift, not deliberate rebellion** | "I think most people stumble into idolatry — not intentionally. They don't wake up one morning and say, *How can I rebel against God today?*" Long-time Christians lose sight of God through incremental compromise: skipping Bible reading, prayer, fellowship, worship — "a death by a thousand cuts." Idolatry of the heart is often the end result of accumulated small decisions, not a single act of apostasy. | `Psalm 42 - As the Deer Pants.md` | Explicitly rejected |
@@ -1211,10 +1248,10 @@ CT Studd used as the paradigm case: elite cricketer, Cambridge graduate, gave aw
 
 | Error | Key Quote | Source | Status |
 |-------|-----------|--------|--------|
-| **Antinomianism** | "Grace is not license. Freedom is not lawlessness." | `Romans 14c.md` | Explicitly rejected |
-| **Hyper-grace** | "Any doctrine of grace that produces arrogance has not been learned from the Bible." | `Romans 11.md` | Explicitly rejected |
-| **Legalism** | "The weak tends to judge — to condemn, to question the other's salvation, to treat secondary matters as gospel tests." | `Romans 14c.md` | Explicitly rejected |
-| **Hyper-Calvinism** | Calling out a local pastor who said a people group "doesn't deserve to go to heaven" | `evangelism.md` | Implicitly rejected |
+| **Antinomianism** | "Grace is not license. Freedom is not lawlessness." | `Romans 14c - The Judgment Seat That Ends All Judging.md` | Explicitly rejected |
+| **Hyper-grace** | "Any doctrine of grace that produces arrogance has not been learned from the Bible." | `Romans 11 - The Remnant of Grace.md` | Explicitly rejected |
+| **Legalism** | "The weak tends to judge — to condemn, to question the other's salvation, to treat secondary matters as gospel tests." | `Romans 14c - The Judgment Seat That Ends All Judging.md` | Explicitly rejected |
+| **Hyper-Calvinism** | Calling out a local pastor who said a people group "doesn't deserve to go to heaven" | `evangelism (romans 15, mt 28, and rev 7).md` | Implicitly rejected |
 
 ### Implicit Denials (Deduced from Consistent Affirmation)
 
