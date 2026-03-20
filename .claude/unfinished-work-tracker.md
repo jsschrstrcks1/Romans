@@ -351,7 +351,7 @@ These items could be resolved in a single session each:
 
 | Thread Family | PRs | Status |
 |---------------|-----|--------|
-| add-sermon-repository | 15 | Active — 9 sermons remain in memory2.md |
+| add-sermon-repository | 15 | Mostly complete — all 9 memory2.md extractions done; verification flags remain on raw drafts |
 | add-romans-sermon | 5 | Complete — verification flags remain on 2 raw drafts |
 | add-philippians-sermon | 3 | Complete |
 | add-sermon-nehemiah | 2 | Complete |
