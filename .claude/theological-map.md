@@ -284,6 +284,9 @@ The Spirit's ministry is Christocentric — He does not draw attention to Himsel
 > "Before we can even follow him, he has to do a work in us."
 > — `sola gracia.md`
 
+> "God has to do a work in our hearts in order for us to even have any interest in the things of God."
+> — `Sermon - Out of the Cistern.md`
+
 The Spirit effects the new birth. Regeneration precedes faith. **Explicit. Tradition: Calvinistic/Augustinian.**
 
 #### Spirit Baptism at Conversion — One-Time Event
@@ -488,7 +491,10 @@ See Christology section above.
 > "Don't miss the passive voice in verse 18: 'you were set free'... 'you became slaves.' God is the actor. He broke the chains."
 > — `Romans_6b r2.md`
 
-**Explicit. Tradition: Five-Point Calvinist.**
+> "Can the strength of your will overcome the will of God? If you think so, then you fall onto one side of the debate. If you think not, then you are more in line with Scripture."
+> — `Sermon - Out of the Cistern.md`
+
+Cistern/kitten illustration: apart from God's sovereign rescue, we remain trapped — "God is a gentleman" rebuttal; Lydia's heart opened (Acts 16:14) as paradigm of effectual calling. **Explicit. Tradition: Five-Point Calvinist, BFM 2000.**
 
 ##### Perseverance / Preservation of the Saints
 > "It's called 'once saved always saved,' or to use the words of the reformers, they called it perseverance of the saints. That sort of makes it sound like it has something to do with man's effort. It doesn't."
