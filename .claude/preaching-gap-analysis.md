@@ -42,7 +42,7 @@
 | **2 Kings** | 2 Kgs 5, 25 | Thin | Naaman and the fall of Jerusalem. **Gaps: 2 Kgs 18–19 (Hezekiah's prayer and God's deliverance)** |
 | **1 Chronicles** | 1 Chron 4 ✓ | Thin | "What God Remembers" on 1 Chron 4:5–10 (Jabez) — the corrective sermon exists (`Other-Sermons/Sermons/1 Chronicles 4 - What God Remembers.md`). *(Corrected March 2026 — previously listed as MISSING but sermon exists.)* |
 | **2 Chronicles** | 2 Chron 15, 20 | Thin | Jehoshaphat's battle covered well. **Gap: 2 Chron 7:14 (one of the most-quoted but most-misapplied OT promises)** |
-| **Ezra** | Ezra 4, 6 | Thin | God's sovereignty over opposition covered. **Gap: Ezra 7–8 (Ezra's preparation: "he had set his heart to study the law")** |
+| **Ezra** | Ezra 4, 6 | Thin | God's sovereignty over opposition covered in `Sermon - When God Is For Us.md` (Ezra 4:1-6; 4:24; 6:2-end) — Nebuchadnezzar's humbling, Persia's fear of God, Israel's captors made to pay for the temple rebuild. Hiroo Onoda illustration: the enemy fights on not knowing the war is won. **Gap: Ezra 7–8 (Ezra's preparation: "he had set his heart to study the law")** |
 | **Nehemiah** | Neh 1–8, 13 | **Well-Covered** | 8-sermon arc. The strongest non-Romans sustained series in the archive. |
 | **Esther** | Esther 4:10–17 | **FILLED** | "For Such a Time as This" — preached; Mordecai's challenge, Esther's three responses (prayer, boldness, obedience), Gen 3:15 protoevangelium, Ps 22 tradition, Christ-type typology, Uyghur people group. See `Esther 4 - For Such a Time as This.md`. |
 | **Job** | Job 1, 42 | Thin | *(Corrected — see Part XII §2.)* Character of Job (Job 1) and What We Think About God (Job 42) both covered. Job 42 includes strongest evidential apologetics in corpus (apostolic martyrdom walkthrough). **Remaining critical gap: Job 38–40 (God's speeches from the whirlwind — theodicy at full depth).** |
@@ -99,7 +99,7 @@
 
 | Book | Coverage | Status | Notes |
 |------|----------|--------|-------|
-| **Matthew** | Selective: Mt 2, 5–6, 9, 11, 13, 24, 28 | Thin | **Gap: No Sermon on the Mount systematically preached (Mt 5–7 as a unit). No Matthew 25 (talents, sheep/goats judgment). No Matthew 18 (church discipline, forgiveness, the lost sheep). No Matthew 22 (greatest commandment — the sermon's own ethical framework).** |
+| **Matthew** | Selective: Mt 2, 5–6, 9, 11, 13, 24, 28 | Thin | Mt 6:25-34 treated as primary text in `Sermon - Worry Is Lack of Faith.md` (Jesus on anxiety — birds, lilies, "seek first the kingdom"); Mt 28:18-20 treated as primary text in `Sermon - Won't You Go.md` (Great Commission — all five Gospel/Acts occurrences, missions vs. humanitarianism). **Gap: No Sermon on the Mount systematically preached (Mt 5–7 as a unit). No Matthew 25 (talents, sheep/goats judgment). No Matthew 18 (church discipline, forgiveness, the lost sheep). No Matthew 22 (greatest commandment — the sermon's own ethical framework).** |
 | **Mark** | Selective: Mk 2, 4, 5, 10, 14, 15 | Thin | Mark 4–5 covered well (Calming Storm, Jairus). Gap: No Mark 1 (Jesus's authority and urgency), no Mark 8 (confession of Peter, cost of discipleship). |
 | **Luke** | Luke 2, 4, 8–10, 14–15, 23 | Good | Better coverage than Mark. **Gap: Luke 1 (Magnificat — Advent theology), Luke 18 (Pharisee and tax collector — justification by grace alone; ties directly to Romans 1–4), Luke 24 (Emmaus — hermeneutics and the risen Christ).** |
 | **John** | John 3, 5–6, 10–14, 16, 20 | Good | **Gap: John 1:1-18 (prologue — Word/Logos; no dedicated sermon), John 7–9 (healing of the blind man — outstanding for a depravity/sight/regeneration sermon), John 15 (abiding in the vine), John 17 (High Priestly Prayer — intercession and unity), John 18–19 (trial and crucifixion — no dedicated Passion narrative sermon).** |
@@ -110,7 +110,7 @@
 
 | Book | Coverage | Status | Notes |
 |------|----------|--------|-------|
-| **Acts** | Acts 2, 13, 18 | **Very Thin** | Only 3 passages in the entire Acts corpus. **High priority gaps: Acts 4 (boldness in the face of persecution), Acts 9 (Paul's conversion — directly relevant to Romans), Acts 17 (Mars Hill — apologetics model matching Romans 1 approach), Acts 26 (Paul's testimony before Agrippa — the most complete NT evangelism model).** A corpus this focused on missions has almost no Acts sermons. |
+| **Acts** | Acts 1, 2, 13, 18 | **Very Thin** | Acts 13:48 treated as primary election text in `Sermon - Out of the Cistern.md` ("as many as were appointed to eternal life believed"); Acts 1:8 treated as one of five Great Commission passages in `Sermon - Won't You Go.md`. Only 3–4 passages in the entire Acts corpus. **High priority gaps: Acts 4 (boldness in the face of persecution), Acts 9 (Paul's conversion — directly relevant to Romans), Acts 17 (Mars Hill — apologetics model matching Romans 1 approach), Acts 26 (Paul's testimony before Agrippa — the most complete NT evangelism model).** A corpus this focused on missions has almost no Acts sermons. |
 
 ---
 
