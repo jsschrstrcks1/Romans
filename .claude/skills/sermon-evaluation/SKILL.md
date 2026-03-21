@@ -98,6 +98,7 @@ A sermon with a fatal flaw flag cannot score above "Concerning gaps." The flag m
 - Did the preacher *discover* meaning or *impose* meaning?
 - Does the sermon stay in orbit around the text, or does it launch and never return?
 - Where is the longest stretch without referencing the passage? Is it too long?
+- Which verses in the passage received no treatment, and why? Did the sermon quietly skip the hard parts?
 
 ---
 
@@ -187,6 +188,7 @@ Application tells you where truth touches your life. Exhortation tells you what 
 - Is there a clear "therefore" moment — where the truth preached becomes the obedience demanded?
 - Does the sermon equip the church for holiness and witness, or only for private comfort?
 - Would a listener leave knowing what to *do* — not just what to *think*?
+- Does the sermon address the church as a *body* — corporate responsibility, mutual edification, covenant community — or only as a collection of isolated individuals?
 
 ---
 
@@ -259,6 +261,9 @@ This cannot be fully operationalized. It is the irreducible remainder — what t
 
 *This is not personality preference.* Edwards' quiet manuscript authority and Whitefield's open-air fire both qualify. The question is not "Was the preacher exciting?" but "Was God present?"
 
+*Additional diagnostic:*
+- Does this sermon culminate in worship, not just obedience? Does it leave the congregation wanting to pray, sing, or kneel — or only to act?
+
 ---
 
 ### 10. Cognitive Load Modifier (−3 to 0 pts)
@@ -327,6 +332,7 @@ Every evaluation produces:
     - "The exhortation is absent. The congregation was informed but never summoned."
 15. **Dead Orthodoxy Flag**: If triggered
 16. **Weight of Glory Assessment**: One sentence
+17. **Rubric Fit Note**: Is this passage well-served by this framework, or does the genre strain it? (Lament psalms, wisdom literature, apocalyptic, and narrative passages may stress categories differently. Flag where the rubric bends rather than forcing the passage into it.)
 
 ---
 
