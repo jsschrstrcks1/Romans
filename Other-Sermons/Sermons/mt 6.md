@@ -54,3 +54,184 @@ If you don’t know Jesus, if you don’t have that personal relationship with h
 Make SURE you know where you’re going to go. 
 
 Gospel.
+
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Sermon File:** mt 6.md
+**Passage:** Matthew 6:25–34 (Do not worry) with Job 38:1–12
+
+---
+
+### 1. Verdict Title
+**A Pastoral Crisis Sermon With Theological Substance and a Missing Gospel Center**
+
+---
+
+### 2. One-Sentence Summary
+A timely and practically grounded sermon on worry and God's sovereignty — delivered in the context of the early COVID-19 outbreak — that demonstrates real theological depth in its treatment of God's omni-attributes and genuine pastoral care for the congregation, but buries the gospel in a single sentence and allows the crisis-management content to displace the text's own argument.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: MARGINAL PASS (with significant displacement)**
+The main point of Matthew 6:25–34 is that anxiety is incompatible with trust in a Father who clothes the grass and feeds the birds — and that seeking his kingdom first resolves the anxiety. The sermon's main point is approximately this: "God is sovereign (omnipotent, omniscient, omnipresent), therefore do not fear." This arises from the passage and is supplemented by Job 38. However, the sermon's center of gravity shifts to the COVID-19 pastoral response plan (hand sanitizer, quarantine procedures, online church) in a way that displaces the text for significant stretches. The sermon passes the gate but barely — the text is used as the framework for a pastoral response to a specific crisis, with the text serving the crisis more than the crisis serving the text.
+
+**Authority Test: PASS**
+The preacher does not edit or soften the text. The Job 38 passage is used with full force ("brace yourself like a man"). The point that God was not surprised by COVID-19 is a direct submission to divine sovereignty.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 1 — No clear gospel presentation (TRIGGERED):**
+The sermon contains one gospel statement near the end: "Make SURE you know where you're going to go" followed by "Gospel." as a placeholder. This is not a gospel proclamation. An unbeliever in the room — perhaps attending because they were afraid and looking for comfort — would hear a great deal about God's sovereignty, statistical COVID mortality rates, and hand-sanitizer hygiene protocols, but would not hear the content of the gospel. The "those of us that know Jesus Christ as our Lord and savior have no fear of death" sentence assumes rather than proclaims the gospel.
+
+**Score cap at 69 triggered.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+- *Textual Fidelity (5/10):* The sermon begins in Matthew 6:25 and connects to Job 38:1–12, but the Matthew 6 text receives minimal direct exposition. The passage's argument — look at birds, look at flowers, seek the kingdom first — is not developed. The text is the entry point for a theological discussion of God's attributes (omni-attributes) that is legitimate but not tightly tied to the passage's own movement.
+- *Contextual Awareness (3/5):* The Job 38 context (Job's suffering, his friends' bad advice, God finally speaking) is briefly sketched and accurately presented. The Matthew 6 context (the Sermon on the Mount, the Father who sees in secret) is not engaged.
+- *Exegetical Clarity (2/5):* The omni-attributes discussion is theologically sound but is not an exposition of Matthew 6. The FCF is present (anxiety, fear) but the text's own answer to anxiety — trust in a Father who provides — is not developed. Instead, the sermon pivots to God's omnipotence as a separate theological argument.
+- *Logical Faithfulness (3/5):* No eisegesis. The jump from Matthew 6 to Job 38 is legitimate cross-reference preaching, but it substitutes for the exposition of Matthew 6 rather than supplementing it.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+- *Christ-Centeredness (3/7):* Christ is largely absent from this sermon. The theological content centers on the Father's attributes (omnipotence, omniscience, omnipresence), which are correct but not Christ-centered. The gospel statement at the close ("those who know Jesus as Lord and Savior") is the only mention of Christ in the body of the sermon. A sermon on God's sovereignty over creation that does not bring Christ into the frame is incomplete.
+- *Redemptive-Historical Awareness (2/3):* No explicit redemptive-historical engagement. The Matthew 6 passage is treated as a direct pastoral word about worry without situating it in the Sermon on the Mount's argument about the kingdom.
+- *Doctrinal Precision (4/4):* The omni-attributes treatment is accurate, substantive, and well-illustrated (the pulsar, the yocto measurement, the hairs on the head). No doctrinal errors. The treatment of omniscience — including the implicit reference to middle knowledge ("I believe he knows everything that could have been") — is careful and appropriately qualified.
+- *Confessional Alignment (4/4):* Theologically sound throughout. The rejection of hyper-Molinsim is appropriately hedged.
+
+**3. Gospel Centrality & Force — 5/15**
+- *Clarity of the Gospel (0/5):* The gospel is not proclaimed. "Gospel." as a section heading is not a proclamation. The only gospel-adjacent statement is "those who know Jesus Christ as Lord and Savior have no fear of death." An unbeliever cannot be saved from this sermon.
+- *Necessity of Christ (2/5):* Christ is not necessary to the main argument of this sermon as delivered. The sovereignty of God as described here could be preached in a synagogue without offense. Christ is present only at the margins.
+- *Cross-Centered Gravity (3/5):* The brief statement about making peace with God before death approaches cross-centered gravity, but it is not developed.
+
+**4. Conscience & Applicatory Force — 9/15**
+- *Heart Penetration (3/5):* The "trusting God for a million things daily" observation (gravity, oxygen, the earth's orbit) is genuinely conscience-pressing in its logic: if you trust God for all of those, why not this? This is the sermon's strongest applicatory moment.
+- *Specificity (3/5):* The COVID statistics are hyper-specific and relevant to the moment. The hand sanitizer, the quarantine plan, the online church protocol — these are maximally specific pastoral applications.
+- *Spiritual Differentiation (3/5):* The sermon addresses the worried (comfort from God's sovereignty), the nominally religious (make sure you know where you're going), and the congregation as a body (practical guidance). The backslider, the hardened, and the humbled-but-not-yet-believing are not addressed.
+
+**5. Exhortation & Response — 3/8**
+- *Call to Response (1/4):* "Make SURE you know where you're going to go" is the only explicit call to response. It is real but thin. The gospel is gestured at, not proclaimed, and therefore the response called for is undefined.
+- *Equipping for Holiness & Witness (2/4):* The practical COVID plan equips the congregation for corporate action. The suggestion to use illness and death as occasions to make peace with God is a witness equipping moment, though underdeveloped.
+
+**6. Structure & Logical Flow — 6/9**
+- *Clarity of Outline (3/4):* The sermon has a traceable structure: worry introduction → Matthew 6 → COVID statistics → Job 38 → omni-attributes → practical COVID plan → gospel gesture. The outline is clear even if the proportions are uneven.
+- *Progression (2/3):* The progression from text to theology to application is present. The COVID statistics section is so long and detailed that it displaces the text rather than supporting it.
+- *Unity (1/2):* The sermon has two competing centers — the theological argument from Job 38 (God is sovereign, don't fear) and the practical COVID response plan. They are related but not unified under a single governing thesis stated clearly.
+
+**7. Illustration & Imagination — 3/5**
+- *Relevance (2/2):* The pulsar illustration (a star so large it would take a thousand light-years to circle) and the yocto measurement illustration are vivid and effective for the omnipotence/omnipresence argument.
+- *Clarity (1/2):* The statistics section is clear but competes with the text for airtime.
+- *Memorability (0/1):* No single image is memorable enough to carry the sermon's thesis home. The pulsar is striking but is in service of omnipotence generally, not of the specific reassurance that Matthew 6 offers.
+
+**8. Sermonic Force — 3/5**
+- *Reads as Preaching (2/2):* Conversational, direct, pastorally warm — the sermon reads as genuinely preached to a scared congregation.
+- *Conviction on the Page (1/2):* The "brace yourself like a man" Job 38 moment has force. The conviction level drops in the COVID statistics section.
+- *Cadence and Breath (0/1):* The sermon ends with "Gospel." — a single word — after a lengthy practical section. There is no sermonic climax.
+
+---
+
+### 6. Cognitive Load Modifier: **−1**
+The sermon covers: Matthew 6 anxiety, COVID statistics, Job 38, three omni-attributes with illustrations, a four-point COVID response plan, and a gospel reference. Each is individually accessible, but together they overload the single governing idea. One fewer element would significantly improve focus.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 13/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 5/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 3/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **55/100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | −1 |
+| **Total (pre-cap)** | **55/100** |
+| **Fatal Flaw Cap Applied** | **55/69 cap** |
+| **Final Score** | **55/100** |
+
+**Interpretation: Fundamentally flawed — the text is displaced by the crisis, the gospel is absent, and Christ is nearly missing. The pastoral care is genuine; the sermon as a biblical proclamation is thin.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Mostly of neither — the sermon directs attention to God's attributes and to COVID precautions. Christ is nearly absent.
+2. *Did I encounter God, or just ideas about Him?* Ideas about him — the omni-attribute discussion is informative but not experiential. The Job 38 passage could have produced encounter but is treated as a proof text for omnipotence rather than a theophanic confrontation.
+3. *Was I comforted, convicted, or merely informed?* Primarily informed — about COVID statistics, God's sovereignty abstractly stated, and quarantine procedures. Some comfort in the sovereignty argument. Very little conviction.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The omni-attributes treatment is substantive.** The pulsar, the yocto measurement, and the "number of hairs on your head changes by a thousand per day" illustrations are unusual, vivid, and serve the theological argument effectively. This material is better than average.
+2. **The "trusting God for a million things daily" logical move.** The observation that the congregation already trusts God for gravity, air, and the earth's orbit — and therefore can trust him for COVID — is a genuine argument from the lesser to the greater. It is the sermon's best applicatory moment.
+3. **The pastoral care for the congregation is evident and appropriate.** Providing a clear, calm, data-grounded response to fear in the opening weeks of a pandemic is responsible shepherding. The congregation needed this.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Christ is nearly absent from a sermon ostensibly on a red-letter text.** Matthew 6:25–34 is Jesus speaking. The sermon treats it as material for a sovereignty argument without noting that the one who says "your heavenly Father feeds the birds" is also the one who will die to feed sinners. The absence of Christ from this sermon is its most serious theological failure.
+2. **The COVID response plan displaces the text.** Four detailed practical points about hand sanitizer, quarantine timelines, online church procedures, and where to mail tithes occupy a disproportionate share of the sermon's body. This is pastorally appropriate as a congregational announcement; it is not expository preaching.
+3. **The gospel is not only absent — it is misdirected.** The statement "if you don't have a personal relationship with him, when you take that last breath, you would be spending eternity in heaven — and there is only one other alternative" contains a grammatical error that inverts the warning (the sentence says non-believers go to heaven, which is the opposite of the intended meaning). The one moment the gospel is gestured at contains a confusing and potentially misleading statement.
+
+---
+
+### 11. Blind Spots
+
+The preacher may not see that the COVID response plan, however pastorally necessary, has functionally become the sermon's main content. The congregation would leave remembering the statistics (less than 0.4% mortality rate in China) and the procedures (two Sundays online) more than the textual truth (your Father feeds the birds and clothes the grass; how much more will he care for you?). The crisis has shaped the sermon more than the text has.
+
+---
+
+### 12. Illusion of Strength
+
+The theological density of the omni-attributes section gives the impression of deep doctrinal preaching. But doctrine about God that does not arrive at Christ and the cross is incomplete. The most impressive material in this sermon (omnipotence, omniscience, omnipresence) is deployed in service of COVID-anxiety management rather than in service of the text's own argument: seek first the kingdom, and all these things will be added.
+
+---
+
+### 13. Missed Opportunity
+
+Matthew 6:32–33 — "your heavenly Father knows that you need all these things. But seek first the kingdom of God and his righteousness, and all these things will be added to you" — is the passage's hinge. The sermon never arrives there. The passage's own answer to worry is not the sovereignty argument (though that is true) but the kingdom-priority argument: when you are pursuing God's kingdom, the anxiety about things dissolves because you have submitted the "things" to the King. That is a far more searching and practically useful point than "God is big, therefore don't worry."
+
+---
+
+### 14. Surgical Fixes
+
+1. **Proclaim Christ and the gospel explicitly.** On a fear-driven Sunday in a pandemic, the most powerful thing a preacher can say is: "The one who tells you not to worry is the same one who died to secure your eternal future. If Christ's death and resurrection means you are safe for eternity, the worst COVID can do is bring you sooner into his presence. That is not a threat — it is a promise." Build this from Matthew 6:30 ("O you of little faith") and ground it in the cross.
+2. **Move the COVID response plan to a congregational announcements segment.** The four practical points about hygiene and quarantine are important — but they are not part of the sermon. Separate them.
+3. **Develop Matthew 6:33 as the sermon's climax.** "Seek first the kingdom" is the text's own answer to anxiety. Spend 5–7 minutes on what this means, what it demands, and how it resolves worry — not by making the worry smaller but by making the kingdom bigger.
+4. **Fix the grammatical error.** "You would be spending eternity in heaven" (when speaking of the unconverted) should read "you would NOT be spending eternity in heaven." This needs correction before this sermon is used again.
+5. **Add Christ to the sovereignty argument.** The omnipotence/omniscience/omnipresence material is good but incomplete without noting that this God became incarnate, entered suffering, and conquered death. The congregation's trust in God's sovereignty should be grounded not abstractly but in the resurrection.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+Not triggered in the traditional sense — the problem here is not cold orthodoxy but displacement. The sermon has pastoral warmth but is theologically thin on the passages it cites. The theological material (omni-attributes) is correct but serves the wrong purpose.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The pastoral urgency of the moment gives this sermon weight — a frightened congregation, a calm shepherd, a God who is big — but the absence of Christ, the displaced text, and the misdirected gospel statement prevent the sermon from carrying the eternal gravity it could have carried on a Sunday when people were wondering if they were going to die.
+
+---
+
+### 17. Rubric Fit Note
+
+Matthew 6:25–34 is Jesus' direct pastoral address on anxiety. The rubric applies well, with the note that this passage is comfort-oriented rather than prophetic-confrontational. The rubric's gospel centrality and Christ-centeredness categories apply with full force — the passage is spoken by Jesus, and any exposition of it that omits Christ's own identity and work is incomplete. The crisis context (COVID) is noted as a circumstance that appears to have shaped the sermon more than the text did; this is a pastoral judgment call that the rubric appropriately flags.
