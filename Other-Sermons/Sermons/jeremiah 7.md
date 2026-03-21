@@ -76,3 +76,198 @@ The people in our passage today, they chose to be disobedient to God. They chose
 Now contrast all of that, about the northern tribes of Israel, the vicar, and with the sports fan from earlier. The sports fan sure looked the part all painted up, but did he really love football if he refused to watch or go to the games? If he refused to play it himself? How much we can all learn from this imperfect preacher whose first love is Jesus Christ. Everything else, his own happiness, his own aspirations are second to his savior Jesus. Yet so often we treat Jesus like that young woman does the one she claims to love. Its easy to say I’m tired, or having strong feelings, or just too busy to go to church. But what does it say about our love for God, if we make church, if we make time with him in prayer, in scripture, in sharing the gospel, in worship,  a chore, or an option of last resort? At that point do we really love God? Or perhaps we’ve just forgotten our first love. 
 
 The solution to both of those problems is the gospel.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Date Evaluated**: 2026-03-21
+**Sermon File**: `jeremiah 7.md`
+**Primary Text**: Jeremiah 7:20–end (vv. 20–34 implied, though exact ending verses not specified)
+
+---
+
+### 1. Verdict Title
+
+**"A Faithful Pastoral Alarm With a Gospel-Shaped Ending — But the Text Is a Backdrop, Not a Foundation"**
+
+---
+
+### 2. One-Sentence Summary
+
+A topically driven sermon that uses Jeremiah 7 as a launching pad for extended pastoral teaching on idolatry, homosexuality, legalism/antinomianism, and the three uses of the law, delivering genuine doctrinal substance and real pastoral urgency while leaving Jeremiah's own argument — the Temple Sermon's devastating indictment of false security — largely unexplored.
+
+---
+
+### 3. Berean Gate
+
+**SOFT PASS — significantly strained.**
+
+The sermon's main concern (idolatry drives God's people from him and draws his judgment) is present in Jeremiah 7. The preacher does establish the context (Israel turning to false idols, burning children to Baal/Molech) and connects it to contemporary idolatry (happiness, sexual immorality). The text is used, not ignored.
+
+However, **the main point of Jeremiah 7** — the Temple Sermon — is Jeremiah's devastating prophecy that Israel's false security in the Temple ("the temple of the Lord" mantra) will not protect them from divine judgment, because covenant faithfulness, not ritual attendance, is what God demands. "Will you steal, murder, commit adultery, swear falsely... and then come and stand before me in this house?" (vv. 9–10) — this is the text's prophetic argument. The sermon begins at v. 20 (which is after the Temple Sermon's climax) and builds an application about contemporary idolatry, church attendance, and law/gospel balance.
+
+The thesis the sermon eventually delivers — "love God by actually being with Him and obeying Him, or you end up like Israel" — is connected to the text. But the text's own prophetic force (the Temple Sermon's judgment of false-assurance religion) is not what the sermon preaches. **Soft pass: the theme connects, but the text's main argument is not the sermon's main argument.**
+
+**Authority Test**: The preacher does not soften the text's hard claims. Pass.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**No fatal flags formally triggered.**
+
+- Gospel is present — "the solution to both of those problems is the gospel" is the closing line, and the sermon has moved toward Christ's standard and grace throughout.
+- However, the gospel is stated in a single closing sentence without development. An unbeliever would not know from this sermon alone how to be saved. This is a near-miss on fatal flag #1.
+- Application is specific (homosexuality, legalism, antinomianism, church attendance, named false prophet in Landolakes) — fatal flag #4 does not trigger.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 10/25**
+
+- *Textual Fidelity (4/10)*: The sermon reads Jeremiah 7:20–end and establishes the context (the idolatry, the child sacrifice, Baal, Asherah). But the passage's own argument — particularly the judgment God pronounces and the command to Jeremiah not to pray for the people — is not developed. The sermon uses the text as background rather than as the governing argument. Large sections (the story of the pastor who can't marry the couple, the extended discussion of homosexuality, the three uses of the law, the Scottish vicar's testimony) have no tether to the specific text.
+- *Contextual Awareness (2/5)*: The historical context (northern ten tribes destroyed for idolatry) is present and accurate. The temple-prostitution / Baal and Asherah context is explained with genuine historical detail. But the canonical context — Jeremiah 7 as part of the Temple Sermon (Jer. 7:1–8:3), Jeremiah's ministry at the temple gate — is not established.
+- *Exegetical Clarity (2/5)*: No Greek/Hebrew engagement. The three-category framework (ceremonial, dietary, moral law) is introduced as a hermeneutical tool and is broadly accurate but is a systematic theology grid applied to the text, not derived from it.
+- *Logical Faithfulness (2/5)*: No eisegesis. The connections made are valid, but they are made by the preacher's topical agenda rather than by following the text's own logic.
+- *FCF*: Named clearly — idolatry in its modern forms (happiness, sexual immorality), and specifically the antinomian distortion. The FCF is the sermon's clearest pastoral insight.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness (4/7)*: Christ appears at the end ("the solution to both of those problems is the gospel") and implicitly throughout the law/gospel balance discussion. But Christ is not the sermon's center — the law's three uses are. This is not false Christology; it is Christology deferred.
+- *Redemptive-Historical Awareness (2/3)*: The continuity/discontinuity of the three categories of law is a redemptive-historical argument, and it is handled reasonably well. The Jeremiah 7 context is placed in the destruction of the northern kingdom — accurate historical placement.
+- *Doctrinal Precision (4/4)*: The three uses of the law (to show guilt, to show gospel's depth, to guide the Christian) are accurately stated. The antinomianism and legalism treatments are precise and practical. The Scottish vicar's testimony is theologically careful ("he submitted his will to God's"). No doctrinal errors detected.
+- *Confessional Alignment (3/4)*: The third use of the law (guiding the regenerate) is a Reformed distinctive and is correctly applied. The continuity of the moral law into the New Testament is handled accurately. No confessional errors.
+
+**3. Gospel Centrality & Force — 7/15**
+
+- *Clarity of the Gospel (2/5)*: "The solution to both of those problems is the gospel" is the closing sentence. The gospel is gestured at but not proclaimed. No cross, no resurrection, no justification by faith is stated in the conclusion. The body of the sermon does reference Christ's death and the believer's obligation to love God accordingly, but the gospel as saving announcement is thin.
+- *Necessity of Christ (3/5)*: Christ is necessary to the argument in the sense that the third use of the law requires new birth and the Spirit to be possible — the sermon names this implicitly. The Scottish vicar's testimony is one of the sermon's most Christ-centered moments.
+- *Cross-Centered Gravity (2/5)*: No sustained attention to the cross. The sermon's center of gravity is the law/gospel balance, not the cross. The cross appears in the antinomianism section as the reason for Christian freedom, but is not dwelt upon.
+
+**4. Conscience & Applicatory Force — 10/15**
+
+- *Heart Penetration (4/5)*: The sports fan / shopaholic / fisherman / couple illustration is the sermon's most searching pastoral moment — it corners the congregation on their nominal Christianity without using the word "nominal." The Scottish vicar's testimony is moving and honest. The false prophet in Landolakes is named with appropriate pastoral seriousness.
+- *Specificity (4/5)*: The sermon is genuinely specific — homosexuality is addressed directly (and with pastoral nuance, distinguishing attraction from action), the antinomian error is named with a real-world example, the legalist is named with a real-world example (the woman and pork laws), and the nominal Christian is addressed through the illustration. This is above-average specificity.
+- *Spiritual Differentiation (2/5)*: The sermon primarily addresses believers — those who know the truth but may be applying it wrongly (legalism/antinomianism). The nominal Christian is addressed through the illustration. The seeker and the hardened are not specifically addressed. The differentiation within the believing community is good; Perkins' wider taxonomy is not engaged.
+
+**5. Exhortation & Response — 4/8**
+
+- *Call to Response (2/4)*: The closing sentence ("the solution to both of those problems is the gospel") is the sermon's exhortation and it is entirely undeveloped. The sermon builds a sustained implicit call to love God genuinely — the sports-fan illustration creates an implicit "therefore" — but the explicit call is a single sentence.
+- *Equipping for Holiness & Witness (2/4)*: The three uses of the law and the discussion of moral law provide genuine equipping for the Christian's ongoing life. The Scottish vicar's celibacy testimony equips believers who struggle with sexual sin. But no corporate call, no send-out.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline (3/4)*: The sermon has an identifiable structure: sports fan illustration → text → idolatry in context → contemporary idolatry → homosexuality → legalism/antinomianism → three uses of law → Scottish vicar → closing application. A careful listener could follow this, though the connections between sections require the preacher to hold them together.
+- *Progression (2/3)*: The sermon moves from biblical example (Israel's idolatry) to contemporary application (homosexuality, legalism/antinomianism) to pastoral testimony (Scottish vicar) to closing appeal. The direction is coherent.
+- *Unity (1/2)*: The sermon has three centers competing for priority: the Jeremiah text, the homosexuality discussion, and the law/gospel balance. These are all related — they are all aspects of "how do we honor God truly" — but they do not converge into a single, dominant idea that the congregation can carry home in one sentence.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2)*: The sports fan / shopaholic illustration is the sermon's strongest. The Landolakes false prophet is startlingly local. The Scottish vicar is the sermon's most powerful illustration of costly obedience.
+- *Clarity (1/2)*: The sports fan illustration is clear and well-executed. The extended description of the false prophet in Landolakes risks distracting from the sermon's main point at the moment it appears — the sermon is discussing antinomianism and suddenly enters a fairly detailed account of sexual predation.
+- *Memorability (1/1)*: The sports fan illustration ("You can't claim to love football if you won't watch the game") will be remembered. The Scottish vicar will be remembered.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2)*: Oral cadence is strong. Direct address is present and genuine ("Ever push your mom to the point she had enough?").
+- *Conviction on the Page (1/2)*: The preacher's conviction about homosexuality's danger and the gospel's necessity is evident. But the closing sentence ("the solution to both of those problems is the gospel") reads like a note to himself rather than a proclamation. The conviction present in the body does not arrive at the ending.
+- *Cadence and Breath (0/1)*: The sermon ends mid-thought. Whatever was intended to follow "the solution to both of those problems is the gospel" was not written. The ending is abrupt.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1**: The sermon covers a great deal of ground — idolatry, homosexuality, legalism, antinomianism, three uses of the law, a Landolakes false prophet, a Scottish vicar, and a closing application. Each section is handled accessibly, but the density of topics in a single sermon creates a dispersal effect. A listener may track each section individually and still not know what the one thing they should take home is.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 10/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 10/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **57/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **58/100** |
+
+**Interpretation**: Fundamentally flawed (below 60). The sermon contains real pastoral substance and genuine theological content, but the expositional weakness, the undeveloped gospel ending, and the topic-dispersion prevent it from functioning as a complete sermon. Significant revision needed.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Primarily about myself and my church attendance, obedience, and sexual ethics. Christ appears at the end but does not hold the center.
+2. *Did I encounter God, or just ideas about Him?* Ideas about God's standards and expectations. The Scottish vicar's testimony is the closest the sermon comes to an encounter with the living God.
+3. *Was I comforted, convicted, or merely informed?* Convicted (sports fan illustration, the vicar's testimony) and informed (three uses of the law). Comfort is thin — the gospel is promised but not delivered.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The sports fan illustration**: Brilliantly executed — the cumulative effect of the fisherman who hates the lake, the shopper who hates stores, the football fan who won't watch games, and the couple who can't stand each other all converging on the nominal Christian who claims to love God but won't be with Him — is the sermon's most effective moment. It corners every person in the room without accusation.
+2. **The Scottish vicar's testimony**: Pastoral courage in including a testimony about same-sex attraction and costly celibacy. This is the kind of specific, hopeful, cross-bearing pastoral illustration that equips the congregation for real pastoral conversations. It names the possibility of faithfulness without minimizing the struggle.
+3. **The three uses of the law**: Clearly explained, practically differentiated, and pastorally applied. The preacher handles the legalism/antinomianism axis with genuine theological precision. This is catechetical material of real value.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The text's own argument is not preached**: Jeremiah 7's Temple Sermon is one of the most searing prophetic indictments in the Old Testament — people who attend the temple but live like pagans, trusting in the building's presence rather than covenant fidelity. This is directly applicable to nominal Christianity. But the sermon begins at v. 20 (after the climax) and uses the text as background color for a sermon about contemporary idolatry. Preaching the Temple Sermon itself — "the temple of the Lord, the temple of the Lord, the temple of the Lord" — would have produced a more powerful sermon that was also more text-grounded.
+2. **The gospel is a closing note, not a proclamation**: "The solution to both of those problems is the gospel" is how the sermon ends. This is a tease, not a proclamation. The law has been preached for the body of the sermon; the gospel that should relieve it is one sentence that doesn't even state what the gospel is.
+3. **Topic dispersion**: The sermon treats idolatry, homosexuality, legalism, antinomianism, the three uses of the law, and nominal Christianity as related but not unified. Each topic is addressed competently. The congregation may leave with several partial ideas rather than one complete truth.
+
+---
+
+### 11. Blind Spots
+
+The preacher does not appear to see that Jeremiah 7 as a whole — the Temple Sermon — is one of the most penetrating texts for addressing nominal, attendance-based, building-trusting false religion in the entire Bible. The sports fan illustration (come to the game, be at the game, love being at the game) parallels Jeremiah's point (don't just come to the temple and say "the temple of the Lord" — actually live in covenant faithfulness) with startling precision. The illustration and the text were made for each other, and the connection is not made.
+
+---
+
+### 12. Illusion of Strength
+
+The doctrinal content of the law section — three categories of law, the legalism/antinomianism axis — creates an impression of robust Reformed theological content. And it is genuinely accurate. But this is systematic theology dropped into a sermon rather than doctrine arising from the text. The strength is real but belongs in a different setting — a catechism class, a Sunday school series on the law. In this sermon, it pushes the text further offstage.
+
+---
+
+### 13. Missed Opportunity
+
+Jeremiah 7:9–10 — "Will you steal, murder, commit adultery, swear falsely, make offerings to Baal, and go after other gods that you have not known, and then come and stand before me in this house, which is called by my name, and say, 'We are delivered!'?" — is the sermon in a single verse. "We are delivered!" is the antinomian cry: God's house protects us; we can live however we want. Preaching that verse — just that verse — and then unpacking how "we are delivered" sounds today ("I'm a Christian, I've been baptized, I grew up in church") would have unified the sermon around a single text and a single devastating diagnostic question.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Begin with the Temple Sermon, not v. 20**: Read Jeremiah 7:1–11 before the sports fan illustration. Let Jeremiah's "the temple of the Lord, the temple of the Lord" be the text's own diagnosis of nominal religion. Then use the sports fan illustration as its contemporary equivalent.
+2. **Write the gospel conclusion**: Replace the final sentence with a full paragraph that states what the gospel is, why it is the solution to both legalism and antinomianism, and what the hearer must do. "The solution is not to try harder (legalism) or to try less (antinomianism). The solution is to see who Jesus is and what he has already done, and to trust him. By grace alone, through faith alone, in Christ alone."
+3. **Unify the sermon under one thesis sentence**: "The people of God are not protected by attending his house — they are called to actually know him, love him, and obey him. And we can only do that because he first loved us." This sentence would hold the Jeremiah text, the sports fan illustration, the vicar's testimony, and the gospel together.
+4. **Trim the Landolakes false prophet section**: The specific details (sexual predation of a dozen women and boys) are appropriately named as pastoral warning, but the section is longer than necessary for the point it makes. Half the length serves the argument equally well.
+5. **Connect the vicar's testimony explicitly to the text**: "This is what it looks like to know God rather than just attend his house. The vicar from London didn't use God's grace as a license to sin. He submitted his desires to God's design. He loved God more than he loved his own happiness. That is Jeremiah's charge to Israel — and to us."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is too pastorally engaged and too applicatorily specific to qualify as dead orthodoxy. The fire is present; the structure and text-grounding need strengthening.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The Scottish vicar's testimony carries genuine Weight of Glory — a man who counts the cost, submits to Christ, and calls it grace. That moment alone earns the bonus. The closing sentence ("the solution to both of those problems is the gospel") gestures at eternity but does not arrive there.
+
+---
+
+### 17. Rubric Fit Note
+
+Jeremiah 7 is prophetic literature — a judgment oracle delivered at the temple gate. The rubric's categories apply well to prophetic preaching (exposition, conscience, exhortation are all natural to the genre). The prophetic genre does add one category the rubric does not fully capture: the *corporate* dimension of the prophetic word. Jeremiah is not addressing individuals; he is addressing the covenant community as a body. The sermon's illustrations tend toward individual application (sports fan, vicar, fisherman) while the text addresses Israel corporately. This tension is worth noting — a more faithful handling of the prophetic genre would include a corporate exhortation to the church as a body, not only individual applications.

@@ -78,3 +78,145 @@ In times of pain it’s a comfort to know that God deeply and fully knows what i
 God is so much better to us than we could ever hope to deserve. 
 
 But it all starts with the gospel.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated:** 2026-03-21
+**Rubric:** Thus Says the Lord — Reformed Baptist Sermon Evaluation
+
+---
+
+### 1. Verdict Title
+
+**A Devotional Walk Through Psalm 19 That Ends One Sentence Too Early — Again**
+
+---
+
+### 2. One-Sentence Summary
+
+A warmly pastoral, illustratively rich survey of Psalm 19 that correctly distinguishes general and special revelation, earns genuine wonder at God's Word, and then closes for the second time in this archive with the line "But it all starts with the gospel" — without preaching it.
+
+---
+
+### 3. Berean Gate
+
+**MARGINAL PASS.**
+
+The sermon works through Psalm 19 in sequence: verses 1-6 (general revelation), verses 7-13 (special revelation and its benefits), and verse 14 (the final prayer). The main point — *God has revealed Himself in creation and supremely in Scripture; receive and treasure His Word* — is broadly congruent with the Psalm's argument. The preacher does not stand above the text; he does largely follow it. However, the sermon is more devotional reflection on the psalm's themes than expository opening of the psalm's argument. The Edwards quote on the fear of the Lord appears at verse 9, which concerns the fear of the Lord — a genuine textual connection. The Scopus Test passes narrowly.
+
+**Berean Gate: MARGINAL PASS**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**ONE FATAL FLAG — score capped at 69:**
+
+1. **No clear gospel presentation** — "But it all starts with the gospel" is the sermon's final sentence. The same structural failure present in the Philippians 4:6-7 sermon reappears here. Christ is mentioned once, in passing ("it leaves out Jesus Christ"), and once in the closing paragraph ("in times of pain it's a comfort to know that God deeply and fully knows what it is to see his child die in a terrible way"). But the death of Christ *for sinners*, justification, the cross, substitutionary atonement — none are stated. The word "gospel" appears three times in the sermon and is never defined or proclaimed.
+
+*Note: No other fatal flags clearly triggered — application is specific (the survey statistics, the bible-reading challenge, the "change by example" observation), and the sermon is accessible. However, the "gospel assumed but never stated" pattern is a structural failure, not an incidental omission.*
+
+---
+
+### 5. Score Breakdown
+
+| Category | Score | Max | Notes |
+|---|---|---|---|
+| Exposition & Hermeneutics | 14 | 25 | The general/special revelation distinction is correctly applied to Psalm 19's two-part structure (vv. 1-6 / vv. 7-13). The attributes of special revelation in verses 7-13 are surveyed: revives the soul, brings wisdom, makes the heart rejoice, fear of the Lord leads to clean living, more valuable than gold, sweeter than honey, warns from danger, reveals errors. This is an accurate survey of the text. Weakness: the psalm's poetic structure is not opened — the parallelism, the imagery, the movement from cosmic declaration (vv. 1-4) to the sun's glory (vv. 5-6) to the Torah's perfection (vv. 7-11) to the final prayer (v. 14) — is present as a list of topics, not as exegetical observation. The Fallen Condition Focus is present but diffuse: the sermon identifies both neglect of Scripture and false equivalence of scriptures (Bible = Koran = Book of Mormon) as the problem, but these are sociological observations more than the Psalm's own identified human condition. Verse 14 ("let the words of my mouth and the meditation of my heart be acceptable in your sight") is noted in passing but not opened — it is the psalm's own self-applicatory moment and deserves more. |
+| Theology & Doctrinal Integrity | 10 | 18 | The general/special revelation distinction is theologically sound. The Edwards quote ("The God that holds you over the pit of hell") is used correctly at verse 9 (fear of the Lord). The Koran/Book of Mormon comparison is theologically accurate regarding their respective denials of Christ's deity and substitutionary death — this is apologetics done with pastoral clarity rather than polemical harshness. Weakness: the sermon's theology is largely descriptive (what the Bible does for us) rather than declarative (who God is and what He has done). Christ's person and work are gestured at ("God deeply and fully knows what it is to see his child die") but never stated with precision. No redemptive-historical movement — the psalm is not placed in the canon's story of revelation climaxing in Christ (Hebrews 1:1-2 is the natural capstone). |
+| Gospel Centrality & Force | 3 | 15 | The gospel is named but not preached. "It all starts with the gospel" is the final line — a promise without a payment. Christ's death for sinners is referenced obliquely ("God knows what it is to see his child die") but the substitutionary atonement, the resurrection, justification by faith — none are stated. The Synagogue Test applies: a devout Jewish or Muslim hearer could sit through this sermon and not be confronted with the necessity of Christ's blood. Three points for the Edwards quote's genuine gospel-adjacent law-work and the oblique Christ-reference at the close. |
+| Conscience & Applicatory Force | 10 | 15 | The sermon's most effective applicatory moments: the survey statistics (less than 1 in 4 Christians opened their Bible last month) pressed against the excuse of insufficient time (most books of the Bible can be read in 20 minutes) is specific and conscience-pressing. The "closer to God in your hunting blind" critique of functional deism is pastoral and pointed. The Tim Keller quote ("if your God never disagrees with you, you're not worshipping God, you're worshipping an idealized version of yourself") is a conscience-searcher. The general revelation section (Theodore Roosevelt stargazing) is more wonder-producing than conscience-pressing — it is appropriate for the psalm's own tone in vv. 1-6. Weakness: no differentiation of hearers — the believer, the doubter, the self-righteous, the new believer are not addressed distinctly. |
+| Exhortation & Response | 4 | 8 | The sermon has no explicit exhortation beyond the implied "read your Bible more" that underlies the application sections. No "therefore" moment. No clear summoning. "Turn to the Lord and study his word" and "we have to live our lives focused on our savior" are directional but not exhortational — they tell the hearer what to do but do not summon them to do it with the authority of the text. The final paragraph ("in times of trouble… in times of joy… in times of pain") is a doxological summary rather than an exhortation. |
+| Structure & Logical Flow | 6 | 9 | The sermon follows the psalm's structure reasonably well: opening story → general revelation (vv. 1-6) → special revelation (vv. 7-13) → closing application. This gives the sermon an observable flow. Weakness: the opening section (old priest story, Bible survey statistics, Koran/Book of Mormon comparison) is long and dominates the sermon's first third before the text is read. The Edwards quote appears mid-sermon without a clear structural transition. The Roosevelt anecdote, while memorable, is tangential to the psalm's argument and could be trimmed. The sermon lacks a unifying thesis sentence — it is a topical tour of the psalm rather than a sermon with a controlling idea. |
+| Illustration & Imagination | 4 | 5 | The Roosevelt stargazing anecdote ("now we are small enough, it's time to talk") is the sermon's best illustration — specific, sourced (whether precisely or not), and producing exactly the right emotion for Psalm 19:1-6. The Southern Cross / Nova Scotia cross observation shows genuine curiosity about creation that fits the psalm. The Oswald Chambers quote ("the only Bible someone ever reads") is a cliche but it is deployed in context. The Edwards quote is powerful and apt. Minor reduction for the Roosevelt anecdote's uncertain sourcing (the specific quote's authenticity is not flagged in the integrity notes) and for the Oswald Chambers quote's cliche status. |
+| Sermonic Force | 3 | 5 | The sermon reads as warm, exploratory, and conversational — more Bible study than pulpit address. "I love learning about the things that God created because of how much it teaches us about God" — this is genuine and accessible but not the voice of a herald. The Edwards quote is the one moment where the manuscript roars; the surrounding material is quieter. The final paragraph ("God is so much better to us than we could ever hope to deserve") is doxological but not commanding. Direct address is present ("I hear people say," "you," "we") but not at pressure points. |
+
+**Raw Subtotal: 54/100**
+
+---
+
+### 6. Cognitive Load Modifier
+
+**0**: The sermon is accessible and well-paced. The general/special revelation structure keeps it followable. The statistics section is the densest moment but is handled clearly. No modifier applied.
+
+---
+
+### 7. Total Score
+
+**54/100 (capped at 69 due to fatal flaw flag)** — *Fundamentally flawed as submitted*
+
+**Interpretation band: Below 60 — Rebuild from the text** (with targeted repairs rather than a full rebuild — the structural bones are sound)
+
+*Note: The uncapped score is 54/100 — the cap does not change the outcome. The fatal flaw (gospel absent) is the sermon's structural gap. Adding a gospel close would move the uncapped score to approximately 66-68/100, bringing it into the "Concerning gaps" range. A full revision per the surgical fixes below could reach the 75-79 range.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** — More of God's revelation and Scripture's value. Christ is present obliquely but not magnified.
+2. **Did I encounter God, or just ideas about Him?** — The Roosevelt illustration produces genuine wonder at creation; the Edwards quote produces genuine fear of God's holiness. These are the sermon's closest encounters with God himself.
+3. **Was I comforted, convicted, or merely informed?** — The Bible statistics produce conviction. The general revelation section produces wonder. The closing paragraph offers comfort in suffering. Mostly informed, with genuine conviction in the applicatory middle.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The general/special revelation distinction is handled with pastoral intelligence** — The sermon correctly identifies that "feeling closer to God in nature" is not equivalent to knowing God through Scripture, and does so without dismissing the genuine wonder of creation (vv. 1-6). "Creation is what God did, and the Bible tells us why" (Stephen Davey, quoted) is exactly right and well-placed.
+2. **The Theodore Roosevelt illustration** — "Now we are small enough, it's time to talk." This is the sermon's most memorable moment — it produces the same contemplative vastness that Psalm 19:1-6 produces. It belongs to this text.
+3. **The Tim Keller quote and Bible-reading statistics** — "If your God never disagrees with you, you're not worshipping God" is a conscience-searcher that applies specifically to the American evangelical context the congregation inhabits. The survey data (less than 1 in 4 Christians opened their Bible last month) is not used as shame but as diagnostic — and the rebuttal (most books of the Bible can be read in 20 minutes) is a pastoral challenge, not a scolding.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **"But it all starts with the gospel" — the same fatal close as Phil 4:6-7** — This is a pattern in this preacher's manuscript archive. The gospel is the foundation; it is promised at the end; it is never preached. This is the single repair that would most transform this sermon.
+2. **Verse 14 is treated as a liturgical tagline rather than the psalm's own applicatory climax** — "Let the words of my mouth and the meditation of my heart be acceptable in your sight, O Lord, my rock and my redeemer" is how the psalm *ends* — and it is the psalm's own answer to the question of how a sinful person can stand before the God of general and special revelation. This verse is the psalm's gospel moment (the psalmist cannot commend himself; he can only pray for God's acceptance). It is not opened.
+3. **No redemptive-historical movement** — Psalm 19's revelation of God reaches its apex in the New Testament's claim that Christ is the Word made flesh (John 1:1-14) — the special revelation of God in person. Hebrews 1:1-2 ("In many and various ways God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son") is the natural New Testament crown of a Psalm 19 sermon. Its absence means the sermon treats Scripture as a category without arriving at Scripture's own stated subject (John 5:39 — "these are the Scriptures that testify about me").
+
+---
+
+### 11. Blind Spots
+
+The preacher may not see how much the opening third of the sermon (old priest story + Bible statistics + Koran/Mormon comparison) functions as a thematic introduction that delays the text rather than arising from it. The psalm itself opens with creation declaring God's glory — it begins with wonder, not with apologetics. Starting with the glory of the heavens (quoting vv. 1-4) and *then* asking "so why don't we open the book about this God?" would be more textually native and more compelling.
+
+---
+
+### 12. Illusion of Strength
+
+The Edwards quote ("The God that holds you over the pit of hell... and now you have an extraordinary opportunity, a day wherein Christ has thrown the door of mercy wide open") is the sermon's most powerful moment and seems to provide the gospel moment the sermon needs. It does not. Edwards is quoted; the gospel is not preached. A quoted proclamation is not the same as the preacher's own proclamation. The congregation needs to hear the preacher, under the authority of this text, announce that Christ died for sinners — not hear Edwards say something adjacent to it.
+
+---
+
+### 13. Missed Opportunity
+
+Psalm 19:14 is the missed opportunity: "Let the words of my mouth and the meditation of my heart be acceptable in your sight, O Lord, my rock and my redeemer." The Hebrew word for "redeemer" here is *goel* — kinsman-redeemer. The psalmist, having surveyed the majesty of creation and the perfection of Torah, concludes: I cannot commend myself to this God. I need a kinsman-redeemer. This is the psalm's own longing for the gospel — and it is directly fulfilled in Christ. Opening *goel* would have been the most text-native gospel moment available and would have made the entire sermon's argument cohere.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Preach the gospel from verse 14.** Open the *goel* language: "The psalmist ends with a prayer, not a claim. He doesn't say 'I have lived up to this Word.' He says 'let the meditation of my heart be acceptable.' He knows it isn't automatically. He needs a redeemer. He needs a kinsman — someone of his own flesh who can pay the debt he owes. That is what Christ is. He took on flesh. He bore the penalty. He is your *goel* — your kinsman-redeemer. And because of him, your meditation is acceptable. Your prayer is heard. Your sins are covered."
+2. **Move the Bible statistics/Koran/Mormon section to after the text is read.** Let the psalm open with the heavens declaring glory (vv. 1-4), let the congregation feel the weight of the question "has God spoken?" — and *then* bring in the statistics and apologetic material as answer to that question.
+3. **Open verse 14 as the psalm's climax, not as a liturgical tag.** One paragraph: what does the psalmist do with all this revelation? He prays. He asks for acceptance. He does not claim self-sufficiency. The law of the Lord is perfect — and that perfection exposes him. He needs a redeemer.
+4. **Add one redemptive-historical turn.** One sentence: "Hebrews 1:1-2 tells us that God, who spoke through creation and Scripture, has now spoken finally and fully in His Son. Every psalm, every proverb, every covenant promise points to him. The special revelation you hold in your hands says: Christ."
+5. **Add an explicit exhortation.** The sermon describes what the Bible does but does not summon the congregation to open it, trust it, and submit to it. One paragraph: "So here is what I am asking you to do this week. Open it. Not as duty. Open it the way you would open a letter from someone who loved you at great cost. Because that is what it is."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — the sermon is warm and genuinely inquisitive. The wonder at creation (Roosevelt, Southern Cross, bumblebees) and the reverence at Edwards' quote show a preacher who is not cold. The failure is structural (absent gospel, underdeveloped verse 14) not temperamental.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The Roosevelt anecdote produces genuine creaturely smallness and wonder; the Edwards quote produces genuine fear of the God of special revelation; but the sermon does not sustain divine gravity through to a Christ-centered close — it ends with a promised gospel that never arrives.
+
+---
+
+### 17. Rubric Fit Note
+
+Psalm 19 is wisdom/poetry — not a narrative or epistle — and the rubric's categories apply with some strain. The "Exhortation & Response" category is harder to score in a psalm that is itself a prayer and meditation rather than a proclamation with imperatives. The rubric's Gospel Centrality category is rightly applied here, because any text in the canon can and should lead to Christ — and Psalm 19's own *goel* language in verse 14 is the Christological hinge the preacher did not open. The rubric does not impose Christ on the text; the text itself anticipates him. Rubric fit: good, with the caveat that Psalm 19's genre (meditative song) naturally produces a quieter, more reflective sermon register than an epistle passage would — and that register is appropriate for the text.

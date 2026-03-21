@@ -64,3 +64,219 @@ For a church building.
 - **MacArthur quote** *(reworded to paraphrase)*: "the God-ordained role of the law in a fallen world is to reveal the nature of human sin" — exact phrase not found in MacArthur's published material; likely a paraphrase of his teaching. Reworded in draft from direct quote to "As MacArthur has taught..." to reflect this. The concept is consistent with MacArthur's Romans and Galatians exposition. No further action needed unless exact source is located.
 - **Tesla resonance story** *(fully researched — see detailed flags at top of file)*: Multiple factual errors confirmed. Mythbusters verdict was BUSTED (not dramatic); bridge was a truss bridge, not suspension; not in California; no 4-inch displacement; molecular vaporization claim scientifically inaccurate. See top-of-file flag for full detail and recommendations.
 - **"3 in 5 dieters gain weight" statistic** *(fully researched — see detailed flags at top of file)*: No traceable source; "lack of will power" framing contradicted by current biology. See top-of-file flag for full detail and recommendations.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Pastoral Heart on Shaky Ground — Genuine Warmth Without Structural Faithfulness**
+
+---
+
+### 2. One-Sentence Summary
+A warm, personally-invested opening of Romans 7:7-12, 21-25 that demonstrates genuine pastoral love and reaches the conscience through story, but whose main argument drifts significantly from the text's own argument, whose illustrations carry verifiable errors, and whose gospel presentation — while present — rests on thin exegetical scaffolding.
+
+---
+
+### 3. Berean Gate Result
+
+**CONDITIONAL PASS — with serious caveats.**
+
+*Scopus Test*: The sermon's stated theme is "The law as revealer of sin; Christ as fulfillment of the law; the ongoing war in the believer." Romans 7:7-12, 21-25 does teach these things — but the sermon's actual center of gravity is not Romans 7. The text is treated as a launching pad. The bulk of the sermon is spent in John 15, Luke 22, and the Tesla/resonance illustration. Romans 7 itself — with its agonized first-person argument about the law stirring up sin through the commandment, the "I had not known sin but by the law," the strange power of the prohibition, the distinction between the law of the mind and the law in the members — receives almost no exegetical treatment. The sermon does not explain what Paul means by "the commandment came, and sin revived, and I died" (v.9) or the crucial distinction between the law's holiness and its role in producing death through sin (vv.10-12). The Berean Gate passes narrowly because the theme is at least present in the text — but the sermon does not arise from the text's own argument.
+
+*Authority Test*: Pass. The preacher is not editing the text or softening it. He submits to its claims. But he largely bypasses the text's own argument rather than entering it.
+
+**Result: Conditional pass. The theme is in the text. The argument is not from the text.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 2 — Main point does not equal the text's point (partially triggered):** The text's main point in Romans 7:7-12 is the specific, precise relationship between the law, sin, and death — Paul's careful answer to "Is the law sin?" (v.7). The sermon does not explain this argument. The text is referenced but not opened. The sermon imports themes rather than drawing them from the passage's logic. This is not full fatal flaw disqualification, but it is a significant drift that caps the ceiling.
+
+**Flag 4 — Application is partially generic:** The application in Point 2 ("our life should be a reflection of this") and the "I, I, I" section reaches the right level of concreteness at moments, but the final application and the rock story resolve into generic encouragement ("keep pushing on the rock") without specific imperatives tied to what the text demands of the hearer.
+
+**Flag assessment:** No full score cap triggered, but Flag 2 is borderline. Scored with significant deductions in Exposition and Gospel Centrality.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+
+- *Textual Fidelity*: 5/10 — The text is referenced, paraphrased, and its themes named, but Romans 7:7-12 and 21-25 are never actually opened. The argument of the passage — the law's role in *producing* sin through the commandment, "sin reviving" when the law arrived, the distinction between knowing sin and recognizing sin — is absent. Paul's agonized argument about the commandment that "promised life" found to "bring death" (v.10) goes untouched. The preacher tells us the law is a light that reveals — which is true but shallow. The text says more than that.
+- *Contextual Awareness*: 3/5 — The Romans 6-7 transition (death to the law, union with Christ) is gestured at but not situated. The redemptive-historical context is present in the Christological section.
+- *Exegetical Clarity*: 2/5 — Very little actual exegetical work. No Greek engagement. No handling of the "I" in Romans 7 (autobiographical? rhetorical? pre-conversion? post-conversion?) — a critical question the passage raises and that a sermon cannot ignore.
+- *Logical Faithfulness*: 3/5 — No flagrant eisegesis, but the sermon imports material from John 15 that the text does not occasion, and the Tesla illustration imports a claim (Christ could vaporize enemies) that the text does not say and that carries factual errors.
+- **Subtotal: 13/25**
+
+**2. Theology & Doctrinal Integrity — 12/18**
+
+- *Christ-Centeredness*: 6/7 — The Christological section is genuinely strong. Christ's obedience as fulfillment of the law, the Gethsemane passage, the cross as the ultimate expression of love — this section has real theological weight. The connection between Christ's law-keeping and our freedom is present, if underdeveloped.
+- *Redemptive-Historical Awareness*: 2/3 — Christ as fulfillment of the law is asserted; the covenantal logic is gestured at but not developed.
+- *Doctrinal Precision*: 2/4 — "Accepting a free gift" in the invitation section is imprecise. "Ask Jesus into your heart" is semi-present ("have never asked Jesus into your heart"). Justification is not clearly articulated. The language of being "dead to sin" and "dead to the consequence of the Law" is asserted without explanation.
+- *Confessional Alignment*: 2/4 — No clear contradiction of confessional theology, but no confessional precision either. "God chose you" in the invitation draws from John 15:16 but the election-gospel connection is awkwardly handled — election is invoked as comfort but without the regeneration/faith logic that confessional theology requires.
+- **Subtotal: 12/18**
+
+**3. Gospel Centrality & Force — 9/15**
+
+- *Clarity of the Gospel*: 2/5 — The gospel is present — Christ's death, "free gift," "we couldn't have been saved by any other means" — but justification by faith is never clearly articulated. The invitation says to "come talk to me" but does not articulate what the gospel is or how to be saved. A first-time hearer does not have enough to go on.
+- *Necessity of Christ*: 5/5 — The Christological section makes Christ fully necessary. The sermon does not survive without him.
+- *Cross-Centered Gravity*: 2/5 — The cross is referenced but does not serve as the gravitational center. The sermon's weight falls on Christ's obedience and our imitation of it, rather than on the cross as the ground of our standing. The "because" of the gospel (why the cross, for whom, to what end in terms of righteousness) is missing.
+- **Subtotal: 9/15**
+
+**4. Conscience & Applicatory Force — 10/15**
+
+- *Heart Penetration*: 4/5 — This is genuine strength. The "I, I, I" section reaches the conscience. The personal confession ("I've been irritable about helping someone this week") creates permission for the congregation to acknowledge the same. The porn/sex-trafficking digression attempts social conscience but loses its exegetical footing.
+- *Specificity*: 3/5 — Some good specifics (nursing home, picking someone up, being weary). But the rock story resolves into vagueness. The application to the unbeliever is almost entirely generic.
+- *Spiritual Differentiation*: 3/5 — The closing invitation makes a three-way distinction (unbeliever, wandering Christian, unbaptized). The sermon reaches Perkins' categories 5 (believers) and 4 (humbled) and attempts category 2 (ignorant but teachable). The self-righteous are not addressed. The backslider gets one line.
+- **Subtotal: 10/15**
+
+**5. Exhortation & Response — 5/8**
+
+- *Call to Response*: 3/4 — The invitation section is genuine. "Come talk to me" is an actual call to response. The differentiated invitation (unbeliever, wandering Christian, unbaptized, potential member) shows pastoral care. But the call is not grounded in the text's own imperative — "thanks be to God through Jesus Christ our Lord" (v.25) is not used as the exhortation pivot.
+- *Equipping for Holiness & Witness*: 2/4 — "Keep pushing on the rock" is the practical send-off. It is not without value — perseverance in sanctification is a real word — but it is not specifically tied to the text's own answer to the believer's war.
+- **Subtotal: 5/8**
+
+**6. Structure & Logical Flow — 5/9**
+
+- *Clarity of Outline*: 2/4 — Three points are named (freedom, reflection, Paul wasn't perfect) but they do not have memorable formulation and the transitions are loose. The Tesla section is not attached to any point — it floats in Point 1 as a lengthy digression.
+- *Progression*: 2/3 — There is some progression from law → Christ → our war → Paul's war → invitation. But the Tesla illustration derails the momentum significantly and the rock story extends Point 3 beyond what the text provides.
+- *Unity*: 1/2 — Multiple competing ideas: the law as light, Christ's obedience as fulfillment, our daily failure, Paul's war, the dieting analogy, porn/sex-trafficking, the rock story, Tesla. The sermon does not have one dominant idea.
+- **Subtotal: 5/9**
+
+**7. Illustration & Imagination — 3/5**
+
+- *Relevance*: 1/2 — The cavern illustration is native and effective. The Tesla story is technically flagged with multiple errors (see sermon flags). The rock story is effective pastorally but familiar.
+- *Clarity*: 1/2 — The cavern illustration is the clearest. The Tesla illustration is long and ultimately contains scientific errors. The rock story is clear but long.
+- *Memorability*: 1/1 — The cavern image and the rock story will be remembered. The Tesla section will create confusion for anyone who fact-checks it.
+- **Subtotal: 3/5**
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching*: 2/2 — This reads unmistakably as spoken preaching. Oral cadence, direct address, congregational interaction ("who can tell me what happened..."), humor, warmth — this is clearly preached, not written for print.
+- *Conviction on the Page*: 1/2 — The Christological section has real force. The "I, I, I" section has force. But large stretches (Tesla, rock story) carry no textual grounding and diffuse the conviction.
+- *Cadence and Breath*: 0/1 — The manuscript does not demonstrate sentence-length variation or climactic compression. The Tesla section is particularly undisciplined in pace.
+- **Subtotal: 3/5**
+
+---
+
+### 6. Cognitive Load Assessment
+
+**Score: −1**
+
+The sermon is accessible — probably too loose rather than too dense. The Tesla section adds cognitive load without theological payoff. The transitions between topics are informal and oral. An average congregant can follow the main argument but will struggle to articulate it because it is not clearly defined. The cavern → law → Christ → our failure → Paul's failure → rock story sequence is trackable in the moment but not retainable after.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 13/25 |
+| Theology & Doctrinal Integrity | 12/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 10/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **60/100** |
+| Cognitive Load Modifier | −1 |
+| Weight of Glory Bonus | +2 |
+| **Total** | **61/100** |
+
+**Band: Concerning gaps. The sermon explains and moves the heart at moments, but it does not preach from the text's own argument. Significant revision needed.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Partially Christ. The Christological section genuinely magnifies Christ. But the rock story and the "keep pushing" conclusion shift the weight toward human effort and perseverance. The answer is mixed.
+
+2. **Did I encounter God, or just ideas about Him?**
+Moments of encounter — particularly in the Gethsemane reflection and the "wretched man" identification with Paul. But the Tesla digression and the pastoral informality diffuse the weight. More ideas than encounter, on balance.
+
+3. **Was I comforted, convicted, or merely informed?**
+Convicted and comforted at moments — genuine pastoral warmth comes through. But the information density is low and the conviction is more emotional than textual. The hearer is moved but not necessarily by the text.
+
+---
+
+### 9. Strengths (Top 3)
+
+**1. The Christological center has genuine theological weight.**
+The Gethsemane passage (Lk 22:42), the obedience-to-death section (Phil 2:8), and the extended reflection on Christ's love in John 15 produce real Christological substance. "He sat through the trial, he allowed himself to be beaten. He allowed the people to mock him. He obediently carried the cross up calvary" — this section has sermonic force and genuine gospel content.
+
+**2. Personal confession creates pastoral permission.**
+"I've been irritable about helping someone this week, and let my feelings get in the way of doing what was right" — this pastoral transparency is rare and valuable. It creates space for the congregation to be honest. The "I, I, I" section demonstrates what good applicatory work looks like.
+
+**3. The differentiated invitation shows pastoral awareness.**
+The closing invitation that addresses the unbeliever, the wandering Christian, the unbaptized, and the prospective member demonstrates Perkins-style differentiation even if it is not labeled as such. This is a structural strength that can be developed.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+**1. Romans 7 is never actually opened.**
+The passage is titled, announced, and gestured at, but its argument is not entered. The text's specific claim — that the commandment came, sin revived, and Paul "died"; that the law is holy, just, and good even while it produces death in the sinner — is never explained. A hearer could leave without knowing what Paul actually argues in these verses. This is the sermon's most serious problem. The text is used as a doorway into other material, never as the room in which the congregation is invited to live.
+
+**2. The Tesla illustration is not only factually erroneous but theologically misdirected.**
+The illustration is designed to demonstrate Christ's power to destroy his enemies — but the text does not argue that. Romans 7 is about the law's role in revealing sin and the believer's ongoing war, not about Christ's eschatological power over enemies. The illustration is exegetically imported from outside the text's argument, and it contains multiple verifiable errors (see sermon flags). A congregation member who looks it up will be confused or disillusioned.
+
+**3. The gospel presentation does not give an unbeliever enough to act on.**
+The invitation is warm and genuine, but "accepting a free gift" and "come talk to me" without an articulation of what the gospel is — Christ died for sinners, bearing the wrath we deserved, and rises, and we are united to him through faith — leaves the unbeliever with emotional appeal but not saving content. What is the "free gift"? How does one receive it? What is the faith being asked for? These questions are not answered.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how far the sermon has drifted from the text. It feels like a Romans 7 sermon because it begins there and returns there occasionally. But the sermon's argument is constructed primarily from John 15, Luke 22, and narrative illustration. The exposition of what Paul actually says in these verses — the specific mechanics of how the law arouses sin, the "I" who knows what is right and cannot do it, the warfare of verse 23 — has never been preached. The preacher's pastoral instincts are genuine and warm; what is missing is the exegetical discipline to let the text set the agenda rather than supply the theme.
+
+There is also a blind spot around the Tesla illustration: the preacher likely does not know the extent of its errors. The flags file documents this thoroughly, but the illustration needs to be removed or completely rebuilt regardless of the factual questions, because it does not arise from the text's argument.
+
+---
+
+### 12. Illusion of Strength
+
+The personal warmth and oral authenticity of this sermon create an illusion of pastoral depth that masks the exegetical thinness. A congregation that loves and trusts the preacher — which this one evidently does — will receive the sermon as a genuine encounter with the text when in fact they have encountered the preacher's heart and several passages from John 15. This is not dishonesty; it is the natural risk of a preacher whose pastoral gift is stronger than his exegetical discipline at this stage. The warmth is real. But warmth is not the same as textual authority.
+
+---
+
+### 13. Missed Opportunity
+
+Romans 7:9 — "I was once alive apart from the law, but when the commandment came, sin revived and I died" — is one of the most psychologically penetrating and theologically dense statements in all of Paul's letters. The sermon walks past it without comment. This verse is the passage's beating heart: the strange, terrible relationship between prohibition and desire, between the law's holiness and its death-producing effect in sinful flesh. Paul is describing something every person in the congregation knows from experience: the way a rule can make the forbidden thing suddenly irresistible. That is the passage's own door into conscience and application — and it was not used.
+
+---
+
+### 14. Surgical Fixes (Specific)
+
+1. **Rebuild Point 1 from Romans 7:7-12 itself.** The text's own argument — "Is the law sin? By no means" — is the first point. Explain what Paul means by "I would not have known covetousness if the law had not said, 'You shall not covet'" (v.7). Use verse 9 to explain the strange relationship between law and sin. The cavern illustration is actually useful here — darkness and light is the right metaphor — but it needs to be applied to the text's argument, not used as a standalone opening.
+
+2. **Remove the Tesla illustration entirely or replace it.** The factual errors are documented. More importantly, the illustration does not serve the text's argument. If you want to demonstrate Christ's power, use the resurrection — the text's own answer to the "who will deliver me from this body of death?" (v.24) is "Thanks be to God through Jesus Christ our Lord" (v.25). Let the text supply the climax.
+
+3. **State the gospel with content, not just invitation.** Before "come talk to me," say: "Here is what it means to trust Christ: you were a lawbreaker under the wrath of a holy God. Christ bore that wrath in your place, dying under the judgment you deserved, rising as the firstfruits of new creation. Faith is not a feeling — it is turning from your own righteousness to his, trusting his death as the payment for your sin and his life as the ground of your standing before God. That is the free gift." Then invite.
+
+4. **Use verse 25 as the exhortation pivot.** "Thanks be to God through Jesus Christ our Lord!" is Paul's exhortation — it is a doxological eruption, a word of worship. The sermon's third point (Paul wasn't perfect) should not end with a story about endurance but with the congregation being summoned to Paul's own response: not "keep pushing the rock" but "thanks be to God." The text tells you where to go.
+
+5. **Add direct address to the self-righteous after Point 1.** The sermon addresses the struggling Christian and the unbeliever, but misses the person who is "knowledgeable but unhumbled" — the person who has heard this passage many times, nods along, and is unmoved by it. "Some of you know this text, you have heard this your whole life, and you are not convicted by it. That is exactly what Paul is describing — sin has used the law to deceive you (v.11), and your familiarity with the law has become your shelter from it."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** This sermon is not bloodless. The pastoral warmth, personal confession, and genuine love for the congregation prevent this flag. The problem here is not dead orthodoxy — it is living warmth in need of exegetical bones.
+
+---
+
+### 16. Weight of Glory Assessment
+
+There are genuine sparks of eternal weight — particularly in the Gethsemane reflection and the identification with Paul's wretchedness — but the sermon does not sustain the gravity its best moments reach; the Tesla digression and the rock story dissipate what the Christological center builds.
+
+**Bonus: +2/5**
+
+---
+
+### 17. Rubric Fit Note
+
+Romans 7:7-12, 21-25 is a demanding passage for any framework — it is dense Pauline argument, not narrative, and its psychological depth (the "I" passages) resists easy homiletical structure. The rubric's emphasis on textual fidelity is particularly apt here: this passage rewards — and demands — careful exegetical work that the rubric's Exposition category rightly prizes. The genre does not strain the rubric; it simply reveals where exegetical investment is needed. The law/gospel diagnostic (Category 3) is especially native to this text. No rubric adjustments needed.

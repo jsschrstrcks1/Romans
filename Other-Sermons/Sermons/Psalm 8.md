@@ -175,3 +175,201 @@ Yahweh Adonai. Our Lord our Lord.
 *Illustrations: Colombian algae river; Looe Key reef; Arches National Park; Notre Dame; David Platt / Muslim cab driver*
 *Quotes: J.C. Ryle, Holiness | John MacArthur (Romans 6 application)*
 *Song: "How He Loves" — John Mark McMillan / David Crowder Band*
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**"Majesty Without the Scaffold: A Winsome Opening That Stops Short of Preaching"**
+
+---
+
+### 2. One-Sentence Summary
+A genuinely warm and textually grounded opening of Psalm 8 that magnifies divine condescension and handles the Hebrews 2 fulfillment organically, while stopping short of pressing the conscience, differentiating hearers, or issuing a true exhortation.
+
+---
+
+### 3. Berean Gate
+
+**Pass.**
+
+- **Scopus Test**: Pass. The sermon's thesis — that Yahweh Adonai, the majestic sovereign, has condescended in intimate care toward creatures who deserve nothing — demonstrably arises from Psalm 8's own movement (cosmic majesty → human smallness → divine attention). The sermon stays in orbit around that arc.
+- **Authority Test**: Pass. The preacher does not soften or edit the text. The embarrassing logic of the psalm (What is man? Nothing. And yet God is mindful of him.) is embraced, not domesticated. The Hebrews 2 application is organic and submissive to the text's own claim.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**One flag triggered: Flag #5 — No actual exhortation.**
+
+The gospel section closes with an invitation — "if you'll let Him" — but never issues a direct command to believe, repent, or pursue anything specific. The sermon explains majesty and applies it generally but never calls the congregation to a defined response. The congregation was told something wonderful. They were not summoned.
+
+**Score cap: 69.**
+
+No other fatal flags are triggered. The gospel is present, Christ is essential to the argument, and the sermon is accessible to ordinary hearers. Application is thin but not entirely absent.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 19/25**
+
+- *Textual Fidelity (8/10)*: The sermon derives its core argument from the psalm's own structure — the doxology bookending human creatureliness. The Yahweh/Adonai distinction in verse 1 is treated with real care and is genuinely illuminating. The use of Deuteronomy 32:9 as a grafting-in text is brief but legitimate. The FCF (Fallen Condition Focus) is implicitly present — human smallness and unworthiness — but never named with precision. The question "What is man?" is cited but the *condition* it diagnoses (creature-pride, deserving nothing) is gestured at rather than pressed.
+- *Contextual Awareness (4/5)*: The move to Hebrews 2:6-9 is the strongest exegetical moment in the sermon. The preacher correctly identifies that the writer of Hebrews reads Psalm 8 as messianic — not by forcing it, but by following the New Testament's own reading. The Christological fulfillment arises from covenantal logic, not an artificial jump.
+- *Exegetical Clarity (4/5)*: The Yahweh/Adonai explanation is clear, accessible, and pastoral — it unlocks the text without burdening the congregation with academic apparatus. The father/Daddy analogy is particularly well-chosen.
+- *Logical Faithfulness (3/5)*: The sermon proceeds faithfully through the psalm's own sequence but skips verses 5-8 almost entirely. The dominion mandate — God's crowning of humanity with glory and honor, putting all things under their feet — receives no independent treatment. The sermon goes directly from "What is man?" to Hebrews 2, which is legitimate but leaves the psalm's original argument about human dignity in creation underdeveloped. The psalm is not just about condescension; it is about the astonishing elevation of creatures made from dust. That elevation sets up the fall and the need for the one who truly fulfills the human mandate. That scaffolding is absent.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness (6/7)*: Strong. The connection to Hebrews 2 is the right move and is made without artificiality. Jesus as the one who "for a little while was made lower than the angels... crowned with glory and honor because of the suffering of death" is handled with real weight. The incarnation as condescension is the sermon's central theological contribution.
+- *Redemptive-Historical Awareness (2/3)*: The move from Psalm 8 to Hebrews 2 demonstrates awareness of redemptive-historical trajectory. But the sermon does not explicitly place this within the larger story — Adam's failure to exercise dominion, Israel's failure, and Jesus as the true Son of Man who finally fulfills the psalm's vision. That arc would strengthen the theology considerably.
+- *Doctrinal Precision (3/4)*: The sermon is doctrinally tidy but thin. The gospel section ("He sent His Son to be made lower than the angels, to suffer, to die — to taste death for everyone who would come to Him in faith") is the clearest doctrinal statement in the sermon and is essentially sound. But penal substitution is not named or explained. "Taste death for everyone" could be misread as universalism without clarification.
+- *Confessional Alignment — 1689 Pulse (2/4)*: The sermon does not contradict confessional theology. But it does not engage the text's soteriological opportunity with confessional precision. "He will get to you too, if you'll let Him" drifts toward Arminian framing. In a Reformed Baptist context, the sovereign particularity of divine election would be the natural completion of the Yahweh/Adonai argument — the God who binds Himself to a people has called specific people. That is not here.
+
+**3. Gospel Centrality & Force — 9/15**
+
+- *Clarity of the Gospel (3/5)*: The gospel is present and sincere but thin. The cab driver story is the sermon's most evangelistically effective moment, and it is used well. But the gospel paragraph in the closing section summarizes the death of Christ without explaining what it accomplishes — no mention of sin's guilt, no account of how the death removes the barrier, no call to faith as the instrument of receiving it.
+- *Necessity of Christ (4/5)*: Christ is essential to this sermon. Remove Him and the argument collapses. The Hebrews 2 move is precisely about Christ's necessity as the one who alone fulfills what man cannot. This is the sermon's strongest gospel element.
+- *Cross-Centered Gravity (2/5)*: The sermon moves toward the incarnation more than the cross. The death is mentioned but the cross is never the gravitational center. The sermon could read as a sermon about the beautiful condescension of God in the incarnation without the atonement being the load-bearing doctrine. The cross must be more than a final clause.
+
+**Synagogue Test**: Partial concern. A devout Jew or Muslim could follow much of this sermon — the majesty of God, the smallness of man, even the condescension motif — without being offended by the blood of Christ. The atonement is present but not scandalous. "He would get to you too, if you'll let Him" does not constitute a confrontation with the necessity of substitutionary death.
+
+**4. Conscience & Applicatory Force — 7/15**
+
+- *Heart Penetration (2/5)*: The sermon informs more than it searches. The cab driver story creates emotional warmth and opens the heart, but no moment in the sermon corners a specific hearer in their specific sin or specific complacency. The "polite noncommittal" neighbor illustration comes close — but it is narrated about someone else, not addressed to anyone in the room.
+- *Specificity (2/5)*: The Ryle and MacArthur quotes gesture toward a harder edge — cheap Christianity, slavery to Christ — but they arrive without development and depart without application. They are quotations that point toward specificity rather than specificity itself.
+- *Spiritual Differentiation (3/5)*: The sermon addresses the unconverted ("If you're here today and you don't know Him") and implicitly the believer ("Following Christ is not easy"). But it does not reach the backslider, the knowledgeable-but-unmoved, or the humbled-but-not-yet-believing. Perkins' taxonomy is barely sketched. Of the seven categories, perhaps two are addressed, and neither is addressed with sharpness.
+
+**5. Exhortation & Response — 2/8**
+
+- *Call to Response (1/4)*: "He will get to you too, if you'll let Him" is the closest thing to an invitation in this sermon. It is not an exhortation. It does not tell the hearer what to do, believe, repent of, or pursue. There is no "therefore" moment. The sermon ends on a doxological note — "How majestic is your name in all the earth" — which is beautiful, but it does not summon the congregation to anything.
+- *Equipping for Holiness & Witness (1/4)*: The MacArthur quote about slavery to righteousness is the seed of equipping language, but it is planted without cultivation. The sermon does not send the church out. It closes the curtain on a beautiful scene without telling the audience what to do with it.
+
+**6. Structure & Logical Flow — 7/9**
+
+- *Clarity of Outline (3/4)*: The three-point structure (Two Names / The Question That Levels You / The Majesty That Stoops) is clear, traceable, and builds logically. A listener could sketch it. The illustrations are integrated into the structure rather than appended to it, which is a real strength.
+- *Progression (3/3)*: The sermon builds well. Each point lands before the next one begins. The opening illustrations establish the majesty theme, Point 1 defines the names, Point 2 introduces the question and the Hebrews fulfillment, Point 3 brings the incarnation home. The movement is earned.
+- *Unity (1/2)*: The sermon has one dominant idea but the Ryle/MacArthur section in Point 3 feels like a different sermon intruding. The discipleship cost material does not arise from the Psalm's argument — it arises from a pastoral concern about cheap Christianity that is valid but untethered to the text at that moment.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2)*: The Colombian algae river, Looe Key, Arches, and Notre Dame are all drawn from the preacher's own experience. These are specific and believable. The congregation can trust them.
+- *Clarity (1/2)*: The cab driver story is the best illustration in the sermon — specific, evangelistically alive, and directly connected to the sermon's central claim (condescension, divine pursuit). The nature illustrations in the opening are less directly connected to the text's argument; they establish mood more than they illuminate the point.
+- *Memorability (1/1)*: The cab driver story will be remembered. It earns that score.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2)*: The manuscript has an oral cadence. Sentences are breath-length. Direct address appears ("Some of your faces," "I'd ask for examples"). This reads like a man who preaches, not a man who writes.
+- *Conviction on the Page (1/2)*: The conviction is present in the illustrations and the Hebrews 2 section, but the closing gospel appeal lacks it. "He will get to you too, if you'll let Him" is mild where the text demands urgency.
+- *Cadence and Breath (0/1)*: Sentence variation exists but the sermon does not build to a climactic compression. The ending trails off doxologically rather than landing with weight. The final line — "How majestic is your name in all the earth" — is a quotation, not a close.
+
+---
+
+### 6. Cognitive Load Modifier: **0**
+
+The sermon is well-paced. The Yahweh/Adonai distinction is the most technical moment and it is handled accessibly. The single mother, the high schooler, and the new believer can follow this without difficulty. The Hebrews 2 connection is explained, not assumed.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 19/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 7/15 |
+| Exhortation & Response | 2/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **64/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **66/100** |
+
+**Score capped at 69 due to Fatal Flaw Flag #5.** Raw total of 66 falls within the cap, so the cap does not alter the score — but the flag stands.
+
+**Interpretation: Concerning Gaps (60–69).** The sermon explains but does not fully preach. Significant revision needed, concentrated in exhortation and conscience application.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* More of Christ. The sermon consistently points away from human achievement toward divine condescension. This is its most consistent strength.
+2. *Did I encounter God, or just ideas about Him?* Largely ideas — though the cab driver story and the Hebrews 2 section have genuine heat. The encounter is possible but not demanded.
+3. *Was I comforted, convicted, or merely informed?* Predominantly informed, with warmth. The comfort is present for the believer who already knows the gospel. The unconverted hearer is moved but not cornered.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Yahweh/Adonai exegesis (Point 1)**: The father/Daddy analogy unlocks the intimacy of the divine name with real pastoral insight. This is the kind of moment where exposition serves worship — the congregation leaves knowing something about God they can carry.
+
+2. **The Hebrews 2 move (Point 2)**: This is theologically honest and redemptive-historically sound. The preacher follows the New Testament's own reading of the psalm rather than inventing a Christological connection. The quote from Hebrews 2:6-9 is introduced with a question ("Did you catch that?") that creates genuine forward motion.
+
+3. **The cab driver illustration**: Specific, credible, evangelistically alive, and native to the sermon's theme. The detail of the Muslim man weeping over a dream he couldn't explain connects directly to the claim that God is mindful of man — and that divine mindfulness pursues people who have no framework for it.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **No exhortation (throughout, but especially the Gospel section)**: The sermon never tells anyone what to do. "He will get to you too, if you'll let Him" is not an exhortation — it is a hopeful observation. The unbeliever needs to be told to repent and believe. The believer needs to be told to pursue something. Nobody is summoned. This is the structural failure that caps the score.
+
+2. **The cross is decorative, not load-bearing (Gospel section)**: "He sent His Son to be made lower than the angels, to suffer, to die — to taste death for everyone who would come to Him in faith" is accurate but insufficient. What does the death accomplish? What was the problem it solved? Why must it be by death? The atonement is referenced but not explained. A hearer could leave with a theology of beautiful condescension that has no account of substitution.
+
+3. **Verses 5-8 are absent (Point 2, transition to Point 3)**: The psalm's dominion mandate — crowning with glory and honor, putting all things under human feet — is the textual foundation for the Hebrews 2 argument. Hebrews 2 quotes the psalm specifically to say that this dominion has not yet been achieved by humanity, but has been achieved by Christ. The preacher uses Hebrews 2 correctly but without showing why those specific verses are being quoted. The exegetical floor is missing.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the "polite noncommittal" neighbor story and the Ryle/MacArthur discipleship material represent two different sermons trying to coexist. One is an evangelistic appeal; the other is a discipleship challenge. Neither is developed enough to land. The preacher probably feels the tension but resolves it by including both — which means neither penetrates. The sermon would be stronger by committing to one or the other and following it through to the conscience.
+
+---
+
+### 12. Illusion of Strength
+
+The opening illustration sequence (Colombia, Looe Key, Arches, Notre Dame) feels like a strong, cinematic opening. It has genuine warmth and pastoral personality. But it establishes a mood for the sermon that the sermon then has to overcome rather than fulfill — the congregation is oriented toward wonder at creation, which is exactly what the psalm warns against as a ceiling. The sermon eventually makes this turn ("If you think the majesty of God can be fully summed up by the things He made, your view of that majesty is too small"), but the transition is abrupt and the four illustrations are more than necessary for a setup that could be made in two. The opening is longer than the sermon's most important theological moment (the Hebrews 2 section). That imbalance reflects misplaced weight.
+
+---
+
+### 13. Missed Opportunity
+
+Verses 5-8 contain the theological hinge that makes the entire Hebrews 2 connection meaningful. The psalm says humanity was made a little lower than the heavenly beings and crowned with dominion over creation. Hebrews 2 says we do not yet see that dominion fulfilled in humanity — but we see it fulfilled in Jesus. The sermon quotes Hebrews 2 without building the exegetical case for why those specific verses matter. The preacher had the opportunity to show that Psalm 8 is not simply a psalm about human dignity — it is a psalm about the human vocation that was lost in the fall and recovered in Christ. That is the text's own depth, and it was not reached.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Add a direct call to repentance and faith in the Gospel section.** Replace "He will get to you too, if you'll let Him" with a direct address: "If you have never repented of your sin and trusted Christ — tonight is the night. He has tasted death for sinners. Come to Him. Repent and believe."
+
+2. **Develop the dominion mandate in verses 5-8 before moving to Hebrews 2.** Give one minute to the psalm's claim that God crowned humanity with glory and put all things under their feet — and then ask: "Do you see that? Do you see everything in subjection to humanity? Neither did the writer of Hebrews. Something went wrong. But then the writer says: 'We see Jesus.'" This is the exegetical scaffold Hebrews 2 requires.
+
+3. **Clarify substitutionary atonement in the Gospel section.** After "to taste death for everyone," add: "Not as an example of suffering — but as the one who bore the guilt of sinners in His own body. God's justice against sin landed on Him so it would not land on you."
+
+4. **Cut one of the four opening nature illustrations.** The algae river and either Looe Key or Arches would accomplish the same setup with more economy. The extra material delays arrival at the text without proportional return.
+
+5. **Resolve the Ryle/MacArthur section.** Either develop the discipleship cost material as a genuine exhortation to the believer (What does it mean to serve righteousness as a slave? Name three things.) or remove it and let the Gospel section carry the closing. The current version plants without harvesting.
+
+6. **Close with a doxological exhortation, not just doxology.** "How majestic is your name in all the earth" is a beautiful close — but give the congregation something to do with it. "Go home and name three places where the majesty of God meets the smallness of your life. Then tell someone what you found. That is witness."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is warm, not bloodless. The cab driver story and the opening illustrations show pastoral instinct. The theology is not cold. The concern is not dead orthodoxy — it is incomplete preaching. The fire is present in smaller moments; the structure does not yet marshal it into a summons.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon reaches for the eternal and occasionally touches it — particularly in the Hebrews 2 section and the cab driver story — but does not yet carry the full weight of the psalm's doxological claim; the congregation is moved toward wonder but not yet undone by it.
+
+**Bonus: +2/5**
+
+---
+
+### 17. Rubric Fit Note
+
+**Psalm 8 is a creation-praise psalm with wisdom elements and a redemptive-historical fulfillment in the New Testament.** The rubric fits reasonably well given the preacher's decision to preach it through the lens of Hebrews 2, which introduces genuine gospel content. Without that New Testament move, the rubric's Gospel Centrality categories would strain — a pure creation-praise psalm does not demand explicit atonement doctrine in the way a Pauline epistle does. The preacher's instinct to anchor the sermon in Hebrews 2 was correct and makes the rubric applicable without forcing the genre. The Conscience and Exhortation categories press hardest against this text — not because the psalm cannot produce them, but because the sermon chose not to develop them. That is a preacher's choice, not a genre limitation.

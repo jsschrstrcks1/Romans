@@ -53,8 +53,158 @@ Communion
 that the Lord Jesus on the night when he was betrayed took bread, 24 and when he had given thanks, he broke it, and said, “This is my body, which is for[b] you. Do this in remembrance of me.”[c] 25 In the same way also he took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.” 26 For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes.
 
 Announcements
-Easter egg hunt following lunch. 
-If enough people are interested I’ll try to secure rights for a second showing of Pilgrims Progress. 
+Easter egg hunt following lunch.
+If enough people are interested I’ll try to secure rights for a second showing of Pilgrims Progress.
 Food Pantry 10-12
 Clubs on Thursday nights
 June has 5 Sundays, would like to have our fifth Sunday service outside at that point.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+A Gospel Frame Without a Textual Foundation: Sincere Evangelism Riding on a Sermon That Hasn’t Opened John 10
+
+---
+
+### 2. One-Sentence Summary
+A sincere evangelistic appeal and genuine pastoral concern for the congregation, delivered through a Pilgrim’s Progress framework that largely bypasses John 10 as a text to be opened and exposited.
+
+---
+
+### 3. Berean Gate Result
+**FAIL — Scopus Test**
+
+*Scopus Test*: The stated text is John 10 (specifically vv. 7–11 are read). But the sermon’s main point is not the main point of John 10. The sermon’s governing idea is drawn primarily from Pilgrim’s Progress — stay on the Kings Road, start at the wicket gate — with John 10 cited briefly as support at the end. The bulk of the sermon consists of: an extended reflection on Pilgrim’s Progress, a statistical analysis of divorce and its effects on children, a gospel presentation using Romans 3:23, Romans 6:23, John 3:16, Ephesians 2:8–9, and Romans 10:9 — with John 10 appearing for approximately three paragraphs near the close.
+
+The main point of the sermon as preached is: "Life outside God’s path leads to destruction; salvation comes through Jesus (the wicket gate)." That is a true statement. It is not the main point of John 10. John 10’s main point is the identity and authority of Christ as the Good Shepherd who knows His sheep, lays down His life for them, and secures them in the Father’s hand — addressed specifically to religious leaders who are refusing to believe in Him.
+
+The sermon uses John 10:7–11 as a proof text for the evangelistic invitation but does not arise from the text’s own argument. The text is not the source; it is the landing pad.
+
+**Evaluation stops here per rubric protocol. No score is assigned.**
+
+> "This sermon is not text-driven. The main point of the sermon does not arise from the main point of the passage. No score is assigned. The sermon must be rebuilt from the text, not decorated with it."
+
+---
+
+### 4. Fatal Flaw Flags
+*Score assignment is suspended due to Berean Gate failure. Fatal flaw flags are noted for diagnostic purposes only.*
+
+**Flag 2 — Main point does not equal text’s point**: As detailed above, John 10’s argument is not the source of this sermon’s argument. The text is used as a springboard and a supporting citation, not as the governing Word being opened.
+
+**Flag 1 — No clear gospel presentation from the text**: The gospel presentation is present and genuine, but it is assembled from a chain of verses (Romans 3:23, 6:23, John 3:16, Ephesians 2:8–9, Romans 10:9) rather than arising from John 10 itself. This is not technically a flag under normal scoring since the gospel *is* clearly presented — but it underscores the disconnect between text and sermon.
+
+*Note: Flag 1 is not fully triggered — the gospel IS present and clearly proclaimed. The sermon’s evangelistic section is its strongest and most clear-eyed moment. But it does not arise from the stated text.*
+
+---
+
+### 5. Score Breakdown
+*Suspended due to Berean Gate failure. Narrative diagnostic provided instead.*
+
+**Exposition**: Near zero. John 10:7–11 is read but not opened. The "I am the door" claim in v. 7 and v. 9 is identified as the wicket gate, but the interpretive move is from Pilgrim’s Progress to the text rather than from the text outward. The "Good Shepherd lays down His life" in v. 11 is not treated. The context, the imagery, the I AM structure, the background in Ezekiel 34, and the occasion of the discourse (the healing of the blind man in John 9) are all absent.
+
+**Theology**: The doctrinal content is sound where it appears. Penal substitution is present ("we deserved death and hell, but he took our place"). Total depravity is present (Romans 3:23, the "defect in our hearts" language). Justification by faith alone is present (Ephesians 2:8–9). These are real strengths in the evangelistic section. But they are assembled from a topical chain, not derived from John 10.
+
+**Gospel Centrality**: This is the strongest element of the sermon. The gospel presentation in the second half is clear and complete: sin (Romans 3:23), its penalty (Romans 6:23), the substitutionary death of Christ (John 3:16, John 10:11 briefly), salvation by grace through faith (Ephesians 2:8–9), and the call to confess (Romans 10:9). A person genuinely could understand how to be saved from this section. This is real — and should not be dismissed simply because the textual grounding is weak.
+
+**Conscience and Application**: The Pilgrim’s Progress section on wandering from the Kings Road produces some genuine conscience-pressing content — particularly the statistics on divorce and the implicit challenge that our choices have consequences for our children. This is an unusual but potentially effective form of applicatory pressure. However, it is not grounded in John 10 and does not arise from a text being opened.
+
+**Exhortation**: Present. "Come talk to me before you go" is a clear evangelistic call. The sheep/gate imagery produces an implicit call to enter through Christ. This is genuine.
+
+**Structure**: The sermon’s structure is: Pilgrim’s Progress reflection → divorce statistics → Pilgrim’s Progress connection to wicket gate → John 10 briefly → gospel chain → Communion. This is topical/thematic rather than expository, and the transitions are visible seams rather than organic progressions.
+
+**Illustration**: The Pilgrim’s Progress material functions as an extended central illustration, and it is well-used for its purpose. The drug/alcohol and sexual revolution sections serve as cultural application of the "wandering from the path" theme. These are vivid and accessible.
+
+**Sermonic Force**: The sermon reads like a pastoral conversation rather than a sermon in the classical sense — warm, personal, direct. That has genuine value. "If you don’t have a relationship with Jesus, you have no hope" is the sermon’s sharpest sentence.
+
+---
+
+### 6. Cognitive Load Assessment
+*Suspended. Note for diagnostic purposes: the sermon is accessible and easy to follow. The Pilgrim’s Progress framework provides a familiar narrative scaffold that keeps ordinary hearers oriented throughout. No cognitive overload is present. If anything, the cognitive demand is low enough that theologically maturing hearers may feel underserved.*
+
+---
+
+### 7. Total Score
+**No score assigned.** Berean Gate failed. The sermon must be rebuilt from the text.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+   The evangelistic section does point to Christ — genuinely and clearly. The first half (Pilgrim’s Progress, divorce statistics) points primarily to moral consequences of bad choices, which tends to make the hearer think more about their own circumstances than about Christ. Mixed result.
+
+2. **Did I encounter God, or just ideas about Him?**
+   The gospel section presents clear ideas *about* Christ’s death and resurrection, but there is no sustained movement toward encountering God as God — weighty, holy, present. The tone is informational and warm, but not trembling.
+
+3. **Was I comforted, convicted, or merely informed?**
+   Primarily informed, with some conscience-pressing in the divorce statistics section and genuine comfort offered in the gospel closing. The unbeliever may be genuinely convicted. The believer is primarily informed and reminded.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **A clear and complete gospel presentation**: The evangelistic section (Romans 3:23 through Romans 10:9) is the sermon’s strongest content. It is clear, logically sequenced, and does not hedge. "We deserved death and hell, but he took our place" is a genuine articulation of penal substitution. For an evangelistic context, this section does what it needs to do. The preacher clearly loves the gospel and wants people to respond to it.
+
+2. **Pastoral warmth and congregational presence**: The sermon is clearly spoken by someone who knows the people in the room — David’s lift, the congregation’s giving, the Easter egg hunt, the second Pilgrim’s Progress showing. This kind of pastoral intimacy cannot be manufactured. The preacher is present to his people, and they can feel it. This is not nothing; it is a real gift.
+
+3. **Effective use of Pilgrim’s Progress as congregational framework**: Coming immediately after a church screening of the film, the extended Pilgrim’s Progress framework is contextually smart. The preacher connects the narrative the congregation just watched to the text at hand. The wicket gate as an entry point to John 10:7–9 is an accessible bridge. For this specific congregation on this specific evening, this was a reasonable contextual choice.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **John 10 is not opened**: The stated text is John 10, but the sermon does not exposit it. Verses 7–11 are read and briefly identified, but the text’s own argument — Christ as the true Shepherd in contrast to the Pharisees who are false shepherds; the security of the sheep grounded in the Shepherd’s substitutionary death; the "I AM" claim — is not developed. The congregation heard John 10 quoted; they did not hear John 10 preached.
+
+2. **The first half of the sermon is disconnected from the text**: The Pilgrim’s Progress reflection (approximately half the sermon) is engaging and morally serious, but it is not exegesis of John 10. The divorce statistics, while striking, do not arise from the passage and pull the sermon into extended sociological territory that never reconnects to the text’s own argument. The preacher has assembled a sermon *using* the text rather than *from* the text.
+
+3. **The gospel is right but unmoored**: The evangelistic chain (Romans 3:23, 6:23, John 3:16, Ephesians 2:8–9, Romans 10:9) is sound, but it is a topical gospel outline grafted onto an announced text rather than arising from it. John 10 itself has extraordinary gospel content — "the good shepherd lays down his life for the sheep" (v. 11), "I give them eternal life, and they will never perish" (v. 28) — that could ground the same gospel proclamation organically. The preacher went outside the passage to find what the passage already contained.
+
+---
+
+### 11. Blind Spots
+
+The preacher may not recognize how much of the sermon’s weight is being carried by Pilgrim’s Progress rather than by John 10. The film screening creates a natural gravitational pull toward Bunyan’s narrative, and the preacher follows that pull. But the congregation came to hear the Word opened — and Pilgrim’s Progress, however brilliant, is not the Word. When the scaffolding is more developed than the text, the sermon has been shaped by the illustrative material rather than by Scripture.
+
+The preacher also may not realize that the people most at risk — religious, church-attending, socially moral people who have never genuinely entered through the door — are precisely the audience Jesus is addressing in John 10. The Pharisees are in the room. The sermon gestures toward this ("going to church isn’t enough") but does not press it with the force the text provides.
+
+---
+
+### 12. Illusion of Strength
+
+The divorce statistics section feels substantive — it has numbers, citations, and moral weight. It may feel like "applied preaching" because it addresses a real-world consequence of sin with specific data. But this is not applicatory preaching from a text; it is a cultural illustration in sermon clothing. The data is real, the concern is genuine, and the moral point is valid — but it does not arise from John 10, and its presence in the sermon crowds out textual development that never comes. The weight of the statistics can create an impression of depth that the exposition does not sustain.
+
+---
+
+### 13. Missed Opportunity
+
+John 10:11 — "I am the good shepherd. The good shepherd lays down his life for the sheep" — is one of the most gospel-dense sentences in the Fourth Gospel. The Greek "lays down" (tithemi) is used five times in this passage (vv. 11, 15, 17, 17, 18), and the voluntariness of the death is made explicit: "No one takes it from me, but I lay it down of my own accord" (v. 18). This is not incidental. John is building a portrait of a Shepherd who dies willingly, on purpose, for specific sheep — and who takes His life back again. That is the resurrection set up within the Passion narrative. The sermon’s brief acknowledgment of this ("even death on the cross") in the evangelistic close is the right instinct. But the text had already opened the door to the atonement, the resurrection, and the sovereignty of Christ over death — and none of it was walked through.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Make John 10 the governing text, not a proof text**: If John 10:7–11 is the announced passage, rebuild the outline from the text’s own structure. The three movements of the passage are present in the text: (1) Christ is the Door — the only legitimate entry point for the sheep; (2) Christ is the Good Shepherd — who knows His sheep and lays down His life for them; (3) the sheep are secure because of who the Shepherd is. Each of these can carry the same content the sermon currently holds — the wicket gate image fits (1), the gospel presentation fits (2), and the security of the believer fits (3). The same destinations, reached from the text rather than from Pilgrim’s Progress.
+
+2. **Move the Pilgrim’s Progress material to its proper role — illustration, not structure**: Open with the film reference, briefly apply the "wicket gate" image as a bridge to John 10:9, and then preach the text. Bunyan is a magnificent illustrator of Scripture; he should not replace it. One paragraph on the wicket gate as an entryway into John 10 is sufficient.
+
+3. **Reduce or cut the divorce statistics section**: The moral seriousness of this section is commendable, but it dominates approximately one-third of the sermon and does not return to John 10. Condense the "wandering from the Kings Road leads to destruction" point to two or three sentences with one concrete example, then return to the text. Let John 10 — not VeryWell Family statistics — be the authority the sermon stands on.
+
+4. **Find the gospel in John 10 itself before going outside the text**: The evangelistic chain can remain, but introduce it through v. 11. "Here is where Jesus tells you why He is the Good Shepherd — He lays down His life for the sheep. That is the gospel. Let me show you what that means." Then proceed to Romans 3:23, 6:23, etc. Tether the topical gospel outline to its home in John 10 before ranging out.
+
+5. **Add one direct address to the religious-but-unconverted hearer**: The sermon mentions that "going to church isn’t enough" and that God will ask about your relationship with His Son. Expand this by one paragraph, using the Pharisees of John 10 as the warning: "The people Jesus is talking to here were religiously serious — they kept the feasts, they read the Torah, they were at the Temple on a winter holiday. And Jesus said to them: you are not my sheep. You have heard my voice and you do not believe. That is a warning not just for 1st century Pharisees — it is a warning for anyone in this room who has been hearing the gospel for years and has not yet passed through the door."
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon does not achieve the exposition and theology scores that trigger the dead orthodoxy diagnostic. The concern here is not bloodless precision but insufficient textual grounding. The preacher has warmth and genuine evangelistic urgency — the fire is present. The text is not being opened.
+
+---
+
+### 16. Weight of Glory Statement
+The sermon carries genuine evangelistic urgency and sincere pastoral love, but it does not yet carry the weight of John 10 itself — a chapter in which the eternal Son of God declares His divine identity, announces His voluntary substitutionary death, and claims sovereignty over life and death — and until that chapter is preached rather than cited, its full weight cannot land on the congregation.
+
+---
+
+### 17. Rubric Fit Note
+The rubric fits John 10 well — the passage is a gospel-dense doctrinal discourse that directly rewards expository precision, gospel centrality, and conscience-pressing application. The rubric does not strain the genre here. However, this particular sermon’s primary challenge is not in any category weakness — it is pre-categorical: the text was not the source of the sermon. No adjustment to the rubric’s categories changes the fundamental diagnostic. The fix is not scoring better on Exposition — it is beginning with the text and building up from there.

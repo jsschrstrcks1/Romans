@@ -131,3 +131,200 @@ Is your life consumed with things at the expense of Christ? Or is your life cons
 ---
 
 *[Gospel]*
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Pastoral Heart, Wandering Text: A Timely Exhortation Built on a Borrowed Foundation**
+
+---
+
+### 2. One-Sentence Summary
+A warm, practically-driven sermon on Christian legacy that draws genuine pastoral heat from 1 Peter 1:13–25 while allowing a Southern Baptist parenting framework to displace the text's own argument and letting the gospel remain a stage direction rather than a proclamation.
+
+---
+
+### 3. Berean Gate Result
+
+**PASS — with significant qualification.**
+
+*Scopus Test:* The sermon's thesis — that a parent's godly life shapes the spiritual legacy of their children — is not the main point of 1 Peter 1:13–25. The text's main point is the call to holy living grounded in the new birth, the ransoming blood of Christ, and the character of the God who judges impartially. Holiness as response to the gospel is the argument. Holiness as parenting strategy is the sermon's argument. These overlap but are not identical, and the sermon never returns to the text's own logic after citing it.
+
+*Authority Test:* The preacher does not contradict the text. He does submit to its plain commands. However, the seven-point structure is imported from a SBTS list rather than derived from the passage. The text is used as a starting point and occasional citation rather than the governing structure. The sermon passes the gate because the passage is genuinely referenced, Christ is present, and the theme of holy living is textually defensible — but it passes narrowly.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag #2 — Partial:** The main point of the sermon (parental spiritual influence on children) does not equal the main point of the text (holy living grounded in regeneration and the blood of Christ). The sermon imports a topical framework onto an expository text. This does not fully trigger the flag — the text is not merely a springboard — but the drift is real and constitutes a structural weakness rather than a fatal failure.
+
+**Flag #4 — Partial:** Application is specific in places (panic-buying, political anxiety, profanity) but the seven-point framework produces generic parenting exhortations in points 1, 2, 4, and 5. Several points say essentially the same thing in different words.
+
+**Flag #5 — Present but mitigated:** The sermon reaches exhortation late and strongly at the close. The final paragraphs do call for response. The problem is the call is almost entirely behavioral rather than grounded in gospel indicatives. The "[Gospel]" at the end appears as a stage direction — the sermon's actual gospel presentation is not written out.
+
+**Score cap: Not triggered.** The flaws are real but not structural enough to cap at 69. They are significant enough to pull the score into the 70s.
+
+---
+
+### 5. Score Breakdown
+
+**Category 1 — Exposition & Hermeneutics: 15/25**
+
+- *Textual Fidelity (10):* **6/10.** The sermon reads 1 Peter 1:13–25 and references vv. 15–16 and vv. 17–19. But the governing framework is a SBTS seven-point list, not the passage's argument. The text's own movement — from the new birth (v.13, set your hope fully on grace) through the call to holiness (vv. 14–16) through the fear of God as judge and the ransom price of Christ's blood (vv. 17–19) through the imperishable seed of the Word (vv. 22–25) — is never traced. The sermon cherry-picks verses rather than following the argument.
+- *Contextual Awareness (5):* **3/5.** The preacher notes the immediate context of suffering (v. 6–12) briefly and applies it practically. The broader Petrine exile-and-sojourner theme is mentioned but not developed. The redemptive-historical placement of 1 Peter is absent.
+- *Exegetical Clarity (5):* **3/5.** The preacher is clear and plain-spoken. No Greek is engaged. No exegetical depth is offered on the key words — "holy" (*hagios*), "fear" (*phobos*), "ransomed" (*elytrothete*). The passage's striking claim that the ransom was "not with perishable things such as silver or gold, but with the precious blood of Christ" is quoted once but not unpacked.
+- *Logical Faithfulness (5):* **3/5.** No eisegesis per se, but the SBTS framework imports categories the text doesn't generate. The FCF is implicit (the tendency to live according to the passions of former ignorance, v.14) but never named.
+
+**Category 2 — Theology & Doctrinal Integrity: 13/18**
+
+- *Christ-Centeredness (7):* **5/7.** Christ is present and necessary to the sermon. The ransom imagery of vv. 17–19 is cited. The sermon is not moralistic in the sense of omitting Christ, but Christ functions more as motivator than as the theological center. The sermon never makes Christ's finished work the *reason* for holiness — it names the blood but doesn't press it.
+- *Redemptive-Historical Awareness (3):* **1/3.** Absent. No placement of 1 Peter in the story of redemption, no covenant framework, no mention of the "living hope" through the resurrection (v.3, referenced contextually but not preached).
+- *Doctrinal Precision (4):* **4/4.** Nothing heterodox. The sermon handles sin, holiness, judgment, and the gospel with basic doctrinal accuracy.
+- *Confessional Alignment — 1689 Pulse (4):* **3/4.** The sermon does not contradict confessional theology. The ransom imagery is clear. Justification is not explicitly articulated. Doctrines of Grace are not engaged, though the text doesn't demand them.
+
+**Category 3 — Gospel Centrality & Force: 8/15**
+
+- *Clarity of the Gospel (5):* **3/5.** The gospel is present but thinly stated. 1 Peter 1:17–19 is quoted and the "precious blood of Christ" is named. But the mechanism of salvation — penal substitution, imputed righteousness, justification by faith alone — is never stated. An unbeliever could leave knowing Christ's blood is involved without knowing *how* or *why*. The "[Gospel]" stage direction at the end suggests the full gospel was intended to be preached but is not present in the manuscript.
+- *Necessity of Christ (5):* **3/5.** Christ is essential to the sermon's framework but not to its argument. The parenting points could survive, largely intact, in a Jewish or Muslim context with minor adjustments. The cross does not carry the rhetorical weight of the sermon.
+- *Cross-Centered Gravity (5):* **2/5.** The sermon does not move toward the cross. It moves toward behavioral transformation and legacy-building. The cross is cited but not the climax. The *Synagogue Test* is triggered: a devout, morally serious Jew could hear this sermon and be convicted to be a more godly parent without being confronted by the scandal of the cross.
+
+**Category 4 — Conscience & Applicatory Force: 10/15**
+
+- *Heart Penetration (5):* **4/5.** The sermon has genuine pastoral warmth and several moments of real conscience-pressing. The illustration of imagining your daughter marrying someone like you were before Christ is arresting and effective. The political anxiety section and the panic-buying toilet paper image are pointed and land well.
+- *Specificity (5):* **4/5.** This is a genuine strength. The sermon is grounded in the congregation's world — named members of the congregation (Paula and Mel), a specific storm context, the election, cussing, meth, a failed pastor. This is specific and pastoral.
+- *Spiritual Differentiation (5):* **2/5.** The sermon speaks almost entirely to believing parents. Perkins' categories: the ignorant and unteachable (unaddressed), the ignorant but teachable (unaddressed), the knowledgeable but unhumbled (partially addressed in the toilet-paper section), the humbled (unaddressed), believers (primary audience), backsliders (partially addressed), the mixed congregation (not differentiated explicitly). The childless, the single, the unbeliever, and the doubter are not given distinct addresses.
+
+**Category 5 — Exhortation & Response: 5/8**
+
+- *Call to Response (4):* **3/4.** The closing paragraphs constitute a genuine call — the questions "What is your legacy going to be?" and "Is your life consumed with things at the expense of Christ?" are real exhortations. The final framing is strong. However, the exhortation is almost entirely behavioral (live better, set an example) without gospel-grounded imperatives (because Christ ransomed you, therefore...).
+- *Equipping for Holiness & Witness (4):* **2/4.** The sermon equips for parental modeling and personal holiness but does not equip for witness or corporate responsibility. The church as body is absent. The commission to bear the gospel to the lost is mentioned but not developed.
+
+**Category 6 — Structure & Logical Flow: 6/9**
+
+- *Clarity of Outline (4):* **3/4.** The seven-point structure is traceable but imported. It provides clarity but not text-derived progression. Several points overlap significantly (points 1, 3, and 4 all make the same basic claim).
+- *Progression (3):* **2/3.** The sermon does build toward the closing application. The pastoral urgency increases. But the seven points do not build on each other — they accumulate rather than ascend.
+- *Unity (2):* **1/2.** The sermon has two competing centers: holiness as godly parenting, and holiness in the face of present-tense trials (the storm, the election). These are related but the transition between them is abrupt. The sermon is unified by theme but not by argument.
+
+**Category 7 — Illustration & Imagination: 4/5**
+
+- *Relevance (2):* **2/2.** Illustrations are native to this congregation: the storm, the election, Kenny Duffield, Paula and Mel, the toilet paper, the predator-prey analogy from Africa. These are specific and real.
+- *Clarity (2):* **2/2.** Each illustration serves its point without competing with it.
+- *Memorability (1):* **0/1.** The C.T. Studd couplet is repeated twice and is the strongest candidate, but it is borrowed. No single image generated by this sermon is likely to persist beyond the week.
+
+**Category 8 — Sermonic Force: 4/5**
+
+- *Reads as Preaching (2):* **2/2.** This clearly reads as a manuscript for the spoken word. Conversational, direct, accessible. The voice is the preacher's own.
+- *Conviction on the Page (2):* **1/2.** The conviction is pastoral rather than prophetic. The sermon states rather than thunders. There is no moment where the manuscript roars.
+- *Cadence and Breath (1):* **1/1.** Good natural rhythm throughout. The closing questions land with appropriate compression.
+
+---
+
+### 6. Cognitive Load Assessment
+
+**Score: 0 (no modifier)**
+
+The sermon is well within reach for any ordinary church member. The structure is simple, the language is plain, and the illustrations are drawn from familiar life. No technical vocabulary, no competing arguments. If anything, the cognitive load is slightly *low* — the seven points do not demand much integrative thinking, and the text's actual theological density is not surfaced.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 15/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 8/15 |
+| Conscience & Applicatory Force | 10/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **65/100** |
+| Cognitive Load Modifier | 0 |
+| Weight of Glory Bonus | +2 |
+| **Total** | **67/105** |
+
+**Interpretation: Concerning gaps.** The sermon explains and at points genuinely exhorts, but the text's own argument is displaced by an imported framework, the gospel remains a stage direction, and the cross does not carry the rhetorical weight of the sermon. Significant revision needed, primarily at the level of grounding the application in gospel indicatives and allowing the text's own movement to govern the structure.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily myself and my legacy as a parent. Christ is present but not the center of gravity.
+2. **Did I encounter God, or just ideas about Him?** Mostly ideas, though the closing application creates genuine pastoral encounter.
+3. **Was I comforted, convicted, or merely informed?** Convicted at points — particularly the "imagine your daughter choosing someone like you were" moment and the political anxiety section. But the conviction is behavioral more than gospel-driven. The comfort of the finished work is largely absent.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Pastoral specificity that is genuinely rare.** Named congregation members, a live storm, a specific election, a specific sin pattern — these give the sermon traction in a real congregation's life. The toilet-paper illustration and the "marrying someone like you were before Christ" moment are effective and memorable. Very few preachers achieve this level of contextual grounding.
+
+2. **The closing application is strong and direct.** The final sequence — political fear vs. faith, the "consumed with things" vs. "consumed with Christ" binary, the repeated C.T. Studd couplet — lands with genuine force. The sermon earns its ending even if the path there was uneven.
+
+3. **The voice is authentically pastoral, not performative.** The sermon reads as a man who knows his people and loves them. The tone of a shepherd rather than a lecturer is sustained throughout. The note on Kenny Duffield is well-chosen — it establishes character and gospel-witness in a single anecdote.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The governing framework is borrowed, not text-derived.** The seven points come from a SBTS list, not from 1 Peter 1:13–25. This means the text governs the illustrations but not the argument. The passage's own logic — fear of God as righteous judge → awareness of the ransom price → purified souls through obedience → born again through the living Word — is never preached. The sermon uses the text as a proof-text collection rather than as the source of its argument.
+
+2. **The gospel is a stage direction, not a proclamation.** The final line of the manuscript reads "*[Gospel]*" — indicating the preacher planned to present the gospel here but did not write it out. This is the most significant failure. The entire sermon calls people to holy living without ever grounding that call in justification by faith, union with Christ, or the finished work of the cross as the *basis* of obedience. The ransoming blood is mentioned (vv. 17–19) but the mechanism is never explained. An unbeliever in the room would know that blood was involved but not what it accomplished or how to receive its benefit.
+
+3. **The Synagogue Test is triggered.** A morally serious, God-fearing person who does not believe in the atonement of Christ could hear this sermon, be moved by its parenting application, and leave without being confronted by the scandal of the cross. The blood of Christ is cited but not preached as the only ground of standing before the God who judges impartially. The offense of the cross — that nothing we do as parents, nothing we model, nothing we legacy-build can earn us standing before that holy Judge — is never named.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that his application outpaces his gospel. The sermon is practical and warm, and the people will feel helped. But the implicit message is: "Live better, model better, and your kids will follow." This is a form of sanctification-without-justification — a call to holiness that is not clearly grounded in the finished work that makes holiness possible and that defines it as response rather than achievement. The preacher likely assumes the gospel — it is his theological air — but the congregation, especially newer believers and seekers, cannot breathe assumed air.
+
+The preacher also likely does not see how close the sermon comes to being a parenting seminar with Bible verses. The SBTS framework is a category error: it places the structure of a resource guide over a biblical letter's own argument. The text is richer than the framework permits.
+
+---
+
+### 12. Illusion of Strength
+
+**The specificity of the application creates the impression of applicatory depth.** The illustrations are so concrete — the election, the storm, the toilet paper, the named congregation members — that the sermon *feels* like it is pressing deeply into the conscience. And it does press, at a behavioral level. But conscience work that does not arise from gospel proclamation is moralism with pastoral warmth. The preacher's strength (knowing his people) is masking the theological gap (not grounding their obedience in Christ's finished work). The sermon is specific without being penetrating in the deepest sense — it tells people what to do more than it shows them who they are before God and what God has done about it.
+
+---
+
+### 13. Missed Opportunity
+
+**1 Peter 1:17–19 is one of the most theologically charged passages in the letter and the sermon walks past it.** "You were ransomed from the futile ways inherited from your forefathers, not with perishable things such as silver or gold, but with the precious blood of Christ, like that of a lamb without blemish or spot." This verse directly addresses the parenting theme — the futile ways *inherited from your forefathers* — and then grounds the break from those ways not in better modeling but in a ransom price. The very point the sermon is making (break the generational pattern) is answered by the text in a way the sermon never uses: the reason you can break the cycle is not that you try harder but that you have been *purchased* out of it by blood that silver and gold cannot match. This is the gospel center of the text and the sermon's missed climax.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Rebuild the structure from 1 Peter 1:13–25 itself, not from the SBTS list.** The text has a clear movement: (a) set your hope on grace — gird up your mind (v.13); (b) do not be conformed to former passions (v.14); (c) be holy because God is holy (vv.15–16); (d) conduct yourselves with fear because God judges impartially (v.17); (e) you have been ransomed — not by human effort but by blood (vv.18–19); (f) love one another earnestly from a pure heart, because you have been born again through the living Word (vv.22–25). Let this progression govern the sermon's three or four movements. The parenting application fits within this structure — it doesn't need to replace it.
+
+2. **Write out the gospel — do not leave it as a stage direction.** At the point where the sermon presses on the God who judges impartially (v.17), name the problem plainly: none of us can stand before that Judge on the basis of the legacy we've built. Then preach the ransom: vv.18–19 are the answer the text itself gives. Explain penal substitution plainly. Tell the congregation what the blood accomplished, who it was for, and how a person receives its benefit. This is where the unbeliever is addressed, the doubter is comforted, and the believer is freshly amazed.
+
+3. **Add direct address to at least two additional Perkins categories.** The sermon speaks well to believing parents. Add a section that addresses (a) the person in the room who had no godly parent — who inherited futile ways with no counter-example, and who wonders if the cycle can be broken; and (b) the person who has been the bad example — who has already damaged the spiritual formation of their children and fears it is too late. The ransom imagery of vv.18–19 speaks directly to both.
+
+4. **Ground every behavioral exhortation in a gospel indicative.** The pattern should be: "Because Christ has ransomed you from the futile ways inherited from your forefathers, therefore live this way." Without the "because," the exhortation is law. With it, it is gospel-driven obedience. Review each of the seven points and insert the indicative before the imperative.
+
+5. **Resolve the double center.** The parenting/legacy theme and the present-trial/election theme are both valuable, but they compete. Either develop the connection more explicitly — the way you bear up under present trials is part of your legacy — or preach one theme fully rather than two themes partially.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is not bloodless. It has pastoral warmth, specific application, and genuine conviction at points. The failure is not dead orthodoxy — it is an underdeveloped gospel center combined with a borrowed framework. The fire is present; the theological foundation needs reinforcement.
+
+---
+
+### 16. Weight of Glory Statement
+
+The sermon carries the weight of a pastor who genuinely loves his people and fears for their children's eternities — but it does not yet carry the weight of the text's own declaration that a people have been purchased by blood that exceeds all earthly value, and that this ransom, not their parenting, is the foundation on which any holy legacy must be built.
+
+**Bonus: +2/5** — Present but partial. The eternal stakes are named; the eternal foundation is not preached with full weight.
+
+---
+
+### 17. Rubric Fit Note
+
+The rubric fits this passage well. 1 Peter 1:13–25 is a hortatory epistle text with clear theological grounding, gospel content, and applicatory force — exactly the genre this rubric is designed to evaluate. No category strains against the text type. The rubric reveals the sermon's actual weakness accurately: the text has gospel depth the sermon does not surface, and the conscience work is behavioral rather than gospel-driven. No adjustment to the rubric is needed for this passage.

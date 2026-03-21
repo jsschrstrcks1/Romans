@@ -59,3 +59,213 @@ But it all starts with a relationship with Jesus Christ.
 [Gospel presentation]
 
 Close in prayer — Remember Kenny Duffield. Happy Birthday Dessa. Pray for a building.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**An Honest Introduction With an Underdeveloped Gospel Center and a Missing Conclusion**
+
+---
+
+### 2. One-Sentence Summary
+A warm and contextually-grounded introduction to Titus that offers genuine historical orientation and pastoral color, while leaving the gospel as a bracketed placeholder and the main applicatory movement unresolved.
+
+---
+
+### 3. Berean Gate Result
+
+**PASS — with qualification.**
+
+*Scopus Test:* A thesis can be reconstructed: the letter to Titus exists because Paul, as a slave of God, sends his son in the faith to a troubled church — and the nature of Paul's identity as δοῦλος is the sermon's controlling idea. That thesis does arise from Titus 1:1-5, specifically from Paul's self-identification and the mission to Crete. The passage passes.
+
+*Authority Test:* The preacher submits to the text and does not soften it. The δοῦλος discussion is honest and well-executed. The preacher does not editorialize around the uncomfortable parts. Pass.
+
+**Qualification:** The sermon functions as a preamble to a series rather than a full proclamation of a text. The passage's own internal argument — Paul's apostolic identity grounded in God's pre-temporal promise of eternal life and its manifestation in preaching — is touched but not fully traced. The eschatological weight of verses 2-3 (eternal life promised before the ages began, now manifested in the word) is passed over almost entirely.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag Triggered: No clear gospel presentation (Flag 1).**
+
+The manuscript contains the bracketed note `[Gospel presentation]` at the close — indicating that a gospel presentation was intended but is not contained in the manuscript itself. The evaluation must assess what is on the page. What is on the page does not contain an explicit articulation of justification by faith, the work of Christ, or the call to repent and believe. The sentence "But it all starts with a relationship with Jesus Christ" gestures toward the gospel but does not present it.
+
+**Score capped at 69.**
+
+**Flag Proximity — Flag 5 (No actual exhortation):** The sermon builds toward "but it all starts with a relationship with Jesus Christ" and then stops. The congregation is never told what to *do* — what to believe, repent of, obey, or pursue. This is close to triggering a second flag. Not formally flagged as a standalone fatal flaw since the δοῦλος section does carry implicit applicatory direction, but it is a serious weakness.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 17/25**
+
+- *Textual Fidelity (7/10):* The δοῦλος discussion is the expositional anchor and it is handled well — substantive, honest, and text-tethered. However, verses 2-3 (God's pre-temporal promise of eternal life, now manifested through preaching) receive almost no treatment. The word "apostle" and its meaning receive no unpacking. The passage's own internal logic — Paul's authority grounded in God's eternal purpose — is not traced.
+- *Contextual Awareness (3/5):* Good historical context on Titus's resume and Cretan reputation. Weak on where this text sits in Paul's broader letter structure and why this salutation matters as a theological statement.
+- *Exegetical Clarity (4/5):* The NET/ESV comparison on δοῦλος is the sermon's exegetical highlight — accessible, grounded, and pastorally pointed. Greek handled as a key rather than decoration. Good.
+- *Logical Faithfulness (3/5):* The sermonic movement from δοῦλος to the false teachers to the banner illustration to the Sinclair Ferguson quote does not form a clean logical chain. The passage's argument is not fully followed.
+
+**Fallen Condition Focus:** The FCF is gestured at — people who have drifted from Scripture serve themselves rather than God — but it is not named concretely as a human condition the passage exists to address. The preacher touches it without naming it.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+
+- *Christ-Centeredness (4/7):* Christ is present but not central. The sermon circles around Paul's identity and the nature of servanthood without bringing the Christological freight of verses 3-4 — "Christ Jesus our Savior" and the promise of eternal life — to bear. The connection to Christ is real but underdeveloped.
+- *Redemptive-Historical Awareness (2/3):* The pre-temporal promise of verse 2 is the sermon's richest unexploited vein. "Before the ages began" places this letter in the grand sweep of God's eternal plan. The preacher notes it briefly but doesn't let it land.
+- *Doctrinal Precision (3/4):* The warning about universalism and antinomianism (those who think God has forgiven everyone so they can sin freely) is precise and helpful. Good negative doctrinal work. No significant sloppiness.
+- *Confessional Alignment (3/4):* The treatment of slavery to Christ as opposed to slavery to sin is consistent with Reformed anthropology and soteriology. No confessional violations. Some positive confessional opportunities (God's eternal decree, the nature of election in v.1) are passed over.
+
+**3. Gospel Centrality & Force — 5/15**
+
+This is the sermon's most significant failure. The fatal flaw is here. The δοῦλος section does the work of pressing the hearer toward Lordship, but the question of *how* one becomes a slave of Christ — through the gospel — is entirely absent. The law is deployed (you cannot serve two masters; following self leads to hell) without the gospel relief. The preacher says "there is eternal freedom in following Christ" without explaining *how* Christ provides it. The cross is not mentioned. Justification is not articulated. The "[Gospel presentation]" placeholder makes clear this was known to be missing.
+
+- *Synagogue Test:* A devout Jew or Muslim could sit through this sermon and not be challenged by the necessity of Christ's blood. The exclusive claims of the gospel are mentioned (Acts 4:12) but not applied. The sermon does not make clear why Christ specifically is necessary.
+
+**4. Conscience & Applicatory Force — 8/15**
+
+- *Heart Penetration (3/5):* The δοῦλος section reaches toward the heart — particularly the image of the slave who cannot bargain with God. This is genuinely penetrating. The "where is your focus" application is real.
+- *Specificity (3/5):* The illustration about the banner is vivid but the application drawn from it is diffuse. The preacher personalizes it (our church went through something hard) but doesn't press individuals into specific examination.
+- *Spiritual Differentiation (2/5):* The sermon essentially addresses one category of hearer — someone who needs to reorient their focus toward God rather than self. The believer, the backslider, the self-righteous, the humbled-but-not-yet-believing are not distinguished. Perkins' taxonomy is not employed.
+
+**5. Exhortation & Response — 3/8**
+
+The sermon ends with "But it all starts with a relationship with Jesus Christ" — which is a directional gesture, not a summons. The congregation is never told: "Here is what you must do. Here is what you must repent of. Here is where you must go." The sermon informs and warms but does not command.
+
+- *Call to Response (1/4):* No clear call. The bracket `[Gospel presentation]` was the intended call — but it is absent from the manuscript.
+- *Equipping for Holiness and Witness (2/4):* The δοῦλος framework does implicitly equip the hearer to think about Christian obedience, but no specific sending movement occurs.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline (2/4):* The sermon does not have a visible outline. It moves: context → Paul's life → δοῦλος → false teachers today → banner illustration → personal church history → Sinclair Ferguson → [Gospel]. This is a string of topics rather than a developed argument.
+- *Progression (3/3):* Despite the loose structure, there is a felt forward movement. The sermon does not wander badly. Each section connects loosely to the next.
+- *Unity (1/2):* Two competing ideas vie for dominance — Paul's identity as δοῦλος, and the problem of churches in crisis. The sermon doesn't fully choose between them.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2):* The banner illustration is excellent — drawn from a real pastoral situation, immediately relatable, and it illuminates the difficulty of necessary change in a church context.
+- *Clarity (2/2):* The Sanctus illustration is well-deployed. The Washington/Vice President analogy is accessible and apt.
+- *Memorability (0/1):* The banner illustration may be remembered, but the sermon does not build toward a single image the congregation will carry home. The illustrative material is scattered.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2):* This reads like it was spoken, not written. The rhythms are natural, the digressions feel pastoral, the address is direct. Strong oral quality.
+- *Conviction on the Page (1/2):* The δοῦλος section carries genuine conviction. Much of the rest is explanatory narration without the same edge. The filler at the end ("But it all starts with a relationship with Jesus Christ") dissipates the force built in the middle.
+- *Cadence and Breath (0/1):* No climactic compression. The sermon doesn't build to a clear moment of maximum force.
+
+---
+
+### 6. Cognitive Load Assessment
+
+**Score: −1**
+
+The sermon is well within the reach of an ordinary congregation. The δοῦλος discussion requires minor effort but is well-explained. The historical material is accessible. The main cognitive challenge is the diffuse structure — the congregation must hold several threads simultaneously without a clear organizing principle. Slightly dense in concept-per-minute at the beginning (Macedonian vision, Dalmatia, Corinth, Crete, Sanctus, false teachers) but not overwhelming. No fatal flaw triggered by cognitive load.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 17/25 |
+| Theology & Doctrinal Integrity | 12/18 |
+| Gospel Centrality & Force | 5/15 |
+| Conscience & Applicatory Force | 8/15 |
+| Exhortation & Response | 3/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **58/100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **58/105** |
+
+**Fatal Flaw Cap Applied: Score capped at 69. Adjusted Total: 58 (cap not needed — score is below cap).**
+
+*Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.*
+
+**Note on the score:** This score does not reflect a bad preacher or a dishonest attempt. It reflects an introductory sermon that has not yet been completed — the gospel presentation is a bracketed placeholder, and the exhortation is absent. A completed version of this sermon, with the gospel section filled in and an exhortation added, could plausibly score in the 70–75 range.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Mostly of Christ's servant Paul, and of the church's struggles. Christ himself is gestured toward but not exalted. The sermon's final line points to Christ but doesn't make him large.
+
+2. **Did I encounter God, or just ideas about Him?**
+The δοῦλος section comes closest to an encounter — the confrontation with what it means to have no say, to be a slave, carries genuine weight. The rest is narration about God's servants.
+
+3. **Was I comforted, convicted, or merely informed?**
+Primarily informed. The δοῦλος section produces mild conviction. The congregation is not comforted with the gospel nor deeply convicted of specific sin.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The δοῦλος exegesis is the sermon's genuine strength.** The NET/ESV comparison, the explanation of the translation history (softened only where we began rationalizing slave-keeping), and the application — "you can't bargain with God; as a slave, your focus should be on him, not on yourself" — is the clearest and most textually-rooted moment in the sermon. This is text-driven preaching at its best in this manuscript.
+
+2. **The Sanctus illustration is excellent.** A martyrology illustration that doesn't feel forced, that directly illuminates Paul's identity claims, and that confronts the contemporary compromisers without becoming a mere polemic. The contrast between "I am a Christian" and modern Christian leaders who compromise core doctrines is pointed and effective.
+
+3. **The pastoral tone and contextual richness are genuine assets.** The background on Titus's resume (Corinth, Dalmatia, now Crete), the context of Paul's late ministry, the warmth of the father-son language — these create a congregation that can inhabit the text. This is the kind of contextual work that makes exposition believable.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is absent from the manuscript.** The bracket `[Gospel presentation]` is the most important sentence in the file. It means the sermon as delivered may have had a gospel moment — but it means the sermon as designed treats the gospel as a module to be inserted rather than as the sermon's structural spine. The entire movement of Titus 1:1-5 is toward the manifestation of God's eternal promise in preaching — the gospel is not an add-on to this text, it is the text's telos. The sermon inverts this.
+
+2. **Verses 2-3 are nearly untreated.** "In hope of eternal life, which God, who never lies, promised before the ages began and at the proper time manifested in his word through the preaching with which I have been entrusted" — this is theological dynamite. The pre-temporal promise. The God who cannot lie. The appointed time. The word made visible through proclamation. These verses underwrite Paul's entire apostolic authority and establish the eschatological stakes of the ministry. The sermon gives them one sentence. This is the sermon's single greatest exegetical missed opportunity.
+
+3. **The structure dissolves in the second half.** After the δοῦλος section, the sermon moves from false teachers today → the Sinclair Ferguson quote → the banner illustration → personal church history → "but it all starts with Jesus." These sections are not tethered to the text. The banner illustration, while vivid, serves as an analogy for church change but is not connected to a textual claim. The congregation arrives at the conclusion without knowing what argument they have followed.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the sermon is structured around Paul and Titus rather than around the text's controlling theological claims. The biographical-historical scaffolding (Paul's ministry context, Titus's resume, Crete's reputation) is treated as the sermon's substance rather than as the sermon's setting. The text's own theological argument — God's eternal purpose, his truthfulness, his timing, his entrusted proclamation — is the argument Paul makes in these five verses. The sermon tells the story around the argument without making the argument itself.
+
+There is also likely a blind spot around the difference between a series introduction and a sermon. An introductory sermon still needs to be a sermon — a full proclamation with exposition, application, and gospel. The bracketed `[Gospel presentation]` suggests the preacher may view the gospel as one module among others rather than as the air the whole sermon breathes.
+
+---
+
+### 12. Illusion of Strength
+
+The δοῦλος section feels like the sermon's backbone, and it is genuinely strong. But its application stops at "your focus should be on God, not yourself" — which is a true statement that stops short of being gospel. The preacher has hammered the law (you are a slave; your focus is wrong; you serve yourself instead of God) and then said "eternal freedom is in Christ" without showing the hearer *how* that freedom is obtained. The section creates the impression of gospel force while delivering only law-force. It is the Hammer without the Balm.
+
+---
+
+### 13. Missed Opportunity
+
+Titus 1:2 — "which God, who never lies, promised before the ages began." This is one of the most compact statements of divine faithfulness and eternal purpose in Paul's writings. The sermon passes over it in a single breath. This verse alone is a foundation for an entire sustained movement: Why can Titus go to Crete with confidence? Because the God who sent him promised eternal life before the world existed and cannot lie. The church in Crete's disorder does not threaten God's plan because God's plan was settled before time. This is the ground of pastoral confidence in the face of church chaos — the very situation the sermon spends considerable time describing. The text's own answer to the problem the sermon raises is left on the table.
+
+---
+
+### 14. Surgical Fixes (3-5)
+
+1. **Fill the bracketed `[Gospel presentation]` with actual gospel content and make it the sermon's climax, not its appendix.** Specifically: Paul is a slave of God *because* God made him one through the gospel — the death and resurrection of Christ applied to Paul's life on the Damascus road. The congregation needs to hear how they too become slaves of God. State clearly: justification by faith alone in Christ alone is the door through which a slave of sin becomes a slave of righteousness.
+
+2. **Treat Titus 1:2-3 as the sermon's theological center of gravity.** Build a movement: God's pre-temporal promise → God's inability to lie → the appointed manifestation through preaching → therefore Titus's mission has divine authority. This answers the "why does Titus have authority to make changes in Crete?" question the sermon raises without answering.
+
+3. **Add a structured exhortation before the close.** After the gospel is presented, tell the congregation specifically: "Here is what you must do with what you have heard. If you have not come to Christ as Lord — the text calls you to do so today. If you are a believer drifting in your focus — the text calls you to realign. If you are a church member resistant to necessary change — the text asks whether your resistance is about God or about yourself." The congregation must leave knowing what is demanded of them.
+
+4. **Either anchor the banner illustration to a textual claim or cut it.** As it stands, it illustrates the difficulty of change in a church but is not connected to anything in Titus 1:1-5. If you want to use it, connect it explicitly: "This is what Titus faced in Crete — and verse 5 gives him the only authority that matters: 'as I directed you.' Paul's word carries God's authority because verse 2 tells us this mission originated before time began."
+
+5. **Identify and name the Fallen Condition Focus explicitly.** The text was written to address a specific human condition: the tendency to drift from the truth into false teaching and self-serving religion — and the corresponding need for Spirit-empowered, gospel-grounded leadership. Name that condition early in the sermon. Make it the bridge between the text's world and the congregation's world.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered in the classical sense** — this sermon does not display correct-but-bloodless orthodoxy. The warmth is genuine, the pastoral care is evident, and the exegetical work on δοῦλος has real fire. The failure is structural incompleteness (missing gospel, missing exhortation) rather than dead orthodoxy. A different concern applies here: **Structural Incompleteness** — the sermon has not yet finished becoming a sermon.
+
+---
+
+### 16. Weight of Glory Statement
+
+The eternal gravity of the passage — God's pre-temporal promise, his truthful character, the appointed time of gospel proclamation — is present in the text but does not yet inhabit this sermon; the unction that belongs to Titus 1:2-3 is still waiting to be unleashed.
+
+---
+
+### 17. Rubric Fit Note
+
+This rubric fits an epistolary sermon well, particularly one centered on a doctrinal salutation. Titus 1:1-5 is Paul's compressed theological self-identification — it is designed to establish authority, ground mission in eternal purpose, and set the letter's tone. The rubric's emphasis on expositional fidelity and gospel centrality is precisely what this passage demands. No genre strain. The rubric is well-suited here, and the passage's theological density makes the missed opportunities in categories 3 and 4 more consequential, not less.

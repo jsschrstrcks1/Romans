@@ -133,3 +133,203 @@ Now — if a plane came through the roof of this building right now, and we all 
 If you don't know, today is the day. Those students in Oregon thought they had full lives ahead of them. We aren't promised tomorrow. Don't let fear stand between you and eternity. Come find me after the service. Come while the praise team sings. Just please — don't let another day pass without settling it.
 
 Gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Pastoral Warmth with a Fractured Spine: Gospel Impulse Present, Expositional Architecture Absent**
+
+---
+
+### 2. One-Sentence Summary
+A gospel-hearted evening sermon on Romans 8:1–8 that carries genuine evangelical urgency and vivid illustration while suffering from a fragmented expositional structure that leaves the text's own argument largely unexplained.
+
+---
+
+### 3. Berean Gate Result
+
+**PASS — with qualification.**
+
+*Scopus Test*: The sermon's thesis — that those in Christ Jesus are free from condemnation while those outside Christ face God's just wrath — does arise from Romans 8:1–8. The main point of the sermon is broadly the main point of the text.
+
+*Authority Test*: The preacher does not soften the text's hard claims. He quotes Romans 8:8 without flinching, speaks of God's wrath directly, and uses the law before the gospel. He submits to the text's authority rather than editing it.
+
+**Qualification**: The sermon treats Romans 8:1–8 more as a launching pad than a territory to be explored. Verses 3–7 receive no treatment. The argument of the passage — the contrast of Spirit and flesh, the condemnation of sin in Christ's flesh, the mind set on the flesh vs. the Spirit — is bypassed almost entirely. The gate passes, but only just.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**No fatal flaws triggered. Score is uncapped.**
+
+Reviewed against all six criteria:
+- Gospel is proclaimed, not merely assumed — Christ's finished work is explicitly stated.
+- Main point broadly matches the text's point.
+- Christ is necessary to the sermon's argument — not decorative.
+- Application, while uneven, is specific in places (the Chris story, the closing challenge).
+- Exhortation is present — the closing invitation is a genuine call to response.
+- The sermon is accessible to ordinary hearers — in fact, accessibility is a strong suit.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14 / 25**
+
+- *Textual Fidelity (10 pts): 6* — The sermon lands on Romans 8:1 with real clarity and provides strong contextual sweep through chapters 1–7. But verses 3–7 receive zero treatment. The passage's own logic — condemnation of sin in the flesh (v.3), the righteous requirement fulfilled in us (v.4), the contrast of flesh-mind and Spirit-mind (vv.5–7) — is bypassed. The sermon jumps from v.2 to v.8. This is not a minor gap; it is the theological heart of the passage left unpreached.
+- *Contextual Awareness (5 pts): 4* — The survey of Romans 1–7 as context for the *therefore* is genuinely strong and useful. This is the sermon's best expositional moment.
+- *Exegetical Clarity (5 pts): 2* — There is almost no exegetical work on the text's own language. The *therefore* is named but not unpacked. The "law of the Spirit of life" and "law of sin and death" in v.2 are passed over. Sproul's summary of v.1 is cited but not demonstrated from the text.
+- *Logical Faithfulness (5 pts): 2* — The sermon imports significant material (sailing navigation, slave ships, WonderWorks, Chris the atheist, Braveheart) that is not native to the text's logic. These are bridges to the text, but they sometimes become the text itself. The Fallen Condition Focus is implicit (sin enslaves; we need freedom) but never named precisely from this passage's own argument.
+
+**2. Theology & Doctrinal Integrity — 12 / 18**
+
+- *Christ-Centeredness (7 pts): 5* — Christ is genuinely central. The imputation of righteousness ("He took our filthy condition and gave us His righteousness in exchange"), penal substitution ("the just for the unjust"), and the cross as the only escape from wrath — all present. Slightly underdeveloped given the weight of the passage, but organically connected to the text.
+- *Redemptive-Historical Awareness (3 pts): 2* — The survey of Romans 1–7 provides a basic redemptive-historical spine. The connection between Christ's death and the fulfillment of the law (v.3–4) is assumed but not stated.
+- *Doctrinal Precision (4 pts): 3* — Justification by faith is present. Imputation is mentioned. Minor concern: the Sproul attribution on "freedom from condemnation in both senses" slides quickly into "we're going to fall short of the perfect standard" in a way that could blur justification and sanctification without more precision.
+- *Confessional Alignment — 1689 Pulse (4 pts): 2* — No direct contradictions of confessional theology. However, the Romans 10:9–10 call to salvation reads closer to a decisionist framing ("confess with your mouth, believe in your heart — you will be saved") than to confessionally precise Reformed regeneration language. No explicit correction of this — but no confessional clarity either. The sermon passes the negative test; it is less certain on the positive.
+
+**3. Gospel Centrality & Force — 11 / 15**
+
+- *Clarity of the Gospel (5 pts): 4* — The gospel is clearly stated: Christ died for sinners, the just for the unjust; those who believe are freed from condemnation and given His righteousness. Justification by faith is present. Could be sharper on the ground of justification (the righteousness of Christ imputed, not merely "given in exchange"), but this is a genuine gospel presentation.
+- *Necessity of Christ (5 pts): 4* — Christ is essential to the sermon's argument. Without Christ, the sermon has no answer to the wrath it so vividly describes. The Synagogue Test is passed — a devout non-Christian could not sit through this unmoved by the necessity of Christ's blood.
+- *Cross-Centered Gravity (5 pts): 3* — The sermon moves toward the cross, but the Braveheart analogy is the weakest moment here. Wallace "died for a freedom Scotland wouldn't taste for years" — the analogy breaks down because the point of the cross is not a delayed freedom but an accomplished, immediate, and final redemption. The illustration risks muddying what Christ's death actually achieved.
+
+**4. Conscience & Applicatory Force — 10 / 15**
+
+- *Heart Penetration (5 pts): 4* — The closing challenge — "Could you raise your hand if a gunman asked you are you a Christian?" — is genuinely conscience-pressing. The Chris story is effective and personalizes the cost of silence. These moments carry real pastoral weight.
+- *Specificity (5 pts): 3* — The application is uneven. The laundry illustration, the half-degree navigation point, and the gospel invitation are specific enough. But the middle section wanders into personal testimony and historical illustration more than conscience-pressing application. "Share the gospel with someone you love" and "open your Bible daily" are present but formulaic.
+- *Spiritual Differentiation (5 pts): 3* — The sermon does distinguish hearers to a degree: the newer believer (open your Bible), the established believer (share the gospel), and the unconverted (respond tonight). However, it does not address the backslider, the knowledgeable-but-unhumbled, or the self-righteous. Of Perkins' seven categories, roughly three are reached.
+
+**5. Exhortation & Response — 6 / 8**
+
+- *Call to Response (4 pts): 4* — The closing invitation is concrete and urgent. The gunman scenario, the raised-hand challenge, and the direct pastoral appeal ("Come find me after the service") constitute a genuine and specific call to response. This is one of the sermon's genuine strengths.
+- *Equipping for Holiness & Witness (4 pts): 2* — The half-degree compounding illustration equips for holiness in a modest way. But the sermon sends the church out primarily as individuals ("share the gospel with that friend") rather than as a body. Corporate responsibility, covenant community, and mutual edification are absent.
+
+**6. Structure & Logical Flow — 5 / 9**
+
+- *Clarity of Outline (4 pts): 2* — The sermon does not have a traceable outline. It moves: contextual survey → navigation illustration → Chris story → slave ships → verse 8 + wrath → justification + Braveheart → closing invitation. Each section is individually coherent, but the connective tissue between them is loose. A listener could not sketch this on a napkin.
+- *Progression (3 pts): 2* — The sermon builds toward the closing invitation effectively, and the wrath-to-gospel arc is present. But the slave ship section and the WonderWorks illustration are sequential rather than progressive — they illustrate the same point (God's wrath is terrible) rather than advancing the argument.
+- *Unity (2 pts): 1* — The sermon carries two dominant themes (pursue holiness in small degrees; respond to the gospel tonight) that are not fully integrated. The navigation illustration and the Chris story sit in an extended section on sanctification that is then largely abandoned when the sermon pivots hard to evangelism and the closing invitation.
+
+**7. Illustration & Imagination — 4 / 5**
+
+- *Relevance (2 pts): 2* — The illustrations are well-chosen for a congregational context: sailing ships, laundry, WonderWorks coin funnels, Braveheart. These land in recognizable experience.
+- *Clarity (2 pts): 1* — The Equiano passage is the sermon's most powerful illustration, but it is deployed without a clear landing point — it builds atmosphere without pointing to a specific biblical truth. The Braveheart analogy is the weakest, as noted above.
+- *Memorability (1 pt): 1* — The gunman scenario and the Chris story will be remembered. Strong marks here.
+
+**8. Sermonic Force — 3 / 5**
+
+- *Reads as Preaching (2 pts): 2* — The sermon reads as spoken word. Direct address ("Maybe you're a newer believer"; "Maybe tonight you recognize yourself in verse 8"), conversational register, and rhythmic variation are all present. This manuscript sounds like a man preaching, not a man reading an essay.
+- *Conviction on the Page (2 pts): 1* — The Scripture-assertion ratio is low in the middle section. Extended personal testimony and historical narrative crowd out text-grounded assertion for several paragraphs. The conviction is present in the closing but thinner in the body.
+- *Cadence and Breath (1 pt): 0* — The sentence rhythm is serviceable but not disciplined. There is no clear climactic compression. The sermon does not build in cadence; it builds in content.
+
+---
+
+### 6. Cognitive Load Assessment
+
+**Score: −1**
+
+The sermon is accessible — perhaps its most consistent strength. The illustrations are drawn from ordinary life. The argument is followable. The historical material (slave ships, Newton, Equiano) is heavy but contextualized. One fewer conceptual strand — probably the navigation/sanctification section, which competes with the evangelism call — would improve clarity and concentration.
+
+---
+
+### 7. Total Score
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 14 | 25 |
+| Theology & Doctrinal Integrity | 12 | 18 |
+| Gospel Centrality & Force | 11 | 15 |
+| Conscience & Applicatory Force | 10 | 15 |
+| Exhortation & Response | 6 | 8 |
+| Structure & Logical Flow | 5 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 3 | 5 |
+| **Subtotal** | **65** | **100** |
+| Weight of Glory (bonus) | +2 | +5 |
+| Cognitive Load Modifier | −1 | 0 |
+| **Total** | **66** | **105** |
+
+**Interpretation: Concerning gaps (60–69).** The sermon explains and illustrates but does not fully preach the text. The gospel is genuinely present and the closing exhortation is real — but the expositional core is missing, the structure is loose, and the passage's own argument goes largely untreated. Significant revision needed.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+   Mostly Christ — though the extended personal testimony (Chris, the WonderWorks trip) pulls toward self-narration. The gospel sections refocus on Christ effectively.
+
+2. **Did I encounter God, or just ideas about Him?**
+   Partially. The wrath section has genuine weight. The closing invitation carries pastoral urgency. But the middle of the sermon — navigation, laundry, Chris — is more anecdotal than God-encountering.
+
+3. **Was I comforted, convicted, or merely informed?**
+   The unconverted hearer would feel convicted by the closing. The converted hearer would feel mildly encouraged by the sanctification material but not deeply searched. The result is uneven rather than absent.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The closing invitation is specific, urgent, and pastoral.** The gunman scenario is a genuine conscience-pressing device — it does not let the congregation remain theoretical. The raised-hand challenge corners the self-deceived hearer without being gimmicky. The pastoral offers ("Come find me") are appropriately direct.
+
+2. **The contextual sweep of Romans 1–7 as a foundation for the *therefore* is the best expositional moment in the sermon.** The preacher understands what the chapter's opening word requires and delivers it effectively. A congregation left this knowing why chapter 8 is the culmination, not just the destination.
+
+3. **The Equiano passage and the Newton journal entry carry real historical and emotional weight.** Even if the illustrative landing could be sharper, the deployment of primary sources to illustrate the horror of slavery as an analogy for spiritual bondage is imaginatively and pastorally effective.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Romans 8:3–7 receives zero treatment — and these verses contain the theological spine of the passage.** The condemnation of sin in the flesh (v.3), the fulfillment of the law's righteous requirement in us (v.4), and the contrast of flesh-mind and Spirit-mind (vv.5–7) are the ground for the freedom proclaimed in v.1. By jumping from v.2 to v.8, the sermon proclaimed the conclusion of an argument it never made. The congregation left knowing what the text says, not why it is true.
+
+2. **The sermon's structure is fragmented rather than progressive.** Two distinct sermonic impulses — grow in holiness (navigation/sanctification) and repent and believe tonight (evangelism/invitation) — coexist without being integrated. The navigation section builds momentum toward a call to believers that is then largely abandoned when the sermon pivots to unbelievers. A congregation tracking the sermon would feel a seam, not a turn.
+
+3. **The Braveheart analogy weakens the atonement at its most critical moment.** Wallace "died for a freedom Scotland wouldn't taste for years" — Christ's death accomplished immediate, final, and effective redemption. The analogy, deployed as the capstone of the gospel presentation, introduces a comparison that subverts the very point it illustrates. William Wallace's sacrifice was noble but ultimately insufficient; Christ's sacrifice was substitutionary, sufficient, and effectual. The analogy should be cut or corrected.
+
+---
+
+### 11. Blind Spots
+
+The preacher may not see how much the personal testimony (Chris the atheist, the WonderWorks trip, the laundry machine) has displaced the text. These stories are vivid and pastoral, but they constitute the middle third of the sermon while the passage's own argument is absent. The sermon feels like a faithful preacher who loves his people and the gospel but has not yet learned to let the text generate the sermon's content rather than merely justify its themes. The illustrations are chosen first; the text is recruited to support them. This is a subtly reversed order.
+
+---
+
+### 12. Illusion of Strength
+
+The historical material — Equiano, Newton, the Middle Passage — creates an impression of expositional depth and scholarly seriousness that is not backed by actual exegetical work on the passage. A listener would feel they had received careful biblical teaching because the sermon is dense with content — but the content is mostly historical and anecdotal. The actual text of Romans 8 is treated in fewer than 200 words of the entire sermon. The density is real; the density is not textual.
+
+---
+
+### 13. Missed Opportunity
+
+Romans 8:3–4 is the theological crown of the passage and was entirely skipped: *"For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh, in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit."* This is the ground of "no condemnation" — not merely that Christ died, but that in His death the law's full demand was satisfied, sin was condemned in His flesh, and the righteousness the law demanded is credited to all who are in Him. The preacher proclaimed the verdict without explaining the verdict's legal basis. That is a substantial missed opportunity in a sermon on the most triumphant declaration in Paul's entire argument.
+
+---
+
+### 14. Surgical Fixes (4)
+
+1. **Preach Romans 8:3–4 before going anywhere else.** After establishing the *therefore* from the survey of Romans 1–7, move to verses 3–4 and explain why there is no condemnation: because God condemned sin in the flesh of His Son, and the law's righteous requirement is fulfilled in those who walk by the Spirit. This is the engine of the passage. The sermon currently has the exhaust but not the engine.
+
+2. **Cut the Wallace analogy or correct it explicitly.** If Braveheart is retained, it must be immediately corrected: "But here's where the analogy breaks down — Wallace died and the freedom was delayed and incomplete. Christ died and the freedom was immediate, total, and eternal. He didn't die *hoping* we'd be free someday. He died *making* us free in that moment." Without the correction, the analogy trains the congregation to think of Christ's death as heroic inspiration rather than substitutionary accomplishment.
+
+3. **Integrate the two sermonic impulses (sanctification and evangelism) or choose one and develop it fully.** As structured, the sermon attempts two distinct applications that compete rather than compound. If the text calls for both (it does — the Spirit/flesh contrast addresses the believer's walk, and v.8 addresses the unconverted), show how they arise from the same passage rather than treating them as separate sermonettes. Alternatively, for an evening evangelistic service, drop the navigation/sanctification section and use that time to develop the passage's own argument for the closing call.
+
+4. **Add direct address to the self-righteous and the backslider.** The closing challenge reaches the unconverted effectively. But the sermon never addresses the person who attends faithfully, knows the right answers, and has never been broken by the weight of their own sin — the "knowledgeable but unhumbled" in Perkins' taxonomy. Romans 8:8 — "those in the flesh cannot please God" — is precisely the word for this person. Name them: "Some of you have been in church your whole life. You know this passage. You can quote it. But do you know that it is *yours*? Or has 'no condemnation' become comfortable vocabulary without ever becoming blood-bought certainty?"
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is not bloodless — the closing carries genuine urgency and the gospel is proclaimed with pastoral heat. The Dead Orthodoxy pattern (high exposition, low applicatory force) does not apply here; if anything, the imbalance runs the other direction: applicatory urgency without sufficient expositional grounding.
+
+---
+
+### 16. Weight of Glory Statement
+
+**+2 / 5.** The sermon carries genuine evangelical gravity in its closing — the gunman scenario and the eternity-framing achieve real weight — but the Weight of Glory is unevenly distributed, present in the frame but thin in the body, and the sermon does not culminate in worship so much as in decision. The congregation is left wanting to *respond* rather than to *adore*.
+
+---
+
+### 17. Rubric Fit Note
+
+This rubric is well-suited to this passage and this genre (expository evangelistic sermon). Romans 8:1–8 is Pauline argument at its densest — the passage rewards and requires close expositional treatment. The rubric's heavy weighting on exposition (25 pts) appropriately penalizes a sermon that treats Paul's argument as a launching pad. No genre-strain issues. The rubric fits this sermon and this text without distortion.

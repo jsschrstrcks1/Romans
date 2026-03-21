@@ -290,3 +290,165 @@ with the gospel that actually saves.
 Amen."
 
 ⸻
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+**1. Verdict Title**
+A Hermeneutically Rigorous Defense of Particular Redemption That Functions More as Theological Lecture Than Pastoral Proclamation
+
+**2. One-Sentence Summary**
+A careful and honest exposition of the "universal passages" that serves its doctrinal purpose well while falling short of the preaching standard — informing the mind more than searching the conscience or driving men to Christ.
+
+**3. Berean Gate Result**
+PASS — with a note on genre.
+
+The main point of the study (the scope of "world" and "all" is contextually determined, not lexically fixed, and particular redemption is consistent with universal proclamation) demonstrably arises from the passages examined. The leader's authority posture is submissive to the text — notably, the study refuses to explain away the passages and explicitly acknowledges remaining tension. Both the Scopus Test and the Authority Test pass. Genre note recorded in item 17.
+
+**4. Fatal Flaw Flags**
+No fatal flaw flags triggered. However, two near-flags are noted:
+
+- Near-flag: Application is borderline generic — The "THEREFORE" section is present and earnest, but its three imperatives (pray for all people, go with confidence, hold breadth and certainty together) are applicable to any Reformed study on any passage. The application does not press specific men in specific situations with the force a faithful sermon must. It informs and directs but does not corner.
+- Near-flag: Exhortation present but muted — The study calls for response, but the imperative edge is soft. The men are told what to believe and generally what to do, but are never looked in the eye and summoned with urgency. The closing prayer is beautiful; the call to specific action in their actual lives is thin.
+
+**5. Score Breakdown**
+
+**Category 1 — Exposition & Hermeneutics: 21/25**
+
+- Textual Fidelity: 9/10 — The argument stays close to each passage. The contextual method is modeled, not merely asserted. The John 11:51–52 parallel for 1 John 2:2 is exegetically honest and well-placed. Minor deduction: the Hebrews 2:9 treatment gestures at the surrounding context without dwelling in it long enough to feel fully demonstrated.
+- Contextual Awareness: 5/5 — Strong. The study consistently grounds its readings in authorial intent, original audience (Jewish Christians for 1 John; Nicodemus for John 3:16; the Samaritan context for John 4), and book-level argument.
+- Exegetical Clarity: 4/5 — Clear and accessible. The "especially" in 1 Timothy 4:10 receives good unpacking. The Romans 5:18 parallel-structure argument is well-reasoned. What is missing: the Fallen Condition Focus (FCF) is never named or addressed. The study identifies doctrinal problems but does not name the specific human condition — misbelief, misread Scripture, fear about election — these passages were written to address.
+- Logical Faithfulness: 3/5 — The outer boundary argument (debt paid twice is not justice) does the heavy lifting in a way that functions more as a presupposed conclusion than a demonstrated exegetical result for most of the nine passages. This is not eisegesis, but several passages are handled with the framework already settled rather than being allowed to yield their meaning independently.
+
+**Category 2 — Theology & Doctrinal Integrity: 16/18**
+
+- Christ-Centeredness: 6/7 — Christ is present and necessary throughout. The cross is central to the argument. Deduction: the organic wonder of Christ as particular Redeemer of a people drawn from every nation — the doxological weight of that — is stated but not felt. The theological content is accurate without being arresting.
+- Redemptive-Historical Awareness: 3/3 — The study handles redemptive-historical placement well: the Jewish/Gentile distinction, the ethnic expansion of the covenant, the two federal heads in Romans 5. This is genuinely strong.
+- Doctrinal Precision: 4/4 — The two-will distinction (revealed will / decretive will) is carefully and accurately handled. Particular redemption is stated with precision. No theological sloppiness detected.
+- Confessional Alignment — 1689 Pulse: 3/4 — The Covenant of Grace / covenant-head logic of Romans 5 is present. The Doctrines of Grace are handled with care. Minor deduction: the study does not explicitly connect the certainty of particular redemption to the doctrine of definite atonement as articulated confessionally, nor does it ground the two-will distinction in its theological heritage (it appears here as a practical distinction rather than a confessional anchor).
+
+**Category 3 — Gospel Centrality & Force: 10/15**
+
+- Clarity of the Gospel: 3/5 — The gospel is assumed more than proclaimed. Justification by faith is present in the background (Romans 8:32 is quoted; "whoever believes" is noted) but never plainly articulated as the free offer of the gospel. A man who walked in unsaved would understand the argument about the scope of the atonement. He would not clearly understand what he must do to be saved.
+- Necessity of Christ: 4/5 — Christ is essential to the argument. The study cannot survive without him. Minor deduction: the personal necessity of Christ for the individual hearer — you specifically must trust him — is not pressed.
+- Cross-Centered Gravity: 3/5 — The cross is referenced and central to the doctrinal argument, but the study does not linger at the cross. The gravity of substitutionary death for a particular people — the wonder of it, the weight of it — is stated but not felt. The sermon moves past the cross efficiently rather than dwelling there.
+
+Synagogue Test: The study would not easily survive in a synagogue — the necessity of Christ's blood for a specific people is argued throughout. This is a mark in its favor. However, an unsaved man could attend and leave persuaded of Reformed soteriology without having been confronted with his own need for the cross.
+
+**Category 4 — Conscience & Applicatory Force: 8/15**
+
+- Heart Penetration: 2/5 — This is the study's most significant weakness. The conscience is rarely pressed. The men are informed, walked through arguments, and given correct conclusions. They are not confronted with their unbelief, their small vision, their cowardice in witness, or their prayerlessness about the lost. The FCF is absent: What specific misbelief or failure does this text address in these men?
+- Specificity: 3/5 — The "THEREFORE" section and the paragraph sequences under "When witness feels like pressure" and "When you don't know if the person you're talking to can be saved" provide some concrete situational specificity. This is genuinely helpful. But it addresses behavioral situations, not the heart beneath them.
+- Spiritual Differentiation: 3/5 — The study speaks predominantly to a single category of Perkins' taxonomy: the believer who is confused about doctrine (knowledgeable but potentially unhumbled). It does not address the man in the room who has never shared the gospel — not from confusion but from fear or indifference. It does not address the man who has used this doctrine as an excuse for passivity. It does not address the man who secretly doubts particular redemption and needs both the exegetical work and the pastoral weight of it together.
+
+**Category 5 — Exhortation & Response: 5/8**
+
+- Call to Response: 2/4 — The three imperatives at the close (pray, go, hold both truths) are genuine exhortations, but they are stated rather than urged. The study explains what to do without pressing the men into the moment of decision. There is no "therefore" moment where explanation becomes command. The men are pointed in a direction; they are not sent.
+- Equipping for Holiness & Witness: 3/4 — The study does equip for witness — the reframing of evangelism as news delivery rather than persuasion is one of the study's most practically powerful moments. The corporate body is not addressed as a covenant community, only as individuals who will go and pray.
+
+**Category 6 — Structure & Logical Flow: 8/9**
+
+- Clarity of Outline: 4/4 — The structure is exemplary for a study guide: principle established, passages worked through, pattern named, connection to Romans made, application drawn. A listener could sketch this on a napkin.
+- Progression: 3/3 — The study builds effectively. The movement from low-stakes examples (Romans 1:8, John 12:19) to the contested passages to the pattern conclusion to the practical application is well-sequenced.
+- Unity: 1/2 — The dominant idea is clear: context governs scope, and particular redemption is compatible with universal proclamation. However, by the closing section, two competing ideas are in play — the hermeneutical argument AND the missionary application — without one clearly serving the other. The study ends on both rather than on one.
+
+**Category 7 — Illustration & Imagination: 3/5**
+
+- Relevance: 1/2 — The Samaritan woman context and the Pharisee crowd-language illustration work well. The "messenger, not a mechanic" framing is memorable. But the study operates at close to a purely conceptual register. There are no illustrations drawn from the world of the men in the room — no truck, no relationship, no moment of witness that went sideways.
+- Clarity: 2/2 — Illustrations that are present clarify rather than compete.
+- Memorability: 0/1 — No single image is likely to be carried home. "Messenger, not a mechanic" comes closest but is used in passing.
+
+**Category 8 — Sermonic Force: 3/5**
+
+- Reads as Preaching: 1/2 — This reads as a well-written study guide, not a sermon or exhortation. The prose is clean and accessible. But the cadence is explanatory, not proclamatory. There is no direct address ("Some of you are using this doctrine as an excuse"), no sentence that leans forward and demands.
+- Conviction on the Page: 1/2 — The conviction of the author is present but held at a distance. The writing is confident without being urgent.
+- Cadence and Breath: 1/1 — Sentence variation is good. The closing prayer has genuine rhetorical force. The final lines of the "Closing Reflection" section carry real weight.
+
+**6. Cognitive Load Assessment**
+Modifier: −1
+
+The study is dense with exegetical argument and introduces significant theological categories (two-will distinction, federal headship, covenant scope). For a men's Bible study, this is appropriate — the audience is self-selected for this kind of engagement. However, for the average church member or new believer in an entry-level group, the accumulated argument across nine passages with two-will distinctions and covenant-head logic would be moderately overloading. One concept — the Romans 5:18 parallel structure with federal headship — could be developed separately or summarized more clearly.
+
+**7. Total Score**
+- Exposition & Hermeneutics: 21/25
+- Theology & Doctrinal Integrity: 16/18
+- Gospel Centrality & Force: 10/15
+- Conscience & Applicatory Force: 8/15
+- Exhortation & Response: 5/8
+- Structure & Logical Flow: 8/9
+- Illustration & Imagination: 3/5
+- Sermonic Force: 3/5
+- Subtotal: 74/100
+- Cognitive Load Modifier: −1
+- Weight of Glory Bonus: +2
+- **Total: 75/105**
+
+Interpretation: Solid but lacking — usually in application or gospel force. Needs another pass.
+
+**8. Core Override Questions**
+
+1. Does this study make me think more of Christ — or myself? Primarily of the doctrinal question, with Christ present but not magnified. Partial yes.
+2. Did I encounter God, or just ideas about Him? Ideas about Him, carefully reasoned. The closing prayer gestures toward encounter. Largely no.
+3. Was I comforted, convicted, or merely informed? Primarily informed. The "When witness feels like pressure" section offers comfort. No sustained conviction is produced. Largely — informed.
+
+**9. Strengths (Top 3)**
+
+1. The hermeneutical method is modeled, not merely asserted. The opening examples from Romans 1:8 and John 12:19 establish the contextual principle before it is applied to the contested passages. This is pedagogically excellent and epistemically honest — the men are taught to read, not told what to believe.
+
+2. The willingness to acknowledge remaining tension is pastorally rare and theologically mature. The leader's note and the "Note on Remaining Tension" section explicitly refuse triumphalism. "Ira does not have a complete system. He has a carefully reasoned position." This is the posture of a man under the Word, not above it. It will earn trust rather than produce false certainty.
+
+3. The missionary reframing of particular redemption is theologically sharp and practically powerful. "You are a messenger, not a mechanic" and the extended treatment of witness-anxiety under "When witness feels like pressure" transform the doctrine from abstract system to fuel for mission. This is the best applicatory moment in the study.
+
+**10. Critical Weaknesses (Top 3)**
+
+1. The Fallen Condition Focus is entirely absent. The study never asks: What specific misbelief or failure in these men does this passage exist to address? The men are presumably walking in with some combination of theological confusion, evangelistic passivity, doctrinal pride, or fear of sharing the gospel with hard cases. None of those conditions are named, addressed, or exposed. The study works around these men rather than into them.
+
+2. The gospel is argued but not proclaimed. By the end of the nine passages, a man understands the Reformed position on the atonement. He does not necessarily understand — or feel — the weight of what Christ did for him personally. "The prisoners are freed" appears twice and is powerful, but it is stated as a doctrinal conclusion, not as personal news. The study tells men about the gospel without delivering the gospel to them.
+
+3. The "THEREFORE" section directs without urgency. The three imperatives (pray, go, hold both truths) are correct but bloodless. They tell the men what to do without pressing them into accountability. Where are the questions that corner the man who has not prayed for the lost in six months? Where is the moment that asks whether his theology has made him bolder or more passive? The exhortation informs behavior without searching the heart beneath it.
+
+**11. Blind Spots**
+
+The study's author may not see that the very precision of the exegetical method can function as a form of emotional distance. When a man has been walked carefully through nine passages and arrived at the correct conclusion, he may feel he has done the work — when in fact the harder work of letting the doctrine transform his praying, his going, and his trembling before God has not yet begun. The study's intellectual rigor is its strength; it is also the thing that allows a man to leave unshaken.
+
+**12. Illusion of Strength**
+
+The "THEREFORE" section reads as applicatory strength. It has clear imperatives, pastoral specificity by situation, and genuine theological grounding. But on close examination, the three applications (pray, go, hold both truths) are what any Reformed man already knows he should be doing. The section names the direction without pressing on the failure. It feels like application; it functions more as summary. The illusion: the presence of "practical application" satisfied the form without doing the work of pressing the conscience.
+
+**13. Missed Opportunity**
+
+The closing prayer is the study's most pastorally rich moment — and it arrives at the end, after everything else has been resolved, as a liturgical coda rather than a pastoral climax. "Because You set Your love on us before we knew Your name. We are among them." That line carries enormous weight. A man hearing that line for the first time should be staggered. The study reaches that moment without having prepared the heart for it — it arrives too late, too briefly, to land with its full force. The missed opportunity: the doxological and devotional weight of particular redemption — the wonder of being among the called, the named, the kept — could have framed the entire study rather than closing it.
+
+**14. Surgical Fixes**
+
+1. Open with the Fallen Condition, not the principle. Before establishing the hermeneutical method, name the specific condition these men are in: some are confused, some are secretly unconvinced, some have used this doctrine to justify silence. One opening paragraph that names what is broken in the room will make everything that follows land harder. The method then becomes the cure, not just the lesson.
+
+2. Add direct address to the man using this doctrine as cover for passivity. Somewhere between the hermeneutical section and the "THEREFORE" section, insert a moment that names it plainly: some of you have known this position for years, and your prayer life for the lost is thin. This text is not addressed to your theology. It is addressed to your obedience.
+
+3. Press the gospel to the men before pressing them to go with the gospel. Before the missionary application, add a brief moment of gospel proclamation directed at the men themselves: the certainty of particular redemption is only good news to you if you are certain you are among those for whom Christ died. If you are not — or if you are not sure — that uncertainty is not resolved by doctrine. It is resolved by coming to him.
+
+4. Move the doxological weight of the closing prayer earlier. The line "You set Your love on us before we knew Your name" is the emotional and devotional climax of the study's argument. Build toward it. Let the nine passages serve as preparation for that moment of wonder, not as a debate to be resolved.
+
+5. In the exhortation section, differentiate among the men. Address at least three categories explicitly: the man who is theologically confused (this study is for you), the man who is theologically confident but evangelistically passive (this study is for you especially), and the man who has shared the gospel and knows the weight of God's sovereignty under that pressure (this study is your anchor). This is the Perkins differentiation the study currently lacks.
+
+**15. Dead Orthodoxy Flag**
+TRIGGERED — with partial qualification.
+
+- Exposition scores 21 (above 20 threshold)
+- Conscience & Applicatory Force scores 8 (below 9 threshold)
+
+The trigger condition is met. This study is doctrinally sound and hermeneutically careful. It is pastorally thin. The diagnosis: correct theology that has not yet been pressed into the conscience of specific men in specific conditions. The doctrine is right. The fire — toward these men, in this room — is largely absent. This is not a failure of orthodoxy. It is a failure to let orthodoxy do what it exists to do: search, convict, comfort, and send.
+
+**16. Weight of Glory Statement**
+The closing prayer carries genuine eternal weight, and the study's refusal to make particular redemption a tribal system — insisting instead that it is a global mission mandate — reflects a theological vision worth preaching; but the study reaches for glory and touches it only at the edges, never dwelling long enough for the men to be undone by what they have just learned about the God who set His love on them before the world began. Bonus: +2/5.
+
+**17. Rubric Fit Note**
+This is a Bible study guide, not a sermon manuscript. The rubric strains at several points:
+
+- The "Sermonic Force" category is honest enough to note the manuscript reads as a study guide, not a sermon — this is by design, not failure.
+- The "Exhortation & Response" category partially applies: study guides typically use discussion questions rather than imperatives. The study does include an explicit "THEREFORE" section with imperatives, which is notable and commendable — and is what makes the rubric's evaluation of it fair.
+- The "Illustration & Imagination" deductions are appropriate: the study operates almost entirely at a conceptual register when its men-in-real-life moments are its most effective passages.
+- The gospel proclamation weakness is real even accounting for genre: a study guide that covers the atonement at length should deliver the gospel to its hearers, not only about its scope.
+- The Fallen Condition Focus critique applies fully regardless of genre: every lesson, every study, every sermon should know what broken thing in its hearers it was written to address.
+
+Overall rubric fit: Moderate. The framework surfaces genuine diagnostic value on exposition, theology, and applicatory force. The "Sermonic Force" and "Illustration" categories are somewhat genre-strained. The conscience and gospel categories apply with full force.

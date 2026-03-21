@@ -70,3 +70,183 @@ It’s a little like gothic architecture in that regard. You remember the cathed
 Does anyone have any questions about our reading this week, or the things we’ve talked about today?
 
 Week 2 Next week we will finish chapter 1, and may get into chapter 2 a bit. We shall see .
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**"Sunday School Notes, Not a Sermon — Doctrinally Earnest but Outside Rubric Scope"**
+
+---
+
+### 2. One-Sentence Summary
+A Sunday school discussion session covering cessationism, perseverance of the saints, and prevenient grace — drawn from a book study of MacArthur's *Charismatic Chaos* and Tozer — that shows genuine doctrinal engagement but is not a sermon and cannot be evaluated as one.
+
+---
+
+### 3. Berean Gate Result
+
+**DOES NOT APPLY — Genre Disqualification.**
+
+This document is not a sermon. It is a set of Sunday school discussion notes for a book study. There is no preaching text that governs the session's argument. The session moves between 1 Cor. 13:8–10, Acts 28:7–10, John 10:27–28, 1 John 4:19, 1 Cor. 2:14, and Eph. 2:1–10 — but none of these functions as a preaching text from which a main point is derived and proclaimed. The passages are cited as supporting references for positions being defended in a book discussion.
+
+The Berean Gate's Scopus Test asks: "Is the main point of the sermon the main point of the text?" This question has no answer here because there is no governing text and no sermon.
+
+**Verdict: The Berean Gate does not apply. This is a Sunday school lesson/discussion guide. The rubric is being applied as a diagnostic courtesy, not as a proper evaluation. See Rubric Fit Note (Section 17) for full explanation.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+Evaluated in advisory mode only — these are observations, not formal flags, since this is not a sermon:
+
+**Advisory: No gospel presentation.** The document discusses grace, prevenient grace, and perseverance of the saints at the theological level, but never proclaims the gospel. This is appropriate for a book-study discussion; it would be fatal in a sermon.
+
+**Advisory: No exhortation.** The session ends with an open question ("Does anyone have any questions?") and a schedule note. This is the correct close for a Sunday school class and entirely wrong for a sermon.
+
+**Advisory: No applicatory force.** The session moves through theological propositions without directing them at the conscience. Again: appropriate format, wrong for preaching.
+
+**No score cap is applied** — the cap system applies to sermons, not to Sunday school notes.
+
+---
+
+### 5. Score Breakdown
+
+*Scores are offered as advisory observations. They should not be used to judge the teacher, as this format is not designed for proclamatory evaluation.*
+
+**Category 1 — Exposition & Hermeneutics (25 pts): Advisory — Not Scored Formally**
+
+The session handles several passages with reasonable accuracy. The cessationist argument from 1 Cor. 13:8–10 is the most developed exegetical section. The Greek word study on the three different verbs used for "ceasing" (tongues: stop on their own; knowledge: erode; prophecy: condemned to inactivity) is accessible and appropriately brief. However, the exegetical conclusion — that "the perfect" in v.10 refers to the completion of the canon in 90 AD — is a significant interpretive position that is asserted rather than argued. This is the standard cessationist move, and it is defensible, but in a teaching context it deserves more argument than it receives here.
+
+The claim that "Paul writes the book of Revelation on the island of Patmos" around 90 AD is a factual error. Revelation was written by John, not Paul. This needs correction.
+
+**Category 2 — Theology & Doctrinal Integrity (18 pts): Advisory**
+
+Strengths: The treatment of prevenient grace (broadly Reformed, not Arminian in the technical sense), total depravity, and perseverance of the saints is sound. The Ephesians 2 citation is well-placed. The distinction between God doing miracles in individual situations versus giving ongoing sign gifts as a distributed charism is a helpful and defensible position. The characterization of Arminianism is somewhat caricatured ("if you work hard enough, then one day you can be good enough, and in your own power able to follow God") and deserves more careful expression in a teaching context. Arminianism is a serious theological tradition; students taught to dismiss it with a caricature are not well-equipped to engage it charitably or defeat it precisely.
+
+**Category 3 — Gospel Centrality & Force (15 pts): Advisory**
+
+Not applicable as the primary frame. The session assumes the gospel rather than proclaiming it. The Tozer quote about spending 55 minutes on original sin before 5 minutes on the gospel is an interesting pedagogical observation, and the teacher's implicit affirmation of it points toward a healthy instinct. But the session itself never actualizes this instinct.
+
+**Category 4 — Conscience & Applicatory Force (15 pts): Advisory**
+
+The closest the session comes to searching application is the question "Have you ever felt that longing?" — which is genuinely evocative and experiential. The personal reflection on distraction by "the complexities of life" and the observation that focus on Christ makes everything else fade is pastoral and honest. These are the session's warmest moments.
+
+**Category 5 — Exhortation & Response (8 pts): Advisory**
+
+Not applicable. The session's format does not require or permit formal exhortation.
+
+**Category 6 — Structure & Logical Flow (9 pts): Advisory — Moderate**
+
+The session covers three distinct topics: (1) cessationism and the gift of tongues/miracles; (2) perseverance of the saints (against Arminianism); (3) prevenient grace and the pursuit of God. These three topics are loosely related by the framing of "ways we differ from Tozer," but the connections between them are not made explicit. A student leaving this session might have three separate theological data points without a unifying doctrinal principle to hold them together.
+
+**Category 7 — Illustration & Imagination (5 pts): Advisory — Adequate**
+
+The "blinders and light" image for prevenient grace is accessible. The Gothic cathedral size illustration for God's transcendence is evocative but underdeveloped. The personal illustrations (car going to Miami, mother's arthritis) are honest and humanizing without overwhelming the content.
+
+**Category 8 — Sermonic Force (5 pts): Not Applicable**
+
+This is not a sermon. The conversational register is appropriate for its format.
+
+---
+
+### 6. Cognitive Load Assessment
+
+**Advisory: 0 (for Sunday school format)**
+
+The session is appropriately accessible for a book-study discussion. The three topics do not overload; they are handled sequentially and with reasonable clarity.
+
+---
+
+### 7. Total Score
+
+**No formal score assigned.** This document is Sunday school discussion notes. Applying a 100-point sermon rubric to it would produce a misleading number. The rubric's categories are not designed for this format, and a score would misrepresent both the rubric and the session.
+
+---
+
+### 8. Core Override Questions
+
+These questions are answered in advisory mode:
+
+1. **Does this session make me think more of Christ — or myself?**
+The session points toward Christ, particularly in the discussion of prevenient grace and the longing-for-God passage. The personal illustrations are Christ-adjacent rather than self-centered. Partial yes.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas. The session is didactic and theological. The closest moment to encounter is the "have you ever felt that longing?" question — which gestures toward experiential engagement without dwelling there.
+
+3. **Was I comforted, convicted, or merely informed?**
+Informed, with a small gesture toward comfort (the perseverance section) and a smaller gesture toward conviction (the longing section).
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The cessationist Greek word study is a genuine teaching strength.** The distinction between the three verbs (tongues: self-cessating; knowledge: eroding; prophecy: condemned to inactivity) is instructive and demonstrates that the teacher has done honest preparation. It is accessible without being shallow.
+
+2. **The Ephesians 2 citation anchors the prevenient grace discussion well.** Quoting the full pericope (vv.1–10) gives the students the textual context for the theological claim. The "what can a dead man do?" question is a well-deployed rhetorical move that makes total depravity concrete.
+
+3. **The personal illustrations are honest and grounded.** The car-to-Haiti story and the mother's arthritis reference are specific, real, and tied to the theological point being made. This is the kind of grounded, personal illustration that sustains credibility in a small-group teaching context.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The attribution of Revelation to Paul is a factual error that must be corrected.** The notes state: "From this point until roughly 90AD when Paul writes the book of revelation on the island of Patmos." Revelation was written by the Apostle John, exiled to Patmos under Domitian. This error, if taught uncorrected, miseducates students on a matter of basic biblical literacy.
+
+2. **The cessationist interpretation of "the perfect" (1 Cor. 13:10) is asserted without argument.** This is one of the most contested verses in the cessationism/continuationism debate. The view that "the perfect" refers to the completion of the canon is defensible but not self-evident. Students deserve to hear the competing interpretations (the beatific vision view, the eschatological view, the maturity view) and be equipped to engage them, not simply told which conclusion is correct.
+
+3. **The characterization of Arminianism is inaccurate.** The notes describe it as: "he believes that if you work hard enough, then one day you can be good enough, and in your own power able to follow God." Classic Arminianism does not teach moral self-sufficiency — it teaches that prevenient grace enables a free response to the gospel. The disagreement is about the nature of that grace and whether it can be resisted, not about whether human effort saves. Teaching students a caricature of Arminianism disarms rather than equips them for real theological engagement.
+
+---
+
+### 11. Blind Spots
+
+The teacher does not appear to notice the tension between citing Tozer extensively and critiquing Tozer's Arminianism. Tozer was a genuine man of God whose pneumatology and piety may be worth engaging more charitably even while disagreeing with his soteriology. The session's framing ("ways we believe differently than Tozer") is pedagogically useful but risks teaching students to be more alert to where they disagree with a figure than to what they can receive from him. The Tozer quote about spending 55 minutes on original sin is one of the most pastorally instructive moments in the session — it deserves more time, not just a passing citation.
+
+---
+
+### 12. Illusion of Strength
+
+The Greek word study on 1 Cor. 13:8–10 creates the impression of careful exegetical work. And it is, to a point — the teacher has done lexical research. But the larger cessationist argument from that passage still rests on the identification of "the perfect" with the canon's completion, which the Greek word study does not establish. The lexical work is real; the exegetical conclusion requires an additional hermeneutical step that is not taken.
+
+---
+
+### 13. Missed Opportunity
+
+The session's most powerful moment is the Tozer quote: "spend 55 minutes on the weight of sin, 5 on the gospel." The teacher affirms it briefly and moves on. That observation is a theological gift that could have anchored the session's entire second half — what does it mean to feel the weight of what you've been saved from? What does it mean that the same God who is "big enough to make you feel small" in a Gothic cathedral is the God who pursued you before you could pursue him? The longing-for-God section (Psalms, moth to flame, steel to magnet) arrives close to this depth but does not fully arrive.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Correct the Paul/Revelation error immediately.** Before the next session, clarify in writing or verbally that Revelation was written by John, not Paul. A factual error about authorship in a book-study context erodes the teacher's credibility on matters of greater theological weight.
+
+2. **Add one to two sentences acknowledging the alternative interpretations of "the perfect" in 1 Cor. 13:10.** Students equipped to defend cessationism while knowing the continuationist counterarguments are more useful to the church than students who have only heard one side.
+
+3. **Reframe the Arminianism critique with more precision.** Instead of "works hard enough to follow God in own power," describe the actual Arminian position: God offers prevenient grace to all, enabling a free response; that grace can be resisted; salvation can be forfeited by final apostasy. Then show why the Reformed view — that effectual grace is irresistible and regeneration precedes faith — is more consistent with Eph. 2:1–10 and John 10:27–28.
+
+4. **In future sessions, consider opening with a single governing text rather than a book chapter.** Even in a book-study context, anchoring each session in one passage that the book is trying to address gives the discussion a textual center of gravity and trains students to move from Scripture to application rather than from book to Scripture.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — the session shows genuine pastoral warmth and personal engagement. The teacher is not merely processing theological information; there is evident love for the students and for the Lord.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The session carries an honest flicker of doxological weight in the longing-for-God passage and in the Tozer 55/5 observation — but it is not sustained, and the session closes on a scheduling note rather than on wonder or worship.
+
+---
+
+### 17. Rubric Fit Note
+
+**The Thus Says the Lord rubric does not fit this document.** The rubric is designed for sermon manuscripts — text-governed proclamations delivered from the pulpit to the whole congregation for the purposes of exposition, proclamation, and exhortation. This document is a set of Sunday school discussion notes for a book study of MacArthur's *Charismatic Chaos*, covering roughly three theological topics in a conversational, interactive format.
+
+Applying the rubric here is like measuring a pastoral visit with a pulpit standard. The pastoral visit is not deficient because it lacks formal exhortation — it serves a different purpose. So with Sunday school notes.
+
+**The evaluation above is offered as a teaching quality diagnostic, not as a sermon evaluation.** The rubric's categories are meaningful as observations (the factual error about Paul/Revelation; the unargued cessationist interpretation; the Arminianism caricature) but the scores and flags are advisory only and should not be used to judge the quality of the teaching session as a Sunday school class.
+
+**If the intent is to evaluate this as a sermon manuscript, it must first be reconceived as a sermon** — with a governing text, a main point that arises from that text, applicatory force, and an exhortation. At that point the rubric would apply fully.

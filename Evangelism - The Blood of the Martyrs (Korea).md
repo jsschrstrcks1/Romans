@@ -128,3 +128,181 @@ He didn't need to see it. God was keeping count.
 ---
 
 *[Evangelism challenge and prayer for the community.]*
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Stirring Missionary Narrative That Moves the Heart but Stops Short of the Pulpit**
+
+---
+
+### 2. One-Sentence Summary
+A compelling pre-sermon people-group segment on the Korean martyrs and the 1907 Revival that successfully kindles missionary zeal and shame for complacency, but functions more as a devotional exhortation than a text-governed sermon, leaving the congregation moved but not fully under the Word.
+
+---
+
+### 3. Berean Gate
+
+**Rubric Note — Rubric Fit:** This piece is explicitly labeled a pre-sermon evangelism segment, not a standalone sermon. It is genre-adjacent to a sermon but is not one: there is no sustained passage under exposition, no single governing text, and no doctrinal argument developed from Scripture. The rubric will be applied as faithfully as possible, but several categories (Exposition, Theology, Gospel Centrality) are structurally strained. This is flagged transparently in section 17.
+
+**Scopus Test:** The piece does not center on a single text's argument. Three passages are cited (2 Cor. 5:20, Mark 16:15, 1 Cor. 1:17), none of which is opened, exegeted, or argued from. The main point — "God has always used ordinary faithful people and their deaths to scatter seed; now it's your turn" — is coherent and compelling, but it arises from historical narrative, not from any single passage.
+
+**Authority Test:** The preacher does not stand above the Word as editor. He submits to its claims. But he does not stand *under* a specific text either — he stands alongside a story.
+
+**Verdict: Conditional Pass.** The piece passes the spirit of the authority test, but cannot fully pass the Scopus Test because it is not structured as a text-driven sermon. Evaluation proceeds with the genre caveat noted above and in section 17.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 3 — Christ is present but not proclaimed with full gospel force.** The name of Jesus appears (Thomas shouting "Jesus, Jesus"), the cross is implied, 2 Cor. 5:20 is read. But justification is never stated, the necessity of Christ's substitutionary work is not named, and the gospel is assumed rather than proclaimed. For a full sermon this would be a fatal flaw. Given the genre, it is a significant weakness but not a sermon-killing structural failure.
+
+**Flag 5 — No formal exhortation with a clear "therefore" moment.** The Spurgeon quote and the closing question ("What have you been involved in lately that would make it hard for the people around you to go to hell?") are arresting and sharp, but the piece ends with an ellipsis rather than a summons. The congregation is moved emotionally and challenged rhetorically; they are not given a specific call with concrete action.
+
+**Score cap:** Given the genre, the full 69-cap will not be mechanically applied — but both flags are noted and factored into scoring, and the score is restrained accordingly.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 9 / 25**
+
+Three texts appear, none are opened. 2 Cor. 5:20 is applied well as a label for Thomas's life ("He was an ambassador"). Mark 16:15 is cited without any argument from the text. 1 Cor. 1:17 is used as reassurance for the non-eloquent witness. The texts function as proof-texts supporting a narrative argument, not as the source of the argument. The Fallen Condition Focus (FCF) is present but arrived at through narrative rather than textual discovery: the congregation's hardness to the lost, their drive-past complacency. That FCF is named clearly and is strong — but it is preached from a story, not from Scripture. Exegetical transparency is absent because no exegesis is attempted.
+
+**2. Theology & Doctrinal Integrity — 10 / 18**
+
+The theology is sound as far as it goes: God uses ordinary means, human faithfulness, martyrdom as seed, sovereignty behind harvest (forty years between death and revival). The piece is implicitly Reformed — delayed harvest, God keeping count, no result required from the servant. But there is no doctrinal development. The Doctrines of Grace hum in the background but are never named or developed. Justification is nowhere named. The gospel is treated as a known quantity the congregation already holds, not something to be declared afresh. Confessional alignment: no contradiction, but also no positive engagement.
+
+**3. Gospel Centrality & Force — 7 / 15**
+
+The gospel is present as the assumed content of what Thomas was delivering — the Bibles, "Jesus, Jesus," the reconciliation language of 2 Cor. 5:20. But the gospel is never *preached*. An unbeliever in the room would know Thomas died for something called "Jesus," that people need to be "reconciled to God," and that Christians are supposed to share this — but would not know what the gospel is, what sin is, what the cross accomplished, or why Christ's death matters for them. The Synagogue Test: a devout non-Christian could track this entire piece, feel the power of the narrative, and even be moved to admire Christian courage without being confronted by the offensiveness of the cross. That is a failure of gospel force, even in an evangelism-segment context.
+
+**4. Conscience & Applicatory Force — 10 / 15**
+
+This is the piece's strongest theological area. The diagnostic moment is sharp: "How many times do we drive past the food pantry and see people who are lost? How many times do we see someone wrecked on drugs or alcohol… and just drive right past?" That names real, specific behavior. It corners the comfortable. The Spurgeon quote then presses it: "let them perish with our arms about their knees." The closing question — "What have you been involved in lately that would make it hard for the people around you to go to hell?" — is one of the better diagnostic questions a congregation can be asked. The piece addresses Perkins' category 5 (believers in need of stirring) effectively, but does not differentiate other categories. The unbeliever, the backslider, and the hardened are not addressed.
+
+**5. Exhortation & Response — 4 / 8**
+
+The evangelism challenge at the close is gestured at but not written into the manuscript. "[Evangelism challenge and prayer for the community]" is a placeholder, not a preached call. The Spurgeon quote calls for arms around knees — but the piece never turns that image into a specific summons. The congregation is asked a probing question; they are not given a "therefore, here is what you will do." The equipping-for-witness dimension is present conceptually but not executed.
+
+**6. Structure & Logical Flow — 7 / 9**
+
+The structure is genuinely good: (1) Story of Thomas → (2) Seed and death → (3) The 1907 harvest → (4) Our context now → (5) You don't have to be able. Each section connects. The progression builds well. The Thomas-to-Pyongyang arc is memorable and lands with force. The application section (Now — Us) is proportionate. Minor issue: the 1 Cor. 1:17 section on ability feels slightly grafted rather than arising from the narrative logic; it is true and useful but adds a new thread just before the close.
+
+**7. Illustration & Imagination — 4 / 5**
+
+The Thomas narrative is the sermon's illustration — and it is excellent. Bible pages wallpapering a house; people reading the gospel off a wall; a man dying at twenty-nine shouting "Jesus, Jesus" while throwing Bibles at the people killing him. These images are native to the text, specific, and unforgettable. The food pantry and drug addict on the road are congregation-native and grounded. The Spurgeon quote is the right material in the right place. Minor deduction: the piece has multiple high-impact elements that may compete rather than build — the cognitive space required to absorb Thomas's death, then the Revival, then the local context, then Spurgeon, then Paul, then the close is full.
+
+**8. Sermonic Force — 4 / 5**
+
+This reads like preaching. The sentences are oral, rhythmic, and direct. "He went back to China. Gathered himself. And went right back." — that has cadence. "God was keeping count" — strong compression. "He didn't need to see it" — earned pause. The editorial notes within the manuscript are valuable for integrity but would not appear in the preached version. Direct address is sparse ("How many times do we…") but present. The tone is congruent with the content: urgent but not strident, mournful but not defeated. The closing question lands with weight.
+
+---
+
+### 6. Cognitive Load Modifier — −1
+
+The piece covers a Welsh missionary in China and Korea, the General Sherman incident, Tertullian, the Russo-Japanese War context, the 1907 Revival, the Jerusalem of the East, Pasco County statistics, Spurgeon, and Paul. For a pre-sermon segment this is a full load. Each element serves the point, but the density is high for a segment that precedes a full sermon. The average churchgoer can track the main arc (Thomas → harvest → us) without losing the thread, but several supporting elements may be absorbed rather than processed.
+
+---
+
+### 7. Total Score
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 9 | 25 |
+| Theology & Doctrinal Integrity | 10 | 18 |
+| Gospel Centrality & Force | 7 | 15 |
+| Conscience & Applicatory Force | 10 | 15 |
+| Exhortation & Response | 4 | 8 |
+| Structure & Logical Flow | 7 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 4 | 5 |
+| **Subtotal** | **55** | **100** |
+| Weight of Glory (bonus) | +3 | +5 |
+| Cognitive Load Modifier | −1 | 0 |
+| **Total** | **57** | **105** |
+
+**Interpretation: Below 60 — Fundamentally limited as a sermon.** As a pre-sermon evangelism segment evaluated against its actual function, this is effective and strong. As a sermon evaluated against the full rubric, it is below threshold — not because it fails at what it does, but because what it does is not a complete sermon. The genre distinction matters enormously here (see section 17).
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Largely Christ and His sovereign purpose in history. The Thomas narrative directs attention to God's faithfulness over decades. Some sections ("What have you been involved in?") briefly redirect to self-assessment, but appropriately.
+
+2. **Did I encounter God, or just ideas about Him?** The 1907 Revival narrative carries genuine weight and the sense of God's sovereignty over history is palpable. The encounter is mediated through story rather than through the opened Word, which limits its depth — but it is not merely intellectual.
+
+3. **Was I comforted, convicted, or merely informed?** Convicted. The "drive past the food pantry" section and the Spurgeon quote both land in the conscience. The Thomas death scene carries its own pathos. This is not merely informational.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Thomas narrative is masterfully condensed and carries genuine weight.** The detail of Bible pages wallpapering a house and the congregation reading the gospel off walls is specific, memorable, and illustrates divine sovereignty over martyrdom with economy and force. It will be remembered.
+
+2. **The conscience question is sharp and specific.** "What have you been involved in lately that would make it hard for the people around you to go to hell?" is not generic. It is a diagnostic question that corners real complacency in real people in a specific congregation.
+
+3. **The editorial discipline is exemplary.** The manuscript consistently flags unverified quotes, historical inaccuracies, and translation variants. The Spurgeon note (unverified extended quote) and the Tertullian caution are models of careful-not-clever preaching hygiene. This protects the preacher's credibility and the congregation's trust.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is assumed, not proclaimed.** "Be reconciled to God" (2 Cor. 5:20) is read and applied to Thomas's life but the content of reconciliation — what sin costs, what the cross accomplished, why Christ's death is necessary — is never named. A person in the room who does not already know the gospel would not learn it here. The segment is about *doing* evangelism without modeling what the gospel being evangelized actually is.
+
+2. **No text is opened.** Three passages are cited, none are exegeted or argued from. The piece is driven by narrative, not by the Word. This is an acceptable limitation for a pre-sermon segment but should be named as a structural choice, not a virtue.
+
+3. **The exhortation is a placeholder.** The closing "[Evangelism challenge and prayer for the community]" is a bracket, not a call. The Spurgeon quote raises the stakes; Thomas's death earned the summons; the congregation is poised to be sent — and the manuscript ends with a question rather than a commission. The "therefore" moment is absent from the written text.
+
+---
+
+### 11. Blind Spots
+
+The piece addresses believers who are complacent about evangelism. It does not consider that some in the room may not be believers — and the irony of preaching *about* evangelism to people who may need to be evangelized is not addressed. Additionally, the piece presents faithfulness-without-results as the paradigm (Thomas "never saw a single convert"), which is pastorally true and important — but it creates a subtle gap: if results don't matter, why does the harvest in 1907 carry so much rhetorical weight? The tension between faithfulness-regardless-of-outcome and the harvest narrative is not named or resolved.
+
+---
+
+### 12. Illusion of Strength
+
+The emotional power of the Thomas narrative may create the impression that the gospel has been clearly proclaimed. The congregation will feel they have encountered something of the cross. They have not — they have encountered a man who died for the gospel, which is a different thing. The story does the heavy affective lifting; the actual theological content (what is the gospel? why does it save?) is carried by assumption. Strong narrative can mask theological absence.
+
+---
+
+### 13. Missed Opportunity
+
+2 Corinthians 5:20 is the richest text in the piece and is almost entirely unused. "God making his appeal through us" — the ambassador is not speaking for himself but for the King; his words are the King's words; his rejection is the King's rejection being absorbed. The whole Thomas narrative could have been driven *from* that text rather than decorated with it. The phrase "be reconciled to God" in that same verse contains the gospel: there is an alienation, a needed reconciliation, a God who initiates it, and an appeal that requires response. The piece touches this and walks past it.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Open 2 Cor. 5:20 before telling the Thomas story, not after.** Let the text establish the frame — "We are ambassadors; God is making His appeal through us" — then Thomas becomes the illustration of the text rather than the text becoming a label for Thomas. This transforms the narrative from inspiring history into exposition with a living example.
+
+2. **Name the gospel content within the evangelism challenge.** In the "Evangelism Is Not About Your Ability" section, add one sentence that names what Thomas was delivering: "He was carrying the news that God had sent His Son to bear the weight of human rebellion, to die the death we deserved, and to rise — and that anyone who turns and trusts Him will be reconciled to God." This takes twenty seconds and answers the Synagogue Test.
+
+3. **Write the exhortation.** The "[Evangelism challenge and prayer for the community]" bracket must become actual preaching. Specifically: name two or three concrete actions the congregation can take before next Sunday — pray for one neighbor by name, share a tract at the food pantry, invite someone to church. The Spurgeon quote earned that specificity; deliver it.
+
+4. **Resolve the faithfulness-vs.-results tension explicitly.** The sermon says "He didn't need to see it. God was keeping count." That is theologically true and pastorally vital. But the piece has just spent five minutes celebrating the enormous harvest of 1907. Acknowledge the tension: "We don't preach to manufacture results. We preach because we are ambassadors and our King is sending His appeal. What He does with it is His to decide. Thomas discovered that. We must learn it."
+
+5. **Address the unbeliever.** One sentence directed at anyone present who does not yet know Christ — something like: "If you're sitting here tonight and you haven't been reconciled to God yourself, the message Thomas was throwing onto those riverbanks — that's for you tonight." This costs three seconds and closes the loop.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** This piece is not cold or bloodless. The passion for the lost is genuine and the narrative carries real heat. The weakness is not dead orthodoxy but gospel-thinness — a different diagnosis.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The 1907 Revival narrative carries genuine eternal gravity, and "God was keeping count" is a sentence that belongs in the permanent memory of the congregation — but the piece's glory is borrowed from history rather than generated by the opened Word, and the close does not yet rise to the magnitude of what it has narrated.
+
+**Bonus: +3 / 5**
+
+---
+
+### 17. Rubric Fit Note
+
+This piece is explicitly labeled a pre-sermon evangelism segment, not a standalone sermon. Applying the full 17-element rubric to it is like grading a foyer display on the same criteria as the worship service — useful for diagnostic purposes, but the genre fundamentally strains several categories. Exposition, Theology, and Gospel Centrality scores are low not because the preacher failed those categories, but because a pre-sermon narrative segment is not structured to deliver them. The rubric is most useful here for identifying what the piece *is not* doing and whether that absence is a problem. In this case: for a full congregation that will immediately hear an exposition of Judges 6, the gaps may be acceptable. For a congregation where this *is* the only preaching they receive that night, they are significant. The preacher should decide which context applies and weight these findings accordingly.

@@ -62,3 +62,189 @@ Maybe you became a Christian a long time ago but wandered away from God, fightin
 Today is the day to get right with God.
 
 (Gospel)
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Earnest Pastoral Heart, Shallow Exegetical Roots — A Gospel Invitation Built on a Text It Never Fully Opened**
+
+---
+
+### 2. One-Sentence Summary
+A well-intentioned opening of Galatians 2:15–21 that showed genuine pastoral warmth and pressed the conscience toward repentance, while failing to derive its main argument from the passage itself and leaving the text's climactic declaration — "I have been crucified with Christ" — largely unexplored.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with significant concern**
+
+The Scopus Test passes narrowly: the sermon's question ("Has your relationship with God made a substantive difference?") is loosely connected to Galatians 2:19–20's "crucified with Christ / Christ who lives in me." The sermon does circle back to the text.
+
+The Authority Test raises concern: the passage's actual argument — that justification is by faith in Christ alone, not works of law, and that returning to law-keeping is a reconstruction of the very thing Christ demolished (v.18) — receives no direct treatment. Paul's confrontation of Peter (vv.11–14), the theological core of vv.15–17, and the anti-moralism edge of vv.17–18 are entirely bypassed. The sermon reads as using the text as a launching pad, not as a field to till.
+
+---
+
+### 4. Fatal Flaw Flags
+**Score cap: 69**
+
+The following flags are triggered:
+
+- **Flag 2 — Main point does not equal text's point**: Galatians 2:15–21's main point is the sufficiency and exclusivity of justification by faith, not the question of whether Christians act differently. The sermon substitutes a sanctification question for a justification passage.
+- **Flag 4 — Application is largely generic**: "Get right with God," "turn from wicked ways," and "only a relationship with Jesus Christ" appear, but there is no differentiated address to specific hearers — the self-righteous law-keeper, the moralist, the doubting new believer. The application does not arise from this text's specific situation (Jew/Gentile, law/grace, Peter's hypocrisy).
+- **Flag 5 — Exhortation is present but thin**: The gospel invitation at the end calls for response, but it arrives without adequate preparation from the text. The invitation feels appended rather than arising from the sermon's argument.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 12/25**
+
+- *Textual Fidelity (10 pts): 5/10* — The sermon quotes Galatians 2:19–20 meaningfully, but the surrounding argument (vv.15–18, 21) is untouched. The Peter confrontation, the Jew/Gentile framework, the "rebuilding what I tore down" logic — all absent. The preacher did not open the text; he opened a topic that the text's final verses happen to illustrate.
+- *Contextual Awareness (5 pts): 2/5* — No awareness of Galatians' polemical context (the Judaizers, the circumcision party, the occasion of the letter). The sermon could have been preached from Romans 6 or Ephesians 2 without structural change.
+- *Exegetical Clarity (5 pts): 2/5* — The one meaningful exegetical move (crucified with Christ → new life) is stated but not unpacked. Greek engagement is absent. The passage's argument structure is not explained.
+- *Logical Faithfulness (5 pts): 3/5* — No obvious eisegesis, but the sermon proceeds by association rather than by the text's own logic.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+
+- *Christ-Centeredness (7 pts): 5/7* — Christ is genuinely present and necessary. The cross is referenced. The new life motif is real.
+- *Redemptive-Historical Awareness (3 pts): 1/3* — The law/grace contrast is gestured toward but the Mosaic covenant, the function of the law in redemptive history, and the Galatian crisis context are absent.
+- *Doctrinal Precision (4 pts): 3/4* — Justification is mentioned but not precisely defined. The imputation of righteousness, the nature of union with Christ — these remain implicit. No serious error, but imprecision.
+- *Confessional Alignment (4 pts): 3/4* — No contradictions of confessional theology. Salvation by faith alone is affirmed. But the passage's explicit Covenant of Works/Grace logic (dying to the law to live to God) is undrawn.
+
+**3. Gospel Centrality & Force — 8/15**
+
+- *Clarity of the Gospel (5 pts): 3/5* — The gospel is present and earnestly offered. Justification by faith is affirmed. But penal substitution is implicit rather than declared. The mechanism of atonement is not articulated from this text.
+- *Necessity of Christ (5 pts): 3/5* — Christ is necessary, affirmed repeatedly. But the sermon's force could survive in a synagogue that believed in general moral transformation through God. The cross's specific saving logic (substitutionary, propitious) is not stated.
+- *Cross-Centered Gravity (5 pts): 2/5* — The sermon moves toward "getting right with God" more than toward the cross. The law section (the hammer) is extended; the gospel section (the balm) is brief and generic.
+
+**Synagogue Test**: NEAR FAIL. A devout moral theist could sit through most of this sermon without offense. The gospel invitation names Jesus as the only way (John 14:6), which is good — but the blood of Christ, the wrath of God satisfied, the imputed righteousness of Christ — none of these are made the centerpiece.
+
+**4. Conscience & Applicatory Force — 8/15**
+
+- *Heart Penetration (5 pts): 4/5* — The stove-burner image and the direct question ("Has your relationship with God made a substantive difference?") do press the conscience. There is genuine pastoral searching here.
+- *Specificity (5 pts): 2/5* — Application stays at the level of "get right with God" and general behavior change. No specific situations from the congregation's actual life are addressed in light of this specific text.
+- *Spiritual Differentiation (5 pts): 2/5* — The sermon largely addresses the unbeliever and the wandering Christian. The moralist, the religious but unjustified, the Pharisee-type (the very person the Galatian text targets), and the doubting believer are not addressed.
+
+*Perkins' Seven*: Addresses categories 2 (teachable but ignorant), 4 (the humbled), 5 (believers broadly), and 6 (backsliders). Misses entirely: category 3 (the knowledgeable-but-unhumbled religious person — the most relevant hearer for this text).
+
+**5. Exhortation & Response — 5/8**
+
+- *Call to Response (4 pts): 3/4* — A gospel invitation is explicitly given. The call to repentance and faith is real, if brief.
+- *Equipping for Holiness & Witness (4 pts): 2/4* — The congregation is not equipped to live in the Galatians 2:20 reality. The sermon tells them it is true; it does not show them how to inhabit it. No "therefore" moment that sends people out differently.
+
+**6. Structure & Logical Flow — 5/9**
+
+- *Clarity of Outline (4 pts): 2/4* — Three sections emerge (introduction, law and guilt, life in Christ), but they are not clearly marked or memorably titled. The people-group insert is a structural interruption that breaks momentum.
+- *Progression (3 pts): 2/3* — Movement from guilt to grace is present. The sermon does build toward invitation, even if the path is meandering.
+- *Unity (2 pts): 1/2* — The introduction question ("Has your relationship with God made a substantive difference?") and the sermon's body (long guilt section, brief new-life section) pull in slightly different directions. The ring illustration promises a sermon about the transforming effect of the gospel; what follows is largely a sin-inventory with a gospel tag.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2 pts): 2/2* — The ring/proposal story is accessible, warm, and congregationally grounded. The stove-burner image is vivid and memorable.
+- *Clarity (2 pts): 1/2* — The ring illustration is extended and effective; the connection to Christian identity is made well. The Moses-glowing illustration, while evocative, slightly distracts from the Galatians text.
+- *Memorability (1 pt): 1/1* — These illustrations will be remembered. The ring story, in particular, earns its length.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2 pts): 2/2* — Oral cadence is present throughout. This sounds like a man preaching, not presenting.
+- *Conviction on the Page (2 pts): 1/2* — The guilt section has genuine force. The gospel section loses it. The conclusion lacks the weight of the opening.
+- *Cadence and Breath (1 pt): 0/1* — Sentence rhythm is generally uniform. No sustained climactic compression.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+
+The sermon is accessible. The content is within reach of any hearer. However, the Abraham/Moses/David survey risks feeling like a list rather than a building argument. One fewer biblical example in that section (e.g., remove Abraham and tighten to Moses and David) would sharpen the progression. The people-group insert mid-sermon creates a cognitive speed-bump. Overall: manageable, with minor density in the sin-inventory section.
+
+---
+
+### 7. Total Score
+**12 + 12 + 8 + 8 + 5 + 5 + 4 + 3 = 57 (base)**
+**Cognitive Load Modifier: −1**
+**Weight of Glory Bonus: +2**
+**Total: 58/105**
+
+*Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.*
+
+Note: Three fatal flaw flags were triggered, confirming the structural problems that the score reflects. This is not a score to discourage — the pastoral instincts here are genuine and worth building on. But the sermon's architecture needs to be rebuilt from the text's own argument.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Partly both. The lengthy guilt section (Adam, Moses, Abraham, David, Paul) keeps attention on human failure longer than on Christ's provision. Christ appears, but the sermon's center of gravity bends toward what we've done wrong.
+
+2. **Did I encounter God, or just ideas about Him?** Ideas, primarily. The ring illustration and stove image generate warmth. But God himself — his holiness, his wrath, his mercy in the cross — is described more than encountered.
+
+3. **Was I comforted, convicted, or merely informed?** The guilt section convicts. The gospel section briefly comforts. But many in the congregation would leave primarily informed — with a long list of sinners who didn't measure up — rather than freshly undone and freshly remade at the cross.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The ring illustration works** — The proposal story is genuinely effective as an opening image for the transforming weight of something precious. It creates anticipation, it's culturally accessible, and the payoff (Christians carry something life-altering) lands naturally. This is illustration done well.
+
+2. **The pastoral directness of the opening question** — "Has your relationship with God made a substantive difference in your life?" is a conscience-piercing question that most churchgoers need to sit under. It is the right question to bring to a congregation. The stove-burner image reinforces it memorably.
+
+3. **The gospel is genuinely offered** — Despite the structural weaknesses, the sermon does call the congregation to Christ, names Jesus as the only way (John 14:6), distinguishes between the unbeliever and the wandering Christian, and invites response. This is not a sermon content to leave people where they are. The invitation is earnest.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The text is never opened** — Galatians 2:15–21 is one of the most compressed and precise justification passages in all of Paul. The Jew/Gentile confrontation, the "died to the law to live to God" argument, the warning against rebuilding the system of law-works, and the utter sufficiency of Christ's work — none of these are treated. The sermon quotes vv.19–20 but does not exegete them. A listener could not reconstruct Paul's argument from this sermon.
+
+2. **The law/gospel rhythm is inverted and imbalanced** — The law section occupies roughly two-thirds of the sermon's content. When the gospel arrives, it is brief, slightly generic, and does not provide the weight needed to balance the extended catalog of human failure. This creates a structural problem: the sermon preaches condemnation longer than it preaches grace. The gospel must be given at least equal weight — and in Galatians 2, Paul gives it greater weight.
+
+3. **The sermon's question is not this text's question** — "Has your relationship with God made a substantive difference?" is a sanctification question. Galatians 2:15–21 is a justification passage. Paul's concern is not "are you living differently?" but "are you trusting Christ alone or trusting law-works for your standing before God?" By substituting the sanctification question, the sermon bypasses the text's actual burden and misses the most convicting application for a Reformed congregation: the ever-present temptation to justify yourself by religious performance.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the people most addressed by Galatians 2 are not the prodigal sinners catalogued in the guilt section — they are the morally serious, religiously observant, doctrinally sound church members who are quietly trusting their obedience, their church attendance, their spiritual pedigree. The entire occasion for Galatians is Peter — a man who knew the gospel, had seen the risen Christ, and still drifted back to works-righteousness under social pressure. This sermon does not address that person at all. The congregation's Pharisees sat unreached.
+
+---
+
+### 12. Illusion of Strength
+
+The extended sin-inventory (Adam, Moses, Abraham, David, Paul) feels like thorough exposition. It creates the impression of a well-prepared preacher working carefully through the biblical witness to human failure. But this section derives from Romans 3, Isaiah 64, and 1 Corinthians 6 — not from Galatians 2. It is thorough work in the wrong field. The energy and preparation that produced this section would have been more powerful if directed at the actual passage. The survey reads as confident, but its confidence is misplaced: it is not exposition of the text in front of the congregation.
+
+---
+
+### 13. Missed Opportunity
+
+Galatians 2:18 — "For if I rebuild what I tore down, I prove myself to be a transgressor" — is one of the most searingly practical verses in the letter and in Paul's entire corpus. Here Paul names the specific temptation of the justified person: returning to self-justification, re-erecting the law-works scaffold after Christ has torn it down. This verse is directly applicable to the church culture the sermon is preaching to — people who know the gospel, have been freed from it, and quietly reconstruct religious performance as their standing before God. This verse was entirely bypassed. A single well-developed application of v.18 to the religious self-improvement culture present in most evangelical churches would have been the most convicting moment in the sermon.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Rebuild the outline from the text's own argument**: Galatians 2:15–21 has three movements — (1) even Jews know that justification is not by law-works (vv.15–16), (2) dying to the law is how we live to God (vv.17–19), (3) the new life is Christ living in us by faith (vv.20–21). Restructure the sermon along these three movements and let the introduction question be answered by Paul's own argument, not supplemented from other texts.
+
+2. **Develop Galatians 2:18 into a full applicatory section**: After explaining justification by faith (v.16), name the specific temptation: returning to law-works. Name it concretely for this congregation — church attendance as standing before God, moral record as grounds for confidence, spiritual performance as the measure of acceptance. Let the text corner the moralist in the room.
+
+3. **Shorten the sin-inventory and relocate it**: The Adam/Moses/Abraham/David/Paul catalog is effective but out of proportion. Trim to one or two examples (David and Paul are the strongest), and reframe them not as "proof we fall short of God's standard" (true but generic) but as "even those who knew God still fell into self-justification" — which connects directly to Galatians 2's occasion.
+
+4. **Give the gospel section equal or greater weight**: If the law section runs three times longer than the gospel section, the sermon's proportions preach law more than gospel. The balm must match the hammer. Expand the Galatians 2:20 section — the crucified-with-Christ reality — into a full exploration of what it means to live by faith in the Son of God who loved us and gave himself for us. This is where the ring illustration belongs, not in the introduction.
+
+5. **Add differentiated address to the religious moralist**: Before the gospel invitation, address the person who has sat in church for decades and has never been shaken from confidence in their own obedience. "Some of you believe the gospel — but you are living as if your spiritual resume is your standing before God. You have rebuilt what Christ tore down. Galatians 2:18 says that makes you a transgressor, not a faithful person."
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — The sermon is not dead orthodoxy. The pastoral warmth, the genuine gospel offer, and the searching opening question indicate a preacher with pastoral heat. The weakness here is not bloodlessness but underdevelopment. The fire is present; the text work needs to catch up to it.
+
+---
+
+### 16. Weight of Glory Statement
+The sermon carries genuine pastoral gravity in its opening and in its invitation, and the best moments — the ring story, the stove-burner image, the earnest call to get right with God — reflect a man who believes what he is saying; but the eternal weight that Galatians 2:20 ("the Son of God, who loved me and gave himself for me") is capable of producing was left largely unmined.
+
+**Bonus: +2/5**
+
+---
+
+### 17. Rubric Fit Note
+This is a Pauline epistle passage — the rubric applies cleanly and without strain. The weighted categories are well-matched to what Paul is doing in Galatians 2:15–21. No genre adjustment is required. If anything, the rubric's emphasis on the Fallen Condition Focus and the law/gospel dialectic is ideally calibrated for this passage, which makes the sermon's failure to engage those categories more, not less, significant.

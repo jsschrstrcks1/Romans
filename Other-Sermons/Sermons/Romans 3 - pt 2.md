@@ -110,3 +110,200 @@ And in Christ, that faithfulness is our anchor—when we’re strong, and when w
 Let’s come full circle. Who can tell me what Romans 3:23 says? This verse might be one of the most important in all of Scripture—because it’s where the bad news of sin as revealed by the law, and good news of Jesus Christ crash into each other. It is the doorway to God’s breathtaking grace. 
 
 (gospel presentation).
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Warmhearted Gospel Declaration with Shallow Exegetical Roots and an Unfinished Conclusion**
+
+---
+
+### 2. One-Sentence Summary
+A genuinely gospel-warm opening of Romans 3:10–27 that effectively preached the bankruptcy of human righteousness and the gift of imputed righteousness, while relying too heavily on a single illustration, bypassing significant exegetical texture in the passage, and ending with a placeholder rather than a completed exhortation.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with reservations**
+
+*Scopus Test*: The sermon's thesis — "No one is righteous; God is faithful despite our failure; righteousness is given in Christ, not earned" — does arise from the passage's own argument. Romans 3:10–20 establishes universal condemnation; 3:21–27 announces justification by faith. The sermon follows this shape.
+
+*Authority Test*: The preacher does not soften the condemnation sections or avoid the hard declarations. He submits to the text's claims. Pass.
+
+*Reservation*: The sermon draws from 3:3–4 (God's faithfulness) as a second point but handles the profound theodicy argument of those verses (God's righteousness vindicated in judgment) only tangentially. The theological freight of vv. 25–26 — propitiation, the passing over of sins, God's justice being the very reason for Christ's death — receives no treatment. The sermon passes the gate but does not fully honor the passage's own climactic logic.
+
+---
+
+### 4. Fatal Flaw Flags
+**No fatal flaws triggered. Score is uncapped.**
+
+- Gospel is clearly presented — not assumed.
+- Christ is central and necessary to the argument.
+- Application is present, though moderately generic.
+- An exhortation is present, though partially completed (see weakness #3).
+- The sermon is accessible to ordinary hearers.
+
+*Note*: The conclusion ends with "(gospel presentation)" — a placeholder, not a completed text. This nearly triggers Fatal Flaw #5 (No actual exhortation). The exhortation is implied and partially present in the closing paragraphs, preventing the flag, but the incompleteness is a significant weakness.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 17/25**
+
+- *Textual Fidelity* — 7/10: The sermon tracks the major movements of the passage. Romans 3:10–12, 19–20, 21–24, 27 all receive attention. However, vv. 25–26 — the theological heart of the passage, containing "propitiation," "passing over of former sins," and God's justice as the basis for justification — receive no treatment whatsoever. This is a significant gap. The sermon also works backward from 3:23 before reading the passage, creating a slightly inverted structure.
+- *Contextual Awareness* — 3/5: The reference to the previous week's wrath sermon shows awareness of context. But no development of how 3:10–20 concludes the long indictment section begun in 1:18, and no sense of where 3:21–26 fits in the book's argument (the "But now" as a hinge of redemptive history). Paul's theodicy argument in 3:3–4 is referenced but not unpacked.
+- *Exegetical Clarity* — 4/5: The hamartia etymology point is handled well and serves the congregation. Greek is used as a key, not a trophy. Clear and useful.
+- *Logical Faithfulness* — 3/5: No gross eisegesis. But the omission of vv. 25–26 is itself a logical failure — the sermon builds to imputed righteousness without ever explaining *how* God can be just in justifying the ungodly. That is precisely what v.25–26 answers, and the sermon skips it.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness* — 5/7: Christ is genuinely central. Imputed righteousness is stated clearly. The "spotless robe" image is sound and warm. However, the christological movement is primarily from Christ's obedience to imputation; the substitutionary and propitiatory dimensions of the cross are not stated with precision.
+- *Redemptive-Historical Awareness* — 2/3: The "But now" in v.21 is noted as a hinge, which shows awareness. The connection to prior promises in vv.21–22 ("witnessed by the Law and the Prophets") is mentioned in passing. Adequate but not developed.
+- *Doctrinal Precision* — 3/4: Justification by faith is present. Imputation is present. But propitiation — the word Paul uses in v.25, the doctrine that explains how God justifies sinners while remaining just — is entirely absent. For a passage whose climax is the revelation of God's righteousness in the cross, this is a material gap.
+- *Confessional Alignment* — 3/4: No contradictions of confessional theology. The Doctrines of Grace are present implicitly (divine foreknowledge, election "before the foundation of the world"). No distortions.
+
+**3. Gospel Centrality & Force — 12/15**
+
+- *Clarity of the Gospel* — 4/5: Justification by faith is clear. Imputation is stated. The cross as the ground of forgiveness is present. Not articulated with full precision (propitiation absent), but an unbeliever could understand the basic gospel.
+- *Necessity of Christ* — 5/5: Christ is genuinely necessary to the sermon's argument. The sermon cannot stand without Him. Pass.
+- *Cross-Centered Gravity* — 3/5: The sermon moves toward grace, but it moves horizontally — from our failure to Christ's righteousness covering us — without descending into the vertical dimension: God's wrath, the cross as the site of divine judgment absorbed, God's justice satisfied. The gospel is present but not in its full depth. The Synagogue Test: a devout Jew or Muslim would be offended by the necessity of Christ — pass. But the cross as scandal (God dying, wrath satisfied, atonement accomplished) is understated.
+
+**4. Conscience & Applicatory Force — 9/15**
+
+- *Heart Penetration* — 4/5: The sideways comparison section ("at least I'm not as bad as them"), the whitewashed tomb image, the Special Olympics illustration — these do press on real heart conditions. The sermon reaches the affections, not only the intellect. Good.
+- *Specificity* — 3/5: The application is somewhat general. References to "comparing ourselves sideways" and "church attendance won't reach it" are real but undifferentiated. There is no moment where a specific category of sinner is genuinely cornered — the self-righteous moralist is grazed but not trapped, the struggling backslider is consoled but not searched, the person who has given up is spoken to briefly but not with surgical precision.
+- *Spiritual Differentiation (Perkins)* — 2/5: The sermon addresses primarily the believer who needs encouragement (categories 5 and 6). The hardened sinner (category 1), the knowledgeable but unhumbled (category 3), and the humbled-but-not-yet-believing (category 4) are touched only lightly. The sermon stays largely in the believer/struggling-believer range and does not work through the congregation's full complexity.
+
+**5. Exhortation & Response — 4/8**
+
+- *Call to Response* — 2/4: The closing section ("We stop boasting. We stop pretending. We stop comparing.") is a real exhortation and it is specific. But then the sermon trails off into comfort and ends with a placeholder: "(gospel presentation)." The exhortation is begun but not completed. The summoning word — the "therefore, go and do this" — is partially present but never fully lands.
+- *Equipping for Holiness & Witness* — 2/4: The sermon speaks of coming to Christ empty-handed, which is the right first step. But it does not equip the congregation for ongoing obedience, witness, or the life of faith that flows from imputed righteousness. It ends at the doorstep of the Christian life rather than stepping through it.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline* — 3/4: The four-point outline is clear and traceable: (1) No one is righteous; (2) Though we fail, God is faithful; (3) The law condemns but cannot save; (4) Righteousness is given, not earned. A listener could sketch this.
+- *Progression* — 2/3: The sermon builds reasonably, but the second point (God's faithfulness, drawn from 3:3–4) interrupts the momentum of the indictment section before the turn at v.21. This is not wrong, but it creates a slightly premature comfort that weakens the "But now" moment.
+- *Unity* — 1/2: The archery illustration appears in the introduction, then is referenced again mid-sermon and at the close. It is over-used. The Special Olympics illustration is strong and native to the passage's argument, but competes with the archery frame rather than serving it. Multiple illustrations pulling in slightly different directions.
+
+**7. Illustration & Imagination — 3/5**
+
+- *Relevance* — 2/2: The archery illustration, the A.W. Tozer t-shirt, the Special Olympics story, and the beggar-before-Elon-Musk image all land in the congregation's real world. These are not academic illustrations.
+- *Clarity* — 1/2: The archery illustration is clear and effective the first time, but is returned to multiple times without adding new light — it becomes wallpaper. The Special Olympics illustration is the strongest in the sermon and earns its place.
+- *Memorability* — 0/1: No single image is sharp enough to be the one the congregation carries home. The archery frame is repeated so much it loses its edge. The whitewashed tomb image (borrowed from Jesus) is powerful but underused — it appears briefly and departs.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching* — 2/2: This reads like preaching, not an essay. Oral cadence, direct address ("Some of you..."), conversational rhythm. The Bob Moulds reference is a local, personal touch that reads as genuine. The sermon breathes.
+- *Conviction on the Page* — 1/2: Conviction is present in places — "That's the report card" and "The law doesn't grade on a curve" and "Romans 3 doesn't stutter" are punchy lines. But the density of Scripture-grounded assertion is uneven. Long stretches pass between engagement with the text.
+- *Cadence and Breath* — 0/1: Sentence length is fairly uniform throughout. The sermon does not build to a climactic compression. It reaches a high point emotionally in the "He factored in my stupidity" section, then levels off rather than ascending further. The conclusion dissipates rather than detonates.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+
+The sermon is accessible. The archery illustration is explained clearly. The concepts — universal sin, God's faithfulness, law as mirror, imputed righteousness — are not overloaded. However, the shift from 3:3–4 to 3:10–20 and back to 3:21–27 without a clear map could slightly disorient a new believer tracking the references. Minor reduction warranted.
+
+---
+
+### 7. Total Score
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 17/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 12/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **67/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **68/105** |
+
+**Interpretation: Concerning gaps — the sermon explains and comforts but does not fully preach.** Genuine gospel warmth is present; the structural and exegetical gaps prevent it from reaching the pulpit unrevised.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+More of Christ. The movement is consistently away from human effort and toward Christ's sufficiency. The imputation language is clear. Christ is the hero of the sermon.
+
+2. **Did I encounter God, or just ideas about Him?**
+Partially. The A.W. Tozer section and the "He factored in my stupidity" movement create genuine warmth and a sense of God's personal knowledge and mercy. But God's holiness and wrath — the very attributes that make the cross necessary — are not weighty here. The sermon comforts more than it awes.
+
+3. **Was I comforted, convicted, or merely informed?**
+Comforted, primarily. Some conviction in the sideways-comparison section. Largely informed about the gospel's mechanics rather than searched by them. The comfort is genuine gospel comfort, not false comfort — but the conviction that should precede it is too brief.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Imputed righteousness is stated with clarity and warmth.** "When the Father looks at the believer, He doesn't see the mess we've made. He sees the righteousness of His Son covering us like a spotless robe." This is doctrinally sound, pastorally warm, and congregation-accessible. It is the best moment in the sermon.
+
+2. **The Special Olympics illustration is the strongest in the sermon and is genuinely native to the text.** "What victory is there in being the tomb with the best whitewash?" This presses the self-righteous sinner by showing that comparative moral standing before God is a meaningless category. It connects to Jesus' own language and to Paul's argument simultaneously.
+
+3. **The sermon maintains gospel centrality throughout.** Unlike many sermons on Romans 3 that spend all their time on condemnation, this one actually arrives at grace. The "But now" turn is honored. The preacher does not leave the congregation under the law. That is a pastoral strength and a theological achievement.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Romans 3:25–26 — the theological climax of the passage — receives no treatment.** The word "propitiation" (hilastērion), God's purpose in putting forth Christ as a propitiation "to show his righteousness," the reference to "the passing over of former sins" — these verses explain *why* God can be just in justifying the ungodly. The sermon declares imputed righteousness but never answers how a holy God can give it without compromising His justice. This is not a minor omission. It is the hinge on which Paul's argument turns, and the sermon bypasses it entirely.
+
+2. **The conclusion is incomplete.** The sermon ends with "(gospel presentation)" — a manuscript notation, not a completed exhortation. This is a draft ending attached to sermon content. The call to response exists partially in the "We stop boasting" section, but the sermon as written has no landing. A congregation left at this point has not been summoned — they have been walked to a door that was never opened.
+
+3. **Conscience application is too generic and stays in the comfort lane.** The sermon identifies heart sins (pride, comparison, self-righteousness) but does not corner specific sinners with the specificity the Puritan tradition demands. The self-righteous moralist hears he is wrong but is not addressed directly. The person clinging to their works-righteousness is not dismantled with surgical precision. The sermon gestures at these categories but does not press into them.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that he has built a sermon around the *comfort* Romans 3 provides while understating the *terror* it intends to produce first. The indictment section (vv.10–18) is a catena of Old Testament quotations that function as divine courtroom testimony — the law speaking as prosecutor. The sermon handles this section in a tone that is already tilting toward comfort ("God is faithful, His grace has factored in your failures") rather than allowing the law its full weight before the relief of the gospel arrives. The hammer doesn't land fully before the balm is applied.
+
+Additionally, the preacher appears unaware that the A.W. Tozer t-shirt quote — while heartwarming and theologically grounded — when deployed before the law has done its full work can function as cheap comfort. "God factored in my stupidity" is true, but it can immunize the hearer against the gravity of their sin rather than driving them to the cross.
+
+---
+
+### 12. Illusion of Strength
+
+The archery illustration feels like the sermon's backbone — it opens the sermon, reappears mid-sermon, and is referenced at the close. But it is doing less theological work than it appears to be. The illustration captures "missing the mark" (distance from God's standard) but cannot carry the weight of propitiation, substitution, or imputation. The illustration says "everyone misses the target" — it does not and cannot say "Christ absorbed the penalty for the miss, and the Father declared you righteous because of it." The sermon leans on an illustration that is wide enough to support the law's condemnation but too shallow to support the cross's accomplishment. The preacher may feel the archery frame has done more work than it has.
+
+---
+
+### 13. Missed Opportunity
+
+Romans 3:25–26 contains one of the most compressed and powerful theological statements in all of Scripture: God put forth Christ as a propitiation *to show his righteousness* — because in his divine forbearance he had passed over former sins. This verse answers a question that haunts the Old Testament: How could God forgive David? How could he pass over the sins of Israel? Was he not being unjust? Paul's answer is that the cross is the moment where all prior patience is vindicated retroactively. God was not being careless with sin in the Old Testament — he was running a tab. And Christ paid it. This is not just a point of doctrinal precision — it is a doxological detonation. The sermon was in the room with this verse and never opened the door.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Preach Romans 3:25–26.** Add a full section — even brief — on propitiation. The single sentence "God put Christ forward as a propitiation by his blood, to be received by faith" (v.25) is the hinge of the passage. Explain: God's justice demands that sin be punished. His mercy desires to forgive. The cross is where both are satisfied simultaneously. He is "just and the justifier of the one who has faith in Jesus" (v.26). This is the theological heart the sermon is missing.
+
+2. **Complete the conclusion.** Remove the "(gospel presentation)" placeholder and write the actual closing call to response. It should include: (a) a direct invitation to those not yet in Christ — "Come to Christ empty-handed, right now"; (b) a word to the struggling believer — "Your failures have not outrun his faithfulness"; (c) a clear statement of what the congregation is to go and do: stop comparing, stop performing, and live out of the righteousness they have already been given in Christ.
+
+3. **Allow the law to land before relief arrives.** Currently the sermon moves from point 1 (no one is righteous) almost immediately to "But Christ hit the mark." Consider letting the full weight of vv. 10–18 settle on the congregation before the gospel turn. Use the indictment section as Paul uses it — as a divine courtroom shutting every mouth. The "no more excuses" weight of v.19 should be felt, not hurried past.
+
+4. **Add direct address to the self-righteous hearer after point 1.** Something like: "There is a person here today who has been religious all their life and genuinely believes they are more righteous than the person beside them. The law is speaking directly to you this morning. Not to the obvious rebel — to you. God's standard is not 'better than average.' It is 'perfect.' And you have not been that." This differentiates hearers and applies the text with the specificity the Puritan tradition demands.
+
+5. **Let the archery illustration do one job and retire it.** Use it once in the introduction to establish "missing the mark." Then move to the passage's own imagery and language — the courtroom (v.19), the mirror (v.20), the "But now" (v.21), the propitiation (v.25). The text has its own rhetorical power. Trust it.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** This sermon has pastoral warmth and genuine gospel feeling. It is not a cold orthodoxy problem — it is an incompleteness problem. The fire is present; the fuel is partially missing.
+
+---
+
+### 16. Weight of Glory Statement
+The sermon carries genuine gospel warmth and a real sense that God's mercy matters eternally, but it does not yet reach the gravity of the passage — a passage about God's justice being vindicated at Calvary, the universe's deepest problem receiving its definitive answer. The bonus is modest: **+2.**
+
+---
+
+### 17. Rubric Fit Note
+This is an epistolary doctrinal text — the rubric fits well. Romans 3 is dense theological argument, and the rubric's emphasis on exposition, doctrinal precision, and gospel centrality applies directly. The Fallen Condition Focus is clear (universal sinfulness and moral bankruptcy before a holy God), and the sermon identifies it correctly. The rubric does not strain here; it applies with full force. The sermon's deficits are not genre-related — they are execution-related.

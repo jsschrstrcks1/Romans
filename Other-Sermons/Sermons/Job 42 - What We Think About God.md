@@ -243,3 +243,219 @@ Raw notes contained duplicated paragraphs throughout — Andrew, Thomas, Philip 
 
 ### Sermon Incomplete
 Notes end at "Romans 10:9." The gospel presentation and any closing appeal need to be completed before delivery.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**An Honest Refutation of the Prosperity Gospel That Stalls at the Gospel Itself**
+
+---
+
+### 2. One-Sentence Summary
+A scripturally grounded and pastorally warm dismantling of prosperity-gospel error that builds genuine momentum toward the cross but stops before completing the gospel presentation, leaving the sermon structurally unfinished.
+
+---
+
+### 3. Berean Gate Result
+
+**PASS — with qualification.**
+
+*Scopus Test:* The sermon's thesis — that God is rightly offended by false theology and that right thinking about Him matters — does arise from Job 42:7–9. The frame holds.
+
+*Authority Test:* The preacher submits to the text. Hard passages (1 Cor. 6:9–10, Matthew 5:28) are not softened. The preacher stands under the Word.
+
+**Qualification:** This is a raw notes manuscript — explicitly labelled as such. The gospel section is a stub: "Romans 10:9 — *[Preach gospel here — notes end.]*" The Berean Gate passes on what is present, but the sermon is structurally incomplete. Evaluation proceeds on the existing manuscript with appropriate weight on the absent gospel climax.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG TRIGGERED — Score capped at 69.**
+
+**Fatal Flaw #1: No clear gospel presentation.**
+The gospel section (Section IX) is a placeholder. The manuscript explicitly notes: *"Notes end."* The sermon builds toward the cross (Section VIII is strong) but the actual gospel proclamation — what Christ accomplished, what faith and repentance require, how the hearer is justified — is absent. This is not a minor gap. The entire argument has been building to this moment, and the manuscript collapses before arriving.
+
+**Fatal Flaw #5: No actual exhortation.**
+The closing appeal in Section V ("repent") is the closest thing to exhortation in the manuscript, and it is brief and undeveloped. The congregation is informed throughout. They are never summoned. The imperative edge — "Here is what you must now do" — is missing.
+
+**Note:** These flags are partially explained by the manuscript's raw-notes status. A finished sermon may resolve both. But the evaluation must judge what exists.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 16/25**
+
+- *Textual Fidelity (6/10):* Job 42:7–9 is read and explained clearly. The core observation — God's anger burns against false theology — is the text's own point. However, the sermon quickly leaves Job 42 and never returns. After establishing the frame, the text serves as a launching pad more than an anchor. The FCF (Fallen Condition Focus) is identifiable (our theological distortions about God) but never named with crisp precision. Chapell's bridge — *why does this text exist, what hole must grace fill* — is implicit rather than stated.
+- *Contextual Awareness (3/5):* The broad Job narrative is summarized accurately. The sermon understands Eliphaz's error in context. However, there is no engagement with Job's own speeches, his lament, or the *reason* God vindicated him — which is theologically rich and largely ignored.
+- *Exegetical Clarity (4/5):* The text's meaning is rendered clearly and accessibly. The preacher explains Eliphaz's error, traces the pattern to the prosperity gospel, and makes the connection legible for ordinary hearers. No Greek, which is fine given this is Old Testament and the text doesn't demand it.
+- *Logical Faithfulness (3/5):* The movement from Job 42 → prosperity gospel → martyrs → law → gospel is directional but loose. The apostolic martyrdom section is the most tenuous — it works rhetorically but the logical connection to Job 42 is not made explicit. The sermon risks feeling like three sermons loosely connected.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness (4/7):* Christ is present and necessary — the inclusion of Jesus Himself in the martyrs list (Section IV) is a sharp rhetorical and theological move, and Section VIII clearly points to Christ's atoning work. However, the Christology is implicit through much of the sermon. The connection between Job 42 and Christ as the greater sufferer who also intercedes (see Job 42:8 — Job prays for his friends; Christ intercedes for his) is entirely missed.
+- *Redemptive-Historical Awareness (2/3):* The sermon places Job within a general biblical worldview but does not locate the text within redemptive history. There is no movement from Job's suffering and vindication toward Christ's suffering and vindication. The organic typological resonance is present in the text and untouched by the sermon.
+- *Doctrinal Precision (4/4):* The refutation of the prosperity gospel is precise and fair. Galatians 1:8 is used correctly. The "Jesus plus anything" framing is clear and accurate. The sermon avoids the temptation to be vague in its refutation.
+- *Confessional Alignment (3/4):* No contradictions to confessional theology. The law-to-gospel pattern in Sections VI–VIII is essentially sound. However, the gospel stub means the justification section is unfinished — we get the law's weight but not the full articulation of grace.
+
+**3. Gospel Centrality & Force — 7/15**
+
+- *Clarity of the Gospel (1/5):* Section VIII begins to articulate the gospel. John 3:16 is named but not quoted. Colossians 3:3 is used. 1 Corinthians 6:11 — "you were washed, sanctified, justified" — is the strongest gospel statement in the manuscript. But the actual mechanics of justification by faith are never stated. Romans 10:9 is referenced but never preached.
+- *Necessity of Christ (4/5):* Christ is not optional in this sermon. The argument requires Him. The use of Jesus in the martyrs list and the substitutionary framing in Section VIII establish His necessity.
+- *Cross-Centered Gravity (2/5):* The sermon moves toward the cross but never arrives. The sheep stall illustration (Section VII) is effective as law-application, and Section VIII correctly follows with grace. But the cross itself — the nature of what Christ did, penal substitution, the imputation of sin and righteousness — is gestured at rather than proclaimed.
+
+**4. Conscience & Applicatory Force — 10/15**
+
+- *Heart Penetration (4/5):* The Ten Commandments section (Section VI) is the strongest applicatory passage in the sermon. The movement through lying, Sabbath-breaking, lust, and hatred lands in the hearer's conscience. The grand canyon illustration is vivid and effective. The "depart from me" monologue (Section VII) is sharp and pressing.
+- *Specificity (3/5):* The law application is specific. The prosperity gospel critique is concrete. However, the application narrows to the unbeliever for most of the sermon. The believing member of the congregation — who knows right theology but has never pressed it on their neighbor — is underaddressed.
+- *Spiritual Differentiation (3/5):* The sermon reaches the lost, the prosperity-gospel deceived, and the self-righteous fairly well. It largely passes over the believer (encouragement, equipping), the backslider, and the humbled-but-not-yet-believing. Perkins' taxonomy suggests two to three categories addressed out of seven.
+
+**5. Exhortation & Response — 3/8**
+
+- *Call to Response (2/4):* The closest the sermon comes to exhortation is Section V: "repent... we don't know how long you have." This is valid but thin. No differentiated call — what does the believer do, the doubter do, the backslider do? The sermon tells people *that* they should respond but not concretely *what* response looks like.
+- *Equipping for Holiness & Witness (1/4):* One sentence in Section V ("Christians — we need to be praying for the lost around us") is the only equipping exhortation. It is correct but underdeveloped. The congregation is not sent anywhere.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline (3/4):* The major sections are clearly titled and easy to follow. A listener could sketch a rough outline. The introduction (congregation engagement) is creative and appropriate.
+- *Progression (2/3):* The sermon has directional movement — from theology to error to law to gospel. However, the martyrs section is disproportionately long relative to its payoff, and the structure loses coherence after Section V. Sections VI–VII feel like a second sermon inserted into the first.
+- *Unity (1/2):* Two dominant movements compete: (1) right theology about God / refuting the prosperity gospel, and (2) the law-to-gospel pattern. Both are valid, but their connection is not made explicit enough to feel unified. A listener may leave uncertain whether this was a sermon about the prosperity gospel, the martyrs, or the Ten Commandments.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2):* The sheep stall illustration is native to the preacher's own farm. It is visceral, immediate, and congregationally grounded. This is exactly what the rubric rewards.
+- *Clarity (1/2):* The sheep stall works, but the transition from illustration back to doctrine ("Depart from me...") is abrupt. The illustration needs one more connecting sentence before the monologue begins.
+- *Memorability (1/1):* The sheep stall will be remembered. The grand canyon illustration is vivid. Both will travel home.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2):* The manuscript reads as oral address throughout. Direct address is present. The "Depart from me" monologue reads as preachable and alive.
+- *Conviction on the Page (1/2):* The refutation of the prosperity gospel carries genuine conviction. But the gospel section — the moment the sermon should thunder — is missing. The conviction builds and then dissipates rather than climaxing.
+- *Cadence and Breath (0/1):* The martyrs list section becomes rhythmically repetitive (Lost. Lost. Lost.) which works as a device but is not varied enough to build to a climax. The final transition to Jesus ("But before I close... Jesus Himself") is the strongest moment of sermonic rhythm and is genuinely effective.
+
+---
+
+### 6. Cognitive Load Assessment
+
+**Score: −1**
+
+The sermon carries a manageable load through the first half. The martyrs list, while long, is organized and the pattern is clear. The Ten Commandments section moves quickly but legibly. The structural looseness (two semi-independent movements) adds modest load. The average hearer can track the argument but will need to hold two threads simultaneously. One less major section — or a clearer connective statement between the prosperity gospel refutation and the law/gospel section — would bring this to zero.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 16/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 10/15 |
+| Exhortation & Response | 3/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **62/100** |
+| Cognitive Load Modifier | −1 |
+| **Adjusted Subtotal** | **61** |
+| Fatal Flaw Cap | 69 (cap not binding — score already below) |
+| Weight of Glory Bonus | +2 |
+| **Total Score** | **63/105** |
+
+**Interpretation: Concerning gaps — the sermon explains and refutes but does not fully preach. The gospel presentation is incomplete, and the exhortation is nearly absent. Significant completion needed before delivery.**
+
+*Note: A completed gospel section and substantive exhortation would likely push this sermon to 74–78. The raw material is genuinely strong. The gaps are structural and completable.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Both, approximately. The law section (Sections VI–VII) presses self-examination effectively. Section VIII points clearly to Christ. The balance is right in direction, but the Christ-side is underdeveloped because the gospel section is incomplete.
+
+2. **Did I encounter God, or just ideas about Him?**
+Partially. The preacher's pastoral warmth is present throughout. God's holiness is vivid (sheep stall). God's anger at false theology is sobering. But God's mercy — the richness of what He has done in Christ — is gestured at rather than proclaimed. The encounter is half-finished.
+
+3. **Was I comforted, convicted, or merely informed?**
+Convicted, yes. The Ten Commandments application convicts. The prosperity gospel refutation informs more than it convicts. The comfort that should follow conviction is present only in seed form (Section VIII). The full arc — conviction, then genuine comfort in the gospel — is not completed.
+
+---
+
+### 9. Strengths (Top 3)
+
+**1. The Sheep Stall Illustration (Section VII)**
+Native to the preacher's own life and farm, visceral without being sensational, and structurally positioned exactly where it should be — between the law's exposure of sin and the gospel's remedy. "God is clean. Sin is like the floor of that sheep stall." This is first-rate illustrative work.
+
+**2. The Martyrs' Refutation of the Prosperity Gospel (Section IV)**
+The cumulative rhythm of "Lost. Lost. Lost." builds to the climactic application of Jesus Himself — "If the prosperity gospel is true, then Jesus was lost too." This is rhetorically sharp and theologically airtight. The research qualifications embedded in the text (noting tradition vs. Scripture) also demonstrate unusual pastoral integrity.
+
+**3. The Ten Commandments Application (Section VI)**
+The Ray Comfort law-to-grace pattern, applied concretely and with increasing weight — lying, Sabbath, lust, hatred — presses the conscience effectively. The expansion of the commandments via Matthew 5:28 and 1 John 3:15 is well-executed and honest. The congregation is given no escape route.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+**1. The Gospel Section Is Missing (Section IX)**
+This is not a stylistic weakness — it is the structural center of the sermon's argument. Everything from Sections VI–VIII builds toward this moment. The law strips the hearer, the sheep stall illustrates the problem, Section VIII gestures at the solution, and then the manuscript ends. The hearer is taken to the cliff edge (in the sermon's own metaphor) and left there. Romans 10:9 is referenced but never opened, never explained, never preached. A sermon that walks people through the law without completing the gospel has done them harm.
+
+**2. No Exhortation (Section V and elsewhere)**
+The one exhortation present — "repent... we don't know how long you have" — is addressed only to the unbeliever. The believer receives no call. The congregation is told to pray for the lost (Section V) in a single sentence that is never developed. There is no "therefore" moment where the truth proclaimed becomes the obedience demanded. What should the congregation leave to *do*?
+
+**3. The Sermon's Unity Is Unresolved**
+Two movements are present: (1) right theology about God / Job 42 / prosperity gospel refutation, and (2) the law/gospel pattern. Both are valid and both arise from the text's general territory. But the seam between them (the transition from Section V to Section VI) is not made. Why does a sermon about the prosperity gospel suddenly become a sermon about the Ten Commandments? The connective tissue — "we need to know what God is actually like, which means knowing we are sinners who need the gospel, not health-and-wealth" — is the bridge that would unify the two movements. It is absent.
+
+---
+
+### 11. Blind Spots
+
+The preacher does not appear to see that Job 42 contains a profound Christological resonance that directly enriches the sermon's argument. Job's intercession for his accusers (v.8) — "my servant Job shall pray for you" — is a pattern fulfilled in Christ, who intercedes for those who accused and crucified Him. The prosperity gospel accusers (those who claim God rewards faith with wealth) are precisely the kind of friends Job's intercessors represent. The sermon is preaching against the prosperity gospel while sitting on top of a text that refutes it typologically through Job's own suffering and intercession. This depth was not accessed.
+
+Additionally, the preacher may not see that the congregation's believing members are largely invisible in this sermon. The entire applicatory architecture assumes the hearer may be lost or theologically mistaken. The confirmed believer — sitting in the pew, already rejecting prosperity theology, already convicted by the law — receives no word of comfort, no call to persevere, no equipping for witness.
+
+---
+
+### 12. Illusion of Strength
+
+The martyrs section (Section IV) *feels* like the sermon's strongest movement because it is the most developed and the most rhetorically sustained. The repetition of "Lost" creates genuine rhetorical force. But this section is the furthest from Job 42, and its length (roughly one-third of the manuscript) is disproportionate to its actual theological weight. The sermon is most alive here and least tethered to the text here. The illusion is that thoroughness equals depth. The apostolic martyrdom list is thorough. But it is doing work that one or two examples could accomplish more efficiently — and the space could be given to the gospel presentation that the sermon ultimately requires.
+
+---
+
+### 13. Missed Opportunity
+
+Job 42:7–9 contains a remarkable detail: Job is told to pray for the very friends who wrongly accused him, and God accepts Job's prayer on their behalf. The sermon notes that God "took them back" but does not press this point. This is a picture of substitutionary intercession — the righteous man's prayer standing in the gap for those who had spoken wrongly about God. The gospel application is immediate and organic: this is what Christ has done. He has prayed for those who wronged God. The text offers a direct, non-forced bridge to the gospel that the sermon entirely misses. The "Jesus jumps" rubric warning does not apply here — this is the text's own logic, available without any artificial importation.
+
+---
+
+### 14. Surgical Fixes (4)
+
+**Fix 1: Complete the gospel section before delivery.**
+Romans 10:9 is a sound anchor text. Expand it: confess with your mouth that Jesus is Lord, believe in your heart that God raised him from the dead. Then connect it to the work already done: the law showed you the sheep stall. Jesus is the hose. Faith is the act of stepping under it. Be specific about what justification means — not that you become good enough, but that you are declared righteous in Christ. This section must be the sermon's longest and loudest. Currently it is its shortest and quietest.
+
+**Fix 2: Add a connective statement between Section V and Section VI.**
+A single paragraph bridging the prosperity gospel refutation and the law/gospel movement would unify the sermon. Suggested move: "And here is why this matters beyond the prosperity gospel. It is not just that they have wrong ideas about God's blessings. It is that every one of us has stood before God with our own theological currency — our own attempts to be good enough — and come up short. Let me show you what I mean." This makes Sections VI–VII feel like a deepening of the argument, not a change of subject.
+
+**Fix 3: Develop the exhortation for the believing congregation.**
+After the gospel presentation, add a direct word to the converted: "And for those of you who know Christ — you were washed. Past tense. That is settled. So now what? Here is what you do: you go home and you tell someone about the canyon." Give the believer a specific, actionable call. The sermon has one clear application for the lost (repent) and none for the saved.
+
+**Fix 4: Use Job 42:8 as the gospel bridge.**
+Before Section VIII, note explicitly: "Job was told to pray for his accusers. God accepted his prayer on their behalf. That is a picture of what Jesus has done. He stood before the Father and prayed for us — the ones who had spoken wrongly about God, the ones who deserved the anger of God." This organic connection costs one paragraph and pays significant theological dividends, rooting the gospel proclamation in the sermon's own anchor text.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is not bloodless. The preacher's pastoral warmth, the farm illustration, the rhetorical energy of the martyrs section, and the clear law-application all demonstrate genuine pastoral heat. The weakness here is incompleteness, not inertness.
+
+---
+
+### 16. Weight of Glory Assessment
+
+**+2 of 5.** The sermon carries real pastoral urgency in its refutation of prosperity error and genuine gravity in the sheep stall and law sections — but the incomplete gospel presentation prevents the sermon from achieving the eternal weight that would be present if the hearer were actually brought to the cross and shown what Christ has done. The seed is there; the harvest is unfinished.
+
+---
+
+### 17. Rubric Fit Note
+
+The rubric fits this sermon reasonably well. Job 42 is narrative/wisdom literature, which the rubric notes may stress categories differently. The score appropriately rewards the strong law-application and the rhetorical force of the martyrs section while penalizing the incomplete gospel climax. The Fallen Condition Focus category is slightly strained — Job is addressing theological distortion rather than a moral or experiential fallen condition in the classic sense — but the rubric bends without breaking. The biggest rubric limitation here is that it cannot fully account for the raw-notes, pre-completion status of the manuscript: several low scores (Gospel Centrality, Exhortation) are explained by incompleteness rather than theological deficiency.

@@ -176,3 +176,218 @@ The "God fixes our compass, God salts our heart which God uses to flavor the wor
 
 The body of the sermon does not quote Romans 1 directly. The reference to Romans 1:24-28 is paraphrased correctly and left as paraphrase.
 
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Warm Pastoral Heart, Thin Expositional Spine — The Text Was a Launching Pad, Not a Home**
+
+---
+
+### 2. One-Sentence Summary
+A well-intentioned teaching on Christian social engagement that uses Matthew 5:13–16 as a thematic frame rather than as a governed text, producing genuine pastoral warmth and memorable illustration but leaving the exposition underdeveloped, the gospel section empty, and the conscience largely unaddressed at the category level.
+
+---
+
+### 3. Berean Gate Result
+
+**PASS — with qualification.**
+
+*Scopus Test:* The sermon's thesis — that Christians are called to be salt and light in a corrupt world, and that this begins with regeneration, not moralism — is broadly consonant with the intent of Matthew 5:13–16. The main point is defensible from the passage.
+
+*Authority Test:* The preacher does not stand above the text as editor in any dangerous sense. He is not softening or reframing the passage's claims. However, he treats the text as a launching pad for topics drawn from BFM Article 15 rather than deriving his argument from the passage's own movement. The salt-and-light imagery is introduced but never exegeted — Jesus' meaning in context (the Sermon on the Mount, the beatitudes as the character that produces this witness) is bypassed. The sermon passes the gate but only loosely. It orbits the text more than it opens it.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG TRIGGERED — Score capped at 69.**
+
+**Fatal Flaw #1 — No clear gospel presentation:** The sermon contains a section header titled "Gospel" (line 137) followed by a horizontal rule and nothing else. The gospel section is entirely blank. There is no proclamation of Christ's finished work, no articulation of justification by faith, no call to repentance and faith. What gospel content exists is scattered and implicit: regeneration is mentioned in the BFM quotation, new birth is implied in the "relationship with God" language, and the Beloved Daughter story gestures toward conversion. But the gospel is never proclaimed. It is background music. This is a structural failure, not merely a weakness.
+
+**Fatal Flaw #5 — No actual exhortation:** The sermon explains social issues, offers the compass illustration, and tells a moving story. But it never summoned the congregation. There is no clear "therefore" moment. The congregation was not told what they must now believe, repent of, obey, or pursue. The closing line — "But it all starts with a relationship" — is a sentiment, not a summons.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 12 / 25**
+
+- *Textual Fidelity (10):* 6/10. The salt and light metaphors are correctly identified (preservative, flavor, illumination). But Matthew 5:13–16 is never opened in its immediate context. The Sermon on the Mount setting is not mentioned. The beatitudes — which define the character of the salt-and-light people — are entirely absent. Jesus's words are read once and then essentially abandoned; the rest of the sermon is driven by BFM categories and pastoral concerns.
+- *Contextual Awareness (5):* 2/5. No attention to the Sermon on the Mount as a unified discourse. No authorial intent explored. No awareness that Matthew is writing to a Jewish-Christian audience about the nature of the kingdom community.
+- *Exegetical Clarity (5):* 2/5. "Salt" receives brief definition (preservative, flavor). "Light" receives almost none beyond the obvious. The phrase "city on a hill" is not examined. The warning about salt losing its taste — the passage's most urgent note — receives no development.
+- *Logical Faithfulness (5):* 2/5. The sermon imports the BFM article's topical agenda (racism, sexual immorality, abortion) into the Matthew text rather than deriving the argument from the text. This is topic-based teaching, not expositional preaching.
+- *Fallen Condition Focus:* Identified — the sinful heart as a broken compass. This is the sermon's strongest theological contribution and is genuinely grounded. But it is developed apart from the text, not from it.
+
+**2. Theology & Doctrinal Integrity — 12 / 18**
+
+- *Christ-Centeredness (7):* 4/7. Christ is present — regeneration, the need for a new heart, the conversion of the North Korean woman. But Christ is functional rather than glorious. He appears as the solution to the compass problem rather than as Lord and Savior proclaimed. The Christology is sound but thin.
+- *Redemptive-Historical Awareness (3):* 1/3. None. No placement of Matthew 5 in redemptive history. No covenant awareness. No awareness of Israel's failed salt-and-light vocation and Christ as the true light.
+- *Doctrinal Precision (4):* 4/4. Where doctrine is stated (total depravity, the sinful heart, regeneration preceding social change), it is accurate. The handling of homosexuality is pastorally fair and theologically grounded. No doctrinal errors detected.
+- *Confessional Alignment — 1689 Pulse (4):* 3/4. The sermon does not contradict confessional theology. The priority of regeneration over social reform is confessionally sound. Doctrines of grace are implied but not developed.
+
+**3. Gospel Centrality & Force — 4 / 15**
+
+- *Clarity of the Gospel (5):* 1/5. The gospel section is blank. Justification by faith is never articulated. Repentance is implied but not called for. This is the most serious weakness.
+- *Necessity of Christ (5):* 2/5. Christ is necessary to the argument in the sense that regeneration requires him — but this is stated rather than proclaimed. The cross does not appear.
+- *Cross-Centered Gravity (5):* 1/5. There is no movement toward the cross. The sermon moves toward the compass illustration and the Beloved Daughter story. Both are good. Neither is the cross.
+- *Synagogue Test:* A devout, morally serious non-Christian could sit through this sermon without being offended by the necessity of Christ's blood. The sermon's argument — that the heart needs fixing, that a "relationship with God" fixes it, that this produces moral renewal — could be received within certain Jewish or Muslim frameworks without encountering the scandal of the cross. This is a significant failure of gospel clarity.
+
+**4. Conscience & Applicatory Force — 8 / 15**
+
+- *Heart Penetration (5):* 3/5. The compass illustrations (GPS, Pirates of the Caribbean) are genuinely searching. The line about pornography — "God, I don't trust you to meet my need" — is penetrating and specific. The racism stories name a real sin concretely. There is genuine pastoral warmth that reaches the affections at moments.
+- *Specificity (5):* 3/5. The sexual immorality application is specific and concrete. The racism section names real experiences rather than abstractions. However, the application to the congregation's own lives is mostly about agreeing with moral positions rather than about examining their own hearts.
+- *Spiritual Differentiation (5):* 2/5. The sermon largely addresses a single hearer: the believing Christian who needs encouragement to engage society. It does not distinguish the backslider, the self-righteous, the struggling believer, the unbeliever in the room, or the humbled-but-not-yet-converted. Perkins' taxonomy is essentially untouched.
+
+**5. Exhortation & Response — 2 / 8**
+
+- *Call to Response (4):* 1/4. There is no clear call to response. "It all starts with a relationship" is not exhortation. The congregation was never summoned to believe, repent, share the gospel, or engage in any specific action.
+- *Equipping for Holiness & Witness (4):* 1/4. The sermon gestures toward evangelism as the primary Christian social engagement — this is its strongest thesis — but never equips the congregation to do it. The Beloved Daughter story is inspiring but not instructive. No one leaves knowing what to do Monday.
+
+**6. Structure & Logical Flow — 6 / 9**
+
+- *Clarity of Outline (4):* 3/4. The sermon has identifiable sections. The movement from people group → BFM reading → heart diagnosis → salt and light → illustration is traceable, if not tight.
+- *Progression (3):* 2/3. The sermon drifts topically — racism, sexual immorality, abortion, compass, salt, Beloved Daughter — without a tight logical spine connecting them. Each section is serviceable; the connective tissue is weak.
+- *Unity (2):* 1/2. There are at least three competing centers: the BFM article, the broken compass motif, and the salt-and-light metaphor. These are related but not unified.
+
+**7. Illustration & Imagination — 4 / 5**
+
+- *Relevance (2):* 2/2. The compass/GPS illustration is drawn from ordinary experience. The Pirates of the Caribbean application is accessible and memorable. The racism stories are drawn from lived pastoral experience.
+- *Clarity (2):* 1/2. The compass illustration does excellent work for the depravity of the heart. The Pirates illustration is strong. The Beloved Daughter story is moving but slightly too long and its factual status is flagged in the source notes — this is a concern if the story is presented as memoir.
+- *Memorability (1):* 1/1. "The compass of your heart points back at Jack — back at yourself" will be remembered. This is the sermon's most durable image.
+
+**8. Sermonic Force — 3 / 5**
+
+- *Reads as Preaching (2):* 2/2. This manuscript has oral cadence. The conversational directness, the personal stories, the "turn with me to..." transitions — it reads like a pastor talking, not an essayist writing.
+- *Conviction on the Page (2):* 1/2. The pastoral warmth is real, but the manuscript does not roar. The conviction that is present is social/moral rather than gospel-driven. The blank gospel section is not merely a gap — it is where the sermon's fire should have been.
+- *Cadence and Breath (1):* 0/1. The sermon does not build to a climax. It narrates to a conclusion. Sentence variation is present but the compression at key moments is absent.
+
+---
+
+### 6. Cognitive Load Assessment
+
+**Score: −1**
+
+The sermon is not difficult to follow. The topical structure, the personal stories, and the accessible illustrations keep it trackable for ordinary hearers. The single mother, the high schooler, and the new believer can follow this. The deduction is for the slightly scattered topical movement and the lack of a clear organizing spine that would let a listener summarize it confidently in one sentence after hearing it.
+
+---
+
+### 7. Total Score
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 12 | 25 |
+| Theology & Doctrinal Integrity | 12 | 18 |
+| Gospel Centrality & Force | 4 | 15 |
+| Conscience & Applicatory Force | 8 | 15 |
+| Exhortation & Response | 2 | 8 |
+| Structure & Logical Flow | 6 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 3 | 5 |
+| **Subtotal** | **51** | **100** |
+| Weight of Glory (bonus) | +1 | +5 |
+| Cognitive Load Modifier | −1 | 0 |
+| **Total** | **51** | **105** |
+
+**Score capped at 69 due to Fatal Flaw flags (blank gospel section; no exhortation).**
+
+**Final Score: 51 / 105 → Capped at 69**
+
+**Interpretation: Concerning gaps. The sermon explains but does not preach. Significant revision needed. The cap is warranted — not as a technicality, but because the fatal flaws represent structural absences, not weaknesses in execution.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+   Mostly myself — my moral engagement with social issues, my heart's compass, my responsibility to be salt. Christ is present but peripheral. The sermon's center of gravity is anthropological (the broken heart, what we must do) rather than Christological (what he has done).
+
+2. **Did I encounter God, or just ideas about Him?**
+   Ideas about him. God is the one who "fixes the compass" and "salts the heart" — functional, problem-solving. He is not weighty, holy, or awesome in this sermon. He is helpful.
+
+3. **Was I comforted, convicted, or merely informed?**
+   Informed, with moments of conviction around the compass illustration. The Beloved Daughter story moves the affections. But systematic comfort (the gospel) and sustained conviction (the law landing before grace) are both absent.
+
+---
+
+### 9. Strengths (Top 3)
+
+**Strength 1 — The Broken Compass Diagnosis**
+The compass illustration — particularly its culmination in the Pirates of the Caribbean scene where the compass points back at Jack — is theologically penetrating, culturally accessible, and memorable. It captures total depravity and self-idolatry in language any congregation can carry home. This is genuinely good illustrative theology.
+
+**Strength 2 — Pastoral Grounding in Real Experience**
+The racism section is not abstract. The stories of the musician friend and the electronics store manager give racial injustice a human face without capitulating to ideological frameworks. The pastoral instinct here — to name the sin, share lived experience, and refuse to pretend the problem doesn't exist — is admirable.
+
+**Strength 3 — Priority of Regeneration Over Social Reform**
+The sermon's governing thesis — that lasting social change requires regenerated hearts, not merely moral pressure — is exegetically defensible, theologically sound, and culturally necessary. The BFM article itself states this, and the sermon genuinely develops it. "If everyone were a Christian tomorrow, these issues wouldn't be issues" is a statement worth expanding rather than discarding.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+**Weakness 1 — The Gospel Section Is Empty (Line 137)**
+This is not a minor gap. A section header titled "Gospel" followed by a blank line is a structural indictment. The sermon's thesis depends on regeneration, but the means of regeneration — the proclamation of Christ crucified, justification by faith, the call to repent and believe — never arrives. The compass can diagnose the problem; only the cross can fix it. The congregation heard the problem named but the solution withheld.
+
+**Weakness 2 — The Text Is a Frame, Not a Foundation**
+Matthew 5:13–16 is read and then functionally set aside. The passage's warning — that salt which loses its savor is thrown out and trampled — is never developed. The Sermon on the Mount context (the Beatitudes producing the salt-and-light community) is ignored. The passage's own argument is richer and more urgent than the sermon allows it to be.
+
+**Weakness 3 — No Exhortation, No Summons**
+The sermon concludes with a story and a sentiment. "It all starts with a relationship" is true but it is not a call to action. The congregation was never told: share the gospel this week; confess the racism you've ignored; repent of the pornography you're carrying; go back to the person you've wronged. The imperative edge — the "therefore" — is entirely absent.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears not to see that the gospel section's blankness is a theological emergency, not merely an incomplete outline. The warmth of the pastoral stories may be masking the structural absence: a congregation that heard good illustrations and a moving story may feel they received a complete sermon, when in fact they received diagnosis without remedy.
+
+Additionally, the sermon addresses a congregation assumed to be largely believing and socially engaged. It does not appear to see the unbeliever who may be present — someone for whom the compass illustration should have become a road to the cross, not merely an encouragement to seek a "relationship with God."
+
+---
+
+### 12. Illusion of Strength
+
+The Beloved Daughter story is the sermon's most emotionally powerful moment — and it may be its greatest weakness in disguise. It is moving, it illustrates salt-and-light sacrificially, and it produces genuine feeling. But the source notes flag that the story's factual status is uncertain (the most prominent book by that title is a novel, not a memoir). If the congregation received it as a true account and it is not, the pastoral trust that carried the sermon's emotional weight rests on unverified ground. The story *felt* like the climax of the sermon; it may need to be verified or reframed before it can safely occupy that position.
+
+---
+
+### 13. Missed Opportunity
+
+The warning in Matthew 5:13 — "if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people's feet" — is the most urgent line in the passage and received zero development. This is the text's own edge: a community that ceases to be distinctively Christian is not merely ineffective; it is discarded. The sermon needed to press this. The congregation of comfortable Christians who "sit in air conditioning and say this is right and that is wrong" needed to hear that tasteless salt is thrown out. The text itself had the exhortation the sermon needed; the preacher walked past it.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+**Fix 1 — Preach the Gospel Section (Non-Negotiable)**
+The blank "Gospel" section must be filled. At minimum: "Your heart is a broken compass — and you cannot fix it yourself. God fixed it by sending his Son. Jesus lived the life you couldn't live, died the death you deserved, and rose from the dead. If you will repent of your sin and trust him, God will justify you — declare you righteous — not because you've fixed your compass, but because Christ's righteousness is credited to you. That is how the compass gets fixed. Not by trying harder. By trusting him." This is not optional.
+
+**Fix 2 — Root the Application in the Text's Warning (Matthew 5:13)**
+After the compass illustration, return to the text: "Jesus says salt that loses its taste is thrown out and trampled. Church — that is us if we become indistinguishable from the world. Not just ineffective. Discarded. The question is not only 'are we engaging social issues?' but 'are we still salty?' Are we still different enough to be worth noticing?" This connects the pastoral diagnosis to the text's own urgency.
+
+**Fix 3 — Add a Clear Exhortation at the Close**
+Replace "It all starts with a relationship" with a specific summons. Options depending on congregation: "This week, share the gospel with one person — not your politics, not your moral outrage, the gospel. Name Christ. That is how you salt the earth." Or: "If you have been watching pornography, the compass points back at you and you know it. Come to the elders this week. The grace of Christ is sufficient." The congregation needs to be sent, not just warmed.
+
+**Fix 4 — Spend Two Minutes on Matthew 5:13–16 in Context**
+Brief contextual note: "Jesus has just described the character of the kingdom community in the Beatitudes — the poor in spirit, the meek, the merciful, the pure in heart. These are the salt-and-light people. The world doesn't become salty because Christians vote correctly or protest loudly. It becomes salty because people whose hearts have been changed by Christ live differently. The Beatitudes produce the salt. The salt produces the flavor." This takes ninety seconds and grounds the entire sermon.
+
+**Fix 5 — Verify or Reframe the Beloved Daughter Story**
+Before reprising this sermon, resolve the factual status of *Beloved Daughter*. If it is a novel, introduce it as such: "There's a novel — based on real accounts from North Korean defectors — called *Beloved Daughter*..." The truth of the illustration does not depend on it being a memoir. But presenting fiction as memoir from a pulpit corrodes trust when discovered.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is not cold or bloodless — it is warm, pastoral, and personally engaged. Its failures are not the failures of a correct-but-lifeless orthodoxy; they are the failures of an incomplete proclamation. The fire is present in the pastoral stories; it simply never reached the gospel or the cross.
+
+---
+
+### 16. Weight of Glory Assessment
+
+**+1 / 5.** There are moments of genuine eternal gravity — particularly the North Korea illustration and the honest engagement with racism and sexuality — but the sermon does not culminate in worship or in encounter with God. The Beloved Daughter story produces admiration for human courage more than awe at divine grace. The congregation is moved, but not laid low.
+
+---
+
+### 17. Rubric Fit Note
+
+Matthew 5:13–16 is a short, declarative text embedded in a larger discourse (the Sermon on the Mount). It is not a Pauline argument to be traced; it is a series of metaphors embedded in a covenant context. The rubric's exposition categories appropriately flag the absence of contextual awareness. However, the passage is well-suited to the application and exhortation categories — indeed, it demands them. The rubric does not strain against this text; the sermon strains against the text by treating it topically. The rubric is fit for purpose here.
+

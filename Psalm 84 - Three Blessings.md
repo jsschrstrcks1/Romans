@@ -170,3 +170,167 @@ All of these blessings come inside a relationship with God. The joy of the Lord 
 **Gospel section:** Incomplete. Marked for development before preaching or print.
 
 **Draft 1 note:** A second copy of this sermon's opening through the Baptist-emotions section (ending mid-discussion) was submitted alongside this draft. It is an earlier/shorter version of `Psalm 84 - Where the Sparrows Nest.md`, not a distinct sermon. No separate file created.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+An Unfinished Frame with a Missing Gospel — Warm Pastoral Instincts Undermined by an Incomplete Draft
+
+### 2. One-Sentence Summary
+A warmly textured opening of Psalm 84 that traces its three blessed-man statements with genuine pastoral warmth and an excellent illustration, but collapses at its most critical moment when the gospel section is left explicitly undeveloped, rendering the sermon unable to stand as a completed work.
+
+### 3. Berean Gate Result
+**PASS — with qualification**
+
+The Scopus Test passes conditionally. The sermon's stated thesis — three blessings from Psalm 84 — does arise from the text itself. The three *asher* ("blessed") statements of vv. 4, 5, and 12 are real textual anchors. The preacher is not importing a foreign structure onto the passage.
+
+However, the Authority Test is stressed. The sermon handles vv. 4, 5, and 12 but largely ignores the psalm's actual emotional and structural center — the sparrow nesting at the altar (v. 3), the pilgrimage imagery of the Valley of Baca (vv. 6–7), and the psalm's own progression from longing (vv. 1–4) through pilgrimage (vv. 5–8) to arrival and trust (vv. 9–12). The "three blessings" frame is textually present but is not the psalm's own controlling argument. It is a preacher-selected organizing principle, not the psalm's own movement. This is not disqualifying, but it is worth naming.
+
+### 4. Fatal Flaw Flags
+**FLAG TRIGGERED: Fatal Flaw #1 — No clear gospel presentation**
+
+The sermon's third section — labeled "Blessing Three — Trust in the Lord (v. 12)" — explicitly contains the placeholder: *[Gospel — develop.]* This is not a weakness. It is an absence. The gospel, by the preacher's own notation, was never written. This is not "assumed" gospel or "backgrounded" gospel — it is simply missing.
+
+The score is capped at 69.
+
+No other fatal flaw flags are triggered. The sermon is accessible, structurally clear, and not moralistic in a disqualifying way — though the moralistic drift concern (addressed below) is real.
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14/25**
+
+- *Textual Fidelity*: 6/10. The three blessed-man statements are genuine textual anchors. But large portions of the psalm (the nesting sparrow of v. 3, the Valley of Baca pilgrimage of vv. 6–7, the king and shield language of vv. 9–11) receive no treatment. The sermon selects three verses and builds from them rather than working through the psalm's own argument and arriving at those three as the psalm's own destination.
+- *Contextual Awareness*: 3/5. The Korah backstory is handled well and is genuinely illuminating — this is a strength. But the psalm's place in the pilgrimage psalms (Psalms of Ascent context, Songs of Zion genre), its setting as a song of longing for the temple during absence, and its redemptive-historical location (temple presence as shadow of the incarnation and the new covenant) are all untouched.
+- *Exegetical Clarity*: 3/5. The one original language note — that "sing for joy" understates the Hebrew's intensity — is well-used and well-placed. But it is the only exegetical moment in the sermon. The psalm's central vocabulary (*asher*, the longings of vv. 1–2, the *mishkan* and courts, the strength-pilgrimage of vv. 5–7) is not opened.
+- *Logical Faithfulness*: 2/5. The organizational scheme (three blessings) is imposed rather than discovered. The psalm's own logic moves from longing through pilgrimage to blessing — the three *asher* statements are not three parallel blessings but one building movement. The sermon flattens this into a list.
+
+**FCF Assessment**: The Fallen Condition Focus is gestured at — idolatry in the heart is named in the first section. But it is not sustained across the sermon, and it is not shown to arise from the psalm's own FCF (which is longing for God's presence amid exile or absence). The psalm is a song of longing; the sermon is a teaching on blessings. These are related but not identical.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+
+- *Christ-Centeredness*: 4/7. The sermon moves toward Christ — the gospel section is intended to be the climax of the third blessing. But since the gospel section was never developed, the Christ-connection exists only as an intention, not an actuality. What is present is legitimate: the temple as the place of God's presence is a real trajectory toward the incarnation. But it is not drawn.
+- *Redemptive-Historical Awareness*: 1/3. The progression from temple presence to Christ as the true temple, from the sons of Korah's dwelling in God's house to believers indwelt by the Spirit, from the blessing of pilgrimage to the new covenant arrival — all of this is available in this text and none of it is developed.
+- *Doctrinal Precision*: 4/4. What doctrine is stated is stated accurately. The Korah narrative is handled correctly. The "idols are vampires" section is theologically sound. No errors were found in what is present.
+- *Confessional Alignment*: 2/4. No contradictions of confessional theology. But no confessional precision either, especially where the text's gospel connections are the natural terrain.
+
+**3. Gospel Centrality & Force — 4/15**
+
+This is the fatal collapse point. The gospel section was explicitly not written. What is present: the introduction describes the third blessing as "all about the gospel," and Psalm 42 is quoted. That is the entirety of the gospel content in the final section. No articulation of justification by faith. No proclamation of Christ's finished work. No necessity of Christ demonstrated from the text. No cross.
+
+The Synagogue Test: A devout non-Christian could sit through this sermon — as written — without being offended by the necessity of Christ's blood. The sermon is about blessing, strength, worship, and trust. All of these could be received by an observant Jew or a disciplined Muslim without confrontation. The gospel, by the preacher's own notation, was not yet written.
+
+- *Clarity of the Gospel*: 1/5
+- *Necessity of Christ*: 1/5
+- *Cross-Centered Gravity*: 2/5
+
+**4. Conscience & Applicatory Force — 9/15**
+
+- *Heart Penetration*: 4/5. The idolatry section is the sermon's strongest applicatory moment. "Idols are vampires" is sharp and memorable. The "if you did that to your spouse, what kind of marriage would you have?" application is specific and searching.
+- *Specificity*: 3/5. The time-stewardship application (three hours of TV, three hours of social media) is concrete and lands. The "one thousand days" illustration is excellently constructed and genuinely imaginative.
+- *Spiritual Differentiation*: 2/5. The sermon largely addresses one category of hearer — the believer who needs more focus on God. It does not distinguish the doubter, the hardened, the humbled-but-not-yet-believing, the grieving pilgrim, or the person for whom the Valley of Baca (v. 6) is their present location. The interactive format (congregational responses) creates warmth but not differentiation.
+
+**5. Exhortation & Response — 4/8**
+
+- *Call to Response*: 2/4. "Keep your focus on God and off your idols and you'll be blessed" (end of Blessing One) is application, not exhortation. "Start with worship" (end of Blessing Two) is directional advice, not a summons. The gospel section, which is where the actual call to response should have landed, was not written. No clear "therefore" moment exists in the finished portion of the sermon.
+- *Equipping for Holiness & Witness*: 2/4. The practical suggestions in the congregational interaction (worship, reading the Word, fellowship, sharing the gospel) are genuine and useful. But the sermon's equipping function never crystallizes into a clear charge.
+
+**6. Structure & Logical Flow — 7/9**
+
+- *Clarity of Outline*: 3/4. The three-blessing structure is clearly communicated and easy to follow. The Korah introduction is longer than necessary but serves a legitimate purpose (God's forgiveness as backdrop for the psalm's authorship).
+- *Progression*: 3/3. The movement from dwelling (v. 4) to strength (v. 5) to trust (v. 12) has a genuine progression — though it follows the sermon's chosen order, not the psalm's own structural movement.
+- *Unity*: 1/2. The sermon's unity is present but strained — the three sections feel like related topics rather than one argument building to a single culminating point.
+
+**7. Illustration & Imagination — 4/5**
+
+The "one thousand days" illustration is genuinely excellent. It is textually grounded (1,000 is from the psalm itself), imaginatively constructed (fishing, travel, back porch, beach — real congregational life), emotionally resonant, and rhetorically climactic ("a very good copy of something even better"). This is precisely how illustration works when done well — it makes the text's claim feel real and weighty rather than abstract.
+
+The feedback loop / sound board illustration is competent but slightly mechanical. It serves its purpose without being memorable.
+
+- *Relevance*: 2/2. *Clarity*: 1/2. *Memorability*: 1/1.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching*: 2/2. The interactive format, congregational questions, and direct address ("Some of you would fish every single day") are genuinely oral and pastoral. This manuscript reads like it was written to be spoken, not presented.
+- *Conviction on the Page*: 1/2. The idolatry section has conviction. The strength section is competent but less sharp — it is essentially a catena of supporting verses without the same rhetorical pressure.
+- *Cadence and Breath*: 0/1. Sentence variation is present in the illustration sections, but the sermon does not yet build to a climactic moment with short, compressed, landing sentences. The conclusion — which should be the sermon's most compressed and authoritative moment — is an unfilled placeholder.
+
+### 6. Cognitive Load Assessment
+**0 (no modifier)**
+
+The sermon is well within the cognitive range of an average congregation. The outline is simple, the language is accessible, and the interactive format actively manages load. No adjustment applied.
+
+### 7. Total Score
+**Raw subtotal: 14 + 11 + 4 + 9 + 4 + 7 + 4 + 3 = 56/100**
+**Cognitive Load Modifier: 0**
+**Fatal Flaw Cap: Score capped at 69**
+**Applicable cap: Score is already below cap**
+**Weight of Glory Bonus: +1 (the "one thousand days" illustration carries genuine eternal gravity; the rest of the sermon does not sustain it)**
+
+**TOTAL: 57/105**
+
+*Interpretation: Below 60 — Fundamentally incomplete. The sermon as drafted cannot be preached. This is not primarily a quality failure but a completion failure — the gospel section, by the preacher's own notation, was never written. A completed sermon with the gospel section developed could score significantly higher.*
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+As drafted: more of myself. The applications — reduce idolatry, manage time, start with worship — are primarily self-directed. Christ is not yet the answer; he is only gestured toward in a placeholder.
+
+2. **Did I encounter God, or just ideas about Him?**
+Partially. The "one thousand days" illustration creates genuine encounter — the magnitude of God's presence over the world's best days is felt, not merely stated. But the strength section is ideas-about-God more than God himself.
+
+3. **Was I comforted, convicted, or merely informed?**
+Convicted briefly (the idolatry/time application). Informed for the rest. Not yet comforted — the gospel comfort was not written.
+
+### 9. Strengths (Top 3)
+
+1. **The "one thousand days" illustration** (Blessing One section). This is the sermon's crown jewel. It is textually grounded in the psalm's own number (מֵאָלֶף), imaginatively constructed in the congregation's own idiom (fishing, Alaska, beach, back porch), and rhetorically shaped with real climactic compression: "a very good copy of something even better." This is illustration doing its proper work.
+
+2. **The Korah backstory as theological frame** (opening section). Using the rebel father's judgment as the backdrop for the sons' gatekeeping love of the temple is exegetically sound and pastorally illuminating. It makes v. 4's "those who dwell in your house" feel historically weighty. The point — "He doesn't hold the father's sin over the children's heads" — is genuine grace theology arising naturally from the text's context.
+
+3. **The idolatry application** ("Idols are vampires" / marriage analogy). The direct address, the concrete time statistics, and the marriage comparison together constitute the sermon's most searching applicatory moment. "If you did that to your spouse, what kind of marriage would you have?" is the kind of question that lands in a real conscience.
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel section was not written.** The sermon's own notation — *[Gospel — develop.]* — makes explicit what is otherwise absent. The third section announces that "this is all about the gospel," quotes Psalm 42, and stops. This is the sermon's fatal structural failure. No amount of strength in the opening sections compensates for a sermon that ends before it arrives at Christ.
+
+2. **The psalm's own movement is flattened into a topic list.** Psalm 84 is a pilgrimage psalm — it moves from longing at a distance (vv. 1–4) through the strength of the journey (vv. 5–8) to arrival and trust (vv. 9–12). The Valley of Baca (v. 6), where pilgrims find springs in the desert, is the psalm's structural heart — the moment where suffering pilgrim and sustaining God meet mid-journey. The sermon skips entirely from v. 5 to v. 12, missing the psalm's own pastoral theology of the difficult middle.
+
+3. **The strength section (Blessing Two) is a catena without a spine.** Five supporting verses are read in sequence — Psalm 46:1–3, Proverbs 18:10, Nehemiah 8:10, Isaiah 41:10, Exodus 15:2 — without exegetical connection to Psalm 84 itself or to each other. The section concludes with application but not with the text. This is the weakest expository section of the sermon — the supporting verses do all the work that Psalm 84 vv. 5–8 should have done.
+
+### 11. Blind Spots
+
+The preacher does not appear to see that Psalm 84 is a lament-of-longing psalm as much as it is a blessing psalm. The psalmist is not in the temple — he is longing for it. The sparrow (v. 3) has a home the psalmist does not yet have. This is a psalm of exile-adjacency, of longing and pilgrimage, not of settled arrival. The sermon treats it as if the congregation is already dwelling in God's courts and needs to appreciate it more. But the psalm's pastoral genius is that it ministers to the person who is not yet there — who is in the Valley of Baca, who is dry and exhausted mid-journey.
+
+The preacher also does not appear to see the sermon's implicit moralistic drift. The applications — reduce idolatry, manage your time better, start with worship — are all things the hearer must do. The gospel placeholder was intended to correct this. Until it is filled, the sermon ends as law without gospel.
+
+### 12. Illusion of Strength
+
+The "all of this flows from trust in the Lord" summary (beginning of Blessing Three) feels like a strong theological integration moment. The sentence "All of these blessings come inside a relationship with God. The joy of the Lord comes from knowing the Lord. Joy in the Lord leads to strength in the Lord. And all of it flows from trust in the Lord." reads as a confident doctrinal synthesis. But it is not grounded — it is a summary of the sermon's own structure rather than an exposition of the text's own movement. The logical chain (joy → strength → trust) does not arise from Psalm 84; it reverses the psalm's own order and flattens the pilgrimage structure. The confidence of the sentence masks the absence of exegetical support.
+
+### 13. Missed Opportunity
+
+The Valley of Baca (v. 6) is the psalm's greatest pastoral gift and the sermon's greatest missed opportunity. The pilgrims who pass through the Valley of Baca — a dry, difficult, possibly dangerous route to Jerusalem — make it a place of springs. Their longing for God's house transforms the valley of weeping into a place of blessing. This verse is the psalm's answer to suffering in a way that no other verse in the psalm is. It speaks directly to the congregation member who is not experiencing the joy of v. 2 or the confidence of v. 12 — the one for whom the Valley of Baca is a present address. The sermon as drafted has no word for that person. The passage does.
+
+### 14. Surgical Fixes (Specific and Actionable)
+
+1. **Complete the gospel section.** The sermon cannot be preached without it. Develop the third blessing (trust in the Lord, v. 12) as a full articulation of what it means to trust in the Lord Jesus Christ — not merely trust as a general disposition toward God, but trust in the One who is now the temple (John 2:19–21), the dwelling place of God among his people (John 1:14), and the One who makes those who trust in him sons and daughters of God. Justification by faith must be named, not assumed. The unbeliever must know how to be saved.
+
+2. **Preach through the Valley of Baca (vv. 5–8).** Between the strength blessing (v. 5) and the trust blessing (v. 12), the psalm gives the pilgrimage itself — the hard road, the dry valley, the springs appearing mid-journey. This is where the sermon can differentiate hearers: the one already rejoicing (v. 4), the one mid-pilgrimage in the Valley of Baca, and the one who has arrived and is learning to trust. Each is addressed by the psalm. Only the first is currently addressed by the sermon.
+
+3. **Reframe the Blessing Two section around Psalm 84 itself.** The five supporting verses (Psalm 46, Proverbs 18, Nehemiah 8, Isaiah 41, Exodus 15) are good texts, but they are doing the expository work that Psalm 84:5–8 should be doing. Cut or condense the supporting verse catena; open Psalm 84:6–7 ("passing through the valley of Baca they make it a place of springs") as the text's own theology of strength-in-pilgrimage.
+
+4. **Add explicit differentiation for the person in the Valley of Baca.** After completing the valley pilgrimage section, address directly: "Some of you are not in the courts of God right now — you are in the valley. The marriage is in crisis. The diagnosis has arrived. The thing you prayed would not happen, happened. This psalm was written for you too. The blessing of v. 5 is not for the person who has an easy road to God's house — it is for the pilgrim who is dry and exhausted mid-journey, and who keeps walking anyway. That is strength in the Lord."
+
+5. **Compress and sharpen the conclusion.** Once the gospel section is written, the conclusion needs a clear single-sentence summation and an exhortation — a moment where the preacher looks the congregation in the eye and says what they must now do or believe. The three-blessing structure should culminate in a single integrated charge: not three separate applications, but one. The psalm ends at v. 12 with the blessed man who trusts — the sermon should land there with authority.
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — the sermon does not display the pattern of high exposition + low application. The application, though incomplete, is present and searching. The primary failure is incompleteness, not bloodlessness.
+
+### 16. Weight of Glory Statement
+The "one thousand days" illustration momentarily carries genuine eternal gravity — the magnitude of God's presence over the world's best dreams lands with real weight — but the sermon as drafted does not sustain that weight through to a gospel culmination, and it cannot receive full Weight of Glory credit for a bonus that requires the whole sermon to carry the freight.
+
+**Weight of Glory Bonus: +1/5**
+
+### 17. Rubric Fit Note
+Psalm 84 is a Psalm of the Sons of Korah, broadly categorized as a Song of Zion/Pilgrimage Psalm — a genre that combines longing, corporate worship, and confident trust. This rubric applies well to this genre. The one structural consideration: the Fallen Condition Focus rubric question applies somewhat differently here, because the psalm's FCF is primarily longing and absence (the pilgrim who is not yet in God's house) rather than guilt or rebellion. The rubric bends slightly — not in a disqualifying way — when applied to psalms of longing, because their movement is less "conviction → gospel relief" and more "longing → encounter → trust." The evaluator has weighted accordingly. The gospel centrality categories (Category 3) apply with full force, because the psalm's longing for the living God (vv. 2, 12) finds its New Covenant fulfillment in Christ as the true temple and dwelling of God — and the sermon's incompleteness in the gospel section remains a genuine and scored failure regardless of genre.

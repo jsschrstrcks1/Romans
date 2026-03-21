@@ -69,6 +69,197 @@ And He doesn’t just provide stuff — He provides Himself. Jesus doesn’t say
 Even when the path winds through dark valleys — and it will — the Shepherd doesn’t vanish. He walks with us. He prepares a table in the presence of our enemies. That’s not scraping by — that’s abundance even in battle. He anoints your head with oil, your cup runs over — not because of your effort, but because of His grace.
 And that last verse? David says, “Surely goodness and mercy shall follow me all the days of my life.” Not some days. Not just Sundays. All the days — even the ones where you’re limping, doubting, or falling short. That’s our Shepherd. He doesn’t just lead from the front — His goodness and mercy follow close behind, picking us up, patching us up, and pulling us forward.
 Your walk with the Lord MUST begin with a relationship with him. When you have a relationship with him, you will have no want – a want that is caused by greed, hastiness, debauchery and sloth. You’ll find fulfillment, and have no room for greed. You’ll be concerned with living right and being holy as He is Holy, and you’ll have no room for debauchery. You wont be slothful, nor hasty, but you’ll move in time with the Lord as though it were a great dance and Christ was leading us every step of the way.
-Gospel presentation. 
+Gospel presentation.
 
 communion
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated**: 2026-03-21
+**Passage**: Psalm 23:1 (with movement through the whole psalm)
+**Working Title**: Psalm 23 — The Lord Is My Shepherd; I Shall Not Want
+
+---
+
+### 1. Verdict Title
+
+**"A Theologically Ambitious Pastoral Sermon That Arrives Late at Its Own Text"**
+
+---
+
+### 2. One-Sentence Summary
+
+A thoughtful and pastorally wide-ranging treatment of Psalm 23:1 that develops genuine insight into the four causes of "want" with good doctrinal grounding, but whose extended preamble (hastiness, greed, sloth, debauchery) delays the psalm's own language until the final third, and whose gospel is another placeholder.
+
+---
+
+### 3. Berean Gate
+
+**Pass.**
+
+The main point — "The Lord is my shepherd; I shall not want" — is the text's own claim, and the sermon's extended argument (we produce our own want through specific sins; Christ is the Shepherd who resolves want at its root) does arise from the psalm. The preacher submits to the text and does not stand above it as editor. The Scopus Test passes: "When we abandon the Shepherd and pursue our own way through hastiness, greed, sloth, and debauchery, we reap want; the Lord's shepherding provides what our self-shepherding cannot."
+
+**Scopus Test**: Passes — the sermon's argument is derived from and driven toward the text's claim.
+**Authority Test**: Passes — the preacher does not soften the psalm's demands.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 5 — No actual exhortation.** "Gospel presentation." is a placeholder. The final section of the sermon (from "And here's where we really start to see the beauty of the Shepherd") begins well and approaches exhortation, but the manuscript ends with "Gospel presentation. communion" — meaning the climactic call was not included. The closest thing to a call in the manuscript is: "Your walk with the Lord MUST begin with a relationship with him" — which is a statement, not an exhortation.
+
+**Note**: Flag 1 (no clear gospel presentation) is also triggered by the gospel placeholder, but the sermon body does more gospel work than most in this batch — the John 10 reference ("The good Shepherd lays down His life for the sheep"), the blood-sweat-and-tears provision, and the "I am the Bread of Life" and "I am your peace" indicators are all present and substantive. The flag is triggered by the incomplete close, not by wholesale gospel absence.
+
+**Score capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 17/25**
+- Textual Fidelity (10): 7/10. The sermon's treatment of Psalm 23 is theologically creative and textually grounded — particularly in the final third where green pastures, still waters, restored soul, valley of the shadow, prepared table, anointed head, and overflowing cup are each touched. The ḥāsēr word study is excellent — contextually placed (Deuteronomy 2:7), theologically rich ("any area of deficiency — emotional, spiritual, moral"), and connected to the sermon's extended argument about want. However, the psalm's opening verse carries the entire weight of the sermon's first two-thirds, and verses 2–6 are treated more as a summary than as an argument being opened.
+- Contextual Awareness (5): 3/5. Good placement — the Deuteronomy 2:7 parallel for ḥāsēr is the strongest contextual move. The Romans 1 connection for "exchanging the truth about God for a lie" is well-placed. John 10 is organic and appropriate. No Psalter context (Psalm 23 follows Psalm 22 — the psalm of abandonment — in a deeply intentional sequence that the sermon does not address).
+- Exegetical Clarity (5): 4/5. The ḥāsēr word study is the sermon's best exegetical moment — transparent, accessible, and theologically generative. The four-causes-of-want framework (drawn from a commentator, attributed appropriately) is the sermon's most original structural contribution.
+- Logical Faithfulness (5): 3/5. The four-causes section is the preacher's inference drawn from the word study's implications, not from the psalm's own language. It is legitimate application but it carries more weight than the text directly warrants. No eisegesis in the technical sense.
+
+**Fallen Condition Focus**: The best FCF identification in this batch. The sermon explicitly names the specific fallen conditions that produce want: hastiness, greed, sloth, debauchery — described as the four ways we abandon the Shepherd and shepherd ourselves. This is precise, pastorally probing, and grounded in the text.
+
+**2. Theology & Doctrinal Integrity — 14/18**
+- Christ-Centeredness (7): 6/7. The final section is genuinely christological and among the strongest gospel-adjacent writing in these sermons: "Jesus doesn't say, 'I'll give you peace.' He says, 'I am your peace.'" "That's provision in blood, sweat, and tears." "He doesn't just provide stuff — He provides Himself." The John 10 connection is organic and appropriate. The sermon loses one point because this christological richness is largely confined to the final third and does not run through the exposition of the four causes.
+- Redemptive-Historical Awareness (3): 2/3. The John 10 / Good Shepherd connection is the primary redemptive-historical move and it is well-executed. The Prodigal Son reference is apt. No engagement with the Psalm 22–23 sequence, which would have deepened the redemptive-historical argument significantly.
+- Doctrinal Precision (4): 4/4. The statement "Once saved, your salvation cannot be lost" and the following qualification ("one who can engage in these activities without remorse… was never truly saved") are handled with appropriate Reformed precision. The Galatians 5:19-21 citation is used correctly.
+- Confessional Alignment (4): 2/4. The passage about assurance of salvation — "Only God knows their heart, and perhaps they need to consider that" — is in the right theological neighborhood but is slightly underspecified. The Reformed doctrine of perseverance is affirmed; however, the pastoral handling of the Bible college student who sinned and was restored could more explicitly address how repentance and the Spirit's work distinguish the genuine believer from the false professor without leaving doubting believers in greater uncertainty.
+
+**3. Gospel Centrality & Force — 9/15**
+- Clarity of the Gospel (5): 3/5. The John 10 citation, the "provision in blood, sweat, and tears" language, and "He is the provision" represent real gospel content. The sermon is closer to a genuine gospel proclamation than most in this batch. However, the close is a placeholder, and the explicit proclamation of justification by faith is absent. The unbeliever could still leave without understanding how to be saved.
+- Necessity of Christ (5): 5/5. Christ is essential to this sermon's argument. The sermon cannot survive without Jesus — He is the Shepherd, the one who lays down His life, the Bread of Life, the source of peace. The necessity of Christ is the sermon's theological backbone.
+- Cross-Centered Gravity (5): 1/5. Despite genuine christological content, the cross is not explicitly named. "Provision in blood, sweat, and tears" gestures at the atonement without naming it. The penal substitutionary logic — Christ bore the judgment that our self-shepherding deserves — is implied but not stated. The sermon's gravity is toward provision and rest more than toward atonement and forgiveness.
+
+**Synagogue Test**: Partially triggered. The John 10 citation and the "lays down His life for the sheep" language create offense for a devout Jew or Muslim. This sermon does more gospel work than most in this batch. However, it stops short of full offense — the cross is implied, not proclaimed; justification is absent; the scandal of substitution is soft-pedaled. A partial pass.
+
+**4. Conscience & Applicatory Force — 11/15**
+- Heart Penetration (5): 4/5. The four-causes framework is the sermon's strongest applicatory achievement — it names specific sin-structures (hastiness in the gas station encounter; greed in the investment illustration; sloth in the dropped-twenty story; debauchery in the addiction testimony) with genuine pastoral insight. Each cause is concretized with a story. The conscience is pressed on all four points.
+- Specificity (5): 4/5. The gas station story, the Eeyore-sloth story, and the addiction testimony are all specific and memorable. The application to specific behaviors (no porn, sex only in marriage, no drugs) is direct and clear.
+- Spiritual Differentiation (5): 3/5. The sermon distinguishes between the person who is struggling (Bible college students who sinned) and the person who is hardened ("if you can engage in these activities without remorse… you were never truly saved"). The doubting believer and the person in active addiction are addressed. The unbeliever is addressed at the end. The backslider is not specifically addressed, though the Bible college illustration gestures toward them.
+
+**Perkins' Taxonomy**: Categories 4 (humbled, convicted), 5 (believers, growing), and implicitly 6 (backsliders, via the Bible college illustration) are addressed. Categories 1 (ignorant, resistant) and 3 (knowledgeable but unhumbled) receive less attention. Better differentiation than most sermons in this batch.
+
+**5. Exhortation & Response — 4/8**
+- Call to Response (4): 2/4. "Your walk with the Lord MUST begin with a relationship with him" and the subsequent description of repentance-as-180-degree-turn are directional calls. The specific repentance applications (turn from sloth toward action; turn from debauchery toward biblical joy) are concrete. But the manuscript's closing "Gospel presentation. communion" means the climactic call is absent from the written record.
+- Equipping for Holiness & Witness (4): 2/4. The repentance-as-180-degree-turn section equips for holiness concretely. The congregation is not specifically equipped for witness. The addiction discussion gestures toward community intercession (Richard's weekly prayer for the homeless/addicted) but does not develop it.
+
+**6. Structure & Logical Flow — 7/9**
+- Clarity of Outline (4): 3/4. The structure is identifiable: (1) world needs a shepherd → (2) ḥāsēr word study → (3) four causes of want with illustrations → (4) repentance → (5) beauty of the Shepherd through the whole psalm → (6) gospel/communion. The outline is more traceable than most in this batch.
+- Progression (3): 3/3. The sermon builds — the four causes lead naturally to the need for the Shepherd, and the Shepherd is then presented through the psalm's own images. This is the best structural progression in the batch.
+- Unity (2): 1/2. The four-causes section is so extended (nearly half the sermon) that it creates a front-loading problem — the psalm's own imagery (green pastures, still waters, dark valley, prepared table) arrives late and is treated somewhat rapidly.
+
+**7. Illustration & Imagination — 4/5**
+- Relevance (2): 2/2. The gas station encounter (hastiness / Christian witness), the Eeyore/dropped-twenty (sloth), the addiction testimony (debauchery), and the horse-blessing story are all well-chosen and native to the congregation's world.
+- Clarity (2): 2/2. Illustrations clarify rather than compete. The addiction testimony is the sermon's most powerful illustration — the progressive loss, the "always wanting, never full," the thunderclap recognition of Christ's joy — this is excellent.
+- Memorability (1): 0/1. The addiction testimony may be the most memorable element, but the sermon's density means images compete for space. The horse story is charming but its memorability is low compared to the addiction narrative.
+
+**8. Sermonic Force — 4/5**
+- Reads as Preaching (2): 2/2. Genuine oral cadence throughout. The direct address ("Some of y'all have tried to shepherd your own lives — and you know it doesn't work") is the sermon's strongest sermonic moment.
+- Conviction on the Page (2): 2/2. The assertions are unusually strong for this preacher's style: "Jesus doesn't say, 'I'll give you peace.' He says, 'I am your peace.'" "That's not scraping by — that's abundance even in battle." "His goodness and mercy follow close behind, picking us up, patching us up, and pulling us forward." These carry weight.
+- Cadence and Breath (1): 0/1. The sermon's manuscript ends on "communion" — structurally flat. The final substantive section ends on "Christ was leading us every step of the way" — which is a fine closing note, but the gospel-placeholder prevents the full cadence from landing.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1** — The sermon is dense with content: word study, four causes (each with at least one illustration), Bible college anecdote, repentance taxonomy, full-psalm walkthrough. An average church member can follow this, but one cause (sloth or greed) could be compressed without loss. Slightly dense.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 17/25 |
+| Theology & Doctrinal Integrity | 14/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 11/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **70/100** |
+| Cognitive Load Modifier | −1 |
+| Weight of Glory Bonus | +3 |
+| **Total** | **72/100** |
+
+**Score capped at 69 (fatal flaw flag 5 triggered). Raw score of 72 would have cleared the cap — the cap lowers the score.**
+
+**Interpretation**: The raw score (72) represents a "Solid but lacking — needs another pass" sermon. The cap (69) reflects the structural absence of a completed gospel proclamation and specific exhortation. This is the highest-performing sermon in the batch. If the gospel placeholder is replaced with actual gospel content and a clear "therefore" call, this sermon would score in the 75–80 range.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** More of Christ — specifically of Christ as the Shepherd who provides what our self-shepherding cannot. This is the best answer to this question in the batch.
+2. **Did I encounter God, or just ideas about Him?** Both — the addiction testimony and the "He provides Himself" section have genuine encounter-quality. The four-causes section is more analytical than experiential, but the final Shepherd section lifts the register.
+3. **Was I comforted, convicted, or merely informed?** Genuinely both convicted and comforted. The four causes press the conscience; the Shepherd section comforts. This balance is the sermon's greatest pastoral achievement and the best integration of law and gospel (however incomplete) in this batch.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The four-causes-of-want framework** — The identification of hastiness, greed, sloth, and debauchery as the specific ways we shepherd ourselves into want is the most theologically sophisticated applicatory framework in this batch. Each cause is named, defined, illustrated, and connected to the psalm's *ḥāsēr*. The repentance application ("turn from sloth toward action; turn from debauchery toward biblical joy") is specific and actionable.
+2. **The addiction testimony** — The extended, first-person-speech illustration of the recovering addict is the finest illustration in the batch. The progressive loss, the "always wanting, never full" articulation of addiction, and the thunderclap recognition — "I didn't know what joy was until I truly found Jesus" — are moving, memorable, and perfectly calibrated for this text.
+3. **"He provides Himself"** — The theological assertion that Christ is not merely the source of peace and bread but is Himself the peace and the bread is the best single sentence in this batch of sermons. It is textually grounded (John 6, Ephesians 2:14), pastorally precise, and christologically exact.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is a placeholder.** As in the other sermons in this batch, "Gospel presentation." at the end of the manuscript means the actual proclamation — who Christ is, what He did, how a person comes to Him — is not in the written record. This is the most costly omission given the sermon's otherwise genuine christological richness. The cross should be named explicitly; penal substitution should be proclaimed, not merely implied.
+2. **The four-causes section front-loads the sermon so heavily that the psalm's own images are rushed.** Green pastures, still waters, the dark valley, the prepared table, the anointed head, and the overflowing cup are the images the congregation will carry from Psalm 23 — and they receive summary treatment in the final section after the four-causes material has consumed most of the sermon's time. The psalm's own language should be the sermon's spine, with the four causes as supporting framework, not the reverse.
+3. **The Psalm 22–23 connection is missed.** Psalm 22 is the psalm of abandonment — "My God, my God, why have you forsaken me?" — and it is the psalm Jesus quotes from the cross. Psalm 23 immediately follows with "The LORD is my shepherd; I shall not want." This is not coincidental. The one who was forsaken so that we would never be abandoned is the Shepherd of Psalm 23. This is the most powerful christological connection available in this passage and the sermon does not use it.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the four-causes framework, as excellent as it is, creates a structural problem: the sermon spends its most energetic material before the psalm's own language is engaged. The congregation receives a strong analysis of human sin-patterns followed by a rapid-but-warm survey of the psalm. Ideally, the psalm's images should carry the weight and the four causes should serve them — not the reverse. The preacher's pastoral and applicatory instincts are strong; the result is a sermon organized around those instincts rather than around the text's own structure.
+
+---
+
+### 12. Illusion of Strength
+
+The four-causes framework is so carefully developed that it can feel like the sermon's theological center of gravity — and it is, in terms of time. But Psalm 23's actual center of gravity is "The LORD is my Shepherd" — a statement about God's identity and relationship, not primarily a diagnostic of human failure. The framework is an application of the psalm's implications; it is not the psalm's own argument. The sermon's strength in application slightly obscures its relative thinness in exposition of the psalm's positive claims.
+
+---
+
+### 13. Missed Opportunity
+
+Psalm 23:4 — "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me." — This verse is briefly mentioned in the final survey, but its weight is not given. In a sermon preached to a congregation that has recently experienced car crashes, fires, accidents, and hurricane damage (mentioned in the introduction), this is the verse that speaks to the exact condition described in the opening. The preacher named all those specific griefs at the start and then did not return to them at the psalm's most directly relevant verse. The introduction sets up a sermon on v. 4; the sermon delivers a sermon on v. 1. That tension deserves resolution.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Preach the gospel explicitly — replace the placeholder.** Add: "David says 'I shall not want.' But every one of us in this room has wanted. We have pursued every one of these four causes of want at some point. We deserve a Shepherd who abandons us. And yet — the Shepherd became the sheep. Psalm 22 was Jesus on the cross: 'My God, my God, why have you forsaken me?' He was forsaken so that Psalm 23 could be yours. He walked through the valley of the shadow of death so that when you walk through it, you don't walk alone. That's the gospel."
+2. **Connect the introduction's specific griefs to v. 4.** Return to the car crash, the hurricane families, the broken marriages named in the opening paragraph: "Some of you are in the valley right now. Dark valley. Not metaphorically — literally. Your valley has a name. And this Shepherd walks it with you."
+3. **Use the Psalm 22–23 sequence explicitly.** Even one sentence: "Psalm 23 is the psalm that follows the psalm Jesus prayed on the cross. The one who said 'My God, my God, why have you forsaken me' is the same Shepherd who says 'You are with me.' His abandonment purchased your companionship."
+4. **Compress one of the four causes by 40%.** The greed section and the sloth section both have solid illustrations, but the sermon can sustain only so much development before the psalm's own language is delayed past its welcome. Compress one to gain time for vv. 2–6.
+5. **Close with a specific call.** "Today, choose your shepherd. Some of you have been shepherding yourselves — into hastiness, into greed, into the pigsty of the Prodigal Son. The Father is watching the road. Turn around. And for those of you who know this Shepherd — take someone with you through the valley. Be a rod and staff to somebody this week."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — the sermon's Conscience & Applicatory Force score (11/15) and the genuine warmth of the applicatory and christological sections prevent the Dead Orthodoxy pattern from firing. This sermon has pastoral heat.
+
+---
+
+### 16. Weight of Glory Assessment
+
+This is the sermon in the batch most likely to move a hearer toward worship. The addiction testimony, the "He provides Himself" declaration, and the "goodness and mercy shall follow me all the days of my life" closing have genuine unction. The gospel placeholder prevents the sermon from achieving its full eternal weight, but the trajectory is clear and the Spirit's presence is discernible in the manuscript's best moments.
+
+---
+
+### 17. Rubric Fit Note
+
+Psalm 23 is a psalm of intimate trust — personal, pastoral, and deceptively deep. The rubric fits well, though the Exposition category must account for the fact that Psalm 23's "depth" is not achieved by lexical density but by theological weight in plain language. The four-causes framework is a legitimate applicatory extension of *ḥāsēr*; the rubric's Logical Faithfulness subcategory appropriately rewards it with some credit while the Textual Fidelity subcategory rightly notes that the psalm's own images deserve more direct treatment. The Psalm 22–23 canonical sequence note in the evaluation above represents this rubric's Redemptive-Historical Awareness category at its most useful — pressing the preacher to see what the canonical context provides.

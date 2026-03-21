@@ -77,3 +77,143 @@ Trust God’s eyes, ears, and face.
 Gospel.
 
 Communion.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+A Pastoral Warmth With a Scattered Center and a Hollow Gospel Landing
+
+### 2. One-Sentence Summary
+A warm and personally engaged opening of 1 Peter 3:8-12 that demonstrated genuine pastoral care for the congregation while drifting significantly from the text's own argument and arriving at the gospel more by notation than proclamation.
+
+### 3. Berean Gate
+
+**Scopus Test: MARGINAL PASS — with reservations.**
+The sermon lands near the text's territory (holy living in community, blessing those who harm you, God's posture toward the righteous), but the thesis is never cleanly stated. The sermon opens with a story about missing blessings, pivots to a list of biblical blessings, then finally arrives at 1 Peter 3:8 nearly a third of the way through. The main point of the sermon appears to be something like: "Christ-like living yields God's blessing" — which is adjacent to but not identical with the text's argument. Peter's argument in vv. 8-12 is not primarily about obtaining blessing by behavior, but about the community identity and conduct befitting those who are called to inherit blessing (v. 9), grounded in the character of God (vv. 10-12). The sermon slightly softens the imperative force into a transactional frame.
+
+**Authority Test: PASS with concerns.**
+The preacher submits to the text rather than editing it. He does not skip difficult material. However, the transactional framing ("live this way and get blessed") introduces a mild works-reward logic that the text itself contextualizes differently. The omission of the second clause of Psalm 34:16 is noted and handled appropriately.
+
+**Gate result: Marginal pass. The sermon is text-engaged but not fully text-governed. Proceed with scoring, but flag the drift.**
+
+### 4. Fatal Flaw Flags
+
+**Flag 3 — Christ is absent or unnecessary: TRIGGERED.**
+The sermon's functional center is behavior modification ("control your tongue," "bless your enemies," "live in unity"). Christ appears in the final four lines — "Run to the cross. Follow the Lord Jesus Christ. Christ. Trust God's eyes, ears, and face." — but this is notation, not proclamation. The word "Gospel." appears as a lone word with a period, as if a placeholder. The finished work of Christ is never explained. Why the cross? What did it accomplish? How does it empower the conduct being commanded? These questions go unanswered. The entire sermon body could survive intact without Christ — the behavioral instructions could be delivered in a synagogue without offense. This is the defining failure.
+
+**Flag 4 — Application is entirely generic: TRIGGERED.**
+The applications are consistently vague: "control your tongue," "be humble," "bless your enemies," "live in unity." These are accurate summaries of the text but not specific applications to this congregation's conscience. There is one personal illustration (neighbors doing harm for years) that comes close, but it never presses the congregation to specific obedience. "Who are you like?" is the sharpest moment, but it dissipates quickly.
+
+**Score capped at 69.**
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 15/25**
+
+- Textual Fidelity: 6/10. The sermon does engage the passage. Key terms are unpacked (splonknon, sympathy, humble-minded). However, over a third of the sermon precedes the text entirely, covering a story and a list of biblical blessings tangential to 1 Peter 3. The text's own argument — that the conduct commanded arises from a called identity (v. 9, "to this you were called") — is not developed. The connection between the passage and the opening blessing-theme is asserted but not demonstrated exegetically.
+- Contextual Awareness: 2/5. The Nero reference is strong and appropriate. The connection to 1 Peter 2 is mentioned once. The broader argument of 1 Peter — suffering, elect exile, sojourner identity — is not developed. The passage is treated somewhat in isolation.
+- Exegetical Clarity: 4/5. The Greek word studies (splonknon, sympathy) are well-handled and genuinely illuminating. The congregation would track these.
+- Logical Faithfulness: 3/5. The main drift: the sermon implicitly frames vv. 8-12 as a conditional blessings formula (do these things → receive blessing) rather than as a description of the character befitting those already called to blessing. This introduces mild eisegesis by transactional framing.
+
+**2. Theology & Doctrinal Integrity — 10/18**
+
+- Christ-Centeredness: 3/7. Christ is mentioned but not central. The brief final mention ("Run to the cross") is directionally correct but exegetically unmoored from anything in the passage. There is no development of why Christ matters to the argument of 1 Peter 3.
+- Redemptive-Historical Awareness: 1/3. The Psalm 34 citation handling is the strongest redemptive-historical moment. Otherwise absent.
+- Doctrinal Precision: 4/4. No theological errors introduced. The statement "The ONLY true blessings come to those who are in Christ" is sharp and correct.
+- Confessional Alignment: 2/4. The election reference in Ephesians 1:3-5 is used but not developed. No contradiction to confessional theology, but the anthropomorphism section (God's eyes, ears, face) is handled descriptively without theological grounding. Justification is not engaged.
+
+**3. Gospel Centrality & Force — 5/15**
+
+- Clarity of the Gospel: 1/5. "Gospel." as a standalone word is not a gospel presentation. The cross is mentioned once in passing ("Run to the cross"). What Christ did, why it was necessary, and how sinners are justified through it — absent.
+- Necessity of Christ: 2/5. The sermon gestures toward Christ at the end but never establishes why Christ is necessary to what is being commanded. The conduct sections could stand without Him.
+- Cross-Centered Gravity: 2/5. The sermon does not orbit morality per se — it has genuine pastoral warmth — but it does not move toward the cross either. It orbits behavior and blessing.
+
+**Synagogue Test: TRIGGERED.** A devout non-Christian could sit through the body of this sermon without being offended by the necessity of Christ's blood. The behavioral instructions (control your tongue, be humble, bless your enemies) are present in Jewish ethical teaching. The cross is not a scandal here — it is a brief coda.
+
+**4. Conscience & Applicatory Force — 8/15**
+
+- Heart Penetration: 3/5. The neighbor illustration is the strongest moment of the sermon. Personal, specific, honest about struggle ("the desire to strike back crossed my mind a number of times"). The question "Who are you like?" has force.
+- Specificity: 3/5. The neighbor story and the neuropathy illustration both ground the sermon in real life. But the applications themselves remain general ("be humble," "control your tongue"). The congregation is not differentiated.
+- Spiritual Differentiation: 2/5. The sermon addresses believers primarily. The unbeliever is acknowledged ("If you do not know Christ, the Lord's face is against you") — one pointed sentence. The backslider, the humbled-but-not-yet-believing, the self-righteous — not addressed. Perkins' taxonomy is essentially untouched beyond believer/unbeliever.
+
+**5. Exhortation & Response — 4/8**
+
+- Call to Response: 2/4. "Run to the cross. Follow the Lord Jesus Christ." is present but undeveloped. There is no sustained exhortation. The congregation is told what is true but not summoned to a specific response with weight.
+- Equipping for Holiness & Witness: 2/4. The behavioral sections (tongue control, blessing enemies, humility) do equip in a general way. But the power source — the Holy Spirit, the grace given to those in Christ — is absent. The congregation is told to act without being shown how they can act.
+
+**6. Structure & Logical Flow — 5/9**
+
+- Clarity of Outline: 2/4. The sermon has two main sections (blessings in general, then the passage), but the two halves do not unite around a single dominant idea. The introduction's "thief missing the treasure" story is not resolved or paid off. The blessing-list section is tangential.
+- Progression: 2/3. Within the passage section, there is reasonable progression. The opening third meanders before arriving at the text.
+- Unity: 1/2. The sermon is about blessings broadly and then about holy conduct. These are related but the sermon does not fuse them into one controlling idea.
+
+**7. Illustration & Imagination — 4/5**
+
+- Relevance: 2/2. The neighbor story, the neuropathy, the midlife car purchase, the Dottie illustration — these are drawn from a real congregation's life. Specific and grounded.
+- Clarity: 1/2. The opening thief story is charming but ultimately does not pay off — the treasure is never clearly identified (it turns out to mean "read your Bible"?). The illustration sets up expectations it doesn't fulfill.
+- Memorability: 1/1. The neighbor story and "who are you like?" will be remembered.
+
+**8. Sermonic Force — 3/5**
+
+- Reads as Preaching: 2/2. The manuscript reads like spoken word — natural cadence, direct address, personal disclosure. This is the sermon's technical strength.
+- Conviction on the Page: 1/2. The "Gospel." placeholder and "Run to the cross." as conclusion reads as manuscript scaffolding rather than finished preaching. The conviction present in the middle sections weakens at the most critical moment.
+- Cadence and Breath: 0/1. The sermon does not build to a climax. It accumulates and then concludes abruptly with bullet-point notes.
+
+### 6. Cognitive Load Modifier
+**−1.** The sermon is accessible — perhaps too accessible in that theological density is low. The structure could be tighter, but the ordinary hearer would track the main idea without difficulty.
+
+### 7. Total Score
+15 + 10 + 5 + 8 + 4 + 5 + 4 + 3 = **54/100**, minus 1 (cognitive load) = **53/100**
+
+**Score capped at 69 due to fatal flaw flags. Reported score: 53.**
+
+Interpretation: **Fundamentally flawed. Rebuild from the text.** The warmth and pastoral accessibility are genuine assets that deserve to be scaffolded on a stronger expository and gospel-centered foundation.
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily of myself and my behavior. Christ appears only in the final lines.
+2. **Did I encounter God, or just ideas about Him?** Ideas about God's posture (His eyes, ears, face) — but not God Himself pressing through the text with weight.
+3. **Was I comforted, convicted, or merely informed?** Mildly convicted by the neighbor illustration. Largely informed about what the text says. Not deeply comforted, because the comfort is not grounded in the gospel.
+
+### 9. Strengths (Top 3)
+
+1. **Personal pastoral transparency.** The neighbor story (sustained attack over years) and the neuropathy illustration demonstrate a preacher willing to bring his own life under the text's scrutiny. This is genuine and effective: "Nothing I followed through on, but still in hindsight I was closer to doing wrong here than I liked."
+2. **Word studies that serve the congregation.** The handling of splonknon (intestines/tender-heartedness) and sympathy (deeper intimacy) is well-executed — illuminating without being academic. The congregation would carry these.
+3. **The Nero contextualization.** Grounding the passage in Rome under Nero — including the visceral "imagine Dottie lit on fire on a pole" — gives the passage historical stakes that preachers often skip. This earns the congregation's engagement.
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is a placeholder, not a proclamation.** The word "Gospel." appearing alone near the end is the most significant failure in the manuscript. The preacher clearly intends to preach the gospel at this moment, but the sermon as written provides nothing — no explanation of what Christ did, why it was necessary, how it powers the conduct being commanded, or how a sinner can receive it. This is not a minor omission. It is the center of the sermon's failure.
+2. **The opening third is disconnected from the passage.** The thief story, the blessing list, and the question about Bible reading are not paid off by the passage. They create a frame — "blessings are where you look for them" — that the passage does not actually teach. The passage is not primarily about finding blessings by holy living; it is about the character of those already called to be heirs of blessing (v. 9). The introduction imports a transactional theology that distorts the text.
+3. **Application never becomes exhortation.** The sermon explains what Peter commands. It never summons the congregation to do it — with force, with the "therefore" moment, with the authority of a herald. "Who are you like?" is the closest the sermon gets, and it dissipates immediately into two borrowed quotes rather than pressing the congregation to answer.
+
+### 11. Blind Spots
+
+The preacher does not appear to see that the sermon's behavioral commands are being offered without a power source. The implicit logic is: "God will bless you if you live this way" — but the sermon never addresses how sinful people become the kind of people capable of blessing their enemies and controlling their tongues. New birth, the indwelling Spirit, union with Christ — these are absent. The sermon tells people what to do without telling them how it becomes possible. This is the structural blind spot of a moralistic sermon even when the preacher is theologically Reformed.
+
+### 12. Illusion of Strength
+
+The Greek word studies give the sermon an appearance of exegetical depth that the overall exposition does not match. The congregation will feel they have learned something ("I didn't know that word meant intestines!") — and they have — but the word study material is being used to fill the space where the passage's own argument should be developed. Word studies are an unlock, not the sermon itself. The exegetical confidence in these moments masks the absence of a coherent expository argument.
+
+### 13. Missed Opportunity
+
+Verse 9 is the theological heart of the passage: "to this you were called, that you may obtain a blessing." The preacher mentions the verse but does not stop to develop it. "Called" here is identity language — the same calling language Peter uses throughout the letter for the elect exiles. The congregation's capacity to bless their enemies is not a product of their effort — it arises from who they are in Christ and what they have been called toward. This would have united the sermon's opening blessing-theme with the passage's commands organically. Instead, the calling language is passed over, and the commands float without theological grounding.
+
+### 14. Surgical Fixes
+
+1. **Rebuild the introduction around the text's own stakes.** The thief story is charming but not paid off. Replace it or resolve it: "Peter writes to people living under Nero's terror — and his command is to bless those who persecute you. The treasure you're looking for isn't found in safety or comfort. It's found in living like the One who blessed his torturers from the cross." The introduction should create the same tension the passage creates.
+2. **Develop v. 9 as the theological center.** "To this you were called" — unpack the calling language. The congregation's identity as called people is what grounds the commands. The blessing they will obtain is not a transaction but an inheritance that belongs to those who are in Christ. This is the hinge the sermon needs.
+3. **Write the gospel presentation as a full paragraph, not a note.** After the application sections, the sermon needs a moment — at minimum one sustained paragraph — that explains what Christ did on the cross, why it was necessary (the face of the Lord against those who do evil landed on Him), and how the sinner receives it. The cross is not a coda. It is the reason any of this is possible.
+4. **Add direct address to the unbeliever after v. 12.** The single sentence ("If you do not know Christ, the Lord's face is against you") is correct but undeveloped. The preacher should pause and speak specifically to the person in that room who is outside of Christ — what does the Lord's face against them mean? What is the remedy? This is an evangelistic text — use it.
+5. **End with exhortation, not notes.** "Run to the cross. Follow the Lord Jesus Christ. Christ. Trust God's eyes, ears, and face. Gospel. Communion." reads as manuscript scaffolding. Write the conclusion. Call the congregation to a specific response with the authority of a herald: "You leave this room today as someone who was either called or not yet called. If called — go and bless the person who has wronged you this week. If not yet called — run to Christ while His face is still turned toward you in mercy."
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** (the sermon's weaknesses are different in character — pastoral warmth is present; the problem is gospel absence, not bloodless orthodoxy).
+
+### 16. Weight of Glory Assessment
+The sermon carries genuine human warmth and pastoral presence, but it does not carry eternal gravity — the moment where the congregation feels the weight of what is at stake before God is never reached, because the gospel is never preached.
+
+### 17. Rubric Fit Note
+This rubric fits the passage well. 1 Peter 3:8-12 is an epistolary exhortation with clear imperatives, indicative grounding (calling, inheritance, Psalm 34), and embedded gospel logic. The rubric's emphasis on indicatives before imperatives, the law/gospel dialectic, and the exhortation categories all apply naturally here. No genre strain.
+

@@ -195,3 +195,200 @@ And he is able.
 
 **Title note:**
 - "Be Anxious for Nothing" follows the NASB rendering of Philippians 4:6. The ESV reads "do not be anxious about anything." The title is a widely recognized shorthand for this passage and is used here as a title, not as a verbatim ESV quotation.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Warm Pastoral Voice, Thin Exposition — A Sermon That Cares More Than It Argues**
+
+---
+
+### 2. One-Sentence Summary
+A pastorally warm and personally grounded opening of Philippians 4:4–7 that generates genuine sympathy and some useful application while leaving the text's own argument largely unexplored and the gospel assumed rather than proclaimed.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with reservation.**
+
+*Scopus Test:* The sermon's dominant idea — bring your anxiety to God in prayer and receive his peace — does arise from the passage. The main point of the text (vv. 4–7: rejoice, be gentle, pray with thanksgiving, and receive the peace of God) is roughly the main point of the sermon. It passes, but narrowly: the sermon works the surface of these verses rather than their argument, and the "why" beneath the commands (the Lord is at hand; the peace of God guards you in Christ Jesus) receives insufficient development.
+
+*Authority Test:* Pass. The preacher does not soften or edit the text's claims. He submits to its imperatives and presses them honestly.
+
+---
+
+### 4. Fatal Flaw Flags
+**Flag 3 is triggered: Christ is present but functionally unnecessary to the sermon's argument.**
+
+The sermon could survive — and its practical logic would remain intact — without the name of Jesus. "Bring your anxiety to God, pray, and receive peace" is counsel a devout Jew, a Muslim, or a practicing theist could receive and apply. The phrase "in Christ Jesus" in v. 7 is the text's own anchor for why the peace is available and permanent, but the sermon never unpacks it. Christ is mentioned — he paid for heaven, he is the source of joy — but his person and work are not structurally necessary to the sermon's argument. This is a fatal flaw.
+
+**Score is capped at 69.**
+
+No additional flags triggered. The sermon is accessible, has some application, and makes a basic call to prayer and repentance.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14 / 25**
+
+- *Textual Fidelity (6/10):* The sermon covers the four commands of the passage (rejoice, be gentle/reasonable, pray, receive peace) but does not trace the passage's own logic. The connective tissue — "The Lord is at hand" as the grounds for both gentleness and freedom from anxiety — is entirely absent. The phrase "in Christ Jesus" in v. 7, which is the text's theological anchor, receives no treatment.
+- *Contextual Awareness (3/5):* The Philippian prison context is noted (Paul under Nero, suffering readers). Good. The book's flow and why Paul writes to this particular church at this particular moment is not explored.
+- *Exegetical Clarity (3/5):* The "supplication" word study is the one genuine exegetical moment — the beggar-before-the-king image is effective. The "guard" word is noted as military language with good contextual grounding. These are bright spots. But the passage is not opened; it is summarized.
+- *Logical Faithfulness (2/5):* No eisegesis. But the sermon imports material (the Christian and bad company, the Ryker illustration, the cord of three strands from Ecclesiastes) that is distant from the passage's own argument. These are true things preached from outside the text's orbit.
+
+*FCF (Fallen Condition Focus):* Implicit — anxiety born of circumstance and self-reliance. Never named as the specific heart condition the text addresses. The bridge between text and application is personal story rather than exegetical identification of the human condition the text was written to correct.
+
+**2. Theology & Doctrinal Integrity — 11 / 18**
+
+- *Christ-Centeredness (3/7):* Christ is present in the sermon — mentioned as the one who paid for heaven, referenced in closing — but is not organically connected to the text's argument. The "in Christ Jesus" of v. 7 is the text's own Christological moment and is not developed.
+- *Redemptive-Historical Awareness (2/3):* Brief acknowledgment that Paul writes from prison under Nero, and that suffering readers received this word. Adequate for a congregational sermon, not deep.
+- *Doctrinal Precision (3/4):* No errors. The treatment of grace (you don't lose your salvation by smoking) is careful. The appeal to God's sovereignty in providence is sound. No sloppiness.
+- *Confessional Alignment (3/4):* Nothing contradicts confessional theology. Providence is handled with care. No positive engagement with covenant or soteriological themes beyond what the text naturally surfaces.
+
+**3. Gospel Centrality & Force — 6 / 15**
+
+- *Clarity of the Gospel (1/5):* The gospel is not clearly articulated. There is reference to Jesus paying for heaven, to grace, to salvation — but justification by faith is never stated. An unbeliever could not reconstruct how to be saved from this sermon.
+- *Necessity of Christ (2/5):* Christ is referenced but not structurally necessary. The sermon's counsel works without him. The "in Christ Jesus" of v. 7 is the text's own insistence that the peace is covenant peace — available only through union with Christ — and this is not preached.
+- *Cross-Centered Gravity (3/5):* The sermon does not orbit morality as its center — it orbits God's provision and care. That is a grace. But neither does it move toward the cross. The closing call to repentance is the nearest it comes.
+
+*Synagogue Test:* A devout synagogue-goer would sit through this sermon without offense. The commands — pray, trust God, find peace, guard your mind — are generically theistic. The specific scandal of Christ's necessity is absent. This confirms the Flag 3 trigger.
+
+*Law/Gospel Dialectic:* The law functions lightly (you can't find peace in sin; you must humble yourself). The gospel is more assumed than proclaimed. There is no clear "hammer and balm" movement.
+
+**4. Conscience & Applicatory Force — 9 / 15**
+
+- *Heart Penetration (3/5):* The opening story is effective at creating emotional identification. The "smoking helps with stress" corrective shows pastoral attentiveness to a specific congregational moment. The sermon does reach the heart, but more through sympathy than through the text's own searching of it.
+- *Specificity (4/5):* Specificity is one of this sermon's genuine strengths. Ryker's medication. The COVID-19 context. The recommendation to find one thing to rejoice in today, a second tomorrow. These are concrete and congregationally grounded.
+- *Spiritual Differentiation (2/5):* The sermon addresses believers in distress and gestures toward those who might be filling a void with sin. It does not distinguish the humbled-but-not-yet-believing from the backslider from the self-sufficient. The "some of you will stumble" section is the only moment of differentiated address, and it is brief.
+
+**5. Exhortation & Response — 5 / 8**
+
+- *Call to Response (3/4):* The closing call to the altar — lay down sin, lay down anxiety, repent — is a genuine exhortation. It is specific enough to count. The "find one thing to rejoice in" task is an actionable call. These are real.
+- *Equipping for Holiness & Witness (2/4):* The community/company counsel is practical but drifts from the passage. The sermon equips for personal peace more than for witness or corporate holiness. The church as body — covenant community — is not addressed.
+
+**6. Structure & Logical Flow — 6 / 9**
+
+- *Clarity of Outline (3/4):* The sermon moves through Rejoice → Supplication → Guard Your Mind → Closing. The sections are traceable. A listener could follow the sermon.
+- *Progression (2/3):* The sermon does build, but the "Guard Your Mind" section breaks the textual orbit significantly — importing the bad-company counsel from Ecclesiastes and drifting from the passage's argument.
+- *Unity (1/2):* The dominant idea is clear, but competing subthemes (community, medical options for depression, the coronavirus prayer request) dilute the unity at the end.
+
+**7. Illustration & Imagination — 4 / 5**
+
+- *Relevance (2/2):* The illustrations are native to this congregation — the friend's story, Ryker, the COVID context, the personal seminary pressure. These are not generic.
+- *Clarity (2/2):* The supplication illustration (starving beggar before the king) is well-drawn and illuminates the word precisely.
+- *Memorability (0/1):* The opening story is the most memorable element — but it is long and may stay in memory as a story rather than as a truth. No single image from the text itself will be carried home from the pulpit.
+
+**8. Sermonic Force — 3 / 5**
+
+- *Reads as Preaching (2/2):* The manuscript has strong oral cadence. It sounds spoken. The direct address is frequent and natural. This was written to be preached, and it reads that way.
+- *Conviction on the Page (1/2):* The Scripture-grounded assertion ratio is low. Large portions of the sermon are story, counsel, and pastoral observation without direct textual grounding. The word is present, but the sermon does not pulse from it.
+- *Cadence and Breath (0/1):* Sentences are consistent in length and register. There is no climactic compression — no moment where the sermon roars. The closing is gentle, which fits the tone, but the manuscript never earns a textual climax.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: 0 (No modifier applied)**
+
+The sermon is accessible to any listener. The single mother, the high schooler, and the new believer can all follow it. The concepts are clear, the vocabulary is plain, and the structure is trackable. No cognitive load penalty.
+
+---
+
+### 7. Total Score
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 14 / 25 |
+| Theology & Doctrinal Integrity | 11 / 18 |
+| Gospel Centrality & Force | 6 / 15 |
+| Conscience & Applicatory Force | 9 / 15 |
+| Exhortation & Response | 5 / 8 |
+| Structure & Logical Flow | 6 / 9 |
+| Illustration & Imagination | 4 / 5 |
+| Sermonic Force | 3 / 5 |
+| **Subtotal** | **58 / 100** |
+| Cognitive Load Modifier | 0 |
+| **Raw Total** | **58** |
+| Fatal Flaw Cap | **Capped at 69** |
+| **Final Score** | **58 / 100** |
+
+**Interpretation: Fundamentally flawed — rebuild from the text.** The raw score of 58 falls below 60, indicating structural problems that go beyond revision. The fatal flaw flag (Christ functionally unnecessary) confirms the diagnosis. This sermon functions more as a pastoral encouragement talk with scriptural reference than as a text-driven proclamation.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Mostly myself and my circumstances. The sermon is sympathetic and warm, but its center of gravity is human anxiety and human peace, not the person and work of Christ.
+
+2. **Did I encounter God, or just ideas about Him?** Ideas about God's care and provision — not God himself. The sermon describes his goodness but does not bring the hearer before him.
+
+3. **Was I comforted, convicted, or merely informed?** Comforted — generously and warmly. But not through the text. The comfort arrives through pastoral sympathy and shared experience, not through the Spirit's work via the Word opened.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Pastoral specificity and congregational rootedness.** The Ryker illustration, the COVID context, the one-thing-per-day counsel — these show a preacher who knows his people and preaches to their actual lives, not to a hypothetical congregation. This is a genuine and rare strength. (See "Guard Your Mind" section.)
+
+2. **The supplication word study.** The beggar-before-the-king image is exegetically honest, rhetorically vivid, and pastorally useful. It is the sermon's best exegetical moment — one the congregation will likely remember. (See "Prayer and Supplication" section.)
+
+3. **Accessible, spoken register.** The manuscript reads the way good preaching sounds — direct address, natural rhythm, conversational without being trivial. This is not easy to achieve and is a genuine sermonic asset.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Christ is theologically decorative, not structurally necessary.** The phrase "in Christ Jesus" in v. 7 is the text's own insistence that this peace is covenant peace — available only through union with the risen Lord. The sermon never opens this. Christ is mentioned as a source of hope and a payer for heaven, but the argument of the sermon stands without him. This is the fatal flaw.
+
+2. **The passage's own argument is never traced.** The logical flow of vv. 4–7 — the grounds for the commands, the relationship between "The Lord is at hand" and both gentleness and freedom from anxiety — is not preached. The sermon takes the commands as individual instructions and addresses each, but the passage argues, not merely instructs. The hearer cannot reconstruct the text's own logic from this sermon.
+
+3. **The gospel is absent.** An unbeliever listening to this sermon would not know how to be saved. They would know to pray, to trust God, to bring their anxiety to him — but they would not know why Christ's blood is necessary, or what separates their anxiety from peace at the deepest level. The closing invitation is to repentance, not to the gospel. These are related but not equivalent.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how far the sermon drifts from the passage's orbit in the "Guard Your Mind" section. The material about bad company and the cord of three strands is true, useful, and well-applied — but it comes from Ecclesiastes and general wisdom, not from Philippians 4. The sermon has moved from exposition to pastoral advice, and the transition is invisible. The preacher may experience this as "applying the text" when it is actually departing from it.
+
+There is also likely an unexamined assumption that the congregation understands the gospel because it has been preached before — that a closing reference to repentance and Jesus is sufficient gospel clarity. In a series, this can be true occasionally. As a pattern, it produces congregations who know the emotional shape of the gospel without its theological content.
+
+---
+
+### 12. Illusion of Strength
+
+The opening story is long, moving, and well-told. It creates the impression of a sermon with pastoral depth and narrative drive. But the story does the emotional work the text should do. The hearer is moved — genuinely — before the passage is opened, and the passage then feels like the annotation to a story rather than the source from which everything flows. The story is not wrong; its position and proportion create a false sense of textual engagement that the exposition never delivers.
+
+---
+
+### 13. Missed Opportunity
+
+"The Lord is at hand" (v. 5b) is the most theologically compressed phrase in the passage. It functions as the ground for both "let your reasonableness be known" (v. 4b) and "do not be anxious" (v. 6a). It may be a reference to the imminence of Christ's return, or to his present nearness, or both. Either way, it is the text's own answer to anxiety: the Lord is here and coming. This phrase received no treatment whatsoever. A sermon that opened this phrase — with its eschatological freight and its pastoral application — would have been a different and more powerful sermon. The text offers the preacher the very thing the congregation needs, and the sermon walks past it.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Open "The Lord is at hand" as the sermon's theological center.** Before the commands of vv. 6–7 make sense, the ground of v. 5b must be preached. Why can we be free from anxiety? Because the Lord is near — both presently and eschatologically. This is not a side note; it is the load-bearing beam the rest of the passage rests on. A single paragraph here transforms the sermon's theological depth.
+
+2. **Unpack "in Christ Jesus" in v. 7.** The peace of God guards hearts and minds *in Christ Jesus* — not generically, not for all who pray, but for those who are united to him. This is the text's own gospel moment. Develop it: this peace is available because Christ has made peace through the blood of his cross (Col. 1:20). The sermon's closing call to the altar needs this as its foundation — not just "come repent" but "this peace is found only in Christ, and he is offered to you now."
+
+3. **Add a clear gospel statement before the closing call.** The invitation to repentance assumes the gospel; it should follow the gospel's proclamation. One paragraph — what is the condition of the person who has no peace? Why can Christ give what no drug, no relationship, no cruise can give? What did he do, and what must the hearer do in response? This need not be long; it must be clear.
+
+4. **Cut or relocate the bad-company material.** The Ecclesiastes-based counsel about Christian community is pastorally good but textually foreign. Either cut it and tighten the sermon around the passage, or explicitly acknowledge the departure: "I want to step back from the text for a moment and give you one more practical word." Transparency about the move is better than the appearance of continuous exposition.
+
+5. **Add differentiated direct address after the supplication section.** The sermon speaks to "you" generically. After "Prayer and Supplication," address at least two distinct hearers: the believer who has prayed and still feels no peace (you have not yet gotten on the ground; your prayer was a report, not a plea) and the unbeliever who has never prayed this way because the God of this peace is not yet their God (here is how to come to him).
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon is not cold or bloodless — it is warm, pastorally genuine, and personally invested. The problem is not dead orthodoxy but thin exposition. The fire is present; the textual foundation is insufficient to sustain it.
+
+---
+
+### 16. Weight of Glory Statement
+This sermon carries the warmth of a shepherd who loves his flock, but not yet the weight of a herald who has been undone by the Word — the eternal gravity is in the pastor's care for the people, not in the majesty of the text itself.
+
+---
+
+### 17. Rubric Fit Note
+Philippians 4:4–7 is an apostolic command passage with compressed theological grounding — it is not primarily narrative, lament, or wisdom literature. The rubric applies cleanly. The passage is well-suited to Reformed Baptist expository preaching, and the rubric's emphasis on textual fidelity, gospel centrality, and conscience-level application is precisely what this passage demands. No category strain. The rubric fits; the sermon needs to catch up to it.

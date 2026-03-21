@@ -200,3 +200,221 @@ Gospel.
 
 > "God takes radical love in his church very seriously in this world and it all hinges on the hope of Jesus."
 > — David Platt
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+
+**Pastoral Warmth Without Prophetic Edge: A Neighborly Exhortation That Nearly Becomes a Sermon**
+
+---
+
+### 2. One-Sentence Summary
+
+A warmly pastoral opening of 1 Peter 3:8-18 that generates genuine affection for the community of love Christ commands, while stopping short of a full gospel proclamation and leaving the conscience addressed but not cornered.
+
+---
+
+### 3. Berean Gate Result
+
+**PASS — with noted drift**
+
+*Scopus Test*: The sermon's thesis — that Christians are to love radically, from an eternal perspective, because Christ loved us first — does arise from the passage's argument. 1 Peter 3:8-12 commands the virtues; v.13-18 grounds them in Christ's suffering. The sermon tracks this movement.
+
+*Authority Test*: The preacher largely submits to the text's claims. He does not soften the passage's demands. However, the sermon spends considerably more time on community love (vv.8-12) than on the Christ-suffering foundation (v.18), and the apologetics mandate of v.15 ("always being prepared to make a defense") receives no treatment at all. The sermon skips the hardest exegetical territory in the passage.
+
+**Gate passes, but the sermon is operating on about 60% of the text's content.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG TRIGGERED: Application is partially generic (Flag #4 — partial)**
+
+The sermon does differentiate at points (tipping, generosity, the McLean letter), but the conscience-searching is surface-level rather than penetrating. "Love more like Christ" and "put others first" are repeated without the text's own logic being deployed against specific patterns of self-justification in the congregation.
+
+**FLAG TRIGGERED: No actual exhortation (Flag #5)**
+
+The closing is the most egregious evidence. The sermon builds toward "Live Like You're Leaving" but the final section dissolves into a car accident story and a one-word prompt: "Gospel." The congregation is never summoned with a clear imperative. What must they *do* — today, this week, in specific relationships? The sermon raises the question and then declines to answer it with authority.
+
+**Score cap at 69 applies.**
+
+---
+
+### 5. Score Breakdown
+
+**Category 1 — Exposition & Hermeneutics: 16/25**
+
+- *Textual Fidelity*: 6/10. The Greek word studies (*homophrones*, *philadelphos*, *eusplanchnos/splanchnon*) are genuinely illuminating and the preacher shows real affection for the text. However, the exegesis of *homophrones* as "homophone" is imprecise and potentially misleading — the Greek word is *homophrones* (same-minded), not the musical/phonetic term homophone. The passage's climactic verse (v.18) receives three sentences at most. Verse 15 — the apologetics imperative — receives no treatment whatsoever.
+- *Contextual Awareness*: 3/5. There is no situating of 1 Peter's argument — the letter is written to "elect exiles" under social pressure, which would dramatically sharpen every application point in the sermon. The Petrine context of suffering-under-hostility is the frame for *all* these commands.
+- *Exegetical Clarity*: 4/5. The Greek word studies, where accurate, are accessible and engaging. The "healthy intestines" treatment of *eusplanchnos* is one of the sermon's genuine highlights.
+- *Logical Faithfulness*: 3/5. The sermon imports David Platt's material extensively — the Platt framework does not distort the text, but it does shift the driver's seat from the text to an external source. The sermon could have been built more directly from the passage's own argument.
+
+**Category 2 — Theology & Doctrinal Integrity: 13/18**
+
+- *Christ-Centeredness*: 5/7. The "Jesus as Example" section is textually grounded in v.18 and theologically substantive. The penal substitution statement ("to satisfy his Father's wrath against your sin and mine") is precise. The connection is organic, not bolted on. However, the Christology is primarily imitation-of-Christ rather than union-with-Christ — the indicative of what Christ has accomplished does not fully power the imperatives of vv.8-12.
+- *Redemptive-Historical Awareness*: 1/3. No placement of 1 Peter in redemptive history. The passage's use of Psalm 34 (a David text deployed by Peter for a new-covenant exile community) goes unexplored.
+- *Doctrinal Precision*: 4/4. The PSA statement is clean. Hell as moral terminus of self-chosen rejection is defensible. No theological sloppiness detected.
+- *Confessional Alignment*: 3/4. No contradiction of confessional theology. The free-will discussion on hell is simplified but not Arminian in a technically problematic way — it does not deny divine sovereignty, though it leans heavily on human responsibility.
+
+**Category 3 — Gospel Centrality & Force: 9/15**
+
+- *Clarity of the Gospel*: 3/5. The PSA presentation in "Jesus — Our Example" is the clearest gospel moment. But justification by faith is not articulated. The unbeliever listening would understand that Christ died for sins, but the mechanism of *how* that becomes theirs — faith, repentance, union — is absent. The closing's "Gospel." prompt is a placeholder, not a proclamation.
+- *Necessity of Christ*: 4/5. Christ is necessary to the argument — the sermon would not work without him. The imitatio Christi framing, however, makes Christ primarily a moral example rather than the ground of all the obedience being commanded.
+- *Cross-Centered Gravity*: 2/5. The sermon moves toward community love and eternal perspective more than toward the cross. The cross appears late (in "Jesus — Our Example") and as a section rather than as the gravitational center. The Law/Gospel dialectic is absent — there is no extended hammer before the balm.
+
+**Category 4 — Conscience & Applicatory Force: 8/15**
+
+- *Heart Penetration*: 3/5. The tipping illustration is memorable and genuinely conscience-pressing. The "molecules" remark is vivid. But the sermon primarily appeals to the relational and communal conscience rather than the theologically exposing conscience. No one is truly cornered.
+- *Specificity*: 3/5. The tipping, generosity, and interventional love applications are specific. The "love more like Christ" and "put others first" applications are not. The People Group section is informative but applicatory force is unclear — what are the congregation to *do* about the Moroccan Arabs of Spain?
+- *Spiritual Differentiation*: 2/5. The sermon addresses primarily the believer who needs to love better. The unbeliever is gestured toward at the close. The doubter, the backslider, the hardened sinner, the grieving, and the self-righteous are not addressed at all. Perkins' taxonomy is barely activated.
+
+**Category 5 — Exhortation & Response: 3/8**
+
+- *Call to Response*: 1/4. The closing is the sermon's structural failure. "Live Like You're Leaving" is a resonant title and concept, but it never cashes out into a commanded response. The car accident story generates emotional urgency without directing it. "Gospel." is a note to self, not a proclamation. The congregation was never told: *Repent of this. Believe this. Do this today.*
+- *Equipping for Holiness & Witness*: 2/4. The tipping section partially equips for witness. The apologetics mandate of v.15 — "always being prepared to make a defense" — is completely untouched, which is a significant miss for equipping.
+
+**Category 6 — Structure & Logical Flow: 6/9**
+
+- *Clarity of Outline*: 3/4. The sermon moves through the Greek words in sequence, which provides a natural skeleton. The sections are distinguishable. However, the People Group section is structurally disruptive — it interrupts the sermon's momentum before it has built.
+- *Progression*: 2/3. The sermon builds relationally but not argumentatively. It does not arrive anywhere stronger than where it began. The conclusion is the weakest section.
+- *Unity*: 1/2. There are at least two competing organizing ideas: (1) specific virtue exposition from the Greek words, and (2) a meditation on eternal perspective. These do not fully resolve into one dominant idea.
+
+**Category 7 — Illustration & Imagination: 4/5**
+
+- *Relevance*: 2/2. The kayaking/books introduction, the McLean letter, the tipping illustration, and the car accident story are all drawn from recognizable life.
+- *Clarity*: 1/2. Most illustrations illuminate. The Moroccan Arabs section is interesting but its homiletical purpose is unclear — it neither illustrates the text's point directly nor serves the application.
+- *Memorability*: 1/1. "Healthy intestines," the tipping section, and "live like you're leaving" will be remembered.
+
+**Category 8 — Sermonic Force: 3/5**
+
+- *Reads as Preaching*: 1/2. The manuscript has oral moments — direct address, rhetorical questions, the Toplady confession. But it lapses into explanatory prose that reads closer to a Bible class than a proclamation.
+- *Conviction on the Page*: 1/2. The conviction is warm and genuine but never rises to thundering. The preacher has conviction; the manuscript doesn't always transmit it.
+- *Cadence and Breath*: 1/1. Sentence variation is present. The rhythm is pastoral and conversational.
+
+---
+
+### 6. Cognitive Load Assessment
+
+**Score: −1**
+
+The sermon is accessible — the average hearer can follow it. The Greek word studies are well-explained and functional. The primary risk is not density but *thinness* — the sermon does not challenge the congregation intellectually. The People Group section adds cognitive material without payoff. Slightly better sequencing would tighten this.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 16/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 8/15 |
+| Exhortation & Response | 3/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **62/100** |
+| Cognitive Load Modifier | −1 |
+| **Adjusted Total** | **61/100** |
+| Weight of Glory (see below) | +2 |
+| **Final Score** | **63/100** |
+
+**Fatal Flaw cap applies. Score held at 63.**
+
+**Interpretation: Concerning gaps. The sermon explains and warms but does not yet fully preach. Significant revision needed, concentrated in the exhortation and gospel-force sections.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?*
+Primarily of my obligation to love others better. Christ appears, but as model more than as Savior and Lord whose accomplished work is the power source for the love being commanded. **Partial no.**
+
+2. *Did I encounter God, or just ideas about Him?*
+The Toplady quote and the PSA statement are genuine moments of encounter. The bulk of the sermon is ideas-about-how-to-love-each-other. **Partial yes, weakly.**
+
+3. *Was I comforted, convicted, or merely informed?*
+Informed and mildly convicted. The tipping section stings. But the conscience is not systematically searched. **Mostly informed.**
+
+---
+
+### 9. Strengths (Top 3)
+
+**Strength 1: The Greek word studies are genuinely illuminating and congregationally accessible.**
+The "healthy intestines" treatment of *eusplanchnos* is exemplary — it is memorable, exegetically honest, theologically loaded, and the kind of material a congregation will repeat to each other on Sunday afternoon. The preacher has a gift for making word-level exegesis feel like discovery rather than classroom.
+
+**Strength 2: The penal substitution statement is doctrinally clean and arrived at organically.**
+"Crucified upon a cross to satisfy his Father's wrath against your sin and mine" — this is stated plainly, not hedged, and flows from the text's own language in v.18. The preacher does not flinch from wrath, which is a genuine strength.
+
+**Strength 3: The tipping illustration is a rare, specific, conscience-pressing application with real bite.**
+This is exactly the kind of application the sermon needs more of throughout — grounded in a specific behavior, tied directly to gospel witness, naming the failure plainly, and pointing toward concrete change. It is perhaps the most genuinely prophetic moment in the sermon.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+**Weakness 1: The sermon abandons the text at v.14.**
+Verse 15 — "always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you" — receives zero treatment. This is the most directly actionable verse in the entire passage and the most obviously relevant to the congregation's witness in the world. Its omission is not a minor gap; it is the text's own imperative to equip the church for witness, and it goes entirely unpreached.
+
+**Weakness 2: The closing is a structural collapse.**
+"Live Like You're Leaving" promises a landing, but the sermon ends with a car accident anecdote and a one-word note: "Gospel." This is not a conclusion — it is an outline stub. The congregation is pointed toward eternity and told to care about whether their name is in the Lamb's Book of Life, but they are never told *how to ensure that*, what faith looks like, what repentance requires, or what they must now do. The exhortation was entirely deferred and then never delivered.
+
+**Weakness 3: The People Group section disrupts the sermon without serving it.**
+The Moroccan Arabs of Spain section appears between the Scripture reading and the first point. It is interesting missiological content, but it is inserted at the worst structural moment — before the congregation has any traction on the text — and it has no direct connection to 1 Peter 3:8-18's argument. If it belongs anywhere, it belongs *after* the applicatory section as a "therefore" illustration for global witness. Here it is a structural detour at the sermon's most critical opening moment.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that he has essentially preached 1 Peter 3:8-12 and skipped vv.13-18. The passage's great doctrinal center — Christ suffering once for sins, the righteous for the unrighteous — is touched briefly in one section but does not govern the sermon's architecture. The result is a sermon on Christian ethics that is grounded in the gospel's example without being fully powered by the gospel's achievement. There is a difference between "love like Jesus loved" (imitation) and "love from the resources Christ's substitution provides to those united to him" (union and sanctification). The sermon preaches the first and gestures at the second.
+
+---
+
+### 12. Illusion of Strength
+
+The Greek word studies feel like deep exegesis. The congregation will experience them as learning the Bible. But the three words treated (unity of mind, brotherly love, tender heart) are the introductory list of v.8 — they are the doorway, not the room. The sermon spends most of its exegetical energy in the vestibule and never fully inhabits the house. The word studies create an impression of textual thoroughness that the overall coverage does not actually achieve.
+
+---
+
+### 13. Missed Opportunity
+
+Verse 15 is the missed sermon inside this sermon. "Always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect" — this verse, in the context of the People Group section the preacher has already introduced, would have created a powerful applicatory moment: *You are called to defend the faith — to the Moroccan Arabs of Spain, yes, but also to the coworker who asks why you tip generously, why you stay married, why you're not afraid of death.* The People Group section would have landed with force if it had been explicitly connected to the apologetics mandate the text itself provides.
+
+---
+
+### 14. Surgical Fixes (Recommended)
+
+**Fix 1: Move the People Group section to after the main exposition and connect it directly to v.15.**
+Place it at the exhortation moment: "The text commands us to be prepared to give a reason for our hope. Who are we giving that reason to? Let me tell you about the Moroccan Arabs of Spain — and then let me tell you about the coworker in the cubicle next to you." This resolves the structural disruption and gives the missiological content genuine homiletical purpose.
+
+**Fix 2: Preach v.15 — the apologetics mandate — as a full point.**
+This verse is the text's own bridge between the ethical commands (vv.8-12) and the suffering-with-hope section (vv.13-18). It is the "why the world notices your behavior" verse. It is also the equipping verse — the congregation needs to know *not just to love*, but to be ready to *explain* that love when asked. Write a full section here.
+
+**Fix 3: Rebuild the conclusion as an actual exhortation.**
+The "Live Like You're Leaving" title is excellent. Cash it out: "This week, the person who cut you off in traffic is going to give you an opportunity to live like you're leaving. The coworker who takes credit for your work is going to give you an opportunity to live like you're leaving. Here is what that looks like in that moment..." Give the congregation specific, concrete scenarios where this truth must be *obeyed*, not just appreciated.
+
+**Fix 4: Clarify the gospel invitation for the unbeliever.**
+The car accident story is emotionally powerful. But the response it demands is left at "your name needs to be in the Lamb's Book of Life." Finish the sentence: "And your name gets written there through repentance and faith in Jesus Christ — not through good behavior, not through church attendance, but through trusting the One who suffered, the righteous for the unrighteous, to bring you to God. Is that you today?" The congregation needs to hear the door and where it is.
+
+**Fix 5: Insert a direct-address moment for the self-righteous after the "Putting Others First" section.**
+The sermon addresses people who need to love better. It does not address the person who already thinks they love fine — who tips adequately, who has their community group, who is nodding along approvingly. Perkins would identify this as the "knowledgeable but unhumbled" hearer. A single direct-address sentence would corner this person: "Some of you are sitting here thinking you're already doing this — and you probably are, externally. But does your generosity cost you anything? Or does it come from your surplus, where it's comfortable and costs you nothing? Because that's not the love Jesus is describing."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon has genuine warmth and pastoral affection. The preacher's love for his congregation is evident. The doctrinal content, while not deep, is not bloodless. However, the sermon is in the *vicinity* of dead orthodoxy's lower threshold — not because it is doctrinally cold, but because it is doctrinally shallow. The warmth is relational rather than theological. If this pattern persists across multiple sermons (warm personality, light exegetical depth, absent exhortation), the cumulative effect would be a congregation that loves its community group and does not know what the Covenant of Grace is.
+
+---
+
+### 16. Weight of Glory Statement
+
+The Toplady confession at the opening carries more eternal gravity than most of what follows it — the sermon has genuine warmth but does not yet achieve the kind of divine weight that makes a hearer tremble or kneel; it makes them feel encouraged to love their neighbor better, which is good but is not yet glory. **+2/5**
+
+---
+
+### 17. Rubric Fit Note
+
+1 Peter 3:8-18 is a paraenetic-doctrinal passage — ethical instruction grounded in Christological argument — and this rubric fits it well. The Gospel Centrality and Exposition categories are both properly weighted for this text type. The one place the rubric bends slightly is the Conscience & Applicatory Force category: paraenesis (ethical instruction) is by nature applicatory, so a sermon on this text has a structural advantage in that category that a purely doctrinal or narrative text would not. The score reflects this; the relatively low conscience score (8/15) on a text that is *itself* a series of ethical commands indicates how much more applicatory depth was available and untaken.

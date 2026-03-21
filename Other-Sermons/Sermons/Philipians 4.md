@@ -39,3 +39,209 @@ The other area that can drag a Christian down, is the company that they keep. Ca
 If that’s you, you need to pray about making some space in that relationship. This is why scripture says a cord of three strands is not easily broken. You, and some other Christian friends, surrounding a non-Christian, is safe, you on your own surrounded by lost, will drag you down over time. Maybe its not you, maybe its your kids. Maybe you see your kids struggling because of the company they keep. 
 
 Normally we close with the gospel. But I’m going to close with an opportunity to come to the alter and repent. Then before we close, I want to spend some time in prayer. Our denomination has called for every Baptist church to spend some time together in prayer this morning for those affected, and who will be affected by corona virus. The medical workers, our government, and our friends and loved ones who may be affected. We don’t know how bad this will be but we know how big our God is. And he is able.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Pastoral Warmth Without Pulpit Authority: A Sermon That Comforts Without Cornering**
+
+---
+
+### 2. One-Sentence Summary
+A warm-hearted, conversational opening of Philippians 4:4-7 that establishes genuine pastoral presence and accessible application while failing to expound the text with any exegetical depth, presenting the gospel with clarity, or pressing the conscience with the differentiation the passage demands.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with serious reservations.**
+
+The Scopus Test is marginally satisfied: the sermon’s central concern (rejoicing in the Lord and finding peace through prayer in the midst of anxiety) is genuinely the concern of the passage. The main point is not invented — it arises from the text.
+
+However, the Authority Test strains. The preacher frequently departs from the text for long stretches — the extended illustration about the seminary friend consumes nearly half the sermon — and the Word functions more as a launching pad than the governing authority. The sermon "visits" the text but is not "governed" by it. This passes the gate, but only just.
+
+**Result: PASS (barely). Proceed to scoring.**
+
+---
+
+### 4. Fatal Flaw Flags
+**TWO FATAL FLAW FLAGS TRIGGERED. Score capped at 69.**
+
+**Flag 1 — No clear gospel presentation:**
+The preacher himself acknowledges at the end: "Normally we close with the gospel." The gospel is explicitly deferred and then replaced by an altar call and a denominational prayer initiative. Christ’s finished work — His death for sinners, justification by faith, the grounds of peace with God — is absent from the body of the sermon. "Its Jesus" appears once as a sentence fragment but is never unpacked. The cross is not proclaimed; it is gestured at. This is a fatal flaw.
+
+**Flag 4 — Application is entirely generic:**
+The applications given (find one thing to be thankful for, choose better friends, don’t smoke) are moral advice that a synagogue could deliver without alteration. There is no differentiated address to the troubled believer, the hardened unbeliever, the grieving, the self-righteous. The application lands at the level of self-help psychology with a Christian vocabulary overlay.
+
+**Score cap: 69 maximum.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 11/25**
+- Textual Fidelity: 4/10 — The sermon reads the text aloud but does not open it. Paul’s command structure, the grounds of peace ("in Christ Jesus"), the meaning of "surpasses all comprehension," the covenant logic of "the Lord is near" — none of these are developed. The text is referenced; it is not expounded.
+- Contextual Awareness: 2/5 — The prison epistle context is mentioned briefly (Nero, imprisonment), which is good. But the book-level argument — Paul writing from chains with joy, the example of contentment in 4:11-13 providing the frame — is absent.
+- Exegetical Clarity: 2/5 — "Supplication" is defined helpfully via illustration. Greek is not engaged. The double "Rejoice" is noted as emphasis — that’s sound, though basic. No other exegetical insight is offered.
+- Logical Faithfulness: 3/5 — No egregious eisegesis, but the sermon does not follow the text’s own logic. The passage’s movement (imperative → indicative → command → promise) is not traced.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+- Christ-Centeredness: 4/7 — Christ is mentioned, but minimally. "Its Jesus" and "paid for by his son" are present but unexpanded. The text’s "in Christ Jesus" (the location of the peace) is left unexplored — which is a significant loss.
+- Redemptive-Historical Awareness: 1/3 — Absent. No placement of the text within redemptive history. No connection to the finished work.
+- Doctrinal Precision: 4/4 — No errors detected. The sin/grace/salvation content present is accurate if underdeveloped. The comment on assurance ("you don’t lose your salvation just because you smoke") is pastoral and defensible.
+- Confessional Alignment: 2/4 — No contradictions of confessional theology. But positive confessional precision on the peace that is "in Christ Jesus" — grounded in union, justification, adoption — is absent.
+
+**3. Gospel Centrality & Force — 4/15**
+This is the most serious failure. The gospel is structurally absent. The sermon orbits the problem of anxiety and stress but never arrives at the only sufficient answer: that the peace of God flows from peace with God, established by the blood of Christ. "Its Jesus" is not the gospel — it is a slogan. The Synagogue Test fires: a devout Jewish counselor could deliver this sermon without embarrassment. The cross is missing. Score capped by this failure.
+- Clarity of the Gospel: 0/5
+- Necessity of Christ: 2/5
+- Cross-Centered Gravity: 2/5
+
+**4. Conscience & Applicatory Force — 7/15**
+The preacher has genuine pastoral instinct. He speaks to people under real stress (COVID, family pressure, loneliness). The altar call at the end reaches toward response. But the applications remain at the surface: "find something to be thankful for," "choose better friends," "don’t smoke." These do not search the conscience. They inform behavior without pressing the heart. Perkins’ seven categories are not addressed; the sermon speaks primarily to already-believing, already-struggling people in a single register.
+- Heart Penetration: 3/5 — Warmth is present. Conviction is not.
+- Specificity: 2/5 — Some local specificity (Ryker, COVID concerns). But no conscience-level specificity.
+- Spiritual Differentiation: 2/5 — No differentiation between the believer and unbeliever, the hardened and the humbled, the grieving and the smug.
+
+**5. Exhortation & Response — 5/8**
+The altar call is present and should be credited. The call to "spend time in prayer" and to "find one thing to be thankful for" are responsive calls, even if thin. The sermon does end with movement, not merely information. Points added for pastoral instinct even where the exhortation lacks theological grounding.
+- Call to Response: 3/4
+- Equipping for Holiness & Witness: 2/4 — Brief and generic, but present.
+
+**6. Structure & Logical Flow — 5/9**
+The sermon has a clear overarching topic but not a clear traceable outline. The extended opening illustration (approximately 40% of the sermon length) overwhelms the structure. The text appears late, treated briefly, then departed from again. The movement is: story → text announced → more story → brief text engagement → application → abrupt close. No progression. No sermonic build.
+- Clarity of Outline: 2/4
+- Progression: 2/3
+- Unity: 1/2 — Multiple sub-topics compete (stress, company you keep, smoking, COVID prayer) without integration under one dominant idea.
+
+**7. Illustration & Imagination — 3/5**
+The seminary-friend illustration is genuinely effective in establishing pastoral solidarity and the sermon’s emotional world. The supplication-as-starving-beggar image is vivid and lands well. The salt-stains-on-the-suit detail is memorable. However, some illustrations (smoking, cruises) feel like pastoral sidenotes rather than text-illuminating images.
+- Relevance: 2/2
+- Clarity: 1/2
+- Memorability: 0/1 — The opening story is memorable, but no image is native to the text itself.
+
+**8. Sermonic Force — 4/5**
+This is the sermon’s clearest strength. It reads as spoken word. The preacher’s voice is present on the page: direct address, short declarative sentences, audience questions ("Who remembers something about Emperor Nero?"), rhetorical punch ("Has your loved one ever been set on fire to light the streets of your city?"). It is pastoral and human. It does not read like an essay.
+- Reads as Preaching: 2/2
+- Conviction on the Page: 1/2 — The conviction is personal rather than textual.
+- Cadence and Breath: 1/1
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: 0 (no modifier applied)**
+
+The sermon is entirely accessible. If anything, the cognitive demand is too low — the text is never opened at a depth that would stretch the congregation. The single mother and the high schooler will follow this with ease. No penalty applied.
+
+---
+
+### 7. Total Score
+**50/100 — Before fatal flaw cap**
+*(Fatal flaw cap: 69 max — but the score falls below the cap regardless)*
+
+**Score: 50/100**
+
+Interpretation: **Fundamentally flawed. Rebuild from the text.**
+
+The primary issue is not competence but category: this sermon is closer to a pastoral devotional or encouragement talk than an expository sermon. It has warmth, accessibility, and genuine pastoral presence. But it does not expound the text, does not proclaim the gospel, and does not search the conscience. Those are not optional features.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Primarily myself. The stress-management frame, the self-help applications, and the absence of gospel proclamation direct the hearer inward, not Christward. Christ is mentioned but not magnified.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas about Him, and good pastoral stories about a friend’s faith. God’s character — His holiness, His mercy, His sovereign grace — is not developed deeply enough to constitute an encounter.
+
+3. **Was I comforted, convicted, or merely informed?**
+Comforted, lightly. The congregation will leave feeling warmer toward their pastor and modestly encouraged. They will not have been convicted, cornered, or sent to Christ as their only refuge.
+
+---
+
+### 9. Strengths (Top 3)
+
+**Strength 1 — Authentic pastoral voice.**
+The sermon reads as preached, not written. The preacher’s genuine pastoral care is evident throughout. The opening vulnerability (his own stress that week), the local reference to Ryker, and the direct address to the lonely and grieving ("Some of you feel empty, and lonely") demonstrate real pastoral instinct. This is not small — many technically sharper sermons lack it entirely.
+
+**Strength 2 — The supplication illustration.**
+"If you were a starving beggar, and your kids were starving, and you found your way near the palace..." — this is the sermon’s single strongest moment of text-driven illustration. It opens the word "supplication" in a way a congregation will retain. It is vivid, accessible, and accurate to the Greek sense of prostrate pleading.
+
+**Strength 3 — The Nero/persecution context.**
+Briefly but effectively deployed: "Some that will have read this, would have seen their sons or daughters or husbands or wives impaled on a pole and light on fire." This places the passage’s "Rejoice" command in its real historical weight. This is better contextual work than most topical sermons achieve, and it earns the point that joy is a command, not a feeling.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+**Weakness 1 — The gospel is structurally absent.**
+The sermon’s preacher knows this — he says at the end, "Normally we close with the gospel." That sentence is a confession of structural failure. The peace that "surpasses all comprehension" in Philippians 4:7 is grounded in "Christ Jesus" — which in Pauline theology means it flows from justification, adoption, and union with the risen Lord. That is the sermon’s missing heart. Without it, the exhortation to "rejoice" and "be anxious for nothing" is burden without resource, law without gospel.
+
+**Weakness 2 — The text is not opened.**
+From verse 4 to verse 7, the sermon does not expound any single phrase at depth. "The Lord is near" — what does this mean? The imminence of His coming? The nearness of His presence? Paul’s own imprisonment makes this phrase electrically charged — and it goes untouched. "In Christ Jesus" — the location of the peace — is the key to the entire passage, and it is passed over in silence. The passage is read; it is not preached.
+
+**Weakness 3 — Application drifts into self-help moralism.**
+"Find one thing to be thankful for. Tomorrow find a second one. Give it a month, and if you’re still depressed, it’s probably something medical." This is not bad pastoral advice. But it is not Christian application. It does not distinguish law from gospel, command from resource, or duty from delight. It could be delivered by a cognitive behavioral therapist with minor adjustments. The congregation is not pressed to Christ as the source and ground of peace — they are pressed to a gratitude practice.
+
+---
+
+### 11. Blind Spots
+
+The preacher may not see that his greatest natural gift — the conversational, story-driven, accessible pastoral voice — is functioning as a substitute for exposition rather than a vehicle for it. The warmth of the illustration about the seminary friend fills the space that the opened text should occupy. The congregation will likely leave feeling the sermon was good because it felt personal and relevant. But the text was not opened, and the gospel was not proclaimed. Warmth without Word is not preaching — it is pastoral presence, which is valuable but insufficient from a pulpit.
+
+Additionally, the extended opening story (roughly 40% of the sermon) likely doesn’t register to the preacher as a structural problem — it feels like connection. But it crowds out the passage.
+
+---
+
+### 12. Illusion of Strength
+
+The sermon’s warmth and accessibility create the impression of pastoral applicability. The applications feel grounded (COVID stress, smoking, bad company) and the congregation will relate. But this is the illusion: the applications are psychologically shrewd rather than theologically grounded. "Choose better friends," "find something to be thankful for," and "don’t smoke" are true and helpful, but they do not arise from the text’s own argument, they do not press the conscience with the gospel, and they could be preached from a secular self-help book with minor vocabulary swaps.
+
+The congregation may leave feeling the sermon spoke to their life. They are less likely to leave with a fresh sight of Christ, the cross, or the grounds of the peace Paul is describing.
+
+---
+
+### 13. Missed Opportunity
+
+**Philippians 4:7 — "the peace of God, which surpasses all comprehension, will guard your hearts and your minds in Christ Jesus."**
+
+This is the passage’s climax, and it was passed over. The word "guard" (φρουρήσει, *phrouresei*) is a military garrison term — the peace of God stands like a sentinel at the gates of the heart and mind, turning away what would otherwise overwhelm them. That image, drawn from Paul’s own context under Roman guard in prison, is electrifying. Paul is literally under guard as he writes this. He says: the peace of God will guard you the way my guards guard me — except this guard cannot be corrupted, bribed, or overwhelmed.
+
+That image — never developed — is worth more than the entire smoking application. It is native to the text, native to Paul’s situation, and would land in any congregation facing overwhelming external pressure.
+
+---
+
+### 14. Surgical Fixes (3-5 Specific)
+
+**Fix 1 — Preach the gospel in the body of the sermon, not as a closing appendage.**
+The peace of Philippians 4:7 is "in Christ Jesus." That phrase must be opened: peace with God is available because Christ bore the wrath we deserved. The anxiety about what God thinks of us — the deepest anxiety — is resolved at the cross. Move this from "normally we close with the gospel" to the center of the exposition.
+
+**Fix 2 — Open "the Lord is near" (v.5) and "in Christ Jesus" (v.7).**
+These are the theological engine of the passage. What does Paul mean by "the Lord is near"? His imminent return? His present indwelling? Both? This phrase belongs to the sermon’s argument. "In Christ Jesus" must be unpacked as the location of the peace — it is not generic divine peace, it is covenantal, justified, adopted peace. These two phrases, opened properly, double the sermon’s theological weight without adding length.
+
+**Fix 3 — Deploy the garrison image from "guard" (φρουρήσει).**
+Paul is writing under Roman guard. He says the peace of God will *guard* your hearts like soldiers guard a city. Cut the smoking tangent and develop this image instead. It is more memorable, more native to the text, and more emotionally powerful. The congregation will carry it.
+
+**Fix 4 — Differentiate the application by category of hearer.**
+Currently the sermon speaks to "Christians under stress" as a single category. The passage’s comfort is differently shaped for: the believer who knows Christ but is overwhelmed (comfort), the person who has no peace because they have no peace with God (gospel call), the self-sufficient person who manages their own anxiety (law), and the grieving person for whom "rejoice" sounds cruel (pastoral sensitivity). Four minutes of differentiated address would transform the application section.
+
+**Fix 5 — Restructure: shorten the opening story to 3 minutes, spend that time on vv. 5-7.**
+The seminary-friend story is good. It does not need to be 40% of the sermon. Cut it to the salt-on-the-suit moment and the "God is for me" climax, then pivot to the text. Use the recovered time to expound the passage. The congregation came to hear the Word; the story earns their attention — it should not consume their time.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**NOT TRIGGERED.**
+
+Dead orthodoxy requires correct theology delivered bloodlessly. This sermon’s weakness is not coldness but thinness — the theological content is insufficient to trigger the dead orthodoxy diagnostic. The preacher is warm, pastorally present, and clearly loves his congregation. The problem is not that the fire is missing; it is that the fuel is insufficient. A richer theological foundation, opened with this preacher’s natural warmth, would be formidable.
+
+---
+
+### 16. Weight of Glory Statement
+The sermon carries genuine pastoral weight but not yet eternal weight — the congregation is comforted in their present stress but not yet confronted with the glory of the God who commands their rejoicing and provides His own Son as the ground of their peace.
+
+---
+
+### 17. Rubric Fit Note
+Philippians 4:4-7 is a Pauline imperative/indicative unit — a brief but dense passage. The rubric’s exposition and gospel centrality categories are well-suited to it. The passage is neither apocalyptic nor lament, so no genre strain applies. The rubric fits cleanly. The passage’s own structure (imperative → reason → command → method → promise) provides a natural sermonic frame that was available but unused. No rubric adjustment warranted.

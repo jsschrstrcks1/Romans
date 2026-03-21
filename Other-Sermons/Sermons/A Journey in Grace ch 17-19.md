@@ -265,3 +265,219 @@ You sent Your Son to seek and save.
 Now make us faithful men — strong in doctrine, warm in love, urgent in mission.
 Let our lives display what we have learned: that salvation belongs to the Lord.
 Amen."
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Doctrinally Warm, Textually Thin — A Faithful Study Guide That Falls Short of a Sermon**
+
+---
+
+### 2. One-Sentence Summary
+A well-intentioned study of pride, election, and theological balance that handles Reformed doctrine with warmth and pastoral care, while functioning more as a thematic commentary and discussion guide than a text-governed proclamation of any specific passage.
+
+---
+
+### 3. Berean Gate Result
+
+**RESULT: CONDITIONAL PASS — with significant qualification**
+
+**Scopus Test:** This document does not preach a single text. It spans 1 Corinthians 4:7, Romans 9, Romans 11:33, and multiple supporting passages across three chapters. The "main point" of each chapter is thematic — pride corrupts doctrine, election is just, theological extremes must be avoided — rather than arising from the sustained argument of any one passage. There is no single governing text from which a thesis demonstrably arises.
+
+**Authority Test:** The preacher clearly submits to Scripture's claims, including the uncomfortable ones (unconditional election, the rejection of Arminianism). There is no editing of hard texts.
+
+**Ruling:** The gate does not fully close because the material is doctrinally faithful and Scripturally grounded. But the material does not function as expository preaching — it functions as a thematic men's study guide. The rubric bends here, but cannot fully pass the Scopus Test since no single text governs the whole. Evaluation proceeds with this caveat prominently noted in the Rubric Fit Note.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 3 — TRIGGERED (partial):** Christ is present but not prominently proclaimed as the crucified and risen Savior. The material discusses grace, election, and humility, but Christ's finished work — His atonement, His resurrection, His mediatorial role — is never explicitly proclaimed. He appears in quoted prayers ("boast in nothing but the cross of Christ") and in passing references, but is not the center of the exposition. A devout Jew who believed in God's sovereign election could track nearly all of this material without stumbling over the necessity of Christ's blood.
+
+**Flag 4 — TRIGGERED:** Application is heavily generic. "Be humble." "Evangelize." "Hold tension." These are correct but not differentiated. The men in the room — the proud seminary type, the discouraged doubter, the passive brother — are addressed only in the broadest strokes. No one is cornered specifically.
+
+**Flag 5 — PARTIAL:** Exhortation is present but soft. The reflection questions and group discussion prompts do function as calls to response, but the direct imperative voice — "You must now do this" — is largely absent from the expository content itself. The sermon tells what to think more than it commands what to do.
+
+**Score cap applies: Maximum score 69.**
+
+---
+
+### 5. Score Breakdown
+
+**Category 1 — Exposition & Hermeneutics (25 pts): 14/25**
+- Textual Fidelity (10): 6/10 — Scripture is used generously, but as support for pre-formed themes rather than as the governing argument. The text does not drive the message; the message selects texts to illustrate it.
+- Contextual Awareness (5): 3/5 — The connection to the Romans series is well-drawn and shows awareness of book-level argument. Romans 9–11 is handled with fair integrity.
+- Exegetical Clarity (5): 3/5 — Key texts (1 Cor. 4:7, Romans 9:14-16) are explained adequately but not deeply. Greek is absent. The exposition is pastoral rather than exegetical.
+- Logical Faithfulness (5): 2/5 — The William Carey illustration, though historically useful and appropriately hedged, comes close to making a historical narrative do the argumentative work of Scripture. The material relies on illustrative reasoning more than textual argument.
+
+**Category 2 — Theology & Doctrinal Integrity (18 pts): 14/18**
+- Christ-Centeredness (7): 4/7 — Doctrines of grace are handled well. Unconditional election, total depravity, effectual calling — all affirmed. But the Christological center (Christ as the ground of election, the one in whom we are chosen, Eph. 1:4) is underdeveloped.
+- Redemptive-Historical Awareness (3): 2/3 — Some awareness of where these doctrines sit in the story of redemption, but not developed.
+- Doctrinal Precision (4): 4/4 — No theological sloppiness. The treatment of both hyper-Calvinism and Arminianism is fair and accurate.
+- Confessional Alignment (4): 4/4 — Strong. The 1689 pulse is present throughout. No contradictions of confessional theology.
+
+**Category 3 — Gospel Centrality & Force (15 pts): 7/15**
+- Clarity of the Gospel (5): 2/5 — Justification by faith is not clearly articulated. The gospel is assumed as background rather than proclaimed as foreground.
+- Necessity of Christ (5): 3/5 — Christ is present but not necessary to the core argument in the way the rubric demands. The material on pride, election, and balance could largely stand on a robust theism without a crucified and risen Christ.
+- Cross-Centered Gravity (5): 2/5 — The cross is mentioned in the prayer of Ch. 17 but is not a structural gravitational point of the document. The sermon orbits around doctrine about God rather than the Person and work of Christ.
+
+**Synagogue Test:** A devout Jew who believed in sovereign election and God's inscrutable ways could sit through most of this material without being scandalized by the necessity of Christ's blood. This is a significant concern.
+
+**Category 4 — Conscience & Applicatory Force (15 pts): 8/15**
+- Heart Penetration (5): 3/5 — Ch. 17 on pride has genuine penetrating moments: "If your theology makes you look down on other believers, your theology hasn't gone deep enough. It has lodged in your intellect but hasn't reached your knees." This is good. More of this is needed.
+- Specificity (5): 2/5 — Application remains largely in the realm of categories and principles. "Be humble," "evangelize," "hold the tension." No specific life situation, no concrete portrait of a specific hearer being cornered.
+- Spiritual Differentiation (5): 3/5 — The document does distinguish between the proud theologian, the passive Calvinist, and the pressure-driven Arminian. This is meaningful differentiation. But Perkins' other categories (the humbled, the backslider, the ignorant-but-teachable) go unaddressed.
+
+**Category 5 — Exhortation & Response (8 pts): 5/8**
+- Call to Response (4): 3/4 — Present, primarily through reflection questions. The direct imperative voice is undersupplied in the prose itself.
+- Equipping for Holiness & Witness (4): 2/4 — Evangelistic urgency is mentioned and modeled by Paul and Carey, but the congregation is not equipped with specific posture, words, or practices for witness. The exhortation to "go" is stated but not equipped.
+
+**Category 6 — Structure & Logical Flow (9 pts): 7/9**
+- Clarity of Outline (4): 4/4 — Three-chapter structure is clear: Pride, Election, Extremes. Each section is well-organized with summary, Scripture, reflection, discussion, and prayer.
+- Progression (3): 2/3 — The three chapters build logically. Ch. 17 diagnoses the heart problem, Ch. 18 grounds it doctrinally, Ch. 19 charts the path between extremes. The William Carey section is the strongest narrative movement.
+- Unity (2): 1/2 — Three chapters with three distinct themes weaken unity. The document reads as a series rather than a single unified message.
+
+**Category 7 — Illustration & Imagination (5 pts): 4/5**
+- Relevance (2): 2/2 — The Carey illustration is excellent and well-grounded in history. The seminary classroom picture in Ch. 17 ("a man walks out of a classroom on the doctrine of God's sovereignty and immediately lords it over everyone") is vivid and real.
+- Clarity (2): 2/2 — Illustrations clarify rather than distract.
+- Memorability (1): 0/1 — No single illustration rises to the level of an image that will be carried home from a Sunday service. The Carey account is narrative rather than pictorial.
+
+**Category 8 — Sermonic Force (5 pts): 3/5**
+- Reads as Preaching (2): 1/2 — The material reads as a study guide, not a sermon. Oral cadence is inconsistent. The bullet-pointed format (True Calvinism produces / False Calvinism produces) is effective for study but loses preaching energy.
+- Conviction on the Page (2): 2/2 — Where the prose opens up, conviction is present. Ch. 17's treatment of theological pride has genuine force.
+- Cadence and Breath (1): 0/1 — Sentence variation is minimal. The format flattens the rhetorical arc.
+
+---
+
+### 6. Cognitive Load Assessment
+
+**Score: −1 (Slightly dense)**
+
+Three doctrinal themes across three chapters, each with its own Scripture list, reflection questions, group discussion, and prayer. The material is accessible to a theologically literate men's group but would overwhelm a new believer or someone unfamiliar with Reformed categories. For a Sunday sermon, this would be a −2. As a men's study guide, it is appropriately scoped, but one fewer concept per chapter would sharpen the takeaway.
+
+---
+
+### 7. Total Score
+
+| Category | Points Earned | Points Possible |
+|---|---|---|
+| Exposition & Hermeneutics | 14 | 25 |
+| Theology & Doctrinal Integrity | 14 | 18 |
+| Gospel Centrality & Force | 7 | 15 |
+| Conscience & Applicatory Force | 8 | 15 |
+| Exhortation & Response | 5 | 8 |
+| Structure & Logical Flow | 7 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 3 | 5 |
+| **Subtotal** | **62** | **100** |
+| Weight of Glory Bonus | +2 | +5 |
+| Cognitive Load Modifier | −1 | — |
+| **Total** | **63** | **105** |
+
+**Fatal flaw cap applies. Score: 63/105**
+
+**Interpretation: Concerning gaps.** The material explains faithfully but does not fully preach. Significant revision needed — primarily in gospel centrality and conscience-level application.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Mostly of Christ in doctrinal categories, but the material does not sufficiently drive the hearer to Christ's person and work as the center. It produces thought about Reformed doctrine more than encounter with the living Savior. *Partially yes.*
+
+2. **Did I encounter God, or just ideas about Him?**
+The Ch. 18 doxological close ("not in a neat system, but on your knees") gestures toward encounter. But the bulk of the material provides information and corrects errors rather than producing awe. *Mostly ideas.*
+
+3. **Was I comforted, convicted, or merely informed?**
+Ch. 17's treatment of theological pride produces genuine conviction for the right reader. Ch. 18 offers some comfort for those struggling with assurance. But the majority of the material is informational. *Informed, with patches of conviction.*
+
+---
+
+### 9. Strengths (Top 3)
+
+**Strength 1 — Theological Courage on Election**
+The document does not soften the doctrine of unconditional election. The direct statement, "Scripture reframes the question entirely: How would it be just for God to choose any?" is exactly the right pastoral move — not apologizing for the doctrine but pressing the fairness objection back to its root. This is the kind of honesty that distinguishes Reformed pastoral writing from popular evangelical fudging.
+
+**Strength 2 — The Carey Illustration (Ch. 19)**
+The William Carey narrative is the strongest moment in the document. "Carey did not believe missions were unnecessary because God is sovereign. He believed missions were unstoppable because God is sovereign." This is memorable, historically grounded, and captures the entire theological argument of Ch. 19 in a single sentence. The historical hedging ("Historians debate the exact wording") is admirable and demonstrates careful-not-clever integrity.
+
+**Strength 3 — Ch. 17 Penetration on Theological Pride**
+"If your theology makes you look down on other believers, your theology hasn't gone deep enough. It has lodged in your intellect but hasn't reached your knees." This line has genuine preaching force. It diagnoses the precise failure mode of many Reformed men — intellectual reception of grace without experiential reception — and does so memorably.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+**Weakness 1 — Christ Is Decorative, Not Central**
+The document mentions Christ in prayers and in passing, but He is not the gravitational center of any chapter. The Synoptic Test is nearly triggered: a devout Jew who believed in sovereign election and was convicted of intellectual pride could follow nearly the entire argument without stumbling over the blood of Christ. Election in Ephesians 1:4 is "in him" — in the beloved Son — but that Christological anchor is never developed. The doctrine of grace without the cross of Christ is incomplete.
+
+**Weakness 2 — Application Stays at the Category Level**
+Every application lands in the same place: "be humble," "evangelize," "hold the tension." These are correct principles. They are not conscience-searching applications. Where is the specific man — the one who silenced a new believer with a Greek word last Sunday, the one who hasn't spoken of Christ to his neighbor in three years, the one who uses "God is sovereign" to avoid the awkward conversation? The document knows the categories of failure but does not corner anyone who lives inside them.
+
+**Weakness 3 — The Genre Problem: This Is a Study Guide, Not a Sermon**
+The bullet lists, reflection questions, group discussion sections, and prayer prompts are excellent study guide features and poor sermon features. The material is pedagogically structured rather than homiletically structured. The result is that the document trains the mind well but misses the moment of direct apostolic address — the "Thus says the Lord" that lands with force and demands a response.
+
+---
+
+### 11. Blind Spots
+
+The author is likely unaware that the document presents the hyper-Calvinist error far more vividly and with more concrete illustration (Carey, the passive pastor) than the Arminian error. Dr. Bloom is a placeholder figure — he "means well" and his error is described in abstract terms. This asymmetry means that Reformed men reading this study are not equally confronted with the specific failure modes of their own tradition versus those of the other.
+
+Additionally, the document does not address the women, the doubters, or the suffering in the congregation. It is explicitly a "Reformed Baptist Study for Men Walking in Truth and Grace" — which is a legitimate scope — but even within that scope, there is no address of the man who is theologically correct but spiritually dry, or the man whose election provides him with assurance rather than urgency.
+
+---
+
+### 12. Illusion of Strength
+
+The Spurgeon quotations feel like the document's strongest moments. They are strategically placed and well-chosen. But they carry a risk: Spurgeon's authority is doing theological work that the author's own exposition has not done. When Spurgeon says "That God predestines, and yet that man is responsible, are two facts that few can see clearly," it feels like the tension has been resolved — but it has only been endorsed by a trusted name. The theological argument for how sovereignty and responsibility cohere remains undeveloped in the document's own voice.
+
+---
+
+### 13. Missed Opportunity
+
+Romans 11:33-36 is quoted and pointed to as the place where "doctrine is meant to land — not in a neat system, but on your knees." This is the most powerful move in the document. But it passes in two sentences. The doxology of Romans 11 — the natural culmination of the entire doctrinal argument of Romans 9–11 — deserved to be the climactic close of all three chapters, the moment where the preacher kneels the congregation before the mystery of God's sovereign grace. Instead the document ends with a summary chart and a final prayer. The doxological potential of the text was named but not entered.
+
+---
+
+### 14. Surgical Fixes (4)
+
+1. **Anchor each chapter to a single governing text.** Ch. 17 should be driven by 1 Corinthians 4:7 as its thesis. Ch. 18 should be driven by Romans 9:14-16 as its governing argument. Ch. 19 should be driven by Romans 10:14-15 as its commissioning text. Currently, multiple texts are listed as supports; none governs. Restructure so that every point arises from and returns to the one text.
+
+2. **Insert a gospel proclamation section in each chapter.** At minimum, Ch. 18 (on election) must explicitly state that election is "in Christ" (Eph. 1:4), that the ground of our standing before God is Christ's righteousness imputed, and that election produces assurance precisely because it rests on Christ's finished work and not our own. Without this, the doctrine of election can produce assurance that is grounded in divine decree rather than in union with Christ's person — which is a subtle but dangerous drift.
+
+3. **Corner a specific sinner in Ch. 17.** After the list of true vs. false Calvinism, insert a direct address: "Some of you in this room have used the doctrines of grace as a reason to despise your church. You have left a congregation because they weren't Reformed enough, and you felt nothing but relief. That is not the fruit of sovereign grace — that is the flesh in a theological suit. And the doctrines you claim as your trophies condemn you." This kind of specific, searching direct address is currently absent.
+
+4. **End Ch. 19 (and the whole document) with the Romans 11 doxology as proclamation, not as illustration.** Preach the text. Let the congregation stand inside "Oh, the depth of the riches and wisdom and knowledge of God!" — not as a quotation used to close an argument, but as the place the whole study has been driving toward. The document should land the congregation on their knees, not in their notebooks.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**TRIGGERED — PARTIAL**
+
+The document is not dead. Ch. 17's treatment of theological pride has genuine heat, and the Carey narrative in Ch. 19 has life. But the overall pattern triggers the dead orthodoxy diagnostic: theology scores high (14/18) while gospel centrality scores low (7/15). The material knows its doctrine and presents it without pastoral fire at the level the rubric requires. The correct theology is present; the cross-centered flame that should ignite it into proclamation is largely absent.
+
+> "This material is doctrinally sound but insufficiently Christ-centered at its core. The doctrines of grace are well-defended and the dangers well-identified, but the cross of Christ — the only ground on which grace stands — is assumed rather than proclaimed. A study that explains why pride is wrong without repeatedly driving men to the blood that covers it has not yet become preaching."
+
+---
+
+### 16. Weight of Glory Statement
+
+The document carries genuine doctrinal weight and occasional pastoral warmth, but it has not yet broken through to the eternal gravity that makes a man want to kneel — it informs and corrects where it should also wound and heal.
+
+**Weight of Glory Bonus: +2/5**
+
+---
+
+### 17. Rubric Fit Note
+
+This rubric is designed for expository sermon manuscripts. This document is a thematic men's study guide — a hybrid of commentary, discussion curriculum, and devotional material spanning three related chapters. The rubric strains at several points:
+
+- The Berean Gate cannot be cleanly applied because there is no single governing text.
+- The Sermonic Force category penalizes study-guide formatting that is entirely appropriate for this genre.
+- The Cognitive Load Modifier is calibrated for a single sermon; a multi-chapter study guide is by design denser.
+
+**The rubric is applied with these adjustments:** Genre allowances are made for structure, format, and cognitive load. The theological, gospel, and conscience categories are applied without adjustment, as they measure faithfulness regardless of genre.
+
+**Bottom line:** This is a strong study guide. It is a weak sermon. If the intent is a Sunday proclamation, significant reconstruction is needed. If the intent is a men's group curriculum, the score should be read accordingly — and the primary concern remains: Christ must be proclaimed, not assumed, in any genre of Christian teaching.

@@ -58,3 +58,188 @@ I reject the false prosperity gospel, and the selfishness inherent to it. I reje
 All of that starts with the real and true gospel of scripture. 
 
 Gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Righteous Polemic That Never Preaches the Passage**
+
+---
+
+### 2. One-Sentence Summary
+A doctrinally motivated and pastorally impassioned refutation of the prosperity gospel that uses Luke 9:57–62 as a launching pad rather than its subject, resulting in a strong critique of false teaching and almost no exposition of the actual text — which contains one of Scripture's sharpest calls to the cost of discipleship.
+
+---
+
+### 3. Berean Gate Result
+**FAIL — narrowly but definitively.**
+
+*Scopus Test:* Luke 9:57–62 is a discipleship-cost passage. Three would-be followers approach Jesus; each receives a response that cuts off comfortable self-managed discipleship. The passage's main point is: *Following Jesus demands total, immediate, undivided allegiance — and many are unwilling to pay that cost.* The sermon's actual main point is: *The prosperity gospel is false, and here is why.* These are not the same point. The prosperity gospel is used as a launching frame, but the sermon never opens the three exchanges in the text, never exegetes Jesus' actual words to the three men, and never exposes the heart conditions each represents. The passage is cited twice as a proof-text ("Foxes have dens...") rather than expounded as a text.
+
+*Authority Test:* The preacher does not stand above the text as editor — he simply has not opened the text at all. The sermon is not heretical; it is hermeneutically absent.
+
+**However, given the Berean Gate failure, the protocol is to stop and report:**
+
+> "This sermon is not text-driven. The main point of the sermon does not arise from the main point of the passage. No score is assigned under strict protocol. The sermon must be rebuilt from the text, not decorated with it."
+
+**Out of pastoral usefulness, a diagnostic scoring continues below** — because the sermon has real strengths and the preacher deserves specific, actionable feedback, not just a gate-stop. The score is clearly marked as conditional on the gate failure and should not be read as a passing grade.
+
+---
+
+### 4. Fatal Flaw Flags
+**Multiple flags triggered. Score capped at 69 (conditional scoring only).**
+
+- **Fatal Flaw #2: Main point does not equal text's point.** The text's point is the radical, total cost of following Christ. The sermon's point is a five-part refutation of the prosperity gospel. These overlap thematically but are not the same argument.
+- **Fatal Flaw #4: Application is entirely generic.** The David Platt questions at the end (comfort vs. cross, maintenance vs. mission, indecisive vs. undivided heart) are pre-packaged and disconnected from the specific text. No hearer is addressed at their particular point of half-commitment or delay.
+- **Fatal Flaw #5: No actual exhortation.** The three men in the passage are never named, never opened, never pressed into the congregation's hands as mirrors. The sermon ends with a quotation from David Platt and a statement of personal resolve ("I hope my life reflects...") rather than a summons directed at the people. The "Gospel." note at the end is again a placeholder, not a proclamation.
+
+---
+
+### 5. Score Breakdown (Conditional — Gate Failure Noted)
+
+**1. Exposition & Hermeneutics — 6/25**
+- *Textual Fidelity (10):* 3/10. The passage is referenced but not opened. The three encounters — the eager volunteer (v.57–58), the called disciple who wants to bury his father (v.59–60), and the man who wants to say goodbye (v.61–62) — receive zero individual treatment. Each of those exchanges has exegetical depth: the "let the dead bury their own dead" saying, the plowing metaphor, the eschatological urgency. None of it is touched. The text is deployed twice as a proof-text against prosperity, not expounded as a word about discipleship.
+- *Contextual Awareness (5):* 2/5. The preacher notes Jesus is on his way to Jerusalem heading for the cross (v.39 paragraph). That is a strong contextual observation. It is brief and underdeveloped but present.
+- *Exegetical Clarity (5):* 1/5. No exegetical work is done on the passage's actual vocabulary or structure.
+- *Logical Faithfulness (5):* 0/5. The FCF of this passage — the human tendency to offer conditional, managed, self-preserving discipleship rather than total surrender — is never named. The sermon's argument is organized around five points against the prosperity gospel, not around the text's own argument.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+- *Christ-Centeredness (7):* 4/7. Jesus' journey to the cross is mentioned and is theologically important. The Solas are stated at the close. Christ is present in the sermon, though primarily as counterevidence to prosperity theology.
+- *Redemptive-Historical Awareness (3):* 3/3. The treatment of the Abrahamic covenant is the sermon's strongest theological section — the double-fulfillment framework (immediate land promise vs. messianic fulfillment), the mountain/Mt. St. Helens illustration, and the insistence that the covenant's heart is relational rather than material. This is above-average theological handling.
+- *Doctrinal Precision (4):* 3/4. The refutation of prosperity theology is doctrinally sound. The treatment of faith ("any theology that views faith chiefly as a means to material gain rather than justification before God must be judged inadequate at best and heresy at worst") is precise and well-stated. The Spurgeon and Thomas Brooks quotations are well-chosen.
+- *Confessional Alignment (4):* 2/4. The five Solas are stated — appropriately. The anthropological statement ("there is only one thing that we deserve: an eternity in punishment for our life spent sinning") is theologically correct and notably direct. No confessional contradictions present.
+
+**3. Gospel Centrality & Force — 5/15**
+The gospel is again the word "Gospel." appended to the end. The cross is mentioned in the context of Jesus' journey, and the Solas are stated — but justification is not explained, the atonement is not proclaimed, and no one is told how to be saved. One paragraph approaches gospel terrain (sin, deserving punishment, grace), but it is deployed polemically against the prosperity gospel rather than as proclamation. The woman dying of pancreatic cancer and being "in glory with her Savior" is the closest the sermon gets to genuine gospel comfort — and it is genuinely moving.
+
+**4. Conscience & Applicatory Force — 5/15**
+- *Heart Penetration (5):* 2/5. The cancer story is emotionally honest and the question "those of you who know your Bibles, know there is only one thing we deserve?" is direct and conscience-pressing. These are the sermon's best pastoral moments.
+- *Specificity (5):* 1/5. Application remains general. The David Platt questions are borrowed and pre-formed rather than textually native.
+- *Spiritual Differentiation (5):* 2/5. The sermon implicitly addresses the prosperity-gospel-adjacent hearer. It does not address the earnest seeker who is counting the cost, the backslider who once committed and withdrew, or the unconverted.
+
+**5. Exhortation & Response — 2/8**
+The closing section (David Platt's three questions, the personal confession, the Solas) functions as a mild exhortation but is addressed in first person plural ("we") and reports the preacher's own commitments more than it summons the congregation. The congregation is not told what to *do* with Luke 9:57–62.
+
+**6. Structure & Logical Flow — 4/9**
+- *Clarity of Outline (4):* 2/4. The five-point structure against the prosperity gospel is stated explicitly, which gives the sermon an apparent shape. However, the five points are not derived from the text, and the sermon oscillates between the five points and the biblical text without clear transitions.
+- *Progression (3):* 1/3. The sermon opens with a polemic against prosperity theology, moves to the five points, then briefly pivots to Luke 9:23 and the cross — but this pivot is not integrated into the earlier structure. The closing Platt quotation feels appended rather than earned.
+- *Unity (2):* 1/2. Two sermons are partly present: a refutation of the prosperity gospel, and a call to costly discipleship. Neither is fully preached.
+
+**7. Illustration & Imagination — 3/5**
+The Mt. St. Helens double-fulfillment illustration is memorable, theologically apt, and surprisingly effective. The cancer story is genuinely pastoral. The cousin demanding a yellow Volkswagen is sharp and memorable. The Copeland/Dollar/Avanzini specific names and quotes lend credibility. These are good illustrative instincts. Score: 3/5.
+
+**8. Sermonic Force — 3/5**
+The preacher's pastoral voice is direct, warm, occasionally sharp ("Sorry this is a pet peeve of mine"). The refutation of prosperity theology reads with genuine conviction. The cancer story is handled with real pastoral weight. The closing lacks climactic force. Score: 3/5.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+
+The sermon is generally accessible. The five-point structure helps tracking. However, the sermon covers significant ground — Abrahamic covenant, double-fulfillment hermeneutics, new thought movement history, five distinct prosperity gospel errors, Luke 9, Luke 9:23, and the Solas — with relatively little development at each point. One fewer concept and deeper development of the text would improve both clarity and retention.
+
+---
+
+### 7. Total Score (Conditional)
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 6 | 25 |
+| Theology & Doctrinal Integrity | 12 | 18 |
+| Gospel Centrality & Force | 5 | 15 |
+| Conscience & Applicatory Force | 5 | 15 |
+| Exhortation & Response | 2 | 8 |
+| Structure & Logical Flow | 4 | 9 |
+| Illustration & Imagination | 3 | 5 |
+| Sermonic Force | 3 | 5 |
+| **Subtotal** | **40** | **100** |
+| Weight of Glory (bonus) | +2 | +5 |
+| Cognitive Load Modifier | −1 | — |
+| **TOTAL** | **41** | **105** |
+
+**Conditional Score: 41/105 — Berean Gate failed. Sermon must be rebuilt from the text.**
+
+The score reflects what the sermon actually is: a doctrinally earnest and partially effective polemic against false teaching that uses Luke 9:57–62 as ambient justification rather than as its subject. The theological material is more developed than Luke 8; the expositional engagement is equally absent.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Primarily the problem of prosperity theology. The sermon is oriented around a doctrinal error to be refuted rather than a vision of Christ to be embraced. Christ is present as counterevidence and as destination of the Jerusalem journey, but he is not the sermon's gravitational center.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas — and ideas about *other people's wrong ideas*. The cancer story and the brief reference to the cross are the sermon's moments closest to encounter. The predominant experience is receiving a doctrinal lecture against a specific heresy.
+
+3. **Was I comforted, convicted, or merely informed?**
+Primarily informed. The congregation receives a thorough and largely accurate critique of prosperity theology. The cancer story provides comfort. There is insufficient conviction — the sermon never corners any person in the room with the text's actual challenge (are *you* delaying discipleship? Are *you* holding something back?).
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Abrahamic covenant treatment (paragraph 22–25):** The double-fulfillment framework using the Mt. St. Helens mountain illustration is theologically solid, well-illustrated, and memorable. The conclusion — "that covenant, for us, isn't about wealth. It's about knowing our Savior. Having a relationship with the God of the universe!" — is genuinely well-stated and represents the sermon's strongest expositional/theological moment.
+
+2. **The cancer story (paragraph 37):** This is the sermon's pastoral apex. The specificity (three children, two under 12, pancreatic cancer, praying earnestly and God saying no), the theological grounding ("No was the best way, the best news, the best result for her — to be in the presence of her Savior"), and the emotional honesty make this the most powerful section of the manuscript. This is what a pastor sounds like.
+
+3. **The anti-prosperity-gospel polemic as a whole:** The preacher names names, quotes sources (Avanzini, Copeland, Dollar, Emerson), and handles each point with doctrinal precision. The statement "any theology that views faith chiefly as a means to material gain rather than justification before God must be judged inadequate at best and heresy at worst" is well-constructed. This sermon would be genuinely useful to a congregation steeped in or attracted to prosperity teaching.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The text is never preached.** Luke 9:57–62 contains three of the most devastating discipleship sayings in the gospels. Man one: Jesus tells an eager volunteer there is no home, no security, no comfort on this road — "the Son of Man has nowhere to lay his head." Man two: Jesus tells a dutiful son that the mission of the kingdom cannot wait for the customs of this age — "let the dead bury their own dead." Man three: Jesus tells a sentimental half-follower that no one who puts his hand to the plow and looks back is fit for the kingdom of God. None of these three exchanges is opened, applied, or pressed into the conscience. The passage is the most important thing about this text, and it is not preached.
+
+2. **"Gospel." is still a placeholder.** As with Luke 8, the gospel is a single word at the end of the manuscript. The Solas are stated — which is better than nothing — but stating the five Solas is not the same as proclaiming the gospel. The One whose cross is mentioned en route to Jerusalem, whose blood is the ground of all five Solas, is never presented as the answer to the hearer's need. An unconverted person sitting in this room would leave knowing the prosperity gospel is wrong and not knowing how to be saved.
+
+3. **The three figures in the text are never brought before the congregation as mirrors.** The preacher says "secondly I want you to notice vs. 57" — but what follows is not an opening of that verse; it is a note about Jesus' direction of travel. The three men — the eager volunteer, the dutiful-but-delayed disciple, the affectionate-but-divided follower — are the text's three diagnostic portraits of common discipleship failures. They are present in the passage and entirely absent from the sermon. Each one is a mirror that could be held up to the congregation with "Which of these three are you?"
+
+---
+
+### 11. Blind Spots
+
+The preacher does not appear to see how fundamentally the sermon has been organized around what he is *against* rather than what the text *says*. The prosperity gospel refutation is entirely earned and right — but the passage was selected to preach the cost of discipleship, not to refute heresy. The result is that the very people in the congregation who are struggling with half-hearted discipleship, who are delaying, who are looking back — the exact people Luke 9:57–62 is addressed to — are never confronted by the text's own word. The polemic, however accurate, functions as a theological buffer between the text and the hearer's conscience.
+
+There is also a blind spot on the sermon's implicit audience: the sermon speaks primarily to people who already reject prosperity theology. For people sympathetic to that teaching, the tone (pet peeve, "test this nonsense") may close ears before the argument opens them.
+
+---
+
+### 12. Illusion of Strength
+
+The five-point structure creates the impression of methodical, thorough exposition. Each numbered point feels like progress through a biblical argument. But the five points are not the text's five points — they are the preacher's five objections to a different theological system. The structure is real; it is simply not the structure of Luke 9:57–62. A hearer could leave feeling they received a well-organized expositional sermon on this passage when they actually received a well-organized doctrinal lecture alongside it.
+
+---
+
+### 13. Missed Opportunity
+
+The "let the dead bury their own dead" saying (v.60) is one of the most shocking statements Jesus ever made — arguably more offensive to its original hearers than the cross saying in v.23. In Jewish culture, burying your father was among the highest and most sacred obligations possible. Jesus says: the kingdom comes first. Not even this. This saying alone could anchor an entire section on what total allegiance looks like versus the comfortable, self-managed discipleship the prosperity gospel actually trains. The irony is precise: prosperity theology's version of discipleship produces exactly the kind of follower Jesus refuses — the one who says "I will follow you, but let me first..." The passage and the polemic are made for each other, but only if the passage is actually preached.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Preach all three encounters as the sermon's spine.** Each of the three men in vv.57–62 represents a distinct category of discipleship failure: the overconfident volunteer who hasn't counted the cost; the dutiful-but-delayed disciple who lets good obligations crowd out the supreme one; the affectionate-but-divided follower who cannot stop looking back. Structure the sermon around these three encounters. The prosperity gospel refutation fits naturally inside point one (the eager volunteer who expects comfort and gain) — it does not need to be separated from the text.
+
+2. **Use the journey to Jerusalem as the theological hinge, not an afterthought.** The single best theological insight in this sermon ("Jesus is on his way to Jerusalem — he is heading for the cross; is that comfortable, healthy, or prosperous?") appears in one paragraph near the end. This is the sermon's heart and should be its spine. The text's Christological context — that Jesus is calling these men to follow him on the road to Golgotha — transforms every "I will follow you, but..." into a refusal of the cross. Preach that from the opening.
+
+3. **Write a genuine gospel proclamation, not a placeholder.** The Solas are a good skeleton. Put flesh on them: *Christ followed the road to Jerusalem all the way to the cross. He had nowhere to lay his head because he was walking toward having nails through his hands. He did not come to give you comfort — he came to give you himself. His poverty is your wealth, his death is your life, his rejection is your acceptance.* That is a gospel. Preach it at the close.
+
+4. **Let the three men ask the congregation directly: "Which one are you?"** After opening each exchange, pause and differentiate: the eager-but-uncounted-cost follower (possibly the new convert or the emotionally moved); the man caught between obligation and allegiance (the person whose family, job, or comfort is the real lord of their schedule); the man who has started and keeps looking back (the backslider, the one who made a profession and drifted). Perkins' taxonomy is embedded in the passage itself — use it.
+
+5. **Move the prosperity gospel material to its natural location (point 1) and shorten it.** The five-point structure is solid. Compress it to two or three sharper points, integrate it into the sermon's textual structure, and return to the passage at each point. The goal is to let the text judge prosperity theology, not to use the text as permission to judge it from outside.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — but an adjacent concern is present. The sermon's theological instincts are sound and the preacher's pastoral warmth is genuine. The risk is not dead orthodoxy but displaced orthodoxy: correct doctrine preached next to the text rather than from it. The fire is present; it needs to be lit by the passage, not by the preacher's (entirely justified) doctrinal frustrations.
+
+---
+
+### 16. Weight of Glory Statement
+The cancer story carries genuine eternal weight — the preacher momentarily stands in the presence of a woman now before her Savior, and the congregation feels it; but the sermon as a whole does not sustain that gravity, and the text's own staggering call ("let the dead bury their own dead... no one who puts his hand to the plow and looks back is fit for the kingdom of God") — which carries enormous eschatological weight — is never sounded. **Bonus: +2/5.**
+
+---
+
+### 17. Rubric Fit Note
+Luke 9:57–62 is a controversy/discipleship-call passage — dialogue-driven, with each exchange functioning as a distinct saying of Jesus. This genre is well-served by the rubric's emphasis on FCF, conscience categories, and Perkins' taxonomy. The passage maps almost perfectly to those diagnostic tools: three distinct hearer types, three distinct discipleship failures, three distinct confrontations. The rubric does not strain here — it fits precisely. The passage's genre calls for sharp dialectical preaching: expose the half-commitment, name the specific obstacle, press the claims of the kingdom. That is exactly what this rubric rewards. The sermon missed the genre match, not the rubric.

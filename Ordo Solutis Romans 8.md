@@ -46,3 +46,211 @@ Sanctification starts at the moment of salvation but continues the rest of our l
 There is more that we could say on this, and there are hundreds of books, and multiple lists of just what happens and in what order at the moment of salvation. The most important part is that God loved us enough to do any of this in the first place. Just like that messy little baby. In years past, I have heard preachers say “no one would throw away that baby just because he was messy” but that’s not true today. So I’ll say this, no loving parent would throw away their baby just for being messy. It takes a lot more than a mess of spaghetti to break that parent child relationship, and it takes more than being a mess to end up in hell. We are all a mess. Our compasses are broken, our hearts are deceitful, and as a result were like that little dog on the bottom of the canal underwater lost and confused. But God being rich in mercy, because of his great love for us sent his son to pay the price for our sins. 
 
 Gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Warm-Hearted Survey with a Hollow Expositional Core**
+
+---
+
+### 2. One-Sentence Summary
+A pastoral and accessible introduction to the ordo salutis that generates genuine warmth and doctrinal awareness while failing to exposit Romans 8 itself, displacing the text's own argument with a BFM catechism walk-through.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: FAIL**
+
+The sermon's stated thesis — "here is what salvation involves, per the Baptist Faith and Message" — does not arise from the main point of Romans 8:26–30. The passage's dominant argument is the Spirit's intercessory work amid weakness, God's sovereign purpose working all things together for good, and the golden chain of predestination-calling-justification-glorification as assurance for suffering saints. The sermon does not exposit that argument. It uses the passage's vocabulary as a catalogue and then largely abandons the text in favor of reading the BFM Article IV aloud.
+
+**Authority Test: MARGINAL PASS (with reservation)**
+
+The preacher is not editing or softening the text — he is simply not really preaching the text. He stands as a teacher of the BFM using Romans 8 as a proof-text scaffolding, not as a herald standing under the text's own claim.
+
+**Gate Decision: The sermon does not pass the Scopus Test cleanly. The main point of the sermon is not the main point of Romans 8:26–30. However, in charity, the text is not weaponized or distorted — it is simply bypassed. The evaluation continues with the fatal flaw flags active.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 2 — TRIGGERED: Main point does not equal text's point.**
+Romans 8:26–30 is a text of assurance for groaning saints. Its main point is: the Spirit intercedes for our weakness, and God's sovereign, predestining purpose secures the glorification of everyone He calls. The sermon's main point is: here are five doctrinal categories of salvation from the BFM. These are related but not the same. The sermon uses the text as a term-bank, not as an argument.
+
+**Flag 4 — TRIGGERED: Application is entirely generic.**
+The sermon produces no specific call. "God loved us enough to do this" is true but is the conclusion of every sermon ever preached. No hearer is cornered. No conscience is addressed by name. No differentiated address (to the doubter, the proud moralist, the long-time believer drifting in sanctification) is made.
+
+**Flag 5 — TRIGGERED: No actual exhortation.**
+The sermon ends at "Gospel." — literally a single word. There is no "therefore" moment. No one is told what to believe, repent of, pursue, or do. The congregation was informed but never summoned.
+
+**Score is capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 10 / 25**
+
+- Textual Fidelity: 4/10. The passage is quoted but not unpacked. Romans 8:26–27 (the Spirit's intercession) receives one sentence. Romans 8:28 (all things for good) is mentioned but not exposited. Romans 8:29–30 (the golden chain) is treated as a word-list, not as a covenantal argument. The FCF — the specific condition of weakness and groaning that the text addresses — is named in passing ("Paul calls us weak") but never developed as the theological bridge to application.
+- Contextual Awareness: 2/5. No placement of Romans 8 in the wider argument of Romans (the answer to chs. 6–7, the Spirit-flesh contrast, the adoption theme). No awareness of the suffering context (vv. 18–25) that precedes the passage.
+- Exegetical Clarity: 2/5. No Greek engagement. The passage's own logic (the groaning of the Spirit, the "what to pray" problem, the "according to God's will" clause) is untouched.
+- Logical Faithfulness: 2/5. The doctrinal content is not wrong, but it is imported (from the BFM) rather than discovered (from the text). This is catechetical instruction, not expository preaching.
+
+**2. Theology & Doctrinal Integrity — 13 / 18**
+
+- Christ-Centeredness: 5/7. Christ's work is genuinely central, including penal substitution named explicitly. The fall, sin's corruption, and the cross are presented. Points lost for the connection being asserted rather than arising organically from Romans 8.
+- Redemptive-Historical Awareness: 1/3. No awareness of where Romans 8 sits in the redemptive arc. The creation-groaning context (vv. 19–23) is absent.
+- Doctrinal Precision: 4/4. No sloppy theology found. Penal substitution is named and briefly explained. The total inability of man is repeatedly and clearly affirmed. The monergism of salvation is present.
+- Confessional Alignment: 3/4. The BFM is actually read aloud, which is confessionally grounding. Minor concern: the BFM language ("sinners who repent and believe") is read without clarifying that the repentance and faith themselves are gifts (which is implied in the BFM but not highlighted here).
+
+**3. Gospel Centrality & Force — 9 / 15**
+
+- Clarity of the Gospel: 3/5. The gospel is present — fall, sin, Christ's substitution, resurrection, redemption. But it is stated rather than proclaimed. There is no moment where the gospel is driven home as the hearer's only hope in this moment.
+- Necessity of Christ: 4/5. The sermon is not moralistic. Christ is clearly necessary and not merely helpful.
+- Cross-Centered Gravity: 2/5. The sermon moves toward doctrine about the cross, not toward the cross itself. "We owed a debt we couldn't pay" is quoted but not preached. No moment where the cross lands with weight on the congregation.
+
+Synagogue Test: Would a synagogue attendee be offended? Marginally — the cross is named. But the sermon's tone is so survey-like that the offense of Christ crucified is muted. The gospel is decoration here more than proclamation.
+
+**4. Conscience & Applicatory Force — 6 / 15**
+
+- Heart Penetration: 2/5. The illustrations (the dog, the spaghetti baby, the compass) are genuinely creative and humanizing. But they open doors the sermon never walks through. The dog illustration lands on "God rescues us" without pressing: Do you know this rescue? Have you received it?
+- Specificity: 2/5. No specific application to this congregation's situation. No differentiated address.
+- Spiritual Differentiation: 2/5. The sermon addresses a single undifferentiated audience of people who may need to know what salvation is. The backslider, the sanctification-weary believer, the person drifting in assurance — all are absent.
+
+Perkins' hearers addressed: Category 2 (ignorant but teachable) only. Six of seven categories untouched.
+
+**5. Exhortation & Response — 2 / 8**
+
+- Call to Response: 0/4. There is no call to response. The sermon ends. The word "Gospel." appears as a period, not a summons.
+- Equipping for Holiness & Witness: 2/4. The missions prayer section (Nosu people group) is genuinely equipping for witness — that is a real strength. But this is introductory material, not the sermon's conclusion.
+
+**6. Structure & Logical Flow — 6 / 9**
+
+- Clarity of Outline: 2/4. The BFM provides skeleton structure but the sermon wanders. The dog illustration appears before the passage is even read. The spaghetti illustration is explained at length but returns to a general point. The compass illustration appears after the dog and before the BFM reading without clear transitional logic.
+- Progression: 2/3. There is a general movement from problem (sin) to solution (salvation categories), but the structure meanders.
+- Unity: 2/2. One dominant idea is present: salvation is God's work in several stages. This holds.
+
+**7. Illustration & Imagination — 4 / 5**
+
+- Relevance: 2/2. The illustrations are genuinely native to this congregation — personal family stories, children's videos, a teenage adventure book. These are not pulpit-illustration-book material. That is a real strength.
+- Clarity: 1/2. The dog illustration works well. The spaghetti illustration is extended past its effective length. The compass illustration competes with the dog illustration rather than adding distinct light.
+- Memorability: 1/1. The dog-that-can't-swim will be remembered.
+
+**8. Sermonic Force — 4 / 5**
+
+- Reads as Preaching: 2/2. The oral register is strong throughout. This manuscript sounds like a man talking, not an essay. Sentence length varies naturally. Direct address is present.
+- Conviction on the Page: 1/2. The conviction is pastoral warmth, not prophetic weight. There are no roaring sentences. The Jonathan Edwards quotation is the single sharpest moment.
+- Cadence and Breath: 1/1. Natural rhythm throughout. The preacher has a genuine voice.
+
+---
+
+### 6. Cognitive Load Modifier: 0
+
+The sermon is accessible. An average church member, new believer, or high schooler can follow it without difficulty. No technical overload.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 10/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 6/15 |
+| Exhortation & Response | 2/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **54/100** |
+| Weight of Glory (bonus) | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **56** |
+| **Cap applied (Fatal Flaw Flags 2, 4, 5)** | **Score capped at 69** |
+| **Reported Score** | **56 / 100** |
+
+**Interpretation: Fundamentally flawed. Rebuild from the text.**
+
+(Note: The cap is academic here — the raw score falls below the cap floor. The fatal flaw flags confirm and explain the low score rather than artificially suppressing a higher one.)
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily of doctrine about Christ. Not quite of Christ Himself.
+2. **Did I encounter God, or just ideas about Him?** Ideas about Him. The sermon teaches truths without creating encounter.
+3. **Was I comforted, convicted, or merely informed?** Informed, with warmth. Not convicted. Comfort is gestured at but not delivered.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Genuine, native illustrations.** The drowning dog, the spaghetti baby, and the broken compass are drawn from actual life, not illustration databases. They are memorable, appropriately self-deprecating, and warm. The congregation will remember the dog.
+2. **Clear doctrinal integrity on total inability.** The sermon is relentlessly clear that man contributes nothing to salvation. The Edwards quotation ("the only thing man contributes to his salvation is the sin that makes it necessary") is precisely placed and powerfully true.
+3. **Missions integration.** The Nosu people group section, whatever one thinks of its sermonic placement, is genuine — it roots the congregation in global gospel concern, ties prayer to specific human need, and models missional awareness. Most congregations never see that in a sermon.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The text is not preached — it is referenced.** Romans 8:26–30 contains one of the most pastorally charged arguments in all of Scripture: the Spirit intercedes for weakness; suffering saints are held by sovereign purpose; the golden chain is assurance for the groaning. None of this is opened. The passage is a vocabulary list here, not an argument.
+2. **No exhortation — the sermon ends at "Gospel."** This is not a closing — it is an abandonment. The congregation was walked through five doctrinal categories and then left standing on the threshold without being told what to do with any of it. The sermon informs but never summons.
+3. **No conscience-searching application.** The illustrations build genuine connection but are never leveraged for conviction. The dog-that-sank becomes a metaphor for all humans — but no one is ever asked: are you still on the bottom of that canal? Have you been rescued? What does that rescue require of you now?
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the BFM walk-through, however helpful catechetically, has displaced Romans 8 from the sermon. He may believe he has preached Romans 8 because he read it and used its vocabulary. But reading a passage is not preaching it. The text's own emotional and pastoral weight — the Spirit groaning for our weakness, God securing the glorified future of suffering saints — was available and unused.
+
+There is also a structural blind spot: the sermon has a compelling opening (people group, fall, total inability) and a doctrinal middle (BFM categories) but no pastoral conclusion. The preacher may not feel the absence of the ending because the word "Gospel." feels conclusory to him. It is not.
+
+---
+
+### 12. Illusion of Strength
+
+The illustrations create warmth that reads as pastoral force. They are genuinely good illustrations. But the warmth of tone can mask the absence of application. A congregation leaves feeling they like their pastor and have been told true things — and may not notice that nothing was demanded of them. Warmth without exhortation is pastoral comfort without pastoral steel.
+
+Similarly, the doctrinal accuracy (penal substitution named, total inability clearly affirmed, the BFM read carefully) creates the feeling of robust theology. It is robust theology. But robust theology that never moves to conscience-level application and never summons response has not yet become preaching.
+
+---
+
+### 13. Missed Opportunity
+
+Romans 8:26 — "the Spirit helps us in our weakness; for we do not know how to pray as we ought" — is one of the most personally devastating and pastorally glorious verses in the New Testament. The preacher named it ("Paul calls us weak") and immediately moved on. That verse, preached at full weight, would have collapsed the congregation's self-sufficiency and then immediately comforted them with the interceding Spirit who takes our broken prayers and translates them before the Father. That movement — devastation, then comfort — is the pastoral heart of the passage. It was available and entirely unused.
+
+Romans 8:28 — "all things work together for good" — appears in the sermon only in the term-list. This is the verse the grieving widow, the parent of a prodigal, the man who just lost his job, and the teenager facing a diagnosis needs to hear opened, argued, and applied. It received one sentence.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Rebuild the sermon around the text's own argument.** The structure should follow Romans 8:26–30's logic: (a) we are weak and cannot even pray rightly; (b) the Spirit intercedes for us according to God's will; (c) God is working all things together for good for those who are called; (d) that calling is secured from eternity to eternity in the golden chain. The BFM categories can appear as supporting exposition — not as the outline.
+
+2. **Add a "therefore" moment at the conclusion.** After the BFM survey, preach a specific exhortation: "If you are in Christ, the Spirit is praying for you right now in your weakness. Your groaning prayers are not failures — they are interceded for. Therefore, pray. Bring your broken prayers. Bring your wordless groans." That is a summons, not just information.
+
+3. **Differentiate the congregation at the application point.** After the gospel summary, address at minimum three categories: (a) the person who has never received this rescue — "You are still on the bottom of that canal. Christ is standing over you. Today is the day"; (b) the weary believer doubting their assurance — "The chain of Romans 8:29–30 holds you. No link breaks"; (c) the long-time believer drifting in sanctification — "You were set apart to God's purposes. That process has not stalled because you feel it has stalled."
+
+4. **Cut one illustration.** The dog, the spaghetti baby, and the compass are three illustrations for essentially the same point (we are a mess without God). The spaghetti baby is the weakest because it extends longest. Cut it and let the dog and compass carry the weight together.
+
+5. **End with Romans 8, not "Gospel."** The conclusion should land on the text's own final word — glorification — not as a distant abstraction but as the destination of every person in that room who is held in the chain. "You who are called will be glorified. This is not your best life now. This is your best life coming. Live in light of it."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — the score pattern does not meet the dead orthodoxy threshold (that requires high exposition + high theology scores with low conscience scores). Here the exposition score itself is low. This is not dead orthodoxy; it is underdeveloped exposition. The warmth and accessibility of the sermon suggest a pastoral heart present but not yet channeled through the text.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries pastoral warmth and genuine care for the congregation, but it does not yet carry the weight of Romans 8 itself — the eternal gravity of the Spirit interceding in our weakness, of suffering saints held by unbreakable sovereign purpose, is available in the text and absent from the pulpit. +2 of 5 bonus points.
+
+---
+
+### 17. Rubric Fit Note
+
+Romans 8:26–30 is a tightly argued Pauline doctrinal passage with deep pastoral intent — it is precisely the kind of text this rubric is built to evaluate. No genre strain. The rubric fits this passage well and the evaluation is reliable. The sermon's core problem is not genre mismatch but a decision to survey the BFM rather than inhabit the text.

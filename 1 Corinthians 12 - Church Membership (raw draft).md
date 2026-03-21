@@ -157,3 +157,197 @@ All of that starts with Romans 3:23. Open there with me — prepare to close. Le
 - **Dhangar of India statistics** ⚠️ — ~3 million population, ~0.04% Christian. Verify against current Joshua Project or IMB data before reuse.
 - **Southeastern Seminary / IMB reference** — The unnamed seminary friend described as "pastor of one of the biggest churches in our denomination" and "head of the international missions board" was not named by the preacher and should not be named in any published version. The lexical record in the sermon map has the identification.
 - **No other direct Scripture misquotes identified.** This sermon is overwhelmingly application and illustration with very few direct quotations.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Warm Pastoral Heart, Thin Expository Spine — The Text Serves the Topic Rather Than Governs It**
+
+---
+
+### 2. One-Sentence Summary
+A genuinely pastoral and relationally warm address on church commitment that draws well from cultural observation and lived experience, while treating the text as an illustration of a predetermined topic rather than the governing authority from which the sermon's argument arises.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with significant qualification.**
+
+Scopus Test: The sermon's thesis — that Christians must be committed members of a local church body — is broadly compatible with 1 Corinthians 12:12–27. The text does teach interdependence within the body. However, the sermon arrives at the text with the topic already determined; the text is then recruited to support conclusions drawn from cultural analysis and pastoral experience. The main point of the text (the unity-in-diversity argument Paul makes to correct a specific Corinthian disorder — the dishonoring and dismissal of weaker members and lesser-honored gifts) is not identical to the sermon's main point (church membership and anti-church-hopping). The sermon passes the gate because the connection is not dishonest — it is just under-developed and mis-weighted.
+
+Authority Test: Pass. The preacher does not soften or reframe the text's claims. He submits to the text's authority. The problem is not rebellion against the text — it is that the text is handled too briefly to know what it demands.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag Triggered: Fatal Flaw #2 — Main point does not fully equal the text's point.**
+The text's own argument in 1 Corinthians 12:12–27 is specifically about how the church must honor and regard as indispensable those members who seem weaker or less honorable — and how God himself has arranged the body so that no division arises and every part cares equally for the others. Paul is correcting Corinthian spiritual hierarchy and gift-snobbery. The sermon uses this passage as a proof-text for local church commitment and anti-church-hopping — a legitimate application, but not the text's primary argument. The sermon proceeds almost entirely from cultural diagnosis and personal illustration, returning to the text only briefly for anchoring. Score capped at 69.
+
+**No additional fatal flaw flags triggered.** The gospel is present (weakly); the sermon is accessible; application exists; some exhortation is present.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+- Textual Fidelity: 5/10 — The passage is read twice, but the sermon does not work through it. The text's own structural argument (vv. 14–20: the error of the inferior member; vv. 21–26: the error of the superior member; v. 27: the application) is never traced. Paul's specific concern — that the Corinthians were treating certain members as unnecessary — is never named as the passage's driving problem. The FCF (Fallen Condition Focus) is present only in its cultural form (church-hopping, consumerism) but not in its textual form (the sin of dismissing weaker members, which is Paul's actual target).
+- Contextual Awareness: 2/5 — No awareness of the Corinthian context (divisions over gifts, the 1 Corinthians 12–14 arc, Paul's corrective purpose). The passage is lifted from its polemical context.
+- Exegetical Clarity: 3/5 — What exegesis appears is accurate and clear, but it is minimal. Greek is not engaged.
+- Logical Faithfulness: 3/5 — The application is logically connected to the text in a general sense; the leap from body-metaphor to anti-church-hopping is not dishonest, but it is not demonstrated from the text's own logic.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+- Christ-Centeredness: 4/7 — Christ is present. "Christ's death binds us together... His resurrection binds us together in hope" is a solid closing salvo. But Christ is not the center of the sermon's gravitational field — the sermon orbits around ecclesiological behavior and cultural criticism. Christ is invoked rather than proclaimed.
+- Redemptive-Historical Awareness: 1/3 — Absent. No awareness of the body-of-Christ language in its redemptive-historical location. The church as the new covenant community, the new humanity, the fulfillment of Israel's unity — none of this is drawn out.
+- Doctrinal Precision: 4/4 — What doctrinal claims are made are accurate. No theological errors detected.
+- Confessional Alignment: 3/4 — Consistent with confessional ecclesiology. The emphasis on local church membership, mutual accountability, and body life is healthy and Baptist. No contradictions.
+
+**3. Gospel Centrality & Force — 7/15**
+- Clarity of the Gospel: 2/5 — Romans 3:23 is gestured at in closing, but the gospel presentation is a stage direction: "(Gospel presentation — congregation reads Romans 3:23 aloud together.)" The sermon manuscript contains no actual gospel declaration. Justification by faith is not articulated. The cross is named but not explained. This is the sermon's most significant structural weakness.
+- Necessity of Christ: 3/5 — Christ is necessary to the argument in the closing lines, but the bulk of the sermon could theoretically be preached (with adjustments) by a thoughtful rabbi or community organizer. Christ is necessary in the conclusion; he is decorative in the middle.
+- Cross-Centered Gravity: 2/5 — The sermon moves toward the gospel at the close but does not build toward the cross. The moral arc (commit to the church, don't be a consumer) is stronger than the gospel arc (you can only truly commit because Christ committed himself to you first).
+
+**4. Conscience & Applicatory Force — 9/15**
+- Heart Penetration: 3/5 — The personal testimony section (the preacher's own season of comfort-seeking) is genuinely penetrating and honest. The "don't we say this to Christ?" pivot from the dating illustration is a strong conscience-engagement moment. But the sermon does not press deeply and specifically into the heart behind church-hopping — the idols of comfort, control, and unaccountability are named but not surgically examined.
+- Specificity: 4/5 — This is a relative strength. The preacher names Brenda, Dalia, Dottie by name. He uses local church specifics. He draws from his own community's experience. The application is grounded in a real congregation, not a hypothetical one.
+- Spiritual Differentiation: 2/5 — The sermon addresses primarily one category: the church-consumer/church-hopper. The believer growing in commitment, the truly burned and wounded (briefly acknowledged but not pastorally distinguished from the consumer), the unbeliever in the room, the faithful member who needs encouragement — these are not differentiated. The sermon has one address: the uncommitted.
+
+**5. Exhortation & Response — 5/8**
+- Call to Response: 3/4 — There is a clear implicit call: commit to this local church body. But it is never stated directly and imperatively. The sermon circles the call without landing it cleanly. There is no "therefore" moment.
+- Equipping for Holiness & Witness: 2/4 — The church-planting vision and evangelism emphasis are healthy and send the church outward. But the equipping is primarily motivational rather than instructional. How does a church member actually live this out this week?
+
+**6. Structure & Logical Flow — 6/9**
+- Clarity of Outline: 2/4 — The sermon has no traceable outline. It flows: story → people group → cultural diagnosis → text → cultural application → text → church-planting vision → gospel. A listener could not sketch this on a napkin. It is an extended pastoral conversation, not a structured argument.
+- Progression: 3/3 — Despite the loose structure, there is genuine forward movement. The sermon does build, and it does not wander without purpose.
+- Unity: 1/2 — Multiple threads (church commitment, evangelism, church planting, giving, anti-consumerism) compete for the dominant idea. The unity is there in spirit but not in execution.
+
+**7. Illustration & Imagination — 4/5**
+- Relevance: 2/2 — The seminary dating story, the church-hopping woman, the shamed giver, the dirty diaper analogy, Brenda and Dalia — all are native to this congregation and this text. This is a genuine strength.
+- Clarity: 1/2 — The illustrations illuminate well but occasionally run long (the dating story takes up the sermon's first third). The dirty diaper and the rebel leg illustrations are crisp and effective.
+- Memorability: 1/1 — The opening dating story will be remembered. "If you don't like Christ's bride, maybe it's really Christ you don't like" will stick.
+
+**8. Sermonic Force — 3/5**
+- Reads as Preaching: 2/2 — This reads like a man talking to his people, not an essay. The voice is warm, pastoral, and oral. Direct address is present.
+- Conviction on the Page: 1/2 — The conviction is social and relational rather than gospel-driven. The preacher is earnest, but the manuscript does not thunder. The strongest assertion in the sermon — "If you don't like Christ's bride, maybe it's really Christ you don't like" — is not developed.
+- Cadence and Breath: 0/1 — The sentence variation is present but the sermon never climaxes sharply. The strongest moments are let go too quickly.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: 0 (no deduction)**
+This sermon is fully accessible. The single mother, the high schooler, and the new believer can all follow it. The cultural illustrations are familiar. The argument is simple. If anything, the cognitive load is slightly low — more depth would serve this congregation.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 13/25 |
+| Theology & Doctrinal Integrity | 12/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **59/100** |
+| Cognitive Load Modifier | 0 |
+| **Raw Total** | **59** |
+| Fatal Flaw Cap Applied | Yes — capped at 69 |
+| **Final Score** | **59/100** |
+
+**Interpretation: Fundamentally flawed — not in heart or pastoral warmth, but in structural relationship between sermon and text. The sermon is a good pastoral address. It is not yet a sermon in the expository sense. Significant revision needed.**
+
+*(Note: The raw score of 59 falls below the fatal flaw cap of 69; the cap does not change the final score but confirms the diagnosis.)*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Mostly myself and my church behavior. Christ is present at the beginning (the rhetorical pivot) and the end (the closing four-line summary and Romans 3:23). But the sermon's center of gravity is behavioral and cultural, not Christological.
+
+2. **Did I encounter God, or just ideas about Him?**
+The sermon produces pastoral warmth and community conviction. It does not produce an encounter with God. God is referenced; He is not met.
+
+3. **Was I comforted, convicted, or merely informed?**
+Moderately convicted — primarily in the cultural and behavioral register. The personal testimony section is the most genuinely convicting passage. But the conviction is sociological more than gospel-driven. The hearer is not cornered before Christ; they are challenged about church attendance.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Genuine pastoral specificity.** Naming Brenda, Dalia, and Dottie by name — acknowledging their faithfulness, their health struggles, their commitment — is exactly how the body-of-Christ passage should land in a local congregation. This is a real strength few published sermons achieve. The application is not abstract; it is Brenda driving in when she doesn't feel well.
+
+2. **The opening illustration works.** The seminary dating story is long, but it earns its length. The pivot — "But don't we, through our actions, say that very thing to Christ? To the bride of Christ?" — is a genuine conscience-moment that connects the relational illustration to the theological reality with economy and force.
+
+3. **The preacher's personal testimony.** The disclosure that "the problem was me" — that in his younger years he elevated comfort and experience over faithfulness — is disarming, honest, and effective. It prevents the sermon from being a lecture at the consumers and locates the preacher inside the diagnosis. This is pastoral integrity on display.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The text is never actually preached.** The passage is read twice, but its argument is never traced. Paul's specific point — that the Corinthians were treating certain members as unnecessary and dishonoring — is not named. The structure of vv. 14–20 (the inferior member's error) vs. vv. 21–26 (the superior member's error) is not touched. The sermon uses the passage as a proof-text for a pre-existing topic rather than deriving its argument from the text's own logic. A listener leaves knowing what the preacher thinks about church membership but not what Paul was actually arguing.
+
+2. **The gospel presentation is a stage direction, not a declaration.** "(Gospel presentation — congregation reads Romans 3:23 aloud together.)" This is a placeholder in a manuscript, not a sermon element. Romans 3:23 tells us the problem (all have sinned); the sermon never provides the solution. Justification, the atonement, faith, the finished work of Christ — none of it is articulated. The four-line closing summary ("Christ's death binds us together... His resurrection binds us together in hope...") is moving but unexplained. An unbeliever in the room does not know how to be saved from this sermon.
+
+3. **The sermon's moral center of gravity eclipses its gospel center.** The dominant message is: commit to your local church, stop church-hopping, stop being a consumer. This is a true and necessary word. But it is issued almost entirely on the basis of relational obligation and cultural critique, not on the basis of the gospel indicatives that ground the imperatives. The pattern should be: because Christ has done this for you (indicative), therefore you must do this for his body (imperative). The sermon largely reverses or bypasses the indicative. The law is applied; the gospel is not preached.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that this sermon, in its current form, is a pastoral conversation about ecclesiology rather than an exposition of 1 Corinthians 12. Because the illustrations are vivid and the application is locally grounded, it can feel like exposition when it is not. The text is doing decorative work here — giving spiritual authority to conclusions already reached by cultural analysis. This is not dishonest, but it is not preaching from the text.
+
+Additionally: the people who have been genuinely wounded by the church (the shamed giver story) are mentioned but not pastorally distinguished from the consumer. They deserve a different address — one that acknowledges the real wounds, names Christ's own faithfulness where his people have failed, and calls them not to return to an institution but to return to the Lord of the church.
+
+---
+
+### 12. Illusion of Strength
+
+The sermon *feels* pastorally strong because of its relational warmth and local specificity. Naming real people, sharing personal testimony, referencing the actual congregation — these are genuine strengths. But they can mask the absence of genuine text-engagement. A congregant might leave feeling known and challenged without having encountered the Word. Pastoral warmth is not a substitute for expository authority; it is most powerful when the exposition has already done its work.
+
+Similarly, the closing four-line summary ("Christ's death binds us together... His resurrection... His Word... His ministry") reads like deep theological weight, but each clause is asserted without explanation. It feels like a climax but it is actually an outline — four undeveloped claims that, if developed, could become the sermon this wants to be.
+
+---
+
+### 13. Missed Opportunity
+
+Paul's argument in vv. 21–26 specifically addresses the person who says to another member, "I have no need of you." This is exactly the posture of the church-hopper and consumer the preacher is addressing — but he never makes the identification explicit from the text. Paul names the sin the sermon is diagnosing. That connection — the consumer in the pew is enacting the very sin Paul confronts in Corinth — would have given the cultural application its expository warrant and transformed the sermon from pastoral commentary into biblical proclamation.
+
+Additionally, v. 26 — "If one member suffers, all suffer together" — is briefly noted but is the text's most emotionally powerful line, and it is the text's own entry into the concrete suffering the preacher references in Brenda and Dalia. The sermon reaches that application (the body caring for its sick members) through illustration; it could have reached it through the text itself, with much greater authority.
+
+---
+
+### 14. Surgical Fixes (Specific)
+
+1. **Derive the sermon's main point from the text's own argument, not from the cultural problem.** Paul's target is not the church-hopper — it is the member who dismisses other members as unnecessary. Name that. Then show how church-hopping is the contemporary expression of the same sin: "I have no need of you." This gives the cultural diagnosis its biblical warrant and transforms the application from opinion into proclamation.
+
+2. **Trace the passage's structure in at least one concentrated section.** Walk through vv. 14–20 (the lesser member's error: "I don't belong") and vv. 21–26 (the greater member's error: "I don't need you") as two distinct errors Paul corrects. Show that Paul is addressing both the person who feels unnecessary and the person who treats others as unnecessary. The church-hopper appears in both: they feel the church doesn't need them, and they treat the church as though they don't need it.
+
+3. **Write out the gospel presentation rather than stage-directing it.** Romans 3:23 diagnoses the problem. The sermon needs at minimum: what Christ did (died for sinners), what God did (justified the ungodly by faith), and what this means for church membership (the cross is the ground of our commitment to one another — we receive one another as Christ has received us). Expand the four-line closing summary into a genuine gospel declaration.
+
+4. **Add a direct pastoral address to the wounded.** "If you've been burned by a church — if someone in a pulpit humiliated you, if the people you thought were family abandoned you — hear me: that was a sin against you, and against Christ. But the cure for a faithless church is not no church. The cure is Christ, and Christ has a body, and that body needs you, and you need it. Don't let someone else's failure write you out of God's design." This honors the wound without excusing the absence.
+
+5. **Sharpen the exhortation to a clean "therefore" moment.** The sermon needs one sentence that functions as the imperative: "Therefore — commit. Join. Stay. Give. Show up when you don't feel like it. Not because this church deserves it. Because Christ's body deserves it. Because he bled for this." The congregation should leave knowing not just what to think but what to do on Sunday morning when their alarm goes off.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** This sermon is not coldly orthodox — it is warm and relationally alive. The gap here is not dead orthodoxy but thin exposition. The fire is present; the text-work is light.
+
+---
+
+### 16. Weight of Glory Statement
+This sermon carries genuine pastoral gravity — God is present in the love for real people by name — but the eternal weight of the passage (the church as the body of the risen Christ, the new-covenant community for whom he died) is glimpsed only at the edges and never fully opened.
+
+**Weight of Glory score: +2/5** (pastoral presence and relational warmth earn the partial credit; the unexplored Christological and redemptive-historical depth of the passage hold back the rest)
+
+**Adjusted Final Score: 61/100**
+
+---
+
+### 17. Rubric Fit Note
+This rubric is well-suited to this passage. 1 Corinthians 12 is didactic New Testament prose with a clear argument, specific application, and direct imperatives — exactly the kind of text this framework evaluates most cleanly. No genre stress. The rubric's demands for expository fidelity, gospel centrality, and conscience engagement are fully appropriate here. The passage is rich enough to reward every category; the sermon's gaps are not a rubric artifact but a genuine diagnostic finding.

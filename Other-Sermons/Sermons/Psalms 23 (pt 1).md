@@ -141,3 +141,218 @@ Also keep us in prayer. Through the week, every time you think of one of us, or 
 Time of prayer for the hurricane victims. Short. God controls the elements, the wind and the rain, and the storms are under his control. Pray that he would spare texas from more rain for a time so they can recover and rebuild. Praise him for the opportunity to share the gospel with those affected by the storm. 
 
 Communion
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Pastoral Warmth with a Borrowed Framework: Moralistic Scaffolding Around a Neglected Text**
+
+### 2. One-Sentence Summary
+A sermon that uses Psalm 23:1 as a launching pad for a four-fold catalog of sins while largely failing to preach the text's own declaration — that the Lord as Shepherd is the ground of all sufficiency.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: FAIL (marginal pass to proceed with evaluation, score cap applied)**
+
+The text's own thesis is "The LORD is my shepherd; I shall not want." The main claim is covenantal: the identity of the Shepherd (Yahweh) is the reason for the absence of want. The sermon inverts this: it spends the bulk of its time cataloging what "want" means (hastiness, greed, sloth, debauchery) and uses the four-fold Nelson's schema as the actual organizing grid — not the psalm's own argument. The psalm's movement is from Shepherd to provision; the sermon's movement is from sin-categories to behavioral change. These are different arguments.
+
+**Authority Test: PASS (partial)**
+The preacher does not edit the text's hard edges. He treats sin seriously, quotes Paul's warning from Galatians, and does not shy away from calling hearers to repentance. However, the text is abandoned for most of the sermon's body.
+
+**Gate Ruling:** The sermon loosely passes the Berean Gate but does not derive its organizing argument from the passage. The four-fold schema is imported from a dictionary entry, not excavated from Psalm 23. Evaluation proceeds with score cap considerations noted under Fatal Flaws.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 2 — Main point does not equal text's point (triggered)**
+The text's main point is the sufficiency of Yahweh as Shepherd. The sermon's main point is that four categories of sin (hastiness, greed, sloth, debauchery) are the source of "want." This is a lexical study on "want" that bypasses the psalm's own claim about *why* want is removed — namely, the Shepherd's identity and provision. The score is capped at 69.
+
+**Flag 3 — Christ is absent or unnecessary (borderline)**
+Jesus is mentioned by name in the invitation and in passing references, but He is not organically connected to the text's Shepherd imagery. The Reformed-Baptist interpreter's natural move — Psalm 23 as fulfilled in Christ the Good Shepherd (John 10), the one who leads His sheep through the valley of the shadow of death all the way through — is entirely absent. The sermon could survive doctrinally in a synagogue setting with modest edits. This is a serious weakness but does not fully trigger Flag 3 given the invitation.
+
+**Score cap: 69 maximum (Flag 2 confirmed).**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 12/25**
+
+- *Textual Fidelity (4/10)*: The sermon does open the passage and performs a word study on "want." However, the Nelson's dictionary four-fold schema drives the entire body of the sermon, not the text itself. The Shepherd as the ground of provision — the psalm's central claim — is addressed only in the closing paragraph. The listener could not reconstruct the psalm's argument from this sermon.
+- *Contextual Awareness (2/5)*: No canonical context is offered. No reference to the Davidic authorship and what it means for a shepherd-king to confess "the LORD is my shepherd." No link to Israel's wilderness wandering, the covenantal provision language of the Pentateuch, or the fulfillment in the Good Shepherd of John 10.
+- *Exegetical Clarity (3/5)*: The Hebrew word study is present and shows genuine engagement, though the "used only twice" claim is problematic (flagged in Corrections Log). The four-fold definition from Nelson's is the exegetical anchor — it works illustratively but is not drawn from the psalm's own words.
+- *Logical Faithfulness (3/5)*: No gross eisegesis, but the Galatians 5 passage is inserted in a way that feels topically driven rather than arising from the text's logic.
+
+**FCF Assessment:** The Fallen Condition Focus is implicitly identified — human tendency to seek provision through sinful paths rather than trusting God — but it is never named as such, and the grace that fills the hole (the Shepherd's provision) is mentioned only briefly at the end. The FCF is present but underdeveloped.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+
+- *Christ-Centeredness (3/7)*: Christ is named but not organically connected to the text. The Good Shepherd typology is entirely missed. A sermon on Psalm 23 that does not draw the covenantal line to John 10 has left the richest theological vein unmined.
+- *Redemptive-Historical Awareness (1/3)*: Absent. The psalm is treated as a standalone moral document rather than as part of the unfolding covenant story.
+- *Doctrinal Precision (4/4)*: The treatment of repentance, the nature of salvation (relationship vs. mere church attendance), assurance and its limits, and the Galatians warning are handled with genuine doctrinal care. The distinction between cultural Christianity and genuine conversion is clear and accurate.
+- *Confessional Alignment (3/4)*: The sermon affirms perseverance of the saints clearly ("Once saved, your salvation cannot be lost") while correctly qualifying it with evidence of genuine conversion. No confessional contradictions detected.
+
+**3. Gospel Centrality & Force — 7/15**
+
+- *Clarity of the Gospel (2/5)*: The gospel is present at the edges — an invitation is extended, Christ is mentioned, repentance is called for — but the finished work of Christ (His atonement, His resurrection, the basis of justification by faith) is never articulated. The invitation assumes the gospel rather than proclaiming it.
+- *Necessity of Christ (3/5)*: The sermon does reach a point where Christ is presented as necessary ("a relationship with Jesus Christ"), but this necessity is framed primarily in terms of transformed behavior rather than substitutionary atonement.
+- *Cross-Centered Gravity (2/5)*: The sermon moves toward moral reform more than toward the cross. The closing paragraph pivots to Christ but does not proclaim what Christ *did*. The law (Galatians 5 warning) lands before the gospel, which is correct sequencing — but the gospel that follows is thin.
+
+**Synagogue Test:** A devout Jewish hearer of Psalm 23 would not be significantly offended by this sermon. The Christ-specific content is minimal enough that the sermon could survive largely intact with only the invitation paragraph removed. This is a significant concern.
+
+**4. Conscience & Applicatory Force — 9/15**
+
+- *Heart Penetration (3/5)*: The debauchery section and the cultural Christianity diagnosis have genuine pastoral sharpness. The observation that a person who can engage in sexual sin without conviction "was never truly saved" presses the conscience. The illustrations (the hasty church-goer at the gas station, the Eeyore coworker) are locally effective.
+- *Specificity (4/5)*: The sermon is more specific than many — it names pornography directly, addresses "yolo" culture, speaks to the witnessing consequences of hasty behavior. This is commendable specificity for an evening service.
+- *Spiritual Differentiation (2/5)*: The sermon addresses primarily two categories — the unconverted (invitation) and struggling believers (Galatians 5 + repentance call). The doubter, the grieving (Harvey victims are prayed for but not directly addressed in the sermon body), the backslider, and the self-righteous are not distinctly reached.
+
+**Perkins' Seven Categories Reached:** #4 (the humbled), #5 (believers), #7 (mixed congregation, broadly). Categories 1–3 and 6 are not addressed with specificity. Three of seven — serviceable but incomplete.
+
+**5. Exhortation & Response — 5/8**
+
+- *Call to Response (3/4)*: The invitation is clear and specific: "come talk to me," with identification of what response looks like. The preacher does look the congregation in the eye. The call to repentance is concrete (the 180-degree turn illustration with each sin category is effective).
+- *Equipping for Holiness & Witness (2/4)*: The gas station illustration addresses witness implications of hastiness. But the sermon does not send the church *out* with a specific equipping mandate. The closing announcements (food pantry, nursing home, moving help) organically extend community life but are not tied to the sermon's call.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline (3/4)*: The four-fold structure (hastiness, greed, sloth, debauchery) is clear and easy to follow. Each category gets an illustration. The structure is memorable.
+- *Progression (2/3)*: The sermon does build toward the gospel call, but the progression is topical (list-driven) rather than textual (arising from the psalm's own movement). The Galatians 5 insertion feels slightly abrupt.
+- *Unity (1/2)*: The dominant idea is nominally "I shall not want," but the four-fold schema, the Bible college anecdotes, the debauchery cultural analysis, and the brief closing gospel paragraph pull in different directions. The unity is looser than the structure implies.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2)*: The building buyer, the gas station church-goer, the Eeyore coworker — these are drawn from actual pastoral experience and local life. They are native to this preacher's world and congregation.
+- *Clarity (2/2)*: Each illustration illuminates its point clearly. The gas station story in particular carries both illustrative force and applicatory punch (the cashier's reaction, the witness implication).
+- *Memorability (0/1)*: The horse story is referenced but not told ("Have you ever heard that story?") — which is a missed opportunity for a memorable image. Of the illustrations present, the Eeyore $20 is the most memorable but also the lightest.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2)*: This is clearly an oral manuscript. The direct address, the colloquial voice, the asides ("That drives me crazy"), and the congregation awareness ("I can see the question in some of your faces") all read as genuine preaching rather than essay.
+- *Conviction on the Page (1/2)*: The preacher has conviction about debauchery, about cultural Christianity, about repentance — and it shows. But the sermon's center (the Shepherd's sufficiency) never generates the same heat. The conviction is real but unevenly distributed.
+- *Cadence and Breath (0/1)*: Sentence variation is present but uncontrolled. The sermon does not build to a single climactic moment — it moves from list-item to list-item and then pivots to gospel at the end without earned compression.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**Score: 0**
+
+The sermon is accessible. The four-fold schema is simple and easy to track. The illustrations are brief. An average listener — including the new believer or the high schooler — can follow the main argument. No cognitive load penalty applied.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 12/25 |
+| Theology & Doctrinal Integrity | 11/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **57/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **59/100** |
+
+**Score cap at 69 (Fatal Flaw Flag 2). Unadjusted raw score: 59 — cap not reached.**
+
+**Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.**
+
+The sermon's raw score falls below the fatal flaw cap, meaning the flag did not artificially suppress the number — the structural problem is reflected in the score itself.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Mostly myself — the sermon centers on my sins (hastiness, greed, sloth, debauchery) and my need to repent and change. Christ appears at the edges but does not dominate.
+
+2. **Did I encounter God, or just ideas about Him?**
+Primarily ideas — specifically, ideas about sin categories. God as the Shepherd who provides is named but not inhabited by the sermon.
+
+3. **Was I comforted, convicted, or merely informed?**
+Primarily informed (four-fold sin taxonomy) and modestly convicted (debauchery section, cultural Christianity diagnosis). Not significantly comforted.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Pastoral specificity about debauchery and cultural Christianity.** The preacher names pornography directly, distinguishes genuine conversion from cultural church attendance, and applies the assurance/warning tension with doctrinal care. This is genuinely pastoral and not common in evangelical preaching. (Sermon body: "One who can engage in these activities without remorse... was never truly saved to begin with.")
+
+2. **Native illustrations drawn from actual pastoral experience.** The gas station church-goer is memorable, theologically rich (witness implications of hastiness), and native to this preacher's life — not borrowed from a sermon illustration database. This is the kind of illustration that only a pastor can give.
+
+3. **Clear and specific invitation with appropriate pastoral tone.** "There isn't a single one of us that is under the impression we are perfect. We all know we are broken, and in need of Jesus." The invitation is warm, specific, low-shame, and honest. It correctly identifies coming forward as a form of public confession.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The text's own argument is never preached.** Psalm 23:1 declares: "The LORD is my shepherd; I shall not want." The sermon's organizing claim is that sin (hastiness, greed, sloth, debauchery) is the source of want. But the text's claim is that *the Shepherd's identity and provision* is the ground of sufficiency. The sermon explains what want means while bypassing why it is removed. The psalm's answer is Yahweh — and that answer is never developed.
+
+2. **Christ the Good Shepherd is completely absent.** For a Christian sermon on Psalm 23, the organic move to John 10:11 ("I am the good shepherd. The good shepherd lays down his life for the sheep") is not optional — it is the text's own telos in redemptive history. Jesus identifies Himself as the fulfillment of this psalm's shepherd imagery. A sermon that does not make this connection has left the gospel buried in the text.
+
+3. **The gospel is assumed, not proclaimed.** The Galatians 5 warning lands clearly. Repentance is called for clearly. But the finished work of Christ — His atoning death, His resurrection, the basis on which repentance has somewhere to go — is never articulated. An unbeliever in the room would not understand *why* they should come to Christ, only *that* they should. The invitation assumes what has not been proclaimed.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that his four-fold Nelson's dictionary framework has replaced the psalm's own structure. Because the framework is neat and the illustrations work, the sermon *feels* organized and textual — but it is actually a topical sermon using a word study as its organizing grid. The text is a springboard, not a sustained source of authority.
+
+He may also not see how thoroughly the Shepherd image has been vacated. The entire middle of the sermon is about sin categories; the Shepherd as provider does not reappear until the final paragraph. A hearer unfamiliar with Psalm 23 would not know from this sermon that it is a psalm about God's personal, covenantal care.
+
+---
+
+### 12. Illusion of Strength
+
+The four-fold structure (hastiness, greed, sloth, debauchery) creates an *illusion of textual structure*. It appears to be an expositional breakdown of the word "want." But the breakdown is Nelson's dictionary theology, not Psalm 23 theology. The sermon feels organized because the list is clean — but the list is imported, not exegeted. This is the most dangerous kind of structural weakness: it does not feel like a weakness.
+
+Similarly, the debauchery section feels like the sermon's most powerful moment — but its power comes from cultural confrontation (the "yolo" philosophy, the sexual ethics of the age), not from the text. It could be preached from dozens of passages. The sermon earns heat it has not purchased from Psalm 23.
+
+---
+
+### 13. Missed Opportunity
+
+The great missed opportunity is the Shepherd motif itself. Psalm 23:1 — "The LORD is my shepherd" — is the entire basis for "I shall not want." The sermon treats "I shall not want" as its subject and never really asks *why* the psalmist can say it. The answer is: because *the LORD* is the shepherd, not a hired hand, not a manager, not a distant deity — the covenant God of Israel, who in the fullness of time became the Good Shepherd who *lays down His life for the sheep*.
+
+This is the sermon's spine, and it was not preached. If the preacher had asked "Why can I say 'I shall not want'?" and answered "Because Yahweh is my shepherd — and in Christ, that shepherd has gone to the valley of the shadow of death on my behalf," the entire structure would have been transformed: not a list of sins to avoid, but a declaration of provision grounded in the Shepherd's sacrifice.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Rebuild the sermon's central claim from the text.** The thesis should be: "You shall not want — not because you have conquered sin, but because Yahweh is your Shepherd and He has provided everything you need in Christ." The four-fold sin taxonomy can stay as a secondary element (what want looks like when we turn from the Shepherd), but only as a foil to the psalm's central declaration.
+
+2. **Preach Christ the Good Shepherd from John 10.** After establishing "The LORD is my shepherd" from the psalm, move explicitly to John 10:11. Jesus says *I am the Good Shepherd* — He is the fulfillment of Psalm 23. This is the organic Christological connection the text demands. It will also give the invitation its proper gospel content: not just "come to Christ" but "this Shepherd has already laid down His life for you."
+
+3. **Articulate the gospel before the invitation.** The Galatians 5 warning is proclaimed (the hammer). The invitation is extended. But the balm — the finished work of Christ, penal substitution, the resurrection — is absent. Add: "The only reason you can turn from these sins is that Christ has already paid for them in full. Repentance has somewhere to go — to the cross, where the Shepherd was slain for the sheep."
+
+4. **Name the FCF early and tie grace to it.** Early in the sermon, name the fallen condition the psalm addresses: "We are people who grasp and strive and demand — because we do not trust that God will provide. We are sheep who bolt from the shepherd's care into the wilderness of our own making." Then show how Psalm 23 answers that condition not with moral instruction but with a Person: "The LORD is my shepherd."
+
+5. **Develop the Shepherd's active provision in the conclusion.** The closing paragraph gestures toward sufficiency ("he will supply all your needs") but it needs grounding in the psalm's own imagery. The rod and the staff, the still waters, the green pastures, the table prepared in the presence of enemies — these are the psalm's own pictures of what a shepherd-provided life looks like. Use them.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon lacks dead orthodoxy's typical profile — it has genuine pastoral warmth, personal illustrations, and real conviction about sin and repentance. The weakness is structural (text-bypassing) and gospel-thin, not bloodless or formally correct.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries genuine pastoral gravity — particularly in its concern for the lost (Harvey victims, the Hindu/Muslim cashier, the congregation), its honest treatment of sin, and its warm invitation — but it does not carry the weight of the psalm itself, which is one of the most beloved declarations of divine sufficiency in all of Scripture; the eternal gravity is present in the occasion but not fully realized in the proclamation.
+
+---
+
+### 17. Rubric Fit Note
+
+Psalm 23 is a Davidic shepherd psalm — wisdom-inflected, covenantal, experiential. The rubric's categories fit well here: the text is doctrinally rich, has clear applicatory force, and demands gospel centrality (its fulfillment in Christ is organic, not forced). The rubric does not strain against the genre. However, evaluators should note that lament and confidence psalms like Psalm 23 often invite a more *declarative* preaching mode (proclaiming *what is true about God*) rather than a primarily imperative mode (what you must do). This sermon leaned heavily imperative when the text itself is declarative — a genre-tone mismatch that the rubric's Sermon Force and Gospel Centrality categories correctly flag.

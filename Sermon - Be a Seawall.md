@@ -102,3 +102,201 @@ Donkey? Rubbish — and before you say it, I know some of you out there are abou
 Do you know him today? If not you're like the guy from the train story. Lost in the dark, and smoke of this world, and in need of directions.
 
 Those can be found right here in Scripture. Part of our treasure.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Pastoral Heart Lost in a Political Detour — The Deposit Unguarded**
+
+---
+
+### 2. One-Sentence Summary
+A well-intentioned opening of 2 Timothy 1:3-14 that established a compelling seawall metaphor and carried genuine pastoral warmth, while spending the majority of its middle section on Marxism, Pol Pot, and American political commentary before returning too briefly to the text's actual treasure.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with warning.**
+
+The Scopus Test: The sermon's thesis — guard the gospel deposit entrusted to you against the erosion of worldly pressure — does arise from the passage's own argument (v.12-14). The seawall metaphor maps genuinely to the text's "guard the good deposit" language. Pass.
+
+The Authority Test: The preacher does submit to the text's claims in the sections where the text is engaged. However, the sermon spends more time under its own cultural commentary (Marxism, Cambodia, Ukraine, American politics) than under the text. The text is used as a frame, but several of its richest verses (the gospel declaration in vv.9-10, the theological foundation in v.9, the Christological content of v.10) are passed over quickly in favor of illustrations and political material the preacher brought to the text rather than found in it. This does not fail the gate, but it presses against the Authority Test in ways that must be named.
+
+---
+
+### 4. Fatal Flaw Flags
+**Score cap: NOT triggered at 69 — but two flags are borderline.**
+
+- **Flag 3 — Christ is largely decorative**: Christ appears at the end of the sermon and briefly in the Philippians quotation, but the main body of the sermon does not require Christ. The political/cultural section survives intact without Him. This is a near-miss on this flag.
+- **Flag 4 — Application is largely generic**: "Be a seawall," "Our hope is in God," "Don't trust political parties" — these are true but undifferentiated. They do not press specific categories of hearers. No one in the congregation is cornered by this sermon. Near-miss.
+- **Flag 5 — No actual exhortation**: The closing is two sentences. "Do you know him today?" is not exhortation — it is an invitation stripped of content. The preacher never says what the congregation must now believe, repent of, obey, or pursue in specific terms. This flag is effectively triggered.
+
+**Score cap is applied: 69 maximum** due to Flag 5 (no substantive exhortation). The sermon closes with a question and a gesture toward Scripture rather than a command, a summons, or a gospel declaration. Informing is not preaching. The passage itself exhorts in the imperative: "fan into flame," "do not be ashamed," "share in suffering," "guard the good deposit." None of these become imperatives directed at the congregation.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14/25**
+
+- Textual Fidelity: 6/10. The seawall metaphor is genuinely grounded in v.14 ("guard the good deposit"). The opening establishes context well (Paul's imprisonment, Timothy's wavering, the deserters). However, vv.9-10 — which contain the doctrinal heart of the passage ("not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before the ages began... who abolished death") — receive almost no treatment. The richest theological freight in the text is cited but not opened.
+- Contextual Awareness: 3/5. The preacher correctly locates this as Paul's final letter, notes the defections in Asia, and frames Timothy's likely emotional state with appropriate tentativeness ("maybe"). This is good pastoral-contextual work.
+- Exegetical Clarity: 2/5. No original language work. The passage's key terms — "fan into flame" (anazopurein), "spirit of power and love and self-control" (sophronismos), "guard the deposit" (parakatatheken phulaxon) — are mentioned but not unpacked. The congregation cannot see how the preacher arrived at his meanings.
+- Logical Faithfulness: 3/5. The seawall theme holds but the political detour is the preacher's idea imported into the text, not a development that arises from it. The sermon's longest section (Marxism, Cambodia, Stalin) is not derived from the passage's own argument.
+
+**2. Theology & Doctrinal Integrity — 10/18**
+
+- Christ-Centeredness: 4/7. Christ appears in the Philippians citation and at the close, but is not the center of the sermon's argument. The Jesus who "abolished death and brought life and immortality to light through the gospel" (v.10) — one of the most concentrated Christological declarations in the Pauline letters — is read aloud and then passed over. This is a missed center.
+- Redemptive-Historical Awareness: 1/3. No redemptive-historical placement. The sermon does not ask where this text sits in the story of redemption, nor does it connect Paul's "before the ages began" language (v.9) to its covenantal depth.
+- Doctrinal Precision: 3/4. The Philippians 3:8-9 quotation is sound. The immutability of God section (drawn from Mohler/Malachi) is doctrinally careful. However, "we deserved sin and death and hell and Satan" is a slightly imprecise formulation — Satan is our enemy, not our deserved portion.
+- Confessional Alignment: 2/4. No contradiction of confessional theology. However, v.9 ("not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before the ages began") is a natural point of contact for the Doctrines of Grace — election, unconditional grace, grace given before creation. This is not engaged at all.
+
+**3. Gospel Centrality & Force — 7/15**
+
+- Clarity of the Gospel: 2/5. The gospel is present in quotation (Philippians 3:8-9, v.10) but never proclaimed as an argument. Justification by faith is never articulated. "Relationship with Jesus Christ who died for us to take on our sin debt" is a gospel gesture, not a gospel declaration.
+- Necessity of Christ: 3/5. The sermon does affirm Christ's necessity ("We're with Jesus or all is lost"), and the Philippians citation captures this. But this is stated near the end and functions more as a bookend than as the load-bearing center.
+- Cross-Centered Gravity: 2/5. The sermon does not move toward the cross. It moves toward the image of the U.S. gold reserve, the train tunnel analogy, and political commentary. The cross is not the gravitational center of the message.
+
+**Synagogue Test: NEAR-FAIL.** A devout Jew or Muslim could sit through most of this sermon and not be offended by the necessity of Christ's blood. The anti-Marxism, the immutability of God, the value of Scripture — all would be agreeable. Christ's atoning death is mentioned but not made offensive in the necessary gospel sense.
+
+**4. Conscience & Applicatory Force — 7/15**
+
+- Heart Penetration: 2/5. The train tunnel illustration is evocative and presses the lost hearer in the right direction. The political illustration about the person who blocked the preacher has pastoral honesty. But the sermon does not systematically search the conscience. It informs more than it penetrates.
+- Specificity: 2/5. "Our hope is in God, not political parties" is repeated but remains generic. "Be a seawall" is a vivid image that never becomes a specific action. What does it look like to guard the deposit in this congregation, in this week, in this marriage, in this workplace?
+- Spiritual Differentiation: 3/5. Some differentiation is attempted. The closing addresses the unconverted. The gifts section addresses the whole body. But Perkins' taxonomy is largely untouched: the backslider, the humbled-but-not-yet-believing, the knowledgeable-but-unmoved are not addressed. The self-righteous politically confident church member — who might be most in need of the immutability section — is not cornered.
+
+**5. Exhortation & Response — 2/8**
+
+- Call to Response: 0/4. The sermon ends with "Do you know him today?" — a soft invitation with no exhortation of any kind toward the believer. The passage's own imperatives (fan into flame, do not be ashamed, share in suffering, guard the deposit) are never turned into commands addressed to the congregation. The sermon tells them what Timothy was told but never tells them what they are told.
+- Equipping for Holiness & Witness: 2/4. The gifts section, while loosely connected to the passage, does encourage the body to identify and use gifts. This is the strongest applicatory moment in the sermon, though it is more exhortation toward church service than toward the gospel witness the passage itself demands.
+
+**6. Structure & Logical Flow — 5/9**
+
+- Clarity of Outline: 2/4. Section headers (Increasing Hostility, Fan Into Flame, The Treasure We've Been Entrusted With, All Is Rubbish) are present but do not form a traceable argument. A listener could not sketch the progression on a napkin with logical connectors.
+- Progression: 1/3. The sermon wanders significantly. The "Increasing Hostility" section moves from Timothy's situation to modern political hostility to Marxism to Cambodia to Stalin to immutability of God — over the course of a single major section. This does not build; it accumulates.
+- Unity: 2/2. The single dominant idea (the seawall / guard the deposit) does hold throughout, even as execution drifts. Credit for a consistent through-image.
+
+**7. Illustration & Imagination — 3/5**
+
+- Relevance: 2/2. The creek/seawall story is local, personal, and entirely native to this congregation's world. The train tunnel is evocative. These are genuinely good illustrations.
+- Clarity: 1/2. The seawall illustration works. The train tunnel works. The Cambodia/Pol Pot material is detailed and vivid but does not illuminate the text — it illustrates cultural hostility in general, not the specific call of 2 Timothy.
+- Memorability: 1/1. The seawall image will be remembered. Strong work here.
+
+**8. Sermonic Force — 3/5**
+
+- Reads as Preaching: 2/2. The manuscript reads with oral cadence. Conversational, direct, with the rhythms of live speech. "Donkey? Rubbish — and before you say it, I know some of you out there are about to drop an amen — the elephant? He's rubbish too." This is genuinely preached, not read.
+- Conviction on the Page: 1/2. The opening and the Philippians section carry conviction. The political material carries cultural concern but not prophetic conviction. Filler phrases appear ("all we know is," "you guys know what a sea wall is right?") that soften the assertive edge.
+- Cadence and Breath: 0/1. The sermon does not have a climactic moment of compression. It builds through the Philippians/gold reserve section and then ends abruptly with two sentences.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+
+The sermon is accessible. The vocabulary is plain, the illustrations are concrete, and the structure is loose enough not to overwhelm. The Marxism/history section is the one area where the congregation is asked to hold multiple threads simultaneously (Pol Pot, Stalin, Liechtenstein article, Mohler, immutability) without a clear unifying textual anchor. Slight cognitive overload in that section only.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 14/25 |
+| Theology & Doctrinal Integrity | 10/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 7/15 |
+| Exhortation & Response | 2/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **51/100** |
+| Cognitive Load Modifier | −1 |
+| **Adjusted Subtotal** | **50** |
+| Fatal Flaw Cap Applied (Flag 5) | Score capped at 69 |
+| Weight of Glory Bonus | +1 |
+| **Total** | **51/105** |
+
+**Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.**
+
+The fatal flaw cap is triggered, but even without it the raw score reflects a sermon that spent its central energy elsewhere. This is not a rebuke of the preacher's heart — the pastoral warmth is evident and real. It is a diagnosis of a structural problem: the passage was not allowed to govern the sermon.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Largely neither. It makes the listener think about Marxism, political parties, and the value of the Bible. Christ appears at the margins. The answer is: neither sufficiently.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas about Him — specifically, the immutability of God, well-expressed. But the encounter is brief and not sustained. The political material dominates.
+
+3. **Was I comforted, convicted, or merely informed?**
+Informed — about Pol Pot, Stalin, a neighbor's creek property, and the U.S. gold reserve. The train tunnel creates a moment of conviction for the unconverted. Believers are not convicted or comforted in proportion to what the text offers.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The seawall metaphor is textually grounded and memorable.** The creek neighbor story is local, specific, and genuinely tied to the passage's own "guard the deposit" language. This is the kind of illustration that a congregation carries home and applies for years. It is native to this text.
+
+2. **The opening context is well-set and pastorally honest.** The description of defectors in Asia, Paul's apostolic suffering, and Timothy's likely wavering is handled with appropriate tentativeness ("maybe") and genuine pastoral empathy. The preacher reads the situation of the text well.
+
+3. **The oral register is consistently authentic.** The manuscript reads as preaching. The aside about the elephant and donkey both being "rubbish" is warm, earned, and genuine. The congregation is in the room with this preacher — they can feel it. This is a real strength that many technically superior sermons lack.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The passage's doctrinal heart (vv.9-10) is read aloud and then abandoned.** "Not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before the ages began... who abolished death and brought life and immortality to light through the gospel" — this is one of the most compressed presentations of sovereign, pre-temporal, death-abolishing grace in Paul's entire corpus. The sermon cites it and moves on. Everything the sermon needed — the reason Timothy should not be ashamed, the ground of holy boldness, the substance of the deposit — is right here in these verses. The preacher walked past the treasure while building a case for the treasure's value.
+
+2. **The "Increasing Hostility" section is a political detour that hijacks the sermon's center.** The section runs from Liechtenstein's article to Pol Pot to Stalin to mass famine — useful cultural background for a different talk, but this is not where 2 Timothy 1:3-14 is going. Paul's concern is not ideological threat from Marxism; it is the shame of the gospel and the desertion of brothers. The passage's "hostility" is personal, apostolic, and gospel-rooted. The sermon imports a modern political frame that, while not false, overpowers the text's own argument.
+
+3. **There is no exhortation directed at believers.** The sermon closes in two sentences: "Do you know him today? If not you're like the guy from the train story." The entire believing congregation — who already knows Him — is left with nothing to do, repent of, or pursue. The passage's own imperatives (fan into flame, do not be ashamed, share in suffering, guard the deposit) were stated in the reading and then never placed on the congregation. They heard what Paul said to Timothy. They were not told what Paul's words mean for them now.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears not to see that the sermon's most extended and energetic section — the political/historical material — is the section furthest from the passage. The cultural passion is real and the concern is legitimate, but it has displaced the sermon's textual work. There is also a blind spot around the distinction between explaining the text and opening the text: the passage is explained (here is what Paul said, here is the situation) but not opened (here is what this means, here is the weight of it, here is why you should be shaken by v.10). The preacher knows the passage; the congregation needs to feel its weight.
+
+---
+
+### 12. Illusion of Strength
+
+The political illustration section feels substantial and carries energy. It sounds like pastoral engagement with the real world. But it is not the text doing the work — it is the preacher's cultural knowledge and concerns doing the work, using the text as a launching pad. The length and detail of the Marxism section creates an illusion that the sermon is dealing seriously with the passage's "hostility" theme, when in fact it is dealing seriously with a different kind of hostility than the passage envisions. The sermon feels robust in the middle; it is actually adrift from its text.
+
+---
+
+### 13. Missed Opportunity
+
+Verse 9 is the missed opportunity of this sermon. "Not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before the ages began." This is the reason Timothy should not be ashamed. This is the seawall — not a wall we build, but a wall God built before time, in electing grace, before the world existed. The sermon makes the seawall a metaphor for guarding Scripture, which is true but thinner than what Paul is doing. Paul's deeper argument is that the boldness to guard the deposit flows from understanding the nature of the grace that saved you — unconditional, pre-temporal, God-originated grace. That grace does not waver when Paul is arrested. That grace was fixed before the ages began. The seawall Paul is building around Timothy is not "hold on to Scripture" — it is "God has held on to you before you existed." That is the thing that makes the deposit guardable.
+
+---
+
+### 14. Surgical Fixes (3-5)
+
+1. **Collapse the "Increasing Hostility" section to two minutes and replace the excised material with exposition of vv.9-10.** The Liechtenstein article, Pol Pot, and Stalin do not illuminate what Paul means when he tells Timothy not to be ashamed. One sentence establishing that hostility is real and increasing is sufficient. Then ask: what does Paul give Timothy to stand against it? Answer: not cultural analysis, but the pre-temporal, sovereign grace of v.9.
+
+2. **Turn the passage's own imperatives into exhortations addressed directly to the congregation.** After expounding each imperative — "fan into flame" (v.6), "do not be ashamed" (v.8), "share in suffering" (v.8), "guard the good deposit" (v.14) — turn to the congregation and say, "This is for you. Where in your life is the flame flickering? What gospel conversation are you ashamed to have at work this week?" Apply Perkins' pattern: what does this mean for the believer growing in faith, for the one whose flame has nearly gone out, for the one who has never been converted?
+
+3. **Preach v.10 as the climax.** "Who abolished death and brought life and immortality to light through the gospel." This is the news that makes everything else in the passage possible. The sermon spends more time on the U.S. gold reserve than on this verse. Realign the sermon so that v.10 functions as the climax — the moment the seawall reveals its foundation: the risen Christ who has defeated the very thing that makes all of this world's hostility look small.
+
+4. **Close with a specific double exhortation — one for the unconverted, one for the converted.** To the unconverted: the train illustration is excellent — use it, then tell them clearly what it means to run toward the light: repentance and faith in the Christ who abolished death. To the converted: "You have already run toward the light — now you are the lantern. Fan your flame. Be a seawall. Do not be ashamed." Do not end after addressing only the unconverted. Paul wrote this letter to a pastor, not a skeptic.
+
+5. **Correct the formulation "we deserved sin and death and hell and Satan."** Satan is not something humanity deserves — he is an adversary, not a penalty. The accurate formulation is that we deserved the just wrath of God, which issues in death, condemnation, and separation from God. This is a small fix with doctrinal significance.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The score pattern does not match dead orthodoxy — the issue here is not correct theology without pastoral heat, but incomplete textual engagement combined with absent exhortation. The sermon has pastoral warmth; it lacks textual depth and exhortatory force. Different diagnosis.
+
+---
+
+### 16. Weight of Glory Statement
+The creek story and the Philippians quotation carry a flicker of genuine eternal weight, but the sermon does not arrive at a place where the congregation would want to kneel — it arrives at a place where they have been reminded of things they already believe, which is not the same thing. **+1/5**
+
+---
+
+### 17. Rubric Fit Note
+This rubric fits 2 Timothy 1:3-14 well. It is a pastoral epistle with clear imperatives, doctrinal content, and exhortatory force — precisely the type of text this rubric is designed to evaluate. The passage itself is rich in gospel content (v.9-10), conscience-searching material (v.8 — shame), specific application (the deposit, the pattern of sound words), and Christological declaration (v.10). The rubric does not strain against the genre. Any deficit in the scores reflects the sermon's engagement with the text, not a genre limitation of the rubric.

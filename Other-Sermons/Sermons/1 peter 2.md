@@ -117,3 +117,187 @@ Even Paul wasn’t where he wanted to be. That’s part of a preachers job. Some
 As you read your bible, your knowledge of the bible grows. As your knowledge of the bible grows, your theology grows. Someone define theology for me? Its basically any thought you’ve ever had about anything the bible speaks to or that God has revealed about himself. Basically if you’ve ever had a thought about God, you’ve got some theology. As you read your bible and gain more knowledge about the bible, and about God through the bible, your theology grows, and as your theology grows you better understand the bible which increases your biblical knowledge, and as you better understand the bible and your biblical knowledge grows, youre theology deepens and becomes more reflective of God’s word. Thus fueling your growth. This leads to greater love for God, for God’s word, for God’s people, and for those around us in a lost and dying world. 
 
 All of this starts with the gospe.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Useful Pastoral Exhortation Held Hostage by Borrowed Content and an Unfinished Gospel**
+
+---
+
+### 2. One-Sentence Summary
+A sermon on 1 Peter 2:1-12 that commendably presses toward spiritual growth and love for Scripture while relying heavily on MacArthur citations, failing to exposit the passage's own argument, and — again — ending with a truncated gospel note rather than a proclamation.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with the same concern as the prior sermon.**
+
+*Scopus Test:* The text's main point in vv. 1-12 is a layered argument: put off sin (v.1), long for the pure word as newborns long for milk (v.2), for you have tasted that the Lord is good (v.3), and therefore come to Christ the living stone — rejected by men but chosen by God — and be built into a spiritual house, a royal priesthood, a holy nation, a people for God's own possession (vv. 4-9), that you may proclaim his excellencies (v.9), and therefore live as exiles from the passions of the flesh (vv. 11-12). The sermon addresses vv. 1-3 and partially vv. 11-12, but skips the architecturally central section (vv. 4-10) — the priesthood, the spiritual house, the corporate identity as God's people. The sermon's main idea is roughly "put off sin and long for God's Word to grow." That is present in the passage, but it is not the passage's dominant argument. Peter's main move is identity-based obedience flowing from corporate election. The sermon passes, but it expounds a subset of the passage, not the passage.
+
+*Authority Test:* The preacher submits to the text where he engages it. No authority failures. Pass.
+
+---
+
+### 4. Fatal Flaw Flags
+**Two flags triggered. Score capped at 69.**
+
+- **Flag 4 — Application is entirely generic.** "Long for the Word," "pursue your growth," "put off sin" — these are correct but undifferentiated. No differentiated address reaches different hearers in their specific condition. No one is cornered. The drug addict illustration approaches specificity but is told about a third party, not aimed at anyone present.
+- **Flag 5 — No actual exhortation.** The sermon ends with "All of this starts with the gospe." — a misspelled truncation of what should be a gospel declaration. As with the previous sermon in this series, the congregation is informed, stirred perhaps, and then the manuscript stops. No imperative is issued. No call to repentance, no call to faith, no "therefore, here is what you do now."
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 11/25**
+- *Textual Fidelity (4/10):* The sermon handles vv. 1-3 and gestures at vv. 11-12 but bypasses the central theological core of the passage (vv. 4-10). The "chosen race, royal priesthood, holy nation, people for his own possession" (v.9) — the identity grounding that makes the imperatives intelligible — is entirely absent. The sermon exposits a slice of the passage, not the passage. Significant material is quietly skipped.
+- *Contextual Awareness (3/5):* The preacher correctly identifies the Neronian persecution context and the early church baptism tradition. That is good contextual work. The Jewish background of Peter's Old Testament citations (Isa. 28, Ps. 118, Isa. 8, Ex. 19, Hos. 2) is absent.
+- *Exegetical Clarity (2/5):* The word study on "malice" (from English etymology, cancer link) is the only genuine exegetical moment. The word for "long for" (epipothesate — intense, passionate desire) is not unpacked, though the MacArthur citation gestures at it. No engagement with "spiritual milk" (logikon gala — reasonable, rational, word-connected milk — a disputed but rich phrase) or "living stone" (which anchors the whole section).
+- *Logical Faithfulness (2/5):* The sermon imports several extended illustrations (dog bed, prodigal son, drug addict, Chinese prisoners) that do illuminate the text at points but collectively displace the passage's own argument. The sermon is more story-driven than text-driven.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+- *Christ-Centeredness (4/7):* Christ appears in the discussion of new identity and the Christian life but is not the center of the exposition. The passage's Christological core — Jesus as the living stone, rejected cornerstone, chosen and precious — is entirely absent from the sermon. That is a significant omission.
+- *Redemptive-Historical Awareness (2/3):* The early church baptism tradition and the Old Testament background are gestured at, but there is no redemptive-historical movement — no showing how Peter is applying the exodus typology (royal priesthood, holy nation) to the new covenant people in Christ.
+- *Doctrinal Precision (3/4):* No doctrinal errors. The treatment of progressive sanctification is accurate and pastorally careful. The qualifier — "God could [change us instantly] but chooses to work more slowly in most of us, and that's a kindness" — is well-said and theologically sound.
+- *Confessional Alignment (3/4):* No contradiction of confessional theology. No positive engagement with election or covenant themes, despite vv. 4-10 offering direct textual invitation.
+
+**3. Gospel Centrality & Force — 6/15**
+- *Clarity of the Gospel (1/5):* "All of this starts with the gospe." is a misspelled incomplete sentence, not a gospel presentation. For the second consecutive sermon in this series, the gospel is named but not proclaimed. No articulation of what Christ accomplished, what the sinner must do, or how justification relates to sanctification.
+- *Necessity of Christ (3/5):* Christ is present and named as the source of new identity. But His atonement and resurrection are not stated as the ground of the passage's imperatives. The connection between "taste that the Lord is good" (v.3) and the cross is never made.
+- *Cross-Centered Gravity (2/5):* The sermon orbits growth, spiritual hunger, and identity — all good themes. But it does not move toward the cross as the foundation. The sermon is more about the Christian life than about Christ.
+
+*Synagogue Test:* A devout Jewish or Muslim hearer could sit through most of this sermon without being confronted by the exclusive necessity of Christ's blood. The emphasis on loving God's Word, putting off sin, and pursuing holiness could be affirmed by any committed monotheist. **Flag: moralistic drift in application.**
+
+**4. Conscience & Applicatory Force — 7/15**
+- *Heart Penetration (3/5):* The prodigal-son-eating-slop-beside-pigs passage is viscerally effective and genuinely presses the heart of the person who has returned to sin. The dog bed illustration, while extended, creates a memorable picture of the state of sin's defilement. These moments work. But penetration is episodic rather than sustained.
+- *Specificity (2/5):* The drug addict illustration is the most specific thing in the sermon, and it is told about a third party. The congregation is not addressed in their own specific conditions. "Whatever your pet sin is" is the closest to differentiated application — it acknowledges diversity but doesn't press into it.
+- *Spiritual Differentiation (2/5):* No systematic address of different hearers. The sermon assumes a regenerate audience almost entirely. The unbeliever is not addressed until the final truncated sentence. The backslider, the doubter, the religiously comfortable, and the knowledgeable-but-unmoved are all in the room and all equally unaddressed.
+
+**5. Exhortation & Response — 2/8**
+- *Call to Response (1/4):* The sermon ends mid-sentence. No exhortation is issued. The MacArthur quote about spiritual discontent and the AA reference gesture at self-examination, but neither constitutes a pastoral summons.
+- *Equipping for Holiness & Witness (1/4):* The theology-knowledge-growth cycle described near the end (knowledge of Bible → deeper theology → greater love for God and others → witness) is a genuine equipping framework, but it is presented as information rather than as a charge. Tell the congregation to do it, not merely that it exists.
+
+**6. Structure & Logical Flow — 5/9**
+- *Clarity of Outline (2/4):* The sermon moves through identifiable sections: introduction (Queen Elizabeth) → baptism tradition → put off the old self → longing for the Word → progressive sanctification → growth cycle. These are loosely connected. No formal outline; a listener could not sketch the structure.
+- *Progression (2/3):* There is recognizable movement from identity (new jersey, baptism) to imperative (put off sin) to hunger (long for the Word) to growth. The progression weakens toward the end, as the sermon accumulates insights without arriving anywhere.
+- *Unity (1/2):* The sermon carries two partially competing main ideas — put off sin AND long for the Word. These are both present in the text, but the sermon does not show clearly how Peter relates them. The unity is assumed rather than demonstrated.
+
+**7. Illustration & Imagination — 3/5**
+- *Relevance (2/2):* The illustrations span multiple registers: monarchy, baptism history, prodigal son, drug addict, dog bed, Chinese prisoners, Dimitri. They are diverse and at least partially drawn from lived experience.
+- *Clarity (1/2):* The dog bed illustration is extended beyond what the point requires. Two paragraphs on cleaning a dog bed risk becoming the dominant memory of the sermon for the wrong reason. Trim by half.
+- *Memorability (0/1):* No single illustration is clearly the one that will be carried home. The prodigal-eating-pig-slop and the Chinese prisoners weeping over Numbers are both strong, but they compete with each other and with the dog bed for the congregation's retention.
+
+**8. Sermonic Force — 3/5**
+- *Reads as Preaching (2/2):* Natural oral register throughout. Conversational, direct, self-implicating. This sounds like a pastor.
+- *Conviction on the Page (0/2):* The MacArthur citation occupies a full sustained section of the sermon. When the preacher quotes another man's sermon at length and builds his application around that quote, the conviction on the page belongs to MacArthur, not to this preacher. Conviction requires the preacher's own voice pressing the point. This section reads as curated content, not as heard-from-God proclamation.
+- *Cadence and Breath (1/1):* Readable, natural cadence throughout.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1 (Slightly dense)**
+
+The sermon introduces more distinct concepts than it fully develops — put off sin, longing for the Word, progressive sanctification, theology-knowledge growth cycle, corporate identity (barely), new birth as marker of genuine conversion. A first-time hearer may leave stimulated but unclear about which of these ideas was the main point. Reduce by one concept and develop the remainder more fully.
+
+---
+
+### 7. Total Score
+| Category | Earned | Possible |
+|---|---|---|
+| Exposition & Hermeneutics | 11 | 25 |
+| Theology & Doctrinal Integrity | 12 | 18 |
+| Gospel Centrality & Force | 6 | 15 |
+| Conscience & Applicatory Force | 7 | 15 |
+| Exhortation & Response | 2 | 8 |
+| Structure & Logical Flow | 5 | 9 |
+| Illustration & Imagination | 3 | 5 |
+| Sermonic Force | 3 | 5 |
+| **Subtotal** | **49** | **100** |
+| Cognitive Load Modifier | −1 | — |
+| Weight of Glory Bonus | +2 | +5 |
+| **Total** | **50** | **105** |
+
+**Score: 50 — FATAL FLAW FLAGS ACTIVE. Score capped at 69 regardless; actual score falls below cap at 50.**
+
+*Interpretation: Fundamentally flawed in its current form. The theological content is sound where it is present, the pastoral voice is genuine, and the illustrations show imagination. But the passage's central section is skipped, the gospel is undelivered, exhortation is absent, and a substantial portion of the sermon's expository content is borrowed from another preacher. Significant rebuild required.*
+
+---
+
+### 8. Core Override Questions
+1. **Does this sermon make me think more of Christ — or myself?** Primarily of myself — my spiritual growth, my hunger for the Word, my sin. Christ is present but peripheral.
+2. **Did I encounter God, or just ideas about Him?** The Chinese prisoners weeping over Numbers is a moment of genuine encounter-by-proxy. The MacArthur citation provides ideas about God. Mostly ideas.
+3. **Was I comforted, convicted, or merely informed?** Mostly informed. The prodigal-slop passage convicts briefly. The rest instructs without pressing.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Queen Elizabeth introduction is genuinely effective.** The mother's letter — "the Elizabeth that wears the crown must always win" — is a memorable framing for the passage's identity-shift theme. It is well-sourced, culturally accessible, and directly analogous to baptismal identity. This is the sermon's best opening move.
+
+2. **The malice word study is the right kind of exegetical work.** Connecting the English word "malice" to "malignancy" and asking "does your will have cancer?" is theologically precise, memorably phrased, and applicatorily direct. More of this throughout the sermon would transform it.
+
+3. **The progressive sanctification section is pastorally wise and theologically careful.** "God could change us instantly... but chooses to work more slowly in most of us, and that's a kindness" is a genuinely helpful pastoral word that prevents legalistic despair without softening the imperative to grow. It is the sermon's most pastorally complete moment.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Verses 4-10 — the heart of the passage — are entirely absent.** Peter's central move in this section is corporate and Christological: come to Christ the living stone, and you are being built into a spiritual house, a holy priesthood, to offer spiritual sacrifices. You are a chosen race, a royal priesthood, a holy nation, a people for his own possession — that you may proclaim his excellencies. This is the doctrinal engine that powers both the imperative to put off sin (vv. 1-3) and the call to abstain from fleshly passions (vv. 11-12). By skipping it, the sermon presents the Christian life as discipline-and-growth without grounding it in the corporate identity and election that make obedience intelligible.
+
+2. **The MacArthur citation displaces the preacher's own expository voice.** The extended quotation from MacArthur on "long for the pure milk of the word" — including the full list of Old Testament cross-references — occupies a central section of the sermon. This is not a brief supporting reference; it is the sermon's primary expository content on v. 2. When MacArthur's exegesis does the work, it raises the question of who is preaching. The congregation needs to hear their shepherd's encounter with the text, not a curated reading of another man's encounter with it.
+
+3. **The gospel section is not merely thin — it is literally unfinished.** "All of this starts with the gospe." ends mid-word. This is presumably a note to finish the sermon, not the sermon itself. But it is symptomatic of a pattern across both sermons: the gospel is acknowledged as the foundation but never laid. Two consecutive sermons on 1 Peter have arrived at the gospel moment and stopped. This is a structural and pastoral deficiency that must be addressed.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see the degree to which his sermons are illustration-driven rather than text-driven. The illustrations are often genuinely good — the dog bed, the Chinese prisoners, the prodigal pig slop — but they are doing the theological heavy lifting that exegesis should be doing. When a story provides the sermon's emotional weight and an outside scholar provides the expository content, the preacher's own encounter with the text is functionally absent. What the preacher has read and felt about the text has not yet been converted into expository proclamation.
+
+There is also a blind spot around vv. 4-10. The passage's election language ("chosen race," "royal priesthood") likely feels less immediately pastoral or practical than the growth language. But it is precisely this corporate identity — you are a people for God's own possession — that gives the commands their weight. The imperatives are grounded in the indicatives. Skipping the indicatives weakens the imperatives.
+
+---
+
+### 12. Illusion of Strength
+
+The MacArthur citation creates an illusion of expository depth. The string of Old Testament references — Psalm 19, Psalm 119, Job 23, Romans 7 — gives the appearance of wide-ranging biblical exposition. But these are MacArthur's cross-references, not the preacher's. A congregation that is not tracking the sources will assume the exegetical richness belongs to this sermon. That is an illusion. The depth is borrowed.
+
+---
+
+### 13. Missed Opportunity
+
+Verse 9 is among the most identity-dense verses in the New Testament: "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light." Every phrase is a covenant title transferred from Israel to the church in Christ. The passage is not merely about personal spiritual growth — it is about the church's corporate identity as the new Israel, summoned to priestly proclamation. The sermon's closing section about the theology-knowledge-growth cycle leading to "greater love for... those around us in a lost and dying world" gestures vaguely at what v. 9 says explicitly and magnificently. That verse would have powered the entire sermon's conclusion and provided the "therefore" the exhortation needs: you are a royal priesthood — *therefore proclaim.*
+
+---
+
+### 14. Surgical Fixes (5 Specific)
+
+1. **Preach the whole passage.** Divide the sermon into two natural movements: (1) vv. 1-3 — put off the old, long for the Word; (2) vv. 4-10 — here is *why*, grounded in who you are in Christ. The imperatives of vv. 1-3 are unintelligible without the indicatives of vv. 4-10. The sermon currently has imperatives without foundation. Lay the foundation.
+
+2. **Replace the MacArthur block with your own expository work on v. 2.** Use MacArthur as a preparation resource, not as sermon content. The preacher should arrive at the congregation with his own encounter with the word "epipothesate" — ask, in your own voice: what does it mean to long for something with this intensity? What would it look like this week for you to hunger for Scripture the way you hunger for breakfast? That is the preacher's job.
+
+3. **Use verse 9 as the sermon's climax and the exhortation's foundation.** "You are a royal priesthood, a holy nation, a people for his own possession, that you may proclaim his excellencies." That is Peter's own exhortation. Build to it. Then say: "This is who you are. Now live like it. Proclaim it. This week, to one person — tell them what he called you out of darkness into."
+
+4. **Finish the gospel.** Do not end on a note or a truncated word. Articulate: Christ came, lived without sin, died under God's wrath as a substitute for his people, rose victorious, and those who trust in him alone are born again to a living hope. Issue the call to the unbeliever: come to him. Issue the call to the believer: remember that this is what you stand on, not your growth, not your spiritual hunger — his finished work.
+
+5. **Trim the dog bed illustration by half and the prodigal retelling by half.** Both are effective. Both are too long. The dog bed takes four paragraphs to make a two-sentence point. The prodigal retelling adds pig organ detail that is memorable but extends beyond the illustration's service to the text. Shorter illustrations press harder.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** As with the prior sermon, the issue is pastoral warmth without expository completion, not cold orthodoxy. The preacher is clearly engaged and pastorally present. The problem is structural and expository, not temperamental.
+
+---
+
+### 16. Weight of Glory Statement
+The sermon contains moments of genuine doxological imagination — the Chinese Christians weeping over Numbers, Dimitri's call-back — but does not build to a moment where God's majesty overwhelms the congregation; the sermon accumulates and trails off rather than ascending and landing.
+
+**Bonus: +2/5**
+
+---
+
+### 17. Rubric Fit Note
+This passage (1 Peter 2:1-12) is exceptionally well-served by this rubric, particularly the Gospel Centrality and Conscience categories. The passage is simultaneously identity-declarative (vv. 4-10), imperative (vv. 1-3, 11-12), and gospel-rooted (v.3 — "if indeed you have tasted that the Lord is good"). The rubric's weight on Exposition (25 pts) correctly captures what this sermon most needs: the passage's own argument must drive the sermon. No genre strain. The rubric fits the passage; the sermon did not reach the passage's full depth.
+
+**Cross-Sermon Pattern Note (1 Peter 1(b) and 1 Peter 2 evaluated together):** Both sermons share the same structural deficiencies — illustrations-over-exposition, absent exhortation, truncated gospel. This is not random. It is a pattern. The preacher has pastoral instincts, a genuine love for his congregation, and the ability to tell a memorable story. What is consistently absent is: (1) verse-by-verse engagement with the text's own argument, (2) a completed gospel declaration, and (3) a direct imperative issued to the congregation. These are not peripheral concerns — they are the core of the act of preaching. Addressing this pattern would transform these sermons from pastoral talks into sermons.

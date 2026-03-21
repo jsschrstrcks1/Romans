@@ -209,3 +209,193 @@ Does anyone have questions about the reading this week, or anything we've discus
 ---
 
 **Week 2**: Next week we will finish Chapter 1, and may get into Chapter 2 as well.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+Teachable Doctrinal Survey with Factual Landmines and a Missing Gospel Center
+
+---
+
+### 2. One-Sentence Summary
+A wide-ranging Sunday school session that handles cessationism, eternal security, and prevenient grace with pastoral warmth and reasonable doctrinal instinct, but whose factual errors, light exegetical grounding, and absence of a clear gospel call keep it from doing the deep work the texts demand.
+
+---
+
+### 3. Berean Gate Result
+**Conditional Pass — with significant qualification.**
+
+This is a Sunday school lesson, not a sermon proper. The three-part structure covers 1 Corinthians 13:8–10, John 10:27–28, and the Tozer/prevenient grace material with broadly accurate doctrinal direction. The main points are consistent with the texts used.
+
+However, the Scopus Test strains here: there is no single thesis the session consistently serves. The session is a survey, not an argument, and several texts are visited as proof-texts rather than opened. The Authority Test mostly passes — the teacher does not soften the texts — but the session never presses the hearers under the weight of the Word in the way a text-driven exposition should.
+
+*Verdict: The gate passes on a charitable reading appropriate to the Sunday school format, but the session does not rise to expository preaching.*
+
+---
+
+### 4. Fatal Flaw Flags
+**Two flags triggered — score capped at 69.**
+
+**Flag 1: No clear gospel presentation.** The session deals extensively with doctrines *about* salvation (eternal security, prevenient grace, total inability) without at any point presenting the gospel itself. The finished work of Christ — his death as the propitiation for sin, justification by faith alone — is assumed throughout but never proclaimed. A person could attend this session, receive the doctrinal content, and never hear clearly *how* to be saved. This is a structural failure, not a minor omission.
+
+**Flag 4: Application is entirely generic.** The session ends with "where should our focus be?" and a closing reflection on focus and peace. There is no specific call directed at particular kinds of hearers. No one is pressed toward repentance, faith, or a concrete change in belief or practice.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14/25**
+- *Textual Fidelity*: 6/10 — The texts are quoted and engaged, but often at surface level. The 1 Corinthians 13:8–10 section is the strongest exegetical moment (the *pauō* middle-voice observation is legitimate and clearly explained). However, the Ephesians 2:1–10 and John 10:27–28 passages function as proof-texts rather than opened passages. No sustained movement through any full text.
+- *Contextual Awareness*: 3/5 — The immediate context of 1 Corinthians 13 is noted (sign gifts, apostolic era), but the broader argument of 1 Corinthians 12–14 is not engaged. Ephesians 2 is quoted in full but not worked through.
+- *Exegetical Clarity*: 3/5 — The Greek work on *pauō* and *katargeō* is well-handled for a lay audience, appropriately accessible. The *katargeō*-as-"erode" characterization is imprecise (already noted in the manuscript's own annotation), and the correction should have been made in delivery, not left only in the notes.
+- *Logical Faithfulness*: 2/5 — The cessationist argument is coherent within its own assumptions, but the "perfect = canon" interpretation of 1 Corinthians 13:10 is presented as settled when it is genuinely contested. The FCF (Fallen Condition Focus) is largely absent — the session does not name the specific fallen condition these texts were written to address.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+- *Christ-Centeredness*: 4/7 — Christ appears throughout but as doctrinal furniture rather than the sermon's living center. The affirmations about Christ's sustaining work in salvation are present but underdeveloped.
+- *Redemptive-Historical Awareness*: 2/3 — The cessationist argument implicitly relies on a redemptive-historical framework (apostolic era vs. canon era), but this is not made explicit or celebrated.
+- *Doctrinal Precision*: 3/4 — The eternal security material is biblically grounded and warm. The characterization of Arminianism ("by your own power continue in God") is reductive and misrepresents what most Arminian theologians actually claim. This is a precision failure at a teaching moment.
+- *Confessional Alignment (1689)*: 3/4 — The overall direction is Reformed-compatible. The soft cessationist position is appropriately nuanced. The prevenient grace discussion, while drawing on Tozer (who uses the term in a Wesleyan sense), is deftly reframed in a direction consistent with irresistible grace — though this reframing is never made explicit.
+
+**3. Gospel Centrality & Force — 5/15**
+- *Clarity of the Gospel*: 1/5 — No clear presentation of justification by faith, the atonement, or the necessity of repentance and faith.
+- *Necessity of Christ*: 3/5 — Christ is necessary to the doctrinal framework (eternal security, prevenient grace), but the session never makes his necessity *scandalous* or *personal*. He is needed as a theological mechanism more than as a Savior from wrath.
+- *Cross-Centered Gravity*: 1/5 — The cross does not appear. The session does not move toward Calvary. The Synagogue Test: a devout Jewish or Muslim attendee could follow most of this session without encountering the offense of the cross.
+
+**4. Conscience & Applicatory Force — 7/15**
+- *Heart Penetration*: 3/5 — The personal anecdotes (car miracle, mother's arthritis, the longing for God) bring warmth and pastoral texture. The closing reflection on focus and peace is genuinely moving. But the conscience is never cornered.
+- *Specificity*: 2/5 — "Where should our focus be?" is the closest thing to specific application, and it is essentially generic. No differentiated address to different kinds of hearers.
+- *Spiritual Differentiation*: 2/5 — The session addresses primarily the believer who already holds Reformed-ish convictions. It does not reach the backslider, the newly converted, the hardened skeptic, or the person quietly doubting their salvation. Perkins' taxonomy is almost entirely unaddressed.
+
+**5. Exhortation & Response — 3/8**
+- *Call to Response*: 1/4 — There is no "therefore." The session explains doctrines, raises questions, and closes with a reflective moment. It never explicitly tells anyone what they must now believe, repent of, or do.
+- *Equipping for Holiness & Witness*: 2/4 — The discussion of pursuing God and keeping focus on Christ has implicit equipping value, but it is not named as such and not connected to concrete obedience.
+
+**6. Structure & Logical Flow — 6/9**
+- *Clarity of Outline*: 3/4 — The three-part structure (cessationism / eternal security / prevenient grace) is discernible. The pivot between parts is sometimes abrupt, especially between Part One and Part Two.
+- *Progression*: 2/3 — The session builds somewhat, but there is no overarching argument that the three parts serve together. They are three separate topics in one session rather than three movements in one argument.
+- *Unity*: 1/2 — Three distinct doctrinal topics with no unifying thesis creates diffusion. The session title names both cessationism and prevenient grace but does not explain how they relate.
+
+**7. Illustration & Imagination — 4/5**
+- *Relevance*: 2/2 — The car, the mother's arthritis, Gothic architecture, the blinders analogy, the moth-to-flame image — these are grounded in real congregational life and genuinely effective.
+- *Clarity*: 1/2 — Most illustrations illuminate. The Gothic architecture illustration is evocative but slightly disconnected from the preceding argument.
+- *Memorability*: 1/1 — The arthritis/car sequence and the "dead men don't choose" framing will be remembered.
+
+**8. Sermonic Force — 3/5**
+- *Reads as Preaching*: 1/2 — The conversational format, direct address, and rhetorical questions ("What can a dead man do?") give this some oral energy. But substantial sections read as lecture rather than proclamation.
+- *Conviction on the Page*: 1/2 — The doctrinal content is present, but it is not driven home with the urgency the texts demand.
+- *Cadence and Breath*: 1/1 — The sentence variation is natural for the format, and the personal anecdotes provide appropriate rhythm breaks.
+
+---
+
+### 6. Cognitive Load Assessment
+**−1 (Slightly dense)**
+
+Three distinct doctrinal topics in one session — cessationism, eternal security, and prevenient grace — plus Greek word study, a secondary source (Tozer), and several proof-texts, is a substantial cognitive load for a lay Sunday school class. An average attender would track the individual sections but might struggle to integrate them into a single takeaway. One fewer topic, or a single unifying thesis connecting all three, would improve uptake significantly.
+
+---
+
+### 7. Total Score
+14 + 12 + 5 + 7 + 3 + 6 + 4 + 3 = **54/100** (before cognitive load modifier)
+**−1** (cognitive load)
+**= 53/100**
+
+*Score is capped at 69 due to two fatal flaw flags — the cap does not apply since the raw score falls below it. The 53 reflects the actual diagnostic weight of the deficiencies.*
+
+**Interpretation: Fundamentally flawed — not because the theology is wrong, but because the doctrinal survey format replaces gospel proclamation with doctrinal information transfer. Significant structural revision needed.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Ambiguous. The doctrinal content points toward Christ's work, but the emotional center of gravity is the teacher's personal anecdotes and experiences. The ratio tips toward self-narration more than Christ-exaltation.
+
+2. **Did I encounter God, or just ideas about Him?**
+Largely ideas. The Psalm 63:1 and Psalm 42:1 moments are the closest approach to an encounter, but they pass quickly without being pressed into the conscience.
+
+3. **Was I comforted, convicted, or merely informed?**
+Primarily informed. The eternal security section offers some comfort. The session does not convict. No one is moved toward repentance or deeper faith by the session's structure — they are equipped with information.
+
+---
+
+### 9. Strengths (Top 3)
+
+**Strength 1 — Transparent Greek Engagement**
+The handling of *pauō* in the middle voice (1 Corinthians 13:8) is the strongest exegetical moment in the session. The distinction is explained clearly for a lay audience, the conclusion is appropriately qualified (the notes correctly flag that "never begin again" is a theological inference, not a lexical meaning), and it models honest exegetical engagement without seminary jargon. This is the rubric's "exegetical transparency" standard met.
+
+**Strength 2 — Pastoral Texture and Personal Illustration**
+The car-to-Miami, mother's arthritis, and personal longing for God illustrations are genuinely effective. They ground abstract doctrines in lived experience, demonstrate pastoral vulnerability, and prevent the session from becoming a dry lecture. The "dead men don't choose" rhetorical question ("What can a dead man do? What can he see? What can he choose?") is sharp and memorable.
+
+**Strength 3 — Balanced Soft Cessationism**
+The handling of cessationism avoids the brittleness of hard cessationism without capitulating to continuationism. The distinction between God's sovereign freedom to act and the absence of apostolic-era sign gifts as regular gifts is theologically careful. The conclusion — "we should absolutely ask, but it depends on God, not on Bob" — is pastorally wise and well-balanced.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+**Weakness 1 — No Gospel Presentation (Fatal Flaw)**
+Three texts in this session directly address the mechanism of salvation (Ephesians 2:1–10, 1 Corinthians 2:14–16, 1 John 4:19), yet the session never pauses to present the gospel. Ephesians 2:1–10 is arguably the clearest gospel text in the Pauline corpus, and it is quoted in full — but only as evidence for prevenient grace, not as an occasion to preach the death and resurrection of Christ as the ground of salvation. A session teaching the doctrine of salvation that does not present salvation is a serious pastoral failure.
+
+**Weakness 2 — Mischaracterization of Arminianism**
+The description of Arminianism as believing one can "in your own power continue in God" is a strawman that would be rejected by every major Arminian theologian. Arminius, Wesley, and classical Arminian theology insist on the necessity of prevenient grace for any movement toward God — a position that Tozer himself holds, as the very quote from Chapter 1 demonstrates. The irony here is acute: the teacher correctly notes that Tozer was Arminian, quotes Tozer on prevenient grace approvingly, and then mischaracterizes Arminianism. This creates a theological muddle that will confuse attentive students.
+
+**Weakness 3 — Factual Errors Without In-Session Correction**
+The manuscript correctly flags two significant factual errors: (1) the attribution of Revelation to Paul rather than John, and (2) the "Paul died on the island of Patmos" implication. These errors appear in the session as delivered, with corrections only in the archival notes. If these notes are what was actually said, the congregation received factually incorrect information about the authorship of a New Testament book. An error of this magnitude — confusing Paul and John as the author of Revelation — undermines the teacher's authority on the very text he is using to establish cessationism.
+
+---
+
+### 11. Blind Spots
+
+**The tension between Tozer and the session's own theology is never resolved.** The teacher notes that Tozer was Arminian, treats his cessationism with suspicion, and then spends the third portion of the session endorsing Tozer's doctrine of prevenient grace while implicitly reframing it as Reformed irresistible grace. The congregation is left holding two things: Tozer is wrong about eternal security, but right about prevenient grace — without any explanation of what makes these positions compatible or inconsistent. A listener could leave with a muddled view of how Arminianism and Calvinism actually differ.
+
+**The session does not see its own implicit prevenient-grace-as-irresistible-grace move.** Tozer uses "prevenient grace" in a Wesleyan-Arminian sense: God's grace *precedes* and *enables* free human response, but does not *irresistibly determine* it. The Reformed doctrine is *effectual calling* or *irresistible grace* — God not only enables but ensures the response. The session treats these as identical by using Tozer's language. The confusion is never surfaced.
+
+---
+
+### 12. Illusion of Strength
+
+**The personal anecdote sequence (car, mother, Haiti) feels like pastoral depth but is not exegetically grounded.** The illustrations are warm and effective, but they are the session's emotional center of gravity. The doctrinal material supports the illustrations rather than the illustrations supporting the text. A listener emerges remembering the car story and the arthritis story more than the meaning of *pauō* in the middle voice or the force of "dead in trespasses and sins." The emotional resonance of the personal stories creates a feeling of sermonic power that the exegesis has not earned.
+
+---
+
+### 13. Missed Opportunity
+
+**Ephesians 2:1–10 is the session's greatest unused treasure.** The entire passage is quoted verbatim, and the teacher draws on it for total inability ("dead men don't choose"). But Ephesians 2:1–10 contains the most compressed statement of the gospel in Scripture: *wrath (v.3) → mercy (v.4) → grace (v.5) → resurrection (v.6) → display of glory (v.7) → justification by faith (v.8–9) → sanctification unto works (v.10).* This is the complete ordo salutis in ten verses. The session touches only verses 1–5. The teacher had the gospel in his hands and did not preach it. This is the missed opportunity of the entire session.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+**Fix 1 — Correct the Revelation/Paul error before it propagates.**
+The attribution of Revelation to Paul is a significant factual error. If this session is transcribed, shared, or taught again, this must be corrected explicitly — not only in archival notes but in the teaching itself. Correct the error at the source: "Revelation was written by the Apostle John, not Paul. Paul died approximately 64–67 AD; John wrote Revelation around 95 AD."
+
+**Fix 2 — Add a gospel presentation at the close of Ephesians 2:1–10.**
+After quoting the full passage and making the total-inability point, pause and preach the gospel. Something like: "But notice what comes next — 'But God, being rich in mercy, because of the great love with which he loved us...' Here is the good news: the same God who made you dead, makes you alive. He does it by grace. He does it through the finished work of Jesus Christ — who bore the wrath you deserved, died the death that was yours, and rose to secure a life you cannot earn. This is the gospel. Not self-improvement. Not effort. A God who raises the dead."
+
+**Fix 3 — Correct the characterization of Arminianism.**
+Replace "Arminianism says you can in your own power continue in God" with something accurate: "Arminianism holds that a genuinely converted person can, through persistent and willful apostasy, forfeit salvation. We disagree — not because we think human effort saves, but because Scripture teaches that God preserves what he purchases. John 10:28 is God's own promise, not a description of our grip on him."
+
+**Fix 4 — Surface the Reformed/Arminian distinction in the prevenient grace material.**
+When using Tozer on prevenient grace, add a single clarifying sentence: "Tozer calls this 'prevenient grace' — grace that goes before us. We would call it effectual calling, or irresistible grace. The difference is not whether God acts first — he does — but whether that action *enables* our free response (Tozer's view) or *ensures* it (our view). Either way, we agree: no one seeks God unless God first seeks them."
+
+**Fix 5 — Add one differentiated application for the non-believer.**
+The session addresses people who are already in the congregation and broadly sympathetic to Reformed theology. Add a direct address to the person who is attending but has never responded to the gospel: "Some of you are here today, you've grown up around this teaching, and you know all the right answers — but you have never turned from your sin and trusted Christ. Everything we have said today about total inability, about dead men not choosing, about God raising the dead — that is the diagnosis and the cure. The cure is not better theology. The cure is Christ. Will you turn to him today?"
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered in the classic sense** — the session does not score high enough in theology and exposition for the dead orthodoxy pattern (high theology, low conscience) to apply. However, a related pattern is present: *warm sincerity without gospel proclamation*. The session is personally authentic and pastorally warm, but this warmth substitutes for the necessary edge of gospel declaration. Doctrinal information is delivered with genuine care, but genuine care is not the same as gospel preaching.
+
+---
+
+### 16. Weight of Glory Statement
+
+The session carries pastoral warmth and genuine personal investment, but the eternal weight — the sense that what is being proclaimed will matter at the judgment seat — is largely absent; God appears as the subject of doctrine rather than as the living Lord before whom all must stand.
+
+---
+
+### 17. Rubric Fit Note
+
+This rubric is designed for sermon manuscripts, and this document is a Sunday school lesson transcript — a hybrid of teaching, discussion prompts, and personal reflection. The rubric bends slightly under the format: the structural expectations (single dominant idea, progressive argument, exhortation toward response) are not natively suited to a multi-topic survey discussion class. The fatal flaw flags for "no gospel presentation" and "generic application" are, however, *more* urgent in a Sunday school context than in a sermon context, because Sunday school often reaches people who will not be in the main service, and doctrinal formation without gospel proclamation is precisely where Arminian and nominally Reformed churches produce educated but unconverted attenders. The rubric's gospel-centrality requirements apply fully here.

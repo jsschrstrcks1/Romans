@@ -132,3 +132,185 @@ And next week, Paul will take this love outside the church—to enemies, persecu
 And all that starts with a relationship with Jesus, by being plugged into the power source. 
 
 Gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Pastoral Warmth With a Truncated Gospel and an Underdeveloped Conscience**
+
+---
+
+### 2. One-Sentence Summary
+A genuinely pastoral opening of Romans 12:9–13 that demonstrated real exegetical care and community-shaping application while consistently stopping short of a full gospel proclamation, pressing the conscience with insufficient specificity, and ending with a closing that names "Gospel" without actually preaching it.
+
+---
+
+### 3. Berean Gate Result
+**PASS**
+
+- **Scopus Test**: Pass. The sermon's controlling thesis — that genuine, gospel-shaped love is morally courageous, family-warm, and enduring — arises directly from Paul's argument in vv. 9–13. The main point of the sermon is the main point of the text.
+- **Authority Test**: Pass, with a minor caution. The preacher handles the text honestly and does not soften its demands. The extended domestic-abuse pastoral application (while pastorally sensitive) runs the risk of allowing a contextual concern to dominate the passage's primary movement. This is a structural judgment call, not a failure of authority.
+
+---
+
+### 4. Fatal Flaw Flags
+**One flag triggered — score capped at 69.**
+
+- **Flag 4 — Application is largely generic**: The self-examination questions at the end of Point 6 ("Is my love becoming more genuine over time?", "Am I quicker to honor than to critique?") read as diagnostic prompts without differentiated address. They are appropriate but fail to corner the self-righteous, distinguish the sufferer from the hardened, or specifically address the categories of hearers present. The conscience is nudged, not pressed.
+- **Flag 5 — Exhortation is present but weak**: The sermon does attempt a call toward the end ("bring it to the Lord," "Paul would have us ask whether the gospel has truly taken root"), and this is enough to keep the flag from fully triggering. However, the final "Gospel." is a label, not a proclamation. The sermon ends before actually preaching the gospel it references throughout.
+
+*One fatal flaw flag is confirmed: Flag 4 (Application insufficiently differentiated and generic). Score is capped at 69.*
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 19/25**
+- *Textual Fidelity* — 8/10: The sermon tracks the passage word-by-word competently. All six points arise from the text. However, Point 5 (vv. 11–12) moves quickly through four distinct imperatives without adequate exegetical unpacking. The Colossians 3 integration, while theologically sound, briefly loosens the orbit from the Romans 12 text.
+- *Contextual Awareness* — 4/5: The connection to Romans 12:1–2 and the broader Romans 1–11 indicative/imperative structure is named and used well.
+- *Exegetical Clarity* — 4/5: The unpacking of *anupokritos* ("without hypocrisy/mask") and *philadelphia* ("brotherly affection") is clear and useful. More exegetical engagement with the Greek structure of the imperatives in vv. 11–12 would have strengthened Points 5.
+- *Logical Faithfulness* — 3/5: The FCF (Fallen Condition Focus) is partially present — "our love is conditional... self-protective" — but is not developed with specificity or sustained throughout the sermon. The domestic abuse pastoral application, while appropriate, occupies disproportionate space relative to the text's emphasis.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+- *Christ-Centeredness* — 5/7: Christ is present — referenced as model ("little Christs"), as the one who "went to the cross," as the source of hidden identity (Colossians 3). But the Christ-connection is largely illustrative rather than redemptive-historical. Christ is invoked as example and security, but not as the ground of imputed righteousness that enables new love.
+- *Redemptive-Historical Awareness* — 2/3: The indicative/imperative dynamic is named and the connection to Romans 1–11 is acknowledged. Adequate but not developed.
+- *Doctrinal Precision* — 3/4: Sound throughout. No theological errors detected. The Colossians 3 integration is handled carefully.
+- *1689 Pulse* — 3/4: No confessional contradictions. The sermon stays within reformed-evangelical boundaries. The grace-as-source-of-obedience theme is present but understated.
+
+**3. Gospel Centrality & Force — 8/15**
+- *Clarity of the Gospel* — 2/5: The sermon refers to the gospel repeatedly ("the gospel is real," "rooted in grace," "grace does not expose us to shame us") but never actually articulates it. Justification by faith is absent. The finished work of Christ is gestured at ("went to the cross to receive the holy wrath of God in the place of sinners") but never proclaimed as good news requiring a response. The closing word "Gospel." is a label, not a sermon.
+- *Necessity of Christ* — 3/5: Christ is necessary to the sermon's logic — identity in Christ, love sustained by Christ. But the necessity is functional (Christ as enabler of love) more than salvific (Christ as the only ground of a sinner's standing before God).
+- *Cross-Centered Gravity* — 3/5: The sermon moves toward Christ but not toward the cross as the definitive act of atonement. The Synagogue Test is partially triggered: a devout moral theist could receive significant portions of this sermon without being confronted by the exclusive necessity of Christ's blood.
+
+**4. Conscience & Applicatory Force — 8/15**
+- *Heart Penetration* — 3/5: The sermon reaches the affections in moments — the abuse pastoral application, the "bruised reed" reference, the self-examination prompts. But it targets primarily the suffering and the sincere. The self-righteous, the religiously comfortable, and the church member who is harboring pride while performing service are not specifically addressed.
+- *Specificity* — 3/5: The domestic abuse application is specific and courageous. The rest of the application (honor given, hospitality practiced, endurance in prayer) is named but not concretely located in this congregation's actual life.
+- *Spiritual Differentiation* — 2/5: Perkins' taxonomy is largely collapsed into two categories: the believer (being encouraged) and the sufferer (being protected). The hardened, the knowledgeable-but-unmoved, the backslider, and the humbled-but-not-yet-believing are not reached. The sermon lacks a moment where a particular sinner is cornered.
+
+**5. Exhortation & Response — 5/8**
+- *Call to Response* — 2/4: The final self-examination questions constitute soft application more than hard exhortation. The invitation to "bring it to the Lord" and the warning about whether the gospel has truly taken root are present but underweight. There is no clear "therefore" moment — no declaration of what the congregation must now do, repent of, or pursue.
+- *Equipping for Holiness & Witness* — 3/4: The sermon does gesture toward witness ("earned a hearing," "opens doors") and corporate life. The church-as-body framing is consistent throughout.
+
+**6. Structure & Logical Flow — 7/9**
+- *Clarity of Outline* — 3/4: Six clearly titled points with a progression from individual love to communal love to visible love. The outline is traceable. However, the domestic abuse application in Points 1–3 functions somewhat as a theme within a theme, which slightly fragments the flow.
+- *Progression* — 3/3: The sermon builds effectively from "love without a mask" through family affection, endurance, and visibility. The movement is logical.
+- *Unity* — 1/2: The dominant idea (genuine gospel love) is clear, but the domestic abuse application recurs across three points in a way that begins to compete with the passage's own primary concern (mutual honor and service among believers).
+
+**7. Illustration & Imagination — 3/5**
+- The flashlight illustration is functional but weak — it's a familiar metaphor that doesn't arise from this text's world. The Christ-at-the-temple/Christ-at-the-cross contrast is the sermon's strongest illustrative moment. The "bruised reed / smoldering wick" quotation is well-placed and emotionally effective. No single illustration will be especially memorable next week.
+
+**8. Sermonic Force — 4/5**
+- The manuscript reads as preaching, not presentation. Oral cadence is evident. Direct address is used ("Some of you," "If you are being abused"). The sentence structure varies and the writing is clean. The final section loses momentum — the sermon ends on a whisper ("Gospel.") rather than a trumpet.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+
+The sermon is generally accessible. The domestic abuse pastoral application introduces a second controlling concern alongside the primary text exposition, which slightly increases tracking difficulty. Most ordinary hearers will be able to follow the main argument and take home one clear truth (genuine love has moral backbone). One fewer sub-theme would sharpen focus.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 19/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 8/15 |
+| Conscience & Applicatory Force | 8/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **67/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total (before cap)** | **68** |
+| **Fatal Flaw Cap Applied** | **Capped at 69** |
+| **Final Score** | **67/105** |
+
+**Interpretation: Concerning gaps.** The sermon explains and pastoral-applies but does not fully preach. Significant revision needed, particularly in gospel proclamation and conscience-level differentiation.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+   Partially yes. The sermon points to Christ as the hidden life, as the Christlike model, as the power source. But because the gospel is never fully proclaimed, the hearer is left more with a vision of what their love should look like than with a fresh encounter with the One who loved them first. The mirror is cleaner than the window.
+
+2. **Did I encounter God, or just ideas about Him?**
+   Ideas, mostly. The sermon is warm and pastoral. But the moments where God's character becomes weighty — His holiness, His specific wrath against sin, His particular love for the suffering — are gestured at rather than pressed. The "bruised reed" quotation is the closest the sermon comes to landing with divine weight.
+
+3. **Was I comforted, convicted, or merely informed?**
+   The suffering hearer is comforted. The curious hearer is informed. The complacent, the self-righteous, and the church member going through the motions are not meaningfully convicted.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Pastoral courage on domestic abuse**: The willingness to address abuse directly — naming that "genuine love does not mean you simply stay and keep taking the blows" — is both textually grounded (using the "if possible, so far as it depends on you" qualifier) and pastorally necessary. This is not an addition to the text; it is faithful application of the text's own qualifiers. Few preachers do this as carefully.
+
+2. **Indicative/Imperative structure maintained throughout**: The sermon consistently returns to the foundation — "Paul assumes that something decisive has already happened in these believers" — and roots each imperative in prior grace. This prevents the sermon from sliding into moralism and reflects genuine theological instinct.
+
+3. **Family-over-association ecclesiology**: The "church is not a volunteer association, it is a family created by grace" theme is developed naturally across Points 3–4 and given real teeth. The distinction between cold suspicion with a moral checklist and covenant affection with arms open is well-drawn and memorable.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is named but never preached**: The sermon's final word is "Gospel." — a caption for what was never shown. Throughout the sermon, grace is referenced, the cross is mentioned once, and Christ's work is gestured at. But there is no point at which a genuinely lost person hears what they must believe, why Christ's death is necessary, how they can be right with God, or what the good news actually is. A sermon on Christian ethics must still contain the gospel that makes Christian ethics possible — and here it is missing as proclamation.
+
+2. **Conscience application is insufficiently differentiated**: The self-examination prompts at the close (Point 6) address only one type of hearer: the sincere believer who may be growing slowly. The person who is not growing, the person using "grace" as a cover for ongoing indifference, the prideful elder, the person whose "genuine love" is really performance, the person sitting in church wondering if they've ever been truly converted — none of these are specifically addressed. Perkins' taxonomy is barely touched.
+
+3. **Point 5 (vv. 11–12) is rushed**: Four distinct imperatives — "fervent in spirit, serve the Lord / rejoice in hope / patient in tribulation / constant in prayer" — are treated in a single point with bullet-point brevity. Each of these contains enough weight for a full point. The cumulative effect is a section that names truths without opening them. The congregation is told what Paul says but not walked through what Paul means.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears to be preaching primarily to the suffering — those in difficult relationships, those navigating abuse, those tempted to isolate. This is admirable pastoral instinct. But it creates a blind spot for the comfortable, the self-satisfied, and the morally confident. The sermon does not ask the prosperous, relationally stable, and doctrinally confident churchgoer to examine whether their love is genuine in the sense Paul means — whether they actually hate what God hates and cling to what God calls good in their own lives, not just in others'.
+
+Additionally, the FCF (Fallen Condition Focus) is never named with theological precision. The sermon identifies symptoms ("our love is conditional, self-protective") but does not name the root: the heart's fundamental orientation toward self rather than God as the worship problem that gospel grace addresses. Without naming the disease precisely, the medicine feels like good advice rather than necessary grace.
+
+---
+
+### 12. Illusion of Strength
+
+The domestic abuse pastoral application reads as the sermon's most specific and courageous section — and it is genuinely good. But its length and prominence create the impression that the sermon has done deep conscience work when in fact it has addressed one category of hearer (the sufferer) at length while leaving the other six largely untouched. The specificity in this section masks the generality everywhere else. A reader who finishes the sermon may feel that hard things were said — and some were — but the hard things said were largely limited to one pastoral situation.
+
+---
+
+### 13. Missed Opportunity
+
+The command "Outdo one another in showing honor" (v. 10b, Point 4) is the passage's most countercultural and corporate demand — and the sermon treats it in the fewest words. This imperative strikes directly at the comparison, platform-seeking, and recognition-hunger that characterize not just the world but evangelical church culture. The preacher notes the redeemed competition correctly but does not press it into the congregation's specific experience: the musician who feels overlooked, the elder who resents a newer voice, the volunteer who wonders why no one noticed. This was the sermon's sharpest edge and it was left mostly unswung.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Preach the gospel in the conclusion — actually preach it.** The word "Gospel." at the end is a marker, not a proclamation. Add 4–6 sentences that explain what the gospel is: that the love described in Romans 12:9–13 is only possible because Christ lived the life we couldn't live, died the death we deserved, rose in vindication, and now gives His Spirit to produce this love in us. Make justification by faith explicit. Give the lost hearer something to believe, not just something to admire.
+
+2. **Differentiate the conscience application across at least three hearer categories.** After the self-examination prompts, add a paragraph that directly addresses: (a) the person who is performing Romans 12 love for approval — your love is not genuine, it is strategic; (b) the person who has hardened toward a brother or sister while calling it "discernment" — you may be holding a grudge in God's name; (c) the unconverted hearer — you cannot produce this love from moral effort, only from a new heart that Christ alone can give.
+
+3. **Give Point 5 (vv. 11–12) its own weight.** Either expand this point significantly or choose one of the four imperatives ("constant in prayer") to develop fully. The current treatment skims the surface of four rich commands. One deep well is more useful than four shallow ones.
+
+4. **Tighten the domestic abuse theme to one point.** The application is valuable but returns in Points 1, 2, 3, and 5. Once developed fully (in Point 1 or Point 2), subsequent references can be brief callbacks rather than re-explanations. This will sharpen the sermon's overall unity and allow the other points to carry their own weight.
+
+5. **Name the Fallen Condition Focus with precision.** Before entering the exposition, identify specifically what aspect of fallen humanity this text addresses: we are naturally incapable of genuine, other-centered love because we are oriented by nature toward self-worship and self-protection. Name this clearly and let the gospel answer it directly.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon has pastoral warmth and genuine compassion. It does not read as bloodless orthodoxy. The weakness here is not cold correctness but incomplete proclamation — the sermon is warm but not yet full.
+
+---
+
+### 16. Weight of Glory Assessment
+The sermon carries genuine pastoral weight and intermittently rises toward the eternal — particularly in the "bruised reed / smoldering wick" close and the Colossians 3 identity anchor — but does not sustain the gravity of a full encounter with God. **+2/5**
+
+---
+
+### 17. Rubric Fit Note
+Romans 12:9–13 is an ethical/paraenetic passage — a list of imperatives built on prior indicatives. The rubric applies well here, with the standard caveat that ethical passages require extra care to ensure the gospel-indicative foundation is explicitly proclaimed, not merely assumed. The sermon's primary structural challenge is that it applies the imperatives carefully but underpreaches the indicatives that make them possible. The rubric's Gospel Centrality and Conscience categories are the appropriate pressure points for this genre. No genre strain detected.

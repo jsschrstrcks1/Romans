@@ -57,3 +57,219 @@ What that looks like today starts in Romans 3:23. (gospel)
 - Foodpantry Tuesday – having a hard time finding room for clothing, so for now we are sticking with food. We've been giving out spaghetti and Tuna, and canned veggies. Juice packs for the kids, and powdered milk. We could use some more tuna and canned spaghetti and meatballs, or you can make a donation, and we will do the shopping. Then everyone gets the same meal. We could also use some new unused toothbrushes and tooth paste.
 - Teacher training coming next month.
 - First Tuesday is the Bobby Jones memorial singalong at the nursing home.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Warm Pastoral Heart, Thin Exegetical Spine — A Story Well Told but Insufficiently Preached**
+
+---
+
+### 2. One-Sentence Summary
+A genuinely affectionate and accessible retelling of Judges 7 that communicates God's faithfulness through Gideon's fear, but remains primarily a narrative survey with an underdeveloped gospel center, absent exhortation structure, and no serious conscience work.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: PASS (barely)**
+The sermon's animating thesis — that God is faithful and uses the weak who submit to Him despite fear — does arise from the passage's own argument. Judges 7 is about divine sovereignty displayed through radical reduction, and the sermon orbits that. The main point is not foreign to the text.
+
+**Authority Test: PASS (with concerns)**
+The preacher does not obviously edit or soften the text. He works through it with genuine enthusiasm. However, he moves quickly past the theological weight of the reduction (vv. 2–3, "lest Israel boast") without dwelling on it — which is the text's own interpretive key. The passage insists God stripped the army *specifically so Israel could not claim the victory*. That point is gestured at but not driven home.
+
+**Berean Gate: PASS — with noted drift from the text's own emphasis.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG 1 — APPLICATION IS ENTIRELY GENERIC (Fatal Flaw #4)**
+The application sequence — "Facing turmoil? Look to Jesus. Troubles at home? Look to Jesus. Troubles at work? Look to Jesus. Health troubles? Look to Jesus." — is the definition of generic application. No conscience is cornered, no specific sin or struggle is named, no hearer is addressed distinctly.
+
+**FLAG 2 — GOSPEL PRESENTATION IS A PLACEHOLDER (Fatal Flaw #1)**
+The sermon concludes with: "What that looks like today starts in Romans 3:23. (gospel)." This is a note to self, not a gospel proclamation. The finished work of Christ is not presented — it is announced as something that will happen. This is a raw notes document, so some charity is appropriate, but as submitted there is no actual gospel presentation, only a pointer to where one should go.
+
+**Score is capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14/25**
+
+- *Textual Fidelity (10 pts): 6/10* — The preacher moves through the text chronologically and references specific verses. But the passage's own interpretive key (v.2: "lest Israel boast") receives almost no development. The sermon retells the events more than it opens the argument. Large sections (the reduction sequence, the dream interpretation) are narrated but not exegeted.
+- *Contextual Awareness (5 pts): 3/5* — There is awareness of the Gideon series and the larger Mosaic law background on fear-exempt soldiers (Deut. 20:8). The reference to Jericho shows some redemptive-historical instinct. But the book of Judges' larger theological argument (the cycle of apostasy, divine discipline, crying out, and deliverance) is absent. Where does this text sit in the Judges spiral?
+- *Exegetical Clarity (5 pts): 3/5* — The hand-vs.-dog-drinker speculation is handled honestly ("frankly I don't know if I buy that") — which is commendable. The barley-as-Gideon connection via Spurgeon is a good instinct. But the sermon never opens a Hebrew word, never names the authorial logic, and never answers "why does the text record what it records?"
+- *Logical Faithfulness (5 pts): 2/5* — The Helen Keller quote and the "inch by inch" pastor quote are imported and feel decorative. The Fallen Condition Focus (what broken human condition does this text address?) is never explicitly named — the sermon gestures at fear and weakness but never says "the text was written because we are glory-thieves who need God to strip us of self-trust before He can save us."
+
+**FCF Assessment:** The Fallen Condition Focus is implicit at best. The text's FCF is human pride and self-sufficiency — we want armies big enough to claim credit. God won't share His glory. That's never named.
+
+**2. Theology & Doctrinal Integrity — 10/18**
+
+- *Christ-Centeredness (7 pts): 3/7* — The Christological move is vague and late: "Look to Jesus" appears as a series of application bullets, not as organic textual fulfillment. There is no covenantal framing — Gideon as judge within the Covenant of Grace, the Spirit coming upon him, Christ as the ultimate deliverer who wins without a sword through apparent defeat. The connection is asserted, not demonstrated.
+- *Redemptive-Historical Awareness (3 pts): 2/3* — Jericho is invoked usefully. The reduction to 300 as a God-glorifying pattern is present. But there's no movement to the one who truly fights with no weapon and wins — Jesus at the cross.
+- *Doctrinal Precision (4 pts): 3/4* — No significant errors. The statement "saved us from the eternity in Hell that we so richly deserve" is theologically grounded. No Pelagian drift detected.
+- *Confessional Alignment (4 pts): 2/4* — Not contradicted, but not demonstrated. The sovereignty of God in the reduction is present but the deeper implication — that God acts this way because He will not share His glory with man — is never stated with confessional precision.
+
+**3. Gospel Centrality & Force — 5/15**
+
+- *Clarity of the Gospel (5 pts): 1/5* — "(gospel)" is a bracket, not a proclamation. Romans 3:23 is a starting address, not a finished work. No substitutionary atonement, no justification by faith, no cross. As submitted, the gospel is absent.
+- *Necessity of Christ (5 pts): 2/5* — The "look to Jesus" application is present but Jesus appears as a comfort-giver, not as the crucified and risen Lord whose blood is the ground of every spiritual "look." Christ is helpful here, not necessary.
+- *Cross-Centered Gravity (5 pts): 2/5* — The sermon moves toward a reference to the gospel, not toward the gospel itself. The law/gospel dialectic is absent. There is no hammer (conviction of sin) before the balm (the gospel).
+
+**Synagogue Test:** A devout Jewish worshipper could sit through this sermon and not be offended. The story of Gideon is an Old Testament story; the application is "trust God and be obedient." Jesus is invoked but not proclaimed as the only way. This is a soft fail.
+
+**4. Conscience & Applicatory Force — 7/15**
+
+- *Heart Penetration (5 pts): 3/5* — There is pastoral warmth and the congregation is clearly known and loved. The reference to Kristina and Jeremy's sobriety is a genuine, concrete, moving application. The statement about God preserving children from addiction is specific and will land. These are real touches of conscience work. But they are not systematically pursued.
+- *Specificity (5 pts): 2/5* — The "look to Jesus" litany is the opposite of specific. The Kristina/Jeremy reference is specific and good. These exist in tension and the generic moments swamp the specific ones.
+- *Spiritual Differentiation (5 pts): 2/5* — The sermon speaks primarily to believers already fighting fear. The unbeliever, the doubter, the backslider, the hardened — none are addressed distinctly. The Perkins taxonomy is not in view.
+
+**Perkins Coverage:** Primarily #5 (believers). Partial #2 (ignorant but teachable). No real address to #3 (knowledgeable-but-unhumbled), #4 (humbled-but-not-yet-believing), or #6 (backslider). Very thin spread.
+
+**5. Exhortation & Response — 3/8**
+
+- *Call to Response (4 pts): 1/4* — The sermon does not end with a clear "therefore, here is what you must now do, repent of, or pursue." The conclusion trails into a gospel note that isn't fully written. No exhortation is articulated.
+- *Equipping for Holiness & Witness (4 pts): 2/4* — The congregational encouragements (food pantry, prayer requests) reflect a community of shared mission. The sermon itself doesn't send them out, but the community structure suggests equipping is happening elsewhere.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline (4 pts): 3/4* — The three-part structure (Gideon's Fear / Gideon's Foes / God's Faithfulness) is clear and memorable. It follows the text's own movement. Good instinct.
+- *Progression (3 pts): 2/3* — The sermon builds fairly well. The camel stampede section runs long and technical (interesting, but overstays its welcome). The praise report interruption mid-sermon ("Speaking of accomplishing great things, Kristina has a praise report...") breaks the sermonic momentum at a critical hinge.
+- *Unity (2 pts): 1/2* — The Helen Keller quote, the "inch by inch" saying, and the general quote about "can never be too small for God to use" all compete slightly with each other. The dominant idea (God uses the weak, submitted, and fearful for His glory) is present but not crystallized into one driving sentence.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2 pts): 2/2* — The camel/horse analogy for a horse-people congregation is native and well-targeted. The artificial crab meat analogy for barley is genuinely funny and congregation-specific. These are good illustrations.
+- *Clarity (2 pts): 1/2* — The camel section becomes so detailed (half-million camels, weight calculations, stampede physics) that it risks becoming the memorable thing rather than illuminating the theological thing. The mechanics threaten to eclipse the meaning.
+- *Memorability (1 pt): 1/1* — "Artificial crab meat of fighters" will be remembered. The camel stampede will be remembered. These are sticky.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2 pts): 2/2* — This reads like a preacher's notes, not a polished essay. The oral cadence, direct address, and conversational asides ("I can just picture," "I talked to someone this week") are authentic. This has genuine preaching voice.
+- *Conviction on the Page (2 pts): 1/2* — The conviction is personal and warm, but rarely text-anchored at pressure points. The ratio of story/speculation to Scripture-grounded assertion tilts toward story.
+- *Cadence and Breath (1 pt): 0/1* — The sermon does not build to a climax. The conclusion deflates rather than lands.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**Score: 0**
+The sermon is accessible. An unchurched teenager could follow it. The camel section may stretch attention, but it's engaging, not dense. No cognitive overload.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 14/25 |
+| Theology & Doctrinal Integrity | 10/18 |
+| Gospel Centrality & Force | 5/15 |
+| Conscience & Applicatory Force | 7/15 |
+| Exhortation & Response | 3/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **52/100** |
+| Weight of Glory Bonus | +1/5 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **53/100** |
+
+**Fatal Flaw Cap: Score capped at 69 due to absent gospel proclamation and generic application.**
+**Reported score: 53 — but the cap is not the binding constraint here; the raw score already reflects the sermon's actual state.**
+
+**Interpretation: Fundamentally Flawed in its current form. Rebuild the gospel center and application before preaching.**
+
+*Note: These are raw notes, and the "(gospel)" bracket signals the preacher knows something is missing. This score reflects the document as submitted, not the preacher's intention.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ or myself?**
+Mostly of Gideon, then of ourselves-as-Gideon. Christ enters briefly and without sufficient weight. Partial — tilts toward self-identification with Gideon rather than Christ-exaltation.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas about Him, primarily. The warmth is real and the pastoral affection genuine, but God's holiness, glory-jealousy, and saving power are described rather than confronted.
+
+3. **Was I comforted, convicted, or merely informed?**
+Primarily informed and entertained by the camel stampede. The sobriety reference and the "God preserved us from our worst selves" moment are genuinely comforting. But conviction is absent.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Genuine pastoral knowledge of the congregation.** The Kristina/Jeremy sobriety praise, the prayer requests, the specific people named — this preacher knows his sheep. The application about God's power to *preserve* (not just rescue from addiction) is a specific, pastorally astute observation that will resonate with the room.
+
+2. **Honest handling of exegetical uncertainty.** "Frankly I don't know if I buy that" regarding the battlefield-awareness theory of the hand-drinkers is admirable. A preacher who admits what he doesn't know builds more trust than one who papers over gaps with confident speculation.
+
+3. **Native, well-targeted illustration.** The artificial crab meat analogy and the horse-people/camel analogy are congregation-specific, genuinely amusing, and serve the text's point about God using the least and weakest. These are good instincts.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is a note to self, not a proclamation.** "What that looks like today starts in Romans 3:23. (gospel)." This is a bracket indicating where the gospel should go. In the final sermon, there must be an actual gospel presentation — penal substitution, justification by faith, the necessity of repentance and trust in Christ's finished work. As submitted, an unbeliever would leave with no idea how to be saved.
+
+2. **The text's own theological engine is ignored.** Judges 7:2 is the interpretive key to the entire passage: God reduces the army *"lest Israel boast over me."* God's motive is His own glory, and He will not share it. This is not mentioned in any developed way. The sermon communicates "God uses the weak" but does not push to "God *requires* our smallness because He will not tolerate glory-theft." That harder, sharper truth is the text's own point — and it has massive applicatory force.
+
+3. **The application is a generic list.** "Facing turmoil? Look to Jesus. Troubles at home? Look to Jesus." This is not application — it is a bumper sticker. Application at this level presses no one and corners no one. The sermon needed to name specific sins (self-reliance, refusing to trust God's method because it seems foolish, fear that masquerades as prudence) and address specific hearers (the person who refuses to give to the food pantry because they're afraid of their own finances, the person who won't share their faith because the odds seem too long).
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that his enthusiasm for the military and logistical details (camel counts, stampede physics, war camp population estimates) is serving his own interests more than the congregation's understanding. The five sentences of camel biomechanics are interesting — and they crowd out the two sentences that would have opened the text's theological heart.
+
+He also likely does not see how much the interruptions (praise report mid-sermon, prayer requests embedded in the body) communicate to the congregation that the text is one item among equals rather than the authoritative word around which everything else orbits.
+
+---
+
+### 12. Illusion of Strength
+
+The camel section *feels* like strong preaching — vivid, researched, compelling, congregation-specific (the horse people). But it is primarily an impressive piece of historical reconstruction that serves as an *explanation* of how God won rather than an *exposition* of *why* God won. The sermon is most energized in a section that does not carry the text's theological weight. Confidence in the material masked the theological gap.
+
+Similarly, the three-part outline feels like strong structure — and it is the best-organized element of the sermon. But the structure follows the narrative surface of the text rather than the text's argument. A narrative outline and an expository outline are different things.
+
+---
+
+### 13. Missed Opportunity
+
+**Judges 7:2 is the sermon.** "The Lord said to Gideon, 'The people with you are too many for me to give the Midianites into their hand, *lest Israel boast over me, saying, "My own hand has saved me."'"** This is one of the most explicit statements of divine glory-jealousy in all the Old Testament. God is not stripping the army to make a point about faith — He is stripping the army because *He will not share His glory with man*. That is the FCF. That is the theological heart. That is the gospel bridge (because the one place where man's "my own hand has saved me" is permanently destroyed is the cross, where God sends His Son to do what no human arm could accomplish). The sermon touched this ("God can use the weakest") but never pushed to the terrifying and glorious reality that God *insists* on this — and that insistence is both law (you are not the hero of your story) and gospel (the true hero has already won).
+
+---
+
+### 14. Surgical Fixes
+
+1. **Open with Judges 7:2, not with the army count.** Let the text's own stated reason be the sermon's thesis from the first minute: "God will not share His glory with you. And that is not a threat — it is the best news you will hear today."
+
+2. **Cut the camel population estimates by 60%.** Keep the stampede image (it's vivid and theologically useful — chaos as God's instrument). Remove the half-million camel calculation and the weight/speed analysis. One sentence: "Imagine a war camp of hundreds of thousands of soldiers stampeded in the dark by their own animals — that's what 300 unarmed men with torches and trumpets accomplished. God didn't need a sword."
+
+3. **Replace the "look to Jesus" bullet list with differentiated address.** Address at least three hearers: (a) the person who won't take the "foolish" step of obedience because the odds don't make sense — this text is for you; (b) the person whose army is too big, who trusts their preparation and resources — God may be about to reduce you; (c) the unbeliever who doesn't yet know the one who went to the cross alone, unarmed, outnumbered, and won.
+
+4. **Write out the gospel, don't bracket it.** Romans 3:23 is a starting address, not a complete gospel presentation. Finish the sentence: "We have all sinned and fall short of the glory of God — and the God who will not share His glory sent His Son to bear the punishment for our glory-theft, so that through faith in Christ alone we could be clothed in His righteousness." That is the Judges 7 gospel connection.
+
+5. **Move the praise report to before or after the sermon.** Mid-sermon interruptions train the congregation to treat the text as an intermission between church activities. Protect the sermonic moment.
+
+6. **Crystallize the main idea into one sentence and repeat it.** Suggestion: *"God strips away every human resource so that when He saves, only He gets the glory — and Christ is the final proof that He means it."*
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** This sermon is not dead orthodoxy — it is warm, living, genuine, and pastorally tender. The problem is not bloodlessness but incompleteness. The fire is present; the theological fuel is thin. The preacher cares for his people. He needs to push deeper into the text before he stands to preach.
+
+---
+
+### 16. Weight of Glory Assessment
+
+There are genuine sparks of eternal gravity — particularly in the sobriety testimony and the "God preserved us from the worst of ourselves" passage — but the sermon does not yet carry the weight of a God who jealously guards His own glory and sent His Son to vindicate it; that burden must be taken up before this manuscript rises to the level of proclamation. **+1/5**
+
+---
+
+### 17. Rubric Fit Note
+
+**Narrative OT passage — rubric bends modestly here.** Judges 7 is historical narrative, and the rubric's exposition categories were designed with discourse texts partly in mind. The FCF and Christological movement categories apply well and are not strained. The narrative genre rewards vivid retelling (which the preacher does well) while demanding that the preacher explain *why the narrator recorded these events* — which is where the sermon falls short. The rubric's gospel centrality expectations are fully appropriate: narrative texts in the OT carry gospel freight through typology and covenantal pattern, and the preacher should be expected to draw that out organically. No categories need to be waived for this genre.
