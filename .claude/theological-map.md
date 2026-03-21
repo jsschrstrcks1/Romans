@@ -52,6 +52,11 @@ Not petty rage. Not mere disappointment. Holy revulsion. **Explicit. Tradition: 
 
 Sovereignty extends over creation, history, politics, individual lives, and salvation. **Explicit. Tradition: Calvinistic Reformed Baptist.**
 
+> "Dualism fails because it fails to factor in God. God is sovereign. God is in control. God has already won the battle."
+> — `Sermon - Angels Demons Etcetera.md`
+
+God's sovereignty applied to the angelic/demonic realm: angels and demons are real but operate entirely under God's authority. Dualism — the idea that good and evil are co-equal forces locked in battle — is rejected because it diminishes God's absolute sovereignty. **Explicit. Tradition: Reformed Baptist.**
+
 > "If the strongest man on earth can have his will bent like the flame of a candle responds to breath, then what earthly power or authority can stand before God?"
 > — `Sermon - When God Is For Us.md`
 
