@@ -77,8 +77,27 @@ Tracks the preaching date for every sermon in the Romans series and beyond. Roma
 
 ---
 
+## Undated Sermons
+
+*Non-series sermons with no known preaching date. Tracked here until a date can be assigned through future research or pastoral recall. Do not guess dates — leave them here until confirmed.*
+
+| Passage | Title | File | Type | Notes |
+|---------|-------|------|------|-------|
+
+---
+
+## Date Conflict Protocol
+
+- A single Sunday can have **two entries** (e.g., AM Romans series + PM special message, or series + memorial).
+- When a non-series sermon lands on a Sunday already occupied by a Romans sermon, record both. Note the occasion: `*(AM)*`, `*(PM)*`, `*(evening)*`, `*(special service)*`.
+- Romans series dates are immutable — conflicts are resolved by adding the non-series sermon alongside, not by moving the Romans entry.
+
+---
+
 ## Statistics
 
 - **Romans series sermons**: 39 (June 22, 2025 – March 15, 2026)
 - **Series duration**: 39 weeks
 - **Average pace**: 1 sermon per Sunday, sequential through Romans 1–16
+- **Non-series sermons dated**: 0
+- **Undated sermons tracked**: 0

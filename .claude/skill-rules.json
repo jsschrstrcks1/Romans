@@ -171,7 +171,7 @@
       "type": "domain",
       "enforcement": "suggest",
       "priority": "high",
-      "description": "Maintains sermon-map.md, theological-map.md, series-trajectory.md, and date-map.md. Fires when sermons are created, modified, or imported. Provides gap analysis, illustration deduplication, and cross-map integrity.",
+      "description": "Maintains sermon-map.md, theological-map.md, series-trajectory.md, date-map.md, quote-map.md, illustration-map.md, people-group-map.md, bfm-article-index.md, 1689-map.md, subject-density-index.md, and passage-chain-map.md. Nine operations: INDEX, UPDATE, AUDIT, CONNECT, GAP, DEDUP, DATE, QUOTE, ILLUSTRATE. Fires when sermons are created, modified, or imported.",
       "promptTriggers": {
         "keywords": [
           "map", "sermon map", "index", "catalog",
@@ -179,7 +179,10 @@
           "audit map", "check map", "map integrity",
           "illustration check", "dedup", "duplicate illustration",
           "add to map", "update map", "new sermon",
-          "date map", "preaching date"
+          "date map", "preaching date",
+          "quote map", "quote verification", "illustration map",
+          "people group", "BFM article", "1689", "passage chain",
+          "subject density", "preaching density"
         ],
         "intentPatterns": [
           "(add|update|index|catalog|map).*?sermon",
@@ -194,7 +197,14 @@
           ".claude/sermon-map.md",
           ".claude/theological-map.md",
           ".claude/series-trajectory.md",
-          ".claude/date-map.md"
+          ".claude/date-map.md",
+          ".claude/quote-map.md",
+          ".claude/illustration-map.md",
+          ".claude/people-group-map.md",
+          ".claude/bfm-article-index.md",
+          ".claude/1689-map.md",
+          ".claude/subject-density-index.md",
+          ".claude/passage-chain-map.md"
         ]
       },
       "autoLoad": {
@@ -209,7 +219,6 @@
         "note": "Map updates should always be verified (careful-not-clever) and optionally remembered (cognitive-memory)."
       }
     },
-
 
     "thus-says-the-lord": {
       "enabled": true,
