@@ -50,7 +50,7 @@ Not petty rage. Not mere disappointment. Holy revulsion. **Explicit. Tradition: 
 > "All things were created by Jesus — even kingdoms, dominions, thrones, authorities, even rulers. There is no ruler God didn't create specifically for the purpose he will call them to."
 > — `christology.md`
 
-Sovereignty extends over creation, history, politics, individual lives, and salvation. **Explicit. Tradition: Calvinistic Reformed Baptist.**
+Sovereignty extends over creation, history, politics, individual lives, and salvation. God ordains all governing authorities; submission to them is grounded in divine sovereignty. — `Romans 13.md`. **Explicit. Tradition: Calvinistic Reformed Baptist.**
 
 > "Dualism fails because it fails to factor in God. God is sovereign. God is in control. God has already won the battle."
 > — `Sermon - Angels Demons Etcetera.md`
@@ -216,7 +216,7 @@ No saint, priest, pope, prophet, or governing body can mediate. **Explicit. Trad
 > "It was a cosmic trade of sorts… Christ was the only living human that could be fully righteous. He was the only one able to make that payment. He was the only one who could do more than cover our sin like a bandaid. His death satisfied a debt we could never hope to pay."
 > — `Galatians 3 - Law Faith and Adoption.md`
 
-Central atonement theory. Named explicitly by term ("penal substitutionary atonement") in multiple sermons. The Genesis 4 sermon traces the blood-sacrifice principle back to Eden and Abel's firstborn lamb — a type of Christ. The Galatians 3 sermon uses the credit-card-debt illustration ($5T debt, sentenced to death) and the "cosmic exchange" language — the righteous for the unrighteous. **Explicit. Tradition: Reformed, Evangelical.**
+Central atonement theory. Named explicitly by term ("penal substitutionary atonement") in multiple sermons. The Genesis 4 sermon traces the blood-sacrifice principle back to Eden and Abel's firstborn lamb — a type of Christ. The Galatians 3 sermon uses the credit-card-debt illustration ($5T debt, sentenced to death) and the "cosmic exchange" language — the righteous for the unrighteous. The living sacrifice of Romans 12:1 is grounded in Christ as substitute — our offering is possible only because of his. — `romans 12 1.md`. **Explicit. Tradition: Reformed, Evangelical.**
 
 #### Definite/Particular Atonement
 > "Christ's death was not a vague potential. He laid down His life for His sheep. He gave Himself for the church, to present her holy and blameless. The atonement is definite — not limited in its power, but particular in its design."
@@ -435,7 +435,7 @@ Both Jew and Gentile, religious and irreligious. No exceptions. **Explicit. Trad
 > "The law is there to show us where we fall short. To show us what is right and what is wrong. But the law can't save us. The law is a tool, like the bandaid."
 > — `Galatians 3 - Law Faith and Adoption.md`
 
-The Galatians 3 sermon teaches the law as *paidagōgos* (guardian, Gal 3:24) — holding us captive until faith came. The Ten Commandments test (3rd, 8th, 9th, 6th — all failed) demonstrates universal guilt under the law. The bandaid illustration: sacrifice covered sin but couldn't remove it; the debtors' prison illustration: the law imprisons but cannot pay the debt. James 2:10 cited: guilty of one, guilty of all. **Explicit. Tradition: Reformed, Pauline.**
+The Galatians 3 sermon teaches the law as *paidagōgos* (guardian, Gal 3:24) — holding us captive until faith came. The Ten Commandments test (3rd, 8th, 9th, 6th — all failed) demonstrates universal guilt under the law. The bandaid illustration: sacrifice covered sin but couldn't remove it; the debtors' prison illustration: the law imprisons but cannot pay the debt. James 2:10 cited: guilty of one, guilty of all. Paul's struggle in Romans 7 (Rom 7:7-12, 21-25) confirms the same reality: the law exposes sin but cannot save. — `Romans 7.md`. **Explicit. Tradition: Reformed, Pauline.**
 
 #### Conscience as Real Courtroom
 > "Conscience as a real courtroom." (claude.md theological profile)
@@ -494,7 +494,7 @@ Infralapsarian: election follows the decree of the Fall. **Explicit. Tradition: 
 > "God has to do a work in our hearts in order for us to even have any interest in the things of God."
 > — `Sermon - Out of the Cistern.md`
 
-BFM treatment of God's Purpose of Grace. Election defended through Acts 13:48 ("as many as were appointed to eternal life believed"), Lydia's heart-opening (Acts 16:14), Romans 8:29-30 (golden chain), Ephesians 1:4-5 (chosen before the foundation of the world), Ephesians 2:8 (faith as gift), 2 Thessalonians 2:13, 2 Timothy 1:9. The cistern illustration grounds the sermon's title: apart from God's intervention, we remain trapped. **Explicit. Tradition: Five-Point Calvinist, BFM 2000.**
+BFM treatment of God's Purpose of Grace. Election defended through Acts 13:48 ("as many as were appointed to eternal life believed"), Lydia's heart-opening (Acts 16:14), Romans 8:29-30 (golden chain), Ephesians 1:4-5 (chosen before the foundation of the world), Ephesians 2:8 (faith as gift), 2 Thessalonians 2:13, 2 Timothy 1:9. The cistern illustration grounds the sermon's title: apart from God's intervention, we remain trapped. God's gifts and calling are irrevocable (Rom 11:29) — election cannot be undone. — `romans 11 pt 2.md`. **Explicit. Tradition: Five-Point Calvinist, BFM 2000.**
 
 
 ##### Definite Atonement
@@ -516,7 +516,7 @@ See Christology section above.
 > "Can the strength of your will overcome the will of God? If you think so, then you fall onto one side of the debate. If you think not, then you are more in line with Scripture."
 > — `Sermon - Out of the Cistern.md`
 
-Cistern/kitten illustration: apart from God's sovereign rescue, we remain trapped — "God is a gentleman" rebuttal; Lydia's heart opened (Acts 16:14) as paradigm of effectual calling. **Explicit. Tradition: Five-Point Calvinist, BFM 2000.**
+Cistern/kitten illustration: apart from God's sovereign rescue, we remain trapped — "God is a gentleman" rebuttal; Lydia's heart opened (Acts 16:14) as paradigm of effectual calling. Paul's Damascus road experience as paradigm of effectual calling — sovereign, unilateral, irresistible. — `Romans 1a - The Power of God for Salvation.md`. **Explicit. Tradition: Five-Point Calvinist, BFM 2000.**
 
 ##### Perseverance / Preservation of the Saints
 > "It's called 'once saved always saved,' or to use the words of the reformers, they called it perseverance of the saints. That sort of makes it sound like it has something to do with man's effort. It doesn't."
@@ -536,7 +536,7 @@ Cistern/kitten illustration: apart from God's sovereign rescue, we remain trappe
 > "He who began a good work in you will bring it to completion at the day of Jesus Christ." — Philippians 1:6. He secured, ensured, and maintains our salvation. Apart from God having begun a work in your heart, you wouldn't be curious. That you care whether you're saved or not shows he has begun a work in you that he will be faithful to complete.
 > — `Sermon - Out of the Cistern.md`
 
-Prefers "preservation" language (Sproul — God's keeping work, not human effort). Explicitly frames the doctrine as building on the prior three — Total Depravity, Unconditional Election, and Definite Atonement: if man cannot save himself, he cannot maintain salvation either. God holds what God saved. **Explicit. Tradition: Reformed Baptist (TULIP — P).**
+Prefers "preservation" language (Sproul — God's keeping work, not human effort). Explicitly frames the doctrine as building on the prior three — Total Depravity, Unconditional Election, and Definite Atonement: if man cannot save himself, he cannot maintain salvation either. God holds what God saved. Romans 8:31-39 eternal security — nothing can separate the believer from God's love. — `Romans 8.12-17 - Debtors to the Spirit.md`. **Explicit. Tradition: Reformed Baptist (TULIP — P).**
 
 #### Ordo Salutis (Order of Salvation)
 > "The biblical order of the things that have to have happened in order for one to have actually been saved: Predestination, Election, Calling, Regeneration, Faith, Repentance, Justification, Adoption, Sanctification, Perseverance, Glorification."
@@ -611,7 +611,7 @@ The resolution: Paul and James address different questions. Paul addresses the *
 > "Sanctification flows from justification, not to it." (Stephen Davey)
 > — `Romans 4 - In Christ Alone- Where Justice Meets Grace.md`
 
-Sanctification flows *from* justification, not *toward* it. Holiness is not optional. **Explicit. Tradition: Reformed Baptist, Lordship Salvation.**
+Sanctification flows *from* justification, not *toward* it. Holiness is not optional. The believer's ongoing war in Romans 7 illustrates sanctification as process — not a single event but a lifelong battle. — `Romans 7.md`. **Explicit. Tradition: Reformed Baptist, Lordship Salvation.**
 
 #### Assurance — Real, Grounded in Christ, Tested by Examination
 > "Search your heart, really dig deep. Evaluate your motives... is your interest really in Him? Or is your interest in a peripheral benefit."
@@ -635,7 +635,7 @@ Real assurance grounded in Christ's work. But false assurance is a pastoral dang
 > "In a very real sense when we receive this gift, we become sons and daughters of God. We become heirs to the kingdom."
 > — `Galatians 3 - Law Faith and Adoption.md`
 
-Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. Adoption is distinct from and complementary to penal substitutionary atonement: Christ's work both satisfies wrath *and* brings us into the family. Cost is central — God paid with his Son. The Galatians 3 sermon develops the *huios* (υἱός) word study — Paul's deliberate choice over *teknon* to emphasize legal heir status and full inheritance rights. The foster-care-to-adoption illustration (chicken coop → family) mirrors God's adoption of sinners. John 1:12 cited: "he gave the right to become children of God." **Explicit. Tradition: Reformed Baptist.**
+Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. Adoption is distinct from and complementary to penal substitutionary atonement: Christ's work both satisfies wrath *and* brings us into the family. Cost is central — God paid with his Son. The Galatians 3 sermon develops the *huios* (υἱός) word study — Paul's deliberate choice over *teknon* to emphasize legal heir status and full inheritance rights. The foster-care-to-adoption illustration (chicken coop → family) mirrors God's adoption of sinners. John 1:12 cited: "he gave the right to become children of God." Adoption framed as debt-payment — the father pays the debt the child cannot. — `Romans 8.12-17 - Debtors to the Spirit.md`. **Explicit. Tradition: Reformed Baptist.**
 
 #### Election and Reprobation — Infralapsarian
 > "God did not inject unbelief into Esau's heart. Esau, like all of us, was already a sinner by nature and choice. Reprobation is not God actively working sin into a man's life; it is God leaving a sinner to himself."
@@ -757,7 +757,7 @@ Women honored as co-laborers (Phoebe, Junia, Mary in Romans 16). Pastorate reser
 > "We're a church. We're family. Sometimes you do what you have to do — endure what you have to endure — for family."
 > — `1 Corinthians 12 - Church Membership.md`
 
-The church is not a voluntary association of convenience. It is a living body under one Head. Withdrawal from the body injures the body. Suffering in one member summons care from every other member. This is not idealism — it is biology applied by Paul to ecclesiology (1 Cor 12:26). **Explicit. Tradition: Baptist, Pauline ecclesiology.**
+The church is not a voluntary association of convenience. It is a living body under one Head. Withdrawal from the body injures the body. Suffering in one member summons care from every other member. This is not idealism — it is biology applied by Paul to ecclesiology (1 Cor 12:26). Grace-gifts differ by design; one body, many members with distinct functions. — `romans 12 pt 2.md`. **Explicit. Tradition: Baptist, Pauline ecclesiology.**
 
 #### Consumer Christianity — The Idol of Comfort
 
@@ -988,7 +988,7 @@ Applied to Svea Flood's death at 27 — death reframed not as tragedy but as goi
 > "At the very name of Jesus, EVERY knee shall bow, and Every tongue WILL confess that Jesus is Lord. For some of us there will be no greater joy... But to others, depart from me I knew you not."
 > — `phil 2.md`
 
-**Explicit. Tradition: Orthodox Christian.**
+The *bēma* judgment seat — believers stand before Christ not for condemnation but for account, ending all human judging. — `Romans 14c - The Judgment Seat That Ends All Judging.md`. **Explicit. Tradition: Orthodox Christian.**
 
 #### Maranatha — Eager Longing for Christ's Return
 > "We have a word — maranatha — which means an eager longing for Christ to return. Do you long for that?"
@@ -1056,7 +1056,7 @@ True Christians are visibly different — illustrated by a man whose face was mi
 > "Love that never confronts sin is not love. Truth that never bleeds compassion is not Christ."
 > — `romans 12 pt 3.md`
 
-The entire Romans 13b sermon ("The Debt You Can Never Repay") is built on this theme. **Explicit. Tradition: Pauline/Reformed.**
+The entire Romans 13b sermon ("The Debt You Can Never Repay") is built on this theme — love as a permanent, unpayable debt that fulfills and exceeds the law. — `Romans 13b - The Debt You Can Never Repay.md`. **Explicit. Tradition: Pauline/Reformed.**
 
 #### Liberty of Conscience in Disputable Matters
 > "The standard isn't whether you were right about the secondary issue. The standard is whether you loved your brother while you disagreed with him."
@@ -1065,7 +1065,7 @@ The entire Romans 13b sermon ("The Debt You Can Never Repay") is built on this t
 > "Romans 14 is not about tolerance. Tolerance is cold. Tolerance keeps its distance."
 > — `Romans 15a - The Welcome We've Been Given.md`
 
-Extensive treatment across four Romans 14 sermons. Both the judgmental "weak" and the dismissive "strong" are corrected. **Explicit. Tradition: Reformed Baptist.**
+Extensive treatment across four Romans 14 sermons. Both the judgmental "weak" and the dismissive "strong" are corrected. The foundational welcome sermon treats conscience as a lens of growth — maturity changes what conscience permits, but never overrides another's conviction. — `Romans 14a - The Welcome That Costs You Nothing.md`. **Explicit. Tradition: Reformed Baptist.**
 
 #### Lord's Day as Disputable Matter
 The `The Lords day romans 14 gal 4.md` file treats Sabbath/Lord's Day observance as a matter of conscience rather than a binding New Covenant command, consistent with Galatians 4 and Colossians 2:16-17. **Explicit. Tradition: New Covenant theology (Baptist, contra strict Sabbatarianism).**
@@ -1191,7 +1191,7 @@ BFM Article XI (Evangelism and Missions) treatment. The Great Commission identif
 > "If we are not sharing the gospel, we are following the plans of the enemy."
 > — `Romans 14.md`
 
-**Explicit. Tradition: Baptist, Evangelical.**
+Priestly service to the nations; frontier ambition to preach where Christ has not been named; Isaiah 52-53 funds the mission theology. — `Romans 15b - The Mission in the Early Light.md`. **Explicit. Tradition: Baptist, Evangelical.**
 
 #### Unreached People Groups — Panta Ethne
 > "Panta means Every, or all without exception... Ethnos means basically every group of people drawn together by tradition or kinship."

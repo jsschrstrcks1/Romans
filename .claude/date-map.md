@@ -81,8 +81,32 @@ Tracks the preaching date for every sermon in the Romans series and beyond. Roma
 
 *Non-series sermons with no known preaching date. Tracked here until a date can be assigned through future research or pastoral recall. Do not guess dates — leave them here until confirmed.*
 
+*The full inventory of 296 non-Romans sermons lives in sermon-map.md. This table tracks sermons that have been actively processed, flagged, or worked on — the ones most likely to need date assignment for reuse or publication.*
+
 | Passage | Title | File | Type | Notes |
 |---------|-------|------|------|-------|
+| Psalm 103 | Bless the Lord O My Soul | `Sermon - Bless the Lord O My Soul.md` | polished | Fully polished and verified March 2026 |
+| Galatians 6:7-10 | Sowing and Reaping | `Galatians 6 - Sowing and Reaping (raw draft).md` | raw draft | Flood story corrected; Titanic illustration researched; verification flags remain |
+| Ephesians 1:3-14 | Angels, Demons, Etcetera | `Sermon - Angels Demons Etcetera.md` | polished | Authoritative version; all corrections applied |
+| Ephesians 3:3-6 | The Covenants — God's Unfolding Plan | `Eph 3 - The Covenants.md` | sermon | Complete Integrity Log; 6 Scripture corrections applied |
+| Colossians 2:1-8 | Quilted Together in Love / Gratitude as Guardian | `Col 2 - thanksigiving.md` | raw draft | Extracted from memory2.md |
+| Colossians 4:2-4 | Prayer | `col 4 - prayer.md` / `prayer col 4.md` | raw draft | Two versions: full and prayer service |
+| 1 Corinthians 12:12-27 | Church Membership / Body of Christ | `1 Corinthians 12 - Church Membership.md` | polished | Polished file reviewed — clean |
+| 2 Timothy 1:1-2 | Paul's Final Letter | `2 Tim 1 - Pauls Final Letter.md` | repaired draft | Full analysis completed March 2026 |
+| Romans 10:12-13 | Cultural Marxism / CRT | `Sermon - Cultural Marxism.md` | polished | Polished and verified March 2026 |
+| Deuteronomy 8:2-10, 17 | Count Your Blessings | `Deuteronomy 8 - Count Your Blessings (repaired draft).md` | repaired draft | ⬜ INCOMPLETE: 3 pastoral flags; not ready to preach as-is |
+| Psalm 42; Psalm 121 | As the Deer Pants | `Psalm 42 - As the Deer Pants.md` | sermon | 2 flags for print use only |
+| Nehemiah 7:1-5 | Faithful and God-Fearing | `Sermon - Faithful and God-Fearing.md` | sermon | ⬜ INCOMPLETE: Gospel and Pascal's Wager sections undeveloped |
+| Proverbs 13 | Generation Gaps | `Proverbs 13 (raw draft).md` | raw draft | Major corrections applied; pew Bible page TBD |
+| Psalm 2 | — | `Psalm 2 (raw draft).md` | raw draft | 11 flags → mostly resolved; 2 interpretive flags remain |
+| Psalm 8; Hebrews 2 | Our Lord, Our Lord | `Psalm 8 - Hebrews 2 (raw draft).md` | raw draft | 4 flags resolved; 3 attribution flags remain |
+| Psalm 119:161-168 | Treasure of the Word | `Psalm 119 161-168 (raw draft).md` | raw draft | All 10 flags resolved |
+| Psalm 68:1-6 | Father of the Fatherless (Part 2) | `Psalm 68 Part 2 (raw draft).md` | raw draft | 7 flags resolved; 1 Elijah timeline flag remains |
+| 1 Thessalonians 5:12-24 | Rejoice Always | `1 Thess 5 - Rejoice Always (raw draft).md` | raw draft | 7 flags resolved |
+| Philippians 4 | Rejoicing in Division | `Philippians 4 (raw draft).md` | raw draft | 16 flags → 11 resolved; 5 remain |
+| Romans 1:1-2 (Psalm 22) | Prophecy and the Credentials of Christ | `Romans 1 - Psalm 22 (Prophecy raw draft).md` | raw draft | 8 flags → mostly resolved; fulfillment citations need ESV check |
+| Sola Christus 2024 | — | `Sermon - Sola Christus 2024.md` | incomplete | ⬜ INCOMPLETE: ends at three roles of Christ; no gospel close |
+| Thankfulness | — | `Sermon - Thankfulness.md` | incomplete | ⬜ INCOMPLETE: cuts off mid-narrative |
 
 ---
 
@@ -100,4 +124,5 @@ Tracks the preaching date for every sermon in the Romans series and beyond. Roma
 - **Series duration**: 39 weeks
 - **Average pace**: 1 sermon per Sunday, sequential through Romans 1–16
 - **Non-series sermons dated**: 0
-- **Undated sermons tracked**: 0
+- **Undated sermons tracked**: 22 (of ~296 total non-Romans sermons in corpus)
+- **Full inventory**: sermon-map.md contains all 296 non-Romans sermon entries
