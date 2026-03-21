@@ -138,3 +138,86 @@ This syllabus is intended to reflect accurately the course description, course o
 
 *Please see the Moodle page for the weekly assignments.
 COURSE SCHEDULE
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+Not a Sermon — A Seminary Course Syllabus Submitted for Homiletical Evaluation
+
+### 2. One-Sentence Summary
+This document is the Fall 2018 syllabus for SEBTS BCO5500 Biblical Counseling, a course in counseling theory and practice; it contains no sermon, no textual proclamation, no gospel presentation, and no congregation being addressed — there is nothing here to evaluate homiletically.
+
+### 3. Berean Gate
+**FAIL — Evaluation cannot proceed to scoring.**
+
+The document submitted is a course syllabus, not a sermon manuscript. It contains: (1) course contact information; (2) a course description for an introduction to biblical counseling; (3) student learning outcomes; (4) SEBTS core competencies; (5) required and recommended reading lists (Lane and Tripp, Powlison, Welch, Adams, Sande, etc.); (6) grading criteria, assignment descriptions, and exam policies; and (7) a course schedule placeholder. No text of Scripture is preached. No congregation is addressed. No gospel is proclaimed. No hearer is summoned to repentance, faith, or obedience.
+
+The Scopus Test finds no sermon scopus because there is no sermon. The Authority Test finds no herald because no one is standing under or over the Word here — only a professor structuring a course.
+
+> "This document is not a sermon. It is a graduate-level course syllabus. No score is assigned. There is no proclamation to evaluate, no text being opened, and no congregation being addressed. The rubric is inapplicable."
+
+### 4. Fatal Flaw Flags
+All six fatal flaw flags are triggered by total absence, not by theological error:
+
+1. **No clear gospel presentation** — The course touches on Scripture and theology as counseling foundations, but the syllabus itself proclaims nothing. Christ's finished work is not presented anywhere in the document.
+2. **Main point does not equal text's point** — No text. No point.
+3. **Christ is absent or unnecessary** — The mission statement references "glorify the Lord Jesus Christ," and the course is "biblical," but Jesus Christ is not preached in any passage of this document.
+4. **Application is entirely generic** — Course learning outcomes such as "develop basic competency to counsel persons with mental-emotional-behavioral problems" are academic objectives, not pastoral application of Scripture.
+5. **No actual exhortation** — No hearer is called to believe, repent, obey, or pursue anything on the basis of God's Word opened and proclaimed.
+6. **Inaccessible to ordinary hearers** — The document is written for graduate seminary students, not a congregation.
+
+**Score cap: 69 — but score is not assigned, as the Berean Gate is not passed.**
+
+### 5. Score Breakdown
+Not applicable. A course syllabus cannot be scored on a sermon rubric. Scoring would require fabricating categories of evaluation that do not correspond to the document's actual genre or purpose.
+
+### 6. Cognitive Load Modifier
+Not applicable. There is no homiletical argument to track, only academic administrative content.
+
+### 7. Total Score
+**Not assigned.** Berean Gate: FAIL.
+
+### 8. Core Override Questions
+1. Does this document make me think more of Christ — or myself? **Neither. It produces no disposition toward either. It produces a disposition toward course compliance.**
+2. Did I encounter God, or just ideas about Him? **Neither. I encountered grading policies and reading lists.**
+3. Was I comforted, convicted, or merely informed? **Informed — about assignment due dates, late submission penalties, and Turabian style requirements.**
+
+### 9. Strengths (Top 3)
+Evaluated charitably for what the document actually is — an academic syllabus — rather than what it is not:
+
+1. **Scripturally grounded course design**: The learning outcomes include "Practice the spiritual discipline of reading, learning, and obeying Scripture" and require Scripture memorization as 10% of the course grade. The requirement that students memorize Scripture relevant to biblical counseling reflects a serious commitment to the sufficiency of Scripture in counseling practice — a theologically sound instinct that distinguishes biblical counseling from merely Christian-themed therapy.
+2. **Strong bibliographic judgment**: The required and recommended reading lists reflect the best of the biblical counseling tradition — Powlison (Seeing With New Eyes, JBC articles), Welch (When People Are Big and God Is Small), Adams, Tripp and Lane (How People Change). These are not diluted resources; the course is steering students toward substantive theological anthropology and counseling methodology, not self-help dressed in Scripture.
+3. **Integration of theology with practice**: The course description and learning outcomes explicitly aim to show "how Scripture and theology form the foundation and substance for counseling." The SEBTS core competency of Theological Integration, tied to multiple course SLOs, indicates that the professor intends students to move from doctrine to method — the same movement a good sermon must make from exposition to application.
+
+### 10. Critical Weaknesses (Top 3)
+Evaluated within the limits of the genre — these are weaknesses of the syllabus as a pedagogical document, not failures of a sermon:
+
+1. **No explicit Christological center for counseling methodology**: The course description defines biblical counseling as rooted in "Scripture and theology," but does not articulate where Christ's person and work specifically ground the counseling model. In the biblical counseling tradition at its best (Powlison, Tripp), all change is gospel-driven — the indicative of redemption precedes the imperative of sanctification. The syllabus does not make this explicit, leaving it possible to take the course and construct a moralistic model of change rather than a grace-driven one.
+2. **No discussion of the relationship between suffering, sin, and the cross in counseling**: The strongest material in this tradition (Welch on depression and ADD, Powlison on biological psychiatry) requires careful theological navigation of the relationship between physical conditions, sin, suffering, and the redemptive purposes of God. The syllabus assigns these readings but provides no orienting framework for how students should theologically process their conclusions — particularly the question of how much weight to give biological explanations versus heart-level analysis.
+3. **Scripture memory requirement is procedurally robust but theologically thin**: The five-passage Scripture memory requirement is well-structured (no notes, honor statement, peer-graded), but the syllabus does not specify which five passages are required. Given that the passages are described only as "relevant to biblical counseling," a student could theoretically memorize five verses about peace without memorizing anything about sin, regeneration, or the cross — which would produce a counselor with a therapeutically comforting but soteriologically incomplete toolbox.
+
+### 11. Blind Spots
+The syllabus assumes that surrounding students with the right books and requiring them to memorize Scripture will produce biblical counselors. It does not surface the deeper question of whether the students themselves are being formed — not merely informed — by what they are reading and memorizing. The Powlison and Welch readings in particular are designed to produce not just competent counselors but humble, gospel-dependent ones. The syllabus grading structure (exams, quizzes, papers) can be passed by a student who has mastered the content without being changed by it.
+
+### 12. Illusion of Strength
+The institutional mission statement — "Southeastern Baptist Theological Seminary seeks to glorify the Lord Jesus Christ by equipping students to serve the church and fulfill the great commission" — appears at the head of the document with the weight of a theological declaration. It reads like a sermon opening. But mission statements are not sermons; the presence of Christ's name in an institutional header does not constitute proclamation. The document never substantiates that opening with any actual theological content. The illusion is of a Christ-centered document; the reality is an administrative syllabus with a Christ-centered header.
+
+### 13. Missed Opportunity
+The course description notes that BCO5500 includes "a focus on how Scripture and theology form the foundation and substance for counseling." This is a profound thesis — that Scripture is not merely a reference tool in counseling but its substance, its actual content. A syllabus introduction that briefly unpacked this claim — that the gospel itself is the change agent, that the Word of God is living and active (Hebrews 4:12), that counseling is fundamentally a ministry of the Word — would have given students an orienting theological vision before they opened a single assigned reading. That opportunity is missed in favor of moving directly to contact information and grading policies.
+
+### 14. Surgical Fixes
+These are directed at the syllabus as a pedagogical document:
+
+1. **Add a brief course theology statement** (one paragraph) that articulates the gospel-driven foundation of the entire counseling model: God's Word is sufficient; the gospel changes hearts; all transformation flows from union with Christ, not merely behavioral compliance with Scripture's commands.
+2. **Specify the five required Scripture memory passages**, and ensure they represent the full arc of the biblical counseling model: human heart corruption (Jeremiah 17:9), the regenerating work of the Spirit (Ezekiel 36:26–27 or John 3:3–8), the sufficiency of Scripture (2 Timothy 3:16–17), the gospel as power for change (Romans 1:16 or 1 Corinthians 15:3–4), and a pastoral application passage (Galatians 6:1–2 or James 5:16).
+3. **Add a brief orienting note to the Powlison and Welch readings** on biological psychiatry and depression, signaling to students the theological question they should be asking as they read: "How does this change (or not change) our understanding of the human heart as the locus of sin and suffering — and of the cross as the deepest answer to both?"
+
+### 15. Dead Orthodoxy Flag
+Not applicable. This is not a theological document being assessed for orthodoxy; it is an administrative syllabus. The reading list itself, however, would score high on the dead orthodoxy test in reverse — the assigned authors (Powlison, Welch, Tripp) are precisely the ones who have spent careers fighting against dead orthodoxy in counseling, insisting that correct doctrine must produce transformed lives, not merely informed counselors.
+
+### 16. Weight of Glory Assessment
+There is no weight of glory in this document — not because it is anti-glory, but because it is a syllabus, and syllabi do not preach; the glory, if any is present, belongs to the books being assigned, not the document assigning them.
+
+### 17. Rubric Fit Note
+This rubric is designed exclusively for sermon manuscripts. A seminary course syllabus is a genre so distant from a sermon that no productive homiletical evaluation is possible. The rubric cannot be bent to accommodate this document — the categories of exposition, gospel centrality, conscience force, and exhortation are simply inapplicable. What has been offered above is a content-level assessment of the syllabus as a pedagogical document, noting where its theological instincts are sound and where they could be made more explicit. The preacher or student who placed this file in a sermon repository should be aware: a syllabus about biblical counseling is not a sermon about the Bible, and proximity to Scripture in a course title does not constitute proclamation of Scripture from a pulpit.

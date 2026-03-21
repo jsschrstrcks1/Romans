@@ -424,3 +424,62 @@ Online Resource Directories
 findhelp.org findhelp.org Searchable database of local resources by zip code — extensive, covers food, housing, healthcare, financial assistance, and more
 Feeding Tampa Bay feedingtampabay.org Food distribution events, groceries, hot meals across Tampa Bay region
 ACCESS Florida myflorida.com/accessflorida Apply for SNAP, Medicaid, cash assistance
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+**1. Verdict Title:** Not a Sermon — Community Resource Directory Outside Rubric Scope
+
+**2. One-Sentence Summary:** This file is a comprehensive directory of Pasco County (and adjacent Hernando County) social services, crisis resources, and community organizations compiled for pastoral use — it is a reference tool, not a sermon manuscript, and the "Thus Says the Lord" rubric does not apply.
+
+**3. Berean Gate:** NOT APPLICABLE — No text. No passage. No proclamation. The Berean Gate requires a sermon with a biblical text, a main point arising from that text, and a preacher standing in relation to Scripture. This document has none of those elements. The Scopus Test cannot be run — there is no thesis. The Authority Test cannot be run — there is no preacher. Evaluation stops here in the formal sense, and a narrative assessment is offered in its place.
+
+**4. Fatal Flaw Flags:** ALL SIX FATAL FLAW CONDITIONS ARE TECHNICALLY TRIGGERED — but only because the document is not a sermon. Applying these flags would constitute a category error. No score cap is meaningful here because no score is valid. The flags are noted only for completeness and to explain the absence of a score.
+
+**5. Score Breakdown:**
+
+- Exposition & Hermeneutics (25 pts): 0 — No biblical text is opened, explained, or applied at any point in the document.
+- Theology & Doctrinal Integrity (18 pts): 0 — No theological claims are made. The document does contain one brief statement of ecclesiological philosophy ("The church is not the only source of help, and it should not try to be. Know what exists. Go with people to access it."), but this is not theological argumentation — it is a ministry philosophy note.
+- Gospel Centrality & Force (15 pts): 0 — No gospel is presented.
+- Conscience & Applicatory Force (15 pts): 0 — No conscience is addressed.
+- Exhortation & Response (8 pts): 0 — No one is called to believe, repent, obey, or pursue anything.
+- Structure & Logical Flow (9 pts): 0 — The document is organized by service category with an appendix for neighboring county resources and online directories. This is appropriate reference-document structure, not sermonic structure.
+- Illustration & Imagination (5 pts): 0 — Not applicable.
+- Sermonic Force (5 pts): 0 — Not applicable.
+
+**6. Cognitive Load Modifier:** Not applicable as a homiletical category. As a reference document, it is well-organized and navigable by section heading. The prose is minimal and functional. It is accessible.
+
+**7. Total Score:** No score assigned. This is not a sermon. Assigning a numerical score would misrepresent the document and potentially mislead anyone using this evaluation as a measure of the document's quality or fitness for purpose.
+
+**8. Core Override Questions:**
+- Does this make me think more of Christ or myself? — Neither axis applies. The document does not address this question.
+- Did I encounter God, or just ideas about Him? — Neither. The document is administrative and utilitarian in purpose.
+- Was I comforted, convicted, or merely informed? — Informed — which is precisely what the document is designed to do. For that purpose, it succeeds.
+
+**9. Strengths (Top 3):**
+- The document includes a brief but notable statement of pastoral philosophy at the top: "The church is not the only source of help, and it should not try to be. Know what exists. Go with people to access it." The phrase "Go with people to access it" is pastorally significant — it positions the church not as a referral desk but as a accompanying presence, which is a meaningful diaconal instinct.
+- The inclusion of Appendix B (Hernando County resources) shows geographic awareness and pastoral practicality for members near the county line — this level of detail demonstrates the document was built for actual use rather than as a formal compliance exercise.
+- The range of categories covered (housing, crisis, DV, elder services, veterans, legal, recovery, employment, transportation, medical, human trafficking, law enforcement) is comprehensive and cross-referenced in multiple sections, giving the document genuine utility in a wide range of pastoral situations.
+
+**10. Critical Weaknesses (Top 3):**
+- The document contains no theological grounding. The single sentence of ministry philosophy ("The church is not the only source of help...") is pragmatically sound but theologically underdeveloped. There is no articulation of why the church holds these resources — no reference to the diaconal office, the command to love neighbor, the imago Dei as basis for human dignity, or the relationship between mercy ministry and the gospel. Over time, a purely functional resource list without theological mooring can train deacons to think of mercy ministry as case management.
+- There is no gospel entry point identified for any organization. The directory makes no distinction between secular agencies and gospel-presenting Christian organizations. A deacon handing someone a list of secular services with no gospel integration has done social work. Where Christian organizations on this list (e.g., Metropolitan Ministries, Salvation Army, faith-based recovery programs) offer explicit gospel witness, that should be noted so the deacon can make informed referrals when the person's spiritual state is the primary concern alongside material need.
+- There is no instruction on pastoral accompaniment or follow-up. The phrase "go with people" in the preamble is exactly right, but it is not developed. There is no guidance on prayer before sending, follow-up timelines, documentation for the deacon team, or how to hold the gospel and the material need together in a single pastoral encounter. The document presupposes a trained deacon; it does not help form one.
+
+**11. Blind Spots:** The compiler likely does not see that comprehensiveness can quietly substitute for pastoral wisdom. A thorough list of resources may create the impression that the church is "equipped for mercy ministry" when in fact the list is only one precondition for that ministry. The other preconditions — theological conviction about why we do this, trained deacons who know how to accompany well, and a gospel-integration strategy — are not present in the document and may not be present in the ministry's actual practice.
+
+**12. Illusion of Strength:** The document's thoroughness and organization are genuine strengths for their stated purpose. But the illusion worth naming is this: a well-organized resource directory can create the feeling that the diaconal ministry is well-developed, when what exists is actually a well-organized list. The list is not the ministry. It is a tool. Tools require skilled hands and a clear purpose to become ministry.
+
+**13. Missed Opportunity:** The document would be significantly strengthened by a one-page theological and diaconal framework prepended to the directory — perhaps one paragraph grounding mercy ministry in Scripture (the deacon's office in Acts 6, the good Samaritan in Luke 10, "faith without works is dead" in James 2), one paragraph articulating how material help and gospel proclamation relate (not competing, not collapsing into each other), and one paragraph on pastoral accompaniment practices. This would transform the document from a useful list into a formational tool for deacons and care team members.
+
+**14. Surgical Fixes:**
+- Add a one-paragraph theological preamble grounding the document in the church's diaconal theology. Suggested anchor texts: Acts 6:1-7 (the origin of the diaconal office as meeting material need so the word is not neglected), Luke 10:25-37 (accompaniment), James 2:14-17 (faith and works inseparable).
+- Add a notation system (e.g., a small marker or column) to identify which organizations on the list are explicitly Christian and/or gospel-presenting, so deacons can calibrate referrals based on the spiritual openness and need of the person they are serving.
+- Add a "How to Use This Directory" section with five to seven practical guidelines: pray before you send anyone; accompany when possible; follow up within 72 hours; never give a list without giving yourself; note any spiritual openness for pastoral follow-up.
+- Add the church's own internal care contacts (deacon team lead, elder on call) at the top of the document, so internal resources appear alongside external ones — communicating that the church's own body is the first community of care, not the last resort.
+
+**15. Dead Orthodoxy Flag:** Not triggered — the category does not apply to a non-sermon document.
+
+**16. Weight of Glory Assessment:** This document carries no eternal gravity on its own — it is a means, not an end. Its weight of glory depends entirely on the hands that hold it and the pastoral wisdom, gospel intent, and Christ-exalting accompaniment that the deacons bring to it when they pick it up and walk with suffering people.
+
+**17. Rubric Fit Note:** The "Thus Says the Lord" rubric is purpose-built for sermon manuscripts. It presupposes a preacher, a biblical text, a congregation, and a proclamation aimed at conviction, comfort, and exhortation. None of those elements are present in this document. Running the scoring framework produces meaningless zeroes and falsely implies the document is a failed sermon rather than what it actually is: a competently assembled and genuinely useful pastoral reference tool for mercy ministry. The rubric should not be applied to reference documents, administrative tools, or resource directories. This evaluation is provided for completeness per the evaluation request, with the explicit notation that no score is valid and no homiletical judgment is implied or intended.
