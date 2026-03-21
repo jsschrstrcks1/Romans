@@ -21,8 +21,8 @@ A new skill called **`sermon-map`** that fires when sermons are created, modifie
 When a new sermon file is created or imported:
 - Read the sermon file
 - Extract structured metadata: passage, title, filename, type (raw draft / polished / transcript / sermon / bible study), key themes, illustrations used, people group, verification flags, cross-references, gospel presence
-- **Detect the correct format** — the map uses six distinct formats (see Section 2); the entry must match the format of the target section
-- **Scale summary density to sermon importance**: Romans series gets 500-2000 char comprehensive summaries; polished non-Romans gets moderate treatment; raw drafts/transcripts get shorter entries with more flags
+- **Detect the correct format** — the map uses eight distinct formats (see Section 2); the entry must match the format of the target section. Critical: the 4th column is "Subject" not "Summary" in all series tables.
+- **Scale Subject column density to sermon importance**: Romans series gets 500-2000 char comprehensive Subject entries; polished non-Romans gets moderate treatment; raw drafts/transcripts get shorter entries with more flags
 - Place it in the correct Bible book section (use Grep to find section header, Read with offset to get context, Edit to insert)
 - **Also place in thematic index**: evaluate which thematic categories apply (Evangelism, Faith, Five Solas, Gospel, Grace, Sovereignty, Suffering, etc.) and add bullet entries to each relevant category
 - **Check for companion files**: if a related entry exists (same passage, similar title), cross-reference rather than creating a duplicate — use slash notation or "distinct from" / "archive copy of" notes matching existing patterns
@@ -76,6 +76,18 @@ When writing a new sermon or before committing:
   - **Tier 2 (unnamed, semantic match)**: Extract illustration types (medical, legal, military, family, pastoral) and match on semantic similarity. Flag possible reuse for human review. Best-effort — false negatives acceptable.
 - Flag reuse: "This illustration was used in [sermon]. Consider a fresh illustration."
 - This is critical — the map already tracks illustrations for exactly this purpose
+
+### 7. DATE — Assign and maintain preaching dates
+
+When a new sermon is added to the Romans series (INDEX fires):
+- Read `.claude/date-map.md` to find the last assigned date
+- Assign the next closest Sunday from the current date as the preaching date
+- If that Sunday is already occupied (e.g., two sermons processed on the same day), use the following Sunday
+- Add a new row to the date map table with the next sequential number, the date, passage, title, and filename
+- The date map uses format: `| # | Date | Passage | Title | File |`
+- Dates use ISO format: `YYYY-MM-DD`
+
+**Existing backfill**: All 39 sermons (Romans 1–16) have been backdated from 2026-03-15 (final sermon), one per Sunday working backwards. The series began on 2025-06-22.
 
 ## Skill File Structure
 
@@ -162,14 +174,16 @@ The SKILL.md file will contain:
 - How it relates to other skills (the mapping layer that other skills depend on)
 - The sermon-map.md is the single source of truth for sermon inventory
 
-### Section 2: Map Entry Formats (Six Formats, Not Three)
-- Document all six formats used in sermon-map.md with examples of each:
-  1. **Romans primary**: `| Passage | Title | File | Summary |` — richest entries, 500-2000 character summaries with point-by-point exposition, Greek words, illustrations, cross-references, flags
-  2. **Romans supporting files**: `| Passage | Title | File | Subject |` — shorter entries for companion files (raw drafts, flagged drafts, archive copies)
-  3. **Special messages**: `| Passage | Title | File | Subject |` — same headers as supporting files but different content density (memorial services, ordinations, etc.)
-  4. **Non-Romans by book**: `| Passage | Subject | File | Type |` — Subject column carries the real payload, varies from one word ("sermon") to 30+ lines of flags and corrections
-  5. **Thematic index**: `- File — Passage — Description` — **bullet-list format, not a table** — grouped by topic (Evangelism, Faith, Five Solas, Gospel, Grace, Sovereignty, Suffering, etc.)
-  6. **Memorial services**: distinct format for funeral/memorial sermon entries
+### Section 2: Map Entry Formats (Eight Formats)
+- Document all eight formats used in sermon-map.md with examples of each:
+  1. **Sermon series tables** (Romans primary, Romans supporting, Special messages, Five Solas, Doctrines of Grace, BFM series): `| Passage | Title | File | Subject |` — the 4th column is **Subject**, not Summary. Density varies: Romans primary entries run 500-2000 chars with point-by-point exposition, Greek words, illustrations, cross-references, flags; supporting files are 150-400 chars; special messages vary widely.
+  2. **Archive sermons by Bible book**: `| Passage | Subject | File | Type |` — note column order differs from series tables (Subject before File, and Type replaces Title). Type column uses values like `sermon`, `memorial`, `sermon (raw)`, `bible study`, `notes`, `sunday school`, `teaching`.
+  3. **Topical / Doctrinal sermons**: `| Topic | Passage | File | Type |` — first column is Topic (not Passage). Type column carries the full description payload, sometimes 1000+ chars.
+  4. **Memorial services**: `| Person | Passage | File |` — **three columns only**, no Subject/Type column.
+  5. **Ordination services**: `| Person | Passage | File | Subject |` — four columns, Person instead of Passage as first column.
+  6. **Non-sermon files**: `| File | Contents |` — two columns only.
+  7. **Studies, Notes, & Bible Studies**: `| File | Subject | Type |` — three columns, File first.
+  8. **Subject index**: `` - `filename.md` — Passage — Description `` — **bullet-list format, not a table** — grouped by 32+ topic categories (Adoption, Anxiety, Atonement, Baptist Distinctives, etc.). Uses backtick-wrapped filenames and em-dash separators.
 - The INDEX operation must detect which section the new entry belongs in and match that section's specific format
 - Flag vocabulary (full system, not just three symbols):
   - ⚠️ — unverified claim, needs checking (with severity levels: "verify before pulpit use" vs. "do not attribute from pulpit")
@@ -299,7 +313,7 @@ These edge cases were identified by testing the plan against the actual sermon-m
 
 | # | Edge Case | Fix | Where Addressed |
 |---|-----------|-----|-----------------|
-| 1 | Six formats, not three — map uses Romans primary, Romans supporting, special messages, non-Romans by book, thematic index (bullet list, not table), and memorial services | Document all six with examples; INDEX detects target format | Section 2, Section 3 |
+| 1 | Eight formats, not three — map uses sermon series tables, archive by book, topical/doctrinal, memorial (3-col), ordination, non-sermon files (2-col), studies/notes (3-col), and subject index (bullet list). 4th column is "Subject" not "Summary". | Document all eight with exact column headers; INDEX detects target format | Section 2, Section 3 |
 | 2 | Multi-file entries — slash-joined files, "archive copy of," "distinct from" cross-references | Rules for when to cross-reference vs. create new entry | Section 3, Design Principle 3 |
 | 3 | Thematic index is cross-cutting — same sermon in multiple categories | INDEX must also place in thematic sections; UPDATE must sync | Section 3, Section 4 |
 | 4 | Summary density varies by importance — Romans gets 2000 chars, raw drafts get 20 | Codify density hierarchy by sermon type | Section 3 |
