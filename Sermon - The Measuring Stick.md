@@ -176,7 +176,7 @@ Take a moment. Get right with God.
 
 ## Source Notes
 
-- **Thomas Helwys (1611) quote** — "set down an absolute, and perfect rule of direction, for all persons, at all times, to be observed; Which no Prince, nor any whosoever, may add to, or diminish from." Attributed to Helwys' 1611 confession. Wording is consistent with the *Short Declaration of the Mystery of Iniquity* (1612). Exact source location to be confirmed.
+- **Thomas Helwys (1611) quote** — "set down an absolute, and perfect rule of direction, for all persons, at all times, to be observed; Which no Prince, nor any whosoever, may add to, or diminish from." Attributed to Helwys' 1611 confession. Source is Article 9 of *A Declaration of Faith of English People Remaining at Amsterdam in Holland* (1611). *(Corrected March 2026 — previously misidentified as from the Short Declaration of the Mystery of Iniquity, which is a separate work on religious liberty.)* The original continues: "...as they will avoid the fearful judgments denounced against them that shall so do" (referencing Rev 22:18-19). Truncation in sermon is normal sermonic editing.
 - **1689 Second London Baptist Confession, Chapter 1.1** — quote is a modern rendering. Original 17th-century text reads: "The Holy Scripture is the only sufficient, certain, and infallible rule of all saving Knowledge, Faith, and Obedience." The modern version used is consistent with the substance of the original.
 - **Al Mohler quote** — *source citation needed*. The quote is consistent with Mohler's published writing on inerrancy. Verify source before publication.
 - **"Another man" (infallibility)** — unattributed as delivered. Do not attribute without confirmation.
@@ -280,6 +280,30 @@ or republish without resolving flagged items below.
     deserts of Yemen, capital Sana'a, qat as economic mainstay, nearly half
     of national economy involved in qat, Muslim, view Christianity as threat
     to community. ✓
+
+15. HELWYS SOURCE DOCUMENT MISIDENTIFIED IN SOURCE NOTES — MARCH 2026
+    The existing source notes say the quote is "consistent with the Short
+    Declaration of the Mystery of Iniquity (1612)." This is the WRONG
+    document. The quote is from Article 9 of Helwys' 1611 "Declaration of
+    Faith of English People Remaining at Amsterdam in Holland" — a confession
+    of faith. The Short Declaration of the Mystery of Iniquity is a separate
+    work about religious liberty. Source note should be corrected.
+
+16. ABSTRACT OF PRINCIPLES MISDATED — MARCH 2026
+    The raw transcript says "In the last 1800s we had the Abstract of
+    Principles." The Abstract was drafted in 1858 and SBTS opened in 1859 —
+    mid-century, not late 1800s. The polished version softened this to "In
+    the 1800s" (vague but not wrong) and "In the late 1800s" (still ~30 years
+    off). For accuracy in print: "In the 1850s" or "before the Civil War."
+
+17. 1689 DESCRIBED AS "SIGNIFICANT INFLUENCE" ON BF&M — OVERSTATED
+    The sermon says the 1689 "was a significant influence on our Baptist Faith
+    and Message of today." The BF&M (1925) was based primarily on the New
+    Hampshire Confession (1833), not the 1689 directly. The 1689's influence
+    on the BF&M is indirect: 1689 → Philadelphia Confession → Abstract of
+    Principles → broader SBC theological culture → BF&M. More accurate for
+    print: "a significant influence on Baptist theology" or "an ancestor of
+    our Baptist Faith and Message."
 
 ---
 
