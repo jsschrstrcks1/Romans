@@ -52,6 +52,11 @@ Not petty rage. Not mere disappointment. Holy revulsion. **Explicit. Tradition: 
 
 Sovereignty extends over creation, history, politics, individual lives, and salvation. **Explicit. Tradition: Calvinistic Reformed Baptist.**
 
+> "Dualism fails because it fails to factor in God. God is sovereign. God is in control. God has already won the battle."
+> — `Sermon - Angels Demons Etcetera.md`
+
+God's sovereignty applied to the angelic/demonic realm: angels and demons are real but operate entirely under God's authority. Dualism — the idea that good and evil are co-equal forces locked in battle — is rejected because it diminishes God's absolute sovereignty. **Explicit. Tradition: Reformed Baptist.**
+
 > "If the strongest man on earth can have his will bent like the flame of a candle responds to breath, then what earthly power or authority can stand before God?"
 > — `Sermon - When God Is For Us.md`
 
@@ -315,6 +320,11 @@ OT Spirit rested *upon* individuals for specific tasks (prophets, kings — Elij
 > — `bfm holy spirit.md`
 
 **Explicit. Tradition: Baptist (BFM 2000).**
+
+> "When you became a believer in Jesus Christ, you were sealed with the Holy Spirit. Greater is he that is in us than he that is in the world."
+> — `Sermon - Angels Demons Etcetera.md`
+
+Sealing applied specifically to the question of whether demons can possess believers — the answer is no. Eph 1:13-14 is the sermon's primary text; sealing functions as the theological ground for security against demonic possession. **Explicit. Tradition: Baptist, Reformed.**
 
 #### Illumination of Scripture
 > "Through illumination He enables men to understand truth."
@@ -1228,6 +1238,8 @@ CT Studd used as the paradigm case: elite cricketer, Cambridge graduate, gave aw
 | **Islam** | "Can Muhammad be the mediator between God and man? No." | `galatians 1.md` | Explicitly rejected |
 | **Christian Science** | Standalone sermon refuting the movement | `Christian science is the next group we are going to look at.md` | Explicitly rejected |
 | **Wicca / Occultism** | Standalone sermon: "1 Sam 28 wicca and the occult" | `1 sam 28 wicca and the occult..md` | Explicitly rejected |
+| **Dualism** | "Dualism says everything in existence and the world is a galactic fight between angels and demons. Dualism fails because it fails to factor in God. God is sovereign. God is in control. God has already won the battle." Dualism removes personal responsibility for sin and sees man as collateral damage in a battle of titans. | `Sermon - Angels Demons Etcetera.md` | Explicitly rejected |
+| **Demon-binding spiritism / Pseudepigraphal formulas** | TV preacher "said a few made-up words and claimed that the demon of debt was bound." Practice traced to Testament of Solomon and Book of Tobit — non-canonical literature, not Scripture. "That idea — that you can drive away demonic influence through specific ritual acts using specific substances — that's the root of a whole tradition of demon-binding and spiritual formulas." | `Sermon - Angels Demons Etcetera.md` | Explicitly rejected |
 | **Pantheism** | "There is a god in the microphone, a god in the podium, a god in the pews." (Dismissed as nonsense) | `evangelism (romans 15, mt 28, and rev 7).md` | Explicitly rejected |
 
 ### Soteriological Errors

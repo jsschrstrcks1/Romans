@@ -1,4 +1,7 @@
-# Angels, Demons, Etcetera
+# Angels, Demons, Etcetera (Raw Draft — DEPRECATED)
+
+> **Canonical version**: `Sermon - Angels Demons Etcetera.md` — polished, verified, Integrity Log complete (March 17, 2026).
+
 ## Ephesians 1:3–14
 
 **Primary Text**: Ephesians 1:3–14
