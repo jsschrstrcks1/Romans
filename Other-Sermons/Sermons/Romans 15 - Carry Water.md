@@ -317,3 +317,205 @@ The Christ-as-water image carries genuine eternal weight and earns a portion of 
 ### 17. Rubric Fit Note
 
 Romans 15:1-3 is a didactic epistle passage with a clear command structure and an embedded Christological basis — well-suited to this rubric. The passage's strongest feature (the OT citation and its redemptive-historical logic) is precisely what the Exposition and Gospel Centrality categories are designed to reward. The rubric is not straining here; the sermon is simply not digging to the level the text invites.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**"The Lieutenant Runs, But the Text Walks — A Sermon That Illustrates Better Than It Expounds"**
+
+---
+
+### 2. One-Sentence Summary
+A warmly pastoral treatment of Romans 15:1-3 that deploys a memorable central metaphor effectively and reaches a genuine gospel moment, but rushes past the passage's actual exegetical argument and leaves its applicatory work thin and undifferentiated.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with flag**
+
+*Scopus Test:* The main point — the strong are obligated to bear with the weak, following Christ's self-giving example — is genuinely the main point of Romans 15:1-3. Pass.
+
+*Authority Test:* The preacher does not soften or edit the text's demands. Pass.
+
+**Flag:** The sermon treats verse 3 ("the reproaches of those who reproached you fell on me," citing Psalm 69:9) as a proof-text for Christ's suffering generally, rather than engaging what Paul is actually doing with the citation. Paul's point is not simply that Christ suffered — it is that Christ did not please himself, and the evidence is that he absorbed reproaches aimed at God the Father. The redemptive-historical logic of Paul's argument (Christ as the paradigm of absorbing the costs others refuse to bear) is the hinge of the passage, and the sermon glides over it. The Berean Gate passes, but the exegetical center of gravity has shifted.
+
+---
+
+### 4. Fatal Flaw Flags
+**No fatal flaws triggered. Score is uncapped.**
+
+Note: The gospel is present (closing section and "The Difference — He Is the Water"). Application is somewhat generic but not entirely absent. The sermon is accessible. However, the application section does not press the conscience with specificity — this nearly triggers Flag 4.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 16/25**
+
+- *Textual Fidelity (6/10):* The sermon draws its central theme from the text honestly. But the exegetical anchor — the Psalm 69:9 citation and what Paul is doing with it — is not explained. The phrase "the reproaches of those who reproached you fell on me" is the argument's hinge, and the sermon quotes it without opening it. The specific failing condition Paul addresses (self-pleasing vs. neighbor-building) is named but not pressed exegetically.
+- *Contextual Awareness (3/5):* The connection to Romans 14:20 (mentioned in the sermon) and the strong/weak debate over food and calendar is acknowledged in passing. The broader redemptive-historical placement — Paul writing to a Gentile-heavy church navigating Jewish/Gentile tensions — is not engaged, even though it is the context that gives "bearing with the weak" its specific weight.
+- *Exegetical Clarity (4/5):* The meaning of "bear with the failings of the weak" is explained clearly enough for a congregation to follow. No misleading readings introduced.
+- *Logical Faithfulness (3/5):* The Joseph allusion ("What Paul had meant for harm, God meant for good") is technically about Paul approving Stephen's death, but the Genesis 50:20 language is imprecise — Paul is not Joseph, and the comparison, while rhetorically effective, is not exact. Minor but worth noting.
+
+*FCF Assessment:* The Fallen Condition Focus — self-pleasing, the instinct to use one's strength for personal comfort rather than the neighbor's good — is named but not pressed concretely. The sermon tells us what we should do without forcing us to feel the pull of what we actually do.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness (5/7):* The Christ section is genuinely strong — the suffering, the voluntariness, the debt language. The "He is the water" turn is theologically sharp and earned. However, the redemptive-historical logic of why Christ's example is Paul's argument (not mere illustration) is not fully developed.
+- *Redemptive-Historical Awareness (2/3):* Paul as the instrument of Gentile inclusion is a legitimate redemptive-historical move. The sermon could have gone deeper here, but what is present is sound.
+- *Doctrinal Precision (3/4):* "We owed a debt we could not pay. He paid a debt he did not owe" is clear satisfaction theology. Colossians 3:3 is cited ("your life is hidden with Christ in God") without explanation — it is tangentially relevant at best, and its use is more decorative than exegetical.
+- *Confessional Alignment (3/4):* Nothing contradicts confessional theology. The gospel presentation, though brief, is sufficient. No doctrinal errors detected.
+
+**3. Gospel Centrality & Force — 10/15**
+
+- *Clarity of the Gospel (3/5):* The gospel is present in the "Christ's Example" and "The Difference" sections, and briefly at the close. John 14:6 lands clearly. But justification by faith is not explicitly articulated — the closing invitation is warm but vague ("come talk to me after the service"). The cross is described, but what the cross accomplishes for the sinner — propitiation, justification, reconciliation — is not named.
+- *Necessity of Christ (4/5):* The "He is the water" distinction is one of the sermon's best moments. Christ is not presented as merely a better lieutenant. This is well-handled.
+- *Cross-Centered Gravity (3/5):* The sermon moves toward the cross and then past it into discipleship application. The gospel section at the end feels appended rather than integrated — the structural climax is "The Difference," but the closing pivots to discipleship, which slightly diffuses the gospel gravity.
+
+*Synagogue Test:* The description of the trial, scourging, and crucifixion would give offense to a devout non-Christian. The cross is proclaimed, not merely decorated. Pass.
+
+*Law/Gospel:* The law (the obligation to bear with the weak) is present. The gospel (Christ bore with us) is present. But the law does not have sufficient time to land before the gospel relieves it — the sermon moves quickly from the command to the illustration to Christ without letting the hearer feel the weight of their own self-pleasing.
+
+**4. Conscience & Applicatory Force — 8/15**
+
+- *Heart Penetration (3/5):* The sermon addresses the conscience in a general way. The image of the wounded sergeant is emotionally resonant. But there is no moment where a particular kind of sinner is cornered — the self-sufficient strong person who uses their freedom without thought for the weak is not confronted directly.
+- *Specificity (2/5):* The application is noticeably vague. "Be intentional. Live in a way that puts you in contact with lost people. Find someone you can pour your life into." These are true, but they are interchangeable with any sermon on discipleship or evangelism. The passage's specific burden — bearing with the scruples and stumbling of weaker believers, not merely evangelism — is folded into a generic call to discipleship.
+- *Spiritual Differentiation (3/5):* The sermon distinguishes between believers and unbelievers at the close. It briefly addresses the "weaker brother" category. But Perkins' categories are largely unaddressed: the knowledgeable-but-unhumbled strong believer who is impatient with weakness, the backslider, the humbled-but-not-yet-believing — none receive distinct address.
+
+**5. Exhortation & Response — 5/8**
+
+- *Call to Response (2/4):* "Find someone you can pour your life into" and "If you don't know Jesus, come talk to me" are calls to action. But they are low-intensity. The gospel call is deflected to post-service conversation rather than pressed in the moment. The exhortation to the strong — this is a specific call, not a general one — is not made direct enough.
+- *Equipping for Holiness & Witness (3/4):* The legacy/discipleship framing at the close does equip the congregation to think about their role in others' sanctification. The corporate dimension (bearing with the weak as a community practice) is present but underdeveloped.
+
+**6. Structure & Logical Flow — 7/9**
+
+- *Clarity of Outline (3/4):* The sermon has a clear four-movement structure: the command, Paul's example, Christ's example, the close. This is traceable and memorable.
+- *Progression (3/3):* The escalation from command to Paul to Christ to the distinction ("He is the water") is well-executed. Each section builds on the prior.
+- *Unity (1/2):* The sermon begins on bearing with the weak, but the closing application drifts toward general discipleship and evangelism. The specific concern of Romans 15 — the strong and weak within the community — is broadened beyond the text's own scope by the close.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2):* The Gulf War illustration is vivid and culturally accessible. It comes from the congregation's world (military, sacrifice, hardship) rather than the preacher's study.
+- *Clarity (1/2):* The illustration carries more weight than it should — the sermon's main point lives or dies with it, rather than with the text. Illustrations should illuminate the text; here the illustration functions as the primary argument, and the text illustrates the illustration.
+- *Memorability (1/1):* The "He is the water" turn is the most memorable moment in the sermon and will travel home.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2):* The manuscript is oral. Direct address is present. Sentence lengths vary. The voice is genuine.
+- *Conviction on the Page (1/2):* The sermon asserts more than it presses. The Christ section has the most conviction; the application sections the least.
+- *Cadence and Breath (0/1):* There is no moment where the manuscript compresses toward a climax. The "He is the water" section is the closest — but it arrives abruptly and is followed by a pivot rather than a landing.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: 0 (no modifier)**
+
+This sermon is accessible to all hearers. The structure is clear, the vocabulary is plain, and the central metaphor carries the load effectively. A single mother, a high schooler, and a new believer can all follow and carry home the main idea.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 16/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 10/15 |
+| Conscience & Applicatory Force | 8/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **66/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **68/100** |
+
+**Interpretation: Concerning gaps. The sermon explains and illustrates but does not yet fully preach. Significant revision needed, particularly in applicatory specificity and exegetical depth on the Psalm 69:9 citation.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Mostly Christ, particularly in "The Difference — He Is the Water." The discipleship close leans toward self-assessment, but the sermon does not conclude on human performance. Partial yes.
+
+2. **Did I encounter God, or just ideas about Him?**
+The Christ section approaches encounter — the description of the passion, the voluntariness of the cross, the debt language — but does not fully arrive there. The sermon presents ideas about Christ's suffering more than the weight of who he is and what he did for sinners specifically.
+
+3. **Was I comforted, convicted, or merely informed?**
+Largely informed. The weak believer may be briefly comforted. But the strong believer — the primary audience of the text — is not sufficiently convicted of their self-pleasing before they are invited to be a lieutenant. The law does not land before the gospel relieves it.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **"He Is the Water" — a genuinely earned theological distinction.** The pivot from "the lieutenant carried water" to "Christ is the water" (drawn from John 4:14) is the sermon's best moment. It is not borrowed — it arises naturally from the central metaphor, and it says something true and memorable. This is the kind of move that sits in a congregation's mind for years.
+
+2. **The Gulf War illustration is vivid, accessible, and structurally sound.** It does not distract from the point — it generates the point. The congregation can see the sergeant, feel the desert, and understand sacrifice before the text is ever opened.
+
+3. **The manuscript is genuinely oral.** The language is plain, direct, and preachable. There is no academic padding, no filler, no throat-clearing. A preacher can stand and deliver this without it sounding like an essay.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The Psalm 69:9 citation — the exegetical center of the passage — is never opened.** "The reproaches of those who reproached you fell on me" is Paul's entire argument in verse 3. He is not merely saying Christ suffered; he is saying Christ absorbed the cost others refused to bear, fulfilling a pattern from the Psalter. The sermon quotes the verse, applies it as a general statement about Christ's suffering, and moves on. The engine of Paul's argument is left running in the parking lot while the sermon drives somewhere else.
+
+2. **Application is generic and interchangeable.** "Find someone you can pour your life into" and "Live in a way that puts you in contact with lost people" could appear in any evangelism or discipleship sermon. They do not arise specifically from Romans 15:1-3's argument about bearing with the scruples of the weak. The congregation is not told what bearing with the weak actually looks like — deferring personal freedoms, absorbing inconvenience without resentment, entering into someone's weakness rather than managing it from a distance.
+
+3. **The strong believer's self-pleasing is not pressed.** The Fallen Condition Focus of this text is the instinct to please oneself at the expense of the weak. Paul names it directly: "not to please ourselves." The sermon quotes this and then moves to illustration, never pressing the congregation with the specific temptation — using your freedom as a right, being impatient with the spiritually immature, resenting those whose weakness costs you something. The law does not land before the gospel relieves it.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the sermon's most memorable content — the illustration — is doing the heavy lifting that the text should be doing. The structure is, in effect: illustration → text → illustration-continues → text as decoration. The danger going forward is a preaching style where the sermon lands emotionally but the congregation cannot reconstruct what the passage itself argued.
+
+Additionally, the closing application's pivot to evangelism and discipleship broadly, rather than the specific burden of the passage (bearing with the scruples of the weak within the church), suggests the preacher may be more comfortable with outward-facing application (evangelism, discipleship) than inward-facing community accountability. The text presses community; the sermon deflects to mission.
+
+---
+
+### 12. Illusion of Strength
+
+The sermon feels strong because the illustration is emotionally resonant and the "He is the water" move is theologically satisfying. A congregation will leave feeling like they heard good preaching. But the strength is in the illustration and the pivot, not in the exposition of the text. The passage's argument — Christ as the fulfillment of the Psalm 69 pattern of absorbing what the righteous suffer on behalf of others — is never actually preached. The sermon is emotionally richer than it is exegetically rich, and the emotional strength creates the impression of depth that the exegetical work has not fully earned.
+
+---
+
+### 13. Missed Opportunity
+
+Verse 3b — the Psalm 69:9 quotation — is one of the richest redemptive-historical moments in the passage. Paul is reaching back into the Psalter and locating Jesus in the Psalm 69 sufferer — the one who bore the reproaches that rightly belong to God. Christ does not please himself because he absorbed the full weight of divine reproach that sinners deserved. The sermon glimpses this in the Christ section (the voluntariness of the cross, the debt language) but never arrives at the Psalm 69 logic. Preaching this would have given the Christ section actual exegetical grounding, connected the Old Testament to the New organically, and made the call to bear with the weak feel like an echo of cosmic redemption rather than a discipleship principle.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Open Psalm 69:9 before applying verse 3.** Spend 2-3 minutes explaining what Paul is doing with the citation — Christ absorbing the reproaches aimed at God, fulfilling the suffering-righteous pattern of the Psalms. Then show how this is Paul's argument: Christ didn't please himself because he took on the full weight of what we deserved. This transforms the Christ section from an illustration to an exegetical argument.
+
+2. **Press the Fallen Condition Focus before the relief.** After reading the text, name the specific sin: self-pleasing, the instinct to treat personal freedom as a right rather than a resource for others. Give it a face — the strong believer who sighs at the weaker brother's questions, who resents the inconvenience of slower growth, who pours a drink and considers his liberty without considering his neighbor. Let the law land before Christ carries it.
+
+3. **Narrow the application to the passage's actual burden.** Replace "find someone to pour your life into" with specific, differentiated application — what does it look like to bear with a weaker believer who thinks Sunday football is sinful? Who struggles with alcohol and sits at your dinner table? Who asks the same spiritual questions for the third year in a row? The text has specific address; the application should match it.
+
+4. **Integrate the gospel section structurally, not appendicially.** The gospel is tacked on at the end in a separate headed section. Consider weaving the gospel moment into "The Difference" section — let "He is the water" become the full gospel presentation, with justification explicitly named, rather than a clever metaphor that then requires a gospel section appended after.
+
+5. **Add direct address to the strong believer at the conscience-pressing moment.** After identifying the Fallen Condition Focus, address them directly: "Some of you are strong. You know you are. You've moved past the food debates and the calendar scruples. And you are impatient. You've earned that right, haven't you? Paul says you haven't." This kind of specific, cornering address is currently absent from the manuscript.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.**
+
+The sermon does not exhibit dead orthodoxy. There is pastoral warmth, genuine gospel movement, and an emotionally present preacher. The weakness is not bloodlessness — it is insufficient exegetical depth and application specificity. The fire is present; it simply needs fuel from the text.
+
+---
+
+### 16. Weight of Glory Assessment
+**Score: +2/5**
+
+The "He is the water" moment carries genuine eternal gravity, and the description of the passion is preached with weight. But the sermon as a whole is lighter than its subject — the congregation is invited to discipleship and legacy more than they are undone by grace. The eternal stakes of the passage are present in outline but not in full weight.
+
+---
+
+### 17. Rubric Fit Note
+This rubric fits well. Romans 15:1-3 is hortatory epistle, and the rubric's emphasis on conscience application and exhortation is precisely what this passage demands. The passage also has a strong redemptive-historical element (the Psalm 69 citation) that the Exposition and Theology categories are well-positioned to evaluate. No genre strain — the rubric is native to this kind of text.
