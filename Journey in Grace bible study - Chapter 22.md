@@ -242,6 +242,14 @@ The doctrine of particular redemption with universal proclamation is not a syste
 
 **Hold the breadth and the certainty together.** The breadth: God's love reaches the world — every tribe, every tongue, every corner of the earth. Not one kind of person. Every kind. The certainty: the atonement accomplished what it was sent to accomplish. These two things are not in tension. A particular redemption, universally proclaimed, sufficient for all who come, certain for all for whom it was made. That is the gospel. Take it to the world.
 
+Here is what that means in plain terms:
+
+**When you don't know if the person you're talking to can be saved.** Maybe they've been hard for years. Maybe they've rejected the gospel before. Maybe their life is a wreck you can't imagine God cleaning up. The "world" passages answer that. There is no category of person excluded from the call. No background, no history, no depth of sin that puts someone outside the reach of John 3:16. You do not need to pre-qualify them. Offer the gospel. That is your job.
+
+**When witness feels like pressure.** If the atonement was uncertain — if you need to say the right thing in the right way to tip someone over the line — then the weight is on you. But if God has a people in every nation and the gospel is the means he uses to call them, the weight is on him. You speak. He saves. That is not passivity — it is the most freeing thing in the world. You are not the closer. You are the messenger.
+
+**When you pray for someone who seems beyond reach.** First Timothy 2:1–4 is a direct command: pray for all kinds of people, including the ones with power, the ones who seem untouchable. The ground for that prayer is that God's saving desire has no demographic wall around it. You are not praying into the unknown. You are praying in line with what God has declared he desires. Pray with that confidence.
+
 ⸻
 
 Closing Reflection — What This Chapter Teaches
