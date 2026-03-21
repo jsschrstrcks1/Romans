@@ -60,6 +60,9 @@ Sovereignty extends over creation, history, politics, individual lives, and salv
 
 Ezra 4-6 narrative: God made Israel’s captors pay to rebuild the temple, the city, and her walls. Nebuchadnezzar’s humbling (Daniel 4) demonstrates that no earthly authority — however absolute — can resist God’s will. Applied pastorally: "You and God are the majority." If blessings keep you from obedience to the Lord, they are not from God. The Japanese soldier (Hiroo Onoda) illustration: the enemy fights on not knowing the war is already won. **Explicit. Tradition: Reformed Baptist, pastoral.**
 
+Sovereignty is also taught as the ground of Christian joy and rest. God’s control is illustrated through a rapid-fire OT survey: Elijah (sovereign over altar, brook, ravens, widow of Zarephath), Jonah (wind, waves, ship, fish, plant), Abraham/Isaac (ram in thicket), Peter walking on water, and Job (God responds from the whirlwind). "God is sovereign over everything. Nothing is outside of his command." 2 Chronicles 16:9 and Matthew 10:30 cited as proof-texts for God’s exhaustive knowledge and care. Because God is sovereign, anxiety is irrational — Matthew 6:27 and Philippians 4:6 applied. **Explicit. Tradition: Reformed Baptist.**
+> — `Sermon - Rejoice in the Lord.md`
+
 #### God's Answer to "Why" Is His Name, Not an Explanation
 > "When you're asking why, God introduces himself."
 > — Steven Davey (paraphrase), cited in `Other-Sermons/Sermons/ex 6-7.md`
@@ -281,6 +284,9 @@ The Spirit's ministry is Christocentric — He does not draw attention to Himsel
 > "Before we can even follow him, he has to do a work in us."
 > — `sola gracia.md`
 
+> "God has to do a work in our hearts in order for us to even have any interest in the things of God."
+> — `Sermon - Out of the Cistern.md`
+
 The Spirit effects the new birth. Regeneration precedes faith. **Explicit. Tradition: Calvinistic/Augustinian.**
 
 #### Spirit Baptism at Conversion — One-Time Event
@@ -485,7 +491,10 @@ See Christology section above.
 > "Don't miss the passive voice in verse 18: 'you were set free'... 'you became slaves.' God is the actor. He broke the chains."
 > — `Romans_6b r2.md`
 
-**Explicit. Tradition: Five-Point Calvinist.**
+> "Can the strength of your will overcome the will of God? If you think so, then you fall onto one side of the debate. If you think not, then you are more in line with Scripture."
+> — `Sermon - Out of the Cistern.md`
+
+Cistern/kitten illustration: apart from God's sovereign rescue, we remain trapped — "God is a gentleman" rebuttal; Lydia's heart opened (Acts 16:14) as paradigm of effectual calling. **Explicit. Tradition: Five-Point Calvinist, BFM 2000.**
 
 ##### Perseverance / Preservation of the Saints
 > "It's called 'once saved always saved,' or to use the words of the reformers, they called it perseverance of the saints. That sort of makes it sound like it has something to do with man's effort. It doesn't."
@@ -589,10 +598,16 @@ Real assurance grounded in Christ's work. But false assurance is a pastoral dang
 > "We deserve Hell, but we were given an inheritance. We deserve a punishment, but instead we are equipped. We deserve fire for eternity, but instead we are made sons and daughters."
 > — `Heb 12.md`
 
+> "Our redemption through Christ isn't just penal substitutionary atonement — that means he didn't just get us out of trouble because of our rebellion against the law. He didn't just take our place and pay our punishment with his blood. He also adopted us as his sons and daughters."
+> — `Sermon - Every Little Girl Needs a Daddy.md`
+
+> "God's Son was the price that was paid for your adoption."
+> — `Sermon - Every Little Girl Needs a Daddy.md`
+
 > "In a very real sense when we receive this gift, we become sons and daughters of God. We become heirs to the kingdom."
 > — `Galatians 3 - Law Faith and Adoption.md`
 
-Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. The Galatians 3 sermon develops the *huios* (υἱός) word study — Paul's deliberate choice over *teknon* to emphasize legal heir status and full inheritance rights. The foster-care-to-adoption illustration (chicken coop → family) mirrors God's adoption of sinners. John 1:12 cited: "he gave the right to become children of God." **Explicit. Tradition: Reformed Baptist.**
+Not merely metaphor. Legal reality — from slaves/enemies to sons and daughters. Adoption is distinct from and complementary to penal substitutionary atonement: Christ's work both satisfies wrath *and* brings us into the family. Cost is central — God paid with his Son. The Galatians 3 sermon develops the *huios* (υἱός) word study — Paul's deliberate choice over *teknon* to emphasize legal heir status and full inheritance rights. The foster-care-to-adoption illustration (chicken coop → family) mirrors God's adoption of sinners. John 1:12 cited: "he gave the right to become children of God." **Explicit. Tradition: Reformed Baptist.**
 
 #### Election and Reprobation — Infralapsarian
 > "God did not inject unbelief into Esau's heart. Esau, like all of us, was already a sinner by nature and choice. Reprobation is not God actively working sin into a man's life; it is God leaving a sinner to himself."
@@ -1036,6 +1051,9 @@ The `The Lords day romans 14 gal 4.md` file treats Sabbath/Lord's Day observance
 
 > "God lets hard things happen. God lets bad things happen to good people to produce better people. In the fire of the crucible God burns away imperfections in your life."
 > — `Exodus 2 - Suffering Is Not Outside His Plan.md`
+
+The outline version adds a theodicy framework: sin was allowed as a real possibility so that free will would be genuine; Adam's fall polluted all subsequent humanity (Hudson Beach septic-tank illustration — one ruptured tank taints the water for everyone); it is this taint that causes innocent suffering. God does not cause sin but sovereignly turns evil to good. Christ's own suffering exceeded anything He asks of believers — "your sin caused greater suffering for Christ than anything he will ask you or anyone else to do. He has led by example." No believer will endure separation from God as Christ did on the cross.
+> — `Sermon - Rejoice in the Lord.md`
 
 **Explicit. Tradition: Reformed, Puritan.**
 
