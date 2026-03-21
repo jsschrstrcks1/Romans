@@ -63,7 +63,7 @@
 ### 2.2 Work of Christ
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Penal Substitutionary Atonement | Very Strong | `Romans 3.md`, `Romans 5.md`, `Genesis 22-23*.md` | Reformed (PSA) |
+| Penal Substitutionary Atonement | Very Strong | `Romans 3.md`, `Romans 5.md`, `Genesis 22-23*.md`, `Sermon - Every Little Girl Needs a Daddy.md` | Reformed (PSA) |
 | Definite / Particular Atonement | Strong | `Romans 5.md`, `Journey in Grace bible study*.md` | Five-Point Calvinist |
 | Propitiation (Hilasterion) | Very Strong | `Romans 3.md` | Reformed |
 | Imputed Righteousness | Very Strong | `Romans 4*.md`, `Romans 5.md` | Reformed (Luther, Calvin) |
@@ -149,7 +149,7 @@
 | Regeneration Precedes Faith | Very Strong | `Ezekiel 36.md`, `Bible Study - The Thief*.md`, `Sermon - Out of the Cistern.md` | Reformed |
 | Effectual Calling | Very Strong | `Romans 10.md`, `Romans 8.md`, `Sermon - Out of the Cistern.md` | Reformed |
 | Justification by Faith Alone | Very Strong | `Romans 3.md`, `Romans 4*.md`, `Romans 5.md` | Reformation (Sola Fide) |
-| Adoption as Sons | Strong | `Galatians 3*.md`, `Romans 8.md`, `romans 9 pt 1.md` | Reformed |
+| Adoption as Sons | Strong | `Sermon - Every Little Girl Needs a Daddy.md`, `Galatians 3*.md`, `Romans 8.md`, `romans 9 pt 1.md` | Reformed |
 | Sanctification (Progressive) | Strong | `Romans 6.md`, `Romans 8.md`, `Romans 12.md` | Reformed |
 | Glorification | Strong | `Romans 8.md`, `Ordo Solutis Romans 8.md` | Reformed |
 
@@ -244,7 +244,7 @@
 | Missions vs. Humanitarianism | Strong | `Sermon - Won't You Go.md` | Conservative Evangelical |
 | Evangelism Through Relationships | Strong | `Romans 10.md`, `evangelism*.md` | Baptist |
 | Romans Road (Evangelistic Method) | Moderate | `Romans 3.md`, `Romans 6.md`, `Romans 10.md` | Baptist |
-| Unreached Peoples / Urgency | Strong | `Sermon - Won't You Go.md`, `evangelism*.md` | SBC Missions |
+| Unreached Peoples / Urgency | Strong | `Sermon - Won't You Go.md`, `evangelism*.md`, `Sermon - Every Little Girl Needs a Daddy.md` | SBC Missions |
 
 ---
 
