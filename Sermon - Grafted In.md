@@ -27,6 +27,8 @@ So Abram's father was an idolater. He had a room in his house, it's said — and
 
 As a result, God chose to bless him — so the tradition says. But again, Scripture gives no reason. The Bible's answer to "why Abram?" is the same as its answer to "why us?" — sheer grace reaching down before merit could be established.
 
+Here's why that matters. The chapter right before this — Genesis 11 — ends with humanity scattered. The Tower of Babel. God looks down, sees what man is building in his own name, and disperses the nations. Languages split. Families fracture. The world goes dark in every direction. And then Genesis 12 opens. God steps in and chooses one man — not because of anything in that man, but out of pure sovereign grace — and says: through you I am going to bless every single nation I just scattered. That's what we're about to read.
+
 Read with me in chapter 12, verse 1:
 
 > Now the LORD said to Abram, "Go from your country and your kindred and your father's house to the land that I will show you. And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed."
@@ -68,7 +70,7 @@ God doesn't cease his promises there though. He promises that any who bless Abra
 
 This one took a little bit of study. Because while Abraham is the father of the nation of Israel and is still considered a patriarch to this day, this is a bit like George Washington receiving a promise from God. Does it apply to all of America by default, or just to President Washington?
 
-There are a couple of differences though. For one, the USA is not made up primarily of the children of Washington, whereas Israel are the descendants of Abraham. Secondly, there is a New Testament command in Romans to the Gentiles that echoes this Old Testament promise to Abraham — but makes it applicable to the entire nation of Israel. Romans says that we "owe it" to the Jews to bless them because through them we have been blessed spiritually.
+There are a couple of differences though. For one, the USA is not made up primarily of the children of Washington, whereas Israel are the descendants of Abraham. Secondly, there is a New Testament command in Romans to the Gentiles that echoes this Old Testament promise to Abraham — but makes it applicable to the entire nation of Israel. Romans 15:27 says that we "owe it" to the Jews to bless them because through them we have been blessed spiritually — *"For if the Gentiles have come to share in their spiritual blessings, they ought also to be of service to them in material blessings."*
 
 This sentiment of blessing the Jews, honoring the Jews, and helping the Jews is mentioned in a number of places — in Psalms, Numbers, Isaiah, Joel, Malachi — as well as an interesting prophecy in Zechariah talking about the last days, where anyone who seeks to harm Israel, specifically the city of Jerusalem which has been surrounded by her enemies and is under siege. And it says all who oppose Israel in those days will be struck with blindness so that Judah will know the Lord God reigns and has not forgotten his covenant.
 
@@ -103,7 +105,9 @@ This is where the fourth promise comes in. So far God has promised to give Abrah
 
 Finally, God promised that all the world would be blessed through Abraham. There is an important man whose birth altered the way the Western world tracks time. His death literally brings life to billions of people across time. And that is Christ. Christ is also a descendant of Abraham. Every single person across time has the opportunity to receive the ultimate blessing because of this long-dead man. We have the opportunity to be grafted into his family, to be melted into the international alloy of the family of God.
 
-We certainly don't deserve this. As I mentioned earlier, we all are sinful. The best we can do is what Isaiah calls a polluted garment. And that's the bad news. But the good news is that two thousand years ago Jesus died on the cross for our sins. Scripture says in Romans that while we were still sinners, Christ died for us.
+We certainly don't deserve this. As I mentioned earlier, we all are sinful. The best we can do is what Isaiah calls a polluted garment. And that's the bad news. But the good news is that two thousand years ago Jesus died on the cross for our sins. He didn't just die as an example. He died as a substitute — absorbing the wrath of God that every one of our sins deserved. And when God raised him from the dead on the third day, that was the receipt. Proof that the debt was paid in full. Proof that the Father accepted the offering. And what faith does — what confessing and believing does — is reach out and receive what Christ earned. Not because of anything we've done. Because of everything he's done.
+
+Scripture says in Romans that while we were still sinners, Christ died for us.
 
 It's like Jesus said: "Daddy, that one is mine. Father, Kurt is mine. AJ, he's mine too. That Greg Baker fellow also — I want him. I want Bob Clark. I have a plan for him."
 
@@ -113,6 +117,8 @@ And so on. Jesus has already done the hardest parts. All we have to do — Roman
 > — Romans 10:9 (ESV)
 
 It's not our merit. It's not our effort. It's Christ's finished work received through faith.
+
+And if you're already a believer tonight — that truth has a different edge for you. Being grafted in isn't just your origin story. Paul says in Galatians 3:29: *"And if you are Christ's, then you are Abraham's offspring, heirs according to promise."* You are in the covenant. The same God who by sheer grace reached into the wreckage of Babel and called one man is the same God who by sheer grace reached into your life and called you. You didn't earn this. You can't lose it. But you were grafted in for the same reason Abram was called — to be a blessing to the families around you. Who are you discipling? Who in your neighborhood, your workplace, your family is still scattered — still waiting on the blessing that flows through the people of God?
 
 If you've never come to a point in your spiritual life where you've asked Jesus to pay the price for your sins, then I implore you — don't wait another day. We aren't promised tomorrow. We aren't promised our next breath.
 
