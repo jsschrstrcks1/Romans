@@ -467,6 +467,9 @@ See Hamartiology section above.
 > "Unconditional election is not only biblical, but defensible — and the very nature of grace makes the 'why' question illegitimate. Grace, by its pure definition, cannot be demanded or explained."
 > — `Journey in Grace bible study - Chapters 17-19.md`
 
+> "As many as were appointed to eternal life believed." — Acts 13:48. "God chose you as the firstfruits to be saved." — 2 Thessalonians 2:13. "He chose us in him before the foundation of the world." — Ephesians 1:4. God does the appointing — to salvation, to eternal life. We can't do it.
+> — `Sermon - Out of the Cistern.md`
+
 Infralapsarian: election follows the decree of the Fall. **Explicit. Tradition: Five-Point Calvinist, 1689 Baptist Confession.**
 
 > "Can the strength of your will overcome the will of God? If you think so, then you fall onto one side of the debate. If you think not, then you are more in line with Scripture."
@@ -491,6 +494,9 @@ See Christology section above.
 > "Don't miss the passive voice in verse 18: 'you were set free'... 'you became slaves.' God is the actor. He broke the chains."
 > — `Romans_6b r2.md`
 
+> "The Lord opened her heart to pay attention to what was said by Paul." — Acts 16:14. Who opened her heart? It was closed by sin. God has to do a work in our hearts in order for us to even have any interest in the things of God. He removes enough of the taint of sin so they can see him, and that is such a wonderful thing that once we can really and truly see, our hearts long for nothing so much as they long for Christ.
+> — `Sermon - Out of the Cistern.md`
+
 > "Can the strength of your will overcome the will of God? If you think so, then you fall onto one side of the debate. If you think not, then you are more in line with Scripture."
 > — `Sermon - Out of the Cistern.md`
 
@@ -511,6 +517,9 @@ Cistern/kitten illustration: apart from God's sovereign rescue, we remain trappe
 > "Your adoption does not hang on the thin thread of your performance but on the steel cable of Christ's finished work."
 > — `romans 9 pt 1.md`
 
+> "He who began a good work in you will bring it to completion at the day of Jesus Christ." — Philippians 1:6. He secured, ensured, and maintains our salvation. Apart from God having begun a work in your heart, you wouldn't be curious. That you care whether you're saved or not shows he has begun a work in you that he will be faithful to complete.
+> — `Sermon - Out of the Cistern.md`
+
 Prefers "preservation" language (Sproul — God's keeping work, not human effort). Explicitly frames the doctrine as building on the prior three — Total Depravity, Unconditional Election, and Definite Atonement: if man cannot save himself, he cannot maintain salvation either. God holds what God saved. **Explicit. Tradition: Reformed Baptist (TULIP — P).**
 
 #### Ordo Salutis (Order of Salvation)
@@ -524,7 +533,10 @@ Classic Reformed ordo with regeneration preceding faith. **Explicit. Tradition: 
 > — `romans 9 pt 1.md`
 
 > "The only thing man contributes to his salvation is the sin that makes it necessary." (Edwards, quoted repeatedly)
-> — `Ordo Solutis Romans 8.md`, `Ezekiel 36.md`
+> — `Ordo Solutis Romans 8.md`, `Ezekiel 36.md`, `Sermon - Out of the Cistern.md`
+
+> "Can the strength of your will overcome the will of God?" The crux question of the sermon — framing man's will against God's sovereign purpose. Very, very little depends upon us. Even our faith is a gift from God (Eph 2:8). The natural person does not accept the things of the Spirit of God (1 Cor 2:14).
+> — `Sermon - Out of the Cistern.md`
 
 Named by term. Synergism named and rejected. **Explicit. Tradition: Reformed/Calvinist.**
 
