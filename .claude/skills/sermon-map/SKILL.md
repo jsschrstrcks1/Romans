@@ -13,7 +13,7 @@ description: "Sermon mapping and indexing skill. Maintains sermon-map.md, theolo
 
 This skill maintains `.claude/sermon-map.md` as the single source of truth for the sermon inventory. It also maintains cross-references to `.claude/theological-map.md`, `.claude/series-trajectory.md`, and `.claude/date-map.md`.
 
-Seven operations: **INDEX**, **UPDATE**, **AUDIT**, **CONNECT**, **GAP**, **DEDUP**, **DATE**.
+Nine operations: **INDEX**, **UPDATE**, **AUDIT**, **CONNECT**, **GAP**, **DEDUP**, **DATE**, **QUOTE**, **ILLUSTRATE**.
 
 ### Relationship to Other Skills
 
@@ -181,10 +181,37 @@ The full flag system — not just three symbols:
 
 5. **Check for companion files.** Before creating a new entry:
    - Grep the map for the same passage and similar titles
-   - If a related entry exists, decide:
-     - **Companion file** (same sermon, different stage): cross-reference with slash notation (`File1.md / File2.md`) or add "distinct from" / "archive copy of" note
-     - **Independent sermon** (different sermon on same passage): create a separate entry
+   - If a related entry exists, apply the **Companion File Decision Tree**:
+
+   ```
+   Q1: Same preacher, same passage?
+     → No: Independent sermons. Separate entries.
+     → Yes: Q2
+
+   Q2: Same core outline and illustrations?
+     → Yes: Same sermon, different stage.
+       Label: slash notation in same row: `File1.md` / `File2.md`
+       Add status markers: *(raw)* / *(polished)*
+     → No: Q3
+
+   Q3: Same passage but different theological angle, different occasion, or different year?
+     → Yes: Independent sermons on same passage.
+       Separate rows. Cross-reference: "see also [other file] — distinct sermon on same passage"
+     → Unclear: Flag for human review: ⬜ COMPANION STATUS UNRESOLVED
+   ```
+
+   - **Multiple preachings of the same passage**: Each preaching gets its own row. Differentiate by year in parenthetical (`Romans 1 (2024)` vs `Romans 1 (series)`), occasion marker in Title column (`*(cult series)*`, `*(Romans series)*`, `*(evening sermon)*`), and cross-reference note in Subject column (`"distinct from [other entry] — different occasion/year"`).
+   - **Companion file notation standard**: Always use slash notation in the File column: `` `File1.md` / `File2.md` ``. No inline cross-reference notes or parenthetical sourcing as alternatives.
    - Never silently overwrite an existing entry
+
+5b. **Mark incomplete manuscripts.** If the sermon is truncated, unfinished, or missing sections:
+   - Add `⬜ INCOMPLETE: [specific gap]` in the Title column after the status marker
+   - Be specific: "cuts off mid-narrative at [quote]", "ends at [point]; no gospel close", "introduction only"
+   - Format: `*(raw draft)* ⬜ INCOMPLETE: [gap description]`
+
+5c. **Mark passage-secondary entries.** For Format 3 (topical) entries where the passage is an anchor text but the sermon isn't exegetical on it:
+   - Add `*(anchor only)*` after the passage in the Passage column
+   - This tells readers: the passage is referenced but not exposited. Don't count it as "passage X has been preached."
 
 6. **Locate the target section.**
    - Use Grep to find the section header (e.g., `### Genesis`, `## Romans Series`)
@@ -333,6 +360,66 @@ Do NOT suggest every doctrinal touchpoint. The theological map has 100+ position
 
 All 39 Romans sermons (Romans 1–16) have been backdated from 2026-03-15 (final sermon), one per Sunday working backwards. Series began 2025-06-22.
 
+### Undated Sermons
+
+When a non-series sermon has no known preaching date, add it to the `### Undated Sermons` section in date-map.md. Do not guess dates. As sermons are worked on and dates discovered, move them from Undated → Non-Series.
+
+### Date Conflicts
+
+A single Sunday can have two entries (AM series + PM special, or series + memorial). When a non-series sermon lands on an occupied Sunday, record both. Note the occasion: `*(AM)*`, `*(PM)*`, `*(evening)*`, `*(special service)*`. Romans series dates are immutable.
+
+---
+
+## Operation 8: QUOTE — Quote Map Maintenance
+
+**Trigger**: When a sermon is indexed or updated that contains attributed quotes.
+
+**Map file**: `.claude/quote-map.md`
+
+### Procedure
+
+1. **Extract all attributed quotes** from the sermon — any text in quotation marks with an author name attached.
+2. **Check quote-map.md** for existing entries (Grep by author name or key phrase from the quote).
+3. **If new quote**:
+   - Add entry with full quote text, source work (if known), verification tier, verification chain, and sermon reference
+   - Apply verification hierarchy:
+     - ✅ **Green**: Exact wording confirmed against primary source (book, page, sermon number)
+     - ⚠️ **Yellow**: Quote is real but exact source book/page unknown, or wording unconfirmed
+     - ❌ **Red**: Unverified, disputed, or potentially fabricated; may be misattributed
+   - Record verification chain: `"via MacArthur sermon #2234"`, `"confirmed ESV Ps 19:1"`, `"widely attributed, no primary found"`
+4. **If existing quote**: Increment usage count, add sermon to "Used In" column.
+5. **Removed/fabricated quotes**: If a quote was cut from a sermon as fabricated, keep it in the map marked ❌ with a note. This prevents re-introduction.
+
+### Relationship to careful-not-clever
+
+The quote map records verification status; careful-not-clever enforces it. When careful-not-clever flags a quote as ⚠️, the quote map should reflect that status. When verification resolves, update both.
+
+---
+
+## Operation 9: ILLUSTRATE — Illustration Map Maintenance
+
+**Trigger**: When a sermon is indexed or updated that contains named or significant illustrations.
+
+**Map file**: `.claude/illustration-map.md`
+
+### Procedure
+
+1. **Extract all illustrations** from the sermon:
+   - Named illustrations (Bannockburn, Corrie ten Boom, Mueller orphans, etc.)
+   - Significant unnamed illustrations (medical, military, pastoral stories with teaching weight)
+   - Recurring personal illustrations (Aunt Judy, Grace the dog, Hurricane Irma, etc.)
+2. **Check illustration-map.md** for existing entries (Grep by name or descriptive identifier).
+3. **If new illustration**:
+   - Add entry with full text or condensed retelling (3-5 sentences preserving teaching point, emotional arc, key details)
+   - Classify by type: Personal, Pastoral, Military, Medical, Historical, Biographical, Literary, Scientific, Theological, Humorous, Cultural
+   - Record passage connections and sermon reference
+4. **If existing illustration**: Increment usage count, add sermon to "Used In" column. Note if the same illustration is used for a different theological point.
+5. **Flag reuse** for human review — same as DEDUP Tier 1, now backed by the illustration map. Two or more uses isn't necessarily wrong, but the pastor should know.
+
+### Relationship to DEDUP
+
+DEDUP (Operation 6) checks for illustration reuse before committing a new sermon. ILLUSTRATE (Operation 9) maintains the persistent registry. DEDUP reads the illustration map; ILLUSTRATE writes to it.
+
 ---
 
 ## Large-File Operations
@@ -356,6 +443,8 @@ The sermon map is 1291+ lines. **All operations must work on sections, never the
 | GAP | Grep sermon-map.md by book headers | Read coverage sections | Report missing passages |
 | DEDUP | Grep for illustration names | Read matching entries | Flag reuse |
 | DATE | Grep date-map.md for last entry | Read last 10 lines of table | Append new row |
+| QUOTE | Grep quote-map.md for author/phrase | Read author section | Add/update entry |
+| ILLUSTRATE | Grep illustration-map.md for name/type | Read type section | Add/update entry |
 
 **Never `Read` the entire sermon-map.md in a single call.**
 
