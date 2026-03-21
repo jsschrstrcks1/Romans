@@ -83,6 +83,7 @@ Tracks the preaching date for every sermon in the Romans series and beyond. Roma
 
 | Passage | Title | File | Type | Notes |
 |---------|-------|------|------|-------|
+| Acts 13:48; Acts 16:14; Romans 5:8; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8; 1 Corinthians 2:14-16; 2 Corinthians 5:21; 2 Thessalonians 2:13; 2 Timothy 1:9; Philippians 1:6 | Out of the Cistern | `Sermon - Out of the Cistern.md` | BFM topical | BFM Article V (God's Purpose of Grace); actual preaching date unknown; audit completed March 20, 2026; companion audit at `Sermon - Out of the Cistern - Fact Check and Audit.md` |
 
 ---
 
@@ -100,4 +101,4 @@ Tracks the preaching date for every sermon in the Romans series and beyond. Roma
 - **Series duration**: 39 weeks
 - **Average pace**: 1 sermon per Sunday, sequential through Romans 1–16
 - **Non-series sermons dated**: 0
-- **Undated sermons tracked**: 0
+- **Undated sermons tracked**: 1
