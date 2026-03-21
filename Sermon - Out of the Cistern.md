@@ -31,7 +31,7 @@ Notice the last sentence. "As many as were appointed to eternal life believed." 
 
 I read a quote this week from a pastor over near Orlando. He said, "We have elevated the love of God over his holiness and wrath to the point where we have air-conditioned hell." God does love us. God did send his Son to die for us. And if we reject that, he is just in — and absolutely will — send us to hell.
 
-> One of those who heard us was a woman named Lydia, from the city of Thyatira, a seller of purple goods, who was a worshiper of God. The Lord opened her heart to pay attention to what was said by Paul.
+> One who heard us was a woman named Lydia, from the city of Thyatira, a seller of purple goods, who was a worshiper of God. The Lord opened her heart to pay attention to what was said by Paul.
 > — Acts 16:14 (ESV)
 
 Who opened her heart? It was closed by sin. Because of our sin we are hostile to God. Sons of disobedience, Scripture says. We're at enmity with God. Our hearts and minds are darkened. Our understanding is clouded. Our hearts are contaminated and point away from Christ. This wasn't just true of Lydia — it's true of everyone apart from the work of Christ in our hearts. God has to do a work in our hearts in order for us to even have any interest in the things of God.
