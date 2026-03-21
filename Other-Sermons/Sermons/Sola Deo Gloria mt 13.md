@@ -49,3 +49,185 @@ RC Sproul wrote: salvation is of the Lord from beginning to end. Yes, I must bel
 What that means in practice for those of us who are believers is this: In loving the sin Christ died to abolish, we are prostituting ourselves out to the very thing Christ died to save us from. Perhaps there is something in your heart you need to repent of today. If so, when the praise team comes up, the alter is open. 
 
 For those of you who are not yet believers, let me share with you the gospel.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Passage:** Matthew 13:1–9 (Parable of the Sower)
+**Evaluator:** Thus Says the Lord Rubric v1.0
+
+---
+
+### 1. Verdict Title
+
+**"God Is the Farmer — A Genuinely Fresh Reading with a Gospel That Signals but Doesn't Arrive"**
+
+---
+
+### 2. One-Sentence Summary
+
+A doctrinally courageous sermon on Matthew 13 that corrects the Pelagian misreading of the parable with a compelling and scripturally grounded argument that God is the farmer and we are the dirt — but ends, as the psalms sermons did, with a gospel pointer rather than a gospel proclamation.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: Pass**
+The sermon's main point — that God is the sovereign farmer who prepares the soil, and we are the dirt that can do nothing on its own — arises from the parable's own logic and is argued from the text. The observation that "you and I, we are the dirt" is a genuine expositional correction to the common moralizing misreading ("break up your own rocks").
+
+**Authority Test: Pass**
+The sermon does not soften the passage's implications. The hard truth that human beings cannot prepare their own hearts is stated and defended from Ephesians 2 and the potter/clay metaphor of Romans.
+
+**Ruling:** Gate passes. The main point arises from the text and is governed by it.
+
+---
+
+### 4. Fatal Flaw Flags
+
+- **Flag 5 (borderline) — Gospel is a reference, not a proclamation:** "For those of you who are not yet believers, let me share with you the gospel." — The manuscript ends here. The pattern from the Psalms sermons repeats: the sermon points to the gospel as a destination and then does not arrive. A person in the room who is not yet a believer hears the sentence but not the content.
+
+**Score Cap: Not applied** — Flag is borderline. Warning registered.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 17/25**
+- *Textual Fidelity (10):* 8/10 — The parable is the controlling text throughout. The "who are you in the story?" question is a genuine hermeneutical move applied well (we are the dirt, not David against Goliath). The farmer/seed/soil analysis arises from the text's own imagery.
+- *Contextual Awareness (5):* 3/5 — Adequate context. The Pelagianism discussion provides a useful doctrinal framework, though the contextual discussion of Matthew 13 itself (why parables? the parable's place in the growing opposition to Jesus; Matthew 13:11–17's explanation in the same chapter) is absent.
+- *Exegetical Clarity (5):* 3/5 — The parable's point is explained clearly. No engagement with Matthew 13:18–23 (Jesus' own interpretation of the parable), which would have been the natural expositional anchor for the sermon's entire argument.
+- *Logical Faithfulness (5):* 3/5 — No eisegesis. The "we are the dirt" argument is logical and genuinely present in the parable. However, the parable's own emphasis on the different soils and what happens to the seed is somewhat subordinated to the theological argument about God's sovereignty in preparation. Both are present in the text; the sermon foregrounds the sovereignty argument.
+- *FCF:* Named as Pelagianism — the human tendency to believe we can prepare our own hearts and merit our own salvation. Drawn from the text and named concretely. The pottery/corpse/dirt metaphors are effective developments of the FCF.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 16/18**
+- *Christ-Centeredness (7):* 5/7 — Christ's death is named in the context of the farmer's work: "In order for these things to happen Christ had to die on the cross." "He didn't have to die." "He didn't have to pull the weeds from our heart." Christ's necessity is real. His work is connected to the passage's images. Not decorative.
+- *Redemptive-Historical Awareness (3):* 2/3 — Present but undeveloped. The solas are listed at the sermon's opening; the redemptive-historical arc is acknowledged but not traced.
+- *Doctrinal Precision (4):* 4/4 — Excellent. The treatment of Pelagianism, the clarification that Ephesians 2:8–9 attributes salvation entirely to God, the John Owen election quote, and the RC Sproul quote on sovereign effectual grace — all are precise and correctly deployed.
+- *Confessional Alignment (4):* 5/4 — This is the strongest confessional sermon in the batch. The doctrine of election, effectual calling, and sovereign grace are all treated with confessional precision. (No cap — scores to 4.)
+
+**3. Gospel Centrality & Force (15 pts) — 8/15**
+- *Clarity of the Gospel (5):* 2/5 — Christ's death is named; grace and faith are named (from the solas framework). But the gospel is not presented in its full shape — no sin → wrath → substitution → resurrection → call sequence.
+- *Necessity of Christ (5):* 4/5 — Christ is absolutely necessary to the sermon's argument. The weed-pulling, rock-breaking, soil-preparation cannot happen without him. "He didn't have to die. He didn't have to be beaten, to be mocked."
+- *Cross-Centered Gravity (5):* 2/5 — The cross is referenced but not developed as the sermon's gravitational center. The sovereign grace argument is the center; the cross provides its basis.
+
+**4. Conscience & Applicatory Force (15 pts) — 9/15**
+- *Heart Penetration (5):* 3/5 — The "you are the dirt" argument reaches the conscience in an unexpected way — deflating the self-sufficient hearer who thought they were cooperating with God. The "loving the sin Christ died to abolish" sentence is sharp.
+- *Specificity (5):* 3/5 — The applications are accurate but somewhat generic ("perhaps there is something in your heart you need to repent of today"). The potter/broken pottery illustration is vivid but the application remains at the level of principle rather than naming specific conditions.
+- *Spiritual Differentiation (5):* 3/5 — The sermon addresses: (a) those with Pelagian instincts; (b) the believer who continues in sin; (c) the unbeliever (final appeal). Three categories reached, though not deeply differentiated.
+
+**5. Exhortation & Response (8 pts) — 5/8**
+- *Call to Response (4):* 2/4 — The altar-call movement ("when the praise team comes up, the altar is open") and the gospel appeal to unbelievers are present. But as with the Psalms group, the gospel content is gestured at rather than delivered.
+- *Equipping for Holiness & Witness (4):* 3/4 — "In loving the sin Christ died to abolish, we are prostituting ourselves out to the very thing Christ died to save us from." This is genuine equipping language — naming the specific spiritual dynamic of continued sin for the believer.
+
+**6. Structure & Logical Flow (9 pts) — 7/9**
+- *Clarity of Outline (4):* 3/4 — The sermon's argument is followable: Pelagianism introduced → parable read → who are you in the story? → we are the dirt → God is the farmer → what this costs Christ → application. Could be traced on a napkin.
+- *Progression (3):* 3/3 — The sermon builds well. The "we are the dirt" revelation mid-sermon is a genuine homiletical turn that gives the congregation something to discover.
+- *Unity (2):* 1/2 — Minor: the solas introduction adds weight but also adds multiple concepts (all five solas reviewed briefly) before the sermon's actual argument begins. This competes slightly with the parable's dominance.
+
+**7. Illustration & Imagination (5 pts) — 4/5**
+- *Relevance (2):* 2/2 — The Choctaw pottery, the 900-year-old tree, the rubber tree cracking the foundation, hot pepper gardening, the sunflower's chemical weed defense — all are grounded in real experience and serve their points.
+- *Clarity (2):* 2/2 — Each illustration clarifies. The gardener illustration (tilling, weeding, rock removal, fertilizing) is the closest the sermon comes to a sustained and unified image.
+- *Memorability (1):* 0/1 — No single image is likely to be carried home as the primary takeaway. The broken pottery is good but introduced and left quickly.
+
+**8. Sermonic Force (5 pts) — 4/5**
+- *Reads as Preaching (2):* 2/2 — Direct address throughout. Oral, energetic.
+- *Conviction on the Page (2):* 1/2 — The "we are the dirt" section has genuine force. The sovereign grace argument in the second half reads slightly more like a lecture.
+- *Cadence and Breath (1):* 1/1 — Good sentence variation. The climactic sentences shorten appropriately.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1** — The sermon is well-organized but introduces the five solas, Pelagianism and its history, Ephesians 2, Romans, John Owen, RC Sproul, the potter/clay metaphor, and the parable's multiple soil types — all as preparatory material before the three main illustrative sequences (pottery, tree, gardener). Slightly dense in the first third.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 17/25 |
+| Theology & Doctrinal Integrity | 16/18 |
+| Gospel Centrality & Force | 8/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **70/100** |
+| Cognitive Load Modifier | −1 |
+| **Total** | **69/100** |
+
+**Interpretation: 60–69 — Concerning gap (at the border of 70–79). Solid theological content and a genuine expositional insight — the gap is almost entirely in the gospel proclamation. A written-out gospel section and slight condensing of the introduction would move this to the 75–78 range.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Primarily of God's sovereign grace — not self. Christ's necessity is genuinely present.
+2. *Did I encounter God, or just ideas about Him?* The "He didn't have to die" passage approaches encounter. The sovereign grace discussion is more conceptual.
+3. *Was I comforted, convicted, or merely informed?* Convicted (of Pelagian self-trust), then pointed toward a gospel that doesn't arrive. The comfort is incomplete.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **"We are the dirt" — a genuine expositional correction** — The identification of the congregation as the soil (not the sower, not the seeds, not the farmer) is the most intellectually honest hermeneutical move in the Sola sermons. It corrects a common misreading without being merely clever, and it is genuinely textual. "Can dirt do anything on its own power? It can basically just sit there."
+2. **Doctrinal precision on sovereign grace** — The John Owen quote on election, the RC Sproul quote on soli Deo gloria, and the sustained argument from Ephesians 2:8–9 that even faith is not of ourselves — this is as precise and well-handled a treatment of the doctrines of grace as appears anywhere in the evaluated corpus. It is not preachy or heavy-handed; it arises naturally from the parable.
+3. **The gardener illustration** — The description of soil preparation (tilling, weed removal, rock removal, peat moss, fertilizer, careful planting) is the sermon's best sustained image. "I wish the dirt in my garden could weed itself. I wish the dirt in my garden could break up rocks, and unpack itself, fertilize itself, water itself. But that's not how it works." This is precisely what the sermon needs — an image that carries the theological argument in experiential terms.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Gospel pointer without gospel content** — "For those of you who are not yet believers, let me share with you the gospel." The sermon ends here. The most important sentence in the sermon points to a content that is not delivered. This is the same structural failure present in Psalms 68, 96, and 97.
+2. **Matthew 13:18–23 (Jesus' own explanation) is never consulted** — Jesus explains the parable in the same chapter. The sermon's central argument (God is the sovereign farmer) is defensible from the parable itself, but Jesus' own interpretation of the different soils deserves engagement. The silence here is the sermon's most significant expositional gap.
+3. **The solas introduction displaces the text** — The review of all five solas at the sermon's opening ("we've talked about sola scriptura, sola gratia, sola fide, sola Christus") is appropriate in a sermon series but extends the time before the governing passage is read. In a standalone read, it feels like a long runway.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the sovereign grace argument, while theologically correct, is being developed as the sermon's center rather than as the explication of the parable's center. Matthew 13 is about the mystery of the kingdom (v. 11) — why the same word produces such different responses among different people. The sovereign grace argument answers the implicit question of why (God's electing work), but the parable's own application (in Matthew 13:23, "the one who hears the word and understands it") is about fruitfulness, not merely reception. The sermon addresses reception; it does not address fruitfulness.
+
+---
+
+### 12. Illusion of Strength
+
+The doctrinal precision on sovereign grace *feels* like expositional depth, and it is genuine theology. But it is doctrine applied to the parable rather than doctrine drawn from the parable. Jesus does not explain the parable in terms of God's sovereignty; he explains it in terms of different responses to the word. The sermon's theological argument is correct but is arriving from Ephesians 2 rather than from Matthew 13.
+
+---
+
+### 13. Missed Opportunity
+
+Matthew 13:23 — "As for what was sown on good soil, this is the one who hears the word and understands it. He indeed bears fruit and yields, in one case a hundredfold, in another sixty, and in another thirty." The good-soil hearer is described as one who "hears and understands" — and the fruit is not described as the hearer's achievement but as a natural result of the word taking root. This is the parable's own resolution and would have given the sermon its closing movement: the goal of God's sovereign soil-preparation is not merely that we receive the seed, but that we bear fruit — a hundredfold, sixty, thirty. This is the "therefore" the sermon needs.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Write the gospel in full.** At the "let me share with you the gospel" sentence, add the full content: sin as the condition of every hearer, the wrath of God as the consequence, Christ's death as the substitutionary payment, resurrection as the vindication of his work, and faith as the God-given response. Four sentences will do.
+2. **Engage Matthew 13:18–23 in the body.** After the "we are the dirt" argument, note that Jesus himself interprets the parable. Point to his explanation of the different soils. This anchors the sovereignty argument textually: "Even Jesus' own interpretation shows that the seed's reception is not explained by the quality of the dirt — it is explained by what the farmer did with the dirt."
+3. **Close with Matthew 13:23 as the sermon's positive vision.** "The goal of all God's preparation is not just that we hear the word — it is that we bear fruit. A hundredfold. Sixty. Thirty. That is what prepared soil produces when the seed takes root. That is what God's sovereign work in you is for."
+4. **Condense the solas introduction.** One sentence is sufficient: "This is the fifth of the five solas of the Reformation — Soli Deo Gloria, to God alone be the glory." Let the text carry the argument.
+5. **Add a direct address to the self-sufficient hearer.** After the "we are the dirt" section: "Some of you are sitting here right now thinking, 'I chose God. I came to faith on my own. I made the decision.' Ephesians 2 says no — it was not of yourself. God prepared the soil before you ever felt the first stirring of faith. The first motion toward God in your heart was God's motion toward you."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is not bloodless — "in loving the sin Christ died to abolish, we are prostituting ourselves out to the very thing Christ died to save us from" is a sentence with genuine heat. The theological content is alive, not merely correct.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sovereign grace argument and the "He didn't have to die" passage carry genuine eternal weight; the sermon reaches for the gravity of God's electing love and mostly achieves it — but the missing gospel prevents full arrival.
+
+---
+
+### 17. Rubric Fit Note
+
+Matthew 13's parable genre tests the rubric's FCF and applicatory categories productively. The rubric's demand that exposition arise from the text's own argument appropriately flags the gap at Matthew 13:18–23. The rubric fits the parable genre without strain — parables demand the same hermeneutical faithfulness as any other genre, and the rubric's Berean Gate ("Is the main point of the sermon the main point of the text?") helpfully distinguishes between a sermon that correctly uses the parable's imagery (this sermon does) and one that develops the parable's own full argument (this sermon partially does).

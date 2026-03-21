@@ -62,3 +62,173 @@ But again, if you have never come to a point in your spiritual life where you’
 
 Communion
 the Lord Jesus on the night when he was betrayed took bread,  and when he had given thanks, he broke it, and said, “This is my body which is for you. Do this in remembrance of me.” In the same way also he took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.”  For as often as you eat this bread and drink the cup, you proclaim the Lord’s death until he comes.  Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord.  Let a person examine himself, then, and so eat of the bread and drink of the cup.  For anyone who eats and drinks without discerning the body eats and drinks judgment on himself.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Date Evaluated:** 2026-03-21
+**Text:** 2 Timothy 3:13–17
+**Series:** Five Solas (Sola Scriptura)
+
+---
+
+### 1. Verdict Title
+*Doctrine True, Text Thin: A Sincere Defense of Scripture’s Authority That Rarely Opens the Scripture It Is Defending*
+
+---
+
+### 2. One-Sentence Summary
+A pastoral and historically grounded argument for Sola Scriptura from 2 Timothy 3:13–17 that rightly celebrated the Word’s divine origin, sufficiency, and preservation while spending the majority of its time in historical narration and cultural commentary rather than in the announced text.
+
+---
+
+### 3. Berean Gate
+**Result: Pass — with drift warning.**
+
+*Scopus Test:* The sermon’s thesis — that Scripture is God-breathed, sufficient, and the supreme authority over all human opinion — arises from 2 Timothy 3:16–17. Pass.
+
+*Authority Test:* The preacher submits to the text’s claims. There is no softening of biblical authority, no hedging on inerrancy, no cultural accommodation. The preacher clearly believes what he is preaching. Pass.
+
+The drift concern is structural: the text is announced at the top, a substantial historical introduction follows, the text is read roughly at the midpoint, and the actual exposition of vv. 13–17 occupies a relatively small portion of the total sermon. The text governs the doctrine but the sermon does not live in the text.
+
+---
+
+### 4. Fatal Flaw Flags
+**Score cap: 69 — one fatal flaw confirmed.**
+
+- **Flag 4 — Application is insufficiently connected to the text:** The application (“read your Bible every day”) is generic and not drawn from the text’s own argument. 2 Timothy 3:16–17 gives four specific uses of Scripture — teaching, reproof, correction, training in righteousness — and the phrase “equipped for every good work” (v. 17). None of these are developed applicatorially. The application floats above the text rather than arising from it.
+- **Flag 2 — Main point drifts from the passage’s argument (partial):** 2 Timothy 3:13–17 is not primarily a defense of biblical inerrancy or Protestant ecclesiology. Paul is addressing Timothy personally — encouraging him to continue in what he has learned, particularly in the sacred writings that have made him wise for salvation through faith in Christ Jesus (v. 15). The christological and soteriological center of the passage (“wise for salvation through faith in Christ”) receives no treatment. The sermon preaches a biblical doctrine (Sola Scriptura) but misses the passage’s own heart.
+
+*Score is capped at 69.*
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 12/25**
+- *Textual Fidelity (5/10):* The text is read but not opened verse-by-verse. The “God-breathed” (θεόπνευστος) concept is captured but not developed. The four uses of Scripture in v. 16 (teaching, reproof, correction, training in righteousness) are not enumerated or applied. Critically, v. 15 — “the sacred writings, which are able to make you wise for salvation through faith in Christ Jesus” — receives no treatment. This is the verse that grounds all of vv. 16–17 in Christ and the gospel.
+- *Contextual Awareness (2/5):* The historical context of Luther’s Reformation is used as the sermon’s primary frame, but the literary context of 2 Timothy is not established. Who is Timothy? What is his situation? What false teachers is Paul addressing (the “evil people and impostors” of v. 13)? The church context of Ephesus, the challenge of godlessness increasing — none of this is opened.
+- *Exegetical Clarity (2/5):* No Greek engagement. The “breathed out by God” concept is affirmed but the mechanics of inspiration are not examined. The cookie-jar illustration for contextual reading is a charming pedagogical move, though it illustrates general contextual reading rather than the specific context of 2 Timothy.
+- *Logical Faithfulness (3/5):* No eisegesis is present. The sermon is theologically accurate. The logical problem is not that wrong ideas are imported — it is that many of the text’s own ideas are not exported.
+- *FCF:* The fallen condition implicit in this passage — the pull toward false teaching, human wisdom, and the de-authorizing of God’s Word — is gestured at in the cultural commentary section but not named from the text itself.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+- *Christ-Centeredness (4/7):* Christ appears at the close (“having a relationship with Jesus Christ”) and in the BFM citation (“All Scripture is a testimony to Christ, who is Himself the focus of divine revelation”). But 2 Timothy 3:15’s explicit statement — that the Scriptures make one “wise for salvation through faith in Christ Jesus” — is the text’s own Christ-connection and it was not preached. The Christ-connection is asserted from the BFM rather than arising from the text.
+- *Redemptive-Historical Awareness (2/3):* The Masoretes, the Dead Sea Scrolls, the preservation of Scripture — these are compelling arguments for textual reliability, and they function as a kind of redemptive-historical argument for divine superintendence. This is the sermon’s strongest historical material.
+- *Doctrinal Precision (4/4):* Inerrancy is clearly and confidently stated. The BFM on Scripture is quoted accurately. No doctrinal drift is present.
+- *Confessional Alignment (3/4):* Consistent with 1689/BFM on Scripture. The claim about the earth’s sphericity appearing in the Psalms (“thousands of years before Christ”) would benefit from specific textual citation — the passage most often cited (Isaiah 40:22, “circle of the earth”) appears in Isaiah, not the Psalms, and involves some interpretive debate about the Hebrew term.
+
+**3. Gospel Centrality & Force — 8/15**
+- *Clarity of the Gospel (3/5):* The gospel appears at the close: an invitation to come talk to the pastor about beginning a relationship with Jesus Christ. This is genuine. But no gospel proclamation is given from the sermon itself — what must a person believe, repent of, or receive is not stated. The invitation points to a future conversation rather than delivering the message now.
+- *Necessity of Christ (3/5):* Christ is presented as necessary for salvation, but the connection between Scripture’s authority and Christ’s sufficiency — which is the exact connection the text makes in v. 15 — is not drawn.
+- *Cross-Centered Gravity (2/5):* The cross is not mentioned in the body of the sermon. The communion section at the end contains the only christological content related to the atonement, but this is the liturgy, not the sermon. The cross as the substance of what Scripture witnesses to is absent.
+- *Synagogue Test:* Fails. The argument that Scripture is divinely preserved, internally consistent, and authoritative over all of life — as presented here — would be acceptable to an orthodox Jewish hearer. The distinctive Christian claim — that these Scriptures make one wise for salvation through faith in Christ Jesus, and that the canon’s apex is the crucified and risen Lord — is not planted as the sermon’s offense.
+
+**4. Conscience & Applicatory Force — 7/15**
+- *Heart Penetration (3/5):* The friend-who-doesn’t-listen illustration and the appeal to read Scripture daily have real pastoral warmth. The cultural application section (abortion, sexuality, gender) shows pastoral backbone — a willingness to apply the doctrine to live issues.
+- *Specificity (2/5):* The cultural application section is pointed, but the text-specific application is thin. The four uses of Scripture in v. 16 would generate four specific, conscience-pressing applications; none of them are named.
+- *Spiritual Differentiation (2/5):* The believer and the unbeliever are addressed separately at the close. The backslider and the nominal Christian are not addressed. The person who intellectually affirms inerrancy but never reads Scripture is a natural category for this text — it is not engaged.
+
+**5. Exhortation & Response — 4/8**
+- *Call to Response (2/4):* “Do you guys read your Bible every day?” and “If you have never begun a relationship with Jesus Christ, please come talk to me” are genuine calls to response, though both are relatively soft. The non-Christian is told where to go (talk to the pastor) rather than what to do (believe and repent) in the sermon itself.
+- *Equipping for Holiness and Witness (2/4):* The Luther quotations on using Scripture against the devil, for comfort, for liberty are a strong equipping section — among the sermon’s most practically useful content.
+
+**6. Structure & Logical Flow — 5/9**
+- *Clarity of Outline (2/4):* The structure is: Reformation context → BFM on Scripture → the text → contemporary issues → textual reliability (Masoretes/Dead Sea Scrolls) → Luther quotes → application → invitation. The sections exist but are not labeled, announced, or built one upon another in a memorable way.
+- *Progression (2/3):* The sermon moves from history to text to argument, but the Luther quotations appear after the Masoretes section in a way that feels like an addition rather than a progression.
+- *Unity (1/2):* The dominant idea (Scripture is authoritative, divinely preserved, and sufficient) is consistent throughout. However the cultural application section introduces a catalog of hot-button issues that briefly expands the sermon’s scope beyond what the text development can support.
+
+**7. Illustration & Imagination — 3/5**
+- *Relevance (2/2):* The Monty Python illustration, the Brandon Sanderson illustration (a beloved fiction author), and the cookie-jar contextual reading illustration are all culturally native and show a preacher who knows his congregation.
+- *Clarity (1/2):* The Sanderson illustration (author’s process for avoiding errors vs. God’s superintendence of Scripture) is the sermon’s strongest and most text-connected image — it illuminates divine preservation compellingly.
+- *Memorability (0/1):* No single image concentrates into a take-home.
+
+**8. Sermonic Force — 3/5**
+- *Reads as Preaching (2/2):* Conversational, direct, congregationally addressed. The written manuscript has genuine oral texture.
+- *Conviction on the Page (1/2):* The Luther quotations carry force. The preacher’s own voice on inerrancy is confident. The close is softer than the body.
+- *Cadence and Breath (0/1):* No climactic build. The Masoretes/Dead Sea Scrolls section is the sermon’s most compelling material and lands in the middle — the sermon does not build toward it or from it.
+
+**Subtotal: 55/100** (before cognitive load modifier)
+
+---
+
+### 6. Cognitive Load Modifier
+**−1:** The sermon covers Luther, indulgences, the BFM, five contemporary cultural issues, textual criticism, the Masoretes, Dead Sea Scrolls, Brandon Sanderson, and Luther’s writings — in addition to the announced text. The average church member can track the overall theme (Scripture is reliable and authoritative) but the number of intellectual domains visited is high for one message. Slightly overloaded.
+
+---
+
+### 7. Total Score
+**55 − 1 = 54/100** → Capped at 69 due to fatal flaw flags.
+
+*Reported score: 54/100 — Fundamentally flawed. Rebuild from the text.*
+
+**Interpretation:** Below 60. The theological content is sound, and there is genuine pastoral engagement, but the text is visited rather than inhabited, and the gospel center of the passage (v. 15) is entirely absent.
+
+---
+
+### 8. Core Override Questions
+1. *Does this sermon make me think more of Christ — or myself?* — Primarily about Scripture and its defense; Christ appears at the edges.
+2. *Did I encounter God, or just ideas about Him?* — Solid ideas about the reliability of God’s Word. Not encounter.
+3. *Was I comforted, convicted, or merely informed?* — Primarily informed and historically educated. The friend-who-doesn’t-listen illustration touches the conscience briefly.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Masoretes and Dead Sea Scrolls section is compelling and text-connected** — This is the sermon’s most forceful argument for divine preservation of Scripture, and it is delivered with genuine wonder. The 20-year copyist process and the purification rituals communicate the reverence these men had for the text — which models the reverence the congregation should have.
+2. **The Luther quotations on Scripture’s practical uses are excellent equipping content** — “Nothing helps more powerfully against the devil... than occupying oneself with God’s Word” is a genuine pastoral gift. These three Luther quotes provide specific, memorable uses for Scripture in the daily lives of ordinary believers.
+3. **The preacher has pastoral backbone on cultural issues** — The willingness to name abortion, sexuality, and gender as Scripture-interpretation problems rather than social/political problems is theologically correct and shows a preacher who will apply doctrine to life.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **2 Timothy 3:15 — the text’s gospel heart — is entirely unpreached** — “The sacred writings, which are able to make you wise for salvation through faith in Christ Jesus” is the christological hinge on which all of vv. 16–17 hangs. Paul is not defending an abstract doctrine of inerrancy — he is saying that the Scriptures have a specific function: to point to salvation through faith in Christ. This is absent from the sermon, and its absence means the sermon defended Scripture without explaining what Scripture is *for*.
+2. **The four uses of Scripture in v. 16 are unreached** — “Teaching, reproof, correction, and training in righteousness” are Paul’s own list of what Scripture does in the life of a person. These four would have generated four specific, conscience-searching applications — each one pressing on a different hearer. Instead, the application collapses to “read your Bible daily.”
+3. **The gospel invitation points to a future conversation rather than delivering a message** — “Come talk to me before you leave tonight and I’ll show you in the Bible how to start” is warm and sincere, but it defers the gospel rather than proclaiming it. A person sitting in the congregation who is under conviction should not have to wait for a private conversation to hear what they must believe. The sermon itself should carry the invitation.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the text he is defending (Scripture) is the same text he is not fully opening. The sermon builds a magnificent case for why the Bible should be trusted and read — but does not demonstrate what reading the Bible well looks like. The congregation finishes the sermon having been told Scripture is authoritative and reliable; they do not finish having seen their pastor model what it means to live under it.
+
+The attribution of earth-sphericity to the Psalms is a minor historical imprecision (Isaiah 40:22 is the standard reference; the “circle of the earth” involves some lexical debate) — small in itself, but notable in a sermon whose entire argument is that Scripture is precisely accurate.
+
+---
+
+### 12. Illusion of Strength
+
+The historical material — Luther, indulgences, Masoretes, Dead Sea Scrolls — creates the impression of a richly documented, wide-ranging defense of Scripture. And it is, in historical terms. But this is a sermon from 2 Timothy 3, and the historical defense of Scripture is largely extra-textual. The confidence of the historical argument can mask the thinness of the textual engagement. The congregation walks away knowing why Scripture can be trusted; they do not walk away knowing what 2 Timothy 3:13–17 says.
+
+---
+
+### 13. Missed Opportunity
+
+2 Timothy 3:14 — “But as for you, continue in what you have learned and have firmly believed, knowing from whom you learned it” — is Paul’s personal charge to Timothy in the face of increasing evil and false teaching. This verse has a layered beauty: Timothy learned the Scriptures from his mother Eunice and grandmother Lois (2 Timothy 1:5), which means Paul is pointing Timothy back to the faithful women who shaped his faith. The doctrine of Sola Scriptura here is not abstract — it is embodied in people who loved the Word and passed it on. This would have connected powerfully in a congregational setting and was entirely missed.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Open 2 Timothy 3:15 as the sermon’s gospel center.** “The sacred writings which are able to make you wise for salvation through faith in Christ Jesus.” Spend two to three minutes here: What is Scripture *for*? To make us wise for salvation. Wise for salvation in *whom*? In Christ Jesus. The Bible is not a rulebook or a morality guide — it is the instrument by which God delivers his Son to sinners. That is what makes it indispensable.
+2. **Preach the four uses in v. 16 as four distinct applications.** Teaching: what you believe. Reproof: where you are wrong. Correction: how to get back on track. Training in righteousness: long-term formation. Apply each one specifically to the congregation. “Is Scripture teaching you, or are you only reading it for comfort? Is Scripture reproving you — or have you found a way to read it without letting it find your sin?”
+3. **Deliver a gospel proclamation, not just a gospel referral.** Before the communion section, preach the cross: “This is what the Scriptures point to — the death of the Son of God for sinners, his resurrection from the dead. If you have never trusted in this — in Christ alone, not your morality, not your church attendance — that trust can begin tonight. Here is what it means...”
+4. **Trim the Reformation introduction by half.** Luther and the indulgences are relevant but should not occupy more than three minutes. The sermon’s best material is in the Masoretes section and the Luther quotes, and the congregation does not reach them until late.
+5. **Cite Isaiah 40:22 correctly** when referencing the earth’s sphericity, and be precise about what “circle” means in the Hebrew. Precision in the details strengthens the credibility of the larger argument about Scripture’s accuracy.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** There is genuine warmth, pastoral urgency, and practical application. The problem is structural and textual, not inert.
+
+---
+
+### 16. Weight of Glory Assessment
+The sermon carries real weight in its defense of Scripture’s divine origin and preservation — the Masoretes section in particular communicates a sense of divine care that borders on wonder — but Christ is largely absent, and a sermon about the Scriptures that does not arrive at the one the Scriptures are about does not carry its full eternal gravity.
+
+---
+
+### 17. Rubric Fit Note
+2 Timothy 3:13–17 is didactic/epistolary — a direct Pauline charge to a pastor in context of false teaching. The rubric fits well. The one category that strains here is Redemptive-Historical Awareness: the passage does not develop a broad redemptive-historical arc, but rather grounds its authority claim in the canon already received. The rubric was applied with appropriate nuance — credit was given for the Masoretes/preservation argument as a form of redemptive-historical consciousness, even though it does not arise directly from the passage’s own argument.
