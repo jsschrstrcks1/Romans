@@ -164,6 +164,45 @@
         "always_with": ["like-a-human"],
         "note": "Voice-audit is the post-draft companion to Like-a-human. Like-a-human fires during writing. Voice-audit fires before committing."
       }
+    },
+
+    "sermon-evaluation": {
+      "enabled": true,
+      "type": "domain",
+      "enforcement": "suggest",
+      "priority": "high",
+      "description": "Reformed Baptist sermon evaluation rubric. Scores manuscripts on a weighted 100-point scale across exposition, theology, gospel centrality, conscience-level application, exhortation, structure, illustration, and sermonic force. Includes fatal flaw detection, dead orthodoxy diagnostics, cognitive load assessment, the Synagogue Test, and the 1689 Pulse. Produces surgical fixes.",
+      "promptTriggers": {
+        "keywords": [
+          "evaluate sermon",
+          "sermon evaluation",
+          "score sermon",
+          "grade sermon",
+          "rubric",
+          "sermon quality",
+          "how good is this sermon",
+          "rate this sermon",
+          "sermon review",
+          "evaluate this",
+          "moralism check",
+          "synagogue test"
+        ],
+        "intentPatterns": [
+          "(evaluate|score|grade|rate|review|assess).*?sermon",
+          "sermon.*?(evaluation|quality|score|grade|rubric)",
+          "how.*?(good|strong|faithful|solid).*?sermon"
+        ]
+      },
+      "autoLoad": {
+        "mainFile": ".claude/skills/sermon-evaluation/SKILL.md",
+        "maxLines": 600,
+        "loadOnSessionStart": false
+      },
+      "activationMessage": "Sermon evaluation active. Faithful exposition, theological precision, pastoral heat. Soli Deo Gloria.",
+      "coActivation": {
+        "suggested_with": ["voice-audit"],
+        "note": "Sermon evaluation assesses quality. Voice-audit assesses authenticity. Run both before committing a finished manuscript."
+      }
     }
 
   },
@@ -179,7 +218,7 @@
     "project": "Romans Sermon Series — expository preaching through Romans for weekly preaching and future book",
     "repository": "jsschrstrcks1/Romans",
     "memory_scope": "/romans",
-    "total_skills": 4,
+    "total_skills": 5,
     "skill_sources": {
       "adapted_from_inthewake": ["cognitive-memory", "careful-not-clever", "like-a-human", "voice-audit"]
     },

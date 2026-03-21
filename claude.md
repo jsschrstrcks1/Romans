@@ -808,3 +808,24 @@ This applies to every sermon modification:
 **voice-audit** fires after a draft is complete or when reviewing existing drafts. It scans for machine tells, checks voice continuity against the sermon corpus, assesses conviction, cadence, and doctrinal sharpness, and suggests minimal restoration edits.
 
 Both serve the same purpose: congregational intuition. The people in the room should never sense distance, artificiality, or tonal drift. They should hear their pastor.
+
+---
+
+## Sermon Evaluation: Quality Assessment
+
+> **On request: `.claude/skills/sermon-evaluation/SKILL.md`**
+
+**sermon-evaluation** fires on request to assess the quality of a completed sermon manuscript. It scores on a weighted 100-point scale across eight categories: Exposition (25), Theology (18), Gospel Centrality (15), Conscience & Applicatory Force (15), Exhortation & Response (8), Structure (9), Illustration (5), and Sermonic Force (5), with a Weight of Glory bonus (+5) and Cognitive Load modifier (−3 to 0).
+
+The evaluation begins with the **Berean Gate** — if the sermon is not text-driven, no score is assigned. Six **fatal flaw flags** cap the score at 69 if triggered (missing gospel, Christ unnecessary, no exhortation, generic application, text drift, inaccessible to ordinary hearers). The **Synagogue Test** detects moralism. The **1689 Pulse** checks confessional alignment. **Dead Orthodoxy Detection** fires when doctrine is correct but the sermon is pastorally inert.
+
+Output includes: verdict title, one-sentence summary, score breakdown, strengths, weaknesses, blind spots, illusion of strength, missed opportunities, and tradition-grounded surgical fixes.
+
+**When to use it:** After a draft is complete, before final revision. Pair with `voice-audit` before committing.
+
+**Recommended workflow:**
+1. Write with `like-a-human` + `careful-not-clever` active
+2. Run `sermon-evaluation` on the completed draft
+3. Revise based on surgical fixes
+4. Run `voice-audit` before committing
+5. Commit
