@@ -38,12 +38,16 @@ I read a quote this week from a pastor over near Orlando. He said, "We have elev
 
 Who opened her heart? It was closed by sin. Because of our sin we are hostile to God. Sons of disobedience, Scripture says. We're at enmity with God. Our hearts and minds are darkened. Our understanding is clouded. Our hearts are contaminated and point away from Christ. This wasn't just true of Lydia — it's true of everyone apart from the work of Christ in our hearts. God has to do a work in our hearts in order for us to even have any interest in the things of God.
 
+Some of you are sitting here right now as enemies of God — not former enemies, not theoretical enemies — and you don't feel it yet. That's exactly how blind we are. The gospel is for you. But it cannot comfort you until it first tells you the truth about where you stand.
+
 > For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified.
 > — Romans 8:29-30 (ESV)
 
 Look at the chain Paul gives us. This is sometimes called the golden chain of redemption, and you can see why — every link holds. Foreknew. Predestined. Called. Justified. Glorified. Five links, and not one of them says "if man cooperates." Not one of them says "pending human approval." Every verb is God's action, not ours.
 
 And notice something stunning — "glorified" is in the past tense. We're not glorified yet. We're sitting here in Port Richey with bad knees and mortgage payments. But Paul writes it as if it's already done. Because in the mind of God, it is. The chain that began in eternity past ends in eternity future, and not a single link can break. If God foreknew you, you will be glorified. Not might be glorified. Not could be glorified, if you hold on long enough. Will be. The chain does not depend on the strength of your grip. It depends on the One who forged every link before the first day of creation.
+
+And here is something worth noting: Paul wrote this to people who were groaning — verse 23, verse 26 — people who didn't know how to pray under the weight of what they were carrying. He didn't give them the golden chain as a doctrine to be memorized. He gave it to them as an anchor when everything else gave way. If you are in that room right now — if you are carrying something you can't name and barely hold — this chain was written for you.
 
 Those who were appointed to eternal life, those who were appointed to have their hearts opened, those who were foreknown, predestined, conformed, called, justified, and glorified — all were known before the foundation of the world.
 
@@ -94,7 +98,7 @@ Here is what the BFM says about Grace:
 
 The BFM says election is consistent with the free agency of man. It is. Nobody is dragged to Christ in chains. But the kitten chose to go toward the warmth that rescued her — she just didn't get herself out of the cistern.
 
-So if someone says, "My free will is stronger than God's will" — what are you going to tell them? What if they say something a little more smooth — something like "God doesn't change people's minds," or that when it comes to free will "God is a gentleman"? God is a gentleman. But Scripture is full of people whose minds and hearts he changed. He removes enough of the taint of sin so they can see him, and that is such a wonderful thing that once we can really and truly see, our hearts long for nothing so much as they long for Christ.
+So if someone says, "My free will is stronger than God's will" — what are you going to tell them? What if they say something a little more smooth — something like "God doesn't change people's minds," or that when it comes to free will "God is a gentleman"? God is a gentleman. But Scripture is full of people whose minds and hearts he changed. Saul wasn't walking toward Damascus looking for Jesus — he was on his way to arrest the church. God met him mid-stride. Lydia's heart was closed; God opened it while Paul was still speaking. Free will was present in both. It was not sufficient in either. He removes enough of the taint of sin so they can see him, and that is such a wonderful thing that once we can really and truly see, our hearts long for nothing so much as they long for Christ.
 
 And if you're not arguing with this — if you're just quietly unsettled by it, if election feels cold and mechanical to you — hear me. The doctrine sounds like a courtroom decree in a theology textbook. It sounds like "he knew you" when you're the one who was known. He chose you not because of what you'd become, but because before you existed he decided to set his love on you. That is not cold. That is the only love in the universe that was never conditional.
 
@@ -130,4 +134,4 @@ Some of you are believers, and you needed to hear this today because you've been
 
 And some of you are wondering — am I really saved? Is this real? Listen to me. The fact that you're asking that question is itself evidence of grace. A dead man doesn't wonder if he's alive. The natural man doesn't care about the things of God. That you care — that it matters to you — means he has begun a work in you. And he who began it will be faithful to complete it.
 
-Now go live like people who have been pulled out of the cistern. Not to earn your seat at the table — you already have it. But because the God who saved you is worthy of every step of obedience you can give him. Walk in holiness. Tell someone what he did for you. And give him the glory for all of it — because it was never yours to begin with.
+Now go live like people who have been pulled out of the cistern. Not to earn your seat at the table — you already have it. But because the God who saved you is worthy of every step of obedience you can give him. Walk in holiness. Tell someone what he did for you. And do it together — as a church. We are not a collection of individuals who happened to be pulled out of the same cistern. We are a body. We go together. We reach the Brahmin together. We are the community of the rescued, and the rescued have a mission. Give him the glory for all of it — because it was never yours to begin with.
