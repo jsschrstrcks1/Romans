@@ -123,7 +123,7 @@
 | Original Sin / Federal Headship (Adam) | Very Strong | `Romans 5.md` | Reformed (Augustinian) |
 | Active Rebellion, Not Passive Ignorance | Very Strong | `Romans 1b - Without Excuse.md` | Reformed |
 | Suppression of Known Truth (Rom 1:18) | Very Strong | `Romans 1b - Without Excuse.md`, `Romans 2.md` | Reformed |
-| Law as Guardian — Exposes, Cannot Save | Strong | `Galatians 3*.md`, `Romans 7.md` | Reformed, Pauline |
+| Law as Guardian — Exposes, Cannot Save | Strong | `Galatians 3*.md`, `Romans 7.md`, `Romans 2.1 - Don't Miss Heaven by 18 Inches.md` | Reformed, Pauline |
 | Idolatry as Wrong Master | Strong | `Psalm 42*.md`, `Romans 1b - Without Excuse.md` | Reformed Baptist |
 | Spiritual Callousing (Incremental) | Strong | `Psalm 42*.md` | Reformed, Puritan |
 | Sin as Slavery (Rom 6) | Very Strong | `Romans 6.md`, `Romans_6b r2.md` | Pauline |
@@ -277,7 +277,7 @@
 |---|---|---|---|
 | Funeral / Death — Immediate Glory | Very Strong | `Service - Donna Hulen Funeral*.md`, `Sermon - Today You Will Be With Me v2.md`, funeral sermons | Protestant |
 | Grief — Honest, Not Stoic | Strong | `romans 12 - weep with those who weep.md`, funeral sermons | Pastoral |
-| Assurance for the Doubting | Strong | `Romans 8.md`, `Sermon - Eternal Security.md` | Reformed, Pastoral |
+| Assurance for the Doubting | Strong | `Romans 8.md`, `Sermon - Eternal Security.md`, `Romans 2.1 - Don't Miss Heaven by 18 Inches.md` | Reformed, Pastoral |
 | God's Delay ≠ God's Absence | Strong | `Other-Sermons/Sermons/Exodus 2.md`, `Other-Sermons/Sermons/ex 6-7.md` | Reformed, Puritan |
 | Marriage Ceremonies | Strong | Wedding sermon files | Baptist |
 | Counting Blessings / Gratitude | Strong | `Deuteronomy 8 - Count Your Blessings (repaired draft).md` | Pastoral |
