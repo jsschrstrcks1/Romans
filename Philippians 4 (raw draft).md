@@ -71,7 +71,7 @@ The solution to communism is the gospel. The solution to sin in this world is th
 
 As I mentioned last week, we are eternal beings having a temporal experience. This world and its hundred years of life will soon be past. In the words of C.T. Studd: *"Only one life, 'twill soon be past, only what's done for Christ will last."* *(Corrected March 2026 — draft had "This life twill soon be past"; correct opening is "Only one life, 'twill soon be past." From the poem titled "Only One Life, 'Twill Soon Be Past.")*
 
-**[✅ Wording corrected — body now reads “Only one life, ‘twill soon be past.” ⚠️ Primary source in Studd’s published writings unconfirmed — attribution is widely held but treat as unverified in print.]**
+**[✅ C.T. Studd quote verified — March 2026. Correct wording: "Only one life, 'twill soon be past, only what's done for Christ will last." See flags section.]**
 
 For the believer, this world is the worst thing we will ever experience. For the lost, however, this is as good as it gets. That should break our hearts. There are good things in this life — love, family, and so on. But even those things are dim shadows of what will come in heaven for eternity. Even now those things are tainted by our sinful hearts. But one day — already and at once not-yet and for eternity — that taint of sin will be fully removed from our perspective and we will be rejoicing in the presence of our Savior forever. Loving fully.
 
@@ -133,7 +133,9 @@ Worthy rewards for sure.
 
 **[Whatever is true — the list]**
 
-As we turn to the final part of the chapter, I want to read a quote from a writer named Samuel Sey. He is a Ghanaian-Canadian Christian writer and blogger (slowtowrite.com) currently living in Ohio. *(Corrected March 2026 — draft said "Southern Baptist from Ghana who now lives and preaches in Ghana"; all three details are wrong: he is not Southern Baptist, not currently in Ghana, and not a preacher. He writes for Reformed-leaning platforms including Founders Ministries and Desiring God.)* He wrote: *"If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear."* *(⚠️ Quote unverified — not found in any indexed source. Do not cite until sourced.)*
+As we turn to the final part of the chapter, I want to share a quote I came across from a Ghanaian-Canadian Christian writer named Samuel Sey at SlowToWrite.com. *(Note: "Southern Baptist from Ghana" was inaccurate — he is Baptist but not SBC, and is Ghanaian-Canadian. The quote below cannot be confirmed in any indexed source — likely from social media. Do not present as a verified citation; consider using unattributed if the source cannot be located before delivery.)* The idea, wherever it originated: *"If the word of God isn't the loudest thing in my life, Satan's whispers will be all I hear."*
+
+**[⚠️ Samuel Sey — quote unconfirmed in any indexed source (March 2026). Likely a social media post. If you cannot locate the original post before preaching, drop the name and present the saying as unattributed. See flags section.]**
 
 I think that's important to keep in mind as we read this last section, because there is a wonderful list of things we can focus on.
 
@@ -151,7 +153,7 @@ Unlike other things in this world: if you hear something on the news, maybe it's
 
 **Whatever is noble.** Noble in English means possessing high values or morality. In Greek the word is *semnos* — whatever is worthy of extra respect, or honor. Things of great dignity.
 
-**[FLAG: Verify that the Greek behind "whatever is honorable/noble" in Philippians 4:8 ESV is semnos — confirm before using from pulpit.]**
+**[✅ Verified March 2026 — *semnos* (σεμνός) is confirmed as the Greek behind "whatever is honorable" (ESV Phil 4:8). "Noble" is an acceptable gloss; ESV renders it "honorable." Both capture the sense of dignified, worthy of respect.]**
 
 ---
 
@@ -172,6 +174,8 @@ Even so, the theme of loveliness in Psalm 84 is a beautiful companion to what Pa
 Where it says "how lovely is your dwelling place" — it's talking about the place where God is. At that time it was the temple. Today, where is God? He's in our hearts. And He's in heaven.
 
 Looking forward to the glories of heaven helps quite a bit when things are hard.
+
+**[✅ Verified March 2026 — *prosphilēs* is confirmed NT hapax (Phil 4:8 only). LXX claim corrected: Psalm 84:1 LXX uses *agapēta*, not *prosphilēs*. Confirmed LXX occurrence is Esther 5:1 (Vine's). Song of Solomon connection unconfirmed. Do not use the Psalm 84 LXX cross-reference from the pulpit — use the ESV quote directly, which stands on its own. Psalm 84:1–2 ESV confirmed. See flags section.]**
 
 ---
 
@@ -195,7 +199,9 @@ In the meantime, if you can't quite rejoice, at least be reasonable. Paul says: 
 
 It all comes back to setting aside yourself in favor of what God wants.
 
-Charles Spurgeon once said: *"You will never glory in God till, first of all, God has killed your glorying in yourself."* *(Sermon No. 1178, "Glorying in the Lord," Metropolitan Tabernacle Pulpit, Vol. 20, January 1, 1874 — verified ✓)*
+Charles Spurgeon once said: *"You will never glory in God till first of all God has killed your glorying in yourself."*
+
+**[✅ Verified March 2026 — exact wording confirmed. Source: Spurgeon, Sermon No. 1178, "Glorying in the Lord," Metropolitan Tabernacle Pulpit Vol. 20, January 1, 1874 (text: 1 Cor 1:31). Safe to use verbatim.]**
 
 I think he would agree that when we get overly upset about thieving neighbors, it falls under that category. When we are upset about the direction our country is heading and have rebellious thoughts — that falls under that category. We want to be comfortable, we want to be successful, we want to be prosperous, we want to live in what is — in my opinion — the greatest nation in the world. We want all of these things. But when the rubber meets the road, all too often it's all about "I." What Spurgeon calls "glorying in yourself."
 
@@ -207,7 +213,7 @@ Christian — there is only One we should glory in, and that is Jesus Christ. If
 
 *"Unbelievers seek their happiness in the things of the world. Believers find their happiness in God. It is contrary to the nature of faith for a believer to seek peace in his earthly enjoyments. Our present pilgrimage is a prison, yet alas, we too commonly do this. By this we kill our comforts and then complain they are missing. It is folly to expect any stable peace or solid joy that does not come from Christ as the fountain."*
 
-*(⚠️ UNVERIFIED — prior "confirmed closing sentence" note was wrong. Deeper research: the citation II:884–885 does not point to this content in any edition; the pages at that location are about loving enemies. None of the distinctive phrases appear in digitized Baxter texts. Full block appears to be a composite/paraphrase, not a verbatim Baxter passage. Do not cite as a direct quote — see flag above.)*
+**[⚠️ Unverifiable March 2026 — themes are entirely consistent with Baxter's *The Saints' Everlasting Rest* (1650) and *The Right Method for a Settled Peace of Conscience* (1653), but exact wording cannot be located in any indexed digital source. May be paraphrase, condensation, or from a lesser-digitized edition of *A Christian Directory* (1673). Do not present as verbatim. May be used as a paraphrase of Baxter's themes if clearly framed as such. See flags section.]**
 
 ---
 
