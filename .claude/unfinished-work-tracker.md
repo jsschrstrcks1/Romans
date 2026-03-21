@@ -203,7 +203,9 @@ The repository has been developed across 21 distinct Claude Code thread families
 
 ## Part II: Unprocessed Sermons in memory2.md
 
-*(Updated March 2026 — all 9 extractions now complete; file paths verified against file system)*
+~~These 9 sermons remain as raw transcripts in `.claude/memory2.md` and have NOT been extracted to standalone files.~~
+
+**Updated March 2026 — all 9 now have standalone files.**
 
 | # | Sermon | Primary Text | Status |
 |---|--------|-------------|--------|
@@ -223,7 +225,7 @@ The repository has been developed across 21 distinct Claude Code thread families
 
 ## Part III: Blocked Sermons (Source Text Missing)
 
-These sermons were cataloged in previous processing but their source text cannot be found in the repository:
+These 2 sermons were cataloged in previous processing but their source text cannot be found in the repository:
 
 | Sermon | Text | Issue |
 |--------|------|-------|
@@ -336,11 +338,12 @@ From `preaching-gap-analysis.md`, the top 15 preaching gaps ranked by theologica
 
 These items could be resolved in a single session each:
 
-1. **Extract remaining memory2.md sermons** — 9 sermons need standalone file extraction, cleanup, and mapping
+1. ~~**Extract remaining memory2.md sermons**~~ ✅ All 9 now have standalone files (confirmed March 2026)
 2. **Resolve Sola Christus 2024 incomplete draft** — needs Scripture reference and three-role exposition completed (or marked as permanently incomplete if the 2020 version is the authoritative one)
 3. **Resolve Thankfulness sermon** — request remainder of transcript from pastor
-4. ~~**Fix Romans 7 reference error** — Jn 14:16 should be 15:16~~ ✓ Completed March 2026; Lk 22:42 also corrected to exact ESV
-5. ~~**Convert NIV/KJV quotes to ESV** in raw drafts (Psalm 2, Psalm 68 Part 2, 1 Thess 5)~~ ✓ Completed
+4. ~~**Fix Romans 7 reference error**~~ ✅ Jn 14:16 → 15:16 corrected; MacArthur reworded to paraphrase
+5. ~~**Convert NIV/KJV quotes to ESV** in raw drafts (Psalm 2, Psalm 68 Part 2, 1 Thess 5)~~ ✅ Completed
+6. **Josh 7 & 8** — processed March 2026; Spurgeon, Edwards, MacArthur, Taylor quotes all flagged ⚠️ unverified
 
 ---
 
@@ -348,7 +351,7 @@ These items could be resolved in a single session each:
 
 | Thread Family | PRs | Status |
 |---------------|-----|--------|
-| add-sermon-repository | 15 | Active — 9 sermons remain in memory2.md |
+| add-sermon-repository | 15 | Mostly complete — all 9 memory2.md extractions done; verification flags remain on raw drafts |
 | add-romans-sermon | 5 | Complete — verification flags remain on 2 raw drafts |
 | add-philippians-sermon | 3 | Complete |
 | add-sermon-nehemiah | 2 | Complete |
