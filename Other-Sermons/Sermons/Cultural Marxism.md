@@ -1,4 +1,4 @@
-Cultural Marxism
+# Cultural Marxism — Romans 10:12-13
 
 Today is sort of a part 2 of last week. The next article in the Baptist faith and message is talking about communion and baptism, and since next week is communion Sunday, it seemed appropriate to talk about that article then. So we most of last week talking about history and scripture, this week will mostly be philosophy and scripture. 
 
@@ -43,7 +43,7 @@ This is nonsense, If you think about it you’ll see that. Think about your own 
 
 It goes at least one step further when it starts talking about truth. When you and I evaluate the truth of something what do we compare it to? Scripture. Under this world view, this paradigm experience is the arbiter of truth. Especially the experience of those that have been the victims of white priveledge. The more subjugated you are, the more truth you have experienced, the more truth you are experienced the more valuable your opinions are. This is similar to the error many catholics make when they elevate the words of the pope or tradition above scripture. What happens when people do that? Nothing but trouble. The jehovas witnesses do this, and they are a cult. The Mormons do this, and they are also a cult. The catholics do this as well. It is a sign of deep trouble, and bears the odor of hell. If a person finds ultimate truth outside of scripture they are walking down a dangerous path. 
 
-What does the bible say about all of this? If you ask my friend, he would say Jesus wants whitey to quit or be fired. But what does the bible actually say? Like we read earlier gal 3:26-29 “for in Christ Jesus you are all sons of God, through faith. 27 For as many of you as were baptized into Christ have put on Christ. 28 There is neither Jew nor Greek, there is neither slave[g] nor free, there is no male and female, for you are all one in Christ Jesus. 29 And if you are Christ's, then you are Abraham's offspring, heirs according to promise.”
+What does the bible say about all of this? If you ask my friend, he would say Jesus wants whitey to quit or be fired. But what does the bible actually say? Like we read earlier gal 3:26-29 “for in Christ Jesus you are all sons of God, through faith. 27 For as many of you as were baptized into Christ have put on Christ. 28 There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus. 29 And if you are Christ's, then you are Abraham's offspring, heirs according to promise.”
 
 Someone open to acts 10:34-35 "God shows no partiality, but in every nation anyone who fears him and does what is right is acceptable to him."”
 
@@ -55,7 +55,7 @@ Someone open to rev 5:9-10
 
 Someone open to Romans 10:12-13: "For there is no distinction between Jew and Greek; for the same Lord is Lord of all, bestowing his riches on all who call on him. 13 For "everyone who calls on the name of the Lord will be saved."
 
-This is the clear and consistent testimony of scripture – read Deuteronomy 10:17: "For the LORD your God is the God of gods and the Lord of lords, the great, the mighty, and the awesome God who does not show partiality nor take a bribe."
+This is the clear and consistent testimony of scripture – read Deuteronomy 10:17: "For the LORD your God is God of gods and Lord of lords, the great, the mighty, and the awesome God, who is not partial and takes no bribe." (ESV)
 
 Those that adhere to this forget that our citizenship is not on earth. We are citizens of heaven here just for a short while. This whole world view forgets that we are just passing through and that what matters most isn’t the things of earth, but the things of heaven. Is your citizenship in heaven? Then a wonderful eternity awaits. If your citizenship is of earth then you have no hope. 
 
@@ -64,3 +64,14 @@ One day we are all going to be standing in front of God in heaven. What race we 
 In Christ we are all equal. Slaves bought back off the auction block. Sinners condemned unclean except for the work of Christ. None of us are better or more deserving. But for the grace of God we would all be spending eternity in hell apart from Christ. 
 
 As the praise team comes up and sings a final song, I want you to ask yourselves where your citizenship is? Are you a citizen of heaven? Or does your heart belong to the things of earth? If you aren’t a citizen of heaven, come talk to me after the service and I’ll show you in the bible how you can have eternal life.
+
+---
+
+## Flags for Future Polish
+
+- **Galatians 3:26-29** *(corrected)*: ESV footnote marker `[g]` removed from "slave[g]". Text otherwise matches ESV. ✓
+- **Deuteronomy 10:17** *(corrected)*: Was KJV wording ("the God of gods and the Lord of lords…does not show partiality nor take a bribe"). Corrected to ESV: "God of gods and Lord of lords…who is not partial and takes no bribe." ✓
+- **Acts 10:34-35** *(partial quote)*: The sermon quotes "God shows no partiality, but in every nation anyone who fears him and does what is right is acceptable to him." ESV opens with "Truly I understand that God shows no partiality…" — the first clause is omitted. Acceptable as oral delivery but should not be presented as a complete ESV quote in print.
+- **"he was half jewish"** *(historically disputed)*: The claim that Hitler was half-Jewish is not accepted by mainstream historians. The uncertainty around Alois Hitler’s parentage has been speculated upon but not substantiated. This claim should be removed or qualified when polishing for any printed or republished form.
+- **David Brooks quote** *(unverified)*: "Two great belief systems are clashing here…" attributed to David Brooks. No article title or date given. Exact source must be verified before republication.
+- **"president of the southern Baptist theological seminary in Kentucky"** *(unnamed but identifiable)*: This refers to Albert Mohler, president of Southern Baptist Theological Seminary in Louisville, KY. His name can be added when polishing.

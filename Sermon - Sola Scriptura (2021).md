@@ -27,10 +27,10 @@ Who will pray for the Buryat of China, Russia, and Mongolia?
 
 ## Text: 2 Timothy 3:16–17
 
-> *"All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work."*
-> — 2 Timothy 3:16–17
+> "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
+> — 2 Timothy 3:16–17 (ESV)
 
-*[Note: Quoted from the NIV. ESV renders it: "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."]*
+*[Note: Original pulpit reading was NIV ("God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work"). Corrected to ESV per repo standard. ✓]*
 
 ---
 
@@ -116,7 +116,7 @@ Because of the centuries of corruption Wycliffe witnessed, he wanted people to r
 
 *"The Scripture is a light and sheweth us the true way, both what to do and what to hope for: and a defense from all error, and a comfort in adversity."*
 
-*[Note: This quote is attributed to Wycliffe in numerous Protestant sources, and the archaic spelling is consistent with Middle English. However, an exact primary-source citation has not been verified. It may derive from Wycliffe's sermons or treatises, but the specific location could not be confirmed in this session. Flagged for future verification.]*
+*[Note — MISATTRIBUTION RESOLVED (March 2026): This quote is NOT by John Wycliffe. The actual author is **William Tyndale** (c. 1494–1536), from his "Prologue Showing the Use of Scripture," prefacing his 1530 translation of the Pentateuch. The fuller original reads: "So now the scripture is a light and sheweth us the true way, both what to do, and what to hope; and a defense from all error, and a comfort in adversity that we despair not." The language is Early Modern English (c. 1530), not the Middle English of Wycliffe's era (c. 1380s). This is part of a documented pattern of quotes being wrongly attributed to Wycliffe in Protestant secondary sources (see also the spurious "Holy Scripture is the highest authority" quote traced to Rudolf Buddensieg's 1911 editorial summary, not to Wycliffe himself). In the sermon context, both Wycliffe and Tyndale fought for Scripture in the common tongue — the broader point stands. The attribution should be corrected to Tyndale if this sermon is reprised or printed.]*
 
 This threatened the power of the papacy. They responded, saying the pearl of the Bible was being thrown into the swine pen. They seemed especially offended that women would read it — which tells you something about what was really going on.
 
@@ -156,8 +156,8 @@ The donkey and the elephant aren't sovereign — God is. The pope isn't sovereig
 
 Our passage today said:
 
-> *"All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work."*
-> — 2 Timothy 3:16–17
+> "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
+> — 2 Timothy 3:16–17 (ESV)
 
 Teaching. Rebuking. Correcting. Training. Fully equipping. These are some of the things Scripture does for us.
 
@@ -184,3 +184,42 @@ For the believer, the Bible is more than enough to meet almost every need — sh
 For the lost person, the Bible is your exit strategy. Your exit plan. Your flight to safety — eternally. If you do not yet know Jesus Christ as your Lord and Savior, today is the day.
 
 *[Gospel]*
+
+---
+
+## Integrity Log
+
+*Compiled March 2026*
+
+### Scripture References
+- **2 Timothy 3:16–17**: Quoted in text; verified word-for-word against ESV. ✓
+- **Isaiah 40:22**: Referenced but not quoted. Hebrew *chug* note appropriate. ✓
+
+### Attributed Quotes — Verified
+- **John Wycliffe** ("The pope is but a man, subject to sin…"): ✓ Confirmed. Source: Wycliffe, *On Civil Dominion* (*De Civili Dominio*), 1376.
+- **Luther "I am a Hussite!"**: ✓ Confirmed. Leipzig Disputation, 1519. Also: "We are all Hussites without knowing it" (c. February 1520).
+
+### Attributed Quotes — Unverified
+- ⚠️ **John Wycliffe** ("The Scripture is a light and sheweth us the true way…"): Attributed to Wycliffe in numerous Protestant secondary sources; archaic spelling consistent with Middle English. Exact primary-source citation not confirmed. May derive from Wycliffe's sermons or treatises. Flagged for future verification.
+
+### Historical Claims — Verified
+- **Jan Hus execution 1415**: ✓ Council of Constance.
+- **"Goose and swan" prophecy**: Debated. Clearest source is Luther himself (1530s). Not in contemporary eyewitness accounts. May have grown from Hus's prison letters. Pastor correctly attributes the report to Luther's writing. ✓
+- **Hus recantation statement** ("if I could be convinced from Scripture"): Represents the spirit of Hus's defense accurately. Exact wording unconfirmed in primary sources; strikingly similar to Luther at Worms (1521). Noted.
+- **Indulgences abolished 1567**: ✓ Pope Pius V abolished financial transactions for indulgences. Council of Trent (1563) had already condemned "all evil gains." Indulgences as concept retained.
+- **Carl McCunn (1981)**: ✓ Confirmed. Coleen River, northeast of Fairbanks; 1,400 lbs supplies; died late Nov/early Dec 1981.
+- **Wycliffe Bible Translators — named for John Wycliffe**: ✓
+
+### Historical Claims — Flagged
+- ⚠️ **Simultaneous popes**: Pastor lists "John the 19th, Gregory the 4th, Sylvester the third AND Benedict the 9th." John XIX (1024–1032) and Gregory IV (827–844) were not contemporaneous with the triple papacy crisis. Actual simultaneous triple papacy: Benedict IX, Sylvester III, and Gregory VI (1044–1046). Conflation of eras. Noted inline.
+- ⚠️ **Benedict IX accusations**: Sourced to St. Peter Damian's *Liber Gomorrhianus* (c. 1049) and hostile contemporaries. Benedict IX widely regarded as one of the most corrupt popes, but specific accusations come from adversarial sources. Noted inline.
+- ⚠️ **Carl McCunn "plea for God to forgive him"**: Primary sources document journal entries and a letter to his father. The specific "plea for God" wording has not been confirmed in accessible sources. Flagged.
+
+### Corrections Applied (March 2026)
+1. **NIV reading of 2 Tim 3:16–17** → corrected to ESV. ✓
+2. **Inline historical notes** added throughout for claims requiring qualification.
+
+### Standing Flags Summary
+- ⚠️ Wycliffe "Scripture is a light" quote — no primary source confirmed
+- ⚠️ Simultaneous popes list — conflates eras (noted inline)
+- ⚠️ Carl McCunn "plea for God" — unconfirmed detail (noted inline)

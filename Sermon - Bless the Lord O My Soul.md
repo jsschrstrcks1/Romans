@@ -15,7 +15,7 @@ Continuing the theme of last week, we're going to be in Psalm 103 today. Psalm 1
 
 One of the commentators I read, who is much better at the Hebrew here than I am, says it carries with it the sense that David was setting himself aside from people — alone, just him and God. It's as though he's crying out for the sum total of his being to worship God: heart, soul, and mind.
 
-Interestingly enough, almost any time you read the English word "heart" in the New Testament — and I know we're in the Old Testament here — the Greek reads "intestines." The people of this time period believed the center of their emotions was not their heart but their intestines. If we're being honest, the heart pumps blood but doesn't really have a lot to do with emotions other than moving the blood that carries the neurotransmitters sent out by the body. So we do basically the same thing. If we were to say "heartsick," we know someone is having a hard time emotionally. If we say "body sick," we would think something else — even if the latter might be a bit more accurate.
+Interestingly, there are places in the New Testament — and I know we're in the Old Testament here — where the English word "heart" or "deep affection" is actually translating a Greek word that means intestines: *splanchna*. Paul uses it that way — in Philippians and Philemon, where "affection" and "hearts" in English are really *splanchna* underneath. John uses it in 1 John 3:17, "closes his heart against him." The ancient world located deep emotion not in the chest but in the gut. And if we're being honest, the heart pumps blood but doesn't have a lot to do with emotions other than moving the blood that carries the neurotransmitters sent out by the body — so they weren't entirely wrong. We say "heartsick" and we mean someone is in a hard time emotionally. The ancient listener would have said the same thing and pointed a few inches lower.
 
 David wanted his heart and soul and mind to worship God. All of his inmost parts. My commentator believed that David had set himself aside, alone with God, and was opening himself up to examination by God — to make sure he was being thankful, to make sure his life reflected "blessing the Lord," or thanksgiving to God.
 
@@ -39,7 +39,7 @@ It strikes me right away that though in the moment of writing David was alone, e
 
 Living for Christ makes one different. Makes one peculiar in this world. A true follower of Christ stands out from the crowd in the same way one would if they had pressed their face into a red-hot glowing stove burner. The circular scars for the rest of your life would mark you as having pressed your face into the stove. The same is true of followers of Christ. We should live our lives as examples of God's mercy.
 
-That's uncomfortable sometimes. Who wants their failures on display? But as Paul said — if I boast, let me boast in Christ!
+That's uncomfortable sometimes. Who wants their failures on display? But as Paul said — *Let the one who boasts, boast in the Lord* (1 Corinthians 1:31).
 
 A commentary called JFB said this: that God is "not only intrinsically worthy of praise, but is specially suited to man's frailty."
 
@@ -95,7 +95,7 @@ Every time *hesed* is used, there is another dimension to it though. There is an
 
 Rahab is a better example. She is said to have exhibited *hesed* love for the soldiers, and they — and God — in turn expressed *hesed* love for her, in sparing her and her family, in their home still standing after the destruction of Jericho.
 
-**The Good Samaritan.** Another example is the Good Samaritan. You remember the story, of course. An Israelite was walking down the road, was beaten up, robbed, and left for dead. A Levite walks past and did nothing. Then a priest came along, and he scurried on to church rather than help the dying destitute man. Finally a Samaritan walks past, and the Samaritan bandages him up, gets him to an inn, and leaves enough money for them to take care of the Israelite until he's well again. When Jesus says, "Which of these three loved their neighbor?" — the word he used was *hesed*.
+**The Good Samaritan.** Another example is the Good Samaritan. You remember the story, of course. An Israelite was walking down the road, was beaten up, robbed, and left for dead. A Levite walks past and did nothing. Then a priest came along, and he scurried on to church rather than help the dying destitute man. Finally a Samaritan walks past, and the Samaritan bandages him up, gets him to an inn, and leaves enough money for them to take care of the Israelite until he's well again. When Jesus asks, "Which of these three proved to be a neighbor?" — the answer points to the one who showed mercy, the Greek word *eleos*. It's the same concept the Old Testament captured in *hesed*: undeserved, covenant-faithful, pursuing love.
 
 It's undeserved, steadfast love from God — and the loving response that engenders in a truly saved person as a result.
 
@@ -121,7 +121,12 @@ Yet Scripture says:
 > But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ — by grace you have been saved.
 > — Ephesians 2:4-5 (ESV)
 
-And in another place — while we were yet sinners, Christ died for us. Or:
+And in another place:
+
+> but God shows his love for us in that while we were still sinners, Christ died for us.
+> — Romans 5:8 (ESV)
+
+Or:
 
 > For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit.
 > — 1 Peter 3:18 (ESV)

@@ -1166,6 +1166,8 @@ The Lord's Prayer treated as school not script — *houtōs oun* ("along these l
 
 **"Lead us not into temptation"** does not accuse God of tempting (James 1:13 — God tempts no one); it is the prayer of a person who knows their own fragility and asks to be led rather than to lead themselves.
 
+**Christ as Mediator in prayer** — access to the Father is through Christ alone (Ephesians 2:18 "through him we both have access in one Spirit to the Father"; Hebrews 4:14-16 "a great high priest who has passed through the heavens"; Hebrews 10:19-20 "confidence to enter the holy places by the blood of Jesus"). Prayer is a blood-bought privilege, not a technique. The Lord's Prayer is addressed to "Our Father" — but one can only call God Father through adoption in Christ. *(March 2026 addition from surgical repairs to `Sermon - Lord Teach Us to Pray (Matthew 6).md`)*
+
 **Explicit. Tradition: Puritan (Owen, Watson); MacArthur Matthew corpus.**
 
 ---

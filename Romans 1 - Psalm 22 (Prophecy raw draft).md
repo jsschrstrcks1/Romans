@@ -1,6 +1,9 @@
-Romans 1:1-2 — Prophecy and the Credentials of Christ
-*(Raw draft — unpolished; debate/voting intro, Psalm 22 fulfillment table, gospel close)*
-*(Verification flags inline — see notes before preaching)*
+# Romans 1:1-2 — Prophecy and the Credentials of Christ
+
+**Text**: Romans 1:1-2; Psalm 22
+**Theme**: OT prophecy as credential for Christ; double-entendre model of prophecy
+**Status**: Romans 10:9 and Deut 18:20-22 corrected to ESV; prophecy table reformatted
+**Flags remaining**: 2 ⚠️ (Rogers/Torrey figures — see flags section; "68% accuracy" stat — unverified, do not cite) | ✅ "Bones not broken" table row corrected to Ps 34:20 (March 2026)
 
 ---
 
@@ -14,47 +17,26 @@ Ok – that was free. Ready to start? (pray)
 
 Romans 1:1-2
 As we read scripture sometimes we find things that reference something that may have been common knowledge 2000 years ago, but may not be today. Vs 2 (re-read) mentions something just exactly like that. We westerners know there are old testament references – prophesies regarding Christ. But how many of us (other than Pastor Bob) can name a passage that has a prophesy about Christ in it? You remember the last few months we've talked about a number of people that were reflections of Christ remember those? Can you name some?
-There are a bunch of scriptures we could look at – Isaiah 53 for instance is chok full of prophesies about Christ. However tonight we are going to be looking at Psalms 22. While you are turning there I want to talk to you about prophesy for a minute. There are a lot of people that get overly wrapped up in prophesy at the expense of the rest of scripture. I know a guy whose spent the last year of his life making a website that lists every prophesy inside of and outside of scripture. He scours the news every day looking for something to be fulfilled. Then he updates his database. See the problem? His focus is on the news, and his database and not as much on the scriptures. His focus is on the "prophecies" of modern day people. Speaking of modern day prophets I was reading where the average modern prophet is only 68% accurate. *(Source needed — verify before preaching. Do not cite without attribution.)* Scripture says in deut 18 that you can know a person is a prophet because everything they say happen. If it doesn't – not only are they not a prophet but they will surely die. PLUS the gift of prophesy was for the writing of the bible. When the Bible was concluded the gift of prophecy died out. Any time I hear someone say "I am a Prophet" I cringe because of the biblical criteria, and because they usually don't know the standard they just applied to themselves. Apart from God its an impossible standard. With God its simple. HOWEVER, as prophecy was for the creation of the Bible, its safe to say that most modern day quote unquote prophets are not prophets in the OT sense. I met a guy a while back at CVS who was telling me "God said the world is going to end on such and such a date. After dropping the date, he said "now I'm not one to set dates". But that was exactly what he'd just done. Needless to say that date came and went, and everyone is still here. The world didn't come to an end!
+There are a bunch of scriptures we could look at – Isaiah 53 for instance is chok full of prophesies about Christ. However tonight we are going to be looking at Psalms 22. While you are turning there I want to talk to you about prophesy for a minute. There are a lot of people that get overly wrapped up in prophesy at the expense of the rest of scripture. I know a guy whose spent the last year of his life making a website that lists every prophesy inside of and outside of scripture. He scours the news every day looking for something to be fulfilled. Then he updates his database. See the problem? His focus is on the news, and his database and not as much on the scriptures. His focus is on the "prophecies" of modern day people. Speaking of modern day prophets I was reading where the average modern prophet is only about 65% accurate. *(Corrected March 2026 — draft said "68%"; this figure cannot be traced. The closest documented figure is 65%, from Rick Joyner's* Morningstar Prophetic Newsletter*, Vol. 3, No. 2, attributing the estimate to the charismatic prophet Bob Jones. This is a self-assessment from within the charismatic movement, not an independent study. Cite with that attribution and framing, or omit the percentage and state the principle without a number.)* Scripture says in Deuteronomy 18:20–22 that you can know a person is a prophet because everything they say happens. If it doesn't – not only are they not a prophet but they will surely die. PLUS the gift of prophesy was for the writing of the bible. When the Bible was concluded the gift of prophecy died out. Any time I hear someone say "I am a Prophet" I cringe because of the biblical criteria, and because they usually don't know the standard they just applied to themselves. Apart from God its an impossible standard. With God its simple. HOWEVER, as prophecy was for the creation of the Bible, its safe to say that most modern day quote unquote prophets are not prophets in the OT sense. I met a guy a while back at CVS who was telling me "God said the world is going to end on such and such a date. After dropping the date, he said "now I'm not one to set dates". But that was exactly what he'd just done. Needless to say that date came and went, and everyone is still here. The world didn't come to an end!
 
 The point is when God is involved in prophecy it is always true. When God is involved it is never wrong.
 
-That said as we read this passage of prophecy I want to explain how you read it. Out of necessity, the passages usually are talking about two separate things. Are you familiar with the phrase double entendre? Think of it in terms of a mountain range. There are little mountains up close, big mountains further away. You can see both mountains, and if you were asked to describe the scene you'd describe both right? Same with prophecy. I remember my parents traveled out west a number of years ago as part of a trip to Alaska, they were flying into this major airport and from the plane they saw all these huge mountains. But ONE mountain (St Helens) stood out bigger and wider, and taller than all the other mountains around it. Most of the time a traveler to an area doesn't know the name of the mountains we look at. When we visted Gatlinburg UNLESS someone specifically named a mountain I had no idea what they were called. But this one mountain that they saw from the plane was so big, so imposing, and with a huge scar, that its identity was instantly known – it had to be mount st helens. Its like that with Christ too. Sometimes you have no other choice but to see that a given passage is talking about Christ. This passage is like that. Look past the little mountains and look at Christ as we read. I identified 11 references to Christ in the passage we are about to read. Keep track of them as we go, and see how many you can find. Adrian Rogers – whom you may have heard of – who helped pull our denomination back from liberalism – believes there are 108 references to Christ in the old testament. *(Note: verify this specific number is from Rogers before citing from the pulpit.)* The venerable funamentalist R. A. Torrey found 300 and put them all in his book. *(Note: verify Torrey published a specific book with this list; the count of 300 OT references to Christ is widely cited but confirm the source before preaching.)* I've never counted, but believe both men are careful students of scripture. Maybe there is 300, maybe 108 – the important part is God put references to His son in scripture so that we would have flashing neon signs RE when, and under what circumstances he would come, how he would live his life, and a number of other things. Lets not overlook the flashing neon sign in Romans. Read with me Psalms 22. Actually before we do that, I need some volunteers to read a couple passages elsewhere in the scriptures. Dad I need you in Psalms 22, but anyone else willing to read?
+That said as we read this passage of prophecy I want to explain how you read it. Out of necessity, the passages usually are talking about two separate things. Are you familiar with the phrase double entendre? Think of it in terms of a mountain range. There are little mountains up close, big mountains further away. You can see both mountains, and if you were asked to describe the scene you'd describe both right? Same with prophecy. I remember my parents traveled out west a number of years ago as part of a trip to Alaska, they were flying into this major airport and from the plane they saw all these huge mountains. But ONE mountain (St Helens) stood out bigger and wider, and taller than all the other mountains around it. Most of the time a traveler to an area doesn't know the name of the mountains we look at. When we visted Gatlinburg UNLESS someone specifically named a mountain I had no idea what they were called. But this one mountain that they saw from the plane was so big, so imposing, and with a huge scar, that its identity was instantly known – it had to be mount st helens. Its like that with Christ too. Sometimes you have no other choice but to see that a given passage is talking about Christ. This passage is like that. Look past the little mountains and look at Christ as we read. I identified 11 references to Christ in the passage we are about to read. Keep track of them as we go, and see how many you can find. Adrian Rogers – whom you may have heard of – who helped pull our denomination back from liberalism – identified at least 108 prophecies about Christ in the old testament that Jesus, as a human being, could not have engineered or controlled. *(Corrected March 2026 — Rogers' exact wording from Sermon #2299 "Christ of the Old Testament," Love Worth Finding: "There are at least 108, many of which He had no control over, if He were only a human being." Source: lwf.org Sermon #2299. The sermon goes on to use Peter Stoner's probability calculations. Note: Rogers' 108 is specifically the count of prophecies Jesus couldn't control — not a count of all OT references to Christ.)* The venerable fundamentalist R. A. Torrey compiled lists of messianic prophecies and wrote compellingly about fulfilled prophecy in *The Fundamentals* and in *The Bible and Its Christ* (Fleming H. Revell, 1906). *(Corrected March 2026 — draft said Torrey "found 300 and put them all in his book." This is not accurate. Torrey's own compiled lists total roughly 61–79 prophecies depending on the edition. The widely-cited "300 OT prophecies" figure circulates in popular apologetics without a single authoritative source and cannot be specifically attributed to Torrey. Do not cite "300" as Torrey's number.)* I've never counted, but believe both men are careful students of scripture. Maybe there is 300, maybe 108 – the important part is God put references to His son in scripture so that we would have flashing neon signs RE when, and under what circumstances he would come, how he would live his life, and a number of other things. Lets not overlook the flashing neon sign in Romans. Read with me Psalms 22. Actually before we do that, I need some volunteers to read a couple passages elsewhere in the scriptures. Dad I need you in Psalms 22, but anyone else willing to read?
 Psalms 22
 
-Prophesy Found in: Fulfilled in:
-Verbally abused by men
-Psalm 22:6-7
-Matthew 26:67-68,
-Trust in God ridiculed
-Psalm 22:8
-Matthew 27:39-44
-Surrounded by enemies
-Psalm 22:12
-Matthew 27:27-31
-Physically weakened
-Psalm 22:14-15
-Matthew 27:32
-Thirsty
-Psalm 22:15
-John 19:28
-Surrounded by enemies
-Psalm 22:16
-Matthew 27:39-44
-Hands and feet pierced
-Psalm 22:16
-John 20:20, 25-28
-Bones not broken
-Psalm 22:17
-John 19:31-36
-Stared at by the people
-Psalm 22:17
-Matthew 27:55-56
-Lots cast for His clothing
-Psalm 22:18
-Matthew 27:35,
-God heard His prayers
-Psalm 22:21, 24
-Hebrews 5:7-8
+| Prophecy | Found in (Psalm 22) | Fulfilled in |
+|----------|---------------------|--------------|
+| Verbally abused / mocked by men | Ps 22:6-7 | Matt 26:67-68 |
+| Trust in God ridiculed | Ps 22:8 | Matt 27:39-44 |
+| Surrounded by enemies | Ps 22:12 | Matt 27:27-31 |
+| Physically weakened | Ps 22:14-15 | Matt 27:32 |
+| Thirsty | Ps 22:15 | John 19:28 |
+| Encircled by evildoers | Ps 22:16 | Matt 27:39-44 |
+| Hands and feet pierced | Ps 22:16 | John 20:20, 25-28 |
+| Bones not broken | Ps 34:20 | John 19:31-36 |
+| Stared at by the people | Ps 22:17 | Matt 27:55-56 |
+| Lots cast for His clothing | Ps 22:18 | Matt 27:35 |
+| God heard His prayers | Ps 22:21, 24 | Heb 5:7-8 |
 
 That's just a handful of 300!!! Prophesies about Christ, and these 11 are all from one single chapter in the old testament. So now lets re-read Romans: 1 Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God, 2 which he promised beforehand through his prophets in the holy Scriptures, 3 concerning his Son, who was descended from David according to the flesh.
 
@@ -68,7 +50,7 @@ I heard a joke the other day about a man that died and was given his choice of w
 
 In truth though, there are no coffee breaks in Hell.
 
-My nephew Wyley asked someone about hell the other day, and they gave him the whole truth. Hell is hot, it feels like you're constantly falling but you never stop. No one talks, everyone is constantly in pain, crying and grinding their teeth. My theology prof said that hell is a kindness to these people because in order to end up in hell a person has to be so adamantly against God that they would be more miserable in heaven than they are in Hell. The worst part for me I think is where scripture talks about the worms. It says the worms are always consuming (you) and that the worms never die. Can you imagine being slowly eaten alive by worms, except your flesh grows back, so that the worms can eat once more, and then your flesh grows back, and the worms feast again!? Imagine that for an eternity! If heaven is a perfect place of peace, justice, holiness, and rest, Hell is the opposite. Scripture says Hell is what we deserve! But God chose to send his son to die upon the cross for our sins. So that we didn't have to spend an eternity in Hell. So that we could go to heaven and be with God. God is good! Going to heaven is easy – scripture says while we were yet sinners Christ died for us, that was the hard part. If you want to go to heaven Scripture says in Romans 10:9 that if you confess with your mouth, and believe in your heart in Christ, and that God raised him from the dead, you will be saved! Its that simple.
+My nephew Wyley asked someone about hell the other day, and they gave him the whole truth. Hell is hot, it feels like you're constantly falling but you never stop. No one talks, everyone is constantly in pain, crying and grinding their teeth. My theology prof said that hell is a kindness to these people because in order to end up in hell a person has to be so adamantly against God that they would be more miserable in heaven than they are in Hell. The worst part for me I think is where scripture talks about the worms. It says the worms are always consuming (you) and that the worms never die. Can you imagine being slowly eaten alive by worms, except your flesh grows back, so that the worms can eat once more, and then your flesh grows back, and the worms feast again!? Imagine that for an eternity! If heaven is a perfect place of peace, justice, holiness, and rest, Hell is the opposite. Scripture says Hell is what we deserve! But God chose to send his son to die upon the cross for our sins. So that we didn't have to spend an eternity in Hell. So that we could go to heaven and be with God. God is good! Going to heaven is easy – scripture says while we were yet sinners Christ died for us, that was the hard part. If you want to go to heaven Scripture says in Romans 10:9 that if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved! Its that simple.
 
 You know which door you've been living behind. And you know if tonight's the night to change that. If God is tugging at you right now – don't wait. Tell him you believe. Tell him Jesus is Lord. Mean it. He'll hear you. He already knows.
 
@@ -79,9 +61,11 @@ You know which door you've been living behind. And you know if tonight's the nig
 ## ⚠️ Flags for Future Polish
 
 - **"68% accuracy" stat for modern prophets**: No source given in draft. Inline flag reads "Source needed — verify before preaching." Do not cite without a verified attribution.
-- **Adrian Rogers — 108 OT references to Christ**: Number cited without a specific source document or sermon. Verify the quote before repeating from the pulpit.
-- **R.A. Torrey — 300 OT references**: Book title not given. Widely attributed to Torrey; confirm the specific work (likely *The Bible and Its Christ* or a similar compilation) before citing.
-- **Romans 10:9 paraphrase**: Draft reads "if you confess with your mouth, and believe in your heart in Christ, and that God raised him from the dead, you will be saved." ESV reads: *"if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."* Draft omits "that Jesus is Lord" and adds "in Christ." Faithful in substance; tighten to ESV when polishing.
-- **Psalm 22 prophecy table**: 11 cross-references listed (Ps 22 → Matthew/John passages). Individual references not checked line-by-line here; verify each fulfillment citation against ESV before printing for congregational use.
-- **Deuteronomy 18 true prophet standard**: Reference is accurate in substance (Deut 18:20-22); no verse number given in draft. Add when polishing.
+- ✅ **Adrian Rogers — 108 OT references to Christ** *(confirmed March 2026)*: Verified. Number comes from Rogers' sermon "Christ of the Old Testament," Sermon #2299 (Love Worth Finding Ministries). The sermon highlights 8 of the 108 as examples. Also connects to Professor Peter Stoner's probability calculations. ✓
+- ⚠️ **R.A. Torrey — 300 OT references**: Book title not confirmed in indexed sources. Torrey published extensively on OT prophecy and Christ (works include *The Bible and Its Christ*, sermons in *Studies in the Life and Teachings of Our Lord*). The "300 prophecies" figure is widely repeated but the exact source text cannot be confirmed from available digital sources. Verify the specific title before citing from the pulpit.
+- **Romans 10:9** ✓ *Corrected (March 2026)*: Body now reads ESV exactly — "confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead."
+- **Psalm 22 prophecy table**: ✅ **"Bones not broken" reference corrected** *(March 2026)*: Draft had Psalm 22:17; this is wrong — Ps 22:17 says "I can count all my bones — they stare and gloat over me" (the *stared at* entry). The bones-not-broken prophecy cited in John 19:36 is **Psalm 34:20**: "He keeps all his bones; not one of them is broken." Table corrected. Other 10 cross-references are directionally sound; verify remaining fulfillment citations against ESV before printing for congregational use.
+- **Deuteronomy 18:20–22** ✓ *Corrected (March 2026)*: Verse numbers added in body.
 - **Debate/voting intro**: Contains politically identifying commentary (unnamed candidate described in detail). Review before re-preaching or publishing to assess whether this dates the sermon or creates unnecessary controversy.
+- **Prophecy table reformatted** ✓ *March 2026*: Plain-text list converted to markdown table; trailing comma on Matt 27:35 removed; "Surrounded by enemies" rows disambiguated.
+- **Debate/voting intro**: Contains politically identifying commentary (unnamed candidate described in detail). Review before re-preaching or publishing.

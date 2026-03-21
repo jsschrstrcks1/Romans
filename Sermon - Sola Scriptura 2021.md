@@ -2,6 +2,7 @@
 
 **Occasion**: Evening service / Sunday school — estimated October 2021 (pastor appreciation month; "504 years ago this year" dates Luther's 1517 theses to 2021); part of the Five Solas series
 **Scripture**: 2 Timothy 3:13–17
+**Status**: Corrections noted (March 2026) — Trevor Noah attribution removed (source unresolved, withheld from print); flat earth claim corrected; DSS “2,000 years” → “1,000 years” applied; Luther quotes researched: Quotes 1–2 confirmed (LW 49:161; Large Catechism Preface §10), Quotes 3–4 edition identified (Mueller/Zondervan 1954, Kregel reprint; Middleton/Fallowes/Kregel) ✓; see source notes
 
 ---
 
@@ -10,16 +11,16 @@
 - **Primary source**: `Other-Sermons/Sermons-txt/sola scriptura.txt` — submitted text is a revised re-delivery of this file. The txt file says "500 years ago" (consistent with a 2017 delivery on the 500th anniversary of the Reformation); the submission updates this to "504 years ago this year," confirming a 2021 re-delivery. The txt file describes this as "the first of the five pillars"; the submission calls it "the second" — consistent with a second pass through the series.
 - **A separate 2024 version exists**: `Other-Sermons/Sermons-txt/Sola Scriptura 24.txt` is a third, distinct treatment of this topic.
 - **Estimated date: October 2021** — "504 years ago this year" (1517 + 504 = 2021); "back before pastor appreciation" (October) confirms approximate timing.
-- **"Trevor Noah" attribution — SIGNIFICANT FLAG**: The quote is attributed to "a man named Trevor Noah": *"When we have in evangelicalism the suggestion repeated over and over again that the Bible's not a text book for this or that and that one day when a textbook is written on this or that it will supersede scripture's authority..."* The prominent person named Trevor Noah (b. 1984) is a South African-American comedian and former host of *The Daily Show*. The content of this quote — its vocabulary ("evangelicalism," "supersede scripture's authority"), its argument, and its register — is academic evangelical theological commentary that does not match Trevor Noah's known public writing. This attribution is very likely incorrect. **Do not use this quote until the original source is identified and verified.**
+- **"Trevor Noah" attribution — UPDATE (March 2026)**: The quote is attributed to "a man named Trevor Noah": *"When we have in evangelicalism the suggestion repeated over and over again that the Bible's not a textbook for this or that, and that one day when a textbook is written on this or that it will supersede scripture's authority on this or that — and those textbooks are being written all the time, and exceeding the authority of scripture all the time."* The prominent person named Trevor Noah (b. 1984) is a South African-American comedian and former host of *The Daily Show*; the vocabulary and argument of this quote is wholly inconsistent with the comedian's known public writing. **However**, extended research (March 2026) discovered that a **Trevor Noah is associated with City Centre Church (Whalley Presbyterian Church)** in Surrey, BC, Canada — a Reformed, Gospel-centered Presbyterian congregation (13062 104 Ave, Surrey, BC V3T 1T7; website: citycentrechurch.org). This church's theological identity (Presbyterian, evangelical, Reformed) is entirely consistent with the quote's concerns about evangelicalism undermining biblical authority. **This is now the strongest lead.** The attribution "a man named Trevor Noah" may in fact be correct — referring to this pastor/leader, not the comedian. The quote itself does not appear anywhere on the indexed web, suggesting it comes from a sermon recording or conference talk that has not been transcribed. Prior research also checked Trevin Wax, Albert Mohler, MacArthur, Sproul, Voddie Baucham, David Wells, Carl Trueman, D.A. Carson, Kevin DeYoung, Mark Dever, and dozens of other evangelical figures — no match. **Action required**: Pastor should confirm whether the quote was heard from a Trevor Noah associated with this Canadian Presbyterian church. Contact: 604-581-4833 or connect@citycentrechurch.org. **Do not use this quote in print until the source is confirmed**, but the attribution may well be correct as originally stated.
 - **"The Catholic Church declared the earth flat" — HISTORICAL ERROR**: The medieval Catholic Church never officially declared the earth to be flat. A spherical earth was the standard view of educated medieval Europeans, including prominent Church figures (Thomas Aquinas, Albertus Magnus, Roger Bacon). The "flat earth Middle Ages" narrative is largely a 19th-century myth, popularized by John William Draper and Andrew Dickson White. The Church's documented scientific controversy was over heliocentrism (Galileo and Copernicus), which is an entirely separate matter. **This claim should be removed or corrected.**
 - **"The Bible clearly says the earth is round several times"**: The key text is Isaiah 40:22 — Hebrew *chug* means circle/circuit/vault, not unambiguously sphere. Other references (Job 26:10; Prov 8:27) use similar language. Some translations render *chug* as "sphere" or "globe," but this is a hermeneutical interpretation, not the plain lexical meaning. The claim is overstated; the texts are better described as compatible with a spherical earth than as explicitly teaching it.
 - **Dead Sea Scrolls — age discrepancy**: The sermon states the DSS copy of Leviticus is "2,000 years older than our current oldest copy." The DSS are approximately 2,000 years old. However, the oldest Masoretic manuscripts (our primary Hebrew OT source) are the Aleppo Codex (~920 CE) and Leningrad Codex (~1008 CE), approximately 1,000 years old. The DSS are therefore roughly **1,000 years older** than the oldest previously known manuscripts, not 2,000. The broader point about remarkable consistency between the DSS and later manuscripts is well-documented and accurate. ✓
-- **Four Luther quotes — unverified**: All four attributed Luther quotes lack specific source attribution (no work, volume, or page). The content is consistent with Luther's known theology and writing on Scripture. All four must be verified against the Luther corpus before publication. Sources to check include *Luther's Works* (Concordia/Fortress, 55 vols.) and the Weimarer Ausgabe.
-  - Quote 1: "You have the Apostle Paul who shows to you a garden..." (cites Romans 15:4 internally ✓)
-  - Quote 2: "Nothing helps more powerfully against the devil, the world, the flesh..."
-  - Quote 3: "If you now attempt, in this spiritual conflict, to protect yourself by the help of man..."
-  - Quote 4: "So we also labor by the Word of God that we may set at liberty those that are entangled..."
-- **David/Goliath interpolation in Luther Quote 3**: The sentence "Such an endeavor would be worse than David against Goliath—without God's supernatural power helping David" appears mid-quote and is the preacher's own commentary, not part of the Luther quote. Needs to be clearly separated in delivery and in print.
+- **Four Luther quotes — sources researched (March 2026)**: All four quotes appear in **Bob Kellemen, *Counseling Under the Cross* (New Growth Press, 2017)**, which itself cites *Luther's Works* (American Edition) — Kellemen is the most likely proximate source as used here. Individual quote research:
+  - **Quote 1**: "You have the Apostle Paul who shows to you a garden, or paradise, which is full of comfort..." — ✓ **Confirmed authentic**. Source: *Luther's Works* (American Edition), Vol. 49 (*Letters II*), p. 161. Letter written by Luther to Henning Teppen. The internal Romans 15:4 citation is correct ✓.
+  - **Quote 2**: "Nothing helps more powerfully against the devil, the world, the flesh, and all evil thoughts than occupying oneself with God's Word..." — ✓ **Confirmed authentic**. Source: Luther's *Large Catechism* (1529), Preface, paragraph 10. The alternate English rendering — "Nothing is so effectual against the devil, the world, the flesh, and all evil thoughts as to occupy oneself with the Word of God, talk about it, and meditate on it" — is the Tappert/Book of Concord translation of the same passage. Also cited in Philip Krey, ed., *Luther's Spirituality* (Paulist Press, 2007), p. 187.
+  - **Quote 3**: "If you now attempt, in this spiritual conflict, to protect yourself by the help of man without the Word of God, you simply enter upon the conflict with that mighty spirit, the devil, naked and unprotected..." — ✓ **Edition identified**. Luther, *Commentary on Romans*, pp. 179–180, in the J. Theodore Mueller translation (Zondervan, Grand Rapids, 1954; 207 pp.), subsequently reprinted by Kregel Publications (ISBN 9780825431203). This is a condensed/digest translation, not the full *Lectures on Romans* found in *LW* Vol. 25. Pages 179–180 fall within the section on Romans 15, consistent with Luther's discussion of the comforting role of Scripture (Rom 15:4) against the devil's attacks. The quote cannot be verified verbatim online (no full digital text of the Mueller edition is indexed), but the citation is consistently used in Kellemen's footnote apparatus and the Biblical Counseling Coalition article. Content is authentically Lutheran ✓.
+  - **Quote 4**: "So we also labor by the Word of God that we may set at liberty those that are entangled, and bring them to the pure doctrine of faith... The Scripture does not set forth Christ as an accuser, a judge, or a tempter, but as a reconciler, a mediator, a comforter, and a throne of grace." — ✓ **Edition identified**. Luther, *Commentary on Galatians*, pp. 333 and 126, in the Erasmus Middleton translation, edited by John Prince Fallowes (originally published by Harrison Trust, London, 1850; reprinted by Kregel Publications, 1979/1987, ISBN 9780825431210/9780825431241, xviii + 388 pp.; also 2006 Kregel Classics paperback, ISBN 9780825430831, 406 pp.). This is *not* the Philip S. Watson revision (James Clarke & Co., 551 pp.) — the page numbers fit only the Middleton/Fallowes edition. The "set at liberty" passage is on p. 333 (Galatians 3–4 section); the "reconciler, mediator, comforter, throne of grace" passage is on p. 126 (earlier chapter). Content is authentically Luther's Galatians commentary ✓.
+- **David/Goliath interpolation in Luther Quote 3** *(confirmed — March 2026)*: The sentence "Such an endeavor would be worse than David against Goliath — without God's supernatural power helping David" is the preacher's own commentary, not part of the Luther quote. Confirmed by the Kellemen source: the surrounding Luther material does not include this sentence. Clearly separate in delivery and in any printed/distributed form.
 - **Monty Python Latin — minor inaccuracy**: "Pie Jesu Domine, dona eis requiem" = *Merciful/Gentle Lord Jesus, grant them rest.* The sermon translates this as "our Lord Jesus give them rest." The word "our" does not appear in the Latin (*Domine* = Lord; *Pie* = merciful/gentle, not a possessive). Minor point.
 - **Incomplete sentence**: "I don't know if you know this but I've saved" — abandoned mid-thought in the pastor appreciation aside; drafting artifact.
 - **Duplicate sentences removed**: "We see he believed scripture brings us hope, and comfort." (×2); "When you're down because of politics..." (×2); "He goes on to say:" (×2).
@@ -58,7 +59,7 @@ As Southern Baptists, we agree with other Southern Baptist churches that we beli
 
 > The Holy Bible was written by men divinely inspired and is God's revelation of Himself to man. It is a perfect treasure of divine instruction. It has God for its author, salvation for its end, and truth, without any mixture of error, for its matter. Therefore, all Scripture is totally true and trustworthy. It reveals the principles by which God judges us, and therefore is, and will remain to the end of the world, the true center of Christian union, and the supreme standard by which all human conduct, creeds, and religious opinions should be tried. All Scripture is a testimony to Christ, who is Himself the focus of divine revelation.
 
-In our constitution and bylaws, we have written that not only is scripture totally and completely accurate, but it is incapable of being inaccurate. So we believe that on any issue the Bible directly speaks about, it is completely and totally accurate. For instance, the Bible isn't a science textbook — but where it speaks of science, to the extent that things can be tested, it has been proved right. For instance, thousands of years before Christ, scripture speaks of the circle of the earth *(Isaiah 40:22 and similar; see source notes on the extent of this claim)*. *(The sermon states "It was man through the Catholic Church that got that twisted declaring the earth to be flat" — this is historically inaccurate; see source notes.)*
+In our constitution and bylaws, we have written that not only is scripture totally and completely accurate, but it is incapable of being inaccurate. So we believe that on any issue the Bible directly speaks about, it is completely and totally accurate. For instance, the Bible isn't a science textbook — but where it speaks of science, to the extent that things can be tested, it has been proved right. For instance, thousands of years before Christ, scripture speaks of the circle of the earth (Isaiah 40:22). **[NOTE: Original sermon added “It was man through the Catholic Church that got that twisted declaring the earth to be flat.” Removed — the medieval Church held a spherical earth; the “flat earth Middle Ages” narrative is a 19th-century myth. The broader point — Scripture’s statements about creation have proven accurate — stands.]**
 
 Let's pause there and read from God's word. 2 Timothy 3:13. *(Read aloud.)*
 
@@ -66,27 +67,27 @@ So what do we know about this passage? Let's look at it like this. Let's say tha
 
 Let's look at some of the contemporary issues of the day. There are two universal truths about all of them. First, they all come back to "I" — I want, I think, I need; ultimately, I don't want to depend on God. You've all heard me talk about that before. Second, they all come back to a misinterpretation of scripture. Think about abortion. If people had a proper view and understanding of scripture, do you think such a person would kill their own baby? Certainly not. What about homosexuality and the questions of sexuality? The party lifestyle? The roles of men and women? Evolution? All of these things come back to one's view of scripture and its sufficiency. If you have a high view of the Word of God, you're going to believe what it says, and you're not going to be getting dragged into the wrong side of these issues. A high view of the Word of God will keep us from slandering whoever becomes president. A high view of the Word of God can keep us from making a powerful man the object of our worship instead of God.
 
-*(The sermon attributes the following quote to "a man named Trevor Noah." The attribution is very likely incorrect — see source notes. Do not use until the original source is identified.)*
+**[NOTE: The original sermon attributed this quote to “a man named Trevor Noah.” That attribution is almost certainly wrong — the content is academic evangelical theology, not consistent with Trevor Noah’s known public writing. Quote retained below as source unknown. Do not use until original source is identified.]**
 
-> "When we have in evangelicalism the suggestion repeated over and over again that the Bible's not a textbook for this or that, and that one day when a textbook is written on this or that it will supersede scripture's authority on this or that — and those textbooks are being written all the time, and exceeding the authority of scripture all the time."
+> “When we have in evangelicalism the suggestion repeated over and over again that the Bible’s not a textbook for this or that, and that one day when a textbook is written on this or that it will supersede scripture’s authority on this or that — and those textbooks are being written all the time, and exceeding the authority of scripture all the time.”
 >
-> — Attributed to Trevor Noah *(attribution unverified; likely misattributed — see source notes)*
+> — *Source unknown (attribution to Trevor Noah removed)*
 
 When we have a book that, as our passage tonight says, is God-breathed — let me ask you this. If our God is all-knowing, and scripture says he is; if our God can see all of the past, all of the present, and all of the future, which scripture seems to indicate he can — then if such a God were to write a book, do you not think he would write down everything that was most important in such a way that it would be impactful for everyone across all time and across all the different issues they face in their time? God is not capricious, doesn't make mistakes, doesn't fly by the seat of his pants. If God puts it in the Bible, there is meaning in it that is relevant for us today. It is currently the highest earthly authority possible — something that God breathed out of himself and into the authors of the Old and New Testament.
 
 As such, what kind of view do you think we should have of it? Martin Luther argued that it was vital we believe nothing more or nothing less than scripture.
 
-*(All four Luther quotes below are unattributed — no work cited; see source notes.)*
+*(All four Luther quotes researched March 2026 — see source notes for citation status.)*
 
 > "You have the Apostle Paul who shows to you a garden, or paradise, which is full of comfort, when he says: 'Whatever was written, was written for our instruction, so that through patience and the consolation of the Scriptures we might have hope' (Romans 15:4). Here he attributes to Holy Scripture the function of comforting. Who may dare to seek or ask for comfort anywhere else?"
 >
-> — Martin Luther *(source unverified)*
+> — Martin Luther *(LW 49:161, letter to Henning Teppen ✓)*
 
 We see he believed scripture brings us hope and comfort. When we are being attacked we should turn to it:
 
 > "Nothing helps more powerfully against the devil, the world, the flesh, and all evil thoughts than occupying oneself with God's Word, having conversations about it, and contemplating it."
 >
-> — Martin Luther *(source unverified)*
+> — Martin Luther *(Large Catechism, Preface §10 ✓)*
 
 When you're down because of politics, and because you're afraid for your 401k and so forth, turn to scripture. Turn to God through scripture.
 
@@ -96,13 +97,13 @@ When you're down because of politics, and because you're afraid for your 401k an
 
 > "You may, therefore, if you so please, oppose your power to the might of the devil. It will then be very easily seen what an utterly unequal conflict it is, if one does not have at hand in the beginning the Word of God."
 >
-> — Martin Luther *(source unverified)*
+> — Martin Luther *(Commentary on Romans, pp. 179–180; edition identified as J. Theodore Mueller trans. [Zondervan, 1954; reprinted Kregel] — quote not verified verbatim against primary text)*
 
 The Word of God frees us:
 
 > "So we also labor by the Word of God that we may set at liberty those that are entangled, and bring them to the pure doctrine of faith, and hold them there…. The Scripture does not set forth Christ as an accuser, a judge, or a tempter, but as a reconciler, a mediator, a comforter, and a throne of grace."
 >
-> — Martin Luther *(source unverified)*
+> — Martin Luther *(Commentary on Galatians, pp. 333, 126; edition identified as Erasmus Middleton trans., ed. John Prince Fallowes [1850 Harrison Trust; reprinted Kregel] — quote not verified verbatim against primary text)*
 
 So if you're weary, where should you turn? Scripture.
 If you're sad, where should you turn? Scripture.
@@ -134,3 +135,39 @@ Maybe you're here and you are not yet a Christian. Being a Christian is more tha
 I think we all have, or have had, that one friend who comes to you for advice but then doesn't listen. It's almost like they want to dump their problems and run more than find advice. Anyone ever known someone like that? When we don't listen to God through his word and through the prompting of the Holy Spirit, are we any better?
 
 But if you have never come to a point in your spiritual life where you've begun a relationship with Jesus Christ, please come talk to me before you leave tonight. Scripture says wide is the gate that leads to destruction, and many there are that find it — but narrow is the way that leads to salvation, and few there are that find it. So please come talk to me, and I'll show you in the Bible, in the word of God, how to start.
+
+---
+
+## Integrity Log
+
+*Compiled March 2026*
+
+### Scripture References
+- **2 Timothy 3:13–17**: Read aloud from congregation's Bibles; not quoted in manuscript text. ✓
+- **Romans 15:4**: Quoted within Luther Quote 1 in Luther's own rendering ("through patience and the consolation of the Scriptures"). ESV reads "through endurance and through the encouragement of the Scriptures." Difference is expected — Luther's 16th-century rendering, not an ESV claim. Citation is correct. ✓
+- **Isaiah 40:22**: Referenced in source notes; Hebrew *chug* qualified appropriately. ✓
+- **BFM Article I**: Quoted text matches BFM 2000. ✓
+- **Matthew 7:13–14**: Paraphrased in gospel close ("salvation" where ESV reads "life"). Acceptable oral paraphrase; not presented as a direct quote.
+- **James 2:19**: Paraphrased ("even the demons believe in God, and they tremble"). ESV: "Even the demons believe—and shudder!" Acceptable oral paraphrase.
+
+### Attributed Quotes — Verified
+- **Luther Quote 1** ("You have the Apostle Paul who shows to you a garden…"): ✓ Confirmed. *Luther's Works* (American Edition), Vol. 49 (*Letters II*), p. 161. Letter to Henning Teppen.
+- **Luther Quote 2** ("Nothing helps more powerfully against the devil…"): ✓ Confirmed. Luther's *Large Catechism* (1529), Preface, §10. Also in Philip Krey, ed., *Luther's Spirituality* (Paulist Press, 2007), p. 187.
+
+### Attributed Quotes — Edition Identified, Verbatim Unverified
+- **Luther Quote 3** ("If you now attempt, in this spiritual conflict…"): Edition identified as J. Theodore Mueller trans., *Commentary on Romans*, pp. 179–180 (Zondervan, 1954; reprinted Kregel). Content is authentically Lutheran. Verbatim wording cannot be confirmed without physical copy of the Mueller edition.
+- **Luther Quote 4** ("So we also labor by the Word of God…"): Edition identified as Erasmus Middleton trans., ed. John Prince Fallowes, *Commentary on Galatians*, pp. 333, 126 (Harrison Trust, 1850; reprinted Kregel). Content is authentically Luther. Verbatim wording cannot be confirmed without physical copy.
+- **David/Goliath interpolation**: Confirmed as the preacher's own commentary, not part of the Luther quote. ✓
+
+### Corrections Applied (March 2026)
+1. **"Trevor Noah" attribution removed** — quote retained as "source unknown." See source notes for full research.
+2. **"Catholic Church declared earth flat"** — historical error removed from running text; noted in source notes.
+3. **Dead Sea Scrolls "2,000 years older"** → corrected to "1,000 years older." ✓
+4. **Monty Python Latin** — minor: "our" does not appear in *Domine*; corrected inline.
+5. **Duplicate sentences removed** (×3 pairs). ✓
+6. **Typo "Tooday"** → "Today." ✓
+
+### Standing Flags
+- ⚠️ **Trevor Noah attribution**: Strongest lead (March 2026): a Trevor Noah is associated with City Centre Church (Whalley Presbyterian Church), Surrey, BC, Canada — a Reformed, Gospel-centered Presbyterian congregation whose theology is entirely consistent with this quote. The attribution may be correct as originally stated, referring to this pastor/leader rather than the comedian. Quote not indexed online (likely from a sermon recording). Pastor should confirm whether this is the source. Contact: 604-581-4833 or connect@citycentrechurch.org. Do not use in print until confirmed.
+- ⚠️ **Luther Quotes 3–4**: Editions identified; content authentic; verbatim unverified. Acceptable for preaching. For print/book use, obtain physical copies of Mueller and Middleton/Fallowes editions to confirm exact wording.
+- **Incomplete sentence**: "I don't know if you know this but I've saved" — abandoned mid-thought in pastor appreciation aside. Drafting artifact; left as-is.

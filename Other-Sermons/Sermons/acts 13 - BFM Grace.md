@@ -1,4 +1,4 @@
-(Acts 13:48, Acts 16:14, Romans 8:29-30, ephesians 1:4-5 and 11, ephesians 2:8, 2 thess 2:13, and 2 tim 1:9)
+(Acts 13:48, Acts 16:14, Romans 8:29-30, ephesians 1:4-5 and 11, ephesians 2:8, 2 thess 2:13, 2 tim 1:9, and 1 cor 2:14-16)
 
 The issue of God’s grace is the next stop on our march through the Baptist faith and message. You would think conversations about God’s grace would be full of grace. But this is actually one of the biggest hot button issues in our denomination right now. You and I of course hold to the biblical perspective which is the perspective the Baptists historically held. When we banded together all but a handful of the churches held to the position many now are calling heresy. 
 
