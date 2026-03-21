@@ -23,6 +23,10 @@ And Paul writes it from a Roman prison.
 
 But look at the second half of that verse: *"To write the same things to you is no trouble to me and is safe for you."* Paul is saying: I know you've heard this before. I know I've already told you to rejoice. And I'm going to tell you again — because repetition is not laziness. It's safety. You need to hear the sovereignty of God and the command to rejoice over and over, because your circumstances will try to drown it out every single week. So here it is again. Rejoice.
 
+And I'll tell you something else — in the very next verse, Paul is going to warn them. *"Look out for the dogs, look out for the evildoers, look out for those who mutilate the flesh."* False teachers. Men who want to add works to grace and steal the Philippians' joy by putting them back under a yoke. That "safe for you" in verse 1 isn't just emotional comfort. It's doctrinal protection. A congregation that knows how to rejoice in the Lord — not in their own performance, not in their own righteousness — is a congregation that can spot a false gospel when one shows up.
+
+We'll get there. For now, let's stay with the command.
+
 ---
 
 ## I. Rejoice — In What?
@@ -95,7 +99,7 @@ Abraham took his son up a mountain because God told him to. Laid the boy on the 
 
 Peter — when he stepped out of that boat onto the water, God was sovereign over the storm, sovereign over the waves, sovereign over Peter's faith and Peter's fear. And when Peter sank, Jesus didn't let him drown. He reached down and pulled him up.
 
-God is sovereign over everything. Nothing is outside His command.
+God is sovereign over everything. Nothing is outside His command. And that is why Paul — chained to a Roman guard, awaiting trial under a madman emperor — can write to his friends and say: *Rejoice in the Lord.*
 
 > *"For the eyes of the LORD run to and fro throughout the whole earth, to give strong support to those whose heart is blameless toward him."* — 2 Chronicles 16:9
 
@@ -127,7 +131,7 @@ Here it is.
 
 We talked about abortion last week. God will take care of His own. That's not in question. But why does the suffering exist in the first place?
 
-Sin was allowed as a possibility — because without it, Man couldn't have truly had free will. And when Man sinned, he didn't just damage himself. He polluted all of mankind for the rest of history.
+God, in His wise and holy counsel, made Man a moral creature — capable of real obedience and real disobedience. And Man chose disobedience. And when Man sinned, he didn't just damage himself. He polluted all of mankind for the rest of history.
 
 Hudson Beach gets shut down periodically because of "pollution." You know what that means? Somebody's septic tank ruptured and the sewage is in the water. Nobody can swim in that water without being contaminated. That's what Adam did. He ruptured something, and every human being born after him has been swimming in that contamination. Not because they chose it. Because they were born into it.
 
@@ -139,7 +143,9 @@ What our enemy means for evil, God means for good.
 
 God uses our lives, our stories, our pain, our struggles, our grief — our cancer, our shingles, our messed-up lungs, our failing knees — to make an orchestra of redemption to reach the world around us.
 
-God does not cause sin. But He is capable of turning evil into good in a person's life.
+God does not cause sin. But He is capable of turning evil into good in a person's life. That's sovereignty. That's the God Paul is talking about when he says *rejoice in the Lord*. Not "rejoice in your circumstances." In the *Lord*.
+
+But here's what sovereignty alone doesn't answer. A sovereign God who wasn't gracious would be the most terrifying being in the universe. Power without mercy is tyranny. The reason you can rejoice in a sovereign God is that this sovereign God sent His Son.
 
 ---
 
@@ -219,7 +225,9 @@ So rejoice. Not because everything is easy. Because He is good, He is sovereign,
 
 Before I close — some of you have been listening to all of this, and you know it's true, but you've never done anything about it. You know God is sovereign. You know the world is broken. You might even believe Jesus died on a cross. But you have never personally trusted Him as your Lord and Savior.
 
-Here's where you stand. *"For all have sinned and fall short of the glory of God"* (Romans 3:23). That's you. That's me. That's every person in this room. And the wages of that sin — the honest payment for a life lived in rebellion against a holy God — *"is death, but the free gift of God is eternal life in Christ Jesus our Lord"* (Romans 6:23).
+Here's where you stand. *"For all have sinned and fall short of the glory of God"* (Romans 3:23). That's you. That's me. That's every person in this room. And that's not just a theological category. That's your actual standing before a holy God. You are not merely imperfect — you are guilty. And the wages of that guilt — the honest payment for a life lived in rebellion against a holy God — *"is death."* Let that land. Death. Separation from God forever.
+
+*"But the free gift of God is eternal life in Christ Jesus our Lord"* (Romans 6:23).
 
 You can't earn it. You can't be good enough. *"For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast"* (Ephesians 2:8–9).
 
@@ -253,3 +261,4 @@ D. L. Moody, *One Thousand and One Thoughts from My Library* (New York; Chicago;
 - ✅ **Roman scourge** — Corrected from "cat of 9 tales" (misspelling of tails) to "Roman scourge / flagrum." The cat-o'-nine-tails was a British naval instrument; Jesus was scourged with a Roman flagrum embedded with bone and metal.
 - ✅ **All ESV quotations verified**: Phil 3:1, Phil 4:4, Phil 4:6, Phil 1:21, James 1:2–4, 2 Chr 16:9, Matt 10:30, Matt 6:27, Gen 50:20, Job 37:16, Job 38:4, Job 38:31, Heb 12:1–3, 2 Cor 5:21, Rom 3:23, Rom 6:23, Eph 2:8–9, Rom 5:8, Rom 8:1.
 - ✅ **Sermon evaluation (March 2026)**: thus-says-the-lord rubric applied. Four surgical fixes: (1) second clause of Phil 3:1 treated — repetition as safety; (2) Christ's suffering grounded in substitutionary atonement via 2 Cor 5:21, not just example; (3) "Gospel" placeholder replaced with full gospel proclamation (Rom 3:23, 6:23, Eph 2:8–9, Rom 5:8, 8:1); (4) spiritual differentiation added — unconverted, backslider, and faithful sufferer addressed distinctly in application.
+- ✅ **Sermon evaluation, second pass (March 2026)**: thus-says-the-lord rubric re-applied. Score: 82/105 — "Strong and faithful." Five surgical fixes: (1) textual refrain added through sovereignty sections — returns to Phil 3:1 at end of sections III and IV; (2) forward glance at Phil 3:2 added — "safe for you" as doctrinal protection against false teachers, not just emotional comfort; (3) sovereignty-to-cross transition made explicit — "A sovereign God who wasn't gracious would be the most terrifying being in the universe"; (4) free will comment tightened from libertarian lean to confessional language — "God made Man a moral creature, capable of real obedience and real disobedience"; (5) law given one more beat before gospel in closing — "You are not merely imperfect — you are guilty" before relief arrives.
