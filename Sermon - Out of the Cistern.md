@@ -9,6 +9,8 @@
 
 The Brahmin are the upper crust of society. They are the educators, lawmakers, scholars, doctors, writers, poets, academics, land owners, engineers — the people at the top of the proverbial food chain. If you're a politician in Nepal, you're also Brahmin. Their status as Brahmin makes them proud, and they fear that they will lose all of their power, prestige, and social status by switching religions. While the lower castes have been open to Christ — because hey, we have nothing to lose, right? — the Brahmins have been more reluctant, seeing Christians as part of the lowest societal rungs. They need Christians that are well off, that are higher up on the food chain so to speak — the doctors and politicians and engineers, the poets and educators — to travel to Nepal, to reach these Brahmin with the gospel. Despite many years of ministry taking place in Nepal, there are no known believers amongst any of the dozen or so Brahmin groups. Pray that God would reach some of the Brahmin and call them to be missionaries to other Brahmin.
 
+The Brahmin have every reason this world offers not to see themselves in a cistern. Status, education, political power — the top of the caste system. But sovereign grace does not reach people because they recognize their need. It reaches people because God reaches them. The most locked-down heart in Nepal is no more resistant to the Spirit than any of us were before he opened ours.
+
 ---
 
 The issue of God's grace is the next stop on our march through the Baptist Faith and Message. You would think conversations about God's grace would be full of grace. But this is actually one of the biggest hot-button issues in our denomination right now. You and I of course hold to the biblical perspective, which is the perspective the Baptists historically held. When we banded together all but a handful of the churches held to the position many now are calling heresy. So this is an important issue for our day — not just because it is being discussed and debated on the world stage, but also because it frequently reflects whether one holds to Scripture above all else, or whether one holds to their feelings above all else. For me, obviously what the Bible says is more important than my feelings. More important than your feelings. I would much rather offend you than God. I would much rather believe what the Bible says than use my feelings to subvert Scripture. I know that is where you stand also.
@@ -36,12 +38,16 @@ I read a quote this week from a pastor over near Orlando. He said, "We have elev
 
 Who opened her heart? It was closed by sin. Because of our sin we are hostile to God. Sons of disobedience, Scripture says. We're at enmity with God. Our hearts and minds are darkened. Our understanding is clouded. Our hearts are contaminated and point away from Christ. This wasn't just true of Lydia — it's true of everyone apart from the work of Christ in our hearts. God has to do a work in our hearts in order for us to even have any interest in the things of God.
 
+Some of you are sitting here right now as enemies of God — not former enemies, not theoretical enemies — and you don't feel it yet. That's exactly how blind we are. The gospel is for you. But it cannot comfort you until it first tells you the truth about where you stand.
+
 > For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified.
 > — Romans 8:29-30 (ESV)
 
 Look at the chain Paul gives us. This is sometimes called the golden chain of redemption, and you can see why — every link holds. Foreknew. Predestined. Called. Justified. Glorified. Five links, and not one of them says "if man cooperates." Not one of them says "pending human approval." Every verb is God's action, not ours.
 
-And notice something stunning — "glorified" is in the past tense. We're not glorified yet. We're sitting here in Port Richey with bad knees and mortgage payments. But Paul writes it as if it's already done. Because in the mind of God, it is. The chain that began in eternity past ends in eternity future, and not a single link can break. If God foreknew you, you will be glorified. Period.
+And notice something stunning — "glorified" is in the past tense. We're not glorified yet. We're sitting here in Port Richey with bad knees and mortgage payments. But Paul writes it as if it's already done. Because in the mind of God, it is. The chain that began in eternity past ends in eternity future, and not a single link can break. If God foreknew you, you will be glorified. Not might be glorified. Not could be glorified, if you hold on long enough. Will be. The chain does not depend on the strength of your grip. It depends on the One who forged every link before the first day of creation.
+
+And here is something worth noting: Paul wrote this to people who were groaning — verse 23, verse 26 — people who didn't know how to pray under the weight of what they were carrying. He didn't give them the golden chain as a doctrine to be memorized. He gave it to them as an anchor when everything else gave way. If you are in that room right now — if you are carrying something you can't name and barely hold — this chain was written for you.
 
 Those who were appointed to eternal life, those who were appointed to have their hearts opened, those who were foreknown, predestined, conformed, called, justified, and glorified — all were known before the foundation of the world.
 
@@ -80,15 +86,6 @@ God did that for us. He looked down and saw — to quote the kids — a hot mess
 
 Yet he did it anyway.
 
-And here's what it cost him. God didn't just look down and wave a hand. He sent his Son. The eternal, sinless Son of God took on flesh, lived the life we couldn't live, and died the death we deserved to die. Paul tells us in Romans:
-
-> But God shows his love for us in that while we were still sinners, Christ died for us.
-> — Romans 5:8 (ESV)
-
-While we were still sinners. Not after we cleaned ourselves up. Not after we earned it. While we were enemies — hostile, rebellious, stuck in the cistern and loving the dark — Christ went to the cross for us. He took the wrath of God that we deserved. Every sin you've ever committed and every sin you ever will commit — he bore it. And Paul says in 2 Corinthians 5:21: "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God." That's the great exchange. Your sin placed on Christ. His righteousness placed on you. Not because you earned it. Not because you were good enough. Because God chose you before the foundation of the world, and then he paid for you with the blood of his own Son.
-
-That is what grace looks like. It's not just God choosing us from the cistern. It's God climbing into it — bearing the filth, bearing the judgment, bearing the curse — and carrying us out.
-
 ---
 
 ### The Baptist Faith and Message on Grace
@@ -99,7 +96,11 @@ Here is what the BFM says about Grace:
 
 > All true believers endure to the end. Those whom God has accepted in Christ, and sanctified by His Spirit, will never fall away from the state of grace, but shall persevere to the end. Believers may fall into sin through neglect and temptation, whereby they grieve the Spirit, impair their graces and comforts, and bring reproach on the cause of Christ and temporal judgments on themselves; yet they shall be kept by the power of God through faith unto salvation.
 
-So if someone says, "My free will is stronger than God's will" — what are you going to tell them? What if they say something a little more smooth — something like "God doesn't change people's minds," or that when it comes to free will "God is a gentleman"? God is a gentleman. But Scripture is full of people whose minds and hearts he changed. He removes enough of the taint of sin so they can see him, and that is such a wonderful thing that once we can really and truly see, our hearts long for nothing so much as they long for Christ.
+The BFM says election is consistent with the free agency of man. It is. Nobody is dragged to Christ in chains. But the kitten chose to go toward the warmth that rescued her — she just didn't get herself out of the cistern.
+
+So if someone says, "My free will is stronger than God's will" — what are you going to tell them? What if they say something a little more smooth — something like "God doesn't change people's minds," or that when it comes to free will "God is a gentleman"? God is a gentleman. But Scripture is full of people whose minds and hearts he changed. Saul wasn't walking toward Damascus looking for Jesus — he was on his way to arrest the church. God met him mid-stride. Lydia's heart was closed; God opened it while Paul was still speaking. Free will was present in both. It was not sufficient in either. He removes enough of the taint of sin so they can see him, and that is such a wonderful thing that once we can really and truly see, our hearts long for nothing so much as they long for Christ.
+
+And if you're not arguing with this — if you're just quietly unsettled by it, if election feels cold and mechanical to you — hear me. The doctrine sounds like a courtroom decree in a theology textbook. It sounds like "he knew you" when you're the one who was known. He chose you not because of what you'd become, but because before you existed he decided to set his love on you. That is not cold. That is the only love in the universe that was never conditional.
 
 That doesn't mean we will never falter or fall. But it does mean we try to follow in the footsteps of our Savior.
 
@@ -116,6 +117,15 @@ If God has done a work in your heart, then you have nothing to worry about. If n
 > And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ.
 > — Philippians 1:6 (ESV)
 
+And here is what it cost him. God didn't just look down and wave a hand. He sent his Son. The eternal, sinless Son of God took on flesh, lived the life we couldn't live, and died the death we deserved to die. Paul tells us:
+
+> But God shows his love for us in that while we were still sinners, Christ died for us.
+> — Romans 5:8 (ESV)
+
+While we were still sinners. Not after we cleaned ourselves up. Not after we earned it. While we were enemies — hostile, rebellious, stuck in the cistern and loving the dark — Christ went to the cross for us. He took the wrath of God that we deserved. Every sin you've ever committed and every sin you ever will commit — he bore it. And Paul says in 2 Corinthians 5:21: "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God." That's the great exchange. Your sin placed on Christ. His righteousness placed on you. Not because you earned it. Not because you were good enough. Because God chose you before the foundation of the world, and then he paid for you with the blood of his own Son.
+
+That is what grace looks like. It's not just God choosing us from the cistern. It's God climbing into it — bearing the filth, bearing the judgment, bearing the curse — and carrying us out.
+
 So what do we do with all of this?
 
 Some of you have never trusted Christ. You've been sitting in a church your whole life — maybe this church, maybe another — and you've been a good person. You've been moral. You've been decent. And you think that's enough. It's not. Your morality cannot save you any more than that kitten's cuteness could get her out of the cistern. You are trapped in your sin, and the only way out is if God reaches down and pulls you out through the blood of his Son. Repent and believe. Today. Don't leave here trusting your own goodness. Trust Christ.
@@ -124,4 +134,4 @@ Some of you are believers, and you needed to hear this today because you've been
 
 And some of you are wondering — am I really saved? Is this real? Listen to me. The fact that you're asking that question is itself evidence of grace. A dead man doesn't wonder if he's alive. The natural man doesn't care about the things of God. That you care — that it matters to you — means he has begun a work in you. And he who began it will be faithful to complete it.
 
-Now go live like people who have been pulled out of the cistern. Not to earn your seat at the table — you already have it. But because the God who saved you is worthy of every step of obedience you can give him. Walk in holiness. Tell someone what he did for you. And give him the glory for all of it — because it was never yours to begin with.
+Now go live like people who have been pulled out of the cistern. Not to earn your seat at the table — you already have it. But because the God who saved you is worthy of every step of obedience you can give him. Walk in holiness. Tell someone what he did for you. And do it together — as a church. We are not a collection of individuals who happened to be pulled out of the same cistern. We are a body. We go together. We reach the Brahmin together. We are the community of the rescued, and the rescued have a mission. Give him the glory for all of it — because it was never yours to begin with.
