@@ -55,7 +55,7 @@ Sermons at `quotes-and-references/spurgeon/sermons/chsN.md`. Use only to find/ve
 
 ## Skills — What They Do and When They Fire
 
-Five active skills govern the writing and evaluation workflow. A sixth (sermon-mapping) is planned.
+Six active skills govern the writing and evaluation workflow.
 
 ### careful-not-clever (Integrity Guardrail)
 
@@ -99,13 +99,13 @@ Five active skills govern the writing and evaluation workflow. A sixth (sermon-m
 
 **What it does:** Persists knowledge across sessions using encode, consolidate, recall, extract, and forget operations. Memory store at `~/.memory/memory.json`. This is cognition, not storage — it reasons about what to remember and what to forget.
 
-### Sermon-Mapping Skill (Planned)
+### sermon-map (Sermon Mapping & Indexing)
 
-> **Plan file:** `plan.md`
+> **Skill file:** `.claude/skills/sermon-map/SKILL.md`
 
-**Will fire:** When a new sermon file is created, modified, or imported.
+**Fires:** When a new sermon file is created, modified, or imported.
 
-**What it will do:** Seven operations — INDEX (add new entries to sermon-map.md), UPDATE (refresh existing entries), AUDIT (check map integrity), CONNECT (cross-reference between maps), GAP (identify preaching gaps), DEDUP (illustration deduplication), DATE (assign preaching dates to date-map.md).
+**What it does:** Seven operations — INDEX (add new entries to sermon-map.md), UPDATE (refresh existing entries), AUDIT (check map integrity), CONNECT (cross-reference between maps), GAP (identify preaching gaps), DEDUP (illustration deduplication), DATE (assign preaching dates to date-map.md). Maintains eight distinct table formats. Works surgically on sections, never the whole file.
 
 ### Skill Workflow Order
 
