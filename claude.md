@@ -39,6 +39,14 @@ The `.claude/` directory contains the project's knowledge layer. Consult these b
 | **Romans 14–16 Plan** | `.claude/romans-14-16-plan.md` | Passage-by-passage plan for completing Romans 14–16 (4–6 sermons remaining). |
 | **Preaching Gap Analysis** | `.claude/preaching-gap-analysis.md` | Analysis of passages and topics not yet covered. |
 | **Unfinished Work Tracker** | `.claude/unfinished-work-tracker.md` | In-progress repairs, unresolved flags, pending work. |
+| **Quote Map** | `.claude/quote-map.md` | Full-text quote registry. Every attributed quote with verification tier (Green/Yellow/Red), provenance chain, and usage tracking. Self-contained — read this to get every quote without chasing links. |
+| **Illustration Map** | `.claude/illustration-map.md` | Full-text illustration registry. Named and significant unnamed illustrations with type classification, condensed retellings, and reuse tracking. |
+| **People Group Registry** | `.claude/people-group-map.md` | Every unreached people group prayed for from the pulpit — population, status, characteristics, prayer tracking. |
+| **BFM Article Index** | `.claude/bfm-article-index.md` | BFM 2000 article-by-article preaching coverage. Shows which of the 18 articles have been preached and which haven't. |
+| **1689 LBCF Map** | `.claude/1689-map.md` | 1689 Second London Baptist Confession chapter-by-chapter coverage. Shows which of the 32 chapters have been cited from the pulpit. |
+| **Subject Density Index** | `.claude/subject-density-index.md` | Subject categories ranked by sermon count (least to most). Thin categories signal preaching gaps. |
+| **Passage Chain Map** | `.claude/passage-chain-map.md` | Theological chains across redemptive history showing passage dependencies for sermon planning. |
+| **Sermon Infrastructure Plan** | `.claude/sermon-infrastructure-plan.md` | Master plan for the 17-deliverable infrastructure expansion. |
 
 **Spurgeon Reference Corpus** (separate from sermon maps — reference tool only):
 
@@ -105,7 +113,7 @@ Six active skills govern the writing and evaluation workflow.
 
 **Fires:** When a new sermon file is created, modified, or imported.
 
-**What it does:** Seven operations — INDEX (add new entries to sermon-map.md), UPDATE (refresh existing entries), AUDIT (check map integrity), CONNECT (cross-reference between maps), GAP (identify preaching gaps), DEDUP (illustration deduplication), DATE (assign preaching dates to date-map.md). Maintains eight distinct table formats. Works surgically on sections, never the whole file.
+**What it does:** Nine operations — INDEX (add new entries to sermon-map.md), UPDATE (refresh existing entries), AUDIT (check map integrity), CONNECT (cross-reference between maps), GAP (identify preaching gaps), DEDUP (illustration deduplication), DATE (assign preaching dates to date-map.md), QUOTE (quote map maintenance with 3-tier verification), ILLUSTRATE (illustration map maintenance with type classification and reuse tracking). Maintains eight distinct table formats plus companion file decision tree, incomplete manuscript markers, and passage-secondary notation. Works surgically on sections, never the whole file.
 
 ### Skill Workflow Order
 
