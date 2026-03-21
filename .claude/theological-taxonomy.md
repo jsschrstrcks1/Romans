@@ -29,9 +29,9 @@
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
 | Holiness (Governing Attribute) | Very Strong | `Theology Proper.md`, `Romans 3 - wrath of God (final).md`, `Romans 5.md` | Reformed (Sproul) |
-| Sovereignty / Providence | Very Strong | `Romans 1 (2024).md`, `christology.md`, `Romans 13.md`, `Sermon - When God Is For Us.md` | Calvinistic Reformed Baptist |
+| Sovereignty / Providence | Very Strong | `Romans 1 (2024).md`, `Romans 1c - The Fingerprints of God.md`, `christology.md`, `Romans 13.md`, `Sermon - When God Is For Us.md` | Calvinistic Reformed Baptist |
 | Omniscience | Strong | `Eternal Security.md`, `Romans 1 (2024).md` | Classical Theism |
-| Omnipotence | Strong | `Gen 21 - My God Is So Great.md` | Classical Theism |
+| Omnipotence | Strong | `Gen 21 - My God Is So Great.md`, `Romans 1c - The Fingerprints of God.md` | Classical Theism |
 | Immutability / Truthfulness | Strong | `Theology Proper.md` | Classical Theism |
 | Wrath as Holy Revulsion | Very Strong | `Romans 1b - Without Excuse.md`, `Romans 3 - wrath of God (final).md`, `Romans 5.md` | Reformed (Pink, Sproul) |
 | Love — Holy, Costly, Substitutionary | Very Strong | `Romans 5.md`, `Romans 8.md` | Reformed Baptist |
@@ -41,7 +41,7 @@
 ### 1.3 God's Relation to Creation
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Creator of All Things | Strong | `Gen 21 - My God Is So Great.md`, `Romans 1 (2024).md` | Classical Theism |
+| Creator of All Things | Strong | `Gen 21 - My God Is So Great.md`, `Romans 1 (2024).md`, `Romans 1c - The Fingerprints of God.md` | Classical Theism |
 | Providence over History and Nations | Very Strong | `Romans 13.md`, `Sermon - When God Is For Us.md` | Reformed Baptist |
 | God Sees / Hears / Knows / Acts | Strong | `Other-Sermons/Sermons/Exodus 2.md` | Classical Theism, Pastoral |
 | God's "Why" Answered by His Name | Strong | `Other-Sermons/Sermons/ex 6-7.md` | Reformed, Puritan (Bunyan, Cowper) |
