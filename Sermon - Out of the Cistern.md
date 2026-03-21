@@ -1,7 +1,7 @@
 # Out of the Cistern
 ## Baptist Faith and Message: God's Purpose of Grace
 
-**Scripture**: Acts 13:48; Acts 16:14; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8; 1 Corinthians 2:14-16; 2 Thessalonians 2:13; 2 Timothy 1:9
+**Scripture**: Acts 13:48; Acts 16:14; Romans 5:8; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8; 1 Corinthians 2:14-16; 2 Corinthians 5:21; 2 Thessalonians 2:13; 2 Timothy 1:9
 
 ---
 
@@ -39,7 +39,11 @@ Who opened her heart? It was closed by sin. Because of our sin we are hostile to
 > For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified.
 > — Romans 8:29-30 (ESV)
 
-God created us. He knows us from before the foundations of the world. Those who were appointed to eternal life, those who were appointed to have their hearts opened, those who were foreknown, predestined, conformed, called, justified, and glorified — all were known before the foundation of the world.
+Look at the chain Paul gives us. This is sometimes called the golden chain of redemption, and you can see why — every link holds. Foreknew. Predestined. Called. Justified. Glorified. Five links, and not one of them says "if man cooperates." Not one of them says "pending human approval." Every verb is God's action, not ours.
+
+And notice something stunning — "glorified" is in the past tense. We're not glorified yet. We're sitting here in Port Richey with bad knees and mortgage payments. But Paul writes it as if it's already done. Because in the mind of God, it is. The chain that began in eternity past ends in eternity future, and not a single link can break. If God foreknew you, you will be glorified. Period.
+
+Those who were appointed to eternal life, those who were appointed to have their hearts opened, those who were foreknown, predestined, conformed, called, justified, and glorified — all were known before the foundation of the world.
 
 Think about that for a moment. Before the foundation of the world. Probably before that first day of creation, God decided — Ken Baker, he's going to become a believer summer of 1988. I'm going to make myself real to Greg Baker in a cow field. And this one I'm going to reach through a Billy Graham crusade. And that one I'll reach in youth group. And that one — I've got big plans for him — I'm going to call that big tough biker from Moon Lake to and through a small church in Port Richey. He knew you. He orchestrated things in your life to bring you to a point, and then removed your blinders, cleaned off your heart, reoriented it towards himself, and promised you a place in heaven one day.
 
@@ -76,6 +80,15 @@ God did that for us. He looked down and saw — to quote the kids — a hot mess
 
 Yet he did it anyway.
 
+And here's what it cost him. God didn't just look down and wave a hand. He sent his Son. The eternal, sinless Son of God took on flesh, lived the life we couldn't live, and died the death we deserved to die. Paul tells us in Romans:
+
+> But God shows his love for us in that while we were still sinners, Christ died for us.
+> — Romans 5:8 (ESV)
+
+While we were still sinners. Not after we cleaned ourselves up. Not after we earned it. While we were enemies — hostile, rebellious, stuck in the cistern and loving the dark — Christ went to the cross for us. He took the wrath of God that we deserved. Every sin you've ever committed and every sin you ever will commit — he bore it. And Paul says in 2 Corinthians 5:21: "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God." That's the great exchange. Your sin placed on Christ. His righteousness placed on you. Not because you earned it. Not because you were good enough. Because God chose you before the foundation of the world, and then he paid for you with the blood of his own Son.
+
+That is what grace looks like. It's not just God choosing us from the cistern. It's God climbing into it — bearing the filth, bearing the judgment, bearing the curse — and carrying us out.
+
 ---
 
 ### The Baptist Faith and Message on Grace
@@ -103,4 +116,12 @@ If God has done a work in your heart, then you have nothing to worry about. If n
 > And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ.
 > — Philippians 1:6 (ESV)
 
-But all of that starts with being saved in the first place. And that starts with hearing the gospel.
+So what do we do with all of this?
+
+Some of you have never trusted Christ. You've been sitting in a church your whole life — maybe this church, maybe another — and you've been a good person. You've been moral. You've been decent. And you think that's enough. It's not. Your morality cannot save you any more than that kitten's cuteness could get her out of the cistern. You are trapped in your sin, and the only way out is if God reaches down and pulls you out through the blood of his Son. Repent and believe. Today. Don't leave here trusting your own goodness. Trust Christ.
+
+Some of you are believers, and you needed to hear this today because you've been carrying the weight of your salvation on your own shoulders — as if it depends on you. It doesn't. It never did. The God who chose you before the foundation of the world, who sent his Son to die for you, who opened your heart like he opened Lydia's — that God is not going to drop you now. Rest in that. Worship him for it. You contributed nothing but the sin. He did everything else.
+
+And some of you are wondering — am I really saved? Is this real? Listen to me. The fact that you're asking that question is itself evidence of grace. A dead man doesn't wonder if he's alive. The natural man doesn't care about the things of God. That you care — that it matters to you — means he has begun a work in you. And he who began it will be faithful to complete it.
+
+Now go live like people who have been pulled out of the cistern. Not to earn your seat at the table — you already have it. But because the God who saved you is worthy of every step of obedience you can give him. Walk in holiness. Tell someone what he did for you. And give him the glory for all of it — because it was never yours to begin with.
