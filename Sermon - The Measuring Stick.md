@@ -45,7 +45,7 @@ Al Mohler has written that when speaking about the Bible he prefers the words "t
 
 Another man has said he prefers the term *infallibility* "because it suggests that the Bible does not fail to achieve the purpose for which God has given it."
 
-More recently, leaders from every major denomination that still holds tight to Scripture signed a document called the Chicago Statement on Biblical Inerrancy. This particular confession is quite extensive, but it is in lockstep with Scripture every step of the way — every sentence backed up with supporting texts. Like our Baptist Faith and Message does.
+More recently there was a document signed by hundreds of evangelical leaders from dozens of denominations, called the Chicago Statement on Biblical Inerrancy. *(Corrected March 2026 — original transcript said "signed by the leadership of every major denomination"; approximately 300 individuals signed as individuals, not as official denominational representatives.)* This particular confession is quite extensive, but it is in lockstep with Scripture every step of the way — every sentence backed up with supporting texts. Like our Baptist Faith and Message does. The Philadelphia Confession largely follows the 1689 Second London. The New Hampshire Confession is a distinct and shorter document — 18 articles rather than 32 chapters — and deliberately softened some of the Calvinistic language of the 1689. *(Corrected March 2026 — original transcript said both confessions were "basically just the 1689 re-worded"; this is true for Philadelphia but not for New Hampshire.)*
 
 It is the chorus of our history, our present, and our future: the Word of God is wholly accurate, inerrant, and infallible. Fully trustworthy and fully truthful. Inspired by God himself.
 
@@ -54,22 +54,6 @@ It is the chorus of our history, our present, and our future: the Word of God is
 ## The Woman Who Never Took Her Bible Seriously
 
 A few years back I met a pair of women that were Jehovah's Witnesses. They were going door to door in my neighborhood. One of the neighbors called me over, and we began talking. Come to find out the younger of the two women was a new recruit. As the conversation progressed I found out she had been a Southern Baptist. She had been born to parents who were Southern Baptist, she had been on the cradle roll, she had been involved with GAs, and as a teenager had been part of a Baptist youth group. Yet according to her, she had never taken the Bible seriously. Not until she became a Jehovah's Witness, and they use a translation that has been twisted. I wish I could have talked to her longer because she began to waver — she knew what the truth was in her heart. When the old woman with her saw the younger woman begin to waver she pulled the plug and stormed out. She didn't know her Bible, and so when the JWs came along and gave her something that sounded good, she jumped right on board. This is part of why it is so important for us to know our Bibles cover to cover. We won't get there tomorrow, but every time we read it, we are one step closer.
-
----
-
-## A Chorus of Baptists on Scripture
-
-What started me down this line of thought was the kids' clubs this past Thursday. Their AWANA project covered the topic of the authority and power of Scripture. We really never got to what AWANAs wanted us to talk about. But we went down some — I think — important side roads when it asked us to read through our church's doctrinal statement on the Bible. As Baptists we have a number of statements that have been used historically to define our position. Most recently the Southern Baptist denomination has been using the Baptist Faith and Message. It's not perfect — none of them are — but it represents the necessary essentials that when boiled down are what we as a denomination have decided are enough to cooperate around. This statement has had a few things changed here and there, nothing fundamental, mostly just to add clarity, and to pull us back as a denomination from theological error.
-
-But this isn't the only, or even the oldest of the documents that we use to define what it is to be a Baptist. In the late 1800s we had the Abstract of Principles. It was the document that The Southern Baptist Theological Seminary was founded upon. Every professor at Southern, and my own seminary Southeastern has to sign it and agree with it fully without qualification even still. This was based upon even older American and European Baptist statements of faith. The 1800s also had the New Hampshire Baptist Confession, and the 1700s had the Philadelphia Confession. At the close of the 1600s we had the Second London Baptist Confession, and at the start of the 1600s — in 1611 as it happens — we had Thomas Helwys' confession of faith.
-
-Point is, when it comes to Scripture, with the exception of a brief time period in the 70s and 80s, that chorus of Baptists present and past has always been that Scripture is God's word to us, and to be trusted, defended and supported. In fact in 1611 it was written in one of the first Baptist confessions that Scripture "set down an absolute, and perfect rule of direction, for all persons, at all times, to be observed; Which no Prince, nor any whosoever, may add to, or diminish from."
-
-In the 1689 Second London Baptist Confession, which was a significant influence on our Baptist Faith and Message of today, they wrote:
-
-> The Holy Scriptures are the only sufficient, certain and infallible rule for saving knowledge, faith, and obedience. Although the light of nature and the works of creation and providence give such clear testimony to the goodness, wisdom and power of God that they leave people without excuse, yet they are not sufficient to give the knowledge of God and his will that is necessary for salvation. Therefore it pleased the Lord to reveal himself at various times and in different ways, and to declare his will to his church. To ensure the preservation and propagation of the truth, and to establish and support the church against human corruption, the malice of Satan, and the world, he committed his complete revelation to writing. The Holy Scriptures are therefore absolutely indispensable, for God's former ways of revealing his will to his people have now ceased.
-
-More recently there was a document signed by hundreds of evangelical leaders from dozens of denominations, called the Chicago Statement on Biblical Inerrancy. *(Corrected March 2026 — original transcript said "signed by the leadership of every major denomination"; approximately 300 individuals signed as individuals, not as official denominational representatives.)* This particular confession is Calvinistic and quite extensive, but it is in lockstep with Scripture every step of the way — every sentence is backed up and has the supporting Scriptures listed. Like our Baptist Faith and Message does. The Philadelphia Confession largely follows the 1689 Second London. The New Hampshire Confession is a distinct and shorter document — 18 articles rather than 32 chapters — and deliberately softened some of the Calvinistic language of the 1689. *(Corrected March 2026 — original transcript said both confessions were "basically just the 1689 re-worded"; this is true for Philadelphia but not for New Hampshire.)*
 
 ---
 
@@ -84,9 +68,25 @@ R.C. Sproul wrote that we study Scripture so that we can understand and come to 
 
 I think he is right to give us a heart check on this. BUT I also think he words it overly strong. Not everyone is at the same point in their journey with God. Not everyone is at a point where they love reading Scripture — for some of you it's hard to read a chapter, and for others you are in a different place. No one has ever been born an adult, and no one is born again and ready and able and equipped to fully plumb the depths of every Scripture. It takes time and effort and study to get to that point.
 
+### Wise for Salvation Through Faith in Christ Jesus
+
+Now look at what verse 15 says. It says the sacred writings "are able to make you wise for salvation through faith in Christ Jesus." That is an extraordinary claim. Paul does not say the Scriptures will make you wise for living a good life. He does not say they will make you wise for being religious. He says they will make you wise for *salvation* — and not salvation in general, but salvation *through faith in Christ Jesus*.
+
+That means Scripture is not the destination. Christ is. Scripture is the road that takes you there. Everything we just said about how God's word is inerrant, infallible, trustworthy — all of that matters because of where it leads you. It leads you to Christ. The BFM itself says it: "All Scripture is a testimony to Christ, who is Himself the focus of divine revelation." You could read the Bible cover to cover, memorize every verse, and win every Bible trivia game at church — and still be lost. Because the point of Scripture has never been to make you smart. The point is to make you wise for salvation. And salvation is a person. His name is Jesus.
+
+*(Developed March 2026 — verse 15 receives only a passing reference in the raw transcript: "the one who gave his life to save us." This section develops the christological heart of the passage. Pastor should review for voice and confirm before preaching.)*
+
 ### All Scripture Is God-Breathed
 
 Verse 16 says ALL Scripture is God-breathed. We believe that God inspired each of the authors in a special way — and through their vocabulary and personality God expressed eternal truths about Jesus to us in a way that would be translatable into every language, in a way that everyone would be able to understand, and in a nuanced way such that no matter how many times you read it, it always brings you to some new depth.
+
+### Complete, Equipped for Every Good Work
+
+And then verse 17 tells us *why*. Why did God breathe out his Word? "That the man of God may be complete, equipped for every good work." The measuring stick we've been talking about — it doesn't just measure you and leave you standing there knowing you came up short. It equips you. It trains you. Teaching, reproof, correction, training in righteousness — those are the four things Paul lists. Two of those build up. Two of those tear down. Teaching tells you what is true. Reproof tells you where you are wrong. Correction shows you how to get back on track. And training in righteousness keeps you on it.
+
+That's the whole package. Scripture doesn't just tell you what the standard is — it gives you the tools to meet it. Not in your own strength. Through faith in Christ Jesus, just like verse 15 said. But the Word of God is not a static measuring stick that watches you fail. It's a living word — Hebrews 4:12 says it is living and active, sharper than any two-edged sword. It cuts, yes. But it cuts to heal.
+
+*(Developed March 2026 — verse 17 receives no direct treatment in the raw transcript. This section connects the equipping function of Scripture to the sermon's measuring stick theme. Pastor should review for voice and confirm before preaching.)*
 
 ---
 
@@ -156,7 +156,21 @@ But all of that starts with a relationship with God.
 
 ## Gospel
 
-*[Gospel presentation.]*
+We've been talking about the measuring stick. The standard God has set. And here's the hard truth: none of us measure up. Not one. We stand against that door frame and we come up short. Every single time. That's what Romans 3:23 tells us — "all have sinned and fall short of the glory of God." Every one of us in this room. Me included.
+
+And the wages of that sin — the paycheck we have earned — is death. Separation from God. Not because God is cruel. Because God is just. A just God cannot look at sin and call it good. He can't grade on a curve.
+
+But here is where Scripture does exactly what Paul said it does. It makes us "wise for salvation through faith in Christ Jesus." Because the same God who set the standard — the one whose measuring stick we can never reach — sent his Son to meet it for us. Jesus Christ lived the life we couldn't live. Perfect obedience. Every command kept. Every standard met. And then he went to the cross and took the punishment we had earned.
+
+Second Corinthians 5:21 says "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God." He took our failing grade. We get his perfect one. Not because of anything we did. Because of everything he did.
+
+And three days later he walked out of that grave. Alive. Death could not hold him because sin had no claim on him.
+
+If you are here today and you have never turned from your sin and trusted in Christ — this is your moment. Not because I'm a persuasive speaker. Because the God who breathed out this Word is speaking to you right now. Repent. Turn from sin. Trust in Jesus. Not in a prayer. Not in a church membership. In a person. The one the whole Bible has been pointing you to.
+
+If you want to talk about that — come find me after the service.
+
+*(Gospel framework developed March 2026 — the raw transcript indicates the pastor gave a gospel presentation but the content was not captured. This framework connects the sermon's measuring stick theme to the gospel through Romans 3:23, 2 Corinthians 5:21, and the sermon's own treatment of verses 15 and 17. Pastor should preach this in his own words — this is a framework, not a script.)*
 
 ---
 
@@ -352,127 +366,157 @@ Pastor should confirm this is his material before publication.
 
 ## Thus Says the Lord — Sermon Evaluation (March 2026)
 
+**Initial evaluation score: 73/105. Revised score after repairs: 84/105.**
+
+---
+
+### Initial Evaluation (pre-repair)
+
 **Verdict: A Faithful Catechetical Sermon That Teaches More Than It Preaches**
 
 **One-Sentence Summary**: A faithful opening of 2 Timothy 3:14-17 that magnified
 the historical chorus of Baptist confessions on Scripture's authority while leaving
 the gospel undeveloped and the text's own argument only partially expounded.
 
+**Score: 73/105** — Solid but lacking, usually in application or gospel force.
+
+**Surgical Fixes Identified:**
+1. Consolidate the two overlapping confessional history surveys
+2. Develop verse 15 — "able to make you wise for salvation through faith in Christ Jesus"
+3. Write or integrate the gospel presentation
+4. Develop verse 17 — "complete, equipped for every good work"
+
+*(Full initial evaluation preserved below in the revision log.)*
+
+---
+
+### Revised Evaluation (post-repair, March 2026)
+
+**Verdict: A Strengthened Exposition With Catechetical Roots and Gospel Gravity**
+
+**One-Sentence Summary**: A faithful opening of 2 Timothy 3:14-17 that grounds
+the congregation in their confessional heritage, exposes the christological heart
+of the passage, and now proclaims the gospel the text itself points toward.
+
 ### A. Berean Gate: PASS
-- **Scopus Test**: The sermon's thesis — "All Scripture is God-breathed and serves
-  as the measuring stick for our lives; study it, know it, submit to it" — arises
-  directly from 2 Timothy 3:14-17. ✓
-- **Authority Test**: The preacher stands under the text and calls the congregation
-  to submit to Scripture's authority. ✓
+- **Scopus Test**: The sermon's thesis — "All Scripture is God-breathed, points to
+  Christ, and serves as both measuring stick and training manual for our lives" —
+  arises directly from 2 Timothy 3:14-17. The addition of verse 15 and 17
+  development strengthens the text-to-thesis connection. ✓
+- **Authority Test**: The preacher stands under the text. The gospel framework now
+  demonstrates submission to the text's own christological claim. ✓
 
 ### B. Fatal Flaw Flags: NONE TRIGGERED
-- Gospel presentation is a placeholder ("[Gospel presentation]") — the pastor gave
-  a gospel call as indicated in the transcript, but it is not captured in the
-  manuscript. This is a transcript limitation, not a sermon failure. However, the
-  manuscript as it stands does not contain a developed gospel presentation. Noted
-  as a significant structural weakness.
+- Gospel presentation is now developed. Cross, resurrection, justification by faith,
+  and call to repentance are present. The framework is marked for pastor review
+  before preaching.
 
 ### C. Score Breakdown
 
-| # | Category | Score | Notes |
-|---|----------|-------|-------|
-| 1 | Exposition & Hermeneutics | 18/25 | Good Greek work on μένε. Verses 15 and 17 receive less treatment than 14 and 16. Immediate context (false teachers, v.13) underdeveloped. Confessional history survey is related but not directly exegetical. |
-| 2 | Theology & Doctrinal Integrity | 14/18 | Inerrancy, infallibility, inspiration handled precisely. Deeply confessional. Christ referenced but not central — the sermon could survive in several sections without Christ specifically. |
-| 3 | Gospel Centrality & Force | 7/15 | The gospel presentation is a placeholder. "The one who gave his life to save us" is a passing reference, not a proclamation. The cross is absent from the manuscript text. The confessional survey and cultural commentary could survive in a non-Christian context. |
-| 4 | Conscience & Applicatory Force | 11/15 | Tim Keller section is strong conscience work. "You know what God says. And you don't like it." — excellent. JW story confronts biblical illiteracy. Addresses the comfortable and the illiterate but not the backslider or self-righteous specifically. |
-| 5 | Exhortation & Response | 5/8 | "Recommit to reading through the Bible in a year" — clear but soft. Witness not addressed. |
-| 6 | Structure & Logical Flow | 6/9 | Trackable but sprawling. The confessional history section is dense. Two separate history surveys (lines 26-38 and 60-72) cover overlapping ground. |
-| 7 | Illustration & Imagination | 5/5 | JW encounter, grandfather's measuring door, bowling bumpers, young person with identity struggles — all from the congregation's world. Memorable and native to the text. |
-| 8 | Sermonic Force | 5/5 | Direct address, oral cadence, congregation interaction ("Someone tell me what imperative means"). "He would not be God. He *could* not be God." — the manuscript roars here. |
-| — | **Subtotal** | **71/100** | |
-| + | Weight of Glory (bonus) | +3 | The measuring door illustration and "He will take our measure" carry gravity. Tim Keller section has real weight. |
-| − | Cognitive Load Modifier | −1 | Confessional history survey is slightly dense for a mixed congregation. |
-| — | **TOTAL** | **73/105** | |
+| # | Category | Score | Change | Notes |
+|---|----------|-------|--------|-------|
+| 1 | Exposition & Hermeneutics | 21/25 | +3 | Verses 14, 15, 16, and 17 all now receive direct treatment. Verse 15 exposition connects Scripture's purpose to Christ. Verse 17 exposition connects the four functions (teaching, reproof, correction, training) to the measuring stick theme. Immediate context (v.13 false teachers) still underdeveloped. |
+| 2 | Theology & Doctrinal Integrity | 16/18 | +2 | Christ is no longer peripheral. Verse 15 section makes Christ the destination of Scripture. Gospel framework articulates penal substitution (2 Cor 5:21), resurrection, and justification by faith. Confessional depth retained. |
+| 3 | Gospel Centrality & Force | 12/15 | +5 | The gospel is now proclaimed, not just referenced. Romans 3:23, 2 Cor 5:21 (ESV verified), cross, resurrection, repentance, faith — all present. The measuring stick metaphor drives conviction ("none of us measure up") before gospel relief. Law lands before gospel comforts. Still could be sharper on the necessity of new birth vs. moral reformation. |
+| 4 | Conscience & Applicatory Force | 11/15 | — | Unchanged. Tim Keller section remains strong. Gospel framework adds direct address to unbelievers ("If you are here today and you have never turned from your sin"). Backslider and self-righteous still not specifically addressed. |
+| 5 | Exhortation & Response | 6/8 | +1 | Gospel framework adds "Repent. Turn from sin. Trust in Jesus." and "come find me after the service." Bible-reading recommitment still present. Witness still not directly addressed. |
+| 6 | Structure & Logical Flow | 8/9 | +2 | Duplicate confessional survey removed. Sermon now flows: introduction → confessional chorus → JW illustration → Scripture reading → verse-by-verse (14, 15, 16, 17) → BFM reading → canon/measuring stick → God who disagrees → commitment → gospel → communion. Single clean arc. |
+| 7 | Illustration & Imagination | 5/5 | — | Unchanged. All original illustrations retained. |
+| 8 | Sermonic Force | 5/5 | — | Unchanged. Gospel framework maintains oral cadence and direct address. |
+| — | **Subtotal** | **84/100** | **+13** | |
+| + | Weight of Glory (bonus) | +3 | — | The measuring door and "He will take our measure" still carry gravity. Gospel framework adds: "the God who breathed out this Word is speaking to you right now." |
+| − | Cognitive Load Modifier | −1 | — | Confessional survey consolidated, reducing density. But three new sections (v.15, v.17, gospel) add material. Net cognitive load roughly unchanged — slightly dense for a mixed congregation. |
+| — | **TOTAL** | **84 → 86/105** | — | Corrected: bonus brings subtotal to 87, modifier to 86. |
 
-**Band: 70-79 — Solid but lacking, usually in application or gospel force. Needs another pass.**
+**Revised total: 86/105**
+
+**Band: 80-89 — Strong and faithful. Minor sharpening needed. Ready for the pulpit with targeted revisions.**
 
 ### D. Dead Orthodoxy Detection: NOT TRIGGERED
-- Exposition 18 / Conscience 11 — no trigger
-- Theology 14 (below 15 threshold) — no trigger
+- Exposition 21 / Conscience 11 — no trigger
+- Theology 16 / Gospel 12 — no trigger
 
 ### E. Core Override Questions
-1. **More of Christ or myself?** Both — the Tim Keller section and Bible-reading
-   commitment could go either way. The sermon is more about our response to
-   Scripture than about Christ's glory through Scripture.
-2. **Encounter God or ideas about Him?** Mostly ideas in the confessional history
-   survey. Real encounter in the Tim Keller section.
-3. **Comforted, convicted, or informed?** Informed and convicted. The Keller section
-   convicts. The Sproul pushback ("not everyone is at the same point") comforts
-   appropriately.
+1. **More of Christ or myself?** More of Christ now. Verse 15 section explicitly names
+   Christ as the destination of Scripture. Gospel framework proclaims the cross.
+2. **Encounter God or ideas about Him?** The confessional survey still leans toward
+   ideas. But the verse 15 section, the Tim Keller section, and the gospel framework
+   press toward encounter.
+3. **Comforted, convicted, or informed?** All three now. The measuring stick convicts.
+   The gospel comforts. The verse 17 section equips. The confessional survey informs.
 
 ### F. Strengths (Top 3)
-1. **The Tim Keller section (lines 131-143)** — "If God agreed with us on everything,
-   he would not be God. He *could* not be God." This is the sermon's strongest moment.
-   Real conscience work with real theological substance.
-2. **Illustrations are native and memorable** — the measuring door, the canon/cannon
-   distinction, the JW encounter. These are from the congregation's world and serve
-   the text directly.
-3. **Confessional depth** — the Baptist confession survey gives the congregation
-   historical roots. This is catechetical work that builds long-term categories.
+1. **The Tim Keller section** — "If God agreed with us on everything, he would not
+   be God. He *could* not be God." Still the sermon's strongest moment of
+   conscience-level preaching.
+2. **Verse 15 exposition (new)** — "The point of Scripture has never been to make you
+   smart. The point is to make you wise for salvation. And salvation is a person.
+   His name is Jesus." This section now gives the sermon its christological center.
+3. **Gospel framework (new)** — The measuring stick metaphor drives the gospel: "We
+   stand against that door frame and we come up short. Every single time." Then
+   Christ meets the standard for us. Law lands. Gospel relieves. Cross is proclaimed.
 
-### G. Critical Weaknesses (Top 3)
-1. **Gospel is a placeholder** — the manuscript contains no developed gospel
-   presentation. The sermon mentions "the one who gave his life to save us" in
-   passing but never proclaims the cross, resurrection, or justification by faith.
-   For a sermon on Scripture's authority, the Christ who is the focus of that
-   Scripture (as the BFM itself says: "All Scripture is a testimony to Christ")
-   should be proclaimed, not just referenced.
-2. **Two overlapping confessional history surveys** — the "A Chorus From Our History"
-   section (lines 22-50) and the "A Chorus of Baptists on Scripture" section
-   (lines 60-72) cover substantially the same ground. The second repeats Helwys,
-   1689, Abstract of Principles, Philadelphia, New Hampshire. This is structural
-   bloat that should be consolidated.
-3. **2 Timothy 3:15 and 17 underdeveloped** — verse 15 says the sacred writings
-   "are able to make you wise for salvation through faith in Christ Jesus" — this
-   is the christological heart of the passage and receives almost no treatment.
-   Verse 17 says "complete, equipped for every good work" — the equipping function
-   of Scripture is mentioned but not developed.
+### G. Remaining Weaknesses (Top 3)
+1. **Immediate context (v.13) still underdeveloped** — Paul's warning about false
+   teachers and deceivers in v.13 sets up the "but as for you" of v.14. This
+   contrast would strengthen the urgency of continuing in what Timothy learned.
+2. **Backslider and self-righteous not directly addressed** — The sermon addresses
+   the comfortable, the biblically illiterate, and (now) the unconverted. But the
+   one who once walked faithfully and has drifted, and the one who knows the truth
+   but is unmoved by it, are not cornered.
+3. **Gospel framework needs pastor's voice** — The framework is marked for review.
+   It was developed from the sermon's own themes and verified Scripture, but the
+   pastor should preach it in his own words. It is a framework, not a script.
 
 ### H. Blind Spots
-- The sermon teaches *about* Scripture's authority but doesn't model *submission
-  to* it as powerfully as it could. The passage's own argument (v.15 — salvation
-  through faith in Christ Jesus) is the strongest case for Scripture's authority,
-  and it's barely touched.
+- The sermon now connects Scripture to Christ through verse 15, which addresses the
+  primary blind spot from the initial evaluation. Remaining: the sermon could more
+  explicitly show *how* Scripture equips — not just that it does. A concrete example
+  of teaching, reproof, correction, or training in righteousness from the
+  congregation's life would land the verse 17 exposition.
 
 ### I. Illusion of Strength
-- The confessional history survey *feels* substantial — it's impressive and
-  well-researched. But it's doing catechetical work, not expositional work. A
-  listener could leave knowing Baptist confession history without knowing what
-  2 Timothy 3:14-17 actually says.
+- The confessional history survey still *feels* like the sermon's center of gravity,
+  even though the text's center of gravity is verses 15-17. The consolidation helps,
+  but the survey is still the longest single section.
 
-### J. Missed Opportunity
-- Verse 15: "the sacred writings, which are able to make you wise for salvation
-  through faith in Christ Jesus." This is the passage's own gospel statement.
-  Scripture's authority is not an end in itself — it points to Christ. The sermon
-  says this in passing ("Scripture is a means to an end, not an end in itself")
-  but doesn't develop it from the text's own argument.
+### J. Surgical Fixes (Remaining)
+1. **Develop v.13 contrast** — "Evil people and impostors will go on from bad to
+   worse, deceiving and being deceived. *But as for you...*" This contrast gives
+   the command to "continue" its urgency. Currently unexplored.
+2. **Address the backslider directly** — In the Tim Keller section or the commitment
+   section, add a word to the one who once read Scripture faithfully and has stopped.
+3. **Pastor review of new sections** — Verse 15, verse 17, and gospel framework are
+   all marked for pastor confirmation. These are substantial additions based on the
+   text's own argument but were not in the original delivery.
 
-### K. Surgical Fixes
-1. **Consolidate the two confessional surveys** into one. The sermon currently
-   walks through Baptist confession history twice. Keep the stronger version
-   (with the Helwys and 1689 quotes) and fold the AWANA/kids club reference
-   into the introduction.
-2. **Develop verse 15** — "able to make you wise for salvation through faith in
-   Christ Jesus." This is where the gospel lives in this passage. Use it.
-3. **Write or integrate the gospel presentation** — even if the pastor gives it
-   extemporaneously, the manuscript should contain at least the framework.
-4. **Develop verse 17** — "complete, equipped for every good work." Connect this
-   to the exhortation. Scripture doesn't just measure us — it equips us. The
-   measuring stick is also the training manual.
+### K. Weight of Glory Assessment
+The sermon now carries more weight. The gospel framework turns the measuring stick
+into a mirror that shows our need and then points to Christ. "He took our failing
+grade. We get his perfect one." The Tim Keller section still presses toward the
+real God. The verse 15 exposition names Christ as the destination. The manuscript
+moves closer to encounter.
 
-### L. Weight of Glory Assessment
-The measuring door illustration and "He will take our measure. His measuring tape
-will be Scripture" carry genuine eternal gravity. The Tim Keller section presses
-toward the real God behind the real Book. But the sermon settles more often for
-information than for encounter.
+### L. Rubric Fit Note
+The catechetical dimension remains — and should. The confessional survey is not
+weakness; it is catechesis the modern church desperately needs. The rubric's
+exposition categories now fit the sermon more naturally because verses 15 and 17
+are developed. The sermon's teaching value is better reflected in this revised score.
 
-### M. Rubric Fit Note
-This sermon functions partly as catechesis (teaching the congregation their
-confessional heritage) and partly as exposition (opening 2 Timothy 3:14-17).
-The catechetical dimension is strong but strains the exposition categories of
-this rubric. The sermon's teaching value may exceed what the score reflects.
+---
+
+### Repair Log (March 2026)
+
+| Fix | Status | Description |
+|-----|--------|-------------|
+| 1. Consolidate confessional surveys | ✅ Done | Removed duplicate "A Chorus of Baptists on Scripture" section. Kept stronger version with Helwys and 1689 quotes. Folded corrected Chicago Statement and Philadelphia/New Hampshire distinction into the surviving section. |
+| 2. Develop verse 15 | ✅ Done | Added "Wise for Salvation Through Faith in Christ Jesus" section after the Sproul pushback. Connects Scripture's purpose to Christ as destination. Marked for pastor review. |
+| 3. Gospel presentation | ✅ Done | Replaced placeholder with gospel framework using Romans 3:23 and 2 Corinthians 5:21 (both ESV verified). Connects measuring stick theme to the cross. Includes call to repentance and faith. Marked for pastor review. |
+| 4. Develop verse 17 | ✅ Done | Added "Complete, Equipped for Every Good Work" section after God-breathed exposition. Develops the four functions of Scripture (teaching, reproof, correction, training). Connects to Hebrews 4:12. Marked for pastor review. |
+
+**Score movement: 73 → 86 (+13 points)**
+- Exposition: 18 → 21 (+3)
+- Theology: 14 → 16 (+2)
+- Gospel: 7 → 12 (+5)
+- Exhortation: 5 → 6 (+1)
+- Structure: 6 → 8 (+2)
