@@ -62,6 +62,12 @@ A few years back I met a pair of women that were Jehovah's Witnesses. They were 
 > But as for you, continue in what you have learned and have firmly believed, knowing from whom you learned it and how from childhood you have been acquainted with the sacred writings, which are able to make you wise for salvation through faith in Christ Jesus. All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work.
 > — 2 Timothy 3:14-17 (ESV)
 
+Now before we get into verse 14, look at what comes right before it. Verse 13: "while evil people and impostors will go on from bad to worse, deceiving and being deceived." That's the context. Paul is telling Timothy — the world around you is going to get worse. People who claim to speak for God are going to deceive others and be deceived themselves. And then he says those three words: "*But as for you.*"
+
+That contrast matters. Paul doesn't say "but as for you, don't worry about it." He says "but as for you, *continue*." The world is going from bad to worse — you stay anchored. Deceivers are multiplying — you hold to what you've learned. That woman I told you about — the one who left a Baptist church for the Jehovah's Witnesses — she is verse 13. She was deceived because she didn't know her Bible. The command in verse 14 exists because of the danger in verse 13. If there were no false teachers, there would be no urgency to continue.
+
+*(Developed March 2026 — verse 13 context is not treated in the raw transcript. This section establishes the contrast that gives verse 14's command its urgency. Pastor should review for voice and confirm before preaching.)*
+
 It says we should continue in what we have learned. The verbs always add interesting tidbits, and this one is no different. In the Greek it is present active imperative. Someone tell me what imperative means — anyone? Right, exactly — a command. So we are to start right now, and continue without stopping to obey the command that follows. Continue acting in accordance with what Paul — and we can include the disciples in there also — have taught. Today, how do we know what Paul and the disciples taught? Exactly, by reading Scripture! How can we continue in what we have learned without having learned it to start with? The study of Scripture is implicitly commanded here.
 
 R.C. Sproul wrote that we study Scripture so that we can understand and come to know God. So that we can meet the true and living God in his Word and deepen our personal relationship with Him. But we cannot deepen a relationship with someone if we do not get to know them. So Scripture is a means to an end, and not an end in itself. Through Scripture we can come to better know the one who gave his life to save us. In another place he says something to the effect of "how can we claim to love God if we don't love his Word?"
@@ -149,6 +155,10 @@ Some of you in this room are wrestling with exactly this. You know what God says
 I know a lot of you committed to reading through the Bible in a year with us. I won't ask for a show of hands — but how many have mostly kept to your word to do so?
 
 We will finish our year-long process here in the next couple months, and I want to recommit as a church to reading through the Bible in a year. If you didn't make it last year, that's OK, let's try again. If you did, you're in for a double blessing because the second time through you find greater depths, your soul is more deeply anchored in times of trouble. You have greater instant access to the things the Prince of Peace has told us about himself.
+
+And some of you — I need to talk to you for a moment. You used to be in this Book. You used to read it. You used to love it. And somewhere along the way you stopped. Maybe it was a season of pain and you felt like God went silent. Maybe life just got busy and the Bible got pushed to the nightstand and then to the shelf. Maybe you sinned, and you didn't want to open a Book that would confront you about it. I'm not here to shame you. I'm here to tell you what Paul told Timothy: *continue*. That's a present imperative — start now and don't stop. You don't have to earn your way back into God's Word. You just have to open it. He's been waiting for you in there the whole time.
+
+*(Developed March 2026 — addresses the backslider directly, a category identified by the TSTL evaluation as unaddressed. Grounded in the sermon's own treatment of the present active imperative in verse 14. Pastor should review for voice and confirm before preaching.)*
 
 But all of that starts with a relationship with God.
 
@@ -366,7 +376,7 @@ Pastor should confirm this is his material before publication.
 
 ## Thus Says the Lord — Sermon Evaluation (March 2026)
 
-**Initial evaluation score: 73/105. Revised score after repairs: 84/105.**
+**Initial evaluation score: 73/105. Revised score after all repairs: 89/105.**
 
 ---
 
@@ -415,20 +425,20 @@ of the passage, and now proclaims the gospel the text itself points toward.
 
 | # | Category | Score | Change | Notes |
 |---|----------|-------|--------|-------|
-| 1 | Exposition & Hermeneutics | 21/25 | +3 | Verses 14, 15, 16, and 17 all now receive direct treatment. Verse 15 exposition connects Scripture's purpose to Christ. Verse 17 exposition connects the four functions (teaching, reproof, correction, training) to the measuring stick theme. Immediate context (v.13 false teachers) still underdeveloped. |
+| 1 | Exposition & Hermeneutics | 23/25 | +5 | Verses 13, 14, 15, 16, and 17 all now receive direct treatment. Verse 13 contrast establishes urgency. Verse 15 exposition connects Scripture's purpose to Christ. Verse 17 exposition connects the four functions (teaching, reproof, correction, training) to the measuring stick theme. The JW illustration is now explicitly connected to the v.13 warning. |
 | 2 | Theology & Doctrinal Integrity | 16/18 | +2 | Christ is no longer peripheral. Verse 15 section makes Christ the destination of Scripture. Gospel framework articulates penal substitution (2 Cor 5:21), resurrection, and justification by faith. Confessional depth retained. |
 | 3 | Gospel Centrality & Force | 12/15 | +5 | The gospel is now proclaimed, not just referenced. Romans 3:23, 2 Cor 5:21 (ESV verified), cross, resurrection, repentance, faith — all present. The measuring stick metaphor drives conviction ("none of us measure up") before gospel relief. Law lands before gospel comforts. Still could be sharper on the necessity of new birth vs. moral reformation. |
-| 4 | Conscience & Applicatory Force | 11/15 | — | Unchanged. Tim Keller section remains strong. Gospel framework adds direct address to unbelievers ("If you are here today and you have never turned from your sin"). Backslider and self-righteous still not specifically addressed. |
+| 4 | Conscience & Applicatory Force | 13/15 | +2 | Tim Keller section remains strong. Gospel framework addresses the unconverted. Backslider now directly addressed in the Commitment section: "You used to be in this Book... somewhere along the way you stopped." Addresses pain, busyness, and unconfronted sin as reasons for drift. Self-righteous still not cornered specifically. |
 | 5 | Exhortation & Response | 6/8 | +1 | Gospel framework adds "Repent. Turn from sin. Trust in Jesus." and "come find me after the service." Bible-reading recommitment still present. Witness still not directly addressed. |
 | 6 | Structure & Logical Flow | 8/9 | +2 | Duplicate confessional survey removed. Sermon now flows: introduction → confessional chorus → JW illustration → Scripture reading → verse-by-verse (14, 15, 16, 17) → BFM reading → canon/measuring stick → God who disagrees → commitment → gospel → communion. Single clean arc. |
 | 7 | Illustration & Imagination | 5/5 | — | Unchanged. All original illustrations retained. |
 | 8 | Sermonic Force | 5/5 | — | Unchanged. Gospel framework maintains oral cadence and direct address. |
-| — | **Subtotal** | **84/100** | **+13** | |
+| — | **Subtotal** | **87/100** | **+16** | |
 | + | Weight of Glory (bonus) | +3 | — | The measuring door and "He will take our measure" still carry gravity. Gospel framework adds: "the God who breathed out this Word is speaking to you right now." |
 | − | Cognitive Load Modifier | −1 | — | Confessional survey consolidated, reducing density. But three new sections (v.15, v.17, gospel) add material. Net cognitive load roughly unchanged — slightly dense for a mixed congregation. |
-| — | **TOTAL** | **84 → 86/105** | — | Corrected: bonus brings subtotal to 87, modifier to 86. |
+| — | **TOTAL** | **89/105** | — | Subtotal 87 + bonus 3 − modifier 1 = 89. |
 
-**Revised total: 86/105**
+**Revised total: 89/105**
 
 **Band: 80-89 — Strong and faithful. Minor sharpening needed. Ready for the pulpit with targeted revisions.**
 
@@ -457,16 +467,16 @@ of the passage, and now proclaims the gospel the text itself points toward.
    Christ meets the standard for us. Law lands. Gospel relieves. Cross is proclaimed.
 
 ### G. Remaining Weaknesses (Top 3)
-1. **Immediate context (v.13) still underdeveloped** — Paul's warning about false
-   teachers and deceivers in v.13 sets up the "but as for you" of v.14. This
-   contrast would strengthen the urgency of continuing in what Timothy learned.
-2. **Backslider and self-righteous not directly addressed** — The sermon addresses
-   the comfortable, the biblically illiterate, and (now) the unconverted. But the
-   one who once walked faithfully and has drifted, and the one who knows the truth
-   but is unmoved by it, are not cornered.
-3. **Gospel framework needs pastor's voice** — The framework is marked for review.
+1. **Self-righteous not directly addressed** — The sermon now addresses the comfortable,
+   the biblically illiterate, the unconverted, and the backslider. But the one who
+   knows the truth and is unmoved by it — who measures others against the standard
+   while exempting himself — is not cornered.
+2. **Gospel framework needs pastor's voice** — The framework is marked for review.
    It was developed from the sermon's own themes and verified Scripture, but the
    pastor should preach it in his own words. It is a framework, not a script.
+3. **Confessional survey length** — The survey remains the longest single section,
+   even though the text's center of gravity is verses 15-17. It earns its place as
+   catechesis, but the pastor should be aware of the proportion.
 
 ### H. Blind Spots
 - The sermon now connects Scripture to Christ through verse 15, which addresses the
@@ -481,14 +491,15 @@ of the passage, and now proclaims the gospel the text itself points toward.
   but the survey is still the longest single section.
 
 ### J. Surgical Fixes (Remaining)
-1. **Develop v.13 contrast** — "Evil people and impostors will go on from bad to
-   worse, deceiving and being deceived. *But as for you...*" This contrast gives
-   the command to "continue" its urgency. Currently unexplored.
-2. **Address the backslider directly** — In the Tim Keller section or the commitment
-   section, add a word to the one who once read Scripture faithfully and has stopped.
-3. **Pastor review of new sections** — Verse 15, verse 17, and gospel framework are
-   all marked for pastor confirmation. These are substantial additions based on the
-   text's own argument but were not in the original delivery.
+1. ✅ **Develop v.13 contrast** — DONE. Added before verse 14 exposition. Connects
+   JW illustration to the v.13 warning. Establishes the urgency behind "but as for you."
+2. ✅ **Address the backslider directly** — DONE. Added in the Commitment section.
+   Addresses pain, busyness, and unconfronted sin as reasons for drift. Ties back to
+   the present imperative of verse 14.
+3. **Pastor review of all new sections** — Verse 13 contrast, verse 15, verse 17,
+   gospel framework, and backslider address are all marked for pastor confirmation.
+   These are substantial additions based on the text's own argument but were not in
+   the original delivery.
 
 ### K. Weight of Glory Assessment
 The sermon now carries more weight. The gospel framework turns the measuring stick
@@ -513,10 +524,14 @@ are developed. The sermon's teaching value is better reflected in this revised s
 | 2. Develop verse 15 | ✅ Done | Added "Wise for Salvation Through Faith in Christ Jesus" section after the Sproul pushback. Connects Scripture's purpose to Christ as destination. Marked for pastor review. |
 | 3. Gospel presentation | ✅ Done | Replaced placeholder with gospel framework using Romans 3:23 and 2 Corinthians 5:21 (both ESV verified). Connects measuring stick theme to the cross. Includes call to repentance and faith. Marked for pastor review. |
 | 4. Develop verse 17 | ✅ Done | Added "Complete, Equipped for Every Good Work" section after God-breathed exposition. Develops the four functions of Scripture (teaching, reproof, correction, training). Connects to Hebrews 4:12. Marked for pastor review. |
+| 5. Develop v.13 contrast | ✅ Done | Added section before verse 14 exposition establishing the false-teacher context. Connects JW illustration to v.13 warning. "But as for you" now has its contrast. Marked for pastor review. |
+| 6. Address backslider directly | ✅ Done | Added direct address in the Commitment section to the one who has drifted from Scripture. Names pain, busyness, and unconfronted sin. Ties back to the present imperative of v.14. Marked for pastor review. |
 
-**Score movement: 73 → 86 (+13 points)**
-- Exposition: 18 → 21 (+3)
+**Score movement: 73 → 89 (+16 points)**
+- Exposition: 18 → 23 (+5)
 - Theology: 14 → 16 (+2)
 - Gospel: 7 → 12 (+5)
+- Conscience: 11 → 13 (+2)
 - Exhortation: 5 → 6 (+1)
 - Structure: 6 → 8 (+2)
+- Bonus: +3, Modifier: −1
