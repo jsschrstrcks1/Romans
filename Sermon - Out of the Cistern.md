@@ -111,7 +111,7 @@ We must be wary to avoid intentionally choosing sin. That can be a sign that we 
 > "The question is not whether you prayed a prayer or asked Jesus into your heart. The question is whether he changed it."
 > — Paul Washer
 
-If God has done a work in your heart, then you have nothing to worry about. If not — if returning to your sin doesn't grieve you — then maybe you have everything to worry about. I will say this though: it's not uncommon for believers to wonder if they are truly saved. Apart from God having begun a work in your heart, you wouldn't be curious. Scripture says to the natural man the things of the Lord are foolishness. That you care whether you're saved or not shows you have an interest in the things of the Lord. That you care shows it's not foolishness to you, and shows he has begun a work in you that he will be faithful to complete.
+If God has done a work in your heart, then you have nothing to worry about. If not — if returning to your sin doesn't grieve you — then you have everything to worry about. I will say this though: it's not uncommon for believers to wonder if they are truly saved. Apart from God having begun a work in your heart, you wouldn't be curious. Scripture says to the natural man the things of the Lord are foolishness. That you care whether you're saved or not shows you have an interest in the things of the Lord. That you care shows it's not foolishness to you, and shows he has begun a work in you that he will be faithful to complete.
 
 > And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ.
 > — Philippians 1:6 (ESV)
