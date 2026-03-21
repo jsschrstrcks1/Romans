@@ -37,3 +37,184 @@ What a marvelous God we serve. That he would come along side us like that, with 
 We give up all we have; all of our Sin, and mess, and rebellion.  But we gain more than we could have ever even dream of earning on our own. We may not be able to please God, but Jesus can. We may not be able to do the work, but Jesus Can. We may fall short, but Jesus didn’t, and Jesus is willing to help us do the work. 
 
 It all starts with the gospel.
+
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Sermon File:** mat 11 - our yoke is easy.md
+**Passage:** Matthew 11:25–30 (Come to me, all who are weary)
+
+---
+
+### 1. Verdict Title
+**Grace in the Yoke — A Rich Gospel Instinct Partially Realized**
+
+---
+
+### 2. One-Sentence Summary
+A warm and theologically earnest sermon on Matthew 11:28–30 that develops the yoke metaphor with genuine creativity and points rightly to Christ's sufficiency, but frequently paraphrases David Platt without attribution, leaves the gospel announced rather than fully proclaimed, and substitutes a collection of connected analogies for a sustained expository argument.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: PASS**
+The main point of the sermon — Christ invites the weary to yoke themselves to him, surrendering both sin and the inability to obey, finding rest and training in him — arises from Matthew 11:28–30. The ox metaphor is the governing image, and it is developed from the text's own language ("take my yoke," "learn from me"). The sermon's thesis is text-governed.
+
+**Authority Test: PASS**
+The preacher submits to the text. The hard edges of human inability ("complete and utter inability to obey God") are not softened. The anti-legalism argument is careful and appropriately nuanced — the preacher explicitly guards against antinomianism ("I don't want you to hear the sermon and go away thinking any sin is ok").
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 1 — No clear gospel presentation (TRIGGERED):**
+The sermon says "It all starts with the gospel" as its final sentence. But the gospel is never proclaimed. The content of the gospel — the death of Christ for sin, the resurrection, justification by faith — is referenced in the David Platt paraphrase and touched in passing ("after emptying himself of parts of his deity... born in a feed trough... killed for it... resurrecting three days later, he yokes himself to us") but is not a sustained proclamation. An unbeliever would understand that Christ is needed and that something important happened, but not what it was or how to receive it.
+
+**Score cap at 69 triggered.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 16/25**
+- *Textual Fidelity (7/10):* The sermon returns to the yoke image throughout and draws meaningfully from v.29 ("learn from me"). The note that "learn" in v.29 basically means "learn to be my disciple" is a solid exegetical observation. The ox illustration is native to the text's own imagery and developed creatively. However, vv.25–27 (the Christological declaration about the Father and Son) receive no treatment — the sermon starts at v.28 without engaging the context that makes v.28's invitation so significant.
+- *Contextual Awareness (2/5):* The immediate context of Matthew 11:25–27 — Jesus' declaration that all things have been handed over to him by the Father, and that no one knows the Son except the Father — is entirely absent. This is the theological engine of vv.28–30. The invitation to "come to me" is the invitation of the one who has been given all authority. Without vv.25–27, the yoke sermon floats free of its textual foundation.
+- *Exegetical Clarity (4/5):* The halakhah discussion is detailed and illuminating. The connection between the law as burden and Christ as rest is made with clarity. The "beneficial" translation note on "light" (Greek: chrestos) is a genuine exegetical unlock.
+- *Logical Faithfulness (3/5):* No eisegesis. The fishing/oxen/seminary illustrations are analogically connected to the text. However, the FCF is somewhat displaced — the text addresses the exhaustion of the law-burdened, and the sermon addresses this well, but does not name the deeper fallen condition: the human drive to earn righteousness before God.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+- *Christ-Centeredness (5/7):* Christ is the sermon's center. The yoke image is well-developed as a Christ-centered illustration. The Christological compression in the middle of the sermon ("emptying himself of parts of his deity, born in a feed trough, raised by a humble carpenter, lived a perfect life, killed for it, resurrecting three days later") is the closest the sermon comes to a Christological proclamation.
+- *Redemptive-Historical Awareness (2/3):* The contrast between being "under the law" and "under grace" is handled with awareness of redemptive-historical movement. However, the nuance is somewhat imprecise — "they were under the law, not under grace" requires careful handling in Matthew's context, where Jesus is speaking within the old covenant and inaugurating the new.
+- *Doctrinal Precision (3/4):* The anti-legalism argument is handled carefully and accurately. The Calvin "factories of idols" reference and the Edwards "hungry starving naked beggars" image are both used appropriately.
+- *Confessional Alignment (3/4):* No contradiction of confessional theology. The union-with-Christ language ("yoked to Christ") is consistent with the Reformed understanding of the Christian life.
+
+**3. Gospel Centrality & Force — 8/15**
+- *Clarity of the Gospel (2/5):* The gospel is pointed to but not proclaimed. "It all starts with the gospel" is the sermon's last sentence — this is the place where the gospel should begin, not end. The compression of Christ's incarnation, death, and resurrection in one sentence in the body of the sermon is the closest approach to a full gospel statement, but it is embedded in an illustration rather than proclaimed as the news.
+- *Necessity of Christ (4/5):* Christ is essential to the sermon. The yoke illustration requires him. The "little ox" cannot do anything without the "big ox." This dependency is genuine and not decorative.
+- *Cross-Centered Gravity (2/5):* The cross is mentioned (Christ was "killed for it") but the sermon's gravitational center is the ongoing yoke-relationship of discipleship, not the once-for-all act of the cross. The "why can he forgive my sin?" question is never answered.
+
+**4. Conscience & Applicatory Force — 10/15**
+- *Heart Penetration (4/5):* The legalism diagnostic is searching and the anti-"follow your heart" moment (Calvin's "factories of idols") is sharp. The contrast between the two morning routines (prayer/word vs. snooze button) is concrete and honest.
+- *Specificity (3/5):* The two-worker illustration is specific. The anti-legalism application ("the old Baptist rhyme") is specific to the congregation's cultural world. The fishing illustration is warm and personalized.
+- *Spiritual Differentiation (3/5):* The sermon addresses believers struggling with legalism, those beginning the Christian life, and those who have stopped Christianity at "giving Jesus my sin." The hardened, the backslider, and the unbeliever are less specifically addressed.
+
+**5. Exhortation & Response — 4/8**
+- *Call to Response (2/4):* The call is implicit in the last line — "it all starts with the gospel" — but there is no explicit summons to repent, believe, or respond. The sermon is almost entirely indicative ("this is what Christ does") with minimal imperative ("therefore you must...").
+- *Equipping for Holiness & Witness (2/4):* The yoke image equips for sanctification — following Christ's lead, learning from him, depending on him for all godly fruit. But no call to witness, no equipping for the church's outward mission, is present.
+
+**6. Structure & Logical Flow — 7/9**
+- *Clarity of Outline (3/4):* The sermon has a clear three-part movement: law as burden → yoke illustration → "you give him everything." The transitions are announced and followed.
+- *Progression (3/3):* The sermon builds well — from the burden of the law, to the yoke, to the fishing illustration, to the "give up your inability" climax. The progression is the strongest structural feature of this sermon.
+- *Unity (1/2):* The fishing illustration, while well-told, is a secondary analogy that somewhat dilutes the ox/yoke image. Both are good; together they compete slightly.
+
+**7. Illustration & Imagination — 4/5**
+- *Relevance (2/2):* The ox training illustration, the halakhah sabbath loopholes, the two workers, the childhood fishing story — all are concrete and accessible.
+- *Clarity (1/2):* The ox illustration is the clearest and best. The fishing illustration runs slightly long for its contribution.
+- *Memorability (1/1):* "The big ox does all the work, and the little ox learns what has to be done" — this is the kind of image the congregation will carry home and use to explain Christian sanctification.
+
+**8. Sermonic Force — 3/5**
+- *Reads as Preaching (2/2):* Warm, conversational, direct — the manuscript reads as spoken.
+- *Conviction on the Page (1/2):* The David Platt material, presented as direct paraphrase without attribution, reads with sermonic force but is difficult to evaluate because the line between the preacher's voice and Platt's is blurred.
+- *Cadence and Breath (0/1):* The sermon ends weakly — "It all starts with the gospel" as a final sentence is too compressed to carry sermonic weight.
+
+---
+
+### 6. Cognitive Load Modifier: **0**
+The sermon is accessible and well-paced. The three major illustrations (ox, two workers, fishing) are all drawn from simple, everyday experience.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 16/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 8/15 |
+| Conscience & Applicatory Force | 10/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **65/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total (pre-cap)** | **67/100** |
+| **Fatal Flaw Cap Applied** | **67/69 cap** |
+| **Final Score** | **67/100** |
+
+**Interpretation: Concerning gaps — the sermon's gospel instinct is genuine but underdeveloped. With a full gospel proclamation and contextual grounding in vv.25–27, this could reach 80+.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* More of Christ — the yoke illustration keeps him as the active agent. The little ox is helpless without the big one.
+2. *Did I encounter God, or just ideas about Him?* Mostly ideas, warm and well-framed. One moment of encounter: "We are hungry starving naked beggars, being approached by the king, and offered clothes, and food, and family."
+3. *Was I comforted, convicted, or merely informed?* All three at some level. The anti-legalism argument convicts the performance-oriented. The yoke illustration comforts. The sermon informs with appropriate depth.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The ox/yoke illustration is textually native and well-developed.** It arises directly from Matthew 11:29 and is developed with genuine creativity and pastoral warmth. It is the strongest single expository-illustrative moment across this batch.
+2. **The halakhah discussion.** The detail about Sabbath loopholes — setting up camps every few hundred steps to "travel" on the Sabbath while technically complying — is specific, historically grounded, and illuminates the burden of law-keeping with unusual vividness.
+3. **The "complete and utter inability to obey God" emphasis.** Taking the Platt material seriously, the sermon presses an often-glossed point: that the Christian life is not just "give Jesus your sin and then try harder." The extension into discipleship and ongoing dependence is exactly right.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Matthew 11:25–27 is entirely missing.** The invitation "come to me" in v.28 is not floating — it is grounded in the Christological claim of vv.25–27: the one who invites is the one to whom the Father has given all things, and who alone knows the Father. Without this, the yoke sermon lacks its theological foundation. Why come to *this* person? What makes his yoke different from any other rabbi's? The answer is in the context the sermon skips.
+2. **The gospel is named but never proclaimed.** "It all starts with the gospel" is the last sentence. But by the time those words appear, the unbeliever in the room has not been told what the gospel is. The good news must be proclaimed in full — Christ's substitutionary death, resurrection, and the forgiveness available through faith — not referenced as a starting point after the sermon has ended.
+3. **The David Platt material is used extensively without attribution.** Several paragraphs are close paraphrases of Platt's sermon on this text. The congregation cannot evaluate what is the preacher's exposition versus another man's. This is a pastoral integrity concern (see the careful-not-clever rubric). The material should be attributed when used at length.
+
+---
+
+### 11. Blind Spots
+
+The preacher may not see that ending with "it all starts with the gospel" after a sermon on the yoke can create a pastoral inversion: the congregation has been equipped for the ongoing yoke-life of discipleship before they have been offered the gospel that makes the yoke possible. The sequence should be: gospel proclamation → yoke invitation. As structured, the whole sermon is the discipleship call, and the gospel is an afterthought. For the unbeliever, this is disorienting. For the legalist, this can reinforce effort rather than faith.
+
+---
+
+### 12. Illusion of Strength
+
+The detailed halakhah material and the Platt paraphrase give the sermon an impression of deep research and theological substance. But the absence of Matthew 11:25–27 means the sermon's theological claim ("Christ's yoke is easy") is not grounded in the text's own reason for why that is true. It is asserted rather than demonstrated from the passage.
+
+---
+
+### 13. Missed Opportunity
+
+Matthew 11:27 — "No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him" — is the most extraordinary claim in the passage. It is the reason the invitation of v.28 is not merely a rabbi's self-promotion: the one who invites is the only one who knows the Father, and he reveals the Father to whoever he chooses. The yoke is easy not merely because the big ox is strong — but because the big ox is the Son of God, and in the yoke you learn to know the Father from the only one who knows him. That is the sermon's theological center, and it was missed.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Begin the exposition at v.25, not v.28.** Three to four minutes on vv.25–27 establishes why Christ's invitation is different from every other burden-bearer's offer. The invitation is from the Son who alone knows the Father.
+2. **Proclaim the gospel fully before the yoke illustration.** Before the little-ox-and-big-ox section, spend 4–5 minutes on the cross: why did the big ox have to die? What does his resurrection mean? Why is yoked-to-him better than free? This is the news that makes the invitation make sense.
+3. **Attribute the Platt material clearly.** "David Platt puts it this way..." wherever his material is used at length. This serves both integrity and the congregation's theological formation.
+4. **End with an exhortation, not a reference.** Replace "It all starts with the gospel" with a clear summons: "Come. This is not an analogy. This is an invitation. Come to him with your sin, your exhaustion, your inability to obey, your failed righteousness. He is strong enough to carry both the load and the learner. Come."
+5. **Add direct address to the self-righteous.** The "old Baptist rhyme" person — the one who doesn't drink or smoke or chew — needs to hear not just that this isn't enough but why: because God's standard is not behavior modification but heart transformation, and only the yoke produces that.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+Not triggered — the sermon has genuine warmth and a real gospel instinct. The yoke illustration carries a level of lived-experience conviction that avoids bloodlessness.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The "hungry starving naked beggars approached by the king" image carries genuine eternal weight, and the yoke illustration has the beauty of a truth worth carrying — but the absence of a proclaimed gospel and the missing vv.25–27 Christology prevent the sermon from reaching its full eternal gravity.
+
+---
+
+### 17. Rubric Fit Note
+
+Matthew 11:28–30 is a short didactic/invitation passage embedded in a longer context. The rubric applies well, but the passage's primary register is one of comfort and invitation rather than prophetic confrontation. The rubric's conscience/exhortation categories press toward conviction and response — appropriate here, but the passage's own movement is from burden to rest, not from guilt to repentance. The evaluation honors both.
