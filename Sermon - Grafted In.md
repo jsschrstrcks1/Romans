@@ -5,7 +5,7 @@
 
 We're going to be in Genesis chapter 12 tonight, if you've brought your Bible — and I hope you have.
 
-While you're turning there, I want to explain a little bit of Jewish tradition — some things that are outside of Scripture but are believed to be true by Jewish rabbis. They maintain a lot of legends and tales about various people in the Bible, and share a lot of Christ without even realizing it in their ceremonies and festivals. But something interesting that happens between chapters 11 and 12, from Jewish rabbinic tradition, is the reason why Abram was favored by God. It seems Abraham's daddy had fallen into idolatry. We're not told precisely which idols, but it's probably Baal and his consorts.
+While you're turning there, I want to explain a little bit of Jewish tradition — some things that are outside of Scripture but are believed to be true by Jewish rabbis. They maintain a lot of legends and tales about various people in the Bible, and share a lot of Christ without even realizing it in their ceremonies and festivals. But something interesting that happens between chapters 11 and 12, from Jewish rabbinic tradition, is the reason why Abram was favored by God. It seems Abraham's daddy had fallen into idolatry. We're not told precisely which idols — the tradition doesn't name them.
 
 ---
 
@@ -23,7 +23,7 @@ Today's idols aren't always consciously being "worshiped" but are things that be
 
 ### Abram Smashes the Idols
 
-So Abram's father was an idolater. He had a room in his house, it's said, that was full of idols, and one day Abram went into that room and destroyed them all — committing himself to the one true God. Today he might be smashing an Xbox, a TV, and a computer, or a stack of books, or smashing a business. In any case, these Jewish traditions state that Abram went out of his way to remove any hindrances in his relationship with God. Not only that, but he rejected and destroyed any of the other "false gods" that were accepted by his culture. He is the hero of this passage, tradition says, because of this — because he was willing to risk rejection by his peers and even by his family to stand up for what he believes in.
+So Abram's father was an idolater. He had a room in his house, it's said — and this is from a midrash recorded in Genesis Rabbah — that was full of idols, and one day Abram went into that room and destroyed them all — committing himself to the one true God. Today he might be smashing an Xbox, a TV, and a computer, or a stack of books, or smashing a business. In any case, these Jewish traditions state that Abram went out of his way to remove any hindrances in his relationship with God. Not only that, but he rejected and destroyed any of the other "false gods" that were accepted by his culture. He is the hero of this passage, tradition says, because of this — because he was willing to risk rejection by his peers and even by his family to stand up for what he believes in.
 
 As a result, God chose to bless him.
 
@@ -56,7 +56,7 @@ I know someone that had a financial situation here recently. They had to come up
 
 You see, people — God owns the cattle on a thousand hills. A hundred dollars, a thousand dollars, a million dollars — it doesn't matter. Sell the cattle on one hill and it's all paid for. What God wants is your trust.
 
-Abram trusted God and smashed his father's idols. When God told Abram to go to a certain place, he trusted God and went. Now as an old man with no kids, he's told he's going to have many descendants. He lives to be 175 and only ever has two sons — one son Isaac, and another by his wife's handmaiden. He waited at least a hundred years, and he only had the two kids. They had a few kids each. God waited till well after Abram's death to fill in all the rest of the details.
+Abram trusted God and smashed his father's idols. When God told Abram to go to a certain place, he trusted God and went. Now as an old man with no kids, he's told he's going to have many descendants. He lives to be 175, and he and Sarah have one son of promise — Isaac. He also has Ishmael by his wife's handmaiden. After Sarah's death he marries again and has more children still. But Isaac is the child of the covenant — the one God made him wait for. God kept him waiting until he was a hundred years old before that son arrived. They had a few kids each. God waited till well after Abram's death to fill in all the rest of the details.
 
 But today Israel is relatively big — millions and millions of people live there and are ethnic Jews. The thing is, though, folks — Abraham never lived to see that. He died thousands and thousands of years before there were ever even a million Jews.
 
@@ -70,7 +70,7 @@ This one took a little bit of study. Because while Abraham is the father of the 
 
 There are a couple of differences though. For one, the USA is not made up primarily of the children of Washington, whereas Israel are the descendants of Abraham. Secondly, there is a New Testament command in Romans to the Gentiles that echoes this Old Testament promise to Abraham — but makes it applicable to the entire nation of Israel. Romans says that we "owe it" to the Jews to bless them because through them we have been blessed spiritually.
 
-This sentiment of blessing the Jews, honoring the Jews, and helping the Jews is mentioned in a number of places — in Psalms, Numbers, Isaiah, Joel, Malachi — as well as an interesting prophecy in Zechariah talking about the last days, where anyone who seeks to harm Israel, specifically the city of Jerusalem which has been surrounded by her enemies and is under siege. And it says all who oppose Israel in those days will be struck with blindness so that Judah will know the Lord God reigns and has not forgot his covenant.
+This sentiment of blessing the Jews, honoring the Jews, and helping the Jews is mentioned in a number of places — in Psalms, Numbers, Isaiah, Joel, Malachi — as well as an interesting prophecy in Zechariah talking about the last days, where anyone who seeks to harm Israel, specifically the city of Jerusalem which has been surrounded by her enemies and is under siege. And it says all who oppose Israel in those days will be struck with blindness so that Judah will know the Lord God reigns and has not forgotten his covenant.
 
 Finally on this point, there is a passage in Ephesians 3 that says Gentiles are fellow heirs to salvation and the gospel alongside the Jews. We are in a sense grafted in through the gospel of Jesus Christ. We have talked before about how God adopted us — making us sons and daughters of the King of Kings and Lord of Lords.
 
@@ -82,13 +82,13 @@ When engineers are looking to make something new and complicated — perhaps a b
 
 In the gardening world, grafting is done for a lot of reasons. Every orange you have ever eaten from a grocer, and pretty much any orange you've ever eaten off a tree bought from Home Depot or the like, is going to have been grown on a grafted tree.
 
-With oranges, some trees grow fast, but their fruit is terrible. Bad-flavored and not sweet. The limbs the citrus fruit grows on are inhospitable, covered with massive thorns with vicious ends. To pick an orange means to be pricked by a thorn. These plants are hardy against the cold, against the heat, against viruses, against predators that would eat the roots. They are hardy, nasty trees with bad fruit.
+With oranges, some trees are tough, but their fruit is terrible. Bad-flavored and not sweet. The limbs the citrus fruit grows on are inhospitable, covered with massive thorns with vicious ends. To pick an orange means to be pricked by a thorn. These plants are hardy against the cold, against the heat, against viruses, against predators that would eat the roots. They are hardy, nasty trees with bad fruit.
 
 Yet at the same time, the good fruit — the best oranges that are being cultivated today, the sweet juicy oranges you expect to get at the store here in Florida — are slow growing. They are vulnerable to many infections, to anything that wants to eat their roots. They are relatively unprotected with few thorns. But boy, is their fruit wonderful.
 
-So what modern gardeners have done is taken the tree that produces good fruit and grafted it onto the hardier root with bad fruit. And the end result is a tree with great fruit, that grows fast, that has all the necessary resistances, and yet still is desirable to eat.
+So what modern gardeners have done is taken the tree that produces good fruit and grafted it onto the hardier root with bad fruit. And the end result is a tree with great fruit, that is resilient, that has all the necessary resistances, and yet still is desirable to eat.
 
-This is what God did for us. We were lost, evil, and incapable of doing any good on our own apart from Christ. Scripture says the best we could do apart from God was produce filthy rags.
+This is what God did for us. We were lost, evil, and incapable of doing any good on our own apart from Christ. Scripture says the best we could do apart from God was produce what Isaiah calls a polluted garment — our righteous deeds like filth before God.
 
 > ...for all have sinned and fall short of the glory of God.
 > — Romans 3:23 (ESV)
@@ -103,7 +103,7 @@ This is where the fourth promise comes in. So far God has promised to give Abrah
 
 Finally, God promised that all the world would be blessed through Abraham. There is an important man whose birth altered the way the Western world tracks time. His death literally brings life to billions of people across time. And that is Christ. Christ is also a descendant of Abraham. Every single person across time has the opportunity to receive the ultimate blessing because of this long-dead man. We have the opportunity to be grafted into his family, to be melted into the international alloy of the family of God.
 
-We certainly don't deserve this. As I mentioned earlier, we all are sinful. The best we can do are filthy rags. And that's the bad news. But the good news is that two thousand years ago Jesus died on the cross for our sins. Scripture says in Romans that while we were yet sinners, Christ died for us.
+We certainly don't deserve this. As I mentioned earlier, we all are sinful. The best we can do is what Isaiah calls a polluted garment. And that's the bad news. But the good news is that two thousand years ago Jesus died on the cross for our sins. Scripture says in Romans that while we were still sinners, Christ died for us.
 
 It's like Jesus said: "Daddy, that one is mine. Father, Kurt is mine. AJ, he's mine too. That Greg Baker fellow also — I want him. I want Bob Clark. I have a plan for him."
 
