@@ -5,7 +5,7 @@
 
 We're going to be in Genesis chapter 12 tonight, if you've brought your Bible — and I hope you have.
 
-While you're turning there, I want to explain a little bit of Jewish tradition — some things that are outside of Scripture but are believed to be true by Jewish rabbis. They maintain a lot of legends and tales about various people in the Bible, and share a lot of Christ without even realizing it in their ceremonies and festivals. But something interesting that happens between chapters 11 and 12, from Jewish rabbinic tradition, is the reason why Abram was favored by God. It seems Abraham's daddy had fallen into idolatry. We're not told precisely which idols — the tradition doesn't name them.
+While you're turning there, I want to explain a little bit of Jewish tradition — some things that are outside of Scripture but are believed to be true by Jewish rabbis. They maintain a lot of legends and tales about various people in the Bible, and share a lot of Christ without even realizing it in their ceremonies and festivals. But something interesting that happens between chapters 11 and 12, from Jewish rabbinic tradition — specifically the midrash, Genesis Rabbah, not from Scripture itself — is a legend about why Abram was favored by God. I want to be clear: the Bible doesn't tell us why God chose Abram. That is a mystery of grace. But the tradition says Abraham's daddy had fallen into idolatry. We're not told precisely which idols — the tradition doesn't name them.
 
 ---
 
@@ -25,7 +25,7 @@ Today's idols aren't always consciously being "worshiped" but are things that be
 
 So Abram's father was an idolater. He had a room in his house, it's said — and this is from a midrash recorded in Genesis Rabbah — that was full of idols, and one day Abram went into that room and destroyed them all — committing himself to the one true God. Today he might be smashing an Xbox, a TV, and a computer, or a stack of books, or smashing a business. In any case, these Jewish traditions state that Abram went out of his way to remove any hindrances in his relationship with God. Not only that, but he rejected and destroyed any of the other "false gods" that were accepted by his culture. He is the hero of this passage, tradition says, because of this — because he was willing to risk rejection by his peers and even by his family to stand up for what he believes in.
 
-As a result, God chose to bless him.
+As a result, God chose to bless him — so the tradition says. But again, Scripture gives no reason. The Bible's answer to "why Abram?" is the same as its answer to "why us?" — sheer grace reaching down before merit could be established.
 
 Read with me in chapter 12, verse 1:
 
@@ -72,7 +72,7 @@ There are a couple of differences though. For one, the USA is not made up primar
 
 This sentiment of blessing the Jews, honoring the Jews, and helping the Jews is mentioned in a number of places — in Psalms, Numbers, Isaiah, Joel, Malachi — as well as an interesting prophecy in Zechariah talking about the last days, where anyone who seeks to harm Israel, specifically the city of Jerusalem which has been surrounded by her enemies and is under siege. And it says all who oppose Israel in those days will be struck with blindness so that Judah will know the Lord God reigns and has not forgotten his covenant.
 
-Finally on this point, there is a passage in Ephesians 3 that says Gentiles are fellow heirs to salvation and the gospel alongside the Jews. We are in a sense grafted in through the gospel of Jesus Christ. We have talked before about how God adopted us — making us sons and daughters of the King of Kings and Lord of Lords.
+Finally on this point, there is a passage in Ephesians 3 that says Gentiles are fellow heirs to salvation and the gospel alongside the Jews. We are in a sense grafted in through the gospel of Jesus Christ. Paul uses that exact image in Romans 11 — the olive tree, the natural branches, and we Gentiles as the wild branches grafted in, sustained by a root we did not grow. That is not our achievement. That is grace. We have talked before about how God adopted us — making us sons and daughters of the King of Kings and Lord of Lords.
 
 ---
 
@@ -112,7 +112,7 @@ And so on. Jesus has already done the hardest parts. All we have to do — Roman
 > ...if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.
 > — Romans 10:9 (ESV)
 
-It's that easy.
+It's not our merit. It's not our effort. It's Christ's finished work received through faith.
 
 If you've never come to a point in your spiritual life where you've asked Jesus to pay the price for your sins, then I implore you — don't wait another day. We aren't promised tomorrow. We aren't promised our next breath.
 
@@ -121,3 +121,41 @@ I knew a guy who was living life for himself and not the Lord. He was not a beli
 I had talked to him about the gospel on a few occasions. He felt like he had a lot of life to live, and when he was ready, he would consider settling down and following "religion." But to my knowledge he never did, and will be spending an eternity separated from Christ.
 
 Don't let that be you. If you've never come to a point in your spiritual life where you've asked Jesus to pay the price for your sins, don't let it go another night. As the praise team comes up to sing — if you've never done this and you'd like to, come talk to me. Maybe you have something you want to pray about or that you want prayer for — come talk to me. Maybe you're ready to join the church and have a say in our direction at our business meetings — come talk to me. Maybe you are a believer in Jesus Christ but have never taken that next step through believer's baptism. If so, come talk to me.
+
+---
+
+## Integrity Log
+
+**Compiled: March 21, 2026**
+
+### Scripture — Checked Against ESV
+
+- **Genesis 12:1-3** — Sermon block quote reads: *"Now the LORD said to Abram, 'Go from your country and your kindred and your father's house to the land that I will show you. And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.'"* — ESV reads identically. ✅
+- **Romans 3:23** — Sermon quotes: *"for all have sinned and fall short of the glory of God."* — ESV reads identically. ✅
+- **Romans 10:9** — Sermon block quote reads: *"if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."* — ESV reads identically. ✅ The paraphrase immediately preceding the block quote ("confess with our mouth the Lord Jesus Christ...") is not marked as a direct quote and is acceptable as sermonic summary.
+
+### Theological Precision — Correction Applied
+
+**"It's that easy"** — Removed and replaced. Original phrasing trivializes salvation and trends toward cheap grace. Replacement: *"It's not our merit. It's not our effort. It's Christ's finished work received through faith."* This preserves the freeness of the gospel while anchoring it in Christ's work rather than ease of response.
+
+### Midrash — Source Identified and Qualified
+
+The Abraham-smashes-idols tradition appears in **Genesis Rabbah 38:13**, a compilation of rabbinic midrash from roughly the 3rd–6th centuries AD. The sermon's original phrasing implied this was a reason Scripture gives for why God chose Abram. Two corrections applied:
+- Source named explicitly (Genesis Rabbah, not Scripture)
+- Corrective theological note added distinguishing tradition from Scripture: the Bible itself is silent on the reason for God's choice of Abram; grace is the only answer Scripture warrants
+
+### Romans 11 Connection — Added
+
+Paul uses the grafting image explicitly in Romans 11:17–24 (wild olive shoot grafted into cultivated tree). A sentence was added connecting the sermon's orange-tree illustration to this passage, giving the metaphor its canonical grounding.
+
+### Flags Remaining
+
+- ⚠️ **"Romans... we owe it to the Jews"** (body text) — no verse cited. Romans 15:27 ESV reads: *"For if the Gentiles have come to share in their spiritual blessings, they ought also to be of service to them in material blessings."* This is the most likely referent. Verse should be cited explicitly before reprising.
+- ⚠️ **Zechariah blindness prophecy** — sermon describes Jerusalem surrounded by enemies, opponents struck with blindness. Zechariah 12:1–4 ESV is the source (v.4: *"I will strike every horse of the peoples with blindness"*). The sermon's summary is directionally accurate but loose. Cite explicitly before reprising.
+- ⚠️ **Ephesians 3 "fellow heirs" reference** — sermon cites "a passage in Ephesians 3." The text is Ephesians 3:6 ESV: *"This mystery is that the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel."* Worth citing explicitly.
+
+### Voice Audit
+- **Authenticity Risk: LOW** — Raw preached material; no AI in original draft
+- Corpus voice markers present: personal illustration, direct address, controlled humor, gear-shifts, Scripture-centrality
+- Conviction check: passes — lostness named, eternity invoked, personal urgency in close
+- Additions (midrash qualifier, Romans 11 sentence, grace note) integrate without voice disruption
