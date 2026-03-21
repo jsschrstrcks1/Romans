@@ -15,7 +15,7 @@ So Abram's father was an idolater. He had a room in his house, it's said — and
 
 As a result, God chose to bless him — so the tradition says. But again, Scripture gives no reason. The Bible's answer to "why Abram?" is the same as its answer to "why us?" — sheer grace reaching down before merit could be established.
 
-Here's why that matters. The chapter right before this — Genesis 11 — ends with humanity scattered. The Tower of Babel. God looks down, sees what man is building in his own name, and disperses the nations. Languages split. Families fracture. The world goes dark in every direction. And then Genesis 12 opens. God steps in and chooses one man — not because of anything in that man, but out of pure sovereign grace — and says: through you I am going to bless every single nation I just scattered. That's what we're about to read.
+Here's why that matters. The chapter right before this — Genesis 11 — ends with humanity scattered. The Tower of Babel. God looks down, sees what man is building in his own name, and disperses the nations. Languages split. Families fracture. The world goes dark in every direction. That's not just a history lesson. That's a diagnosis. That's every one of us — building something in our own name, chasing our own glory, and finding ourselves more scattered than when we started. And then Genesis 12 opens. God steps in and chooses one man — not because of anything in that man, but out of pure sovereign grace — and says: through you I am going to bless every single nation I just scattered. That's what we're about to read.
 
 Read with me in chapter 12, verse 1:
 
@@ -23,6 +23,8 @@ Read with me in chapter 12, verse 1:
 > — Genesis 12:1-3 (ESV)
 
 So right away I notice a few things. For one, Abram is going to be blessed with a land, with lots of descendants, with a God-enhanced reputation. Not only that, but others would be blessed as well. Anyone who blesses him will be blessed, and anyone who curses him shall be cursed. In fact all the families of the earth shall be blessed.
+
+Keep that last one in mind. We're going to work through all four of these tonight, but that fourth one — *in you all the families of the earth shall be blessed* — that's the hinge. Everything else in this passage is moving toward it.
 
 But before we get into those promises, go back and notice something. Count how many times God says "I will" in those three verses. Count them. Every single commitment is in the first person. Not "Abram will." Not "if Abram proves himself." Just — I will. Over and over. God is making every promise himself. That's not a contract. You negotiate a contract. You perform a contract. You can break a contract. This is a decree. God is binding himself not to Abram's faithfulness but to his own word. That distinction is going to matter the rest of the night.
 
@@ -62,7 +64,7 @@ This one took a little bit of study. Because while Abraham is the father of the 
 
 There are a couple of differences though. For one, the USA is not made up primarily of the children of Washington, whereas Israel are the descendants of Abraham. Secondly, Paul writes in Romans 15 about something very practical — a financial collection the churches in Macedonia and Achaia had taken up for Jewish believers who were poor and struggling in Jerusalem. And even in that specific, practical context, he draws on a deeper principle. Romans 15:27 — *"For if the Gentiles have come to share in their spiritual blessings, they ought also to be of service to them in material blessings."* The immediate occasion is that Jerusalem collection. But Paul's logic is plain: we have received spiritual blessing through this people, and that creates an obligation we don't get to ignore.
 
-This sentiment of blessing the Jews, honoring the Jews, and helping the Jews is mentioned in a number of places — in Psalms, Numbers, Isaiah, Joel, Malachi — as well as an interesting prophecy in Zechariah 12 about the last days — Jerusalem surrounded by all the nations, under siege. God says in verse 4 that he will strike the horses of those opposing nations with panic and blindness, and their riders with madness, while he himself keeps watch over Judah. The clans of Judah declare in that day: *"The inhabitants of Jerusalem have strength through the LORD of hosts, their God."* (Zechariah 12:5) It is not Jerusalem's walls that protect her. It is the LORD himself.
+This theme of blessing and protecting Israel runs across the whole Old Testament — including an interesting prophecy in Zechariah 12 about the last days — Jerusalem surrounded by all the nations, under siege. God says in verse 4 that he will strike the horses of those opposing nations with panic and blindness, and their riders with madness, while he himself keeps watch over Judah. The clans of Judah declare in that day: *"The inhabitants of Jerusalem have strength through the LORD of hosts, their God."* (Zechariah 12:5) It is not Jerusalem's walls that protect her. It is the LORD himself.
 
 Finally on this point, Ephesians 3:6 says Gentiles are fellow heirs to salvation and the gospel alongside the Jews — *"the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel."* We are in a sense grafted in through the gospel of Jesus Christ. Paul uses that exact image in Romans 11 — the olive tree, the natural branches, and we Gentiles as the wild branches grafted in, sustained by a root we did not grow. That is not our achievement. That is grace. We have talked before about how God adopted us — making us sons and daughters of the King of Kings and Lord of Lords.
 
@@ -89,17 +91,19 @@ This is the state of all people apart from God.
 
 Sit with that for a moment. Isaiah doesn't say our worst is a polluted garment — he says our *best* is. Our most religious moments. Our most generous impulses. Still filthy before a holy God. What that means is there is no amount of effort, no amount of turning over a new leaf, no life cleaned up enough, that closes that gap on its own. We came from Babel. We built our towers to make our own names great, and God scattered us. That is the human condition. That is where every one of us starts — scattered, guilty, and without a claim.
 
+Stay there a second. Don't move past it too fast. If you've spent your whole life being a decent person, this is for you. If you've spent your whole life knowing you're not — this is for you too. Every single person in this room, at their best, at their most put-together, still falls short. We are all Babel people. And Babel people have no claim on God. None. That's the bad news. But the bad news has to land before the good news means anything.
+
 ---
 
 ### All the Families of the Earth
 
 This is where the fourth promise comes in. So far God has promised to give Abraham a lot of kids — something he never saw in his lifetime but is clearly true — look at Israel and the Middle East. Abraham is the father of much of that. There is a pride in the Muslim world that comes from being able to trace your lineage back to Ishmael, and thus Abraham. Further, God promised that those who blessed Abraham would be blessed, and those who cursed him would be cursed — a promise whose reflection we can still see today.
 
-Finally, God promised that all the world would be blessed through Abraham. There is an important man whose birth altered the way the Western world tracks time. His death literally brings life to billions of people across time. And that is Christ. Christ is also a descendant of Abraham. Every single person across time has the opportunity to receive the ultimate blessing because of this long-dead man. We have the opportunity to be grafted into his family, to be melted into the international alloy of the family of God.
+Finally, God promised that all the world would be blessed through Abraham. There is an important man whose birth altered the way the Western world tracks time. His death literally brings life to billions of people across time. And that is Christ. Christ is also a descendant of Abraham. And Paul — writing to the Galatians — makes the connection explicit. Galatians 3:16: *"Now the promises were made to Abraham and to his offspring. It does not say, 'And to offsprings,' referring to many, but referring to one, 'And to your offspring,' who is Christ."* One man. One seed. One descendant through whom the whole promise lands. That word Abraham heard — *in you all the families of the earth shall be blessed* — it was always about Jesus. Every single person across time has the opportunity to receive the ultimate blessing because of this long-dead man. We have the opportunity to be grafted into his family, to be melted into the international alloy of the family of God.
 
 We certainly don't deserve this. As I mentioned earlier, we all are sinful. The best we can do is what Isaiah calls a polluted garment. And that's the bad news. But the good news is that two thousand years ago Jesus died on the cross for our sins. He didn't just die as an example. He died as a substitute — absorbing the wrath of God that every one of our sins deserved. And when God raised him from the dead on the third day, that was the receipt. Proof that the debt was paid in full. Proof that the Father accepted the offering. And what faith does — what confessing and believing does — is reach out and receive what Christ earned. Not because of anything we've done. Because of everything he's done.
 
-Scripture says in Romans that while we were still sinners, Christ died for us.
+Romans 5:8 says: while we were still sinners, Christ died for us.
 
 It's like Jesus said: "Daddy, that one is mine. Father, Kurt is mine. AJ, he's mine too. That Greg Baker fellow also — I want him. I want Bob Clark. I have a plan for him."
 
@@ -110,7 +114,7 @@ And so on. Jesus has already done the hardest parts. All we have to do — Roman
 
 It's not our merit. It's not our effort. It's Christ's finished work received through faith.
 
-And if you're already a believer tonight — that truth has a different edge for you. Being grafted in isn't just your origin story. Paul says in Galatians 3:29: *"And if you are Christ's, then you are Abraham's offspring, heirs according to promise."* You are in the covenant. The same God who by sheer grace reached into the wreckage of Babel and called one man is the same God who by sheer grace reached into your life and called you. You didn't earn this. You can't lose it. But you were grafted in for the same reason Abram was called — to be a blessing to the families around you. Who are you discipling? Who in your neighborhood, your workplace, your family is still scattered — still waiting on the blessing that flows through the people of God?
+And if you're already a believer tonight — that truth has a different edge for you. Being grafted in isn't just your origin story. Paul says in Galatians 3:29: *"And if you are Christ's, then you are Abraham's offspring, heirs according to promise."* You are in the covenant. The same God who by sheer grace reached into the wreckage of Babel and called one man is the same God who by sheer grace reached into your life and called you. You didn't earn this. You can't lose it. But you are not grafted in to sit still. Abram was called to be a blessing — not just to receive one. And so were you. Who are you discipling? Who in your neighborhood, your workplace, your family is still scattered — still building their tower, still chasing their own name — still waiting on the blessing that flows through the people of God? You might be the person God uses to reach them. Don't waste that.
 
 If you've never come to a point in your spiritual life where you've asked Jesus to pay the price for your sins, then I implore you — don't wait another day. We aren't promised tomorrow. We aren't promised our next breath.
 
@@ -160,6 +164,34 @@ Paul uses the grafting image explicitly in Romans 11:17–24 (wild olive shoot g
 ### Flags Remaining
 
 None.
+
+---
+
+## Evaluation Log
+
+**Thus Says the Lord — Evaluation: March 21, 2026**
+**Score: 64/105 — Concerning gaps. Significant targeted revision needed.**
+
+### Surgical Fixes Applied
+
+1. **Christ-pointer added** (after four promises listed) — Signal inserted directing the congregation toward the fourth promise as the sermon's hinge: *"Keep that last one in mind... Everything else in this passage is moving toward it."*
+
+2. **Fallen Condition Focus added at Babel moment** — "That's not just a history lesson. That's a diagnosis. That's every one of us..." — names the human condition concretely at the sermon's best contextual moment.
+
+3. **Romans 5:8 cited explicitly** — "Scripture says in Romans" changed to "Romans 5:8 says" with direct attribution.
+
+4. **Law-landing paragraph added** — Inserted after "scattered, guilty, and without a claim" to hold the congregation under conviction before the gospel offer: "Stay there a second. Don't move past it too fast..." Ends: "The bad news has to land before the good news means anything."
+
+5. **Galatians 3:16 added to gospel close** — Paul's own exegesis of Genesis 12:3 inserted: *"It does not say, 'And to offsprings,'... but referring to one, 'And to your offspring,' who is Christ."* Grounds the Christ-connection textually rather than asserting it.
+
+6. **OT catalog trimmed** — "in Psalms, Numbers, Isaiah, Joel, Malachi" removed and replaced with "across the whole Old Testament." Reason: the catalog was a scholarly gesture with no exegetical payoff for the hearer; the specific books were not verified. The general statement is defensible.
+   - ⚠️ **Note**: The removed specific references were not fact-checked prior to removal. If the preacher wishes to cite specific passages, those should be identified and verified before reinsertion.
+
+7. **Believer exhortation sharpened** — "Who are you discipling?" paragraph extended to include: "You are not grafted in to sit still. Abram was called to be a blessing — not just to receive one." And a closing commission: "You might be the person God uses to reach them. Don't waste that."
+
+### New Scripture Added — Verified Against ESV
+
+- **Galatians 3:16** — Added in body: *"Now the promises were made to Abraham and to his offspring. It does not say, 'And to offsprings,' referring to many, but referring to one, 'And to your offspring,' who is Christ."* — ESV reads identically. ✅
 
 ### Voice Audit
 - **Authenticity Risk: LOW** — Raw preached material; no AI in original draft
