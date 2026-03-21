@@ -113,3 +113,193 @@ As we close I want to leave you with this poem by C.T. Studd.
 *And stand before His Judgment seat;*
 *Only one life, 'twill soon be past,*
 *Only what's done for Christ will last.*
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date**: 2026-03-21
+**Sermon**: Ecclesiastes 2:14–26 — What Matters?
+**Primary Text**: Ecclesiastes 2:14–26
+
+---
+
+### 1. Verdict Title
+**A Winsome Vanity Diagnosis with a Gospel That Arrives by Suggestion Rather Than Declaration**
+
+---
+
+### 2. One-Sentence Summary
+A well-structured and culturally accessible sermon that correctly diagnoses human vanity from Ecclesiastes 2 and points toward a life of gospel purpose, but never formally presents the gospel, relies on a secondary figure (C.T. Studd) to carry the sermon's climax, and leaves the unconverted without a clear path to Christ.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test**: PASS — with qualification. The sermon's thesis ("only what's done for Christ will last") is consonant with Qohelet's own argument: earthly achievement, wisdom, and toil are hebel, and the text itself points toward the God who gives wisdom and joy (v.26). The sermon does derive its framework from the text. However, the text is read once and never exegetically revisited — the sermon's development comes primarily from statistics, illustration, and the Studd narrative rather than from the passage's own argument.
+
+**Authority Test**: PASS. The preacher does not soften the text's bleakness or edit its uncomfortable claims. The vanity diagnosis is honest and applied.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG TRIGGERED: Fatal Flaw #1 — No clear gospel presentation**
+
+The sermon points toward Christ and gospel-oriented living, but the gospel itself — Christ's death for sin, justification by faith, the need for new birth — is never proclaimed. "It all starts with a relationship — the gospel" (appearing as a single sentence) is not a gospel presentation. A person hearing this sermon for the first time would understand that life should be oriented toward Christ, but would not know how to become a Christian or what the gospel actually is. The Synagogue Test is triggered: a devout religious person could hear this entire sermon and remain undisturbed in their religion, simply deciding to do more charitable work.
+
+**Score capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 15/25**
+
+- *Textual Fidelity (6/10)*: The sermon identifies the vanity theme correctly and uses the *hebel* word study effectively (breath/fog on glass). However, the vanities the preacher lists (wisdom, effort, achievement, life, rivalry) are summarized categories rather than arising from exegetical engagement with 2:14-26 specifically. The text is never quoted after the initial reading, and the precise argument of 2:24-26 — God's gift of eating, drinking, and finding joy as the counter-vanity — is not developed.
+- *Contextual Awareness (3/5)*: The wisdom-literature genre is acknowledged implicitly (Solomon writing for the wealthy). The sermon correctly places itself within Ecclesiastes' broader argument. Loses points for not engaging Qohelet's "under the sun" framework or the resolution in 2:24-26.
+- *Exegetical Clarity (3/5)*: The *hebel* word study is accessible and helpful. No misleading exegesis, but also minimal exegesis.
+- *Logical Faithfulness (3/5)*: No eisegesis, but the sermon's argument is driven more by the Studd narrative than by the text's own logic.
+- *Fallen Condition Focus*: Identified — misplaced values, living for what perishes. Named clearly. The statistics-of-days-remaining section is effective.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+
+- *Christ-Centeredness (4/7)*: Christ is present as the answer to vanity and as the ground of lasting work. The Studd quotations carry most of the Christological weight. The connection is organic to the text's implied answer but underdeveloped theologically.
+- *Redemptive-Historical Awareness (2/3)*: Ecclesiastes is placed correctly as wisdom literature pointing beyond itself. The resolution in gospel-work (evangelism, discipleship) is appropriate but not grounded in redemptive-historical categories.
+- *Doctrinal Precision (3/4)*: No theological errors detected. The sermon is careful not to overstate.
+- *Confessional Alignment (3/4)*: No contradictions of confessional theology. The sermon's soteriology is present but implicit.
+
+**3. Gospel Centrality & Force — 6/15**
+
+- *Clarity of the Gospel (1/5)*: The gospel is named but not presented. "It all starts with a relationship — the gospel" is a pointer, not a proclamation. This is the sermon's central failure.
+- *Necessity of Christ (3/5)*: Christ is presented as necessary for lasting work and eternal significance. But the necessity of Christ for salvation — as the only remedy for sin and wrath — is not stated.
+- *Cross-Centered Gravity (2/5)*: The sermon moves toward gospel purpose but never arrives at the cross. Studd's quotation ("If Jesus Christ be God and died for me, then no sacrifice can be too great") gets closer than the preacher's own words.
+- *Synagogue Test*: Triggered. A Muslim or devout Jew could hear this sermon, be moved by Studd's story, and resolve to live more devotedly for their religious community without understanding anything distinctively Christian about the gospel.
+
+**4. Conscience & Applicatory Force — 10/15**
+
+- *Heart Penetration (4/5)*: The 2,500 days of meaningful life calculation is genuinely searching. "What are you going to do with those precious few days?" presses the conscience effectively. The sermon creates urgency.
+- *Specificity (4/5)*: The applications are specific — children's programs, food pantry, discipleship, parenting. These are concrete and congregationally grounded. This is a real strength.
+- *Spiritual Differentiation (2/5)*: The sermon primarily addresses believers who may be living without gospel purpose. The unconverted are acknowledged but not specifically addressed with what they must do. The backslider and the nominal churchgoer are the implied audience; the hardened sinner and the seeking unbeliever receive no specific word.
+- *Perkins' Seven Categories*: Categories 5 (believers) and 6 (backsliders) are addressed. Categories 3 and 4 (the unhumbled and the seeking) are touched lightly. The ignorant and the strongly unconverted are not reached.
+
+**5. Exhortation & Response — 5/8**
+
+- *Call to Response (3/4)*: "For those of you that are already believers, ask yourself: what am I doing in my life that will last?" is a genuine call. The closing poem reinforces it. But the exhortation to unbelievers is absent — the sermon closes without a call to conversion.
+- *Equipping for Holiness & Witness (2/4)*: The sermon does equip for mission-oriented living. The food pantry, children's program, and parenting applications are specific and equipping. Personal holiness is not developed.
+
+**6. Structure & Logical Flow — 7/9**
+
+- *Clarity of Outline (3/4)*: Four vanities (wisdom, effort/achievement, life, rivalry) provide a traceable outline. The Studd section is clearly marked as the positive answer.
+- *Progression (3/3)*: The sermon builds well from diagnosis to remedy. The statistics, Studd narrative, and specific applications form a clear arc.
+- *Unity (1/2)*: One dominant idea, but the transition from vanity diagnosis to Studd biography to specific applications is abrupt. The Studd section is long relative to the text-exposition section.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2)*: The gout/steak illustration is genuinely clever and congregation-specific. The Life After People TV show illustration is culturally accessible. The Studd story is gripping.
+- *Clarity (1/2)*: Most illustrations clarify rather than distract. The economic statistics section (opening) runs long and risks losing the congregation before the text is reached.
+- *Memorability (1/1)*: The 2,500 days calculation and Studd's "yard of hell" quote will be remembered.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2)*: The oral cadence is natural and the direct address is present throughout.
+- *Conviction on the Page (1/2)*: The sermon builds well to Studd but the conviction is more inspirational than gospel-convicting. Studd's sacrifice moves the listener; the cross is not allowed to do the same work.
+- *Cadence and Breath (0/1)*: The opening statistics section is too long before the text appears, and the conclusion via poem is gentle rather than confrontational. The sermon does not roar.
+
+---
+
+### 6. Cognitive Load Modifier: **0**
+
+Well-paced. The economic statistics are the densest section; the rest is narratively driven and easy to follow.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 15/25 |
+| Theology & Doctrinal Integrity | 12/18 |
+| Gospel Centrality & Force | 6/15 |
+| Conscience & Applicatory Force | 10/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **62/100** |
+| Cognitive Load Modifier | 0 |
+| Weight of Glory Bonus | +2 |
+| **Uncapped Total** | **64** |
+| **Score (capped — Fatal Flaw #1)** | **64/100** |
+
+**Interpretation**: Concerning gaps. The sermon explains and applies but does not preach the gospel. The fatal flaw flag confirms a structural problem, not merely weakness. Band: 60–69 (with fatal flaw).
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Primarily of Studd, and through Studd, of a life oriented toward Christ. Not primarily of Christ himself.
+2. *Did I encounter God, or just ideas about Him?* Largely ideas and biography. The vanity diagnosis lands, but God himself is not weighty in the sermon.
+3. *Was I comforted, convicted, or merely informed?* The believer is convicted toward re-prioritization. The unconverted is informed but not confronted with the gospel. The sermon lands in the inspirational register rather than the proclamatory.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The 2,500 days calculation**: Taking 28,835 days of a life and subtracting sleep, work, eating, and other necessities to arrive at 2,500 days of meaningful potential is a striking and memorable piece of pastoral mathematics. It creates genuine urgency and is native to the sermon's purpose.
+2. **Specific, congregationally-grounded applications**: The food pantry, children's program, discipling your kids, and reading Scripture together are concrete, real, and belonging to this congregation's actual life. This is among the best applicatory specificity in this batch of sermons.
+3. **The Studd biography**: The C.T. Studd narrative is well-told, well-sourced, and gospel-adjacent in the best sense. The quote "If Jesus Christ be God and died for me, then no sacrifice can be too great for me to make for Him" carries genuine gospel weight — more than the sermon's own prose achieves.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **No gospel proclamation — the fatal flaw**: "It all starts with a relationship — the gospel" is a single sentence with no content. A person who does not yet know the gospel hears nothing they need in order to be saved. The Studd quotation comes closer to presenting the gospel than the preacher does at any point in the sermon.
+2. **The text is read once and never revisited**: Ecclesiastes 2:14-26 is read at the top and then effectively set aside. The *hebel* word study is useful but brief. The text's own resolution — 2:24-26, God's gift of joy and eating and work to those who please Him — is never examined. This is where the positive application should be grounded.
+3. **The conclusion is gentle when it should be urgent**: The poem is beautiful, but the sermon ends with a warm feeling rather than a confrontation. There is no closing appeal to the unconverted. The final question addresses only the already-persuaded.
+
+---
+
+### 11. Blind Spots
+
+The preacher does not appear to recognize that the Studd biography has become the de facto center of the sermon rather than the text. Studd's sacrificial life answers the vanity diagnosis compellingly — but the gospel basis of that life (Christ died for him) is stated in passing rather than proclaimed. The sermon has a biographical spine where a textual spine should be. The preacher is gifted at narrative; that gift is here masking thin exposition and absent gospel proclamation.
+
+---
+
+### 12. Illusion of Strength
+
+The sermon feels pastoral and practical because its applications are so specific and congregationally rooted. The food pantry, children's program, and parenting exhortation — these are genuinely good and not generic. But this practical strength creates a false sense that the gospel has been addressed when in fact it has been assumed. The specificity of application is real; what is missing is the specificity of proclamation.
+
+---
+
+### 13. Missed Opportunity
+
+Ecclesiastes 2:24-26 is the text's own resolution: "There is nothing better for a person than that he should eat and drink and find enjoyment in his toil. This also, I saw, is from the hand of God, for apart from him who can eat or who can have enjoyment? For to the person who pleases him God has given wisdom and knowledge and joy, but to the sinner he has given the business of gathering and collecting." This passage is the positive counterpoint to vanity — joy, wisdom, and lasting fruit come from God to those who please Him. The question the text itself raises is: how does a sinner please God? That is precisely where the gospel belongs. The text invited it. The preacher hurried past.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Preach the gospel explicitly after the Studd quotation**: Studd says "Jesus Christ be God and died for me." Pause there. Explain what that means: Christ took on human flesh, lived the life we could not live, died bearing God's just wrath against our sin, and rose as proof that the debt is paid. By faith in him alone we are forgiven and given his righteousness. Two minutes. Required.
+2. **Build the positive application from Ecclesiastes 2:24-26**: The text itself says joy, wisdom, and lasting work come from God — to those who please Him. Ask: how does a sinner please God? Answer with the gospel. This grounds the specific applications in the text rather than in biography.
+3. **Add a closing appeal to the unconverted**: End with a direct word to those who have been living for what will not last and who have never trusted Christ. The Studd poem is a fine close for the believer — add a preceding paragraph that confronts the unbeliever.
+4. **Trim the opening statistics section**: The economic comparisons are effective context-setting, but they run too long before the text appears. Cut by a third and arrive at the passage sooner.
+5. **Return to the text after the Studd narrative**: "Solomon said it first. 'Apart from him who can eat or have enjoyment?' (2:25). Studd knew that. That is why he left cricket."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon has warmth and pastoral genuineness. But it is closer to inspirational biography than gospel proclamation. The fatal flaw is absence of gospel proclamation, not dead theology.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries real pastoral care and the Studd narrative has genuine weight — a man who gave up everything because "Jesus Christ be God and died for me" is eternally significant. But the sermon stops short of letting that weight land as gospel proclamation. The glory is borrowed from Studd; it should be borrowed from the cross. **+2/5**
+
+---
+
+### 17. Rubric Fit Note
+
+Ecclesiastes is wisdom literature, and the rubric's Exposition category applies with appropriate flexibility here. Qohelet's argument is cumulative and thematic rather than propositional, so the absence of tight verse-by-verse exposition does not automatically indicate weakness. The genre permits a more thematic approach — but that leniency does not extend to the gospel category, where genre makes no difference. The gospel must be stated regardless of the text's genre.
