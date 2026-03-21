@@ -78,8 +78,6 @@ More recently there was a document signed by hundreds of evangelical leaders fro
 > But as for you, continue in what you have learned and have firmly believed, knowing from whom you learned it and how from childhood you have been acquainted with the sacred writings, which are able to make you wise for salvation through faith in Christ Jesus. All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work.
 > — 2 Timothy 3:14-17 (ESV)
 
-Today, how do we know what Paul and the disciples taught? Exactly. By reading Scripture. How can we continue in what we have learned without having learned it to start with? The study of Scripture is implicitly commanded here.
-
 It says we should continue in what we have learned. The verbs always add interesting tidbits, and this one is no different. In the Greek it is present active imperative. Someone tell me what imperative means — anyone? Right, exactly — a command. So we are to start right now, and continue without stopping to obey the command that follows. Continue acting in accordance with what Paul — and we can include the disciples in there also — have taught. Today, how do we know what Paul and the disciples taught? Exactly, by reading Scripture! How can we continue in what we have learned without having learned it to start with? The study of Scripture is implicitly commanded here.
 
 R.C. Sproul wrote that we study Scripture so that we can understand and come to know God. So that we can meet the true and living God in his Word and deepen our personal relationship with Him. But we cannot deepen a relationship with someone if we do not get to know them. So Scripture is a means to an end, and not an end in itself. Through Scripture we can come to better know the one who gave his life to save us. In another place he says something to the effect of "how can we claim to love God if we don't love his Word?"
@@ -112,11 +110,7 @@ We've already read 2 Timothy 3. I want a handful of you to each pick a different
 
 I want us to think about the sentence that says it reveals the principles by which God will judge us. Judgment is kind of a hot button topic today — people are so quick to say don't judge me, or to claim that the Bible says "judge not." Truth is we are to constantly be judging, just know that we too are also being judged.
 
-Let's start with ourselves. We should be judging ourselves based on Scripture. The Bible is sometimes called the "canon of Scripture." This term canon has been co-opted by comic book franchises and so forth. People talk about the official Marvel canon, or what have you, but the source of this word is in relation to Scripture. They don't mean cannon — like the gunpowder weapon that fires massive iron balls at concrete structures or wooden boats. No. The word canon in this context goes back to the word for "reed." They used to use reeds of a certain length as measuring sticks. Scripture is a measuring stick for our life, our actions, our relationships. It contains both the standard we should live up to, and ways to measure our progress. We absolutely should be judging ourselves.
-
-So let's start with ourselves. We should be judging ourselves based on Scripture.
-
-The Bible is sometimes called the "canon of Scripture." This term has been co-opted by comic book franchises and so forth — people talk about the official Marvel canon, or what have you. But the source of the word is in relation to Scripture. And they don't mean *cannon* — like the gunpowder weapon that fires massive iron balls at concrete structures or wooden boats. No. The word *canon* goes back to the word for "reed." They used to use reeds of a certain length as measuring sticks. Scripture is a measuring stick for our life, our actions, our relationships. It contains both the standard we should live up to and ways to measure our progress.
+Let's start with ourselves. We should be judging ourselves based on Scripture. The Bible is sometimes called the "canon of Scripture." This term has been co-opted by comic book franchises and so forth — people talk about the official Marvel canon, or what have you. But the source of the word is in relation to Scripture. And they don't mean *cannon* — like the gunpowder weapon that fires massive iron balls at concrete structures or wooden boats. No. The word *canon* goes back to the word for "reed." They used to use reeds of a certain length as measuring sticks. Scripture is a measuring stick for our life, our actions, our relationships. It contains both the standard we should live up to and ways to measure our progress.
 
 We absolutely should be judging ourselves.
 
@@ -130,9 +124,7 @@ So as our creed says, the Bible is the true center of Christian union and the su
 
 ## The God Who Disagrees With You
 
-Judgment is hard for our culture. We have worshiped to the point of idolatry our own comfort and happiness to the point that our kids don't see anything wrong with violating God's rules to be happy. I was talking to a young person a while back who struggles with elements of her identity, and when she talks to me about such things she couches them in phrases like "my friend" — did you guys ever have "air quotes friends" that you talked to someone about? Anyway, this young person was telling me that they have a hard time with any God that would ask you to forgo personal happiness in order to be obedient. You see the problem with that though right? Greg was talking last week about how we have lost the reality of the title Lord in our society. In the days of kings and queens having absolute power and authority, if they gave a command you were obligated to obey. It wasn't a request until you find something else that makes you happy. When the king commanded you to obey, you obeyed until they told you to stop or to do something else.
-
-I was talking to a young person a while back who struggles with elements of her identity. When she talks to me about such things she couches them in phrases like "my friend" — did you guys ever have "air quotes friends" you talked to someone about? Anyway, this young person was telling me that she has a hard time with any God that would ask you to forgo personal happiness in order to be obedient.
+Judgment is hard for our culture. We have worshiped to the point of idolatry our own comfort and happiness to the point that our kids don't see anything wrong with violating God's rules to be happy. I was talking to a young person a while back who struggles with elements of her identity. When she talks to me about such things she couches them in phrases like "my friend" — did you guys ever have "air quotes friends" you talked to someone about? Anyway, this young person was telling me that she has a hard time with any God that would ask you to forgo personal happiness in order to be obedient.
 
 You see the problem with that, right?
 
@@ -154,7 +146,7 @@ Some of you in this room are wrestling with exactly this. You know what God says
 
 ## The Commitment
 
-I know a lot of you committed to reading through the Bible in a year with us. I won't ask for a show of hands — but how many have mostly kept to your word to do so? We are at about the halfway point, and I want to re-commit as a church to reading through the Bible in a year.
+I know a lot of you committed to reading through the Bible in a year with us. I won't ask for a show of hands — but how many have mostly kept to your word to do so?
 
 We will finish our year-long process here in the next couple months, and I want to recommit as a church to reading through the Bible in a year. If you didn't make it last year, that's OK, let's try again. If you did, you're in for a double blessing because the second time through you find greater depths, your soul is more deeply anchored in times of trouble. You have greater instant access to the things the Prince of Peace has told us about himself.
 
@@ -245,3 +237,218 @@ or republish without resolving flagged items below.
    The communion reading (1 Corinthians 11:23-29 ESV) was not cited by
    reference in the raw transcript. Added reference in the processed version
    above. Text verified as ESV-accurate.
+
+✅ 9. DUPLICATE PARAGRAPHS REMOVED — MARCH 2026
+   Three sets of duplicate paragraphs were present in the polished version
+   (artifacts from transcript processing, not the pastor's intent):
+   a. "Today, how do we know what Paul taught?" paragraph duplicated the
+      same content in the Greek parsing section. Removed the shorter duplicate.
+   b. Canon/measuring stick explanation appeared twice in full. Kept the
+      more polished version, removed the earlier draft.
+   c. Young person identity struggle anecdote appeared twice with minor
+      wording differences. Kept the cleaner version, removed the duplicate.
+
+✅ 10. "HALFWAY POINT" CONTRADICTION CORRECTED — MARCH 2026
+    The polished version introduced "We are at about the halfway point" in
+    the Commitment section, but the next paragraph says "next couple months"
+    to finish — indicating near the end, not halfway. The raw transcript says
+    "next couple months." Removed the contradictory "halfway" addition.
+
+11. GREEK PARSING VERIFIED — MARCH 2026
+    μένε (mene) in 2 Timothy 3:14 is confirmed as present active imperative,
+    2nd person singular of μένω (menō). The pastor's characterization is
+    accurate. ✓
+
+12. CHICAGO STATEMENT DESCRIBED AS "CALVINISTIC" — STILL NEEDS CORRECTION
+    The raw transcript calls the Chicago Statement "Calvinistic." Norman
+    Geisler (co-drafter) has written that a majority of its signers were NOT
+    strong Calvinists — many were Arminian, Wesleyan, or moderate Calvinist.
+    The polished version (line 48) already removed the "Calvinistic" label
+    from the body text but the correction should be noted. ✓
+
+13. THOMAS HELWYS QUOTE — DATE NUANCE
+    The sermon dates both Helwys' confession and the KJV to 1611. Helwys'
+    document is variously dated 1611 or 1612 depending on source. The full
+    title is "A Declaration of Faith of English People Remaining at Amsterdam
+    in Holland." The quoted phrase could not be confirmed verbatim from
+    available digital sources. The wording is consistent with the style and
+    theology of the document, but exact page/article location remains
+    unconfirmed. Flag stands from original source notes.
+
+14. SANAANI ARABS PEOPLE GROUP DATA — VERIFIED MARCH 2026
+    All claims match Joshua Project data: northern mountains and northeastern
+    deserts of Yemen, capital Sana'a, qat as economic mainstay, nearly half
+    of national economy involved in qat, Muslim, view Christianity as threat
+    to community. ✓
+
+---
+
+## Voice Audit (March 2026)
+
+**Authenticity Risk: LOW**
+
+### Machine Tell Scan: CLEAN
+- No structural tells (uniform length, template loops, visible symmetry): 0 flagged
+- No transition tells (moreover, furthermore, etc.): 0 flagged
+- No word-level tells (hedging stacks, adverb inflation, AI vocabulary): 0 flagged
+- No rhythm tells (even sentence length, mechanical variation): 0 flagged
+- No substance tells (vague, interchangeable, bloodless): 0 flagged
+- No seam detection issues: 0 flagged
+
+### Voice Continuity: STRONG
+Present markers:
+- Compressed declarative chains: "We did that. Our sin caused this." ✓
+- Text-first orbit: returns to 2 Tim 3:14-17 throughout ✓
+- Gear-shift markers: "Now —" ✓
+- Direct pastoral address: "Some of you in this room are wrestling with exactly this." ✓
+- Shrinking sentences at climax: "Take a moment. Get right with God." ✓
+- Pause-and-pivot after intensity ✓
+
+Absent markers (expected): Night-is-far-gone refrain (non-Romans sermon — N/A)
+
+### Conviction Check: PASS
+- Sin confronted: idolatry of self-comfort, biblical illiteracy, worshipping an idealized self
+- Clear call: recommit to Bible reading, judge yourself by Scripture
+- Direct pastoral address: present in Keller section
+- No conditional voice creep
+- Comfort does not arrive before conviction
+
+### Cadence Check: PASS
+- Shorter sentences at climax: "He would not be God. He *could* not be God." ✓
+- Anaphora present: "Because he is God... Because he is timeless... Because he is Good and Just..." ✓
+- Breath test passes throughout
+
+### Note on Opening Section
+The "Opening: A Baptist, A Catholic, and the Book Between Them" section (lines 10-18)
+is NOT in the raw transcript submitted. This was added during a previous polishing session.
+It reads like the pastor's voice and may be from a different delivery or a separate note.
+Pastor should confirm this is his material before publication.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation (March 2026)
+
+**Verdict: A Faithful Catechetical Sermon That Teaches More Than It Preaches**
+
+**One-Sentence Summary**: A faithful opening of 2 Timothy 3:14-17 that magnified
+the historical chorus of Baptist confessions on Scripture's authority while leaving
+the gospel undeveloped and the text's own argument only partially expounded.
+
+### A. Berean Gate: PASS
+- **Scopus Test**: The sermon's thesis — "All Scripture is God-breathed and serves
+  as the measuring stick for our lives; study it, know it, submit to it" — arises
+  directly from 2 Timothy 3:14-17. ✓
+- **Authority Test**: The preacher stands under the text and calls the congregation
+  to submit to Scripture's authority. ✓
+
+### B. Fatal Flaw Flags: NONE TRIGGERED
+- Gospel presentation is a placeholder ("[Gospel presentation]") — the pastor gave
+  a gospel call as indicated in the transcript, but it is not captured in the
+  manuscript. This is a transcript limitation, not a sermon failure. However, the
+  manuscript as it stands does not contain a developed gospel presentation. Noted
+  as a significant structural weakness.
+
+### C. Score Breakdown
+
+| # | Category | Score | Notes |
+|---|----------|-------|-------|
+| 1 | Exposition & Hermeneutics | 18/25 | Good Greek work on μένε. Verses 15 and 17 receive less treatment than 14 and 16. Immediate context (false teachers, v.13) underdeveloped. Confessional history survey is related but not directly exegetical. |
+| 2 | Theology & Doctrinal Integrity | 14/18 | Inerrancy, infallibility, inspiration handled precisely. Deeply confessional. Christ referenced but not central — the sermon could survive in several sections without Christ specifically. |
+| 3 | Gospel Centrality & Force | 7/15 | The gospel presentation is a placeholder. "The one who gave his life to save us" is a passing reference, not a proclamation. The cross is absent from the manuscript text. The confessional survey and cultural commentary could survive in a non-Christian context. |
+| 4 | Conscience & Applicatory Force | 11/15 | Tim Keller section is strong conscience work. "You know what God says. And you don't like it." — excellent. JW story confronts biblical illiteracy. Addresses the comfortable and the illiterate but not the backslider or self-righteous specifically. |
+| 5 | Exhortation & Response | 5/8 | "Recommit to reading through the Bible in a year" — clear but soft. Witness not addressed. |
+| 6 | Structure & Logical Flow | 6/9 | Trackable but sprawling. The confessional history section is dense. Two separate history surveys (lines 26-38 and 60-72) cover overlapping ground. |
+| 7 | Illustration & Imagination | 5/5 | JW encounter, grandfather's measuring door, bowling bumpers, young person with identity struggles — all from the congregation's world. Memorable and native to the text. |
+| 8 | Sermonic Force | 5/5 | Direct address, oral cadence, congregation interaction ("Someone tell me what imperative means"). "He would not be God. He *could* not be God." — the manuscript roars here. |
+| — | **Subtotal** | **71/100** | |
+| + | Weight of Glory (bonus) | +3 | The measuring door illustration and "He will take our measure" carry gravity. Tim Keller section has real weight. |
+| − | Cognitive Load Modifier | −1 | Confessional history survey is slightly dense for a mixed congregation. |
+| — | **TOTAL** | **73/105** | |
+
+**Band: 70-79 — Solid but lacking, usually in application or gospel force. Needs another pass.**
+
+### D. Dead Orthodoxy Detection: NOT TRIGGERED
+- Exposition 18 / Conscience 11 — no trigger
+- Theology 14 (below 15 threshold) — no trigger
+
+### E. Core Override Questions
+1. **More of Christ or myself?** Both — the Tim Keller section and Bible-reading
+   commitment could go either way. The sermon is more about our response to
+   Scripture than about Christ's glory through Scripture.
+2. **Encounter God or ideas about Him?** Mostly ideas in the confessional history
+   survey. Real encounter in the Tim Keller section.
+3. **Comforted, convicted, or informed?** Informed and convicted. The Keller section
+   convicts. The Sproul pushback ("not everyone is at the same point") comforts
+   appropriately.
+
+### F. Strengths (Top 3)
+1. **The Tim Keller section (lines 131-143)** — "If God agreed with us on everything,
+   he would not be God. He *could* not be God." This is the sermon's strongest moment.
+   Real conscience work with real theological substance.
+2. **Illustrations are native and memorable** — the measuring door, the canon/cannon
+   distinction, the JW encounter. These are from the congregation's world and serve
+   the text directly.
+3. **Confessional depth** — the Baptist confession survey gives the congregation
+   historical roots. This is catechetical work that builds long-term categories.
+
+### G. Critical Weaknesses (Top 3)
+1. **Gospel is a placeholder** — the manuscript contains no developed gospel
+   presentation. The sermon mentions "the one who gave his life to save us" in
+   passing but never proclaims the cross, resurrection, or justification by faith.
+   For a sermon on Scripture's authority, the Christ who is the focus of that
+   Scripture (as the BFM itself says: "All Scripture is a testimony to Christ")
+   should be proclaimed, not just referenced.
+2. **Two overlapping confessional history surveys** — the "A Chorus From Our History"
+   section (lines 22-50) and the "A Chorus of Baptists on Scripture" section
+   (lines 60-72) cover substantially the same ground. The second repeats Helwys,
+   1689, Abstract of Principles, Philadelphia, New Hampshire. This is structural
+   bloat that should be consolidated.
+3. **2 Timothy 3:15 and 17 underdeveloped** — verse 15 says the sacred writings
+   "are able to make you wise for salvation through faith in Christ Jesus" — this
+   is the christological heart of the passage and receives almost no treatment.
+   Verse 17 says "complete, equipped for every good work" — the equipping function
+   of Scripture is mentioned but not developed.
+
+### H. Blind Spots
+- The sermon teaches *about* Scripture's authority but doesn't model *submission
+  to* it as powerfully as it could. The passage's own argument (v.15 — salvation
+  through faith in Christ Jesus) is the strongest case for Scripture's authority,
+  and it's barely touched.
+
+### I. Illusion of Strength
+- The confessional history survey *feels* substantial — it's impressive and
+  well-researched. But it's doing catechetical work, not expositional work. A
+  listener could leave knowing Baptist confession history without knowing what
+  2 Timothy 3:14-17 actually says.
+
+### J. Missed Opportunity
+- Verse 15: "the sacred writings, which are able to make you wise for salvation
+  through faith in Christ Jesus." This is the passage's own gospel statement.
+  Scripture's authority is not an end in itself — it points to Christ. The sermon
+  says this in passing ("Scripture is a means to an end, not an end in itself")
+  but doesn't develop it from the text's own argument.
+
+### K. Surgical Fixes
+1. **Consolidate the two confessional surveys** into one. The sermon currently
+   walks through Baptist confession history twice. Keep the stronger version
+   (with the Helwys and 1689 quotes) and fold the AWANA/kids club reference
+   into the introduction.
+2. **Develop verse 15** — "able to make you wise for salvation through faith in
+   Christ Jesus." This is where the gospel lives in this passage. Use it.
+3. **Write or integrate the gospel presentation** — even if the pastor gives it
+   extemporaneously, the manuscript should contain at least the framework.
+4. **Develop verse 17** — "complete, equipped for every good work." Connect this
+   to the exhortation. Scripture doesn't just measure us — it equips us. The
+   measuring stick is also the training manual.
+
+### L. Weight of Glory Assessment
+The measuring door illustration and "He will take our measure. His measuring tape
+will be Scripture" carry genuine eternal gravity. The Tim Keller section presses
+toward the real God behind the real Book. But the sermon settles more often for
+information than for encounter.
+
+### M. Rubric Fit Note
+This sermon functions partly as catechesis (teaching the congregation their
+confessional heritage) and partly as exposition (opening 2 Timothy 3:14-17).
+The catechetical dimension is strong but strains the exposition categories of
+this rubric. The sermon's teaching value may exceed what the score reflects.
