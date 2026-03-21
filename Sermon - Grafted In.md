@@ -1,6 +1,8 @@
 # Grafted In
 ## Genesis 12 — The Abrahamic Covenant
 
+**People Group of the Week:** ⚠️ MISSING PEOPLE GROUP — was preached but not captured in transcript; source from Joshua Project before next preach
+
 ---
 
 We're going to be in Genesis chapter 12 tonight, if you've brought your Bible — and I hope you have.
