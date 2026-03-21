@@ -200,3 +200,201 @@ He is offering you the real thing.
 *— Fool's gold story: verify specific Marshall-Manuel volume. The Light and the Glory (colonial period) is the more likely source. From Sea to Shining Sea covers 1787-1837.*
 *— Focus on the Family pornography statistics: verify current figures before preaching. Specific percentages in raw notes are potentially outdated.*
 *— Neh 13:28 correction: text says grandson of Eliashib (son of Jehoiada) married Sanballat's daughter, not a direct son of the high priest. Corrected in manuscript.*
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated:** 2026-03-21
+**Sermon:** "What the Goldsmith Sees" — Nehemiah 13:1-14
+
+---
+
+### 1. Verdict Title
+
+**Pastoral Warmth Over an Unsteady Textual Foundation — Strong Application, Fragmented Argument**
+
+---
+
+### 2. One-Sentence Summary
+
+A pastorally engaged opening of Nehemiah 13 that applies the passage with genuine warmth and a serviceable gospel appeal, while spreading its argument across too many competing themes and failing to keep the application tethered to the text's own dominant concern.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test:** Marginal pass. The sermon's stated theme is multi-headed: "outward conformity is not holiness; clean your temple; be a gatekeeper for those in your care; face tribulation rather than retreat from it; genuine vs. counterfeit faith before God." That is four or five theses, not one. The passage's own controlling concern — Tobiah's intrusion into the temple as a symptom of Israel's relapse into covenant unfaithfulness, and Nehemiah's zealous reform — is not framed with a single, demonstrable main point. The goldsmith metaphor works as a unifying image but functions more as rhetorical glue than exegetical argument.
+
+**Authority Test:** Pass. The preacher does not soften the text. He handles Nehemiah's physical confrontations honestly (v. 25), acknowledges the people's relapse, and does not editorialize the text's severity.
+
+**Berean Gate: Marginal Pass** — The sermon is text-engaged but needs a single controlling thesis.
+
+---
+
+### 4. Fatal Flaw Flags
+
+- **Flag 2 (partial):** The main point of the sermon does not clearly equal the main point of the text. Nehemiah 13:1-14 is about covenant infidelity and the contamination of the priesthood — Tobiah in the temple as a representative intrusion of the unholy into the holy. The sermon pivots to parenting gatekeeping and pearl-making as co-equal themes, neither of which arises organically from vv. 1-14. The gatekeeper and pearl sections lean on vv. 20-29 (outside the stated text range). This creates thematic dispersion.
+- **Flag 4 (partial):** Application is not entirely generic, but Part 2 (gatekeeper) slides toward generic parenting advice. The pornography statistics paragraph, while appropriately cautioned internally, functions as platform for general exhortation rather than arising from the text's argument.
+
+**Score cap not applied** — these are partial, not full-trigger flags. However, both are serious enough to note prominently and lower the score meaningfully.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 17/25**
+
+- *Textual Fidelity (7/10):* The sermon is genuinely engaged with the Nehemiah narrative and handles the primary text faithfully. However, the three-part structure draws from vv. 1-14 (Tobiah), then from vv. 15-22 (Sabbath/gatekeepers), then from vv. 23-31 (foreign marriages/pearl-making) — the stated primary text is vv. 1-14, but two of three main points pull from outside it. This is either a scope problem in the sermon header or a structure problem in the sermon body. The stated text range and the actual sermon content are misaligned.
+- *Contextual Awareness (4/5):* The Zerubbabel-Ezra-Nehemiah arc in the opening is genuinely illuminating and shows real biblical literacy. The 400-year silence to the annunciation is a powerful redemptive-historical gesture. These are real strengths.
+- *Exegetical Clarity (3/5):* The sermon explains narrative well but does not do much word-level or structural exegesis. What does "prepared a large chamber" signal about Eliashib's intent? What does Nehemiah's prayer ("remember me") tell us about his theology? These textual details remain unexplored.
+- *Logical Faithfulness (3/5):* The three-part structure (clean your temple / be the gatekeeper / make a pearl) is not derived from the passage's own argument. It is a topical grid imposed on a narrative. The FCF (Fallen Condition Focus) is identified — outward conformity is not holiness — but it is introduced and then partially abandoned as the sermon moves toward parenting and perseverance.
+
+**2. Theology & Doctrinal Integrity — 14/18**
+
+- *Christ-Centeredness (5/7):* The Nehemiah-clearing-the-temple parallel to Jesus clearing the temple is well placed and organic. The closing turn toward the Incarnation ("Do not be afraid") is moving and textually grounded in the 400-year silence. The typological connections are genuine. However, Christ's person and work are not foregrounded through the body of the sermon — he appears primarily in the gospel section.
+- *Redemptive-Historical Awareness (3/3):* Strong. The Zerubbabel-Ezra-Nehemiah arc, the 1 Corinthians 3:6 hook, and the annunciation closing show real redemptive-historical consciousness.
+- *Doctrinal Precision (3/4):* Solid. The gospel section identifies substitutionary payment and resurrection clearly. "He paid what you owed and rose from the dead to prove it" is clean and confessionally sound.
+- *Confessional Alignment (3/4):* No contradictions of confessional theology. The sermon stays within Reformed Baptist parameters on sin, grace, and the necessity of genuine conversion.
+
+**3. Gospel Centrality & Force — 10/15**
+
+- *Clarity of the Gospel (4/5):* The gospel section is brief but clear — substitutionary atonement, resurrection, personal reception of Christ. "Paid what you owed and rose from the dead to prove it" is a strong formulation.
+- *Necessity of Christ (3/5):* Christ is present but not necessary to the bulk of the sermon's argument. Parts 1-3 (clean your temple, gatekeeper, pearl) could survive intact as a motivational talk to a Jewish audience without Christ. The gospel section is appended rather than woven throughout.
+- *Cross-Centered Gravity (3/5):* The sermon moves toward the cross only at the end. The law/gospel pattern is functional — the sermon builds a case for the inadequacy of outward conformity, then offers genuine conversion as the answer — but the cross doesn't generate gravitational pull on the whole message. The hammer (law) is present but diffuse; the balm (gospel) is concentrated at the end and brief.
+
+**Synagogue Test:** Partial concern. Parts 1-3 could be heard comfortably in a synagogue. Christ is not offensive until the final section. This is a structural weakness — the Christ-necessity should be woven earlier.
+
+**4. Conscience & Applicatory Force — 11/15**
+
+- *Heart Penetration (4/5):* The "have you given Tobiah a room?" section is genuinely searching. The child who denied the mess is a disarming and effective illustration. "A bitterness arranged like furniture" is a precise image. These moments reach the affections.
+- *Specificity (4/5):* "Lust. Pride. A long-running dishonesty. A bitterness arranged like furniture" is specific and concrete. Kenny and Kurt as real examples of transformation work well.
+- *Spiritual Differentiation (3/5):* The sermon primarily addresses believers (clean your temple, be a gatekeeper) and unbelievers (gospel section). The backslider — present in this very text as the Israelites relapsing — is not directly addressed as a hearer category. The "knowledgeable but unhumbled" is not reached. Perkins' taxonomy is underused given how richly the text could address the habitual relapser.
+
+**5. Exhortation & Response — 6/8**
+
+- *Call to Response (3/4):* The gospel appeal is clear — "Come find me." The "what will you do about what's in yours?" is a genuine call to action. The gatekeeper section is more declaratory than imperative, but the final gospel call lands clearly.
+- *Equipping for Holiness & Witness (3/4):* The gatekeeper section gives practical shape to the call. The pearl illustration equips for perseverance. These are genuine equipping moves, though the "therefore" moment is more implicit than explicit.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline (3/4):* The three-part structure is memorable ("clean your temple / be the gatekeeper / make a pearl"). A listener could sketch it. However, the three points do not build on each other with logical progression — they are parallel applications of a theme, not a single developing argument.
+- *Progression (2/3):* The sermon moves from exposition to application to gospel. That is a functional sequence. But the three-point structure is more catalog than argument — there is no sense that point 2 requires point 1, or that point 3 is only possible because of point 2.
+- *Unity (1/2):* The five-element theme statement in the header is a diagnostic warning, and the sermon fulfills it. The sermon has one strong image (goldsmith/fool's gold) but multiple competing themes that strain the unity.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2):* The illustrations are from real life — children, pornography and predators in gaming platforms, fathers and retirement, specific named congregants (Kenny, Kurt). These are native to this congregation's world.
+- *Clarity (1/2):* Most illustrations illuminate well. The colonial fool's gold illustration is strong conceptually but slightly detached — it comes with its own source verification flag, which will rightly be resolved before preaching.
+- *Memorability (1/1):* "A bitterness arranged like furniture" and "Tobiah is in your temple" will travel home. The 400-year silence to the angel in Nazareth is a genuinely beautiful and memorable sermonic moment.
+
+**8. Sermonic Force — 4/5**
+
+- *Reads as Preaching (2/2):* The manuscript has oral cadence, direct address ("Some of you know Kenny's story"), breath-length paragraphs. It reads as something spoken, not submitted.
+- *Conviction on the Page (1/2):* The Vance Havner quote and the Tobiah-in-the-temple section have genuine heat. But several sections (the parenting statistics paragraph, the gatekeeper transition) are more informational than declaratory.
+- *Cadence and Breath (1/1):* Sentence length variation is present. "He is the master goldsmith. He knows gold from fool's gold. He knows the real thing from the imitation." — the tripling builds naturally. The annunciation close is the manuscript's best cadential moment.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1.** The sermon is generally accessible. The three-part structure helps. However, the thematic multiplicity (five stated themes) creates mild cognitive overhead — a first-time hearer may not be sure what the one takeaway is. No fatal flaw triggered, but one fewer theme would sharpen what this sermon is actually about.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 17/25 |
+| Theology & Doctrinal Integrity | 14/18 |
+| Gospel Centrality & Force | 10/15 |
+| Conscience & Applicatory Force | 11/15 |
+| Exhortation & Response | 6/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **72/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **73/100** |
+
+**Interpretation: Solid but lacking — needs another pass.** The sermon explains and applies well but the argument is fragmented, and Christ's necessity is not woven into the body. The gospel section is clear but too isolated.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Primarily of myself, corrected by a clear gospel appeal at the end. The balance tilts toward self-examination throughout and arrives at Christ only in the final section.
+2. *Did I encounter God, or just ideas about Him?* Partially. The "Tobiah in your temple" section and the 400-year-silence close produce genuine encounter moments. The parenting section is more informational.
+3. *Was I comforted, convicted, or merely informed?* Genuinely convicted in Part 1. Informed in Part 2. Exhorted in Part 3 and the gospel close. Not all three together at the same pitch.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The "Tobiah in your temple" application** (Part 1, "Have you given Tobiah a room?"): This is the sermon's best moment. The move from Nehemiah's action to Paul's "you are the temple" to the conscience-pressing question is exegetically sound, pastorally direct, and personally specific. "A bitterness arranged like furniture" is the manuscript's best line.
+
+2. **The redemptive-historical frame** (Opening arc and closing annunciation): The Zerubbabel-Ezra-Nehemiah arc and the 400-year silence resolving in "Do not be afraid" show genuine biblical literacy and produce real sermonic gravitas. This is not a trick — it is what the text actually means in its canonical location, and the preacher handles it well.
+
+3. **Verified sourcing and transparency:** The manuscript's internal flags (verify before print, could not be confirmed from online sources) demonstrate intellectual honesty. The Vance Havner quote is sourced with publisher and year. This is a model of careful stewardship that should be commended.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The primary text and the sermon's content are misaligned.** The stated text is Nehemiah 13:1-14, but Parts 2 (gatekeeper) and 3 (pearl/perseverance) draw primarily from vv. 15-31. Either the text should be expanded to Nehemiah 13:1-31, or the sermon should be reconceived around the controlling argument of vv. 1-14 only. As it stands, the sermon makes a promise in its text heading it does not keep in its exposition.
+
+2. **Christ is not necessary to the body of the sermon.** The Synagogue Test is partially triggered. A Jewish hearer could sit through Parts 1, 2, and 3 and be genuinely edified without Christ. The gospel appears only in the dedicated gospel section. The move from Nehemiah's temple-clearing to Christ's temple-clearing is made briefly in Part 1 but then dropped. The Christ-necessity must be woven structurally, not appended.
+
+3. **The three main points do not argue — they catalog.** "Clean your temple / be the gatekeeper / make a pearl" are three applications of a theme, not a developing theological argument. The sermon would be stronger if it asked: What does this text reveal about the human heart's inability to sustain its own reformation? — and then pressed toward the only answer. The structure currently prevents the sermon from building to anything.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the sermon's warmth and illustration density are masking a structural incoherence. The three-part outline feels natural and memorable — but it substitutes thematic parallelism for argument. The congregation may remember "clean your temple" without having been pressed by the text's deeper question: Why does Israel keep relapsing, and what is the only remedy? The sermon gestures at this (only God gives growth) but never presses it as the passage's controlling point.
+
+---
+
+### 12. Illusion of Strength
+
+The opening Zerubbabel-Ezra-Nehemiah arc feels like the sermon's thesis, and it is one of the manuscript's strongest moments. But it frames the sermon as a meditation on human limitation rather than a proclamation from this specific text. The preacher may feel the sermon has been grounded by this opening — but the exposition that follows doesn't return to or develop the "only God gives growth" thesis with sufficient force. The arc functions more as a warmup than a load-bearing structure.
+
+---
+
+### 13. Missed Opportunity
+
+**Eliashib the priest** is the sermon's most theologically loaded character — and he is almost entirely ignored. The high priest prepared a chamber for the enemy. This is not Tobiah's sin; it is Israel's religious leadership accommodating what should have been excluded. The sermon presses individual hearers on "Tobiah in your temple" but misses the deeper question: What happens when the gatekeepers themselves open the gate? Eliashib is the sermon hiding inside this sermon — the one about insiders, about religious leaders who accommodate the world, about the corruption that comes not from the outside but from within the covenant community's own leadership. This is precisely the FCF this text was written to address, and the sermon only touches it.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Reconcile the text range with the sermon content.** Either preach Nehemiah 13:1-31 and acknowledge the chapter as a whole, or rebuild the three-point structure entirely from vv. 1-14. The mismatch between stated text and actual sermon undercuts the exposition category.
+
+2. **Give Eliashib a section.** The high priest who opened the gate for Tobiah is the text's most searingly applicable figure. "What happens when the one who should be guarding the temple is the one who let the enemy in?" This is the word for elders, parents, pastors, and anyone who holds spiritual responsibility. It is in the text. Use it.
+
+3. **Weave Christ's necessity into the body.** After establishing "outward conformity is not holiness," the sermon needs to ask: What would make it holiness? That question must be answered with the gospel before the final section, not deferred to it. The Nehemiah-clearing-the-temple parallel is already there — press it: "Nehemiah could throw out the furniture, but only Christ can clean the room."
+
+4. **Add direct address to the backslider/relapser.** Nehemiah 13 is explicitly a story about people who relapsed — who had heard the Word, confessed their sins in chapter 9, and drifted back by chapter 13. There are people in this congregation in the same position. Address them directly: "You've been here before. You made the commitment. You rededicated. And here you are again. Nehemiah's story has something to say to you."
+
+5. **Sharpen the conclusion.** The gospel appeal is the sermon's truest climax, but it arrives as a separate section labeled "Gospel" rather than as the culmination of the argument. The "fool's gold is not gold no matter how long it has been sitting in the collection plate" line is one of the best in the manuscript — build toward it from Part 1, not just at the end.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** Exposition scores 17 (below the 20-pt trigger threshold at the partial category level), and the sermon has genuine pastoral warmth and conscience-pressing application. The fire is present; the structure is what needs repair.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The 400-year silence resolved in a single angelic word to a young woman in Nazareth is a genuinely weighty moment, and the Vance Havner quotation on infiltration rather than opposition carries the kind of eternal-stakes seriousness that makes a congregation still. The sermon earns 2 of 5 bonus points — the gravity is real but not sustained across the full manuscript.
+
+---
+
+### 17. Rubric Fit Note
+
+Nehemiah is Old Testament narrative, and this rubric applies with appropriate pressure. The FCF framework (Chapell) fits narrative preaching well — the passage was written precisely to address Israel's habitual covenant infidelity and the human inability to sustain self-reformation. The rubric's demand for a single controlling thesis is slightly more native to epistolary texts, but Nehemiah 13 does have a controlling concern (relapse and reform), so the standard applies without distortion. No rubric-bending required here.
