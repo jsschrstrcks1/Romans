@@ -35,7 +35,7 @@
 | Immutability / Truthfulness | Strong | `Theology Proper.md` | Classical Theism |
 | Wrath as Holy Revulsion | Very Strong | `Romans 1b - Without Excuse.md`, `Romans 3 - wrath of God (final).md`, `Romans 5.md` | Reformed (Pink, Sproul) |
 | Love — Holy, Costly, Substitutionary | Very Strong | `Romans 5.md`, `Romans 8.md` | Reformed Baptist |
-| Patience / Longsuffering | Moderate | `Romans 2.md` | Classical Theism |
+| Patience / Longsuffering | Moderate | `Romans 2 mt 23 col 3 eph 2.md` | Classical Theism |
 | Jealousy (Holy) | Light | `Theology Proper.md` | Reformed |
 
 ### 1.3 God's Relation to Creation
@@ -89,7 +89,7 @@
 | Regeneration (Spirit's Work) | Very Strong | `Ezekiel 36.md`, `Romans 8.md`, `Bible Study - The Thief Who Saw a King.md` | Reformed |
 | Indwelling / Sealing | Strong | `Romans 8.md`, `Ephesians 1.md` | Reformed Baptist |
 | Illumination of Scripture | Moderate | `sola scriptura.md` | Reformed |
-| Conviction of Sin | Strong | `Romans 2.md`, `Ezekiel 36.md` | Reformed |
+| Conviction of Sin | Strong | `Romans 2 mt 23 col 3 eph 2.md`, `Ezekiel 36.md` | Reformed |
 | Sanctification (Spirit-Wrought) | Strong | `Romans 6.md`, `Romans 8.md` | Reformed |
 | Spiritual Gifts (Non-Charismatic) | Moderate | `1 Corinthians 12*.md`, `Romans 12.md` | Cessationist-leaning Baptist |
 | Cessationism (Implicit) | Light | Corpus-wide silence on continuationism | Baptist |
@@ -103,7 +103,7 @@
 |---|---|---|---|
 | Imago Dei | Strong | `Theology Proper.md`, `Genesis sermons` | Classical Theism |
 | Male and Female (Binary, Complementary) | Strong | `Sola Scriptura 24.md`, `BFM Article 18*.md` | Complementarian Baptist |
-| Conscience as Real Courtroom | Strong | `Romans 1b - Without Excuse.md`, `Romans 2.md` | Puritan/Reformed |
+| Conscience as Real Courtroom | Strong | `Romans 1b - Without Excuse.md`, `Romans 2 mt 23 col 3 eph 2.md` | Puritan/Reformed |
 
 ### 4.2 Marriage and Family
 | Tier 3 Topic | Strength | Key Files | Tradition |
@@ -122,7 +122,7 @@
 | Total Depravity (Universal) | Very Strong | `Romans 1b - Without Excuse.md`, `Romans 3.md`, `Ezekiel 36.md`, dozens more | Five-Point Calvinist |
 | Original Sin / Federal Headship (Adam) | Very Strong | `Romans 5.md` | Reformed (Augustinian) |
 | Active Rebellion, Not Passive Ignorance | Very Strong | `Romans 1b - Without Excuse.md` | Reformed |
-| Suppression of Known Truth (Rom 1:18) | Very Strong | `Romans 1b - Without Excuse.md`, `Romans 2.md` | Reformed |
+| Suppression of Known Truth (Rom 1:18) | Very Strong | `Romans 1b - Without Excuse.md`, `Romans 2 mt 23 col 3 eph 2.md` | Reformed |
 | Law as Guardian — Exposes, Cannot Save | Strong | `Galatians 3*.md`, `Romans 7.md`, `Romans 2.1 - Don't Miss Heaven by 18 Inches.md` | Reformed, Pauline |
 | Idolatry as Wrong Master | Strong | `Psalm 42*.md`, `Romans 1b - Without Excuse.md` | Reformed Baptist |
 | Spiritual Callousing (Incremental) | Strong | `Psalm 42*.md` | Reformed, Puritan |
@@ -160,7 +160,7 @@
 | Sola Gratia | Very Strong | `Romans 4*.md`, `Romans 11*.md` | Reformation |
 | Sola Fide | Very Strong | `Romans 1a - The Power of God for Salvation.md`, `Romans 3.md`, `Romans 4*.md` | Reformation |
 | Solus Christus | Very Strong | `Romans 5.md`, `col 1.md` | Reformation |
-| Repentance — God-Granted | Strong | `Romans 2.md`, `Ezekiel 36.md` | Reformed |
+| Repentance — God-Granted | Strong | `Romans 2 mt 23 col 3 eph 2.md`, `Ezekiel 36.md` | Reformed |
 
 ### 6.4 Assurance and Security
 | Tier 3 Topic | Strength | Key Files | Tradition |
