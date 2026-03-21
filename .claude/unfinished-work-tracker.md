@@ -334,6 +334,25 @@ From `preaching-gap-analysis.md`, the top 15 preaching gaps ranked by theologica
 
 ---
 
+## Part VIII-B: People Group Repair Pass
+
+**Requirement**: Every sermon must include a People Group of the Week prayer segment. This is not optional — the pastor includes one every single time he preaches.
+
+**Current state**: Of ~517 sermon files, only ~69 have a named people group. Approximately 12 have empty placeholder slots. The remaining ~448 sermons are missing their people group segment entirely — likely lost during transcription, extraction, or never captured in the original notes.
+
+**Repair pass procedure**:
+1. During each sermon repair/polish pass, check for a People Group of the Week segment
+2. If present: extract the group name and update `people-group-map.md`
+3. If an empty placeholder exists (e.g., "(Insert people group here)"): flag as `⚠️ MISSING PEOPLE GROUP — source from Joshua Project before next preach`
+4. If no segment exists at all: add the flag `⚠️ MISSING PEOPLE GROUP — was preached but not captured in transcript; source from Joshua Project before next preach`
+5. For sermons being prepared for re-preaching or book publication: assign a people group from Joshua Project's unreached/frontier list and add the prayer segment
+
+**Priority**: Medium — resolve during existing repair passes rather than as a standalone sweep. Every sermon touched for any reason should get this check.
+
+**Tracking**: The `people-group-map.md` registry currently contains 61 confirmed groups. As repair passes add people groups, update the registry and its summary statistics.
+
+---
+
 ## Part IX: Action Items — Quick Wins
 
 These items could be resolved in a single session each:

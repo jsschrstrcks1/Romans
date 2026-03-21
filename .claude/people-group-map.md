@@ -4,6 +4,8 @@
 
 *Updated: March 21, 2026*
 
+> **Standing rule**: Every sermon includes a People Group of the Week. No exceptions. During repair passes, any sermon missing its people group segment gets flagged `⚠️ MISSING PEOPLE GROUP` and sourced from Joshua Project before next preach. See `unfinished-work-tracker.md` Part VIII-B for the full procedure.
+
 ---
 
 ## Prayer Status Key
