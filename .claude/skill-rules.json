@@ -210,49 +210,6 @@
       }
     },
 
-    "sermon-map": {
-      "enabled": true,
-      "type": "domain",
-      "enforcement": "suggest",
-      "priority": "high",
-      "description": "Maintains sermon-map.md, theological-map.md, series-trajectory.md, and date-map.md. Fires when sermons are created, modified, or imported. Provides gap analysis, illustration deduplication, and cross-map integrity.",
-      "promptTriggers": {
-        "keywords": [
-          "map", "sermon map", "index", "catalog",
-          "gap analysis", "preaching gaps", "what haven't we preached",
-          "audit map", "check map", "map integrity",
-          "illustration check", "dedup", "duplicate illustration",
-          "add to map", "update map", "new sermon",
-          "date map", "preaching date"
-        ],
-        "intentPatterns": [
-          "(add|update|index|catalog|map).*?sermon",
-          "(check|audit|verify).*?map",
-          "(gap|missing|uncovered).*?(passage|sermon|book)",
-          "(duplicate|reuse|already used).*?illustration",
-          "(date|when|sunday).*?(preach|sermon)"
-        ]
-      },
-      "fileTriggers": {
-        "pathPatterns": [
-          ".claude/sermon-map.md",
-          ".claude/theological-map.md",
-          ".claude/series-trajectory.md",
-          ".claude/date-map.md"
-        ]
-      },
-      "autoLoad": {
-        "mainFile": ".claude/skills/sermon-map/SKILL.md",
-        "maxLines": 300,
-        "loadOnFirstFileEdit": false
-      },
-      "activationMessage": "Sermon mapping active. Every sermon belongs on the map.",
-      "coActivation": {
-        "always_with": ["careful-not-clever"],
-        "optional_with": ["cognitive-memory"],
-        "note": "Map updates should always be verified (careful-not-clever) and optionally remembered (cognitive-memory)."
-      }
-    },
 
     "thus-says-the-lord": {
       "enabled": true,
