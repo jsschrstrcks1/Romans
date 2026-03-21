@@ -21,6 +21,8 @@ There's a word in this verse I want you to see. It's the word *rejoice*. In the 
 
 And Paul writes it from a Roman prison.
 
+But look at the second half of that verse: *"To write the same things to you is no trouble to me and is safe for you."* Paul is saying: I know you've heard this before. I know I've already told you to rejoice. And I'm going to tell you again — because repetition is not laziness. It's safety. You need to hear the sovereignty of God and the command to rejoice over and over, because your circumstances will try to drown it out every single week. So here it is again. Rejoice.
+
 ---
 
 ## I. Rejoice — In What?
@@ -149,6 +151,8 @@ And consider this: your sin caused greater suffering for Christ than anything He
 
 Probably none of us will ever be asked to endure a beating with a Roman scourge — the *flagrum*, with its leather straps embedded with bone and metal. Some of us may be called to die for our Lord. But no one who believes in Jesus Christ as their Lord and Savior will have to endure what Christ endured on the cross — separation from God the Father. That cup was His alone. And He drank it for you.
 
+But I need you to hear something. Christ didn't just suffer *more* than you. He suffered *in your place*. That's the difference between a hero and a savior. A hero inspires you. A savior dies for you. Paul told the Corinthians: *"For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God"* (2 Corinthians 5:21). Christ took your sin — not just its penalty, but its guilt, its weight, its stain — and He bore it on that cross so that His righteousness could be credited to your account. That is substitution. That is the gospel. And that is why Paul can say *rejoice in the Lord* — because if you are in Christ, the worst thing that could ever happen to you has already been absorbed by someone else.
+
 Some of you are angry at God right now. Some of you are watching someone you love suffer, and you can't fix it, and you can't understand why He won't. Hear me: He is not absent. He is not indifferent. He drank that cup so you would never have to.
 
 Let that settle for a moment.
@@ -195,6 +199,12 @@ That's easy enough to say for yourself. But what about what you want for your fr
 
 Give up your own dreams, your desires, and your fears to fulfill what God wants of you. Live in submission to the will of God.
 
+Some of you have never trusted Christ. You've been managing your own suffering, carrying your own cross, white-knuckling your way through life. You don't have to. There is a Savior who already carried it for you.
+
+Some of you used to rejoice. You used to walk into this room and mean it when you sang. And somewhere along the way — a diagnosis, a divorce, a betrayal, a slow drift — you stopped. You're here, but your joy is gone. Hear Paul's word to you: *Rejoice in the Lord.* Not in your feelings. Not in your circumstances. In the Lord. He hasn't changed. Come back.
+
+And some of you are rejoicing right now through the hardest season of your life, and nobody in this room knows what it's costing you. Keep going. The cloud of witnesses is real. The finish line is real. And the One who started your faith will finish it.
+
 You know the Black Knight in *Monty Python and the Holy Grail*? He loses both arms and both legs and still won't quit. "It's just a flesh wound!" Now — I'm not saying that's great theology. But there's something to the stubbornness. Whatever may come — press on toward the goal.
 
 And here's the goal. Here's the text that tells you why:
@@ -207,7 +217,17 @@ So rejoice. Not because everything is easy. Because He is good, He is sovereign,
 
 ---
 
-*Gospel.*
+Before I close — some of you have been listening to all of this, and you know it's true, but you've never done anything about it. You know God is sovereign. You know the world is broken. You might even believe Jesus died on a cross. But you have never personally trusted Him as your Lord and Savior.
+
+Here's where you stand. *"For all have sinned and fall short of the glory of God"* (Romans 3:23). That's you. That's me. That's every person in this room. And the wages of that sin — the honest payment for a life lived in rebellion against a holy God — *"is death, but the free gift of God is eternal life in Christ Jesus our Lord"* (Romans 6:23).
+
+You can't earn it. You can't be good enough. *"For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast"* (Ephesians 2:8–9).
+
+*"But God shows his love for us in that while we were still sinners, Christ died for us"* (Romans 5:8). While you were still His enemy — while you were still swimming in Adam's contamination — Christ died for you. Not after you cleaned up. Not after you got your act together. While you were still a sinner.
+
+If you believe that — if you confess with your mouth that Jesus is Lord and believe in your heart that God raised Him from the dead — you will be saved. And *"there is therefore now no condemnation for those who are in Christ Jesus"* (Romans 8:1). No condemnation. Not some. None.
+
+That's the gospel. That's why Paul can rejoice from a prison cell. And that's why you can rejoice today — no matter what you're carrying.
 
 ---
 
@@ -231,4 +251,5 @@ D. L. Moody, *One Thousand and One Thoughts from My Library* (New York; Chicago;
 - ✅ **Widow of Zarephath** — Corrected from "old woman" (Scripture does not specify her age; she is called simply "a widow").
 - ✅ **χαίρω (chairo)** — Corrected definition to standard lexical meaning: "to be glad, to be in a state of happiness and well-being." Original skeleton included "because of what you hear," which is not part of the lexical definition.
 - ✅ **Roman scourge** — Corrected from "cat of 9 tales" (misspelling of tails) to "Roman scourge / flagrum." The cat-o'-nine-tails was a British naval instrument; Jesus was scourged with a Roman flagrum embedded with bone and metal.
-- ✅ **All ESV quotations verified**: Phil 3:1, Phil 4:4, Phil 4:6, Phil 1:21, James 1:2–4, 2 Chr 16:9, Matt 10:30, Matt 6:27, Gen 50:20, Job 37:16, Job 38:4, Job 38:31, Heb 12:1–3.
+- ✅ **All ESV quotations verified**: Phil 3:1, Phil 4:4, Phil 4:6, Phil 1:21, James 1:2–4, 2 Chr 16:9, Matt 10:30, Matt 6:27, Gen 50:20, Job 37:16, Job 38:4, Job 38:31, Heb 12:1–3, 2 Cor 5:21, Rom 3:23, Rom 6:23, Eph 2:8–9, Rom 5:8, Rom 8:1.
+- ✅ **Sermon evaluation (March 2026)**: thus-says-the-lord rubric applied. Four surgical fixes: (1) second clause of Phil 3:1 treated — repetition as safety; (2) Christ's suffering grounded in substitutionary atonement via 2 Cor 5:21, not just example; (3) "Gospel" placeholder replaced with full gospel proclamation (Rom 3:23, 6:23, Eph 2:8–9, Rom 5:8, 8:1); (4) spiritual differentiation added — unconverted, backslider, and faithful sufferer addressed distinctly in application.

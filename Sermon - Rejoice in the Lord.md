@@ -9,6 +9,8 @@
 
 The Greek root word is *chairo* (χαίρω), which means to be in a state of happiness and well-being — to rejoice, to be glad. *(Corrected March 2026 — prior definition "because of what you hear" is not part of the lexical meaning; that was a contextual application, not the word itself. BDAG: "to be in a state of happiness and well-being, rejoice, be glad.")*
 
+Second clause: "To write the same things to you is no trouble to me and is safe for you." Paul says repetition is not laziness — it is safety. The congregation needs to hear the command to rejoice again and again because circumstances will drown it out.
+
 - Rejoice in my persecution — Paul knew there was a chance he would die (1:21). Ultimately Paul would be killed in the wake of the fire, and at the order of Nero.
 - Rejoice in what you hear
 - Rejoice that their beloved friends' needs are being met
