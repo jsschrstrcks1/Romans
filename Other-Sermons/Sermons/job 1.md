@@ -54,8 +54,192 @@ The gospel.
 
 Closing prayer: Ephesians 3:14-19...For this reason I kneel before the Father, from whom every family in heaven and on earth derives its name. I pray that out of his glorious riches he may strengthen you with power through his Spirit in your inner being, so that Christ may dwell in your hearts through faith. And I pray that you, being rooted and established in love, may have power, together with all the Lord's holy people, to grasp how wide and long and high and deep is the love of Christ, and to know this love that surpasses knowledge—that you may be filled to the measure of all the fullness of God.
 
-Taking strangers making family. 
-Food Pantry. 
-Clubs Thursday 5:30 pm – dinner provided. 
-Interested in a bible study, come talk to me and we will set one up. 
+Taking strangers making family.
+Food Pantry.
+Clubs Thursday 5:30 pm – dinner provided.
+Interested in a bible study, come talk to me and we will set one up.
 Thanks to those that put in the extra work to make this possible. John for getting up at 4am to cook, Dad for mowing, and coming early to set up. All those that brought food. Or ran sound, or well – you know what you have contributed, and I thank you from the deepest part of my heart. We couldn’t make it without all the things that all of you do.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Sermon File:** job 1.md
+**Passage:** Job 1 (primarily vv. 1, 5; with Psalm 68:5–6; Romans 10:9; Ephesians 3:14–19)
+
+---
+
+### 1. Verdict Title
+**A Warm Pastoral Heart With a Wandering Textual Compass**
+
+---
+
+### 2. One-Sentence Summary
+A well-intentioned celebration Sunday sermon on Job’s fatherhood that displays genuine pastoral warmth and a real concern for gospel witness, but drifts so far from Job 1’s actual argument that the passage becomes a launching pad rather than the governing authority.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: MARGINAL PASS (with significant drift)**
+The preacher draws from Job 1:1 and 1:5 and builds a theme of godly fatherhood and God as Father — concepts present in the passage. However, Job 1’s actual main point concerns Job’s blamelessness and the cosmic test of whether righteousness can survive suffering apart from reward. That central argument is entirely absent. The preacher extracts Job’s character as a father and builds a thematic sermon from it, rather than expounding what the passage is actually arguing. This does not quite fail the Berean Gate — the theme arises from the text — but it reads as topic-driven preaching using Job 1 as a character sketch rather than as an argument to be unfolded.
+
+**Authority Test: PASS (with softening)**
+The preacher does not contradict the text or edit it dishonestly. However, the more challenging contours of Job 1 — the suffering, Satan’s accusation, the stripping of everything — are entirely absent. The sermon leaves Job’s blamelessness as a positive example while ignoring what that blamelessness was about to cost him.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 2 — Main point does not equal text’s point:** The main point of Job 1 is not "Job was a godly father" — it is the establishment of a righteous man whose righteousness will be tested in fire. The sermon treats Job as a parenting case study. Score cap at 69 is triggered.
+
+**Flag 4 — Application is partially generic:** The parenting application is a real theme, but lines like "good godly parents raise their kids to love the Lord" and "you wouldn’t let your kids die a physical death" remain at motivational-poster depth without searching the conscience with specificity.
+
+**Flag 5 — Exhortation present but thin:** The sermon ends with "repent and run to him" and "Romans 10:9 — the gospel," but the exhortation is mostly headline-level rather than a summoned call. The actual gospel is gestured at ("Romans 10:9 / The gospel") rather than proclaimed.
+
+**Score is capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+- *Textual Fidelity (5/10):* The preacher returns repeatedly to Job 1:1 and 1:5 but never expounds the passage as an argument. Job’s blamelessness is defined (helpfully via Romans 3:23), and repentance is explained from v.1’s "turning from evil." But the hermeneutical movement is character extraction, not textual exposition. The FCF (why does this text exist?) is never named — the fallen condition addressed is parental neglect/negligence, but Job 1 was not written to address parenting failures.
+- *Contextual Awareness (2/5):* No engagement with Job’s place in wisdom literature, the divine council scene (vv.6–12), or the book’s overarching question. The passage is treated as a stand-alone character profile.
+- *Exegetical Clarity (3/5):* The handling of "blameless" is accurate and accessible. The definition of "fear" using the Grand Canyon illustration is functional. The word "upright" is stretched into a discussion of Scripture’s reliability in a way that is creative but exegetically thin.
+- *Logical Faithfulness (3/5):* No direct eisegesis, but the jump from Job’s character to God-as-Father via Psalm 68:5–6 is a homiletical leap rather than a logical development from the passage.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+- *Christ-Centeredness (4/7):* The movement toward Christ as the ultimate Father is genuine, and the reference to Romans 10:9 and the Ephesians closing prayer are appropriate. However, Christ is not organically present in the exposition — he is introduced as a theme pivot rather than arising from the text’s own trajectory.
+- *Redemptive-Historical Awareness (1/3):* No placement of Job within redemptive history. The OT/NT difference in sacrifice for sin is briefly noted ("the system God had established") but not developed.
+- *Doctrinal Precision (3/4):* The definition of blamelessness (sin covered, not sinlessness) is accurate and Reformed-compatible. Grace is affirmed warmly. No serious doctrinal errors.
+- *Confessional Alignment (3/4):* No contradictions of confessional theology. The gospel is at least pointed toward, even if not fully proclaimed.
+
+**3. Gospel Centrality & Force — 8/15**
+- *Clarity of the Gospel (2/5):* The sermon points to Romans 10:9 as "the gospel" but the actual content of the gospel is not proclaimed in the sermon body. An unbeliever would not know from this sermon what to believe or why Christ’s death and resurrection is necessary.
+- *Necessity of Christ (3/5):* Christ is mentioned and needed in the sermon’s logic, but primarily as the better Father rather than as the Savior who atones. His role is predominantly relational/illustrative.
+- *Cross-Centered Gravity (3/5):* "Nothing worse we could do than kill his son... and for those that know him have been forgiven" is a gospel gesture, but it is one sentence embedded in a character-study context. The cross is not the gravitational center of the sermon.
+
+**4. Conscience & Applicatory Force — 9/15**
+- *Heart Penetration (3/5):* The illustrations of good and bad fathers and the "dead beat dad" analogy reach the heart, and the call to spiritual parenting presses real responsibility. The close — "ask whose your daddy" — is pointed.
+- *Specificity (3/5):* The parenting application is specific and grounded. The call to backsliding Christians to repent is real. However, most of the diagnostic force is directed at one category (parents) and the application doesn’t reach the unmarried, the childless, the elderly, or those suffering like Job himself.
+- *Spiritual Differentiation (3/5):* The sermon distinguishes believers from non-believers and addresses parents/backsliders. Two or three of Perkins’ seven categories are reached (believers, backsliders, open sinners). The knowledgeable-but-unmoved and the humbled-but-not-yet-believing are not addressed.
+
+**5. Exhortation & Response — 4/8**
+- *Call to Response (2/4):* "Today is the day to repent... run to him" and "Romans 10:9 / the gospel" constitute a call, but they are abbreviated. The believer is told to repent; the unbeliever is pointed to Scripture without a developed proclamation.
+- *Equipping for Holiness & Witness (2/4):* The church is encouraged to be spiritual parents — a genuine equipping thrust. The invitation to Bible study and food pantry participation grounds this in community.
+
+**6. Structure & Logical Flow — 6/9**
+- *Clarity of Outline (2/4):* There are identifiable movements — Job’s character (v.1), Job as father (v.5), God as Father (Psalm 68), the choice of fathers (illustration), and the call — but the transitions are loose and the sermon does not announce or return to a clear main idea.
+- *Progression (2/3):* Movement is present but the wallet advertisement illustration and the Wampanoag story feel like supplemental detours rather than progressions.
+- *Unity (2/2):* Despite the wandering, the "God as Father" theme unifies the sermon adequately.
+
+**7. Illustration & Imagination — 3/5**
+- *Relevance (1/2):* The Grand Canyon/fear illustration and the two-neighbor/wallet illustration are accessible. The Wampanoag story is interesting but lengthy and the connection is loose.
+- *Clarity (2/2):* Illustrations generally clarify rather than compete.
+- *Memorability (0/1):* No single illustration is likely to be carried home as an image that encodes the main point.
+
+**8. Sermonic Force — 3/5**
+- *Reads as Preaching (2/2):* The manuscript has oral warmth — direct address, conversational asides, humor ("ask whose your daddy"). It was clearly spoken before it was written.
+- *Conviction on the Page (1/2):* The Scripture-driven assertion ratio is low. Long stretches go on anecdote and illustration without grounding in the text.
+- *Cadence and Breath (0/1):* Sentences tend toward uniform length. The climax ("In Christ there is peace. In Christ there is hope...") is the best moment of sermonic energy but arrives after the sermon has already lost structural focus.
+
+---
+
+### 6. Cognitive Load Modifier: **0**
+The sermon is accessible. No complexity overload. A new believer could follow it and carry home a single idea: God is a good Father and you need to be in relationship with him.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 13/25 |
+| Theology & Doctrinal Integrity | 11/18 |
+| Gospel Centrality & Force | 8/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **57/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total (pre-cap)** | **59/100** |
+| **Fatal Flaw Cap Applied** | **59/69 cap** |
+| **Final Score** | **59/100** |
+
+**Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.**
+*(Score sits just under the cap; the fatal flag and the weak exposition are the governing problems.)*
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Somewhat of both — the God-as-Father theme is genuinely Christ-ward, but the parenting application pulls heavily self-ward.
+2. *Did I encounter God, or just ideas about Him?* Mostly ideas. The sermon tells us God is a good Father; it does not press us into His presence.
+3. *Was I comforted, convicted, or merely informed?* Some comfort, some conviction around parenting and rebellion. The conviction is real but not deep.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Genuine pastoral warmth.** The church-birthday context, the thanksgiving for volunteers, and the "taking strangers, making family" motif are authentic and appropriate. The sermon feels like it comes from a pastor who loves his people.
+2. **Accessible definition of blamelessness.** The handling of Job 1:1 — "not that he had never sinned, but that his sin was covered" — grounded in Romans 3:23, is accurate, clear, and would help a new believer who might otherwise read "blameless" as sinlessness.
+3. **The two-neighbor illustration.** The contrast between the abusive household and the threadbare-but-loving household is vivid and makes the "whose your daddy" call concrete. It is the most effective illustration in the sermon.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The text is never actually preached.** Job 1:1–5 is read and a few terms defined, but the passage’s own argument — a man set up by God as a specimen of true righteousness, about to be tested — is entirely absent. The sermon uses Job as a character sketch and never asks what Job 1 is doing in the canon or why God called him "blameless."
+2. **The gospel is gestured at, not proclaimed.** "Romans 10:9 / the gospel" and "The gospel" as section headings are not gospel presentations. An unbeliever sitting in that room on the church’s birthday would not leave knowing the content of the gospel — what Christ did, why it was necessary, and how one receives it.
+3. **The Psalm 68 pivot is unearned.** Moving from Job 1 to Psalm 68 to illustrate God as Father of the fatherless is not wrong, but it is not exegetically connected to Job 1’s actual argument. It turns Job into a launching pad for a Psalm that could appear in any sermon about God’s fatherhood.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how fully the sermon has departed from what Job 1 is actually about. The suffering — the test — the silence of the heavenly council — the stripping of everything from a blameless man — these are Job 1’s heartbeat. A congregation that needed to hear about suffering, about why God permits devastation in the lives of his faithful, would have received none of that. The sermon preaches *from* the character of Job without ever preaching *through* the passage’s movement.
+
+---
+
+### 12. Illusion of Strength
+
+The warm, relational, accessible quality of the sermon creates an impression of pastoral faithfulness. The illustrations are engaging, the tone is genuine, and the people almost certainly felt loved. But pastoral warmth is not the same as textual faithfulness. A congregation can feel cared for and still be biblically underfed. The emotional warmth here masks the thin exposition beneath it.
+
+---
+
+### 13. Missed Opportunity
+
+Job 1’s most profound moment — God pointing to Job as "blameless and upright" precisely so that his faith can be tested before a watching universe — is a stunning redemptive-historical text. The preacher missed an extraordinary opportunity to preach that God’s assessment of Job as blameless points forward to the only truly blameless man, Jesus Christ, whose righteousness is the only ground on which any of us can be called blameless. That would have been an organic, text-driven, gospel-centered movement.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Rebuild the sermon around Job 1’s actual argument.** The main point of Job 1 is not "be a godly father" but "God declares a man righteous and tests that righteousness." Reframe the whole sermon around that question: what does it mean to be called blameless by God? That question drives naturally to the gospel and to Christ as the only truly blameless one.
+2. **Proclaim the gospel — don’t just label it.** Replace "Romans 10:9 / the gospel" with an actual 3–5 minute proclamation of the gospel content. Articulate why Christ had to die, what his resurrection means, and what it means to confess and believe. The church’s birthday is exactly the occasion to do this well.
+3. **Address the suffering in Job 1 honestly.** If using Job 1 on a celebration Sunday, acknowledge the tension: this is a man about to lose everything, and God allowed it. That sets up a rich application about trusting God as Father even when the evidence seems against it — which is far more searching than "be a good parent."
+4. **Use the Puritan ‘uses’ pattern for the parenting application:** conviction (you may be failing in this), direction (here is what godly parenting looks like), consolation (for parents who have failed and whose children are wandering — God is Father to the fatherless, including your wandering child).
+5. **Cut the Wampanoag story or shorten it significantly.** It is the longest single element in the sermon and its connection to the main point is the loosest.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+Not triggered — the sermon has genuine warmth and is not bloodless. The problem is insufficient exposition, not cold correctness.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries the warmth of a pastor who genuinely loves his people and wants them to know God as Father, but it does not carry the weight of eternity — the gravity of a blameless man being stripped of everything, and the God who permitted it, is entirely absent.
+
+---
+
+### 17. Rubric Fit Note
+
+Job is wisdom literature, and the rubric’s categories bend somewhat here — particularly Redemptive-Historical Awareness, which requires more care in narrative/wisdom passages than in epistolary ones. The sermon’s choice to focus on Job 1:1 and 1:5 as character material is not intrinsically wrong for a wisdom text, but the preacher must still ask what the passage is *arguing*, not just what characters it *describes*. The rubric applies fairly here; the passage is not the problem — the approach to it is.
