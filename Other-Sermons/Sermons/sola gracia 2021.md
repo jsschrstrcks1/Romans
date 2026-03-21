@@ -46,3 +46,171 @@ Finally the famous Baptist Preacher of the last century James Petigrew Boyce wro
 So God owes us nothing. Absolutely nothing. What we deserve is eternity separated from him, but those of us who are believers in Jesus Christ he has chosen to save. Not because of any merit or any height of virtue, or any other thing we could achieve in our own strength. We are after all dead according to scripture.  Like Ephesians 2:8-9 says “for its by grace you have been saved, through faith, and this not of yourself it’s the gift of God, lest any man should boast” when God intercedes on our behalf it is an undeserved blessing. If you ask him and mean it, you will be saved scripture says. 
 
 Perhaps you are here tonight, and have never made that decision. Tonight’s the night!
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Date Evaluated:** 2026-03-21
+**Text:** John 6:43–51, 60–65
+**Series:** Five Solas (Sola Gratia)
+
+---
+
+### 1. Verdict Title
+*Pastoral Heart, Scattered House: Genuine Grace Theology Buried Under Historical Detour and Structural Drift*
+
+---
+
+### 2. One-Sentence Summary
+A sincere opening of John 6’s irresistible-grace teaching that established total depravity with warmth and pastoral urgency, while spending its most formative minutes on Reformation history and Catholic polemic rather than the text that was announced.
+
+---
+
+### 3. Berean Gate
+**Result: Conditional Pass — with significant drift warning.**
+
+*Scopus Test:* The sermon’s thesis — that salvation is entirely by divine grace because man is spiritually dead and unable to come to Christ without the Father’s drawing — does arise from John 6:44 and 6:65. Pass.
+
+*Authority Test:* The preacher submits to the text’s claims regarding total inability and sovereign drawing. However, the sermon departs from the text for the majority of its length, treating it as a springboard for Reformation history. The text’s own argument — including the Bread of Life discourse, the offense of the disciples, and the question of who can receive Christ — is substantially underdeveloped. The authority of the text is affirmed in principle but not honored in practice.
+
+---
+
+### 4. Fatal Flaw Flags
+**Score cap: 69 — one fatal flaw confirmed.**
+
+- **Flag 4 — Application is entirely generic:** The application ("Is your relationship with God marked by obedience rooted in faith?") is a legitimate diagnostic question, but it floats free of the passage. No specific application arises from the text’s own argument. The John 6 passage offers rich applicatory material — the grumbling disciples, the scandal of sovereign election, the question "Are you also going to leave?" — none of which is pressed applicatorily.
+- **Flag 5 — No actual exhortation (partial):** The closing line — "Tonight’s the night!" — gestures at an invitation but does not constitute a genuine exhortation. No specific call to believe, repent, obey, or pursue is articulated. The congregation is warned and informed but not summoned.
+
+*Score is capped at 69.*
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+- *Textual Fidelity (6/10):* The sermon’s two anchor verses (v. 44 and v. 65) are accurately cited and applied. But the passage covers vv. 43–51 and 60–65 — the Bread of Life claim, the disciples’ offense, the "eat my flesh" scandal, the departure of many followers. None of this receives treatment. The sermon uses two proof texts from a rich passage rather than expositing the passage.
+- *Contextual Awareness (2/5):* No awareness of John 6’s eucharistic/sacramental debates, the feeding of the 5,000 background, or the Passover setting. The sermon does not establish why Jesus is saying these things to this crowd at this moment.
+- *Exegetical Clarity (3/5):* No Greek engagement. The concept of "draws" (ἑλκύω) — a word with enormous exegetical weight in this debate — is not examined. The meaning is asserted correctly but not shown.
+- *Logical Faithfulness (2/5):* The long Reformation-history digression (roughly half the sermon) is logically disconnected from the announced text. The sermon does not stay in orbit around John 6.
+- *FCF:* The fallen condition — man’s spiritual deadness and inability — is named clearly. This is the sermon’s clearest exposition strength.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+- *Christ-Centeredness (5/7):* Christ is genuinely necessary to the sermon’s argument. The need for regenerating work before faith is correctly framed. However, the cross is mentioned only briefly ("He provided the cross for that") and is not expounded.
+- *Redemptive-Historical Awareness (1/3):* None. John 6 sits at a crucial juncture in Jesus’ Galilean ministry — the turning point where many disciples depart. This is not placed in redemptive history.
+- *Doctrinal Precision (4/4):* The doctrine of total depravity is clearly and accurately stated. Irresistible grace (drawing) is correctly framed. The Baptist Faith and Message and Boyce quotation strengthen the doctrinal content significantly. One concern: "He expects us to try to meet his standard" — this statement, while pastorally intended, drifts toward a works-frame and needs clarification.
+- *Confessional Alignment (3/4):* Generally consistent with Reformed Baptist soteriology. The perseverance of the saints is included. The concern noted above about "trying to meet God’s standard" introduces slight ambiguity.
+
+**3. Gospel Centrality & Force — 9/15**
+- *Clarity of the Gospel (3/5):* Ephesians 2:8–9 is cited and the gift-nature of salvation is stated. But justification by faith is not clearly articulated as a distinct act. The gospel is present but in broad strokes, not proclamation.
+- *Necessity of Christ (4/5):* Christ’s necessity is well-established through the total depravity argument. The sermon would not survive without Christ.
+- *Cross-Centered Gravity (2/5):* The cross is mentioned ("He sent his son to die on the cross for us") but never expounded. What happened at the cross? What did the death of Christ accomplish? Penal substitution, propitiation, imputation — none of these are present. The cross appears as a fact rather than a proclamation.
+- *Synagogue Test:* The sermon would not fully pass. A devout Jew could agree with most of the historical material about papal corruption. The offense of the cross — that Christ’s blood is the only ground of justification — is gestured at but not clearly planted as the offense it must be.
+
+**4. Conscience & Applicatory Force — 8/15**
+- *Heart Penetration (3/5):* The "lost as a goat" passage and the diagnostic question about obedience-rooted faith are genuine pastoral moves. The children-hanging-on-ankles illustration has warmth.
+- *Specificity (2/5):* The application is general. "Is your relationship with God marked by obedience rooted in faith?" is a valuable question but it is not grounded in the specific material of John 6. The passage’s own pressure points — the grumbling, the offense at election, the departure of disciples — are not pressed applicatorily.
+- *Spiritual Differentiation (3/5):* The sermon distinguishes the cultural Christian (tares, chaff) from the genuine believer. This is valuable and shows pastoral instinct. But the humbled-but-not-yet-believing, the backslider, the knowledgeable-but-unmoved, and the genuinely grieving are not addressed distinctly.
+
+**5. Exhortation & Response — 3/8**
+- *Call to Response (1/4):* "Tonight’s the night!" is not a call to response — it is a hint at one. The congregation is not told what to believe, what to repent of, what to pursue. The exhortation is implicit at best.
+- *Equipping for Holiness and Witness (2/4):* The Billy Sunday quotation provides a witness-oriented send, but it is used more as an illustration of fighting sin than as a genuine commissioning of the congregation.
+
+**6. Structure & Logical Flow — 5/9**
+- *Clarity of Outline (2/4):* There is no discernible outline. The sermon moves: mission moment → Reformation history → papal corruption → indulgences (extended) → man’s condition → grace → diagnostic question → invitation. The Reformation history section belongs to a different sermon (Sola Scriptura, which was last week).
+- *Progression (2/3):* The second half of the sermon (from "What is man capable of?" onward) progresses reasonably. The first half meanders.
+- *Unity (1/2):* The sermon is divided between two topics — Sola Scriptura extended and Sola Gratia. This weakens unity significantly.
+
+**7. Illustration & Imagination — 3/5**
+- *Relevance (2/2):* The children-on-ankles illustration is vivid and congregationally native. The indulgence found during the rental property clean-out is a striking personal story.
+- *Clarity (1/2):* The children illustration effectively illustrates the entangling weight of sin, though it drifts from the sermon’s main point (grace as the remedy) toward behavior modification (we can’t move with all this sin on us).
+- *Memorability (0/1):* The Michelangelo/sculptor image is evocative but goes undeveloped and will not be carried home with clarity.
+
+**8. Sermonic Force — 3/5**
+- *Reads as Preaching (2/2):* The manuscript has a genuine oral quality — direct address, rhetorical questions, conversational rhythm. This is clearly spoken material, not an essay.
+- *Conviction on the Page (1/2):* The Billy Sunday quotation and the "born again" headline carry sermonic weight. But extended quotations from the BFM and Boyce read as inserted material rather than preached conviction.
+- *Cadence and Breath (0/1):* Sentence variation is present in places but the sermon does not build to a climactic moment. It decelerates at the close.
+
+**Subtotal: 57/100** (before cognitive load modifier)
+
+---
+
+### 6. Cognitive Load Modifier
+**−1:** The sermon asks the congregation to track the Five Solas series, Reformation history, Catholic ecclesiology, total depravity, irresistible grace, and a genuine gospel invitation in a single message. The average church member can follow the main argument — deadness, divine drawing, grace alone — but the historical material creates cognitive competition. Marginally over-packed.
+
+---
+
+### 7. Total Score
+**57 − 1 = 56/100** → Capped at 69 due to fatal flaw flags.
+
+*Reported score: 56/100 — Fundamentally flawed. Rebuild from the text.*
+
+**Interpretation:** Below 60. The sermon has a genuine and true theological center, but the structural and applicatory deficiencies prevent it from functioning as a complete proclamation.
+
+---
+
+### 8. Core Override Questions
+1. *Does this sermon make me think more of Christ — or myself?* — Somewhat more of Christ, but the historical/polemical material keeps the focus diffused.
+2. *Did I encounter God, or just ideas about Him?* — Ideas about Him, with moments of genuine warmth. Not encounter.
+3. *Was I comforted, convicted, or merely informed?* — Informed, with a genuine warning to the nominal Christian. Not deeply convicted or comforted.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Total depravity is stated clearly and pastorally** — The dead-body metaphor, the walking dead culture illustration, and the sustained argument from John 6:44/65 together form a coherent and accessible presentation of total inability. This is the sermon’s strongest passage.
+2. **Pastoral courage toward nominal Christianity** — The warning to the cultural Christian ("lost as a goat, lost as a tare") is specific, honest, and shows real pastoral backbone. Many preachers avoid this.
+3. **Doctrinal sourcing is well-chosen** — The Boyce quotation on Sola Gratia is precisely on-point and theologically rich. The BFM inclusion shows confessional self-awareness. These are used appropriately.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The announced text is abandoned for half the sermon** — John 6:43–65 is a theologically dense, narratively rich passage. The Bread of Life discourse, the disciples’ grumbling, the departure of many — none of this is opened. The sermon uses two verses from the passage as proof texts and spends the majority of its time on Reformation history that belongs to the Sola Scriptura sermon.
+2. **The cross is mentioned but not proclaimed** — "He sent his son to die on the cross for us" (near the end) is the closest the sermon gets to a gospel proclamation, and it receives one sentence. What happened at the cross? What does Christ’s death accomplish for the spiritually dead sinner? Justification, propitiation, imputation — these are absent. The cross is assumed, not proclaimed.
+3. **The invitation is a placeholder, not an exhortation** — "Tonight’s the night!" without any specification of what believing looks like, what one must repent of, or what the response entails is not preaching — it is an altar call placeholder. The congregation deserved to be told: *Here is what you must believe. Here is what you must turn from. Here is what Christ has done and what you must now do with it.*
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the Sola Scriptura material from the previous week has bled significantly into this sermon. What feels like "necessary background" is actually a repeated sermon — the papal authority problem, the indulgences, Luther’s 95 Theses — all of this was presumably covered last week. The congregation is being asked to sit through a partial re-run before reaching the new material. The preacher’s genuine passion for Reformation history has pulled the sermon off its textual center.
+
+Additionally, the statement "He expects us to try to meet his standard" introduces a subtle works-frame that partially undermines the sovereign-grace argument. This likely does not register to the preacher as contradictory, but it will confuse hearers who are trying to synthesize "we are dead and can do nothing" with "God expects us to try." The two need reconciling — the solution is sanctification-by-grace language, not effort-language.
+
+---
+
+### 12. Illusion of Strength
+
+The extended historical material feels like depth — it shows the preacher has read widely, knows his Reformation heritage, and can situate Sola Gratia in its polemical context. But this is historical education, not exposition. The congregation walks away knowing that Luther nailed his theses, that indulgences were corrupt, and that popes change their minds — none of which the text says. The confidence of the historical tour masked the thinness of the textual work.
+
+---
+
+### 13. Missed Opportunity
+
+John 6:60–65 is one of the most pastorally urgent passages in the Gospels: *"From this time many of his disciples turned back and no longer followed him."* This is the passage where Jesus’ teaching on sovereign election becomes the crisis point — where many who called themselves followers decide the doctrine is too hard and leave. This passage directly addresses the nominal Christianity problem the preacher rightly presses in his application. The text itself corners the cultural Christian. That connection was entirely missed, and it would have made the sermon’s best moment exponentially more powerful.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Cut the Reformation history to two minutes maximum.** One paragraph establishing why Sola Gratia matters as a Reformation recovery, one sentence transitioning to the text. The remaining time belongs to John 6.
+2. **Preach vv. 60–65 as the sermon’s crisis point.** "This is a hard saying — who can accept it?" That is your congregation’s question too. Many sitting in church buildings right now will turn back. Expose that.
+3. **Add a clear cross-proclamation.** After the dead-body/total-depravity section, insert: "But here is what makes the Bread of Life discourse astonishing — the one who says ‘no one can come unless the Father draws him’ is the same one who says ‘I am the living bread that came down from heaven.’ The drawing Father draws sinners *to Christ*. And Christ — bread, body, blood — gives his life for the world. The cross is not an afterthought. It is the mechanism of sovereign grace." Two minutes. Non-negotiable.
+4. **Clarify "tries to meet God’s standard."** Replace with: "God does not expect sinless perfection — he provided Christ for that. But he does produce genuine fruit in those he regenerates. The question is not whether you’ve been perfect, but whether the Spirit has been at work — and whether you see any evidence of it."
+5. **End with a real exhortation, not a hint.** "If you are here tonight and the Father is drawing you — here is what you must do: Believe on the Lord Jesus Christ. Not try harder. Not reform yourself. Believe that his death paid what your death owed. Turn from your self-sufficiency. Come to the one who says, ‘Everyone the Father gives me will come to me, and whoever comes to me I will never drive away.’"
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon has pastoral heat and genuine urgency. The problem is structural and applicatory, not inertness.
+
+---
+
+### 16. Weight of Glory Assessment
+There are real flashes of eternal gravity — the total depravity argument carries genuine weight, and the warning to the nominal Christian shows a preacher who cares about souls — but the sermon’s center of mass is in church history rather than the living Word, and the close does not carry the congregation to the weight it could.
+
+---
+
+### 17. Rubric Fit Note
+John 6 is a Gospel narrative with didactic discourse embedded in it — the rubric fits well. The Bread of Life discourse is explicitly theological and applicatory, so the exposition/application categories apply without strain. The one category that required charitable adjustment is Sermonic Force — the conversational, oral quality of this manuscript is a genuine strength even where the structure is weak, and that was credited accordingly.
