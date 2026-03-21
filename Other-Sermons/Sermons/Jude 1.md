@@ -67,3 +67,202 @@ But the most important thing, the starting point for all of this is a relationsh
 Communion:
 
 that the Lord Jesus on the night when he was betrayed took bread, and when he had given thanks, he broke it, and said, “This is my body which is for you. Do this in remembrance of me.” In the same way also he took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.” For as often as you eat this bread and drink the cup, you proclaim the Lord’s death until he comes.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date**: 2026-03-21
+**Sermon**: Jude 1
+**Primary Text**: Jude 1 (stated); actual content is a survey of canon formation and Gnostic pseudepigrapha
+
+---
+
+### 1. Verdict Title
+
+**A Sunday School Lesson on Canon Formation That Forgot It Was a Sermon on Jude**
+
+---
+
+### 2. One-Sentence Summary
+
+A well-intentioned apologetics survey of the Gnostic gospels and canon formation criteria that uses Jude 1 as a loose thematic reference point while never actually preaching Jude’s own argument — his urgent call to “contend for the faith once for all delivered to the saints” against specific false teachers who have crept in.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test**: FAIL. The stated text is Jude 1. The sermon’s actual content is: (1) an introduction to Dan Brown’s novels, (2) a survey of the Council of Nicaea and canon formation, (3) an explanation of Apostolicity, Catholicity, and the Pseudepigrapha, (4) a comparison of Gnostic theological claims to orthodox claims, and (5) a brief reference to beginning a series on false religions. Not a single verse of Jude is exegeted. Jude’s own argument — his shocking pivot from a planned letter about salvation to an urgent warning about specific apostates who “have crept in unnoticed” (v. 4) — is not opened. The sermon is a freestanding apologetics lesson that uses Jude as a filing label.
+
+**Authority Test**: The preacher does not misrepresent Scripture, but he does not submit to Jude’s text because he never engages Jude’s text.
+
+**Berean Gate**: FAIL — the Scopus Test fails. The sermon does not say what Jude says. The main point of the sermon is “Gnostic gospels are false and here’s why” — this is not the main point of Jude 1.
+
+Per rubric Section A: “This sermon is not text-driven. The main point of the sermon does not arise from the main point of the passage. No score is assigned. The sermon must be rebuilt from the text, not decorated with it.”
+
+---
+
+### 4. Fatal Flaw Flags
+
+The Berean Gate failure technically halts the evaluation. However, in the interest of pastoral usefulness, the evaluation will continue with a score assigned, noting that the gate failure is the primary diagnostic.
+
+**Flag 1 — No clear gospel presentation**: The sermon ends with “the most important thing, the starting point for all of this is a relationship with Jesus Christ. (gospel).” — another placeholder. The Communion words that follow are the institution narrative, not a gospel proclamation. No justification, no cross, no resurrection is preached in the body of the sermon.
+
+**Flag 2 — Main point does not equal text’s point**: As noted above — Jude’s argument is contending for the faith against crept-in false teachers. The sermon argues “Gnostic gospels are demonstrably false.” Related themes, but not the same point.
+
+**Flag 3 — Christ is absent or unnecessary**: The sermon could be delivered in a history classroom. Christ’s name appears as part of what the Gnostics deny, but he is not preached.
+
+**Score capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 5/25**
+
+- *Textual Fidelity (10)*: 1/10. Jude is not exegeted. No verse is opened. The sermon contains one reference to “Jude was preaching on different things heresies” — this is the only acknowledgment that Jude’s own content exists.
+- *Contextual Awareness (5)*: 1/5. The sermon provides historical context (Nicaea 325 AD, Tatian’s Diatesseron, second-century canon process) but none of this is the context of Jude 1. Jude’s context — a first-century Jewish-Christian letter responding to antinomian intruders in specific communities — is entirely absent.
+- *Exegetical Clarity (5)*: 1/5. No exegesis occurs.
+- *Logical Faithfulness (5)*: 2/5. The apologetic argument (language dating, Apostolicity, Catholicity, cross-referencing, Pseudepigrapha category) is logically organized and largely accurate. The canon formation explanation is reasonable and accessible. But none of it is derived from or in service of Jude.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 10/18**
+
+- *Christ-Centeredness (7)*: 2/7. The sermon identifies Gnostic denial of Christ’s messianic identity as a disqualifying error. But Christ is a doctrinal data point, not the proclaimed Savior.
+- *Redemptive-Historical Awareness (3)*: 1/3. The historical survey is ecclesiastical, not redemptive-historical. The story of canon formation is not the same as the story of redemption.
+- *Doctrinal Precision (4)*: 4/4. The canon formation criteria (Apostolicity, Catholicity) are accurately stated. The three-category system (Canon, Apocrypha, Pseudepigrapha) is correctly described. The contrast between Gnostic and orthodox theology on the nature of God, women, heaven, and salvation is accurate.
+- *Confessional Alignment (4)*: 3/4. The treatment of Sola Scriptura (briefly noted at the opening) and canon formation is consistent with confessional Baptist theology. The movement toward dialogue with Catholic tradition is theologically cautious and not uncritical.
+
+**3. Gospel Centrality & Force (15 pts) — 3/15**
+
+- *Clarity of the Gospel (5)*: 1/5. Another placeholder gospel (“gospel” in parentheses). The institution of the Lord’s Supper at the end is the nearest thing to gospel proclamation in the sermon — but quoting the institution narrative is not the same as proclaiming the cross.
+- *Necessity of Christ (5)*: 1/5. Christ is necessary to the apologetic argument (Gnostics are wrong about him) but not to the sermon’s own proclamatory structure.
+- *Cross-Centered Gravity (5)*: 1/5. No cross.
+
+**4. Conscience & Applicatory Force (15 pts) — 4/15**
+
+- *Heart Penetration (5)*: 1/5. The sermon is entirely informational. No moment presses the conscience.
+- *Specificity (5)*: 2/5. The carm.org recommendation is practically useful. The list of Gnostic theological errors is specific and well-organized.
+- *Spiritual Differentiation (5)*: 1/5. The sermon addresses the congregation as a uniformly curious audience receiving information. No differentiation among Perkins’ categories.
+
+**5. Exhortation & Response (8 pts) — 2/8**
+
+- *Call to Response (4)*: 1/4. “Do some more research on your own” and the placeholder “(gospel)” are not exhortations. The altar call at the end is the Communion invitation, which is a different kind of response.
+- *Equipping for Holiness & Witness (4)*: 1/4. The stated intention — equipping the congregation to respond to false religious claims while sharing the gospel — is admirable, but the sermon does not complete this equipping. It provides historical context, not witnessing tools or conversational handles.
+
+**6. Structure & Logical Flow (9 pts) — 5/9**
+
+- *Clarity of Outline (4)*: 3/4. The apologetic survey has a discernible order: Dan Brown → Nicaea → canon criteria → Pseudepigrapha → Gnostic theological errors → conclusion. The structure is logical if not expository.
+- *Progression (3)*: 1/3. The survey does not build toward a theological climax. It catalogs errors and then stops.
+- *Unity (2)*: 1/2. The unity is topical (false gospels) but not textual. Jude and the canon-formation lecture do not cohere into a single argument.
+
+**7. Illustration & Imagination (5 pts) — 3/5**
+
+- *Relevance (2)*: 2/2. Dan Brown’s novels are a genuinely effective entry point for the congregation’s cultural frame. The language-dating illustration (modern slang identifying text age) is clever and accurate.
+- *Clarity (2)*: 1/2. The “George Washington writing about the internet” illustration is well-deployed. The “hip” / generational meaning illustration is slightly overworked.
+- *Memorability (1)*: 0/1. The language-dating illustration is the most memorable. The George Washington illustration could carry home.
+
+**8. Sermonic Force (5 pts) — 2/5**
+
+- *Reads as Preaching (2)*: 1/2. The sermon reads more as a classroom lecture or Sunday school lesson than as proclamation. The question-and-answer format (“How many gods does the Bible say exist? ... What does the gnostic say?”) is pedagogical, not homiletical.
+- *Conviction on the Page (2)*: 1/2. The preacher’s disgust at Gnostic theology is genuine (“Heaven is inside you, and you’re experiencing it right now. Crazy right? Completely opposite to scripture.”) and briefly energizes the sermon. But this is apologetic indignation, not gospel proclamation.
+- *Cadence and Breath (1)*: 0/1. No climactic compression. The sermon ends with a reference to a future series on false religions.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−2**. The sermon presents a full survey of canon history, three classification categories, four canon criteria, Gnostic theological errors across five doctrinal domains, and a plan for future false-religion series — all without adequate development time for any individual concept. The congregation receives a useful but dense orientation to a broad subject. This is above optimal load for a Sunday sermon; it would be appropriate for a multi-week class.
+
+---
+
+### 7. Total Score
+
+| Category | Raw | Cap |
+|---|---|---|
+| Exposition & Hermeneutics | 5/25 | — |
+| Theology & Doctrinal Integrity | 10/18 | — |
+| Gospel Centrality & Force | 3/15 | — |
+| Conscience & Applicatory Force | 4/15 | — |
+| Exhortation & Response | 2/8 | — |
+| Structure & Logical Flow | 5/9 | — |
+| Illustration & Imagination | 3/5 | — |
+| Sermonic Force | 2/5 | — |
+| **Subtotal** | **34/100** | → |
+| Weight of Glory Bonus | +0 | — |
+| Cognitive Load Modifier | −2 | — |
+| **Raw Total** | **32** | — |
+| **Fatal Flaw Cap** | — | **32/69** |
+
+**Final Score: 32/69 (capped — Berean Gate fail + fatal flaw flags active)**
+
+**Interpretation: Fundamentally Flawed** — Below the floor. The sermon must be rebuilt from Jude’s own text and argument. The apologetics content, while accurate and useful, belongs in a separate teaching series, not substituting for Jude’s sermon.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ or myself?* — More of early church history and Gnostic errors. Christ is what the Gnostics were wrong about.
+2. *Did I encounter God, or just ideas about Him?* — Ideas about ideas about him (Gnostic distortions).
+3. *Was I comforted, convicted, or merely informed?* — Informed. Competently and usefully informed — but not preached to.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Accurate and accessible apologetics content**: The canon formation explanation is genuinely good introductory material. The congregation that receives this information is better equipped to respond to “lost gospel” claims in popular media. The stated pastoral purpose — equipping the church for witness — is commendable.
+2. **Effective Dan Brown entry point**: Beginning with a culturally familiar reference that the congregation has actually seen or read is smart pastoral pedagogy. It makes the abstract (canon criteria) concrete (why Thomas is not in your Bible).
+3. **Doctrinal precision on Gnostic errors**: The comparison of Gnostic and orthodox claims across five categories (monotheism, view of women, heaven, salvation, Jesus as Messiah) is clear, accurate, and useful for witness training.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Jude is not preached**: The sermon’s text is never opened. Jude’s thundering exhortation to “contend earnestly for the faith once for all delivered to the saints” (v. 3) — a direct command with enormous practical purchase — is not proclaimed. Jude’s description of false teachers who “have crept in unnoticed” (v. 4) is the most relevant verse for the sermon’s stated topic (false teaching) and it goes unmentioned.
+2. **The gospel is a placeholder twice**: The sermon ends with “(gospel)” in parentheses. This is the second sermon in this batch with a placeholder gospel. This pattern suggests the gospel presentations are being improvised or abbreviated in delivery — which is a structural risk that must be addressed. A written-out gospel proclamation should be part of every sermon manuscript.
+3. **No conscience work and no exhortation from Jude**: Jude’s letter is not a calm academic survey; it is a pastoral alarm raised by a man who “found it necessary to write appealing to you to contend for the faith.” The urgency of the letter — its visceral descriptions of false teachers (clouds without water, wild waves, wandering stars) — never enters the sermon. The congregation is invited to do research; they are not summoned to contend.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the apologetics content, while genuinely good, is doing Jude’s job for him in a different register. Jude’s own polemic against false teachers is more specific, more urgent, and more theologically charged than the Gnostic-comparison survey. The preacher has prepared well for a topic that Jude raises — but then bypassed Jude’s own treatment of it.
+
+---
+
+### 12. Illusion of Strength
+
+The accuracy and organization of the canon formation content creates an impression of expositional rigor. But accurate historical information about the Pseudepigrapha is not the same as opening Jude 1. The congregation may leave feeling they received solid biblical grounding — when in fact they received accurate church history that was not derived from the stated text.
+
+---
+
+### 13. Missed Opportunity
+
+Jude 3 — “I found it necessary to write appealing to you to contend for the faith once for all delivered to the saints” — is the most important verse in the letter and one of the most important verses in the New Testament for a church that needs to know what it believes and why. This verse, with its rare word *hapax* “once for all delivered,” its urgency (“I found it necessary”), and its corporate address (“to you”), would have been the perfect foundation for the apologetics content the preacher brought. The lesson should serve the text; the text should not serve as a label for the lesson.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Rebuild the sermon around Jude 3-4**: The thesis should be: “Jude found it necessary to call the church to contend for a faith that false teachers were actively undermining. He still finds it necessary.” All the apologetics content then flows from this mandate — we learn to recognize false gospels because Jude commands us to contend.
+2. **Open the text before the historical survey**: Spend the first ten minutes on Jude 3-4 — who wrote it, why (the shocking pivot), what “contend earnestly” means (Greek *epagonizomai* — one of the most athletic words in the New Testament), and who these false teachers were. Then bring in the historical and apologetic material as tools for fulfilling Jude’s command.
+3. **Replace the placeholder “(gospel)” with written-out gospel content**: State from the pulpit: Christ bore the judgment that false teachers deny — he was the only one who could fulfill the law they bypassed, and the only one who could pay the debt their antinomianism accumulated. Write this out. Preach it.
+4. **Use Jude’s own descriptions of false teachers**: “Clouds without water, carried along by winds; fruitless trees in late autumn, twice dead, uprooted; wild waves of the sea, casting up the foam of their own shame; wandering stars, for whom the gloom of utter darkness has been reserved forever” (vv. 12-13). This is more vivid than anything in the Dan Brown survey and it is from the text.
+5. **End with Jude’s own doxology (vv. 24-25)**: “Now to him who is able to keep you from stumbling and to present you blameless before the presence of his glory with great joy...” This is the text’s own Weight of Glory moment and it is magnificent. Use it.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+Not triggered in the traditional sense. The sermon is not coldly orthodox — it is warmly apologetic. But it is a form of orthodoxy that informs rather than transforms. The concern is informational preaching masquerading as expository preaching.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries no eternal gravity. A lesson on canon formation criteria does not feel like it matters beyond Sunday in the way that Jude’s own doxology would.
+
+---
+
+### 17. Rubric Fit Note
+
+Jude is an epistle — specifically an urgent polemical letter with strong Old Testament allusions (Enoch, Michael, Balaam, Korah) and one of the most spectacular doxologies in the New Testament. The rubric fits the genre well. The difficulty here is not genre strain but genre abandonment — the sermon is not an epistle sermon at all. The apologetics content would fit better as a stand-alone adult education series on canon formation and responding to false gospels, with Jude 3 as the mandate verse rather than the filing label.

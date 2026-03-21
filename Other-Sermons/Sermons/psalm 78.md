@@ -175,3 +175,199 @@ Come to Him today.
 *Illustrations: JFK Jr. crash (instruments / instructor / landmarks); 9/11 personal memory; Hurricane Irma / Kenny Duffield*
 *Quotes: Spurgeon on living in the Bible (consistent counsel, not a direct quotation)*
 *Historical figures: R.C. Sproul, Charles Spurgeon*
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Sermon:** Psalm 78:1-8 — "Don't Forget What the Lord Has Done"
+**Primary Text:** Psalm 78:1-8
+
+---
+
+### 1. Verdict Title
+
+**"A Structurally Elegant Sermon on Intergenerational Faithfulness — Thin Exposition, Strong Illustration, and a Gospel That Arrives Late and Leaves Quickly"**
+
+---
+
+### 2. One-Sentence Summary
+
+A well-structured, accessibly illustrated sermon on the command to transmit God's faithfulness across generations that uses a memorable three-strand framework (Word, church, testimony) and personal narrative effectively, but treats Psalm 78:1-8 as a launching pad rather than a governing text, and presents the gospel briefly and without the grounding it deserves.
+
+---
+
+### 3. Berean Gate
+
+**PASS.**
+
+**Scopus Test:** The sermon's thesis — "Tell the next generation what God has done: through His Word, His church, and the testimony of His acts" — arises directly from Psalm 78:1-8's command to tell future generations the glorious deeds of the LORD. The JFK Jr. triple-failure framework maps organically onto the triple lifeline of Word/church/stories. The connection is genuine.
+
+**Authority Test:** The preacher submits to the text's claims. The hard part of Psalm 78:8 — the warning against being "a stubborn and rebellious generation, a generation whose heart was not steadfast" — is not softened; it is quoted and applied directly to fathers. No parts of the passage are quietly skipped.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 5 — partial trigger:** The sermon moves from explanation to application but does not land a clear, commanding exhortation from the text. Fathers are told they are responsible. The congregation is urged to share their stories. But there is no "therefore" moment — no single, urgent imperative drawn from the text's logic that tells the congregation what they must *now* do. The closing gospel section ends with "Come to Him today" which is an exhortation, but it is directed at seekers rather than the believing congregation addressed throughout.
+
+**Flag applies but does not cap the score on its own.** Combined with the gospel assessment below, the score is evaluated without cap. Score stands at earned value.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 15/25**
+
+- *Textual Fidelity (6/10):* The passage (vv.1-8) is read, the superscription is explained (Maskil as both musical and instructional), and the core command (tell the next generation) is clearly identified. But the exposition stays at the surface of the text. The specific vocabulary of vv.1-2 ("give ear," "incline your ears," "parable," "dark sayings from of old") receives no treatment. The critical phrase "set their hope in God" (v.7) — which is the purpose clause of the whole command — is not developed: the goal of the intergenerational transmission is hope, and hope grounded in what? The FCF is identified (forgetting what God has done, passing that forgetfulness to the next generation) but not named with theological precision as spiritual amnesia with covenantal consequences.
+- *Contextual Awareness (3/5):* The Maskil superscription is helpfully explained. The relationship of Psalm 78:1-8 to the rest of the psalm (which goes on to recount Israel's repeated failure and God's repeated faithfulness) is not noted — and this omission matters, because the eight verses under study are a preface to one of the longest historical rehearsals in the Psalter. The "tell the next generation" command has a specific content: this is the story of Israel's sin and God's faithfulness despite it. The sermon treats the command abstractly without grounding it in that specific covenantal content.
+- *Exegetical Clarity (3/5):* The Maskil is helpfully unpacked. The word "tell" is identified as a command. But the passage's own argument — why it matters to tell, what happens when it's not told (v.8), and what the goal of the telling is (v.7, "set their hope in God") — is not developed with exegetical care. The v.8 warning is noted but not pursued.
+- *Logical Faithfulness (3/5):* No eisegesis. The JFK Jr. framework is applied as illustration, not as exegetical argument. The danger is that the illustration (instruments/friend/landmarks = Word/church/stories) becomes more memorable than the text itself — a risk the sermon does not entirely avoid.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+
+- *Christ-Centeredness (4/7):* Christ is present in the gospel section and is named as the one "who sent His Son to do what you could not do." The connection between Israel's intergenerational story and the gospel's redemptive-historical culmination in Christ is not made. Psalm 78 is a rehearsal of the covenant with its repeated cycle of sin, judgment, and mercy — this cycle culminates christologically in ways the sermon does not develop.
+- *Redemptive-Historical Awareness (2/3):* The gospel section gestures toward redemptive history ("the God who parted the Red Sea and healed the sick and calmed the storm and raised the dead is the same God who is mindful of you"). This is valid but undeveloped. The covenantal logic of Psalm 78 — that the stories must be told *because* they reveal the character of the God who keeps covenant — is not named.
+- *Doctrinal Precision (3/4):* Nothing theologically incorrect is stated. The gospel summary ("live the life you should have lived and die the death you deserved") is essentially substitutionary. No major doctrinal problems.
+- *Confessional Alignment (2/4):* Broadly orthodox but without confessional texture. The doctrines of grace, covenant theology, and the relationship between the old and new covenant's teaching obligations are not engaged. The text naturally raises these questions (why tell the next generation? — because God has bound Himself to His people in covenant, and faith is covenantally transmitted) and they go unaddressed.
+
+**3. Gospel Centrality & Force — 9/15**
+
+- *Clarity of the Gospel (3/5):* The gospel section is present and includes the substitutionary element ("live the life you should have lived and die the death you deserved"). But it is brief and positioned at the end as an appendix to the main address. An unbeliever present at this service would hear that Jesus died in their place and that God is not passive or distant — but the specific problem (sin as offense against a holy God, earning wrath, requiring satisfaction) is not articulated. The door is held open ("the door is open") without explaining why it was previously shut.
+- *Necessity of Christ (3/5):* Christ is presented as the Savior who did what we could not do. The necessity is stated but not argued from the text or from the human condition that Psalm 78 itself names.
+- *Cross-Centered Gravity (3/5):* The sermon does not move toward the cross through its main body — the three-strand framework (Word, church, testimony) is developed without christological center. The cross appears in the final section as the content of the gospel but is not the gravitational center of the sermon's argument.
+
+**4. Conscience & Applicatory Force — 9/15**
+
+- *Heart Penetration (3/5):* The section addressed to fathers ("Fathers — this is on you first") is the sermon's most searching moment. The rhetorical question about intentional teaching is pointed. The JFK three-failures device creates a sense of personal accountability. But the heart is not probed with the depth that Psalm 78's own warning ("that they should not be like their fathers, a stubborn and rebellious generation") could support.
+- *Specificity (3/5):* The application to fathers is specific. The suggestion to share personal testimony of God's faithfulness is specific. But the bridge to concrete action is thin — fathers are told this is their responsibility but are not given any structure, example, or starting point for how to actually teach their children.
+- *Spiritual Differentiation (3/5):* The sermon addresses fathers, the broader congregation, and seekers. The JFK analogy specifically targets the person who refuses the friend and abandons the landmarks — this is a vivid portrait of the backslider or the person who has access to the means of grace but turns them down. This is the sermon's strongest applicatory moment.
+
+**5. Exhortation & Response — 4/8**
+
+- *Call to Response (2/4):* The gospel section ends with "Come to Him today." The body of the sermon ends with "Not only for your sake — for your kids' sake." These are both genuine calls. But neither is grounded in the text's own imperative logic. The "therefore" is gestured toward rather than stated. The sermon would be strengthened by a clear final imperative drawn from the text: "Asaph's command is not optional. He says: *tell it.* This week, tell your children one thing God has done. Not in general. One thing. Name it. Tell them when it happened. Tell them what it means."
+- *Equipping for Holiness & Witness (2/4):* The Spurgeon reference provides some equipping ("live in the Bible"). The church and testimony strands give some framework. But the equipping is broad rather than specific.
+
+**6. Structure & Logical Flow — 8/9**
+
+- *Clarity of Outline (4/4):* The three-strand framework (Word/church/testimony) is clear, memorable, and well-anchored in the JFK triple-failure device. A listener could sketch this on a napkin. The bookending of the JFK illustration (introduced at the opening, resolved at the conclusion) is structurally elegant.
+- *Progression (3/3):* The sermon builds well. The opening illustration sets up the three points. The 9/11 story develops Point 1. The "Fathers" section develops Point 2. The hurricane story develops Point 3. The resolution of the JFK illustration in the triple-lifeline section ties everything together. The progression is the sermon's clearest strength.
+- *Unity (1/2):* The sermon has one dominant idea. The unity is slightly strained by the gospel section, which introduces a new address (seekers) and a new mode (evangelistic appeal) that does not fully integrate with the rest of the sermon's address to the believing community and the fathers within it.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2):* JFK Jr. is a well-known figure, and the crash analysis (three specific failures, clearly named) is accessible and memorable. The 9/11 memory is personal and specific. The Hurricane Irma section models exactly the kind of testimony the sermon calls the congregation to give.
+- *Clarity (2/2):* The instrument/friend/landmark mapping to Word/church/testimony is clear and does not obscure the theological point.
+- *Memorability (0/1):* The JFK device is memorable. However, the instruments/friend/landmarks framework is more memorable than the Psalm 78 command itself — a congregation member may leave remembering "don't turn down the friend in the cockpit" without being able to say what Psalm 78:1-8 teaches. This is the characteristic risk of strong illustration: the container outshines the content.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2):* The manuscript reads as preaching — conversational, direct, with genuine pastoral warmth. The Hurricane Irma section is particularly effective in modeling the testimony mode the sermon is calling for.
+- *Conviction on the Page (1/2):* The personal narratives carry conviction. The text itself is not proclaimed with enough force to match the illustrative weight of the sermon.
+- *Cadence and Breath (0/1):* The sermon maintains a fairly even pace throughout, without significant climactic compression. The conclusion, while it returns to the JFK device nicely, does not build to a climactic moment.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**0** — Well-paced. The three-strand framework provides clear organization. The sermon is accessible to ordinary hearers throughout.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 15/25 |
+| Theology & Doctrinal Integrity | 11/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 8/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **63/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **65/105** |
+
+**Interpretation: Concerning gaps. The sermon explains more than it preaches. Significant revision needed, particularly in exposition and gospel force.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* **Mixed.** The fathers' application directs attention to personal responsibility. The gospel section directs attention to Christ. The balance favors responsibility over grace.
+2. *Did I encounter God, or just ideas about Him?* **Ideas about God's faithfulness**, primarily mediated through illustration. The text of Psalm 78 is not inhabited long enough for God to speak in His own voice.
+3. *Was I comforted, convicted, or merely informed?* **Informed and appropriately challenged** — particularly in the section addressed to fathers. The conviction stops short of the text's full weight.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The JFK Jr. triple-failure device as structural framework:** The decision to introduce the illustration, develop the three failures, and then map them onto the three lifelines at the sermon's close is the strongest structural move in the batch. It is memorable, clear, and the payoff at the conclusion earns its setup.
+
+2. **The Hurricane Irma testimony section:** This is exactly what Psalm 78:1-8 is calling the congregation to do — and the preacher models it from his own life. The specific details (the tree falling the wrong way, the peace before the storm, the honest grief followed by trust) give the congregation a pattern to follow, not just an abstract command to obey.
+
+3. **The "Fathers — this is on you" section:** The directness of this address, the rhetorical questions (how many of you spend time intentionally teaching them about the Lord?), and the connection to v.8's warning make this the sermon's most searching pastoral moment. Fathers are not flattered.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Psalm 78's purpose clause (v.7 — "set their hope in God") is undeveloped:** This verse is the theological climax of the passage — the reason for the entire intergenerational command. The stories are not told merely to preserve information; they are told so that each generation will *set their hope in God.* Hope in God is a covenantal term with depth — it involves trust, waiting, reliance. The sermon treats the command abstractly without grounding it in this christological and covenantal telos.
+
+2. **The gospel section is appended rather than integrated:** The gospel arrives at the end as a separate address to seekers, disconnected from the sermon's main argument. But the connection is already built into the text: the stories Israel must tell are the stories of redemption — the Exodus, the wilderness, God's covenantal faithfulness. These stories culminate in Christ. The gospel is not an appendix to Psalm 78; it is the content of what the next generation must be told.
+
+3. **The specific content of "what God has done" remains abstract:** The sermon calls the congregation to tell the next generation what God has done, but never specifies the *essential* content — the gospel itself. The stories of God's faithfulness in individuals' lives are secondary testimony; the primary testimony is the death and resurrection of Christ. A child who hears only personal testimony without hearing the gospel will be moved but not saved.
+
+---
+
+### 11. Blind Spots
+
+The preacher has a genuine gift for illustration and structure. The blind spot is the assumption that a well-structured, engagingly illustrated sermon *on* faithful transmission has itself transmitted faithfully. The sermon calls the congregation to tell the next generation — but in doing so, it models personal testimony more than it models what the specific content of that testimony should be. A congregation leaving this sermon may have been motivated to share their stories without knowing that the story they most need to share is the story of the cross.
+
+---
+
+### 12. Illusion of Strength
+
+The JFK framework *feels* like a complete hermeneutical and applicatory structure because it is clean, memorable, and resolved satisfyingly at the conclusion. This creates the impression that the three strands (Word/church/testimony) have been fully developed from the text. They haven't — they are derived from the illustration mapped onto the text, not from the text's own argument. The sermon's structure is more coherent than its exegesis, and the structure's coherence masks the exegesis's thinness.
+
+---
+
+### 13. Missed Opportunity
+
+Psalm 78:4 — "the glorious deeds of the LORD, and his might, and the wonders that he has done" — is the content specification the sermon never fully inhabits. What are these glorious deeds? What are these wonders? Psalm 78 answers this question across 72 verses: the Exodus, the wilderness, the manna, the water from the rock, the quail, the Sinai covenant, the repeated cycles of sin and mercy. These are not merely inspiring historical events — they are the acts of God that reveal His character: patient, holy, merciful, faithful to covenant despite human rebellion. The sermon could have spent even two minutes cataloging two or three of these specific deeds and then connecting them to their culmination in Christ. This would have transformed the "tell the next generation" command from a vague exhortation into a specific act with definite content.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Name v.7's purpose clause as the sermon's thesis:** "The goal of the telling is hope — 'that they should set their hope in God.' Not just knowledge. Not just historical memory. Hope. And hope, in the Bible, is not optimism — it is confident trust in a covenant-keeping God. You are not just telling stories. You are installing in your children a reason to trust God when everything goes wrong."
+
+2. **Connect the gospel to the content of Psalm 78's stories:** "The stories Asaph wants the next generation to hear — the Exodus, the Red Sea, the water from the rock — these are all rehearsals of the one story that makes them make sense: the death and resurrection of Jesus Christ. God's rescue of Israel from Egypt is a shadow of His rescue of sinners from sin. The next generation needs to hear your personal testimony, yes. But more than your story, they need His story — the gospel."
+
+3. **Add a specific closing exhortation for fathers:** "Asaph's command is not 'think about telling your children.' It's a command: *tell them.* This week — not this year, this week — sit down with your child or grandchild and say, 'Let me tell you something God has done.' Tell them one thing. Write it down if it helps. Then tell them what it means: God is faithful. And then tell them what it points to: Jesus Christ died for sinners, and He rose, and He is the reason I am still standing."
+
+4. **Integrate the gospel earlier:** Rather than appending the gospel at the end as an address to seekers, build it into the "testimony" strand of the three lifelines: "God gave us the stories — and the greatest story is the gospel itself. The next generation will set their hope in God when they understand that God sent His Son to do what none of us can do — to live the life we should have lived and die the death we deserved. That is the testimony that must never be lost."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon has pastoral warmth and genuine application. The weakness is structural (insufficient exposition, gospel appended) rather than spiritual (bloodless orthodoxy).
+
+---
+
+### 16. Weight of Glory Assessment
+
+The personal testimonies (9/11, Hurricane Irma) give this sermon genuine moments of unction, and the missionary frame of reference throughout suggests a preacher who takes the eternal stakes seriously — but the weight of the text itself, the urgency of Asaph's command to transmit covenant memory across generations, is not fully proclaimed.
+
+**Bonus: +2/5**
+
+---
+
+### 17. Rubric Fit Note
+
+Psalm 78:1-8 is a wisdom psalm with an instructional/didactic function — it is Asaph teaching Israel how to teach. The rubric applies well. The rubric's emphasis on the FCF (fallen condition focus) is particularly useful here: the fallen condition Asaph addresses is spiritual forgetfulness and its intergenerational consequences, and this could have been named far more sharply. No rubric category is strained by this genre.

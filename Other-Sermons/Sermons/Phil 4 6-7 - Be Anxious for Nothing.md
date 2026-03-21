@@ -93,3 +93,149 @@ Its like a situation I had with my dogs last night. I had brought home two hoof 
 I patiently told her to wait till after cooper goes to bed, and I'll give her his. She didn't really understand, because shes still a dog. But at the end of the day she got the better treat by waiting. That's whats in store for us.
 
 That however starts with the Gospel.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated:** 2026-03-21
+**Rubric:** Thus Says the Lord — Reformed Baptist Sermon Evaluation
+
+---
+
+### 1. Verdict Title
+
+**The Gospel Promised but Never Delivered: A Warm Pastoral Sermon on Anxiety That Ends One Sentence Too Early**
+
+---
+
+### 2. One-Sentence Summary
+
+A personally-grounded, pastorally warm sermon on Philippians 4:4-7 that correctly identifies worry as a failure of faith, develops the command to rejoice with genuine textual observation and vivid congregational illustration, and then closes with the single most damaging final line a sermon can have — "That however starts with the Gospel" — without ever preaching it.
+
+---
+
+### 3. Berean Gate
+
+**PASS.**
+
+The sermon's main point — *Anxiety is a failure of faith; bring your worries to God in prayer and rejoice in the Lord who is trustworthy and sovereign* — is demonstrably the main point of Philippians 4:4-7. The preacher stands under the text's commands rather than above them. Paul's imperatives (rejoice, do not be anxious, pray with thanksgiving) govern the sermon's argument. The text controls the structure.
+
+**Berean Gate: PASS**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**ONE FATAL FLAG — score capped at 69:**
+
+1. **No clear gospel presentation** — "That however starts with the Gospel" is the sermon's final line. It names the gospel as the foundation of the entire message but does not preach it. This is not an oversight; it is an incomplete sermon. The cross, the death of Christ for sinners, justification by faith, the substitutionary atonement — none are stated. The sermon is built on a foundation that is promised but never laid before the congregation. A hearer who does not know the gospel leaves having heard excellent applications but not the ground on which those applications stand.
+
+*Note: All other potential flags are either not triggered or only marginally:*
+- Application is specific and congregationally grounded: no "generic application" flag.
+- Exhortation is present (the repeated "Be anxious about nothing, Take your requests to God") though formulaic by the close.
+- The sermon is accessible to ordinary hearers — no cognitive load flag.
+- Christ is present as the object of faith and the source of peace, though his finished work is assumed rather than proclaimed.
+
+---
+
+### 5. Score Breakdown
+
+| Category | Score | Max | Notes |
+|---|---|---|---|
+| Exposition & Hermeneutics | 16 | 25 | Phil 4:4-7 is the evident primary text; Phil 4:4 is opened with genuine Greek observation (the repetition of *rejoice* as a command, not a request, and its weight from repetition — "really really really hungry"). The command structure of the passage is rightly identified. Matthew 6:25-34 is brought in appropriately as a parallel. The text controls the sermon's movement. Weakness: no contextual awareness of the Philippian church, Paul's imprisonment, or the book's argument; the passage is handled as a standalone unit rather than in its canonical context. Exegetical transparency is present and accessible. |
+| Theology & Doctrinal Integrity | 11 | 18 | God's sovereignty is stated and developed through illustration ("you and God are the majority"; the finite child/parent knowledge illustration). Worry as a form of unbelief — "I don't trust you, not with this God" — is a theologically precise and pastorally honest diagnosis. Christ is present as the eternal object of joy ("Find your joy in Jesus") and as the one who conquered death ("for the Christian this world is the only hell we will ever experience"). The gospel is gestured toward but not proclaimed, which weakens this category substantially. No confessional precision on justification or union with Christ. |
+| Gospel Centrality & Force | 3 | 15 | The final line promises the gospel and withholds it. The sermon teaches *about* Christ's trustworthiness and the eternal perspective he provides, but never proclaims the cross, the resurrection, or the basis for the peace that surpasses understanding. The Synagogue Test applies partially — a moral theist could sit through this sermon and not be offended by the necessity of Christ's blood, because that blood is not mentioned. The dog-and-treat illustration at the close, while warm, is the sermon's penultimate word — Christ's death for sinners is not. |
+| Conscience & Applicatory Force | 11 | 15 | This is the sermon's strongest section. The litany of specific anxiety-producing scenarios (covid, the vaccine, sick children, cancer, finances, geopolitical tensions) addressed with the same answer (Phil 4:6) is repetitive by design and effective. The congregation is not left with abstract application. The "find your gospel appointment" in the broken truck scenario is excellent — concrete, surprising, and conscience-pressing. The personal illustrations (the sheep/dogs crisis, the football locker-room self-critique) show a preacher who is exposing his own inner life, not just the congregation's. The Ellisha/mom illustration is tenderly accurate about maternal worry. Perkins' categories partially reached: believers (encouraged to trust), doubters (addressed through the covid-fear litany), and indirectly the self-sufficient ("I can only trust myself with this"). The unbeliever/backslider are not differentiated. |
+| Exhortation & Response | 5 | 8 | The Phil 4:6 refrain as a structured answer to every anxiety scenario is a genuine exhortation — the congregation is told what to *do* (be anxious for nothing; pray with supplication and thanksgiving). The "resolve to trust" implicit in the close and the "focus on Christ, not on yourself" call are real imperatives. Weakness: the exhortation is almost entirely inward-facing (personal peace, personal trust) and does not equip the congregation for witness or corporate covenant life. |
+| Structure & Logical Flow | 7 | 9 | The sermon has a clear and traceable movement: definition of worry → personal confession of worry → natural analogy (lack of information) → read the text → Greek observation → personal illustration (sheep/dogs) → application litany (Phil 4:6 refrain) → Matthew 6 → dog/treat illustration → gospel promised but not delivered. Each section connects to the next. The Phil 4:6 refrain is a structural device that works well. The weakness is the sermon's final turn — after building well, it ends abruptly with a single line that does not close the argument. |
+| Illustration & Imagination | 4 | 5 | The Ellisha/mom story is warm, specific, and congregation-native. The sheep/dogs text crisis is self-deprecating and earns laughter while making the point about finite perspective. The dog/treat illustration at the close is charming but underweighty as a penultimate image for eternal hope. All illustrations are native to the preacher's life and congregation — none are imported. The caterpillar illustration from the Phil 1 sermon is not repeated here; this sermon has its own illustrative vocabulary. |
+| Sermonic Force | 3 | 5 | The sermon reads as preached — oral cadence, direct address, conversational. "I love my dogs, and I'd be sad to leave them behind" is preacher-voice, not essay-voice. The Phil 4:6 litany is the sermon's most forceful moment structurally. The weakness is the ending: "That however starts with the Gospel." A sentence that good should be the opening of the sermon's most powerful section, not its last word. As a conclusion it is an abandonment, not a landing. |
+
+**Raw Subtotal: 60/100**
+
+---
+
+### 6. Cognitive Load Modifier
+
+**0**: The sermon is well-paced and accessible. The Phil 4:6 refrain controls the application section and keeps it followable. The single mother, the high schooler, and the new believer can all track this sermon. No modifier applied.
+
+---
+
+### 7. Total Score
+
+**60/100 (capped at 69 due to fatal flaw flag)** — *Concerning gaps — significant revision needed*
+
+**Interpretation band: 60-69 — Concerning gaps. Often the sermon explains but doesn't preach. Significant revision needed.**
+
+*Note: The uncapped score is 60, which places this in the same interpretation band even without the cap. The fatal flaw (absent gospel) is not merely a capping mechanism here — it is the sermon's actual structural failure. Without the gospel, the sermon is a wisdom talk about anxiety management grounded in religious trust, not a Christian sermon.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** — More of my anxiety and God's trustworthiness. Christ as person and Savior is not the sermon's center, though he is present as object of trust and source of joy.
+2. **Did I encounter God, or just ideas about Him?** — Ideas about Him, well-illustrated and pastorally warm. The sermon describes God's trustworthiness rather than encountering His presence.
+3. **Was I comforted, convicted, or merely informed?** — The covid litany and specific scenarios produce genuine application-pressure. The congregation is pointed toward prayer as the right response to anxiety. There is comfort available here; conviction of worry-as-unbelief is also present. The sermon does not merely inform — but it does not reach the level of proclamation.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Worry defined as unbelief, not weakness** (line 29): "Worry is lack of faith in God" — and the development of this as "I don't trust you, not with this God" — is theologically accurate and conscience-pressing. This is not therapy language; it is sin language. The diagnosis is correct.
+2. **The Phil 4:6 application litany** (lines 61-79): Applying the same biblical command to covid, vaccines, cancer, finances, geopolitics, and more — without softening it for any case — is exactly the kind of specific, text-governed application that Perkins would recognize. "There is no part of scripture that says be anxious about nothing, except you know, when you might get sick" is a line with sermonic force.
+3. **"Find your gospel appointment"** (lines 37, 77): The idea that a broken truck or a ladder injury may be a God-arranged encounter for gospel witness is theologically rich and congregation-specific. It re-frames suffering as missional rather than merely providential — and gives the congregation a specific thing to look for in their week.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **"That however starts with the Gospel" — the sermon's most disqualifying line** (final line): This is not a weakness in the preacher's gospel conviction; it is an incomplete sermon. The gospel is the foundation of everything preached here, and the preacher knows it — but the congregation hears it named, not proclaimed. The peace that passes understanding (Phil 4:7) is the promise secured by Christ's blood; that blood must be named.
+2. **God's peace in Phil 4:7 is not connected to the cross** — "God will give you peace. He will guard your heart. You will be set free from the bondage of worry through the gospel" (line 83) correctly names the gospel as the mechanism of peace, but then does not explain it. The peace of Philippians 4:7 is "through Christ Jesus" — and Christ Jesus crucified for sinners is the ground. This connection is absent.
+3. **No redemptive-historical awareness** — The sermon treats Phil 4:4-7 as a timeless wisdom text rather than a document written from a Roman prison by a man who expected to die. Paul's joy in the face of execution is the sermon's most powerful illustration of the command, but the full weight of Paul's circumstances (discussed in Phil 1:12-14, which the preacher knows from the Phil 1 sermon) is not brought to bear here.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not fully see how close the sermon comes to being excellent, and therefore how significant the missing gospel close is. The Phil 4:6 litany is strong. The illustrations are strong. The conscience application is strong. The sermon is one section away from being a 78-point sermon. The gospel close is not a minor addition — it is the sermon's entire foundation being finally stated. Preaching the death and resurrection of Christ at the close would not feel tacked-on; it would feel like the moment the whole sermon was building toward.
+
+---
+
+### 12. Illusion of Strength
+
+The Phil 4:6 litany — the repeated application of the same command to scenario after scenario — *feels* like thorough application and feels like the sermon's structural strength. And it is genuinely effective. But the very repetition masks the fact that the sermon's theological center (the gospel) is absent. The congregation hears a strong application but no proclamation. Thorough application without proclamation is still a sermon that has not become preaching.
+
+---
+
+### 13. Missed Opportunity
+
+Philippians 4:7 promises "the peace of God, which surpasses all understanding, will guard your hearts and your minds *in Christ Jesus.*" The phrase "in Christ Jesus" is the entire weight-bearing phrase. It ties the peace to the person and work of Christ — it is the peace that comes from being *in him*, which is to say, justified, forgiven, adopted. The sermon quotes the verse but does not open this phrase. Opening "in Christ Jesus" would have been the natural transition to the gospel proclamation the sermon promises but never delivers.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Preach the gospel before the final line.** Replace "That however starts with the Gospel" with the gospel itself. Even 90 seconds: "Here is why you can bring your anxiety to God. Not because God is generally good, not because prayer is emotionally helpful, but because the Judge of the universe became your advocate. Christ took the sin that made you God's enemy and bore it on the cross. He rose from the dead. And if you are in him — if you have confessed with your mouth and believed in your heart — then there is no condemnation for you. The God you're bringing your anxiety to is not an uncertain judge; He is your Father. That is why Paul can say *do not be anxious*. That is why the peace surpasses understanding."
+2. **Open "in Christ Jesus" from Phil 4:7.** This phrase is the key to the whole passage. The peace is not generic; it is covenantal. Three sentences on this phrase would have changed the theological register of the entire sermon.
+3. **Add one moment addressing the unbeliever distinctly.** The Phil 4:6 litany applies to believers. But some in the congregation may not be in Christ. One line: "And for those of you who have been trying to manage your anxiety on your own — by positive thinking, by willpower, by new habits — here is why it hasn't worked. You cannot bring your anxiety to a God you don't belong to. Peace requires a relationship. That relationship begins with the gospel."
+4. **Shorten the natural analogy cluster.** The caterpillar, astronaut, and birth canal analogies (lines 11) serve the same point; one is enough. The space gained should go to textual development.
+5. **Connect Paul's imprisonment context to the passage.** Two sentences: "Paul is not writing this command from a comfortable armchair. He is chained to a Roman guard. He knows what it is to be anxious — and to choose prayer instead. When he says *be anxious for nothing*, he has earned the right to say it."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — The sermon is not cold. The personal illustrations, the pastoral naming of real congregational anxieties, and the "find your gospel appointment" moment all show pastoral warmth and genuine applicatory intelligence. The failure is structural (absent gospel), not temperamental (cold orthodoxy).
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries genuine pastoral weight and specific congregational love; the final line — naming but not preaching the gospel — is the one place where eternal gravity was within reach and was not grasped.
+
+---
+
+### 17. Rubric Fit Note
+
+This passage (Phil 4:4-7) is well-served by this rubric. It is a direct command passage with clear indicatives and imperatives; the rubric's law/gospel diagnostic is exactly the right tool for evaluating whether the imperatives are grounded in the indicatives of grace. The sermon's failure — imperatives floating free of indicatives — is precisely what this rubric is designed to detect. Rubric fit: excellent.
