@@ -39,6 +39,8 @@ And then Paul adds this: "knowing from whom you learned it."
 
 That matters. Timothy didn't learn the faith from a stranger on the internet. He learned it from his grandmother Lois and his mother Eunice — 2 Timothy 1:5 tells us that. He learned it from Paul himself. There was a chain of faithful teaching, person to person, generation to generation. And Paul is telling Timothy: you know the people who taught you. You know their character. You watched them live it. Trust that.
 
+And remember where Paul is when he writes this. He's in a Roman prison. He knows he's about to die — a chapter later he'll write, "I am already being poured out as a drink offering, and the time of my departure has come" (2 Tim 4:6). This is his last letter. When a man facing execution tells you to "continue in what you have learned," he is not offering a study tip. He is writing his last will and testament. This is Paul's deathbed charge to his son in the faith.
+
 We have that same chain. It runs through the centuries — through the Apostles, through the early church, through Augustine, through the Reformers. In 1611 Thomas Helwys wrote in the first Baptist confession that Scripture "set down an absolute, and perfect rule of direction, for all persons, at all times, to be observed; Which no Prince, nor any whosoever, may add to, or diminish from." In 1689 the Second London Baptist Confession declared Scripture "the only sufficient, certain and infallible rule for saving knowledge, faith, and obedience." Our own Baptist Faith and Message says the same thing today.
 
 The chorus has never changed. Continue in what you have learned. Know from whom you learned it. The chain of faithful witnesses stretches back to the Apostles, and every link says the same thing: this Book is God's Word to us.
@@ -67,7 +69,9 @@ The Scriptures bear witness about *him*. That's what they're for.
 
 So hear me — if you have read your Bible faithfully, if you have memorized verses and attended services and served on committees, but you have never placed your faith in the Jesus that the Bible is actually about — you have the road but you've never arrived. The sacred writings are *able* to make you wise for salvation. But the salvation comes through faith in Christ.
 
-And if you have never begun that relationship — if you have been going through the motions, or if you walked in today carrying guilt or shame or the weight of a life that's fallen apart — the gospel is not complicated. You are a sinner. So am I. So is every person in this room. We have all fallen short of the glory of God. But God, being rich in mercy, sent his Son to live the life we couldn't live, die the death we deserved to die, and rise again on the third day. And everyone who turns from their sin and trusts in Christ is forgiven. Not improved. Not upgraded. *Forgiven.* Declared righteous. Adopted into the family of God.
+And if you have never begun that relationship — if you have been going through the motions, or if you walked in today carrying guilt or shame or the weight of a life that's fallen apart — the gospel is not complicated. You are a sinner. So am I. So is every person in this room. We have all fallen short of the glory of God. But God, being rich in mercy, sent his Son to live the life we couldn't live, die the death we deserved to die, and rise again on the third day. And the cost of that forgiveness was not a policy change in heaven. It was blood. It was the Son of God, forsaken by his Father, bearing every sin you have ever committed and every sin you will commit — bearing it in his body on a tree. The wrath you earned, he absorbed. The death you deserved, he died. And on the third day the grave couldn't hold him.
+
+Everyone who turns from their sin and trusts in Christ is forgiven. Not improved. Not upgraded. *Forgiven.* Declared righteous. Adopted into the family of God.
 
 That's what the sacred writings are pointing at. That's the salvation Paul is talking about. Christ is not optional. He is the whole point.
 
@@ -102,6 +106,8 @@ Reproof — it shows us where we've gone wrong.
 Correction — it shows us how to get back on track.
 Training in righteousness — it shows us how to stay there.
 
+And some of us don't want to hear that. Some of us open our Bibles looking for ammunition — verses that prove we're right and someone else is wrong. But Paul doesn't say Scripture is profitable for winning arguments. He says it's profitable for reproof. Yours. Mine. It reads *us* before we read it. And if you have been in this Book for years and it has never made you uncomfortable — never backed you into a corner and said *this, right here, this is where you are wrong* — then you may be reading it with the door locked from the inside.
+
 Luther understood this. He wrote: "Nothing helps more powerfully against the devil, the world, the flesh, and all evil thoughts than occupying oneself with God's Word, having conversations about it, and contemplating it."
 
 When life gets hard — when you are weary, sad, discouraged, tempted, under attack, carrying a diagnosis, watching a marriage crumble — don't reach for the self-help shelf. Open your Bible. The God who breathed it out will meet you in it.
@@ -128,13 +134,19 @@ Verse 15 said the sacred writings make you wise for salvation through faith in C
 
 ### So What Do We Do?
 
-Read it. Every day. Not to check a box. Not because you're a better Christian if you read five chapters instead of one. Read it because the God who breathed it out is meeting you in it. Read it because every page points to Christ. Read it because it will wash you, comfort you, reprove you, correct you, train you, and equip you.
+If you have never opened this Book — start. You don't need a degree. You don't need a reading plan. Open the Gospel of John and meet Jesus there.
 
-Some of you committed to reading through the Bible in a year with us. I won't ask for a show of hands, but some of you are behind. That's fine. Pick it back up. If you didn't make it last year, try again. If you did — you're in for a double blessing, because the second time through you find things you didn't see the first time. Your soul gets more deeply anchored. You have quicker access to the things the Prince of Peace has told us about himself.
+If you read it and nothing changes — ask yourself whether you are reading for information or for transformation. There is a difference between studying the menu and eating the meal. Ask God to open your eyes. He will.
+
+If you used to read it and you stopped — the Bible hasn't moved. You have. It's still where you left it. Pick it back up. The God who breathed it out has not given up on you.
+
+If you read it faithfully — don't let familiarity become autopilot. Every page still points to Christ. The second time through you find things you didn't see the first time. The tenth time through, it finds things in *you*. Your soul gets more deeply anchored. You have quicker access to the things the Prince of Peace has told us about himself.
 
 But all of that starts with verse 15. It starts with faith in Christ Jesus. Without him, the Bible is just a book. With him, it is the living Word of God — breathed out, preserved, profitable, and sufficient to make you everything God intends you to be.
 
-If you have never begun a relationship with Christ, I would love to talk with you after the service.
+If you have never placed your faith in Christ, I would love to talk with you after the service.
+
+In a few minutes we're going to take the bread and the cup together. And when we do, we'll be doing exactly what verse 15 describes — remembering the Christ that all of Scripture points to. Every sacrifice in Leviticus pointed forward to him. This table points back to him. The bread you hold in your hands represents the body that was broken for you. The cup represents the blood of the new covenant — poured out so that sinners like us could be forgiven, declared righteous, and adopted into the family of God. Take it, and remember him.
 
 ---
 
@@ -154,6 +166,11 @@ If you have never begun a relationship with Christ, I would love to talk with yo
 - John 5:39–40 — ESV text confirmed ("You search the Scriptures because you think that in them you have eternal life; and it is they that bear witness about me, yet you refuse to come to me that you may have life")
 - 1 Corinthians 11:23–29 — ESV text confirmed
 - Romans 3:23 — Referenced in substance ("all have sinned and fall short of the glory of God")
+- 2 Timothy 4:6 — ESV text confirmed ("For I am already being poured out as a drink offering, and the time of my departure has come")
+- Matthew 27:46 / Mark 15:34 — "My God, my God, why have you forsaken me?" — Basis for "forsaken by his Father" language in expanded gospel section
+- 1 Peter 2:24 — ESV: "He himself bore our sins in his body on the tree" — Basis for "bearing it in his body on a tree"
+- Romans 3:25 — ESV: "whom God put forward as a propitiation by his blood" — Basis for propitiation/wrath-bearing language
+- Hebrews 4:12–13 — ESV: "the word of God is living and active, sharper than any two-edged sword... discerning the thoughts and intentions of the heart" — Theological ground for "it reads us before we read it"
 
 **Confessional Sources — Verified:**
 - Thomas Helwys 1611 quote — Confirmed from Article 9 of *A Declaration of Faith of English People Remaining at Amsterdam in Holland* (1611). Wording verified against Reformed Reader transcription.
