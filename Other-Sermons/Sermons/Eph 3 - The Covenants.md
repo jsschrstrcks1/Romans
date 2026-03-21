@@ -113,3 +113,191 @@ Where I'm going with this is that life is short. We aren't promised tomorrow. Al
 - Oral/conversational tone preserved throughout — this is a raw transcript and should sound like preaching, not polished prose
 - The man killed in the PT Cruiser illustration — cannot verify the specific incident, but it is clearly a personal/local news story used in context. Left as-is.
 - Davidic covenant cross-references (Gen 12:2/2 Sam 7:9, Gen 22:17/2 Sam 7:11, etc.) — these are standard covenant theology parallels widely attested in Reformed scholarship. Left as-is.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date**: 2026-03-21
+**Sermon**: The Covenants — God's Unfolding Plan from Adam to Christ
+**Primary Text**: Ephesians 3:3-6 | **Supporting Texts**: Genesis 1–3, 9, 12, 15; Exodus 19; 2 Samuel 7; Ephesians 2:2-3; John 6:44
+
+---
+
+### 1. Verdict Title
+**A Warm Redemptive-Historical Survey That Arrives at the Gospel but Leaves the Conscience Largely Unsearched**
+
+---
+
+### 2. One-Sentence Summary
+A genuinely accessible and pastorally affectionate walk through the covenant structure of Scripture that successfully establishes the failure of works-covenants and the glory of the New Covenant in Christ, while leaving the middle sections thin on applicatory force and the believer largely unaddressed until the closing appeal.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test**: PASS — with qualification. The stated purpose is to survey the covenants and arrive at the "mystery of Christ" in Ephesians 3:3-6. The sermon's thesis — that all works-covenants demonstrate human inability and point toward the grace-covenant in Christ — does arise from the passage, though Ephesians 3:3-6 is more anchor than engine for most of the message. The main point is broadly consonant with the text's own claim.
+
+**Authority Test**: PASS. The preacher submits to the text's claims, including the sobering declaration of human inability and divine sovereignty in John 6:44. No softening of hard doctrines is evident.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**No fatal flaw flags triggered.**
+
+Note: Flag #4 (generic application) comes close — the application is thin for believers in the middle third of the sermon. But the closing appeal is specific and urgent. Score is not capped.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 17/25**
+
+- *Textual Fidelity (7/10)*: The survey is competent and the key texts are handled honestly. Ephesians 3:3-6 is quoted and explained. However, the passage functions more as a destination than as the governing text throughout. The sermon is essentially a covenant theology lecture that arrives at Eph. 3:3-6 rather than a sermon *from* Eph. 3:3-6. The Scopus passes, but the textual center of gravity is diffuse.
+- *Contextual Awareness (3/5)*: The redemptive-historical sweep is the sermon's chief strength. The covenant-to-covenant progression is clear, and the pattern of human failure is well traced. Some compression errors (the "400 years of silence" placed after David rather than after Malachi) are noted in the Integrity Log and do not constitute theological error. Loses one point for insufficient attention to Ephesians 3's immediate context (Paul's own role as steward of the mystery, the Gentile inclusion theme).
+- *Exegetical Clarity (4/5)*: The covenant categories are explained in plain, accessible language. The Edenic/Adamic distinction is helpful for a lay congregation. No misleading exegesis detected.
+- *Logical Faithfulness (3/5)*: No eisegesis, but the sermon's argument follows a pre-constructed covenant schema more than it follows the argument of the primary text. Ephesians 3:3-6's specific point — Gentile co-heirship as the mystery — is mentioned but not developed. The sermon's thesis is slightly narrower than the text's.
+- *Fallen Condition Focus*: Identified — human inability to keep any covenant. Clearly and repeatedly named. Solid.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness (5/7)*: Christ arrives organically at the sermon's climax as the answer to every failed covenant. The protevangelium thread ("he shall bruise your head") is well used. The connection is covenantal and earned, not artificially imposed.
+- *Redemptive-Historical Awareness (3/3)*: This is the sermon's strongest category. The flow from Adam through Noah, Abraham, Moses, David to Christ is clearly articulated, and the pattern of progressive revelation is correct.
+- *Doctrinal Precision (3/4)*: The New Covenant as grace-not-works is clearly stated. John 6:44 is used well for monergistic drawing. However, the sermon conflates all pre-Christ covenants as "covenants of works" without distinguishing the Covenant of Grace operating beneath and through them (especially Abrahamic). This is a significant omission from a Reformed/1689 perspective — the Abrahamic covenant is the Covenant of Grace in its OT administration. Calling it a "covenant of works" is imprecise.
+- *Confessional Alignment (2/4)*: The 1689 distinction between Covenant of Works and Covenant of Grace is present in spirit but muddied in execution. The characterization of the Abrahamic covenant as a covenant of works (alongside the Adamic) misses the Reformed category. Loses two points for this imprecision.
+
+**3. Gospel Centrality & Force — 11/15**
+
+- *Clarity of the Gospel (4/5)*: The grace-not-works distinction is clear. The necessity of a relationship with Jesus Christ is stated plainly. Justification is not formally named but is functionally present.
+- *Necessity of Christ (4/5)*: John 6:44 and the "mystery of Christ" are deployed to make Christ essential, not optional.
+- *Cross-Centered Gravity (3/5)*: The sermon arrives at grace but does not linger at the cross. The mechanism of atonement — substitution, the wrath of God borne by Christ — is absent. The sermon tells us the New Covenant doesn't depend on us, but does not explain what it does depend on in terms of Christ's specific work.
+- *Synagogue Test*: A devout non-Christian could sit through most of this sermon without offense — particularly the covenant survey sections. The offense of the cross is present in the final appeal but thin throughout the body. The gospel is stated in the final paragraphs, not woven through the covenant survey itself.
+- *Law/Gospel Dialectic*: The law hammers effectively (human inability, the pattern of failure). The gospel-balm arrives but is brief and underdeveloped compared to the setup. The ratio is imbalanced: heavy law, light gospel center.
+
+**4. Conscience & Applicatory Force — 9/15**
+
+- *Heart Penetration (3/5)*: The closing illustration (the man killed by the PT Cruiser) is visceral and effective. The appeal to self-examination ("do you know where you're going when you die?") is direct. However, the body of the sermon is primarily informational — the heart is pressed only in the final two paragraphs.
+- *Specificity (3/5)*: The closing appeal is specific and urgent. The body sections are almost entirely didactic with no direct address.
+- *Spiritual Differentiation (3/5)*: The closing appeal distinguishes two hearers (the unsaved who knows it, and the moralist who thinks they're good enough). Believers are never specifically addressed — this entire sermon is implicitly evangelistic, leaving the congregation member who has been a Christian for thirty years with no specific word.
+- *Perkins' Seven Categories*: Only categories 3 (knowledgeable-but-unhumbled) and 4 (humbled-but-not-yet-believing) are directly addressed. Believers (5), backsliders (6), and the ignorant-but-teachable (2) receive nothing specific.
+
+**5. Exhortation & Response — 6/8**
+
+- *Call to Response (4/4)*: The altar call is clear, urgent, and personal. "Today is the day." The invitation is specific: come talk to me, today, before lunch. This is genuine exhortation, not merely application.
+- *Equipping for Holiness & Witness (2/4)*: The sermon equips for evangelistic conversation (covenant structure is useful for witnessing) but does not send the church out equipped for holiness. Believers receive no "therefore" moment.
+
+**6. Structure & Logical Flow — 7/9**
+
+- *Clarity of Outline (3/4)*: The covenant-by-covenant progression is easy to follow. The structure is clear even without formal headings.
+- *Progression (3/3)*: Builds well — from creation, through successive failures, to the silence, to the grace-covenant. Good narrative arc.
+- *Unity (1/2)*: There is one dominant idea, but the sermon feels like two sermons — a long covenant survey and a short evangelistic appeal. The connection between the survey and the application is present but underdeveloped for believers.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2)*: The deer-in-the-woods illustration is native to the congregation's world (rural, hunting culture). The PT Cruiser illustration is local and urgent.
+- *Clarity (1/2)*: The deer illustration clarifies the Noahic covenant's animal-fear concept well. The "30 seconds of silence" instruction is a creative attempt to embody the 400-year silence.
+- *Memorability (1/1)*: The PT Cruiser illustration will be remembered. It earns its place.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2)*: The oral register is present throughout — questions, direct address, congregational interaction, humor. This sounds like preaching, not essay.
+- *Conviction on the Page (1/2)*: The closing achieves real conviction. The body sections read more like a Sunday school lesson than a sermon — informational cadence dominates.
+- *Cadence and Breath (0/1)*: Sentence variation is present but the climactic compression is weak until the final two paragraphs. The silence instruction is imaginative but structurally awkward on the page.
+
+---
+
+### 6. Cognitive Load Modifier: **−1**
+
+The covenant survey is detailed but the progression is logical and clear. The congregation can track it. The quantity of material (six covenants in one sermon) risks surface treatment of each, but the preacher acknowledges this limitation ("If I'm not careful I could spend an hour here"). Slight deduction for density of covenant categories without adequate breathing room.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 17/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 11/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 6/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **70/100** |
+| Cognitive Load Modifier | −1 |
+| Weight of Glory Bonus | +2 |
+| **Total** | **71/100** |
+
+**Interpretation**: Solid but lacking — the survey is competent and the gospel arrives, but application and gospel force need another pass. Band: 70–79.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Primarily of Christ and His patience with human failure. Yes.
+2. *Did I encounter God, or just ideas about Him?* Largely ideas — the covenant survey is informational. The closing shifts into encounter briefly.
+3. *Was I comforted, convicted, or merely informed?* Primarily informed. The closing convicts. Believers are neither comforted nor directed.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Redemptive-historical coherence**: The covenant-to-covenant progression is clearly structured and accessible. The pattern of "each new man becomes the new Adam and fails" is a genuinely helpful pastoral framing that a layperson can carry and use in evangelism.
+2. **The PT Cruiser illustration**: Local, specific, urgent, and death-confronting. "Life is short. We aren't promised tomorrow." This is the sermon's best pastoral moment — concrete rather than abstract, and earned by the closing urgency.
+3. **John 6:44 deployment**: Using monergistic election at the climax of the grace-covenant section is doctrinally precise. "We can't even be trusted to do what's best for our own eternities" — this is confessionally grounded and clearly stated without jargon.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The Abrahamic covenant is misclassified as a covenant of works**: "ALL of those covenants together are covenants of works." This is a significant confessional error from a 1689 perspective. The Abrahamic covenant *is* the Covenant of Grace in its OT administration — it is explicitly grace-not-works (Genesis 15 — unilateral, God passes through the pieces alone). Romans 4 and Galatians 3 go to great lengths to distinguish Abraham's justification from the Mosaic law-covenant. The preacher has already quoted "Abraham believed God and it was counted to him as righteousness" — he simply needs to draw the implication he has avoided.
+2. **Believers receive no specific word**: The entire sermon implicitly addresses the unconverted. The Christian sitting in the pew hears a history lesson and an evangelistic appeal. There is no moment where the believer is asked what the New Covenant means for their ongoing life — no sanctification implication, no worship response, no mission application drawn out for those already in Christ.
+3. **The atonement mechanism is absent from the gospel center**: The sermon announces that the New Covenant doesn't depend on human performance but does not explain what it does depend on — namely, Christ's penal substitutionary obedience and death bearing divine wrath. "What matters is whether you have a relationship with Jesus Christ" is true but insufficient as a gospel statement. The basis of that relationship is not named.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the covenant survey, while pedagogically excellent, has functionally displaced the primary text. Ephesians 3:3-6's specific point — the *Gentile* inclusion as the mystery — is mentioned once and then dropped. The sermon becomes a covenant theology lecture that happens to cite Eph. 3:3-6 rather than an exposition of Eph. 3:3-6 that uses covenant theology as an illuminating lens. The distinctiveness of the text — the mystery revealed now, to Gentiles, through Paul's specific apostolic ministry — is entirely absent.
+
+---
+
+### 12. Illusion of Strength
+
+The covenant survey *feels* like strong exposition because it covers substantial ground confidently and with clear structure. But it is closer to systematic theology than biblical exposition. The listener leaves knowing the covenant sequence; they do not leave having been confronted by the specific argument of Ephesians 3:3-6. The sweep of the survey creates a sense of depth that masks the surface treatment of the actual primary text.
+
+---
+
+### 13. Missed Opportunity
+
+The specific mystery Paul names — that Gentiles are "fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel" (Eph. 3:6) — is directly applicable to the people group element of the sermon (the Kirar of India). Paul's astonishment at Gentile inclusion *is* the sermon's opening illustration waiting to be made. The Kirar — outcasts, stigmatized, without a single gospel witness — are precisely the kind of people the "mystery" was designed to include. The connection between the Kirar prayer and Ephesians 3:6 was within reach and would have unified the entire sermon with powerful missional force. It was never made.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Correct the Abrahamic covenant classification**: Add one sentence distinguishing the Abrahamic covenant as the grace-covenant proper (Genesis 15 — unilateral, faith-not-works) from the Mosaic covenant (conditional, law-based). This is a confessionally and exegetically necessary correction. The material to make it is already in the sermon.
+2. **Name the atonement mechanism in the gospel section**: After "it doesn't depend on you," add a brief statement: Christ's perfect life counted for us, His death bearing God's wrath in our place, His resurrection as God's declaration that the debt is paid. This should take four sentences but must be present.
+3. **Connect the Kirar opening to Ephesians 3:6 in the conclusion**: The mystery is Gentile inclusion. The Kirar are the unclaimed Gentiles of this moment. Close the loop explicitly. This would give the sermon a narrative frame it currently lacks.
+4. **Add one specific word for believers**: After the evangelistic appeal, add a direct address to those already in Christ: "For those of you who are already in the New Covenant — you are the living proof that the mystery works. You are the Gentiles Paul was astonished about. Now go find your Kirar."
+5. **Give more time to Ephesians 3:3-6**: The primary text is read once and mentioned briefly. Two paragraphs on what "mystery" means in Paul's usage (previously hidden, now revealed through Christ's work) would anchor the exposition properly and justify the entire covenant survey as background.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon has pastoral warmth and genuine evangelistic urgency. The fire is present, if concentrated in the final minutes.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries the weight of redemptive history faithfully and closes with genuine urgency — the PT Cruiser illustration earns its gravity — but the divine majesty of the mystery (Gentiles, formerly excluded, now co-heirs with Israel through Christ) is underexplored, and the sermon ends before the congregation has been given the full measure of wonder that Ephesians 3 is designed to produce. **+2/5**
+
+---
+
+### 17. Rubric Fit Note
+
+This sermon spans six covenants using Ephesians 3:3-6 as the destination text rather than the governing text. The rubric's Exposition category applies with some strain because the genre is a redemptive-historical overview sermon rather than a text-driven expository sermon on a bounded pericope. The rubric is applied as written, but the reader should understand that "textual fidelity" is evaluated against the breadth of the stated governing passage and supporting texts. A sermon solely expounding Ephesians 3:1-12 would be evaluated differently under the same rubric.

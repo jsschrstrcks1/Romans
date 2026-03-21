@@ -101,3 +101,94 @@ You can know now. You can know by studying God’s word, and learning, and growi
 vs 4 says “he who is in you is greater than he who is in the world. 
 
 But all of that starts with the gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+
+---
+
+### 1. Verdict Title
+Discernment Preached with Street-Level Force — But the Test of Spirits Needs Deeper Christological Grounding
+
+### 2. One-Sentence Summary
+A practically driven and pastorally engaged opening of 1 John 4:1–6 that uses real encounters with false teaching to teach the congregation how to test spirits, but which trades exegetical depth for illustration weight and never reaches the text's own Christological criterion — the confession of Jesus Christ come in the flesh.
+
+### 3. Berean Gate
+**PASS — with observation.**
+- **Scopus Test:** The main point — test every spirit/teacher/doctrine against the standard of God's truth because many false prophets have gone out into the world — arises from 1 John 4:1 and is the organizing concern of the entire sermon.
+- **Authority Test:** The preacher submits to the text's warning and does not soften it. The Mormon and Jehovah's Witness material is direct, specific, and accurately presented.
+
+**Observation:** The sermon's primary test of false teaching is behavioral/moral/prophetic (OT criteria from Deuteronomy/Ezekiel/Jeremiah), and the grocery store illustration illustrates testing through knowing real truth. However, 1 John 4:2's specific Christological test — "every spirit that confesses that Jesus Christ has come in the flesh is from God" — is never directly expounded. This is the text's own criterion, and it is the doctrinal center of the passage. The sermon teaches *that* we should test, and illustrates *how* with good OT criteria, but never fully opens *what* John's specific test is.
+
+### 4. Fatal Flaw Flags
+**None triggered.** Score is not capped.
+- The gospel is present, though brief ("God who sent his son to die for you"; "Will he say welcome home...?").
+- Christ is essential — the Trinity section, the Mormon/JW critique, and the "gold vs. fool's gold" metaphor all center on knowing the real Christ.
+- Application is present and specific (testing the Mormon encounter, the Nibiru prophetess, the dollar general prophet, TV preachers).
+- Exhortation is present ("You have to know the truth, to detect the lie").
+- The sermon is accessible and often entertaining for ordinary hearers.
+
+### 5. Score Breakdown
+
+| Category | Score | Notes |
+|---|---|---|
+| Exposition & Hermeneutics (25 pts) | 12/25 | The text is quoted once at the start and referenced throughout, but the verse-by-verse argument of 4:1–6 is not opened. Verse 1's command to "test the spirits" is the organizing frame. Verse 2's specific test (confessing Jesus Christ come in the flesh = Spirit of God; denying = spirit of antichrist) is never expounded. Verse 4 ("he who is in you is greater than he who is in the world") is quoted at the end as a comfort but not exegeted. Vv. 5–6 receive no treatment. The FCF — the church's dangerous susceptibility to plausible-sounding false teaching because it resembles genuine truth — is named effectively through the counterfeit-money illustration, but not grounded in the text's own diagnosis. |
+| Theology & Doctrinal Integrity (18 pts) | 13/18 | The Trinity section is confessionally sharp and specifically addresses the Mormon tritheism error accurately. The Galatians 1:8 citation is well-chosen and correctly applied. The counterfeit gospel critique is sound. Deductions: (1) The specific heresy John is opposing — docetism/proto-Gnosticism, the denial that the eternal Word became fully human flesh — is never named or explained, which means the passage's Christological center is bypassed; (2) The OT criteria for testing prophets (Deuteronomy 13, 18; Ezekiel 13; Jeremiah 23) are accurate and well-applied, but they operate at the behavioral/prophetic level, not at the Christological level where 1 John 4:2 operates. |
+| Gospel Centrality & Force (15 pts) | 7/15 | The gospel appears briefly and in passing. The statement "God who sent his son to die for you" carries real doctrinal weight, but it is not proclaimed — it is mentioned. The cross is not the climax of the sermon; the challenge to study God's word and grow in discernment is. The Synagogue Test: a devout Jew could sit through much of this sermon without being confronted by the necessity of Christ's blood — the sermon is more about epistemology (how to detect false teaching) than soteriology (what the true gospel declares about Christ). The law/gospel dialectic is absent; no one is convicted before being comforted. |
+| Conscience & Applicatory Force (15 pts) | 8/15 | The application is specific and pastorally real — the Mormon in the grocery store, the Nibiru prophetess, the dollar-general prophet are concrete illustrations from the preacher's actual life. The question "Will he say welcome home... or depart from me I never knew you?" is genuinely conscience-pressing. However, the sermon primarily addresses the already-discerning believer and equips them to test others. It does not press the question: "What if *you* are the counterfeit? What if you are the one whose relationship with God is fool's gold?" That turn — from testing others to testing oneself — is the more searching application of this text. |
+| Exhortation & Response (8 pts) | 4/8 | The call to know the truth so well that lies are obvious is a clear and repeatable takeaway. "You have to know the truth, to detect the lie" functions as the sermonic thesis. But the specific exhortation — what does the congregation do this week to grow in discernment? Read Scripture? Test a specific teacher they follow? The sermon gestures toward "studying God's word" but does not give a concrete, actionable call. The ending ("But all of that starts with the gospel") is the most important line in the sermon and should be the beginning of the conclusion, not its entirety. |
+| Structure & Logical Flow (9 pts) | 6/9 | The structure is logical and traceable: (1) counterfeit-detection illustration (banking); (2) grocery store encounter (Mormon); (3) test the spirit (1 John 4); (4) OT criteria for testing prophets; (5) applying criteria to Nibiru prophetess; (6) applying to Mormons/JWs; (7) Warren Wiersbe counterfeit-dollar illustration; (8) gospel appeal. The counterfeit-money frame (bank training → Wiersbe illustration) provides good bookend unity. The main flow is: know the real thing so well that fakes are obvious. The structure works but could be tighter — the Nibiru story and the dollar-general prophet together run long relative to their expositional yield. |
+| Illustration & Imagination (5 pts) | 4/5 | The counterfeit-currency bank training illustration is the sermon's structural backbone and is used effectively at both ends. The grocery-store Mormon encounter is vivid, specific, and directly relevant to the congregation's daily world. The Nibiru prophetess story is both entertaining and theologically instructive. One deduction: the dollar-general prophet story (Nibiru + racist cosmic sickle) is memorable but may distract from the main point by its strangeness. |
+| Sermonic Force (5 pts) | 3/5 | The manuscript reads with genuine energy and pastoral directness. The "You have to know the truth to detect the lie" refrain creates sermonic pulse. The "Will he say welcome home...?" question reads with real weight. Deductions for an ending that deflates rather than culminates ("But all of that starts with the gospel." — this sentence needs to become a paragraph) and for the loose middle section where the Nibiru stories cluster. |
+| **Subtotal** | **57/100** | |
+| Weight of Glory Bonus | +1/5 | The "Will he say welcome home... or depart from me I never knew you?" question carries eternal gravity. But the sermon does not reach the full weight of the passage's eschatological stakes. |
+| Cognitive Load Modifier | 0 | Well-paced and accessible. The congregation can follow. |
+| **Total** | **58/100** | |
+
+### 6. Cognitive Load Modifier
+**0** — The sermon is accessible throughout. The illustrations carry the weight, not the theology. No overloading.
+
+### 7. Total Score
+**58/100 — Fundamentally Flawed**
+The sermon's pastoral instincts are good and the real-world applications are sharper than average. But the text's Christological center (v. 2's confession test) is unpreached, the gospel is mentioned but not proclaimed, and the conscience is engaged at the level of discernment-skills rather than the deeper question of whether the hearer himself is genuine gold or fool's gold. The sermon needs a significant rebuild that centers 1 John 4:2 as the primary test and drives the gospel declaration home.
+
+### 8. Core Override Questions
+1. Does this sermon make me think more of Christ — or myself? **Mostly Christ — but in the sense of "the Christ the Mormons deny," not "the Christ who died for me."**
+2. Did I encounter God, or just ideas about Him? **Mostly ideas — the discernment framework, while valuable, is more epistemological than devotional.**
+3. Was I comforted, convicted, or merely informed? **Primarily informed. Some conviction in the "depart from me" appeal, but it comes late and briefly.**
+
+### 9. Strengths (Top 3)
+1. **The counterfeit-detection framework is well-executed.** The bank training illustration (know the real thing so well that fakes are obvious) is conceptually sound and used consistently throughout the sermon as an organizing metaphor.
+2. **The Mormon encounter is specific and instructive.** Rather than a generic "Mormons are false," the preacher narrates an actual conversation, identifies the specific doctrinal drift (tritheism vs. Trinity), and applies Galatians 1:8 with precision. This is discernment modeled, not just described.
+3. **"Will he say welcome home or depart from me?"** This is the strongest moment in the sermon — a direct, eschatologically weighted question that lands genuine conviction. It briefly interrupts the discernment-skills frame to press the hearer's own standing before God.
+
+### 10. Critical Weaknesses (Top 3)
+1. **1 John 4:2's specific test is never preached.** "Every spirit that confesses that Jesus Christ has come in the flesh is from God." This is the text's own criterion for testing spirits — the incarnation, the hypostatic union, the Word made flesh. John wrote this against docetism. The preacher never opens it. The sermon teaches how to test spirits using OT prophetic criteria but bypasses the New Testament Christological test the text actually gives.
+2. **The gospel is mentioned, not proclaimed.** "God who sent his son to die for you" appears once, in the context of the final judgment scene. There is no sustained proclamation of what Christ's death accomplished, for whom, and how a person lays hold of it. An unbeliever could sit through this sermon and understand why to be suspicious of Mormons without understanding how to be saved.
+3. **The self-examination turn is absent.** The sermon consistently points the discernment question outward — at TV preachers, Mormons, Nibiru prophets. It never asks: "What if you are the counterfeit? What if your Christianity is the real thing's appearance without the real thing's substance?" 1 John consistently points this question inward, and the sermon does not.
+
+### 11. Blind Spots
+The preacher's genuine confidence in Reformed, confessional Christianity is a strength — but it may create a blind spot about who needs this sermon most. The person most likely to be deceived by a plausible counterfeit is not the doctrinally astute elder but the sincere, biblically underfed believer who does not know enough to test. The sermon addresses the already-equipped; it does not equip the unequipped.
+
+### 12. Illusion of Strength
+The OT prophetic criteria (Deuteronomy 13, 18; Ezekiel 13; Jeremiah 23) are well-sourced and accurately applied. They create an impression of rigorous biblical discernment. But they operate at a different level than 1 John 4:2's specific Christological test — and applying the OT criteria without opening the NT criterion creates a sophisticated-looking but theologically incomplete answer to "how do we test the spirits?"
+
+### 13. Missed Opportunity
+1 John 4:4 — "he who is in you is greater than he who is in the world" — is one of the epistle's great assurance statements. It appears at the end of the sermon as a tag-line, but it deserves to be the climax: "You can test the spirits because the Spirit of God dwells in you. The same Spirit who raised Christ from the dead — the Spirit John says testifies to the incarnation — he is in you and is greater than every spirit of antichrist in the world." This would connect the sermon's discernment theme to the gospel in a way the current ending does not.
+
+### 14. Surgical Fixes
+- **Preach 1 John 4:2 directly.** Make the incarnation the Christological test: "The spirit that confesses 'Jesus Christ come in the flesh' is from God. Any spirit that denies that Jesus is the eternal Son of God who became truly human — fully God, fully man — is not from God. That is John's test. Not just 'do they talk about Jesus' — but 'which Jesus do they confess?'"
+- **Add a sustained gospel proclamation.** After establishing the test, declare what the true gospel is: "Christ, the eternal Son, took on flesh, lived the life we could not live, died the death our sin deserved, rose bodily from the dead, and is now the only mediator between God and man. That is the gospel. That is what no counterfeit can fake."
+- **Turn the discernment question inward.** Add a direct address: "Some of you are very good at spotting the counterfeit in someone else's life. But John wrote this letter to the church, not just about the world. Are you the real thing, or have you settled for the appearance of godliness without its power? The test isn't only for the Mormon at the grocery store — it's for you."
+- **Expand the ending.** "But all of that starts with the gospel" is the most important sentence in the sermon and should become the closing movement: a full gospel declaration, not a stage direction.
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — the sermon has genuine warmth and pastoral engagement. The issue is gospel proclamation depth, not temperature.
+
+### 16. Weight of Glory Assessment
+One genuinely weighty moment ("Will he say welcome home... or depart from me?") in a sermon that otherwise operates at the level of practical epistemology rather than eternal gravity; the passage's eschatological weight (the spirit of antichrist already in the world, v. 3) is largely unexploited.
+
+### 17. Rubric Fit Note
+The rubric fits this passage. 1 John 4:1–6 is direct apostolic address with clear imperatives and doctrinal content. The rubric's Gospel Centrality category is somewhat strained by a text that is more about discernment than justification — but this makes the category more important, not less, since discernment sermons are precisely where gospel proclamation is most easily omitted.
