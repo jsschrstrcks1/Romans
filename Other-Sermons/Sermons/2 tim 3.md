@@ -217,3 +217,158 @@ But all of that starts with a relationship with God.
 - The Abstract of Principles is the founding document of SBTS; professors at Southern and Southeastern must sign it
 - The 1689 Second London Baptist Confession is modeled on the Westminster Confession of Faith
 - The "inerrancy controversy" of the 1970s–80s within the SBC is historically accurate
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated:** 2026-03-21
+**Rubric:** Thus Says the Lord — Reformed Baptist Sermon Evaluation Rubric
+**File:** 2 tim 3.md
+**Note:** This sermon covers 2 Timothy 3:14-17 (omitting v.13). It is the earlier version of the same passage treated in the rebuilt draft. It should be read alongside `2 Tim 3 13-17 - The Measuring Stick (rebuilt draft).md`.
+
+---
+
+### 1. Verdict Title
+Doctrinally Earnest but Structurally Interrupted — A Confessional Lecture in Search of a Sermon
+
+---
+
+### 2. One-Sentence Summary
+A doctrinally sincere treatment of 2 Timothy 3:14-17 that demonstrates deep knowledge of the Baptist confessional tradition and genuine pastoral concern for biblical literacy, but is structurally fragmented, lacks a clear gospel proclamation at its center, and spends more time arguing for Scripture's authority from confessional documents than from the passage itself.
+
+---
+
+### 3. Berean Gate
+**Scopus Test: PASS (qualified)**
+The sermon's thesis — Scripture is God's inerrant, authoritative word to us and we must continue in it — is derivable from the passage. However, the sermon's dominant structure is driven by confessional survey (Helwys, 1689, Abstract of Principles, New Hampshire, Philadelphia, Chicago Statement, BFM) rather than by the text's own argument. The passage is present throughout but serves as a reference point for the confessional argument rather than the driver of the sermon's development.
+
+**Authority Test: PASS**
+The preacher stands under the text and the confessional tradition without softening either.
+
+---
+
+### 4. Fatal Flaw Flags
+**FATAL FLAW TRIGGERED — Score capped at 69**
+
+**Flag #1: No clear gospel presentation.** The sermon contains a section heading "### Gospel" (p.7) that is completely empty — literally a heading with no content. An unbeliever could not be saved from this sermon. The confession of v.15 ("wise for salvation through faith in Christ Jesus") is read but not preached. This is the single most critical failure.
+
+**Flag #4: Application is largely generic.** The primary application is "know your Bible" and "continue in what you have learned." While this is derivable from the text, no specific call is issued, no differentiated address is given to different categories of hearers, and no moment corners a particular sinner or comforts a particular struggling believer.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+- *Textual Fidelity (10):* 5/10 — The sermon reads the text and discusses it, but large portions of the sermon (the confessional history section, the Keller illustration, the theological attributes section) are driven by external sources rather than the passage. V.15's "wise for salvation through faith in Christ Jesus" receives only one brief paragraph and no gospel development. V.13 is omitted entirely. The sermon begins with v.14.
+- *Contextual Awareness (5):* 3/5 — Paul's prison context and the importance of knowing Scripture in a false-teaching environment are noted. The Ephesian setting is implied but not described.
+- *Exegetical Clarity (5):* 3/5 — The present active imperative on "continue" is correctly noted. The God-breathed concept is briefly mentioned. The Greek engagement is minimal compared to the rebuilt draft.
+- *Logical Faithfulness (5):* 2/5 — The sermon's primary argument from authority (all these confessions say the same thing, therefore Scripture is authoritative) inverts the proper order: the confessions derive their authority from Scripture, not the other way around. This is not eisegesis but it is a logical ordering problem that could confuse hearers about the nature of confessional authority.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+- *Christ-Centeredness (7):* 2/7 — Christ is almost entirely absent from this sermon's development. V.15 ("through faith in Christ Jesus") is quoted but not developed. The confessional quotes do not foreground Christ. The Keller illustration on God's omnipresence, timelessness, and goodness is theologically accurate but not Christological. The sermon could survive without Jesus in its middle sections.
+- *Redemptive-Historical Awareness (3):* 1/3 — No redemptive-historical movement. The Baptist confessional history section gives historical depth, but not redemptive-historical depth.
+- *Doctrinal Precision (4):* 4/4 — The theology of Scripture (inerrancy, infallibility, inspiration, sufficiency) is handled with genuine precision. The Al Mohler and infallibility quotes are theologically accurate even with unverified sources.
+- *Confessional Alignment (4):* 4/4 — This is the sermon's greatest strength: the confessional survey is accurate, appropriately humble about the BFM's imperfection, and well-organized. This is a model of confessional literacy.
+
+**3. Gospel Centrality & Force — 2/15**
+- *Clarity of the Gospel (5):* 0/5 — The Gospel section is empty. Fatal flaw confirmed.
+- *Necessity of Christ (5):* 1/5 — Christ appears in "through faith in Christ Jesus" (quoted from the text) and in the BFM quote ("All Scripture is a testimony to Christ"). He is not preached.
+- *Cross-Centered Gravity (5):* 1/5 — No cross, no substitution, no resurrection. The Synagogue Test is fully triggered: a devout Jew or Muslim could sit through this sermon without hearing anything that would require a response to Christ.
+
+**4. Conscience & Applicatory Force — 5/15**
+- *Heart Penetration (5):* 2/5 — The young person struggling with identity and the "if your god never disagrees with you" Keller quote are the most conscience-pressing moments. But these arise from an illustration, not from the text's own applicatory force.
+- *Specificity (5):* 2/5 — "Know your Bible" and "re-commit to reading through it" are generic. The differentiated four-category application present in the rebuilt draft does not exist here.
+- *Spiritual Differentiation (5):* 1/5 — Only one category of hearer is meaningfully addressed: the church member who is not reading their Bible consistently. The unbeliever, the backslider, the grieving, and the faithful are not distinctly reached.
+
+**5. Exhortation & Response — 2/8**
+- *Call to Response (4):* 1/4 — The only concrete call is to re-commit to reading through the Bible. This is legitimate but thin. No gospel call, no repentance call, no exhortation to the conscience.
+- *Equipping for Holiness & Witness (4):* 1/4 — The congregation is encouraged to read Scripture but not equipped for witness or sent into the world.
+
+**6. Structure & Logical Flow — 5/9**
+- *Clarity of Outline (4):* 3/4 — The sermon has identifiable sections (opening illustration, why it matters, confessional history, what the theologians say, the command to continue, God-breathed, BFM, measuring stick, the Keller section, re-commitment, Gospel [empty], Communion). The structure is traceable but it is the structure of a lecture, not a sermon.
+- *Progression (3):* 1/3 — The sermon does not build. The confessional survey and the Keller attributes section are the longest portions; the text-based sections are the shortest. The empty Gospel section breaks any momentum entirely.
+- *Unity (2):* 1/2 — Multiple ideas compete: know your Baptist history, Scripture is inerrant, God is different from us, re-read the Bible, the gospel (absent). No single dominant idea governs the whole.
+
+**7. Illustration & Imagination — 3/5**
+- *Relevance (2):* 2/2 — The JW encounter, the bowling bumpers, the young person with identity struggles, and the measuring door are all relevant and accessible.
+- *Clarity (2):* 1/2 — The bowling bumpers illustration (confessions as guardrails) is useful but introduces a lengthy historical survey that becomes the sermon's dominant section. The illustration tail wags the sermon dog.
+- *Memorability (1):* 0/1 — The measuring door illustration is the sermon's warmest image but is not native to the text in this version (it is better developed in the rebuilt draft).
+
+**8. Sermonic Force — 2/5**
+- *Reads as Preaching (2):* 1/2 — The manuscript alternates between conversational preaching and lecture/recitation (reading the BFM aloud together, looking up supporting references from the handout, asking congregation to pick verses). These are Sunday school practices, not sermon practices.
+- *Conviction on the Page (2):* 1/2 — The Keller quote section has some conviction. The confessional sections are earnest but not aflame.
+- *Cadence and Breath (1):* 0/1 — The manuscript has no climactic compression. The Communion close is the nearest thing to a climax but it comes after the empty Gospel section, making the emotional landing uncertain.
+
+---
+
+### 6. Cognitive Load Modifier
+**−2** — The sermon introduces: the JW encounter, the Baptist confessional lineage (7 confessions named), the Al Mohler quote (unverified), the infallibility unnamed source, the Chicago Statement, the BFM article (read aloud), supporting Scripture handout, the command to continue, God-breathed content, the measuring stick etymology, the Keller section with three divine attributes, the young person illustration, and a re-commitment call. This is overwhelming for a single sitting. Multiple threads are introduced without resolution.
+
+---
+
+### 7. Total Score
+13 + 12 + 2 + 5 + 2 + 5 + 3 + 2 = **44/100** − 2 (cognitive load) = **42/100**
+**Score capped at 69 due to fatal flaw flags; raw score is 42.**
+
+**Interpretation: Fundamentally Flawed** — The fatal flaw is a literal empty Gospel section. This sermon, as a preaching manuscript, is incomplete. The confessional history and doctrinal content demonstrate genuine knowledge; the sermon form does not yet carry the gospel.
+
+---
+
+### 8. Core Override Questions
+1. *Does this sermon make me think more of Christ — or myself?* Neither clearly. The sermon's center is the Baptist confessional tradition, which is used to establish Scripture's authority. Christ appears in quotations but is not present as a living person.
+2. *Did I encounter God, or just ideas about Him?* Ideas about Him — specifically, ideas about the book He wrote and what theologians have said about it.
+3. *Was I comforted, convicted, or merely informed?* Informed — about Baptist confessional history, doctrines of Scripture, and the importance of Bible reading. Not comforted, not cornered.
+
+---
+
+### 9. Strengths (Top 3)
+1. **The confessional survey is accurate, humble, and well-organized.** The chain from Helwys (1611) through the 1689 LBCF through the Chicago Statement is correct, the individual documents are accurately described, and the caveat about the BFM's imperfection ("It's not perfect — none of them are") is honest pastoral humility. This section would serve excellently in a Sunday school class or membership class.
+2. **The Keller quote and illustration.** "If your god never disagrees with you, you might just be worshiping an idealized version of yourself" — and the development with divine attributes — is the sermon's most conscience-pressing moment. It correctly identifies the idolatry of a self-shaped God.
+3. **The Sproul paraphrase section.** The pastoral nuance ("I also think he words it overly strong. Not everyone is at the same point in their journey") is exactly right — it pushes back on a respected voice with pastoral gentleness and theological accuracy. This is how confessional ministers should handle tradition.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+1. **The Gospel section is empty.** A section header followed by nothing is a structural catastrophe. The sermon was apparently preached extemporaneously at this point — but the manuscript must contain what was said. This section must be filled with a complete gospel presentation before the sermon can function.
+2. **V.15 ("wise for salvation through faith in Christ Jesus") receives almost no development.** In a sermon on Scripture's purpose, the passage's own declaration of Scripture's purpose (to make us wise for salvation through Christ) is the theological heart of the text. It receives two sentences. The rebuilt draft gives it an entire section and makes it "the hinge of the whole passage." Here it is a speed bump.
+3. **The confessional survey displaces the text.** The sermon argues *from* confessions *to* Scripture's authority, when the sermon should argue *from* Scripture *to* the church's confessional faithfulness. The order inverts the proper Protestant epistemology and risks communicating that the confessions are the source of scriptural authority rather than its reflection.
+
+---
+
+### 11. Blind Spots
+The preacher likely does not realize how thoroughly the confessional survey has become the sermon's dominant argument rather than a supporting illustration. The bowling bumpers analogy was intended to introduce the confessions as guardrails; instead they became the fence.
+
+---
+
+### 12. Illusion of Strength
+The doctrinal precision on Scripture (inerrancy, infallibility, inspiration, sufficiency) creates the impression of a theologically strong sermon. The sermon is theologically accurate about Scripture but not theologically powerful in its use of Scripture. Knowing what the Bible is and proclaiming what the Bible says are different things, and this sermon does the former while omitting the latter.
+
+---
+
+### 13. Missed Opportunity
+The BFM Article 1 ends with "All Scripture is a testimony to Christ, who is Himself the focus of divine revelation." This sentence is read aloud to the congregation — and then the sermon immediately moves to supporting references from the handout, never pausing to develop the Christ-centered nature of Scripture. The rebuilt draft develops this into five minutes of redemptive-historical preaching (Leviticus, Abraham, Psalms, the prophets, John 5:39-40). Here it is read and passed.
+
+---
+
+### 14. Surgical Fixes
+1. **Fill the Gospel section.** At minimum: sin named, Christ's substitutionary death stated, resurrection proclaimed, repentance and faith called for. This is not optional — it is the fatal flaw. The empty section must be filled before this sermon is preached or published in any form.
+2. **Move the confessional survey to a supporting role.** After establishing the text's argument (Scripture is God-breathed and makes us wise for salvation in Christ), introduce the confessions as evidence that the church has always understood this — not as the primary argument for it.
+3. **Develop v.15 as the sermon's theological center.** "Through faith in Christ Jesus" is the most important phrase in the passage. Spend five minutes here: what does it mean that Scripture's purpose is to make us wise for salvation through Christ? How does that change how we read every other part of it?
+4. **Cut the Keller attributes section significantly.** The omnipresence/timelessness/goodness development is a fine theological excursus but is not native to 2 Timothy 3:14-17. It elongates a sermon that already has cognitive load problems.
+5. **Restructure the conclusion.** The sermon should close with the gospel and the Communion — in that order, with the gospel fully proclaimed before the Table is set. The current structure has an empty gospel section followed by the Communion, which means the Communion comes without the gospel it enacts.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Triggered.** Theology scores (12/18) are strong relative to Gospel Centrality (2/15). Confessional knowledge is high; gospel proclamation is absent. The dead orthodoxy diagnostic applies: "This sermon may be doctrinally sound but pastorally inert. Correct theology that doesn't corner sinners or comfort saints has not yet become preaching. The doctrine is right. The fire is missing. Gospel-less orthodoxy is still orthodoxy without power."
+
+---
+
+### 16. Weight of Glory Assessment
+The sermon carries the weight of confessional history and genuine doctrinal seriousness, but it does not carry the weight of the gospel — and without the gospel, even the most precise doctrine about Scripture does not produce eternal gravity.
+
+---
+
+### 17. Rubric Fit Note
+The rubric fits this passage well. The evaluation correctly identifies the same passage handled very differently in the rebuilt draft (scored 94/105 vs. 42/100 here), which demonstrates the rubric's discriminating power. The gap is not the preacher's theology — it is the presence or absence of the gospel in the sermon's actual content. The rubric rightly makes this the decisive distinction.

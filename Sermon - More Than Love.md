@@ -178,3 +178,192 @@ It's like that for us too. In our own efforts we have turned life into a messy t
 Do you know him today?
 
 *[Gospel]*
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date**: 2026-03-21
+**Evaluator**: Thus Says the Lord Rubric v1.0
+**Sermon**: More Than Love — Baptist Faith and Message, Article 2: God
+
+---
+
+### 1. Verdict Title
+
+**A Catechetical Survey With Gospel Gestures — Theologically Honest but Expositionally Homeless**
+
+---
+
+### 2. One-Sentence Summary
+
+A well-intentioned doctrinal survey of God's attributes that effectively guards the congregation against common heresies while falling short of exposition, proclamation, and the kind of applicatory force that turns theology into doxology.
+
+---
+
+### 3. Berean Gate
+
+**CONDITIONAL PASS — Topical/Catechetical Genre.**
+
+This is not an expository sermon on a biblical text. It is a doctrinal teaching lesson structured around the BFM Article 2, using Numbers 23:19, Psalm 31:5–6, Jude 9, and John 3:16 as proof texts within a comparative theology exercise. The stated main point — "God is more than love; he is holy, gracious, just, and triune, and to worship him rightly we must know him truly" — is scripturally sound and arises from the passages cited. The Berean Gate passes for a catechetical address.
+
+*Scopus Test*: The sermon's thesis is identifiable ("Don't reduce God to love alone; know who God actually is"). This is scripturally grounded, even if not derived from the progressive argument of a single text.
+
+*Authority Test*: The preacher does not stand above the texts. He uses them faithfully as the basis for comparative theological claims.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG TRIGGERED — Score capped at 69.**
+
+**Flag #4 — Application is entirely generic**: The sermon's applications are all theological corrections to false teaching rather than specific calls to the congregation's particular lives, hearts, or sins. "You need to know the God you claim to worship" is true but is not specific application. The closing "[Gospel]" placeholder is not a gospel presentation — it is a bracket in the manuscript indicating the pastor planned to give one. As written, the gospel is never proclaimed; the sermon ends with "Do you know him today?" followed by a placeholder.
+
+**Flag #5 — No actual exhortation**: The sermon tells the congregation what to know but never tells them what to do with what they know. There is no "therefore" moment. There is no call to repentance, faith, worship, or obedience. The closing question ("Do you know him today?") is an invitation to reflection, not an exhortation.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 10/25**
+- *Textual Fidelity (4/10)*: Individual texts are used accurately — Numbers 23:19 establishes divine truthfulness; Jude 9 refutes the Jesus-is-Michael heresy effectively; John 3:16 is used for "begotten not made." But the texts function as proof texts in a comparative theology exercise, not as passages whose own argument is being followed. The sermon never stays inside any passage's own flow.
+- *Contextual Awareness (2/5)*: The passages are used without regard to their own contexts. Numbers 23:19 is Balaam's oracle — a remarkable Gentile prophet testifying to God's faithfulness against Israel's enemies. This context enriches the theological claim but is not developed. Jude 9 is from a warning against false teachers — its own context is relevant to the sermon's anti-heresy aim but unacknowledged.
+- *Exegetical Clarity (2/5)*: The note on ἐρημος being Elohim versus YHWH in Psalm 31:5 vs. 31:6 is handled — with the end note correction noted. The teaching is generally accurate.
+- *Logical Faithfulness (2/5)*: The sermon imports the BFM's theological framework as the governing structure, with Scripture as confirmation. This is confessional teaching, not biblical exposition.
+- *FCF*: The fallen condition is implicitly "false knowledge of God leading to false worship." This is a legitimate and important FCF, but it is not named and pressed — it is assumed throughout.
+
+**2. Theology & Doctrinal Integrity — 14/18**
+- *Christ-Centeredness (4/7)*: The BFM quotation on Christ (Article 2, God the Son) is substantive — incarnation, substitution, resurrection, ascension, mediation. The "we owed a debt we could not pay" hymn reference is well-placed. However, Christ arrives late (near the end) and as a section of doctrinal content rather than as the sermon's living center.
+- *Redemptive-Historical Awareness (2/3)*: The survey of God's attributes touches on Creator, Redeemer — the BFM's own language provides some redemptive-historical framing.
+- *Doctrinal Precision (4/4)*: The Trinitarian distinctions against Jehovah's Witnesses, Mormons, Oneness Pentecostals are accurate and important. The handling of God's wrath and justice alongside love is theologically sound and brave.
+- *Confessional Alignment (4/4)*: BFM quotations are used accurately. The teaching is solidly confessional. The critique of prosperity-gospel "speaking things into existence" is appropriately targeted.
+
+**3. Gospel Centrality & Force — 6/15**
+- *Clarity of the Gospel (1/5)*: The gospel is present in the BFM quotation about Christ's substitutionary death and in the "we owed a debt we could not pay" reference, but it is never proclaimed. The closing "Do you know him today? [Gospel]" is a placeholder, not a proclamation. An unbeliever would understand that Jesus died for sin but would not know what to do with that information.
+- *Necessity of Christ (3/5)*: Christ is necessary — the BFM section on the Son is quoted. But the sermon's center of gravity is theological knowledge, not the person of Christ. He is the conclusion of the doctrinal argument, not its source.
+- *Cross-Centered Gravity (2/5)*: The "he paid a debt he did not owe" moment and the passage about God offering to make enemies his children are the sermon's warmest gospel moments. They are too brief and too late.
+- *Synagogue Test*: A devout Muslim or Jew could largely affirm the sermon's argument that God is more than love — that he is holy, just, and triune is the distinction, but the Trinitarian section is framed as a catechism question rather than as proclamation. The cross is present but the offense of its necessity is not felt.
+
+**4. Conscience & Applicatory Force — 6/15**
+- *Heart Penetration (2/5)*: The sermon confronts false teaching about God with clarity and pastoral seriousness. But it does not move from "you might have believed false things about God" to "here is what believing false things about God has done to your soul." The diagnosis stays intellectual.
+- *Specificity (2/5)*: The "raise your hand" comparative theology exercise is genuinely engaging as a teaching device. But it is a classroom exercise, not a pastoral use of the text. The congregation is asked to evaluate propositions, not to examine their hearts.
+- *Spiritual Differentiation (2/5)*: The sermon addresses a broadly evangelical congregation being guarded against false teaching. It does not distinguish the self-righteous moralist, the unbeliever, the doubter, or the backslider with any specificity.
+
+**5. Exhortation & Response — 2/8**
+- *Call to Response (1/4)*: "Do you know him today?" is the entire exhortation. This is a question, not a call. No specific belief, repentance, obedience, or pursuit is demanded.
+- *Equipping for Holiness & Witness (1/4)*: The sermon equips the congregation to recognize theological error in cults and comparative religions — a genuine apologetic benefit. But it does not equip them for holiness or for witness in any specific way.
+
+**6. Structure & Logical Flow — 6/9**
+- *Clarity of Outline (3/4)*: The "raise your hand" catechism structure is memorable and engaging. The logical movement is clear: false claims → refutation → BFM → true God → gospel.
+- *Progression (2/3)*: The sermon builds through increasingly nuanced theological claims. The Trinity section is the most demanding and arrives late, which may lose listeners.
+- *Unity (1/2)*: "God is more than love" is the sermon's thesis, but the catechism exercise produces multiple competing propositions rather than one unified argument.
+
+**7. Illustration & Imagination — 3/5**
+- *Relevance (2/2)*: The muddy boy illustration is warm and congregation-accessible. The Nadja wedding price story is memorable and engages the global missions thread of the series.
+- *Clarity (1/2)*: The "names of God" list is teaching-mode rather than illustration — it clarifies but does not illuminate.
+- *Memorability (0/1)*: The muddy boy is memorable. The theological framework is memorable as a classroom exercise but will not land in the truck driver's cab as a living image.
+
+**8. Sermonic Force — 2/5**
+- *Reads as Preaching (1/2)*: The "raise your hand" structure creates genuine congregational engagement. But significant sections read as a theology lecture — especially the God's names list and the BFM quotations.
+- *Conviction on the Page (1/2)*: The final paragraph — "God allowed us to choose... he loved us enough to give us a better way forward" — has pastoral conviction. Most of the sermon is teaching-mode rather than proclamation-mode.
+- *Cadence and Breath (0/1)*: No climactic compression. The sermon ends with a question and a placeholder.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1**: The sermon introduces comparative theology, six comparative claims, a list of divine names, BFM quotations, Trinitarian distinctions, Mormon anthropology, and the gospel in one sitting. Individual members of the congregation — especially newer believers — will remember the catechism exercise and the muddy boy but will struggle to articulate the sermon's governing claim. One fewer doctrinal section would improve tractability.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 10/25 |
+| Theology & Doctrinal Integrity | 14/18 |
+| Gospel Centrality & Force | 6/15 |
+| Conscience & Applicatory Force | 6/15 |
+| Exhortation & Response | 2/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 2/5 |
+| **Subtotal** | **49/100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **49/100** |
+
+**Score capped at 69 due to Fatal Flaw Flags #4 and #5. Raw score of 49 falls below the cap; cap does not raise the score.**
+
+*Interpretation: 49 — Fundamentally flawed. The theological content is largely sound and the teaching framework is engaging, but this is a classroom lesson that has not yet become a sermon. The gospel is absent as proclamation, the application never presses conscience, and the exhortation is a placeholder. Before this can function as a sermon, it needs a gospel proclamation, a specific applicatory use, and an exhortation with teeth.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** More of God's attributes than either — the sermon is primarily analytical. Christ appears in the BFM quotation and in the closing illustration. Neither encounter is deep enough to produce doxology.
+2. **Did I encounter God, or just ideas about Him?** Ideas about Him, primarily. The comparative theology format keeps God as the object of analysis rather than the Subject who addresses the hearer.
+3. **Was I comforted, convicted, or merely informed?** Informed. The congregation learns to identify heresy and affirm the BFM. They are not convicted of specific sin or comforted with specific gospel promises.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The comparative theology "raise your hand" exercise**: This is a genuinely skillful teaching device. Presenting the Sura 3:54 quote and asking the congregation to evaluate it before offering the biblical corrective is engaging, memorable, and apologetically useful. It models how to recognize counterfeits before explaining the genuine article.
+2. **The wrath-justice-love integration**: "Sure, God has wrath — who doesn't? God's is perfect, and holy, and justified." This is a genuinely brave statement in a cultural moment that resists divine wrath, and the sermon's argument that emphasizing love alone cheapens God to a caricature is well-made.
+3. **The Trinitarian distinction against Mormonism**: The two-children-with-the-same-name analogy is clear, the Mormon position is accurately represented, and the distinction between unity of essence and distinctness of persons is made accessibly.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The "[Gospel]" placeholder renders the sermon incomplete for evaluation and for preaching**: The sermon ends without a gospel proclamation. "Do you know him today?" is a question, not a gospel. This is not a minor omission — it is the fatal absence. Every sermon must end with Christ offered, not merely gestured at. The preacher knows this; the bracket is evidence of intention. The intention must be fulfilled.
+2. **The sermon produces knowledge of God without pressing the question of response**: The congregation learns thirty-seven attributes of God. They are never asked: *What do you do with a God this vast, this holy, this just? Does the existence of his wrath alarm you? Does the existence of his grace undo you?* The theological content is real; the move from knowledge to worship is absent.
+3. **The sermon's text selection defeats exposition**: Four texts, each used as proof for one claim, with no passage given sufficient space to do theological work on its own terms. The sermon would benefit from selecting one text — perhaps Psalm 31:5 ("Into your hand I commit my spirit; you have redeemed me, O LORD, faithful God") — and treating God's attributes through the Psalm's own movement of trust, lament, and confidence.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the "raise your hand" exercise, while effective as a teaching tool, structures the congregation as evaluators of theological propositions rather than as sinners standing before a holy God. When the sermon ends with "Do you know him today?", the congregation has been trained to be theological judges, not kneeling worshipers. The sermon's form contradicts its intended pastoral effect.
+
+---
+
+### 12. Illusion of Strength
+
+The doctrinal precision creates an impression of thoroughness. The congregation leaves knowing what Mormons believe, why Jehovah's Witnesses are wrong about Jesus, and how many attributes the BFM attributes to God. This *feels* like deep theological teaching. But theological accuracy without doxological response is not a sermon — it is a class. The gap between "we've learned correct things about God" and "we have been drawn near to God by what we learned" is the gap this sermon does not cross.
+
+---
+
+### 13. Missed Opportunity
+
+The "what if someone said God only is love" section contains the sermon's most preachable theological claim — that God's wrath is satisfied through Christ's sacrifice, making his love possible without abolishing his justice. "Though we murdered his Son through our sin, he makes us heirs to his kingdom" is the sermon's most profound line. It arrives at the end of a paragraph and receives no development. This is the sermon's homiletical center — the moment when "God is more than love" becomes "and yet his love is more than we could have imagined." It should be the climax, not a passing observation.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Complete the "[Gospel]" section before preaching**: State the problem (sin creates the very separation that God's justice demands), the solution (Christ absorbed the wrath that the God-is-only-love crowd wants to pretend doesn't exist), and the response (repentance and faith — not knowing correct doctrine about God, but trusting the God you now know). The sermon's doctrinal content cries out for this landing.
+2. **Add a conscience-pressing use after the BFM section**: "You've just heard thirty-seven attributes of God in one paragraph. Here's the question the BFM doesn't ask but Scripture does: Is this God your God? Or have you been worshiping a reduced version — a god who is only love, or only justice, or only sovereign? Repent of the small god you have made and come to the God who is."
+3. **Add a doxological exhortation to close**: "What do you do when you stand before a God this vast? You worship. You kneel. You commit your spirit into his hands, the way the Psalmist did in Psalm 31:5. Let's do that now." Then pray — not close with a question.
+4. **Ground one section in its own passage context**: The Jude 9 refutation of the Jesus-is-Michael heresy would be strengthened by noting that Jude is warning against false teachers — making this not just a doctrinal point but an urgent pastoral warning: *the stakes of getting Jesus wrong are eternal, and false teachers are in every generation.*
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Triggered** — Exposition scores 10 but Conscience & Applicatory Force scores only 6. The doctrine is correct throughout. The fire is missing. The sermon knows much about God and moves the congregation little toward him. The BFM's accurate theology does not substitute for a preacher who has been with God and returns to say, "This is what he is like, and it should undo you."
+
+> "This sermon may be doctrinally sound but pastorally inert. Correct theology that doesn't corner sinners or comfort saints has not yet become preaching. The doctrine is right. The fire is missing. Gospel-less orthodoxy is still orthodoxy without power."
+
+---
+
+### 16. Weight of Glory Assessment
+
+The passage about God making enemies into heirs — "Though we murdered his Son through our sin, he makes us heirs to his kingdom" — has genuine weight of glory. The rest of the sermon carries theological correctness without doxological weight. God is discussed accurately but not encountered with awe.
+
+---
+
+### 17. Rubric Fit Note
+
+This is a catechetical teaching sermon within a BFM sermon series — a distinct genre that stresses the rubric's exposition and exhortation categories. The rubric is not a poor fit; the doctrinal integrity and theological precision categories apply naturally. But the low scores in gospel centrality, conscience, and exhortation reflect genuine weaknesses that would be present in any genre: a sermon on God that does not produce an encounter with God has failed its purpose regardless of the framework. The rubric's demands here are appropriate and the results are instructive.
