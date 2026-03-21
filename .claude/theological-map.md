@@ -60,6 +60,9 @@ Sovereignty extends over creation, history, politics, individual lives, and salv
 
 Ezra 4-6 narrative: God made Israel’s captors pay to rebuild the temple, the city, and her walls. Nebuchadnezzar’s humbling (Daniel 4) demonstrates that no earthly authority — however absolute — can resist God’s will. Applied pastorally: "You and God are the majority." If blessings keep you from obedience to the Lord, they are not from God. The Japanese soldier (Hiroo Onoda) illustration: the enemy fights on not knowing the war is already won. **Explicit. Tradition: Reformed Baptist, pastoral.**
 
+Sovereignty is also taught as the ground of Christian joy and rest. God’s control is illustrated through a rapid-fire OT survey: Elijah (sovereign over altar, brook, ravens, widow of Zarephath), Jonah (wind, waves, ship, fish, plant), Abraham/Isaac (ram in thicket), Peter walking on water, and Job (God responds from the whirlwind). "God is sovereign over everything. Nothing is outside of his command." 2 Chronicles 16:9 and Matthew 10:30 cited as proof-texts for God’s exhaustive knowledge and care. Because God is sovereign, anxiety is irrational — Matthew 6:27 and Philippians 4:6 applied. **Explicit. Tradition: Reformed Baptist.**
+> — `Sermon - Rejoice in the Lord.md`
+
 #### God's Answer to "Why" Is His Name, Not an Explanation
 > "When you're asking why, God introduces himself."
 > — Steven Davey (paraphrase), cited in `Other-Sermons/Sermons/ex 6-7.md`
@@ -1042,6 +1045,9 @@ The `The Lords day romans 14 gal 4.md` file treats Sabbath/Lord's Day observance
 
 > "God lets hard things happen. God lets bad things happen to good people to produce better people. In the fire of the crucible God burns away imperfections in your life."
 > — `Exodus 2 - Suffering Is Not Outside His Plan.md`
+
+The outline version adds a theodicy framework: sin was allowed as a real possibility so that free will would be genuine; Adam's fall polluted all subsequent humanity (Hudson Beach septic-tank illustration — one ruptured tank taints the water for everyone); it is this taint that causes innocent suffering. God does not cause sin but sovereignly turns evil to good. Christ's own suffering exceeded anything He asks of believers — "your sin caused greater suffering for Christ than anything he will ask you or anyone else to do. He has led by example." No believer will endure separation from God as Christ did on the cross.
+> — `Sermon - Rejoice in the Lord.md`
 
 **Explicit. Tradition: Reformed, Puritan.**
 
