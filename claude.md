@@ -808,3 +808,24 @@ This applies to every sermon modification:
 **voice-audit** fires after a draft is complete or when reviewing existing drafts. It scans for machine tells, checks voice continuity against the sermon corpus, assesses conviction, cadence, and doctrinal sharpness, and suggests minimal restoration edits.
 
 Both serve the same purpose: congregational intuition. The people in the room should never sense distance, artificiality, or tonal drift. They should hear their pastor.
+
+---
+
+## Thus Says the Lord: Sermon Evaluation
+
+> **Auto-fires on sermon writing/integration: `.claude/skills/thus-says-the-lord/SKILL.md`**
+
+**thus-says-the-lord** fires automatically every time a sermon is written or integrated into the repository. It scores on a weighted 100-point scale across eight categories: Exposition (25), Theology (18), Gospel Centrality (15), Conscience & Applicatory Force (15), Exhortation & Response (8), Structure (9), Illustration (5), and Sermonic Force (5), with a Weight of Glory bonus (+5) and Cognitive Load modifier (−3 to 0).
+
+The evaluation begins with the **Berean Gate** — if the sermon is not text-driven, no score is assigned. Six **fatal flaw flags** cap the score at 69 if triggered (missing gospel, Christ unnecessary, no exhortation, generic application, text drift, inaccessible to ordinary hearers). The **Synagogue Test** detects moralism. The **1689 Pulse** checks confessional alignment. **Dead Orthodoxy Detection** fires when doctrine is correct but the sermon is pastorally inert. Spiritual differentiation uses William Perkins' seven categories of hearers from *The Art of Prophesying*. The **Fallen Condition Focus** (Chapell) identifies the specific human condition the text addresses.
+
+Output includes: verdict title, one-sentence summary, score breakdown, strengths, weaknesses, blind spots, illusion of strength, missed opportunities, rubric fit note, and tradition-grounded surgical fixes.
+
+Every sermon carries the weight of "Thus says the Lord." This rubric tests whether yours has earned it.
+
+**Workflow:**
+1. Write with `like-a-human` + `careful-not-clever` active
+2. `thus-says-the-lord` evaluates the completed draft automatically
+3. Revise based on surgical fixes
+4. Run `voice-audit` before committing
+5. Commit

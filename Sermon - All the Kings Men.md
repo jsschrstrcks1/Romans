@@ -3,13 +3,13 @@
 
 ---
 
-A friend of mine came across a book called *The Annotated Mother Goose*, which gives some of the backstories behind the famous children's stories. Some were funny, some dark. I know you've all heard of "Ring Around the Rosie." This originates during the Black Death plague in the UK in the 1300s. "Ring around the rosie" is a reference to the red rash that children would get when they had contracted the disease. "Pocket full of posie" was a reference to their belief that the disease was caused by demons, and that if they would but fill their pockets with sweet-smelling flowers — in contrast to the terrible stink of death that followed those who were ill — the demons would be driven off and not affect those that smelled good. In truth, good hygiene would have made a significant difference. But not flowers in the pocket. They needed soap on their hands.
+A friend of mine came across a book called *The Annotated Mother Goose*, which gives some of the backstories behind the famous children's stories. Some were funny, some dark. I know you've all heard of "Ring Around the Rosie." One popular theory — and it's the one the book tells — is that this rhyme goes back to the Black Death plague in the 1300s. According to this theory, "ring around the rosie" is a reference to the red rash that people would get when they had contracted the disease. "Pocket full of posie" was a reference to their belief that the disease was caused by demons, and that if they would but fill their pockets with sweet-smelling flowers — in contrast to the terrible stink of death that followed those who were ill — the demons would be driven off and not affect those that smelled good. In truth, good hygiene would have made a significant difference. But not flowers in the pocket. They needed soap on their hands.
 
-Each line of that old poem is a reference to one of the most deadly plagues that has ever afflicted the world. Bits of that old disease still pop up today from time to time. There was an E. coli outbreak in Germany a few years back that had in its genetic code part of the *Y. pestis* bacterium that triggered the Black Death. It's a sad and haunting poem when you know the backstory. The final line is "all fall down" — a reference to the fact that everyone died. In fact there were an estimated 200 million deaths tied to the Black Death. Six hundred years ago, that would have been staggering. Scientists estimate that there were only 350 million people in 1300. Losing 200 million of them would have been almost 60% of the world's population. We recently passed the 7.5 billionth birth — if the plague had hit today we would have lost around 4.25 billion people.
+If the theory is right, each line of that old poem is a reference to one of the most deadly plagues that has ever afflicted the world. Bits of deadly disease still pop up today from time to time. There was an E. coli outbreak in Germany back in 2011 — an unusual strain that combined traits scientists had rarely seen together. It killed over fifty people and hospitalized thousands. It's a sad and haunting poem when you know the backstory. The final line is "all fall down" — a reference to the fact that everyone died. In fact estimates of the death toll from the Black Death range from 75 million on the low end to as high as 200 million. Six hundred years ago, that would have been staggering. Scientists estimate that there were somewhere around 400 million people in 1300. Even at the low end of 75 million dead, that's nearly one in five people on the planet. At the high end it could have been half the world's population. We recently passed the 7.5 billionth birth — scale that to today and we're talking about losing somewhere between 1.5 and 3.75 billion people.
 
 Another story was that of Humpty Dumpty. You know the old rhyme: *Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall, all the king's horses and all the king's men couldn't put Humpty back together again.*
 
-Think about that. What does an egg symbolize? New life. What about the king? The most powerful man on earth. It's a lament that mankind has fallen, and nothing within the earthly power of man is able to put it back together. It's a reference to the fall of Adam. But it's also a reflection of culture. I read an author a while back who said basically that our world specializes in producing broken people. He then quoted a teacher whom he'd asked about the single most important thing we can teach our kids to help them overcome this brokenness. The teacher said we just need to teach them to pull themselves up by their bootstraps. Basically that we all have it within ourselves to fix our own brokenness.
+Think about that. What does an egg symbolize? New life. What about the king? The most powerful man on earth. Nobody knows for sure what the original rhyme was about — maybe it was just a riddle, maybe something else entirely. But I'll tell you what I hear when I read it. I hear a lament that mankind has fallen, and nothing within the earthly power of man is able to put it back together. I hear an echo of the fall of Adam. But it's also a reflection of culture. I read an author a while back who said basically that our world specializes in producing broken people. He then quoted a teacher whom he'd asked about the single most important thing we can teach our kids to help them overcome this brokenness. The teacher said we just need to teach them to pull themselves up by their bootstraps. Basically that we all have it within ourselves to fix our own brokenness.
 
 But what a farcical trap is that. We know that we cannot overcome the ravages of sin in our life without the power of Christ. Without the gospel. Without being saved by our Lord Jesus Christ. We are by definition not enough.
 
@@ -25,13 +25,13 @@ Nehemiah was an average joe.
 
 Verse 1 — "The words of Nehemiah the son of Hacaliah." The Jews liked to put the information they felt was most important right at the start. They always wanted to know whose you are. So they list genealogies so they can show that they belong to someone important. "I'm of David," or "I'm of this scribe," or "that Pharisee." Remember Paul when he was Saul — he was introduced that way. "This is Saul, follower of Gamaliel." Gamaliel was an important man. It would be like being chosen by the president for something.
 
-But not Nehemiah. He's the son of a nobody. He's not the follower of anyone special. He's just an average joe. Son of someone who to our knowledge had never done anything special. Hacaliah's name is not recorded inside or outside of Scripture anywhere other than here. If he hadn't been father to a man that became remarkable we probably would have never heard his name.
+But not Nehemiah. He's the son of a nobody. He's not the follower of anyone special. He's just an average joe. Son of someone who to our knowledge had never done anything special. Hacaliah's name appears in Scripture only as the father of Nehemiah. If he hadn't been father to a man that became remarkable we probably would have never heard his name.
 
-Nehemiah was the king's cupbearer. This was an important job. A cupbearer was to bring the king his drink at dinner. He would also take a sip of it ahead of his king. In this day and age poison was a key tool in assassinations. So if someone were trying to kill the king, compromising a cupbearer was a good way to do so. The job was a position of trust. It was a good job. The king would often pay them well enough that bribes wouldn't be of interest. It is known from texts that survive that in Persia, and indeed under King Artaxerxes whom Nehemiah served, the cupbearers were also frequently in charge of overseeing the king's money — sort of like accountants for the king. It was a position that would require a lot of integrity and character. A position of trust.
+Nehemiah was the king's cupbearer. This was an important job. A cupbearer was to bring the king his drink at dinner. He would also take a sip of it ahead of his king. In this day and age poison was a key tool in assassinations. So if someone were trying to kill the king, compromising a cupbearer was a good way to do so. The job was a position of trust. It was a good job. The king would often pay them well enough that bribes wouldn't be of interest. Some historians believe that in Persia, cupbearers who earned the king's trust could be given broader responsibilities — overseeing finances, managing affairs — almost like accountants for the king. It was a position that would require a lot of integrity and character. A position of trust.
 
 Verse 2 — "Hanani, one of my brothers, came with certain men from Judah. And I asked them concerning the Jews who escaped, who had survived the exile, and concerning Jerusalem."
 
-This is sort of like water cooler gossip. He knew that Jerusalem had been sacked. He had probably been taken as part of the sacking of Jerusalem. All of that had taken place maybe 140 years before. At this time Ezra was in charge of Jerusalem. Ezra had been in charge of the initial rebuilding of the walls. Ezra was a wealthy man, and some people say Ezra was the scribe that accumulated all the books that we now call the Old Testament. We don't know that for sure, but it makes logical sense.
+This is sort of like water cooler gossip. He knew that Jerusalem had been sacked. He had probably been taken as part of the sacking of Jerusalem. All of that had taken place maybe 140 years before. At this time Ezra was in charge of Jerusalem. The temple had been rebuilt under Zerubbabel about seventy years before. Ezra was the priest and scribe who had led the spiritual reform — teaching the Law and confronting sin among the people. Some people say Ezra was the scribe that accumulated all the books that we now call the Old Testament. We don't know that for sure, but it makes logical sense.
 
 So Nehemiah is asking about the progress Ezra has made on re-securing the city. The response he gets breaks Nehemiah's heart.
 
@@ -42,7 +42,7 @@ Verse 3:
 
 So what we see is that the Israelites had been slowly but surely rebuilding. The temple had been rebuilt 70 years prior. Esther would have been queen within recent memory. You've heard of Aristotle and Plato? These two men helped shape the thinking of the world even still today in the realms of politics, philosophy, math, education, and Aristotle made contributions to almost every field man has studied — many of which still stand today. This is when democracy first gains a foothold in Greek lands, and the pursuit of God and knowledge of God births philosophy, which later gives birth to science. Science stems from man's attempt to pursue God.
 
-Speaking of philosophers that lived in this age, one of my professors at Trinity once said in jest that the fullness of his knowledge of philosophy surrounded two philosophers that he had unfortunately caused his wife to know well. "You rip-a-dees? And I mend-a-dees."
+Speaking of great thinkers that lived in this age, one of my professors at Trinity once said in jest that the fullness of his knowledge of the ancient world surrounded two Greeks that he had unfortunately caused his wife to know well. "You rip-a-dees? And I mend-a-dees."
 
 ---
 
@@ -50,7 +50,7 @@ In any case, this was heartbreaking news. It would have been like living in Euro
 
 I remember I was getting ready for a Greek midterm, and someone stuck their head in the class and said that a Cessna had crashed into the World Trade Center. The professor thanked him and sent him out. We had a study group going, the professor was helping. Then someone else came in and announced that they were calling it a terror attack. The professor called for a TV, but the last cart had been taken to the cafeteria. We all walked out and watched as the Pentagon was hit. The school president was standing beside me when we saw it. He announced that today was a day we need to be with our families, and dismissed classes. I remember the fear and uncertainty of what would come as I drove home. I heard the towers fell while driving and wept for those who lost loved ones. It's one of those days that is burned into your memory. Indelibly so.
 
-Some of you remember the day Kennedy was assassinated. I heard the speech given after Pearl Harbor where the president said that today was a day that would live in infamy. We all have been through these life-altering moments, that burn their way into our memory.
+Some of you remember the day Kennedy was assassinated. I heard the speech given after Pearl Harbor where the president said it was a date which would live in infamy. We all have been through these life-altering moments, that burn their way into our memory.
 
 This was that day for Nehemiah.
 
@@ -58,7 +58,7 @@ This was that day for Nehemiah.
 
 I mentioned earlier that the wisdom of the world tells Humpty Dumpty to put himself back together again. Pull yourself up by your bootstraps, they say. Fix yourself. Self-help is a huge industry. There is some worldly wisdom to be had there. But that advice is useless when it comes to the root cause of the problems of the world — namely original sin.
 
-You may have heard me talk about this before, but God originally created everything perfect. Scripture talks about lions lying down with lambs. There was no taint of sin. Everything was made perfect in the image of God. It was perfect like he is perfect. We had only one prohibition — just one — and like any child our forebears made a beeline and broke the rules, forever introducing sin into the world.
+You may have heard me talk about this before, but God originally created everything perfect. Scripture talks about the wolf dwelling with the lamb. There was no taint of sin. Everything was made perfect in the image of God. It was perfect like he is perfect. We had only one prohibition — just one — and like any child our forebears made a beeline and broke the rules, forever introducing sin into the world.
 
 When Adam and Eve sinned, the image of God in creation was shattered. We took what was a perfect reflection of God and made it imperfect. It's like a mold. Have you ever made anything using a mold? I had a ship mold for plaster of Paris. You mix the plaster and the water together and then pour it into the ship mold. Problem was the ship mold had an imperfection from the mold having been abused. So when the plaster was poured into the mold, every ship made from it forever after reflected that mar.
 
@@ -87,9 +87,9 @@ Perhaps you feel as though you are Humpty Dumpty — you feel broken, and as tho
 
 Christian brothers and sisters — I want to ask you a question. When was the last time the broken state of the world brought us to tears?
 
-That may seem a silly thing to weep over, especially for us men, but I assure you it is not. Nehemiah — a man — openly wept for his city, for his nation. He fasted. Scholars believe for perhaps as long as a month. He went to battle from a place of submission.
+That may seem a silly thing to weep over, especially for us men, but I assure you it is not. Nehemiah — a man — openly wept for his city, for his nation. He fasted. Scholars believe for as long as three to four months — from the month of Kislev when he received the news to Nisan when he finally spoke to the king. He went to battle from a place of submission.
 
-Likewise a famous reformer — a man named John Knox, who lived in Scotland under the reign of the famous Queen "Bloody Mary," so named for her murder of believers — the prayer of John Knox came from a place of sincerity. He openly wept for the lost of Scotland. He had a habit of going into Mary's garden and openly praying for Scotland, for Queen Mary, and would openly weep over the lost. Evangelism was the song of his heart. Mary later wrote that she could hear him pray, and his prayers frightened her more than anything else on earth. She recorded that one afternoon as he was outside her chamber window praying to God, he had prayed:
+Likewise a famous reformer — a man named John Knox, who lived in Scotland under the reign of Mary Queen of Scots — the prayer of John Knox came from a place of sincerity. He openly wept for the lost of Scotland. He had a habit of going into Mary's garden and openly praying for Scotland, for Queen Mary, and would openly weep over the lost. Evangelism was the song of his heart. Mary later wrote that she could hear him pray, and his prayers frightened her more than anything else on earth. She recorded that one afternoon as he was outside her chamber window praying to God, he had prayed:
 
 "Lord, give me Scotland, lest I die."
 
@@ -107,7 +107,7 @@ If you're not yet a believer in Jesus Christ — if you haven't made that commit
 
 Because I was a good person? I'm sorry, friend — that's not enough.
 
-Because I believe you exist? Scripture says even the demons believe, and they tremble.
+Because I believe you exist? Scripture says even the demons believe — and shudder.
 
 Because on balance I've done more good than bad? It's not a cosmic scale. One sin cannot be outweighed by ten trillion good deeds. One sin, however, is enough to send you to hell.
 
@@ -126,3 +126,133 @@ Take a moment, and get right with God.
 
 > For I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, and when he had given thanks, he broke it, and said, "This is my body, which is for you. Do this in remembrance of me." In the same way also he took the cup, after supper, saying, "This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me." For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes.
 > — 1 Corinthians 11:23-26 (ESV)
+
+---
+
+## Integrity Log
+
+*Compiled March 2026. Covers Scripture verification, factual claims, historical accuracy, and voice assessment.*
+
+---
+
+### Scripture Verified (ESV)
+
+| Reference | Status | Notes |
+|-----------|--------|-------|
+| Nehemiah 1:1 (ESV) | ✓ | "The words of Nehemiah the son of Hacaliah." Quoted accurately. |
+| Nehemiah 1:2 (ESV) | ✓ | "Hanani, one of my brothers, came with certain men from Judah..." Quoted accurately. |
+| Nehemiah 1:3 (ESV) | ✓ | Block-quoted accurately. |
+| Romans 3:23 (ESV) | ✓ | Block-quoted accurately. |
+| Romans 6:23 (ESV) | ✓ | Block-quoted accurately. |
+| 1 Corinthians 11:23-26 (ESV) | ✓ | Block-quoted accurately. |
+| James 2:19 | ⚠️ | Sermon says "even the demons believe, and they tremble." ESV reads "Even the demons believe — and **shudder**!" Minor wording difference. Correct to "shudder" before print. |
+
+### Factual Claims — Flagged
+
+**1. ⚠️ RING AROUND THE ROSIE / BLACK DEATH ORIGIN — LIKELY APOCRYPHAL**
+The sermon presents the Black Death origin as established fact, attributed to *The Annotated Mother Goose* (Baring-Gould, 1962). While that book does present this theory, folklorists have thoroughly disputed it. The rhyme first appears in print in 1881 — over 500 years after the Black Death. The plague interpretation only dates to 1949. Peter and Iona Opie rejected the plague connection in *The Oxford Dictionary of Nursery Rhymes* (1951, revised 1997). Folklorist Steve Roud called it "complete nonsense" in *The Lore of the Playground* (2010). The Library of Congress Folklife Today blog (July 2014) and Snopes classify it as false. Early versions of the rhyme lack the supposed plague references, and cremation — often cited in the theory — was forbidden in 14th-century England. The illustration is vivid but should be framed as "some people say" rather than presented as history if reprised. (Sources: Library of Congress Folklife Today, July 2014; Snopes fact-check; Opie, *Oxford Dictionary of Nursery Rhymes*, 1951.)
+
+**2. ⚠️ E. COLI / Y. PESTIS CLAIM — UNVERIFIED**
+The sermon claims a German E. coli outbreak had Y. pestis genetic material. The 2011 German E. coli O104:H4 outbreak was real and devastating (3,842 cases, 53 deaths — the largest HUS outbreak ever recorded). What made it unusual was NOT Y. pestis genetic material but a novel hybrid of enteroaggregative E. coli (EAEC) and Shiga toxin-producing E. coli (STEC), combining adherence genes from EAEC with Shiga toxin genes from a bacteriophage. No credible published source links this outbreak strain to Y. pestis DNA. Also note: Y. pestis is a **bacterium**, not a virus (the polished version already corrected "virus" to "bacterium"). Do not repeat the Y. pestis connection without a verifiable source. (Sources: Frank et al., *NEJM* 365:1771-1780, 2011; Rasko et al., *NEJM* 365:709-717, 2011.)
+
+**3. ⚠️ BLACK DEATH POPULATION FIGURES — HIGH-END ESTIMATES**
+Sermon says 350 million people in 1300 and 200 million deaths (~60%). Multiple scholarly estimates place world population around 1300 AD higher than 350 million — the US Census Bureau's Historical Estimates of World Population table lists estimates ranging from 360 to over 400 million for this period. The figure of 350 million is closer to post-Black Death estimates (c. 1400), after population had dropped. The 200 million death figure is at the very top of scholarly estimates (range: 75–200 million). At 400 million, losing 75–200 million would be 19–50%, not "almost 60%." The math is internally consistent with the numbers stated, but both inputs are at the extreme ends of scholarly ranges. (Source: US Census Bureau, Historical Estimates of World Population.)
+
+**4. ⚠️ HUMPTY DUMPTY AS ALLEGORY FOR THE FALL OF ADAM — HOMILETICAL APPLICATION, NOT HISTORY**
+No documented historical connection between the rhyme and the Fall of Adam. The rhyme first appears in print in 1797 as a riddle (answer: an egg). Theories include a cannon in the English Civil War (Colchester), Richard III, or simply a riddle. The Fall-of-Adam reading works beautifully as a sermon illustration but should not be presented as the rhyme's established meaning. Already used in the Judges 1–2 sermon — note illustration overlap.
+
+**5. ⚠️ CRITICAL — JOHN KNOX / "BLOODY MARY" — TWO DIFFERENT QUEENS**
+The sermon conflates two historical figures:
+- **Bloody Mary** = Mary I of England (r. 1553–1558), who burned ~280–300 Protestants.
+- **Mary Queen of Scots** = Mary Stuart (r. Scotland 1542–1567), whom Knox confronted.
+Knox's famous confrontations were with Mary Queen of Scots, not Bloody Mary. The prayer quote ("Lord, give me Scotland, lest I die") and the fear quote ("his prayers frightened her more than anything else on earth") are both associated with Mary Queen of Scots. Correct this before reprising — it is a significant historical error.
+
+**6. ⚠️ "LIONS LYING DOWN WITH LAMBS" — COMMON MISQUOTE**
+The sermon says "Scripture talks about lions lying down with lambs." The actual text:
+- Isaiah 11:6 (ESV): "The **wolf** shall dwell with the **lamb**, and the leopard shall lie down with the young goat, and the calf and the lion and the fattened calf together..."
+- Isaiah 65:25 (ESV): "The **wolf** and the **lamb** shall graze together; the lion shall eat straw like the ox..."
+"Lions lying down with lambs" is a widely repeated paraphrase that conflates these verses. The wolf-and-lamb pairing is what Scripture says. Correct before print.
+
+**7. ⚠️ EZRA AND THE WALLS — INCORRECT**
+The sermon says "Ezra had been in charge of the initial rebuilding of the walls." This is wrong. Ezra was a priest and scribe who led religious reform — teaching the Law and confronting intermarriage (Ezra 7–10). The initial rebuilding of the **temple** was under Zerubbabel (Ezra 3–6, completed ~516 BC). The walls were NOT rebuilt before Nehemiah — that is the entire point of Nehemiah's mission. Correct before reprising.
+
+**8. ⚠️ "EZRA WAS A WEALTHY MAN" — NOT ESTABLISHED IN SCRIPTURE**
+No Scripture passage describes Ezra as wealthy. He had royal authorization and provisions from Artaxerxes (Ezra 7:11–26), but personal wealth is not documented. Flag as unverified.
+
+**9. ⚠️ HACALIAH MENTIONED ONLY "HERE" — INCORRECT**
+The sermon says Hacaliah's name "is not recorded inside or outside of Scripture anywhere other than here." Hacaliah is mentioned twice in Scripture: Nehemiah 1:1 and Nehemiah 10:1 ("Nehemiah the governor, the son of Hacaliah"). The point about his obscurity stands — he is known solely as Nehemiah's father — but the "only here" claim is technically wrong.
+
+**10. ⚠️ NEHEMIAH FASTING "AS LONG AS A MONTH" — UNDERSTATED**
+The sermon says "scholars believe for perhaps as long as a month." Nehemiah 1:1 places Hanani's report in the month of Kislev (month 9). Nehemiah 2:1 places his request to the king in Nisan (month 1). That is approximately 3–4 months, not one. Most commentators interpret the "some days" of mourning and fasting as spanning this full Kislev-to-Nisan gap.
+
+**11. ⚠️ FDR PEARL HARBOR SPEECH — MISQUOTED**
+The sermon says "the president said that today was a day that would live in infamy." The actual quote: "Yesterday, December 7, 1941 — **a date which will live** in infamy." FDR used "date" not "day," and "which" not "that." This is a common misquotation. Minor for spoken delivery; correct before print.
+
+**12. ⚠️ EURIPIDES JOKE — "PHILOSOPHERS" IS INACCURATE**
+The joke references "two philosophers" — but Euripides (c. 480–406 BC) was a **playwright/tragedian**, one of the three great Athenian tragedians alongside Aeschylus and Sophocles. Not a philosopher. The second name in the joke ("I mend-a-dees") is a pun on Eumenides (a play by Aeschylus) or Archimedes (a mathematician). Neither was a philosopher either. The joke works fine as humor; just note that "philosopher" is the wrong category if precision matters.
+
+**13. PAUL AS "FOLLOWER OF GAMALIEL" — ACCEPTABLE PARAPHRASE**
+Acts 22:3 (ESV) says Paul was "educated at the feet of Gamaliel." "Follower" is a loose paraphrase of "student," but acceptable for spoken delivery.
+
+**14. CUPBEARERS AS "ACCOUNTANTS" — UNVERIFIED SPECIFICS**
+The claim that Persian cupbearers oversaw the king's money and functioned as accountants is not universally documented. Cupbearers held positions of significant political trust and influence (Xenophon's *Cyropaedia* describes this), and Nehemiah's ability to request a governorship confirms high access. The "accountant" comparison is plausible but should be qualified with "some scholars suggest" if reprised.
+
+### Claims Verified or Acceptable
+
+| Claim | Status |
+|-------|--------|
+| *The Annotated Mother Goose* — real book | ✓ By William S. and Ceil Baring-Gould (1962) |
+| Black Death in the 1300s (peak 1347–1351) | ✓ |
+| Nehemiah as cupbearer | ✓ Nehemiah 1:11 |
+| Jerusalem sacked ~140 years before Nehemiah | ✓ ~586 BC to ~445 BC = ~141 years |
+| Temple rebuilt ~70 years prior | ✓ Completed ~516 BC (Ezra 6:15) |
+| Esther as queen within recent memory | ✓ Under Xerxes I (r. 486–465 BC); Artaxerxes I succeeded him |
+| Aristotle and Plato roughly contemporaneous | ✓ Plato (428–348 BC) active during this era; Aristotle (384–322 BC) born about 60 years after Nehemiah |
+| Democracy's Greek foothold in this era | ✓ Cleisthenes' reforms ~508 BC |
+| 9/11 personal narrative | ✓ Personal illustration — taken as given |
+| Knox's prayer "Give me Scotland, lest I die" | ✓ Traditional attribution widely cited; exact primary source debated |
+| Knox's prayers frightened Mary | ✓ Traditional attribution to Mary Queen of Scots widely cited |
+| Romans 3:23, Romans 6:23, 1 Cor 11:23-26 | ✓ All verified ESV exact |
+
+### Illustration Overlap
+
+| Illustration | Also Used In |
+|-------------|-------------|
+| Humpty Dumpty / Fall of Adam | `Judges 1-2 - Humpty Dumpty (raw notes).md` — same extended illustration |
+| 9/11 memory (Pentagon hit, driving home) | `Nehemiah 2 - City in Ruins.md` — same memory retold |
+| Plaster of Paris ship mold | Appears to be unique to this sermon |
+| John Knox "Give me Scotland" | Appears to be unique to this sermon |
+
+---
+
+### Voice Audit
+
+**Authenticity Risk: LOW**
+
+This is unmistakably human, unmistakably this preacher. No machine tells detected.
+
+**Machine Tell Scan:** All clear. No uniform sentence length, no template loops, no AI transitions, no hedging stacks, no adverb inflation, no AI-overrepresented vocabulary.
+
+**Voice Markers Present:**
+- ✓ Compressed declarative chains: "All the king's horses. All the king's men. It's not enough. Only Christ is enough."
+- ✓ Antithetical parallelism: "Not flowers in the pocket. They needed soap on their hands."
+- ✓ Direct pastoral address: "Christian, when was the last time...?" / "Can we not even pray for them?"
+- ✓ Shrinking sentences at climax: "Lost. Dying. Damned to hell."
+- ✓ Gear-shift markers: "Alright, let's turn in our Bibles..."
+- ✓ Pause-and-pivot: "This was that day for Nehemiah."
+- ✓ Humor that earns trust: Euripides/Eumenides joke
+- ✓ Real-world analogies from the people's world: plaster mold, cookies, 9/11, sandspurs
+
+**Voice Markers Absent (expected):**
+- The "Night is far gone" refrain — this is a Nehemiah sermon, not Romans. N/A.
+- Greek word studies — not a text-heavy exposition. Acceptable.
+
+**Conviction Check:** PASS. Sin named directly (original sin, self-sufficiency, prayerlessness, indifference to the lost). Clear calls issued (come talk to me; pray for the lost; commit to daily prayer). Comfort does not arrive too early — conviction about prayerlessness sits before the gospel call.
+
+**Cadence Check:** PASS. Sentence shortening at climax. Anaphora in the gospel call ("Because I was a good person?... Because I believe you exist?... Because on balance..."). Pause-and-pivot after Knox section.
+
+**Doctrinal Sharpness:** PASS. Biblical vocabulary present — sin, original sin, wages of sin, death, eternal life, reconciled, hell, damned. TED talk test fails (this sermon cannot survive in a secular context). Corporate retreat test fails decisively ("Damned to hell. Can we not even pray for them?").
+
+**Note:** This sermon is more illustration-driven and less verse-by-verse than the Romans series. This is appropriate for a Nehemiah series opener — setting up themes that will develop over subsequent weeks. The text-first orbit is lighter than usual but adequate.
+
+**"Broken/brokenness" usage:** The voice-audit flags "brokenness" as a potential vague moral swap for "sin." In this sermon, "broken" is organic to the Humpty Dumpty metaphor — not therapeutic drift. The sermon also uses "sin," "original sin," "wages of sin," and "damned to hell" alongside it. No correction needed.
