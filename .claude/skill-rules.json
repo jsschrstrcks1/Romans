@@ -210,7 +210,6 @@
       }
     },
 
-
     "thus-says-the-lord": {
       "enabled": true,
       "type": "guardrail",
