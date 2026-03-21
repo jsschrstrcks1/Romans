@@ -201,4 +201,157 @@ In a few minutes we're going to take the bread and the cup together. And when we
 - "Catholic Church declared the earth flat" — Removed (historically inaccurate)
 - "2,000 years older" Dead Sea Scrolls claim — Corrected to "roughly a thousand years"
 - 2020 election opening remarks — Removed (contextual to that moment, not driven by the text)
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated:** 2026-03-21
+**Rubric:** Thus Says the Lord — Reformed Baptist Sermon Evaluation Rubric
+**File:** 2 Tim 3 13-17 - The Measuring Stick (rebuilt draft).md
+
+---
+
+### 1. Verdict Title
+Exemplary Christ-Centered Sola Scriptura Sermon — The Rebuilt Draft Earns Its Pulpit
+
+---
+
+### 2. One-Sentence Summary
+A carefully rebuilt exposition of 2 Timothy 3:13-17 that faithfully develops the passage's Christ-centered argument for Scripture's sufficiency — from deception, to "continue," to wisdom for salvation through faith in Christ Jesus, to God-breathed authority, to complete equipping — with a clear gospel center, strong Communion integration, and pastoral warmth that searches the conscience distinctly across multiple categories of hearers.
+
+---
+
+### 3. Berean Gate
+**Scopus Test: PASS**
+The sermon's thesis — Scripture is the God-breathed, Christ-centered measuring stick that makes us wise for salvation and equipped for every good work — arises directly from the passage's own argument. The sermon traces the text's logic faithfully from v.13 (deception) to v.14 (continue in what you learned) to v.15 (wise for salvation through faith in Christ) to v.16 (God-breathed and profitable) to v.17 (complete and equipped). This is genuine text-driven preaching.
+
+**Authority Test: PASS**
+The preacher submits to the text's claims, including the difficult ones: Scripture reads *us* before we read it; reproof is mine before it is yours; the Pharisees had the text but missed Jesus. No softening is present.
+
+---
+
+### 4. Fatal Flaw Flags
+**None triggered.** The gospel is clearly proclaimed (sin, substitution, resurrection, repentance, faith — Section III is a full gospel paragraph). Christ is essential — not decorative, but "the whole point" (stated explicitly). Application is differentiated across at least four categories of hearers. Exhortation is clear and specific ("If you have never opened this Book — start," "If you used to read it and stopped — the Bible hasn't moved. You have."). The sermon is accessible to the single mother, the high schooler, and the new believer.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 22/25**
+- *Textual Fidelity (10):* 9/10 — The sermon traces the passage verse-by-verse, states the argument of each verse, and allows the text's own logic to generate the sermon's structure. The hinge at v.15 ("the whole passage") is correctly identified and developed. The only mild deduction: v.13's "deceiving and being deceived" is illustrated well (JW story) but the theological depth of mutual self-deception in false teachers is not fully mined.
+- *Contextual Awareness (5):* 5/5 — Paul's deathbed context is woven through the entire sermon (noted at v.14 and again in the Communion section). The Ephesian false-teaching context is accurately described. The chain from the Apostles through the Reformers through confessional Baptists is appropriately traced.
+- *Exegetical Clarity (5):* 5/5 — *Theopneustos*, *artios*, and *exērtismenos* are all correctly defined and deployed as keys, not decorations. The "canon = reed" etymology is accurate and memorable. The present active imperative on "continue" is correctly identified and explained without jargon.
+- *Logical Faithfulness (5):* 3/5 — The FCF is implicit (the tendency to have the Bible but miss the Jesus it's pointing at, like the Pharisees) and is effectively illustrated, but is never stated as a single crisp sentence. The sermon is close to naming it explicitly but consistently moves to illustration before arriving at the stated condition.
+
+**2. Theology & Doctrinal Integrity — 17/18**
+- *Christ-Centeredness (7):* 7/7 — "Christ is not the appendix to the Bible. He is the point of the Bible." The Christological center is stated, argued, and demonstrated from Leviticus, Abraham, the Psalms, and John 5:39-40. This is organic, not artificial. The Communion section beautifully closes the typological arc.
+- *Redemptive-Historical Awareness (3):* 3/3 — "Every sacrifice in Leviticus pointed to him. Every promise to Abraham found its yes in him. Every psalm of lament cried out for him. Every prophet who said 'thus says the Lord' was preparing the way for the Word made flesh." This is a model of redemptive-historical preaching.
+- *Doctrinal Precision (4):* 4/4 — Justification language is present ("declared righteous, adopted"). Substitution is present ("bore the wrath you earned"). Resurrection is present ("the grave couldn't hold him"). Regeneration is implicit in "not just what to think, but what to become." No theological sloppiness.
+- *Confessional Alignment (4):* 3/4 — Helwys (1611), 1689 LBCF, and BFM 2000 are all accurately quoted and well-deployed. The sermon is demonstrably in the confessional stream. Minor deduction: the sermon is preached in a Sola Scriptura series context and does not explicitly connect to the 1689's treatment of sufficiency (1.6) — a missed opportunity for the target context.
+
+**3. Gospel Centrality & Force — 14/15**
+- *Clarity of the Gospel (5):* 5/5 — Section III contains a full, clear, and well-ordered gospel paragraph. Sin is named (we have all fallen short). God's mercy is stated. Christ's substitution is explicit. The resurrection is proclaimed. Repentance and faith are called for. Justification is stated. An unbeliever can understand how to be saved from this sermon.
+- *Necessity of Christ (5):* 5/5 — The Synagogue Test is definitively failed (in the best possible way). The Pharisee illustration ensures that mere Bible knowledge is called out as insufficient. "Without him, the Bible is just a book." Christ is necessary, not decorative.
+- *Cross-Centered Gravity (5):* 4/5 — The sermon moves strongly toward Christ and the cross. Minor deduction: the law/gospel dialectic is present but the law's convicting work before the gospel's relief is not quite fully developed — the sermon moves fairly quickly from "you have sinned" to "here is the gospel." A slightly longer moment under the hammer before the balm would strengthen the order.
+
+**4. Conscience & Applicatory Force — 13/15**
+- *Heart Penetration (5):* 5/5 — "If you have been in this Book for years and it has never made you uncomfortable — never backed you into a corner — you may be reading it with the door locked from the inside." This is conscience-pressing at its best. The Pharisee parallel is pointed. The reading habits diagnostic at the close reaches the affections, not just the intellect.
+- *Specificity (5):* 4/5 — The four-category application at the close ("If you have never opened this Book... If you read it and nothing changes... If you used to read it and stopped... If you read it faithfully") is genuinely differentiated and specific. Minor deduction: the "diagnosis / marriage crumbling" specifics are listed quickly rather than developed — one concrete example dwelt upon would increase impact.
+- *Spiritual Differentiation (5):* 4/5 — The sermon addresses: the unbeliever (closing gospel call), the nominal/Pharisee-type (John 5 application), the backslider ("the Bible hasn't moved; you have"), the faithful believer (don't let familiarity become autopilot), and the struggling/grieving (the Luther quote, the "when life gets hard" paragraph). Five of Perkins' seven categories are reached — only the "ignorant but teachable" and the "knowledgeable but unhumbled" are not distinguished as separate addresses, though both are touched.
+
+**5. Exhortation & Response — 7/8**
+- *Call to Response (4):* 4/4 — The four-part closing application is a genuine exhortation. Each category of hearer is told specifically what to do. The Communion section provides a corporate exhortation (remember him). The gospel invitation is clear.
+- *Equipping for Holiness & Witness (4):* 3/4 — The sermon equips the hearer to use Scripture for reproof, correction, and training. The witness dimension is present ("this is what the sacred writings are for") but could be stated more explicitly as a sending into the world.
+
+**6. Structure & Logical Flow — 9/9**
+- *Clarity of Outline (4):* 4/4 — Five sections, each named, each corresponding to a verse or natural unit of the passage. A listener could sketch this on a napkin: (I) Deception happens; (II) Continue in what you learned and who taught it; (III) Scripture makes you wise for salvation in Christ; (IV) Scripture is God-breathed and profitable; (V) Scripture makes you complete and equipped.
+- *Progression (3):* 3/3 — The sermon builds. Each section raises the stakes for the next. The Communion integration at the end is a structurally elegant conclusion — the sermon preaches Scripture, then Scripture is enacted at the Table.
+- *Unity (2):* 2/2 — One dominant idea: Scripture is the Christ-centered, God-breathed measuring stick for the Christian life. Everything serves this idea.
+
+**7. Illustration & Imagination — 4/5**
+- *Relevance (2):* 2/2 — JW encounter, Brandon Sanderson editorial process, Masoretes, Dead Sea Scrolls, grandfather's door, continuity errors in fiction — all accessible and from the congregation's world (or its accessible imaginative range).
+- *Clarity (2):* 2/2 — Every illustration illuminates its point. The Sanderson illustration (one divine Author, no continuity errors) is particularly effective.
+- *Memorability (1):* 0/1 — No single illustration will definitively be carried home. The grandfather's door is the warmest and closest, but the JW encounter or the Masoretes detail could also stick. The sermon is rich in illustrations but lacks one dominant, unforgettable image. This is a very minor weakness.
+
+**8. Sermonic Force — 5/5**
+- *Reads as Preaching (2):* 2/2 — The manuscript is clearly written to be spoken. Direct address is natural and frequent. Sentences breathe.
+- *Conviction on the Page (2):* 2/2 — "Without him, the Bible is just a book. With him, it is the living Word of God — breathed out, preserved, profitable, and sufficient to make you everything God intends you to be." The manuscript earns its climactic moments.
+- *Cadence and Breath (1):* 1/1 — Sentence variation is excellent. The teaching/reproof/correction/training paragraph (short staccato lines) followed by the Luther quote followed by the pastoral address is well-calibrated.
+
+---
+
+### 6. Cognitive Load Modifier
+**0** — The sermon is richly textured but consistently well-organized. The five-section structure prevents cognitive drift. The illustrations are well-integrated. An average church member can track the main argument and take home one clear truth: "Scripture is about Christ, and Christ is the whole point."
+
+---
+
+### 7. Total Score
+22 + 17 + 14 + 13 + 7 + 9 + 4 + 5 = **91/100**
+
+**Weight of Glory Bonus: +3** (eternal significance is present; God is weighty; the Spurgeon test is met — a man who has been with God could preach this and weep or rejoice at the appropriate moments)
+
+**Total: 94/105**
+
+**Interpretation: Rare — Exemplary** — This is a strong, faithful, Christ-centered sermon. It is ready for the pulpit. The identified weaknesses are sharpening opportunities, not structural problems.
+
+---
+
+### 8. Core Override Questions
+1. *Does this sermon make me think more of Christ — or myself?* Christ — emphatically. The Pharisee section ensures that even Bible readers are turned toward Jesus rather than their own knowledge.
+2. *Did I encounter God, or just ideas about Him?* God is present and weighty. The Masoretes section, the Dead Sea Scrolls paragraph, and the Communion close all carry genuine divine gravity.
+3. *Was I comforted, convicted, or merely informed?* All three — convicted (the Pharisees, the locked-door reader), comforted (when life is hard, God meets you in this Book), and called to action (open it; return to it; remember him at the Table).
+
+---
+
+### 9. Strengths (Top 3)
+1. **The Christological center of v.15 is developed with clarity and force.** "Christ is not the appendix to the Bible. He is the point of the Bible" — followed by three lines of redemptive-historical sweep — is the theological apex of the sermon and it is earned, not asserted. The Pharisee application from John 5:39-40 seals it with one of the most penetrating texts in the Gospels.
+2. **The four-part applicatory close is genuinely differentiated.** Four distinct categories of hearers receive four distinct, specific, and honest addresses. This is Puritan application in accessible contemporary form.
+3. **The Communion integration.** Ending the Sola Scriptura sermon at the Table — "every sacrifice in Leviticus pointed forward to him; this Table points back to him" — is structurally and theologically elegant. The Scripture that was preached is enacted in the ordinance. This is Reformed Baptist worship at its best.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+1. **The FCF is never stated as a single crisp sentence.** The sermon consistently approaches the fallen condition focus (the human tendency to have the Bible but miss the Christ it points to) and then moves to illustration. One sentence near the end of the introduction stating the condition explicitly ("The fallen condition this text addresses is this: it is possible to have the Bible and miss the Bible's point — to have the road and never arrive") would give the sermon a diagnostic anchor.
+2. **The law/gospel order is slightly compressed.** The gospel paragraph in Section III moves quickly from "you are a sinner" to "here is the gospel." A slightly longer moment in which the law has time to land — naming specific sins or specific ways the human condition manifests in this congregation — would deepen the gospel's relief.
+3. **The Luther quote's source is unverified (noted in verification notes).** In a sermon this carefully sourced, an unverified Luther quote is a mild inconsistency. The substance is sound, but the attribution should be secured before the sermon is reprinted or preached in a more formal setting.
+
+---
+
+### 11. Blind Spots
+The sermon is so strong that its blind spots are minor. The preacher may not notice that the witness/sending dimension of "equipped for every good work" (v.17) is applied primarily to personal spiritual formation rather than outward mission. The passage's "every good work" includes evangelism and service, and a brief mention of the church's outward purpose would complete the equipping picture.
+
+---
+
+### 12. Illusion of Strength
+The confessional history section (Section II) is genuinely strong, but the chain of confessions (Helwys → 1689 → Abstract → New Hampshire → Philadelphia → BFM) creates a slight risk of the sermon feeling like it is arguing from authority rather than from Scripture at that point. The argument is valid and the sources are accurate, but the congregation may receive "many confessions agree" as the primary argument rather than "the text itself commands this." The confessional chain serves well as corroboration; it works less well as the primary evidence.
+
+---
+
+### 13. Missed Opportunity
+The word *theopneustos* (God-breathed) opens a significant opportunity to contrast Scripture's origin with every other book. The sermon notes that 66 books, dozens of authors, 1,500 years, no internal contradictions — this is the fingerprint of one divine Author. This point is made well. The missed opportunity is to press the *present tense* reality of God-breathed Scripture: it is not merely that God breathed it out; it is that this breath is still living and active (Hebrews 4:12-13 is in the verification notes but not developed in the sermon). The Word is still speaking, still active, still cutting. This would have deepened the section's pastoral force.
+
+---
+
+### 14. Surgical Fixes
+1. **State the FCF in one sentence** in the final paragraph of Section I or the opening of Section II: "The condition this text was written to address is this: it is possible to be surrounded by Scripture and still miss the Christ it points to."
+2. **Add 60 seconds to the law paragraph** in Section III before the gospel relief. Name one or two specific sins that are common in this congregation that Scripture names and we resist hearing. Let the hammer land before the balm.
+3. **Verify the Luther quote** before any formal publication or reprinting. The substance is faithful to Luther; the source should be traceable.
+4. **Add one sentence on witness/sending** at the close of Section V: "Equipped for every good work includes being equipped to tell someone what you've found — Christ, in these pages. The Bible doesn't only anchor your soul; it sends you."
+5. **Consider adding a brief acknowledgment** that the canon/reed etymology, while traditionally cited, is contested among lexicographers — the word's origin and its application to the biblical books is historically complex. One honest hedge strengthens rather than weakens the illustration.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** This sermon has both correct theology and pastoral fire. The conscience is pressed, the heart is reached, and the gospel is proclaimed. The Communion close ensures the sermon does not end in mere information or ethics.
+
+---
+
+### 16. Weight of Glory Assessment
+This sermon carries genuine eternal gravity — the God who breathed out 66 books across 1,500 years and preserved them through Masoretic scribes is not a manageable deity, and the sermon conveys this; the Communion close ensures the congregation departs toward worship, not merely toward action.
+
+---
+
+### 17. Rubric Fit Note
+The rubric is perfectly suited to this passage. 2 Timothy 3:13-17 is a doctrinal text about Scripture — it invites and rewards exactly the kind of theological and applicatory rigor this rubric demands. The Sola Scriptura series context and Communion Sunday framing both align with the rubric's priorities. This is a case where the sermon, the passage, and the rubric are all pulling in the same direction.
 - Extended Sproul paraphrase on Timothy's congregation — Removed to tighten; the substance is woven into the v13 section instead

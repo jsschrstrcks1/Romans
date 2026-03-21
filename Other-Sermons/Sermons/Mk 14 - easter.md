@@ -56,3 +56,196 @@ I have used this quote before, and I’ll bring it up again. So many people thin
 In a moment I’ll give you a chance to do just that. But first let me explain a little more about it.
 
 Gospel
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Date Evaluated:** 2026-03-21
+**Evaluator:** Thus Says the Lord Rubric (Reformed Baptist)
+
+---
+
+### 1. Verdict Title
+
+**"A Vivid Betrayal Narrative with a Truncated Gospel and Unfinished Architecture"**
+
+---
+
+### 2. One-Sentence Summary
+
+A lively, illustration-rich exploration of Judas's betrayal in Mark 14 that honestly implicates every hearer in that betrayal, but ends with the word "Gospel" as a literal placeholder — leaving the sermon without its most essential component and the congregation without the proclamation that everything prior was meant to establish.
+
+---
+
+### 3. Berean Gate
+
+**Pass — with significant reservation.**
+
+*Scopus Test:* The sermon's working thesis appears to be: Judas's betrayal of Christ mirrors every person's condition before God, and the resurrection is the ground of hope. This does arise from the passage (Mark 14:41–50), though the sermon ranges considerably beyond those verses into Luke 22, general passion narrative context, and comparative religion. The text's own argument (the betrayal, the arrest, the disciples' flight) is used more as a launching pad than as the controlling structure. Marginal pass.
+
+*Authority Test:* The preacher does not soften the hard material — Judas as genuinely unsaved, Satan's possession, the implication of all humanity in Christ's death. No obvious evasion. Pass.
+
+Reservation: The sermon is labeled as about "Easter" and uses Mark 14:41–50 as its primary text, but the resurrection (the central Easter event) is treated in only two brief paragraphs near the close, with no reference back to the text. The manuscript ends with the word "Gospel" — indicating the actual gospel presentation was either not written or was delivered extemporaneously. This is a structural incompleteness that significantly affects the evaluation.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 1 — No clear gospel presentation: TRIGGERED.**
+The sermon ends with the word "Gospel" as a placeholder. Whatever was said at that point is not in this manuscript. What precedes it is not a gospel presentation — it is a resurrection affirmation ("death couldn't hold Jesus"), a comparative religion argument (Buddha, Muhammad, Joseph Smith, Charles Taze Russell are all dead), and two quotations (Jonathan Edwards and Toplady's "Rock of Ages"). The Edwards quote is excellent ("the only thing we can contribute to salvation is the sin that made it necessary") and Toplady's hymn fragment is apt. But these are quoted without being developed into a proclamation. There is no articulation of sin's offense before God, Christ's substitutionary death, the nature of faith, or the call to repentance in the body of the sermon. Score capped at 69.
+
+**No other fatal flaw flags triggered.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14/25**
+
+- *Textual Fidelity (6/10):* The sermon engages Mark 14:41–50 but spends significant time on background material (Judas as thief, Luke 22 / Satan's entry, the spira / Roman soldiers, the kiss typology) rather than expositing the passage itself. Several points are drawn from parallel accounts (Luke 22, John's account of the woman with the perfume — attributed to Martha, which is a factual error; it is Mary of Bethany in John 12:3, not Martha) rather than from Mark 14. The passage's own structure — the kiss, the arrest, Jesus's self-identification as the one the scriptures said would be betrayed, the disciples' flight — receives minimal treatment.
+- *Contextual Awareness (3/5):* The preacher makes reasonable use of Gethsemane's prayer as context and references the triumphal entry crowd's likely overlap with the arrest crowd. Reasonable.
+- *Exegetical Clarity (2/5):* The spira / Greek word for Roman cohort is interesting detail but occupies disproportionate space and the word is given as "spiron" — the correct Greek term is *speira* (σπεῖρα). The kiss typology discussion (hand kiss vs. cheek kiss, European customs) is culturally illuminating but overlong and drifts toward travelogue.
+- *Logical Faithfulness (3/5):* The identification of Judas as genuinely unsaved (based on demonic possession) is theologically defensible. The comparison of Judas's commitment (three years, ministry, miracles) to nominal Christian profession is legitimate and effective. The Colin Smith quote is appropriately used.
+- *FCF:* The Fallen Condition Focus — human capacity for betrayal, divided allegiance, outward profession without inward transformation — is named and applied. This is the sermon's exegetical-applicatory strength.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+
+- *Christ-Centeredness (4/7):* Christ is central as the one betrayed, the one who chose to endure arrest, and the risen one. The sermon's movement toward "death couldn't hold him" is theologically sound. But the mechanism of atonement — why Christ's death was necessary, what it accomplished, the substitutionary dimension — is absent from the body of the sermon.
+- *Redemptive-Historical Awareness (2/3):* The Abraham/Isaac parallel for Gethsemane is invoked but underdeveloped ("at the last moment, God sent a Ram"). The typology is real but the sermon doesn't develop how Jesus *is* the ram — the antitype — whereas Isaac was spared.
+- *Doctrinal Precision (3/4):* The possessibility/oppressibility distinction (Christians can be oppressed but not possessed by demons) is sound and well-stated. The treatment of Judas's lostness is careful.
+- *Confessional Alignment (2/4):* The resurrection affirmation is solid. The comparative religion section (all other religious founders are dead; Jesus came back and told us the way) is apologetically valid but not confessionally precision-driven. The gospel gesture at the close is vague enough to be generically evangelical rather than confessionally Reformed.
+
+**3. Gospel Centrality & Force — 5/15**
+
+- *Clarity of the Gospel (1/5):* The Edwards quote and the Toplady fragment are the closest the manuscript comes to a gospel articulation. Neither is developed. The resurrection is affirmed ("3 days later, after Jesus died, he rose again") but without atonement content. The word "Gospel" at the end marks a gap, not a presentation.
+- *Necessity of Christ (3/5):* Christ is necessary to the argument — without him there is no Easter, no resurrection, no way from death to life. The sermon makes that point in the comparative religion section.
+- *Cross-Centered Gravity (1/5):* The sermon is about the events leading to the cross but never arrives at it. The cross's meaning — substitution, wrath, propitiation — is completely absent from the manuscript as written.
+
+**4. Conscience & Applicatory Force — 10/15**
+
+- *Heart Penetration (4/5):* The sermon's strongest move: "E tu Greg? E tu Dottie? E tu Paula? E tu Kurt?" — inserting congregational names into the "Et tu Brute?" scene — is vivid and conscience-pressing. The identification of every believer and unbeliever with Judas is effective and honest.
+- *Specificity (3/5):* The congregational name insertions give specificity. But the application remains at the level of "we betray Christ when we put our needs above his." There is no differentiated address to specific kinds of hearers beyond the believer/unbeliever binary.
+- *Spiritual Differentiation (3/5):* The sermon does distinguish between nominal and genuine faith (Judas's outward commitment vs. true conversion) which addresses the knowledgeable-but-unhumbled and the backslider categories implicitly. But the doubter, the humbled-but-not-yet-believing, and the weak believer are not directly addressed.
+
+**5. Exhortation & Response — 4/8**
+
+- *Call to Response (2/4):* "In a moment I'll give you a chance to [cling to Christ]" — the call is gestured at, not made. The manuscript ends before the exhortation is written. What exists is a summons to trust that is not developed into a clear imperative.
+- *Equipping for Holiness & Witness (2/4):* The implication that double-mindedness (Judas's pattern) must be examined and renounced is present but not developed into concrete equipping.
+
+**6. Structure & Logical Flow — 5/9**
+
+- *Clarity of Outline (2/4):* The sermon moves: scene-setting (Judas background) → text reading → crowd analysis → kiss typology → Judas's betrayal as our pattern → resurrection affirmation → [gospel]. This is traceable but not crisp. The kiss typology section is too long relative to its structural contribution.
+- *Progression (2/3):* The sermon builds toward the "Et tu" application moment and the resurrection close. The progression is felt even if the outline is loose.
+- *Unity (1/2):* The controlling idea (Judas's betrayal mirrors all humanity; the resurrection is the answer) is present but must be inferred. It is never stated as a thesis.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2):* The French/Italian kiss greeting illustration, the missionary anecdote, and the "Et tu Brute?" application to congregational names are drawn from lived experience and land accessibly.
+- *Clarity (1/2):* The kiss typology illustration is overlong and slightly loses the thread. The Europe missionary anecdote about Chris the missionary occupies too much space for what it contributes (illustrating the cheek kiss greeting).
+- *Memorability (1/1):* "E tu Greg? E tu Dottie?" will be remembered.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2):* This manuscript has genuine oral energy. It reads like a spoken sermon, not an essay. Direct address, rhetorical questions, congregational name insertions.
+- *Conviction on the Page (1/2):* The conviction is in the application ("we are no less guilty than Judas") but the doctrinal anchoring that should give the conviction its weight (substitutionary atonement) is absent.
+- *Cadence and Breath (0/1):* The long, unpunctuated paragraph structure in several sections (the Judas background section, the spiron section) works against oral rhythm. Breath-length sentences are inconsistent.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1.** The sermon introduces significant background material (spiron/Roman cohort, Judas's thievery, Luke 22 parallel, Mary/Martha confusion, European greeting customs) before arriving at its applicatory core. The average hearer can track it, but some of this material competes with the main argument rather than serving it.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 14/25 |
+| Theology & Doctrinal Integrity | 11/18 |
+| Gospel Centrality & Force | 5/15 |
+| Conscience & Applicatory Force | 10/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **56/100** |
+| Cognitive Load Modifier | −1 |
+| **Total** | **55/100** |
+| Fatal Flaw Cap | Capped at 69 ✓ (score already below cap) |
+| Weight of Glory Bonus | +1 (the Easter resurrection affirmation and the congregational name moment carry genuine weight) |
+| **Final Score** | **56/100** |
+
+**Interpretation: Fundamentally flawed as written.** The gospel placeholder makes this an incomplete sermon. It contains strong pastoral instincts and one excellent applicatory move, but it cannot stand as a finished sermon until the gospel is proclaimed, not just noted.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* The self-implication in Judas's betrayal makes the hearer think of themselves first, then pivot to Christ's resurrection. The pivot is present but the pivot point (the cross's meaning) is skipped.
+2. *Did I encounter God, or just ideas about Him?* The "Et tu" moment creates genuine encounter. The resurrection section risks remaining at the level of apologetic argument rather than proclamation.
+3. *Was I comforted, convicted, or merely informed?* The sermon convicts effectively (Judas = us). It does not fully comfort because the gospel content that would provide comfort is missing.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The self-implication of every hearer in Judas's betrayal.** "E tu Greg? E tu Dottie? E tu Paula?" is excellent — vivid, specific, honest, and homiletically memorable. This move lands in the conscience.
+2. **The Colin Smith quote and Judas's outward commitment.** The analysis of Judas's three years of ministry, gospel preaching, and miracle-witnessing as an example of outward profession without inward transformation is theologically honest and pastorally urgent. It presses the self-examination point without the preacher having to name names.
+3. **Genuine oral energy.** This manuscript reads like it was preached, not written. The direct address, rhetorical questions, and conversational flow give it pulpit credibility.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is a placeholder.** The word "Gospel" at the end is not a gospel presentation. The manuscript ends before its climax. Even the content immediately preceding it (resurrection as apologetic proof) does not constitute a proclamation of the gospel. Fatal Flaw 1 is triggered by the manuscript's own incompleteness.
+2. **Mary/Martha attribution error.** The sermon attributes the anointing with expensive perfume to Martha. In John 12:3, it is Mary of Bethany. This is a factual error in the sermon body. The "Martha's pint of perfume" language is incorrect and should be corrected before delivery.
+3. **The atonement is entirely absent.** The sermon moves from Gethsemane's prayer (Jesus asking if there is another way) to the resurrection ("death couldn't hold Jesus") without ever treating the cross itself. For an Easter sermon, the meaning of the crucifixion — why it was necessary, what it accomplished — is the indispensable center. The sermon frames Easter as "Jesus came back from the dead; other religious founders didn't" rather than "Christ died for our sins and rose for our justification."
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how much the sermon relies on the audience already knowing the gospel. The Edwards quote and the Toplady fragment assume gospel literacy. A first-time hearer — or a hearer whose theology is vague — will leave knowing that Jesus rose from the dead, that everyone is like Judas, and that they should "cling to Christ," without knowing what clinging means, why it is necessary, or what Christ's death actually accomplished. The sermon evangelizes the already-convinced.
+
+---
+
+### 12. Illusion of Strength
+
+The "Et tu" application moment is so vivid and effective that it can feel like the sermon has arrived at its destination. But application without proclamation is not preaching — it is moral instruction. The conscience has been pressed, but the relief valve (Christ's substitutionary death received by faith) has not been opened. The sermon presses without releasing, which is the structure of law without gospel.
+
+---
+
+### 13. Missed Opportunity
+
+The Abraham/Isaac parallel for Gethsemane is invoked and then abandoned: "at the last moment, God sent a Ram." The sermon never completes the typology. In the Akedah, Isaac was spared because a substitute was provided. In Gethsemane, no ram came — Jesus *was* the ram. That typological completion (Isaac spared, Jesus not spared) would have been the natural bridge from Gethsemane's prayer to the cross's meaning, and would have given the sermon the atonement content it currently lacks. It is sitting right there in the sermon and was not developed.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Complete the gospel section.** Write out the full gospel presentation that was apparently delivered extemporaneously. The manuscript should not end with "Gospel" as a placeholder — it should contain the proclamation: sin's offense, Christ's substitutionary death, resurrection, repentance, faith.
+2. **Complete the Abraham/Isaac typology.** After noting that Jesus prayed for another way, state: "No ram came. No angel stayed his hand. He was the ram. He was the substitute. He took what we deserved so that we could receive what he earned." This is one paragraph that transforms the sermon's atonement content.
+3. **Correct Martha to Mary.** The anointing in John 12 is by Mary of Bethany (John 12:3). This should be corrected before any future delivery.
+4. **Tighten the kiss typology section.** The European greeting anecdote runs too long. The point (Judas's cheek-kiss implied equality with Jesus) can be made in two sentences. The missionary story about Chris should be cut — it is illustrating the illustration rather than illuminating the text.
+5. **Add differentiated address after the Judas/us connection.** After "E tu Greg?", distinguish: "If you are a Christian, this is a call to examine your double-mindedness. If you have never trusted Christ, this is a picture of where you stand — and there is still a way out."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon has genuine pastoral warmth and applicatory energy. The deficit is proclamational completeness, not doctrinal coldness.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The resurrection affirmation and the self-implication of the congregation in Judas's betrayal carry real eternal weight, but the sermon's incompleteness (the missing gospel presentation, the skipped atonement) means it gestures toward the glory without arriving there.
+
+---
+
+### 17. Rubric Fit Note
+
+Mark 14:41–50 is passion narrative — a dramatic, plot-driven account. The rubric's categories fit, but the narrative genre means exposition looks less like verse-by-verse analysis and more like dramatic development of the scene. The preacher handles the narrative instincts well. The deficit is not genre-related — it is content-related (missing atonement, missing gospel). The rubric's gospel centrality categories are especially load-bearing for an Easter text, and they expose the sermon's central gap precisely.
