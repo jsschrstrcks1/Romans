@@ -86,7 +86,7 @@
 
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Regeneration (Spirit's Work) | Very Strong | `Ezekiel 36.md`, `Romans 8.md`, `Bible Study - The Thief Who Saw a King.md` | Reformed |
+| Regeneration (Spirit's Work) | Very Strong | `Ezekiel 36.md`, `Romans 8.md`, `Bible Study - The Thief Who Saw a King.md`, `Sermon - Out of the Cistern.md` | Reformed |
 | Indwelling / Sealing | Strong | `Romans 8.md`, `Ephesians 1.md` | Reformed Baptist |
 | Illumination of Scripture | Moderate | `sola scriptura.md` | Reformed |
 | Conviction of Sin | Strong | `Romans 2.md`, `Ezekiel 36.md` | Reformed |
@@ -145,9 +145,9 @@
 ### 6.2 Ordo Salutis
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Predestination → Election → Calling | Very Strong | `Ezekiel 36.md`, `Ordo Solutis Romans 8.md` | Calvinist |
-| Regeneration Precedes Faith | Very Strong | `Ezekiel 36.md`, `Bible Study - The Thief*.md` | Reformed |
-| Effectual Calling | Very Strong | `Romans 10.md`, `Romans 8.md` | Reformed |
+| Predestination → Election → Calling | Very Strong | `Ezekiel 36.md`, `Ordo Solutis Romans 8.md`, `Sermon - Out of the Cistern.md` | Calvinist |
+| Regeneration Precedes Faith | Very Strong | `Ezekiel 36.md`, `Bible Study - The Thief*.md`, `Sermon - Out of the Cistern.md` | Reformed |
+| Effectual Calling | Very Strong | `Romans 10.md`, `Romans 8.md`, `Sermon - Out of the Cistern.md` | Reformed |
 | Justification by Faith Alone | Very Strong | `Romans 3.md`, `Romans 4*.md`, `Romans 5.md` | Reformation (Sola Fide) |
 | Adoption as Sons | Strong | `Galatians 3*.md`, `Romans 8.md`, `romans 9 pt 1.md` | Reformed |
 | Sanctification (Progressive) | Strong | `Romans 6.md`, `Romans 8.md`, `Romans 12.md` | Reformed |
@@ -156,8 +156,8 @@
 ### 6.3 Monergism and Grace
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Monergism (God Alone Saves) | Very Strong | `romans 9 pt 1.md` | Calvinist |
-| Sola Gratia | Very Strong | `Romans 4*.md`, `Romans 11*.md` | Reformation |
+| Monergism (God Alone Saves) | Very Strong | `romans 9 pt 1.md`, `Sermon - Out of the Cistern.md` | Calvinist |
+| Sola Gratia | Very Strong | `Romans 4*.md`, `Romans 11*.md`, `Sermon - Out of the Cistern.md` | Reformation |
 | Sola Fide | Very Strong | `Romans 3.md`, `Romans 4*.md` | Reformation |
 | Solus Christus | Very Strong | `Romans 5.md`, `col 1.md` | Reformation |
 | Repentance — God-Granted | Strong | `Romans 2.md`, `Ezekiel 36.md` | Reformed |
@@ -166,8 +166,8 @@
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
 | Eternal Security (Once Saved Always Saved) | Very Strong | `Sermon - Eternal Security.md` | Reformed Baptist |
-| Assurance Grounded in Christ's Work | Very Strong | `Romans 8.md`, `romans 9 pt 1.md` | Reformed |
-| Golden Chain (Rom 8:29-30) | Very Strong | `Romans 8.md`, `Ordo Solutis Romans 8.md` | Calvinist |
+| Assurance Grounded in Christ's Work | Very Strong | `Romans 8.md`, `romans 9 pt 1.md`, `Sermon - Out of the Cistern.md` | Reformed |
+| Golden Chain (Rom 8:29-30) | Very Strong | `Romans 8.md`, `Ordo Solutis Romans 8.md`, `Sermon - Out of the Cistern.md` | Calvinist |
 
 ---
 
@@ -304,7 +304,7 @@ The corpus operates under these confessional standards:
 | Confession / Standard | Role in Corpus | Key Files |
 |---|---|---|
 | **1689 Second London Baptist Confession** | Load-bearing theology; explicitly cited for election, civil magistrate, perseverance | `romans 9 pt 1.md`, `Romans 13.md`, `confessional-framework.md` |
-| **Baptist Faith & Message 2000** | Regularly cited in BFM sermon series; denominational anchor | `Theology Proper.md`, BFM article sermons |
+| **Baptist Faith & Message 2000** | Regularly cited in BFM sermon series; denominational anchor | `Theology Proper.md`, `Sermon - Out of the Cistern.md` (Article V quoted in full), BFM article sermons |
 | **Five Solas** | Preached as a dedicated series | `sola scriptura.md`, `Sola Scriptura 24.md`, Five Solas series |
 | **TULIP (Five Points)** | Explicitly taught, named, defended | See Soteriology 6.1 |
 | **Nicene Creed (Implicit)** | Never cited by name but fully affirmed in substance | Christology and Trinity entries |
