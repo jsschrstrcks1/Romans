@@ -80,3 +80,94 @@ Hold on to your time with open hands. Help others where you can, and you’ll fi
 But it all starts with the gospel. 
 Gospel
 Communion
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+
+---
+
+### 1. Verdict Title
+Love Preached with Personal Fire but Without Textual Tethering — The Story Runs Past the Text
+
+### 2. One-Sentence Summary
+A sermon on 1 John 3:11–24 that burns with genuine pastoral passion for love, uses the Corrie Ten Boom illustration to powerful effect, but whose sustained departures from the text, thin exegetical engagement with the passage's own logic, and crowded structure prevent it from carrying the full weight of John's argument.
+
+### 3. Berean Gate
+**PASS — with observation.**
+- **Scopus Test:** The main point — that genuine faith produces the kind of self-giving love Christ demonstrated, aimed at both the church and the neighbor — arises from 1 John 3:11–18 and the Luke 6 material. The sermon stays in orbit around John's command to love "not in word or talk but in deed and in truth" (v. 18).
+- **Authority Test:** The preacher submits to John's hard teaching and does not soften the Cain/hatred section. The digression on the mark of Cain (addressing racist misuse of scripture) is not evasion of the text — it is pastoral protection of the text's actual claim. The preacher handles it with unusual historical rigor.
+
+**Observation:** The sermon spends more time in Luke 6:27–36 than in 1 John 3, and the primary passage (vv. 11–24) receives selective rather than systematic treatment. The sermon passes the gate but only because the main point is consistent with the text's argument — not because it works the passage thoroughly.
+
+### 4. Fatal Flaw Flags
+**None triggered.** Score is not capped.
+- The gospel is present (Christ's death as the supreme demonstration of love; vs. 16 quoted directly).
+- Christ is essential — the sermon grounds all love-ethics in his example.
+- Application is present and specific (tire change on the side of the road, buying sandwiches for homeless people, giving time/treasure/talent).
+- Exhortation is present and clear ("I challenge you to do something loving for someone").
+- The sermon is accessible to ordinary hearers.
+
+### 5. Score Breakdown
+
+| Category | Score | Notes |
+|---|---|---|
+| Exposition & Hermeneutics (25 pts) | 13/25 | The passage is quoted at key points but not worked verse-by-verse. The Cain and Abel background (vv. 11–12) receives the most sustained treatment. The crucial theological core of vv. 19–24 (assurance of heart, God is greater than our heart, commandment to believe + love) receives almost no direct treatment — it appears at the very end as a single quotation (v. 23) before pivoting to the MrBeast illustration. The FCF is named obliquely (our tendency toward self-love and hatred) but not diagnosed with the precision John offers in this passage. The excursus on the mark of Cain is lengthy but historically legitimate and pastorally necessary. |
+| Theology & Doctrinal Integrity (18 pts) | 12/18 | The Christ-as-example-in-love theology is organically derived from v. 16 and Luke 6. The sermon is not moralistic — it roots love in what God has done ("He did no less for us. He did more than that. He loved us all the way to his death"). However, the assurance section of vv. 19–24 — which is theologically the most important part of the passage for a congregation of struggling believers — is bypassed entirely. The doctrine of new birth as the source of love-capacity is not stated; the sermon could imply that love is a discipline of will rather than a fruit of regeneration. |
+| Gospel Centrality & Force (15 pts) | 9/15 | The sermon presents Christ's death as the model of love and grounds the call to love in what God has already done. The indicative precedes the imperative. However, the gospel is more stated than proclaimed with force — there is no sustained cross-centered passage where the weight of Christ's sacrifice for the congregation is pressed home. The Corrie Ten Boom story functions as the sermon's emotional climax, not the cross. |
+| Conscience & Applicatory Force (15 pts) | 9/15 | The personal illustrations (stolen grandfather's tools, buying sandwiches for the homeless, the jaded feeling from being taken advantage of) show a preacher who knows his congregation. The application is real and specific. However, the sermon addresses primarily believers already oriented toward love, with exhortation to do more. It does not corner the person who does not love — the unloving churchgoer, the person harboring the very hatred John says constitutes murder. The strongest conscience-pressing moment (John's "everyone who hates his brother is a murderer" opening) is mentioned in the Ray Comfort reference but never brought to bear directly on the congregation. |
+| Exhortation & Response (8 pts) | 5/8 | The challenge is explicit: "I challenge you to do something loving for someone." The specificity (time, treasure, talent; help someone change a tire) is above average. However, the gospel-call at the end ("But it all starts with the gospel. Gospel. Communion.") is a stage direction rather than an exhortation. The corporate dimension is present (love within the church body as well as outward). What is missing is a differentiated call: what must the unloving person do specifically in light of this text? |
+| Structure & Logical Flow (9 pts) | 5/9 | The sermon has recognizable movements (introduction via Ray Comfort, Cain/Abel, mark of Cain excursus, neighbor-love application, Luke 6, Corrie Ten Boom, MrBeast, challenge). However, the movements are episodic rather than progressive — they feel like a collection of applications of "love your neighbor" rather than a developing argument from the passage's own logic. The mark-of-Cain section, while valuable, creates a significant momentum disruption in the middle of the sermon. The sermon also lacks a clear conclusion tied to the passage — it ends with a challenge and then "Gospel. Communion." |
+| Illustration & Imagination (5 pts) | 4/5 | The Corrie Ten Boom story is a powerful, extended illustration that earns its length — it demonstrates costly love with historical specificity. The stolen grandfather's tools adds autobiographical authenticity. The MrBeast illustration is culturally current and relevant to the congregation's world. One deduction: the illustration density (Ray Comfort, Cain/Abel, neighbor story, Corrie Ten Boom, buying sandwiches, MrBeast) crowds the passage itself out of space. |
+| Sermonic Force (5 pts) | 3/5 | The manuscript reads with genuine warmth and direct address. The Luke 6 treatment ("Does Luke write 'except when those items are precious to you'?") is an excellent rhetorical move. The Corrie Ten Boom section has real emotional weight. Deductions for structural looseness and the unresolved ending that deflates the accumulated force. |
+| **Subtotal** | **60/100** | |
+| Weight of Glory Bonus | +2/5 | The Corrie Ten Boom section and the call to radical self-giving love carry genuine eternal weight. The sermon points beyond Sunday. |
+| Cognitive Load Modifier | -1 | Slightly dense. The Cain excursus + multiple extended illustrations + Luke 6 quotation + 1 John quotations + the Perkins applications create more threads than the sermon resolves. |
+| **Total** | **61/100** | |
+
+### 6. Cognitive Load Modifier
+**-1** — The sermon contains multiple extended illustrations, a lengthy historical excursus, a full quotation of Luke 6:27–36, and the 1 John passage itself. No single thread is developed with sufficient depth before the next begins. The congregation can follow the main idea but may struggle to remember how the pieces connect.
+
+### 7. Total Score
+**61/100 — Concerning Gaps**
+The sermon's pastoral passion is genuine and the Corrie Ten Boom illustration is a high point by any measure. But the textual engagement is thin relative to illustration density, the key theological material in vv. 19–24 is bypassed entirely, and the conscience-pressing center of the passage (hatred = murder) is introduced and then abandoned. The sermon exhorts love without sufficiently convicting the absence of it.
+
+### 8. Core Override Questions
+1. Does this sermon make me think more of Christ — or myself? **Mostly Christ — the call to love is consistently rooted in what Christ has done.**
+2. Did I encounter God, or just ideas about Him? **Partially — the Corrie Ten Boom section carries genuine encounter-weight.**
+3. Was I comforted, convicted, or merely informed? **More comforted and challenged than convicted. The sermon's conscience-pressing edge is blunted by moving too quickly to the positive call.**
+
+### 9. Strengths (Top 3)
+1. **Corrie Ten Boom illustration used with restraint and force.** The story is told with enough detail to be genuinely moving, and the theological payoff ("it was Christ's love that sustained her") is clearly drawn. It demonstrates exactly the costly love John commands without the illustration competing with the text.
+2. **The mark of Cain excursus is historically rigorous and pastorally courageous.** Addressing racist misappropriation of scripture head-on, with reference to Rashi, Mormon history, and the actual Hebrew, is careful, honest scholarship in service of the text's main point that hatred is always wrong.
+3. **Personal authenticity in application.** The stolen grandfather's tools, the McDonald's sandwiches, and the reference to growing "jaded" from generosity that goes unappreciated show a preacher who has lived the sermon's content — not just explained it.
+
+### 10. Critical Weaknesses (Top 3)
+1. **1 John 3:19–24 is almost entirely absent.** These verses contain the passage's most pastorally critical content: the assurance given to the troubled conscience ("God is greater than our heart"), and the double commandment (believe + love) as the content of the Christian life. The sermon ends where the passage's argument peaks. This is not a minor omission — it is the passage's theological destination.
+2. **The "hatred = murder" confrontation is introduced and then dropped.** The Ray Comfort reference opens by establishing that hatred is murder. But the sermon never turns this on the congregation with direct address: "Some of you are murderers by John's definition — because you harbor hatred." The law must hammer before the gospel relieves; here it is mentioned in passing and then bypassed.
+3. **The Luke 6 material overwhelms the primary text.** Luke 6:27–36 is quoted in full (ten verses), which takes up more manuscript space than the 1 John passage itself. The sermon treats this as supporting material, but it functions as the de facto text. The sermon should be rooted in 1 John 3 and visit Luke 6 briefly, not the reverse.
+
+### 11. Blind Spots
+The preacher's natural warmth and storytelling ability create illustrations that land with genuine force — but they may be doing the work that the text's own logic should be doing. The sermon's emotional architecture is carried by stories (Corrie Ten Boom especially) rather than by the accumulated weight of John's argument. A congregation may leave moved by the story without being moved by the passage.
+
+### 12. Illusion of Strength
+The Mark of Cain excursus creates an impression of serious scholarly engagement with the passage's context. It is, in fact, largely tangential to John's argument in 3:11–24 — it belongs more in a sermon on Genesis 4 than here. While valuable as pastoral protection against a specific heresy, its placement and length create an illusion of expositional depth while actually displacing textual engagement.
+
+### 13. Missed Opportunity
+1 John 3:20 — "for whenever our heart condemns us, God is greater than our heart, and he knows everything" — is one of the most pastorally rich verses in the epistle. It addresses the person in genuine assurance crisis: what do you do when your conscience condemns you? The answer is not "try harder to love" but "God is greater than your condemning conscience." The congregation almost certainly contains people in this exact condition. The sermon never reaches them.
+
+### 14. Surgical Fixes
+- **Work 1 John 3:19–24 directly.** These verses are the passage's conclusion and climax. Build the sermon to arrive there. "By this we shall know that we are of the truth and reassure our heart before him" (v. 19) — this is the gospel application of everything John has said about love.
+- **Press the "hatred = murder" claim on the congregation directly.** After the Ray Comfort reference, turn the full indictment on the room: "Then by John's standard, many of us are murderers. You know who you hate. John says that's the spirit of Cain. That spirit must be repented of." Let the law land before moving to the Corrie Ten Boom comfort.
+- **Reduce the Luke 6 quotation.** Quote vv. 27–28 and summarize the rest. Then return to 1 John as the primary text.
+- **Replace "Gospel. Communion." with an explicit gospel declaration.** Say out loud what the gospel is in light of this passage: "You cannot love like this on your own. You need a new heart. Christ died to give you one. If you have never received him, the love he calls you to here is the fruit of trusting him."
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — the sermon has genuine pastoral warmth and the Corrie Ten Boom section carries real unction. The issue is structural and exegetical, not one of dead correctness.
+
+### 16. Weight of Glory Assessment
+The Corrie Ten Boom section and the call to radical, costly, Christ-modeled love carry genuine eternal weight; the sermon's fire is real but burns unevenly across a frame that needs tightening.
+
+### 17. Rubric Fit Note
+The rubric fits this passage. 1 John 3:11–24 is direct apostolic address with clear imperatives, indicatives, and eschatological grounding — all categories the rubric is built to assess. The narrative genre of the Cain/Abel background (vv. 11–12) creates a slightly different interpretive task than the epistle's direct address sections, but the rubric handles this without strain.
