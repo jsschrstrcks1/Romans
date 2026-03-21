@@ -55,3 +55,170 @@ For those of you who haven’t signed the commitment, its up on the bulletin boa
 But all of this starts with a relationship with Jesus. 
 
 Gospel
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date**: 2026-03-21
+**Text**: Genesis 37:1-4 (with references to vv. 11, 17-18, 23-24, 28-34)
+**Sermon Series**: Bible reading series, Old Testament narrative
+
+---
+
+### 1. Verdict Title
+
+A Warm Typological Sketch That Loses Its Footing Before the Cross
+
+---
+
+### 2. One-Sentence Summary
+
+A genuinely engaged typological reading of Joseph as a type of Christ that opens promisingly but dissolves into devotional meandering before arriving at any gospel proclamation or applicatory edge.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test**: Partial pass. The stated intent — Joseph as a type of Christ — is a legitimate typological reading with real textual grounding. The parallels are not invented, and the preacher does derive them from Genesis 37. However, the thesis drifts midstream from Christological typology into a discussion of Leah's bitterness, godly family leadership, and a Bible-reading commitment card. The sermon cannot hold the Scopus statement through its own conclusion.
+
+**Authority Test**: Pass. The preacher does not stand above the text editing it. He is genuinely working with it, even if incompletely.
+
+**Result**: Conditional pass — the text does point where the sermon begins pointing, but the sermon fails to hold its own stated trajectory.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 1 — No clear gospel presentation**: The sermon ends with the single word "Gospel" — a placeholder indicating the gospel was to be inserted, not that it was actually delivered. As a manuscript, no gospel proclamation exists. The text appears mid-sentence with no content. **TRIGGERED.**
+
+**Flag 5 — No actual exhortation**: The closing movement redirects to a Bible-reading commitment sign-up. This is a program call, not a gospel call. The congregation is informed about typological parallels and then invited to sign a card. They are never summoned to believe, repent, or respond to Christ. **TRIGGERED.**
+
+**Score cap: 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 14/25**
+The typological reading of Joseph is legitimate and shows real exegetical instinct. The parallels with Christ are not arbitrary — the father's love, the public declaration of favor, the coat, the jealousy of rivals, the conspiracy, the selling for silver — these arise organically from the text. However, the sermon spends significant time on observations that are surface-level comparisons without exegetical depth. The preacher never explains *why* Joseph functions typologically in the canon, never addresses the broader redemptive-historical pattern, and the sermon's longest section (the Leah/family dysfunction material) has no textual anchor in Genesis 37. Fallen Condition Focus (FCF) is gestured at — jealousy, greed, envy, conspiracy — but never named as the condition this text was written to address. Several verses receive treatment only as a list of events.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 10/18**
+The Christological instinct is sound. The preacher correctly sees Joseph as a forward-pointing figure rather than an allegory. The sin categories (jealousy, envy, greed, murder, deceit) are correctly named. However, there is no redemptive-historical framework articulated, no connection to the Covenant of Grace, and the Christological climax is announced in the introduction but never actually delivered in the sermon body. The final pivot to Bible reading and daily devotions, while practically useful, has no doctrinal grounding.
+
+**3. Gospel Centrality & Force (15 pts) — 4/15**
+This is the most serious weakness. The gospel is literally a placeholder — the word "Gospel" at the end of the manuscript with no content following. Caiaphas' quotation from John 11 is actually used meaningfully and demonstrates the preacher's genuine gospel instinct. But one incidental gospel flash cannot substitute for proclamation. The cross is referenced in the introduction but never arrives as the sermon's destination. The Synagogue Test: a devout synagogue attendee could sit through this sermon and be offended only briefly, if at all. **Moralistic drift flag** — the sermon ends in devotional challenge, not in Christ.
+
+**4. Conscience & Applicatory Force (15 pts) — 6/15**
+The sins named (jealousy, envy, greed, murder) are accurate but never pressed into the conscience of specific hearers. The application moves from "Joseph's brothers sinned" to "read your Bible more" without any heart-searching bridge. The bracelet story is used for pathos around favoritism but is not pressed toward any diagnostic question. Perkins' categories: only the believer is addressed (devotional challenge). The unbeliever, the hardened, the backslider, the humbled — none are differentiated.
+
+**5. Exhortation & Response (8 pts) — 3/8**
+The Bible-reading commitment card is the only concrete "do this" — and it functions more as a program promotion than a gospel-driven exhortation. There is no "therefore" moment arising from the text's own argument.
+
+**6. Structure & Logical Flow (9 pts) — 5/9**
+The sermon has a discernible arc: introduce typology → read text → trace parallels → application. But the arc breaks badly in the middle. The shift from Joseph's brothers to Leah/Rachel family dysfunction has no structural logic. The Leah section appears to be an associative leap, not a planned transition. The closing is structurally disconnected from the body.
+
+**7. Illustration & Imagination (5 pts) — 3/5**
+The bracelet/F-150 story is memorable, contextually appropriate, and emotionally effective for illustrating favoritism. It is native to this congregation's world. The "come back with your shield or on it" Spartan reference is inserted without textual connection. The Hawaiian volcano aside is distracting.
+
+**8. Sermonic Force (5 pts) — 3/5**
+The manuscript reads as conversation, not formal essay — which is appropriate for this congregation. Direct address is present. The sentence rhythms are natural. However, the preacher tends to meander into tangential remarks (snake/scorpion in the pit, Hawaiian volcano) that bleed sermonic energy.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1**: The sermon is accessible and informal — no cognitive overload. The typological method is clearly explained. However, the structural looseness creates mild tracking difficulty.
+
+---
+
+### 7. Total Score
+
+| Category | Earned | Possible |
+|---|---|---|
+| Exposition & Hermeneutics | 14 | 25 |
+| Theology & Doctrinal Integrity | 10 | 18 |
+| Gospel Centrality & Force | 4 | 15 |
+| Conscience & Applicatory Force | 6 | 15 |
+| Exhortation & Response | 3 | 8 |
+| Structure & Logical Flow | 5 | 9 |
+| Illustration & Imagination | 3 | 5 |
+| Sermonic Force | 3 | 5 |
+| **Subtotal** | **48** | **100** |
+| Weight of Glory Bonus | +1 | +5 |
+| Cognitive Load Modifier | −1 | 0 |
+| **Total** | **48** | **105** |
+
+> **Score capped at 69 due to Fatal Flaw Flags 1 and 5. Raw score: 48 — Below 60: Fundamentally flawed. The cap is academic; the underlying score reflects the manuscript's incomplete state.**
+
+**Interpretation**: Below 60 — Fundamentally flawed. Rebuild from the text.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Largely myself — the closing call is to personal discipline (Bible reading), not to Christ.
+2. **Did I encounter God, or just ideas about Him?** Ideas. The typological comparisons are interesting but never cross into proclamation.
+3. **Was I comforted, convicted, or merely informed?** Informed, with some emotional engagement from the illustration. Not convicted, not comforted — no gospel was delivered to produce either.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Legitimate typological instinct**: The Joseph-Christ parallels are not forced. Selling for silver, the coat as public declaration of favor, jealousy of rivals threatening established authority — these arise from the text with genuine exegetical care. The preacher sees real Christological patterns.
+2. **The Caiaphas passage**: The use of John 11:50 to show Caiaphas speaking more truth than he knew is a fine moment of cross-textual theological insight. "He was more right than he knew" — this is exactly the kind of canonical depth a typological sermon needs.
+3. **Accessible, relational voice**: The bracelet illustration works. The informal direct address ("Name a few for me") keeps the congregation active. The preacher's warmth is genuine and productive.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is a placeholder, not a proclamation**: The manuscript ends with the single word "Gospel" — indicating where a gospel appeal was planned but never written or preserved. As a sermonic document, no gospel exists. The entire typological framework is meant to arrive at Christ — and it never arrives.
+2. **The Leah/family dysfunction section is exegetically unmoored**: The pivot to Leah poisoning the well, family tension, Proverbs 16, and godly leadership in the home has no anchor in Genesis 37. The text does not mention Leah or Rachel. This is the preacher following an association, not the text.
+3. **The exhortation is a program, not a summons**: "Sign the commitment card on the bulletin board" is the sermon's final concrete call. This replaces gospel exhortation with institutional promotion. It may be valuable as a practical announcement, but it cannot serve as the response-demand of a sermon on Joseph-as-type-of-Christ.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears unaware that the typological method demands a Christological landing — not just a Christological intro. The parallels are introduced, traced, and then never *arrive* anywhere. The structure implies the typology will illuminate the gospel; instead, it dissolves into family application. The preacher likely experienced the typological tracing as a kind of implicit gospel presentation — but typological parallelism is not proclamation.
+
+---
+
+### 12. Illusion of Strength
+
+The Caiaphas quotation and the Jesus-Joseph parallels feel like a strong gospel center because they reference Christ's death and resurrection. But referencing the cross is not proclaiming the cross. The sermon accumulates Christ-language without ever delivering Christ-content. It feels Christological without being Christocentric.
+
+---
+
+### 13. Missed Opportunity
+
+Genesis 37:28 — "They sold him for twenty pieces of silver." This is the text's own climactic moment, and the preacher names it as a parallel to Judas' thirty pieces of silver but does not develop it. Here the typology is most vivid: Joseph sold by his own brothers, descending into the pit, sent ahead to Egypt to be the means of their eventual salvation — and he does not know it yet. This is exactly the shape of the cross: the rejected one, abandoned by his own, becomes the salvation of the very people who rejected him. The sermon identifies this but does not inhabit it.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Complete the gospel section**: The placeholder "Gospel" needs actual content. At minimum: explain that Joseph points to Jesus not as a moral hero to imitate but as a figure whose story is already telling the story of Christ — and then proclaim it: Jesus was the beloved Son, declared publicly, rejected by his own, sold for silver, and raised to the right hand of the Father where he now saves the very people who rejected him. Call for faith in him.
+2. **Cut the Leah section entirely or anchor it to the text**: The Leah/family dynamics section belongs in a different sermon (perhaps Genesis 29-30). It has no textual footing in Genesis 37. If you want to address family tension as a theme, show it from the text you are in.
+3. **Rewrite the conclusion around the typological climax, not a commitment card**: The sermon's final word should be a call to trust the Joseph-Jesus who has gone ahead into the pit and into death and into resurrection to bring salvation. "Sign the card" can be an announcement; it cannot be the sermon's finale.
+4. **Name the FCF explicitly**: Why does this text exist? To show us that God's redemptive purposes cannot be stopped by human sin — not even the worst betrayal. Name that as the fallen condition being addressed: we are the brothers. We are the ones who betray. And yet God saves through the very one we rejected.
+5. **Develop the Caiaphas insight earlier and return to it in the conclusion**: This is your best gospel moment. Build toward it rather than letting it sit mid-sermon as an aside.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+Not triggered in the classical sense — the sermon lacks the appearance of doctrinal solidity. The weakness here is not bloodless correctness but incomplete construction. The typological skeleton is sound; the flesh is missing.
+
+---
+
+### 16. Weight of Glory Assessment
+
+There are genuine flashes of eternal weight — the Caiaphas quotation, the brothers selling Joseph for silver, the "more right than he knew" insight — but they remain undeveloped, and the sermon's gravitational center collapses into a devotional challenge before the weight can accumulate.
+
+---
+
+### 17. Rubric Fit Note
+
+Genesis 37 is Old Testament narrative with embedded typology. The rubric's Christocentric and gospel-centrality categories apply fully here — not as an imposition, but because the preacher himself chose the typological method, which demands a Christological destination. The rubric bends slightly on "doctrinal precision" since narrative sermons carry doctrine differently than epistolary ones. The FCF category is particularly important here: narrative passages address the fallen condition through story, not argument, and the preacher needs to name what human condition this story is written to expose and heal.
