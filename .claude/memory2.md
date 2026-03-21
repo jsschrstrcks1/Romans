@@ -813,6 +813,28 @@ There is an advisory board meeting immediately following the service, if you're 
 
 ---
 
+## Sermon: Fear Is the Evidence — Hebrews 11:1 / 1 John 4:18
+
+**Primary Text**: Hebrews 11:1
+**Supporting Texts**: 1 John 4:18, Romans 13:1
+**Themes**: Fear vs. faith, fear vs. love, trusting God in suffering, God's sovereignty over politics, testimony service
+**Illustrations**: Grandmother's dark room (childhood fear), Hurricane flooding (March '93), murdered child, singleness, political fear (Trump/Hillary era)
+**Format**: Short sermon followed by open testimony time
+
+- Childhood fear: age 5-6, spooked at grandmother's house; dad reassured him, told him to face his fears or they'd cripple him; never afraid of the dark again
+- Irma, grandfather's salvation unknown, the flood of March '93: waters rising inch by inch over everything they owned — sewage, mold, total loss of mobile home
+- Little girl who lived with the family murdered by her babysitter — God protected the preacher and sister from lasting trauma/fear
+- "But God could" — God provided a better house (800 sq ft mobile → 2000+ sq ft on stilts), $100 left over
+- A.W. Pink (*An Exposition of Hebrews*, p. 808): "Fear is the result of distrust, of taking the eye off God, of being unduly occupied with difficulties and troubles." *(Verified.)*
+- 1 John 4:18 (ESV): "There is no fear in love, but perfect love casts out fear." Love is the opposite of fear.
+- **Sermon's thesis**: "Fear is the evidence of things in our heart that we love as much or more than God." (Deliberate Heb 11:1 echo reversed — faith/evidence → fear/evidence.)
+- Fear for physical needs = telling God his provision is insufficient; Bob and Sherry hospitality illustration
+- Young lady struggling with singleness — fear she'll never meet the right guy
+- Politics: fear of Hillary/Biden; Romans 13:1 — God places all authorities *(corrected NLT → ESV)*
+- "Hate isn't the opposite of love. Fear is." — pastoral closing before testimony time
+
+---
+
 ## Sermon: 2 Timothy 2:14-26 — The Approved Workman
 
 **People Group**: Kachin of India — Buddhism stronghold, ~1 million, ~5,000 believers (mostly outside India). Many vibrant Kachin believers in Myanmar and China who could be ambassadors. Prayer requests: Kachin believers to live such spiritual lives Buddhist neighbors seek the Savior; Holy Spirit to move Kachin outside India to go to Arunachal Pradesh.
@@ -910,4 +932,55 @@ There is an advisory board meeting immediately following the service, if you're 
 
 ---
 
-## PROCESSING MARKER: Remaining sermons to be appended (Catholicism, Jn 14, Lk 2, Rom 2, Acts 18, BFM HS, 2 Cor 5)
+## Sermon: Philippians 4:1-9 — He Who Has the Son Has Life
+
+**File**: `Other-Sermons/Sermons/Philippians 4 - He Who Has the Son (raw draft).md`
+**Primary Text**: Philippians 4:1-9
+**Supporting Texts**: Eph 4:26, 2 Tim 3:16, Luke 13:25-27, 1 Tim 2:5, Eph 2:8-9, 1 Pet 3:18, 1 John 4:10, Rom 3:23, Rom 6:23, Rom 5:8, John 3:16, Rom 10:9, 1 John 5:12, Isa 64:6
+**Themes**: Unity, Euodia and Syntyche, worship and the mind, eternal perspective, gospel, book of life
+**Status**: Polished from raw transcript, 2026-03-15. Third Philippians 4 sermon in archive.
+
+**Key content**:
+- Introduction: 80-90 day Europe trip metaphor — life is short, can't take earthly things with you
+- Unity (4:1-3): Macedonian call; church founded by river by women (Lydia); Paul's crown; Euodia/Syntyche disagreement — possibly over handling heretics; Paul addresses directly but doesn't take sides; "like Facebook or two siblings in a squabble"
+- Worship (4:8): Whatever is true/noble/right/pure — each attribute applied to God's character; noble = coin of purest gold; "you can't out give God" (Haiti missions trip); friend's song about not wasting his life; Tom Brady completion stats vs. kids hearing the gospel
+- Hay and stubble fire illustration — things labeled and tossed into fire; bedtimes, politics, addictions burn; only knowing Christ, fruits of spirit, evangelism survive
+- Gospel close: Art auction illustration (Vietnam veteran paints self-portrait, takes own life; father's art collection auctioned; "he who gets the son gets it all" — ⚠️ apocryphal parable, Ivor Powell 1954, not a true story)
+- Ryrie on propitiation: "placating or satisfying the wrath of God by the atoning sacrifice of Christ" (verified — *Basic Theology*, Moody)
+- Heavy gospel presentation: 10+ verses rapid-fire (Rom 3:23, 6:23, 5:8, John 3:16, Rom 10:9, etc.)
+- Altar call with invitation for salvation, rededication, and church membership
+
+**Integrity notes**: 10 Scripture corrections (KJV/NIV → ESV); Ryrie quote verified; art auction illustration flagged as apocryphal; 4 typo fixes; duplicate paragraphs removed from transcript
+
+---
+
+## Sermon: Genesis 31:4-21 — Idolatry
+
+**File**: `Other-Sermons/Sermons/Genesis 31 - Idolatry (raw draft).md`
+**Primary Text**: Genesis 31:4-21
+**Supporting Texts**: Gen 30, Gen 31:41, Gal 5:19-21, Lev 19:26, 19:31, 20:6, 20:27, Ex 22:18, Deut 18:10-12, Rom 3:10, John 3:16
+**Themes**: Idolatry, divination/occult, teraphim, Rachel's stolen household gods, God uses imperfect people, cycle of idolatry in Israel
+**Status**: Polished from raw transcript, 2026-03-15. Transcript appears truncated at personal anecdote.
+
+**Key content**:
+- Backstory: Jacob works 20 years for Laban; wages changed 10 times; spotted sheep via peeled bark sticks (Gen 30) — bark mold/epigenetics hypothesis (Dr. Joshua Backon, *Jewish Bible Quarterly* 2008; plausible but speculative)
+- Rachel steals Laban's teraphim (Gen 31:19) — Hebrew תְּרָפִים; associated with divination and fertility
+- Teaching on divination/occult: all such practices appeal to demonic power; Gal 5:19-21 lists sorcery among works of flesh; OT death penalty for practitioners (Ex 22:18, Lev 20:27); seekers cut off (Lev 20:6)
+- Moon Lake area druids — local geographic reference
+- Rachel's possible motives: interrupt Laban's divination, or use teraphim for fertility (given her barrenness)
+- Cycle of idolatry begins with Rachel; recurring theme through Israel's history
+- God uses imperfect people: Jacob (deceiver, polygamist), David (murdering adulterer) — yet God uses them
+- "Dad" references — preacher's father also preaches at this church (David sermons)
+- Preacher studying Hebrew at time of delivery
+- Personal anecdote: someone destroyed wireless router with water hose; preacher admits he didn't handle it with grace (transcript cuts off here)
+
+**Integrity notes**: 2 Scripture corrections (Rom 3:10 NIV→ESV, John 3:16 KJV/NIV→ESV); death penalty counts overstated (claimed 3× Leviticus / 5× OT; actual: 1× Lev, 2× OT); teraphim description broadly correct but "crude" is unsupported; four-entity categorization flagged as pedagogical simplification; bark mold hypothesis flagged as speculative; 6 typo fixes
+
+---
+
+## PROCESSING MARKER — COMPLETED
+**Batch processed 2026-03-13**: Catholicism, Jn 14, Lk 2, Rom 2, Acts 18 (being baptist), BFM HS, 2 Cor 5
+- All 7 already existed as files in Other-Sermons/Sermons/
+- Each file fact-checked, Scripture corrected to ESV, integrity log appended
+- Files: Catholicism.md, John 14 - exclusivity of the gospel..md, Luke 2.md, Romans 2 mt 23 col 3 eph 2.md, being baptist.md, bfm holy spirit.md, 2 cor 5.md
+- Committed and pushed to branch claude/review-docs-sermon-prep-uxX7M

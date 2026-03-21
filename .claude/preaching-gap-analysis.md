@@ -21,11 +21,11 @@
 
 | Book | Coverage | Status | Notes |
 |------|----------|--------|-------|
-| **Genesis** | Gen 1–3, 11, 29, 37–39, 43 | Thin | Good on creation, fall, Joseph. **Gaps: Gen 4 (Cain/Abel), Gen 6–9 (Flood/covenant), Gen 12/15/17 (Abrahamic covenant texts), Gen 22 covered only in a study note** |
-| **Exodus** | Ex 2, 5–6, 14 | Thin | Red Sea covered well. **Gaps: Ex 3 (burning bush/the name of God), Ex 19–20 (Sinai/Ten Commandments), Ex 32–34 (golden calf/renewal)** |
-| **Leviticus** | None found | **MISSING** | Rich with atonement typology — Day of Atonement (Lev 16), holiness code (Lev 17–26). No dedicated sermons in the entire corpus. Significant gap for a preacher so focused on propitiation and substitution. |
-| **Numbers** | Num 16 (Korah — ref only), Num 21 | Thin | Bronze serpent covered (Num 21). **Gaps: Num 6 (Aaronic blessing), Num 14 (unbelief in the wilderness)** |
-| **Deuteronomy** | Referenced throughout but never primary text | **MISSING** | The book of Moses's sermons — *shema* (Deut 6), covenant renewals, blessings/curses (Deut 27–30), Deut 32–33. Cited in Romans frequently but never preached in its own right. |
+| **Genesis** | Gen 1–3, 4, 11, 13, 21, 22–23, 24, 29, 37–39, 43; Gen 6–9 and 12/15 (survey only) | Good | Good on creation, fall, Joseph. Gen 4 (Cain/Abel) ✓. Gen 22 now covered by three manuscripts (`Genesis 22 - There and Back Again`, `Genesis 22 - Binding of Isaac`, `Genesis 22-23 - The Testing Ground`). Gen 13 (Tale of Two Men) ✓. Gen 21 (My God Is So Great) ✓. Gen 24 (Eliezer and Rebekah) ✓. Gen 6–9 (Noahic covenant) and Gen 12:1–3, 15:1–6 (Abrahamic covenant) are surveyed in overview form in `Eph 3 - The Covenants.md` — not expository primary texts. **Remaining gaps: Gen 12/15/17 as dedicated expository sermons.** *(Corrected March 2026 — Gen 4, Gen 22 were listed as gaps but files exist.)* |
+| **Exodus** | Ex 2, 5–6, 14; Ex 19 (survey only) | Thin | Red Sea covered well. Ex 19:3–8 (Mosaic covenant, Sinai overview) surveyed in `Eph 3 - The Covenants.md` — not an expository primary text. **Remaining gaps: Ex 3 (burning bush/the name of God), Ex 19–20 as a dedicated Sinai sermon, Ex 32–34 (golden calf/renewal).** |
+| **Leviticus** | Lev 16 ✓ | Thin | Day of Atonement covered (`Other-Sermons/Sermons/Leviticus 16.md`). *(Corrected March 2026 — previously listed as MISSING but Lev 16 sermon exists.)* **Remaining gaps: holiness code (Lev 17–26), sacrificial system overview (Lev 1–7).** |
+| **Numbers** | Num 11 ✓, Num 16 (ref only), Num 21 ✓ | Thin | Discontentment and manna (Num 11 — *The Sin We Don't Call Sin*, cleaned ms. 2026) and bronze serpent (Num 21) covered. **Gaps: Num 6 (Aaronic blessing), Num 14 (unbelief in the wilderness)** |
+| **Deuteronomy** | Deut 8 ✓ | Thin | "Count Your Blessings" sermon on Deut 8:2–10, 17 (`Deuteronomy 8 - Count Your Blessings (repaired draft).md`). *(Corrected March 2026 — previously listed as MISSING but Deut 8 sermon exists.)* **Remaining gaps: Deut 6 (*shema*), Deut 27–30 (blessings/curses), Deut 32–33.** |
 
 ---
 
@@ -33,19 +33,19 @@
 
 | Book | Coverage | Status | Notes |
 |------|----------|--------|-------|
-| **Joshua** | Josh 9 only | Thin | Integrity sermon on the Gibeonite deception. **Gaps: Josh 1 (be strong and courageous), Josh 3–4 (Jordan crossing), Josh 24 (covenant renewal / "as for me and my house")** |
+| **Joshua** | Josh 2, 6, 7–8, 9, 10, 24 | **Well-Covered** | *(Corrected — see Part XII §1.)* Rahab (Josh 2 & 6), Achan (Josh 7–8), Gibeonite deception (Josh 9), Power of God (Josh 10), "Choose this day" (Josh 24, two versions). **Remaining gap: Josh 1 (commissioning — "be strong and courageous"; Josh 1:8 on Scripture meditation).** |
 | **Judges** | Judg 1–2, 6, 11 | Thin | Gideon and Jephthah covered. **Gaps: Judg 13–16 (Samson), full arc of the Judges cycle (sin-oppression-cry-deliverance)** |
 | **Ruth** | None found | **MISSING** | Ruth and Boaz as kinsman-redeemer (*go'el*) typology — one of the most direct Christ-pictures in the OT. Complete absence. **High priority gap.** |
 | **1 Samuel** | 1 Sam 16–17, 28 | Thin | David's calling and Goliath covered. **Gaps: 1 Sam 1 (Hannah's prayer), 1 Sam 7 (Ebenezer), 1 Sam 13 (Saul's impatience)** |
-| **2 Samuel** | None found | **MISSING** | David's entire reign: covenant with David (2 Sam 7), Bathsheba and Nathan's rebuke (2 Sam 11–12), the pattern of grace-failure-restoration. Complete absence despite heavy use of Psalm 51. |
+| **2 Samuel** | 2 Sam 7 (survey only) | **MISSING** | 2 Sam 7 (Davidic covenant) is surveyed in overview form in `Eph 3 - The Covenants.md` — not an expository primary text. **Remaining gaps: 2 Sam 11–12 (Bathsheba, Nathan's rebuke), the pattern of grace-failure-restoration. No dedicated expository sermon on any 2 Samuel text.** Heavy use of Psalm 51 throughout corpus without ever preaching the backstory that generated it. |
 | **1 Kings** | 1 Kgs 3, 18 | Thin | Elijah on Carmel covered well. **Gaps: 1 Kgs 8 (Solomon's dedication prayer), 1 Kgs 19 (Elijah under the broom tree — exhaustion and ministry burnout, directly relevant to congregation)** |
 | **2 Kings** | 2 Kgs 5, 25 | Thin | Naaman and the fall of Jerusalem. **Gaps: 2 Kgs 18–19 (Hezekiah's prayer and God's deliverance)** |
-| **1 Chronicles** | None found | **MISSING** | Less urgent — largely parallel to Samuel/Kings — but 1 Chron 4:10 (Jabez) is frequently misused; a corrective sermon has value. |
+| **1 Chronicles** | 1 Chron 4 ✓ | Thin | "What God Remembers" on 1 Chron 4:5–10 (Jabez) — the corrective sermon exists (`Other-Sermons/Sermons/1 Chronicles 4 - What God Remembers.md`). *(Corrected March 2026 — previously listed as MISSING but sermon exists.)* |
 | **2 Chronicles** | 2 Chron 15, 20 | Thin | Jehoshaphat's battle covered well. **Gap: 2 Chron 7:14 (one of the most-quoted but most-misapplied OT promises)** |
-| **Ezra** | Ezra 4, 6 | Thin | God's sovereignty over opposition covered. **Gap: Ezra 7–8 (Ezra's preparation: "he had set his heart to study the law")** |
+| **Ezra** | Ezra 4, 6 | Thin | God's sovereignty over opposition covered in `Sermon - When God Is For Us.md` (Ezra 4:1-6; 4:24; 6:2-end) — Nebuchadnezzar's humbling, Persia's fear of God, Israel's captors made to pay for the temple rebuild. Hiroo Onoda illustration: the enemy fights on not knowing the war is won. **Gap: Ezra 7–8 (Ezra's preparation: "he had set his heart to study the law")** |
 | **Nehemiah** | Neh 1–8, 13 | **Well-Covered** | 8-sermon arc. The strongest non-Romans sustained series in the archive. |
-| **Esther** | Referenced in Neh 2 only | **MISSING** | "For such a time as this" — providence without God's name; courage under an evil king. Relevant to congregation in culture-war anxiety. **High priority gap.** |
-| **Job** | Job 1 only | Thin | Character of Job covered. **Critical gap: Job 38–42 (God's speeches from the whirlwind) — theodicy at full depth; no sermon on suffering that matches this congregation's pain level.** |
+| **Esther** | Esther 4:10–17 | **FILLED** | "For Such a Time as This" — preached; Mordecai's challenge, Esther's three responses (prayer, boldness, obedience), Gen 3:15 protoevangelium, Ps 22 tradition, Christ-type typology, Uyghur people group. See `Esther 4 - For Such a Time as This.md`. |
+| **Job** | Job 1, 42 | Thin | *(Corrected — see Part XII §2.)* Character of Job (Job 1) and What We Think About God (Job 42) both covered. Job 42 includes strongest evidential apologetics in corpus (apostolic martyrdom walkthrough). **Remaining critical gap: Job 38–40 (God's speeches from the whirlwind — theodicy at full depth).** |
 
 ---
 
@@ -55,7 +55,7 @@
 |------|----------|--------|-------|
 | **Psalms** | 51 Psalm entries in sermon-map.md | **Good** | Strong. Gaps exist in lament psalms (42–43, 88), royal psalms (2 — only raw draft; 45, 72, 110), and wisdom psalms (37, 49, 73). Psalm 22 (passion psalm) appears as a raw draft (Romans 1:1-2 companion) and a structural reference in one archive sermon — but has never been the primary preaching text of a standalone message. |
 | **Proverbs** | Prov 13 only (one raw draft) | **Thin/Missing** | Vast wisdom corpus untouched. No sermon on Prov 1–9 (Lady Wisdom), Prov 3:5-6 (trust in the Lord — cited constantly but never the primary text), Prov 31. The relational and practical ethics of Proverbs is a missing voice in this corpus. |
-| **Ecclesiastes** | Eccl 3 (memorial service only) | **Thin** | The book on meaning, futility, and fear of God preached only once — and that for a funeral. No engagement with Eccl 1–2 (vanity), Eccl 5 (words before God), Eccl 12 (remember your Creator). High relevance to the congregation's secular neighbors. |
+| **Ecclesiastes** | Eccl 2:14-26; Eccl 3 (memorial) | **Thin — growing** | Eccl 2:14-26 now preached ("What Matters?" — *hebel*, CT Studd, 2,500 meaningful days, what lasts). Eccl 3 remains only as a memorial service. Still unpreached: Eccl 1 (opening vanity of vanities), Eccl 5 (words before God), Eccl 12 (remember your Creator). The fear-of-God frame of the book has not been preached as a standalone theme. High relevance to the congregation's secular neighbors. |
 | **Song of Solomon** | None found | **MISSING** | The entire book is absent. No treatment of marital love, human sexuality under God's design, or the bride-and-groom Christ typology. Given the congregation's broken-marriage burden, this absence is notable. |
 
 ---
@@ -99,7 +99,7 @@
 
 | Book | Coverage | Status | Notes |
 |------|----------|--------|-------|
-| **Matthew** | Selective: Mt 2, 5–6, 9, 11, 13, 24, 28 | Thin | **Gap: No Sermon on the Mount systematically preached (Mt 5–7 as a unit). No Matthew 25 (talents, sheep/goats judgment). No Matthew 18 (church discipline, forgiveness, the lost sheep). No Matthew 22 (greatest commandment — the sermon's own ethical framework).** |
+| **Matthew** | Selective: Mt 2, 5–6, 9, 11, 13, 24, 28 | Thin | Mt 6:25-34 treated as primary text in `Sermon - Worry Is Lack of Faith.md` (Jesus on anxiety — birds, lilies, "seek first the kingdom"); Mt 28:18-20 treated as primary text in `Sermon - Won't You Go.md` (Great Commission — all five Gospel/Acts occurrences, missions vs. humanitarianism). **Gap: No Sermon on the Mount systematically preached (Mt 5–7 as a unit). No Matthew 25 (talents, sheep/goats judgment). No Matthew 18 (church discipline, forgiveness, the lost sheep). No Matthew 22 (greatest commandment — the sermon's own ethical framework).** |
 | **Mark** | Selective: Mk 2, 4, 5, 10, 14, 15 | Thin | Mark 4–5 covered well (Calming Storm, Jairus). Gap: No Mark 1 (Jesus's authority and urgency), no Mark 8 (confession of Peter, cost of discipleship). |
 | **Luke** | Luke 2, 4, 8–10, 14–15, 23 | Good | Better coverage than Mark. **Gap: Luke 1 (Magnificat — Advent theology), Luke 18 (Pharisee and tax collector — justification by grace alone; ties directly to Romans 1–4), Luke 24 (Emmaus — hermeneutics and the risen Christ).** |
 | **John** | John 3, 5–6, 10–14, 16, 20 | Good | **Gap: John 1:1-18 (prologue — Word/Logos; no dedicated sermon), John 7–9 (healing of the blind man — outstanding for a depravity/sight/regeneration sermon), John 15 (abiding in the vine), John 17 (High Priestly Prayer — intercession and unity), John 18–19 (trial and crucifixion — no dedicated Passion narrative sermon).** |
@@ -110,7 +110,7 @@
 
 | Book | Coverage | Status | Notes |
 |------|----------|--------|-------|
-| **Acts** | Acts 2, 13, 18 | **Very Thin** | Only 3 passages in the entire Acts corpus. **High priority gaps: Acts 4 (boldness in the face of persecution), Acts 9 (Paul's conversion — directly relevant to Romans), Acts 17 (Mars Hill — apologetics model matching Romans 1 approach), Acts 26 (Paul's testimony before Agrippa — the most complete NT evangelism model).** A corpus this focused on missions has almost no Acts sermons. |
+| **Acts** | Acts 1, 2, 13, 18 | **Very Thin** | Acts 13:48 treated as primary election text in `Sermon - Out of the Cistern.md` ("as many as were appointed to eternal life believed"); Acts 1:8 treated as one of five Great Commission passages in `Sermon - Won't You Go.md`. Only 3–4 passages in the entire Acts corpus. **High priority gaps: Acts 4 (boldness in the face of persecution), Acts 9 (Paul's conversion — directly relevant to Romans), Acts 17 (Mars Hill — apologetics model matching Romans 1 approach), Acts 26 (Paul's testimony before Agrippa — the most complete NT evangelism model).** A corpus this focused on missions has almost no Acts sermons. |
 
 ---
 
@@ -121,7 +121,7 @@
 | **Romans** | Romans 1–16 | **Complete** | Primary series. No gaps. |
 | **1 Corinthians** | 1 Cor 1–3, 8–12, 13 | Good | **Critical gap: 1 Cor 15 (Resurrection chapter) — the most sustained NT treatment of the bodily resurrection. No dedicated sermon found.** Given the Easter emphasis in this corpus, the absence of an expositional 1 Corinthians 15 sermon is significant. |
 | **2 Corinthians** | 2 Cor 5, 8–9, 12 | Thin | Brokenness covered (2 Cor 12). **Gap: 2 Cor 1 (comfort in affliction — directly applicable to congregation's pain), 2 Cor 3 (glory of the new covenant, veiled/unveiled hearts), 2 Cor 4 (treasure in jars of clay).** |
-| **Galatians** | Gal 1–4, 6 | Good | Five Solas applied well here. **Gap: Gal 5 (fruit of the Spirit) — never the primary text despite fruit being regularly referenced.** |
+| **Galatians** | Gal 1–4, 6 | Good | Five Solas applied well here. Gal 3:23–29 now polished (`Galatians 3 - Law Faith and Adoption.md` — all ESV ✓, March 2026). **Gap: Gal 5 (fruit of the Spirit) — never the primary text despite fruit being regularly referenced.** |
 | **Ephesians** | Eph 2, 5 | Thin | **Critical gap: Eph 1 (every spiritual blessing — election and predestination in full doxological form), Eph 3 (Paul's prayer — the fullness of God), Eph 4 (unity and gifts), Eph 6 (armor of God). No stand-alone Ephesians 6 spiritual warfare sermon found despite spiritual warfare being a recurring theme.** |
 | **Philippians** | Phil 1, 3–4 | Good | Strong coverage across five sermons. **Gap: Phil 2:5-11 (kenosis hymn — Christ's humility) dedicated treatment.** |
 | **Colossians** | Col 1–4 | Good | Christ's supremacy and sanctification covered. |
@@ -276,7 +276,7 @@ Ranked by theological weight and pastoral relevance to this congregation.
 | **5** | Daniel 1–6 | Faithfulness under empire — directly complements Romans 13 and the congregation's political anxiety |
 | **6** | Ephesians 1, 3, 6 | Election doxology (ch. 1), fullness of God (ch. 3), armor of God (ch. 6) — significant doctrinal gaps |
 | **7** | Hebrews 9–10 | Old covenant shadow → new covenant substance — the typological architecture missing from OT preaching |
-| **8** | Esther | Providence without God's name; courage under a pagan king; relevant to cultural moment |
+| **8** | ~~Esther~~ ✅ FILLED | "For Such a Time as This" — Esther 4:10–17 preached. See `Esther 4 - For Such a Time as This.md`. |
 | **9** | Isaiah 40, 55 | "Comfort ye" and "Come, everyone who thirsts" — the congregation needs comfort; the lost need this invitation |
 | **10** | Ephesians 5:22–33 + Gen 2 + Song of Solomon | Biblical theology of marriage — congregation's most documented burden; no dedicated series |
 | **11** | Lamentations 3 + Job 38–42 | Theology of lament — grief is in the corpus but not the *discipline* of biblical grief |
@@ -321,7 +321,7 @@ For completeness — areas where no additional preaching is urgently needed.
 | **Ruth** | Completely absent. The kinsman-redeemer (*go'el*) is one of the most direct Christ-types in the OT. |
 | **2 Samuel** | David's entire reign — including the Davidic covenant (2 Sam 7) and Nathan's rebuke of David (2 Sam 11–12) — is unpreached despite heavy use of Psalms written in that period. |
 | **1 Chronicles** | No dedicated sermons. |
-| **Esther** | Mentioned in passing in one Nehemiah 2 note ("possibly Esther or descendant of Esther"). Never a primary text. |
+| **Esther** | ✅ Now preached — Esther 4:10–17, "For Such a Time as This." See `Esther 4 - For Such a Time as This.md`. |
 | **Song of Solomon** | Entirely absent. No treatment of marital love, human sexuality under God's design, or the bride-and-bridegroom typology. |
 | **Lamentations** | No dedicated sermons. The biblical model for grief is unpreached. |
 | **Daniel** | No dedicated sermons. Faithfulness under empire (Dan 1–6) is directly relevant to a congregation navigating cultural displacement. |
@@ -755,7 +755,7 @@ The corpus teaches God's forgiveness extensively. The mechanics of one human for
 | Sanctity of Life (abortion) | ★★ | `Psalms 139 (abortion).md` — explicit and direct |
 | Political Neutrality of the Pulpit | ★★ | Romans 12 weep; Romans 13; "Jesus wasn't a Republican or Democrat" |
 | Submission to Governing Authority | ★★ | Romans 13 ("Submission Before Sunrise") — primary; Nero context applied |
-| Racial Reconciliation | ★★ | "Weep With Those Who Weep" (July 2016 Dallas shootings); Romans 16 multi-ethnic names; kinism condemned in strongest terms |
+| Racial Reconciliation | ★★ | "Weep With Those Who Weep" (July 2016 Dallas shootings); Romans 16 multi-ethnic names; kinism condemned in strongest terms; `Sermon - Cultural Marxism.md` — direct treatment of CRT, intersectionality, and cultural Marxism as errors; Rom 10:12-13, Gal 3:26-29, Col 3:11, Acts 10:34-35, Deut 10:17 all deployed; epistemology grounded in Scripture over experience |
 | Sexual Purity | ★★ | `1 Thess 3 "The List I Burned"` — covers lust and purity directly |
 | Care for the Poor / Justice | ★★ | Nehemiah 5 ("The Watching World"); Romans 12 hospitality |
 | Abuse and Marriage | ★ | Romans 12 pt 3 provides a pastoral disclaimer — but the theology of marriage, abuse, and love has never been a primary preaching subject |
@@ -937,7 +937,7 @@ The classical division distinguishes *incommunicable* attributes (unique to God,
 | **Mercy** (God does not give us what we deserve) | ★★ | Sola Gratia series; Romans 4–5; throughout. |
 | **Grace** (God gives us what we do not deserve) | ★★ | Central to every sermon on salvation; Sola Gratia series; "grace is a cheetah." |
 | **Justice / Righteousness** (God always acts in perfect conformity with his own righteous character) | ★★ | Romans 3; `rev 20.md`; hell as just punishment. |
-| **Faithfulness / *Hesed*** (God keeps his covenant promises; his steadfast love endures) | ★★ | `Psalm 103 - Bless the Lord O My Soul.md`; `2 Chronicles 15 - The Hand That Won't Let Go.md`; Romans 11:29 ("the gifts and calling of God are irrevocable"). |
+| **Faithfulness / *Hesed*** (God keeps his covenant promises; his steadfast love endures) | ★★ | `Sermon - Bless the Lord O My Soul.md`; `2 Chronicles 15 - The Hand That Won't Let Go.md`; Romans 11:29 ("the gifts and calling of God are irrevocable"). |
 | **Goodness** (God is benevolent; he does good to his creatures) | ★★ | `Psalm 145 - Good to All.md` — primary subject; Psalm 84 ("no good thing does he withhold"). |
 | **Wisdom** (God always chooses the best ends by the best means) | ★ | Romans 11:33-36 doxology expounded at the close of Romans 11 pt 2 ("Oh the depth of the riches and wisdom…"); `Sermon - The Kingdom of God` cites Tozer on wisdom. Never the primary subject of a sermon. |
 | **Truth / Veracity** (God is truth; he cannot lie or deceive) | ★ | Numbers 23:19 cited in `Sermon - More Than Love.md`; Elohay Emet expounded briefly from Psalm 31:6. Never a primary subject. |
@@ -985,4 +985,456 @@ This text — which the rabbis called the *Thirteen Attributes*, which echoes th
 
 ---
 
-*Last updated: March 2026. Cross-referenced against sermon-map.md (1,043 lines) and theological-map.md (1,018 lines).*
+---
+
+## Part XI: Additional Gaps Identified in Extended Review
+
+*Ten doctrinal and practical areas not fully covered by the ten-branch audit (Part IX) or the names/attributes audit (Part X). Each spans multiple branches or falls between them. All ratings follow the Part IX convention.*
+
+---
+
+### 1. Anthropology — Doctrine of Man (Imago Dei)
+
+**Rating: ★ (Present but thin)**
+
+The corpus has extensive hamartiology — what sin did *to* humanity. It has almost no anthropology — what humanity *is* before sin acts on it.
+
+**What is present:** The image of God (*imago Dei*) appears in multiple sermons, but always in the context of its shatteredness through the fall. "The image of God imprinted on us and on nature was shattered" (`Sermon - More Than Love.md`, `Theology Proper.md`). The mold illustration (Nehemiah 1) and the shards-of-mirror illustration (Philippians 4 draft) both treat the image as something broken. `Psalm 8 / Hebrews 2 (raw draft).md` is the closest thing to a positive anthropology — it covers human dignity in Christ and "God's intimacy with humanity" — but the draft has multiple flagged factual errors (wrong Scripture reference for Deut 32:9; volcano error in geography illustration; "filthy rags" is KJV, not ESV) and has never been preached in finished form.
+
+**What is absent:**
+- Genesis 1:26-27 as a primary preaching text — what it means to be made "in the image of God," before sin
+- Human dignity as a warrant for care of neighbor (the neighbor bears God's image)
+- Male and female as complementary image-bearers — the theology of sexual difference grounded in creation, not culture
+- The goodness of embodiment — that humans are not souls trapped in bodies (Gnostic error) but embodied creatures whose physicality is part of God's good design
+- The creation mandate (Gen 1:28) — work, dominion, and fruitfulness as part of the imago Dei, not a consequence of the fall
+
+This gap is the mirror image of the strength: the corpus is saturated with what humans are *before God in their sin*; it is silent on what humans are *before God in their design*.
+
+---
+
+### 2. Covenant Theology
+
+**Rating: ★ (Present but never taught as a unit)**
+
+The 1689 Second London Baptist Confession is cited from the pulpit. The covenantal *language* is present. The covenantal *structure* has never been taught.
+
+**What is present:**
+- **Covenant of grace** — `romans 9 pt 1.md` cites 1689 LBCF 7.2 directly: "God's covenant of grace promises to give unto all those that are ordained unto eternal life, His Holy Spirit, to make them willing and able to believe"
+- **Covenant of works** — `Eternal Security.md` quotes Jonathan Edwards on the covenant of works: "It is a covenant of works, and not a covenant of grace that suspends eternal life on what is the fruit of a man's own strength." A seminary reference paper (`Titus 1 - slavery.txt`) provides a formal definition of the covenant of works grounded in Romans 5:12-21 and Genesis 2
+- **Abrahamic covenant** — `Sermon - Grafted In.md` (Genesis 12); Romans 4 and 11 treat Abraham and grafting in Gentiles
+
+**What is absent:**
+- **Covenant of redemption / pactum salutis** — the eternal agreement between Father, Son, and Spirit before creation to accomplish redemption — not found anywhere in the corpus
+- **The covenantal framework as a teaching unit** — the congregation has never been walked through the sequence: creation covenant → fall → covenant of grace administered through Noah, Abraham, Moses, David, and finally Christ. They hold the pieces; no one has assembled the picture
+- **1689 Federalism / New Covenant theology** — the specific way the 1689 handles the Mosaic covenant (as a republication of the covenant of works, not the covenant of grace) has never been addressed, even though it governs how the preacher handles the law and the Lord's Day
+
+For a confessional Reformed Baptist, covenantal theology is the architecture beneath every doctrine in the corpus. The congregation lives in the house without knowing what holds it up.
+
+---
+
+### 3. Common Grace
+
+**Rating: ★ (Named once; never a primary subject)**
+
+**What is present:** `ps14.md` (Sunday school archive) names "common grace" explicitly: "Even if we as a result of God's common grace chose to do something that benefited mankind, it would have been done with false motives... motivated by sin." `Romans 1c - The Fingerprints of God.md` and `Romans 1b - Without Excuse.md` treat general revelation extensively — which overlaps with common grace.
+
+**What is absent:** The distinction between *special* grace (saving, given to the elect) and *common* grace (general benevolence to all humanity — restraining evil, enabling cultural achievement, making civil life possible) has never been the primary subject of a sermon. Matthew 5:45 ("he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust") has never been preached from.
+
+This matters pastorally: without a doctrine of common grace, the congregation has no framework for:
+- Why non-Christians can produce genuine beauty, goodness, and truth
+- Why they should value civic institutions and cultural goods made by unbelievers
+- Why God's patience with the world is itself a gift, not a suspension of his character
+
+---
+
+### 4. Three Uses of the Law
+
+**Rating: ★★ / ★ / ★ (varies by use)**
+
+The three classical uses of the law — civil, pedagogical, normative — are present in different strengths.
+
+| Use | Description | Rating | Basis |
+|-----|-------------|--------|-------|
+| **Civil / First Use** (law restrains sin in society) | Law as curb | ★ | Romans 13 covers governing authority as God's instrument; the civil function of law is implicit but never named as such |
+| **Pedagogical / Second Use** (law drives to Christ) | Law as mirror | ★★ | The strongest use in the corpus — "the law isn't a ladder, it's a mirror" (`Romans 3 pt 2.md`, `Romans 10.md`). Luther's use of the law to drive to the gospel is named and modeled throughout Romans 1-4 |
+| **Normative / Third Use** (law guides the believer) | Law as rule | ★ | `jeremiah 7.md` briefly names the third use. Romans 12-15 implicitly applies moral law to the believer's life. But the *principle* that the moral law functions as a guide for the regenerate — and how to distinguish it from legalism — has never been the primary preaching subject |
+
+**The gap:** The second use is genuinely strong — it is the backbone of the Romans 1-4 argument. What is missing is a sermon that teaches the congregation *how* to read the law: what still applies (moral law), what is fulfilled (ceremonial law), what is relocated (civil law of Israel), and how the believer relates to the law after justification. Without this framework, the congregation can read Leviticus or the Sermon on the Mount without knowing what to do with it.
+
+---
+
+### 5. Angelology and the Spiritual Realm
+
+**Rating: ★ (Functional coverage; systematic treatment absent)**
+
+**What is present:** Spiritual warfare is addressed — `1 Sam 28 wicca and the occult` (primary), `Gen 3 - The Curse.md` (the serpent), `Ephesians 6` referenced across multiple sermons (armor of God). `Sermon - Power Encounter.md` addresses occult practices directly. Demons and demonic influence are real in this preacher's worldview.
+
+**What is absent:**
+- The nature and ministry of holy angels — what angels *are*, what they *do*, why they exist
+- The origin and fall of Satan — Isaiah 14, Ezekiel 28, Jude 6, Revelation 12 — never a primary text
+- The cosmic dimension of spiritual conflict (Daniel 10; Eph 6:12 "principalities and powers") — referenced but not expounded
+- Angels as ministering spirits sent to serve the heirs of salvation (Heb 1:14) — never taught
+- How to distinguish demonic influence from psychological illness, cultural darkness, and personal sin — a practically urgent distinction for a congregation in spiritual warfare context
+
+The corpus can tell a congregation to put on the armor. It cannot fully tell them what they are fighting, why the enemy fell, or what the angelic host is doing on their behalf.
+
+---
+
+### 6. Theology of Worship
+
+**Rating: ★ (Present in fragments; never a systematic treatment)**
+
+**What is present:** `Psalms 96.md` is the strongest single sermon on worship — anchored in the holiness of YHWH's name and what it demands of those who draw near. `Sermon - Clowns Entertaining the Goats.md` (BFM Holy Spirit series) addresses false and manipulative worship practices directly. `Sermon - The Lord's Day.md` covers the time and occasion of worship. `1 Cor 12 / Commitment to the church body` addresses the corporate nature of the gathered assembly.
+
+**What is absent:**
+- A comprehensive theology of *what worship is* — the definition, the direction (toward God, not toward self), the content (word-centered vs. experience-centered)
+- The *regulative vs. normative principle* debate — whether anything not commanded is forbidden (regulative) or anything not forbidden is permitted (normative). The 1689 leans regulative; this preacher's practice leans normative; the congregation has never been given the framework to understand why the church does what it does on Sunday morning
+- Worship and the heart — the relationship between internal devotion and external form (Amos 5:21-24; Isaiah 1:11-17; John 4:23-24)
+- Praise and thanksgiving as distinct acts of worship — their content, their grammar, their relationship to lament
+- The Lord's Supper as worship — more than ordinance; as proclamation ("you proclaim the Lord's death," 1 Cor 11:26)
+
+---
+
+### 7. General Providence
+
+**Rating: ★ (Present in Christology context; never a standalone doctrine)**
+
+**What is present:** Christ's sustaining work is explicit: "Jesus holds all things together" (`christology.md`, citing Col 1:17); "he upholds the universe by the word of his power" (Heb 1:3, cited in `christology.md` and `Mt 11.md`). The molecules-not-understood-by-science illustration appears in three separate sermons. God's sovereignty over *salvation* is the strongest branch in the corpus.
+
+**What is absent:** General providence as a doctrine distinct from sovereignty over salvation — God's ongoing care for *all* creation, not just his elect. This includes:
+- God feeding the birds and clothing the grass (Matt 6:26-30 — cited in anxiety context, but the *doctrine of providence* beneath the pastoral application is never taught)
+- God ordering the rise and fall of nations and historical events
+- Concurrence — God working through secondary causes without removing human responsibility
+- The difference between providence and fate — why trusting God's providence is not fatalism
+
+Without this, the congregation hears "God is in control" as a soteriological claim (he controls *your salvation*) rather than a cosmological one (he controls *everything*).
+
+---
+
+### 8. Biblical Theology and Redemptive History
+
+**Rating: ○ (Assumed throughout; never the primary subject)**
+
+**What is present:** The individual moves of redemptive history are preached: creation, fall, election of Abraham, Exodus, Davidic covenant, incarnation, atonement, resurrection, consummation. Typology is used extensively (Joseph, bronze serpent, Rahab, Boaz's ram at Moriah). The Christocentric hermeneutic is present in almost every sermon.
+
+**What is absent:** The *framework itself* — the redemptive-historical storyline taught as an explicit, named, navigable unit. The congregation holds the pieces but has never been given the map. They cannot tell a neighbor "here is the Bible's one story from beginning to end." They have not been taught to read any passage by asking "where does this fit in the story?"
+
+This matters because:
+- It gives the congregation a way to read the Old Testament — not just as a collection of stories with moral lessons, but as the unfolding of a single promise
+- It explains why Christ is in every book of the Bible — not because you have to look for him, but because the whole story is about him
+- It frames suffering, mission, and ethics within a narrative that has a trajectory and a destination
+
+A single series — creation to new creation, four or five movements — would serve the congregation for decades.
+
+---
+
+### 9. Lament as a Spiritual Discipline
+
+**Rating: ★ (Door opened; never walked through)**
+
+**What is present:** `Sermon - Weep With Those Who Weep.md` (Dallas shootings, July 2016) is the strongest moment of pastoral grief in the corpus — Psalm 22's structure is analyzed, lament's form is honored. Suffering-as-refining is genuinely strong (Hebrews 12, Philippians 3, 1 Thessalonians 3). The preacher does not enforce false positivity.
+
+**What is absent:** The *practice* of lament — that Scripture not only permits but commands grieving honestly to God, that darkness before God is itself faith, that the psalms of desolation (Psalms 42-43, 88, 13, 22 as a standalone) and Lamentations teach the church *how* to suffer before resolution comes. Specifically:
+- Psalm 88 — the only psalm with no resolution, no turn to praise, ending in darkness. The existence of this psalm in the canon is itself a theological statement.
+- Lamentations — five chapters of unresolved grief; Jeremiah's raw howl over Jerusalem's destruction
+- The distinction between lament and complaint, between grief brought *to* God and grief that turns *from* God
+
+The congregation has been given permission to suffer. They have not been given language for it.
+
+---
+
+### 10. Apologetics
+
+**Rating: ★ (Incidental content; no systematic treatment)**
+
+**What is present:**
+- General revelation as evidence (Romans 1b/1c) — anthropic principle, fine-tuning, nuclear resonance, solar system design — well-developed *within* the Romans argument but in service of the "without excuse" claim, not as a defense of Christian truth claims
+- Manuscript reliability (`Sermon - Trusting God in Ambiguity, Matthew 2.md`) — Masoretes' precision, textual transmission
+- Counterfeit religion refutation — Mormonism, JW, Islam, Christian Science, Wicca — addressed directly in multiple sermons; this is the strongest apologetic strand in the corpus
+- Historical resurrection evidence — cited in passing (`John 10.md`: "more than 500 people witnessed his resurrection") but never argued as a primary case
+
+**What is absent:**
+- Classical arguments for God's existence as a unit (cosmological, teleological, ontological) — the fine-tuning content exists but is never gathered into a coherent case
+- Evidential apologetics for the resurrection — 1 Corinthians 15:3-8 as historical argument; the empty tomb; the conversion of Paul and James — never a primary sermon
+- How to answer specific objections ("the Bible was written by men," "religion is for weak people," "science has disproved God") — handled incidentally in various sermons but never as a teaching
+- Presuppositionalism vs. evidentialism — the methodological question of *how* Christians should defend the faith; not addressed
+
+**The practical gap:** This congregation lives in Pasco County, described in the corpus as having "100+ Muslim households within a mile of the church" and as "least-reached east of the Mississippi." They evangelism-oriented. They do not have a toolkit for answering the questions of educated, skeptical, or religiously committed neighbors.
+
+---
+
+### Summary: Additional Gaps
+
+| Gap | Rating | Priority |
+|-----|--------|----------|
+| Anthropology / Imago Dei (positive doctrine of humanity) | ★ | High — the missing complement to the corpus's saturated hamartiology |
+| Covenant Theology (covenantal framework as a unit) | ★ | High — the unspoken architecture beneath every doctrine in this corpus |
+| Biblical Theology / Redemptive History | ○ | High — the map the congregation needs to read their Bibles |
+| Common Grace | ★ | Medium — needed for cultural engagement and patience with the unbelieving world |
+| Three Uses of the Law | ★/★★ | Medium — second use is strong; first and third use need dedicated treatment |
+| Theology of Worship | ★ | Medium — the congregation worships without knowing what they are doing or why |
+| General Providence | ★ | Medium — sovereignty over salvation is strong; general providence of creation is thin |
+| Angelology | ★ | Medium — spiritual warfare context exists; systematic angelology absent |
+| Lament as Discipline | ★ | Medium — permission to suffer given; language for suffering not yet taught |
+| Apologetics | ★ | Medium — counterfeit refutation is strong; positive evidential case for Christianity is not |
+
+---
+
+*Part XI compiled March 2026. Verified against direct file reads and grep searches of corpus. Covenant of works claim verified in `Eternal Security.md` and `Other-Sermons/sebts-reference/Titus 1 - slavery.txt`. Common grace claim verified in `Other-Sermons/Sermons/ps14.md`. Three uses of the law verified in `Other-Sermons/Sermons/jeremiah 7.md`, `Romans 3 - pt 2.md`, and `Romans 10.md`. All gap claims reflect this repository only.*
+
+---
+
+## Part XII: Corrections and New Findings After Sermon-Map Expansion (PR #90)
+
+*This section corrects prior ratings and identifies new findings that emerged from the sermon-map expansion in PR #90 (`add-missing-sermons-maps-Zqd0d`), which added Joshua sections (Josh 2 & 6, Josh 10), the James section (James 1), Job 42, Jeremiah 44, John 1, John 4, John 13, John 20, Luke 10, Luke 14, Matthew 5, Genesis 39, Judges 1–2 (raw notes), Judges 6 (raw notes), and Nehemiah 4. The branch was then rebased onto main (commit d0be9d1). All corrections supersede the prior rating.*
+
+---
+
+### Corrections to Prior Parts
+
+#### 1. Joshua (Part V, Part VI — was: "Josh 9 only — thin")
+
+**Correction: Well-covered. Rating revised to ★★★.**
+
+Prior analysis based on the mapped state at the time. The full map (including pre-PR #90 entries at the sermon-map appendix plus new entries from PR #90) shows:
+
+| File | Passage |
+|------|---------|
+| `Joshua 2 & 6 - An Unlikely Hero.md` | Josh 2; Josh 6 — Rahab; typology (red cord → blood of Christ); redemptive-historical lineage |
+| `Josh 7 & 8.md` | Josh 7–8 — consequences of leaving God out |
+| `Sermon - The Price of Integrity.md` | Josh 9 — Gibeonite deception; integrity |
+| `Joshua 10 - The Power of God.md` | Josh 10 — prayer as first step; protoevangelium |
+| `Joshua 24.md` / `Joshua 24 - 2024.md` | Josh 24 — "choose this day whom you will serve" |
+
+Joshua is one of the best-covered OT narrative books in the corpus. The claim in Part VI that Joshua was "never preached from" was incorrect; it belongs on neither the thin-coverage nor the never-preached list.
+
+**Remaining genuine gap:** Joshua 1 (the commissioning — "be strong and courageous"; Deut 31 handover; Josh 1:8 on Scripture meditation) — never a primary text.
+
+---
+
+#### 2. Job (Part V, Part VIII — was: "Job 1 only — thin; Job 38–42 absent")
+
+**Correction: Job 1 + Job 42 now mapped. Rating revised to ★★ (thin but includes the climax).**
+
+`Job 42 - What We Think About God.md` was already in the filesystem and is now mapped. Key content:
+
+- **Tozer** (*Knowledge of the Holy*, opening line) — verified ✓
+- **God's anger at wrong theology** (Job 42:7–9) — the congregation has never been told God holds them accountable for *what they believe about him*
+- **Prosperity gospel refutation** — the most extensive and best-sourced treatment of the prosperity gospel in the entire corpus; refuted serially through the apostolic martyrdom walkthrough
+- **Apostolic martyrdom walkthrough** — all twelve listed; sourced by reliability tier (James: Acts 12:2 Scripture; John: Rev 1:9 Scripture; Peter: Tertullian/Eusebius strong tradition; Thomas/Andrew/Philip: moderate tradition; Matthew/Bartholomew/Simon/Matthias: acknowledged as sparse or disputed; Paul: beheading under Nero, well-attested)
+- **Tertullian** — "semen est sanguis Christianorum" — Latin form correct; English expansion noted as paraphrase, not translation ✓
+- **613 commandments** — Talmud Makkot 23b; Maimonides codification — accurate and sourced ✓
+- **Sermon incomplete** — notes end at "Romans 10:9." Gospel presentation and closing appeal need to be written before delivery
+
+**Remaining genuine gap:** Job 38–40 (God's speeches from the whirlwind — the theodicy, the cosmological questions, God's direct answer to suffering) — the most theologically rich section of Job and still absent.
+
+---
+
+#### 3. James (Part V — was: "James 1–5 — Well-Covered")
+
+**Correction: Only James 1 (raw notes, incomplete). Rating revised to ★ (thin).**
+
+The Part V "well-covered" rating appears to have been based on James appearing extensively as a cross-reference text across the corpus (James 1:2-4 in John 11; James 2:19 in Neh 1; James 2:15-16 in the Church Hotel Policy; James 4:6 in the Journey in Grace study). Cross-reference presence is not preaching coverage. As a primary text, only one James sermon exists:
+
+- `James 1 - Bondservants in the Crucible.md` — James 1:1-4 (raw notes, incomplete; gospel placeholder at end). Covers: δοῦλος (slave identity), BFM Article III on Man (anthropology), ὑπομένω (perseverance), Heb 12:1-3, Noah's ~75-year perseverance, Marines Crucible illustration.
+
+**James 2–5 has never been a primary preaching text.**
+
+This is a significant gap for a Reformed Baptist congregation, because:
+
+- **James 2** ("faith without works is dead") is the first text critics of Reformed soteriology cite. The congregation has no primary sermon equipping them to interpret James 2 in context — to explain the relationship between justification and sanctification, between Pauline and Jamesian soteriology, between the faith that saves and the faith that shows
+- **James 3** (the tongue / wisdom from above) — practical holiness for a congregation regularly engaged in evangelism and relationships
+- **James 4** (worldliness, humility, "God opposes the proud") — cited in the Journey in Grace study but never preached
+- **James 5** (prayer of faith; anointing the sick; Elijah's prayer) — directly relevant to the congregation's prayer culture; never preached
+
+---
+
+#### 4. John (Part V — was: John 3, 5–6, 10–14, 16, 20 covered; John 1 and John 4 listed as gaps)
+
+**Correction: John 1 and John 4 now mapped. Narrowing the gap.**
+
+- `John 1.md` — *The Logos* (John 1:1-18): *en archē*; Logos as Greek philosophical search for the rational principle behind reality; NASA nebula illustration; "the world missed Him" (John 1:9-14); *tetelestai* and the fullness of Christ's ministry; Einstein's Spinoza's God (noted without endorsing); communion.
+- `John 4 - Woman at the Well.md` — John 4:7-26: betrothal type-scene; five husbands / five foreign gods (2 Kings 17, Calvin); God-shaped hole (Augustine, C.S. Lewis); Huffington Post "heal yourself" rebuttal; Muhamasheen people group of Yemen; woman's conversion → immediate mission (sets down water jar).
+
+**Remaining genuine John gaps:** John 7–9 (healing of the blind man — sight/depravity/regeneration), John 15 (abiding in the vine — though covered partially in 1 John Little Children via John 15:1-11), John 17 (High Priestly Prayer), John 18–19 (trial and Passion narrative).
+
+---
+
+#### 5. Apologetics (Part XI, Gap 10 — was: "evidential case for resurrection, not systematic")
+
+**Update: Job 42 apostolic martyrdom walkthrough is the strongest evidential apologetics content in the corpus. Rating revised to ★★ (from ★).**
+
+The walkthrough in `Job 42 - What We Think About God.md` is sourced by reliability tier, distinguishes Scripture from tradition, notes where traditions are early vs. late, and builds a coherent argument: if the prosperity gospel is true, all the apostles were lost — and Jesus was lost too. This is structured evidential reasoning from historical data, not a passing reference. It is the most careful piece of apologetic argumentation in the entire corpus.
+
+**Remaining genuine apologetics gaps:**
+- 1 Corinthians 15:3-8 as a unit of historical argument for the resurrection (appears in context in Easter sermons but never as a primary apologetics case)
+- Classical arguments (cosmological, teleological) as a *named* unit — the fine-tuning content exists but has never been gathered into a coherent standalone case
+- Presuppositional vs. evidential methodology — not addressed
+
+---
+
+### New Flags: Unverified Claims in Newly-Mapped Sermons
+
+These claims were identified as unverified in the sermon manuscripts themselves (editorial notes embedded in the text). They are listed here for action before the sermons are preached.
+
+| File | Claim | Status |
+|------|-------|--------|
+| `Jeremiah 44 - The Altar of Your Heart.md` | Paul Washer — "to sin is more than just breaking a rule — it's grieving the person who loves us beyond measure" | ⚠️ **UNVERIFIED.** Not traced to any Washer sermon, transcript, or publication. Widely circulated without citation. Do not attribute from the pulpit until a specific source is identified. Use without attribution or replace with a verified source. |
+| `Jeremiah 44 - The Altar of Your Heart.md` | Thomas Manton — "We make light of sin, but Christ found it not so light" | ⚠️ **UNVERIFIED.** Not located in Manton's digitized works (CCEL, Wesley Center). Consistent with his tone but unconfirmed. If available in a printed volume, verify before using. |
+| `John 13 - He Washed Their Feet (raw notes).md` | "~13% genuine believers in the US" | ⚠️ **SOURCE UNCONFIRMED / DATED.** Editorial note in the manuscript reads: *"source and date should be confirmed before use. Figures tied to 323M population suggest a circa-2016 survey. Verify against current Pew, LifeWay, or Gallup data."* The figure is plausible but the originating study is not named in the notes. Do not use without confirming the source. |
+| `Job 42 - What We Think About God.md` | Prosperity gospel fraud — named pastor and dollar figure (in raw notes) | ⚠️ **NOT IN MANUSCRIPT (already removed).** The raw notes contained a named example; it could not be verified and was replaced with a placeholder. Confirm from a reliable news source before adding back. |
+| `Job 42 - What We Think About God.md` | Sermon incomplete | ⬜ Gospel presentation ends at "Romans 10:9" placeholder. Full closing needed before delivery. |
+| `James 1 - Bondservants in the Crucible.md` | Sermon incomplete | ⬜ Notes end at armor of God section. Gospel presentation placeholder present. Full closing needed before delivery. |
+
+---
+
+### New Findings: Additional Content Not Previously Mapped
+
+**Jeremiah 44 — The Altar of Your Heart.** First Jeremiah sermon mapped in full. The idolatry-of-disobedience argument (failure to evangelize as a form of idol worship — self placed on the heart's altar) is pastoral and original. LifeWay 2012 statistic (61% of churchgoers had not shared the gospel in the prior six months) is verified and the manuscript corrects the original 90% figure. A.W. Pink closing quote verified ✓ (*Studies on Saving Faith*, exact wording).
+
+**John 20 — Do Not Disbelieve.** Thomas sermon with the Uzbekistan house church testimony (27 believers, 22 who did not recant under armed coercion). Strong evangelism and perseverance content. Thomas's prior courage established from John 11:16 before addressing his doubt — contextually responsible.
+
+**Luke 14 — The Party and the Excuses** (Parable of the Great Banquet). Heaven described from five texts (John 14:2; Matthew 18:10; Revelation 5:9-10; 1 Corinthians 2:9; Revelation 21:4). Uncle Rich cancer testimony (PET-CT, tumors reduced to two lung spots — mid-sermon). This is one of the few sermons that describes heaven positively and at length.
+
+**Matthew 5:13-16 — Salt and Light.** Samuel Rutherford extended quote (Communion Sermon 2, modernized) — bride of Christ loving the sin that killed her husband. Ten Commandments walkthrough (idolatry, Lord's name, stealing, lying, murder via 1 John 3:15). The seminary friend smoking behind the pepper plant ("it's just my lungs") is one of the preacher's best integrity illustrations.
+
+**Journey in Grace — Chapters 18 & 20** (men's Bible study, added in PR #92). Covers infralapsarianism vs. supralapsarianism, the justice objection to unconditional election, and limited atonement. This is study-guide content, not a sermon, but it is the most sustained treatment of *particular redemption* (limited atonement) in the entire corpus — an area rated ★ in Part IX's soteriology audit. The study is theologically careful: the dictionary test (every word used to accuse God of injustice — tyrant, despot, autocrat — describes the relationship between equals) is a strong apologetic move. This material partially fills the Part IX gap on particular redemption, but only in the men's study format, not from the pulpit.
+
+---
+
+### Summary: What Changed
+
+| Item | Prior Rating | Revised Rating | Basis |
+|------|-------------|----------------|-------|
+| Joshua coverage | ★ ("Josh 9 only — thin") | ★★★ (well-covered) | Josh 2, 6, 7, 8, 9, 10, 24 all exist |
+| Job coverage | ★ ("Job 1 only") | ★★ (thin but includes climax) | Job 42 now mapped |
+| James coverage | ★★★ ("Well-Covered") | ★ (only James 1, incomplete) | Only one James sermon found; James 2–5 never preached |
+| John coverage | ★★ (John 1 and 4 listed as gaps) | ★★ (narrowed) | John 1 and John 4 now mapped |
+| Apologetics | ★ | ★★ | Job 42 martyrdom walkthrough is substantive evidential apologetics |
+| Particular redemption | ★ | ★ + study | Journey in Grace Ch.20 covers limited atonement in men's study format |
+
+---
+
+*Part XII compiled March 2026. Branch rebased onto main (d0be9d1) after fetching origin/main. Corrections verified against direct file reads of `Joshua 2 & 6 - An Unlikely Hero.md`, `Josh 7 & 8.md`, `Joshua 24.md`, `Job 42 - What We Think About God.md`, `James 1 - Bondservants in the Crucible.md`, `Jeremiah 44 - The Altar of Your Heart.md`, `John 1.md`, `John 4 - Woman at the Well.md`, and `Journey in Grace bible study - Chapters 18 and 20.md`. All gap claims reflect this repository only.*
+
+*Correction (careful-not-clever audit, same session): The "corpus is now fully mapped" claim in the commit message overstated. A basename-only comparison missed 17 duplicate filenames (files appearing in both root and Other-Sermons/Sermons). On inspection all duplicates were mapped twice except `Sermon - Beauty for Ashes.md`, whose root polished version was absent. This was corrected in the sermon-map directly. The John 13 "~13%" flag was also sharpened: the claim is not "source unknown" but "source unnamed — the manuscript's own editorial note identifies it as a circa-2016 survey by population figure; the originating study should be named before use."*
+
+---
+
+*Last updated: March 2026. Cross-referenced against sermon-map.md and theological-map.md.*
+
+---
+
+## Part XIII: Additions and Corrections — Current Session (March 2026)
+
+*Documents changes from the session following PR #91. Two new cleaned sermon manuscripts added; one existing manuscript flagged; one integrity error corrected.*
+
+---
+
+### New Manuscripts Added
+
+#### 1. Numbers 11:1-15 — *The Sin We Don't Call Sin* (`Numbers 11.md`)
+
+**Status: Cleaned manuscript, verified, committed.**
+
+A dedicated sermon on discontentment as a theological complex — failure of trust, complaint against God's plan, covetousness — drawn from Israel's grumbling over manna and Moses's death-wish under the weight of the people. Fills the Numbers 11 gap identified in Part I.
+
+**Coverage update:** Numbers section revised from "Num 16 (ref only), Num 21" to "Num 11 ✓, Num 16 (ref only), Num 21 ✓."
+
+Key content verified:
+- Numbers 11:1-11, 15 ESV block quote — verified accurate ✓
+- 2 Corinthians 11:23-28 ESV — verified (corrected from NIV) ✓
+- Romans 8:18, 8:32; Philippians 3:8; James 1:2; Matthew 13:44 — all ESV-verified ✓
+- Jeremiah Burroughs quote — attributed to *Contentment, Prosperity, and God's Glory* (⚠️ title unverified; standard Burroughs work on this theme is *The Rare Jewel of Christian Contentment*, 1648 — confirm before pulpit use)
+- Paul Tripp — cited as paraphrase, not direct quote ✓
+- Philip Holmes quote — removed; ideas retained in preacher's voice ✓
+- "In Romans he says" for Romans 8:18 — attribution corrected from prior version that said "In James he says" ✓
+
+**Remaining open items:** Burroughs title confirmation against physical copy.
+
+---
+
+#### 2. John 14:1-16 — *One Way* (`John 14 1-16.md`)
+
+**Status: Cleaned manuscript, verified, committed.**
+
+A full-length exclusivity-of-Christ sermon on John 14:1-16, extending the earlier `John 14 - exclusivity of the gospel..md` (which covered John 14:1-7 only). The new manuscript covers the full passage through verse 16 and adds a developed false-religion case study (Jose Luis de Jesus Miranda) and a Beethoven/deaf-from-birth illustration on natural knowledge of God.
+
+**Coverage impact:** John 14 was already in the corpus; this adds a cleaned, expanded manuscript for the same passage. The John coverage rating (★★, "Good") is unchanged; this manuscript supersedes the earlier version for preaching use.
+
+Key verifications:
+- John 14:1-16 ESV block — verified accurate ✓
+- Acts 4:12; Romans 3:10-11; Romans 10:9; Psalm 96:5 — all ESV-verified ✓
+- Psalm 97:7 — partial quote; corrected to include ellipsis and "(partial)" notation (ESV continues "; worship him, all you gods!") ✓
+- Genesis 3:15 ESV "bruise" (not NIV "crush") — corrected ✓
+- Calvin "perpetual forge of idols" — Institutes I.11.8 — verified ✓
+- Jose Luis de Jesus Miranda — died August 2013, cirrhosis, Doral FL, claimed to be Jesus Christ, "666" tattoo — consistent with documented record ✓
+- Jon Wood quotes — removed (unverified) ✓
+- MacArthur block quote — converted to documented paraphrase (⚠️ verbatim source unconfirmed; cf. *Ashamed of the Gospel*, 1993 — confirm before quoting directly)
+- 9/11 death toll (2,977), Joshua Project 3.4 billion unreached, world population 8.3 billion — all within documented range ✓
+
+**Remaining open items:** MacArthur source confirmation.
+
+---
+
+### Existing Manuscript Flagged
+
+#### 3. Neh 13.md — Kent Hughes "Making Pearls" Attribution
+
+**Status: Flag added to body text.**
+
+The passage attributed to Kent Hughes (*James: Faith That Works*, 1991, Preaching the Word series) was flagged ⚠️ in the body text: the prose style reads older than Hughes's own voice and he may be citing a prior writer rather than speaking in his own words. Verbatim quotation from the pulpit is on hold until the primary source is confirmed in the physical volume.
+
+**No change to gap analysis ratings** — Nehemiah is already rated Well-Covered.
+
+---
+
+### Integrity Correction
+
+#### 4. Psalm 97:7 Partial Quote (John 14 1-16.md)
+
+The ESV of Psalm 97:7 reads: *"All worshipers of images are put to shame, who make their boast in worthless idols; worship him, all you gods!"* The John 14 1-16.md manuscript had quoted only the first clause without indicating truncation. Corrected to `…worthless idols…` with `(partial)` citation note.
+
+---
+
+### Unchanged High-Priority Gaps
+
+The top-15 priority list from Part IV is unchanged. All 15 items remain unpreached. The additions in this session do not close any of them:
+
+| Priority | Book/Passage | Status |
+|----------|--------------|--------|
+| 1 | Jeremiah 31:31–34 (New Covenant) | Still absent |
+| 2 | 1 Corinthians 15 (Resurrection) | Still absent |
+| 3 | Revelation 4–5, 21–22 | Still absent |
+| 4 | Ruth | Still absent |
+| 5 | Daniel 1–6 | Still absent |
+
+The James gap flagged in Part XII (James 2–5 never the primary text) remains unaddressed.
+
+---
+
+---
+
+### Archive Sermon Added to Corpus
+
+#### 5. Romans 15 - Carry Water.md — Archive Treatment of Romans 15:1-3
+
+**File:** `Other-Sermons/Sermons/Romans 15 - Carry Water.md`
+**Passage:** Romans 15:1-3 (primary); Romans 14:20; Proverbs 27:17; Colossians 3:3; John 4:14; Matthew 26:53; Psalm 34:8; John 14:6
+
+**Status:** Cleaned, verified, and added to corpus. This is an earlier/archive manuscript on Romans 15:1-3 distinct from the primary series manuscript `Romans 15a - The Welcome We've Been Given.md`. The two treatments are complementary: this one focuses on bearing with the weak and the water-carrying motif; the primary series manuscript focuses on welcome and Gentile inclusion.
+
+**Scripture corrections made during cleaning:**
+- Proverbs 27:17 — raw notes had NIV form ("as iron sharpens iron, so one person sharpens another"); corrected to ESV ("Iron sharpens iron, and one man sharpens another.")
+- John 14:6 — raw notes had "the light"; corrected to ESV "the life."
+- Psalm 34:8 — raw notes mislocated this verse to John 4; corrected to Psalm 34:8. (John 4:14 is a separate cross-reference in the same sermon.)
+
+All 8 Scripture quotes verified ESV (March 2026).
+
+**Illustration flag:** Gulf War lieutenant/sergeant story marked ⚠️ — circulated widely in preaching contexts but origin not traced to a named publication. Verify before use in print.
+
+**Gap analysis impact:** Romans 15 remains Well-Covered. The corpus now holds two distinct manuscripts on Romans 15:1-3. No change to priority gap list.
+
+---
+
+*Part XIII compiled March 2026. Verified against `Numbers 11.md`, `John 14 1-16.md`, `Neh 13.md`, `John 14 1-16.md` (Psalm 97:7 edit), and `Romans 15 - Carry Water.md`. Committed to branch `claude/map-preaching-gaps-YhjkO`.*
