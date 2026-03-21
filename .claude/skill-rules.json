@@ -166,12 +166,12 @@
       }
     },
 
-    "sermon-evaluation": {
+    "thus-says-the-lord": {
       "enabled": true,
-      "type": "domain",
-      "enforcement": "suggest",
+      "type": "guardrail",
+      "enforcement": "warn",
       "priority": "high",
-      "description": "Reformed Baptist sermon evaluation rubric. Scores manuscripts on a weighted 100-point scale across exposition, theology, gospel centrality, conscience-level application, exhortation, structure, illustration, and sermonic force. Includes fatal flaw detection, dead orthodoxy diagnostics, cognitive load assessment, the Synagogue Test, and the 1689 Pulse. Produces surgical fixes.",
+      "description": "Reformed Baptist sermon evaluation rubric. Fires automatically when a sermon is written or integrated into the repository. Scores manuscripts on a weighted 100-point scale across exposition, theology, gospel centrality, conscience-level application, exhortation, structure, illustration, and sermonic force. Includes fatal flaw detection, dead orthodoxy diagnostics, cognitive load assessment, the Synagogue Test, and the 1689 Pulse. Produces surgical fixes.",
       "promptTriggers": {
         "keywords": [
           "evaluate sermon",
@@ -185,23 +185,43 @@
           "sermon review",
           "evaluate this",
           "moralism check",
-          "synagogue test"
+          "synagogue test",
+          "thus says the lord"
         ],
         "intentPatterns": [
           "(evaluate|score|grade|rate|review|assess).*?sermon",
           "sermon.*?(evaluation|quality|score|grade|rubric)",
-          "how.*?(good|strong|faithful|solid).*?sermon"
+          "how.*?(good|strong|faithful|solid).*?sermon",
+          "(write|draft|create|integrate|add|import).*?sermon",
+          "sermon.*?(written|complete|finished|done|ready)"
         ]
       },
-      "autoLoad": {
-        "mainFile": ".claude/skills/sermon-evaluation/SKILL.md",
-        "maxLines": 600,
-        "loadOnSessionStart": false
+      "fileTriggers": {
+        "pathPatterns": [
+          "*.md",
+          "**/*.md"
+        ],
+        "contentPatterns": [
+          "Romans",
+          "Sermon",
+          "sermon",
+          "Scripture Reading",
+          "People Group of the Week"
+        ]
       },
-      "activationMessage": "Sermon evaluation active. Faithful exposition, theological precision, pastoral heat. Soli Deo Gloria.",
+      "toolTriggers": [
+        "Edit",
+        "Write"
+      ],
+      "autoLoad": {
+        "mainFile": ".claude/skills/thus-says-the-lord/SKILL.md",
+        "maxLines": 600,
+        "loadOnFirstFileEdit": true
+      },
+      "activationMessage": "Thus says the Lord — sermon evaluation active. Every sermon carries the weight of 'Thus says the Lord.' This rubric tests whether yours has earned it.",
       "coActivation": {
-        "suggested_with": ["voice-audit"],
-        "note": "Sermon evaluation assesses quality. Voice-audit assesses authenticity. Run both before committing a finished manuscript."
+        "always_with": ["voice-audit", "careful-not-clever"],
+        "note": "Thus-says-the-lord evaluates quality. Voice-audit checks authenticity. Careful-not-clever guards integrity. All three fire when a sermon is written or integrated."
       }
     }
 

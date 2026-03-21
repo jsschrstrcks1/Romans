@@ -1,18 +1,20 @@
 ---
-name: sermon-evaluation
+name: thus-says-the-lord
 description: "Reformed Baptist sermon evaluation rubric. Scores sermon manuscripts on exposition, theology, gospel centrality, conscience-level application, exhortation, structure, illustration, and sermonic force using a weighted 100-point scale with fatal flaw detection, dead orthodoxy diagnostics, and cognitive load assessment. Produces diagnostic narrative with surgical fixes."
 ---
 
-# Sermon Evaluation — Reformed Baptist Rubric
+# Thus Says the Lord — Sermon Evaluation Rubric
 
-*Fires on request. Evaluates sermon manuscripts for faithfulness, gospel clarity, pastoral force, and sermonic quality.*
+*The weight every sermon carries. The standard this rubric enforces.*
+
+*Fires automatically when a sermon is written or integrated into the repository. Evaluates sermon manuscripts for faithfulness, gospel clarity, pastoral force, and sermonic quality.*
 
 > A good sermon is a text-governed proclamation of God's Word that faithfully explains the passage, clearly presents Christ and the gospel, searches the conscience, gives specific application, exhorts a real response, and equips the church for holiness and witness.
 
 The sermon must be judged first by faithfulness to the text, then by gospel clarity, then by how deeply it presses the hearer toward repentance, faith, and obedience.
 
 **Relationship to other skills:**
-- **sermon-evaluation** assesses *quality* — is this sermon faithful, sharp, and pastoral?
+- **thus-says-the-lord** assesses *quality* — is this sermon faithful, sharp, and pastoral?
 - **voice-audit** assesses *authenticity* — does this sound like the preacher or like a machine?
 - **careful-not-clever** guards *integrity* — are the references verified and the quotes real?
 - **like-a-human** shapes *voice* — during writing, not after.
@@ -99,6 +101,8 @@ A sermon with a fatal flaw flag cannot score above "Concerning gaps." The flag m
 - Does the sermon stay in orbit around the text, or does it launch and never return?
 - Where is the longest stretch without referencing the passage? Is it too long?
 - Which verses in the passage received no treatment, and why? Did the sermon quietly skip the hard parts?
+- **Fallen Condition Focus** (Chapell): Has the preacher identified the specific aspect of the human fallen condition — sin, misbelief, suffering, ignorance, incompleteness — that this text was written to address? Is that condition named concretely, or left abstract? The FCF is the bridge between exposition and application — it answers "Why does this text exist?" and "What hole must the grace of God fill here?"
+- **Exegetical transparency**: Can the hearer see *how* the preacher arrived at the meaning — enough to trust the conclusion without requiring a seminary education? Conversely, was exegetical detail presented that serves the preacher's knowledge more than the congregation's understanding?
 
 ---
 
@@ -161,7 +165,19 @@ A sermon is not good merely because it is accurate. It must also search the cons
 |---|---|---|
 | Heart Penetration | 5 | Does this expose the heart? Convicts, comforts, confronts — reaches the affections, not just the intellect |
 | Specificity | 5 | Not vague ("trust God more") — but concrete, grounded in the congregation's actual lives |
-| Spiritual Differentiation | 5 | Distinguishes hearers: the weary saint, the self-righteous, the unbeliever, the backslider. Does it comfort the weak? Warn the hardened? Drive the hearer to Christ? |
+| Spiritual Differentiation | 5 | Distinguishes hearers using Perkins' taxonomy (see below). Does it comfort the weak? Warn the hardened? Drive the hearer to Christ? |
+
+*Perkins' Seven Categories of Hearers (diagnostic lens):*
+William Perkins' *Art of Prophesying* identifies seven categories the preacher must address distinctly. Not every sermon will address all seven — but the rubric should ask how many are reached:
+1. The **ignorant and unteachable** — hardened, resistant
+2. The **ignorant but teachable** — willing, uninstructed
+3. The **knowledgeable but unhumbled** — know the truth, unmoved by it
+4. The **humbled** — convicted but not yet believing
+5. The **believers** — genuinely converted, growing
+6. The **backsliders** — fallen from prior faithfulness
+7. The **mixed congregation** — all of the above in one room
+
+The question is not just "Did the sermon distinguish hearers?" but "How many categories did the preacher actually address — and were they addressed with appropriate specificity?"
 
 *Diagnostic Questions:*
 - Did this sermon press on the conscience — or just inform the mind?
@@ -169,6 +185,7 @@ A sermon is not good merely because it is accurate. It must also search the cons
 - Would the application land in *this* congregation specifically — the politically confident, the comfortable, the grieving?
 - Is there a moment where a particular sinner is cornered by the text?
 - Does it move from doctrine to specific *uses*?
+- How many of Perkins' seven categories of hearers are addressed? Is the sermon stuck on the believer/unbeliever binary, or does it reach the backslider, the humbled-but-not-yet-believing, the knowledgeable-but-unmoved?
 
 ---
 
@@ -206,6 +223,8 @@ Bad structure kills good theology. If the congregation can't follow it, the theo
 - Can you summarize this sermon in one sentence?
 - Did each section clearly connect to the next?
 - Is there a section that could be removed without loss? If so, it should be removed.
+- Does the introduction establish the text's stakes within the first 90 seconds — or does it meander before arriving at the point?
+- Does the conclusion land on one clear note connected to the main idea — or trail off, add new material, or end three times?
 
 ---
 
@@ -240,6 +259,7 @@ Low weight, high impact. Illustrations aren't decoration — they're how truth l
 - Does this read like an essay or a sermon?
 - Is there a moment where the manuscript *roars*? Does it earn that moment?
 - Could a quiet, faithful man preach this with authority? Could a passionate man preach this with fire? If yes to both, the sermonic force is right.
+- **Tone-text congruence**: Does the emotional register of the sermon match the emotional register of the text? A sermon on Romans 8:1 should not sound funereal. A sermon on Hebrews 10:31 should not sound chipper. If the text thunders, does the sermon? If the text weeps, does the sermon?
 
 *Operationalized Indicators:*
 - Ratio of Scripture-grounded assertions to general statements
