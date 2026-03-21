@@ -22,6 +22,8 @@ Read with me in chapter 12, verse 1:
 > Now the LORD said to Abram, "Go from your country and your kindred and your father's house to the land that I will show you. And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed."
 > — Genesis 12:1-3 (ESV)
 
+Notice the very first word: *Go.* Before there is a single promise, there is a demand. Leave your country. Leave your kindred. Leave your father's house. God does not send the blessings to Haran — he calls Abram out. Death to homeland and family comes before inheritance. That cross-shaped pattern is not an accident. It is the shape of the whole gospel. Lose your life and you find it. Die to what you built and receive what God has promised.
+
 So right away I notice a few things. For one, Abram is going to be blessed with a land, with lots of descendants, with a God-enhanced reputation. Not only that, but others would be blessed as well. Anyone who blesses him will be blessed, and anyone who curses him shall be cursed. In fact all the families of the earth shall be blessed.
 
 Keep that last one in mind. We're going to work through all four of these tonight, but that fourth one — *in you all the families of the earth shall be blessed* — that's the hinge. Everything else in this passage is moving toward it.
@@ -46,13 +48,11 @@ But praise God that God doesn't do that. When you're sitting home comfy on the c
 
 ### God's Timing
 
-I know someone that had a financial situation here recently. They had to come up with a few hundred dollars to pay a fee to the county, and they were given a deadline. Leading up to that deadline, jobs were lost, money became tight, and I imagine there were days where they wondered if they were going to have enough food to get through the week. They prayed and prayed and prayed about having the money to take care of this fee, and the money didn't come. Punishments were handed out and fees raised, and only then did God see fit to meet the need. He could have met this need when it was only a hundred dollars, but he chose not to, and waited till it was an amount almost ten times more to meet the need.
+God owns the cattle on a thousand hills. What he wants is your trust.
 
-You see, people — God owns the cattle on a thousand hills. A hundred dollars, a thousand dollars, a million dollars — it doesn't matter. Sell the cattle on one hill and it's all paid for. What God wants is your trust.
+Abram trusted God and went. As an old man with no children, he was told he'd have many descendants. He and Sarah have one son of promise — Isaac. He also has Ishmael by his wife's handmaiden. After Sarah's death he marries again and has more children still. But Isaac is the child of the covenant — the one God made him wait for until he was a hundred years old. God waited well past Abram's death to fill in all the rest of the details.
 
-Abram trusted God and smashed his father's idols. When God told Abram to go to a certain place, he trusted God and went. Now as an old man with no kids, he's told he's going to have many descendants. He lives to be 175, and he and Sarah have one son of promise — Isaac. He also has Ishmael by his wife's handmaiden. After Sarah's death he marries again and has more children still. But Isaac is the child of the covenant — the one God made him wait for. God kept him waiting until he was a hundred years old before that son arrived. They had a few kids each. God waited till well after Abram's death to fill in all the rest of the details.
-
-But today Israel is relatively big — millions and millions of people live there and are ethnic Jews. The thing is, though, folks — Abraham never lived to see that. He died thousands and thousands of years before there were ever even a million Jews.
+Abraham never lived to see it. He died thousands of years before there were ever a million Jews. Today millions of ethnic Jews trace their lineage to him. He trusted the word. That was enough.
 
 ---
 
@@ -60,13 +60,9 @@ But today Israel is relatively big — millions and millions of people live ther
 
 God doesn't cease his promises there though. He promises that any who bless Abraham will be blessed, and those who curse him will be cursed.
 
-This one took a little bit of study. Because while Abraham is the father of the nation of Israel and is still considered a patriarch to this day, this is a bit like George Washington receiving a promise from God. Does it apply to all of America by default, or just to President Washington?
+Paul draws out the practical force of this in Romans 15. He's writing about a financial collection the churches in Macedonia and Achaia had taken up for Jewish believers who were poor and struggling in Jerusalem. And even in that specific, practical context, he draws on a deeper principle. Romans 15:27 — *"For if the Gentiles have come to share in their spiritual blessings, they ought also to be of service to them in material blessings."* We have received spiritual blessing through this people. That creates an obligation we don't get to ignore.
 
-There are a couple of differences though. For one, the USA is not made up primarily of the children of Washington, whereas Israel are the descendants of Abraham. Secondly, Paul writes in Romans 15 about something very practical — a financial collection the churches in Macedonia and Achaia had taken up for Jewish believers who were poor and struggling in Jerusalem. And even in that specific, practical context, he draws on a deeper principle. Romans 15:27 — *"For if the Gentiles have come to share in their spiritual blessings, they ought also to be of service to them in material blessings."* The immediate occasion is that Jerusalem collection. But Paul's logic is plain: we have received spiritual blessing through this people, and that creates an obligation we don't get to ignore.
-
-This theme of blessing and protecting Israel runs across the whole Old Testament — including an interesting prophecy in Zechariah 12 about the last days — Jerusalem surrounded by all the nations, under siege. God says in verse 4 that he will strike the horses of those opposing nations with panic and blindness, and their riders with madness, while he himself keeps watch over Judah. The clans of Judah declare in that day: *"The inhabitants of Jerusalem have strength through the LORD of hosts, their God."* (Zechariah 12:5) It is not Jerusalem's walls that protect her. It is the LORD himself.
-
-Finally on this point, Ephesians 3:6 says Gentiles are fellow heirs to salvation and the gospel alongside the Jews — *"the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel."* We are in a sense grafted in through the gospel of Jesus Christ. Paul uses that exact image in Romans 11 — the olive tree, the natural branches, and we Gentiles as the wild branches grafted in, sustained by a root we did not grow. That is not our achievement. That is grace. We have talked before about how God adopted us — making us sons and daughters of the King of Kings and Lord of Lords.
+And that obligation points toward the larger thing the third promise is setting up. Ephesians 3:6 says Gentiles are fellow heirs to salvation and the gospel alongside the Jews — *"the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel."* We are grafted in through the gospel of Jesus Christ. Paul uses that exact image in Romans 11 — the olive tree, the natural branches, and we Gentiles as the wild branches grafted in, sustained by a root we did not grow. That is not our achievement. That is grace.
 
 ---
 
@@ -93,6 +89,8 @@ Sit with that for a moment. Isaiah doesn't say our worst is a polluted garment �
 
 Stay there a second. Don't move past it too fast. If you've spent your whole life being a decent person, this is for you. If you've spent your whole life knowing you're not — this is for you too. Every single person in this room, at their best, at their most put-together, still falls short. We are all Babel people. And Babel people have no claim on God. None. That's the bad news. But the bad news has to land before the good news means anything.
 
+Maybe your tower is approval — you have spent your whole life making sure everyone thinks well of you, and you are exhausted. Maybe it is financial security, and you have quietly made yourself the provider God is supposed to be. Maybe it is your own reputation as a decent person — you have never been in serious trouble, you pay your taxes, you show up — and you are privately certain that counts for something. Whatever it is — it is a tower. And God did not call Abram out of Babel so you could build yours inside the church.
+
 ---
 
 ### All the Families of the Earth
@@ -115,6 +113,8 @@ And so on. Jesus has already done the hardest parts. All we have to do — Roman
 It's not our merit. It's not our effort. It's Christ's finished work received through faith.
 
 And if you're already a believer tonight — that truth has a different edge for you. Being grafted in isn't just your origin story. Paul says in Galatians 3:29: *"And if you are Christ's, then you are Abraham's offspring, heirs according to promise."* You are in the covenant. The same God who by sheer grace reached into the wreckage of Babel and called one man is the same God who by sheer grace reached into your life and called you. You didn't earn this. You can't lose it. But you are not grafted in to sit still. Abram was called to be a blessing — not just to receive one. And so were you. Who are you discipling? Who in your neighborhood, your workplace, your family is still scattered — still building their tower, still chasing their own name — still waiting on the blessing that flows through the people of God? You might be the person God uses to reach them. Don't waste that.
+
+And if you've heard that and felt the weight of it — maybe you've felt it for years — and you've wondered whether the debt is too large, whether you've waited too long, whether someone like you can actually be received — that is exactly who this fourth promise is for. *In you all the families of the earth shall be blessed.* Every scattered Babel person. Including you.
 
 If you've never come to a point in your spiritual life where you've asked Jesus to pay the price for your sins, then I implore you — don't wait another day. We aren't promised tomorrow. We aren't promised our next breath.
 
@@ -172,6 +172,12 @@ None.
 **Thus Says the Lord — Evaluation: March 21, 2026**
 **Score: 64/105 — Concerning gaps. Significant targeted revision needed.**
 
+---
+
+**Thus Says the Lord — Surgical Repairs Applied: March 21, 2026**
+**Score after first revision pass: 72/105 — Solid but lacking. One more pass recommended.**
+**Score after surgical repairs: est. 76–77/105 — Approaching strong and faithful.**
+
 ### Surgical Fixes Applied
 
 1. **Christ-pointer added** (after four promises listed) — Signal inserted directing the congregation toward the fourth promise as the sermon's hinge: *"Keep that last one in mind... Everything else in this passage is moving toward it."*
@@ -192,6 +198,14 @@ None.
 ### New Scripture Added — Verified Against ESV
 
 - **Galatians 3:16** — Added in body: *"Now the promises were made to Abraham and to his offspring. It does not say, 'And to offsprings,' referring to many, but referring to one, 'And to your offspring,' who is Christ."* — ESV reads identically. ✅
+
+### Surgical Repairs — Round 2 (March 21, 2026)
+
+1. **Genesis 12:1 "Go" observation added** — Cross-shaped demand before the promises planted immediately after the verse reading. Sets up the Christology earlier and gives the grafting image a richer root.
+2. **"God's Timing" section compressed** — Financial illustration removed. Pastoral point (God's timing, trust) retained in three sentences. Sermon reaches the gospel faster.
+3. **"Bless Those Who Bless You" narrowed** — George Washington analogy and Zechariah 12 paragraph removed. Romans 15:27 and Ephesians 3:6 retained. Section now serves the main thrust rather than competing with it.
+4. **Specific sins named in law-landing** — Tower of approval, financial security, reputation as a decent person. Congregation cornered, not just informed.
+5. **Perkins category 4 addressed** — The humbled-but-not-yet-believing now addressed explicitly before the closing invitation: "Maybe you've felt it for years... that is exactly who this fourth promise is for."
 
 ### Voice Audit
 - **Authenticity Risk: LOW** — Raw preached material; no AI in original draft
