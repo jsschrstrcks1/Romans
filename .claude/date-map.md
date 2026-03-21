@@ -107,6 +107,7 @@ Tracks the preaching date for every sermon in the Romans series and beyond. Roma
 | Romans 1:1-2 (Psalm 22) | Prophecy and the Credentials of Christ | `Romans 1 - Psalm 22 (Prophecy raw draft).md` | raw draft | 8 flags → mostly resolved; fulfillment citations need ESV check |
 | Sola Christus 2024 | — | `Sermon - Sola Christus 2024.md` | incomplete | ⬜ INCOMPLETE: ends at three roles of Christ; no gospel close |
 | Thankfulness | — | `Sermon - Thankfulness.md` | incomplete | ⬜ INCOMPLETE: cuts off mid-narrative |
+| Acts 13:48; Acts 16:14; Romans 5:8; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8; 1 Corinthians 2:14-16; 2 Corinthians 5:21; 2 Thessalonians 2:13; 2 Timothy 1:9; Philippians 1:6 | Out of the Cistern | `Sermon - Out of the Cistern.md` | BFM topical | BFM Article V (God's Purpose of Grace); actual preaching date unknown; audit completed March 20, 2026; companion audit at `Sermon - Out of the Cistern - Fact Check and Audit.md` |
 
 ---
 
@@ -124,5 +125,5 @@ Tracks the preaching date for every sermon in the Romans series and beyond. Roma
 - **Series duration**: 39 weeks
 - **Average pace**: 1 sermon per Sunday, sequential through Romans 1–16
 - **Non-series sermons dated**: 0
-- **Undated sermons tracked**: 22 (of ~296 total non-Romans sermons in corpus)
+- **Undated sermons tracked**: 23 (of ~296 total non-Romans sermons in corpus)
 - **Full inventory**: sermon-map.md contains all 296 non-Romans sermon entries

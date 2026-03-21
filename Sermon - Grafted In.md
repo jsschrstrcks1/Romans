@@ -1,6 +1,8 @@
 # Grafted In
 ## Genesis 12 — The Abrahamic Covenant
 
+**People Group of the Week:** Arab Bedouin of Iraq — ~167,000 in Iraq (~2.8M worldwide). Frontier: <0.1% Christian, <0.1% evangelical. Sunni Muslim. Nomadic herders of camels, sheep, goats, and cattle — living the same pastoral life Abraham lived, in the same land God called Abraham out of. Descendants of Abraham through Ishmael. They define themselves by tribe and family, follow a strict code of honor and hospitality — echoes of Abraham's tent at Mamre. Mohammed was Bedouin; Islam's first converts came from their ancestors. Many rely on charms and amulets, viewing Allah as distant. They need the God who is not distant — the God who called one man out of Ur and promised to bless every family on earth through his seed. Pray that the gospel would spread from family to family among the Bedouin, the way God intended it to — through the blessing of Abraham. *(Source: Joshua Project — joshuaproject.net/people_groups/10758/IZ)*
+
 ---
 
 We're going to be in Genesis chapter 12 tonight, if you've brought your Bible — and I hope you have.
