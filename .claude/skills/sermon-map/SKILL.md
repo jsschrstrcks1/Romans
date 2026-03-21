@@ -160,7 +160,7 @@ The full flag system — not just three symbols:
    - Type: raw draft / polished / transcript / sermon / bible study
    - Key themes (semicolon-separated list)
    - Illustrations used (named: Bannockburn, Corrie ten Boom, etc.)
-   - People group (if People Group of the Week is present)
+   - People group (**REQUIRED** — every sermon must have a People Group of the Week. If missing, flag: `⚠️ MISSING PEOPLE GROUP — source from Joshua Project before next preach`)
    - Verification flags (⚠️ for unverified claims, ✅ for verified)
    - Cross-references to other Scripture
    - Gospel presence (is there a gospel close?)

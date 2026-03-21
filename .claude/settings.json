@@ -18,7 +18,7 @@
         "hooks": [
           {
             "type": "prompt",
-            "prompt": "CAREFUL NOT CLEVER VERIFICATION\n\nFile modified: $TOOL_INPUT\n\nBefore proceeding, verify:\n1. Are ALL Scripture references verified ESV text (not memory)?\n2. Are ALL attributed quotes verified real and correctly sourced?\n3. Are ALL factual claims (people group stats, historical dates, etc.) verified?\n4. Does this serve the text, or is it clever shortcuts?\n\nIf ANY Scripture, quote, or factual claim was added without explicit verification, respond {\"decision\": \"block\", \"reason\": \"Unverified content: [specify what needs checking]\"}\n\nIf all content was verified OR the edit contains no Scripture/quotes/facts, respond {\"decision\": \"approve\"}"
+            "prompt": "CAREFUL NOT CLEVER VERIFICATION\n\nFile modified: $TOOL_INPUT\n\nCheck whether this edit adds Scripture references, attributed quotes, or factual claims (people group stats, historical dates, etc.).\n\nIf YES and any are unverified, respond: {\"hookSpecificOutput\": {\"hookEventName\": \"PostToolUse\", \"additionalContext\": \"⚠️ Careful-not-clever: [specify what needs verification]\"}}\n\nIf all content is verified OR the edit contains no Scripture/quotes/facts, respond: {\"hookSpecificOutput\": {\"hookEventName\": \"PostToolUse\", \"additionalContext\": \"✅ No verification issues.\"}}\n\nDo NOT use the decision field. Do NOT block. Always allow continuation."
           }
         ]
       }
