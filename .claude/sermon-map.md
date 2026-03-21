@@ -671,7 +671,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | 2 Timothy 1 | Faithfulness under betrayal; fanning the gift; guarding the deposit | `2 Tim 1.md` | sermon |
-| 2 Timothy 1:1-2 | Faithfulness under betrayal; fanning the gift; guarding the deposit; seminary acquaintance's social media post about smoking pot (conflict/fallout); Demas as cautionary type; Alaska train derailment illustration (parents' cruise, delayed by derailment); social media and politics as idols; C.T. Studd: "Only one life, 'twill soon be past, and only what's done for Christ will last"; student loan forgiveness as political example; Brett McCracken on church vs. 90 hrs/week of media; David Mathis on Christ abolishing death | `2 Tim 1.md` (raw dictation) / `2 Tim 1 - Pauls Final Letter.md` (Other-Sermons/Sermons/ — cleaned version with header metadata; same sermon, processed from `2 Tim 1.md`) | sermon |
+| 2 Timothy 1:1-2 | *(repaired draft)* Faithfulness under betrayal; v.1 "promise of the life that is in Christ Jesus" exposited; v.2 "Grace, mercy, and peace" exposited as Paul's final words from chains; Demas as cautionary type — "Some of you are Demas right now" direct address; Alaska train derailment illustration (trimmed); seminary acquaintance's social media conflict; social media and politics as idols — "Don't spoil your witness for the gospel with your politics"; antithetical parallelism: "Not a political manifesto. Not a defense brief. A father writing to his son"; David Mathis on Christ abolishing death (1:10); Brett McCracken on church vs. 90 hrs/week of media (TGC); C.T. Studd: "Only one life, 'twill soon be past, only what's done for Christ will last" ✅; student loan forgiveness as political example; explicit gospel close: sin, wrath, cross, resurrection, repentance, faith — ties back to v.1 and v.2; thus-says-the-lord: 61→73/105 post-repair; fatal flaw (gospel absent) resolved | `2 Tim 1.md` (raw dictation) / `2 Tim 1 - Pauls Final Letter.md` (Other-Sermons/Sermons/ — repaired version; same sermon) | sermon |
 | 2 Timothy 1 | Archive draft of "Be a Seawall" (seawall metaphor, Marxism/Pol Pot/Stalin, Khmer Rouge, Channel Tunnel illustration — London to Paris under the English Channel as a long dark tunnel — gospel as the light showing which way leads to freedom; elephant/donkey politics as rubbish; Malachi: "I do not change, therefore you are not destroyed"); filename is a mislabel — it is NOT a 1 Timothy sermon | `1 tim 1 vs 3.md` | sermon (archive draft) |
 | 2 Timothy 2:1-7 | Four analogies of the Christian life: teacher, soldier, athlete, farmer; MacArthur's hulk-in-river illustration (what machines of man can't do, tides accomplish — so it is with God's Spirit); entrust to faithful men; share in suffering | `Sermon - Teacher Soldier Athlete Farmer.md` | sermon |
 | 2 Timothy 3:1-5 | Heathens gonna heath; lovers of self; lovers of money; appearance of godliness; Peter vs. Judas; gospel | `2 Tim 3 - heathens gonna heath.txt` | sermon |
@@ -1039,6 +1039,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Genesis 22-23 - The Testing Ground (raw draft).md` — Genesis 22:1–23:20 — James 2:21 vs. Romans 4 / Genesis 15:6 tension resolved: Genesis 15 is the ground (faith credited as righteousness); Genesis 22 is the proof (works demonstrate real faith); Paul and James are not in conflict — same man, same faith, decades apart; Gal 3:16 "seed" = Christ; Gal 3:8 "gospel preached to Abraham" (✓)
 - `2 cor 5.md` — 2 Corinthians 5:16-6:3 — New creation
 - `John 14 - exclusivity of the gospel..md` — John 14:1-16 — Christ as the only way
+- `2 Tim 1 - Pauls Final Letter.md` — 2 Timothy 1:1-2 — Gospel close: sin against holy God, wages of death, penal substitution, burial, resurrection, repentance, faith in Christ alone; ties back to v.1 "promise of the life that is in Christ Jesus" and v.2 "grace, mercy, and peace"
 
 ### Grace / Mercy / Unmerited Favor
 - `Sermon - Bless the Lord O My Soul.md` — Psalm 103 — Forgiveness of sins as God's first benefit; David's sins (Bathsheba/Uriah) and God's mercy; billion-dollar debt paid; undeserved *hesed*; Romans 6:23; Ephesians 2:4-5; 1 Peter 3:18
@@ -1051,6 +1052,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `sola gracia phil 3.md` — Philippians 3:1-12 — Grace alone; Paul's résumé as refuse; total depravity
 - `Eph 2 - but God.txt` — Ephesians 2 — "But God, being rich in mercy"; alive together with Christ; undeserved grace
 - `Romans 2 mt 23 col 3 eph 2.md` — Romans 2:1-11; Eph 2:4-10 — "But God" pivot: the perfumed corpse doesn't need more perfume — God resurrects it; Eph 2:4-10 full text; "by grace you have been saved"; grace as resurrection not renovation
+- `2 Tim 1 - Pauls Final Letter.md` — 2 Timothy 1:1-2 — v.2 "Grace, mercy, and peace" exposited as Paul's final words from chains; grace and mercy as Paul's dying emphasis to Timothy
 
 ### Hell / Judgment / Wrath
 - `Psalm 2 (raw draft).md` — Psalm 2:1-12 — God's wrath against the nations; God laughs at futile rebellion; Edwards "Sinners in the Hands" (two extended quotes); ant/shoe illustration — "unlike the ant that finds solace in death, Hell is forever"
@@ -1060,6 +1062,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Romans 1 (2024).md` — Romans 1:18+ — Wrath revealed
 - `Psalms 75.md` — Psalm 75 / 1 Peter 1:13+ — God's judgment
 - `Sermon - Live Like You're Leaving.md` — 1 Peter 3:8-18 — Hell is a reality; free will damaged by sin; those who reject God choose hell
+- `2 Tim 1 - Pauls Final Letter.md` — 2 Timothy 1:1-2 — David Mathis on Christ abolishing death (1:10); "O death, where is your victory?" (1 Cor 15:55); gospel close: sin, wrath, cross, resurrection, repentance, faith
 - `Galatians 3 - Law Faith and Adoption.md` — Galatians 3:23–29 — "The only thing we truly deserve for our actions is hell"; wages of sin is death; eternal separation from God
 - `Sermon - What Survives the Fire.md` — 1 Cor 3:10-15 — Judgment of believers' works by fire; bema seat distinct from Great White Throne
 - `Romans 2 mt 23 col 3 eph 2.md` — Romans 2:1-11 — "Do you suppose… that you will escape the judgment of God?"; storing up wrath; God's kindness meant to lead to repentance; Edwards "Sinners in the Hands of an Angry God"; Heb 10:31; Mt 23:33 "how are you to escape being sentenced to hell?"; God's justice more severe and more fitting than any human punishment; Mt 18:6 millstone
@@ -1092,6 +1095,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:3-9 — Living hope through resurrection; imperishable inheritance; eternity contrasted with Buddhism (sermon lines 81-85)
 - `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — Guarding the deposit; perseverance under increasing hostility; fanning the gift into flame (sermon lines 6-27)
 - `Sermon - What Survives the Fire.md` — 1 Cor 3:10-15 — Polycarp's martyrdom: "the fire lasts but a little while" (sermon lines 66-70)
+- `2 Tim 1 - Pauls Final Letter.md` — 2 Timothy 1:1-2 — Paul writing from chains; v.1 "promise of the life that is in Christ Jesus" as anchor; Christ abolishing death (1:10); "O death, where is your victory?" (1 Cor 15:55)
 
 ### Hypocrisy / Self-Righteousness
 - `Romans 2 mt 23 col 3 eph 2.md` — Romans 2:1-11; Mt 23:27-33 — Dirty cup illustration (clean outside, rotten inside); dead cat perfumed corpse; whitewashed tombs; Sunday/Monday anaphora; rabbis imposing rules they won't follow; religion without relationship; ⚠️ Barnabas Piper quotes unverified
@@ -1109,6 +1113,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sermon - Be a Seawall.md` — 2 Timothy 1:3-14 — Every political ideology (elephant or donkey) put ahead of God leads to the same Godless place (sermon line 55)
 - `Sermon - A Theology of Weakness.md` — 2 Corinthians 12:7-10 — The American idol of happiness; Declaration of Independence as paradigm lens; comfort/security/happiness as false worship; brokenness as God's appointed medicine when happiness is the idol
 - `Romans 2 mt 23 col 3 eph 2.md` — Romans 2:1-11; Col 3:5-6 — Modern idolatry: comfort, security, pleasure elevated above God; politics as functional religion; ⚠️ Barnabas Piper on Christian political homelessness (unverified quotes); "Would it be easier for them to know your politics? Or know your Savior?"; Col 3:5 covetousness = idolatry
+- `2 Tim 1 - Pauls Final Letter.md` — 2 Timothy 1:1-2 — Politics as idol: "Don't spoil your witness for the gospel with your politics"; student loan forgiveness as case study; "I started looking into Christianity, but those people are more about Trump than Jesus"; social media as cesspool; antithetical parallelism: not a manifesto, not a defense brief — a father writing to his son; Brett McCracken on 90 hrs/week of media vs. 2 hrs of church
 
 ### Identity in Christ / Exile
 - `Sermon - Wear the Jersey.md` — 1 Peter 1:1-9 — Team name "elect exiles"; wearing the jersey = living consistent with identity; refusing the jersey = refusing to identify with Christ; North Korea analogy for exile; citizenship in heaven (lines 11-19, 64-68)
