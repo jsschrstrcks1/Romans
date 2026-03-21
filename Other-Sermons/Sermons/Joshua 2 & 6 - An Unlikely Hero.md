@@ -24,3 +24,199 @@ Maybe you are here tonight, and you can identify with Rahab. You've had a tough 
 
 Maybe you're more like Joshua and you feel like God has asked you to do something. Maybe to share the gospel with someone? But you're not quite sure how. Come talk to me. I'd love to help you be able to do that.
 The main thing though is that you have a relationship with Christ. That is where it all starts. We serve a big God, a good God, a loving, and gracious God who is also fully just. Vs 17 says Jericho was devoted to the Lord for destruction.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date**: 2026-03-21
+**Sermon**: Joshua 2 & 6 — An Unlikely Hero
+**Primary Text**: Joshua 2 and Joshua 6
+
+---
+
+### 1. Verdict Title
+
+**Warm Pastoral Enthusiasm Without Expositional Foundation**
+
+---
+
+### 2. One-Sentence Summary
+
+A warmly told narrative about Rahab and Jericho that generates genuine affection for the text but substitutes personal commentary and historical color for actual exposition of what the passage argues.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test**: MARGINAL PASS. A thesis can be identified — unlikely people can be used by God and saved through faith — and it does arise from the text. However, the sermon never clearly states that thesis, and the "main point" drifts between Rahab's biography, the fall of Jericho, and general encouragements about faith in hard times. The sermon passes the gate loosely.
+
+**Authority Test**: MARGINAL PASS. The preacher does not overtly soften God's wrath or edit the text, but major portions of the passage (the scarlet cord as typology of the blood of Christ, the concept of *herem*/devoted destruction, the covenant structure of Joshua's arrangement with Rahab) are bypassed in favor of biographical commentary.
+
+**Berean Gate**: PASS (loose) — the sermon is text-adjacent rather than text-driven.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 2 — Main point does not fully equal text's point**: The passage's theological argument — that God sovereignly grafted an unclean pagan woman into covenant through faith, foreshadowing the inclusion of Gentiles under the blood — is never reached. The sermon uses the passage as background for personal anecdote and general encouragement.
+
+**Flag 3 — Christ is absent or unnecessary**: The Christ-connection to Rahab's lineage is mentioned as genealogical trivia ("her most notable offspring — Jesus") rather than as gospel proclamation. The scarlet cord — almost universally recognized by Reformed and Baptist exegetes as a type of the atoning blood — is never connected to the cross. The sermon could survive intact without a christological center. Christ is a punchline in a genealogy, not the Savior who this story is built to point toward.
+
+**Flag 4 — Application is generic**: "When things are rough, look to Jesus" and "It is our faith that gets us through those hard times" are generically encouraging but not derived from the specific argument of the text. The application could fit any passage in the Bible.
+
+**Score capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 12/25**
+
+- *Textual Fidelity (10)*: 5/10. The preacher reads the story and recounts it, but never exegetes it. The argument of Joshua 2 — that Rahab's *hesed* (her loyalty and protection of the spies) mirrors the covenant loyalty of Yahweh, and that the scarlet cord is the signal of covenant protection through blood — is entirely absent. The sermon is narrative retelling, not exposition.
+- *Contextual Awareness (5)*: 3/5. The preacher situates Rahab in Israel's history and connects her to Joshua's campaign. No treatment of the typological and redemptive-historical location of the Rahab account within the broader conquest narrative, or of how this text sits in relationship to the Abrahamic promise.
+- *Exegetical Clarity (5)*: 2/5. Josephus is cited for background color. Speculation about Rahab's age, name etymology, and the Inn's architecture dominates the exegetical space that should be occupied by the text's own argument.
+- *Logical Faithfulness (5)*: 2/5. The section on Jericho's walls (wall dimensions, Roman parallels, Cincinnati houses) is loosely apologetic but not exegetically driven. Eisegesis creeps in through the genealogical trivia framing.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 10/18**
+
+- *Christ-Centeredness (7)*: 3/7. Christ appears as the endpoint of Rahab's lineage, not as the object of saving faith or the fulfillment that her scarlet cord typified. The connection is genealogical, not theological.
+- *Redemptive-Historical Awareness (3)*: 1/3. No placement of this text in the redemptive-historical storyline. The Abrahamic covenant, the promise of land, the inclusion of Gentiles through faith — none of this is articulated.
+- *Doctrinal Precision (4)*: 3/4. The preacher's treatment of divine wrath, hell, and the justice of God is unexpectedly earnest and correct, though brief. The statement "Hell is a kindness to those who don't believe" from a theology professor is presented without scrutiny — it is at minimum a problematic framing of hell as pastoral accommodation rather than divine justice.
+- *Confessional Alignment (4)*: 3/4. No direct contradiction of confessional theology; the sermon simply does not engage covenantal categories that the text naturally surfaces.
+
+**3. Gospel Centrality & Force (15 pts) — 6/15**
+
+- *Clarity of the Gospel (5)*: 2/5. The invitation at the close mentions "accepting Jesus as your Lord and savior" but never explains what Christ did, why his death was necessary, or what faith actually involves. The gospel is gestured at, not preached.
+- *Necessity of Christ (5)*: 2/5. The sermon demonstrates Christ is part of the genealogy. It does not demonstrate that Christ is the only hope for sinners before a just God.
+- *Cross-Centered Gravity (5)*: 2/5. No cross. No substitution. No blood. The scarlet cord — a typological gift from the text itself — is left untouched.
+
+**4. Conscience & Applicatory Force (15 pts) — 7/15**
+
+- *Heart Penetration (5)*: 3/5. The opening about Rahab's hard life does reach toward the hearer's experience. The David Platt quote about suffering is genuinely moving. The Peter/walking-on-water illustration is warm and relatable.
+- *Specificity (5)*: 2/5. Applications are generic: "When things are rough, look to Jesus." No specific addressing of the congregation's actual conditions.
+- *Spiritual Differentiation (5)*: 2/5. The closing invitation distinguishes two types of hearers (those who identify with Rahab; those who identify with Joshua) but this is superficial. Perkins' categories are not engaged. The humbled-but-not-yet-believing, the backslider, the religiously confident are not addressed.
+
+**5. Exhortation & Response (8 pts) — 4/8**
+
+- *Call to Response (4)*: 2/4. An altar call is present, but it is vague: "Come talk to me" is not a clear summons to repentance and faith.
+- *Equipping for Holiness & Witness (4)*: 2/4. The Joshua application (sharing the gospel, not being sure how) is a gesture toward witness, but it is incomplete and underdeveloped.
+
+**6. Structure & Logical Flow (9 pts) — 4/9**
+
+- *Clarity of Outline (4)*: 2/4. The sermon moves from Rahab's biography → Jericho's walls → general encouragement → brief gospel invitation. This is a narrative sequence, not a logical argument. The section headings ("An Unlikely Hero," "An Unlikely Victory") are not used to build a unified case.
+- *Progression (3)*: 1/3. The sermon does not build toward a conclusion. It wanders through historical commentary and the final paragraph appears twice (the "main thing" paragraph is literally duplicated at the end of the manuscript).
+- *Unity (2)*: 1/2. Two competing centers of gravity — Rahab's faith and the fall of Jericho — compete for dominance without being unified under a single governing thesis.
+
+**7. Illustration & Imagination (5 pts) — 3/5**
+
+- *Relevance (2)*: 2/2. Roman walls, Cincinnati row houses, European forts — these are drawn from real experience and land.
+- *Clarity (2)*: 1/2. The Peter-on-water illustration is warmly applied but theologically soft. The wall illustrations compete for space with exegesis rather than illuminating it.
+- *Memorability (1)*: 0/1. No single image is sharp enough to carry home.
+
+**8. Sermonic Force (5 pts) — 3/5**
+
+- *Reads as Preaching (2)*: 2/2. Oral voice is clear throughout. The preacher speaks directly to the congregation.
+- *Conviction on the Page (2)*: 1/2. Conviction warms up around hell and wrath, then subsides. The David Platt quote briefly ignites genuine force.
+- *Cadence and Breath (1)*: 0/1. No climactic compression. The duplicated final paragraph undercuts what force existed.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**0**. The sermon is accessible. It does not overload the congregation — if anything, it underloads them theologically. No penalty applied.
+
+---
+
+### 7. Total Score
+
+| Category | Raw | Cap |
+|---|---|---|
+| Exposition & Hermeneutics | 12/25 | — |
+| Theology & Doctrinal Integrity | 10/18 | — |
+| Gospel Centrality & Force | 6/15 | — |
+| Conscience & Applicatory Force | 7/15 | — |
+| Exhortation & Response | 4/8 | — |
+| Structure & Logical Flow | 4/9 | — |
+| Illustration & Imagination | 3/5 | — |
+| Sermonic Force | 3/5 | — |
+| **Subtotal** | **49/100** | → |
+| Weight of Glory Bonus | +1 | — |
+| Cognitive Load Modifier | 0 | — |
+| **Raw Total** | **50** | — |
+| **Fatal Flaw Cap** | — | **50/69** |
+
+**Final Score: 50/69 (capped — fatal flaw flags active)**
+
+**Interpretation: Fundamentally Flawed** — The sermon does not reach even the "Concerning Gaps" threshold in its present form. The fatal flags are structural, not cosmetic.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ or myself?* — Primarily of Rahab and Jericho. Christ is genealogically noted but not exalted.
+2. *Did I encounter God, or just ideas about Him?* — Ideas about Him, filtered through historical commentary.
+3. *Was I comforted, convicted, or merely informed?* — Mildly comforted. Not convicted.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Genuine pastoral warmth toward Rahab**: The preacher's compassion for a girl dealt a rough hand is authentic and will reach hurting hearers. The framing of Rahab as genuinely faithful despite her circumstances is emotionally honest.
+2. **Serious treatment of divine wrath and hell**: The paragraph on the absence of God in hell and the comparison to what we deserve is unexpectedly sober and theologically earnest for a sermon that lacks expositional rigor elsewhere.
+3. **Accessible, spoken voice**: The sermon reads as a real preacher speaking to real people. There is no pretense. The congregation can follow it.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The scarlet cord is abandoned**: The central typological gift of the passage — Rahab's scarlet cord as blood-covenant protection — is mentioned only in passing ("she hung a red cord outside of her window") and never connected to the blood of Christ. This is the text's own built-in cross, and the sermon walks past it entirely.
+2. **Christ is decorative, not necessary**: "Her most notable offspring — Jesus" treats the Lord of glory as a genealogical footnote. The sermon can be understood, applied, and responded to without Christ being at its center. This is not a minor editorial problem; it is a structural failure.
+3. **Duplicate closing paragraph and incoherent structure**: The final paragraph ("The main thing though is that you have a relationship with Christ...") appears verbatim twice, indicating the sermon was not finished or proofread. The structure is narrative sequence, not logical argument, and the two titular sections ("Unlikely Hero" / "Unlikely Victory") do not serve a unified thesis.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how much sermonic real estate is consumed by apologetic and historical color (wall dimensions, Josephus, archaeology, Cincinnati houses, Roman walls) that illuminates nothing the text itself needs illuminated. The congregation already believes the walls fell; the architectural detail does not increase faith or advance the argument. Meanwhile, the text's richest material — the scarlet cord, Rahab's confession of faith in 2:9-11, the covenantal structure of the arrangement — receives no treatment at all.
+
+---
+
+### 12. Illusion of Strength
+
+The genealogical connection (Rahab → Boaz → Jesse → David → Jesus) feels like a gospel move. It is not. Naming Jesus at the end of a genealogy is different from proclaiming the gospel. The congregation may leave feeling the sermon was Christ-centered because his name appeared — but he was never preached. The historical detail about walls and archaeology creates an impression of rigor, but it substitutes for exegesis rather than supporting it.
+
+---
+
+### 13. Missed Opportunity
+
+Joshua 2:9-11 is Rahab's confession of faith — arguably one of the most remarkable statements of saving faith from a pagan in the entire Old Testament: "I know that the LORD has given you the land... the LORD your God, he is God in the heavens above and on the earth beneath." This is not background texture. This is the sermon. The scarlet cord of Joshua 2:18 is a type of the blood of Christ so recognized across the Patristic writers, the Reformers, and Baptist commentators that bypassing it represents a missed exposition of the greatest theological depth the passage contains.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Rebuild the main point from Joshua 2:9-11**: Rahab's confession is the theological center of the passage. The sermon's thesis should be: "God saves sinners by grace through faith — even the most unlikely, even the most defiled — and always through blood." State this explicitly in the introduction.
+2. **Preach the scarlet cord**: After establishing Rahab's faith, develop the scarlet cord as a covenant sign of blood-protection. Then explicitly cross to the blood of Christ: "There is only one cord that protects anyone from the judgment of God — and Rahab's cord was pointing to it." This is the natural, organic christological move the text invites.
+3. **Remove or drastically reduce the wall archaeology**: The dimensions of Jericho's walls serve the sermon's credibility but not its argument. One sentence is sufficient. Redirect that space to the theological argument.
+4. **Remove the duplicated closing paragraph**: The repetition signals an unfinished draft. Clean the ending before preaching again.
+5. **Replace the generic application with targeted conscience work**: "When things are rough, look to Jesus" must be replaced with specificity. Who in the room has been pressed into a life they didn't choose? Address them directly from Rahab's confession: "The God of heaven and earth sees you where you are. Your history does not disqualify you."
+6. **Clarify the gospel in the invitation**: "Come talk to me" is not a proclamation. State from the pulpit: Christ bore the wrath that Jericho faced. The scarlet cord hung in Rahab's window because blood was the only thing standing between her and destruction — and that is still true for every person in this room tonight.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+Not triggered. The issue here is not cold orthodoxy but incomplete proclamation — the theology is not wrong so much as it is absent.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries genuine warmth and pastoral love for the text's main character, but it does not yet carry the weight of the text's main subject — the sovereign grace of God that reaches the most unlikely sinners through blood.
+
+---
+
+### 17. Rubric Fit Note
+
+This is an Old Testament narrative passage — the rubric's category for Redemptive-Historical Awareness is particularly important here and the sermon's failure to engage it is proportionally more costly than it would be in a New Testament epistle. The typological freight of the scarlet cord is not an optional Reformed gloss; it is what the New Testament writers themselves invite when they place Rahab in the hall of faith (Heb. 11:31) and the genealogy of Christ (Matt. 1:5). The rubric fits the passage well; the passage simply demands more than this sermon delivers.
