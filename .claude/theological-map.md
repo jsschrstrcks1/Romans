@@ -298,8 +298,14 @@ The Spirit effects the new birth. Regeneration precedes faith. **Explicit. Tradi
 
 Not a second experience. Not progressive. Complete at conversion. **Explicit. Tradition: Baptist, Reformed (contra second-blessing Pentecostalism).**
 
+#### OT/NT Spirit Distinction — Temporary *Upon* vs. Permanent *Within*
+> "In the Old Testament the Spirit would come upon a prophet or king for a specific task and then lift. It was selective, temporary, extraordinary. We have something greater: every believer receives the Holy Spirit as a permanent, indwelling presence — the New Covenant gift that Ezekiel 36 promised and Pentecost delivered."
+> — `Sermon - Clowns Entertaining the Goats.md`
+
+OT Spirit rested *upon* individuals for specific tasks (prophets, kings — Elijah, Elisha, Samson, David). New Covenant Spirit dwells *within* every believer permanently (Ezek. 36:26-27; John 7:39; Matt. 11:11; 1 Pet. 1:10-12). Pentecost is the transition point. This is the basis of Jesus's statement that the least in the kingdom is greater than John the Baptist — not in character, but in covenant privilege. **Explicit. Tradition: Reformed Baptist.**
+
 #### Permanent Indwelling
-> "Unlike those two [Elijah/Elisha], it never leaves us once we are saved."
+> "Every believer receives the Holy Spirit as a permanent, indwelling presence — the New Covenant gift that Ezekiel 36 promised and Pentecost delivered. He never leaves us once we are saved."
 > — `Sermon - Clowns Entertaining the Goats.md`
 
 **Explicit. Tradition: Baptist, Reformed (eternal security).**

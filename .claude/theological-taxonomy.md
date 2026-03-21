@@ -87,12 +87,13 @@
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
 | Regeneration (Spirit's Work) | Very Strong | `Ezekiel 36.md`, `Romans 8.md`, `Bible Study - The Thief Who Saw a King.md`, `Sermon - Out of the Cistern.md` | Reformed |
-| Indwelling / Sealing | Strong | `Romans 8.md`, `Ephesians 1.md` | Reformed Baptist |
+| Indwelling / Sealing | Very Strong | `Romans 8.md`, `Ephesians 1.md`, `Sermon - Clowns Entertaining the Goats.md` | Reformed Baptist |
+| OT/NT Spirit Distinction (*Upon* → *Within*) | Strong | `Sermon - Clowns Entertaining the Goats.md` | Reformed Baptist |
 | Illumination of Scripture | Moderate | `sola scriptura.md` | Reformed |
 | Conviction of Sin | Strong | `Romans 2.md`, `Ezekiel 36.md` | Reformed |
 | Sanctification (Spirit-Wrought) | Strong | `Romans 6.md`, `Romans 8.md` | Reformed |
 | Spiritual Gifts (Non-Charismatic) | Moderate | `1 Corinthians 12*.md`, `Romans 12.md` | Cessationist-leaning Baptist |
-| Cessationism (Implicit) | Light | Corpus-wide silence on continuationism | Baptist |
+| Cessationism (Soft) | Moderate | `Sermon - Clowns Entertaining the Goats.md` | Baptist |
 
 ---
 

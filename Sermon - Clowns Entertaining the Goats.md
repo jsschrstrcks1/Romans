@@ -7,7 +7,7 @@
 
 ### People Group of the Week: Lampung Pesisir of Indonesia
 
-Pray for the Lampung Pesisir in Indonesia. They are a Sunni Muslim group with Sufi influence. They are a kind and generous people that make large donations to this Muslim cause or that one. They give and give and give, and as a result live a very simple life. They have a hard time accepting the good news because they just can't wrap their minds around the work of Jesus being sufficient for salvation. Who is willing to pray for the Lampung Pesisir in Indonesia?
+Pray for the Lampung Pesisir in Indonesia. They are a Sunni Muslim people (Shafi'i school). They are a kind and generous people that make large donations to this Muslim cause or that one. They give and give and give, and as a result live a very simple life. They have a hard time accepting the good news because they just can't wrap their minds around the work of Jesus being sufficient for salvation. Who is willing to pray for the Lampung Pesisir in Indonesia?
 
 ---
 
@@ -64,7 +64,7 @@ This is where the debate comes in. Some people tie that word to another passage 
 
 First, let's look at the word directly before it. *Other.* "Other" is an interesting word. In English it's pretty broad — Mr. Webster says "other" refers to a thing that is different or distinct from something already mentioned or known, or that it means additional. My grandmother used to love additional things. You'd go over and visit, and spend a couple hours, and as you were leaving she would say, "Oh, one more thing!" She had something *other* to talk to us about.
 
-If you look at the Greek word, you see something similar. Except *heteros* (ἕτερος) is in numerous places translated as "neighbor," as "stranger," as "man," as "the latest in a series" according to Strong's number 2087. If Luke had wanted to say the apostles were speaking an angelic prayer language, he had lots of words he could have used to do so. This word for "others" is a clue that Luke is speaking about earthly languages.
+If you look at the Greek word, you see something similar. Except *heteros* (ἕτερος) is in numerous places translated as "neighbor," as "stranger," as "another of the same kind" according to Strong's number 2087. If Luke had wanted to say the apostles were speaking an angelic prayer language, he had lots of words he could have used to do so. This word for "others" is a clue that Luke is speaking about earthly languages.
 
 Let's see what else we can find. The next thing worth noting is that Luke is speaking in plain language. He's not telling a parable. He's relaying a historical account. He's not telling a story to emphasize a point — he's being very literal. When the Bible is speaking literally, we should take it literally.
 
@@ -103,7 +103,7 @@ So who lives according to the flesh? Lost people, right? So lost people have the
 
 So if we're in the flesh, we're bound for hell, right? No other option. Because when we are in the flesh, we are hostile to God. We are wittingly or unwittingly working directly against God. The Greek word for hostile could also be translated as hatred. If our natural posture towards God is hatred, that has to be fixed before we can approach the throne of grace. God in the richness of his mercy does just that for us. It would be a challenge — wouldn't it, men — to go to someone you hate and ask them for a favor. Much less ask them to give up the life of their son for you. Scripture says the things of the Lord are foolishness to those that don't believe.
 
-At least until the moment of salvation — when the Holy Spirit shows up and seals everyone that's a believer. The moment you become a believer in Jesus Christ, God sends his Holy Spirit to dwell inside of you. In that moment, someone who's truly saved gets all of the Holy Spirit they will ever get. It's not like some cosmic gas tank where you can run out. We are all granted the same amount of the Holy Spirit that Elijah and Elisha had. But unlike those two, it never leaves us once we are saved. Remember Elijah and the prophets of Baal at Mt. Carmel (1 Kings 18)?
+At least until the moment of salvation — when the Holy Spirit shows up and seals everyone that's a believer. The moment you become a believer in Jesus Christ, God sends his Holy Spirit to dwell inside of you. In that moment, someone who's truly saved gets all of the Holy Spirit they will ever get. It's not like some cosmic gas tank where you can run out. Think of Elijah and Elisha — in the Old Testament the Spirit would come upon a prophet or king for a specific task and then lift. It was selective, temporary, extraordinary. We have something greater: every believer receives the Holy Spirit as a permanent, indwelling presence — the New Covenant gift that Ezekiel 36 promised and Pentecost delivered. He never leaves us once we are saved. That is why Jesus could say without contradiction that the least in the kingdom of heaven is greater than John the Baptist — not in character, but in covenant. You have what the prophets longed for (1 Pet. 1:10-12). Remember Elijah at Mt. Carmel — when the Spirit was on him, fire fell (1 Kings 18). That same Spirit lives in you.
 
 ---
 
@@ -184,6 +184,9 @@ Bentley says he's here to — and I quote — blow the "bum hole" out of the chu
 - "Around a half million people attended" — Fresh Fire Ministries self-reported 400,000+ cumulative attendance by June 30, 2008; event continued through October; no independent verification exists; preacher's round number is a reasonable approximation
 - Tongues debate "125 years" — Azusa Street Revival (1906) is the conventional starting point of the modern tongues movement; ~120 years as of preaching date, rounded
 
+**People group verified:**
+- Lampung Pesisir: Joshua Project and PeopleGroups.org classify as Sunni Shafi'i Muslim; no primary source supports Sufi affiliation or Sufi institutional influence; folk/animistic practices (grave veneration, protective symbols) are characteristic of syncretic folk Islam, not Sufism — "with Sufi influence" removed; replaced with "Sunni Muslim people (Shafi'i school)"
+
 **Corrections made:**
 - "Bently" → "Bentley" (spelling)
 - "150 years" → "125 years" (Azusa Street was 1906)
@@ -192,5 +195,8 @@ Bentley says he's here to — and I quote — blow the "bum hole" out of the chu
 - Augustine → Rupertus Meldenius attribution
 - Spurgeon → likely Archibald Brown attribution
 - Duplicated paragraphs removed (spiritual maturity section, self-examination)
+- ἕτερος lexical claim: "translated as man" removed (not supported by NASB/KJV/ESV); replaced with "another of the same kind" (Strong's G2087)
+- Lampung Pesisir: "with Sufi influence" removed (unverified by primary sources; Joshua Project, PeopleGroups.org list only Sunni Shafi'i)
+- Elijah/Elisha "same amount" theology corrected: OT Spirit was selective, temporary, task-specific ("upon"); NT believers receive permanent indwelling ("within") as New Covenant baseline — this is greater, not equal (John 7:39; Ezek. 36:26-27; Matt. 11:11; 2 Cor. 3); cross-references added: Ezek. 36, Matt. 11:11, 1 Pet. 1:10-12
 
 **Standing flags:** None remaining.
