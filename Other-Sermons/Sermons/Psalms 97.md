@@ -101,3 +101,185 @@ Or put more simply, Lord judge me, and burn away anything that doesn’t bring y
 Painful to pray, because our favorite sins might be ripped away from us. But. There is no better place for our sins than a fire, and what he replaces our sin with is far more beautiful, more valuable, and of more worth than anything we could lose. It’s a victory for us then, and it’s a prayer God loves to answer. 
 
 But all that starts with the gospel.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Passage:** Psalm 97
+**Evaluator:** Thus Says the Lord Rubric v1.0
+
+---
+
+### 1. Verdict Title
+
+**"God's Majesty Preached with Warmth, Gospel Again a Footnote"**
+
+---
+
+### 2. One-Sentence Summary
+
+A vivid and personally grounded sermon on God's fearsome sovereignty that moves competently through Psalm 97's theophanic imagery and the Elijah showdown, but follows the same structural pattern as the other psalms sermons — ending with the gospel referenced rather than proclaimed.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: Pass**
+The psalm's argument — God reigns in awesome majesty, his enemies are consumed, idols are put to shame, the righteous rejoice — governs the sermon. The Elijah/Baal confrontation is a genuinely illuminating illustrative parallel to v. 7's condemnation of idol worshippers. The sermon stays in orbit around the text.
+
+**Authority Test: Pass**
+The preacher submits to the text's hard edges — the consuming fire, the melting mountains, the shame of idol-worshippers. Nothing is softened.
+
+**Ruling:** Gate passes. The sermon's main point (God reigns in fearsome majesty; idols are worthless; the righteous should rejoice and submit to his purifying judgment) arises from Psalm 97.
+
+---
+
+### 4. Fatal Flaw Flags
+
+- **Flag 5 — Gospel is a reference, not a proclamation:** "But all that starts with the gospel." This is the third consecutive sermon in this batch to end with a gospel pointer rather than a gospel proclamation. The pattern is consistent and the repair need is identical.
+
+**Score cap: Not applied** — the flag is borderline (the sermon does exhort throughout). Warning registered.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 15/25**
+- *Textual Fidelity (10):* 7/10 — The sermon engages the psalm's specific images: clouds and thick darkness (v. 2), fire consuming adversaries (v. 3), lightning (v. 4), mountains melting like wax (v. 5), idols shamed (v. 7), daughters of Judah rejoicing (v. 8). This is the strongest textual engagement in the Psalms group so far.
+- *Contextual Awareness (5):* 3/5 — The connection to Moses / Exodus / pillar of fire is a genuine interpretive observation (v. 2 echoes Sinai theophanies). The Elijah/Baal parallel is handled well and is exegetically defensible given v. 7.
+- *Exegetical Clarity (5):* 3/5 — No word study, but the imagery is handled with genuine curiosity and explained accessibly. The lightning as symbol of judgment is observed and developed.
+- *Logical Faithfulness (5):* 2/5 — The Israelite wilderness wandering narrative (Moses/Exodus) takes up significant space and is illustrative rather than expositional. The Jeremy Camp song lyrics at the close are not from the text.
+- *FCF:* Named as idolatry and misplaced trust — anything put before God becomes a worthless idol. This is drawn organically from the psalm and named concretely (church attendance, the meme).
+
+**2. Theology & Doctrinal Integrity (18 pts) — 13/18**
+- *Christ-Centeredness (7):* 4/7 — No direct christological development. The sermon stays in the Old Testament frame. God's consuming judgment is the center, not Christ.
+- *Redemptive-Historical Awareness (3):* 2/3 — The Elijah/Baal connection is redemptive-historical. The Moses connection is organic. No movement toward the New Testament fulfillment of the psalm.
+- *Doctrinal Precision (4):* 4/4 — No errors. The section on God's sovereign ability to override free will (Pharaoh's hardened heart, prayer for the lost) is handled with careful nuance — acknowledging God's usual noninterference while affirming his ability and his action in salvation.
+- *Confessional Alignment (4):* 3/4 — Sound. No contradictions.
+
+**3. Gospel Centrality & Force (15 pts) — 5/15**
+- *Clarity of the Gospel (5):* 1/5 — "But all that starts with the gospel." — No content.
+- *Necessity of Christ (5):* 2/5 — Christ is mentioned only implicitly (the consuming fire of God's judgment being turned toward our idols in mercy). No explicit treatment.
+- *Cross-Centered Gravity (5):* 2/5 — The sermon's gravity is theocentric (appropriate for Psalm 97) but the cross is not present as the ultimate resolution of the wrath that is depicted throughout.
+
+**4. Conscience & Applicatory Force (15 pts) — 10/15**
+- *Heart Penetration (5):* 4/5 — The section on idolatry — anything put before God is an idol, and the meme about church attendance — is direct and effective. The young woman upset about her punishment is a pastoral moment that brings the doctrine of God's corrective judgment into personal experience.
+- *Specificity (5):* 4/5 — Concrete: the church attendance meme, the idol question, the Jeremy Camp lyrics, "God has a tendency to take away what we put before him."
+- *Spiritual Differentiation (5):* 2/5 — The sermon again addresses a general "you." No differentiation between the complacent church member, the genuine seeker, the backslider, or the person in open rebellion.
+
+**5. Exhortation & Response (8 pts) — 5/8**
+- *Call to Response (4):* 2/4 — The implicit call is to submit to God's purifying judgment and remove idols. This is a genuine exhortation. But it is not sharp — the congregation is not told what to do specifically, only to desire that God judge and purify them.
+- *Equipping for Holiness & Witness (4):* 3/4 — The Jeremy Camp prayer and the closing idol-removal application is genuinely equipping for holiness. The body is not addressed as a community with corporate responsibility.
+
+**6. Structure & Logical Flow (9 pts) — 6/9**
+- *Clarity of Outline (4):* 3/4 — The sermon has a discernible shape: Israelites in the wilderness (introduction) → psalm read → theophany imagery → lightning and judgment → mountains melting (Elijah connection) → idols shamed (Baal confrontation) → rejoicing → judgment as blessing → application (remove idols). This is followable.
+- *Progression (3):* 2/3 — The Exodus narrative at the opening is long and somewhat meandering (the nieces/car ride illustration is charming but extends the detour). The sermon recovers well in the second half.
+- *Unity (2):* 1/2 — The dominant idea (God's fearsome majesty calls for idol removal and submission) is present but competes with the extended Exodus narrative and the children illustration.
+
+**7. Illustration & Imagination (5 pts) — 4/5**
+- *Relevance (2):* 2/2 — Neutron stars, caldera drive, lightning strike on car, nieces on car ride — all grounded and accessible.
+- *Clarity (2):* 2/2 — Each illustration serves its point clearly.
+- *Memorability (1):* 0/1 — No single image is likely to be carried home as dominant. The caldera drive is striking but ends before it reaches its full potential.
+
+**8. Sermonic Force (5 pts) — 4/5**
+- *Reads as Preaching (2):* 2/2 — Clearly oral. Natural conversational voice. Direct address.
+- *Conviction on the Page (2):* 1/2 — The idol-removal section carries conviction. The Exodus narrative section is descriptive more than proclamatory.
+- *Cadence and Breath (1):* 1/1 — Good rhythm throughout.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1** — The Exodus narrative introduction is extended (covering the plagues, the freeing of Israel, the crossing of the sea, the complaining in the wilderness) before arriving at the psalm. A new believer or visitor tracking the sermon would need to hold this narrative in memory while waiting for it to connect to the passage — and the connection (v. 2's "clouds and thick darkness") is made but briefly.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 15/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 5/15 |
+| Conscience & Applicatory Force | 10/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **62/100** |
+| Cognitive Load Modifier | −1 |
+| **Total** | **61/100** |
+
+**Interpretation: 60–69 — Concerning gaps. Solid content with real pastoral warmth; weakened by the absent gospel and under-developed christological movement. Targeted revision to the gospel close and the Exodus introduction would move this into the 70s.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Of God's fearsome majesty — the appropriate response to Psalm 97. Not of self. Christ is largely absent.
+2. *Did I encounter God, or just ideas about Him?* The lightning, the neutron stars, the caldera, and the Elijah/Baal confrontation bring genuine encounter potential. God is weighty in this sermon.
+3. *Was I comforted, convicted, or merely informed?* Convicted on idolatry, then pointed toward a prayer of submission. The arc from conviction to hope is present but thin.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Idolatry application is sharp and contemporary** — "Anything we put before God is an idol, just as worthless as baal." Combined with the church attendance meme and Dottie's observation about God taking away what we put before him, this is one of the most direct idol-confrontation passages in the batch. It identifies real patterns of modern idolatry without being vague.
+2. **The Elijah/Baal connection to Psalm 97:7** — "Let all worshippers of images be put to shame, who make their boast in worthless idols." Drawing in Elijah to illustrate this verse is exegetically defensible and homiletically vivid. The detail of Elijah taunting Baal ("maybe he's busy, or traveling, or using the bathroom") is quote-worthy and memorable.
+3. **The hardening of Pharaoh section** — The handling of divine sovereignty in hardening Pharaoh's heart, with the pastoral application to praying for the lost, is doctrinally precise and practically grounded. The balance — God usually doesn't override free will for lesser things, but does for salvation — is carefully stated.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Gospel absent for the fourth consecutive time** — "But all that starts with the gospel." The sermon correctly identifies that the good news of Christ is the ultimate answer to the fearsome judgment of God. But it does not deliver that news. A person who has never heard the gospel hears no content.
+2. **The Exodus narrative opening is too long** — The recounting of the ten plagues, the Israelites' release, the pillars of fire, the crossing of the sea, and the complaining in the wilderness takes up significant space before the psalm is read. This material eventually connects to v. 2, but the connection is too delayed and too brief to justify the investment.
+3. **No christological development of the psalm's theophanies** — The psalm's consuming fire, the melting mountains, and the judgment of the wicked are all images that find their New Testament resolution in Christ (the one who will return in consuming fire, before whom every knee will bow). The sermon stays in an Old Testament frame throughout without showing where the trajectory leads.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see the pattern: three Psalms sermons in sequence (68, 96, 97) all end with "but all that starts with the gospel" or a functional equivalent. This may reflect a live preaching practice where the gospel is preached extemporaneously at the close, but in the manuscripts it creates a systematic gap. If this manuscript form is ever used for revision, study, or training, it will appear that the gospel is structurally excluded from these sermons.
+
+---
+
+### 12. Illusion of Strength
+
+The Elijah/Baal section *feels* like strong biblical exposition because it is narratively engaging and connects to a specific verse. But it functions more as an illustration than as an exposition of Psalm 97:7's theological claim. The hearer receives a vivid story about Elijah; they do not receive a deep understanding of why idols are "worthless" — what the psalm means by that word, or what the theological stakes are for a congregation tempted by modern equivalents.
+
+---
+
+### 13. Missed Opportunity
+
+Psalm 97:10 — "O you who love the LORD, hate evil! He preserves the lives of his saints; he delivers them from the hand of the wicked." This is the pastoral climax of the psalm — and it leads directly to the distinction between those under God's judgment and those under his protection. The sermon mentions the rejoicing of "the daughters of Judah" but does not develop the psalm's own promise: that the one who loves the Lord and hates evil will be preserved and delivered. This is the natural home for both comfort and gospel proclamation.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Write the gospel in full at the close.** The consuming fire of God's judgment is the sermon's dominant image. The gospel is that this same fire was poured out on Christ at the cross — that he took the judgment Psalm 97 describes. Write it: sin, God's righteousness demanding judgment, Christ as the substitute who absorbed the fire, resurrection, and the call to surrender to the one who has already won.
+2. **Shorten the Exodus introduction.** Condense to two paragraphs. The nieces illustration is endearing but extends the delay. Make the connection to v. 2 ("Clouds and thick darkness are all around him; righteousness and justice are the foundation of his throne") explicit and quick.
+3. **Develop Psalm 97:10 as the sermon's pastoral climax.** After the idol application, turn to v. 10. The God who judges the wicked preserves his saints. This is where the believer is comforted after being convicted.
+4. **Add christological movement.** At the melting mountains image (v. 5), note that the New Testament describes the same God appearing in Christ — and that at Christ's return, this same consuming fire will be present (2 Thessalonians 1:7–8). Use this as a Berean gate into the gospel.
+5. **Address at least one additional hearer category.** After the idol application, speak directly to: (a) "For those of you who know what your idol is — this is the day to hand it to God"; (b) "For those of you who have been away from the Lord and have wondered if he will receive you back — Psalm 97 promises that he preserves his saints. He is not waiting to consume you. He is waiting for you to return."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon has genuine pastoral heat and specific conscience application. The idol-removal prayer and the direct address to the congregation show a preacher who is not content to inform without calling for response.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The neutron star observation and the caldera description give God genuine cosmic weight; the Elijah/Baal section carries biblical gravity — but without the cross as the sermon's final word, the fearsome God described in Psalm 97 remains unapproached and the congregation is left in conviction without resolution.
+
+---
+
+### 17. Rubric Fit Note
+
+Psalm 97 is a theophanic hymn with strong eschatological overtones — it fits the rubric's categories well. The gospel centrality category is appropriately demanding here because the psalm's own imagery (fire, judgment, the shame of false gods) points toward the cross as its New Testament resolution. The rubric does not need to bend for this genre; it presses in exactly the right places.

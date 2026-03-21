@@ -69,3 +69,92 @@ If I were to ask the same question they asked in the convocation chapel, how man
 As the praise team comes up to sing a final song. I want you to think about the people in your life. Those you know are saved, and those you know that aren’t. Do the people you know that are saved share the gospel? If not part of the great commission is to teach them to obey all that Christ commanded. You have a duty and a privilege to those people to Go. Think about the lost people that you know, or those you’re not sure of. You have the privilege of telling them the best news they ever can or will hear. But you have to Go. 
 
 Normally at this point, I saw won’t you come. But today, I plead with you, won’t you go.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+
+---
+
+### 1. Verdict Title
+A Commanding Call to Go — Built on the Great Commission's Five Voices, But Lacking the Gospel It Commands Us to Share
+
+### 2. One-Sentence Summary
+A direct, practically urgent, and scripturally grounded call for every believer to engage in personal evangelism, drawing on all five Great Commission passages, but which ironically never clearly presents the gospel itself — the very message the congregation is being sent to proclaim.
+
+### 3. Berean Gate
+**PASS.**
+- **Scopus Test:** The main point — that the Great Commission is a binding command for all believers, not just professionals, and that the congregation must personally and actively share the gospel — arises from the five Great Commission passages and the Baptist Faith and Message statement. The sermon's thesis is clear and textually derived.
+- **Authority Test:** The preacher submits to the text's imperative edge, does not soften Jesus' command ("He didn't say when it's convenient"), and applies it with direct congregational pressure.
+
+### 4. Fatal Flaw Flags
+**One flag triggered:**
+- **Flag 1: No clear gospel presentation.** The sermon calls the congregation to share the gospel with clarity and urgency — but never presents the gospel itself in a form that would demonstrate what they are to share. Verses are listed (Romans 3:23; 6:23; 5:8–9; John 3:16; Ephesians 2:8–9; Romans 10:9–10) without being read, explained, or demonstrated. An unbeliever sitting in the service would hear a powerful call to evangelize but would not hear the actual content of the gospel they are being told to go share.
+
+**Score cap invoked: maximum 69.**
+
+**Note:** This flag is unusual in its context — the sermon is about evangelism, not evangelism itself. One could argue that the absence of a full gospel presentation is a structural choice: the audience is primarily the church, being commissioned. However, the rubric requires a clear gospel presentation in every sermon, and Jesus' own Great Commission texts (Luke 24:46–47, Acts 1:8) include the content of the message, not just the command to go. The sermon tells people to share the gospel without sharing it.
+
+### 5. Score Breakdown
+
+| Category | Score | Notes |
+|---|---|---|
+| Exposition & Hermeneutics (25 pts) | 17/25 | All five Great Commission passages are quoted in full — an unusually thorough textual breadth. The exegetical move of identifying "them" across all five passages (disciples → all believers) is sound and well-executed. The Greek verb aspect (present imperative = start now, keep going, never stop) is used effectively and accurately. The FCF (our natural laziness, busyness, and fear that causes us to neglect the command) is named implicitly through the seminary chapel illustration. However, the sermon does not open any of the five passages in depth — it surveys them for the command structure but does not engage with their individual theological texture (e.g., Matthew's Trinitarian formula, Luke's grounding in the suffering and resurrection of Christ, John 20's pneumatological commission). |
+| Theology & Doctrinal Integrity (18 pts) | 12/18 | The argument that evangelism flows from new birth ("The new birth of man's spirit by God's Holy Spirit means the birth of love for others") is theologically important and correctly stated. The Francis Schaefer quote about spending 55 of 60 minutes on human sinfulness is excellent — it reflects a proper law-before-gospel approach and shows theological instinct. The explanation of sovereign evangelism (if God is working in their heart, nothing you say will stop it; if not, you can only be obedient) is confessionally sound and pastorally encouraging. However, the sermon's theological content is mostly methodological rather than doctrinal — it teaches *how to think about* evangelism more than it grounds the command in the gospel's content. |
+| Gospel Centrality & Force (15 pts) | 5/15 | The gospel is listed (Romans 3:23, 6:23, 5:8–9, John 3:16, Eph 2:8–9, Romans 10:9–10) but never proclaimed. The Schaefer method is described but not demonstrated. The sermon is about the gospel without being of the gospel. The irony is acute: a sermon commanding people to proclaim Christ does not proclaim Christ. An unbeliever could sit through this and understand that Christians are supposed to tell people about Jesus but would not know who Jesus is, what he did, or how to receive him. The Synagogue Test: a devout non-Christian would hear only a religious community mobilizing its members for recruitment — not the scandal of the cross. |
+| Conscience & Applicatory Force (15 pts) | 10/15 | The seminary chapel illustration (three young men who couldn't stand when asked if they'd shared the gospel) is vivid and convicting. The direct question ("If I asked the same question here, would you be able to stand?") is a genuine conscience-pressing moment. The child/disobedience analogy ("How would you feel about a child you'd told to do something five times and they continued to sit there?") is appropriately challenging. The application is specific: share with someone in your life, identify your lost friends by name, pray for specific people. Deduction for not distinguishing hearers more finely — there is no word to the person who is terrified of evangelism, the person who tried and was rejected, or the person who does not yet understand the gospel well enough to share it. |
+| Exhortation & Response (8 pts) | 7/8 | This is the sermon's strongest category. The "He said Go. He didn't say maybe. He said Go." repeated-imperative section is the most forceful sustained exhortation in any of these seven sermons. The final reversal ("Normally at this point I say won't you come. But today I plead with you: Won't you go") is a memorable, well-earned climactic line. The call is specific, clear, and corporate. One deduction for the absence of an explicit response mechanism — what does obedience look like in the next 24 hours for a person who has never shared the gospel? |
+| Structure & Logical Flow (9 pts) | 6/9 | The structure is traceable: (1) people group prayer; (2) Baptist Faith and Message statement; (3) false missions trips; (4) five Great Commission passages; (5) who is "them"?; (6) the privilege and neglect of evangelism; (7) Francis Schaefer on content; (8) sovereign evangelism reassurance; (9) Jesus' authority and the imperative; (10) the final call. The five-commission survey creates a structural backbone. However, the Schaefer and sovereign evangelism sections feel like inserts rather than integral progressions. The transition from "Go because he commanded it" to "let me tell you what to say" to "it's ok because God is sovereign" is slightly back-and-forth in its logic. |
+| Illustration & Imagination (5 pts) | 3/5 | The seminary chapel illustration is vivid and effective. The "maybe you're the only Bible your lost friend has ever read" line is memorable. The grocery store/McDonald's sandwich story from 1 john 3 pt 2 is echoed here in a similar vein. Deductions: the Tarkahn of Pakistan opening is mission-awareness material rather than an illustration; the BFM quotation functions as a text but not as an illustration. The sermon is somewhat illustration-light given its length. |
+| Sermonic Force (5 pts) | 4/5 | The "He said Go. He didn't say after work. He said Go" section reads with genuine fire and direct address. The final reversal ("Won't you go") has real sermonic force. The manuscript reads throughout as preaching rather than essay. One deduction for the middle section (the "who is them?" analysis) which, while exegetically sound, briefly reads as lecture. |
+| **Subtotal** | **64/100** | |
+| Weight of Glory Bonus | +2/5 | The eschatological stakes ("heaven and hell") are named explicitly. The final call carries real gravity. |
+| Cognitive Load Modifier | 0 | Well-paced and accessible throughout. |
+| **Total** | **66/100 (capped at 69 due to fatal flaw flag)** | |
+
+### 6. Cognitive Load Modifier
+**0** — The sermon is accessible and well-organized. Five passages are handled without confusion. No overloading.
+
+### 7. Total Score
+**66/100 — Concerning Gaps (capped at 69 by fatal flaw flag)**
+The exhortation section of this sermon is among the best in the batch — direct, specific, urgently imperatival, and memorably concluded. But the fatal irony remains: a sermon that commands the church to proclaim the gospel never proclaims the gospel. This is not a peripheral weakness — it is a structural failure in a sermon whose entire purpose is gospel proclamation.
+
+### 8. Core Override Questions
+1. Does this sermon make me think more of Christ — or myself? **Balanced — the command is Christ's, the focus is obedience, but Christ himself is not proclaimed.**
+2. Did I encounter God, or just ideas about Him? **Mostly ideas — the call is genuine but the divine presence is mostly invoked through command and commission rather than encounter.**
+3. Was I comforted, convicted, or merely informed? **Convicted and challenged — the conscience-pressing is the sermon's real strength.**
+
+### 9. Strengths (Top 3)
+1. **The exhortation section ("He said Go. He didn't say...") is the strongest sustained imperatival preaching in the batch.** The repeated "He didn't say" structure builds effective rhetorical momentum, and the final "Won't you go" reversal is a genuine sermonic achievement.
+2. **All five Great Commission passages are handled with textual integrity.** The survey approach demonstrates that the commission is not a Matthean peculiarity but a consistent, multi-voiced command woven through the post-resurrection narratives. The Greek verb aspect is deployed accurately and memorably.
+3. **The sovereign evangelism reassurance is theologically excellent.** "If God is already working in their heart, there is nothing you can say that will stop that process; and if he hasn't, all you can do is be obedient and share with them anyway. What they are rejecting is not you. It's Jesus." This is precisely the pastoral word a fearful evangelism-avoider needs to hear.
+
+### 10. Critical Weaknesses (Top 3)
+1. **The gospel is never proclaimed.** The sermon references Romans 3:23, 6:23, 5:8–9, John 3:16, Ephesians 2:8–9, Romans 10:9–10 — without reading any of them. The Francis Schaefer method is described but not demonstrated. The congregation is sent out to share something they have not heard in this sermon.
+2. **The 55-minutes-on-sin principle is stated but not modeled.** Schaefer says to spend 55 of 60 minutes on human sinfulness and bondage. This is theologically correct. But the sermon spends almost no time on it. The congregation is told this is the method without experiencing why it matters. The law is not used to strip away self-trust anywhere in the sermon.
+3. **No differentiated address for the fearful evangelism-avoider.** The sermon addresses primarily two types: the obedient who needs to be challenged, and the disobedient who needs to be confronted. There is no word to the person who wants to evangelize but is genuinely terrified, does not know how, or has been so badly burned by rejection that they have withdrawn. These people exist in every congregation and need more than "He said Go."
+
+### 11. Blind Spots
+The preacher may assume that because the congregation knows the gospel, it need not be stated. But a sermon on evangelism is the moment when the gospel-less visitor is most likely to be present — invited by a member who heard they would hear about sharing their faith. That visitor will hear a powerful call to go but will not know where to go or what to say when they get there. The sermon trains the equipped; it does not equip the unequipped.
+
+### 12. Illusion of Strength
+The five-passage Great Commission survey creates an impression of thorough textual engagement. But each passage is quoted and then immediately reduced to one point (the commission applies to us, not just the disciples). The distinctive theological content of each commission — Matthew's Trinitarian formula, Luke's grounding in Christ's suffering and resurrection, John's pneumatological commission, Acts 1's empowerment-before-going structure — is not engaged. The breadth is real; the depth is not.
+
+### 13. Missed Opportunity
+Luke 24:45–47 contains the most compact theological statement of what the gospel actually is in any of the five Great Commission passages: "The Christ should suffer and on the third day rise from the dead, and that repentance and forgiveness of sins should be proclaimed in his name to all nations." This is the content of the commission. It is read in the sermon without comment. It deserved to be the theological center of the entire message: this is the specific gospel the disciples were sent to proclaim — and this is the specific gospel you are commanded to share.
+
+### 14. Surgical Fixes
+- **Proclaim the gospel.** Read Romans 3:23, 6:23, and 5:8–9 aloud. Explain what they mean. Demonstrate what gospel-sharing sounds like. You cannot model what you do not do.
+- **Preach Luke 24:45–47 as the content section.** "Jesus opens their minds to understand the Scriptures and tells them: this is the content. The Christ suffered. The Christ rose. Repentance and forgiveness are to be proclaimed. That is what you go to say."
+- **Add a brief address to the terrified.** "Some of you want to go but are afraid. You tried once and they laughed at you. You don't know enough. Here is what Paul says in 1 Corinthians 2: 'I came to you in weakness and in fear and in much trembling. My speech and my message were not in plausible words of wisdom... but in demonstration of the Spirit and of power.' You do not have to be eloquent. You have to go."
+- **Model the Schaefer method briefly.** Spend 2–3 minutes pressing on human sinfulness from Ephesians 2:1–3 so the congregation can feel what it means to let the law land before the gospel relieves.
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — the sermon has genuine fire and pastoral urgency. The exhortation section carries real heat. The issue is structural (gospel absent from a gospel-commission sermon), not one of dead correctness.
+
+### 16. Weight of Glory Assessment
+The "heaven and hell" declaration and the final "Won't you go" carry genuine eternal weight; this sermon, more than any other in the batch, presses the hearer toward action with eschatological stakes — but its force would double if the gospel it commands were also proclaimed within it.
+
+### 17. Rubric Fit Note
+The rubric fits this sermon type well. The Gospel Centrality category is particularly important here: a sermon on evangelism that does not itself evangelize is a genuine structural failure, not just a preference. The rubric appropriately penalizes this. The Exhortation category is where this sermon most exceeds the batch average.
