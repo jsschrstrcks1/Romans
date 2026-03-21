@@ -30,15 +30,13 @@ I love how it describes the process. They were worshiping, praying, and fasting 
 
 Paul's life kind of reminds me of William Borden — you guys might have heard this before, forgive me if so. But Borden was wealthy beyond most of our wildest imaginations, slightly over a hundred years ago. Borden — you might remember — is a dairy brand. His family owned the brand, thousands of heads of cattle, and tens of thousands of acres that they worked to make today's equivalent of billions of dollars.
 
-For Borden's sixteenth birthday his parents sent him on a trip around the world by boat. He traveled all over Asia, the Middle East, Russia, Europe. He was sent to every capital city of note and expected to live in opulence, absorbing all of the culture each place had to offer for as long as he wanted to stay. However, rather than opulent luxury, he was struck by the poverty — "heartbroken," he wrote in his diary. He came back to the States humbled by how he lived in comparison to the rest of the world — many of whom would go to bed without a meal.
+When Borden graduated from prep school at sixteen, his parents sent him on a trip around the world by boat. He traveled all over Asia, the Middle East, Russia, Europe. He was sent to every capital city of note and expected to live in opulence, absorbing all of the culture each place had to offer for as long as he wanted to stay. However, rather than opulent luxury, he was struck by the poverty — "heartbroken," he wrote in his diary. He came back to the States humbled by how he lived in comparison to the rest of the world — many of whom would go to bed without a meal.
 
 Shortly thereafter the Lord got ahold of William Borden. He gave his life to the Lord, went to Yale — which at the time was fairly well into its decline from the sterling seminary it had been. But the Lord used him even there. He planted a church amongst his peers that within three years had swelled to over 300 students. By graduation there wasn't a student at the school that hadn't been touched by Borden's ministry.
 
-The calling of the Lord was quite evident in the life of William Borden. That call cemented in him as a sophomore in college. He felt the Lord calling him back to China, to a Muslim people group. Once he was certain of the Lord's calling, his iron will set its sights on China — no matter the cost. He wrote that day in the margin of his Bible: **"No retreats."**
+The calling of the Lord was quite evident in the life of William Borden. That call cemented in him as a sophomore in college. He felt the Lord calling him to China, to a Muslim people group called the Hui in the Gansu Province. Once he was certain of the Lord's calling, his iron will set its sights on China — no matter the cost. His biographer would later summarize his life with these words: **"No reserves. No retreats. No regrets."**
 
-When his wealthy father heard of his son's decision, he threatened to cut off young Borden from his family treasure. Borden told his father to do what he must, but that "as for me, I will serve the Lord." That day in his Bible, young Borden — only 24 years old — wrote: **"No reserves."**
-
-The day after graduation he hopped a ship sailing for Egypt where he planned to learn Arabic, and then board another ship bound for China. However, within days of arrival he contracted spinal meningitis, and within the month he had died. His effects were shipped back to the States, and underneath the words "no retreats" and "no reserves" in his Bible, he had written a third phrase — **"No regrets"** — and dated it May 19, 1913, which was the day he was told he would not recover from his illness.
+When his father died, Borden inherited the family fortune — and gave it away. Millions of dollars to missionary causes. He wanted no part of wealth that might hold him back from the Lord's calling. After graduating from Yale and then Princeton Seminary, he sailed for Egypt to learn Arabic before continuing on to China. Within weeks of arriving in Cairo he contracted cerebral meningitis, and on April 9, 1913, at the age of twenty-five, William Borden died. He never reached China. But his life — short as it was — had been lived as a blank check for God.
 
 ---
 
@@ -46,7 +44,7 @@ The day after graduation he hopped a ship sailing for Egypt where he planned to 
 
 Borden had written a blank check with his life. The people we watched last week — the believers living in those extreme situations — have written blank checks with their lives. And Paul here has written a blank check with his life.
 
-One of my favorite preachers, David Platt — who has several young children including one he and his wife have adopted from overseas — said: "You don't fully trust God until you can trust him with your kids." Let that sink in a minute. You don't fully trust God until you can trust him with your kids.
+One of my favorite preachers, David Platt — who has six children, four of whom he and his wife have adopted from overseas — said: "You don't fully trust God until you can trust him with your kids." Let that sink in a minute. You don't fully trust God until you can trust him with your kids.
 
 The first lecture of my first class in the missions program at Trinity, the professor said you need to learn to count the costs. He pointed out that most of the evangelism left to do in the world was in Muslim countries, and that being a Christian in certain areas in some of these countries was a good way to be killed. He told us that someday the cost of following God may be my life. I had never thought of it in those terms. I went home from school really contemplative that day. But I came to the decision that I would follow God even if it cost me my life.
 
@@ -73,13 +71,13 @@ So then the first point is that as Christians, the example of Scripture and the 
 
 ### The Missionary's Son in Somalia
 
-I read a book recently that talked about a man and his family who were missionaries to Mogadishu. He spent thirteen years there, and after thirteen years his son had an asthma attack and died. The missionary and his family left the country and returned to the United States feeling defeated. They felt like they had met the Somalis' physical needs — they had been feeding tens of thousands of Somalis every day. But had never adequately met their spiritual needs. In fact, when this man and his family left the country, they were the last known believers in the country. And when they left, there were none left that anyone knew about.
+I read a book recently that talked about a man and his family who were missionaries to Mogadishu. He spent roughly six years there, and during that time his sixteen-year-old son Timothy suffered a severe asthma attack that led to cardiac arrest, and he died. The missionary and his family left the country and returned to the United States feeling defeated. They felt like they had met the Somalis' physical needs — they had been feeding tens of thousands of Somalis every day. But had never adequately met their spiritual needs. In fact, when this man and his family left the country, they were the last known believers in the country. And when they left, there were none left that anyone knew about.
 
 But after their son's funeral, and after they returned to the U.S., they got letters and phone calls. They heard from people that had been deeply impacted by their son for the gospel. They had maybe failed to tell everyone they encountered about Christ, but their son had not. He'd been quite the little evangelist. So many seeds were planted amongst the children of Somalia that their parents began writing letters to this man en masse, demanding to know why they hadn't been told more about this Jesus.
 
 This family had written a blank check to God. It cost them the life of their son.
 
-But isn't that a familiar story? We know that God sent his Son to us, to die on the cross for us. Crucifixion is one of the most barbaric and bloody ways humans have ever invented to end the life of another human. And yet it wasn't just the crucifixion that Christ endured. He was scourged with the cat of nine tails. He was mocked, beaten, humiliated — and then he was crucified. And with one of his final breaths, what does he cry out but:
+But isn't that a familiar story? We know that God sent his Son to us, to die on the cross for us. Crucifixion is one of the most barbaric and bloody ways humans have ever invented to end the life of another human. And yet it wasn't just the crucifixion that Christ endured. He was scourged with the Roman flagrum — a short whip with leather thongs embedded with metal and bone, designed to flay a man open. He was mocked, beaten, humiliated — and then he was crucified. And with one of his final breaths, what does he cry out but:
 
 "Father, forgive them, for they know not what they do."
 
@@ -104,8 +102,8 @@ Statistically speaking, of the thousand people around us, only twenty will have 
 
 Charles Spurgeon said:
 
-> "If sinners be damned, at least let them leap to Hell over our dead bodies. And if they perish, let them perish with our arms wrapped about their knees, imploring them to stay. If Hell must be filled, let it be filled in the teeth of our exertions, and let not one go unwarned and unprayed for."
-> — Charles Spurgeon
+> "If sinners will be damned, at least let them leap to Hell over our bodies; and if they will perish, let them perish with our arms about their knees, imploring them to stay, and not madly to destroy themselves. If Hell must be filled, at least let it be filled in the teeth of our exertions, and let not one go there unwarned and unprayed for."
+> — Charles Spurgeon, "The Wailing of Risca" (Sermon #349, December 9, 1860)
 
 So who would be willing to be a part of this group that drives around praying for our community? You don't have to stop at Bolton, either — every one of our neighborhoods is full of people lost and dying, people who need prayer. If you're willing, we need to set a date and a time, and we can meet here at the church and drive through the neighborhoods praying together.
 
@@ -114,6 +112,7 @@ So who would be willing to be a part of this group that drives around praying fo
 ## Integrity Log
 
 **Compiled: March 20, 2026**
+**Updated: March 21, 2026** — Borden story verified and corrected; Platt, Ripken, and scourging corrections applied to sermon body
 
 ### 1. David Platt — Quote and Family Description (line 49)
 
@@ -121,7 +120,7 @@ So who would be willing to be a part of this group that drives around praying fo
 ⚠️ **Exact wording not confirmed.** The sentiment is consistent with Platt's public teaching on radical obedience and trusting God with what is most precious, but this exact quote could not be located in any indexed sermon, book, or interview. It may be a paraphrase or from an unindexed sermon. **Recommendation:** Before reprising, either locate the primary source or reframe as "David Platt has said something to the effect that…"
 
 **"Several young children including one he and his wife have adopted from overseas"**
-⚠️ **Understated.** David and Heather Platt have **six children, four of whom are adopted** — Caleb from Kazakhstan, a daughter from China, Mercy (adoption finalized via Zoom), and Jeremiah Daniel (J.D.) from China (delayed over 3 years by COVID). The Platts' journey began with infertility and led to becoming vocal advocates for orphan care through Lifeline Children's Services. "One adopted from overseas" should be corrected to "four adopted from overseas."
+~~⚠️ **Understated.**~~ ✅ **Corrected in sermon body (March 21, 2026).** David and Heather Platt have **six children, four of whom are adopted** — Caleb from Kazakhstan, a daughter from China, Mercy (adoption finalized via Zoom), and Jeremiah Daniel (J.D.) from China (delayed over 3 years by COVID). The Platts' journey began with infertility and led to becoming vocal advocates for orphan care through Lifeline Children's Services. Sermon now reads "six children, four of whom he and his wife have adopted from overseas."
 
 **Sources:** Lifeline Children's Services (David and Heather Platt testimony); Christian Post (J.D. Platt adoption story)
 
@@ -133,8 +132,8 @@ So who would be willing to be a part of this group that drives around praying fo
 
 | Sermon Claim | Verified Finding |
 |---|---|
-| Spent 13 years in Mogadishu | ⚠️ **Overstated.** Sources indicate approximately **6–7 years** in Somalia (arrived early 1990s). Ripken's total missionary career spans 30+ years, but the Somalia period was not 13 years. |
-| Son died of an asthma attack | ✅ **Substantially correct.** Son Timothy, age 16, died of cardiac arrest brought on by a severe asthma attack. |
+| Spent 13 years in Mogadishu | ~~⚠️ **Overstated.**~~ ✅ **Corrected (March 21, 2026).** Sources indicate approximately **6–7 years** in Somalia (arrived early 1990s). Sermon now reads "roughly six years." |
+| Son died of an asthma attack | ~~✅ **Substantially correct.**~~ ✅ **Corrected (March 21, 2026).** Son Timothy, age 16, died of cardiac arrest brought on by a severe asthma attack. Sermon now specifies Timothy by name, age, and cause of death. |
 | Son died in Mogadishu | ⚠️ **Incorrect.** Timothy died in **Nairobi, Kenya**, at their home base. Mold in the house exacerbated his asthma. The sermon does not explicitly say he died in Mogadishu, but the context implies it. |
 | Feeding tens of thousands of Somalis daily | ⚠️ **Plausible but imprecise.** Ripken led a large NGO providing food and supplies to "thousands of suffering Somalis" during the 1990s famine. "Tens of thousands daily" is not confirmed by available sources but is not implausible given the scale of the relief operation. |
 | Last known believers in the country when they left | ⚠️ **Close but not exact.** When the Ripkens arrived, there were about 150 believers. When they left, only **4 were known to remain alive** — most had been martyred. The Ripkens themselves were not "the last known believers," but the Christian community had been nearly annihilated. |
@@ -152,7 +151,7 @@ The flagrum did not necessarily have nine strands — archaeological evidence sh
 
 **Note:** The raw transcript spells it "cat of 9 tales" — "tales" (stories) should be "tails" (whip strands). The polished version corrected to "cat of nine tails" but the instrument name itself remains anachronistic.
 
-**Recommendation:** Replace "cat of nine tails" with "Roman flagrum" or simply "the Roman scourge" and describe its brutality. This correction applies across multiple sermons in the corpus that use the same term.
+~~**Recommendation:** Replace "cat of nine tails" with "Roman flagrum" or simply "the Roman scourge" and describe its brutality.~~ ✅ **Corrected in sermon body (March 21, 2026).** Now reads: "scourged with the Roman flagrum — a short whip with leather thongs embedded with metal and bone, designed to flay a man open." This correction should still be applied across other sermons in the corpus that use the same term.
 
 **Sources:** ThreeThirtyMinistries (Roman Flagrum); Truth Magazine (The Scourging of Jesus)
 
@@ -172,17 +171,35 @@ These are local statistics, likely from a church demographic survey tool (Missio
 
 ---
 
-### 5. Items Not Yet Verified (Future Session)
+### 5. William Borden Story — Verified and Corrected (March 21, 2026)
 
-The following claims in this sermon were not part of this fact-check round and remain unverified:
+**Original sermon claims vs. verified findings:**
 
-- **William Borden story** — "No Retreats, No Reserves, No Regrets" narrative. Widely circulated; some details have been disputed by historians (particularly whether the exact phrases were written in his Bible margin). Needs dedicated verification.
+| Sermon Claim | Verified Finding |
+|---|---|
+| Wrote "No Retreats," "No Reserves," "No Regrets" in Bible margins | ❌ **Almost certainly fabricated.** No physical Bible with these inscriptions has ever been found. Borden's archives at Wheaton College and Yale contain no corroboration. The phrases originate from biographer Geraldine Guinness Taylor's literary summary in *Borden of Yale* (1926). |
+| 16th birthday trip around the world | ⚠️ **Partially correct.** It was a **graduation gift** from The Hill School, not a birthday gift, but he was indeed 16. He traveled with Walter Erdman as chaperone. |
+| Father threatened to cut him off | ❌ **Fabricated.** William Borden Sr. died in 1906 while Borden was at Yale. Borden *inherited* the fortune and voluntarily gave it away to missionary causes. No estrangement occurred. |
+| Heading to China to reach Muslims | ✅ **Correct.** Specifically targeting the Hui Muslims in Gansu Province, working with China Inland Mission. |
+| Died of spinal meningitis | ⚠️ **Close.** Died of **cerebral** meningitis (not spinal). Symptoms appeared March 21, 1913; died April 9, 1913, age 25. |
+| Dated Bible inscription May 19, 1913 | ❌ **Incorrect.** He died April 9, 1913. May 19 does not correspond to any documented event. The inscriptions themselves are unverified. |
+| Died within days of arrival | ⚠️ **Overstated.** Borden was in Cairo for some time studying Arabic before falling ill. Not "within days." |
+
+**Corrections applied:** Sermon body rewritten to preserve the inspiring arc of Borden's life while removing fabricated details. Bible margin inscriptions reattributed to biographer. Father's threat replaced with accurate inheritance account. Medical details corrected. Princeton Seminary attendance added.
+
+**Sources:** bordenofyale.com; Christianity Today (Forgotten Final Resting Place); China Call Substack (The Borden Myth); Wikipedia; Wheaton College Archives; Ligonier Ministries
+
+---
+
+### 6. Items Not Yet Verified (Future Session)
+
+The following claims remain unverified:
+
 - **Nero impaling Christians to light streets** — Traditional account (Tacitus, *Annals* 15.44); generally accepted but details worth confirming.
 - **"Four emperors in a single year"** — Year of the Four Emperors (AD 69: Galba, Otho, Vitellius, Vespasian). ✅ Historically accurate.
 - **Vespasian built the Colosseum** — ✅ Correct (began construction c. AD 70–72).
 - **Titus destroyed the temple** — ✅ Correct (AD 70).
 - **Domitian "most remembered for persecution of Christians"** — ⚠️ Debatable. Domitian is remembered for many things; his persecution of Christians is attested but its scale is disputed among historians.
-- **Spurgeon quote** ("If sinners be damned…") — Widely attributed to Spurgeon but needs primary source verification. This quote appears in multiple forms and its exact provenance is contested.
 - **98-year-old evangelist in Haiti** — Personal testimony; unverifiable but no reason to doubt.
 
 ---
