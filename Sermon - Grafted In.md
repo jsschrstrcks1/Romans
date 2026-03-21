@@ -9,21 +9,9 @@ While you're turning there, I want to explain a little bit of Jewish tradition �
 
 ---
 
-### Modern Idolatry
-
-Even today people are quick to fall into idolatry. So many of us are more concerned about what's going to happen in some lousy TV show than in reading their Bible, and praying, and working on their relationship with God. It's an easy trap to fall into, too. You start playing some entertaining game on your phone, and next thing you know you've just spent several hours playing.
-
-I picked up an Xbox for my nieces and nephews this week, as well as a copy of Minecraft. Minecraft is kind of cool because it's a creative sandbox. You're given a variety of blocks, and you have to form them into tools — into workbenches, into pickaxes and shovels and plows and axes — and you use those tools to cut down trees, and make planks, and build houses or pretty much anything you can imagine. Paris built an eight-story building that was so tall that the game started making it rain inside her house.
-
-It's cool. It's learning. It's still a video game. I sat down with them on Thursday morning intending to play for just a little bit, and next thing I knew two hours of my life were gone.
-
-Today's idols aren't always consciously being "worshiped" but are things that become idols almost tacitly. They become idols because we aren't vigilant with our time, our talents, and our treasure. The Xbox for me isn't an idol — I am not spending more time with it than with God. But if I don't safeguard my quiet times it very easily could become one. The same is true for all of us with different things. For some maybe it's their vehicle, their career, maybe it's this Pokémon Go that everyone's talking about. In any case, an idol is anything we allow to take precedence over our relationship with God. Are we spending fifty hours a week with our friends but neglect to take our Bible off the shelf? Then friends are your idol. Anything you put as a higher priority than spending time with God is an idol.
-
----
-
 ### Abram Smashes the Idols
 
-So Abram's father was an idolater. He had a room in his house, it's said — and this is from a midrash recorded in Genesis Rabbah — that was full of idols, and one day Abram went into that room and destroyed them all — committing himself to the one true God. Today he might be smashing an Xbox, a TV, and a computer, or a stack of books, or smashing a business. In any case, these Jewish traditions state that Abram went out of his way to remove any hindrances in his relationship with God. Not only that, but he rejected and destroyed any of the other "false gods" that were accepted by his culture. He is the hero of this passage, tradition says, because of this — because he was willing to risk rejection by his peers and even by his family to stand up for what he believes in.
+So Abram's father was an idolater. He had a room in his house, it's said — and this is from a midrash recorded in Genesis Rabbah — that was full of idols, and one day Abram went into that room and destroyed them all — committing himself to the one true God. These Jewish traditions state that Abram went out of his way to remove any hindrances in his relationship with God. Not only that, but he rejected and destroyed any of the other "false gods" that were accepted by his culture. He is the hero of this passage, tradition says, because of this — because he was willing to risk rejection by his peers and even by his family to stand up for what he believes in.
 
 As a result, God chose to bless him — so the tradition says. But again, Scripture gives no reason. The Bible's answer to "why Abram?" is the same as its answer to "why us?" — sheer grace reaching down before merit could be established.
 
@@ -35,6 +23,8 @@ Read with me in chapter 12, verse 1:
 > — Genesis 12:1-3 (ESV)
 
 So right away I notice a few things. For one, Abram is going to be blessed with a land, with lots of descendants, with a God-enhanced reputation. Not only that, but others would be blessed as well. Anyone who blesses him will be blessed, and anyone who curses him shall be cursed. In fact all the families of the earth shall be blessed.
+
+But before we get into those promises, go back and notice something. Count how many times God says "I will" in those three verses. Count them. Every single commitment is in the first person. Not "Abram will." Not "if Abram proves himself." Just — I will. Over and over. God is making every promise himself. That's not a contract. You negotiate a contract. You perform a contract. You can break a contract. This is a decree. God is binding himself not to Abram's faithfulness but to his own word. That distinction is going to matter the rest of the night.
 
 ---
 
@@ -70,11 +60,11 @@ God doesn't cease his promises there though. He promises that any who bless Abra
 
 This one took a little bit of study. Because while Abraham is the father of the nation of Israel and is still considered a patriarch to this day, this is a bit like George Washington receiving a promise from God. Does it apply to all of America by default, or just to President Washington?
 
-There are a couple of differences though. For one, the USA is not made up primarily of the children of Washington, whereas Israel are the descendants of Abraham. Secondly, there is a New Testament command in Romans to the Gentiles that echoes this Old Testament promise to Abraham — but makes it applicable to the entire nation of Israel. Romans 15:27 says that we "owe it" to the Jews to bless them because through them we have been blessed spiritually — *"For if the Gentiles have come to share in their spiritual blessings, they ought also to be of service to them in material blessings."*
+There are a couple of differences though. For one, the USA is not made up primarily of the children of Washington, whereas Israel are the descendants of Abraham. Secondly, Paul writes in Romans 15 about something very practical — a financial collection the churches in Macedonia and Achaia had taken up for Jewish believers who were poor and struggling in Jerusalem. And even in that specific, practical context, he draws on a deeper principle. Romans 15:27 — *"For if the Gentiles have come to share in their spiritual blessings, they ought also to be of service to them in material blessings."* The immediate occasion is that Jerusalem collection. But Paul's logic is plain: we have received spiritual blessing through this people, and that creates an obligation we don't get to ignore.
 
-This sentiment of blessing the Jews, honoring the Jews, and helping the Jews is mentioned in a number of places — in Psalms, Numbers, Isaiah, Joel, Malachi — as well as an interesting prophecy in Zechariah talking about the last days, where anyone who seeks to harm Israel, specifically the city of Jerusalem which has been surrounded by her enemies and is under siege. And it says all who oppose Israel in those days will be struck with blindness so that Judah will know the Lord God reigns and has not forgotten his covenant.
+This sentiment of blessing the Jews, honoring the Jews, and helping the Jews is mentioned in a number of places — in Psalms, Numbers, Isaiah, Joel, Malachi — as well as an interesting prophecy in Zechariah 12 about the last days — Jerusalem surrounded by all the nations, under siege. God says in verse 4 that he will strike the horses of those opposing nations with panic and blindness, and their riders with madness, while he himself keeps watch over Judah. The clans of Judah declare in that day: *"The inhabitants of Jerusalem have strength through the LORD of hosts, their God."* (Zechariah 12:5) It is not Jerusalem's walls that protect her. It is the LORD himself.
 
-Finally on this point, there is a passage in Ephesians 3 that says Gentiles are fellow heirs to salvation and the gospel alongside the Jews. We are in a sense grafted in through the gospel of Jesus Christ. Paul uses that exact image in Romans 11 — the olive tree, the natural branches, and we Gentiles as the wild branches grafted in, sustained by a root we did not grow. That is not our achievement. That is grace. We have talked before about how God adopted us — making us sons and daughters of the King of Kings and Lord of Lords.
+Finally on this point, Ephesians 3:6 says Gentiles are fellow heirs to salvation and the gospel alongside the Jews — *"the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel."* We are in a sense grafted in through the gospel of Jesus Christ. Paul uses that exact image in Romans 11 — the olive tree, the natural branches, and we Gentiles as the wild branches grafted in, sustained by a root we did not grow. That is not our achievement. That is grace. We have talked before about how God adopted us — making us sons and daughters of the King of Kings and Lord of Lords.
 
 ---
 
@@ -96,6 +86,8 @@ This is what God did for us. We were lost, evil, and incapable of doing any good
 > — Romans 3:23 (ESV)
 
 This is the state of all people apart from God.
+
+Sit with that for a moment. Isaiah doesn't say our worst is a polluted garment — he says our *best* is. Our most religious moments. Our most generous impulses. Still filthy before a holy God. What that means is there is no amount of effort, no amount of turning over a new leaf, no life cleaned up enough, that closes that gap on its own. We came from Babel. We built our towers to make our own names great, and God scattered us. That is the human condition. That is where every one of us starts — scattered, guilty, and without a claim.
 
 ---
 
@@ -154,11 +146,20 @@ The Abraham-smashes-idols tradition appears in **Genesis Rabbah 38:13**, a compi
 
 Paul uses the grafting image explicitly in Romans 11:17–24 (wild olive shoot grafted into cultivated tree). A sentence was added connecting the sermon's orange-tree illustration to this passage, giving the metaphor its canonical grounding.
 
+### Flags Resolved
+
+- ✅ **Romans 15:27** — Body text now cites the verse explicitly and quotes it accurately. The earlier enumeration ("Scriptures came through them, promises came through them, Messiah came through them") was removed because that list is not Paul's stated argument in Romans 15:25–27; the text says only "spiritual blessings." Corrected to match what the passage actually says.
+- ✅ **Zechariah blindness prophecy** — Body text corrected. Original summary said opponents are "struck with blindness"; Zechariah 12:4 says it is the *horses* that are struck with blindness, riders with madness. Body now accurately summarizes vv. 4–5 and cites the passage explicitly (Zechariah 12:4–5).
+- ✅ **Ephesians 3:6** — Body text now cites the verse explicitly and quotes it in full: *"the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel."*
+
+### Additional Verifications
+
+- **Galatians 3:29** — Quoted in closing: *"And if you are Christ's, then you are Abraham's offspring, heirs according to promise."* ESV reads identically. ✅
+- **Zechariah 12:5** — Quoted in body: *"The inhabitants of Jerusalem have strength through the LORD of hosts, their God."* ESV reads identically. ✅
+
 ### Flags Remaining
 
-- ⚠️ **"Romans... we owe it to the Jews"** (body text) — no verse cited. Romans 15:27 ESV reads: *"For if the Gentiles have come to share in their spiritual blessings, they ought also to be of service to them in material blessings."* This is the most likely referent. Verse should be cited explicitly before reprising.
-- ⚠️ **Zechariah blindness prophecy** — sermon describes Jerusalem surrounded by enemies, opponents struck with blindness. Zechariah 12:1–4 ESV is the source (v.4: *"I will strike every horse of the peoples with blindness"*). The sermon's summary is directionally accurate but loose. Cite explicitly before reprising.
-- ⚠️ **Ephesians 3 "fellow heirs" reference** — sermon cites "a passage in Ephesians 3." The text is Ephesians 3:6 ESV: *"This mystery is that the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel."* Worth citing explicitly.
+None.
 
 ### Voice Audit
 - **Authenticity Risk: LOW** — Raw preached material; no AI in original draft
