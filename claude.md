@@ -16,13 +16,25 @@ This dual purpose means:
 
 When writing, think: *Would this passage hold up on the page five years from now?*
 
-### Sermon Reference Map
+### Reference Maps
 
-A complete catalog of every sermon, teaching, and study in the repository — organized by Bible book and passage — lives at `.claude/sermon-map.md`. Use it to:
-- Check what passages have been preached before
-- Find earlier treatments of a text for reuse or revision
-- Avoid repeating illustrations or cross-references
-- Locate memorial services, topical teachings, and non-Romans material
+The `.claude/` directory contains several maps that together form the project's knowledge layer. Consult these before writing, editing, or planning:
+
+- **`.claude/sermon-map.md`** — Complete catalog of every sermon, teaching, and study in the repository, organized by Bible book and passage. Eight distinct table formats (see `plan.md` Section 2). Use to check what's been preached, avoid repeating illustrations, find earlier treatments of a text, and locate memorial services, topical teachings, and non-Romans material.
+- **`.claude/theological-map.md`** — What this preacher affirms, denies, and where he stands, derived from the full sermon corpus. 10 doctrinal categories (Theology Proper through Missiology), heresies explicitly refuted, theological identity markers, and unresolved positions. Every claim backed by direct quotes with file references.
+- **`.claude/series-trajectory.md`** — The arc of the Romans series: five phases (Diagnosis, Remedy, Identity, Assurance, Application) mapped to chapters, plus chapter-by-chapter summaries of Romans 1–13.
+- **`.claude/date-map.md`** — When each Romans sermon was preached. 39 sermons backdated from March 15, 2026 (one per Sunday). Future sermons get the next upcoming Sunday from the date they're indexed.
+- **`.claude/book-framework.md`** — Extended framework for "The Night Is Far Gone" as a published book.
+- **`.claude/voice-profile.md`** — Detailed preaching voice analysis and markers.
+- **`.claude/congregation-profile.md`** — Who sits in the room: spiritual spectrum, real burdens, pastoral implications.
+- **`.claude/confessional-framework.md`** — 1689 Second London Baptist Confession as load-bearing theology.
+- **`.claude/citation-standards.md`** — ESV-only translation policy, acceptable quotation sources, verification standards.
+- **`.claude/sermon-structure.md`** — How sermons are built: exposition spine, illustration placement, gospel close patterns.
+- **`.claude/theological-commitments.md`** — Core theological commitments governing sermon content.
+- **`.claude/theological-taxonomy.md`** — Taxonomy of doctrinal categories used across the maps.
+- **`.claude/romans-14-16-plan.md`** — Passage-by-passage plan for completing Romans 14–16 (4–6 sermons remaining).
+- **`.claude/preaching-gap-analysis.md`** — Analysis of passages and topics not yet covered.
+- **`.claude/unfinished-work-tracker.md`** — Tracks in-progress repairs, unresolved flags, and pending work.
 
 ---
 
