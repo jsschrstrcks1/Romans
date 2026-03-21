@@ -60,6 +60,9 @@ Sovereignty extends over creation, history, politics, individual lives, and salv
 
 Ezra 4-6 narrative: God made Israel’s captors pay to rebuild the temple, the city, and her walls. Nebuchadnezzar’s humbling (Daniel 4) demonstrates that no earthly authority — however absolute — can resist God’s will. Applied pastorally: "You and God are the majority." If blessings keep you from obedience to the Lord, they are not from God. The Japanese soldier (Hiroo Onoda) illustration: the enemy fights on not knowing the war is already won. **Explicit. Tradition: Reformed Baptist, pastoral.**
 
+Sovereignty is also taught as the ground of Christian joy and rest. God’s control is illustrated through a rapid-fire OT survey: Elijah (sovereign over altar, brook, ravens, widow of Zarephath), Jonah (wind, waves, ship, fish, plant), Abraham/Isaac (ram in thicket), Peter walking on water, and Job (God responds from the whirlwind). "God is sovereign over everything. Nothing is outside of his command." 2 Chronicles 16:9 and Matthew 10:30 cited as proof-texts for God’s exhaustive knowledge and care. Because God is sovereign, anxiety is irrational — Matthew 6:27 and Philippians 4:6 applied. **Explicit. Tradition: Reformed Baptist.**
+> — `Sermon - Rejoice in the Lord.md`
+
 #### God's Answer to "Why" Is His Name, Not an Explanation
 > "When you're asking why, God introduces himself."
 > — Steven Davey (paraphrase), cited in `Other-Sermons/Sermons/ex 6-7.md`
@@ -295,8 +298,14 @@ The Spirit effects the new birth. Regeneration precedes faith. **Explicit. Tradi
 
 Not a second experience. Not progressive. Complete at conversion. **Explicit. Tradition: Baptist, Reformed (contra second-blessing Pentecostalism).**
 
+#### OT/NT Spirit Distinction — Temporary *Upon* vs. Permanent *Within*
+> "In the Old Testament the Spirit would come upon a prophet or king for a specific task and then lift. It was selective, temporary, extraordinary. We have something greater: every believer receives the Holy Spirit as a permanent, indwelling presence — the New Covenant gift that Ezekiel 36 promised and Pentecost delivered."
+> — `Sermon - Clowns Entertaining the Goats.md`
+
+OT Spirit rested *upon* individuals for specific tasks (prophets, kings — Elijah, Elisha, Samson, David). New Covenant Spirit dwells *within* every believer permanently (Ezek. 36:26-27; John 7:39; Matt. 11:11; 1 Pet. 1:10-12). Pentecost is the transition point. This is the basis of Jesus's statement that the least in the kingdom is greater than John the Baptist — not in character, but in covenant privilege. **Explicit. Tradition: Reformed Baptist.**
+
 #### Permanent Indwelling
-> "Unlike those two [Elijah/Elisha], it never leaves us once we are saved."
+> "Every believer receives the Holy Spirit as a permanent, indwelling presence — the New Covenant gift that Ezekiel 36 promised and Pentecost delivered. He never leaves us once we are saved."
 > — `Sermon - Clowns Entertaining the Goats.md`
 
 **Explicit. Tradition: Baptist, Reformed (eternal security).**
@@ -464,6 +473,9 @@ See Hamartiology section above.
 > "Unconditional election is not only biblical, but defensible — and the very nature of grace makes the 'why' question illegitimate. Grace, by its pure definition, cannot be demanded or explained."
 > — `Journey in Grace bible study - Chapters 17-19.md`
 
+> "As many as were appointed to eternal life believed." — Acts 13:48. "God chose you as the firstfruits to be saved." — 2 Thessalonians 2:13. "He chose us in him before the foundation of the world." — Ephesians 1:4. God does the appointing — to salvation, to eternal life. We can't do it.
+> — `Sermon - Out of the Cistern.md`
+
 Infralapsarian: election follows the decree of the Fall. **Explicit. Tradition: Five-Point Calvinist, 1689 Baptist Confession.**
 
 > "Can the strength of your will overcome the will of God? If you think so, then you fall onto one side of the debate. If you think not, then you are more in line with Scripture."
@@ -488,6 +500,9 @@ See Christology section above.
 > "Don't miss the passive voice in verse 18: 'you were set free'... 'you became slaves.' God is the actor. He broke the chains."
 > — `Romans_6b r2.md`
 
+> "The Lord opened her heart to pay attention to what was said by Paul." — Acts 16:14. Who opened her heart? It was closed by sin. God has to do a work in our hearts in order for us to even have any interest in the things of God. He removes enough of the taint of sin so they can see him, and that is such a wonderful thing that once we can really and truly see, our hearts long for nothing so much as they long for Christ.
+> — `Sermon - Out of the Cistern.md`
+
 > "Can the strength of your will overcome the will of God? If you think so, then you fall onto one side of the debate. If you think not, then you are more in line with Scripture."
 > — `Sermon - Out of the Cistern.md`
 
@@ -508,6 +523,9 @@ Cistern/kitten illustration: apart from God's sovereign rescue, we remain trappe
 > "Your adoption does not hang on the thin thread of your performance but on the steel cable of Christ's finished work."
 > — `romans 9 pt 1.md`
 
+> "He who began a good work in you will bring it to completion at the day of Jesus Christ." — Philippians 1:6. He secured, ensured, and maintains our salvation. Apart from God having begun a work in your heart, you wouldn't be curious. That you care whether you're saved or not shows he has begun a work in you that he will be faithful to complete.
+> — `Sermon - Out of the Cistern.md`
+
 Prefers "preservation" language (Sproul — God's keeping work, not human effort). Explicitly frames the doctrine as building on the prior three — Total Depravity, Unconditional Election, and Definite Atonement: if man cannot save himself, he cannot maintain salvation either. God holds what God saved. **Explicit. Tradition: Reformed Baptist (TULIP — P).**
 
 #### Ordo Salutis (Order of Salvation)
@@ -521,7 +539,10 @@ Classic Reformed ordo with regeneration preceding faith. **Explicit. Tradition: 
 > — `romans 9 pt 1.md`
 
 > "The only thing man contributes to his salvation is the sin that makes it necessary." (Edwards, quoted repeatedly)
-> — `Ordo Solutis Romans 8.md`, `Ezekiel 36.md`
+> — `Ordo Solutis Romans 8.md`, `Ezekiel 36.md`, `Sermon - Out of the Cistern.md`
+
+> "Can the strength of your will overcome the will of God?" The crux question of the sermon — framing man's will against God's sovereign purpose. Very, very little depends upon us. Even our faith is a gift from God (Eph 2:8). The natural person does not accept the things of the Spirit of God (1 Cor 2:14).
+> — `Sermon - Out of the Cistern.md`
 
 Named by term. Synergism named and rejected. **Explicit. Tradition: Reformed/Calvinist.**
 
@@ -1048,6 +1069,9 @@ The `The Lords day romans 14 gal 4.md` file treats Sabbath/Lord's Day observance
 
 > "God lets hard things happen. God lets bad things happen to good people to produce better people. In the fire of the crucible God burns away imperfections in your life."
 > — `Exodus 2 - Suffering Is Not Outside His Plan.md`
+
+The outline version adds a theodicy framework: sin was allowed as a real possibility so that free will would be genuine; Adam's fall polluted all subsequent humanity (Hudson Beach septic-tank illustration — one ruptured tank taints the water for everyone); it is this taint that causes innocent suffering. God does not cause sin but sovereignly turns evil to good. Christ's own suffering exceeded anything He asks of believers — "your sin caused greater suffering for Christ than anything he will ask you or anyone else to do. He has led by example." No believer will endure separation from God as Christ did on the cross.
+> — `Sermon - Rejoice in the Lord.md`
 
 **Explicit. Tradition: Reformed, Puritan.**
 
