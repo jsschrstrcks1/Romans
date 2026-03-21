@@ -37,7 +37,13 @@ Paul, an apostle of Christ Jesus by the will of God according to the promise of 
 
 There is little life left for paul in this world as he writes this. Everything has come to a head. But yet what is he writing about? Where does his hope lie? He knows he's going to get executed, and not because of guilt, but because of politics. As such there is nothing he can do. Its like watching a train crash in slow motion.
 
-Speaking of trains. My parents were in Alaska the past couple weeks as you know, and one of the things they got to do was travel all over by train. I think up to white pass, or something like that. Anything cool that could be visited by train was visited. Any way, one particular day they were traveling back to the ship by train, and the train in front of them derailed. Took them a few hours to get a new train engine, and the train back on the tracks. By the time they got back to the ship they were 3 hours past the departure time of their cruise ship. Thankfully it was a cruise line selected excursion, and the ship waited for the several hundred passengers that were delayed by the train problem. But could you imagine? Not sure if the ship will wait, not sure whats coming behind you. Maybe you'll get hit by another train, maybe this other train will be stuck there till tomorrow, and because they are technically in Canada at this point, they aren't even allowed to get off the train. No looking around, or exploring, or anything. Just stuck there in your seat. Watching a crashed train. I feel like that's where Paul was with Demas. Except, unlike my parents who did not know if their train would wait, Paul knew that God was ultimately in control, and he had a purpose and a reason in allowing what happened with Demas. Which is surprising. Demas who was with Paul a long time, who was referenced in two other books. Who stood up to the fires of persecution and didn't waver. But when Paul was arrested this last time, what happened to demas? We don't know what happened with Demas, but we know God is Infinitely merciful, and infinitely just. I suspect he likely turned around. But we only know what Paul knew in this moment, and that is that Demas has turned away. The phrase is back slide, or in the past tense Demas has back slidden. And I think part of it was to draw Paul's attention back to the sovereignty of God. Paul is not in control. God is. What happens to Demas is not within Pauls power, only God's. And I think too it was to remind Paul of whats to come. The promise of the life that is in Christ Jesus for eternity.
+Speaking of trains. My parents were in Alaska the past couple weeks as you know, and one of the things they got to do was travel all over by train. One particular day they were traveling back to the ship, and the train in front of them derailed. They were stuck. Couldn't get off. Didn't know if the ship would wait. Just sitting there watching a crashed train they couldn't fix.
+
+I feel like that's where Paul was with Demas. Except, unlike my parents who did not know if their ship would wait, Paul knew that God was ultimately in control, and he had a purpose and a reason in allowing what happened with Demas.
+
+And that is surprising. Demas who was with Paul a long time, who was referenced in two other books — Colossians and Philemon. Who stood up to the fires of persecution and didn't waver. But when Paul was arrested this last time, what happened to Demas? He walked away. We don't know the rest of the story. We know God is infinitely merciful, and infinitely just. I suspect Demas likely turned around. But we only know what Paul knew in this moment, and that is that Demas has turned away.
+
+Some of you are Demas right now. You're drifting. Not because you've rejected Jesus outright — but because the world got louder than the Word. And the thing is, Paul can't fix Demas. That was never within Paul's power. Only God's. And I think part of what's happening here is God drawing Paul's attention back to the sovereignty of God. Paul is not in control. God is. And I think too it was to remind Paul of what's to come. The promise of the life that is in Christ Jesus for eternity.
 
 Its easy to get focused on the circumstances of life, and hard to stay focused on God. I think this is a lesson that Paul learned well, I mean what all has paul been through? Ship wrecks, and snake bites, and attempted stonings, and fleeing over the wall in a basket, and on and on and on.
 
@@ -51,7 +57,11 @@ Our saying here is taking strangers and making family, I think we see in these t
 
 There is only one other that I can think of that Paul says is like a son, and that's titus. We have a record of him saying that to Titus only once, Timothy we have record of Paul saying it to over and over.
 
-I think working together for the Lord, laboring along side one another, or pulling the cart together is one good way to build deep abiding friendships. To build family.
+I think working together for the Lord, laboring alongside one another, or pulling the cart together is one good way to build deep abiding friendships. To build family.
+
+Now look at what Paul writes to this son of his. Verse 2: "To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord."
+
+Grace. Mercy. Peace. From a man in chains. From a man facing execution. Not a political strategy. Not a defense brief. Not a manifesto. A father writing to his son about what matters when everything else is stripped away. Grace, mercy, and peace — and notice where they come from. Not from circumstances. Not from the emperor. From God the Father and Christ Jesus our Lord. That's what Paul has left to give, and it's enough. It's more than enough.
 
 I think concern for family falling astray is partly why he writes in chapter 2:
 
@@ -71,7 +81,7 @@ But this is really important to note: In the ancient content war going on in Eph
 
 I know its tempting to throw down on social media over things you're passionate about. I've seen a lot of upsetness and angry tirades over the student loan forgiveness. Full disclosure, and praise the Lord, I'll likely be getting somewhere between 12 and 20,000 in student loans forgiven. However it is a thing I've voted against in every election, by voting against every candidate that fought for this. I think it cheapens the value of the degrees I've earned. I think it saddles my kids, and likely their kids with more debt. I think there are a lot of fiscal reasons to not have done this. And yet, I'm praising the Lord, because an amount on par with my annual salary will be dropping off my credit report. An amount I likely wouldn't have been able to pay back in the next twenty years, will now be available for things like medical insurance. I haven't been to a doctor in twenty years. Maybe this will help fix that. Any way, were getting off track. Because it isn't my plight that I want you to think about. It's the gospel. Because whats more important? The gospel? Or inflation? People not going to hell? Or the unfairness of student loans being forgiven?
 
-C. T. Studd wrote "Only one life twill soon be past, and only whats done for Christ will last".
+C. T. Studd wrote "Only one life, 'twill soon be past, only what's done for Christ will last."
 
 Does Christ care more about peoples souls, or financial mismanagement. What I'm getting at is don't let politics cause you to miss out on paul and timothy like relationships. Don't let politics take away your platform for sharing the gospel. Don't let things of secondary importance distract you from things of primary importance.
 
@@ -85,26 +95,47 @@ That's a sentiment that should sting a bit.
 
 Because while many of us from both sides of the political aisle are passionate about our politics, if our focus is on politics to the extent that we've forgotten about Jesus, we have lost the plot, and are living in sin just as much as that neighbor that brings a different girl home every night. A Christian that puts politics first, is no better. Instead of polluting our bodies, we are polluting our hearts. Politics are important. But not the MOST important. Jesus is. If you disagree with that, its possible, you need to come to know Jesus for the very first time.
 
-With his final letter, did Paul address the incredibly deceitful politics that led to his capture and multiple arrests? Did he cry out for equitable treatment? Did he rail against the politicos in power that were mistreating him? He certainly could have. He wasn't being treated fairly. He wasn't at the heart of one of the largest miscariages of justice in the history of the roman empire. But No that isn't what paul does. Instead He conveys his love for the church. He grieves those that have abandoned their faith, and encourages Timothy to share the gospel.
+Paul's final letter is not a political manifesto. It's not a defense brief. It's not a strategy memo. It's a father writing to his son about what matters when everything else is stripped away.
+
+With his final letter, did Paul address the incredibly deceitful politics that led to his capture and multiple arrests? Did he cry out for equitable treatment? Did he rail against the politicos in power that were mistreating him? He certainly could have. He wasn't being treated fairly. He was at the heart of one of the largest miscarriages of justice in the history of the Roman empire. But no — that isn't what Paul does. Instead he conveys his love for the church. He grieves those that have abandoned their faith, and encourages Timothy to share the gospel.
 
 Keeping our hearts pure before God is vital. Politics is an idol in this country, and yet still a necessary thing. We have to vote. But we must not allow something beautiful and important, to take the place of God in our hearts and lives. Even if all the false teachers on social media are demanding we take sides. Our side is God's side.
 
-If you're not yet on God's side, that starts with the gospel.
+And if you're not yet on God's side, that starts with the gospel. Let me tell you what that means. You and I have sinned against a holy God. Not just made mistakes — sinned. Rebelled. Chosen ourselves over Him. And the wages of that sin is death — not just physical death, but eternal separation from God. That's what we've earned. But God, being rich in mercy, sent His Son Jesus Christ to live the life we couldn't live and die the death we deserved to die. On the cross, Jesus took the wrath of God that belonged to us. He was buried. And three days later He rose from the dead, defeating sin and death forever. That's the promise of the life that is in Christ Jesus that Paul is clinging to in verse 1. And that promise is offered to you today. Repent of your sin. Trust in Christ alone. Not your politics. Not your good behavior. Not your church attendance. Christ alone. And the God who kept Paul through chains and abandonment and a death sentence will keep you too. Grace, mercy, and peace — from God the Father and Christ Jesus our Lord.
 
 ---
 
 ## Flags for Future Polish
 
-- **2 Timothy 4:9-10** *(verified)*: "Do your best to come to me soon. For Demas, in love with this present world, has deserted me and gone to Thessalonica." -- exact ESV match.
-- **2 Timothy 4:6-8** *(verified, minor)*: ESV capitalizes "that Day" (capital D); draft had lowercase. Corrected in extraction.
-- **2 Timothy 2:14** *(verified, partial quote)*: Draft originally omitted the opening "Remind them of these things, and" -- restored to full ESV text in extraction.
-- **2 Timothy 2:16-17** *(verified, partial quote)*: Draft originally omitted opening "But" -- restored to full ESV text in extraction.
-- **2 Timothy 2:23** *(verified)*: Exact ESV match.
-- **2 Timothy 1:10 via David Mathis** *(verified)*: The ESV text within Mathis's quotation is accurate. "The grace of God" is Mathis's framing from v. 9, not presented as part of v. 10 text.
-- **1 Corinthians 15:55** *(verified)*: "O death, where is your victory? O death, where is your sting?" -- exact ESV match.
-- **C.T. Studd quote** *(verified)*: "Only one life, 'twill soon be past, only what's done for Christ will last" -- from the poem "Only One Life, 'Twill Soon Be Past" by C.T. Studd (1860-1931). Widely attributed and confirmed.
-- **David Mathis attribution** *(unverified specific article)*: Quoted as "The Preacher David Mathis" -- Mathis is a writer/pastor associated with Desiring God Ministries. The specific article source should be identified before citing in print.
-- **Brett McCracken / Gospel Coalition quotes** *(unverified specific article)*: Multiple block quotes attributed to McCracken of the Gospel Coalition. The substance aligns with his known writing (likely from "The Wisdom Pyramid" or a related TGC article), but the specific source should be confirmed before citing in print.
-- **"Paul says we must be all things, to all men, that by all means some might be saved"** *(verified in substance)*: Paraphrase of 1 Corinthians 9:22. ESV reads: "I have become all things to all people, that by all means I might save some." The draft paraphrases rather than quotes directly -- acceptable in oral delivery.
-- **Nero / Christians as lamps** *(historically attested)*: The description of Nero using Christians as human torches is from Tacitus, *Annals* 15.44. Historically well-attested.
-- **Dating note**: References to student loan forgiveness, social media climate, and pandemic aftermath suggest this sermon is from late 2022 (following Biden's August 2022 student loan forgiveness announcement). Update topical illustrations if reprising.
+### Verified ✅
+- **2 Timothy 4:9-10** ✅ Exact ESV match.
+- **2 Timothy 4:6-8** ✅ ESV capitalizes "that Day" (capital D). Corrected in extraction.
+- **2 Timothy 2:14** ✅ Full ESV text restored (opening "Remind them of these things, and" included).
+- **2 Timothy 2:16-17** ✅ Full ESV text restored (opening "But" included).
+- **2 Timothy 2:23** ✅ Exact ESV match.
+- **2 Timothy 1:1** ✅ Exact ESV match.
+- **2 Timothy 1:2** ✅ Added; exact ESV: "To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord."
+- **1 Corinthians 15:55** ✅ Exact ESV match.
+- **C.T. Studd quote** ✅ Corrected punctuation: "Only one life, 'twill soon be past, only what's done for Christ will last."
+- **1 Corinthians 9:22** ✅ Verified as paraphrase. ESV: "I have become all things to all people, that by all means I might save some." Sermon uses "men" (KJV) and passive voice — acceptable in oral delivery.
+- **Nero / Christians as lamps** ✅ Tacitus, *Annals* 15.44. Historically well-attested.
+- **Timothy's parentage** ✅ Acts 16:1.
+- **Demas in two other books** ✅ Colossians 4:14, Philemon 1:24.
+- **Titus called "son" once** ✅ Titus 1:4 only.
+
+### Unverified ⚠️ (verify before print/reuse)
+- **David Mathis** ⚠️ Pastor at Cities Church, Minneapolis; executive editor at desiringGod.org. The specific article source for the "abolished death" quote should be identified.
+- **Brett McCracken** ⚠️ Senior editor at TGC. Quotes consistent with *The Wisdom Pyramid* (2021) and TGC articles. Specific sources should be confirmed.
+
+### Repairs Applied *(March 2026)*
+- Trimmed Alaska train illustration (~60% reduction)
+- Added direct address to backsliders ("Some of you are Demas right now")
+- Fixed confusing double-negative ("wasn't" → "was" at the heart of miscarriage of justice)
+- Fixed "miscariages" typo → "miscarriages"
+- Added antithetical parallelism at climax ("not a political manifesto... not a defense brief...")
+- Added verse 2 exposition ("Grace. Mercy. Peace. From a man in chains.")
+- Added explicit gospel close (sin, cross, resurrection, repentance, faith)
+- Fixed C.T. Studd quote punctuation
+
+### Dating Note
+References to student loan forgiveness, social media climate, and pandemic aftermath suggest late 2022 (following Biden's August 2022 announcement). Update topical illustrations if reprising.
