@@ -91,3 +91,92 @@ He has lead by example, sacrificing Jesus for us. If he then asks us to give up 
 We know he loves us too much to leave us the way we are. 
 
 And all of that begins with the gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+
+---
+
+### 1. Verdict Title
+God's Fierce and Costly Love Preached with Warmth — But the Cross Remains Implicit While the Chisel Does the Work
+
+### 2. One-Sentence Summary
+A warm and imaginatively rich meditation on 1 John 4:7–21 that presents God's love as both hurricane-fierce and costly, grounds it in the cross and the Abraham/Isaac typology, but whose structural looseness, implicit rather than proclaimed gospel, and absence of direct conscience-pressing prevent it from reaching its full homiletical potential.
+
+### 3. Berean Gate
+**PASS.**
+- **Scopus Test:** The main point — that God's love for us is not safe, is costly and pruning, and was consummated in the sending of his Son as propitiation — arises from 1 John 4:7–21, particularly vv. 9–10 ("this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins"). The sermon's thesis is consistent with John's argument.
+- **Authority Test:** The preacher does not soften the text's hard teaching about divine love including discipline, pruning, and suffering. The "hurricane and tree" metaphor embraces the dangerous aspect of God's love rather than domesticating it.
+
+### 4. Fatal Flaw Flags
+**None triggered.** Score is not capped.
+- The gospel is present (propitiation named; the cross as "he loved us enough to die for us"); though it remains under-proclaimed.
+- Christ is essential — the sermon cannot stand without him.
+- Application is present (praying for patience, giving up rights, the lightning/boat story, trusting God in the crucible).
+- Exhortation is present in principle ("We shouldn't try to hold back in loving God"; the challenge to trust the process).
+- The sermon is accessible to ordinary hearers.
+
+### 5. Score Breakdown
+
+| Category | Score | Notes |
+|---|---|---|
+| Exposition & Hermeneutics (25 pts) | 13/25 | The passage (1 John 4:7–21) is referenced throughout but not worked verse-by-verse. The key doctrinal heart of vv. 9–10 ("propitiation") receives mention but no sustained exposition. The Abraham/Isaac typology (Genesis 22) is preached with genuine insight. The primary interpretive move — that God's love includes discipline and pruning — is legitimate but not derived systematically from the passage's own argument; John's argument in 4:7–21 is primarily about love as the ground and model of mutual Christian love, not about God's disciplinary love, which is more native to Hebrews 12. The FCF (our tendency to want a tame, safe god rather than the consuming fire of the real one) is named effectively. |
+| Theology & Doctrinal Integrity (18 pts) | 12/18 | The "God isn't safe but he is good" framework (C.S. Lewis) is theologically sound and well-deployed. The propitiation reference at the end is doctrinally accurate. The Abraham/Isaac treatment gestures toward substitutionary atonement ("like a lamb to the slaughter"). However, the primary theological frame — God's love as hurricane/pruning/chiseling — is more reflective of Hebrews 12 and Romans 5:3–5 than of 1 John 4:7–21's argument, which is that God's love *demonstrated in the incarnation and cross* becomes the ground and model for Christian mutual love. The sermon preaches one true aspect of God's love but not the aspect this text primarily addresses. |
+| Gospel Centrality & Force (15 pts) | 8/15 | The cross appears twice: briefly in "he loved us enough to die for us" and more substantively in the Abraham/Isaac section ("he loved us with a love that didn't spare his own son from the cross"). The propitiation reference at the end (v. 10) is the passage's own gospel statement and is named but not proclaimed with force. The Synagogue Test: a theist who believes in a pruning, disciplining, sovereign God could sit through most of this sermon without being confronted by the specific offense of the cross and substitutionary atonement. The gospel is assumed more than proclaimed. |
+| Conscience & Applicatory Force (15 pts) | 8/15 | The idol-fishing story (man who skipped church and had his boat struck by lightning) is vivid and specific. The prayer-for-patience application is honest and self-aware. The "hold everything with open hands" Corrie Ten Boom quote provides a memorable takeaway. However, the sermon does not press specific consciences: Who in the congregation is holding a specific idol too tightly? Who is in the crucible right now and needs to be told that God is refining, not destroying? Who has domesticated God into safety and must be confronted with the hurricane? These hearers are implied but not directly addressed. |
+| Exhortation & Response (8 pts) | 4/8 | The implicit exhortation is "surrender — hold everything with open hands — trust God in the crucible." This is real, but it is not stated as a clear imperative with a "therefore" moment. The sermon ends with "And all of that begins with the gospel." which is the right instinct but the wrong execution — it points to the gospel as a beginning rather than proclaiming it as the present reality. There is no explicit call to believe, repent, or surrender a named specific thing. |
+| Structure & Logical Flow (9 pts) | 5/9 | The sermon has a discernible shape: (1) love as hurricane (not safe); (2) God's love includes pruning/discipline; (3) specific mechanisms of discipline (doctor removing tumor, compass analogy, parent discipline); (4) Abraham/Isaac as the supreme demonstration; (5) conclusion: God's love is more than we paid. The illustrations cluster in the middle, creating a slightly episodic feel. The "hold everything with open hands" Corrie Ten Boom quote is a better ending than the actual ending and should be the climax. |
+| Illustration & Imagination (5 pts) | 4/5 | The "love like a hurricane and I am a tree" lyric is evocative and well-deployed as an organizing metaphor. The Abraham/Isaac section is the strongest expository-illustrative moment in the sermon. The lightning/boat story is memorable and concrete. The compass illustration (half-degree off course = hundreds of miles off) is a useful analogy. One deduction: the compass and tumor illustrations are back-to-back conceptual analogies without sufficient differentiation — they somewhat blur together. |
+| Sermonic Force (5 pts) | 3/5 | The manuscript has genuine warmth and pastoral directness. The hurricane metaphor gives the sermon a vivid register that it maintains reasonably well. The sentence "He loved us with a love that didn't spare his own son from the cross, so that we could spend eternity with Him" has real preachable weight. Deductions for an ending that deflates and for momentum that sags in the middle when the illustrations cluster. |
+| **Subtotal** | **57/100** | |
+| Weight of Glory Bonus | +2/5 | The Abraham/Isaac section and the "God isn't safe but he is good" frame carry genuine eternal weight. The sermon points beyond Sunday. |
+| Cognitive Load Modifier | 0 | Accessible and well-paced throughout. |
+| **Total** | **59/100** | |
+
+### 6. Cognitive Load Modifier
+**0** — The sermon is accessible. The illustrations are from the congregation's world. No overloading.
+
+### 7. Total Score
+**59/100 — Concerning Gaps, approaching Fundamentally Flawed**
+The sermon's pastoral warmth and imaginative force are genuine. The hurricane metaphor, Abraham/Isaac treatment, and honest acknowledgment of God's dangerous love are real strengths. But the text's primary argument — that God's love demonstrated in the incarnation and cross is both the ground and the model of Christian mutual love — is replaced by a secondary theme (love as discipline/pruning) that is true but not what 1 John 4:7–21 is primarily teaching. The gospel is present but implicit. The conscience is engaged but not pressed with precision.
+
+### 8. Core Override Questions
+1. Does this sermon make me think more of Christ — or myself? **Mostly Christ — the love preached is God's, not self-improvement.**
+2. Did I encounter God, or just ideas about Him? **Partially — the Abraham/Isaac section and the hurricane metaphor create genuine encounter-potential.**
+3. Was I comforted, convicted, or merely informed? **More comforted and encouraged than convicted. The sermon soothes more than it searches.**
+
+### 9. Strengths (Top 3)
+1. **"God isn't safe, but he is good" — the hurricane metaphor is theologically honest and pastorally brave.** The preacher resists the congregation's desire for a domesticated God and preaches a love that prunes, cuts, and chisels. This is the sermon's most distinctive and valuable contribution.
+2. **The Abraham/Isaac treatment is the expository high point.** The observation about Isaac's willing compliance ("like a lamb to the slaughter") and the British Museum ram artifact add both theological depth and historical texture. The connection to Christ's own willingness is well-drawn.
+3. **Pastoral self-awareness in illustration.** The "pray for patience knowing what that means" section is honest, self-deprecating, and rings true to the congregation's experience — a genuine strength in application credibility.
+
+### 10. Critical Weaknesses (Top 3)
+1. **The sermon teaches a true aspect of God's love but not the aspect 1 John 4:7–21 is primarily teaching.** John's argument is: God's love was manifested in sending his Son as propitiation (vv. 9–10); therefore, we ought to love one another (v. 11); those who love abide in God (v. 16). The text is primarily about the ground of mutual Christian love, not about God's disciplinary love. The sermon imports a different (true, but different) framework.
+2. **The cross is implicit, not proclaimed.** "He loved us enough to die for us" appears but is never unpacked into the specific claims of penal substitution: wrath, imputation, satisfaction, resurrection. An unbeliever could leave this sermon knowing God loves fiercely but not knowing what to do with that love or how to receive it.
+3. **Differentiated address is absent.** The sermon speaks to one implied hearer: the believer in a difficult season who needs encouragement to trust God's pruning process. It does not address the person who has never entered the process (the unbeliever), the person who is bitter at God for his painful pruning (the doubter), or the person who has rejected God's discipline and walked away (the backslider).
+
+### 11. Blind Spots
+The preacher's genuine delight in God's sovereign love and providential care may be causing him to preach his own theology *about* this passage rather than the passage's own argument. The distinction matters: 1 John 4 is not primarily a comfort to believers in suffering — it is a command grounded in an indicative. "We love because he first loved us" (v. 19) is the key verse, and the command to love one another is the primary application. The sermon addresses neither.
+
+### 12. Illusion of Strength
+The hurricane/lion/chisel imagery is evocative and memorable, creating an impression of theological depth about God's nature. But this imagery is more from C.S. Lewis ("not safe but good") and Hebrews 12 ("he disciplines those he loves") than from 1 John 4. The theological content is sound, but it belongs primarily to another passage — which means the sermon feels more exposition-like than it actually is.
+
+### 13. Missed Opportunity
+1 John 4:19 — "We love because he first loved us" — is one of the most important statements of Christian ethics in the New Testament. It is the pivot of the entire passage: God's love, demonstrated in the propitiation, becomes the engine of Christian love. The sermon never reaches this verse. The entire "therefore love one another" application — which is John's primary point — is entirely absent from the sermon. The congregation hears about God's love for them; they never hear John's command to let that love overflow to each other.
+
+### 14. Surgical Fixes
+- **Rebuild the sermon around vv. 9–10 and v. 19 as the twin poles.** (1) God's love demonstrated: sent his Son as propitiation (vv. 9–10). (2) God's love received produces love in us: "we love because he first loved us" (v. 19). (3) Therefore, love one another (vv. 11–12). The hurricane/pruning material can support point 1 as an aspect of God's love, but it should not replace the text's argument.
+- **Proclaim the propitiation explicitly.** The word appears (end of sermon, quoting v. 10) but is not opened. "Propitiation means Christ satisfied the wrath that our sin deserved. He absorbed it. He stood between us and God's holy judgment and said 'take me.' *That* is what love looks like at its maximum."
+- **Add the application John actually gives.** "So because God loved us this way, we ought to love one another (v. 11). Who in this room are you not loving? Not in word or talk, but in deed and in truth? That is where this text lands for us today."
+- **Replace the ending.** "And all of that begins with the gospel" should become the gospel itself — stated, proclaimed, and applied to both the unbeliever and the struggling believer in the room.
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — the sermon has genuine warmth and pastoral fire. The issue is textual alignment, not temperature.
+
+### 16. Weight of Glory Assessment
+The Abraham/Isaac section and the "God isn't safe but he is good" frame carry genuine eternal weight; the sermon burns warmly but unevenly, strongest when it trusts the cross and weakest when it substitutes the chisel for the blood.
+
+### 17. Rubric Fit Note
+The rubric fits this passage. 1 John 4:7–21 is a rich epistle passage with clear indicatives and imperatives, a strong gospel center (vv. 9–10), and a direct application to mutual love within the community. The rubric's Gospel Centrality and Conscience categories are appropriately demanding here.

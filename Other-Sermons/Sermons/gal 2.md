@@ -56,3 +56,197 @@ Gospel.
 ~~**⚠️ Isaiah 64 / Romans 3:10 cross-reference error**~~ — **RESOLVED March 2026.** Cross-reference decoupled in body text: Isaiah 64:6 (filthy rags) and Romans 3:10 (Ps 14 quote) now presented as separate references. ✓
 
 ~~**⚠️ Calvin quote unattributed**~~ — **RESOLVED March 2026.** Body text now reads: "John Calvin wrote in his *Institutes* that man's nature is 'a perpetual factory of idols' (*Institutes* 1.11.8)." ✓
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Date Evaluated**: 2026-03-21
+**Sermon File**: `gal 2.md`
+**Primary Text**: Galatians 2:15–end (vv. 15–21)
+
+---
+
+### 1. Verdict Title
+
+**"The Gospel Is There, But the Text Is Not — A Sprawling Testimony With a Justified Conclusion"**
+
+---
+
+### 2. One-Sentence Summary
+
+A sermon that closes on the text's actual theology (union with Christ, crucifixion with Christ, faith not works) but spends most of its length in a wide-ranging survey of human sinfulness, biblical heroes' failures, and illustrations, arriving at Galatians 2:19–20 only in the sermon's final quarter.
+
+---
+
+### 3. Berean Gate
+
+**PASS — with substantial qualification.**
+
+The main point of the sermon — justification by faith and not works, and the transformed life of union with Christ — is the main point of Galatians 2:15–21. The preacher does arrive there. However, the sermon spends the majority of its runtime in material drawn from other texts (Romans 3, Galatians 5, Isaiah 64, 1 Corinthians 6), and the passage itself (vv. 15–21) is not read until midway through the sermon, and its actual argument (the Peter confrontation as backdrop, the logic of "if justification came through the law, Christ died for nothing" — v. 21) is not developed.
+
+**Scopus Test**: The thesis is articulable — "we are justified by faith in Christ, not works, and that justification transforms us." It arises from the text, so the gate passes.
+
+**Authority Test**: The preacher submits to the text's claims. No softening.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**No fatal flags triggered. Score is not capped.**
+
+- Gospel is present and explicitly proclaimed.
+- Christ is necessary to the sermon's argument.
+- Some application is specific (church membership, testimonies, personal transformation).
+- The sermon is accessible.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 12/25**
+
+- *Textual Fidelity (5/10)*: The sermon uses Galatians 2:19–20 as its key passage and quotes it correctly. But vv. 15–18 — the doctrinal foundation of what Paul is arguing — are not exposited. The argument of v. 21 ("if righteousness were through the law, then Christ died for no purpose") — Paul's sharpest point in the passage — is not mentioned at all. The bulk of the sermon draws on Romans 3, Galatians 5, Isaiah 64, and 1 Corinthians 6, which are supporting texts rather than the text being preached.
+- *Contextual Awareness (2/5)*: The background of the Peter/Paul confrontation — which is what gives Galatians 2 its biographical weight — is mentioned briefly in the Galatians 1 sermon but not surfaced here. The reader/hearer does not understand why Paul is saying what he says in these verses.
+- *Exegetical Clarity (2/5)*: The key phrase "crucified with Christ" (v. 20) is exposited with the correct theological meaning (union with Christ, death to self). But the word "crucified" carries no exegetical development beyond the metaphor. "I live, yet not I" — one of the richest phrases in Paul — receives no unpacking.
+- *Logical Faithfulness (3/5)*: The sermon does not import foreign ideas, and the theology is correct. But the text's own logic is not followed — Paul's argument moves from the logic of justification to its consequence for life; the sermon moves from sinfulness → examples of sinful heroes → gospel → union with Christ, which is a different argument.
+- *FCF*: Named broadly (universal human sinfulness and inability to meet God's standard) but not text-specifically (the specific FCF in Gal. 2 is the church's tendency to seek justification through law-keeping — returning to the yoke from which grace freed them).
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness (5/7)*: Union with Christ ("I have been crucified with Christ, it is no longer I who live but Christ who lives in me") is the theological heart of the passage, and the sermon does arrive there. The quote from John Calvin (*Institutes* 1.11.8 — "perpetual factory of idols") is accurate and well placed. The sermon does not distort Christ's role.
+- *Redemptive-Historical Awareness (2/3)*: The sermon alludes to Adam, Abraham, Moses, David, Paul — a sweep of redemptive history. It is not organized by redemptive-historical logic, but the awareness is present.
+- *Doctrinal Precision (3/4)*: Justification by faith is stated clearly. The already/not yet of sanctification is handled well ("this takes place over time... already true of us... not fully expressed"). No theological errors detected.
+- *Confessional Alignment (3/4)*: The Doctrines of Grace are present implicitly (the irresistible draw of John 6:44 closes the sermon). No confessional errors.
+
+**3. Gospel Centrality & Force — 10/15**
+
+- *Clarity of the Gospel (4/5)*: The gospel is stated plainly (grace through faith, not works). Ephesians 2:8–9 is again invoked. Justified by faith alone is the clear message.
+- *Necessity of Christ (4/5)*: Christ is not decorative here. The union-with-Christ section and the John 6:44 ending make Christ essential.
+- *Cross-Centered Gravity (2/5)*: The cross is present but not dwelt upon with force. The passage itself ("gave himself for me" — v. 20b) — one of the most personally intimate statements Paul makes about the cross anywhere — is quoted but not lingered over. The sermon lists cross-purchased benefits without letting the cross itself be the climax.
+
+**4. Conscience & Applicatory Force — 9/15**
+
+- *Heart Penetration (3/5)*: The sermon does press on idolatry, self-love, Sabbath neglect, and sex outside marriage. The "stove burner" illustration effectively names the expectation that true conversion should show. However, the conscience is pressed with broad strokes rather than surgical ones.
+- *Specificity (3/5)*: "God keeping you from those roads is a miracle — if that's your testimony, don't discount it" is specific and unexpected pastoral comfort. The naming of drugs, gangs, and "the full depths of human depravity" is more specific than many sermons. The sex-outside-marriage application is concrete.
+- *Spiritual Differentiation (3/5)*: The sermon distinguishes unbelievers (come today), backsliders ("you became a Christian a long time ago but wandered away"), and believers. Three of Perkins' seven categories are touched. The knowledgeable-but-unhumbled is not directly addressed.
+
+**5. Exhortation & Response — 4/8**
+
+- *Call to Response (2/4)*: "Today is the day to get right with God" is present. The word "Gospel." at the end of the sermon is a placeholder — not a developed exhortation. The closing line truncates rather than lands.
+- *Equipping for Holiness & Witness (2/4)*: The sermon calls believers toward transformed living, but does not send the church out. No corporate "therefore." No specific call to action for those already in Christ.
+
+**6. Structure & Logical Flow — 5/9**
+
+- *Clarity of Outline (2/4)*: The sermon does not have a traceable outline. It moves: ring illustration → people group → stove burner illustration → law and guilt → heroes of faith failures → gospel/salvation → union with Christ → John 6:44 → announcements. A listener could not sketch this on a napkin with confidence.
+- *Progression (2/3)*: The sermon does build from sinfulness to grace, which is the right direction. The John 6:44 section on the Greek word for "draws" is the sermon's most exegetically interesting moment and lands with some force.
+- *Unity (1/2)*: The ring illustration, the people group, the stove burner, the heroes-of-faith survey, and the John 6:44 section are not unified by a central image or argument. These are several good ideas competing for the sermon's center.
+
+**7. Illustration & Imagination — 3/5**
+
+- *Relevance (2/2)*: The ring proposal story is engaging and relatable. The stove burner illustration for conversion is arresting and memorable. The Moses-glowing-after-meeting-God image is well used.
+- *Clarity (1/2)*: The ring story opens the sermon but the connection to Galatians 2 is not made tight enough — "do we live like we have something precious?" is the bridge, but "something precious" is the Christian life generically, not the specific claim of Galatians 2.
+- *Memorability (0/1)*: The stove burner illustration is the sermon's most memorable image, but it is introduced relatively early and does not recur or climax.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2)*: This reads like a man talking to his congregation. Direct address is present. The oral cadence is genuine.
+- *Conviction on the Page (1/2)*: The preacher's conviction is evident but the manuscript's Scripture-grounded assertion ratio is lower than it should be — the heroes-of-faith section is long narrative with relatively light scriptural density.
+- *Cadence and Breath (0/1)*: The sermon ends on a placeholder word ("Gospel.") — the single most deflating possible ending. The John 6:44 Greek section has real sermonic energy; it should be the climax, not the penultimate section before announcements.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1**: The sermon covers a great deal of ground (multiple texts, multiple illustrations, multiple characters from biblical history). The individual elements are accessible, but the sermon does not cohere around a single organizing idea, which means the congregation may carry away only impressions rather than a single clear truth.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 12/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 10/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **59/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **60/100** |
+
+**Interpretation**: Bottom of "Concerning gaps" (60–69). The sermon has real gospel content and pastoral warmth, but the expositional weakness and structural diffuseness prevent it from functioning as a full proclamation of the text's argument.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Partially Christ. The sinfulness survey focuses on self-assessment at length before Christ arrives. The John 6:44 ending reorients toward Christ. Mixed.
+2. *Did I encounter God, or just ideas about Him?* Primarily ideas. The union-with-Christ section ("I have been crucified with Christ") is the closest the sermon comes to an encounter. That section deserves to be the center, not a transitional section.
+3. *Was I comforted, convicted, or merely informed?* The heroes-of-faith failure section convicts through humiliation; the gospel section comforts. But the sermon does not leave the hearer in a single, clear place.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The already/not yet of sanctification**: "It is one of those things that is already true of us... and yet not fully expressed. It increases over time because of God's grace." This is theologically precise and pastorally useful — and it is not a given in evangelical preaching.
+2. **The John 6:44 Greek word study**: The three uses of *helkuō* (sword from sheath, net from sea, drag) is the sermon's most exegetically alive moment. It is accessible, memorable, and arrives at a strong doctrinal point about the sovereignty of God in salvation without using the word "sovereignty."
+3. **Specificity about transformation**: "In this room right now are stories of people addicted to drugs, but God saved them. Stories of people who have been involved with violent gangs." This addresses the congregation as a specific body with a known history, not a generic audience.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The primary text is not preached**: Galatians 2:15–21 is quoted only in part (vv. 19–20). The passage's doctrinal argument — particularly v. 21, "if righteousness were through the law, then Christ died for no purpose" — is the text's theological climax and is completely absent from the sermon. The sermon uses the text as a supporting reference rather than as its source.
+2. **"Gospel." as a closing word**: The sermon ends mid-sentence with a placeholder. This is the single most significant structural problem. Whatever was meant to be preached at that point was never preached. The congregation was informed and then sent home without a full exhortation or gospel proclamation.
+3. **The heroes-of-faith failure tour runs too long**: Adam, Moses, Abraham, David, Paul — each narrated with some humor but no exegetical development — consumes a large portion of the sermon's runtime. The purpose (to establish universal sinfulness) is clear, but it is achieved at the cost of time that should be spent in Galatians 2.
+
+---
+
+### 11. Blind Spots
+
+The preacher does not appear to see that Galatians 2:20b — "who loved me and gave himself for me" — is one of the most personally intimate statements Paul makes about the atonement anywhere in his letters. It is not a general statement about God's love; it is Paul's own firsthand testimony of what Christ's death means *for him specifically*. The sermon quotes this line but moves past it without noting that Paul is here giving his own testimony — precisely the genre the sermon is building toward (the testimony service). The passage and the sermon's format were made for each other at this point, and the connection is missed.
+
+---
+
+### 12. Illusion of Strength
+
+The extensive survey of biblical heroes' failures *feels* like rich biblical content — it is, after all, many texts, many characters, and the preacher handles them with familiarity. But this material is doing the work of establishing a doctrine (universal human sinfulness) that Paul establishes in one clause ("all have sinned and fallen short of the glory of God") so that he can move quickly to the gospel. The apparent biblical richness of the section masks the fact that it is largely delaying arrival at the actual text.
+
+---
+
+### 13. Missed Opportunity
+
+Paul's phrase "by faith in the Son of God, who loved me and gave himself for me" (v. 20) — combined with the sermon's stated format (testimony service to follow) — was an extraordinary opportunity to preach from Paul's own testimony about what the cross means to the one who receives it personally. "Paul was about to open a testimony time — and here is the testimony Paul himself gave about Jesus." That connection would have unified the entire sermon.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Read and exposit vv. 15–21 as the body of the sermon**: The passage has three clear moves — the logic of justification by faith (vv. 15–16), the consequence for how to live (vv. 17–19), and the personal testimony of union (vv. 20–21). Preach these three moves.
+2. **Replace the heroes-of-faith survey with a tighter law-hammer section**: One or two examples of human sinfulness against God's standard will do the work. The sinfulness-established-by-multiple-examples approach takes too long and disperses the congregation's attention.
+3. **Develop Gal. 2:21 — "Christ died for no purpose"**: This is Paul's sharpest point. If you can merit righteousness by the law, Christ's death was unnecessary. That is Paul's argument against the judaizers — and it is a devastating one. This verse alone could carry a significant section of the sermon.
+4. **Write the exhortation fully**: The "Gospel." placeholder needs to be replaced with a developed proclamation of the gospel and a specific call — to seekers, to the struggling believer, to the one considering returning to religious works for peace. This is the sermon's most urgent repair.
+5. **Connect v. 20b to the testimony service**: "Paul gave his testimony right here. 'Who loved me and gave himself for me.' That is what a testimony sounds like. Now we will hear yours." This ties the sermon's format to the text with precision.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is too warm and too gospel-filled to trigger this flag. The energy is genuine; the content needs more text.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries moments of genuine eternal gravity — particularly in the John 6:44 section and the conversion testimonies — but the unfinished conclusion and the structural diffuseness keep it from the sustained weight this passage is capable of producing.
+
+---
+
+### 17. Rubric Fit Note
+
+Galatians 2:15–21 is a Pauline doctrinal argument embedded in a biographical narrative — the rubric applies with full force. This is the kind of passage where exposition, gospel centrality, and applicatory force can all fire at once. The passage is not well-served by the current approach; it is better served than many texts by the rubric's categories. No genre strain.
