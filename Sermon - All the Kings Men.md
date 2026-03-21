@@ -25,13 +25,13 @@ Nehemiah was an average joe.
 
 Verse 1 — "The words of Nehemiah the son of Hacaliah." The Jews liked to put the information they felt was most important right at the start. They always wanted to know whose you are. So they list genealogies so they can show that they belong to someone important. "I'm of David," or "I'm of this scribe," or "that Pharisee." Remember Paul when he was Saul — he was introduced that way. "This is Saul, follower of Gamaliel." Gamaliel was an important man. It would be like being chosen by the president for something.
 
-But not Nehemiah. He's the son of a nobody. He's not the follower of anyone special. He's just an average joe. Son of someone who to our knowledge had never done anything special. Hacaliah's name is not recorded inside or outside of Scripture anywhere other than here. If he hadn't been father to a man that became remarkable we probably would have never heard his name.
+But not Nehemiah. He's the son of a nobody. He's not the follower of anyone special. He's just an average joe. Son of someone who to our knowledge had never done anything special. Hacaliah's name appears in Scripture only as the father of Nehemiah. If he hadn't been father to a man that became remarkable we probably would have never heard his name.
 
 Nehemiah was the king's cupbearer. This was an important job. A cupbearer was to bring the king his drink at dinner. He would also take a sip of it ahead of his king. In this day and age poison was a key tool in assassinations. So if someone were trying to kill the king, compromising a cupbearer was a good way to do so. The job was a position of trust. It was a good job. The king would often pay them well enough that bribes wouldn't be of interest. It is known from texts that survive that in Persia, and indeed under King Artaxerxes whom Nehemiah served, the cupbearers were also frequently in charge of overseeing the king's money — sort of like accountants for the king. It was a position that would require a lot of integrity and character. A position of trust.
 
 Verse 2 — "Hanani, one of my brothers, came with certain men from Judah. And I asked them concerning the Jews who escaped, who had survived the exile, and concerning Jerusalem."
 
-This is sort of like water cooler gossip. He knew that Jerusalem had been sacked. He had probably been taken as part of the sacking of Jerusalem. All of that had taken place maybe 140 years before. At this time Ezra was in charge of Jerusalem. Ezra had been in charge of the initial rebuilding of the walls. Ezra was a wealthy man, and some people say Ezra was the scribe that accumulated all the books that we now call the Old Testament. We don't know that for sure, but it makes logical sense.
+This is sort of like water cooler gossip. He knew that Jerusalem had been sacked. He had probably been taken as part of the sacking of Jerusalem. All of that had taken place maybe 140 years before. At this time Ezra was in charge of Jerusalem. The temple had been rebuilt under Zerubbabel about seventy years before. Ezra was the priest and scribe who had led the spiritual reform — teaching the Law and confronting sin among the people. Some people say Ezra was the scribe that accumulated all the books that we now call the Old Testament. We don't know that for sure, but it makes logical sense.
 
 So Nehemiah is asking about the progress Ezra has made on re-securing the city. The response he gets breaks Nehemiah's heart.
 
@@ -50,7 +50,7 @@ In any case, this was heartbreaking news. It would have been like living in Euro
 
 I remember I was getting ready for a Greek midterm, and someone stuck their head in the class and said that a Cessna had crashed into the World Trade Center. The professor thanked him and sent him out. We had a study group going, the professor was helping. Then someone else came in and announced that they were calling it a terror attack. The professor called for a TV, but the last cart had been taken to the cafeteria. We all walked out and watched as the Pentagon was hit. The school president was standing beside me when we saw it. He announced that today was a day we need to be with our families, and dismissed classes. I remember the fear and uncertainty of what would come as I drove home. I heard the towers fell while driving and wept for those who lost loved ones. It's one of those days that is burned into your memory. Indelibly so.
 
-Some of you remember the day Kennedy was assassinated. I heard the speech given after Pearl Harbor where the president said that today was a day that would live in infamy. We all have been through these life-altering moments, that burn their way into our memory.
+Some of you remember the day Kennedy was assassinated. I heard the speech given after Pearl Harbor where the president said it was a date which would live in infamy. We all have been through these life-altering moments, that burn their way into our memory.
 
 This was that day for Nehemiah.
 
@@ -58,7 +58,7 @@ This was that day for Nehemiah.
 
 I mentioned earlier that the wisdom of the world tells Humpty Dumpty to put himself back together again. Pull yourself up by your bootstraps, they say. Fix yourself. Self-help is a huge industry. There is some worldly wisdom to be had there. But that advice is useless when it comes to the root cause of the problems of the world — namely original sin.
 
-You may have heard me talk about this before, but God originally created everything perfect. Scripture talks about lions lying down with lambs. There was no taint of sin. Everything was made perfect in the image of God. It was perfect like he is perfect. We had only one prohibition — just one — and like any child our forebears made a beeline and broke the rules, forever introducing sin into the world.
+You may have heard me talk about this before, but God originally created everything perfect. Scripture talks about the wolf dwelling with the lamb. There was no taint of sin. Everything was made perfect in the image of God. It was perfect like he is perfect. We had only one prohibition — just one — and like any child our forebears made a beeline and broke the rules, forever introducing sin into the world.
 
 When Adam and Eve sinned, the image of God in creation was shattered. We took what was a perfect reflection of God and made it imperfect. It's like a mold. Have you ever made anything using a mold? I had a ship mold for plaster of Paris. You mix the plaster and the water together and then pour it into the ship mold. Problem was the ship mold had an imperfection from the mold having been abused. So when the plaster was poured into the mold, every ship made from it forever after reflected that mar.
 
@@ -87,9 +87,9 @@ Perhaps you feel as though you are Humpty Dumpty — you feel broken, and as tho
 
 Christian brothers and sisters — I want to ask you a question. When was the last time the broken state of the world brought us to tears?
 
-That may seem a silly thing to weep over, especially for us men, but I assure you it is not. Nehemiah — a man — openly wept for his city, for his nation. He fasted. Scholars believe for perhaps as long as a month. He went to battle from a place of submission.
+That may seem a silly thing to weep over, especially for us men, but I assure you it is not. Nehemiah — a man — openly wept for his city, for his nation. He fasted. Scholars believe for as long as three to four months — from the month of Kislev when he received the news to Nisan when he finally spoke to the king. He went to battle from a place of submission.
 
-Likewise a famous reformer — a man named John Knox, who lived in Scotland under the reign of the famous Queen "Bloody Mary," so named for her murder of believers — the prayer of John Knox came from a place of sincerity. He openly wept for the lost of Scotland. He had a habit of going into Mary's garden and openly praying for Scotland, for Queen Mary, and would openly weep over the lost. Evangelism was the song of his heart. Mary later wrote that she could hear him pray, and his prayers frightened her more than anything else on earth. She recorded that one afternoon as he was outside her chamber window praying to God, he had prayed:
+Likewise a famous reformer — a man named John Knox, who lived in Scotland under the reign of Mary Queen of Scots — the prayer of John Knox came from a place of sincerity. He openly wept for the lost of Scotland. He had a habit of going into Mary's garden and openly praying for Scotland, for Queen Mary, and would openly weep over the lost. Evangelism was the song of his heart. Mary later wrote that she could hear him pray, and his prayers frightened her more than anything else on earth. She recorded that one afternoon as he was outside her chamber window praying to God, he had prayed:
 
 "Lord, give me Scotland, lest I die."
 
@@ -107,7 +107,7 @@ If you're not yet a believer in Jesus Christ — if you haven't made that commit
 
 Because I was a good person? I'm sorry, friend — that's not enough.
 
-Because I believe you exist? Scripture says even the demons believe, and they tremble.
+Because I believe you exist? Scripture says even the demons believe — and shudder.
 
 Because on balance I've done more good than bad? It's not a cosmic scale. One sin cannot be outweighed by ten trillion good deeds. One sin, however, is enough to send you to hell.
 
