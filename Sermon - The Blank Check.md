@@ -88,7 +88,7 @@ When his father died, Borden inherited the family fortune — and gave it away. 
 
 Borden had written a blank check with his life. The people we watched last week — the believers living in those extreme situations — have written blank checks with their lives. And Paul here has written a blank check with his life.
 
-One of my favorite preachers, David Platt — who has six children, four of whom he and his wife have adopted from overseas — said: "You don't fully trust God until you can trust him with your kids." Let that sink in a minute. You don't fully trust God until you can trust him with your kids.
+One of my favorite preachers, David Platt — who has six children, four of whom he and his wife have adopted from overseas — has said something to the effect of: "You don't fully trust God until you can trust him with your kids." Let that sink in a minute. You don't fully trust God until you can trust him with your kids.
 
 The first lecture of my first class in the missions program at Trinity, the professor said you need to learn to count the costs. He pointed out that most of the evangelism left to do in the world was in Muslim countries, and that being a Christian in certain areas in some of these countries was a good way to be killed. He told us that someday the cost of following God may be my life. I had never thought of it in those terms. I went home from school really contemplative that day. But I came to the decision that I would follow God even if it cost me my life.
 
@@ -115,7 +115,7 @@ So then the first point is that as Christians, the example of Scripture and the 
 
 ### The Missionary's Son in Somalia
 
-I read a book recently that talked about a man and his family who were missionaries to Mogadishu. He spent roughly six years there, and during that time his sixteen-year-old son Timothy suffered a severe asthma attack that led to cardiac arrest, and he died. The missionary and his family left the country and returned to the United States feeling defeated. They felt like they had met the Somalis' physical needs — they had been feeding tens of thousands of Somalis every day. But had never adequately met their spiritual needs. In fact, when this man and his family left the country, they were the last known believers in the country. And when they left, there were none left that anyone knew about.
+I read a book recently that talked about a man and his family who were missionaries to Somalia. He spent roughly six years there, and during that time his sixteen-year-old son Timothy suffered a severe asthma attack that led to cardiac arrest, and he died — not in Somalia but at their home base in Nairobi, Kenya. The missionary and his family left the country and returned to the United States feeling defeated. They felt like they had met the Somalis' physical needs — they had been feeding thousands of Somalis every day. But had never adequately met their spiritual needs. In fact, when this man and his family left the country, the Christian community there had been nearly annihilated — most of the believers they had known were dead.
 
 But after their son's funeral, and after they returned to the U.S., they got letters and phone calls. They heard from people that had been deeply impacted by their son for the gospel. They had maybe failed to tell everyone they encountered about Christ, but their son had not. He'd been quite the little evangelist. So many seeds were planted amongst the children of Somalia that their parents began writing letters to this man en masse, demanding to know why they hadn't been told more about this Jesus.
 
@@ -159,6 +159,8 @@ Remember what happened in that room in Antioch. The church was worshiping. They 
 I mentioned last week that there are approximately 80 Muslims within a mile of this church. One thousand people, 80 Muslims. They are people we need to be thinking about how to reach. Not only them but the 920 other people who are living within a single mile of this church. We need to start by building a foundation of prayer. I want to put together a team of people that will commit to once a week getting together and driving through the surrounding communities and praying for them. Praying for the RV parks. Praying for Bolton Heights. Praying for all of those lost and dying souls heading for an eternity in hell.
 
 Statistically speaking, of the thousand people around us, only twenty will have a church home. Of that twenty, less than half will be believers in Jesus Christ. This is right here in our back yard, in America.
+
+And it's not only those who cross an ocean. The blank check gets signed in living rooms and workplaces too. The man who finally tithes after years of holding back — that's a blank check. The couple who say yes to fostering a child when they know what it costs — that's a blank check. The woman who leaves the career that was quietly replacing God — that's a blank check. Wherever you are hoarding the last thing God is asking for, that is precisely where he is calling you to sign. What's the dollar amount you haven't filled in yet?
 
 Charles Spurgeon said:
 

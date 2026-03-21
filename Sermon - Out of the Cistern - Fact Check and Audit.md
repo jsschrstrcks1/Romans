@@ -27,7 +27,7 @@ The raw transcript quotes from NASB 1995 for most passages. The polished version
 
 **Result**: 1 of 9 passages matches ESV. Seven are NASB 1995, one is NIV, one is paraphrase.
 
-**Status**: The polished version (`Sermon - Out of the Cistern.md`) has already corrected all Scripture quotations to ESV. The raw transcript and the user's expanded draft retain the original NASB/NIV readings as preached.
+**Status**: The polished version (`Sermon - Out of the Cistern.md`) has corrected all Scripture quotations to ESV. Acts 16:14 further corrected March 2026: "One of those who heard us" → "One who heard us" (ESV exact). The raw transcript and the user's expanded draft retain the original NASB/NIV readings as preached.
 
 ---
 
