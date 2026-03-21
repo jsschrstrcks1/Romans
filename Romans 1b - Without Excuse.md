@@ -277,3 +277,141 @@ And the God who planned the cross before the foundation of the world — who gre
 He never was.
 
 Let's pray.
+
+---
+
+## Thus Says the Lord — Evaluation
+
+**Sermon**: Romans 1:18-32 — "Without Excuse"
+
+---
+
+### Verdict Title
+
+**A Thundering Indictment That Corners the Room and Points to the Cross**
+
+### One-Sentence Summary
+
+A faithful and searching exposition of Romans 1:18-32 that traced the downward spiral of rebellion with textual precision, personalized the vice list with genuine pastoral force, and closed with a gospel turn that earned its weight — while compressing the gospel and Christ-connection more than the text's placement in the letter demands.
+
+---
+
+### Berean Gate: PASS
+
+- **Scopus Test**: The sermon's thesis — humanity is without excuse before God, and the downward spiral of idolatry leads to judgment — demonstrably arises from the passage's own argument. The six-step exchange (vv.21-23) and three-fold giving over (vv.24-32) mirror the text's own structure. PASS.
+- **Authority Test**: The preacher submits to the text fully. God's wrath is not softened. The sexual ethics passage (vv.26-27) is handled with textual fidelity and pastoral nuance without retreat. The vice list is applied to the entire room, not deflected onto outsiders. PASS.
+
+---
+
+### Fatal Flaw Flags: NONE TRIGGERED
+
+The gospel is present in the closing — compressed but clear. Christ is necessary to the sermon's argument. Application is specific and conscience-searching. Exhortation is present. The sermon is accessible. No flags triggered.
+
+---
+
+### Score Breakdown
+
+| # | Category | Score | Max | Notes |
+|---|---|---|---|---|
+| 1 | Exposition & Hermeneutics | 24 | 25 | Exceptional. The six-step downward spiral (vv.21-23) is a brilliant structural observation arising from the text itself. The three-fold "God gave them up" structure is textually faithful and homiletically powerful. "Suppress" explained as holding something underwater — vivid and accurate. The general/special revelation distinction (vv.19-20) is handled with theological precision: "Creation condemns. Only the gospel saves." One minor deduction: Matthew 5:21-22 is imported to reinforce the vice list — theologically appropriate but briefly leaves the passage. |
+| 2 | Theology & Doctrinal Integrity | 14 | 18 | Solid. Wrath defined with precision — "the settled, holy, righteous opposition to everything that contradicts His nature." The worship-first-then-moral-collapse argument is theologically sharp and faithful to Paul's logic. Calvin's "factory of idols" is well-placed. Christ-centeredness is present but compressed — appropriate for an indictment passage, though the sermon could have drawn more explicitly on the redemptive-historical trajectory (where does this indictment sit in the covenant storyline?). The 1689 Pulse is sound — total depravity, sovereignty in judgment, insufficiency of natural revelation — but unnamed. |
+| 3 | Gospel Centrality & Force | 11 | 15 | The closing presents the gospel clearly: "the righteousness that is not your own but is freely given to everyone who believes." The "catastrophe and cure" framing establishes Christ's necessity — you need power for a catastrophe, and the gospel is the power. But the gospel section is compressed relative to the indictment. The law has ample time to land; the gospel relief, while genuine, arrives quickly. The Synagogue Test is passed — the cross, the blood, free righteousness through faith would give offense. The Law/Gospel dialectic is present: the hammer falls for most of the sermon, and the balm arrives in the closing. The question is whether the balm had enough time to heal. |
+| 4 | Conscience & Applicatory Force | 12 | 15 | A major improvement over Romans 1a. Heart penetration is strong: "When you look at yourself in the mirror of this passage — apart from Christ — how do you look?" The vice list is personalized with force: "Covetousness — wanting what isn't yours. You've done that this week." The "mirror not window" reframing is pastorally brilliant — it prevents the self-righteous from using the passage as a weapon against others. Spiritual differentiation is present: those who would condemn others are addressed (pointing to Romans 2:1), those carrying guilt and pain around the sexual ethics passage are acknowledged, those tempted to despair are redirected. Of Perkins' categories: the self-righteous (#3), the believer (#5), and those carrying guilt (#4/6) are reached. The ignorant-but-teachable and the hardened are less directly addressed. |
+| 5 | Exhortation & Response | 6 | 8 | Present and clear. "You run — not away from God, but to Him. To the cross. To the blood." Three-fold direction: don't use it to condemn, don't use it to despair, use it as a mirror and run to Christ. The missions connection (Turkey) touches corporate witness. Deduction: the exhortation could be more specific about *what running to Christ looks like* on Monday morning. The sermon tells you to run but doesn't describe the road. |
+| 6 | Structure & Logical Flow | 9 | 9 | Excellent. The downward spiral mirrors the text's own progression — from suppression to exchange to giving over to the final inversion of verse 32. The "Two Revelations" introduction establishes the theological stakes immediately. The closing turns from indictment to gospel with a "but now" that earns its weight. One dominant idea throughout: humanity is without excuse, and the spiral of idolatry leads to judgment. |
+| 7 | Illustration & Imagination | 5 | 5 | Nuclear resonance and solar system positioning make general revelation concrete without becoming a science lecture. The counterfeit coin metaphor for "debased mind" (*adokimos*) is vivid and textually grounded. "From the image of God to the image of a bug" — this will be carried home. The Turkey prayer is sobering and well-connected to the text: a land where Paul preached, now nearly gospel-dark. |
+| 8 | Sermonic Force | 5 | 5 | This sermon thunders. "You've done that this week." "This list is not describing the worst people you can imagine. It is describing humanity apart from the restraining grace of God." Direct address at pressure points. The cadence intensifies through the vice list and slows in the closing. Tone-text congruence is strong — the text indicts, and the sermon indicts. The eruption of praise mid-indictment ("who is blessed forever! Amen") is noted and honored. |
+
+**Subtotal: 86/100**
+
+### Weight of Glory (Bonus): +5
+
+Eternal stakes are palpable throughout. God is not manageable — His wrath is holy, His judgment terrifying, His giving-over the most sobering form of judgment imaginable. The closing — "And the God who planned the cross before the foundation of the world... that God is not done with you. He never was" — earns the Spurgeon Test. The sermon leaves the hearer wanting mercy, not just information.
+
+### Cognitive Load Modifier: 0
+
+Well-paced despite the density of the passage. The six-step spiral and three-fold giving over provide clear structural handholds. The vice list application breaks the catalog into digestible, personal pieces. Accessible to ordinary hearers.
+
+### **Total Score: 91/105**
+
+**Interpretation: Rare. Exemplary exposition, pastoral heat, gospel gravity. Preach it.**
+
+---
+
+### Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Both — and in the right order. The sermon cornered me first (the mirror), then pointed me to Christ (the cure). The self-examination serves the gospel, not the ego.
+2. **Did I encounter God, or just ideas about Him?** Encountered God — His holiness, His wrath, the terrifying mercy of "God gave them up." The eruption of praise mid-indictment is a moment of genuine encounter.
+3. **Was I comforted, convicted, or merely informed?** Convicted. The vice list personalization and the "mirror not window" framing are genuinely searching. The closing comforts — but only after the conviction has landed.
+
+---
+
+### Strengths (Top 3)
+
+1. **"Mirror, not window" reframing** (Section III.B and Closing) — "This passage is a mirror, not a window. It is about *us*, not *them*." This single pastoral move prevents the self-righteous from weaponizing the text and forces every hearer into the indictment. It is the sermon's most important interpretive decision, and it is exactly right.
+
+2. **The six-step downward spiral** (Section II, vv.21-23) — The progression from "did not honor" to "did not give thanks" to "futile in thinking" to "hearts darkened" to "claiming to be wise" to "the exchange" is a structural observation that arises from the text and preaches with devastating clarity. Step two — ingratitude as the soil of idolatry — is a pastoral insight that will change how people think about thankfulness.
+
+3. **Vice list personalization** (Section III.C) — "Covetousness — wanting what isn't yours. You've done that this week." This transforms a catalog into a confrontation. The preacher walks through the list and makes it impossible for anyone in the room to remain a spectator. This is conscience-level application at its best.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **Gospel compression** — The indictment runs from the introduction through Section III.D — roughly 220 lines. The gospel turn occupies roughly 40 lines in the closing. The ratio is appropriate to the text (which is itself an indictment), but the gospel relief could be expanded without violating the passage. Specifically: the closing mentions "the cross" and "the blood" but does not unpack *how* the cross answers the specific indictment Paul has just delivered. How does the cross answer the exchange of verse 23? How does Christ's righteousness answer the debased mind of verse 28? Connecting the cure to the specific disease would strengthen the gospel section without adding length.
+
+2. **Christ-connection could be more organic** — Christ appears primarily in the closing as the answer to the problem. But the text itself contains seeds of Christology: the "image of God" language in verse 23 echoes Colossians 1:15 (Christ as "the image of the invisible God"). Humanity exchanged the glory of the immortal God for degrading images — Christ *is* the image of the invisible God, the glory they traded away. This connection would make Christ present throughout the indictment, not just in the remedy.
+
+3. **The "what does running to Christ look like?" gap** — The exhortation is clear: run to Christ, not away. But the sermon doesn't describe the road. What does a person who recognized themselves in the vice list *do* on Monday? Repent of what, specifically? Confess to whom? Pursue what? The direction is right; the specificity is missing.
+
+---
+
+### Blind Spots
+
+The sermon handles the sexual ethics passage (vv.26-27) with remarkable pastoral wisdom — truth and compassion held together, the passage placed within the larger argument, the "not the only sin in the list" qualifier applied correctly. But the pastoral care shown to those "carrying pain connected to these verses" may inadvertently soften the text's own force. Paul's argument is not that homosexuality is *one sin among many* (though it is) — it is that disordered sexuality is a *particularly visible marker* of the exchange, placed between the first and third giving-over as the centerpiece of the spiral. The sermon's pastoral instinct to prevent weaponization is right. But the text's own emphasis on this particular disorder as *emblematic* of the exchange could be handled more explicitly without losing the pastoral tone.
+
+---
+
+### Illusion of Strength
+
+The Turkey prayer section *feels* like it carries missional weight — and it does. But it may also function as emotional distance from the text. By beginning with a foreign nation's spiritual darkness, the hearer has a moment to think, "How tragic for *them*" before Paul's indictment arrives. The connection ("what Paul describes in Romans 1 doesn't just happen to individuals — it happens to civilizations") partially closes this gap, but the hearer's first instinct is still to look outward. The mirror doesn't arrive until later.
+
+---
+
+### Missed Opportunity
+
+**The "image" language of verse 23** — "exchanged the glory of the immortal God for images resembling mortal man." This is loaded with Christological potential that the sermon does not tap. Christ is "the image of the invisible God" (Colossians 1:15), "the radiance of the glory of God and the exact imprint of his nature" (Hebrews 1:3). Humanity exchanged the glory of God for degrading images — and in Christ, God gave back the true Image. The exchange of verse 23 is answered by the incarnation. Naming this would make the gospel present in the indictment itself, not just in the closing.
+
+**Verse 25's "who is blessed forever! Amen"** — The sermon notes Paul's eruption of praise but does not develop it. This is a remarkable moment: Paul is cataloging humanity's worst rebellion, and he *cannot mention the Creator without blessing Him.* This could have been developed into a meditation on God's impassibility — human rebellion does not diminish God's blessedness. He remains who He is. Our sin changes us, not Him. The sermon touches this ("God remains blessed. God remains God. Our rebellion changes us, not Him") but could have pressed harder.
+
+---
+
+### Surgical Fixes
+
+1. **Connect the gospel cure to the specific disease.** In the closing, after "To the cross. To the blood," add: *"The cross answers the exchange. You traded the glory of God for images — and God gave you back His glory in Christ, who is the image of the invisible God. You were given over to a debased mind — and Christ renews the mind by His Spirit. The specific disease Paul diagnosed has a specific cure. And the cure is not moral improvement. The cure is a Person."*
+
+2. **Develop the exhortation with specificity.** After "you run to Him," add: *"And running looks like this: you confess what the text exposed. You name the idol — the comfort, the control, the approval you've been worshiping. You bring it to the cross and leave it there. And you ask the God who gave you over to give you back — to restore the mind, the affections, the worship that idolatry corrupted."*
+
+3. **Tap the Christological potential of verse 23.** When expounding the exchange — "exchanged the glory of the immortal God for images" — add a forward-pointing note: *"Hold this in mind. Because Paul will show us that the answer to the exchange is not better willpower. It is a better Image. Christ is the image of the invisible God — the glory they traded away, given back in flesh and blood."*
+
+4. **Consider repositioning the Turkey prayer.** The prayer is excellent, but its placement before the text may allow the hearer emotional distance. If the prayer came *after* the indictment — "This is what happened to Turkey. A land where Paul preached. And it can happen here" — the mirror would be sharper.
+
+---
+
+### Dead Orthodoxy Flag: NOT TRIGGERED
+
+Exposition 24/25, Conscience 12/15 (above 9). Theology 14/18, Gospel 11/15 (above 9). No pattern match. This sermon is not bloodless — it has genuine pastoral heat and searches the conscience.
+
+---
+
+### Weight of Glory Assessment
+
+This sermon carries the weight of judgment and mercy held together. God's wrath is terrifying not because the preacher sensationalized it but because the text itself is terrifying and the sermon let it speak. The closing — "that God is not done with you. He never was" — lands with the force of grace arriving after a long night. The sermon leaves the hearer wanting mercy, which is exactly where Paul wants them before Romans 2.
+
+---
+
+### Rubric Fit Note
+
+Romans 1:18-32 is an indictment passage — its genre naturally weights toward exposition of sin, not gospel proclamation. The rubric's Gospel Centrality category (15 pts) is slightly strained by a text whose purpose is to establish the *need* for the gospel rather than to *present* it. The lower gospel score (11/15) reflects a real compression, but the rubric should acknowledge that this text's own purpose is to make the gospel urgent, not to deliver it. Paul himself doesn't present the gospel in these verses — he presents the catastrophe. The sermon follows Paul's own strategy. The gospel compression is a legitimate critique but should be weighed against the text's genre.
+
+*Soli Deo Gloria.*

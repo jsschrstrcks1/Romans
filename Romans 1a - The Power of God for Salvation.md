@@ -339,3 +339,143 @@ For I am not ashamed of the gospel.
 Neither should you be.
 
 Let's pray.
+
+---
+
+## Thus Says the Lord — Evaluation
+
+**Sermon**: Romans 1:1-17 — "The Power of God for Salvation"
+
+---
+
+### Verdict Title
+
+**A Masterful Exposition That Proclaims More Than It Presses**
+
+### One-Sentence Summary
+
+A faithful and compelling opening of Romans 1:1-17 that magnified the gospel's power and God's sovereign purpose while leaving the conscience largely unsearched and the congregation undifferentiated.
+
+---
+
+### Berean Gate: PASS
+
+- **Scopus Test**: The sermon's thesis — the gospel is the power of God for salvation — demonstrably arises from the passage's own argument. Every section traces Paul's progression from self-identification (v.1) through gospel definition (vv.2-4) to thesis statement (vv.16-17). PASS.
+- **Authority Test**: The preacher submits to the text. God's sovereignty in calling, election, effectual grace, and the totality of human rebellion are presented without softening. PASS.
+
+---
+
+### Fatal Flaw Flags: NONE TRIGGERED
+
+No fatal flaw flags triggered. However, flags #4 (generic application) and #5 (weak exhortation) are near-misses. The sermon's closing does exhort — "Neither should you be [ashamed]" — but the exhortation is thin relative to the exposition's depth. This does not trigger a cap, but it is the sermon's primary liability.
+
+---
+
+### Score Breakdown
+
+| # | Category | Score | Max | Notes |
+|---|---|---|---|---|
+| 1 | Exposition & Hermeneutics | 23 | 25 | Exceptional. Verse-by-verse fidelity, Greek as unlock not decoration (*doulos*, *aphōrismenos*, *dunamis*), book-level awareness. The Pharisee/set apart wordplay is genuinely illuminating exegesis. Minor deduction: Ephesians 2:8-9 imported during the "To Everyone Who Believes" section — theologically correct but briefly leaves the passage's own orbit. |
+| 2 | Theology & Doctrinal Integrity | 16 | 18 | Strong. Effectual calling named explicitly. Justification by imputation handled with precision. Luther reference is historically grounded. The "promised beforehand through his prophets" section opens a natural door to the Covenant of Grace that the sermon walks past — a missed opportunity for confessional precision where the text invites it. |
+| 3 | Gospel Centrality & Force | 14 | 15 | Near-perfect. "Take the Person out, and there is no gospel." The Winslow quote and tree/nails expansion drive toward the cross with genuine theological imagination. The sermon's natural gravity is more on the gospel as *power* than on the cross as *sacrifice* — but this fits the text, which emphasizes *dunamis*. Synagogue Test: clearly passed — Christ's blood, resurrection, and exclusive necessity are unambiguous. |
+| 4 | Conscience & Applicatory Force | 7 | 15 | The sermon's weakest category. Heart penetration is indirect — the hearer marvels at God's sovereignty but is not cornered by it. Application is general: "Remember that when the darkness comes," "Neither should you be ashamed." No specific life situations, no pressing into the congregation's actual circumstances. Spiritual differentiation is minimal — the sermon speaks primarily to the already-convinced believer. The self-righteous, the doubter, the backslider, and the humbled-but-not-yet-believing are not addressed. Of Perkins' seven categories, only the believer (#5) and the mixed congregation (#7) are meaningfully reached. |
+| 5 | Exhortation & Response | 4 | 8 | The closing moves toward exhortation but never arrives at a full "therefore" moment. "Neither should you be [ashamed]" is the clearest call — but it stands alone without development. No equipping for specific holiness or witness. The missions emphasis (Japan, Paul's obligation) touches corporate witness but remains informational rather than summoning. The church is not sent out; it is informed. |
+| 6 | Structure & Logical Flow | 9 | 9 | Excellent. Five clear sections mirroring the text's own progression. Each builds on the last. One dominant idea throughout. The introduction — "We skipped something" — is a masterstroke of sermonic framing that establishes the stakes within the first minute. The conclusion lands on one clear note tied to the thesis. |
+| 7 | Illustration & Imagination | 5 | 5 | The Winslow quote and its expansion — God growing the tree, nurturing the men, forging the nails — is extraordinary. Theologically precise, emotionally powerful, and native to the text's own argument about the gospel being "promised beforehand." The Luther biographical reference illuminates the text without competing. The Japan prayer is concrete and well-integrated. |
+| 8 | Sermonic Force | 5 | 5 | Reads as preaching, not essay. Direct address at key moments. Sentence variation drives toward climax: "Not the advice of God. Not the suggestion of God. Not the invitation of God. *The power of God.*" Tone-text congruence is strong — the text announces power, and the sermon sounds powerful. |
+
+**Subtotal: 83/100**
+
+### Weight of Glory (Bonus): +5
+
+Eternal significance is palpable. God is weighty throughout — sovereign, planning, accomplishing, calling. The tree/nails passage earns the Spurgeon Test: a man who has been with God would be moved. The sermon culminates in worship, not just information.
+
+### Cognitive Load Modifier: 0
+
+Well-paced. Clear structure. Accessible to the single mother, the high schooler, the new believer. Greek terms are explained, not displayed. No competing ideas.
+
+### **Total Score: 88/105**
+
+**Interpretation: Strong and faithful. Minor sharpening needed. Ready for the pulpit with targeted revisions.**
+
+---
+
+### Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Christ. Unambiguously. Every section directs attention to God's initiative, God's plan, God's power.
+2. **Did I encounter God, or just ideas about Him?** Encountered God — particularly in the sovereignty passages and the tree/nails illustration. This is not merely theological information; it carries weight.
+3. **Was I comforted, convicted, or merely informed?** Awed and comforted. But not convicted. The sermon tells me what God has done but rarely asks what that demands of me. The hearer leaves marveling but not cornered.
+
+---
+
+### Strengths (Top 3)
+
+1. **The tree/nails illustration** (Section II, "It Was Promised Beforehand") — Theologically grounded in the Winslow quote and expanded with genuine sermonic imagination. This is how illustration works at its best: native to the text, precise in theology, unforgettable in image. The congregation will carry this home.
+
+2. **The Pharisee/set apart wordplay** (Section I, v.1) — The connection between *aphōrismenos* and *Pharisaios* is genuine exegesis that illuminates without being academic. "Set apart once by his own righteousness, set apart now by God's call" — this is exposition that preaches.
+
+3. **Structural framing** (Opening) — "We skipped something. We started mid-sentence." This reframes the entire series and creates genuine theological stakes. The hearer understands why this passage matters before a single verse is expounded. This is how an introduction earns the congregation's attention.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **Application never arrives** — The sermon expounds brilliantly but never presses. After 340 lines of exposition, the hearer has not been asked to examine a single area of their life. Where are the "uses" — conviction, direction, consolation? The Puritan model would demand: *If the gospel is power — where are you trusting something other than God's power? If faith is an empty hand, what are you still clutching?*
+
+2. **No spiritual differentiation** — The sermon speaks to the room as a monolithic audience. But the self-righteous person needs to hear v.17 differently than the doubter. The new believer needs the "obedience of faith" passage unpacked for their situation. The backslider needs the "called to belong" language to break them. None of this happens. The sermon addresses the convinced believer and assumes everyone else is listening in.
+
+3. **Exhortation is a whisper where it should be a summons** — "Neither should you be [ashamed]" is the right note but needs development. Ashamed of what, specifically? In what contexts? Before whom? The text gives Paul's boldness before Rome — what is the congregation's Rome? Their workplace? Their family? Their social media? The exhortation needs a landing zone.
+
+---
+
+### Blind Spots
+
+The preacher's greatest strength — exposition — has become the sermon's blind spot. The depth of textual engagement creates a gravitational pull that keeps the sermon in the passage and never lets it land in the pew. The preacher likely finished this sermon feeling satisfied because the text was faithfully explained. But explanation is not yet preaching. The text was honored; the congregation was not yet searched.
+
+---
+
+### Illusion of Strength
+
+The closing section *feels* like application — "Remember that when the darkness comes" — but it is actually summary. It restates the sermon's content in compressed form. The emotional register rises, the cadence tightens, and the hearer feels moved. But moved by what? By the beauty of the exposition, not by the pressure of the text on their life. The closing creates the *sensation* of application without its substance.
+
+---
+
+### Missed Opportunity
+
+**"The obedience of faith" (vv. 5-6)** — This phrase is one of the most theologically loaded in the entire epistle, and the sermon handles it well doctrinally. But it is a natural bridge to the conscience that the sermon never crosses. If faith produces obedience, what disobedience reveals dead faith? If obedience flows from faith, where is the congregation's obedience stalling — and what does that reveal about the state of their faith? This is where the text *invites* the preacher to search the heart, and the preacher walks past it.
+
+**"Promised beforehand through his prophets" (v. 2)** — The Covenant of Grace is standing in the room and never gets named. For a Reformed Baptist sermon on a text that explicitly links the gospel to Old Testament promises, this is a missed opportunity for confessional precision. The 1689 framework of one Covenant of Grace unfolding across redemptive history is exactly what this verse teaches — and naming it would have strengthened both the theology score and the congregation's covenantal literacy.
+
+---
+
+### Surgical Fixes
+
+1. **Add a "uses" section after the thesis exposition (Section V).** After unpacking "the power of God for salvation," press: *"If the gospel is power — where are you living as if it were merely advice? Where have you reduced the gospel to a suggestion you can take or leave? Some of you are trusting your own moral effort. Some of you are trusting your doubt as if skepticism were more honest than faith. The gospel is not an invitation you are evaluating. It is the power of God — and you are either saved by it or crushed by what comes without it."*
+
+2. **Differentiate hearers in the closing.** Before "Neither should you be ashamed," add direct address: *"Some of you have never believed. You've heard the gospel explained today — clearly, fully. You have no excuse left. Believe. Some of you believe but live ashamed — you go silent about Christ at work, at school, in your family. Paul went to Rome. Where won't you go? And some of you are here, and you've been drifting. You were once on fire for this gospel, and now it's background noise. 'Called to belong to Jesus Christ' — you belong to Him still. Come back."*
+
+3. **Name the Covenant of Grace in Section II.** After the "promised beforehand" exposition, add one sentence: *"This is the Covenant of Grace — one promise, one gospel, one Savior, unfolding from Genesis 3:15 through the prophets to the cross. The gospel Paul preaches is not new. It is the oldest promise in the world, finally and fully kept."*
+
+4. **Expand the exhortation from one line to a full paragraph.** "Neither should you be ashamed" needs a landing zone. Where specifically is the congregation tempted to be ashamed? Name it. Press it. Then send them out.
+
+---
+
+### Dead Orthodoxy Flag: TRIGGERED (Partial)
+
+Pattern match: Exposition scores 23/25 but Conscience & Applicatory Force scores 7/15 (below 9).
+
+> This sermon is not doctrinally inert — it carries real passion and theological weight. But the diagnostic applies: the exposition is exceptional while the conscience remains unsearched. This is not dead orthodoxy; it is *incomplete* preaching. The doctrine is alive. The application has not yet caught fire. The gap between exposition and application is the single revision that would move this sermon from strong (88) to exemplary (90+).
+
+---
+
+### Weight of Glory Assessment
+
+This sermon carries the gravity of eternity. God is not manageable here — He is sovereign, planning, accomplishing, calling. The tree/nails passage is a moment of genuine unction. The sermon leaves the hearer in the presence of a God who is both terrifyingly sovereign and unspeakably gracious.
+
+---
+
+### Rubric Fit Note
+
+Romans 1:1-17 is a greeting, self-introduction, and thesis statement — not a didactic or narrative passage with a natural applicatory arc. The rubric's Conscience & Applicatory Force category (15 pts) is slightly strained by this genre. A greeting/thesis passage naturally leans toward proclamation and definition rather than heart-searching. The lower application score reflects a real weakness, but the rubric should acknowledge that the text's own genre makes conscience-pressing harder (not impossible — just harder). The sermon's application deficit is real but partially genre-driven.
+
+*Soli Deo Gloria.*
