@@ -348,3 +348,192 @@ May the Christ who accomplished everything through Paul accomplish everything th
 And may the God of peace be with you — in the danger, in the uncertainty, in the long obedience — until the dawn is fully come.
 
 Amen.
+
+## Thus Says the Lord — Sermon Evaluation
+
+### Verdict Title
+**A Missionary Theology Sermon With Real Gospel Heat and Sharp Conscience — Minor Structural Gaps at the Frontier**
+
+### One-Sentence Summary
+A faithful and muscular opening of Romans 15:14-33 that magnified Paul's priestly theology of mission and pressed the congregation toward costly witness and agonizing prayer, while leaving some differentiation among hearers underdeveloped and the exhortation section slightly dispersed across the application block rather than landing as a unified summoning call.
+
+---
+
+### Berean Gate
+
+**Scopus Test: PASS**
+The sermon's thesis — that the gospel, rooted in Christ's finished priestly work, demands a frontier ambition, costly generosity, and agonizing intercessory prayer from every believer — demonstrably arises from the passage's own argument in vv. 16, 20, 27, and 30.
+
+**Authority Test: PASS**
+The preacher submits to the text's most demanding claims, including the uncomfortable confrontation about neighbor-witness (vv. 20-21), the costly nature of gospel generosity (v. 27), and the combat language of prayer (v. 30). Nothing is softened or omitted. The hard parts are preached.
+
+---
+
+### Fatal Flaw Flags
+
+No fatal flaws triggered.
+
+- Gospel presentation: Present — penal substitution, resurrection, and the cross as the foundation of Paul's mission are all explicitly proclaimed (priestly offering section, Isaiah 53 integration, Romans 5:1 in Section IV).
+- Main point equals text's point: Yes.
+- Christ essential: Yes — Christ's finished work is the explicit ground of every application point.
+- Application: Specific and differentiated (four pastoral addresses in the application block).
+- Exhortation: Present, though slightly distributed rather than concentrated.
+- Accessibility: The Greek terms are used as unlocks, not decoration; accessible to ordinary hearers.
+
+---
+
+### Score Breakdown
+
+**1. Exposition & Hermeneutics — 23/25**
+
+- *Textual Fidelity* — 9/10: The sermon stays in close orbit. Each section traces directly from the text. The priestly language of vv. 14-16 is exegeted with precision (leitourgos, hierourgounta, prosphora). The travel plans are read as theology, not travelogue. One minor gap: the historical fulfillment note (Paul likely never reached Spain) is a helpful aside but slightly interrupts the textual progression.
+- *Contextual Awareness* — 5/5: The sermon situates this passage within the whole of Romans, the Isaiah 52-53 trajectory, and the Gentile collection as embodied Romans 15:7 theology. Excellent.
+- *Exegetical Clarity* — 5/5: Greek is used as unlock, never as performance. Philotimeomai and synagonisasthai are explained accessibly. The Fallen Condition Focus is implicit but identifiable: the FCF is the self-protecting comfort of believers who know the gospel but will not carry it.
+- *Logical Faithfulness* — 4/5: No eisegesis. The Isaiah 53 integration into Section II is organic and well-argued — not a proof-text leap but a covenantal reading. Minor: the application to the "checks to the church" (Section III) is slightly broader than the text strictly warrants, though not wrong.
+
+**2. Theology & Doctrinal Integrity — 16/18**
+
+- *Christ-Centeredness* — 6/7: Christ is organically present throughout. The priestly Christology in Section I is the sermon's strongest theological move. The Isaiah 53:10 integration is textually grounded. Penal substitution is named clearly ("absorbed the wrath of God on the cross"). Slight penalty: the resurrection gets brief mention but does not receive the same development the cross does.
+- *Redemptive-Historical Awareness* — 3/3: Outstanding. Isaiah 52-53 to Paul to Spain — the redemptive arc is traced without being forced. The "nations Isaiah promised are being gathered" sentence is precise and powerful.
+- *Doctrinal Precision* — 4/4: No slippage on justification, wrath, or grace. Romans 5:1 and 5:10 are quoted and interpreted accurately.
+- *Confessional Alignment* — 3/4: The doctrines of grace are implicit rather than explicit here, which is appropriate for this passage. The Spirit's role in sanctifying the offering (v. 16) is noted. No contradiction of confessional theology. Minor: the "God's mission doesn't depend on our itinerary, it depends on his sovereignty" sentence is the closest the sermon comes to overt confessional specificity, and it lands well but briefly.
+
+**3. Gospel Centrality & Force — 14/15**
+
+- *Clarity of the Gospel* — 5/5: Penal substitution is stated plainly: "Christ stepped into the midnight of our rebellion and absorbed the wrath of God on the cross. He died under the judgment we deserved." Justification by faith is the assumed ground, explicitly recalled via Romans 5:1. An unbeliever could understand the core of the gospel from this sermon.
+- *Necessity of Christ* — 5/5: Christ is not decorative. The entire priestly framework only holds if Christ made the prior and greater offering. The logic is airtight: "Paul can bring the Gentiles as an offering because Christ already made the offering that counts."
+- *Cross-Centered Gravity* — 4/5: The sermon moves toward the cross and stays there in Section I and the Isaiah 53 integration. Minor: the closing lacks the same cross-concentration — it returns to mission imagery ("heading for the edge of the world") rather than landing finally on the cross or resurrection. The benediction is warm but the climactic weight shifts to movement rather than Christ himself.
+
+**4. Conscience & Applicatory Force — 12/15**
+
+- *Heart Penetration* — 4/5: The neighbor passage is the sharpest moment: "Your silence is not politeness. It is not respect. It is disobedience dressed up as good manners." The section on generosity crossing divides also has real edge. This is not comfortable preaching.
+- *Specificity* — 4/5: The neighbor-witness application is concrete and grounded. The tithing/giving application names the self-justification clearly. The prayer application calls for agony, not sentiment. Slight diffusion: four parallel application blocks ("If you feel useless," "If you're struggling," "If your marriage or family is broken," "If you feel called") could have been more surgically differentiated.
+- *Spiritual Differentiation* — 4/5: The four application addresses do differentiate: the discouraged supporter, the fearful servant, the broken family member, the called-but-hesitant. Perkins' backslider and the hardened unbeliever are not directly addressed. The sermon speaks primarily to believers and to lapsed believers rather than to the unconverted or the knowledgeable-but-unmoved.
+
+**5. Exhortation & Response — 6/8**
+
+- *Call to Response* — 3/4: The neighbor application is as direct as any in the series. "Go. Don't wait for perfect conditions." is clear. However, the exhortation is distributed across the application block rather than gathered into a singular summoning moment. The congregation is told what is true and given differentiated addresses, but the final "therefore" moment does not arrive with maximum force.
+- *Equipping for Holiness & Witness* — 3/4: The sermon equips for witness (the neighbor), for prayer (synagonisasthai), and for generosity (the collection). It addresses the individual more than the corporate body — the church as a praying, sending community is implicit but not explicitly summoned as a body.
+
+**6. Structure & Logical Flow — 8/9**
+
+- *Clarity of Outline* — 4/4: Four clear movements tracking the text. Titles ("The Priest at the Altar," "The Ambition That Christ Deserves," "The Collection That Proves the Gospel," "The Prayer That Costs Something") are memorable and sermonically apt.
+- *Progression* — 3/3: Each section builds. The movement from identity (priesthood) to ambition to proof to prayer is a genuine theological progression, not random coverage.
+- *Unity* — 1/2: One dominant idea holds ("the dawn demands going"), but four parallel application blocks slightly diffuse the ending. The sermon has multiple strong conclusions rather than one.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance* — 2/2: Bob Clark, Anthony Cox, and Chip Hall are real names from the congregation's world. Adoniram Judson is well-chosen — not merely inspirational but theologically integrated (frontier ambition, burial of family, the cost of the conviction).
+- *Clarity* — 2/2: The Judson illustration illuminates the text's own word (philotimeomai) without competing with it. The "chains becoming Ephesians and Philippians" image is striking and carries weight.
+- *Memorability* — 0/1: The illustrations are solid but none of them are the kind of image that lodges in the mind a week later. The neighbor-cookout line is memorable as accusation, not as image.
+
+**8. Sermonic Force — 5/5**
+
+The manuscript reads as preaching from first paragraph to last. Direct address is used at pressure points without becoming a tic. The "Your silence is not politeness. It is not respect. It is disobedience dressed up as good manners" sequence is a genuine manuscript roar — short sentences, hammer rhythm, the accusation landing before the grace arrives. Cadence varies well. The closing three lines ("The night is far gone. The day is at hand. And the early light is not for sleeping in. It's for going.") are clean, earned, and preachable.
+
+---
+
+### Cognitive Load Modifier — 0
+
+The sermon is dense with theology but paced well. Each section has one idea, developed and applied before moving on. Greek is used sparingly and always explained. The single mother and the high schooler can follow this. No reduction applied.
+
+---
+
+### Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 23/25 |
+| Theology & Doctrinal Integrity | 16/18 |
+| Gospel Centrality & Force | 14/15 |
+| Conscience & Applicatory Force | 12/15 |
+| Exhortation & Response | 6/8 |
+| Structure & Logical Flow | 8/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 5/5 |
+| **Subtotal** | **88/100** |
+| Weight of Glory Bonus | +4 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **92/105** |
+
+**Interpretation: 90-105 — Rare. Exemplary exposition, pastoral heat, gospel gravity. Preach it.**
+
+---
+
+### Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Primarily of Christ. The priestly Christology, the Isaiah 53 integration, and the "fullness of the blessing of Christ" carry real weight. Yes.
+2. *Did I encounter God, or just ideas about Him?* The prayer section and the "God's mission doesn't depend on our itinerary" moment have genuine weight. Largely yes.
+3. *Was I comforted, convicted, or merely informed?* Convicted (the neighbor passage is genuinely uncomfortable) and equipped (the prayer and generosity sections send people somewhere). Not merely informed.
+
+---
+
+### Strengths (Top 3)
+
+1. **The priestly theology of mission (Section I)**: The exegesis of leitourgos, hierourgounta, and prosphora is precise, accessible, and carries the rest of the sermon. "His altar is the mission field and his sacrifice is the nations" is an image that reframes ordinary evangelism without trivializing apostolic calling.
+
+2. **The Isaiah 53:10 integration (Section II)**: Connecting Paul's frontier ambition to the Servant who "shall see his offspring" is not a standard homiletical move — it is exegetically and theologically accurate and gives the missionary call a gospel foundation rather than a moral one. "If the Servant does not see His offspring, there is nothing to bring to Spain" is the sermon's sharpest sentence.
+
+3. **The Romans 5:1/5:10 grounding of the benediction (Section IV)**: Anchoring "the God of peace" in the legal reality of justification and the transformation of enemies into sons is exactly right — it prevents the benediction from floating into sentiment and lands it on finished atonement. "We fight in prayer because the war between God and His people is already over" is pastoral gold.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **The closing does not land on the cross**: The final movement returns to mission imagery ("heading for the edge of the world," "the early light is for going") rather than centering on Christ himself. After a sermon that grounds everything in priestly Christology, the closing should orbit the Priest, not the mission. The benediction is warm but the momentum shifts from Christ to movement.
+
+2. **The four application blocks diffuse the exhortation**: The "What This Means for You" section addresses four constituencies in parallel but does not gather them into a single summoning. The preacher tells each group where truth touches their life, but the "therefore" moment — the one call the whole room receives together — never arrives with full force. This is the difference between application and exhortation.
+
+3. **The unbeliever is not addressed**: The entire application section speaks to believers, struggling believers, and the called-but-hesitant. The hardened unbeliever sitting in the room who does not yet know the gospel is never directly confronted. Given that the priestly language of Section I is some of the most evangelistically powerful material in the text, this is a missed opportunity.
+
+---
+
+### Blind Spots
+
+The preacher may not see that the Judson illustration, while theologically integrated and historically accurate, is the sermon's only extended narrative illustration — and it speaks primarily to those already convicted of missionary responsibility. The single mother who has never thought about missionaries does not find herself in Judson; she finds herself in the neighbor passage. The sermon's illustrations cluster around the already-motivated and leave the comfortable unchallenged by image rather than by accusation.
+
+---
+
+### Illusion of Strength
+
+The four-part application block feels comprehensive — it addresses multiple constituencies and covers uselessness, struggle, brokenness, and calling. But comprehensiveness is not the same as force. The section reads as pastoral care rather than prophetic summons. The individual addresses are warm and differentiated; what they do not produce is the moment where the whole room is gathered under one imperative and sent together. The parallel structure creates the feeling of exhortation without its full weight.
+
+---
+
+### Missed Opportunity
+
+Verse 29 — "I know that when I come to you I will come in the fullness of the blessing of Christ" — is theologically rich and nearly unexplored. Paul's confidence is not in his plans (which failed) but in what he carries. The sermon touches this briefly ("He's coming to Rome loaded with gospel") but does not develop the ecclesiological and doxological freight: the local church is the means by which the fullness of Christ's blessing passes through the world. This is a direct connection to what the people of God in Rome were about to receive — not plans, but Person. That moment could have anchored the application in gospel rather than in duty.
+
+---
+
+### Surgical Fixes
+
+1. **Restructure the closing**: After the final application block, add a single summoning paragraph addressed to the whole room — not differentiated, but unified. Something like: "Here is what Paul calls every one of you to do: strive. Agonize in prayer for the frontier. Give generously across the divide. Open your mouth to the neighbor. The dawn does not wait for your comfort." Then close with Christ, not with movement.
+
+2. **Add a direct address to the unconverted**: In the neighbor application section, add one sentence that breaks through to the unbeliever: "And if you are sitting here this morning having never called on His name yourself — the news that Paul carried to the frontier is for you first. The priest brought you here as an offering. The only question is whether you will be received."
+
+3. **Develop verse 29**: Before moving to Spain, add two to three sentences on what it means to carry the "fullness of the blessing of Christ" — not plans or credentials but the finished work of a risen Savior. The church that sends and the church that receives are both held in that fullness.
+
+4. **Pair Judson with a civilian counterpart**: Add one ordinary-person illustration alongside Judson — a neighbor who said something, a lay Christian who wrote a letter, a grandmother who prayed — so that the heroic and the mundane both have imaginative traction.
+
+---
+
+### Dead Orthodoxy Flag
+
+**Not triggered.** Exposition scores 23/25 and Conscience & Applicatory Force scores 12/15 — above the 9-point threshold. The sermon is not bloodless. The neighbor accusation, the generosity challenge, and the prayer summons all press the conscience with real force.
+
+---
+
+### Weight of Glory Assessment
+
+The Isaiah 53:10 paragraph and the benediction carry genuine eternal gravity — the sermon feels like it matters beyond Sunday, and God is weighty rather than manageable in the priestly Christology and the "war between God and His people is already over" sentence. Bonus: +4/5.
+
+---
+
+### Rubric Fit Note
+
+This passage — a travelogue-turned-theology — is among the harder portions of Romans to preach, and the rubric's exposition categories fit it well. The genre does not strain the framework. The one place where the rubric's categories are slightly misaligned: the Spiritual Differentiation subcategory (Perkins' seven types) is a moderate fit for an epistle section that is primarily addressed to an established church already full of goodness and knowledge (v. 14). The sermon rightly focuses on the believer and the called-believer, and the rubric's insistence on addressing the unconverted is applied here as a surgical fix rather than a fatal flaw.
+
+---
+
+*Soli Deo Gloria.*
