@@ -61,6 +61,14 @@
 
 ---
 
+### Corrie ten Boom
+
+| # | Quote | Source | Verification | Used In | Count |
+|---|-------|--------|-------------|---------|-------|
+| 1 | "Hold everything in your life with open hands, otherwise when God pries things loose, he might hurt your fingers." | Widely attributed to Corrie ten Boom | ⚠️ Yellow — paraphrase noted in sermon ("famously said… I'm paraphrasing"); exact source (book/speech) unconfirmed; consistent with her published teaching and life | `1 john 3 pt 2.md` | 1 |
+
+---
+
 ### Stephen Charnock
 
 | # | Quote | Source | Verification | Used In | Count |
