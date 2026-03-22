@@ -336,3 +336,183 @@ Amen."
 ⸻
 
 *Next session: Chapter 22 — Ira and Terry take up the nine passages. What does "world" mean? What does "all" mean? Can the Bible say one thing in one verse and something different in another? The argument is not done. But the foundation is laid.*
+
+---
+
+## Thus Says the Lord — Evaluation
+
+### Genre Note
+
+This is a Bible study guide, not a sermon manuscript. The rubric was designed for evaluative sermon manuscripts and does not apply in full. The following assessment therefore:
+
+- Skips scoring categories that presuppose live proclamation (Sermonic Force, Exhortation & Response as a preaching call, Illustration weight)
+- Applies the rubric's diagnostic lens to the elements that do translate: exposition quality, theological integrity, gospel centrality, conscience-level application, and structural clarity
+- Treats "applicatory force" as equivalent to study guide reflection design rather than pulpit application
+- Does not assign a numeric score; provides a diagnostic verdict and targeted observations
+
+The Berean Gate, Fatal Flaw logic, Dead Orthodoxy detection, and Core Override Questions are fully applicable and are run below.
+
+---
+
+### Verdict Title
+
+**Precise, Pastorally Grounded Exposition of Definite Atonement — With Conscience Work That Actually Lands**
+
+---
+
+### One-Sentence Summary
+
+A faithful and logically rigorous study guide on the nature of atonement that grounds its argument in close textual work, presses the doctrine into lived conscience with unusual specificity, and wisely ends on the unresolved tension of the "world/all" passages rather than fabricating an easy closure.
+
+---
+
+### Berean Gate
+
+**Pass — both tests.**
+
+**Scopus Test:** The guide's thesis is articulable in one sentence drawn from the passages themselves: *Christ's atoning death was an actual accomplishment — not a potential offer — and this fact governs the logic of who he died for.* That thesis arises directly from the text's own argument in Isaiah 53, Hebrews 9:12, Romans 3:25–26, and John 19:30. It is not imposed from outside.
+
+**Authority Test:** The guide stands under the texts. It does not soften the uncomfortable implications of definite atonement, does not hedge the Proverbs 17:15 argument when it becomes logically demanding, and does not quietly omit the nine counter-passages — it names them explicitly and defers their resolution to the next session. That is a preacher standing under the text, not above it.
+
+---
+
+### Fatal Flaw Assessment
+
+No fatal flaws triggered for the genre. Notes:
+
+- **Gospel presentation**: Clear and repeated. The cross is not background music; it is the study's entire subject. Penal substitution, propitiation, and imputation are all named and explained.
+- **Christ's necessity**: Christ is not helpful here — he is the only possible answer to every question the study raises.
+- **Application**: Specific, differentiated, conscience-pressing. See detail below.
+- **Exhortation**: The "THEREFORE" section is explicit and imperatival. It tells men what to stop doing and why. That is exhortation.
+- **Accessibility**: The study is written for non-seminary men. Hard words are flagged in the Leader's Note and unpacked in the body. The argument-step-by-step section is a model of making difficult logic followable.
+
+---
+
+### Exposition & Hermeneutics
+
+**Assessment: Excellent**
+
+The textual work is close and honest. Each passage is handled in its own grammatical weight:
+
+- Isaiah 53:10–11 is broken into three discrete claims — guilt offering, satisfaction, substitution — without conflating them.
+- Hebrews 9:12's use of "securing" (rather than "offering") is identified and pressed as theologically load-bearing. That is not a decoration; that is the difference between accomplished and potential redemption.
+- Romans 3:25–26 is treated for its internal logic: how can God be simultaneously just and justifier? The guide answers that question rather than glossing it.
+- *Tetelestai* (John 19:30) is explained with the commercial/legal context (debt-paid receipt) without being used as mere rhetorical flourish.
+
+**Fallen Condition Focus (Chapell):** Named explicitly in the application section — the specific fallen condition addressed is the performance mode of the Christian life: men who know the doctrine but are still, underneath it, trying to hold themselves before God by what they do. Todd's story embodies it. That is specific, not abstract.
+
+**One gap:** The guide uses Proverbs 17:15 as a logical pivot, which it is. But it could acknowledge more explicitly that Proverbs 17:15 is wisdom literature addressing judicial contexts, and that the transfer to divine-human justice is a considered theological argument (as it is in the Westminster tradition) — not a simple proof-text. For a men's study at this level, a one-sentence acknowledgment would build hermeneutical trust.
+
+---
+
+### Theology & Doctrinal Integrity
+
+**Assessment: Excellent**
+
+**Christ-centeredness:** Organic, not forced. The study never performs Christological connection — it simply works through what the texts say Christ did and lets that govern the argument.
+
+**Redemptive-historical awareness:** Present and handled well. The guilt-offering category from Isaiah 53 is connected to its Old Testament cultic background before being applied to Christ. The tetelestai/debt-paid-in-full background is given its proper commercial and legal context.
+
+**Doctrinal precision:** Penal substitution, propitiation, imputation, and definite atonement are all named and defined. The definitions are accurate without being pedantic.
+
+**1689 Pulse:** Fully aligned. Definite atonement is a distinctive of confessional Reformed Baptist theology. The study handles it with precision consistent with the Second London Confession (8.5–8.8). The CoW/CoG distinction is not directly surfaced (it is not required by this passage), but nothing here contradicts it.
+
+---
+
+### Gospel Centrality & Force
+
+**Assessment: Strong**
+
+The gospel is the subject, not the frame. The Synagogue Test: a devout non-Christian could not sit through this study without being confronted by the necessity of Christ's blood — specifically, by the claim that sin requires actual penal satisfaction and that Christ is the only one who has provided it. The cross is a scandal here, not a decoration.
+
+**Law/Gospel Dialectic:** Present in proper order. The law's demand — God cannot simply clear the guilty, Proverbs 17:15 — is pressed before the gospel's answer is given. The hammer lands before the balm is offered.
+
+**One observation:** The guide is primarily addressing believers and theologically interested men. The gospel is not presented as an evangelistic call to the unconverted (nor should it be — it is a doctrinal study guide). But the "What This Means for Every Man in This Room" section functions as a gospel-shaped pastoral word for men who are performing rather than resting. That is the right move for the genre.
+
+---
+
+### Conscience & Applicatory Force
+
+**Assessment: Exceptional — the strongest element**
+
+This is where the guide significantly exceeds expectations for a study guide format. Three specific applications are given, each addressing a real psychological pattern rather than a generic exhortation:
+
+1. **The repeated-sin spiral** — the man who thinks his margin with God is narrowing. The guide addresses him concretely: *the verdict was issued at the cross, not in your quiet time this morning.* That is specific conscience work.
+
+2. **The doubt spiral** — the man whose assurance depends on the quality of his own faith. The guide redirects: the question is not "Is my faith strong enough?" but "Am I in Christ?" The anchor is outside you.
+
+3. **The bad-circumstances spiral** — the man for whom God feels distant when life is hard. Romans 8:1 is identified as a verdict, not a weather report. Verdicts do not change with circumstances.
+
+**Perkins' Taxonomy:** The guide primarily addresses categories 4, 5, and 6 — the humbled (Todd at the breaking point), the believers (men who rest in finished salvation), and the backsliders (men performing rather than resting). The knowledgeable-but-unhumbled (category 3) is addressed implicitly through the Todd narrative — the man who knew the doctrines and had them accomplish nothing in his life. That is good pastoral reach for a single chapter.
+
+**What's missing:** The guide does not address the genuinely hard-hearted or theologically skeptical man who might be in the group. It assumes a group of men who are willing to follow the argument and apply it inward. That is probably the right assumption for a church men's study group — but a Leader's Note prompt asking "Is there a man in this room who finds this argument unconvincing — and what would it take to bring him?" would add an evangelistic edge.
+
+---
+
+### Structure & Logical Flow
+
+**Assessment: Excellent**
+
+The argument is a genuine argument — it builds step by step and could not be rearranged without loss. The "Step-by-Step" section at the end is an unusual inclusion for a Bible study guide and is a significant strength: it allows a man to reconstruct the argument after the session, test it against objections, and teach it to someone else.
+
+**Unity:** Single dominant idea — atonement is accomplishment, not offer. Everything serves that idea.
+
+**Progression:** Introduction (what the chapter is about) → definition of atonement → application of atonement → the logical problem with Possibility 3 → the failed escape → conscience application → conclusion with the unresolved tension intact. That is a clean architecture.
+
+**One observation:** The "Connection to Our Romans Series" section and the "Key Scriptures" section both repeat content already covered in the body. That repetition serves a study guide function (review, reference) and is appropriate to the genre. It does mean the guide is longer than a standalone sermon would be, but length is not a penalty in a study guide.
+
+---
+
+### Strengths
+
+1. **The conscience application section** ("When you fall into the same sin again / When doubt hits / When circumstances are bad") is pastoral writing at its best — specific, differentiated, and grounded in the actual doctrine being taught. It demonstrates the Puritan pattern of moving from doctrine to uses without announcing it.
+
+2. **The Leader's Note** sets up the session correctly and with appropriate restraint: slow down on hard words, let each passage land, and don't resolve what isn't resolved yet. That is a well-formed leader brief.
+
+3. **The Todd narrative** is used wisely. It is not illustrative decoration — it embodies the chapter's entire argument. A man who knew the doctrines and had them accomplish nothing in his soul until the finished cross became personal is the argument. The guide uses him to carry the doctrine into a life rather than leaving it as information.
+
+---
+
+### Critical Weaknesses
+
+1. **The Proverbs 17:15 transfer needs a brief acknowledgment.** Using wisdom literature to anchor a claim about divine justice is a legitimate and time-honored move (Owen, Turretin, and Berkhof all use it), but the hermeneutical hop from judicial proverb to divine-eschatological justice should be named, not assumed. Even one sentence — "This proverb describes human courts, but the Scriptures apply its logic to God's judgment as well (e.g., Deuteronomy 25:1)" — would make the argument more honest about its structure.
+
+2. **The guide doesn't explicitly name what is at stake for non-elect persons in the atonement debate.** The logical argument (Possibility 3 → double jeopardy → universalism) is clear for the purpose of ruling out Possibility 3. But it leaves unaddressed the affective question that some men will feel: *does this mean God never intended to save my father? my neighbor?* That question will be in the room. A Leader's Note prompt directing the leader to acknowledge it (even without resolving it) would prevent men from leaving with that wound unaddressed.
+
+3. **The reflection questions are good but lean diagnostic rather than formative.** Questions 1–4 are primarily intellectual ("How does this difference affect your confidence?"). Question 5 is the only question that asks a man to locate himself in the story ("Which one do you look more like right now?"). The guide would benefit from one additional question that is purely experiential — something like: "Where in your life this week have you acted as if the penalty was still unresolved?"
+
+---
+
+### Blind Spots
+
+The guide is written with confidence in the argument's logic — rightly so. But it does not anticipate the man in the group who has already wrestled with and rejected the logic. The step-by-step argument is presented as though the difficulty is intellectual clarity; some men's resistance is not intellectual but volitional. A man who does not *want* definite atonement to be true — because it raises questions about his unsaved family — will not be moved by clearer logic. The guide has no pastoral strategy for that man.
+
+---
+
+### Missed Opportunity
+
+The guide ends beautifully with the prayer and Todd's face being different when he came back through the door. But the closing reflection misses the opportunity to press the question: *What would it look like if God broke you open in the way He broke Todd — and would you let Him?* That is the pastoral call underneath the whole chapter. The guide describes Todd's break but does not explicitly invite the men to desire it. The "THEREFORE" section partially covers this, but a closing pastoral word that issues the invitation more personally would be the fitting capstone.
+
+---
+
+### Dead Orthodoxy Flag
+
+**Not triggered.** The applicatory force is too high, and the conscience work too specific, to qualify. This guide is not information delivery dressed as study. It is pastoral instruction that uses doctrine to search the heart.
+
+---
+
+### Weight of Glory Assessment
+
+The guide carries genuine weight — Todd's face being different when he came back through the door, the sentence *It is finished* being either the most important thing you have ever believed or something you have never let land — these are sentences written with eternal gravity, not study-guide filler.
+
+---
+
+### Core Override Questions
+
+1. **Does this make me think more of Christ or myself?** Christ. The entire argument redirects self-reliant performance toward the finished work of another.
+2. **Did I encounter God or just ideas about Him?** Both — and in the right order. The doctrine is not offered as an end in itself; it is offered as the ground under the broken man's feet.
+3. **Was I comforted, convicted, or merely informed?** Convicted and comforted. The guide identifies a specific form of spiritual performance (holding yourself before God by what you do) and then provides the only relief for it (the finished cross). That is both conviction and comfort.
+
+---
+
+*Evaluated against the Thus Says the Lord rubric — Bible study guide genre adaptation applied. No numeric score assigned.*
