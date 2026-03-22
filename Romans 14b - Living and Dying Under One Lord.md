@@ -448,3 +448,182 @@ You are the Lord's.
 That's not a leash. That's an anchor.
 
 Let's pray.
+
+## Thus Says the Lord — Sermon Evaluation
+
+### Verdict Title
+A Theologically Rich and Pastorally Warm Exposition That Earns Its Gospel Landing
+
+### One-Sentence Summary
+A faithful opening of Romans 14:5-9 that magnified the Lordship of Christ over life and death with genuine pastoral heat while leaving several categories of hearers underaddressed and the conscience only partially searched.
+
+---
+
+### Berean Gate: PASS
+
+**Scopus Test**: The sermon's thesis — "Christ died and rose again to be Lord of the dead and the living, and that Lordship is the ground of both Christian unity and Christian comfort" — demonstrably arises from the passage's own climactic argument in verse 9. Pass.
+
+**Authority Test**: The preacher submits to the text's claims, including the countercultural declaration that autonomy is a myth and that every believer belongs entirely to Another. No softening of the hard parts is detected. Pass.
+
+---
+
+### Fatal Flaw Flags: NONE
+
+No fatal flaws triggered. The gospel is present and proclaimed. Christ is not decorative — His death and resurrection form the structural spine of the sermon. Application is differentiated. Exhortation is present. The sermon is accessible to ordinary hearers.
+
+---
+
+### Score Breakdown
+
+**1. Exposition & Hermeneutics — 21/25**
+
+- *Textual Fidelity* (10): 9/10. The sermon tracks the passage verse by verse with care. Each major move (v. 5 on conscience, v. 6 on motive, v. 7 on belonging, v. 8 on life-and-death, v. 9 on Christ's resurrection Lordship) receives substantive treatment. The text governs the sermon throughout. Minor deduction: the "for whom" logic of verse 9 — that Christ's resurrection Lordship is the specific reason we welcome one another — could have been pressed harder into the unity question before the pastoral landing.
+- *Contextual Awareness* (5): 4/5. The sermon appropriately locates itself in the series arc and connects to earlier Romans themes (total depravity, election). The Colossians 2 and 1 Corinthians cross-references land cleanly. One note: the broader redemptive-historical location (the arrival of the New Covenant age and what it means for ceremonial law) is handled, but briefly.
+- *Exegetical Clarity* (5): 5/5. The *plērophoreō* word study is used as a key that unlocks the text rather than academic decoration. The Greek is earned. The ceremonial/moral law distinction is handled well without becoming a rabbit trail.
+- *Logical Faithfulness* (5): 3/5. The FCF (Fallen Condition Focus) is implicit rather than named: the condition the text addresses is the human instinct to make secondary convictions into binding standards over others, and the corresponding terror of death without an anchor. The sermon touches both but never crystallizes them into a single named condition the text was written to heal. The FCF is the bridge between exposition and application — here it remains a fog rather than a named crossing point.
+
+**2. Theology & Doctrinal Integrity — 16/18**
+
+- *Christ-Centeredness* (7): 7/7. Exemplary. The Lordship of Christ is not imported — it is the passage's own climax, and the sermon earns it organically. The resurrection is central, not peripheral.
+- *Redemptive-Historical Awareness* (3): 2/3. The sermon handles the fulfilled ceremonial law clearly. What it does not do is locate verse 9 within the Christus Victor and new creation framework that gives the resurrection its full cosmic weight. The connection between Christ's resurrection Lordship and the coming general resurrection is gestured at but not developed.
+- *Doctrinal Precision* (4): 4/4. Justification, belonging, the nature of conscience, and the theology of death are handled with precision. No slippage.
+- *Confessional Alignment — 1689 Pulse* (4): 3/4. The 1689 citation on liberty of conscience is well-placed and not forced. The unconditional election application (the men's study cross-reference) is theologically sharp. Minor deduction: the BFM citation alongside the 1689 feels slightly incongruous — the sermon would be tighter if it settled on one confessional anchor.
+
+**3. Gospel Centrality & Force — 13/15**
+
+- *Clarity of the Gospel* (5): 4/5. The gospel is proclaimed, not merely assumed. Christ's death and resurrection as the purchase-price of Lordship is clear. What is less clear is whether justification by faith is articulated as the ground of the hearer's belonging to Christ — the sermon assumes conversion more than it proclaims the gospel to the unconverted in the room.
+- *Necessity of Christ* (5): 5/5. Christ is structurally indispensable. The entire comfort for dying people rests on His resurrection. Without the resurrection, the sermon collapses.
+- *Cross-Centered Gravity* (5): 4/5. The sermon moves toward and through the cross. The cross is not decorative. Minor deduction: the law is not fully deployed before the gospel relieves it. The sermon does not let the weight of belonging to sin's dominion land long enough before announcing the comfort of belonging to Christ. The Hammer is lighter than the Balm.
+
+*Synagogue Test*: A devout non-Christian could track much of the sermon without offense until the section on Christ's Lordship through death and resurrection — which is precisely where the sermon becomes offensive in the right way. Marginal pass.
+
+**4. Conscience & Applicatory Force — 11/15**
+
+- *Heart Penetration* (5): 4/5. The pastoral landing is genuinely warm and targeted. The section for those facing health battles is notably strong — the detail about the post-surgery parishioner is specific and theologically grounded. The section for those who have lost someone is brief but pastorally honest.
+- *Specificity* (5): 4/5. The marriage application, the recovery application, the "you've been arguing about secondary things as if your soul depended on it" address — these are specific. The missionary/bacon illustration is long but effective. Deduction: some sections still operate at the level of category ("some of you are facing health battles") rather than drilling into the texture of what that actually feels like in this congregation.
+- *Spiritual Differentiation* (5): 3/5. Perkins' taxonomy only partially covered. The sermon reaches: the strong (addressed directly), the weak (addressed pastorally), the believer facing death (addressed warmly), the grieving (briefly), and the despairing (briefly). What is missing: the person who is *knowledgeable but unhumbled* — the elder, the theologically confident man who needs to be cornered, not just addressed. The *humbled-but-not-yet-believing* is entirely absent. The congregation is largely treated as already converted.
+
+**5. Exhortation & Response — 6/8**
+
+- *Call to Response* (4): 3/4. The pastoral landing sections function as soft exhortations, but the sermon lacks a single, summoning "therefore" moment where the preacher looks the congregation in the eye and issues a clear command. "Stop fighting and start worshiping the Lord you both belong to" comes closest — it's good — but it is embedded in a longer pastoral section rather than standing as a climactic summons.
+- *Equipping for Holiness & Witness* (4): 3/4. The missions moment (Koussountou people) is a genuine strength and connects the text to witness organically. The sermon sends people somewhere. However, the corporate dimension of belonging to one Lord — what mutual accountability and covenant community look like in practice — is gestured at but not developed into actionable community instruction.
+
+**6. Structure & Logical Flow — 8/9**
+
+- *Clarity of Outline* (4): 4/4. Five clear, labeled points that track the text. The listener can reconstruct the sermon's movement.
+- *Progression* (3): 3/3. The sermon builds correctly: from practical (days and food) to cosmic (life and death under the risen Lord). The arc is sound.
+- *Unity* (2): 1/2. The sermon has one dominant idea, but the men's study cross-references (total depravity, unconditional election) — though theologically apt — momentarily pull the sermon into commentary mode. One of these could be cut without loss.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance* (2): 2/2. The missionary/pork/frozen bacon illustration is native to this sermon and this preacher's experience. The post-surgery parishioner anecdote is specific and earned. The Koussountou prayer transition is imaginatively connected to the text.
+- *Clarity* (2): 2/2. The illustrations clarify rather than compete. The bacon story could be slightly tightened, but it earns its length because it proves the point from real life rather than hypothetical.
+- *Memorability* (1): 0/1. No single image will be carried home. The Heidelberg Catechism citation is memorable, but it is borrowed. The sermon's own image — "death is a doorway through which the Lord Himself will carry you" — is close but not fully developed into a lasting picture.
+
+**8. Sermonic Force — 4/5**
+
+- *Reads as Preaching* (2): 2/2. Oral cadence throughout. Direct address is natural. The Bible-raising moment ("put your finger on the page and hold it up") is a strong sermonic device that only works in preaching.
+- *Conviction on the Page* (2): 2/2. Scripture-grounded assertion ratio is high. Filler is minimal. The manuscript reads as written to be spoken, not read.
+- *Cadence and Breath* (1): 0/1. The sermon is largely uniform in cadence. The section on verse 8 ("Your body is mortal / Your soul is created by God / And both belong to Christ") approaches climactic compression but does not quite arrive. The sermon could use one more moment of sentence-level compression at the apex.
+
+---
+
+### Cognitive Load Modifier: 0
+
+The sermon is well-paced. The exegetical content is accessible without being thin. The single mother, the high schooler, and the grieving widow can all track this sermon.
+
+---
+
+### Total Score
+
+| Category | Scored | Possible |
+|---|---|---|
+| Exposition & Hermeneutics | 21 | 25 |
+| Theology & Doctrinal Integrity | 16 | 18 |
+| Gospel Centrality & Force | 13 | 15 |
+| Conscience & Applicatory Force | 11 | 15 |
+| Exhortation & Response | 6 | 8 |
+| Structure & Logical Flow | 8 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 4 | 5 |
+| **Subtotal** | **83** | **100** |
+| Cognitive Load Modifier | 0 | — |
+| **Total** | **83** | **100** |
+
+**Interpretation: Strong and Faithful. Minor sharpening needed. Ready for the pulpit with targeted revisions.**
+
+---
+
+### Weight of Glory Bonus: +3/5
+
+The section on verse 8 — "death is a doorway through which the Lord Himself will carry you" — and the Heidelberg Catechism citation carry genuine eternal gravity. The sermon feels like it matters beyond Sunday for the person sitting in the room with a diagnosis. The Spurgeon Test: a man who has been with God would feel the weight of verse 8 in this sermon. Partial credit only — the sermon does not fully culminate in worship; it ends in pastoral exhortation rather than doxology.
+
+**Adjusted Total: 86/105**
+
+---
+
+### Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Christ. The Lordship of Christ is the center of gravity, and the congregation is consistently oriented toward Him rather than toward their own performance.
+2. *Did I encounter God, or just ideas about Him?* Largely God Himself, especially in the comfort sections. The section on verse 8 crosses from idea to encounter.
+3. *Was I comforted, convicted, or merely informed?* Comforted — genuinely and specifically. Informed — clearly. Convicted — moderately. The hammer could land harder before the balm.
+
+---
+
+### Strengths (Top 3)
+
+1. **The resurrection as the ground of unity, not just salvation** (Section V, verse 9). The move that connects "Christ died and rose" to "therefore welcome your brother" is textually organic and theologically necessary. This is not a proof-text jump — it is the passage's own logic, followed faithfully.
+2. **The Heidelberg Catechism citation** (Section IV). The parallel drawn between Romans 14:8 and Heidelberg Question 1 is exegetically earned and pastorally rich. It is one of the finest moments in the manuscript — a confessional anchor that lands on a living nerve.
+3. **The pastoral landing on health and death** (Pastoral Landing, second section). The specific, quiet courage of "death is a doorway through which the Lord Himself will carry you" — grounded in the resurrection — is real preaching. It is the sermon's best moment.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **The FCF is never named** (throughout). The text was written to address the human instinct to elevate secondary convictions to conscience-binding authority — and the corresponding terror of death without an anchor outside the self. Neither condition is named and owned by the congregation as *their* specific fallen state before the text's remedy is applied. The bridge between exposition and application is built on feeling rather than named diagnosis.
+2. **The humbled-but-not-yet-believing hearer is absent** (Pastoral Landing). The sermon differentiated well among several hearers but left out the person in the room who is under conviction but not yet a believer — someone for whom "you are the Lord's" is not yet their testimony. This person needed to be directly addressed with the call to come under Christ's Lordship by faith.
+3. **The exhortation has no summoning climax** (Closing). The sermon ends warmly and wisely — "that's not a leash, that's an anchor" is a strong closing line — but the preacher never issues a direct command to the congregation. The difference between "Stop fighting and start worshiping" embedded in a paragraph versus standing as a declared summons is the difference between pastoral warmth and prophetic edge.
+
+---
+
+### Blind Spots
+
+The sermon assumes the congregation is largely composed of believers who understand themselves as belonging to Christ. There is no reckoning with the person in the room who is not yet the Lord's — who is still living and dying under the tyranny of self, or under false lords (the Koussountou prayer transition hints at this but does not circle back to the unconverted in the pew).
+
+---
+
+### Illusion of Strength
+
+The missionary/bacon illustration is the sermon's most vivid and personal illustration — and it lands — but it takes the place of a moment where the congregation is cornered by the text about their own specific failure to surrender preferences for the sake of the body. The illustration teaches the principle rather than pressing the nerve. The strength of the story creates the impression of a strong application, but the application itself is slightly indirect.
+
+---
+
+### Missed Opportunity
+
+Verse 7 — "None of us lives to himself, and none of us dies to himself" — is the most philosophically subversive sentence in the passage and receives the most structural content (marriage, strong, weak). But the sermon does not let the radical claim of this verse confront the autonomous-self idol that sits quietly in most modern Christians' hearts. Autonomy is named as a cultural problem; it is not pressed as a personal and ongoing temptation that even regenerate people carry. The verse deserved one more pass through the conscience.
+
+---
+
+### Surgical Fixes
+
+1. **Name the FCF explicitly after the introduction**: "The fallen condition this text addresses is our instinct to make our own conscience the standard for everyone else — and our terror of a death that has no Lord attached to it. Paul gives us both a correction and a comfort." One sentence. It would change the sermon's applicatory arc.
+2. **Add one direct address to the unconverted**: After the Heidelberg Catechism citation, insert: "And if you cannot yet say that — if 'I am the Lord's' is not your testimony — this is where to begin. Christ died and rose to be Lord. That Lordship is an offer before it is a comfort. Receive Him."
+3. **Tighten verse 8's climactic section**: The three-line construction ("Your body is mortal / Your soul is created by God and endures forever / And both belong to Christ") is close to landing. Remove "created by God and endures forever" from the middle line — it breaks the rhythm. "Your body is mortal. Both belong to Christ." is stronger and more compressed.
+4. **Give the closing a summoning imperative**: Before "Let's pray," add a direct command: "Receive this. Whether you live or die today, you are the Lord's. Act like it. Hold your brother. Set down your argument. Belong to the Lord — together." The sermon has earned this moment. It should land as a command, not a comfort.
+5. **Cut one of the men's study cross-references**: The total depravity and unconditional election references are both theologically sound but pull in slightly different directions. Choose one and let it run; the other can be cut.
+
+---
+
+### Dead Orthodoxy Flag: NOT TRIGGERED
+
+Exposition scores 21/25; Conscience scores 11/15 (above the 9-point threshold). Theology scores 16/18; Gospel Centrality scores 13/15 (above the 9-point threshold). The flag does not trigger. The sermon has pastoral warmth and not merely doctrinal correctness.
+
+---
+
+### Weight of Glory Assessment
+The sermon carries genuine eternal gravity in its sections on death and belonging, particularly in the resurrection-grounded pastoral comfort — though it does not quite culminate in worship, ending instead in exhortation.
+
+---
+
+### Rubric Fit Note
+Romans 14:5-9 is a practical-theological text with a clear redemptive-historical climax in verse 9. The rubric fits well. No genre strain. The conscience and applicatory force categories are appropriately demanding for a passage that is explicitly pastoral in its aim.
