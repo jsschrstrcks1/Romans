@@ -166,3 +166,186 @@ Don't miss heaven by eighteen inches.
 > The best way of preventing or exposing this very loathsome form of practical antinomianism is to point out as distinctly as possible the true meaning of the apostle's expressions, so that, while they answer the purpose they were meant to serve — to sustain the true Christian in his struggle with indwelling sin, and show him both where he cannot, and where he may find strength to conquer it — they may not be perverted into the means of delusion and ruin on the part of the falsehearted professor, but that he may be driven out of the refuge of lies which he endeavors to find in God's word, and that that word may be clearly seen to be 'profitable for doctrine, and for reproof, and for correction, and for instruction in righteousness.'"
 
 **To resolve:** Open the Archive link above, read the chapter on Romans 3:5–8, and confirm whether this passage appears and whether the wording matches exactly.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Verdict Title:** Earnest Pastoral Heart, Underdeveloped Text Work, and a Gospel That Almost Gets There
+
+**One-Sentence Summary:** A well-intentioned opening of Romans 3:5–24 that establishes the cost of sin with vivid real-world color while leaning too hard on the antinomianism/legalism binary and allowing the sermon's own warmth to substitute for the passage's actual argument.
+
+---
+
+### A. Berean Gate
+
+**Scopus Test:** The sermon's stated thesis — that grace neither licenses sin (antinomianism) nor earns salvation (legalism), but transforms the believer through relationship with Christ — is a legitimate theological claim, but it is not the main point of Romans 3:5–24. The passage's driving argument is Paul's defense of the righteousness and faithfulness of God against the objections that his gospel makes him unjust or makes sin advantageous. The sermon treats vv. 5–8 as a brief aside before using v. 23 as a launching pad for the antinomianism/legalism framework. The passage's sweeping catena of condemnation (vv. 10–18) receives almost no direct treatment. The climax of the passage — the universal condemnation under law and the righteousness of God now revealed apart from law (vv. 19–24) — is barely handled.
+
+**Authority Test:** The sermon does not stand above the text as an editor in bad faith, but it does select its two anchor verses (3:5 and 3:23) and largely bypasses the body of the passage. The uncomfortable universality of vv. 10–18 is acknowledged briefly but not pressed. The sermon submits to what it does engage, but it skips too much of the text to fully pass.
+
+**Gate Verdict: Conditional Pass.** The sermon is not text-driven in the fullest sense — it is doctrine-driven, using the passage as scaffolding. The main point of the sermon does not demonstrably arise from the main argumentative movement of Romans 3:5–24. This does not trigger full gate failure because the theological content handled is drawn from the passage, but it is a significant structural warning.
+
+---
+
+### B. Fatal Flaw Flags
+
+**Flag 4 — Application is largely generic:** The application ("let shame drive you to Christ," "do good from love not debt," "motivation matters") is true but abstract. There is no differentiated address to the antinomian in the room, the legalist in the room, or the doubting believer in the room as specific persons. "Folks, our sin should deeply grieve us" addresses no one in particular.
+
+**Flag 5 — Exhortation is soft:** The closing invitation is present (come talk to me, rededicate, don't miss heaven by eighteen inches), but it does not clearly state what the congregation must now believe, repent of, or do. An invitation to "come talk to me" is not a exhortation to repentance. The congregation is informed and comforted but not summoned.
+
+**Score is capped at 69.**
+
+---
+
+### C. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14/25**
+
+- Textual Fidelity: 5/10. Two anchor verses (3:5 and 3:23) are used responsibly. But vv. 9–18 (the catena of condemnation) receive almost no treatment, and vv. 19–22 (the revelation of righteousness apart from law) are essentially absent from the sermon. The passage's own climax goes unpreached.
+- Contextual Awareness: 3/5. The connection to Romans 6 (used to reinforce the antinomianism point) shows awareness of the letter's flow. The redemptive-historical placement is partially present (the law as an instrument of condemnation), but it is not organized from the passage's own logic.
+- Exegetical Clarity: 3/5. The explanation of qisas and lex talionis is illuminating and culturally grounded. No Greek is engaged. The Fallen Condition Focus (why does this passage exist?) is implied but not named: the sermon assumes people understand that sin separates from God without establishing it from the passage's own argument.
+- Logical Faithfulness: 3/5. The antinomianism/legalism binary is a legitimate framework but is imported over the text rather than derived from it. The Paul of Romans 3:5–24 is not primarily arguing about antinomian believers; he is defending God's faithfulness and righteousness against Jewish objectors. The sermon does not commit eisegesis but does commit selective engagement.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- Christ-Centeredness: 5/7. Christ's atoning work is present — the tattoo analogy, the blood of the Lamb, the cross as the permanent removal of sin. But it is never named with precision: no substitution, no imputation, no declaration of righteousness. "Paying the price" and "taking your sins" are correct directionally but thin.
+- Redemptive-Historical Awareness: 2/3. The Mosaic law as an expression of proportional justice, qisas in Exodus 21 — this is genuine redemptive-historical awareness. It is underdeveloped but present.
+- Doctrinal Precision: 3/4. The distinction between shame-driven repentance and guilt is theologically interesting and not careless. Eternal security is handled pastorally rather than doctrinally. "Signed, sealed, and delivered" is sound instinct. The claim that salvation is "like a tattoo on your soul" — permanent but able to be "covered" — is theologically imprecise and potentially misleading.
+- Confessional Alignment — 1689 Pulse: 3/4. No contradiction of confessional theology. The sermon's soteriology is broadly sound: grace, not works; relationship, not performance. The Covenant of Works / Covenant of Grace distinction is not surfaced, but the passage does not require it. The Doctrines of Grace are implicit.
+
+**3. Gospel Centrality & Force — 9/15**
+
+- Clarity of the Gospel: 3/5. The gospel is present: Christ paid for sin, the believer is forgiven, shame drives to the cross. But an unbeliever could sit through this sermon and not know what the cross accomplished, why it was necessary, or what repentance and faith actually mean. "Come talk to me" is not a gospel presentation.
+- Necessity of Christ: 3/5. Christ is essential to the tattoo analogy and to the conclusion. But a sermon on law, antinomianism, and legalism could survive the removal of three paragraphs of Christ-content without losing its primary argument — which signals that Christ has not been woven into the passage's own logic.
+- Cross-Centered Gravity: 3/5. The sermon moves toward Christ in its conclusion, but it orbits around the antinomianism/legalism binary for most of its length. The cross relieves the law's pressure — but the law never fully landed as it does in Romans 3:19–20 ("so that every mouth may be stopped and the whole world may be held accountable to God"). The cross arrives before the law has done its full work.
+
+Synagogue Test: A moral, devout non-Christian could follow most of this sermon without taking offense at the necessity of Christ's blood — the cross is present but not inescapable. Mild moralistic drift flagged.
+
+**4. Conscience & Applicatory Force — 8/15**
+
+- Heart Penetration: 3/5. The tattoo illustration is the most emotionally resonant moment and it works — it gives the conscience a concrete image of sin's disfigurement and the gospel's covering. The shame/guilt distinction shows pastoral attentiveness. But the sermon does not corner anyone.
+- Specificity: 2/5. "Folks, our sin should deeply grieve us" and "we ought to be doing good things from a place of love" are true but not specific. The antinomian in the room is named as a type but not pressed with particularity. The legalist is barely addressed.
+- Spiritual Differentiation: 3/5. The sermon distinguishes: the lost person (come talk to me), the antinomian believer (you've fallen into sin and forgotten your first love), and the anxious believer (salvation is permanent). Three of Perkins' seven categories are partially reached. The "knowledgeable but unhumbled" — the person who knows all this theology and is utterly unmoved — is invisible. The backslider is named but not genuinely pressed.
+
+**5. Exhortation & Response — 4/8**
+
+- Call to Response: 2/4. The closing altar call is an exhortation in form, but "come talk to me" is not specific enough to constitute an exhortation in substance. What must the antinomian now do? Stop sinning in a particular way? Return to Bible reading? What must the legalist do? The sermon tells people what to feel ("shame") but not what to do.
+- Equipping for Holiness & Witness: 2/4. The magnet analogy (exposure to God magnetizes the believer) is a compelling metaphor for progressive sanctification but is applied as comfort rather than equipment. The sermon does not send the church out — it sends them to talk to the pastor.
+
+**6. Structure & Logical Flow — 6/9**
+
+- Clarity of Outline: 3/4. The structure is discernible: illustrations of legal punishment → God's law and its demands → antinomianism vs. legalism → the gospel resolution → exhortation. This is traceable.
+- Progression: 2/3. The sermon wanders between the tattoo analogy (used twice, developed in the middle, revisited at the close), the magnet analogy, and the atheism apologetics paragraph. The atheism section (near the end) does not contribute to the antinomianism/legalism argument and should be removed.
+- Unity: 1/2. There are at least four competing ideas: (1) law demands its due; (2) antinomianism vs. legalism; (3) the permanence of salvation; (4) why atheism fails. One dominant idea is not maintained.
+
+**7. Illustration & Imagination — 4/5**
+
+- Relevance: 2/2. The judicial caning, the Noushad case, and the India panchayat cases are all concrete, culturally grounded, and earn their place. The tattoo illustration is culturally native to this congregation.
+- Clarity: 1/2. The tattoo illustration is emotionally effective but theologically overworked — it is asked to carry too much weight (sin's disfigurement, guilt's permanence, salvation's covering, shame's resolution). It begins to bend under the load by the second use.
+- Memorability: 1/1. The Noushad case and the tattoo story will be carried home.
+
+**8. Sermonic Force — 3/5**
+
+- Reads as Preaching: 2/2. Direct address is present ("Folks," "You know," "Don't miss heaven by eighteen inches"). Oral cadence is strong. The manuscript reads like a man who preaches, not like someone who wrote an essay.
+- Conviction on the Page: 1/2. The Scripture-to-assertion ratio is low — the passage is cited at key moments but the extended central section runs on illustration and analogy rather than text. Filler phrases appear ("You know," "at this juncture," "sort of like").
+- Cadence and Breath: 0/1. Sentence length is fairly uniform. The sermon lacks a climactic compression — the moment where short sentences stack and the weight falls. The closing is warm but does not thunder.
+
+---
+
+### D. Cognitive Load Modifier
+
+**Score: −1.** The sermon is accessible to ordinary hearers — the illustrations are vivid and the theological categories are named clearly. The atheism paragraph is a jarring detour that competes with the main argument. The two analogy systems (tattoo + magnet) together with the legal illustrations create mild conceptual saturation. One pass of consolidation would help.
+
+---
+
+### E. Total Score
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 14 | 25 |
+| Theology & Doctrinal Integrity | 13 | 18 |
+| Gospel Centrality & Force | 9 | 15 |
+| Conscience & Applicatory Force | 8 | 15 |
+| Exhortation & Response | 4 | 8 |
+| Structure & Logical Flow | 6 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 3 | 5 |
+| **Subtotal** | **61** | **100** |
+| Weight of Glory (bonus) | +2 | +5 |
+| Cognitive Load Modifier | −1 | 0 |
+| **Total** | **62** | **105** |
+
+**Fatal flaw cap applied: 69 maximum. Pre-cap subtotal + modifiers: 62. Score stands at 62.**
+
+**Interpretation: Concerning gaps. The sermon explains and comforts but does not fully preach. Significant revision needed.**
+
+---
+
+### F. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Partially — the tattoo analogy centers on the self's experience of sin and relief more than on Christ's person and work. The gospel is present, but the emotional gravity settles on the hearer's condition rather than the Savior's accomplishment.
+2. **Did I encounter God, or just ideas about Him?** Ideas. The sermon teaches about grace and shame, but God himself — his holiness, his wrath, his mercy — is not rendered present with weight.
+3. **Was I comforted, convicted, or merely informed?** Comforted, primarily. Conviction is invited ("our sin should deeply grieve us") but not produced by the sermon's own movement through the text.
+
+---
+
+### G. Strengths (Top 3)
+
+1. **The Noushad case is exceptional.** The detail about the victim's forgiveness releasing Noushad from his sentence is a genuine homiletical find — it prefigures substitutionary grace without forcing the parallel. This moment has real power and is factually verified.
+2. **The shame/guilt distinction shows pastoral intelligence.** Distinguishing shame (relational rupture, requires blood) from guilt (cognitive accusation, requires argument) is theologically useful and pastorally perceptive. It is underdeveloped but worth expanding.
+3. **The magnet analogy is theologically sound and memorable.** The image of progressive sanctification as metal exposure to a divine magnet — changes outside the control of the metal, arising from proximity — is a clean and scripturally consistent model of the Spirit's sanctifying work.
+
+---
+
+### H. Critical Weaknesses (Top 3)
+
+1. **The passage's actual argument is not preached.** Romans 3:5–24 is Paul's defense of God's righteousness in response to Jewish objections. The catena of condemnation in vv. 10–18 and the resolution in vv. 19–24 are the text's heartbeat. The sermon uses two verses as entry points and fills the rest with application of a framework the passage does not primarily teach. A listener cannot reconstruct Paul's argument from this sermon.
+2. **The gospel does not land before the comfort arrives.** The sermon moves quickly from "our sin should grieve us" to "salvation is permanent and can't be undone." The law does not have time to stop every mouth (v. 19) before the gospel relieves the pressure. Comfort precedes full conviction.
+3. **The atheism paragraph is a structural orphan.** The paragraph arguing that shared moral intuitions prove God's existence (near the end of the body) does not connect to antinomianism, legalism, or the passage. It appears to be a habitual apologetics move that has been inserted without integration. It should be cut.
+
+---
+
+### I. Blind Spots
+
+The sermon assumes the congregation already knows what justification means. The phrase "has paid the price for your sins" is used without ever explaining what that transaction looks like, what price was paid, to whom, and why. The preacher likely does not see that an unchurched visitor would leave with a warm emotional impression and no clear understanding of what they need to do or why the cross was necessary.
+
+---
+
+### J. Illusion of Strength
+
+The opening illustrations (caning, qisas, panchayat) feel like the most powerful moment of the sermon, and they are vivid. But they create an illusion of textual grounding that the sermon does not sustain — they illuminate the concept of proportional justice, but the passage does not use proportional justice as its primary category. The illustrations earn credibility for a textual argument that is never fully delivered.
+
+---
+
+### K. Missed Opportunity
+
+Romans 3:19–24 is the passage's climax: "so that every mouth may be stopped and the whole world may be held accountable to God... for all have sinned and fall short... and are justified by his grace as a gift, through the redemption that is in Christ Jesus." This is the movement from total condemnation to free justification — the hammer and the balm in four verses. The sermon cites v. 23 in isolation but does not preach the sweep of vv. 19–24 as a single rhetorical and theological movement. This is the sermon's greatest missed opportunity.
+
+---
+
+### L. Surgical Fixes
+
+1. **Rebuild the expository spine around Romans 3:19–24.** State Paul's argument: the law stops every mouth, the whole world stands condemned, and now — apart from law — God's righteousness is revealed through Christ for all who believe. Let the antinomianism point arise from vv. 5–8 (where it actually appears), not as the sermon's center.
+2. **Cut the atheism paragraph entirely.** It fractures the argument and could be a separate apologetics lesson. It does not serve this passage.
+3. **Press the catena of condemnation (vv. 10–18).** Read it slowly. Let it stop the congregation's mouth before the gospel speaks. "There is no one righteous, not even one... no one does good, not even one." This is the hammer. Do not skip it.
+4. **Name the exhortation specifically.** After the gospel, tell the antinomian in the room: "Stop using grace as a license. Return to the Word this week. Set aside the pet sin. Not to earn anything — but because the one who paid for it is worth more than the comfort you've found in it." Tell the anxious believer: "Rest. Your salvation does not depend on the consistency of your shame."
+5. **Clarify the gospel transaction.** Add one paragraph naming what Christ's payment actually means: his perfect obedience credited to the believer, his death absorbing the wrath that was rightly ours. "Paying the price" is not enough. Name the mechanic — imputation and substitution — in plain words.
+6. **Tighten the tattoo analogy to one use.** The illustration does its best work in the first deployment. The second use in the conclusion dilutes it. End on Christ, not on the analogy.
+
+---
+
+### M. Dead Orthodoxy Flag
+
+Not triggered — the sermon has pastoral warmth and the preacher clearly loves his congregation. The fire is present. The textual grounding and gospel clarity are insufficient, but this is underdevelopment, not bloodless orthodoxy.
+
+---
+
+### N. Weight of Glory Assessment
+
+The sermon carries the warmth of a pastor who has genuinely wrestled with sin and grace, but it does not yet carry the weight of a man who has stood under Romans 3:19–24 until it crushed him and then lifted him.
+
+---
+
+### O. Rubric Fit Note
+
+This rubric fits this passage well — Romans 3 is propositional epistolary argument, the natural home of expository preaching. No genre strain. The rubric's pressure on textual fidelity and gospel centrality is precisely appropriate here.
