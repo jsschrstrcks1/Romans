@@ -98,6 +98,14 @@
 
 ---
 
+### Keith Getty & Stuart Townend
+
+| # | Quote | Source | Verification | Used In | Count |
+|---|-------|--------|-------------|---------|-------|
+| 1 | "It was my sin that held him there, until it was accomplished; his dying breath has brought me life — I know that it is finished." | *In Christ Alone* (2001), verse 3 | ✅ Green — published hymn, lyrics confirmed | `1 john 2 vs 1-5 2024.md` | 1 |
+
+---
+
 ### Tim Keller
 
 | # | Quote | Source | Verification | Used In | Count |
