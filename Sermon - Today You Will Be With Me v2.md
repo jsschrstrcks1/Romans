@@ -563,3 +563,213 @@ And may the Spirit who gave faith to a dying man give you faith to live.
 Until the dawn.
 
 Amen.
+
+---
+
+---
+
+# Thus Says the Lord — Sermon Evaluation
+
+**File**: Sermon - Today You Will Be With Me v2.md
+**Text**: Luke 23:39–43
+**Series**: The Night Is Far Gone
+**Evaluator**: Thus Says the Lord Rubric
+**Date**: 2026-03-22
+
+---
+
+## 1. Verdict Title
+
+**Sovereign Grace on a Roman Cross — A Rare Work of Exposition, Theology, and Gospel Fire**
+
+---
+
+## 2. One-Sentence Summary
+
+A faithful opening of Luke 23:39–43 that magnified the sovereign mercy of Christ through the thief's extraordinary confession, pressing hearers — with remarkable specificity — to abandon self-justification and receive the verdict that grace alone can pronounce.
+
+---
+
+## 3. Berean Gate
+
+**PASS**
+
+**Scopus Test**: "Sovereign grace opens the blind eyes of a condemned criminal to see Jesus as King, and Jesus pronounces an immediate, unconditional verdict of paradise to the undeserving — teaching the church that justification comes by faith alone, to the helpless, at the moment of crying out." This arises demonstrably from Luke 23:39–43.
+
+**Authority Test**: The preacher submits to the text's full claims — including the uncomfortable ones. The election section (IV) refuses to soften Romans 9:16 or explain the mystery away. The rebuke to the first thief (and by extension to "some of you") is not softened. The preacher is a herald.
+
+---
+
+## 4. Fatal Flaw Flags
+
+**None triggered.**
+
+- Gospel presentation: Present and explicit throughout.
+- Main point equals text: Yes.
+- Christ necessary: Christ is the gravitational center.
+- Application generic: No — remarkably specific.
+- No exhortation: Exhortation is clear and differentiated.
+- Inaccessible: Highly accessible while theologically dense.
+
+**Score is not capped.**
+
+---
+
+## 5. Score Breakdown
+
+### 1. Exposition & Hermeneutics — 24/25
+
+- **Textual Fidelity (9/10)**: The sermon derives its argument from Luke 23:39–43 at every major point. Every section grows from a detail in the text: the contrast between the two criminals, the thief's specific words, Jesus' response, the threefold *today / with me / paradise*. Minor deduction: the Matthew 27 parallel is used extensively; it's legitimate intertextual work but does create extended stretches away from the primary Lukan text.
+- **Contextual Awareness (5/5)**: Matthew 27:38 seats-of-honor parallel, Isaiah 53:12 fulfillment, Deuteronomy 21:23 curse, Old Testament covenant "remember" language, Romans 9 sovereignty connection. The Lukan series connection ("The Night Is Far Gone") is organic and enriching.
+- **Exegetical Clarity (5/5)**: *lēstēs* defined and applied. *Paradise* traced to the LXX/Eden meaning. "Remember me" identified as covenant language (Noah, Abraham, Rachel, Hannah). Greek surfaced as unlock, not decoration.
+- **Logical Faithfulness (5/5)**: No eisegesis. The application of Romans 9:16 to explain the mystery between the two thieves is textually anchored — the sermon doesn't pretend to resolve what the text leaves open.
+
+**FCF**: Human spiritual blindness — we cannot, by natural reason, look at the crucified Jesus and confess him King. The FCF is named concretely: "Think about this: no human being, reasoning naturally, would look at that scene and say, 'That's my King.'" The grace that opens eyes is the bridge. Excellent.
+
+### 2. Theology & Doctrinal Integrity — 17/18
+
+- **Christ-Centeredness (7/7)**: Organically, not artificially, centered. The Christology deepens through each section — innocent One, cursed One, King, judge, the One who gives what He has not yet fully received as the cross happens. No "Jesus jump."
+- **Redemptive-Historical Awareness (3/3)**: The Abraham-Isaac-Jacob-David election pattern. Isaiah 53:12. Eden/paradise as beginning and end. The whole story of Scripture is visible without being forced.
+- **Doctrinal Precision (3.5/4)**: Justification by faith alone is clearly articulated (baptism section; Origen on Romans 4; Romans 8:1). Penal substitution is *touched* in Luther's "three thieves" quotation but not named or proclaimed — it remains implicit where the text invites it to be explicit. The word "substitution" or "took our sins upon himself" surfaces once, then disappears. Minor gap.
+- **Confessional Alignment — 1689 Pulse (3.5/4)**: Doctrines of Grace are clearly present — Romans 9:16, Calvin on sovereign election, unconditional mercy. Justification by faith alone is explicitly defended. Score slightly reduced because the double imputation dynamic (Christ's righteousness to the thief) is implied but never stated; the sermon says "contributed nothing" but doesn't say what was credited.
+
+### 3. Gospel Centrality & Force — 15/15
+
+- **Clarity of the Gospel (5/5)**: Romans 8:1 proclaimed. "There is therefore now no condemnation for those who are in Christ Jesus." Justification by faith alone defended against sacramentalism (baptism section). Romans 10:10 cited and applied. Full marks.
+- **Necessity of Christ (5/5)**: Christ is not decorative — the thief's confession only works if Jesus actually is King, actually can pronounce verdicts, actually goes to paradise and brings someone with him.
+- **Cross-Centered Gravity (5/5)**: The cross is the scene of every section. The cross as shame (Roman context), as curse (Deuteronomy), as Christ's tribunal (Augustine), as the location of saving grace. The gospel moves toward the cross throughout.
+
+**Law/Gospel Dialectic**: Law lands in section I — "We are receiving the due reward of our deeds." The gospel follows in sections V–VI. Properly ordered. The Synagogue Test: would a devout non-Christian be offended? Yes — sovereign election, the curse on the cross becoming blessing, the unconditional verdict. This sermon passes.
+
+### 4. Conscience & Applicatory Force — 14/15
+
+- **Heart Penetration (5/5)**: Ryle's balance deployed beautifully. "Some of you are the first thief... That thief died three feet from Jesus and went to hell. Proximity is not salvation." That corners a specific kind of churchgoer. Direct address works.
+- **Specificity (5/5)**: Section VIII is the strongest specific application in the corpus evaluated thus far. Sobriety, broken marriage, family estrangement, terminal illness — not generic but concrete, pastoral, and textually grounded.
+- **Spiritual Differentiation (4/5)**: Addresses the self-reliant (first-thief type), those earning grace, long-time Christians who've domesticated grace, those with addiction, those with relational brokenness, the terminally ill, and the evangelistically overwhelmed. Perkins' "ignorant but teachable" and "backslider" categories are not explicitly addressed, though the breadth is exceptional.
+
+### 5. Exhortation & Response — 7/8
+
+- **Call to Response (4/4)**: "If you've never cried out for mercy — today is the day. If you've been trying to earn what can only be given — stop. Receive. If you've forgotten how good the good news is — remember." Three-pronged, imperative, differentiated. Full marks.
+- **Equipping for Holiness & Witness (3/4)**: The Bangladesh call-back equips for witness: "Your job is the one in front of you." Strong. But the ongoing sanctification journey — what the believer does with this tomorrow and next week — is less developed. The sermon excels at calling people *to* Christ but is quieter on what following Christ looks like *from* that moment.
+
+### 6. Structure & Logical Flow — 9/9
+
+- **Clarity of Outline (4/4)**: Eight numbered sections with clear identities: Mirror → Theology of a Dying Criminal → The King → The Mystery → Darkness and Dawn → The Verdict → What This Means for You → What the Thief Couldn't Do. Traceable on a napkin.
+- **Progression (3/3)**: The sermon builds toward Jesus' verdict, then applies it outward and inward. Each section earns its place.
+- **Unity (2/2)**: One idea throughout: sovereign grace opens blind eyes and pronounces a verdict the undeserving could never earn. Nothing competes with it.
+
+### 7. Illustration & Imagination — 5/5
+
+- **Relevance (2/2)**: Illustrations come from the text itself — crucifixion shame, the Cicero citation, the Matthew seats-of-honor irony. Not borrowed from elsewhere.
+- **Clarity (2/2)**: The Matthew 20:21 / Matthew 27:38 cross-reference is the best single illustration in the sermon — the sons of Zebedee wanted the throne seats, and criminals got the cross seats. That illuminates the upside-down kingdom without competing with the text.
+- **Memorability (1/1)**: "He breakfasted with the devil, but he dined with Christ on earth and supped with him in paradise." That goes home.
+
+### 8. Sermonic Force — 5/5
+
+- **Reads as Preaching (2/2)**: The opening — "Two men hang on crosses. Same crimes... Same sentence... Same nails... Same slow suffocation." — is distinctly oral. The entire manuscript breathes as spoken word.
+- **Conviction on the Page (2/2)**: Scripture-assertion density is high. Luke, Matthew, Romans, Philippians, Hebrews, Isaiah, Deuteronomy — all load-bearing, none decorative. Patristic voices (Calvin, Chrysostom, Spurgeon, Augustine, Origen, Luther) are deployed with precision.
+- **Cadence and Breath (1/1)**: "He didn't say... He didn't say... He didn't say..." in section VI. "Today. Not someday." in section V. "Today. With me. Paradise." as repeated refrain. The anaphoric structures earn their climaxes.
+
+---
+
+## 6. Cognitive Load Modifier — 0
+
+Eight sections is ambitious, but each is focused and the connective tissue is clear. The thief's narrative provides a thread an average churchgoer can hold. A single mother, a high schooler, or a new believer can follow the main argument and carry home one truth: *sovereign grace pronounces a verdict the undeserving could never earn.*
+
+---
+
+## 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 24/25 |
+| Theology & Doctrinal Integrity | 17/18 |
+| Gospel Centrality & Force | 15/15 |
+| Conscience & Applicatory Force | 14/15 |
+| Exhortation & Response | 7/8 |
+| Structure & Logical Flow | 9/9 |
+| Illustration & Imagination | 5/5 |
+| Sermonic Force | 5/5 |
+| **Subtotal** | **96/100** |
+| Weight of Glory Bonus | +5 |
+| Cognitive Load Modifier | 0 |
+| **TOTAL** | **101/105** |
+
+**Interpretation**: Rare. Exemplary exposition, pastoral heat, gospel gravity. Preach it.
+
+---
+
+## 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Christ. The thief becomes a mirror but Jesus is the subject of every section.
+2. **Did I encounter God, or just ideas about Him?** God — the election section (IV) forces a reckoning with divine sovereignty that will not be domesticated.
+3. **Was I comforted, convicted, or merely informed?** Both comforted and convicted. "Some of you are the first thief" lands. "The thief couldn't do any of that — and Jesus said: *Today. Paradise.*" comforts.
+
+---
+
+## 9. Strengths (Top 3)
+
+1. **The Matthew seats-of-honor cross-reference (Section III)**: The sons of Zebedee wanted seats at Christ's right and left. The criminals got them — on crosses. This is not an ornamental illustration. It is exegetically precise, theologically stunning, and immediately memorable. It illuminates the upside-down kingdom with a single textual observation.
+
+2. **Section VIII — What the Thief Couldn't Do**: The application moves from general to searingly specific. Sobriety, broken marriages, family estrangement, terminal illness — each addressed with the same three-word verdict: *Today. Paradise.* This is Puritan applicatory force in a contemporary register. The preacher distinguishes hearers without manufacturing categories.
+
+3. **The "Today. With me. Paradise." refrain**: The threefold exposition of Jesus' verdict — not someday but today, not remembered at a distance but *with me*, not mere escape but paradise/Eden — is textually grounded and homiletically masterful. The gap between what the thief asked and what Jesus gave is made the climax without being forced.
+
+---
+
+## 10. Critical Weaknesses (Top 3)
+
+1. **Penal substitution is implicit rather than proclaimed**: Luther's "three thieves" quotation surfaces the concept — "one who took our sins upon himself" — but disappears immediately. The cross is central throughout, but the *mechanism* of what happened on it for sinners is gestured at rather than proclaimed. A hearer who does not already understand substitutionary atonement will receive that Jesus died *near* them without grasping that Jesus died *for* them. The text invites this proclamation at section VI — the verdict — and it arrives only partially.
+
+2. **The double imputation dynamic is absent**: The sermon rightly says the thief "contributed nothing." But what *was* credited? Origen's quote ("the fruit of works grows from the root of righteousness") is suggestive but opaque. The congregation needs to hear not only that the thief brought nothing but that Christ's righteousness was credited to him — the *positive* side of justification, not only the *negative* (no condemnation). Romans 4, which is already cited, would have supplied this.
+
+3. **Equipping for sanctification is thin**: Section V's Bangladesh callback and the closing exhortation send the church outward for witness effectively. But the question of *what the thief's conversion means for how believers live* goes mostly unaddressed. The sermon excels at calling people to the cross but is quieter on the walk from it. The series context ("The Night Is Far Gone") suggests Romans 13 putting-on-Christ themes that could have grounded this.
+
+---
+
+## 11. Blind Spots
+
+The preacher may not see that the baptism section — while doctrinally precise and necessary in some contexts — functions as a detour in this manuscript. It argues against a position the congregation may not hold, introducing a theological debate at the moment of greatest gospel clarity. It is right to say, and well-said. But its placement risks interrupting the verdict's momentum. A footnote or parenthetical might serve better than a sustained three-paragraph section.
+
+---
+
+## 12. Illusion of Strength
+
+Section IV (The Mystery) is the strongest theological section and feels like the sermon's climactic argument about election. It is not. The climax is section VI (The Verdict) — "Today you will be with me in paradise." The election section is load-bearing but preparatory. The sermon knows this structurally (it comes before the verdict), but the *weight* given to election may lead hearers to think the sermon's thesis is "God sovereignly saves" rather than "Jesus pronounces sinners righteous through faith alone." The former serves the latter — but the latter must be the last word.
+
+---
+
+## 13. Missed Opportunity
+
+The intermediate state and the nature of "paradise" are gestured at (LXX/Eden) but not developed. The thief is told *today* — before the resurrection of the body, before the new creation. What is paradise in this moment? Where is the thief *with Jesus* between Friday afternoon and the resurrection? This is not pedantic — it is a pastoral question that grieving congregations carry. The text offers a window into it, and the preacher's congregation likely has people wondering. Hebrews 11:16 and Revelation 2:7 would supply the development without leaving the canonical orbit.
+
+---
+
+## 14. Surgical Fixes
+
+1. **Add one sentence of penal substitution at the Luther quotation (Section III)**: After "one who took our sins upon himself," add: "This is the doctrine the whole New Testament is built on — Jesus did not merely die alongside criminals. He was made sin for them. He bore the curse that Deuteronomy 21:23 pronounced. That's why the thief could be pardoned: someone else received what the thief deserved."
+
+2. **Add the positive side of imputation to Section VI**: After "No good works. No track record. No baptism. No church membership," add: "And yet Paul writes in Romans 4 that God 'credits righteousness apart from works.' The thief received not merely pardon but the righteousness of Christ — a righteousness not earned but given, not produced but imputed. He didn't just escape condemnation. He was declared righteous."
+
+3. **Trim or relocate the baptism section**: Move to a footnote or study note rather than a full mid-sermon excursus. The verdict's momentum ("Today. With me. Paradise.") should not be interrupted. The doctrinal content is worth preserving — just not where it currently sits.
+
+4. **Add one paragraph to the closing on the sanctification walk**: "The thief couldn't take a step. But you can. And the same grace that pardoned him empowers you — not to earn what you've already been given, but to live out what you've already received. The verdict doesn't just change where you're going. It changes who you are becoming."
+
+---
+
+## 15. Dead Orthodoxy Flag
+
+**Not triggered.** Exposition is 24/25, Conscience is 14/15. The sermon is not bloodless. It corners sinners and comforts saints in the same text.
+
+---
+
+## 16. Weight of Glory Assessment
+
+This sermon carries eternal weight — the subject demands it, and the preacher delivers it. A man who has been with God would weep or rejoice reading this. Possibly both.
+
+---
+
+## 17. Rubric Fit Note
+
+The rubric fits this narrative/gospel text well. Luke 23:39–43 is a drama with theology embedded in it — and this sermon handles that well by letting the narrative drive the exposition rather than forcing it into a doctrinal outline. The Fallen Condition Focus (spiritual blindness to the crucified Christ) is ideally suited to the rubric's diagnostic questions. No genre tension.
+
