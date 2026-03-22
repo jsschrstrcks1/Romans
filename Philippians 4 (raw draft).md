@@ -218,3 +218,162 @@ Christian — there is only One we should glory in, and that is Jesus Christ. If
 ---
 
 **Gospel.**
+
+---
+
+---
+
+# Thus Says the Lord — Sermon Evaluation
+
+**File**: Philippians 4 (raw draft).md
+**Text**: Philippians 4 (key verses: 4, 6–7, 8)
+**Theme**: Rejoicing and guarding the mind in a divided world; politics vs. the gospel; eternal perspective
+**Status Evaluated**: Corrected raw draft (verified Spurgeon ✓; Baxter removed ⚠️; Samuel Sey flagged ⚠️; Mozhihei corrected ✓; C.T. Studd corrected ✓; LXX claim corrected ✓)
+**Evaluator**: Thus Says the Lord Rubric
+**Date**: 2026-03-22
+
+---
+
+## 1. Verdict Title
+
+**A Politically Astute Philippians 4 Sermon With a Verified Spurgeon Gem and a Placeholder Where the Gospel Should Be**
+
+---
+
+## 2. One-Sentence Summary
+
+A timely, pastorally specific sermon on Philippians 4's call to rejoice and guard the mind — grounded in the eternal perspective, the fall's explanation of political division, and a verse-by-verse walk through the "think on these things" list — that preaches Spurgeon's "glorying in yourself" with genuine conviction, connects the gospel to every societal ill, and closes the grandfather's-broken-hip illustration with a soul being saved, while ending with "[Gospel.]" as a blank placeholder and two unresolved attribution flags.
+
+---
+
+## 3. Berean Gate
+
+**PASS — with integrity flags**
+
+**Scopus Test**: "In a world divided and anxious, God's answer is not a political solution but a gospel one — rejoice, be reasonable, bring your requests to God, and guard your mind with whatever is true, noble, right, pure, lovely, and praiseworthy, because in Christ alone is the peace that surpasses all understanding." Demonstrably arises from Philippians 4:4–8. Pass.
+
+**Authority Test**: Political idolatry is named by name ("politics an idol — and many have done so"). Self-glorying is confronted with Spurgeon's precision ("God has killed your glorying in yourself"). The lost person's eternity — "this is as good as it gets" — is stated without softening. Pass.
+
+> **Standing integrity flags** (carried from source notes):
+> - ⚠️ Samuel Sey quote: Unverified in any indexed source. Drop the name and present unattributed, or hold until the original post is located.
+> - ⚠️ Richard Baxter block quote: Removed from preaching text. Do not use until a primary source is located. The themes are consistent with Baxter's *Saints' Everlasting Rest* but the exact wording cannot be confirmed. See flags section.
+
+---
+
+## 4. Fatal Flaw Flags
+
+**None triggered** — the grandfather's broken-hip illustration contains a soul being saved (gospel at work in the narrative), and Christ is referenced as the object of glorying and the measure of all things. The gospel placeholder is a structural gap, not a doctrinal absence.
+
+---
+
+## 5. Score Breakdown
+
+### 1. Exposition & Hermeneutics — 15/25
+
+- **Textual Fidelity (6/10)**: The sermon works through Philippians 4 verse-by-verse in the "think on these things" section — true, noble, right, pure, lovely, worthy of praise — which is genuine textual engagement. Philippians 4:4 ("rejoice in the Lord always"), 4:6–7 (peace through prayer), and 4:8 (the list) drive the sermon's three sections. The opening political-division section is contextually motivated by 4:2 (Euodia and Syntyche) even if not named. The text's own structure drives the sermon's structure — stronger than most raw drafts in the corpus.
+- **Contextual Awareness (3/5)**: The Philippian context (Euodia and Syntyche's dispute as the occasion for Paul's call to unity and peace) is implicit rather than named. Developing this backstory briefly would ground the political-division application more textually.
+- **Exegetical Clarity (4/5)**: The *semnos* word study ("whatever is honorable") is correct and well-applied. The carpenter's-"true" illustration for "whatever is true" is creative and accurate. The *prosphilēs* hapax observation for "lovely" is correctly maintained after the LXX error was removed.
+- **Logical Faithfulness (2/5)**: The movement from Philippians 4 → the fall → eternal perspective → the list → the Spurgeon call is coherent but the fall section could belong to any sermon and is loosely connected to Philippians 4 specifically.
+
+**FCF**: "Political division and anxiety are consuming the church's energy and closing off gospel conversations." Named with pastoral specificity (the grandfather/granddaughter illustration). Well-identified from the opening.
+
+### 2. Theology & Doctrinal Integrity — 13/18
+
+- **Christ-Centeredness (5/7)**: "The solution to communism is the gospel. The solution to sin in this world is the gospel." Christ as the answer to every societal problem is genuinely Christocentric. The Spurgeon quote — "You will never glory in God till, first of all, God has killed your glorying in yourself" — is the sermon's theological peak. The eternity-in-heaven section, the "worst this world will ever be" for believers framing, and the "best it ever gets" for the lost — all of these are Christ-centered eschatology.
+- **Redemptive-Historical Awareness (2/3)**: The fall as explanation for division (Republicans and Democrats, grandfathers and granddaughters) is the sermon's redemptive-historical engine. Limited explicit canonical arc.
+- **Doctrinal Precision (3/4)**: The Spurgeon quote is verified (Sermon No. 1178, January 1, 1874) and deployed precisely. The "this world is the worst thing believers will ever experience / best thing the lost will ever experience" is doctrinally correct and pointed.
+- **Confessional Alignment (3/4)**: Gospel as the solution to every human problem, eternal hope, sanctification through identity (glorying in God rather than self) — all Reformed. The people group missions segment is evidence of a globally-minded congregation.
+
+### 3. Gospel Centrality & Force — 8/15
+
+- **Clarity of the Gospel (2/5)**: The gospel is a placeholder. The clearest gospel content is the grandfather's-broken-hip illustration: "My grandfather's roommate ended up being saved." The gospel was apparently shared in that room, but the sermon doesn't reproduce what was said. The "come talk to me" placeholder at the end does not present the gospel.
+- **Necessity of Christ (3/5)**: "The solution to communism is the gospel... when someone is a believer in Jesus Christ, the Holy Spirit indwells them, the Scripture washes them, God and Jesus lead them." Christ's necessity for transformation is asserted, not argued.
+- **Cross-Centered Gravity (3/5)**: The cross does not appear explicitly. Christ's death and resurrection are the unstated background to "put Christ first" and "glory in God." The broken-hip illustration is the closest the sermon comes to a gospel narrative, and it is told rather than proclaimed.
+
+### 4. Conscience & Applicatory Force — 12/15
+
+- **Heart Penetration (4.5/5)**: "Think back, if you can, to a time before you were a believer in Christ. If someone called you names you found insulting, would you have cared to hear about their Jesus?" This question is the sermon's most pointed conscience probe. The grandfather calling his granddaughter a communist is universally relatable — almost every congregation has someone who has done this. "Is he being reasonable?" is a direct and unanswerable question.
+- **Specificity (4/5)**: The Catahoula puppy illustration is local and personal — this is the pastor's specific dog, his specific morning, his specific emotional response. The broken-hip illustration is family-specific. The "thieving neighbors" reference is the pastor's own testimony.
+- **Spiritual Differentiation (3.5/5)**: Believers in political anxiety, believers prone to name-calling, the lost (for whom this world is as good as it gets) — all addressed with distinct words. The Dottie and David personal references suggest congregation-specific application that differentiates by name.
+
+### 5. Exhortation & Response — 6/8
+
+- **Call to Response (3/4)**: "Set aside yourself in favor of what God wants." "Let your reasonableness be known by all." "Be ready with the gospel." Three specific directives arising from the text. The Spurgeon quote followed by "Christian — there is only One we should glory in, and that is Jesus Christ" is an exhortatory peak.
+- **Equipping (3/4)**: The verse-by-verse "think on these things" list equips the hearer with a specific mental discipline: what categories of thought are sanctioned by Scripture? The political-idolatry warning equips the congregation to recognize when their political engagement has crossed into idolatry.
+
+### 6. Structure & Logical Flow — 7/9
+
+- **Clarity of Outline (3/4)**: Five movements: (1) Political division and the gospel; (2) Eternal perspective / the fall; (3) Catahoula puppy — rejoice; (4) Grandfather's broken hip — God's providential placement; (5) The list — think on these things / Spurgeon. Clear, though the movement from (2) to (3) is abrupt.
+- **Progression (3/3)**: The sermon deepens consistently: from the external problem (political division) to the internal solution (rejoice, guard the mind) to the Spurgeon culmination (kill your glorying in yourself). The escalation is well-managed.
+- **Unity (1/2)**: The "it all comes back to setting aside yourself in favor of what God wants" thread runs from the political section through the Spurgeon quote to the closing. The Catahoula puppy and broken-hip illustrations are connected by the "find something to rejoice in" theme but feel like two separate illustrations where one would do.
+
+### 7. Illustration & Imagination — 4/5
+
+- **Relevance (2/2)**: The grandfather/granddaughter Facebook illustration is perfectly calibrated for the opening. The broken-hip illustration is directly relevant to the "find something to rejoice in" argument — and earns a soul being saved as its payoff, which is the best possible illustration conclusion.
+- **Clarity (1/2)**: The Catahoula puppy illustration is clear but the theological move ("settle on the fact that he's a good guard dog") is slight. The illustration earns the laugh but the theological payoff is thin.
+- **Memorability (1/1)**: "For the lost, however, this is as good as it gets." Goes home.
+
+### 8. Sermonic Force — 3/5
+
+- **Reads as Preaching (1.5/2)**: The political-division section, the Spurgeon quote, and the broken-hip illustration read with genuine preaching voice. The fall section and the "Whatever is true/noble/right..." walk-through read as lecture.
+- **Conviction on the Page (1/2)**: The Spurgeon quote is the sermon's conviction peak: "You will never glory in God till, first of all, God has killed your glorying in yourself." The preceding argument earns that quote. The placeholder ending cancels it.
+- **Cadence and Breath (0.5/1)**: Raw draft — uneven rhythm.
+
+---
+
+## 6. Cognitive Load Modifier — 0
+
+Philippians 4:4–8, accessible contemporary applications, no unusual technical content (after the LXX correction removes the Greek cross-reference issue). Accessible to a broad Sunday morning congregation.
+
+---
+
+## 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 15/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 8/15 |
+| Conscience & Applicatory Force | 12/15 |
+| Exhortation & Response | 6/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **68/100** |
+| Weight of Glory Bonus | +3 |
+| Cognitive Load Modifier | 0 |
+| **TOTAL** | **71/105** |
+
+**Interpretation**: Concerning gaps — particularly the gospel placeholder and the Baxter/Samuel Sey flags. But the bones are strong. The Spurgeon quote, the broken-hip illustration, and the political-gospel application are worth developing. This is the raw draft closest to ready for the pulpit after targeted revisions.
+
+---
+
+## 8. Strengths (Top 3)
+
+1. **The Spurgeon quote — verified, deployed at the right moment**: "You will never glory in God till, first of all, God has killed your glorying in yourself" (Sermon No. 1178, January 1, 1874 — verified ✓). This quote arrives precisely when the sermon has built a sufficient case for it. The political idolatry section, the thieving neighbors reference, the "all too often it's all about 'I'" — all of this earns the Spurgeon quote as the theological verdict. This is how quotations should work in a sermon: not as decoration but as a verdict on what the argument has established.
+
+2. **The grandfather's broken-hip illustration with a soul being saved**: "My grandfather's roommate ended up being saved." This is the corpus's best illustration payoff — not because of the broken hip (which is humanly interesting) but because God's sovereign placement of the preacher's grandfather in a specific hospital room to reach a specific lost man is the incarnation of the sermon's thesis. "God had planned it so that we would be there at the appointed time and place, so that my grandfather's roommate would hear the gospel and be saved." This is Philippians 4:4-7 embodied — rejoicing in the broken hip because it was the vehicle for something eternal.
+
+3. **The political-division → gospel application is theologically precise**: "The solution to communism is the gospel. The solution to sin in this world is the gospel. See a societal ill that needs to be addressed? Share the gospel." This is not a retreat from politics into pietism — it is a theological claim that political change without heart change is insufficient. When someone is a believer in Jesus Christ, the Holy Spirit indwells them and they become incapable of supporting sex trafficking. The argument is: the gospel creates the citizens your politics is trying to create. This is Augustinian political theology at a congregational level.
+
+---
+
+## 9. Critical Weaknesses (Top 3)
+
+1. **The gospel is a placeholder at the close**: "[Gospel.]" The broken-hip illustration ended with a soul being saved. The sermon's close should echo that: "It happened at my grandfather's hospital bedside. It can happen here. Right now. If you are here and you are not in Christ — if this world truly is as good as it will ever get for you — that is a tragedy. Christ died to change that. He rose to prove it. And if you have never trusted him, this is your appointed time." The material is in the sermon. It needs to be declared.
+
+2. **The Baxter and Samuel Sey flags are unresolved**: The Baxter block quote was correctly removed from the preaching text — but it is still present in the manuscript below the removal flag, which means it could be inadvertently preached if a future reader or delivery version is not careful. Consider removing the Baxter text from the manuscript entirely (rather than flagging it) until a primary source is confirmed. For Samuel Sey: if the source cannot be located before the next preaching of this sermon, drop the name entirely and present the saying unattributed ("I came across this thought this week:") or find a verified alternative.
+
+3. **The fall section ("The Fall" header) could belong to any sermon**: The Adam and Eve paragraph — "they went straight to the one thing they were told not to do" — is theologically accurate and the mirror/shard imagery is good. But it is not derived from Philippians 4 and its connection to the sermon's argument is generic ("we are left in this sinful, fallen world"). The political division application would be more powerful if it were grounded directly in what Philippians 4 says about division — namely, the Euodia/Syntyche dispute in 4:2, which Paul names in a letter that would become the most copied correspondence in human history. That's a more specific and more textually honest connection than a generic fall reference.
+
+---
+
+## 10. Surgical Fixes
+
+1. **Write the gospel section**: At the "[Gospel.]" placeholder, insert:
+> "There is one more thing to think on. Philippians 4:8 ends with 'if anything is praiseworthy — think about such things.' Here is the most praiseworthy thing in the universe: while we were still sinners — while our glorying in ourselves was at its worst — Christ died for us. He took the wrath you and I deserve. He rose from the dead as the guarantee that it worked. And everyone who turns from their sin and trusts in him receives the peace that surpasses all understanding. Not as a feeling. As a reality. If you have never done that — if the gospel is still new information rather than your life — I'm asking you to talk to me before you leave. You don't know when you'll be the one in a hospital bed. But you can know today how that conversation with God will go."
+
+2. **Remove the Baxter block quote entirely from the manuscript** (don't just flag it): The current structure — flag followed by the quote itself — creates a manuscript risk. If the flag is missed in a future preparation, the unverified Baxter quote enters the pulpit. Delete the quote text and replace with: "[Baxter quote removed — unverified as of March 2026. See flags section for alternatives: Thomas Watson, *The Art of Divine Contentment*; Richard Sibbes, *The Bruised Reed*; or Philippians 4:11 direct paraphrase.]"
+
+3. **Add a brief Euodia/Syntyche reference at the political-division opening**: "Paul is writing to a church that has its own political disagreement — two women in the congregation, Euodia and Syntyche, are at odds with each other over something Paul doesn't name. He's so concerned about it that he addresses them by name in a letter that will be copied and distributed to every church in the region. Their names will become permanently associated with their argument. And his response is not 'who's right?' It's 'rejoice. And be reasonable. And bring your requests to God.' The same answer God gives to political division in 2026 is the answer he gave to Euodia and Syntyche's disagreement in Philippi." This grounds the political commentary directly in the text and gives the congregation a biblical precedent for their situation.
+

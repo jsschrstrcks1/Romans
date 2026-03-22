@@ -278,3 +278,164 @@ This is a real scientific designation used by some researchers, most prominently
 
 **Distinction from "Sermon — Rest in the Lord.md":**
 That sermon covers Hebrews 3:12–4:16 and was preached at a different time with entirely different content (accountability, rest as spiritual nourishment, the sympathy of our High Priest). This is a separate sermon, preached at a midweek or evening service, on Hebrews 4:1–13, with the distinct refrain "Know Jesus, Know Rest / No Jesus, No Rest." Both files should remain in the repository.
+
+---
+
+---
+
+# Thus Says the Lord — Sermon Evaluation
+
+**File**: Sermon - Know Jesus Know Rest.md
+**Text**: Hebrews 4:1–13
+**Service**: Midweek / Evening (Communion)
+**Evaluator**: Thus Says the Lord Rubric
+**Date**: 2026-03-22
+
+---
+
+## 1. Verdict Title
+
+**A Devotionally Warm Evening Sermon That Abandons Its Own Text Too Soon**
+
+---
+
+## 2. One-Sentence Summary
+
+A communion-service meditation on rest in Christ that opens with a promising *logos*-to-Hebrews-4 connection, then departs from the text entirely for a catena of comfort passages, before returning briefly in Point III for an urgent No Jesus/No Rest section — leaving the text's own argument (Sabbath rest, Joshua vs. Jesus, the "Today" warning) largely unpreached.
+
+---
+
+## 3. Berean Gate
+
+**PASS — with integrity concern**
+
+**Scopus Test**: "Know Jesus, Know Rest / No Jesus, No Rest" — arises from Hebrews 4:1–13. The sermon's twin-edge structure reflects the text's genuine two-group framework (those who believe and enter rest, those who disobey and do not). Pass.
+
+**Authority Test**: The disobedience of verse 6 is named. The reality of hell is named without softening (Mark 9:48, the Spurgeon quote). The uncomfortable edge is not removed. Pass.
+
+> **Integrity Concern — Gospel Placeholder (Line 213)**: The manuscript reads "*[Gospel and altar call as needed.]*" at the most critical moment of the sermon. The gospel is gestured at throughout (Isaiah 53:5, 1 Peter 2:24, Hebrews 7:25) but is never proclaimed in a sustained, ordered way. In a communion service context, where some present may not yet be believers, this is a significant gap. The manuscript is incomplete at its most important moment. See Section 10.
+
+> **Unverified quotations**: Randy Alcorn — the Denver directions quote (attributed in notes, unconfirmed by primary source); the "Homesickness for Heaven" quote (attributed to *Heaven*, Tyndale 2004, but not confirmed against the printed edition); Anthony Hoekema quote (attributed without specific chapter or page). Three external quotations remain without confirmed primary sources. These are acceptable for preaching but must be confirmed before print use.
+
+---
+
+## 4. Fatal Flaw Flags
+
+**None triggered** — the substitutionary atonement passages (Isaiah 53:5, 1 Peter 2:24, Hebrews 7:25) are present in the body. Christ's finished work is not absent; it is cited. But it is cited without proclamation, which is a structural weakness rather than a doctrinal flaw.
+
+---
+
+## 5. Score Breakdown
+
+### 1. Exposition & Hermeneutics — 15/25
+
+- **Textual Fidelity (5/10)**: The *logos* observation from John 1:1 and 14 connecting to Hebrews 4:2's *logos* is exegetically interesting and defensible. However, after Point I the sermon largely leaves Hebrews 4 behind. The text's own argument — the Sabbath-rest typology (vv. 4–5), the contrast between Joshua's rest and God's rest (v. 8), the "Today" urgency from Psalm 95 (v. 7), the two-edged sword of the Word (vv. 12–13) — none of these receive sustained exposition. Only the two-group structure (believers enter rest, disobedient do not) carries through to Point III.
+- **Contextual Awareness (3/5)**: The Old Testament Exodus context is implied but not developed. The Joshua contrast in v. 8 is potentially one of the sermon's most powerful moments — "If Joshua had given them rest, God would not have spoken of another day later on" — and it passes unpreached.
+- **Exegetical Clarity (4/5)**: The *logos* connection is clearly explained. The distinction between earthly rest and the rest Christ provides is identified.
+- **Logical Faithfulness (3/5)**: The claim that the rest described is Christological is sound. But the move from Hebrews 4 to the catena of comfort passages in Point II is a departure from the text's own logic, which argues from Sabbath typology to gospel urgency, not from comfort passage to comfort passage.
+
+**FCF**: "The weariness that cannot be resolved by earthly rest — and the danger of not entering God's rest" — is present but unevenly carried. Point II ministers to weariness; Point III addresses the danger of non-entry.
+
+### 2. Theology & Doctrinal Integrity — 13/18
+
+- **Christ-Centeredness (4/7)**: The Isaiah 53 and 1 Peter 2:24 quotations are the sermon's strongest theological content: Christ bearing sin in his body, the wounds that heal. Hebrews 7:25's "save to the uttermost... always lives to make intercession" is excellent. But these passages function as comfort catalogue entries rather than sustained proclamation of Christ's person and work.
+- **Redemptive-Historical Awareness (2/3)**: The *logos* connection to John 1:1/14 provides some canonical reach. The Joshua contrast (implied in v. 8) is never traced.
+- **Doctrinal Precision (3/4)**: The two-group framework is accurate. John 10:27–30's "two hands" imagery is used well for assurance. The eternal-life emphasis is correct.
+- **Confessional Alignment (4/4)**: Sovereignty, perseverance (no one can snatch you), salvation by grace — all present.
+
+### 3. Gospel Centrality & Force — 9/15
+
+- **Clarity of the Gospel (3/5)**: The substitutionary passages are present but not connected into a proclamation. The mechanism — how Christ's death and resurrection procures rest for sinners — is mentioned but not explained in sequence (sin, death, Christ's substitution, faith, forgiveness, rest).
+- **Necessity of Christ (3/5)**: The Grace illustration and the "Know Jesus, Know Rest" frame make Christ the key. But the *logos* observation — suggesting the rest of Hebrews 4 is ultimately about Christ the Logos incarnate — was the sermon's best theological engine and it is not developed past Point I.
+- **Cross-Centered Gravity (3/5)**: The cross appears in Isaiah 53:5 and 1 Peter 2:24 but is not proclaimed. The gospel call is a placeholder.
+
+**Placeholder Penalty**: *[Gospel and altar call as needed.]* is not a gospel presentation. In a service where some present may not know Christ — particularly a communion service where the elements are about to be distributed — this is the most important moment in the manuscript, and it is blank.
+
+### 4. Conscience & Applicatory Force — 11/15
+
+- **Heart Penetration (4/5)**: The enumerated life situations — brokenhearted, weak, weary, anxious, under trial, needing assurance, needing deliverance — are specific enough to land in most congregations. The "monarch who let his own children die of want" comparison is memorable.
+- **Specificity (4/5)**: Six distinct life categories with corresponding Scripture is better differentiation than most sermons achieve.
+- **Spiritual Differentiation (3/5)**: The sermon distinguishes believers in different conditions (brokenhearted, anxious, weary) and nonbelievers (No Jesus/No Rest section) but does not give distinct words to each category in the manner of Perkins' taxonomy.
+
+### 5. Exhortation & Response — 5/8
+
+- **Call to Response (2.5/4)**: "Cling to Christ" is the exhortation. It is genuine but slightly vague. The Grace illustration provides a memorable image for the call. The gospel call is a placeholder.
+- **Equipping (2.5/4)**: The six life-situation passages serve as equipping — the hearer knows where to turn in specific conditions. The No Jesus/No Rest section equips for evangelism by giving the weight of the alternative.
+
+### 6. Structure & Logical Flow — 7/9
+
+- **Clarity of Outline (3/4)**: Three parts: the message they heard / the rest we know in Christ / no Jesus no rest. Clean and traceable.
+- **Progression (2.5/3)**: The argument deepens from positive (rest in Christ) to negative (no rest without Christ) to exhortation (cling to Christ). The Grace illustration frames the sermon at both ends.
+- **Unity (1.5/2)**: The Know/No Know frame provides unity. The Matt Redman and Gospel Coalition asides in Point II are tangential and interrupt the thread.
+
+### 7. Illustration & Imagination — 3/5
+
+- **Relevance (2/2)**: Grace and the turn signal is warm and appropriate for the evening service register. The GPS illustration is effective for the No Jesus/No Rest section.
+- **Clarity (1/2)**: The "streets of gold / you brought pavement" story is interesting but interrupts the flow of Point II without adding to the argument. It is more of a curiosity than an illustration.
+- **Memorability (0/1)**: The Grace illustration is sweet but not structurally memorable. The Spurgeon quote on hell is the most memorable element of the sermon.
+
+### 8. Sermonic Force — 3/5
+
+- **Reads as Preaching (1.5/2)**: The No Jesus/No Rest section (the GPS, Alcorn on Denver, Spurgeon on hell) reads with genuine urgency. Point II reads as a devotional catalogue rather than a sermon.
+- **Conviction on the Page (1/2)**: The Scripture quotations do much of the work. The preacher's own voice is intermittent.
+- **Cadence and Breath (0.5/1)**: Devotional register throughout. Appropriate for an evening service but lacks homiletical shaping.
+
+---
+
+## 6. Cognitive Load Modifier — 0
+
+Two-part frame, clear structure. The catena of comfort passages in Point II is long but each unit is brief. Accessible to a broad evening congregation.
+
+---
+
+## 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 15/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 11/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **66/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **TOTAL** | **68/105** |
+
+**Interpretation**: Concerning gaps. Often the sermon explains but doesn't preach. The evening service register and devotional structure mitigate somewhat, but the manuscript is incomplete at its most critical moment.
+
+---
+
+## 8. Strengths (Top 3)
+
+1. **The No Jesus/No Rest section (Point III)**: The GPS illustration, the Alcorn Denver directions quote, and the Spurgeon quote on hell constitute the most urgent evangelism-equipping section in the corpus reviewed to date. The Spurgeon quote — "if sinners be damned, at least let them leap to Hell over our dead bodies" — is correctly sourced ("The Wailing of Risca," 1860) and lands with weight. This section alone makes the sermon worth preaching.
+
+2. **The *logos* connection (Point I)**: Identifying the Greek word *logos* in Hebrews 4:2 and connecting it to John 1:1/14 is a genuine exegetical insight. The observation that "the message they heard did not benefit them, because they were not united by faith" could be read as "the *Logos* — the Word made flesh — came to them, and they did not believe" is a Christological reading of Hebrews 4 that opens the passage up. This connection is the sermon's intellectual best, and it deserved to be the engine of everything that followed.
+
+3. **The life-situation application in Point II**: Six distinct categories (brokenhearted, weak, weary, anxious, under trial, needing assurance, needing deliverance) with corresponding Scripture is real pastoral work. The "two hands" of John 10:27–30 — no one can snatch you from the Son's hand, and no one can snatch you from the Father's hand — is a genuine comfort image that many hearers will take home.
+
+---
+
+## 9. Critical Weaknesses (Top 3)
+
+1. **The gospel is a placeholder at the most critical moment**: *[Gospel and altar call as needed.]* — this cannot remain in a manuscript that circulates or is preached again. It is not a minor note; it is the sermon's climactic moment left blank. The good news that Christ died for sinners, rose from the dead, and offers rest to all who come to him must be proclaimed, not bracketed. The Hebrews 4 text itself drives toward this: "Let us therefore strive to enter that rest." Enter how? Through Christ. The text demands the answer; the sermon defers it.
+
+2. **The sermon abandons Hebrews 4 too early**: The text's own theological movement — Sabbath rest as type, Joshua's rest as insufficient, Christ's rest as the antitype, the "Today" urgency from Psalm 95, the living and active Word that exposes every heart — is not preached. Point II could be preached from almost any passage. The text of Hebrews 4 effectively disappears after Point I and does not return until Point III's brief reference to verse 6. The reader who came to hear Hebrews 4 preached will feel the sermon slid past it.
+
+3. **Three external quotations remain unverified for print use**: Alcorn (Denver directions), Alcorn (*Heaven*, "homesickness" quote), Hoekema — all are attributed without confirmed primary sources. These are acceptable for preaching but must be confirmed before this sermon is printed, distributed, or published in any form.
+
+---
+
+## 10. Surgical Fixes
+
+1. **Write the gospel presentation**: In the placeholder position, insert a brief but ordered gospel: (1) All of us have sinned and face judgment; (2) The rest we need is not earned — it is given; (3) Christ bore the judgment we deserved (Isaiah 53:5, quoted already) so that we could enter rest; (4) He rose from the dead and is alive to make intercession for us (Hebrews 7:25, quoted already); (5) "Come to me, all who labor and are heavy laden" (Matthew 11:28, quoted already) — He said *come*, not *perform*. The material is all in the sermon. It needs to be assembled into a proclamation.
+
+2. **Develop the Joshua/Jesus contrast in Point I**: Hebrews 4:8 — "If Joshua had given them rest, God would not have spoken of another day later on" — is one of the most rhetorically powerful lines in the passage. The argument is: Joshua brought Israel into Canaan. They had physical rest. But David, writing Psalm 95 centuries after Canaan was settled, still says "Today, if you hear his voice, do not harden your hearts." That means the rest Joshua gave was not the rest God was ultimately pointing to. The rest God means is the rest that only Christ can give. This is the sermon's best opportunity to connect the Old Testament to the gospel, and it is passed over.
+
+3. **Verify the three Alcorn and Hoekema quotations before any print use**: Locate the Denver directions quote in an Alcorn article at Eternal Perspectives Ministries or in *Heaven* (Tyndale, 2004). Confirm the "homesickness" quote against the printed edition. Confirm the Hoekema quote against *The Bible and the Future* (Eerdmans, 1979).
+
+4. **Cut the Matt Redman and Gospel Coalition asides**: These are tangential and interrupt the pastoral warmth of Point II. The "Heart of Worship" backstory is accurate but adds nothing to the argument. The Gospel Coalition statistic about church growth and love is a magazine reference that undermines the Scripture-grounded authority of everything around it.
+
