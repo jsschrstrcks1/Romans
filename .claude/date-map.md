@@ -65,6 +65,8 @@ Tracks the preaching date for every sermon in the Romans series and beyond. Roma
 
 | # | Date | Passage | Title | File |
 |---|------|---------|-------|------|
+| 1 | 2026-03-29 | Luke 19:28–44 | The King You Didn't Expect | `Luke 19 - The King You Didn't Expect (raw draft).md` |
+| 2 | 2026-04-05 | 1 Corinthians 15:20–28, 50–58 | Death Loses | `1 Corinthians 15 - Death Loses (raw draft).md` |
 
 ---
 
