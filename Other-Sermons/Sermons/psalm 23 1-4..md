@@ -48,3 +48,191 @@ Do you guys remember when you sent me to Monroe Michagin back in the summer of 2
 One one side of this display was a gigantic stuffed bear. Its posed standing on its hind legs and was probably pretty close to ten or eleven feet tall. It was tall enough that if I were standing next to it, I couldn’t have reached up and touched its chin. It was a cool looking thing. One of the lights right behind it cast an even larger bear shadow on the ground. Its one thing to encounter a 10 or 11 foot tall bear in the woods. Its another to encounter the 15’ shadow of a bear in a camping store. If we were walking in the woods and came across a 10 foot bear, we’d probably be running away almost immediately after, and possibly in mortal danger. But when you’re talking about just the shadow of a thing, it’s a whole different story. With the good shepherd watching out for us, any danger is just the shadow of the danger. With God on our side it’s the difference between finding a real bear in the woods, and coming across the shadow of a stuffed bear in the store. One has real risk, and the other has been rendered safe. The other we are protected from. 
 
 But all that starts with a relationship with God. A relation ship with the good shepherd. And that starts with the gospel.
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Verdict Title:** A Rich Shepherd's Field That Has Not Yet Become a Sermon
+
+**One-Sentence Summary:** A pastorally warm and agriculturally vivid exploration of Psalm 23:1–4 that magnified the Lord's shepherding care with genuine experiential depth while leaving the congregation informed about sheep but not summoned before Christ.
+
+---
+
+### Berean Gate
+
+**Scopus Test:** CONDITIONAL PASS — The sermon's controlling image (Jesus as the Good Shepherd who protects, guides, and restores his sheep) is present in Psalm 23, and the shepherd/sheep extended metaphor is faithfully deployed. However, the sermon does not follow Psalm 23's own argument — it uses Psalm 23 as a frame on which to hang sheep-farming observations, rather than working through the text's own movement and meaning.
+
+**Authority Test:** PASS — The preacher does not reframe or soften the text. The material is submitted to, even if not fully opened.
+
+**Gate result:** Pass, with a significant caveat about the text-to-sermon ratio.
+
+---
+
+### Fatal Flaw Flags
+
+**Flag 3 — TRIGGERED: Christ is present but functionally unnecessary to the sermon's argument.** The sermon's sheep/shepherd material stands entirely on its own as nature illustration. Christ appears by inference (the Good Shepherd, the closing gospel sentence) but is never proclaimed as the one who fulfills the Shepherd's role through incarnation, cross, and resurrection. The sermon could survive intact — every illustration, every application — if Christ were replaced with "God" generically.
+
+**Flag 5 — TRIGGERED: No actual exhortation.** The sermon closes with "But all that starts with a relationship with God. A relationship with the good shepherd. And that starts with the gospel." This is the third time in the available manuscripts from this preacher that the gospel is named at the close without being proclaimed. The congregation is told the gospel is where it starts. They are not told what the gospel is, or called to respond to it.
+
+**Score is capped at 69.**
+
+---
+
+### Score Breakdown
+
+**1. Exposition & Hermeneutics — 11 / 25**
+
+- *Textual Fidelity (10 pts): 5* — The sermon draws legitimate content from Psalm 23, but the text itself is almost never directly read or explained as a text. The sermon reads about sheep and then gestures to the psalm. Verses 1–3 are alluded to via the imagery of green pastures and paths/ruts. Verse 4 (the valley of the shadow of death) receives the most sustained exegetical attention — the distinction between "shadow" and the thing itself is genuinely helpful exegesis. But verses 1b ("I shall not want"), 2b ("beside still waters"), 3 ("he restores my soul"), and the phrase "for his name's sake" receive no treatment at all.
+- *Contextual Awareness (5 pts): 3* — The ANE shepherding context is handled well through personal farming experience. The historical note about sheep paths becoming ruts is useful. The psalm's Davidic authorship and David's own background as a shepherd — one of the richest available contextual resources — is not mentioned.
+- *Exegetical Clarity (5 pts): 2* — The "shadow of death" etymology is the sermon's best exegetical moment and is genuinely illuminating. No Hebrew is engaged beyond this. The casting sheep observation, while accurate as pastoral biology, is not exegetical; it imports external knowledge rather than unlocking the text.
+- *Logical Faithfulness (5 pts): 1* — The sermon does not follow the logic of the psalm. Psalm 23's movement (provision → rest → restoration → guidance → presence in danger → table before enemies → anointing → dwelling forever) is never tracked. The sermon's logic is: sheep biology → cast sheep → omniscience of God → sheep as followers → social media metaphor → ruts → delegated shepherding → personal sheep story → shadow/barracuda illustration → stuffed bear illustration → gospel tag.
+
+**Fallen Condition Focus:** Present but not named with precision. The "cast sheep" metaphor gestures toward human helplessness, and the sheep-that-wanders image addresses spiritual drift. But the FCF is never explicitly stated: "This is the human condition Psalm 23 was written to address — we are creatures utterly dependent on a shepherd we cannot provide for ourselves, prone to wander, incapable of self-rescue."
+
+**2. Theology & Doctrinal Integrity — 11 / 18**
+
+- *Christ-Centeredness (7 pts): 3* — The sermon makes the Good Shepherd connection implicit throughout but never explicit in a theologically substantial way. Jesus is the Good Shepherd. What does that mean for Psalm 23? How does Jesus fulfill this psalm — not merely illustrate its vocabulary, but inhabit its role as the one who lays down his life for the sheep (John 10:11)? This is never engaged.
+- *Redemptive-Historical Awareness (3 pts): 2* — Psalm 23 sits within David's own experience as shepherd and king, and anticipates the Great David who will shepherd God's people perfectly. The Ezekiel 34 / John 10 trajectory — God's indictment of Israel's false shepherds, his promise to shepherd them himself, fulfilled in Christ — is entirely untouched. This is the psalm's own redemptive-historical location.
+- *Doctrinal Precision (4 pts): 3* — No doctrinal errors. The note about God's omniscience as the shepherd who never sleeps (referencing Psalm 121 implicitly) is well-handled. Galatians 6:1 on restoring the wandering is deployed accurately.
+- *Confessional Alignment — 1689 Pulse (4 pts): 3* — No confessional contradictions. The material is consistent with Reformed Baptist theology, though the distinctives of the tradition (covenant, particular redemption, the nature of God's care for his elect) are not engaged.
+
+**3. Gospel Centrality & Force — 6 / 15**
+
+- *Clarity of the Gospel (5 pts): 1* — The final sentence names "the gospel" but does not state it. No death, no resurrection, no atonement, no faith, no repentance. An unbeliever hearing this sermon would not know how to be saved.
+- *Necessity of Christ (5 pts): 2* — Christ is gestured at throughout but is not essential to the sermon's argument. The farming illustrations, the cast sheep, the dog Grace, the sheep going off the cliff — all of these stand independent of Christ's person and work.
+- *Cross-Centered Gravity (5 pts): 3* — The sermon does move toward the Good Shepherd who knows and protects his sheep, and that image is cross-adjacent in John 10. But the cross itself is never reached.
+
+**Synagogue Test:** FAILED — A devout observant Jew who believes in the God who shepherds Israel (Psalm 23 is, after all, a Hebrew text) could hear this entire sermon and not be confronted by the necessity of Christ's atonement. The sermon uses a Hebrew text to describe a role God fills, without ever stating what uniquely qualifies Jesus of Nazareth to fill it.
+
+**Law/Gospel Dialectic:** The "hammer" is present but soft — the wayward sheep, the cast sheep, the follower who goes off the cliff. The "balm" is gestured at but withheld. The sermon circles the gospel without delivering it.
+
+**4. Conscience & Applicatory Force — 10 / 15**
+
+- *Heart Penetration (5 pts): 4* — The cast sheep extended metaphor is genuinely convicting in its application to human helplessness. "Where do our hearts lead us? Right into trouble" is apt. The personal farming stories (the dog Grace killing the four sheep, Elisha swimming after the ewe) have genuine affective weight. The preacher clearly loves his congregation and they sense it.
+- *Specificity (5 pts): 3* — Application is present and grounded in real experience, but it stays at the level of general spiritual pattern (don't wander, stay near the shepherd) rather than pressing into the specific sins or struggles of specific hearer types.
+- *Spiritual Differentiation (5 pts): 3* — The sermon is predominantly addressed to believers who are prone to wander. Some attention is given to the unbeliever at the close. But Perkins' taxonomy is largely unaddressed — the humbled-but-not-yet-believing, the backslider, the knowledgeable-but-unmoved receive no distinct address.
+
+**5. Exhortation & Response — 2 / 8**
+
+- *Call to Response (4 pts): 1* — The closing sentence points toward the gospel as the beginning of a relationship with the shepherd. No specific response is called for. No one is told to believe, repent, pray, follow, or return.
+- *Equipping for Holiness & Witness (4 pts): 1* — The reference to Galatians 6:1 and the delegated role of fellow believers in restoring wandering sheep is the closest the sermon comes to equipping for witness. It is underdeveloped.
+
+**6. Structure & Logical Flow — 5 / 9**
+
+- *Clarity of Outline (4 pts): 2* — The sermon has three numbered points embedded mid-stream ("Firstly," "Secondly," "Thirdly," "Finally") but the listener cannot easily track the structure because the points are not clearly delineated in the manuscript and the transitions are associative. The "finally" introduces verse 4 but is separated from it by a lengthy lobster-diving story.
+- *Progression (3 pts): 2* — The sermon moves forward and builds toward verse 4 as a climax. The movement is present but meandering. The lobster-diving story, while charming, is the longest detour before the sermon's most sustained exegetical moment.
+- *Unity (2 pts): 1* — The shepherd/sheep image provides thematic unity, but several sub-points (cyclopia in sheep due to peaches, the ten-thousand-sheep-off-a-cliff story, the social media reference) compete for attention without clearly advancing the sermon's argument.
+
+**7. Illustration & Imagination — 5 / 5**
+
+- *Relevance (2 pts): 2* — The illustrations are not borrowed from somewhere else — they are from the preacher's own farm, his own family, his own experience. This is exactly what illustrations should be. The congregation is not receiving second-hand images.
+- *Clarity (2 pts): 2* — Each illustration illuminates its point. The cast sheep metaphor, the dog Grace, Elisha swimming after the ewe, the barracuda shadow vs. the stuffed bear shadow — each clarifies rather than competes.
+- *Memorability (1 pt): 1* — The cast sheep description will be remembered. The stuffed bear at Cabela's will be remembered. These are vivid, tactile, and native to the text.
+
+**This is the sermon's most significant strength and its clearest asset.**
+
+**8. Sermonic Force — 3 / 5**
+
+- *Reads as Preaching (2 pts): 2* — This is unmistakably oral. It is a spoken manuscript, not a written essay. The asides, the engagement questions, the direct address all mark it as preaching.
+- *Conviction on the Page (2 pts): 1* — The conviction is pastoral and warm rather than textually thunderous. The Scripture-grounded assertion ratio is low — there are stretches of several paragraphs with no scriptural grounding other than the sheep metaphor.
+- *Cadence and Breath (1 pt): 0* — The sermon does not reach a climax that earns its position. Verse 4 and the bear/barracuda illustration are the most focused moment, but the sermon ends before it can resolve into either gospel proclamation or exhortation.
+
+---
+
+### Cognitive Load Modifier
+
+**Score: 0** — The sermon is highly accessible. The sheep illustrations are concrete and approachable. No inaccessibility concerns.
+
+---
+
+### Total Score
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 11 | 25 |
+| Theology & Doctrinal Integrity | 11 | 18 |
+| Gospel Centrality & Force | 6 | 15 |
+| Conscience & Applicatory Force | 10 | 15 |
+| Exhortation & Response | 2 | 8 |
+| Structure & Logical Flow | 5 | 9 |
+| Illustration & Imagination | 5 | 5 |
+| Sermonic Force | 3 | 5 |
+| **Subtotal** | **53** | **100** |
+| Weight of Glory (bonus) | +2 | +5 |
+| Cognitive Load Modifier | 0 | −3 to 0 |
+| **Total** | **55** | **105** |
+
+**Score capped at 69 due to two fatal flaw flags (Flags 3 and 5).**
+
+**Interpretation: 55 — Fundamentally incomplete. The raw material is unusually strong. The sermon must be completed: the text must be opened, and the gospel must be proclaimed.**
+
+---
+
+### Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily of sheep, and of the preacher's own farm. Christ is implied throughout but never made the object of focus.
+2. **Did I encounter God, or just ideas about Him?** Ideas about him. The illustrations are warm and vivid, but God himself is not directly encountered — he remains in the background as the referent of the metaphor.
+3. **Was I comforted, convicted, or merely informed?** Informed, with warmth. The cast sheep metaphor touches conviction briefly. But the sermon ends before comfort can be fully extended or conviction fully pressed.
+
+---
+
+### Strengths (Top 3)
+
+1. **Illustration quality is exceptional.** The cast sheep extended metaphor, the dog Grace, Elisha swimming after the ewe, and the barracuda/stuffed bear contrast are all native to the preacher's own life, native to the text, and memorable. This is rare. Most preachers illustrate from borrowed stories. This preacher illustrates from his own pasture.
+2. **Pastoral warmth and congregational love.** The sermon communicates genuine care for the people in the room. The preacher is not performing — he is sharing. This is a real strength and the congregation senses it.
+3. **The "shadow of death" exegesis.** The distinction between the shadow and the thing itself, illustrated by the barracuda and the stuffed bear, is the sermon's best integrated moment — exegesis and illustration working together to make the text land.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **The text is nearly unpreached.** Psalm 23:1–4 contains eight distinct clauses, each with theological freight. Of these, the sermon substantively engages perhaps two ("he makes me lie down in green pastures" via the cast sheep; "valley of the shadow of death" via the barracuda/bear). "I shall not want," "he leads me beside still waters," "he restores my soul," "for his name's sake," and the full weight of "I will fear no evil, for you are with me" are untouched. The congregation heard a lot about sheep but not about this psalm.
+2. **The gospel is announced but not proclaimed.** For the second manuscript in a row, the closing sentence names the gospel as the starting point without stating its content. This is not negligence — it appears to be a consistent pattern. The preacher knows the gospel is essential and signals it at the end. But the signal is not the thing. The congregation needs the proclamation, not the pointer.
+3. **No exhortation.** The sermon ends. It does not land. There is no "therefore," no summons, no specific call. The congregation leaves knowing more about sheep than they did and feeling the warmth of the shepherd image — and with no instruction about what they must now do, believe, or pursue.
+
+---
+
+### Blind Spots
+
+This preacher has a rare gift: he can make abstract theology tactile through firsthand experience. But there is a pattern emerging across manuscripts — the personal illustration receives more development than the text, and the gospel is deferred to the final sentence rather than woven into the body of the sermon. The preacher may not see that the personal material, as good as it is, is crowding out the proclamation. The sheep stories are so vivid that they feel like the sermon. They should be serving a sermon that is more firmly tethered to the text.
+
+---
+
+### Illusion of Strength
+
+The farming expertise creates an illusion of expositional authority. Because the preacher clearly knows sheep — from the inside, from his own land — it feels like the text is being opened. But knowing about sheep is not the same as knowing what David meant in this psalm, or what the Holy Spirit intends the church to receive from it. The agricultural credibility is real. The exegetical weight it appears to carry is not.
+
+---
+
+### Missed Opportunity
+
+John 10:11 — "I am the good shepherd. The good shepherd lays down his life for the sheep" — is Psalm 23's own fulfillment. Jesus did not merely play the shepherd role; he played it at the cost of his own life. The cast sheep metaphor — the sheep that cannot save itself, that will die without the shepherd — is the most powerful entry point in this sermon for the gospel. "You are that cast sheep. You cannot right yourself. And your shepherd did not merely tip you back over — he went to the cross so that he could." That is the sermon this material is building toward. It never arrives.
+
+---
+
+### Surgical Fixes
+
+1. **Open the text verse by verse, even briefly.** Take the congregation through each clause of Psalm 23:1–4 and let the sheep illustrations serve the text rather than replace it. A simple structure: v.1 (the Lord as shepherd — sufficiency and ownership), v.2–3 (rest, restoration, guidance — the shepherd's threefold provision), v.4 (presence in the valley — the shepherd with us in what we cannot escape). Each point gets one illustration. The text leads.
+2. **Complete the gospel.** After the bear/shadow climax, stay in the text: "With God on our side, danger becomes shadow — but only if God is on your side. And he is on your side only through his Son. Jesus said, 'I am the Good Shepherd. The Good Shepherd lays down his life for the sheep.' He did not merely illustrate this psalm. He fulfilled it by dying for the very sheep who had wandered away. If you are here today and you are not in the flock — if you are the cast sheep lying in the field with vultures circling — the shepherd has already come after you. His name is Jesus. Receive him."
+3. **End with exhortation.** "Stay near the flock. Stay in the Word. Gather on Sundays — this is green pasture. Don't wander into hollows. And if you've already wandered — come back. The shepherd has not stopped looking."
+4. **Trim the sub-illustrations.** The cyclopia sheep (interesting but off-path), the 10,000-sheep-off-the-UK-cliff story, and the social media sheep comment all compete with the main thrust. Cut one, tighten the other two.
+5. **Name David.** "David knew what he was writing. He was a shepherd before he was a king. He had felt the weight of a lamb on his shoulders. He had killed bears to protect his flock. And then he wrote this psalm — not as a nature observation, but as a theological confession about his God." Three sentences. They would ground everything that follows.
+
+---
+
+### Dead Orthodoxy Flag
+
+NOT triggered. This sermon is not doctrinally cold — it is doctrinally warm but incomplete. The problem is not bloodless precision but genuine pastoral heat that has not yet been channeled into proclamation.
+
+---
+
+### Weight of Glory Assessment
+
+The sermon carries the warmth of a man who loves his congregation and his God and his sheep — but it does not yet carry the weight of eternity, because the stakes of the gospel are never named and the congregation is never placed before them.
+
+**Bonus: +2 / 5**
+
+---
+
+### Rubric Fit Note
+
+Psalm 23 is a lyric psalm — a genre that stresses the rubric's redemptive-historical and gospel centrality categories in specific ways. The psalm is not primarily instructional but confessional and affective. The rubric bends slightly in that the Berean Gate's "main point of the text" criterion must accommodate the psalm's cumulative movement rather than a single propositional argument. The preacher is right to approach this text through imagery and experience. The rubric's categories apply cleanly — the sermon's weaknesses are not genre-related. A lyric psalm does not excuse the absence of gospel proclamation or exhortation; it only shapes their form.
