@@ -189,3 +189,229 @@ If you are here today and you have never surrendered your life to Christ — if 
 ### Standing Flags
 - **⚠️ Badhai population (~600,000)** — Verify against current Joshua Project or IMB data before reuse. Population figures shift with census updates.
 - **No other unresolved flags.**
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**"A Pastorally Warm Topical Survey with Gospel Flash but Thin Exposition"**
+
+### 2. One-Sentence Summary
+A winsome and culturally grounded tour through angelology and demonology that protects the congregation from popular errors, delivers a clear gospel call at the close, but does not arise from the main argument of Ephesians 1:3-14 and treats that magnificent text primarily as a proof-text reservoir rather than a passage to be opened.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: FAIL (with qualification)**
+
+The stated primary text is Ephesians 1:3-14. The main point of Ephesians 1:3-14 is the sovereign, Trinitarian, doxological work of God in electing, redeeming, and sealing his people to the praise of his glory. The sermon's main point is: "Angels and demons are real, but popular errors about them are dangerous — believers are protected, and personal responsibility before God stands." That is a defensible and biblical point, but it does not arise from the main argument of Ephesians 1:3-14. The text is read aloud and mined for two supporting ideas (the sealing of the Spirit; the riches of God), but its own thesis — the doxological, Trinitarian recitation of election, adoption, redemption, and sealing "to the praise of his glory" — is never expounded as the sermon's controlling argument.
+
+**Authority Test: PASS**
+
+The preacher stands under the text's claims. He does not soften the doctrine of election, does not apologize for sovereign sealing, and handles personal responsibility honestly. The discomfort of individual accountability for sin is pressed clearly.
+
+**Berean Gate Ruling**: The gate is not hard-failed (the sermon uses the text rather than contradicting it, and the supporting texts are handled fairly), but the Scopus Test failure is real and must be reported. The sermon is a topical message that deploys Ephesians 1 as support rather than a textual message that expounds it. No score cap is applied — the gate is passed on the Authority Test — but the expositional deficit is reflected throughout the scoring.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**No fatal flaws triggered.** However, the following near-flags are noted:
+
+- **Near-Flag: Main point does not equal text's point** — The sermon passes narrowly. The text is used honestly but not expounded as the primary argument. This depresses the Exposition score significantly.
+- **Near-Flag: Application is partially generic** — The application to personal responsibility is clear and good; the application of the text's own doctrines (election, adoption, Trinitarian sealing) is underdeveloped.
+
+Score is NOT capped. Weaknesses are reflected in category scoring below.
+
+---
+
+### 5. Score Breakdown
+
+**Category 1 — Exposition & Hermeneutics: 13 / 25**
+
+- *Textual Fidelity* (10 pts): **5/10** — Ephesians 1:3-14 is read in full and referenced, but its argument is not tracked. The sermon does not follow the text's own movement (blessing → election → adoption → redemption → sealing → inheritance → praise of glory). The text is a quarry from which two stones are extracted; the building it was meant to construct is never raised.
+- *Contextual Awareness* (5 pts): **3/5** — The Pauline prison epistle context and the cosmic-powers backdrop of Ephesians (see Eph. 6) are not surfaced. A small missed opportunity given the topic.
+- *Exegetical Clarity* (5 pts): **3/5** — The sealing of the Spirit (v.13-14) is explained clearly and applied well. No Greek engagement. The "riches" section (vv.7-8) is developed homiletically but not exegetically.
+- *Logical Faithfulness* (5 pts): **2/5** — The sermon does not import ideas the text contradicts, but it does import the topical scaffolding (pseudepigrapha, cargo cults, personal responsibility) onto a text whose own logic runs elsewhere. The Fallen Condition Focus is implied (people are fearful of demons and prone to deflect responsibility) but never named from the text itself.
+
+**Total: 13/25**
+
+---
+
+**Category 2 — Theology & Doctrinal Integrity: 14 / 18**
+
+- *Christ-Centeredness* (7 pts): **5/7** — Christ is present and necessary. Redemption through his blood is stated. The carpenter / Badhai connection is a lovely and organic Christological touch. The doctrine of election is not avoided. Slight deduction: the substitutionary nature of "redemption through his blood" is stated but not unpacked.
+- *Redemptive-Historical Awareness* (3 pts): **2/3** — The Genesis 3 reference is well-placed and shows awareness of the fall narrative. No broader redemptive-historical arc is traced.
+- *Doctrinal Precision* (4 pts): **4/4** — Doctrine of the sealing of the Spirit is handled with precision. Demonic possession of believers is denied with appropriate textual grounding. Personal responsibility and sin are handled without Pelagian drift.
+- *Confessional Alignment — 1689 Pulse* (4 pts): **3/4** — Unconditional election is stated plainly ("he chose us before the foundation of the world"). The transfer from the domain of darkness to the kingdom of Christ is handled well. No contradiction of 1689 theology. Slight deduction: the gospel offer at the close ("Today. Right now.") lacks grounding in what repentance and faith mean concretely.
+
+**Total: 14/18**
+
+---
+
+**Category 3 — Gospel Centrality & Force: 10 / 15**
+
+- *Clarity of the Gospel* (5 pts): **4/5** — The gospel is stated clearly at the close: "redemption through the blood of his Son." Justification by faith is implied in "believed in him" and "repented of your sin and placed your trust in Jesus." It is present and clear but compressed into one paragraph rather than threaded through the sermon's body.
+- *Necessity of Christ* (5 pts): **4/5** — Christ is genuinely necessary to the sermon's argument. The sealing of the Spirit, redemption through blood, and the Badhai/carpenter connection all require Jesus. He is not decorative.
+- *Cross-Centered Gravity* (5 pts): **2/5** — The sermon does not move toward the cross; it moves toward personal responsibility and the sufficiency of the Spirit's protection. The cross appears in the closing gospel call but is not the sermon's gravitational center. The law/gospel dynamic is present (personal responsibility presses toward accountability; the closing gospel call relieves it) but it is thin. The hammer falls, but the balm is brief.
+
+*Synagogue Test*: A devout non-Christian with a fear of God and moral discipline could follow most of this sermon without being offended by the necessity of Christ's blood — until the final paragraph. The cross does not function as a central offense throughout; it is a late arrival. This is a yellow flag, not a red one, but it is real.
+
+**Total: 10/15**
+
+---
+
+**Category 4 — Conscience & Applicatory Force: 10 / 15**
+
+- *Heart Penetration* (5 pts): **4/5** — The personal responsibility section is genuinely searching. "Face to face with God, he will know why you did it. You won't be able to get away with saying 'the devil made me do it'" is direct and conscience-pressing. The lottery illustration lands well at the affective level.
+- *Specificity* (5 pts): **4/5** — The application is concrete: broken vehicles, lawns, credit cards, mowers, AC units. The preacher has done the Puritan work of bringing the doctrine home to actual life. This is one of the sermon's genuine strengths.
+- *Spiritual Differentiation* (5 pts): **2/5** — The sermon addresses primarily: (1) the uninstructed believer confused about demons, and (2) the unconverted at the close. Perkins' richer taxonomy is not deployed. The backslider who has drifted into quasi-dualist thinking, the "knowledgeable but unhumbled" churchgoer who attributes his sin-patterns to demonic influence as a perpetual excuse, and the genuinely fearful believer who needs assurance rather than correction — these are not addressed distinctly.
+
+**Total: 10/15**
+
+---
+
+**Category 5 — Exhortation & Response: 5 / 8**
+
+- *Call to Response* (4 pts): **3/4** — The closing gospel call is clear and direct: "Today. Right now." The exhortation is present. However, the exhortation to believers is less defined — what should the congregation *do* with this teaching? Pray for the Badhai? Stop attributing sin to demons? Redirect worship from angels to God? These are implied but not summoned.
+- *Equipping for Holiness & Witness* (4 pts): **2/4** — The missionary element (Badhai people group) is a genuine equipping moment. The sermon does not, however, send the congregation out equipped with a clear posture toward spiritual warfare, a specific practice of prayer, or a defined response to the dualism they may encounter in the people around them.
+
+**Total: 5/8**
+
+---
+
+**Category 6 — Structure & Logical Flow: 6 / 9**
+
+- *Clarity of Outline* (4 pts): **3/4** — The sermon has a traceable movement: cultural obsession → historical roots in pseudepigrapha → what Scripture says → the riches of God → guardian angel error → dualism heresy → personal responsibility → gospel call. A listener could follow it. However, the structure is topical-additive rather than text-governed; the sections do not arise from the passage's own argument.
+- *Progression* (3 pts): **2/3** — The sermon builds toward personal responsibility and the gospel, which is a meaningful destination. But the Ephesians 1 text is introduced, read, and then the sermon largely moves away from it for extended stretches (pseudepigrapha, cargo cults) before returning.
+- *Unity* (2 pts): **1/2** — The dominant idea is real and defensible, but it is doing double-duty: "don't be deceived about demons" and "you are responsible for your sin" and "God's sealing is your protection" are related but not unified under one controlling thesis that organically emerges from the text.
+
+**Total: 6/9**
+
+---
+
+**Category 7 — Illustration & Imagination: 4 / 5**
+
+- *Relevance* (2 pts): **2/2** — The broken vehicles, lawn equipment, and credit card statements are from the congregation's actual world. Excellent.
+- *Clarity* (2 pts): **2/2** — The cargo cult illustration is memorable and theologically precise. The lottery illustration serves its point cleanly.
+- *Memorability* (1 pt): **0/1** — The cargo cult image is the sermon's strongest illustration and is genuinely memorable. Slight deduction: it arrives in a section (guardian angels) that the congregation may not remember as the sermon's main point, so the memorable image may float free of its doctrinal anchor.
+
+**Total: 4/5**
+
+---
+
+**Category 8 — Sermonic Force: 4 / 5**
+
+- *Reads as Preaching* (2 pts): **2/2** — This reads like a man talking to his people. Oral cadence is strong. The opening personal illustration (the week of broken things) is direct address in a pastoral voice. Breath-length paragraphs. No essay-voice.
+- *Conviction on the Page* (2 pts): **1/2** — The conviction is strongest in the personal-responsibility section and the gospel call. The sections on pseudepigrapha feel more instructional than proclamatory. The ratio of Scripture-grounded assertion to general instruction tips toward instruction in the middle sections.
+- *Cadence and Breath* (1 pt): **1/1** — Sentence variation is present. The closing gospel call has genuine compression and climactic force.
+
+**Total: 4/5**
+
+---
+
+### 6. Cognitive Load Modifier
+
+**Score: −1**
+
+The sermon introduces: pseudepigrapha, apocrypha, canon distinction, the Book of Tobit, the Testament of Solomon, cargo cults, dualism, the Flip Wilson reference, and Ephesians 1:3-14. Each item is explained accessibly, and no single concept is too dense. But the cumulative weight of new information in a single sermon is slightly high for the single mother or high schooler to carry away one clear truth. The main concept (believers are sealed and protected; personal responsibility stands) survives the load — but barely. One fewer segment (the Tobit/Solomon material could be condensed to a single example) would help.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 13/25 |
+| Theology & Doctrinal Integrity | 14/18 |
+| Gospel Centrality & Force | 10/15 |
+| Conscience & Applicatory Force | 10/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **66/100** |
+| Weight of Glory (bonus) | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **67/100** |
+
+**Interpretation Band: Concerning gaps — explains but does not fully preach. Significant revision needed, primarily to the expositional foundation.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** — Moderately more of Christ. The sealing of the Spirit, the carpenter connection to the Badhai, and the closing gospel call all point outward. The personal-responsibility section risks drawing attention to human agency at the expense of divine initiative, though it does not collapse into self-reliance.
+2. **Did I encounter God, or just ideas about Him?** — Mostly ideas about Him, with moments of genuine encounter: the lottery/riches contrast, the direct address in the personal-responsibility section, and the closing gospel invitation.
+3. **Was I comforted, convicted, or merely informed?** — Primarily informed, with genuine conviction in the personal-responsibility section and brief comfort in the closing gospel call. The balance tips toward instruction.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The cargo cult illustration** — Theologically precise, culturally memorable, and native to the text's concern about misplaced worship. "Angels are sentient tools in God's hands. But the hero of the story is God." This is the sermon's best line and its best-constructed illustration.
+2. **Personal responsibility section** — The application is concrete, specific, and conscience-pressing. Naming the actual broken vehicles and lawn equipment while making the doctrinal point ("The devil didn't break your lawn mower... you are responsible for that") is Puritan application in plain clothes. This section earns its place.
+3. **The Badhai / carpenter connection** — The move from Badhai carpenters to "The Son of God spent thirty years working with his hands in a carpenter's shop. I don't think that's an accident" is organic, warm, and genuinely Christological without being forced.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Ephesians 1:3-14 is never expounded.** The passage is read aloud and mined for two supporting concepts (the sealing of the Spirit; the riches of grace), but its own argument — the Trinitarian doxology of sovereign grace, the movement from election to adoption to redemption to sealing to inheritance, all "to the praise of his glory" — is never opened. The congregation heard the text read but did not hear it preached. A listener could not reconstruct what Ephesians 1:3-14 is actually about from this sermon.
+2. **The cross is a late arrival, not the gravitational center.** The sermon builds to personal responsibility rather than to the cross. The gospel call at the close ("redemption through the blood of his Son") is clear but comes as an addendum rather than as the climax of everything that preceded it. The law (you are accountable; you cannot blame the devil) is pressed effectively but the gospel relief is compressed into one paragraph. The hammer swings; the balm barely touches.
+3. **Spiritual differentiation is underdeveloped.** The sermon speaks to the uninstructed believer and, briefly, the unconverted. But it does not address the person who uses demonology as a perpetual excuse for sin-patterns (who is not merely uninstructed but self-deceived), the fearful believer who needs the sealing of the Spirit preached as assurance rather than correction, or the intellectually orthodox churchgoer who has never moved from knowing these truths to resting in them.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that his opening personal illustration (the week of broken things) and the personal-responsibility section function together to make the sermon autobiographically coherent — but they also subtly shift the center of gravity from God's sovereign grace in Ephesians 1 to the preacher's week and the congregation's daily frustrations. The passage the preacher says he loves is the passage that receives the least sustained attention. The sections on pseudepigrapha, which are historically interesting, are doing work that could be done in half the space — freeing room to actually open the text.
+
+---
+
+### 12. Illusion of Strength
+
+The pseudepigrapha sections feel like expositional depth — the preacher is clearly informed, the historical content is accurate, and the congregation is learning. But this is background research *about* the topic of demons, not exposition *of* Ephesians 1:3-14. The sermon's most "impressive" middle section (Tobit, Testament of Solomon, cargo cults) is its most distant from the stated text. It reads strong because it is confident and well-researched, but it is not what the Berean Gate requires.
+
+---
+
+### 13. Missed Opportunity
+
+Ephesians 1:3-14 contains one of the most direct rebuttals of dualism in the entire New Testament: "a plan for the fullness of time, to unite all things in him, things in heaven and things on earth" (v.10). The cosmic scope of Christ's lordship — things in heaven and on earth, not a dualist battle between equals — is the text's own answer to the dualism heresy the sermon rightly addresses. The preacher got to the right destination by a detour. The text itself was the road. Verse 10's statement of Christ's cosmic unification is the most powerful anti-dualism statement available, and it sits in the passage that was read aloud and then largely bypassed.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Rebuild the expositional spine around the text's own argument.** Track Ephesians 1:3-14 movement by movement: election (v.4) → adoption (v.5) → redemption through blood (v.7) → the mystery of cosmic unification in Christ (v.10) → sealing of the Spirit as guarantee (v.13-14). Let each point of the sermon hang on one of these movements, rather than importing topics and returning to the text as needed.
+
+2. **Use Ephesians 1:10 as the direct refutation of dualism.** "To unite all things in him, things in heaven and things on earth" — this is the text's own anti-dualist declaration. Replace or supplement the philosophical anti-dualism argument with the text's own counter-claim. This keeps the sermon in orbit around the passage.
+
+3. **Move the cross from the closing paragraph to the structural center.** The law (personal responsibility, accountability before God) is laid down in the second half. The gospel relief should arrive in proportion. Expand the closing gospel call from one paragraph to a full section — and let redemption through blood (Eph. 1:7, already in the text) be the pivot from accountability to rescue.
+
+4. **Compress the pseudepigrapha section.** One example (either Tobit or Testament of Solomon, not both) is sufficient to make the point. The saved space should go to expounding the passage.
+
+5. **Add a direct address to the self-deceived sinner** after the personal-responsibility section: "Some of you have been in church long enough to know these things and have been using your knowledge of demonology as a theological cover for patterns of life you have chosen and could choose otherwise." This would press the "knowledgeable but unhumbled" hearer that the current draft doesn't reach.
+
+6. **The conclusion does triple-duty and needs one clear landing note.** It moves from personal responsibility → warning to unbelievers → gospel invitation. These three belong together but need a single climactic sentence that ties them: something that declares *because God sealed his own through Christ's blood, the unsealed are offered that same blood today.*
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon has genuine warmth, pastoral directness, and personal conviction. The personal-responsibility section is not bloodless. The gospel call, while brief, is real. The preacher's voice is engaged, not mechanical.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries pastoral warmth and some genuine gravity — particularly in the personal-responsibility section and the Badhai mission moment — but does not yet rise to the eternal weight available in Ephesians 1:3-14, where the doxological grandeur of sovereign Trinitarian grace awaits full proclamation.
+
+**Bonus: +2 / 5**
+
+---
+
+### 17. Rubric Fit Note
+
+This rubric is designed primarily for textual-expository preaching. This sermon is a topical message that uses Ephesians 1:3-14 as its anchor text rather than expounding it as its primary source. The rubric applies, but the Exposition category will naturally score lower for any topical sermon regardless of quality — that is an inherent genre difference, not merely a craft failure. The preacher and evaluator should note: if this sermon were assessed as a *topical message* (which it functionally is) rather than an *expository message* (which the stated text implies), the genre expectations shift. The sermon is a stronger topical message than it is an expository one. Rebuilding it as a genuine exposition of Ephesians 1:3-14 — using the passage's own argument as the anti-dualism and anti-spirit-binding case — would significantly raise the score and deepen the sermon's force.

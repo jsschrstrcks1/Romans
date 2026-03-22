@@ -91,3 +91,220 @@ Finally, the famous Baptist preacher of the 19th century, James Petigru Boyce *(
 So God owes us nothing. Absolutely nothing. What we deserve is eternity separated from him. But those of us who are believers in Jesus Christ he has chosen to save. Like Ephesians 2:8–9 says: "For it's by grace you have been saved, through faith, and this not of yourself — it's the gift of God, lest any man should boast." When God intercedes on our behalf it is an undeserved blessing. If you ask him and mean it, you will be saved, scripture says.
 
 Gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Earnest Popular Preaching with an Unresolved Text and a Gospel Buried in the Closing Line**
+
+---
+
+### 2. One-Sentence Summary
+A pastorally earnest opening of the *Sola Gratia* theme that demonstrates real conviction about human depravity and sovereign grace while suffering from a primary text that was never fully integrated, a gospel presentation that appears only in the sermon's final breath, and an application section that moves toward moralism before being rescued by the Boyce quotation.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: PASS (partial)**
+A thesis can be stated: "Salvation is by grace alone because human beings are dead in sin and contribute nothing to their redemption." This thesis does arise from the scriptural material used — Philippians 3, John 6, and Ephesians 2. The thesis is coherent and broadly text-grounded.
+
+**Authority Test: PASS (with concern)**
+The preacher does not soften the hard doctrines. Total depravity is named plainly. Election is present in the BFM quotation. The discomfort of self-examination is not avoided. However, the passage conflict (Philippians 3 introduced, then John 6 treated as "our passage tonight") means the sermon is not consistently governed by a single text. The preacher stands under the material but not clearly under one unified passage.
+
+**Gate Decision: PASS — proceed to scoring.** The text conflict is a structural weakness, not a faithlessness to what the texts actually say.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 5 — No actual exhortation: TRIGGERED**
+The sermon explains sovereign grace, warns the lost, and closes with Ephesians 2:8–9 and a single sentence: "If you ask him and mean it, you will be saved, scripture says." This is not exhortation. There is no direct summons — no clear call to the lost to repent and believe, no call to the believer to rest in sovereign grace, no "therefore" moment where the doctrine becomes a demand. The congregation is informed about grace but never called by it.
+
+**Score is capped at 69.**
+
+No other fatal flaw flags triggered:
+- Gospel is present (barely — but present in the Boyce quotation and the closing Ephesians reference)
+- Main point does not contradict the texts used
+- Christ is not absent (John 6:44, 65; the cross referenced)
+- Application is generic but not entirely absent — the Bible Belt/obedience passage addresses specific hearers
+- Accessibility is reasonable for an evening congregation
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14 / 25**
+
+- *Textual Fidelity (10 pts): 6* — The Paul's-résumé section from Philippians 3 is handled well and the "garbage/refuse" point is landed. But John 6:44 and 6:65 are quoted without being exegeted — they appear as proof texts, not as an opened passage. Ephesians 2 is summarized rather than exposited. No single passage is walked through with sufficient depth. The FCF (Fallen Condition Focus) is named — human deadness and inability — but it is stated as a theological datum rather than a felt condition concretely named and pressed.
+- *Contextual Awareness (5 pts): 3* — The Philippians 3 context (the joy-letter, Paul's counter to the Judaizers) is sensed but not named. The Reformation history provides useful context for the series. John 6's Bread of Life discourse context — the mass departure of disciples, Jesus' testing of the Twelve — is completely absent.
+- *Exegetical Clarity (5 pts): 3* — The Paul résumé section is the sermon's clearest expository moment. Greek is not engaged. The text's own argument is not reconstructed for the hearer.
+- *Logical Faithfulness (5 pts): 2* — The passage conflict creates a logical incoherence the congregation would feel. "Our passage tonight" pointing to John 6 after a Philippians 3 reading is disorienting.
+
+**2. Theology & Doctrinal Integrity — 13 / 18**
+
+- *Christ-Centeredness (7 pts): 5* — Christ is present. The cross is named. Regeneration precedes faith is implied in "before we even have an interest in following Christ, he's already been at work on our hearts." But the atonement is not explained — the cross appears as God's provision for our imperfection rather than as propitiation for wrath. "He provided the cross for that" (perfection) is thin.
+- *Redemptive-Historical Awareness (3 pts): 1* — The Reformation history is well-used, but there is no movement from creation-fall-redemption. Paul's pre-conversion life as a picture of moralistic self-righteousness under the old covenant is not connected to the covenantal argument of Philippians 3.
+- *Doctrinal Precision (4 pts): 4* — Total depravity is clear and biblically grounded. Election is confessionally stated via BFM. Monergism is implicit throughout. No doctrinal slippage detected in the theology proper.
+- *Confessional Alignment — 1689 Pulse (4 pts): 3* — The doctrines of grace are present: total depravity, unconditional election (via BFM V), irresistible grace (implied in the drawing of John 6, Boyce quotation). Perseverance of the saints is present in the BFM quotation. No contradiction of confessional theology. The Covenant of Grace is not developed, which is a missed opportunity but not a failure.
+
+**3. Gospel Centrality & Force — 7 / 15**
+
+- *Clarity of the Gospel (5 pts): 2* — The gospel appears only at the very end, via the Boyce quotation and Ephesians 2:8–9. Justification by faith is not articulated as a distinct act. The word "justified" does not appear. The cross is mentioned but not explained as penal substitution or propitiation. An unbeliever would not know how to be saved from this sermon beyond "ask him and mean it."
+- *Necessity of Christ (5 pts): 3* — Christ is necessary to the argument (we are dead; he must work first; grace alone), but His necessity is framed as spiritual resuscitation rather than as the only Mediator who satisfies divine justice. His person and work are undersold.
+- *Cross-Centered Gravity (5 pts): 2* — The sermon does not move toward the cross — it mentions the cross on the way to the warning about Bible Belt nominalism. The gravitational center is human inability and the call to examine oneself, not the cross.
+
+**Synagogue Test:** A devout Jew could sit through most of this sermon without being offended. The cross is mentioned but not as scandal. The gospel is not presented as the specific, exclusive, blood-purchased way of reconciliation with a holy God. *Moralistic drift flag — partial.*
+
+**4. Conscience & Applicatory Force — 9 / 15**
+
+- *Heart Penetration (5 pts): 3* — The Bible Belt passage is genuinely searching. "Easy to look real good and still be as lost as a goat" is a real sentence that lands. The R.C. Sproul challenge ("Do you love God as much as you ought?") is effective. But these moments are not sustained — they appear and pass without being pressed to the point of specific, differentiated conviction.
+- *Specificity (5 pts): 3* — The "cultural South / social Christian" identification is specific and congregation-aware. The zombie metaphor and the children-on-ankles illustration are accessible and grounded. But the sermon does not press specific sins or specific comforts — the conscience is nudged, not cornered.
+- *Spiritual Differentiation (5 pts): 3* — The sermon addresses the nominal Christian (category 3: knowledgeable but unhumbled) effectively. The lost sinner is warned. But the believer seeking comfort in sovereign grace is not addressed. The backslider is absent. The humbled-but-not-yet-believing person receives no word. Of Perkins' seven categories, perhaps three are reached with any precision.
+
+**5. Exhortation & Response — 2 / 8** *(fatal flaw active)*
+
+- *Call to Response (4 pts): 1* — "If you ask him and mean it, you will be saved" is the entire exhortation. It appears without buildup, without direction, without specificity. The congregation is not summoned — they are released. There is no "therefore." No command. No direct second-person imperative directed at specific hearers.
+- *Equipping for Holiness & Witness (4 pts): 1* — The Billy Sunday example gestures toward witness, but this is illustrative, not commissioning. The church is not sent anywhere. There is no word about how the doctrine of grace changes how the believer lives, loves, suffers, or witnesses.
+
+**6. Structure & Logical Flow — 6 / 9**
+
+- *Clarity of Outline (4 pts): 2* — There is no discernible structure a listener could sketch. The sermon moves: Reformation history → Philippians 3 → Ephesians 2 summary → John 6 quotes → Edwards quote → depravity development → warning → Billy Sunday → children illustration → BFM → Boyce → Ephesians 2:8–9. This is associative preaching, not structured preaching.
+- *Progression (3 pts): 2* — There is momentum in the early sections. The sermon does build from the historical problem (indulgences) to the theological solution (grace alone). But it does not escalate — it plateaus and then quotes its way to the end.
+- *Unity (2 pts): 2* — One dominant idea is maintained throughout: salvation is by grace alone because we are utterly unable. Credit given.
+
+**7. Illustration & Imagination — 4 / 5**
+
+- *Relevance (2 pts): 2* — The children-on-ankles illustration is native to this preacher's world and lands clearly. The zombie metaphor is culturally accessible. The R.C. Sproul interview is apt.
+- *Clarity (2 pts): 2* — All illustrations illuminate rather than compete. The children illustration effectively concretizes the entanglement of sin.
+- *Memorability (1 pt): 0* — The illustrations are good in the moment but do not compress into a single image that will be carried home. The children-on-ankles image comes close but is not positioned as the sermon's climactic picture.
+
+**8. Sermonic Force — 4 / 5**
+
+- *Reads as Preaching (2 pts): 2* — This reads as oral preaching. The cadences are conversational, the asides are natural, the direct address is present ("I challenge you"). The parenthetical source notes embedded in the manuscript disrupt the reading experience but are clearly editorial, not homiletical.
+- *Conviction on the Page (2 pts): 1* — The preacher's conviction about depravity is palpable. But the conviction dissipates at the gospel — the section that most demands force ("if you ask him and mean it") is the sermon's flattest sentence.
+- *Cadence and Breath (1 pt): 1* — "Zilch. Zero. Zip. Nada. Nothing." is a good cadence. The Billy Sunday quote is a natural climax. Sentence variation is present.
+
+---
+
+### 6. Cognitive Load Modifier: **0**
+
+This sermon is accessible. The ideas are not complex, the vocabulary is plain, and the illustrations are drawn from ordinary life. A single mother, a high schooler, and a new believer could follow the main argument. No modifier applied.
+
+---
+
+### 7. Total Score
+
+| Category | Pts Earned | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 14 | 25 |
+| Theology & Doctrinal Integrity | 13 | 18 |
+| Gospel Centrality & Force | 7 | 15 |
+| Conscience & Applicatory Force | 9 | 15 |
+| Exhortation & Response | 2 | 8 |
+| Structure & Logical Flow | 6 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 4 | 5 |
+| **Subtotal** | **59** | **100** |
+| Weight of Glory (bonus) | +2 | +5 |
+| Cognitive Load Modifier | 0 | — |
+| **Total** | **61** | **105** |
+
+**Fatal flaw cap applied: Score held at 61 (below cap of 69).**
+
+**Interpretation: Concerning gaps.** The sermon explains but does not preach. Significant revision needed, primarily at the gospel center and the exhortation.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Primarily of myself. The sermon's primary emotional register is self-examination and warning. Christ is invoked but not displayed. The congregation is called to look at their obedience more than to look at their Savior.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas about Him — specifically the idea of His sovereign grace. God is weighty in the depravity section but does not break through personally. The Boyce quotation does more doctrinal work than the preacher's own voice at the crucial moment.
+
+3. **Was I comforted, convicted, or merely informed?**
+The nominal/cultural Christian is convicted. The theologically instructed believer is informed. Neither is comforted — the sermon does not land on the grace it announces.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Plain, confessionally sound treatment of total depravity.** The zombie metaphor, the Paul résumé section, and the cumulative development of human inability ("Zilch. Zero. Zip. Nada. Nothing.") effectively establish the *need* that grace fills. This is the sermon's strongest expository moment.
+
+2. **The Bible Belt nominalism warning is specific and courageous.** "Easy to look real good and still be as lost as a goat" names a real danger in a real congregation without being cruel. This is genuine applicatory nerve — it distinguishes hearers and names a specific category of spiritual danger that this congregation faces.
+
+3. **Oral preaching voice is natural and unforced.** The sermon reads as it was delivered — accessible, direct, and free of academic hedging. The illustrations are from the preacher's real life. This is a gift, not a technique.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is absent from the body of the sermon and appears only in the final sentence.** "If you ask him and mean it, you will be saved" is the entire proclamation of the way of salvation. Penal substitution is not named. Justification by faith is not explained. The cross appears once as a provision for imperfection rather than as the satisfaction of divine wrath. The sermon's title is *Sola Gratia* — but the grace itself is not magnified; only the human inability that makes grace necessary.
+
+2. **No exhortation.** The sermon ends. It does not summon. After a section that correctly warns the nominal Christian that obedience-less religion is dead religion, the congregation receives no clear call — not to repent, not to believe, not to rest in the sovereign grace that has been taught, not to examine themselves with a specific next step. The word "therefore" does not appear in any form.
+
+3. **The passage conflict is unresolved and creates a credibility problem.** The congregation was told to open to Philippians 3. The sermon then treats John 6:44 and 6:65 as "our passage tonight." This either confuses the congregation or signals that the preacher is working from an older manuscript — neither is acceptable for a preaching manuscript. A pastor who asks people to open their Bibles is obligated to work from the passage they opened to.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears to believe that naming the correct doctrine constitutes preaching that doctrine. Sovereign grace is *stated* throughout — in the BFM quotation, in the Boyce quotation, in the John 6 references — but it is never *unfolded* so that the hearer feels both the weight of their lostness and the specific wonder of Christ's rescuing work. The sermon trusts quotation where it should trust proclamation.
+
+The preacher also likely does not see how the Billy Sunday illustration undercuts the sermon's own thesis. The section pivots from "you contribute nothing to your salvation" to "God expects us to try to meet his standard... keep getting back up and pressing forward." This is not wrong in the context of sanctification — but positioned here, after the depravity section and before the gospel, it reads as a works-and-grace hybrid. The sovereign grace of *Sola Gratia* is at risk in this paragraph.
+
+---
+
+### 12. Illusion of Strength
+
+The Boyce quotation is the sermon's strongest theological moment — but it is quoted, not preached. The congregation may leave feeling they received a solid doctrinal treatment of sovereign grace because the Boyce paragraph is genuinely excellent. What they actually received was Boyce preaching, not the pastor preaching. The quotation functions as a crutch that masks the absence of the preacher's own articulation of the gospel.
+
+Similarly, the warning to the nominal Christian feels like courageous pastoral application — and the courage is genuine — but it is law without gospel. The hearer is told they may be lost; they are not told how to be found. The sharpness of the diagnosis creates the impression of a complete pastoral act. The therapy is missing.
+
+---
+
+### 13. Missed Opportunity
+
+Philippians 3:7–11 is one of the most compressed and powerful statements of *Sola Gratia* in the New Testament. "Whatever gain I had, I counted as loss for the sake of Christ... that I may gain Christ and be found in him, not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith." This is the sermon's text — and it is the gospel. The imputed righteousness of Christ, received through faith alone, given by God — all of it is here in Paul's own words. The sermon introduces Paul's résumé as garbage, but does not complete the trade: *for what* did Paul count it loss? The answer is in the text and the sermon never gets there.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Resolve the passage conflict before this sermon is preached again.** Either (a) formally designate Philippians 3:1–12 as the primary text and remove all "our passage tonight" references to John 6, exegeting the John 6 verses as supporting material — or (b) revert to John 6 as the primary text. The current hybrid undermines confidence in the preacher's preparation.
+
+2. **Preach Philippians 3:7–11 as the gospel center.** Paul's exchange — all credentials counted as loss to gain Christ and be found in *his* righteousness, not Paul's own — is penal substitution in miniature. Let Paul articulate justification in his own words from the text. This becomes the pivot from "we have nothing" to "Christ has everything and gives it freely." The sermon currently makes the first half of this move without completing the second.
+
+3. **Replace the "God expects us to try" paragraph or reposition it.** As currently placed, it contradicts the *Sola Gratia* argument by introducing human effort as a component between depravity and grace. If the intention is to speak about sanctification, it must come *after* the gospel and be grounded in regeneration ("the obedience of a new creature") — not before the gospel as a condition for entry.
+
+4. **Add a direct exhortation before the close.** After the Boyce quotation and Ephesians 2:8–9, the preacher should look up and address specific hearers directly: "If you are here tonight and you have never rested your hope in Christ alone — not your church attendance, not your morality, not your heritage — this is the night. Sovereign grace means God draws the unwilling; it does not mean you can remain passive. Repent. Believe. Trust what God has done, not what you have done." This is one paragraph. It is the entire difference between informing and preaching.
+
+5. **The Boyce quotation should be the springboard, not the landing.** Quote Boyce, then say: "Let me tell you what that means for you tonight." Let the quotation open the door; let the preacher walk through it.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Partially triggered — not full flag.**
+
+Exposition (14) and Theology (13) are reasonable but do not meet the 20+/15+ thresholds that would trigger the automatic diagnostic. However, the pattern is present in spirit: the doctrinal material is correct and the fire is low. The sermon's theology is sound; its proclamation is thin. The doctrine of *Sola Gratia* is announced but not exulted in. Grace does not produce wonder in this sermon — it produces warning.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The eternal stakes are present — the warnings about hell, the call to self-examination, the missionary moment with the Dar Hamid — but the sermon does not culminate in worship; it concludes in doctrinal summary, and the congregation is left more aware of their need than of the Savior who meets it.
+
+**Bonus: +2 / 5** — The eternal gravity is sensed but not felt.
+
+---
+
+### 17. Rubric Fit Note
+
+This sermon is drawn from didactic Pauline epistle and dominical discourse (Philippians 3 + John 6), both of which are well-served by this rubric. The Five Solas series context does place some strain on the *gospel centrality* category — a sermon on *Sola Gratia* within a doctrinal series may legitimately spend more time establishing the *why* (depravity) than the *what* (the gospel itself) because the gospel was presumably central in prior weeks. This context is noted but does not excuse the absence of a clear gospel proclamation and exhortation in this sermon, which must stand on its own.
+
+---
+*Evaluated against the Thus Says the Lord rubric. Score: 61/105. Interpretation: Concerning gaps — significant revision needed.*

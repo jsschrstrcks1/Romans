@@ -95,3 +95,209 @@ All that starts with a relationship.
 ---
 
 Thanks for all the help with Granny's wedding. You guys are awesome. Now get some rest in the Lord.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Warm Pastoral Conversation That Wanders from the Text**
+
+---
+
+### 2. One-Sentence Summary
+A well-intentioned but loosely structured sermon on Hebrews 3:12–4:16 that offers genuine pastoral warmth and some useful application while failing to derive its main points from the passage's own argument, leaving the gospel undeveloped and the text largely unexplored.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: FAIL**
+
+The passage's main point — that God's people must strive to enter His rest through faith and perseverance, warned by Israel's unbelieving disobedience, enabled by a sympathizing High Priest — does not govern this sermon. The three headings ("Accountability," "Rest," "A High Priest Who Sympathizes") are loosely associated with the passage, but none of them arises from the passage's own argument. "Accountability" as a section is largely an extended contemporary anecdote about a "woke theology" conversation with no anchoring in the specific warnings of Hebrews 3:12–4:16. The sermon uses the passage as a launching pad, not as its ground.
+
+**Authority Test: CONDITIONAL PASS**
+
+The preacher does not visibly edit out hard parts — he simply does not engage them. The severe warning of 3:12 ("take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God") receives no real proclamation. The passage's urgency goes unmined.
+
+**Gate Result: The Berean Gate is not fully passed. Evaluation continues, but the fatal flaw flag for point 2 is triggered.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG TRIGGERED — Score capped at 69**
+
+- **Flag 2: Main point does not equal text's point.** The sermon's three-point structure does not arise from the passage's argument. The text is about the danger of apostasy through unbelief (3:12–19), the promise of Sabbath rest still available to the people of God (4:1–11), and the High Priest who enables bold approach to God (4:14–16). The sermon's "Accountability" section is foreign to the text; "Rest" is loosely connected but primarily driven by sheep and coal illustrations; the High Priest section lands near the text's concern but is handled devotionally rather than expositionally.
+
+- **Flag 1 (Partial): No clear gospel presentation.** The sermon ends with a bracketed note — *[Gospel]* — indicating that a gospel presentation exists but was not included in the manuscript. As evaluated, the sermon contains no articulated gospel. The body of Christ's work, penal substitution, justification by faith — none appear. What appears is moral encouragement and pastoral comfort.
+
+- **Flag 5: No actual exhortation.** The sermon closes with "Now get some rest in the Lord" — a pleasant benediction, not a call to response. The congregation is not summoned to believe, repent, or obey anything specific arising from the text.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 10/25**
+
+- *Textual Fidelity*: 3/10. The three points are named after concepts in the passage but are not derived from the passage's argument. The structure does not follow the text's logic. Extended sections pass without returning to the passage. The FCF (Fallen Condition Focus) is never named — the passage was written to address the danger of an unbelieving heart leading to apostasy, and this is never identified or pressed.
+- *Contextual Awareness*: 2/5. The Joshua background is introduced, but imprecisely (the claim about the Philistines and Zechariah is flagged in the manuscript's own notes as historically unclear). The book flow of Hebrews — its high-priestly Christology and the warning structure — is not engaged.
+- *Exegetical Clarity*: 2/5. No exegetical work is done. No Greek, no structural observation, no sentence-level engagement with the text. The passage is referenced but not opened.
+- *Logical Faithfulness*: 3/5. The sermon is not overtly eisegetical; it simply does not engage the text closely enough to be faithful or unfaithful to it.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 9/18**
+
+- *Christ-Centeredness*: 3/7. The High Priest section (Point III) does engage Hebrews 4:15 directly and pastorally. Christ's sympathy and humanity are handled warmly. But the Christology is therapeutic rather than covenantal — it is Jesus-as-empathizer, not Jesus-as-our-High-Priest who has passed through the heavens (4:14) securing our access.
+- *Redemptive-Historical Awareness*: 2/3. The Joshua background is gestured toward, and the "not yet / already" logic of rest is partially noted ("pointing to the future"). But the Hebrews 4 logic of the Sabbath rest as eschatological is not developed.
+- *Doctrinal Precision*: 2/4. No overt error, but the discussion of Satan/the deceiver and the Islam section introduces a disputed translation as a rhetorical tool in a way that could mislead (flagged in the manuscript's own notes).
+- *Confessional Alignment*: 2/4. No contradiction of confessional theology. But where the text invites precision — the nature of faith, the danger of apostasy, the New Covenant context — the sermon stays vague.
+
+**3. Gospel Centrality & Force (15 pts) — 4/15**
+
+- *Clarity of the Gospel*: 1/5. The manuscript contains only a bracketed placeholder: *[Gospel]*. As a manuscript, the gospel is absent from evaluation. No articulation of Christ's finished work, no justification, no faith.
+- *Necessity of Christ*: 2/5. Point III makes Christ necessary to comfort and sympathy. But Christ is not presented as necessary to salvation in any explicit sense.
+- *Cross-Centered Gravity*: 1/5. The sermon does not move toward the cross. It moves toward rest-as-refreshment.
+
+*Synagogue Test: This sermon could be heard in a synagogue without meaningful offense. The Christ of the sermon is a sympathetic companion, not the only Mediator whose blood alone provides access to the Father.*
+
+**4. Conscience & Applicatory Force (15 pts) — 8/15**
+
+- *Heart Penetration*: 3/5. The sheep illustration is vivid and genuinely pastoral. The personal references to Dave, Dottie, and the congregation's recent busyness demonstrate real pastoral attentiveness. There is warmth here. But the conscience is stroked, not searched.
+- *Specificity*: 3/5. The sermon is specific about the congregation's circumstances (weddings, busyness, named members). This is genuine pastoral particularity. The application of "rest in the Lord" as feeding on the Word, worship, and fellowship is appropriately concrete.
+- *Spiritual Differentiation*: 2/5. The sermon addresses primarily the believers who are tired and busy. The unbeliever, the hardened heart, the backslider, the humbled-but-not-yet-believing — all absent. Perkins' taxonomy is almost entirely bypassed.
+
+**5. Exhortation & Response (8 pts) — 3/8**
+
+- *Call to Response*: 1/4. "Get some rest in the Lord" is not an exhortation. The sermon never identifies what specific response the text demands. Hebrews 4:11 says "let us therefore strive to enter that rest" — this imperative is quoted in passing but never preached.
+- *Equipping for Holiness & Witness*: 2/4. The accountability section, despite its structural problems, does equip the church for mutual care and witness. The call to speak to wandering friends is legitimate and specific.
+
+**6. Structure & Logical Flow (9 pts) — 5/9**
+
+- *Clarity of Outline*: 2/4. Three headings exist, but they are thematically loose. "Accountability" bears almost no connection to what follows. A listener could not reconstruct a traceable argument.
+- *Progression*: 2/3. There is mild progression toward the High Priest section, but the sermon is more circular than linear. The introduction (Echo Dot / heaven tour) consumes considerable space before the text appears.
+- *Unity*: 1/2. Three competing ideas without a dominant thesis. The sermon cannot be summarized in a single sentence tied to the passage.
+
+**7. Illustration & Imagination (5 pts) — 4/5**
+
+- *Relevance*: 2/2. The sheep illustration is native to this congregation and genuinely illuminating. The coal-out-of-the-fireplace image works. The palace/heaven description is vivid.
+- *Clarity*: 1/2. The sheep illustration is the sermon's strongest moment — it earns its length. The heaven tour at the opening, however, does not serve a clear point tied to the text. It is pleasant but decorative.
+- *Memorability*: 1/1. The little ewe will be remembered.
+
+**8. Sermonic Force (5 pts) — 3/5**
+
+- *Reads as Preaching*: 2/2. The manuscript reads conversationally and orally — this was clearly spoken before it was written, and the voice is natural.
+- *Conviction on the Page*: 1/2. The manuscript has warmth but lacks the density of Scripture-grounded assertion that creates sermonic weight. Extended anecdotes (woke theology conversation, European palaces) displace text.
+- *Cadence and Breath*: 0/1. The sermon does not build to a climax. It ends on a pleasant note rather than a weighty one.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**0 (No deduction)**
+
+The sermon is accessible to all hearers. If anything, the risk is under-complexity — the congregation is not asked to track much. No deduction applied.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 10/25 |
+| Theology & Doctrinal Integrity | 9/18 |
+| Gospel Centrality & Force | 4/15 |
+| Conscience & Applicatory Force | 8/15 |
+| Exhortation & Response | 3/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **46/100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | 0 |
+| **Total (pre-cap)** | **47** |
+| **Score Cap Applied (Fatal Flaw)** | **Capped at 47** |
+
+**Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.**
+
+*(Note: The fatal flaw cap at 69 is a ceiling, not a floor. The pre-cap score of 47 stands as the operative score.)*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily myself — my busyness, my need for rest, my weakness. Christ appears as sympathizer and companion, not as Lord and Savior in whose finished work I must rest.
+2. **Did I encounter God, or just ideas about Him?** Ideas, warmly presented. God is referenced frequently but not encountered with weight.
+3. **Was I comforted, convicted, or merely informed?** Comforted — pleasantly, genuinely. But not convicted, and not transformed.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Pastoral Particularity**: The sermon knows its congregation by name. References to Dave, Dottie, the lambs born three weeks ago, and the recent wedding season demonstrate a preacher who is embedded in his flock's lives. This is not a generic manuscript — it belongs to this church.
+
+2. **The Sheep Illustration**: The story of the third lamb — cold, shivering, pushed away from the milk by the stronger sibling — is the sermon's finest moment. It is vivid, native to this congregation's world, theologically apt, and memorable. It earns the application "if you go off your feed, you can't supply milk."
+
+3. **The High Priest's Humanity (Point III)**: The engagement with Hebrews 4:15 is warm and pastorally useful. The move from "Jesus knows what you're going through" to the specific example of Dottie's near-death experience being used for gospel witness is exactly the kind of concrete, name-the-person application that good preaching requires.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The Accountability Section Has No Textual Home**: Point I ("Accountability") is a lengthy anecdote about a "woke theology" conversation with a pastor friend. Hebrews 3:13 — "exhort one another every day, as long as it is called 'today,' that none of you may be hardened by the deceitfulness of sin" — is the text this section should be built on. The text provides the imperative, the urgency ("while it is still called today"), the reason (sin's deceitfulness), and the communal structure. None of this is opened. The anecdote arrives before the text and substitutes for it.
+
+2. **The Gospel Is a Placeholder**: The bracketed *[Gospel]* at the end of the manuscript is the most important word in the document — and it is empty. Hebrews 4:14–16 is one of the great access-to-God texts in the New Testament. "We have a great high priest who has passed through the heavens, Jesus, the Son of God" — this is the text's own gospel proclamation. The sermon quotes 4:15 but does not arrive at 4:16 with force: "Let us then with confidence draw near to the throne of grace." What makes that confidence possible? The answer is the gospel. It is absent.
+
+3. **The Text's Warning Is Never Preached**: Hebrews 3:12 opens with a solemn warning — "Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God." This is the sharpest edge in the passage. The sermon never names it, never presses it, never asks the congregation to examine whether their heart might be drifting. Israel's failure in the wilderness is mentioned, but only as historical background to explain the context — not as a mirror held up to the congregation's own potential unbelief. The text warns. The sermon does not.
+
+---
+
+### 11. Blind Spots
+
+- **The FCF is invisible**: The preacher has not identified the specific fallen condition the text addresses. Hebrews 3–4 is written to people in danger of apostasy — of hardening their hearts under pressure and walking away from Christ as Israel walked away from God. The sermon assumes the congregation is spiritually healthy but tired. The text assumes the congregation may be in greater danger than they know.
+
+- **The sermon's "rest" is almost entirely therapeutic**: Rest-as-refreshment (recharge your batteries, feed yourself, don't be too busy) is true and pastoral — but it is not the text's rest. Hebrews 4 is speaking of eschatological Sabbath rest — the rest of completed redemption, the rest of faith in Christ's finished work, the rest that Israel failed to enter through unbelief. The sermon never reaches this register.
+
+- **The introduction consumes the sermon's best real estate**: The heaven tour (Echo Dot, palaces, Revelation 21) is pleasant, but it arrives before the text is read, uses six extended illustrations, and does not establish the text's stakes. The time spent there is time not spent on the passage.
+
+---
+
+### 12. Illusion of Strength
+
+The sermon *feels* warmly applicatory because it uses real names, local color, and vivid illustrations. This creates an impression of pastoral depth. But application that does not arise from exposition is not applicatory force — it is pastoral instinct applied independently of the text. The sheep illustration is genuinely strong, but it could support any sermon about spiritual neglect. It is not native to Hebrews 3–4 specifically. The appearance of application masks the absence of exegesis.
+
+---
+
+### 13. Missed Opportunity
+
+**Hebrews 4:9–11 is the theological heart of the passage and the sermon's greatest missed opportunity.** "So then, there remains a Sabbath rest for the people of God, for whoever has entered God's rest has also rested from his works as God did from his." This verse is eschatological, gospel-drenched, and directly relevant to the sermon's topic. It connects God's creation rest, Israel's land rest, and the believer's faith-rest as a single typological arc resolved in Christ. And it supplies the very definition of salvation that the sermon is trying to gesture toward: you rest from your works. You stop trying to earn rest and you receive it in Christ. This is justification by faith, described in Hebrews' own idiom, and the sermon passes over it entirely.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Rebuild Point I from Hebrews 3:12–15.** Read the text aloud, then ask: "What is this warning actually about?" The answer is: an evil, unbelieving heart. The application to mutual accountability is legitimate — v.13 commands it — but it must be rooted in the text's own logic. The point is not "have hard conversations to keep friends from heresy" in the abstract; it is "exhort one another while it is still called today, because sin is deceitful and hearts can harden faster than we notice." That's a different and sharper sermon.
+
+2. **Preach Hebrews 4:9–11 as the gospel center.** Replace the bracketed *[Gospel]* placeholder with a real proclamation built from the text: the Sabbath rest that remains is not earned but entered by faith. Israel did not enter because of unbelief (v.6). The rest is still open (v.7). Entering it means ceasing from your own works (v.10) — trusting Christ's finished work instead of your own striving. This is justification in Hebrews' vocabulary. Name it.
+
+3. **Turn the High Priest section into an exhortation.** The sermon currently ends with "stay close to him. All that starts with a relationship." Hebrews 4:16 provides the actual imperative: "Let us therefore draw near with confidence to the throne of grace." Preach this as a summons. What does it mean to draw near? Through prayer, through the Word, through the gathered church. What gives us the confidence to do it? Not our worthiness — the High Priest who sympathizes. The sermon should end here with force, not warmth alone.
+
+4. **Cut or relocate the heaven tour.** The opening description of heaven (John 14, Hebrews 11, Revelation 21, European palaces) uses substantial time before the passage is read. Consider moving the eschatological rest motif to the second point as exposition of Hebrews 4:9–11 — where it belongs theologically — rather than as a decorative overture.
+
+5. **Name the unbeliever.** The congregation contains people who have not entered the rest. Hebrews 3:19 says plainly: "They were unable to enter because of unbelief." A sentence addressed directly to anyone who has never rested from their own works and trusted Christ — anyone still trying to earn their way — would bring the Perkins taxonomy to life and discharge the text's own evangelistic urgency.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered in the classical sense** — this sermon is not cold orthodoxy. It is warm but under-expository. The failure here is not dead orthodoxy but *warm pastoral drift*: genuine love for the congregation that substitutes for careful attention to the text. The fire is present; the Word is not yet governing it.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries genuine pastoral warmth and love for the flock, but it does not yet carry the eternal gravity that the passage demands — the weight of a rest that remains, a Sabbath that Israel forfeited through unbelief, and a High Priest who bled to give us confident access; that gravity is gestured at but never reached. **+1 of 5.**
+
+---
+
+### 17. Rubric Fit Note
+
+The rubric fits this passage well. Hebrews 3–4 is didactic-hortatory prose — it rewards expositional rigor and gospel-centered application directly. No genre strain. The rubric's emphasis on exposition, gospel centrality, and conscience-searching exhortation maps precisely onto what this passage demands and what the author of Hebrews intended. The passage is one of the New Testament's most urgent pastoral texts; the rubric's tools are exactly right for it.

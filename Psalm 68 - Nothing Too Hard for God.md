@@ -264,3 +264,214 @@ And for those of you who would leave: not just hypothetically, but in the deeper
 **Moses and God's glory** — Draft used "Moses saw the shadow of God's glory pass by." The Exodus 33:18–23 account has God placing Moses in a cleft of the rock, covering him with his hand, and allowing Moses to see his "back" as he passes — not his face. "Shadow of glory" is interpretive language not in the text. Manuscript describes the event in keeping with Exodus 33 language without using "shadow."
 
 **"My God is so big, so strong and so mighty"** — Traditional children's Christian song, author unknown. Wide circulation, no specific attribution needed for pulpit use.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Warm and Winsome Omnipotence Sermon That Stalls at the Gospel Gate**
+
+---
+
+### 2. One-Sentence Summary
+A generally accessible and pastorally engaged opening of Psalm 68:1–4 that magnifies divine omnipotence with real illustrative energy, while stopping short of a genuine gospel presentation and failing to press the conscience with the weight the text's own doxology demands.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: PASS (conditional)**
+The sermon's thesis — "God is omnipotent; nothing is beyond his power, therefore do not fear and do not disobey" — arises from Psalm 68:1–4. The text declares God's power over enemies, the gladness of the righteous, and an invitation to exult before him. The sermon's main burden is God's supreme power. That connection holds.
+
+**Authority Test: PASS (with caution)**
+The preacher does not editorialize the text's claims away. However, the sermon treats only verses 1–4 of a 35-verse psalm, and the martial/eschatological weight of even those four verses is substantially softened into a comfort-against-current-events framework. The preacher does not contradict the text, but he does considerably narrow it.
+
+**Gate Status: PASS — proceed to scoring.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag #1 — No clear gospel presentation: TRIGGERED**
+The sermon ends with the stage direction *[Gospel presentation]* — a placeholder, not an actual presentation. The gospel is not preached in the manuscript as it stands. Christ's person, finished work, substitutionary atonement, and the call to repentance and faith are entirely absent from the delivered content. This is not a marginal omission. The final paragraph explicitly sets up an evangelistic appeal and then replaces it with a bracket. A bracketed gospel is not a preached gospel.
+
+**Flag #3 — Christ is absent or unnecessary: TRIGGERED**
+Jesus is never named. The cross is never referenced. The resurrection is never mentioned. The sermon could be delivered in a synagogue, a mosque, or by a theistic motivational speaker without alteration. The omnipotence of God is affirmed with energy — but the omnipotent God who sent his Son, who defeated sin and death at the cross, who is the fulfillment of the very victory-language of the Psalms, is nowhere present. The Christological connection is not missing because the text doesn't allow it — Psalm 68 is richly Christological (Paul quotes v.18 in Ephesians 4:8 regarding the ascension). It is missing because the preacher did not go there.
+
+**Score cap: 69 maximum.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 16 / 25**
+
+- *Textual Fidelity (10 pts): 6/10* — The sermon draws genuine energy from Psalm 68:1–4, but four verses of a 35-verse psalm are treated as though the passage is complete at v.4. The text's own structure — the triumphal procession, the ascent of God to Zion, the redemptive-historical freight of the ark narrative (Num 10:35 background), the explicit eschatological horizon — is entirely bypassed. The sermon reads from the text but does not follow the text's argument.
+- *Contextual Awareness (5 pts): 3/5* — The immediate context of the Numbers 10:35 background, the superscription, and the psalm's place in the Psalter's movement toward God's ultimate victory are ignored. The surrounding canonical witness (1 Chron 29:11, Eph 3:20–21, Gen 18:14, Exod 15:6) is deployed well as corroborating testimony, though the connections are topical rather than covenantal.
+- *Exegetical Clarity (5 pts): 3/5* — No Hebrew work, no attention to the psalm's genre as a victory hymn, no treatment of what "enemies of God" means covenantally. The images (smoke, wax, fire) receive illustration but not exegetical unpacking.
+- *Logical Faithfulness (5 pts): 4/5* — No significant eisegesis. The Plato illustration is philosophically creative and theologically serviceable, though it owes more to Platonic metaphysics than to the text's own idiom.
+
+**FCF (Fallen Condition Focus):** Partially identified — fear in the face of threats. But the deeper FCF of the psalm (the people of God surrounded by enemies who appear stronger than their God, requiring a vision of the ascended, triumphant God) is not named.
+
+**2. Theology & Doctrinal Integrity — 11 / 18**
+
+- *Christ-Centeredness (7 pts): 2/7* — Christ is absent. The triune God is not distinguished. The omnipotence being preached is generic theism; it could belong to any monotheistic system. This is the sermon's most serious theological failure.
+- *Redemptive-Historical Awareness (3 pts): 1/3* — No placement of Psalm 68 in the redemptive-historical narrative. The connection to the Exodus (the psalm's own background), the ark, the Sinai theophany, and ultimately to the ascension of Christ (Eph 4:8) is never approached.
+- *Doctrinal Precision (4 pts): 4/4* — Within its scope, the theology is accurate. Divine omnipotence, omniscience, omnipresence, and immutability are handled soundly. No doctrinal errors.
+- *Confessional Alignment (4 pts): 4/4* — Nothing contradicts confessional theology. The soteriological categories are simply not engaged.
+
+**3. Gospel Centrality & Force — 3 / 15**
+
+- *Clarity of the Gospel (5 pts): 1/5* — A placeholder bracket where the gospel should be. One sentence near the end gestures toward unbelievers needing to "become a follower of Jesus Christ," but the content of that following is never defined.
+- *Necessity of Christ (5 pts): 1/5* — Christ is structurally unnecessary to this sermon. The argument proceeds identically without him.
+- *Cross-Centered Gravity (5 pts): 1/5* — The sermon orbits entirely around omnipotence as comfort against present threats. The cross, the greatest demonstration of God's power (1 Cor 1:18, 24), is absent.
+
+**Synagogue Test: TRIGGERED.** A devout Jewish person could hear this sermon and not be offended by the necessity of Christ's blood. The sermon preaches the God of Abraham — but not the God who sent his Son to be the final and ultimate victory over God's enemies.
+
+**4. Conscience & Applicatory Force — 9 / 15**
+
+- *Heart Penetration (5 pts): 4/5* — The Chuck story and the house church narrative are genuinely pastoral and carry real emotional weight. The question "Do you disobey or do you obey?" reaches the conscience. The direct address to those who "would leave" is honest.
+- *Specificity (5 pts): 3/5* — The COVID/fear application is concrete and timely. The evangelism exhortation is pointed. But the application stops at fear management and evangelism courage — two notes, both good, but narrow relative to the text's own scope.
+- *Spiritual Differentiation (5 pts): 2/5* — Perkins' taxonomy: the sermon addresses the believers (category 5) with encouragement and the unbeliever (category 2) with an implicit appeal. The self-righteous (category 3), the humbled-but-not-yet-believing (category 4), the backslider (category 6), and the hardened (category 1) receive no differentiated address. The differentiation is essentially binary.
+
+**5. Exhortation & Response — 5 / 8**
+
+- *Call to Response (4 pts): 3/4* — The evangelism exhortation is specific: go share the gospel despite fear, take precautions, but go. The call is clear and concrete.
+- *Equipping for Holiness & Witness (4 pts): 2/4* — The sermon equips for witness courage. It does not equip for the deeper corporate life of the church, nor does it send the believer into any domain beyond evangelism.
+
+**6. Structure & Logical Flow — 6 / 9**
+
+- *Clarity of Outline (4 pts): 3/4* — The sermon moves logically: power of God → illustrations of power → real-life testimony (Chuck) → more illustrations → specific exhortation. It is traceable, though not tightly outlined.
+- *Progression (3 pts): 2/3* — The middle section (Plato, CME, Hurricane Irma) is rich in illustration but produces some congestion. Three large illustrative sequences in a row slow the progression.
+- *Unity (2 pts): 1/2* — Two dominant ideas compete without full resolution: "God is all-powerful" and "therefore don't let fear stop your obedience/witness." These are connected but the sermon doesn't formally unify them under a stated thesis.
+
+**7. Illustration & Imagination — 4 / 5**
+
+- *Relevance (2 pts): 2/2* — Box fan vs. hurricane, Christmas tree/broken window, CME plasma mass — all vivid, accessible, and drawn from the congregation's experience.
+- *Clarity (2 pts): 2/2* — Each illustration illuminates its point cleanly. The Plato illustration is the most demanding, but the preacher lands it well.
+- *Memorability (1 pt): 0/1* — Several strong illustrations compete with each other. The congregation will likely carry away the box fan or the house church story, but not a single defining image native to the text itself. One illustration too many dilutes the most memorable ones.
+
+**8. Sermonic Force — 4 / 5**
+
+- *Reads as Preaching (2 pts): 2/2* — Strong oral cadence. Direct address ("Some of you are in your eighties right now"). Breath-length paragraphs. The manuscript reads like spoken word.
+- *Conviction on the Page (2 pts): 1/2* — Scripture-grounded assertions are present but outnumbered by illustrative material. The ratio of illustration to text is high. The sermon feels more like a persuasive talk than a proclamation rooted in the passage's own momentum.
+- *Cadence and Breath (1 pt): 1/1* — Sentence variation is good. The house church climax earns its length. The Luther quotation lands well.
+
+---
+
+### 6. Cognitive Load Modifier: **0**
+
+The sermon is well-paced and broadly accessible. The Plato section is the most taxing, but the preacher navigates it for the congregation. The single mother, the high schooler, and the new believer can follow this.
+
+---
+
+### 7. Total Score
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 16 | 25 |
+| Theology & Doctrinal Integrity | 11 | 18 |
+| Gospel Centrality & Force | 3 | 15 |
+| Conscience & Applicatory Force | 9 | 15 |
+| Exhortation & Response | 5 | 8 |
+| Structure & Logical Flow | 6 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 4 | 5 |
+| **Subtotal** | **58** | **100** |
+| Weight of Glory (bonus) | +2 | +5 |
+| Cognitive Load Modifier | 0 | — |
+| **Total** | **60** | **105** |
+
+**Score capped at 69 due to Fatal Flaw Flags #1 and #3.**
+**Reported score: 60/105 (pre-cap). Cap does not bind here — the raw score is already below 69.**
+
+**Interpretation: Concerning gaps / approaching Fundamentally flawed.** The sermon explains but does not preach. The pastoral warmth and illustrative strength are real, but the absent Christ and bracketed gospel leave the sermon structurally incomplete as a Christian proclamation.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Neither, primarily. The sermon makes the hearer think about God's power relative to present threats. Christ is not named. Self-reflection is present but not deep.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas, mostly. The Chuck story creates a moment of genuine encounter with God's living action. But the sermon's dominant mode is argument and illustration rather than doxological proclamation.
+
+3. **Was I comforted, convicted, or merely informed?**
+Comforted and encouraged in places. The house church story presses toward conviction. But the gospel's convicting and comforting work — the law that strips self-trust, the cross that provides real hope — is absent. The hearer is informed and encouraged more than they are cornered and redeemed.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Illustrative energy and accessibility.** The box fan vs. hurricane sequence, the Christmas window story, and the solar flare illustration all achieve what good illustrations must: they make abstract truth tangible without competing with it. The congregation will not lose the thread.
+
+2. **Pastoral concreteness in application.** The direct address — "Say you know someone... God keeps bringing them to mind... Do you disobey, or do you obey?" — is specific, honest, and uncomfortably good. This is the kind of conscience-pressing that most sermons avoid. The preacher names the real conflict between fear and obedience with pastoral courage.
+
+3. **The Chuck narrative as lived theology.** "But you don't know my God" is a stunning piece of pastoral testimony that earns its place in the sermon. It is not decoration — it is the thesis in embodied form. This is exactly the kind of illustration that cannot be swapped into any other sermon because it is native to this congregation, this moment, and this theme.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Christ is absent from start to finish.** Not minimized — absent. A sermon on God's omnipotence, drawn from a psalm that Paul quotes in Ephesians 4:8 to describe the ascension of Christ, that never names Jesus is a theological hole. The preacher knows this — the *[Gospel presentation]* bracket shows awareness of the gap. But the gap is not incidental; it is structural. The sermon's logic, from start to finish, does not require Christ. That is a disqualifying deficiency.
+
+2. **The bracketed gospel is not a gospel.** The transition at the end — "For those of you who are not yet believers... *[Gospel presentation]*" — is not preaching. It is a stage direction. Whatever the preacher intends to say extemporaneously in that moment, the manuscript as evaluated does not contain a gospel. If this sermon were ever distributed, used for training, or published, that bracket would represent a false promise to the reader. The gospel must be written out, even in draft form.
+
+3. **The text's redemptive-historical freight is entirely bypassed.** Psalm 68 is not primarily a comfort-passage for anxious Christians living through COVID. It is a victory hymn rooted in Israel's wilderness journey, the ark's movement, and Sinai's theophany — and it finds its ultimate fulfillment in Christ's triumphal ascension (Eph 4:8). The sermon uses the text as a launching pad for omnipotence illustrations rather than expounding the text's own argument. A hearer leaves knowing God is powerful — but not why Psalm 68 says it, what occasion prompted it, or where its declarations ultimately land.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how thoroughly the sermon has been shaped by the COVID/current-events frame rather than the text's own frame. The opening questions (COVID deaths, hemorrhagic fever, geopolitical conflict) set an agenda that the text is then recruited to answer — rather than the text setting its own agenda and current events being brought into its orbit. The sermon asks, "Is anything too hard for God given these threats?" Psalm 68 does not ask that question. It declares God's ultimate and unstoppable victory as the ground of worship. These are related but not identical.
+
+The preacher also may not see the cumulative weight of the illustrative material. Box fan, CME, Plato, Christmas window, Hurricane Irma, hollow victory, World War One — these are individually strong, but in sequence they produce a kind of illustrative fatigue. The sermon's strongest moments (Chuck, the house church) arrive after the congregation may have been slightly numbed by the volume of preceding illustrations.
+
+---
+
+### 12. Illusion of Strength
+
+The house church story feels like the sermon's climax and carries enormous force. The Luther quotation lands. The transition to the unbeliever — "this next part is for you" — is well-positioned. In the live moment, the preacher's gospel presentation (whatever was said extemporaneously) may have been excellent. The sermon therefore feels, in the room, like it has a strong ending.
+
+But the manuscript does not have a strong ending. The bracket is a confession that the sermon's most critical element — the one thing everything else exists to lead toward — was not written. Sermonic force that depends entirely on the preacher's unrecorded extemporaneous moment is not sermonic force the manuscript possesses. What reads as strength is actually the absence of the most important content.
+
+---
+
+### 13. Missed Opportunity
+
+Ephesians 4:8 quotes Psalm 68:18 — "When he ascended on high he led a host of captives, and he gave gifts to men." Paul's use of this psalm is one of the clearest Christological appropriations of the Psalter in the New Testament. The enemies scattered in Psalm 68:1 are the same enemies defeated at the cross and put under Christ's feet in the ascension. The victory that human victories can never achieve — the final, complete, unhollowed victory — is not merely God's abstract omnipotence but Christ's specific, historical, once-for-all triumph. The preacher set up the hollow-victory illustration brilliantly, then failed to deliver its deepest payoff: the only unhollowed victory in history is the resurrection and ascension of Jesus Christ.
+
+That move — from hollow human victory to Christ's final victory, mediated through Psalm 68's own canonical fulfillment — would have been the sermon's best moment and its true climax. It was sitting in the passage the entire time.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Write out the gospel.** Replace *[Gospel presentation]* with actual content: Christ's life, death, resurrection; the problem of sin and wrath; justification by faith alone; the call to repentance and trust. Even a paragraph. The bracket must go.
+
+2. **Introduce Christ through the Ephesians 4:8 connection.** After the hollow-victory sequence, transition: "But there is one victory that is not hollow. One victory that doesn't unravel. Psalm 68 points forward to it — Paul tells us so in Ephesians 4:8. When Jesus ascended on high, he led captivity captive. He triumphed over the very enemies this psalm describes: sin, death, the devil. His victory does not erode." This requires approximately ninety additional seconds and transforms the sermon from a theistic omnipotence talk into a genuinely Christian proclamation.
+
+3. **Add a direct address to the knowledgeable-but-unmoved hearer.** The sermon reaches the fearful believer and (gesturally) the unbeliever. It does not reach the person who intellectually affirms God's omnipotence and is utterly unchanged by it — who could recite this sermon's thesis and nod along, and still live in practical functional atheism. Consider: "Some of you believe everything I've said this morning — you've believed it for years — and your life shows almost none of it. You know God is powerful. You just don't live like it matters. That's not faith. That's information. And information without trust is not Christianity."
+
+4. **Trim one illustration from the middle section.** The CME sequence, the Plato sequence, and the Hurricane Irma sequence are all strong individually. Together they produce drag. Remove one (Plato or CME — the Irma illustration is the most culturally accessible) and give the recovered time to the Christological pivot in Fix #2.
+
+5. **Name the Fallen Condition Focus explicitly.** The FCF here is not merely "fear of COVID" but something deeper: the tendency to look at visible threats and conclude that God's power is insufficient or his purposes are beyond his management. Name it more starkly, early: "There is a lie that fear tells — it says that what you can see is more real than what God has promised."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered in classical form** — the exposition score is too modest to trigger the pattern. However, a related flag applies: *Warm Encouragement Without Gospel*. The sermon has genuine pastoral warmth, pastoral specificity, and some applicatory sharpness. But warmth without the cross is not the gospel. Encouragement without Christ is self-help with a theistic frame. The sermon does not feel bloodless — but it is, in fact, missing the blood.
+
+---
+
+### 16. Weight of Glory Assessment
+
+There are genuine sparks — Chuck's story and Denise's defiance, the house church pastor's declaration — but the sermon does not culminate in worship; it culminates in a call to courage that points toward a missing gospel, leaving the congregation stirred but not doxologically grounded.
+
+---
+
+### 17. Rubric Fit Note
+
+The rubric fits this text well. Psalm 68 is a victory hymn, a genre the rubric's gospel-centrality and redemptive-historical categories are well-equipped to assess. The psalm's doxological register should actually push sermon scores upward in the Sermonic Force and Weight of Glory categories — which makes the absence of Christ all the more consequential. The rubric does not strain against the text; it exposes where the sermon fell short of what the text itself was offering.

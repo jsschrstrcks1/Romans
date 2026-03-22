@@ -422,3 +422,215 @@ The sermon carries the gravity of a man genuinely burdened for his congregation'
 ### 17. Rubric Fit Note
 
 This rubric is well-suited to this sermon. The passage (2 Tim 1:1-2) is an epistolary salutation — a genre that could theoretically stress some rubric categories (salutations are not narrative or lament, and their "main point" is embedded in compressed formula). However, the salutation of 2 Timothy carries enormous pastoral weight — it is a dying apostle's final letter to his closest disciple — and the rubric's categories apply without strain. The gospel centrality categories are especially well-suited here, since the salutation's "promise of life in Christ Jesus" and "grace, mercy, and peace" are not decorative but theological. The rubric does not bend for this passage; if anything, the passage exposes the rubric's categories with unusual clarity.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+
+**"A Courageous Pastoral Challenge That Preaches Around Its Own Best Material"**
+
+---
+
+### 2. One-Sentence Summary
+
+A fearless opening of 2 Timothy 1:1-2 that magnified the church's responsibility to prioritize gospel witness over political allegiance while never preaching the gospel it commanded the congregation to prioritize, and leaving verse 2 — the emotional and theological heart of the passage — entirely unexplored.
+
+---
+
+### 3. Berean Gate
+
+**PASS — with structural reservation**
+
+*Scopus Test*: A thesis can be constructed from the passage: "Because life is found only in Christ Jesus (v.1), the church must order its allegiances accordingly, setting gospel witness above political identity." This thesis traces to the text. It passes the gate.
+
+*Authority Test*: The preacher does not soften the passage's claim. He submits to the text's insistence that Christ is the center. However, the submission is asymmetrical — he submits to v.1's claim while never engaging v.2's content. A preacher who stands under the Word does not select which verses to stand under.
+
+**Gate: PASS. But the expositional debt to verse 2 is the single most consequential gap in this manuscript.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**No score cap applied. Two flags approach threshold:**
+
+- **Flag 3 borderline — Christ nearly unnecessary to the argument**: Christ functions as the correct answer in a values-ordering exercise. The sermon argues that Christ should be first. It never argues why Christ must be first — what his death accomplishes, what his resurrection secures, what his lordship demands. A committed religious moralist could accept the sermon's central claim without ever bowing to Christ crucified.
+
+- **Flag 5 borderline — Exhortation incomplete**: The call to believing hearers is genuine and specific. The call to the unbeliever is a signpost without destination: "Jesus matters more than politics" is directional without being redemptive. The unbeliever is not told what to do with that claim.
+
+**These flags do not cap the score but are woven through every category.**
+
+---
+
+### 5. Score Breakdown
+
+**Category 1 — Exposition & Hermeneutics: 12/25**
+
+- *Textual Fidelity (10)*: 6/10. The stated text is 2 Tim 1:1-2. Verse 1 is treated briefly as a launching point. Verse 2 — "Grace, mercy, and peace from God the Father and Christ Jesus our Lord" — is never quoted, never exposited, never applied. The sermon's exegetical center of gravity is 2 Tim 4:6-10 (Paul's death approach) and 2:14-26 (the quarrelsome servant and Demas). These are supporting texts pressed into primary service.
+- *Contextual Awareness (5)*: 3/5. The historical situation is handled well: Nero, execution, the Paul-Timothy relationship. But the letter's covenantal texture — a father in the faith writing final words to a son in the faith — is never developed, even though it is the emotional engine of the passage.
+- *Exegetical Clarity (5)*: 2/5. No Greek engagement. No exegetical transparency. The congregation is told what the text means without being shown how that meaning was reached. The FCF is the preacher's cultural burden (political idolatry in America, 2022) rather than the text's own burden (cowardice and shame under pressure — cf. 2 Tim 1:7-8, just outside the stated passage).
+- *Logical Faithfulness (5)*: 1/5. The movement is: contemporary concern → find a passage → apply the concern. The legitimate application (gospel over politics) arrives by pastoral instinct, not by textual argument. The passage is used as a platform rather than a source.
+
+**Category 2 — Theology & Doctrinal Integrity: 13/18**
+
+- *Christ-Centeredness (7)*: 4/7. Christ is the sermon's referent but not its subject. The sermon is about the church's allegiance to Christ, not about Christ himself. No treatment of Christ's person, work, or finished accomplishment. His name is the answer to a priority question; he is not proclaimed.
+- *Redemptive-Historical Awareness (3)*: 2/3. Paul's martyrdom is situated within Roman history credibly. But no placement of Paul's death within the redemptive narrative — no sense that Paul's faithfulness unto death participates in the same pattern as Christ's. The redemptive arc is gestured toward but not developed.
+- *Doctrinal Precision (4)*: 4/4. No theological errors. Sovereignty of God in Demas' defection is stated cleanly. Political idolatry correctly categorized as sin, not mere bad strategy. Reformed instincts throughout are sound.
+- *Confessional Alignment — 1689 Pulse (4)*: 3/4. Strong alignment with 1689 Ch. 24 on civil magistracy. No contradiction of confessional theology. The positive test is limited because the passage's soteriological content (the "promise of life in Christ Jesus") is never developed.
+
+**Category 3 — Gospel Centrality & Force: 6/15**
+
+- *Clarity of the Gospel (5)*: 1/5. The gospel is not preached. The congregation is urged to prioritize the gospel but never hears it. Justification by faith: absent. Penal substitution: absent. Resurrection: mentioned in passing. An unbeliever exits knowing that Jesus is more important than politics, without knowing why Jesus died or how anyone can be saved.
+- *Necessity of Christ (5)*: 3/5. Christ is essential to the sermon's argument — you cannot swap him out without collapsing the thesis. But his necessity is motivational and prioritizational, not salvific. He is necessary as the correct first loyalty, not as the only Mediator between God and man.
+- *Cross-Centered Gravity (5)*: 2/5. The sermon moves toward faithfulness in public witness. The cross is not the destination. The momentum is moral and ecclesial rather than redemptive.
+
+*Synagogue Test*: A devout, morally disciplined non-Christian could sit through this sermon without being offended by the blood of Christ. The scandal of the cross is absent. The sermon argues for Christian allegiance rather than announcing Christian salvation.
+
+*Law/Gospel Dialectic*: The hammer falls with genuine force — political idolatry as sin, named directly. The balm is largely withheld. The congregation is left convicted without the comfort of the cross.
+
+**Category 4 — Conscience & Applicatory Force: 12/15**
+
+- *Heart Penetration (5)*: 5/5. The student loan disclosure, the Trump-vs-Jesus quote, the "living in sin just as much" parallel — this is Puritan-quality conscience searching. The preacher places himself under the same verdict before placing the congregation there. This is genuinely rare.
+- *Specificity (5)*: 4/5. The application is grounded in the congregation's actual world with precision. The single gap is the absence of practical equipping — the sermon names the disease without prescribing the medicine.
+- *Spiritual Differentiation (5)*: 3/5. The politically idolatrous believer is addressed with specificity. The Demas illustration gestures toward the backslider. The humbled-but-not-yet-believing and the open unbeliever are reached by signpost only. Three of Perkins' seven categories addressed; four are not.
+
+**Category 5 — Exhortation & Response: 5/8**
+
+- *Call to Response (4)*: 3/4. Clear, specific, actionable call for the converted: repent of political idolatry, restore gospel witness. The unbeliever receives direction without destination.
+- *Equipping for Holiness & Witness (4)*: 2/4. The sermon diagnoses without prescribing. What does repentance from political idolatry look like on Monday morning? What does a gospel conversation sound like when it replaces a political argument? The congregation is convicted but not equipped for the change they have been called to make.
+
+**Category 6 — Structure & Logical Flow: 4/9**
+
+- *Clarity of Outline (4)*: 1/4. No traceable structure. The sermon moves by pastoral association: Paul's situation → Demas → Roman history → political idolatry → social media → student loans → witness → Trump-vs-Jesus quote. A listener cannot reconstruct the argument.
+- *Progression (3)*: 2/3. Emotional progression toward the Trump-vs-Jesus quote is present. The logical progression is associative rather than argumentative — the connections are inferential, not stated.
+- *Unity (2)*: 1/2. One dominant idea is present (Christ over politics) but competes with the Paul-Timothy relationship theme, the Demas apostasy theme, the social media theme, and the church witness theme. These are related but not integrated.
+
+**Category 7 — Illustration & Imagination: 4/5**
+
+- *Relevance (2)*: 2/2. Seminary friend, Alaska train, student loans, Trump-vs-Jesus — from the congregation's recognizable world without exception.
+- *Clarity (2)*: 1/2. The Alaska train runs too long; the landing is forced. The student loan section is surgically clear. The Trump-vs-Jesus quote does exactly what an illustration must do.
+- *Memorability (1)*: 1/1. The Trump-vs-Jesus quote and the student loan disclosure will both be remembered. This is the sermon's strongest zone.
+
+**Category 8 — Sermonic Force: 4/5**
+
+- *Reads as Preaching (2)*: 2/2. Unmistakably oral. No essay prose. Spoken register, direct address, transcript artifacts confirm this was preached.
+- *Conviction on the Page (2)*: 1/2. The convictions are genuine and stated without flinching on the political challenge. But "I think" appears 12+ times, softening declaration into opinion at the sermon's most consequential moments. The preacher's hedge does not match the weight of the claims being made.
+- *Cadence and Breath (1)*: 1/1. Natural pastoral cadence throughout. Sentences do not shorten at climax, but the spoken rhythm is present and authentic.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1 (Slightly dense)**
+
+The sermon moves through Paul's execution context, Demas' apostasy, Roman historical detail, political idolatry, social media algorithms, student loan forgiveness, and the Alaska train — all from two verses. The main argument remains followable. But the congregation must do significant connective work without structural signposting. One fewer theme, or three stated headings at the outset, would reduce the load without diminishing the content.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 12/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 6/15 |
+| Conscience & Applicatory Force | 12/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 4/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| Weight of Glory (bonus) | +2/5 |
+| Cognitive Load Modifier | −1 |
+| **TOTAL** | **61/105** |
+
+**Band: Concerning gaps (60–69). The sermon convicts but does not fully preach. The gospel is urged but not proclaimed. Significant revision needed.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Mixed. The political confrontation produces valuable self-examination. But Christ is not exalted — he is invoked as the correct priority. The sermon's net movement is toward self-examination, not Christ-exaltation.
+
+2. **Did I encounter God, or just ideas about Him?** Primarily ideas. The sovereignty of God in Demas' defection is asserted but not felt. God is theologically present but not experientially weighty. The sermon's emotional power comes from the cultural confrontation, not from the weight of God's presence.
+
+3. **Was I comforted, convicted, or merely informed?** Convicted — genuinely, specifically, with pastoral courage. But the conviction is unrelieved. The cross does not arrive to lift what the law has justly laid down. The congregation exits under a burden the sermon has rightly placed but has not shown them how to carry.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Pastoral self-exposure under the same verdict**: The student loan disclosure — voted against the policy, benefiting from it, praising the Lord — places the preacher under conviction before placing the congregation there. This is the hardest thing a preacher can do and the thing most likely to earn the right to confront.
+
+2. **The Trump-vs-Jesus quote**: "I started looking into Christianity, but those people are more about Trump than Jesus." This single sentence carries the weight of an entire gospel apologetic from the outside. It names the real-world cost of political idolatry with a human face attached. It will outlive the sermon in the congregation's memory.
+
+3. **Naming political idolatry as sin with doctrinal precision**: The parallel to sexual immorality ("living in sin just as much as that neighbor who brings a different girl home every night") is theologically exact and pastorally courageous. The preacher does not soften the category or hedge the claim. This is the sentence that earns the "I think" preacher his credibility back.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is commanded but never proclaimed** (throughout): The sermon's entire weight falls on the claim that the gospel must be the congregation's priority. But the gospel itself is never preached. What did Christ accomplish on the cross? Whose sins did he bear? What does his resurrection secure? How is a sinner reconciled to God? The congregation is told that these things matter more than politics without being given the content of what they are being urged to prioritize.
+
+2. **The stated text is functionally unused** (2 Tim 1:1-2): Verse 1 is a launching point. Verse 2 never appears. The exegetical labor happens in chapters 2 and 4, which are legitimate supporting texts but cannot substitute for the primary passage. A listener could not reconstruct what 2 Timothy 1:1-2 says, argues, or demands from this sermon.
+
+3. **No structure** (entire sermon): There is no traceable outline. The movement is pastoral and associative rather than logical and traceable. The congregation cannot carry the argument home because no argument is structured to be carried. The primary takeaway is an illustration (Trump-vs-Jesus), not the text.
+
+---
+
+### 11. Blind Spots
+
+**The Demas thread is the strongest exegetical material and is abandoned at the moment it could become the sermon's spine.** A man who "loved this present world" maps directly onto the political idolatry theme with textual authority. The preacher introduces Demas, notes the contrast with Paul, and pivots to politics — having left behind the one exegetical anchor that would have made the political application stick.
+
+**The preacher does not see how close the sermon comes to passing the Synagogue Test.** The passion and courage of the confrontation may be masking the absence of Christ's saving work. A sermon that commands gospel priority without preaching the gospel is in a more precarious position than it feels from inside the delivery.
+
+---
+
+### 12. Illusion of Strength
+
+**The politics section feels like the sermon's peak.** It carries the greatest emotional charge, the sharpest illustrations, and the most direct confrontation. But it is exegetically the weakest section — it is not derived from the passage, it floats on cultural relevance rather than textual authority, and it lands its punch through illustration rather than exposition. The emotional intensity creates the impression of sermonic power at the exact moment the preacher has left the text.
+
+**The "I think" hedge reads as pastoral humility but functions as declaration-avoidance.** Twelve-plus occurrences of "I think" at high-stakes moments trains the congregation to receive the sermon's claims as the preacher's opinions rather than the Word of God. This is not humility — it is the preacher standing beside the text rather than beneath it.
+
+---
+
+### 13. Missed Opportunity
+
+**Verse 2 is the sermon.** "To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord."
+
+Paul is writing from death row. His closest associates have scattered. Nero is burning Christians for torchlight. And the first thing out of his pen is a benediction: grace, mercy, and peace. Not a strategy. Not a grievance. Not a political posture. A declaration of what the gospel has secured.
+
+That is the foundation from which political freedom flows. A man who has already received grace does not need Caesar's approval. A man under mercy does not need to secure his standing through political allegiance. A man who possesses the peace of God through Christ Jesus is unafraid of what political winds do or do not deliver.
+
+The sermon argued for the priority of the gospel from outside the gospel. Verse 2 would have argued for it from inside the gospel — and the political application would have arrived with a weight the confrontation alone cannot carry.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Preach the gospel explicitly — 90 seconds minimum — before the final call.** Name what Christ did. Name the sin it addressed. Name the resurrection it confirmed. Name the faith it requires. The congregation has been told the gospel matters; they deserve to hear it preached in the same sermon.
+
+2. **Quote and exposit 2 Timothy 1:2 early and let it control the sermon.** "Grace, mercy, and peace from God the Father and Christ Jesus our Lord" is Paul's freedom from political fear in compressed form. This is the hinge on which the entire political application turns. Without it, the sermon preaches conviction without foundation.
+
+3. **Make the Demas thread the structural spine.** Three headings stated at the outset: (1) What Paul possessed in his final hour — the promise of life in Christ; (2) What Demas traded it for — love of this present world; (3) What the congregation must now choose — whose kingdom governs your public allegiance. The political application arrives in heading 3 with textual authority behind it.
+
+4. **Trim the Alaska train illustration by at least half.** The point it makes (small derailment, large consequence) is simple and made quickly. The additional train detail does not serve the sermon.
+
+5. **Replace "I think" with declaration at every high-stakes transition.** Particularly: "I think that God has a special concern for the church's witness" should become an unhedged declaration. The preacher's instincts are correct; the hedged voice does not honor the weight of the claim.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** This sermon is not bloodless. The student loan disclosure, the direct naming of political idolatry as sin, and the pastoral vulnerability throughout are the marks of a preacher genuinely burdened for his people, not a man performing correct theology from a safe distance. The fire is present. The exposition must now catch up to it.
+
+---
+
+### 16. Weight of Glory Statement
+
+The sermon carries the weight of genuine pastoral burden and real-world courage, but the Weight of Glory is diminished by the absent cross — the stakes feel contemporary and political where they should feel eschatological, and the congregation is left under conviction rather than being lifted into the freedom of the gospel that Paul himself breathes in verse 2.
+
+---
+
+### 17. Rubric Fit Note
+
+The rubric fits this passage without strain. The salutation of 2 Timothy is not decorative formula — it is a dying apostle's theological declaration compressed into two verses, and the rubric's categories (gospel centrality, exposition, conscience, exhortation) apply with full force. The epistolary genre does not stress any rubric category here; if anything, the salutation's compressed theological density rewards the rubric's insistence on expositional depth. The passage did not receive the exposition it deserved. The rubric surfaces that gap cleanly.

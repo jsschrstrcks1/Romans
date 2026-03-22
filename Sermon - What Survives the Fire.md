@@ -156,6 +156,207 @@ If you were to die today, and found yourself standing face to face with God — 
 | Polycarp's martyrdom | Disciple of John; refused to recant; stood in fire without flinching; "the fire lasts but a little while" | Perseverance; cost of discipleship; fire as test |
 | Hot/cold water cup | Pour hot (for God) and cold (for self/world) into one cup — result is lukewarm | Spiritual temperature; divided loyalties |
 
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Warm Pastoral Exhortation on Stewardship That Skirts the Gospel and Softens the Text's Eschatological Edge**
+
+---
+
+### 2. One-Sentence Summary
+A well-illustrated opening of 1 Corinthians 3:10–15 that stirred the conscience toward kingdom priorities while stopping short of the gospel proclamation the text's own foundation-clause demands.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: CONDITIONAL PASS**
+The sermon's thesis — "invest your life in things that survive God's fire" — is present in the passage. However, 1 Corinthians 3:10–15 is not primarily a stewardship-of-time sermon. Paul's argument is about *ministerial accountability* — specifically church leaders building on the one foundation, Jesus Christ. The passage is addressed to those who are building the church (apostles, teachers, leaders), not to general Christians managing their weekly hours. The sermon uses the text as a platform for a broader stewardship-of-time message that is not illegitimate in principle but drifts from the passage's actual argument. The scopus is in the vicinity but not locked on the text's own center of gravity. This barely passes — but with a flag.
+
+**Authority Test: PASS**
+The preacher submits to the text's claims and does not soften its warnings. The closing trio (well done / lukewarm / depart from me) shows some willingness to allow the text to press.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG TRIGGERED — Fatal Flaw #1: No clear gospel presentation**
+The word "foundation" in 1 Corinthians 3:11 is named as "Jesus Christ," but the nature of that foundation — Christ crucified for sinners, justification by faith, the finished work — is never explained or proclaimed. The gospel is assumed, not announced. The sermon explains what builds on the foundation without ever explaining what the foundation is or why it matters for those who may not be standing on it.
+
+**FLAG TRIGGERED — Fatal Flaw #4: Application is largely generic**
+The application is dominated by time-audit statistics and broad categories (TV, video games, hair). While these are concrete illustrations, they do not differentiate hearers. The self-righteous church member, the genuinely devoted but weary believer, the doubter, and the unconverted are addressed identically. The sermon never corners a specific kind of sinner.
+
+**Score is capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14/25**
+
+- *Textual Fidelity (10):* 7/10. The sermon uses the text's imagery faithfully (fire, building materials, foundation), but misidentifies the primary audience of the passage. Paul is addressing teachers and builders of the church community, not general Christians managing personal time. The application direction is not wrong in itself, but it is not the text's direction.
+- *Contextual Awareness (5):* 2/5. The immediate context — 1 Corinthians 3 as Paul's argument about factionalism, spiritual maturity, and the apostolic ministry — receives no treatment. The "foundation" is named but never exegeted. Why is Christ the only valid foundation? What does Paul mean by "I laid it"?
+- *Exegetical Clarity (5):* 3/5. The fire image is handled with clarity and the building materials metaphor is applied usefully. But the *bēma* distinction (judgment of works, not of salvation) — noted in the theology mapping but not in the sermon body — is absent from the preached content. This is a significant gap.
+- *Logical Faithfulness (5):* 2/5. The move from 1 Corinthians 3 to Revelation 3 is not exegetically grounded. The two passages use "fire" imagery very differently. The sermon treats them as thematically parallel without establishing why. The Polycarp section, while edifying, is not tethered to the text's argument.
+- *FCF Assessment:* The fallen condition the text addresses is partially identified — spiritual mediocrity and misdirected effort — but left at a behavioral level. The deeper fallen condition (idolatry of comfort, self-trust, love of the world over love of God) is hinted at but not named as sin. The sermon approaches the symptom without diagnosing the disease.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+
+- *Christ-Centeredness (7):* 4/7. Christ is named as the foundation, and Polycarp's loyalty to Christ is moving. But Christ does not function as the living, crucified, risen Lord whose work is the basis for everything that follows. He is present as a category — "things done for Christ" — rather than as the ground of the sermon's argument.
+- *Redemptive-Historical Awareness (3):* 1/3. No placement of 1 Corinthians 3 within the redemptive-historical narrative. No awareness that the building metaphor connects to the temple, to the Spirit's indwelling, to the new covenant community.
+- *Doctrinal Precision (4):* 3/4. The distinction between the judgment of works (bēma) and the judgment of the lost (Great White Throne) is theologically sound as noted in the scripture mapping, but this crucial distinction is not made in the sermon itself. The closing "depart from me, I never knew you" (Matthew 7:23) introduces the judgment of the unregenerate without distinguishing it from the believer's works judgment — risking confusion about whether Christians can be lost.
+- *Confessional Alignment (4):* 3/4. No contradiction of confessional theology. The perseverance of the saints is illustrated beautifully through Polycarp. Sanctification as intentional and costly is rightly applied.
+
+**3. Gospel Centrality & Force — 6/15**
+
+- *Clarity of the Gospel (5):* 2/5. The gospel is assumed. The foundation is named but never excavated. An unbeliever sitting in this service would hear that they should invest their life in Christ but would not hear why, on what basis, or how.
+- *Necessity of Christ (5):* 2/5. Christ is present as the object of devotion and the judge at the end, but his cross-work is not presented as the necessary ground for either the reward or the exhortation. The sermon could be substantially preserved if Christ were replaced with "God's purposes" — which is a diagnostic failure.
+- *Cross-Centered Gravity (5):* 2/5. The sermon moves toward eschatological accountability, not toward the cross. Polycarp's martyrdom gestures toward costly devotion but does not lead back to the crucified Christ who was the reason for it.
+- *Synagogue Test:* A devout Jewish or Muslim hearer would find this sermon largely hospitable. The offense of the cross — that human works have no merit before God apart from Christ's substitution — is absent. The law/gospel dialectic is present only as law; the gospel relief is not proclaimed.
+
+**4. Conscience & Applicatory Force — 8/15**
+
+- *Heart Penetration (5):* 3/5. The checkbook and time-audit illustrations have real conscience-searching potential, and "that one stings me a little too" shows the preacher's pastoral honesty. The closing trio of verdicts (well done / lukewarm / depart) is the sermon's sharpest moment.
+- *Specificity (5):* 3/5. The time statistics are concrete but generic — applicable to any congregation, anywhere. They do not arise from knowledge of this specific congregation's temptations or idols. The hair illustration, while inventive, is tonally light for the weight of the material.
+- *Spiritual Differentiation (5):* 2/5. Perkins' taxonomy is not in view. The sermon addresses the congregation as a single mass. The devoted believer, the self-deceived professor, the genuinely lost, the backslider — all receive the same message in the same tone. The warning passages (especially "depart from me") are introduced without distinguishing who they apply to, leaving believers uncertain and perhaps falsely frightened.
+
+**5. Exhortation & Response — 4/8**
+
+- *Call to Response (4):* 2/4. The sermon closes with a question rather than a command. "What will he say to you?" is diagnostic, not imperative. The sermon informs and challenges but never issues a clear "therefore, do this." The congregation is left to self-assess without a clear exhortation to act.
+- *Equipping for Holiness & Witness (4):* 2/4. The Polycarp illustration is the closest the sermon comes to equipping for witness, and it is genuinely stirring. But no concrete next-step is given. The church is not sent out. The People Group section (Turks) is disconnected from the sermon's body — it could be a powerful bridge to the "send" but the connection is never made explicit.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline (4):* 3/4. The sermon has recognizable movements: opening illustration → time audit → Polycarp → Revelation 3 → closing. A listener can roughly track it.
+- *Progression (3):* 2/3. The time audit section runs long and risks becoming a statistics lecture. The Polycarp section is the emotional heart but arrives in the middle, not the climax. The closing is abrupt — three possible divine verdicts without development of any.
+- *Unity (2):* 1/2. The Revelation 3 section introduces a second text and a second argument (lukewarmness) that, while related, competes with the 1 Corinthians 3 fire-testing argument. The two texts are not organically unified.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2):* 2/2. The campfire scavenger hunt, pitch pine house, and 168-hour time audit are all native to the congregation's world.
+- *Clarity (2):* 1/2. The hot/cold water cup illustration is slightly forced — the physics don't fully serve the theology. The Polycarp story is the sermon's strongest illustrative moment.
+- *Memorability (1):* 1/1. The campfire opening and C. T. Studd refrain will stay with hearers.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2):* 2/2. The conversational register is consistent and pastoral. Direct address ("Don't answer this") is used effectively.
+- *Conviction on the Page (2):* 1/2. The statistics section reads more like a research presentation than a proclamation. The manuscript roars briefly at Polycarp but does not sustain that force into the conclusion.
+- *Cadence and Breath (1):* 0/1. Sentence length is largely uniform. The conclusion lacks the climactic compression a text about eschatological fire deserves.
+
+---
+
+### 6. Cognitive Load Modifier: **−1**
+
+The sermon is accessible. The statistics section is mildly overlong but not inaccessible. A single mother or high schooler can follow the main argument. Minor density penalty for the competing-texts structure.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 14/25 |
+| Theology & Doctrinal Integrity | 11/18 |
+| Gospel Centrality & Force | 6/15 |
+| Conscience & Applicatory Force | 8/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **56/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total (pre-cap)** | **57** |
+| **Fatal Flaw Cap** | **57 → capped at 57** |
+
+**Score: 57 / 105**
+**Interpretation: Fundamentally flawed — rebuild from the text.**
+
+*(Note: The raw score falls below 60 independent of the cap. The fatal flaw flags confirm and deepen this assessment.)*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily myself — my time use, my temperature, my verdict. Christ is the standard, not the Savior, in the sermon's functional logic.
+2. **Did I encounter God, or just ideas about Him?** Ideas, primarily. The Polycarp section approaches encounter. The statistics section does not.
+3. **Was I comforted, convicted, or merely informed?** Mildly convicted and substantially informed. The conviction is real but not deep — it reaches behavior without reaching the heart's loves.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Polycarp illustration** is the sermon's finest moment. "The fire lasts but a little while; the fires of judgment reserved for the ungodly cannot be quenched" — this is excellent material, faithfully applied, that earns its place. It is native to this text in a way most illustrations are not.
+2. **The campfire opening** is immediately evocative and earns the congregation's trust early. It is simple, memorable, and textually appropriate.
+3. **Pastoral honesty** — "that one stings me a little too" and the seminary-vs-devotional-life distinction show a preacher who is not exempting himself from his own message. This is both credible and rare.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is absent as proclamation.** Christ is named as the foundation in the scripture reading but is never proclaimed as Savior. The sermon assumes the congregation knows why Christ is the foundation without explaining, defending, or celebrating it. An unconverted visitor would leave with a clear moral challenge and no clear path to salvation. This is the sermon's most serious failure.
+
+2. **The bēma / Great White Throne confusion.** The closing trio of verdicts — "well done" (Matthew 25:21), "lukewarm" (Revelation 3:16), "depart from me, I never knew you" (Matthew 7:23) — conflates the believer's judgment of works with the unbeliever's judgment of condemnation. These are theologically distinct events. Placing them side by side as three possible outcomes for everyone in the room could either falsely terrify genuine believers or falsely assure the unconverted that their works will tip the scales. The theology mapping correctly distinguishes them; the sermon does not.
+
+3. **The time-audit section overstays.** The 168-hour breakdown is a useful device, but the sermon spends considerable space on hair, bathroom time, and television statistics without ever pressing that data against the text's actual argument. This section reads as contemporary relevance for its own sake rather than in service of the passage.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears unaware that 1 Corinthians 3:10–15 is specifically about *apostolic and teaching ministry*, not general Christian stewardship. Paul is defending his own apostolic work and warning teachers who are building poorly on his foundation. This does not make stewardship-of-life applications invalid — 1 Corinthians 4:1–5 supports them — but it means the sermon is drawing from the text's reservoir without engaging the text's own well.
+
+The preacher also appears unaware of the law/gospel imbalance. The sermon is almost entirely law — "what are you doing with your time, your money, your life?" — without the gospel relief that gives the law its proper function: to drive us to Christ, not merely to reform our schedules.
+
+---
+
+### 12. Illusion of Strength
+
+The statistics section *feels* like application because it is specific and concrete. But specificity of illustration is not the same as specificity of application. Telling a congregation that the average American watches 35 hours of television is concrete data — it is not conscience-level application. The sermon uses factual concreteness as a substitute for the more difficult work of addressing *why* people fill their lives this way (idolatry, fear, spiritual deadness) and what *specifically* they must do differently in light of this text's particular claim on them.
+
+---
+
+### 13. Missed Opportunity
+
+Verse 11 — "No one can lay a foundation other than that which is laid, which is Jesus Christ" — is the text's most theologically loaded line, and the sermon passes over it in a single sentence. This is exactly where the gospel should have erupted. Why is Christ the only valid foundation? What disqualifies every other foundation — moral achievement, religious heritage, sincere effort? The text is an open door to the scandal of Christ's exclusivity and the glory of substitutionary atonement. The preacher walked past it to talk about television.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Excavate verse 11.** Before moving to the building materials, stop at "no one can lay a foundation other than Jesus Christ." Preach the gospel here — not as an aside but as the load-bearing center. What makes Christ the only foundation? This is where the unconverted person gets saved and the believer is freshly amazed.
+
+2. **Distinguish the bēma from the Great White Throne in the sermon body.** The closing three verdicts are powerful in isolation but dangerous without this distinction. Add one sentence: "For the believer, standing before God is not to determine whether you are saved — that is settled by Christ's work. It is to evaluate how you built on that foundation." Then the "depart from me" verse applies to a different category of hearer and must be named as such.
+
+3. **Replace the statistics section's conclusion with a conscience-pressing question rooted in the text, not demographics.** Instead of "you might be over-focused on how you look," try: "When God's fire comes, what will be left of how you spent this year? Not what a poll says — but you, specifically. What have you built that will survive?"
+
+4. **Add direct gospel address to the unconverted.** Before the closing, insert a paragraph addressed specifically to the person who does not know whether they are standing on the foundation at all: "Some of you are trying to build well on a foundation you have never actually received. You can build with gold and it will not matter if Christ is not underneath it. The first question tonight is not 'How am I building?' — it is 'Am I on the foundation?'"
+
+5. **Turn the closing question into a closing command.** "What will he say to you?" is good diagnosis. Add the imperative: "Examine what you are building. Reorder what needs to be reordered. And if you do not know whether you are standing on Christ — come to him tonight. That is where everything else begins."
+
+6. **Integrate the People Group section.** The Turks section is currently a detached bulletin insert. Connect it explicitly to the sermon: "60 million Turks who have never heard that Christ is the only foundation — and we are spending 35 hours a week watching television. What survives the fire? Souls. That is the gold."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — this sermon does not exhibit cold, correct theology. The failure is different: warmth and pastoral sincerity are present, but the theological center (the gospel) is absent. This is not dead orthodoxy; it is living moralism — which in some ways is more dangerous because it feels faithful.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The Polycarp illustration carries genuine eternal gravity, and the C. T. Studd refrain gives the sermon a durable anchor — but the sermon as a whole feels like a motivational address on Christian priorities rather than a proclamation that leaves the hearer trembling before the living God.
+
+---
+
+### 17. Rubric Fit Note
+
+This rubric fits this sermon well. 1 Corinthians 3:10–15 is a didactic epistolary text with clear propositional content, direct application, and gospel implications — precisely the genre this framework is built to evaluate. No rubric-genre stress. The weaknesses identified are real weaknesses, not artifacts of genre mismatch.
+
+---
+
 ## Key Quote
 
 > "Only one life, 'twill soon be past, only what's done for Christ will last."

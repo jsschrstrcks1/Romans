@@ -149,3 +149,207 @@ Won't you come?
 | Citizenship and allegiance | Americans must renounce old citizenship; divided loyalties make you a liability to both | God's exclusive claim; cost of commitment |
 | Nieces, nephews, and the cat | Kids grounded from the cat but keep playing too rough; "I forgot!" — hearers not doers | Double-mindedness; knowing vs. doing |
 | Infection in the foot | Stepped on something, ignored it, red line up the leg; doctor must cut out the source | Sin's root requires divine surgery, not behavior management |
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Warm and Winsome Testimony with a Gospel That Arrives Too Late and Leaves Too Soon**
+
+---
+
+### 2. One-Sentence Summary
+A friendly, accessible retelling of the Mount Carmel showdown that identifies the idol-problem clearly and opens a door to Christ, but fails to proclaim the gospel with sufficient clarity or force, leaving the congregation with more of a motivational call to commitment than a proclamation of what Christ has accomplished.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: PASS (with qualification)**
+The sermon's main point — Israel's double-mindedness is the disease, Christ is the only cure, choose this day — does arise from the text's own dramatic confrontation. The "choose this day" framing from Joshua 24:15 and the Elijah challenge of 1 Kings 18:21 are legitimate anchors. The qualification: the sermon's center of gravity drifts from 1 Kings 18:33-41 (the declared primary text) toward 18:21 and James, meaning the passage the congregation actually heard read is not the passage the sermon primarily exposits.
+
+**Authority Test: PASS (with qualification)**
+The preacher submits to the text's demands and applies them honestly. He does not soften God's jealousy. However, he quietly passes over the slaughter of the prophets of Baal (v. 40), which is part of the primary text. This is a minor omission but worth noting — the text's hard edge is present but unaddressed.
+
+**Gate Verdict: PASS** — The main point of the sermon arises from the passage's argument. Proceed to scoring.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG 1 — TRIGGERED: No clear gospel presentation**
+The gospel is gestured at rather than proclaimed. "There is only one doctor — the Lord Jesus Christ" is the closest the sermon comes to a gospel statement. Christ's atoning work is entirely absent. There is no mention of the cross, no articulation of what Christ did, no explanation of justification. The invitation ("Won't you come?") assumes the hearer knows what they are coming to and why. An unbeliever sitting in the room would hear: *you need a relationship with God and Jesus is the doctor* — but would not hear why Christ's blood was necessary, what he accomplished at Calvary, or how a sinner is reconciled to a jealous God. This is a fatal flaw.
+
+**FLAG 4 — PARTIAL TRIGGER: Application is largely generic**
+The application section names speech patterns and double-mindedness, which is somewhat specific. However, it does not press toward differentiated hearers. The call is essentially a single undifferentiated invitation: "Do you have a relationship with God? If not, come." No specific conscience-cornering. No address to the self-righteous, the backslider, the person who already thinks they've chosen God but hasn't. Borderline fatal — not fully triggered as a standalone flag, but compounds Flag 1.
+
+**Score Cap: 69 maximum due to Flag 1.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 16 / 25**
+
+- *Textual Fidelity (6/10)*: The sermon narrates the story accurately and engages key elements (fire from heaven, Elijah's prayer, the water-soaked altar). However, the primary text (18:33-41) is narrated more than exposited. The theological freight of Elijah's prayer — "that this people may know that you, O LORD, are God, and that you have turned their hearts back" — is mentioned but not unpacked. The sermon's main exposition focuses on 18:21, which is not the declared text. The passage's own climax (the people confessing "The LORD, he is God") receives no real development.
+- *Contextual Awareness (3/5)*: The drought context is explained. The Ahab/Jezebel background is helpful. The connection to Joshua 24 is legitimate and well-deployed. However, there is no redemptive-historical framing — where does this text sit in the larger story of redemption? What does Israel's corporate unfaithfulness mean covenantally?
+- *Exegetical Clarity (4/5)*: The sermon explains things clearly. The fire's supernatural order (sky to ground, consuming stones and water) is helpfully observed. Not ornate, but accessible.
+- *Logical Faithfulness (3/5)*: The move from Elijah to James to modern application is reasonable but feels assembled rather than argued. The pivot through Hindus and the Greek unknown god, while interesting, introduces more ideas than the sermon develops. The FCF (Fallen Condition Focus) is present but implicit — Israel's (and our) divided heart — though never named precisely as the condition this text was written to address.
+
+**2. Theology & Doctrinal Integrity — 12 / 18**
+
+- *Christ-Centeredness (4/7)*: Christ appears near the end as the "only doctor." This is not organic Christ-centeredness — it is a Christ-tag applied to a moral diagnosis. The christological connection is not drawn from the text's own typological or covenantal logic. Elijah as a prophet pointing to the greater Prophet, or the fire of God as a foreshadowing of Pentecost, or the offering consumed as anticipating substitutionary atonement — none of these are explored. Christ is introduced instrumentally, not exegetically.
+- *Redemptive-Historical Awareness (1/3)*: Minimal. The sermon treats this as a story about Israel's idolatry rather than as an episode in redemptive history. No covenantal framing.
+- *Doctrinal Precision (4/4)*: What doctrine is stated is stated correctly. God's jealousy, the insufficiency of behavior modification, the necessity of heart change — these are sound. No theological errors observed.
+- *Confessional Alignment — 1689 Pulse (3/4)*: The sermon does not contradict confessional theology. The mention of "double-mindedness that comes so easily to all people" and "the source of the infection still there" gestures toward total depravity without naming it. The ordinary means of grace (Word, prayer, fellowship, worship) are rightly identified. Nothing contradicts the 1689 Confession.
+
+**3. Gospel Centrality & Force — 6 / 15**
+
+- *Clarity of the Gospel (1/5)*: Christ is named. The cross is not mentioned. Justification by faith is not articulated. Penal substitution is absent. What it means to "have a relationship with God" through Christ is assumed, not explained.
+- *Necessity of Christ (3/5)*: The "only doctor" framing does make Christ necessary to the solution. This is the sermon's gospel strength. But necessity is asserted, not grounded in his redemptive work.
+- *Cross-Centered Gravity (2/5)*: The sermon moves toward Christ as the moral solution to a divided life. It does not move toward the cross as the ground of reconciliation with a jealous God. The idol problem is named but the penalty for idolatry — divine wrath — is barely surfaced. Without naming the wrath, the cross has no work to do.
+
+**Synagogue Test**: A devout Jew or Muslim could sit through this sermon largely without offense. God's jealousy is preached. Double-mindedness is rebuked. "Have a relationship with God through Jesus Christ" would be the only sticking point — and even that is not developed enough to be a scandal. The cross, as scandalous and necessary, is absent. **Synagogue Test: FAIL.** This confirms Flag 1.
+
+**4. Conscience & Applicatory Force — 8 / 15**
+
+- *Heart Penetration (3/5)*: The sermon reaches the conscience in the double-mindedness section. The examples of cursing and lying are honest and land. The foot-infection analogy is effective at the heart level. But it stays at the level of behavior diagnosis rather than deeper idol-of-the-heart exposure.
+- *Specificity (3/5)*: Speech patterns, comfort, money — these are somewhat specific. But the application is not differentiated by hearer. Everyone gets the same message.
+- *Spiritual Differentiation (2/5)*: The sermon distinguishes between the unconverted ("if you don't have a relationship with God") and the struggling believer — a two-category binary. Perkins' seven categories are largely collapsed into one. The backslider, the self-righteous, the humbled-but-not-yet-believing, the knowledgeable-but-unmoved — none are distinctly addressed. The "Won't you come?" invitation addresses one type of hearer.
+
+**5. Exhortation & Response — 5 / 8**
+
+- *Call to Response (3/4)*: "Won't you come?" is a genuine invitation. The two paths (begin a relationship, or deepen it) are clear. It is an exhortation, not just information. However, it is vague about what exactly one is responding to. Respond to what? Believe what specifically? Repent of what specifically?
+- *Equipping for Holiness & Witness (2/4)*: The means of grace (Word, prayer, fellowship, worship) are listed. This is helpful equipping. But there is no corporate dimension — the church as body, the mutual accountability of covenant community, the witness implications of undivided loyalty to God.
+
+**6. Structure & Logical Flow — 6 / 9**
+
+- *Clarity of Outline (3/4)*: The sermon has a discernible flow: narrative setup → divided allegiance → double-mindedness → the only doctor → invitation. A listener can trace it.
+- *Progression (2/3)*: Moves from problem to diagnosis to solution. But the digression through Hindus, Greeks, Paul at Athens, and the citizenship analogy creates competing traffic. Some of these could be removed without loss.
+- *Unity (1/2)*: The central idea holds — choose God, don't be double-minded — but the supporting ideas multiply (speech, money, comfort, lying, cursing, nieces and the cat) without a clear organizing logic. The sermon feels assembled from several good pieces rather than built from one argument.
+
+**7. Illustration & Imagination — 4 / 5**
+
+- *Relevance (2/2)*: The illustrations are from the preacher's actual life — puppeteer competition, nieces and the cat, foot infection. These are genuinely from a congregation's world. No borrowed pulpit illustrations.
+- *Clarity (1/2)*: Most illustrations clarify. The Hindus and Greek pantheon illustration introduces more ideas than it illustrates, and briefly detours into a mini-summary of Acts 17 that competes with the main point.
+- *Memorability (1/1)*: The foot infection will be remembered. "The only thing hot enough to burn stone is God himself" will be remembered.
+
+**8. Sermonic Force — 3 / 5**
+
+- *Reads as Preaching (2/2)*: This manuscript reads like someone talking, not lecturing. The oral register is natural and conversational. "Spoiler alert — God wins!" is a genuine preaching moment.
+- *Conviction on the Page (1/2)*: The conviction is present in isolated moments but inconsistent. The gospel section lacks conviction entirely — it is the softest and most tentative portion of the sermon.
+- *Cadence and Breath (0/1)*: Sentence variation is present in the narrative sections but flattens in the application. The climax of the sermon ("Won't you come?") is the quietest moment in the manuscript, when it should be the most compressed and weighty.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1**: The sermon is accessible. One fewer digression (the Hindus/Greeks/Paul detour could be trimmed) would sharpen it. The single mother and the high schooler can follow this. Cognitive load is slightly elevated by the number of applications without a clear organizing principle.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 16 / 25 |
+| Theology & Doctrinal Integrity | 12 / 18 |
+| Gospel Centrality & Force | 6 / 15 |
+| Conscience & Applicatory Force | 8 / 15 |
+| Exhortation & Response | 5 / 8 |
+| Structure & Logical Flow | 6 / 9 |
+| Illustration & Imagination | 4 / 5 |
+| Sermonic Force | 3 / 5 |
+| **Subtotal** | **60 / 100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **60 / 100** |
+
+**Fatal Flaw Cap Applied: Score capped at 69. Raw score of 60 is below the cap — cap does not alter the score, but Flag 1 is reported.**
+
+**Interpretation Band: Concerning gaps. Often the sermon explains but doesn't preach. Significant revision needed.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Mostly myself and my divided loyalties. Christ appears instrumentally, not gloriously. The sermon is more about the hearer's problem than about Christ's person and work.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas about him, with moments of genuine proximity. The fire from heaven section has real weight. The invitation is sincere. But the jealous God of 1 Kings 18 is described more than encountered.
+
+3. **Was I comforted, convicted, or merely informed?**
+Mildly convicted on specific behaviors (speech, idols of comfort/money), informed about the Elijah narrative, and invited — but not deeply comforted, because the grounds of comfort (what Christ has done) were not established.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Accessible exposition of a dramatic text.** The narrative retelling of the Mount Carmel showdown is engaging, well-paced, and accurate. The detail about the fire consuming stones and water in supernatural order (sky to ground, not ground up) is genuinely helpful observation that earns trust.
+
+2. **The foot-infection illustration is theologically loaded and memorable.** "It's not more will power... the source of the infection still needs to be cut out, and there is only one doctor." This analogy carries more gospel weight than almost anything else in the sermon, and it will be remembered.
+
+3. **Honest, non-preachy application of speech.** The section on cursing among Christians is honest without being condescending. "If that's you, you're not alone. But it's a symptom of a deeper problem." That is pastorally calibrated — diagnoses without crushing.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is absent as proclamation.** The entire sermon builds to "there is only one doctor — the Lord Jesus Christ," but the doctor's credentials are never stated. What did Christ do? Why is his blood the solution to idolatry? Why is faith in him, specifically, the answer? The invitation ("Won't you come?") is an altar call to an undescribed Christ. An unconverted visitor has been told they need Jesus but not told what Jesus did or why. This is the sermon's most serious failure.
+
+2. **The primary text (18:33-41) is narrated but not exposited.** The people's confession — "The LORD, he is God; the LORD, he is God" — is the dramatic climax of the passage, the moment of mass repentance and recognition. The sermon does not develop it. The theological freight of Elijah's prayer ("that you have turned their hearts back") — which is the text's own statement about divine sovereignty in repentance — is passed over without comment. This is the richest verse in the pericope for the sermon's theme, and it is untouched.
+
+3. **The application list multiplies without differentiating.** Speech, money, comfort, lying, cursing — these are listed as examples of double-mindedness but are not organized or developed. The congregation ends up with a catalogue of symptoms without a clear hierarchy. The sermon would be stronger if it pressed hard on one or two specific idols rather than listing five.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the sermon's "choose this day" frame has subtly moralized the gospel. The Joshua 24:15 citation is used well, but the cumulative effect of the sermon is: *Israel chose wrong; don't be double-minded like them; choose God.* This is a call to decisional commitment rather than a proclamation of what God has done in Christ that makes commitment possible and meaningful. The preacher appears to know the gospel well — the foot-infection analogy suggests genuine theological instinct — but the sermon functions as a moral exhortation with a gospel tag rather than a gospel proclamation with moral application.
+
+---
+
+### 12. Illusion of Strength
+
+The foot-infection illustration feels like the gospel moment. It is memorable, it names Christ as the only doctor, and it correctly diagnoses the insufficiency of behavior change. But it functions as a metaphor for sanctification (cutting out the source of sin) rather than as a proclamation of justification (Christ bearing the penalty for sin). The congregation likely felt they heard the gospel at that moment. They did not. They heard an invitation to a transforming relationship — which is true but incomplete. The cross, the wrath it absorbed, and the righteousness it secured are entirely absent. The illustration creates the impression of gospel clarity while bypassing the gospel's scandal.
+
+---
+
+### 13. Missed Opportunity
+
+The text's own climax — "The LORD, he is God; the LORD, he is God" (v. 39) — is a corporate confession of repentance and recognition. This is the moment toward which the entire chapter has been building. The preacher's theme is "choose this day whom you will serve." The text's answer to that theme is a congregation falling on their faces and declaring God's exclusive lordship. This is not only exposition gold — it is the sermon's own conclusion, waiting in the text. The preacher hurried past the moment where the text itself demonstrates the very response he is calling for. Developing v. 39 as the model of repentance-and-confession would have given the sermon a text-driven climax, grounded the invitation in the passage rather than in a general appeal, and moved naturally toward the cross (where the fire of God's judgment fell on the Son, not the worshipper).
+
+---
+
+### 14. Surgical Fixes
+
+1. **Proclaim the cross before the invitation.** After the foot-infection illustration, add one paragraph: why is Jesus the only doctor? Because the jealous God of 1 Kings 18 — the one who will not share glory with idols — has every right to judge idolaters. And he did. At the cross. Christ bore the wrath that Israel deserved at Carmel. The fire that fell on the sacrifice is a picture of what Christ endured so that we could be forgiven. Now the invitation has a foundation. ("Won't you come?" becomes: "Come to the one who stepped under the fire so you wouldn't have to.")
+
+2. **Develop 1 Kings 18:39 as the sermon's climax.** The people fell on their faces. That is repentance. That is the very response the sermon calls for. Use the text's own conclusion to model and call for the congregation's response. This realigns the sermon so it climaxes where the text climaxes, rather than in the preacher's own application section.
+
+3. **Add direct address to the self-righteous after the double-mindedness section.** Currently the sermon speaks to the openly struggling Christian and the unconverted. But there is a third hearer in the room: the person who thinks they have already chosen God, who is regular in attendance, and who is quietly idolizing comfort, security, or respectability while calling it faithfulness. Name that person specifically: "Some of you have been saying 'The LORD is God' with your mouth for decades. But your money, your retirement account, your comfort — those are your Baal. The double-mindedness is subtler, but it's there."
+
+4. **Cut or compress the Hindus/Greeks/Paul-at-Athens section.** This introduces too many ideas (Hindu pantheon, Greek philosophy, Acts 17, Paul's evangelism, the harvest in Greece) for a single supporting illustration. The citizenship analogy is stronger and simpler. Keep that; trim the rest to one sentence.
+
+5. **Ground the means-of-grace section in the text.** The list (Word, prayer, fellowship, worship) is correct but disconnected from Elijah's story. Elijah soaked the altar, prayed, and waited on God. His prayer was specific, text-grounded, and expectant. The means of grace are already in the passage — use them there rather than importing them as a closing list.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is not cold or bloodless — the preacher's genuine warmth and pastoral care are evident throughout. The concern here is not dead orthodoxy but incomplete proclamation. The fire is present; the full gospel is not.
+
+---
+
+### 16. Weight of Glory Assessment
+
+There are moments of genuine weight — the fire from heaven, the sovereignty of God who was never behind — but the sermon does not sustain eternal gravity; it achieves pastoral warmth rather than divine encounter, and the invitation, though sincere, calls for response to an undeclared Christ.
+
+**Weight of Glory Bonus: +1 / 5**
+
+---
+
+### 17. Rubric Fit Note
+
+The rubric fits this passage well. 1 Kings 18 is narrative, and the rubric's categories — especially Conscience & Applicatory Force and Gospel Centrality — are genuinely stress-tested by OT narrative because the gospel connection must be earned exegetically rather than assumed textually. The rubric correctly identifies where narrative sermons most often fail: they tell the story, they apply the moral, and they tag Jesus at the end rather than showing how the text's own logic moves toward and requires him. No rubric categories were strained by the genre here.

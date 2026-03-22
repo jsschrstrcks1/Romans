@@ -853,3 +853,169 @@ The sermon corpus consistently reflects the following theological identity:
 | **Bibliology** | Conservative Evangelical / Inerrancy | Sola Scriptura, verbal plenary inspiration, inerrancy, infallibility, sufficiency, closed 66-book canon, ESV preferred, grammatical-historical hermeneutics, preservation affirmed |
 
 The preacher stands consciously in the lineage of Augustine, Calvin, the Puritans, Spurgeon, and the Founders movement within the SBC. The theology is robustly Reformed in soteriology (total depravity, unconditional election, perseverance/preservation of the saints) while maintaining Baptist distinctives in ecclesiology (credobaptism, congregational governance, local church autonomy, regenerate membership) and a conservative evangelical posture on Scripture (inerrancy, sufficiency, sola scriptura).
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+
+**"A Theologically Rigorous Reference Catalog — Not a Sermon"**
+
+---
+
+### 2. One-Sentence Summary
+
+A comprehensive and well-organized extraction of doctrinal positions across ecclesiology, eschatology, and bibliology drawn from the sermon corpus, demonstrating confessional depth and breadth while functioning entirely as a reference document rather than a proclaimed message.
+
+---
+
+### 3. Berean Gate — FAIL (Genre Exception Applied)
+
+**Scopus Test**: Cannot be applied in standard form. This document has no sermon thesis. It does not proclaim a text; it catalogs positions *derived from* texts across multiple sermons. There is no single passage under exposition.
+
+**Authority Test**: Not applicable. The document is a researcher's or assistant's tool, not a herald's proclamation.
+
+**Genre Exception**: The rubric is designed for sermon manuscripts. This document is a theological extraction — a reference catalog, an index of doctrinal positions with supporting quotations and file citations. Applying the Berean Gate as a binary pass/fail here would be a category error. The rubric bends at this point (see element 17). No score is assigned to this document as though it were a sermon. The evaluation below assesses fitness-for-purpose and theological integrity of what the document is, while noting what it cannot be.
+
+**No sermon score is assigned. This document is not a sermon.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+Because this is not a sermon, fatal flaw scoring is inapplicable. However, the following observations are offered for pastoral and homiletical use of this document:
+
+- **Gospel presentation**: Absent from the document itself — as expected from an extraction tool, but any sermon drawing only from this catalog without gospel proclamation would trigger Fatal Flaw #1.
+- **Christ's necessity**: Sections 1.3 and 3.18 explicitly affirm Christ as head of the church and as the Christocentric focus of Scripture, but these are cataloged propositions, not proclaimed truths.
+- **Exhortation**: None. This document informs; it does not summon.
+
+These are not defects in the document — they are defects the document would create if mistaken for a sermon outline.
+
+---
+
+### 5. Score Breakdown
+
+**Score: N/A — This document is not a sermon manuscript.**
+
+However, a fitness-for-purpose assessment by category follows:
+
+| Category | Assessment |
+|---|---|
+| **Theological Comprehensiveness** | Excellent. All three doctrinal loci (ecclesiology, eschatology, bibliology) are covered with subcategories, explicit/implicit classification, and tradition alignment. |
+| **Doctrinal Precision** | Strong. Credobaptism, regenerate membership, cessationism, inerrancy, sola scriptura, eternal conscious torment — each position is stated with precision and textual grounding. |
+| **Confessional Alignment** | Thorough. The 1689 LBCF pulse is present throughout. BFM 2000 positions are cited and distinguished from confessional Reformed Baptist positions where they overlap. |
+| **Christocentricity** | Present but thin in ecclesiology and eschatology sections. Section 3.18 is the only explicit Christocentric hermeneutic entry. Redemptive-historical awareness is largely absent as an organizing principle. |
+| **Gospel Centrality** | Not addressed. No section on soteriology in this particular extraction (presumably covered in a companion document). The summary table notes "robustly Reformed in soteriology" but the body of this document does not develop it. |
+| **Applicatory Dimension** | Absent by design. This is a reference document. |
+
+---
+
+### 6. Cognitive Load Modifier
+
+**N/A for sermon scoring purposes.**
+
+For use as a reference document: the structure is clear, the headers are logical, and the cross-referencing of file paths and line numbers is appropriately dense for a researcher's tool. A preacher preparing a series on ecclesiology or bibliology could navigate this without difficulty. A congregant handed this document without context would find it opaque — but that is not its intended audience.
+
+---
+
+### 7. Total Score
+
+**No score assigned.** This document is a theological extraction catalog, not a sermon manuscript. Assigning a sermon score would produce a meaningless number and misrepresent both the rubric and the document.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this document make me think more of Christ or myself?** It makes the reader think of doctrinal positions and confessional tradition. Neither Christ's person nor the self is the focal point — the catalog itself is. This is appropriate for the document's purpose and a limitation that matters if its content is ever lifted into preaching without transformation.
+
+2. **Did I encounter God, or just ideas about Him?** Ideas about God — carefully organized, confessionally calibrated ideas. The encounter with God must happen elsewhere: in the preaching event the document supports, not in the document itself.
+
+3. **Was I comforted, convicted, or merely informed?** Informed. Thoroughly. The document does exactly what it was built to do. Whether any of the underlying sermons from which it was drawn would produce comfort or conviction is a question the document cannot answer — only those manuscripts can.
+
+---
+
+### 9. Strengths (Top 3)
+
+**Strength 1 — Confessional Precision Without Rigidity**
+The document consistently distinguishes between what the 1689 LBCF positively affirms, what the BFM 2000 states, and where the preacher's practice fits both. Section 1.13 on creeds and confessions, for instance, names the danger of "no creed but Christ" becoming "no accountability but myself" — a sophisticated confessional instinct that guards against both traditionalism and individualism.
+
+**Strength 2 — Honest Doctrinal Complexity**
+The document does not flatten nuance. Section 1.12 records soft cessationism ("God *can* but normally does not") rather than a wooden position. Section 2.2 records the deliberate pan-millennialist non-commitment with appropriate humor and theological honesty. These admissions of doctrinal tentativeness where tentativeness is warranted are marks of intellectual integrity.
+
+**Strength 3 — Ecclesiological Breadth**
+Seventeen sub-positions under ecclesiology alone, ranging from baptism to church polity to the Conservative Resurgence to missions philosophy, represent a remarkably comprehensive ecclesiological profile. This catalog would serve a church planting context, a membership class, or a confessional review process well.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+**Weakness 1 — No Soteriological Section**
+The summary table (line 855) references "robustly Reformed in soteriology (total depravity, unconditional election, perseverance/preservation of the saints)" — but this extraction covers only ecclesiology, eschatology, and bibliology. The absence of soteriology in the body is a significant gap if this document is meant to function as a complete theological profile. The doctrines of grace are the load-bearing columns of the entire theological structure. Their absence from the extraction body means the most evangelistically critical doctrines are present only in a summary footnote.
+
+**Weakness 2 — Redemptive-Historical Framework Is Underrepresented**
+Across 856 lines, the redemptive-historical sweep — the narrative of creation, fall, redemption, consummation — appears only as background music. Section 3.18 on Christocentricity and section 2.1 on the second coming gesture toward it, but no entry explicitly catalogs the preacher's understanding of the covenant of works, the covenant of grace, or the progressive revelation structure that holds the canonical witness together. For a preacher standing in the 1689 stream, this is a notable gap in the extraction.
+
+**Weakness 3 — Application and Pastoral Use Are Undocumented**
+The document catalogs what is believed but not how that belief has been preached into specific life situations. There is no record of how, for example, the ecclesiology (particularly regenerate church membership or church discipline) has been applied pastorally. A companion extraction of applicatory moments — where these doctrines landed on real congregational situations — would significantly increase the document's usefulness for future sermon preparation.
+
+---
+
+### 11. Blind Spots
+
+**The document assumes the doctrines it catalogs are functioning in preaching.** A catalog of correct positions does not guarantee those positions are alive in the pulpit. The extraction shows what is believed; it cannot show whether justification by faith alone is *proclaimed* with urgency, whether eternal conscious torment is *preached* with tears, or whether sola scriptura is *defended* with pastoral warmth rather than polemical edge. The gap between orthodoxy on the page and unction in the pulpit is precisely what the rest of this rubric exists to expose.
+
+**The document has no failure record.** Every entry shows what the preacher affirms. There is no catalog of where these doctrines have been underdeveloped, softened, or skipped in actual preaching. A complete theological self-assessment would include moments where the preacher's convictions were tested and the sermon fell short.
+
+---
+
+### 12. Illusion of Strength
+
+The sheer comprehensiveness of this catalog can create a false confidence: *"Our theology is thorough, therefore our preaching is thorough."* This is the illusion. Theological comprehensiveness in a reference document says nothing about whether the preacher's sermons on Romans 13 actually submitted the congregation to Paul's full argument about governing authorities, or whether the cessationism cataloged in 1.12 was handled with pastoral care for the charismatic visitor, or whether the complementarianism of 1.10 was applied with the tenderness the text of 1 Corinthians 11 requires. The catalog is not the sermon. The positions are not the proclamation.
+
+---
+
+### 13. Missed Opportunity
+
+The document's summary table (lines 849-855) is the most integrative section — and it is the shortest. A theological extraction of this depth deserves a longer synthetic conclusion: How do ecclesiology, eschatology, and bibliology interlock in this preacher's actual practice? How does the Baptist ecclesiology *shape* the eschatological urgency? How does the sola scriptura commitment *govern* the cessationist position on tongues? The catalog lists the parts; the missed opportunity is the systematic integration that would show the whole.
+
+Additionally, the eschatology section's pan-millennialist non-commitment (2.2) sits in mild tension with the futurist "birth pangs" reading of Matthew 24 (2.3) and the immediate-presence-at-death position (2.8). These are not contradictions, but the extraction does not note how they cohere — which is a missed opportunity for theological self-clarity.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Add a soteriology section.** The summary references the doctrines of grace, but the body does not contain them. Extract and catalog the ordo salutis positions — effectual calling, regeneration, justification, adoption, sanctification, glorification — from the sermon corpus with the same rigor applied here to ecclesiology and bibliology.
+
+2. **Add a redemptive-historical integration note.** Insert a short subsection under either bibliology or the summary explaining how the preacher handles the covenant of works/covenant of grace distinction and how that structure governs his movement from Old Testament to New in sermon preparation. This is load-bearing for the 1689 identity claimed in 1.1.
+
+3. **Add a synthetic integrative conclusion.** The three doctrinal loci should be shown to cohere, not merely listed. One paragraph showing how bibliology (Scripture's authority) grounds ecclesiology (regenerate church membership requires a Scripture-governed conversion standard) and eschatology (Scripture's testimony to Christ's return shapes the church's urgency) would transform this from a list into a theological portrait.
+
+4. **Flag the soft cessationism tension.** Section 1.12's position ("God *can* but normally does not") should be cross-referenced with 3.5 (sufficiency of Scripture) and 3.17 (Scripture as the standard for evaluating all claims). These three entries together form a coherent epistemology; the extraction does not currently connect them.
+
+5. **Add a homiletical use note.** At the top of the document, add a one-paragraph note clarifying what this document is for and what it is not: it is a reference tool for sermon preparation, confessional accountability, and theological consistency review — not a substitute for exegesis or a sermon outline.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Conditionally raised — not for the document itself, but as a warning for its use.**
+
+A catalog this thorough and this correct can become a substitute for preaching rather than a resource for it. If a preacher relies on having documented orthodox positions rather than wrestling fresh with each text's own argument and the congregation's actual spiritual condition, the result is dead orthodoxy — correct theology preached without unction. The document itself is not the problem. The temptation it creates is.
+
+The formal Dead Orthodoxy diagnostic does not trigger on a reference document. It is flagged here prophylactically: *the richness of this catalog is a tool, not a trophy.*
+
+---
+
+### 16. Weight of Glory Assessment
+
+This document carries no Weight of Glory — nor should it; it was not written to. But it was written in service of preaching that should, and the seriousness with which it catalogs what the preacher believes about the living God, the coming Christ, and the sufficient Word suggests a man who understands that the stakes of Sunday morning are eternal.
+
+---
+
+### 17. Rubric Fit Note
+
+**The rubric does not fit this document.** This is not a failure of the document — it is the correct finding. The *Thus Says the Lord* rubric evaluates sermon manuscripts: text-governed, heralded proclamations designed to move hearers from unbelief to faith, from sin to repentance, from ignorance to understanding. This document is a theological extraction — a reference catalog, a doctrinal index, a researcher's tool. These are different genres serving different purposes.
+
+The rubric bends here rather than breaking: rather than forcing a score on a non-sermon, the evaluation pivots to assess the document on fitness-for-purpose, theological integrity, and usefulness for the preaching task it supports. Where sermon categories were applicable (doctrinal precision, confessional alignment, christocentricity), they were applied. Where they were not (exposition, exhortation, conscience, sermonic force), they were noted as genre-inapplicable rather than scored as failures.
+
+The document earns high marks as what it is. It would earn no marks at all as a sermon — because it is not one, and should not be mistaken for one.

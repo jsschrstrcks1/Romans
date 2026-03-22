@@ -114,3 +114,168 @@ and loyal to the end.”
 
 **Prayer**
 Father, thank You that You foreknew people like us. Thank You that You have not rejected Your people whom You foreknew. Thank You for keeping a people for Yourself when our eyes cannot see them. Root us in grace, empty us of pride, and send us with hope. For Jesus’ sake — Amen.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+Warm Exposition with Gospel Heat — Minor Lapses in Doctrinal Precision and Applicatory Depth
+
+### 2. One-Sentence Summary
+A faithful and pastorally warm opening of Romans 11:1–10 that magnified sovereign grace and the security of the elect while leaving the hardening theme underdeveloped and the conscience of the self-righteous only lightly pressed.
+
+### 3. Berean Gate Result
+**PASS**
+
+- **Scopus Test**: Pass. The sermon’s thesis — "God has not rejected His people; He preserves a remnant chosen by grace, not works" — arises directly from the passage’s own argument in vv. 1–6. The outline tracks the text’s movement faithfully.
+- **Authority Test**: Pass. The preacher submits to the text’s claims, including the hardening passages (vv. 7–10), and does not soften them into abstraction, though the treatment there is thinner than the opening sections.
+
+### 4. Fatal Flaw Flags
+No fatal flaws triggered. Score is uncapped.
+
+Brief notation: The gospel presentation in Section 3 and the "Gospel Clarity" block near the close are clear and Christ-centered. The sermon does not drift into moralism. No flag triggered on any of the six criteria.
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 21/25**
+
+- *Textual Fidelity (8/10)*: The sermon derives its core argument from the text. The treatment of προέγνω as "fore-love" rather than mere foresight is exegetically sound and well-communicated. The Greek terms are introduced helpfully (ἐκλογή, χάρις, κατέλιπον). However, Psalm 69 and the "spirit of stupor" quotations in vv. 7–10 receive citation but minimal exegetical unpacking — the hardening theme is asserted more than opened.
+- *Contextual Awareness (4/5)*: The sermon situates Romans 11 within the Romans 9–11 arc and connects back to 9:32–33 and 10:18–21. The redemptive-historical placement is present but could reach further into the OT covenantal framework that Paul is drawing on.
+- *Exegetical Clarity (5/5)*: The preacher explains meaning clearly without requiring seminary fluency. The congregation could reconstruct the passage’s argument. Greek is used as a key to unlock meaning, not as a badge of scholarship.
+- *Logical Faithfulness (4/5)*: No eisegesis detected. The Elijah typology is native to the text. The "earners are hardened, beggars are blessed" framing of vv. 7–10 is a legitimate and useful reduction, though the judicial hardening (God actively hardening as judicial act) is softened into a general principle about posture.
+
+*Fallen Condition Focus*: Named clearly — human self-reliance, works-righteousness, and the pride that corrupts even proximity to covenant grace. This FCF is present and drives the application.
+
+**2. Theology & Doctrinal Integrity — 15/18**
+
+- *Christ-Centeredness (6/7)*: Christ is organically present throughout. The cross is not bolted on — the move from election to substitution ("Grace isn’t leniency; it’s substitution — Christ crucified instead of me") is natural and theologically clean. Slight deduction: the resurrection receives one brief mention in the "Gospel Clarity" block but is underdeveloped as ground for ongoing assurance.
+- *Redemptive-Historical Awareness (2/3)*: The sermon places the text in the Israel-Gentile arc and the Paul-as-Exhibit-A argument. Missing: the sermon doesn’t clearly articulate what "foreknew" means covenantally — i.e., how it connects to the Abrahamic covenant and the promise that cannot fail. The Amos 3:2 citation gestures at this but the covenantal logic is gestured at rather than demonstrated.
+- *Doctrinal Precision (4/4)*: No theological sloppiness detected on justification, grace, or election. The works/grace antithesis in vv. 5–6 is handled with precision. Watson’s quote is well-placed.
+- *Confessional Alignment — 1689 Pulse (3/4)*: The Doctrines of Grace are handled with accuracy. Election, sovereign preservation, and irresistible grace all surface correctly. The distinction between judicial hardening and mere human stubbornness is not quite as crisp as confessional precision requires — the hardening passages (citing Deuteronomy, Isaiah, Psalm 69) are laid out but the theological category of judicial hardening is not named or explained.
+
+**3. Gospel Centrality & Force — 13/15**
+
+- *Clarity of the Gospel (5/5)*: The "Gospel Clarity" block near the close is excellent: "Christ lived the law we failed. Christ died the death we earned. Christ rose to give the life we cannot produce." Justification by faith is clear. An unbeliever could understand how to be saved.
+- *Necessity of Christ (4/5)*: Christ is essential throughout. The sermon could not survive without Him. One mild concern: in the Elijah illustration and the "God keeps" section, the agency of divine preservation is emphasized richly but Christ’s mediatorial role in that preservation is not explicitly named. Could a careful reader think "God" in a general theistic sense rather than "God through the blood of Christ"?
+- *Cross-Centered Gravity (4/5)*: The sermon moves toward the cross. The law/gospel dynamic is present: the earners/beggars contrast functions as a hammer, and the grace passages function as balm. The gospel does not arrive prematurely — conviction is established first.
+
+*Synagogue Test*: Would a devout non-Christian be offended by the necessity of Christ’s blood? Yes — the "substitution" language and the penal framing are present. Test passed.
+
+**4. Conscience & Applicatory Force — 11/15**
+
+- *Heart Penetration (4/5)*: There are genuinely probing moments — the "self-assured sinner" address, the gold bar illustration, "proximity was not possession." These land at the conscience level. However, the sermon tends to diagnose more than to press — it identifies the condition without spending extended time in the wound before offering the remedy.
+- *Specificity (3/5)*: The applications are differentiated (struggling saint, self-assured sinner, seeking skeptic) but remain somewhat category-level rather than congregation-specific. "Kill sin, yes — but do it from acceptance, not for it" is good but glides past the specifics of what killing sin looks like in this congregation’s week. The section on humility and witness is pastoral but general.
+- *Spiritual Differentiation (4/5)*: The sermon addresses at minimum four of Perkins’ seven: the believer (struggling saint), the self-righteous/hardened (self-assured sinner), the seeking/humbled (skeptic), and by implication the backslider (complacency warning). The ignorant and unteachable, the ignorant but teachable, and the mixed congregation are not explicitly distinguished. This is a solid range but the sermon stays mostly in the believer/unbeliever binary.
+
+**5. Exhortation & Response — 6/8**
+
+- *Call to Response (3/4)*: The closing exhortation — "steady in assurance, small in humility, bold in witness" — is a genuine imperative. The "Receive Him by faith" and "Come to Christ with empty hands" are direct and clear. What is slightly missing is the unmistakable "therefore" moment — the pivot from explanation to demand. The exhortation arrives but somewhat gently. The congregation is called; they are not quite summoned.
+- *Equipping for Holiness & Witness (3/4)*: The witness application around Acts 18:10 is strong and specific. The connection between election and boldness in evangelism is well-drawn. The church is sent outward, not just comforted inward. Slight deduction: corporate application (what does this mean for us together as a body?) is largely absent.
+
+**6. Structure & Logical Flow — 8/9**
+
+- *Clarity of Outline (4/4)*: The five-point structure is announced, followed, and navigable. A congregant could sketch it on a napkin. Each section heading is memorable.
+- *Progression (3/3)*: The sermon builds from God’s answer → historical lesson → doctrinal principle → the divide → the call. This mirrors the text’s own movement and arrives at an appropriate climax.
+- *Unity (1/2)*: The big idea is clear and consistently maintained. One minor tension: the "Gospel Clarity" block near the close introduces a slightly separate theological subsection that could have been integrated into Section 3 rather than appearing as a standalone insert. The sermon nearly ends three times before it actually ends.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2)*: The Navajo code-talker/grandmother illustration is specific, culturally embedded, emotionally resonant, and earned. The gold bar illustration is effective. The "porcelain dish to a toddler in a tantrum" image is memorable and congregationally accessible.
+- *Clarity (1/2)*: The Navajo illustration is the strongest — it illuminates divine preservation without competing with the text. The gold bar illustration is clever but its point (proximity is not possession) could have been pressed harder into the conscience after the story lands.
+- *Memorability (1/1)*: At least two illustrations (the grandmother, the gold bar) will be carried home.
+
+**8. Sermonic Force — 4/5**
+
+- *Reads as Preaching (2/2)*: Direct address is present throughout ("Some of you," "To the struggling saint," "Beloved"). The cadence is oral. Paragraphs breathe.
+- *Conviction on the Page (1/2)*: The Scripture-to-assertion ratio is high in sections 1 and 3, thinner in sections 4 and 5. The closing exhortation has pastoral warmth but not sermonic thunder. The manuscript reads with warmth more than with fire.
+- *Cadence and Breath (1/1)*: Sentence variation is present. The "steady, small, and bold" triple at the close is compressed and effective.
+
+### 6. Cognitive Load Assessment
+**Modifier: 0**
+
+The sermon is well-paced. Greek terms are introduced briefly and explained before moving on. The five-part structure guides the listener. The average church member — single mother, high schooler, new believer — can follow the main argument and take home "God preserves a remnant chosen by grace, not works." No overload detected.
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 21/25 |
+| Theology & Doctrinal Integrity | 15/18 |
+| Gospel Centrality & Force | 13/15 |
+| Conscience & Applicatory Force | 11/15 |
+| Exhortation & Response | 6/8 |
+| Structure & Logical Flow | 8/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **82/100** |
+| Weight of Glory Bonus | +3 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **85/105** |
+
+**Interpretation: Strong and faithful. Minor sharpening needed. Ready for the pulpit with targeted revisions.**
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Christ. The sermon is consistently theocentric and Christocentric. The entire logic of the remnant is anchored in grace, not human effort. The listener is pointed away from self-reliance throughout.
+
+2. **Did I encounter God, or just ideas about Him?**
+Mostly God Himself — particularly in the fore-love treatment of προέγνω and the "I have kept for Myself" refrain. There are moments of genuine encounter. The Navajo illustration achieves this. Some sections are more informational (the OT quotations in section 4) than confrontational.
+
+3. **Was I comforted, convicted, or merely informed?**
+Both comforted and convicted, though comfort outweighs conviction by a noticeable margin. The sermon excels at assurance; it applies pressure to the self-righteous somewhat briefly. No one is merely informed — but the harder edge of vv. 7–10 could have pressed harder.
+
+### 9. Strengths (Top 3)
+
+1. **The fore-love treatment of προέγνω** — the covenantal "fore-knowing" as prior love rather than foresight is exegetically correct, clearly explained, and immediately applied to assurance. It drives the passage’s argument without technical overreach. ("The word ‘foreknew’ does not mean mere foresight… It means fore-love — the setting of God’s covenant heart upon His people.")
+
+2. **The works/grace antithesis in Section 3** — the doctrinal treatment of vv. 5–6 is the theological heart of the sermon, and it is handled with precision and pastoral force. "If you add one gram of works to grace, you no longer have grace" is clear, memorable, and confessionally sound. The Ephesians 2 citation is well-placed.
+
+3. **The Navajo grandmother illustration** — this is not decorative. It is native to the text, emotionally grounded in real human experience, and it illuminates divine preservation without competing with the theological point. It is the sermon’s most fully realized moment of imaginative force.
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The hardening passages (vv. 7–10) are underdeveloped.** Three Old Testament texts are cited in rapid succession but given minimal exegetical unpacking. The theological category of judicial hardening — God actively hardening as a just response to persistent rejection — is present in the text but the sermon settles for the general principle ("same sun softens wax, hardens clay") without naming or pressing the gravity of that divine act. This is the most sobering section of the passage, and it receives the least attention.
+
+2. **Applicatory specificity remains at category level.** The three-audience differentiation (struggling saint, self-assured sinner, skeptic) is structurally sound but the applications stay in generalizations. "Kill sin, yes — but do it from acceptance, not for it" is a true sentence — but it does not tell this congregation what that looks like on Tuesday morning. The Puritan "uses" pattern (conviction → direction → consolation for each audience) is gestured at but not executed.
+
+3. **The closing exhortation is warm but not urgent.** The Puritan prayer ("Oh, make me Thy faithful remnant — low at the cross, loud with the gospel, and loyal to the end") is beautiful, but it functions more as a benediction than a summons. The congregation is sent away feeling settled rather than mobilized. The sermon ends with warmth where it needs, finally, a flash of thunder.
+
+### 11. Blind Spots
+
+The preacher likely doesn’t see that his natural gift for pastoral comfort shapes the sermon’s emotional arc in a way that softens the judicial edge of vv. 7–10. The hardening theme is treated as a solemn caution (which it is), but the terror of it — the possibility that the hearer’s own resistance may be entering a zone where God confirms the hardness — is not placed on the table. The sermon warns against presumption but does not let the warning cut.
+
+Additionally, the sermon’s strength in addressing the believer and the skeptic means the complacent churchgoer (the most dangerous person in the room, by Paul’s logic in vv. 7–10) receives the gold bar illustration but not sustained confrontation.
+
+### 12. Illusion of Strength
+
+The five-point structure and the three-audience application create the impression of comprehensive coverage. The sermon feels thorough. But the structural neatness conceals that Section 4 (the hardening, the most theologically weighty part of the passage for the unbeliever and the complacent) is the thinnest section by both word count and exegetical depth. The structure flatters the sermon; the content doesn’t fully fill it.
+
+### 13. Missed Opportunity
+
+The text’s own climax is in vv. 5–6 theologically, but Paul’s purpose in citing the hardening passages (vv. 7–10) is to issue a warning to anyone who thinks proximity to covenant promises equals possession of them. This warning was tailor-made for the congregation member who attends faithfully, knows the theology, and has never actually come to the cross. The gold bar illustration touches this, but the preacher moved past the wound too quickly. An extended address to the theologically informed but unregenerate — the person who has sat under Reformed preaching for years and remained unmoved — was the sermon’s most urgent missed moment.
+
+### 14. Surgical Fixes
+
+1. **Expand the judicial hardening treatment in Section 4.** Name the theological category explicitly: God’s hardening in vv. 7–10 is not merely the natural consequence of unbelief — it is a judicial act. Add one paragraph that presses this: "There comes a point where the light refused becomes the darkness confirmed. This is not God being cruel — it is God being just. And Paul says it is possible to sit at a gospel table and have that table become your trap." This is where the hammer must fall before the balm is offered.
+
+2. **Add experimental specificity to the complacent-sinner address.** After the gold bar illustration, instead of moving immediately to the spiritual application, pause and address the educated, church-attending, theologically-familiar hearer directly: "You know the words. You can pass a theology exam. You’ve sat under this Word for years. But have you ever, in the privacy of your own soul, come to Christ with empty hands — with nothing in your hand but your sin? Not proximity. Not heritage. Not doctrinal alignment. Empty hands." This is the most dangerous person in the room and deserves more than one paragraph.
+
+3. **Integrate the "Gospel Clarity" block into Section 3.** The standalone gospel block near the close interrupts the sermon’s momentum and creates a near-ending before the actual ending. The Christ-lived/died/rose triplet belongs inside Section 3 as the culmination of the grace argument. Move it there, and the closing exhortation becomes the true climax.
+
+4. **Sharpen the closing exhortation from warmth to summons.** The Puritan prayer is beautiful but passive. After it, add one direct imperative sentence addressed to the whole room: "Receive Christ now — not the idea of Christ, but Christ Himself, by faith, right now in this seat — and then go home and live as people who know they are kept." The sermon earns that moment; it just needs to take it.
+
+5. **Name Christ’s mediatorial role explicitly in the "God keeps" section.** The divine preservation theme is strong, but the congregation needs to hear that God keeps His remnant *through* the intercession of Christ (cf. Romans 8:34; Hebrews 7:25), not merely through divine sovereignty abstractly conceived. One sentence would anchor it: "God keeps His people — and the reason He can keep them is that Christ stands before the Father and pleads for them. The remnant is safe because the Mediator does not fail."
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.**
+
+Exposition scores 21/25; Conscience & Applicatory Force scores 11/15. The 11 is above the 9-point threshold. The sermon has pastoral warmth, not just doctrinal accuracy. The gospel is the melody, not background music. No dead orthodoxy flag warranted — though the hardening section edges toward the informational.
+
+### 16. Weight of Glory Statement
+**+3/5**
+
+The sermon carries genuine eternal gravity in its best moments — the fore-love of God, the grandmother who did not know she was being kept, and the "grace is not a ladder we climb; it’s a lifeline God throws" line all carry unction. The sermon does not yet rise to the level where a man would weep or tremble, but it is the work of someone who has been with the text and brings something real from it. Add one more moment where the weight of divine sovereignty in preservation (and in hardening) lands with full force, and this bonus rises.
+
+### 17. Rubric Fit Note
+Romans 11:1–10 is didactic epistolary argument — a category this rubric serves well. The passage’s blend of OT citation, theological declaration, and pastoral implication maps cleanly onto the exposition/conscience/gospel categories. No genre strain detected. The one place the rubric slightly overpresses is the "specificity" subcategory under Conscience — a doctrinal passage like this naturally lends itself to principled rather than situational application, and the sermon’s register is appropriate to the text’s own register. The score in that subcategory reflects a real weakness, but the rubric’s demand should be calibrated: the goal is doctrinal truth pressed into concrete life, not anecdotal relevance.
