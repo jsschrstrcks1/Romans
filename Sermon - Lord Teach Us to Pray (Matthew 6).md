@@ -351,3 +351,212 @@ Come.
 - **ESV-only standard maintained throughout.** ✓
 - **No unattributed claims made as Scripture.** ✓
 - **Doxology textual issue handled honestly.** ✓ — The absence from primary manuscripts noted; biblical content documented in 1 Chronicles 29.
+
+---
+
+---
+
+# Thus Says the Lord — Sermon Evaluation
+
+**File**: Sermon - Lord Teach Us to Pray (Matthew 6).md
+**Text**: Matthew 6:9–13
+**Evaluator**: Thus Says the Lord Rubric
+**Date**: 2026-03-22
+
+---
+
+## 1. Verdict Title
+
+**A Doctrinally Sound, Well-Structured School of Prayer — Outstanding in Exposition, Lighter in Sermonic Fire**
+
+---
+
+## 2. One-Sentence Summary
+
+A faithful and systematically thorough opening of the model prayer that magnified God-centered praying and pressed hearers toward submission and confession, while leaning more toward instructional completeness than the burning urgency that would make each petition land like a summons.
+
+---
+
+## 3. Berean Gate
+
+**PASS**
+
+**Scopus Test**: "The Lord's Prayer is not a script to recite but a school to inhabit — a God-centered, self-surrendering orientation toward prayer in which each petition aligns the believer's will with God's name, kingdom, purpose, provision, pardon, and protection." Demonstrably arises from Matthew 6:9–13 and its Lukan parallel.
+
+**Authority Test**: The preacher submits to the text's uncomfortable claims — including the forgiveness condition of Matthew 6:14–15, which is not softened or spiritualized but confronted directly. The preacher stands under the Word.
+
+---
+
+## 4. Fatal Flaw Flags
+
+**None triggered.**
+
+- Gospel presentation: Present — judicial forgiveness, adoption through faith in Christ, mediatorial access, John 1:12 in conclusion.
+- Main point equals text: Yes.
+- Christ unnecessary: No — Christ as Mediator is explicitly developed.
+- Application generic: Mostly specific, especially the unforgiveness section.
+- No exhortation: Present, though lighter than ideal.
+- Inaccessible: Highly accessible despite doctrinal density.
+
+**Score is not capped.**
+
+---
+
+## 5. Score Breakdown
+
+### 1. Exposition & Hermeneutics — 23/25
+
+- **Textual Fidelity (9/10)**: The sermon works through each petition systematically and derives its argument directly from the text. The doxology's textual history is handled with admirable honesty — not in the primary text but documented in 1 Chronicles 29. Slight deduction: the structural framework is taken largely from MacArthur's eight-facet outline rather than demonstrated as the preacher's own independent discovery; the preacher moves through the analysis rather than excavating it live.
+- **Contextual Awareness (5/5)**: Luke 11:1–4 context (disciples watching Jesus pray), John 13 foot-washing for the forgiveness distinction, Psalm 51 for the parental/judicial distinction, Matthew 18 servant for the unforgiveness section. Well-supplied.
+- **Exegetical Clarity (5/5)**: *houtōs oun* ("along these lines") explained. *Abba* defined in its cultural and theological weight. *Ponēros* footnoted. The judicial vs. parental forgiveness distinction is the finest exegetical contribution of the sermon — clear, grounded, pastorally essential.
+- **Logical Faithfulness (4/5)**: No eisegesis. Minor deduction: the Matthew 18 servant parable application is slightly stretched — the parable is about church discipline context in the original setting, not simply individual forgiveness. The application is directionally sound but homiletically bolder than the exegetical basis.
+
+**FCF**: Prayerlessness rooted in self-centeredness — "Most of us begin with us. We invoke God as a resource rather than approaching Him as a Person." The FCF is named in the introduction, developed through each petition as a contrast, and addressed directly in the conclusion. Well-executed.
+
+### 2. Theology & Doctrinal Integrity — 17/18
+
+- **Christ-Centeredness (6.5/7)**: The mediatorial role of Christ is the theological highlight — Ephesians 2:18, Hebrews 4:14–16, Hebrews 10:19–20 all supply the ground of access. "This is not a technique. This is a blood-bought privilege." Score is near full; slight deduction because the cross is more explicit in one sentence than developed throughout.
+- **Redemptive-Historical Awareness (2.5/3)**: The move from Old Testament prayer (God as national concept, distant) to New Covenant access through Christ's mediation is implicitly present. The 1 Chronicles 29 connection for the doxology is a good canonical moment. Could have developed the covenant-of-adoption theme more fully.
+- **Doctrinal Precision (4/4)**: Judicial vs. parental forgiveness is precise and pastorally important — correctly distinguishing positional from relational standing without confusing them. Full marks.
+- **Confessional Alignment — 1689 Pulse (4/4)**: Adoption, justification, Christ's mediatorial priesthood, prayer through the Son — all present, precise, and Reformed in register. The rebuke of theological liberalism's "universal fatherhood" is clear and important.
+
+### 3. Gospel Centrality & Force — 14/15
+
+- **Clarity of the Gospel (5/5)**: "The adoption is through Jesus Christ — who died to pay the judicial debt that stood against us, rose from the dead to secure our inheritance, and is even now interceding for His people at the right hand of the Father." The gospel is articulated plainly in the conclusion, supported throughout by the mediatorial theology.
+- **Necessity of Christ (5/5)**: Christ as Mediator is structurally essential to the sermon's argument — without Him, there is no "Our Father," no access, no blood-bought privilege. Christ is not decorative.
+- **Cross-Centered Gravity (4/5)**: The cross is present but functions more as supporting theology than gravitational center. The sermon moves toward prayer practice more than toward the cross. For a sermon on prayer rather than on the atonement, this is appropriate — but the cross could have been more explicitly the ground of the whole prayer, not merely the ground of access in section I.
+
+**Law/Gospel Dialectic**: The law functions throughout — the drive-through window rebuke, "you've been reciting it without performing it," the unforgiveness confrontation. Gospel relief comes in the adoption section and the conclusion. Properly ordered.
+
+### 4. Conscience & Applicatory Force — 13/15
+
+- **Heart Penetration (5/5)**: The unforgiveness section is particularly sharp: "Some of you are carrying someone right now. There is a name in your mind." The "name the thing you are holding back from God right now" is direct and uncomfortable. These moments land.
+- **Specificity (4/5)**: "The job you will not release. The relationship you are white-knuckling." The man three weeks from losing his house who prayed for daily bread — real and specific. Slightly less differentiated than the best examples in the corpus; the specificity is present but not consistently sustained across all eight sections.
+- **Spiritual Differentiation (4/5)**: Addresses the self-centered pray-er, the anxious, the unforgiving, the spiritually arrogant, the person white-knuckling outcomes, and the unconverted who cannot yet say "Our Father." The Perkins taxonomy is partially served; the backslider, the ignorant-but-teachable, and the humbled-but-not-yet-believing receive less attention.
+
+### 5. Exhortation & Response — 7/8
+
+- **Call to Response (3.5/4)**: The conclusion differentiates and calls: anxiety loosens, bitterness releases, sobriety about danger grows. The "Come" at the end is pointed. The exhortation at the close of each section could have been sharpened — several sections explain and apply but stop short of the imperative edge.
+- **Equipping for Holiness & Witness (3.5/4)**: The kingdom-come section's challenge to pray for the lost by name is the strongest witness-equipping moment. The prayer practices embedded in each section equip believers for a richer ongoing prayer life.
+
+### 6. Structure & Logical Flow — 9/9
+
+- **Clarity of Outline (4/4)**: Eight sections following the eight petitions. Immediately traceable — anyone who knows the Lord's Prayer already has the map.
+- **Progression (3/3)**: "We began as children — 'Our Father.' We end as worshippers." The arc from intimacy to eternity is made explicit. Each section earns its place.
+- **Unity (2/2)**: One dominant idea: prayer is a God-centered school that reorients the believer from self to God. Nothing competes with it.
+
+### 7. Illustration & Imagination — 5/5
+
+- **Relevance (2/2)**: The man three weeks from losing his house who had to learn daily dependence — real, specific, congregation-native. The drive-through window metaphor. Both are from the congregation's world.
+- **Clarity (2/2)**: The John 13 foot-washing to illustrate judicial vs. parental forgiveness is superb — the cleanness of Peter, the dirtiness of feet, the distinction between bath and washing. It illuminates without competing.
+- **Memorability (1/1)**: The Puritan prayer — "I need to repent of my repentance. I need my tears to be washed" — is the kind of line that follows a person home. Full marks.
+
+### 8. Sermonic Force — 4/5
+
+- **Reads as Preaching (2/2)**: "Two words. Two words changed the landscape of prayer." "Three words. And every one of them is a declaration of holy discontent." The punchy section openings signal oral intent. Direct address is consistent.
+- **Conviction on the Page (1.5/2)**: Scripture-assertion density is high and the MacArthur quotations are integrated rather than substituted. But in several sections the sermon surveys comprehensively where it could burn specifically — the instructional completeness sometimes feels more like a Bible study than a summons. The ratio of information to fire tilts instructional.
+- **Cadence and Breath (0.5/1)**: Present in isolated moments ("Thy will be done. Not mine. Yours.") but less consistently sustained than the strongest sermons in the corpus. Sentence length variation is less pronounced; the prose can run long at key moments when compression would serve better.
+
+---
+
+## 6. Cognitive Load Modifier — 0
+
+Eight sections is substantial, but the structure is the Lord's Prayer itself — every hearer already carries the skeleton. A single mother, a high schooler, and a new believer can follow the eight petitions without being overwhelmed. The doctrinal density (judicial vs. parental forgiveness, Greek word studies) is introduced gradually and explained accessibly.
+
+---
+
+## 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 23/25 |
+| Theology & Doctrinal Integrity | 17/18 |
+| Gospel Centrality & Force | 14/15 |
+| Conscience & Applicatory Force | 13/15 |
+| Exhortation & Response | 7/8 |
+| Structure & Logical Flow | 9/9 |
+| Illustration & Imagination | 5/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **92/100** |
+| Weight of Glory Bonus | +4 |
+| Cognitive Load Modifier | 0 |
+| **TOTAL** | **96/105** |
+
+**Interpretation**: Strong and faithful. Minor sharpening needed. Ready for the pulpit with targeted revisions.
+
+---
+
+## 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Christ — especially the Mediator development in section I. The sermon consistently redirects from self to God.
+2. **Did I encounter God, or just ideas about Him?** Mostly ideas, with genuine encounter in the unforgiveness section and the Puritan prayer. The instructional register slightly edges out the experiential.
+3. **Was I comforted, convicted, or merely informed?** Convicted (unforgiveness, white-knuckling) and informed (prayer framework). The comfort is present in the conclusion but arrives late and briefly.
+
+---
+
+## 9. Strengths (Top 3)
+
+1. **The judicial vs. parental forgiveness distinction (Section VI)**: The John 13 foot-washing illustration, the Psalm 51 application, and the MacArthur framework together produce the clearest and most pastorally useful explanation of this distinction in the corpus. "Not: *restore my salvation.* Restore the *joy* of it." This is precisely what many Christians need to hear and rarely do.
+
+2. **The Mediatorial ground of prayer (Section I)**: The addition of Ephesians 2:18, Hebrews 4:14–16, and Hebrews 10:19–20 to establish Christ as the ground of all access is theologically essential and frequently skipped in prayer sermons. "This is not a technique. This is a blood-bought privilege." This is the sentence that makes the whole sermon Reformed rather than merely practical.
+
+3. **The unforgiveness confrontation (Section VI, second half)**: "Some of you are carrying someone right now. There is a name in your mind... unforgiveness is a prison you build for someone else and lock yourself inside." This is direct, pastoral, and theologically grounded. It does not offer easy resolution — it offers the same key Jesus used.
+
+---
+
+## 10. Critical Weaknesses (Top 3)
+
+1. **The sermonic fire is inconsistent**: Several sections (especially III and IV on kingdom and will) read more like a thorough Bible study than a sermon in motion. The truth is accurate and well-organized, but the burning urgency that should press each petition onto the conscience arrives only occasionally. The survey is complete; the flame is intermittent.
+
+2. **The exhortation is conclusion-heavy**: Each section applies the petition but rarely ends with a clear imperative moment. The application tells the hearer where truth touches life; the exhortation tells them what they must now do. Several sections stop at application without crossing into summons. Only the unforgiveness section ("Let me say it simply...") earns its exhortation within the section.
+
+3. **The MacArthur dependency is visible**: The structural framework, many of the key exegetical observations, and multiple illustrations all trace to MacArthur's 1979–1980 series on Matthew 6. The preacher is transparent about this (verification notes list every source). But a hearer who knows MacArthur would recognize much of the architecture. The preacher's own voice is present and real, but the scaffolding belongs to someone else. This is not a failure of integrity — the citations are honest — but it means the sermon's expository distinctiveness is limited.
+
+---
+
+## 11. Blind Spots
+
+The preacher may not see how heavily the section on "Your Kingdom Come" depends on eschatological categories that many in the congregation may not have thought through. The call to pray for the lost "by name" is excellent — but it lands in the middle of an argument about "holy discontent with the fallen order" that some hearers may find abstract. The bridge from eschatology to evangelism is crossed quickly.
+
+---
+
+## 12. Illusion of Strength
+
+The comprehensiveness of the sermon creates the illusion that all eight petitions have received equal weight. They have not. "Hallowed be Your Name" (Section II) and "Your Will Be Done" (Section IV) are genuinely developed. "Give us daily bread" (Section V) and "Lead us not into temptation" (Section VII) feel comparatively thin — the former relies heavily on the Mueller quote, the latter on the Peter denial illustration. The structural completeness masks uneven depth.
+
+---
+
+## 13. Missed Opportunity
+
+The prayer ends with "forever. Amen" — and the sermon notes this arc from "Our Father" to "forever." But what does it mean for prayer itself to be eternally significant? The Puritans understood prayer as the practice of eternity — the activity of heaven begun on earth, the language of the new creation already spoken in this age. The doxology's "forever" is not merely temporal extension; it is participation in the life that belongs to the age to come. This dimension is touched but not inhabited.
+
+---
+
+## 14. Surgical Fixes
+
+1. **Close each section with one imperative sentence**: After the application in each section, add a single imperative: "Hallow His name before you bring Him anything else — today." "Name one person to pray for by name before you finish this morning." This gives each section an exhortational edge rather than leaving all summons for the conclusion.
+
+2. **Compress "Your Kingdom Come" (Section III)**: The Wells quote and the David Wells argument take the section into theological abstraction. Cut one paragraph and replace with direct congregational address on specific intercessory prayer — the section calls for it but arrives there only in the final paragraph.
+
+3. **Add one sentence to the daily bread section on contentment**: "Give us *this day* our *daily* bread — not our five-year plan. This petition is not only about provision; it is about the posture that says what God gives today is enough." This grounds the section's application in Philippians 4:11 contentment territory that the sermon currently bypasses.
+
+4. **Sharpen the conclusion's exhortation**: The conclusion's three "some of you would find..." sentences are good but passive — they describe outcomes rather than commanding action. Replace at least one with a direct imperative: "Stop circling it. Lay it down. 'Your will be done' is not a line — it is a surrender. Perform it."
+
+---
+
+## 15. Dead Orthodoxy Flag
+
+**Not triggered.** Exposition (23/25) and Conscience (13/15) are both strong. The unforgiveness section in particular prevents the sermon from being bloodless. The Puritan prayer "I need to repent of my repentance" demonstrates that the doctrine is not detached from the affections.
+
+---
+
+## 16. Weight of Glory Assessment
+
+The sermon carries real weight, especially in the Puritan prayer and the unforgiveness confrontation — but the instructional completeness slightly mutes what could be a more burning encounter. The school is excellent; the fire is intermittent.
+
+---
+
+## 17. Rubric Fit Note
+
+This is a didactic-discourse text, not narrative — Jesus is teaching his disciples a pattern. The rubric's push toward "presupposes a fallen condition" is met (self-centered prayer as the FCF), but the didactic genre means the Fallen Condition is distributed across eight sections rather than concentrated at one point. The rubric works well here, though the Sermonic Force category slightly penalizes the deliberately instructional register that Matthew 6 invites.
+
