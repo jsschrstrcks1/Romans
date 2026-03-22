@@ -130,3 +130,179 @@ or republish without resolving flagged items below.
    overstates the formal legal situation. A more accurate framing: "Christians in Yemen face
    severe persecution and risk of death, particularly in areas controlled by extremist
    groups." The missions urgency is not diminished by precision here.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**"A Genuine Pastoral Heart Preaching Without a Text"**
+
+---
+
+### 2. One-Sentence Summary
+A sermon that carries real warmth, an extraordinary illustration, and a genuine gospel invitation, but which fails the Berean Gate because it does not preach Psalm 100 — it uses Psalm 100 as a launching point for a sermon whose actual text is Philippians 3:4-11, and whose structure is driven by pastoral occasion rather than either passage's argument.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: FAIL**
+
+The sermon cannot pass the Scopus Test. The stated primary text is Psalm 100. The thesis of the sermon — that everything in life should be counted as loss compared to the surpassing worth of knowing Christ, and that suffering connects us to Christ's sufferings — does not arise from Psalm 100's argument. Psalm 100's argument is a summons to corporate, glad worship grounded in the LORD's covenant identity as Creator, Shepherd, and faithful God. The sermon's operative text is Philippians 3:4-11. That passage is read, quoted, and expounded. Psalm 100 is mentioned twice — once in the illustration (the husband quoting it) and once in a brief closing application about "serve the Lord with gladness" — but it is never exegeted, never opened as a passage, never allowed to govern the sermon's argument.
+
+This is not harsh: the sermon is built on Philippians 3, not Psalm 100. That would be fine if the sermon were titled and framed as a Philippians 3 sermon. As it stands, the preacher announced one text and preached another.
+
+**Authority Test: CONDITIONAL PASS**
+Where the preacher does engage Scripture (Philippians 3), he submits to it with sincerity. He does not soften Paul's language. The "count it as loss" exercise is a genuine act of submission to the text's demand. But the preacher never submitted to Psalm 100 — because he never stood under it as a herald.
+
+**Berean Gate Result: FAIL on the Scopus Test.**
+
+Per rubric protocol:
+
+> "This sermon is not text-driven. The main point of the sermon does not arise from the main point of the passage as announced. The operative text (Philippians 3:4-11) is handled with some faithfulness, but it was not announced as the text. Psalm 100, which was announced, is never opened, explained, or allowed to govern the sermon's argument. No score is assigned on this basis alone. The sermon must choose its text — either Psalm 100 or Philippians 3 — and rebuild around whichever text it chooses."
+
+---
+
+### 4. Fatal Flaw Flags
+
+Because the Berean Gate has failed, a full fatal-flaw analysis and numerical score would be misleading. The following flags are noted for the purpose of revision, not formal scoring:
+
+**Flag 2 — Confirmed:** Main point does not equal text's point. The announced text is Psalm 100; the preached text is Philippians 3.
+
+**Flag 4 — Partial:** Application is largely occasion-driven (congregational suffering in recent months) rather than arising from the text's specific claims.
+
+**Flag 6 — Partial concern:** The sermon is accessible, but the Burnham illustration (which contains multiple factual errors documented in the Corrections Log) creates a pastoral credibility problem that, if uncorrected, could undermine the trust of any hearer who knows the story.
+
+---
+
+### 5. Score Breakdown
+
+*A full numerical score is not assigned because the Berean Gate was not passed. The following observations are diagnostic, not scored, and are offered to guide revision.*
+
+**Exposition & Hermeneutics:**
+Psalm 100 is not expounded. Philippians 3:4-11 is summarized and applied with reasonable accuracy, though the sermon does not explain the passage's argument or its context in Paul's life. The "confidence in the flesh" framework is identified but not developed. No exegetical work is done on either passage. The preacher tells the congregation what Paul said; he does not show them how Paul said it or why.
+
+**Theology & Doctrinal Integrity:**
+The core theological claim — that knowing Christ surpasses all earthly goods and that suffering connects believers to Christ's sufferings — is sound and biblically grounded. The gospel invitation is Christocentric. The resurrection is mentioned. Justification by faith is alluded to ("righteousness from God that depends on faith"). No confessional contradictions are present.
+
+**Gospel Centrality & Force:**
+The gospel is genuinely present. The closing is explicitly evangelistic. The invitation is clear: "If your answer is anything other than 'because I have a relationship with Jesus Christ, my Savior,' please come talk to me." This is direct. Christ's atoning work is referenced, though not articulated with full precision. The penal substitution language in the crucifixion section is implicit rather than stated.
+
+**Conscience & Applicatory Force:**
+The "write your list / now write Loss over it" exercise is the sermon's most powerful applicatory moment — concrete, personal, immediately convicting. The congregational specificity (dad's stroke, shoulder surgery, "year of the leg," child in jail) is genuine pastoral care. The sermon searches real hearts in real circumstances. This is the sermon's clearest strength.
+
+**Exhortation & Response:**
+The sermon exhorts clearly. "Serve the Lord with gladness" is repeated as a direct command in specific circumstances. The closing invitation is a genuine call to response. This is among the stronger elements.
+
+**Structure & Logical Flow:**
+The structure is occasion-driven rather than text-driven, but it is followable: illustration → Paul's list exercise → crucifixion connection → gospel invitation. The "It Is Well" transition is weak (and contains a factual error). The sermon has no clear outline that could be traced or reproduced.
+
+**Illustration & Imagination:**
+The Burnham illustration is extraordinary in pastoral power — a husband quoting Psalm 100 to his wife as bullets fly overhead, then dying mid-sentence. This is genuinely memorable and would be among the most powerful sermon illustrations a congregation could hear. It is gravely undermined by the factual errors (anniversary year wrong, captivity length wrong, rescue details imprecise). The errors must be corrected before this illustration can be trusted.
+
+The crucifixion application (connecting each congregant's specific suffering to Christ's suffering) is genuinely inventive and pastorally warm — "He may not have had a broken leg like Dottie, but..." This is personal preaching of a high order.
+
+**Sermonic Force:**
+The manuscript is oral and conversational — almost too conversational. It reads as transcribed speech with minimal editorial revision. There are run-on constructions, incomplete sentences, and grammatical errors that a manuscript revision would need to address. The preacher's voice is genuine and the warmth is real, but the manuscript as written could not be handed to another preacher to deliver.
+
+---
+
+### 6. Cognitive Load Modifier
+
+Not formally applied (no score assigned). Observationally: the sermon is accessible and would be followed by most hearers without difficulty. The one pastoral risk is the Burnham illustration's inaccuracies — a hearer who knows the story would lose confidence in the sermon at that point.
+
+---
+
+### 7. Total Score
+
+**No score assigned. The Berean Gate was not passed.**
+
+---
+
+### 8. Core Override Questions
+
+*Answered observationally, not as scoring elements:*
+
+1. *Does this sermon make me think more of Christ — or myself?*
+The "count it as loss" exercise is anthropologically focused, but it redirects toward Christ as its answer. The closing crucifixion section and gospel invitation make Christ the clear terminus. More of Christ than of self, ultimately — though the journey is congregant-centered.
+
+2. *Did I encounter God, or just ideas about Him?*
+The Burnham illustration, at its best, carries genuine weight — a man quoting Psalm 100 as he dies is a God-encounter dressed in narrative. The crucifixion section, connecting personal suffering to Christ's suffering by name for specific congregants, has encounter-potential. The pastoral heat is real.
+
+3. *Was I comforted, convicted, or merely informed?*
+Convicted (the list exercise) and comforted (the Christ-connection in suffering). The sermon has genuine pastoral effect. The weakness is not coldness but textual disorder.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Burnham illustration**, despite its factual errors, is pastorally extraordinary. A husband quoting Psalm 100 with guns to his back, then dying mid-sentence after the psalm — this is the kind of illustration that could anchor a congregation's memory for years. Once the facts are corrected, this becomes a genuinely powerful opening.
+
+2. **The "write your list / now write Loss" exercise** is the sermon's best applicatory moment. It is concrete, personal, and text-grounded (Philippians 3:7-8). It asks the congregation to do theology with their own lives. This is the kind of specificity the rubric rewards — not "trust God more" but "write your accomplishments and then write Loss over them."
+
+3. **The personalized crucifixion application** — connecting each named congregant's specific suffering to a parallel in Christ's suffering — is inventive and pastorally warm. "He may not have had a broken leg like Dottie, but he had a crown of thorns pressed into his head" is the kind of specific pastoral care that distinguishes a sermon from a lecture.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Psalm 100 is never preached.** It is mentioned twice — once in the illustration and once in a brief application. It is never opened, never exegeted, never allowed to govern the sermon's argument. The congregation was promised a sermon on Psalm 100 and received a sermon on Philippians 3. This is not a minor structural issue — it is the fundamental pastoral failure. The preacher must choose: either preach Psalm 100 (the call to corporate glad worship grounded in covenant) or announce Philippians 3 as the text and preach that.
+
+2. **The Burnham illustration contains multiple factual errors** (anniversary year, captivity length, rescue attribution, "It Is Well" attribution — all documented in the Corrections Log). An illustration of this pastoral power must be airtight. The errors are not trivial: "four years" vs. one year dramatically changes the character of the ordeal. If a hearer knows the story, the sermon loses credibility at the point where it most needs to be trusted.
+
+3. **The sermon's structure is pastoral-occasion driven rather than text-driven.** The organizing principle is "what our congregation has been going through the last few months" — surgeries, sickness, broken bones. This produces warmth and specificity, but it means the text serves the occasion rather than the occasion serving the text. The result is a sermon that comforts but does not fully transform, because transformation requires the text to be opened and inhabited, not just cited.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that he has preached two half-sermons: a Psalm 100 illustration without Psalm 100 exposition, and a Philippians 3 exposition without Philippians 3 introduction. The pastoral warmth and the Burnham illustration create an emotional coherence that masks the structural problem. The congregation likely felt they received a unified sermon — because the emotional thread was consistent. But the textual thread was not.
+
+Additionally, the preacher may not see how the manuscript's roughness (transcribed speech, grammatical irregularities, unfinished constructions) would read to someone encountering the text cold without the preacher's voice and presence to carry it.
+
+---
+
+### 12. Illusion of Strength
+
+The Burnham illustration is so powerful that it creates the impression of a structurally strong sermon. The emotional weight of a man dying mid-psalm after quoting Scripture to his wife carries everything that comes after it. But the illustration is doing the sermon's heavy lifting, not the text. A congregation that leaves remembering "the missionary pilot who quoted Psalm 100 and then was shot" has had an encounter with a story — not necessarily with Psalm 100. The illustration's power is real; its function as a substitute for exposition is the illusion.
+
+---
+
+### 13. Missed Opportunity
+
+Psalm 100 itself contains the sermon's best material — and it was never opened. The psalm's summons to "all the earth" to shout for joy is universal and missionary (directly relevant to the Yemen people group). Its grounding clause — "Know that the LORD is God. It is he who made us, and we are his; we are his people, the sheep of his pasture" — is the theological foundation for serving with gladness in adversity: you serve gladly not because your circumstances are good but because your God is your maker and your shepherd and you belong to Him. This is exactly what the Burnham illustration demonstrates. The psalm and the illustration are perfectly aligned — but the sermon never made that connection explicitly. The text had everything the sermon needed. It was never opened.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Choose your text and announce it.** If preaching Psalm 100: open the psalm verse by verse. If preaching Philippians 3: announce that as the text. The Burnham illustration works equally well as an introduction to either.
+
+2. **Correct all factual errors in the Burnham illustration before preaching it again.** 18th anniversary (not 20th). Approximately one year (not four years). Philippine military rescue (not U.S. government retrieval). These must be right before this illustration can be trusted.
+
+3. **If preaching Psalm 100:** The sermon's organizing logic should be the psalm's own argument — *why* we shout for joy and serve with gladness: because the LORD is our God, our Maker, our Shepherd, and His love endures forever. The Burnham illustration demonstrates what it looks like to hold that truth in the face of death. The Philippians 3 passage can serve as a supporting text that reinforces the psalm's theology of joy-amid-loss.
+
+4. **If preaching Philippians 3:** Spend one paragraph on the context of Philippians 3 — Paul writing from prison, the joy motif of the whole letter, the "dogs" warning in v.2 that sets up the "confidence in the flesh" contrast. The "write your list" exercise can remain. The Burnham illustration can remain. But the sermon needs the Philippians 3 context to give Paul's words their full weight.
+
+5. **Clarify penal substitution in the crucifixion section.** The suffering-connection passage is warm and personal, but it stops short of articulating *why* Christ's suffering was unique: He was not merely a fellow sufferer — He bore the wrath of God for sin. Without that distinction, the crucifixion section risks reading as solidarity rather than substitution. One additional sentence would resolve this.
+
+6. **Edit the manuscript for oral delivery.** The transcript has run-on constructions and grammatical irregularities that would need cleanup for a manuscript that could be handed to another preacher. This is not a theological concern — it is a craft concern.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is warm, occasion-driven, and genuinely pastoral. Its failure is structural and textual, not a matter of cold doctrine. The preacher has pastoral fire. What he needs is textual discipline.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The Burnham illustration carries genuine eternal weight — a man dying with Psalm 100 on his lips is a scene from the communion of saints — but the sermon as a whole does not sustain that weight through to its end; the "It Is Well" transition and the gospel invitation, though sincere, do not rise to the gravity of the illustration that opened the sermon. **Potential for +4; as preached, +1.**
+
+---
+
+### 17. Rubric Fit Note
+
+Psalm 100 is a praise psalm — a brief, liturgical call to worship. The rubric's categories (exposition, conscience, exhortation) apply to it, but praise psalms stress the rubric's structure differently than didactic or narrative texts. A faithful sermon on Psalm 100 would need to reckon with the psalm's corporate and doxological character: this is not primarily a sermon about individual contentment or personal resilience, but a summons to the entire assembly of God's people to bring their worship before Him together. The rubric's "Conscience & Applicatory Force" category would need to be applied with that corporate register in mind — the question is not only "what does this demand of me individually?" but "what does this demand of us as a worshipping congregation?" The rubric can handle this, but the preacher (and the evaluator) must be alert to the genre's communal thrust.

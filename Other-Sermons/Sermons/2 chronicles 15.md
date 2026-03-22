@@ -41,9 +41,180 @@ Jude 24 says speaking of God “"To Him who is able to keep you from falling and
 	a. Lost person, at enmity with God. Some people fall into this category. If you have never come to a point in your spiritual life where you’ve asked Jesus to pay the price for your sins, the time is now. Today is the day. The bible says Seek God, and he will allow you to find him. You might say it this way: Seek God, and he will find you. I can’t tell you how many times I’ve heard stories of people who were lost in sin. Seperated from God, and they prayed God if you’re real… God hears those prayers, he frequently responds to those prayers. Test him in this. Seek him, and you will find him. 
 	b. Believer whose backslidden – some people fall into a second category. Some people have prayed that prayer to follow Christ, and then returned scripture says like a dog to vomit. Some of you in this room know exactly what I mean, you’ve lived it. God freed you from something, and yet you run right back to it. Its like my dog. I gave her a bath the other day. She had started to smell like some kind of weird blend of gym socks and doritos. So I bathed her, and she smelled a lot better. But as soon as I let her out in the yard she promptly found a mud hole, and rolled in it. Then she found something dead, and rolled in that too. Within an hour she stank more than she had before the bath. But I took my pup back in and cleaned her up again, and so will God with you. Maybe you’ve been away for a time, maybe you’ve been rolling in the filth of the world, but Gods right there waiting to take you back. Some people argue that if you’re truly a follower of God, truly a believer he will keep you from wandering too far. So if someone starts backsliding too far, its possible they aren’t saved. I’m ok with that line of thinking as long as they keep it at possible. We can’t see the deep recesses of peoples hearts. We can’t know the thoughts of someones head. But we don’t have to. God can and does, and he KNOWS you. In any event, salvation in the new testament begins with the gospel.
 
-Announcements: 
-People interested in painting the church, to pick out some colors, and present them to the church. 
+Announcements:
+People interested in painting the church, to pick out some colors, and present them to the church.
 Sign
 Awana
 Food Pantry
 Website
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Pastoral Warmth Without Textual Grounding: A Topical Excursion That Misses the Chronicle**
+
+---
+
+### 2. One-Sentence Summary
+A warmly pastoral sermon on OT/NT salvation structures and the perseverance of the saints that borrows 2 Chronicles 15 as a launching pad but never actually exposits the chapter, leaving the congregation with good theology delivered from the wrong address.
+
+---
+
+### 3. Berean Gate Result
+**FAIL — Scopus Test**
+
+The stated passage is 2 Chronicles 15, but the sermon's main point — that New Testament believers are eternally secure in Christ's hand in contrast to OT conditional covenant obligations — does not arise from the main point of 2 Chronicles 15. The chapter's own argument centers on Azariah's prophetic exhortation to Asa, the nature of true reform, and the covenant-renewal assembly. None of these themes are developed. The text is mentioned by name, then abandoned. The sermon's thesis is constructed from Romans 4, John 10, and Jude 24 — passages that are useful in themselves but not the assigned text.
+
+The sermon also engages 2 Chronicles 15 only by paraphrase of a single verse ("if you seek God you will find him, but if you forsake him, he will forsake you") without treating the verse in context or explaining what it contributes to the argument. The Authority Test additionally raises concerns: the passage's serious covenantal warnings are used as a foil to be overcome rather than heard.
+
+> "This sermon is not text-driven. The main point of the sermon does not arise from the main point of the passage. The sermon must be rebuilt from the text, not decorated with it."
+
+Because the Berean Gate is failed, a full score is not assigned. The evaluation proceeds diagnostically for the preacher's benefit, but **no total score is assigned**.
+
+---
+
+### 4. Fatal Flaw Flags
+*Score cap at 69 applies (though no total score is issued given Berean Gate failure).*
+
+- **Flag 2 — Main point does not equal text's point.** The sermon does not exposit 2 Chronicles 15. It uses a single verse from the chapter as a platform for a topical survey of OT/NT salvation models. The chapter's actual argument (Azariah's prophecy, Asa's reform, the covenant assembly, the expulsion of the abominable idols, the test of seeking God applied to a king in a specific historical moment) receives no treatment.
+- **Flag 4 — Application is largely generic.** The two categories of hearers addressed (lost person, backslider) are appropriate but painted in broad strokes. The application does not arise from the text's specific situation. No one in the congregation is addressed as a king who has heard a prophet's word and must now decide whether to act; no one is challenged with the costly nature of genuine reform; the assembly/covenant dimension of the text is invisible.
+- **Flag 5 — Exhortation is incomplete.** The sermon gestures toward response ("the time is now, today is the day") but does not clearly differentiate what a lost person must do from what a backslidden believer must do. The call is gentle to the point of being unclear about repentance.
+
+---
+
+### 5. Score Breakdown (Diagnostic Only — No Total Assigned)
+
+**1. Exposition & Hermeneutics — 8/25**
+- Textual Fidelity: 2/10. The text is named and one verse is paraphrased. No structural engagement with the chapter's argument, no treatment of Azariah's oracle, no handling of Asa's response, no exploration of vv. 1–7's prophetic framework or vv. 8–15's reformation account.
+- Contextual Awareness: 2/5. The sermon acknowledges OT/NT distinction in broad terms but does not locate 2 Chronicles 15 within the Chronicler's purpose or the Davidic covenant context.
+- Exegetical Clarity: 2/5. Greek/Hebrew tools are entirely absent. The one verse cited from the chapter is paraphrased without comment.
+- Logical Faithfulness: 2/5. The sermon imposes a predestination/perseverance framework on the passage rather than drawing it from the text. The eisegesis is unintentional but present.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+- Christ-Centeredness: 5/7. Christ's substitutionary death is sincerely stated. The sacrificial system pointing to Christ is handled with pastoral affection if not exegetical rigor.
+- Redemptive-Historical Awareness: 2/3. There is a real attempt at redemptive-historical framing (OT shadows pointing to NT fulfillment). The execution is imprecise but the instinct is correct.
+- Doctrinal Precision: 2/4. Perseverance of the saints is affirmed. The claim that there were "two models of OT salvation" — one sacrificial and one faith-based — is theologically imprecise. There is one way of salvation across both Testaments (grace through faith in the promised Redeemer). The sacrificial system is a means of atonement-covering and a typological sign, not a separate salvation mechanism. This distinction matters and the sermon blurs it.
+- Confessional Alignment: 2/4. The sermon affirms eternal security. However, the presentation of OT believers as saved by a qualitatively different mechanism introduces a problematic discontinuity. The 1689 (ch. 7) treats the one covenant of grace administered differently across the Testaments — this sermon does not reflect that framework, even implicitly.
+
+**3. Gospel Centrality & Force — 8/15**
+- Clarity of the Gospel: 3/5. The substitutionary death of Christ is affirmed sincerely. But the gospel is stated in passing rather than proclaimed with weight. There is no clear articulation of what a person must do (repent and believe) vs. what they must know (Christ died for sinners).
+- Necessity of Christ: 3/5. Christ is genuinely necessary to the sermon's argument. This is not moralism. The cross is mentioned with warmth.
+- Cross-Centered Gravity: 2/5. The sermon moves toward Christ, but it does so primarily to establish eternal security rather than to proclaim the wonder of the atonement. The cross functions as a proof point for perseverance more than as the center of gravity.
+
+**4. Conscience & Applicatory Force — 6/15**
+- Heart Penetration: 2/5. The nephew illustration is affectionate but does not search the conscience. The dog illustration is humorous and memorable but functions more as reassurance than confrontation.
+- Specificity: 2/5. Application remains categorical (lost/backslider) without pressing into specific sins, specific forms of backsliding, or the particular struggles of this congregation.
+- Spiritual Differentiation: 2/5. Two of Perkins' categories are addressed (lost, backslider). The knowledgeable-but-unhumbled, the humbled-but-not-yet-believing, and the mature believer who needs deepening are entirely absent.
+
+**5. Exhortation & Response — 4/8**
+- Call to Response: 2/4. There is a call to seek God and a reassurance to the backslider. But "today is the day" without naming what repentance or faith looks like concretely is a soft exhortation.
+- Equipping for Holiness & Witness: 2/4. The sermon ends before fully equipping. The corporate/covenantal dimension (which is the heart of 2 Chronicles 15's actual reform scene) is absent.
+
+**6. Structure & Logical Flow — 5/9**
+- Clarity of Outline: 2/4. Three headings are present (OT Salvation, NT Model, Somethings Remain the Same) but the outline does not arise from the text's structure — it arises from a pre-existing theological framework being applied to the passage.
+- Progression: 2/3. The sermon moves logically from OT to NT, but it never builds toward a climax. It ends with announcements, which undercuts whatever sermonic force was present.
+- Unity: 1/2. The sermon pursues two distinct goals simultaneously — a theology of OT vs. NT salvation, and a case for perseverance — without fully unifying them.
+
+**7. Illustration & Imagination — 3/5**
+- Relevance: 1/2. The nephew illustration and the dog illustration are drawn from real life and will land. The used-car/house illustration is serviceable.
+- Clarity: 1/2. The nephew illustration is used to illustrate mankind needing detailed laws, but the connection is loose — a child arguing over whose toy it is does not naturally illustrate why God gave 613 laws.
+- Memorability: 1/1. The arm-grasping illustration (OT: you hold on; NT: Christ holds on) is the sermon's most effective moment — vivid, embodied, and theologically loaded.
+
+**8. Sermonic Force — 3/5**
+- Reads as Preaching: 2/2. This reads like oral preaching. The cadence is conversational, direct address is present, and the manuscript feels like a man talking to people he knows.
+- Conviction on the Page: 1/2. The conviction is warm but gentle. There are few moments where the text presses hard. The manuscript does not thunder.
+- Cadence and Breath: 0/1. Sentence variation is limited. The sermon does not compress toward a climax. It trails off into announcements.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+The sermon is accessible in tone and vocabulary. Ordinary hearers can follow it. The theological survey (613 laws, OT/NT models, perseverance) introduces some complexity, but the pastoral illustrations keep it grounded. The primary danger is not density but shallowness — the congregation may follow easily while gaining less than they should.
+
+---
+
+### 7. Total Score
+**Not assigned — Berean Gate failure.** The sermon does not exposit its stated text. A diagnostic score based on the above breakdown would place it approximately in the 48–55 range, indicating fundamental structural problems requiring a rebuild from the text.
+
+---
+
+### 8. Core Override Questions
+1. **Does this sermon make me think more of Christ — or myself?** Partially of Christ. The perseverance argument and the arm illustration genuinely point to Christ's keeping power. But the OT/NT comparison keeps the congregation thinking about salvation categories more than the person of Christ.
+2. **Did I encounter God, or just ideas about Him?** Largely ideas. The sermon conveys correct information about God's character and saving work but does not press the listener into God's presence through the text.
+3. **Was I comforted, convicted, or merely informed?** Primarily informed and mildly comforted (re: perseverance). The conscience is not substantially searched. No one is convicted.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The arm-grasping illustration (Section 2)** is the sermon's strongest moment. It is embodied, participatory, memorable, and theologically precise — Christ holds on even when we let go. This lands in a way abstract doctrine rarely does.
+
+2. **Genuine warmth for the backslider (Section 3b).** The dog-bath illustration is affectionate and real, and the declaration "God's right there waiting to take you back" has pastoral weight. The preacher clearly loves wandering sheep and this comes through.
+
+3. **The sacrificial system's emotional weight is named well.** The claim that witnessing animal sacrifice "was supposed to make us sick to our stomach" — that the death of the innocent was designed to be repulsive as a picture of sin's cost — is excellent. This instinct is exegetically sound and emotionally arresting.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The text (2 Chronicles 15) is never preached.** The chapter contains one of the OT's most vivid covenant-renewal scenes: a prophet interrupts a king after victory, warns him about God's conditional favor, and the king responds with sweeping national reform — tearing down altars, gathering the whole nation, making a solemn covenant, deposing his own grandmother from her position. None of this appears in the sermon. The passage was read (presumably) but never opened.
+
+2. **The "two models of OT salvation" framework is theologically imprecise and potentially misleading.** Presenting the sacrificial system and faith-righteousness (Abraham) as two parallel salvation mechanisms risks implying that most OT people were saved by sacrifice and only rare individuals were saved by faith. The biblical framework is one covenant of grace, one way of salvation, with the sacrificial system functioning as the ordained means of maintaining covenant standing and as typological anticipation of Christ. This distinction is not pedantic — it shapes how the congregation understands the unity of Scripture and the nature of faith.
+
+3. **The sermon has no exegetical floor.** Every theological point made — perseverance, OT sacrifice, faith-righteousness — is true, but none of it is derived from 2 Chronicles 15. The congregation heard a Bible study drawn from Romans 4, John 10, and Jude 24, framed by a question raised by 2 Chronicles 15:2 ("if you forsake him, he will forsake you"). That is preaching about a text, not preaching the text.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears unaware that 2 Chronicles 15 is itself a rich gospel-adjacent passage — it does not require a NT bait-and-switch to be profitable. Azariah's oracle in vv. 1–7 is a remarkable statement about God's availability to those who seek him, delivered to a king standing at a crossroads. The national reform that follows is a pattern of corporate repentance and covenant renewal that has direct application to a local church. The preacher bypassed a passage that would have done much of the sermonic work for him, had he opened it.
+
+There is also a blind spot regarding the opening: dismissing the text as something "sometimes twisted to show salvation can be lost" before reading it frames the congregation to ignore the passage's genuine warnings. The preacher pre-empts the text's own tension rather than letting it do its convicting work.
+
+---
+
+### 12. Illusion of Strength
+
+The arm-grasping illustration and the perseverance argument feel strong — and in isolation, they are. But they create an illusion that the sermon has engaged its text. The congregation likely left feeling that 2 Chronicles 15 taught eternal security. It does not. The sermon's most theologically confident section is the one most disconnected from the stated passage. The preacher's evident comfort with perseverance doctrine masked the fact that the text was never actually opened.
+
+---
+
+### 13. Missed Opportunity
+
+2 Chronicles 15:1–7 is Azariah's speech — a prophet speaking to a victorious king. The speech itself is structured around a covenant warning: "The Lord is with you while you are with him. If you seek him, he will be found by you, but if you forsake him, he will forsake you." This is not a verse about individual salvation — it is a prophetic word about the nature of covenant faithfulness at the national/communal level. The sermon had the opportunity to:
+
+- Show what genuine revival looks like (Asa tore down the altars, renewed the covenant, removed his own grandmother from power — that is costly reform)
+- Apply the "seeking God" pattern to the local church as a covenant community, not just to individuals
+- Preach the Christological depth of covenant seeking: that our ability to seek God in the NT rests entirely on Christ having sought us first
+
+None of these were developed. The text's own gospel logic was left on the table.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Rebuild from the text.** Read 2 Chronicles 15 carefully before the next iteration. Identify what Azariah says (vv. 1–7), what Asa does in response (vv. 8–15), and what the narrator celebrates (v. 15: "they had sought him with their whole desire"). Make the sermon's main point the passage's main point: *When God's people genuinely seek him, he is found — and genuine seeking produces costly reform.* The perseverance argument can still appear, but as a NT reflection on what this pattern ultimately rests upon (Christ seeking us), not as the sermon's load-bearing wall.
+
+2. **Remove or relocate the eternal security section.** The perseverance of the saints is important doctrine, but it is not the doctrine of this text. If the congregation has questions about 2 Chronicles 15:2's apparent conditionality, address that as an exegetical note in passing — then return to what the text is actually doing. A full sermon on perseverance should be preached from John 10 or Jude 24, not inserted into a 2 Chronicles exposition.
+
+3. **Correct the "two models of OT salvation" framework.** Replace it with the one-covenant-of-grace framework: there is one way of salvation across all ages (grace through faith in the promised Redeemer), with the sacrificial system functioning as the OT's typological administration of that grace. This can be done in two sentences and will prevent a significant theological confusion from taking root.
+
+4. **Press the conscience more specifically.** The backslider section is warm but generic. Name what forsaking God actually looks like in this congregation — what the idols are, what forms of half-hearted religion exist among people who attend church but have let their spiritual life go cold. Asa's act of deposing his grandmother is a model of costly personal reform; use it.
+
+5. **End with exhortation, not announcements.** The sermon trail-ends into church logistics. A strong closing sentence — a direct summons, a doxological statement, a "therefore" — is needed. The congregation should leave with one sentence ringing in their ears, not a painting committee update.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** in the classic sense — this sermon is not coldly accurate. The warmth and genuine pastoral care are evident. However, the inverse diagnosis applies: **pastoral warmth without textual grounding**. The fire is present; the foundation is missing. The preacher loves his people. He must also labor in the text on their behalf.
+
+---
+
+### 16. Weight of Glory Statement
+The sermon carries genuine pastoral warmth and a real affection for Christ's keeping work, but it does not carry the weight of the eternal — it carries the weight of a conversation, and those are different things; the arm illustration glimpses eternal gravity, but the sermon as a whole does not press the congregation into the presence of God.
+
+---
+
+### 17. Rubric Fit Note
+2 Chronicles 15 is a narrative-prophetic text with a covenant-renewal structure. The rubric applies well here: the passage has a clear argument, a clear FCF (the people have been without God, without teaching, without peace — and Azariah names it), and a clear gospel trajectory (genuine seeking leads to genuine finding). The Puritan "uses" framework (conviction, instruction, exhortation, consolation) maps cleanly onto the text's own movement. The rubric does not strain this passage — but it does expose that the sermon never engaged the passage's own structure at all.

@@ -201,3 +201,188 @@ If you have not yet become a believer in Jesus Christ, then I challenge you to a
 - "Book of first speculations" — pastor's own humor, kept as-is
 - Direct pastoral address style and colloquial phrasing preserved throughout
 - Political idolatry section — retained as preached; congregation profile confirms this challenges a real tendency in the room
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated:** 2026-03-22
+**Evaluator:** Thus Says the Lord rubric v1.0
+
+---
+
+### 1. Verdict Title
+
+**Dead Cups and Resurrected Corpses — Vivid Illustration Carrying a Half-Proclaimed Gospel**
+
+---
+
+### 2. One-Sentence Summary
+
+A doctrinally honest multi-text sermon on religious self-deception that produces three genuinely memorable illustrations and one of the better resurrection-not-renovation gospel statements in the corpus, but loses its nerve at the formal invitation and leaves the believer with application while failing to press the unconverted with a completed gospel proclamation.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test:** PASS. The sermon's thesis — you cannot be outwardly religious and inwardly dead; Christ is the only one who makes you clean inside — arises from Romans 2:1-11's own confrontational logic. The whitewashed tomb parallel from Matthew 23 is contextually organic (same writer, same target, same indictment).
+
+**Authority Test:** PASS. The preacher does not stand above the text or soften it. He quotes Matthew 23:33 ("You serpents, you brood of vipers, how are you to escape being sentenced to hell?") and lets it land without apologizing for Jesus. The confrontational register of Romans 2:1-3 is honored.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**One concern noted but not formally triggered.**
+
+The gospel invitation reads: *"[Evangelism Explosion gospel presentation.]"* — a placeholder. However, the gospel is substantially proclaimed in the body of the sermon under "The Difference Is Christ" (Ephesians 2:4-10 quoted in full; resurrection not renovation clearly articulated; grace through faith stated). The formal invitation at the end is incomplete, but the gospel is not absent from the sermon. This is a structural weakness, not a fatal flaw.
+
+*If the EE placeholder were the only gospel content in the sermon, Fatal Flaw #1 would be triggered.*
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 17/25**
+
+Romans 2:1-11 is read in full and governs the sermon's argument. The confrontational "O man" address (v. 1) is the sermon's center of gravity and is well developed through the cup and whitewashed tomb illustrations. Matthew 23's whitewashed tomb is organically connected — not proof-texted but thematically parallel. The Colossians 3 application is honest to the text.
+
+Weakness: Romans 2:6-11 ("He will render to each one according to his works") is quoted but not exegeted. The works/faith tension here — historically the most contested passage in Reformed soteriology — is passed over in silence. A sentence acknowledging that Paul is describing the *character* of those who are saved, not the *grounds* of salvation, is needed. Without it, the listener hears "if you do good works you get eternal life" — and that is not Paul's argument.
+
+The FCF (Fallen Condition Focus): The human tendency toward religious self-deception — judging others while practicing the same sins — is well-named and well-illustrated.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+The resurrection metaphor (Christ doesn't clean the cup — He resurrects the corpse; doesn't spray perfume — He gives a new body) is the sermon's theological high point and is biblically grounded in Ephesians 2. The new nature language (Colossians 3) is applied correctly. The "storing up wrath" image (Romans 2:5) is mentioned but not developed.
+
+Weakness: God's *impartiality* (Romans 2:11 — "God shows no partiality") is the passage's closing declaration and is the climax of Paul's argument that no ethnic or religious privilege shields anyone from judgment. The sermon does not explicitly develop this. The "Jew first and also the Greek" framework in Paul's argument — which gives Romans 2 its place in the larger indictment of all humanity — is not mentioned.
+
+**3. Gospel Centrality & Force — 10/15**
+
+The "Difference Is Christ" section is genuinely strong. Ephesians 2:4-10 quoted in full. The resurrection metaphor drives home that salvation is not renovation but new creation. The contrast between Febreze and resurrection is vivid and theologically precise. The gospel is present.
+
+Weakness: The gospel arrives after considerable law preaching and is somewhat brief relative to the length of the preceding indictment. The EE invitation placeholder means no personal call for response accompanies the gospel proclamation. *Synagogue Test: Partially passed — the resurrection language and the Ephesians 2 grace through faith language would give offense in a synagogue. But the formal gospel proclamation to the unconverted is never completed.*
+
+**4. Conscience & Applicatory Force — 10/15**
+
+The three illustrations (cup, whitewashed tomb, dead cat with perfume) are progressively more visceral and do their conscience work well. "People, if I can see it, God can see it. But if I can't see it, God definitely still can" — this is conscience-pressing, direct, and landed in the congregation's experience. The political idolatry section (Facebook challenge) is specific and honest about a real tendency in the room. The Facebook self-audit ("would it be easier for them to know your politics or your Savior?") is the sermon's most specific applicatory moment.
+
+Weakness: The believer is not addressed with distinctive application. The entire sermon is aimed at the nominal Christian / unconverted moralist. The genuinely converted member of the congregation — who has been made new — is given Colossians 3 to apply but no searching of their specific condition as a *new* creature who may be drifting back toward outward religion. The "backslider" category (Perkins) is not addressed.
+
+**5. Exhortation & Response — 4/8**
+
+The Colossians 3 section ("Set your minds on things above") gives direction to the believer. The political idolatry challenge is a specific exhortation. But the formal gospel invitation is a placeholder — the unconverted is told to "ask yourself this question" with no content given. The sermon *approaches* the exhortation and then steps back from it.
+
+**6. Structure & Logical Flow — 6/9**
+
+The progression is clear: dirty cup (introduction) → clean outside / dead inside (development) → whitewashed tombs (Matthew 23 parallel) → Scripture reading → self-criticism section → perfumed corpse (escalating illustration) → God's judgment (Jonathan Edwards) → idolatry (political) → the Difference Is Christ (gospel) → new life (Colossians 3) → invitation.
+
+The "God's Justice" section (child traffickers, Jonathan Edwards) is a thematic detour that creates a secondary topic (criminal justice + divine wrath) without clearly connecting back to the sermon's main argument. It is interesting material but disrupts the flow between the whitewashed tomb indictment and the gospel resolution.
+
+**7. Illustration & Imagination — 5/5**
+
+Three illustrations; all strong:
+- *The moldy cup* — concrete, sensory, sets the sermon's opening image perfectly
+- *The dead cat with perfume* — escalated, memorable, builds on the cup to show the futility of religious cover-up
+- *The perfumed corpse (dead cat with Febreze + Lysol + Dolce & Gabbana)* — darkly comic and theologically precise; cannot be sprayed away; the stench of death is beyond any human remedy
+
+These are native illustrations. They will be remembered. They serve the text. Full marks.
+
+**8. Sermonic Force — 3/5**
+
+The polished draft reads as preaching, not essay. "You know the ones I mean — those that come to church on Sunday, and on Monday they go back to cursing like sailors." The direct address ("People, if I can see it, God can see it") is the kind of phrase that lands in the room. The rhetorical escalation of the three illustrations shows sermonic instinct. Some filler remains and the transition to the EE placeholder breaks the momentum at the end.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1.** Four texts (Romans 2, Matthew 23, Ephesians 2, Colossians 3) in one sermon is manageable because each serves a distinct function — but the child-trafficking detour and the political idolatry section create five distinct sub-topics within a short manuscript. The congregation can track the main argument, but the detours cost concentration.
+
+---
+
+### 7. Total Score
+
+**17 + 13 + 10 + 10 + 4 + 6 + 5 + 3 = 68 − 1 = 67/100**
+
+**Interpretation: Solid but lacking — needs another pass, primarily to complete the gospel invitation and develop Romans 2:6-11 responsibly.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** *Both — the law section forces self-examination, and the gospel section genuinely turns the gaze toward Christ. The balance is present, though the law section is longer.*
+2. **Did I encounter God, or just ideas about Him?** *The wrath section (Edwards, Matthew 23:33) makes God weighty and fearsome. The Ephesians 2 section makes God merciful and sovereign. God is present.*
+3. **Was I comforted, convicted, or merely informed?** *Convicted — the illustrations press the conscience effectively. Somewhat comforted by the resurrection language. The incomplete invitation means the unconverted is left with conviction but no completed path forward.*
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The resurrection-not-renovation gospel articulation.** "Jesus doesn't help them do better at hiding their mess. He resurrects the corpse. He doesn't spray it with perfume. He gives the dead guy a new body, a new nature." This is doctrinally precise, illustratively vivid, and directly serves the text's argument. It is the sermon's best moment.
+
+2. **The three-illustration progression.** Cup → whitewashed tomb → dead cat with perfume is a rhetorical escalation that builds cumulative conscience weight. Each illustration is native, specific, and more visceral than the last. The congregation will not forget the cat.
+
+3. **The Facebook self-audit.** "Would it be easier for them to know your politics? Or know your Savior?" is specific, non-abstract, and addresses a real idolatry in the room. It is one of the most pointed applicatory questions in the corpus.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Romans 2:6-11 is theologically unexplained.** "He will render to each one according to his works: to those who by patience in well-doing seek for glory... eternal life" — this is quoted without comment. In a sermon on justification-related themes, leaving "eternal life to those who do good" without qualification introduces genuine confusion. Paul's point here is the *character* of those who are saved (they persevere in doing good), not the *ground* of their salvation (which is Christ alone). The sermon owes the congregation an explanation.
+
+2. **The formal gospel invitation is absent.** The EE placeholder is not a sermon. The person who has been convicted by the illustrations and the wrath section needs to be told specifically what to believe, repent of, and trust in — not referred to a framework that isn't in the manuscript. The gospel proclaimed in the body is excellent; the invitation should echo it directly.
+
+3. **The child-trafficking section is a detour.** The "39 kids rescued in Georgia" material is interesting pastorally — the insight that earthly justice is incomplete and divine justice is perfect is worth making. But it breaks the sermon's interrogative pressure at the precise moment the preacher should be pressing toward the gospel. It could be shortened to one paragraph or moved to an earlier section on divine judgment.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears not to see that the sermon's most pressing diagnostic question — "Who in the room is like the cup, clean on the outside but filthy inside?" — is answered throughout the sermon as if the answer is *other people* (the nominal churchgoer, the Sunday-Christian Monday-sinner). But in Romans 2, Paul is writing to *religious insiders who believe they are safe*. The sermon aims outward when Paul's indictment aims inward — at the person who reads this letter and thinks, "Yes, those people deserve judgment." The most searching application would ask: *Are you the man Paul is addressing? Are you the one who judges others and does the same things?*
+
+---
+
+### 12. Illusion of Strength
+
+The political idolatry section feels prophetic and culturally relevant — it is the kind of thing that gets quoted and shared. But within the structure of Romans 2:1-11, political idolatry (Colossians 3:5 mentions *covetousness as idolatry*) is not the text's primary concern. The section is a good pastoral application but it can feel like the sermon's conclusion, drawing the congregation's attention away from the incomplete gospel invitation that should close the sermon.
+
+---
+
+### 13. Missed Opportunity
+
+Romans 2:4 — "Or do you presume on the riches of his kindness and forbearance and patience, *not knowing that God's kindness is meant to lead you to repentance*?" — is quoted but not exposited. This verse is Paul's positive theological statement in the middle of the indictment: God's patience is not permission; it is the form his mercy takes before judgment. This is a significant gospel moment inside the law passage. The preacher could have built the gospel bridge right here rather than waiting until the "Difference Is Christ" section — and could have made the law/gospel dialectic tighter.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Complete the gospel invitation.** Remove the EE placeholder and write: "If you are in this room and you have never stopped pretending — never let Christ scrub the cup from the inside out — here is how you come to him. Repent: agree with God about what you are. Trust: place the full weight of your hope on what Christ did on the cross, not on what you can do on Sunday." Then invite the response.
+
+2. **Add one sentence on Romans 2:6-11.** Something like: "When Paul says God will give eternal life to those who do good — he is describing the character of the person God saves, not the basis on which God saves them. It is Christ alone who makes a person righteous. But the righteous person, made new in Christ, lives differently than the whitewashed tomb."
+
+3. **Shorten the child-trafficking section.** One paragraph maximum. Move it earlier if possible (under "God's Righteous Judgment"). Don't let it interrupt the transition to the gospel.
+
+4. **Add a line to the believers.** The genuinely converted person in the room needs a word: "Some of you *were* that cup. Christ cleaned you out. Are you staying clean? Or are you letting the mold grow back in the corners of your life while the outside looks fine?"
+
+5. **Deploy Romans 2:4 as the law/gospel hinge.** "God's kindness is meant to lead you to repentance." This is Paul's own transition from indictment to gospel-invitation. Use it as such.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+*Not triggered.* The sermon has both heat and light. The illustrations work against cold orthodoxy.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The resurrection-not-renovation passage (Ephesians 2 + the dead cat image) carries real eternal weight — this is what it means to be made new. The sentence "We deserved death, but were given life" earns its place. The incomplete invitation prevents the Weight of Glory from fully landing.
+
+*+1 bonus for the Ephesians 2 resurrection language.*
+
+---
+
+### 17. Rubric Fit Note
+
+The multi-text structure (Romans 2 as primary, Matthew 23 / Ephesians 2 / Colossians 3 as supporting) creates exegetical pressure on the "Exposition" category — it is harder to track one primary text's argument when three others are in play. The rubric handles this by weighting the primary text's main point (Romans 2:1-11) as the Scopus benchmark. The supporting texts all serve the primary text's argument legitimately. No rubric bending required.
+

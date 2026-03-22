@@ -75,3 +75,127 @@ As If the rest of it wasn’t bad enough, the only thing you will be able to hea
 
 Likewise mt 13:49-51 says we will hear weeping and gnashing of teeth. But adds that it will be like being inside of a fiery furnace. 
 If you truly love your lost friends and family, how could you let them go there unwarned? Isn’t it worth risking the relationship, for even a flicker of a hope that they wouldn’t have to spend an eternity there? Everyone apart from God is heading straight to hell. That’s what we deserve. Spurgeon said we are all either missionaries or imposters. In his turn of phrase missionary didn’t mean going overseas. It meant sharing the gospel with the lost in our midst. There are lots of other verses that could be shared… But I think we will look at one more passage today.Isaiah 59:2 speaks to why we are there: But your iniquities have made a separation between you and your God, and your sins have hidden his face from you so that he does not hear.Our sin separates us from God. Gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Passage:** Revelation 20:11–15 (with Mk 9:48; Is 66:24; 2 Peter 2:17; Mt 24:51; Mt 13:49–51; Is 59:2)
+**Evaluator:** Thus Says the Lord Rubric v1.0
+
+---
+
+### 1. Verdict Title
+A Missionary Alarm Bell Without a Gospel Anchor — Hell Preached With Urgency, Christ Absent from the Logic
+
+### 2. One-Sentence Summary
+A passion-driven sermon on the reality of hell and the urgency of global missions that marshals vivid scriptural imagery with genuine pastoral urgency but fails to ground the call in the finished work of Christ, leaving the gospel as a truncated afterthought rather than the power that compels the mission.
+
+### 3. Berean Gate
+**Scopus Test: MARGINAL FAIL — approaching the gate but not truly text-driven**
+The sermon takes Revelation 20:11-15 as its primary text, but the main point of this passage is the final judgment and the sovereignty of the Judge — the opening of the books, the finality of the second death, and the authority of the enthroned Christ over all the dead. The sermon's actual main point is "you should share the gospel because hell is real and people are going there." That is *informed by* the text but is not the text's own argument. The text is more fundamentally about the certainty of divine judgment than about the church's missions mandate. However, the sermon does not contradict the text, and a case can be made that the implications of the passage ground the missions urgency — so this is scored as a marginal gate pass with a flag on drift.
+
+**Authority Test: PASS**
+The preacher does not soften or edit the passage. He handles the imagery of hell with honest fidelity.
+
+**Gate result: PASS (marginal, with noted drift from text's own argument)**
+
+### 4. Fatal Flaw Flags
+**Flag 1 — No clear gospel presentation:** The sermon's gospel is a single appended sentence: "Our sin separates us from God. Gospel." This is not a gospel presentation — it is a label. Christ's death, resurrection, atonement, the way of faith, and the ground of justification are entirely absent. A person in the congregation who did not already know the gospel would not leave knowing how to be saved.
+
+**Flag 5 — No actual exhortation:** The sermon calls hearers to *go* and *share*, but never calls them to believe, repent, or trust. The missions application is repeated with force, but the congregation is never called to the cross. For unbelievers (who are explicitly in view — the sermon addresses people whose eternal destiny is uncertain), there is no summons to repentance and faith.
+
+**SCORE IS CAPPED AT 69.**
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 11/25**
+- *Textual Fidelity (10):* 4/10 — The sermon is a topical sprint through six passages on hell, using them as proof texts for a pre-determined point rather than unfolding any one text. Rev 20:11-15 is read but not opened; the significance of the great white throne, the Book of Life, the "sea giving up its dead" — none of these are explored.
+- *Contextual Awareness (5):* 2/5 — No engagement with Revelation's apocalyptic context, the structure of the book, or the placement of Rev 20 in the eschatological sequence.
+- *Exegetical Clarity (5):* 3/5 — The handling of "worm" (Mk 9:48 / Is 66:24), "salt," "brimstone," and "utter darkness" is done with reasonable care and intellectual curiosity. This is the sermon's exegetical high point.
+- *Logical Faithfulness (5):* 2/5 — The sermon is topical rather than expository. The texts are gathered to support a conclusion already reached, not to discover a meaning.
+- **FCF:** Not named. The fallen condition being addressed — human indifference to eternal realities and the lostness of the unreached — is the preacher's pastoral burden, but it is not grounded in what the text itself says about the fallen human condition before the Judge.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 9/18**
+- *Christ-Centeredness (7):* 2/7 — Christ is entirely absent from the body of the sermon. The Book of Life is mentioned but the Lamb of the Book of Life (Rev 21:27) is not. The sermon ends without a Christological center.
+- *Redemptive-Historical Awareness (3):* 1/3 — No placement of the passage within the story of redemption.
+- *Doctrinal Precision (4):* 4/4 — No significant doctrinal errors. The description of hell's elements is handled carefully and with appropriate epistemic humility ("Are the worms real or metaphorical? We can't know.").
+- *Confessional Alignment (4):* 2/4 — The Spurgeon quote on missionaries/imposters is well-placed. No confessional errors, but no positive confessional engagement.
+
+**3. Gospel Centrality & Force (15 pts) — 3/15**
+- *Clarity of the Gospel (5):* 1/5 — "Our sin separates us from God. Gospel." — this is not a gospel presentation. It is a note-to-self appended at the end.
+- *Necessity of Christ (5):* 1/5 — Christ's necessity is implicit in the assumption that there is a gospel to share, but it is never proclaimed. The Synagogue Test fires: a devout Muslim or Jewish person could sit through this entire sermon without being offended by the necessity of Christ's blood.
+- *Cross-Centered Gravity (5):* 1/5 — The sermon moves toward missions urgency, not toward the cross. Hell is real, therefore go — but go with what? The sermon never says.
+
+**4. Conscience & Applicatory Force (15 pts) — 8/15**
+- *Heart Penetration (5):* 4/5 — The instruction to picture a specific lost person and imagine them in the sensory realities of hell is genuinely powerful pastoral technique. This is the sermon's strongest moment.
+- *Specificity (5):* 3/5 — The Orlando/Tampa geography is specific and local. The Afghan president's son at Valencia College is a striking and concrete missions illustration. The missions application is more specific than most.
+- *Spiritual Differentiation (5):* 1/5 — The sermon addresses only one category: the inactive Christian who needs to share the gospel more. The believer who is faithfully sharing, the person who has never heard the gospel in the congregation, the backslider, and the knowledgeable-but-unmoved are not addressed.
+
+**5. Exhortation & Response (8 pts) — 3/8**
+- *Call to Response (4):* 1/4 — "Will you stand idly by as they march towards an eternity in hell?" is an exhortation to mission, not to faith. Unbelievers in the congregation are not called to repent and believe.
+- *Equipping for Holiness & Witness (4):* 2/4 — The sermon does provide some practical missions framing: local outreach opportunities, the nations at our doorstep, the importance of personal gospel sharing.
+
+**6. Structure & Logical Flow (9 pts) — 6/9**
+- *Clarity of Outline (4):* 2/4 — The structure is: Tozer on missions/God's sovereignty → urgency of unreached peoples → sensory description of hell (smell, sight, feel, sound) → gospel stub. This is traceable in retrospect but not signposted clearly.
+- *Progression (3):* 3/3 — The sermon builds effectively: from God's sovereignty (humbling us), to missions urgency, to hell's reality, to the demand to share. The progression works.
+- *Unity (2):* 1/2 — Two competing centers: the missions urgency sermon and the hell-description sermon. They coexist without fully integrating.
+
+**7. Illustration & Imagination (5 pts) — 4/5**
+- *Relevance (2):* 2/2 — The fishing/child illustration, the cave darkness illustration, and the geography of Tampa-area missions outreach are all grounded and relevant.
+- *Clarity (2):* 2/2 — Illustrations are lean and functional.
+- *Memorability (1):* 0/1 — The strongest image (lost people from the 10/40 Window visiting Disney World) is memorable but the sermon doesn't dwell on it long enough to let it land.
+
+**8. Sermonic Force (5 pts) — 4/5**
+- *Reads as Preaching (2):* 2/2 — This manuscript has genuine urgency and oral pulse.
+- *Conviction on the Page (2):* 2/2 — The preacher's personal conviction is evident and drives the sermon.
+- *Cadence and Breath (1):* 0/1 — No clear climactic moment; the sermon ends abruptly with a stub.
+
+**Subtotal: 48/100**
+
+### 6. Cognitive Load Modifier
+**−1** — The sprint through six passages without anchoring any of them is slightly overloading. The congregation must track multiple texts, multiple sensory elements of hell, and a global missions survey in a single sermon. One or two fewer passages, or a slower walk through one of them, would improve retention.
+
+### 7. Total Score
+**48 − 1 = 47/100 (capped at 69 due to Fatal Flaw Flags 1 and 5)**
+**Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.**
+
+### 8. Core Override Questions
+1. *Does this sermon make me think more of Christ — or myself?* Myself — specifically, my failure to share the gospel. Christ is absent as subject and center.
+2. *Did I encounter God, or just ideas about Him?* The reality of judgment is presented with genuine force, but God as Judge is described rather than encountered.
+3. *Was I comforted, convicted, or merely informed?* Convicted — of missions negligence. But not comforted, and the conviction is not resolved in Christ.
+
+### 9. Strengths (Top 3)
+1. **Sensory engagement with hell's reality** — Guiding the congregation to identify a lost person and imagine their experience is pastorally bold and theologically honest. Few preachers do this.
+2. **Local missions specificity** — The Tampa/Orlando geography, the 10/40 Window visitors at Disney, the Afghan president's son at Valencia — this is specific and concrete in a way that generic missions sermons are not.
+3. **Sermonic urgency** — The Tozer quote on God's self-sufficiency and the subsequent fishing/child illustration form a strong theological opening that properly humbles the preacher before the sovereign God.
+
+### 10. Critical Weaknesses (Top 3)
+1. **The gospel is absent** — The sermon ends with "Our sin separates us from God. Gospel." This is a placeholder, not a proclamation. The congregation that does not know the gospel has not heard it. The congregation that does know it has not been freshly amazed by it. Fatal.
+2. **Christ is nowhere in the sermon** — Rev 20:11-15 features the Lamb's Book of Life. The Lamb is the reason any name is in that book. The sermon preaches the terror of judgment without preaching the Savior who stands between sinners and that throne. This is not merely a gap — it is the gap.
+3. **Topical sprint through texts diminishes all of them** — Moving from Rev 20 to Mk 9 to Is 66 to 2 Pet 2 to Mt 24 to Mt 13 to Is 59 in a single sermon treats each passage as a data point rather than a word from God. None are opened; all are cited.
+
+### 11. Blind Spots
+The preacher likely does not see that the sermon's urgency is self-undermining: it compels people to share a gospel that is never preached in the sermon itself. The people are sent to share what they were never shown. A sermon on the urgency of the gospel that omits the gospel is not a missions sermon — it is a motivational speech about missions.
+
+### 12. Illusion of Strength
+The Tozer quote and the God-doesn't-need-us opening *felt* like theological depth — it is genuine theology. But it functions here as throat-clearing before the real topic (hell and missions) rather than as the theological foundation that grounds everything. The opening displace the point rather than ground it.
+
+### 13. Missed Opportunity
+Revelation 20:12 — "And the dead were judged by what was written in the books, according to what they had done." This verse, taken with v. 15 (the Book of Life), presents the most urgent contrast in all of Scripture: judgment by works vs. inclusion by grace in the Lamb's book. The gospel writes itself from this text. The sermon walked past the text's own gospel hook.
+
+### 14. Surgical Fixes
+1. **Preach the gospel from the text.** Rev 20:15 — "If anyone's name was not found written in the book of life, he was thrown into the lake of fire." The question the sermon must ask is: *How does a name get written in that book?* Answer from Rev 13:8, 21:27: the Lamb who was slain. Preach that. The missions urgency then flows from the gospel rather than floating above it.
+2. **Remove the "Gospel." stub and replace it with three sentences of actual proclamation** — sin, the cross, faith, and the promise of salvation. This is the one non-negotiable fix.
+3. **Reduce the text-sprint to two passages** — Rev 20:11-15 as the anchor, and one corroborating text (Mk 9:48 or Is 66:24). Go slower. Open one passage.
+4. **Close with a summons, not a challenge** — "Don't raise your hand, but how many of you have shared the gospel?" is convicting but not exhortatory. Close with: "You have heard tonight that there is a great white throne. There is also a Lamb's book. Your name either is or is not in it. And if it is — then the people you pass tomorrow are going to stand at that throne without a name. Go and tell them about the Lamb."
+5. **Address the unbeliever in the room directly.** The sermon alludes to lost people but never speaks to them. A missions sermon that doesn't preach the gospel to the lost who are present is an incomplete sermon.
+
+### 15. Dead Orthodoxy Flag
+Not triggered — the sermon is not cold or correct-but-bloodless. Its failure is the opposite: passion without sufficient doctrinal tethering. The fire is present; the Christ-centered fuel is missing.
+
+### 16. Weight of Glory Assessment
+The eternal weight of the final judgment is present and felt — but without the Lamb at the center of Rev 20, the gravity of the throne produces dread without hope, which is not the full weight of glory the passage carries.
+
+### 17. Rubric Fit Note
+Revelation 20 is apocalyptic literature, which strains the rubric's expository categories somewhat — the genre is visionary and symbolic, not propositional. The rubric's "textual fidelity" standards must be applied with awareness that apocalyptic genre communicates through image, not argument. However, the rubric's demand for Christ-centeredness, gospel proclamation, and conscience application is fully applicable and fully unmet.

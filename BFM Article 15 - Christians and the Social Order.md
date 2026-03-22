@@ -168,3 +168,206 @@ Gospel.
 5. **Typos corrected** — "Its" → "It's" (possessive/contraction throughout), "Gods" → "God's", "lets" → "let's", "the believe" → "they believe", "putt" → "put", "ads" → "adds", "carribean" → "Caribbean", "my self" → "myself", "live stock" → "livestock", "someones" → "someone's", "india" → "India", "Ny city" → "New York City", "gardens" → "Garden" (singular — Madison Square Garden), "mans" → "man's", "todays" → "today's"
 6. **Formatting** — Added section headers, blockquote formatting for Scripture and BFM article text, em dashes for pauses, proper paragraph breaks
 7. **"salt keeps" → capitalized** — Sentence-initial capitalization
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Pastoral Heart Buried in a Topical Survey — Salt and Light Without the Cross**
+
+---
+
+### 2. One-Sentence Summary
+A warm, winsome walk through BFM Article 15 that handles the text of Matthew 5:13-16 as a tag rather than an anchor, leaving the congregation informed about social ethics but not confronted with the gospel that must produce them.
+
+---
+
+### 3. Berean Gate Result
+**FAIL — with qualification.**
+
+The sermon nominally uses Matthew 5:13-16 as its passage, but the text does not govern the sermon. The passage is read, briefly referenced in the "Salt and Light" section, and invoked at the end — but the entire middle of the sermon is driven by BFM Article 15, not by the Matthean text. The main point of the sermon ("Gospel transformation must precede social engagement") is a legitimate Reformed instinct, but it does not demonstrably arise from Matthew 5:13-16. Jesus in Matthew 5:13-16 is not arguing against social engagement without regeneration — He is declaring the identity and responsibility of those who already belong to the Kingdom (they *are* salt, they *are* light — indicatives that precede the imperative). The sermon inverts this: it uses the passage as a launching pad for a topical address about the BFM, returning to the text only at the closing.
+
+Scopus Test: The sermon's thesis cannot be stated in one sentence that demonstrably arises from Matthew 5:13-16's own argument. The passage's argument is declarative and identity-forming; the sermon's argument is primarily evangelical-priority and ethical taxonomy.
+
+Authority Test: The preacher is not unfaithful to Scripture broadly, but he has placed the BFM article in authority over the text. Matthew 5:13-16 is subordinated to the doctrinal summary document, rather than the document being tested by the text.
+
+**This is a borderline call.** The sermon is not eisegetical in a harmful sense, and the preacher's instinct (gospel before ethics) is sound. However, because the text does not drive the sermon's argument, the Berean Gate is not cleanly passed. Evaluation proceeds with this noted as a structural deficiency rather than a disqualifying failure, and scoring reflects it.
+
+---
+
+### 4. Fatal Flaw Flags
+**FLAG: No clear gospel presentation (partial).**
+
+The sermon mentions the gospel repeatedly as a concept — "share the gospel," "gospel transformation," "relationship with God" — but the gospel itself is never proclaimed. There is no articulation of Christ's person and work: no substitution, no atonement, no resurrection, no justification. The word "cross" does not appear. The word "forgiveness" does not appear. "Repentance" appears only implicitly. The sermon tells the congregation *that* the gospel changes people without ever telling them *what* the gospel is. This is the most common and most dangerous form of gospel absence — the sermon assumes the gospel rather than proclaiming it.
+
+**FLAG: Application is generic (partial).**
+
+The social ethics section catalogs a list of sins from the BFM article without differentiating how they address different hearers in the room. The application at the end — "share the gospel" — is appropriate but unspecific. No one is cornered. No particular conscience is pressed.
+
+**Score is capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+
+- *Textual Fidelity*: 5/10. The passage is quoted but not exegeted. The Sermon on the Mount context (Beatitudes → Kingdom identity → salt/light) is entirely absent. The declarative force of "You *are* salt" and "You *are* light" (indicatives, not imperatives) is not developed. The sermon does not explain what Jesus meant by salt losing its saltiness (a reference to insipid, contaminated discipleship), nor the specific Matthean context of public witness and persecution (Matthew 5:10-12 immediately precede this text).
+- *Contextual Awareness*: 2/5. No canonical or book-level context. The Sermon on the Mount's structure and Matthew's theological purpose are absent.
+- *Exegetical Clarity*: 3/5. The salt-as-preservative and light-as-exposure applications are correct, but surface-level. The compass illustration is used to do work that the text itself could do far more powerfully.
+- *Logical Faithfulness*: 3/5. No eisegesis per se, but the text is overridden by the BFM article. The FCF (Fallen Condition Focus) is not identified from the text — the sermon diagnoses a generic sin problem without anchoring it to what Matthew 5:13-16 specifically addresses.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+
+- *Christ-Centeredness*: 4/7. Christ is present as the author of regeneration and the one whose relationship changes the compass. But Christ's mediatorial work is absent. He is presented as relationship partner and heart-changer, not as crucified substitute and risen Lord.
+- *Redemptive-Historical Awareness*: 1/3. The text sits in Matthew's presentation of Kingdom ethics for Kingdom citizens, which in turn sits in the Mosaic-prophetic fulfillment structure of the Sermon on the Mount. None of this is engaged.
+- *Doctrinal Precision*: 4/4. What doctrine is stated is accurate. The depravity theology (Jer 17:9, Gen 6:5, Eph 4:18, Romans 1) is handled well and correctly applied. The regeneration-first-then-ethics priority is confessionally sound.
+- *Confessional Alignment — 1689 Pulse*: 2/4. Regeneration priority is present and Reformed. But there is no articulation of justification, imputed righteousness, or the means of grace. The sermon is confessionally compatible but not confessionally formed.
+
+**3. Gospel Centrality & Force — 6/15**
+
+- *Clarity of the Gospel*: 1/5. The gospel is mentioned as a concept but never articulated. An unbeliever could not know how to be saved from this sermon. The closing word "Gospel" is a title, not a proclamation.
+- *Necessity of Christ*: 3/5. Christ is essential to the sermon's logic (regeneration through relationship with Him), but His work is not presented. He is necessary as change-agent but not as Savior from wrath.
+- *Cross-Centered Gravity*: 2/5. The sermon does not orbit morality in a legalistic way, but it doesn't orbit the cross either. It orbits the social ethics list from the BFM article.
+
+Synagogue Test: A devout Muslim or observant Jew could sit through most of this sermon without offense. The necessity of Christ's blood is never stated. The call is to "relationship with God" and to "share the gospel" — neither of which requires the cross to be defined. **Synagogue Test: triggered.**
+
+**4. Conscience & Applicatory Force — 7/15**
+
+- *Heart Penetration*: 3/5. The compass illustration and the Jack Sparrow image are genuinely effective at naming the self-worship beneath every sin. The phrase "what Jack wanted most in that moment was Jack" is the strongest diagnostic line in the sermon.
+- *Specificity*: 2/5. Racism is addressed with a story. Sexual immorality is named categorically. Abortion is named. But none of these sections land on a specific conscience with enough force to corner a particular sinner. The man in the room who looks at pornography, the woman who had an abortion, the man nursing racial bitterness — none are addressed with the precision that would make them feel seen.
+- *Spiritual Differentiation*: 2/5. The sermon addresses primarily two categories from Perkins' taxonomy: the ignorant-but-teachable and the believers. The backslider, the humbled-but-not-yet-believing, the hardened, and the self-righteous are not addressed.
+
+**5. Exhortation & Response — 4/8**
+
+- *Call to Response*: 2/4. The closing call ("share the gospel") is clear in direction but abstract in execution. The congregation is told to do evangelism, but there is no "therefore" moment from the text — no specific obedience demanded from Matthew 5:13-16 or from the doctrinal content of the body. The closing "Gospel." is powerful as a word, but a single word is not an exhortation.
+- *Equipping for Holiness & Witness*: 2/4. The sermon does point toward witness, and the North Korea illustration is genuinely moving as a model of costly witness. But the congregation is not given tools for the witness they are called to. The equipping is directional, not practical.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline*: 3/4. The section headers give the sermon visible structure. The BFM article functions as a rough outline. The movement is generally traceable.
+- *Progression*: 2/3. The sermon moves from racism → immorality → heart theology → compass illustration → salt and light → North Korea → call. This is reasonable but the middle section (heart of immorality → broken compass → trusting our wants) repeats the same point three times with diminishing force.
+- *Unity*: 1/2. There are competing centers: the BFM social ethics list, the depravity theology, the compass/GPS illustration, and the salt/light passage. These are not unified by a single dominant idea that the congregation could articulate after leaving.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance*: 2/2. The GPS, the compass, the Jack Sparrow illustration, and the racism personal testimonies are all drawn from the congregation's world. The North Korea story is vivid and accessible.
+- *Clarity*: 1/2. The GPS and compass illustrations cover the same ground and dilute each other. One should be cut.
+- *Memorability*: 1/1. "The compass points right back at Jack" is a keeper. The North Korea illustration will be remembered.
+
+**8. Sermonic Force — 4/5**
+
+- *Reads as Preaching*: 2/2. The oral cadence is clear throughout. This was preached, not read. The personal stories, the direct asides ("Anyone ever see that movie?"), and the conversational rhythm are genuine.
+- *Conviction on the Page*: 1/2. The personal testimonies carry conviction, but the theological sections are expository rather than declaratory. The Scripture references are deployed accurately but not driven home with force.
+- *Cadence and Breath*: 1/1. Good variation. The closing single-word paragraph "Gospel." is the strongest moment of cadence in the manuscript.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+
+The sermon is accessible. The illustrations are clear. The movement is traceable. A high schooler or new believer could follow the main argument. Minor density in the transition between the compass/GPS illustration and the salt/light application could be tightened. No fatal flaw triggered by cognitive load.
+
+---
+
+### 7. Total Score
+| Category | Points Earned | Maximum |
+|---|---|---|
+| Exposition & Hermeneutics | 13 | 25 |
+| Theology & Doctrinal Integrity | 11 | 18 |
+| Gospel Centrality & Force | 6 | 15 |
+| Conscience & Applicatory Force | 7 | 15 |
+| Exhortation & Response | 4 | 8 |
+| Structure & Logical Flow | 6 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 4 | 5 |
+| **Subtotal** | **55** | **100** |
+| Weight of Glory (bonus) | +2 | +5 |
+| Cognitive Load Modifier | −1 | 0 |
+| **Total** | **56** | **105** |
+
+**Score: 56/105 — capped at 69 due to Fatal Flaw Flags**
+
+*Interpretation: Fundamentally flawed. Rebuild from the text. The score without the cap would be 56, which is below 60 and independently in "Fundamentally flawed" territory. The cap is not doing the heavy lifting here — the sermon's structural weaknesses precede the flag.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Partially of Christ, but primarily of social ethics and the corruption of the heart. Christ is present as concept (relationship, regeneration) but not as Person (crucified, risen, reigning). The sermon directs the hearer toward Christ but does not show him Christ.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas. The depravity texts are cited correctly, but the God who thunders in Jeremiah 17, who grieves in Genesis 6, who hands sinners over in Romans 1 — that God does not appear with weight. The sermon is about what God does, not an encounter with who God is.
+
+3. **Was I comforted, convicted, or merely informed?**
+Informed, and warmly so. The racism section convicts by testimony. The North Korea illustration moves the affections. But the bulk of the sermon — especially the heart theology section — informs without pressing. The sinner is told that his heart is broken but is not told what to do with his brokenness beyond "relationship with God."
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Regeneration-first theological instinct.** The sermon's central claim — that social reform without regeneration is rootless — is confessionally sound and well-grounded in the depravity texts (Jer 17:9, Gen 6:5, Eph 4:18, Rom 1). This is the right hill to die on, and the preacher plants his flag clearly. "If everyone were a Christian tomorrow, these issues wouldn't be issues" is a line worth preaching.
+
+2. **The compass/Jack Sparrow illustration.** "What Jack wanted most in that moment was Jack" names the root of all sin with theological precision and cultural accessibility simultaneously. This is effective illustration work — native to the text's anthropology even if not native to the specific passage. It will be remembered.
+
+3. **Sermonic voice and oral authenticity.** The personal testimonies (racism in North Carolina, the Anglican pastor with SSA, the North Korea illustration) demonstrate pastoral credibility and genuine engagement with the congregation's world. The preacher's voice is his own. The sermon sounds like a man, not a manuscript.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is announced but never proclaimed.** The word "gospel" appears multiple times and "Gospel." closes the sermon — but the content of the gospel (Christ crucified for sinners, raised for their justification, received by faith alone) is nowhere stated. An unbeliever in the room who wanted to be saved would not know what to do. The sermon's most urgent word is its most absent word. This is the fatal flaw: a sermon about gospel priority that never states the gospel.
+
+2. **Matthew 5:13-16 is a prop, not the engine.** The BFM article drives the sermon from the opening read-through to the closing summary. Matthew 5:13-16's actual theological content — the declarative identity of Kingdom citizens, the function of salt in preserving and light in exposing, the Sermon on the Mount's covenantal-ethical logic — goes unexploited. The text is present but not opened.
+
+3. **The conscience is named but never cornered.** The depravity theology is accurate, but it is applied categorically (everyone's heart is broken) rather than individually (the man here who is cheating on his wife, the woman here who ended a pregnancy, the elder here who nurses racial contempt). The sermon teaches about conviction without producing it. Diagnosis without address.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that his treatment of homosexuality, pornography, and abortion — while theologically accurate — addresses the congregation as observers of other people's sins rather than potential participants in their own. The framing ("I know a young girl who supports homosexual rights," "I used to have a hard time understanding how someone could kill a child") positions the congregation at a safe distance from the sins named. The strongest sermons close that distance. The preacher also may not recognize how much work the BFM article is doing structurally — without it, there is no outline. This means the text has no outline of its own in this sermon, which is the root of the structural problem.
+
+---
+
+### 12. Illusion of Strength
+
+The depravity section *feels* theologically robust — four texts, a well-developed metaphor, accurate conclusions. But it is functioning as information delivery, not as conviction. The hearer learns that the heart is deceitful; he does not feel the deceitfulness of his own heart. The Puritan tradition would call this "doctrinal preaching without experimental religion" — correct in content, absent in pressure. The repeated compass/GPS illustration reinforces this: by the third pass, the hearer is thinking about Jack Sparrow, not about his own broken compass.
+
+---
+
+### 13. Missed Opportunity
+
+Matthew 5:13-16 contains an implicit warning that the sermon does not touch: salt that has lost its saltiness is "thrown out and trampled under people's feet." This is not a soft image. In its Matthean context, it is a warning about disciples who lose their distinctive Kingdom character — who become indistinguishable from the world they were meant to season. The sermon addresses social engagement by Christians, but it does not ask the harder question the text raises: *What if the church has already lost its saltiness?* What if the congregation itself has accommodated the very immorality it is called to oppose? That is the text's own edge, and it was left in the sheath.
+
+---
+
+### 14. Surgical Fixes (3–5 Specific)
+
+1. **Open with Matthew 5:13-16 as the governing frame, not the BFM article.** Spend the first five minutes establishing what Jesus is declaring: that His people already *are* salt and light by virtue of Kingdom identity — and what it means for salt to lose its saltiness. Let the BFM article appear as supporting material mid-sermon, not as the outline. The text must be the engine.
+
+2. **Add one clear gospel statement at the conclusion.** After "Gospel." — expand it. "The gospel is this: Christ died in the place of sinners, bearing the wrath they deserved, and rose on the third day. Repent and believe. That is how the compass gets fixed. Not self-improvement. Not moral effort. The blood of Jesus Christ." Thirty seconds. It changes the entire weight of the closing.
+
+3. **Corner one specific conscience in the body of the sermon.** After the section on pornography or sexual immorality, add a direct address: "Some of you know exactly what I'm talking about. You have something on your phone right now that you would be ashamed for your wife to see. For your children to know about. You've told yourself it's not hurting anyone. The passage you just heard says it is proof your joy is not in the Lord. That is a word for you. Not for the culture. For you."
+
+4. **Cut one of the compass illustrations — either the GPS or Jack Sparrow.** They make the same point. The GPS illustration is pedestrian; the Jack Sparrow illustration is memorable and theologically precise. Keep Jack Sparrow. Let the GPS go.
+
+5. **Develop the salt-that-loses-saltiness warning.** After cataloging the social ethics failures in the BFM list, turn it inward: "Church, the scarier question isn't what's wrong with our culture. The text just asked: have *we* lost our saltiness? Have we accommodated racism, pornography, and comfort to the point that we are already like flavorless salt — correct in label, useless in function?" This is the text's own application and the hardest thing it says.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — the sermon is not characterized by theological precision without pastoral warmth. The opposite is closer to true: pastoral warmth without theological precision. The preacher's heart is visible throughout. The deficit is doctrinal density and gospel clarity, not cold orthodoxy.
+
+---
+
+### 16. Weight of Glory Statement
+The North Korea illustration carries genuine eternal weight, and the closing word "Gospel." reaches for it — but the sermon as a whole does not sustain the gravity its subject demands; the Word of God preached over a broken culture requires more of the cross than this sermon gives it.
+
+**Bonus: +2/5**
+
+---
+
+### 17. Rubric Fit Note
+This is not a textual expository sermon in the traditional sense — it is a topical-doctrinal address anchored to a BFM article with a supporting passage. The rubric strains somewhat in categories 1 and 2 because the preacher's genre intention appears to be confessional instruction with scriptural grounding, not verse-by-verse exposition. Matthew 5:13-16 was likely chosen as a thematic anchor rather than a governing text. The rubric does not exempt topical addresses from requiring text-driven argument — it only notes that the genre shapes the evaluation. The score is not artificially penalized for being topical; it is accurately penalized for treating the text as a decorative frame rather than a theological source. A topical sermon can pass the Berean Gate if the topic genuinely arises from the passage's own argument. This one does not.

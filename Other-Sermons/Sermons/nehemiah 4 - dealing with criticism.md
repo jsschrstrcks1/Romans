@@ -102,3 +102,151 @@ without resolving flagged items below.
    The phrase "the best we can do is dirty filthy rags" alludes to Isaiah 64:6 (ESV: "all
    our righteous deeds are like a polluted garment"). No reference is cited in the sermon.
    Add citation if quoting or paraphrasing in print.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Date Evaluated**: 2026-03-21
+**Passage**: Nehemiah 4 (Dealing with Criticism)
+**Evaluator**: Thus Says the Lord Rubric v1.0
+
+---
+
+### 1. Verdict Title
+A Practical Self-Help Talk Dressed in Scripture, With a Gospel Center That Arrives But Does Not Drive
+
+### 2. One-Sentence Summary
+A conversational, personally grounded handling of Nehemiah 4 that helpfully exposits the nature of the criticism against Nehemiah and closes with a genuine gospel presentation, but whose main structure — a three-point framework for handling criticism — is imported from secular wisdom rather than derived from the passage's own argument.
+
+### 3. Berean Gate
+**MARGINAL PASS — with notation**
+
+- **Scopus Test**: The passage's main point in Nehemiah 4 is not "how to handle criticism" in a generic sense — it is that God's people, in the work of rebuilding, faced opposition that was spiritually motivated, and Nehemiah's response was threefold: pray, post a guard, and press on (vv. 4–9). The sermon correctly identifies the criticism and correctly names it as non-constructive, but frames the passage around a self-help rubric (Is it constructive? Evaluate the motive. Act accordingly) that the text does not teach.
+- **Authority Test**: The preacher stands beside the text rather than under it. He uses personal anecdote (failed college semester) and general wisdom principles that most people would accept independently of Scripture. The passage is the occasion for the talk, not the authority governing it.
+
+> Marginal pass granted because the text *is* engaged at the content level — Tobiah's specific insults are listed and analyzed. But the sermon's governing framework is not Nehemiah's; it is a secular criticism-handling model applied to a biblical story.
+
+---
+
+### 4. Fatal Flaw Flags
+**Score capped at 69.**
+
+- **Flag 2 — Main point drifts from the passage's argument**: Nehemiah 4's argument is about spiritual opposition to God's work and the response of a man of prayer and action. The sermon's argument is a generic three-step criticism-response framework that could be preached from Proverbs, a management book, or a counseling handout without loss.
+- **Flag 4 — Application is largely generic**: "Evaluate if criticism is constructive. If so, accept it and make a plan. If not, dismiss it." This is universally accessible advice, but it has no specifically gospel-derived content. The Ordo Salutis section at the end is rich but arrives so late and from such a different direction that it cannot redeem the framework that came before it.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 11/25**
+- Textual Fidelity (10): 4/10 — The criticism itself (vv. 2–3) is well-expounded. Tobiah's five lines of attack are enumerated with some sharpness. However, the exegetical logic of the passage — that Nehemiah prays an imprecatory prayer (vv. 4–5) and then posts guards while the people keep working (vv. 7–9) — is not preached as a unified response. The structural point (pray and act) is not named.
+- Contextual Awareness (5): 3/5 — The geopolitical background (Persia, Samaritans, trade concerns) is genuinely helpful and demonstrates preparation.
+- Exegetical Clarity (5): 2/5 — The fox/jackal word-study is botched (as the corrections log correctly notes — שׁוּעָל is consistently "fox" in the major translations). The imprecatory prayer is explained usefully but without textual depth.
+- Logical Faithfulness (5): 2/5 — The three-step criticism framework is imposed on the text rather than drawn from it.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+- Christ-Centeredness (7): 4/7 — The Ordo Salutis section in the third movement is substantively Reformed and Christ-centered. Ephesians 2, Romans 6:23, and the "dead corpse" image are all handled well. The gospel call at the end is genuine.
+- Redemptive-Historical Awareness (3): 2/3 — The "walls of Jerusalem as us" typological move is not formally redemptive-historical but it works pastorally. The connection between Nehemiah's reconstruction and Christ's work is present if undeveloped.
+- Doctrinal Precision (4): 4/4 — The salvation material is doctrinally sound. The description of total inability, regeneration, and justification by grace is accurate.
+- Confessional Alignment (4): 3/4 — The Ordo Salutis discussion has one structural issue (noted in the corrections log: "conformation" as a numbered step rather than the telos of the chain). No confessional errors in substance.
+
+**3. Gospel Centrality & Force — 9/15**
+- Clarity of the Gospel (5): 4/5 — The gospel presentation in the final section is the strongest part of the sermon. Romans 3, Ephesians 2, Romans 6:23, and the altar call are all present and clear.
+- Necessity of Christ (5): 3/5 — Christ is necessary in the gospel section but not to the sermon's main framework. The first two-thirds of the sermon requires no Christ.
+- Cross-Centered Gravity (5): 2/5 — The sermon moves toward the gospel but does not revolve around it. The cross appears at the end as rescue rather than as the interpretive center.
+
+**4. Conscience & Applicatory Force — 7/15**
+- Heart Penetration (5): 3/5 — The personal college story and the admission of struggle with criticism are warm and disarming. But the conscience is not pressed by the text — it is addressed by personal illustration.
+- Specificity (5): 3/5 — The college story, the parking spot example, the church commitment section are specific and congregation-native.
+- Spiritual Differentiation (5): 1/5 — The sermon addresses the congregation almost uniformly. The backslider, the resistant sinner, the knowledgeable-but-unmoved are not differentiated.
+
+**5. Exhortation & Response — 5/8**
+- Call to Response (4): 3/4 — The altar call is genuine, urgent, and clear: "if you've never come to a point in your spiritual life where you've answered Christ's knocking at the door of your heart, then today's the day." Direct and personal.
+- Equipping for Holiness & Witness (4): 2/4 — The church membership/fellowship section addresses covenant community well. The connection between handling criticism and kingdom fruitfulness is gestured at but not developed.
+
+**6. Structure & Logical Flow — 5/9**
+- Clarity of Outline (4): 2/4 — Three parts exist (handling criticism, imprecatory prayer, Ordo Salutis/gospel), but they feel like three separate talks stapled together. The transition between the criticism section and the dung gate/Ordo Salutis section is abrupt.
+- Progression (3): 2/3 — There is forward movement, but the sermon's three sections do not build logically on each other.
+- Unity (2): 1/2 — No single dominant idea unifies the criticism framework, the imprecatory prayer instruction, and the gospel presentation.
+
+**7. Illustration & Imagination — 3/5**
+- Relevance (2): 2/2 — The college workload story is vivid and self-disclosing. The parking spot and falling-asleep-at-a-traffic-light images are congregation-native.
+- Clarity (2): 1/2 — The Play-Doh/clay illustration is effective but the dead-corpse image (though theologically accurate) is extended to a point where it becomes somewhat performative.
+- Memorability (1): 0/1 — The illustrations serve the personal anecdote more than they crystallize the text's central truth.
+
+**8. Sermonic Force — 3/5**
+- Reads as Preaching (2): 2/2 — The manuscript has clear oral character. The direct rhetorical questions and personal vulnerability are genuine preaching instincts.
+- Conviction on the Page (2): 1/2 — The first half lacks conviction because it lacks textual authority. The second half has it.
+- Cadence and Breath (1): 0/1 — The sermon does not build to a climax; it has two separate peaks (the criticism talk and the gospel call) that do not resolve into one.
+
+---
+
+### 6. Cognitive Load Modifier
+**−1** — The three-topic structure (criticism handling, imprecatory prayer, Ordo Salutis) is accessible to ordinary hearers but somewhat difficult to carry as a unified takeaway.
+
+---
+
+### 7. Total Score
+**56/100 — capped at 69 due to fatal flaw flags. Diagnostic score: 56.**
+
+*Interpretation: Below 60 — Fundamentally flawed in its governing framework. The gospel section rescues the score but cannot redeem the framework.*
+
+---
+
+### 8. Core Override Questions
+1. **Does this sermon make me think more of Christ — or myself?** The first two-thirds: primarily myself and my response to criticism. The final third: genuinely toward Christ.
+2. **Did I encounter God, or just ideas about Him?** Partially — the gospel section has genuine weight. The criticism section is more self-help wisdom.
+3. **Was I comforted, convicted, or merely informed?** Informed with warmth; the gospel section attempts conviction and invitation.
+
+---
+
+### 9. Strengths (Top 3)
+1. **Genuine gospel proclamation at the close** — The Ordo Salutis section, the total inability argument, and the altar call are the strongest part of the sermon. The "dead corpse that can't choose God" argument is biblically robust and pastorally honest.
+2. **Substantive engagement with Tobiah's specific insults** — The five-part analysis of the criticism (ability, motive, resolve, materials, structural integrity) demonstrates real textual attention and will help the congregation recognize spiritually motivated discouragement when they encounter it.
+3. **Pastoral transparency** — The college overload story is disarming and models the humility of a pastor who admits failure. This earns trust.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+1. **The sermon's framework is not the text's framework.** Nehemiah 4's response to criticism is not a generic three-step model — it is: pray imprecatorily, post a guard, and keep working. The preacher correctly describes these things but never names them as the structure of the response and never asks why Nehemiah responded with prayer first. The text's own logic is bypassed.
+2. **The fox/jackal word-study is incorrect and undermines credibility.** The corrections log is right: שׁוּעָל is rendered "fox" in every major English translation of Neh 4:3. Presenting this as "usually translated as Jackal" when it is not will cause informed congregants to lose confidence in the exegesis.
+3. **The three sections do not cohere.** A congregation that sat through this sermon would be hard-pressed to say what the sermon was *about*. Handling criticism, praying imprecatory prayers, and the Ordo Salutis are three legitimate topics; they are not one sermon.
+
+---
+
+### 11. Blind Spots
+The preacher appears to think the connection between the criticism-handling framework and the gospel section is established by the "walls of Jerusalem = us" image. But that image appears only at the transition and is not woven through the first two-thirds of the sermon. The gospel section feels added, not grown.
+
+---
+
+### 12. Illusion of Strength
+The college workload story is gripping, self-disclosing, and congregation-friendly. It *feels* like excellent preaching because it is honest and personal. But it takes up substantial manuscript space and the lesson it teaches (some criticism is fair and should be accepted) is a general wisdom point, not a gospel point. The warmth of the illustration masks the thinness of the textual grounding.
+
+---
+
+### 13. Missed Opportunity
+Nehemiah 4:4–5 — the imprecatory prayer — is one of the more striking moments in the chapter and the sermon handles it well briefly. But the deeper question goes unasked: *why does Nehemiah go to prayer before posting a guard?* That sequencing is the text's theology in miniature: the man of God prays first because he knows the battle is ultimately the Lord's, and then acts because he also knows that God works through means. That is a sermon on the sovereignty of God and human responsibility in the very text the preacher holds in his hand.
+
+---
+
+### 14. Surgical Fixes
+- **Rebuild the outline from Nehemiah's actual response**: (1) Nehemiah prays (vv. 4–5) — the battle is the Lord's; (2) Nehemiah posts a guard (vv. 7–9) — the work is ours; (3) Nehemiah keeps building (vv. 15–23) — the fear of the Lord is the fuel. This three-point structure *is in the text* and replaces the imported framework.
+- **Remove or correct the fox/jackal claim**: The corrections log has already flagged this. It must be fixed before re-preaching.
+- **Connect the gospel section organically**: The "we are like the walls of Jerusalem — broken and incapable of repairing ourselves" image is good. Use it from the beginning, not just at the transition. If the walls are us, and Nehemiah is a Christ-figure who comes to rebuild what sin has broken, the gospel does not arrive unexpectedly — it arrives inevitably.
+- **Add a conclusion**: The altar call is good. But the believers in the room also need a summoning word. After the invitation, one sentence: "And for those who are already in Christ — Nehemiah rebuilt the walls despite the mocking. God will complete the work He has begun in you despite every Tobiah that opens his mouth. Press on."
+
+---
+
+### 15. Dead Orthodoxy Flag
+Not triggered. The sermon has pastoral warmth and a genuine gospel call. The issue is structural incoherence, not cold orthodoxy.
+
+---
+
+### 16. Weight of Glory Assessment
+The sermon has genuine pastoral heat in the gospel section and flashes of real conviction, but the Weight of Glory is uneven — heavy at the close, thin in the middle, because the text's own gravity (prayer before action; God's sovereignty over every Tobiah) is never fully released.
+
+---
+
+### 17. Rubric Fit Note
+Nehemiah 4 is narrative-historical. The rubric applies well. The passage has clear theological argument (pray, act, persevere) and redemptive-historical dimension (rebuilding as restoration under God's care). The rubric does not strain the genre. The sermon's weakness is not genre-related — it is a structural choice to impose an external framework on a passage with its own clear structure.

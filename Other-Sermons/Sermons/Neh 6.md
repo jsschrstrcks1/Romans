@@ -55,3 +55,185 @@ Communion
 24 And when he had given thanks, he brake [it], and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
 25 After the same manner also [he took] the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink [it], in remembrance of me.
 26 For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till he come.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+Pastoral Warmth Without Textual Tethering — Encouragement That Outpaces Exposition
+
+---
+
+### 2. One-Sentence Summary
+A warm-hearted encouragement to persevere against spiritual opposition drawn loosely from Nehemiah 6, with genuine gospel touches and a moving closing illustration, but sustained by topical digression rather than the text's own argument.
+
+---
+
+### 3. Berean Gate Result
+**PASS (Marginal)**
+
+*Scopus Test:* The sermon can be summarized as "Stand firm against the enemy's schemes as Nehemiah did," which is broadly consistent with Nehemiah 6's theme — but the passage's actual argument (the specific tactics of deception, the false prophet Shemaiah in vv. 10–14, Nehemiah's discernment and prayer, the completion of the wall in v. 15 as God's vindication) is largely bypassed in favor of a devotional framework imported from a commentary. The main point is in the vicinity of the text's point without arising from it with precision.
+
+*Authority Test:* The preacher does not stand above the text as an editor who softens it — but he does treat it as a launching pad more than a governing authority. Several significant verses (vv. 10–14 — the false prophet episode; v. 15 — the wall's completion in 52 days; v. 16 — the nations' fear) receive no treatment. The sermon passes the gate but does not pass it cleanly.
+
+---
+
+### 4. Fatal Flaw Flags
+**Score cap of 69 is triggered.** The following fatal flaw flags are active:
+
+- **Flag 4 — Application is entirely generic:** The application in the three-part Trinity framework (belonging, worth, empowerment) is sincerely pastoral but entirely interchangeable — it could be preached from any passage in Scripture without modification. No specific call arises from Nehemiah 6's particular situation or argument.
+- **Flag 5 — No actual exhortation (borderline):** The closing "stand up for Jesus" call is present, but it functions as an invitation to salvation rather than a specific summons arising from the text. The congregation is given a challenge but not a concrete directive tied to the passage's own imperatives. The border is close; this flag is noted as present but at minimum threshold.
+
+*Score is capped at 69.*
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+- *Textual Fidelity (10 pts): 5/10* — The sermon covers vv. 1–9 in selective fashion. The Hebrew background on "Ono" is interesting, though the etymology presented (combining two root words with detailed meanings) goes beyond what standard lexicons demonstrate and reads as commentary-derived speculation. More critically, vv. 10–16 — the false prophet, the wall's completion, and the nations' dread — receive zero treatment. The longest stretch without referencing the passage runs from the Ono discussion through the entire Trinity framework (roughly two-thirds of the sermon).
+- *Contextual Awareness (5 pts): 3/5* — The preacher is aware this is a conflict narrative and situates it within the broader Nehemiah arc (earlier opposition, slaving of kinsmen). Some redemptive-historical context is missing.
+- *Exegetical Clarity (5 pts): 3/5* — The open letter observation (v. 5) is sharp and historically grounded. The Ono etymology is offered with more confidence than the evidence supports.
+- *Logical Faithfulness (5 pts): 2/5* — The borrowed three-part framework (Father/Son/Spirit = belonging/worth/empowerment) is not in the text. It is imposed from a commentary reading of the chapter's opponents rather than derived from the passage's argument. This is benign eisegesis — the content is true — but it is still idea-importing.
+
+*FCF Note:* The Fallen Condition Focus is implicitly "spiritual discouragement and the enemy's attacks on identity and calling," which is legitimate and text-adjacent. But it is never named with the precision the passage actually supplies: Nehemiah's specific temptation was the temptation to abandon incomplete obedience for comfortable compromise. That sharper FCF is missed.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+- *Christ-Centeredness (7 pts): 5/7* — The gospel touches in point two (Son/worth) are genuine — the cross, penal substitution ("loved so much that God sent his son to die on the cross for you"), the cost of the soul. Christ is present and necessary in this section. The sparrow application (Matthew 10/Luke) is handled warmly. However, Christ-centeredness functions as a pastoral comfort insert rather than arising organically from the Nehemiah narrative.
+- *Redemptive-Historical Awareness (3 pts): 1/3* — No placement of Nehemiah in the covenantal storyline. The post-exilic context, the covenant renewal significance of the wall, Nehemiah as a type of the greater builder — none of this is touched.
+- *Doctrinal Precision (4 pts): 3/4* — Generally sound. The gospel section is clear. No major errors.
+- *Confessional Alignment (4 pts): 3/4* — No contradictions of confessional theology. Justification language is simple but not distorted.
+
+**3. Gospel Centrality & Force — 9/15**
+- *Clarity of the Gospel (5 pts): 4/5* — The "Son" section (belonging/worth) presents the gospel with surprising clarity: Christ's substitutionary death, divine love, John 3:16. An unbeliever could understand the mechanism of salvation from this section. The gospel is genuinely present.
+- *Necessity of Christ (5 pts): 3/5* — Christ is present and not merely helpful — but the first and third points (Father and Spirit) could survive in a non-Christian theistic framework. Only point two makes Christ strictly necessary.
+- *Cross-Centered Gravity (5 pts): 2/5* — The sermon does not move consistently toward the cross. The Ono background, the political commentary, the survey story, and the Trinity framework all occupy significant space before the gospel appears. The cross arrives mid-sermon as an insert rather than as the sermon's gravitational center.
+
+*Synagogue Test:* A devout Jewish hearer would be uncomfortable during the Son section — the cross and substitution are named. The sermon does not fail the Synagogue Test entirely, but the first and third points would not give offense.
+
+*Law/Gospel:* The law does not land before the gospel. There is no hammer before the balm. The "enemy attacks" framework functions as the problem, and gospel comfort is the solution — but the law (God's righteous demands, human failure, the weight of unfinished obedience) does not appear. The comfort is given without the prior exposure.
+
+**4. Conscience & Applicatory Force — 7/15**
+- *Heart Penetration (5 pts): 3/5* — The sermon has genuine warmth and pastoral care. The cruise illustration is accessible and honest. The preacher speaks to real discouragement. But the application lands in the emotions more than the conscience.
+- *Specificity (5 pts): 2/5* — "Spend time in the Word," "seek God's will before your plan," "stand up for Jesus" — these are true but abstract. Nothing is aimed at the specific conditions of this congregation in a way only Nehemiah 6 could supply.
+- *Spiritual Differentiation (5 pts): 2/5* — The closing invitation addresses the unconverted. The Trinity framework loosely addresses believers. But the backslider, the self-righteous, the discouraged-but-not-despairing are not distinguished. Perkins' categories are barely engaged.
+
+**5. Exhortation & Response — 4/8**
+- *Call to Response (4 pts): 2/4* — The "stand up for Jesus" closing has genuine exhortatory force, and the altar call moment is a real summons. But the exhortation is not specific to the text's demands. Nehemiah 6 has urgent imperatives: complete what God has called you to, refuse compromise even when it looks reasonable, pray in the moment of weakness, test the spirits of those who counsel fear. None of these become explicit summons.
+- *Equipping for Holiness & Witness (4 pts): 2/4* — The sermon equips for endurance in a general sense. It does not equip the congregation for the specific situation the text presents.
+
+**6. Structure & Logical Flow — 5/9**
+- *Clarity of Outline (4 pts): 2/4* — The three-part framework (Father/Son/Spirit) provides apparent structure, but it is borrowed architecture, not the text's architecture. The sermon meanders before arriving at this structure: Ono background → multiple conspiracy theories → cruise illustration → open letter → political survey story → Trinity framework → dying preacher story. The sequence is not tightly progressive.
+- *Progression (3 pts): 2/3* — The closing illustration (the dying young preacher) is the sermon's emotional high point and lands well. There is an arc toward it. But the middle section wanders.
+- *Unity (2 pts): 1/2* — There are at least three competing organizational ideas: (a) Nehemiah's perseverance, (b) the enemy's three tactics, (c) the Trinity as the framework for understanding attacks. These do not fully resolve into one dominant thesis.
+
+**7. Illustration & Imagination — 3/5**
+- *Relevance (2 pts): 2/2* — The cruise illustration, the text-message story, and the political survey anecdote are all drawn from recognizable contemporary life and land naturally.
+- *Clarity (2 pts): 1/2* — The dying preacher story is the strongest illustration and is well-told. The Ono background strains under the weight of detailed etymology that may not land with the congregation.
+- *Memorability (1 pt): 0/1* — The closing hymn and the dying preacher story are memorable. The earlier illustrations serve the moment but will not persist.
+
+**8. Sermonic Force — 3/5**
+- *Reads as Preaching (2 pts): 2/2* — This reads as spoken word. The conversational register ("boy do they need it," "I'm workin'," the hair-count joke) is authentic and warm. Direct address is present throughout.
+- *Conviction on the Page (2 pts): 1/2* — The gospel section carries genuine conviction. But much of the sermon is commentary and storytelling without propositional grounding.
+- *Cadence and Breath (1 pt): 0/1* — Sentence length is fairly uniform. There is no notable climactic compression or deliberate pause-and-pivot structure.
+
+---
+
+### 6. Cognitive Load Assessment
+**0 (No modifier applied)**
+
+The sermon is actually quite accessible. The concepts are simple, the language is conversational, and the structure — though not clean — is followable. A new believer, a high schooler, or a single mother could track this sermon without difficulty. The Ono etymology is the one moment of slight density, but it is brief.
+
+---
+
+### 7. Total Score
+**Category subtotal: 56/100**
+**Fatal flaw cap: 69**
+**Cognitive load modifier: 0**
+**Bonus (Weight of Glory): +2**
+
+**Final Score: 58/105**
+
+*Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.*
+
+Note: The score cap at 69 does not bind here — the raw score of 56 is already below it. The fatal flaw flags are thus confirmed by the score itself, not merely imposed by the cap.
+
+---
+
+### 8. Core Override Questions
+1. **Does this sermon make me think more of Christ — or myself?** Partially Christ. The Son section genuinely elevates Christ. The broader framework (how the enemy attacks us, how we feel) centers on the self.
+2. **Did I encounter God, or just ideas about Him?** Ideas about Him, warmly presented. The gospel section offers genuine encounter, but it is an island within a larger devotional conversation.
+3. **Was I comforted, convicted, or merely informed?** Comforted — sincerely. Not convicted. Not cornered.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Genuine Gospel Clarity in the Son Section** — The preacher's treatment of Matthew 10 and the sparrow's worth culminating in "A sparrow may cost a penny, but your soul cost God the life of his son" is the sermon's clearest and most moving moment. It is textually grounded (even if not in Nehemiah) and theologically sound.
+
+2. **Accessible, Conversational Voice** — The preacher writes as he speaks. The cruise illustration, the "I'm workin'" story, and the hair-count joke are natural, warm, and unpretentious. The congregation is not talked at; they are talked with.
+
+3. **Strong Closing Illustration** — The dying young preacher and "Stand Up for Jesus" is well-deployed. The historical grounding (Duffield, the actual hymn text) gives it weight, and the application "stand up for Jesus, Nehemiah stood" provides the sermon's clearest textual link.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The Text Is Abandoned After Verse 9** — Nehemiah 6:10–16 — the false prophet Shemaiah, the counsel of fear, Nehemiah's discernment that God had not sent him, and the wall's completion in 52 days — receives zero treatment. This is not a minor omission. The passage's climax (v. 15–16: the wall is finished and the nations know God did this) is the theological crown of the chapter. Cutting it removes the very ground of the sermon's "stand firm" exhortation. Nehemiah stood firm not merely because he was disciplined but because God completed the work.
+
+2. **The Trinitarian Framework Is Imported, Not Exegeted** — The three-part structure (Father/Son/Spirit = belonging/worth/empowerment) is attributed to a commentary and is not derived from Nehemiah 6. It is true as a devotional grid, but it does not arise from the passage's own argument. The congregation is taught the commentary's framework, not the text's logic. This is the sermon's structural flaw — it explains a system and illustrates it with Nehemiah rather than expounding Nehemiah.
+
+3. **No Law Before the Gospel — No Conscience Pressed** — The sermon is warm but the conscience is not cornered. The "enemy attacks" framework treats spiritual discouragement as the primary problem, and gospel comfort as the solution. But the text's own challenge is more demanding: Nehemiah was tempted to abandon obedience for safety and comfort. The sermon does not press the hearer: "Where in your life are you being invited to the plains of Ono? What work God has called you to are you rationalizing leaving unfinished?" That is the sermon's missing edge.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears unaware that the commentary framework (Cyril Barber's three-attack structure) has effectively replaced the text as the sermon's organizing logic. The movement from "Nehemiah faced these attacks" to "let's talk about the Trinity" is a structural pivot that leaves the passage behind — but because the content is true and edifying, the substitution goes unnoticed. The preacher likely believes the sermon is text-driven because it begins with Nehemiah. But the sermon's center of gravity is Barber's framework, not the biblical text.
+
+Additionally, the most dramatic moment in the passage — Shemaiah the false prophet counseling Nehemiah to hide in the temple, and Nehemiah's discernment that fear was the trap — is entirely absent. This is the passage's most pastorally urgent section: what do you do when a seemingly godly counselor tells you to protect yourself? The preacher has missed the richest material in the chapter.
+
+---
+
+### 12. Illusion of Strength
+
+The three-point Trinity structure creates the appearance of theological depth and organizational coherence. It sounds like systematic theological organization. But the structure is not native to Nehemiah 6 — it was borrowed from a commentary's framework about spiritual warfare in general. The congregation may leave thinking they received structured exposition when they received structured devotion. The confidence in the outline masks the fact that the outline was not found in the text.
+
+Similarly, the Ono etymology carries the air of scholarly precision ("two Hebrew root words… vigorous and wealthy to within one step of being wickedly idolatrous"). But the specific claim about Ono's etymology is not supported by standard Hebrew lexicons (BDB, HALOT) in the way presented. The detail sounds like exegetical depth but is borrowed from commentary color-commentary rather than demonstrated lexical analysis.
+
+---
+
+### 13. Missed Opportunity
+
+Nehemiah 6:10–14 — the Shemaiah episode — is the sermon's greatest missed opportunity. A false prophet tells Nehemiah to hide in the temple for his own safety. Nehemiah discerns the trap: "Should a man like me flee?" (v. 11) and "I perceived that God had not sent him" (v. 12). This passage is an extraordinary study in discernment, the testing of counsel, the specific temptation of fear-driven self-preservation dressed in pious language, and the danger of advisors who speak in God's name but serve the enemy's purposes. A modern congregation desperately needs this: how do you tell the difference between godly counsel to rest and the enemy's counsel to abandon? Nehemiah's answer is pastoral gold, and it was entirely bypassed.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Rebuild around Nehemiah 6:10–14 as the sermon's center.** The Shemaiah episode is more theologically rich than the Sanballat letters. It addresses the subtler enemy — not the open opponent, but the false counselor. Preach: "Not every voice that tells you to protect yourself is from God. Nehemiah tested the counsel against the character of God and his own call." This makes the "stand up" exhortation specific and text-derived.
+
+2. **End with verse 15–16, not with Duffield.** "So the wall was finished in the fifty-second day… and all our enemies saw it, and all the heathen that were about us feared… they perceived that this work was wrought of our God." This is the passage's own triumphant close. Let it preach. The Duffield story is good — but Nehemiah 6:16 is already the story.
+
+3. **Press the specific application: "What is your Ono?"** Before the gospel comfort, name the law clearly: "You have been invited to a comfortable detour from something God has called you to complete. You know what it is. It probably sounds reasonable. Maybe it even sounds spiritual." This corners the conscience with specificity that the passage authorizes.
+
+4. **Keep the gospel content from point two but resequence it.** The cross material (sparrow worth, substitution, John 3:16) is the sermon's strongest theological content. Move it to the climax — after the law has landed — rather than embedding it in the middle of a three-part structure. Let it be the sermon's resolution rather than its second point.
+
+5. **Cut the survey story and the "Monica Lewinsky" reference; tighten the Ono section.** These illustrations occupy significant time and do not illuminate the text. The open letter observation (v. 5) is strong enough to stand on its own without the political analogy. Every paragraph that does not advance the text's argument should earn its presence.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** This sermon is not doctrinally cold — it has genuine pastoral warmth and sincere gospel affection. The concern here is not dead orthodoxy but *structural drift*: the sermon's problem is organizational (topical framework replacing textual argument), not temperature.
+
+---
+
+### 16. Weight of Glory Assessment
+The closing illustration (the dying young preacher's final words) carries genuine eternal gravity, and the moment is earned — but the sermon as a whole has not built the weight that would make that final note fully resonant; the Weight of Glory flickers in the closing minutes rather than having accumulated throughout.
+
+**Bonus: +2/5**
+
+---
+
+### 17. Rubric Fit Note
+Nehemiah 6 is a narrative-historical text with embedded letters, dialogue, and a dramatic resolution. The rubric bends slightly here: narrative texts distribute their theology through action and character rather than through propositional argument. The rubric's demand for "the text's own argument" must be applied with awareness that narrative argument is embedded in plot structure — what Nehemiah does, what the enemies attempt, and what God accomplishes in verse 15–16. The rubric is not strained by this text, but the evaluator must recognize that "expounding the text" in narrative means tracking the story's theological logic (discernment, prayer, perseverance, divine completion), not merely extracting propositions. The sermon did not fail because it is narrative — it failed because it left the narrative prematurely for an imported framework.

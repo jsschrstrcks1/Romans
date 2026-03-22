@@ -134,3 +134,219 @@ I think we can all do better here. Myself included. All of us as a church. All t
 All of that starts with a relationship with God though, and if you’ve never come to a point in your spiritual life where you’ve asked Jesus to pay the price for your sins, then today is the day. Come talk to me. Or come on up to the altar and talk to God. Christian, if you realize you have things in your life you need to confess to God, areas where you’re weak, , then friend, don’t walk away from this moment unchanged. If you realize there are things in your life that God hates—things that cost Jesus everything—then come to Him. Bring your sin. Bring your shame. Bring your cold heart. And find that the One who drank the cup of God’s wrath is still offering grace.
 
 Wont you come?
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Pastoral Heat Without Textual Tether: A Wrath Sermon That Preaches Around Its Passage**
+
+---
+
+### 2. One-Sentence Summary
+A sermon that rightly exalts the holiness of God and the cost of sin, and carries genuine pastoral warmth and evangelistic urgency, but never actually opens Romans 3 — leaving the congregation to receive a theology lecture rather than an exposition of the Word.
+
+---
+
+### 3. Berean Gate Result
+
+**FAIL — Scopus Test**
+
+The sermon is titled "God's Wrath" and is assigned to Romans 3, but the passage is never read aloud, never quoted, never exegeted, and never referenced. The main point of the sermon (God's wrath is real, infinite, just, and satisfied only in Christ for the elect) does not arise from the argument of the specific Romans 3 text. The congregation cannot reconstruct any verse from Romans 3 after hearing this sermon.
+
+**FAIL — Authority Test**
+
+The preacher does not stand under Romans 3 as its herald — he stands alongside his own theological convictions and borrows the passage's occasion without submitting to its particular argument, structure, or voice.
+
+> "This sermon is not text-driven. The main point of the sermon does not arise from the main point of the passage. No score is assigned as written — but a modified evaluation follows given the theological substance present, for diagnostic and development purposes."
+
+*Note: Because the sermon lacks a formal passage reading and has no exegetical engagement, the Berean Gate technically stops the evaluation. A full scoring follows for developmental purposes, with the fatal flaw flag applied accordingly.*
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG 1 — TRIGGERED: Main point does not equal text's point.** Romans 3 is assigned but never opened, read, or expounded. The sermon's argument floats free of the text.
+
+**FLAG 2 — NOT TRIGGERED:** The gospel is present — Christ drinking the cup of wrath, penal substitution, limited atonement, union with Christ. The gospel is proclaimed, not merely assumed.
+
+**FLAG 3 — NOT TRIGGERED:** Christ is essential to the sermon's argument.
+
+**FLAG 4 — PARTIALLY TRIGGERED:** Application is present but trends generic in the final movement. "Are you going to follow Jesus this week?" and "We can all do better" register as broadly moralistic without sufficiently differentiating among hearers.
+
+**FLAG 5 — NOT TRIGGERED:** There is a genuine call to response — the altar call and the direct question to the congregation.
+
+**FLAG 6 — NOT TRIGGERED:** The sermon is largely accessible to ordinary hearers.
+
+**Score cap: 69 applied due to Flag 1.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 8/25**
+
+- Textual Fidelity: 2/10. No verse from Romans 3 is cited, quoted, or expounded. The sermon's thesis is theologically sound but not derived from the passage.
+- Contextual Awareness: 2/5. There is implicit awareness that Paul is discussing wrath in Romans, but no movement through the chapter, no identification of the pericope, no acknowledgment of Paul's argument.
+- Exegetical Clarity: 2/5. The "tetelestai" passage (John 19:30) is the most exegetical moment — and it is handled well. But it belongs to a different passage and sermon.
+- Logical Faithfulness: 2/5. The theology is internally sound and not eisegetical per se — but it is not drawn from this text.
+
+*The FCF is implicitly present (human sinfulness before a holy God) but never named as arising from Romans 3's specific argument. The preacher has not identified what Romans 3 was written to do in its own moment in the letter.*
+
+**2. Theology & Doctrinal Integrity — 14/18**
+
+- Christ-Centeredness: 6/7. Christ is genuinely central — not decorative. The cup of wrath, tetelestai, union with Christ, definite atonement — all handled with confidence and clarity.
+- Redemptive-Historical Awareness: 1/3. There is a redemptive movement (sin → wrath → Christ's satisfaction), but no placement of Romans 3 within the redemptive-historical story of the letter or the canon.
+- Doctrinal Precision: 4/4. Limited atonement is stated clearly and without apology. Penal substitution is clear. God's holiness as the ground of wrath is correctly framed.
+- Confessional Alignment: 3/4. Strong on the doctrines of grace, clear on justification's ground. The sermon does not contradict confessional theology and positively handles several key soteriological themes.
+
+**3. Gospel Centrality & Force — 11/15**
+
+- Clarity of the Gospel: 4/5. Justification by faith is present and clear. The substitutionary nature of Christ's death is well-proclaimed.
+- Necessity of Christ: 5/5. Christ is not decorative — the entire sermon builds toward Him as the only answer to infinite wrath.
+- Cross-Centered Gravity: 2/5. The law/hammer is well-deployed (infinite wrath, infinite sin). The gospel/balm arrives but moves quickly to application and moralism. The cross lands, but its weight could be dwelt in longer before pivoting to response.
+
+*Synagogue Test: A devout Jew or Muslim would be offended by the necessity of Christ's blood. The sermon passes the Synagogue Test.*
+
+**4. Conscience & Applicatory Force — 8/15**
+
+- Heart Penetration: 3/5. The wrath section genuinely searches the conscience. The death row analogy and the "you who think you've been pretty good" moment corner a specific kind of self-trusting hearer well.
+- Specificity: 2/5. The application drifts toward the generic: "not using profane language," "we can all do better," "call God's home phone number." These are true but not text-grounded or congregation-specific.
+- Spiritual Differentiation: 3/5. The sermon addresses the self-righteous ("I've been pretty good"), the unconverted (altar call), and implicitly the believer (live differently). It does not reach the doubter, the backslider, or the grieving. Perkins' taxonomy is partially served.
+
+**5. Exhortation & Response — 6/8**
+
+- Call to Response: 3/4. "Are you going to follow Jesus this week?" is a genuine imperative. The altar call is clear. But the exhortation arrives late and is somewhat vague about the specific response demanded of believers as distinct from the unconverted.
+- Equipping for Holiness & Witness: 3/4. The martyrs section equips — it gives the congregation a picture of what it looks like to live under the weight of this truth. The Holy Spirit, the Word, prayer, community — all mentioned. But the equipping doesn't arise organically from the unread passage.
+
+**6. Structure & Logical Flow — 6/9**
+
+- Clarity of Outline: 2/4. The sermon has a traceable arc: introduction/relational illustration → the nature of wrath → the cost (martyrs) → the cup of Christ → response. But this arc is not announced, and a listener could not sketch it without already knowing where it was going.
+- Progression: 3/3. The sermon does build toward Christ and the cross. The martyrs section is a genuine bridge from wrath-deserved to wrath-absorbed.
+- Unity: 1/2. Two competing centers — the nature of God's wrath and the stories of martyrs — compete for dominance in the middle. The martyrs section is pastoral and memorable but long enough to become its own sermon.
+
+**7. Illustration & Imagination — 4/5**
+
+- Relevance: 2/2. Toothpaste tube fight, death row, cancer surgeon, magnet illustration, James Webb telescope — all drawn from ordinary life and recognizable experience.
+- Clarity: 1/2. Most illustrations illuminate rather than distract. The telescope passage is slightly extended. The pickle illustration (social media girl's revulsion) is memorable but risks being too quirky for the weight of the moment.
+- Memorability: 1/1. Several images will be carried home: the cup of wrath "chugged down," the death row analogy, Bunyan in prison.
+
+**8. Sermonic Force — 3/5**
+
+- Reads as Preaching: 2/2. This manuscript reads as oral preaching — direct address, conversational rhythm, present-tense engagement. It was clearly written to be spoken.
+- Conviction on the Page: 1/2. The assertions are Scripture-adjacent but not Scripture-grounded in the assigned text. The ratio of grounded assertion to general statement weakens in the application section.
+- Cadence and Breath: 0/1. The sermon does not reach a clear climactic compression. The tetelestai section is the closest thing to a roar, and it is strong — but the sermon does not build to it with structural intentionality.
+
+---
+
+### 6. Cognitive Load Assessment
+
+**Score: −1**
+
+The sermon is accessible. The illustrations help. The martyrs section is long and creates a slight cognitive overload in the middle — the listener may lose the thread of "wrath" while absorbed in the narrative of Bunyan. One fewer martyr story would tighten the load. The theological concepts (infinite wrath, definite atonement) are handled at a level that most ordinary hearers can follow.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 8/25 |
+| Theology & Doctrinal Integrity | 14/18 |
+| Gospel Centrality & Force | 11/15 |
+| Conscience & Applicatory Force | 8/15 |
+| Exhortation & Response | 6/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **60/100** |
+| Cognitive Load Modifier | −1 |
+| Weight of Glory Bonus | +3 |
+| **Raw Total** | **62** |
+| **Score Cap Applied (Fatal Flaw #1)** | **62 (within cap)** |
+
+**Final Score: 62/105**
+**Interpretation: Concerning gaps — the sermon explains and exhorts but is not grounded in its assigned text. Significant revision needed.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Primarily Christ. The wrath section and the tetelestai moment genuinely exalt Christ as the answer to the human problem. The closing application slides toward self-improvement language ("we can all do better"), which partially redirects toward self — but Christ remains dominant overall. *Partial yes.*
+
+2. **Did I encounter God, or just ideas about Him?**
+The wrath section carries genuine weight — the cancer surgeon illustration, the death row analogy, and Pink's definition press the listener toward the actual holiness of God. The God in this sermon is not manageable. *Yes — partially.*
+
+3. **Was I comforted, convicted, or merely informed?**
+The sermon convicts (wrath is real and deserved by you) and comforts (Christ drank the cup). It is not merely informational. The martyrs section adds an unexpected pastoral warmth. *Yes.*
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Definite atonement stated with courage and clarity.** At a point where many evangelical preachers go soft, this sermon states plainly: "He paid the price for all of the Christians past, present, and future. But not everyone." It connects the doctrine to justice and God's nature rather than leaving it as a proof-text debate. This is confessional preaching with a spine.
+
+2. **The martyrs section is pastorally rich and imaginatively effective.** Bunyan in prison, his blind daughter, his choice to keep preaching — this is not filler. It demonstrates what it looks like to live under the weight of the truths being preached, and it functions as a genuine bridge between wrath-deserved and response-summoned. The extended quotation from Bunyan is one of the most memorable moments in the manuscript.
+
+3. **The cup of wrath / tetelestai moment is genuinely powerful.** "He took that cup of God's wrath and chugged it down, flipped that cup upside down on the table" — this is vivid, oral, and theologically charged. The tetelestai exposition (farmer, artist, priest, merchant, servant) adds depth without becoming academic. This is the sermon's homiletical high point.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Romans 3 is never opened.** The entire passage — whichever verses constitute the pericope — goes unread, unquoted, and unexpounded. The congregation received a topical sermon on wrath that happened to be scheduled in a Romans series. Whatever Paul is doing in this particular portion of his letter — whether it is the universal condemnation of Jew and Gentile, the courtroom logic of justification, or the transition from wrath to righteousness — the congregation received none of it. The preacher is not functioning as a herald of this text.
+
+2. **The application collapses into generic moralism at the close.** After the theological weight of the wrath section and the narrative force of the martyrs, the closing application ("we can all do better," "not using profane language," "call God's home phone number") does not match the gravity of what preceded it. The closing movement should have pressed the listener into the specific demands of repentance and faith with the same weight as the wrath section pressed them into conviction. Instead, the closing retreats to friendly encouragement.
+
+3. **The ChatGPT citation is a homiletical error.** Quoting a language model to define sin in a sermon on the wrath of God is not an illustration — it is a deflation of authority. The congregation may laugh or appreciate the novelty, but it signals that the preacher needed an AI to say what Scripture, the Westminster Larger Catechism, or Watson's *Body of Divinity* have already said better. Replace with a confessional source or simply assert the definition from the text.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the martyrs section, while genuinely edifying, inadvertently shifts the sermon's energy away from the text and toward biographical narrative. The sustained focus on Huss, Germanicus, Fisher, and Bunyan — each of whom is presented with warmth and detail — means the congregation spends more time with human examples of faithfulness than with the Word of God. The danger is that the lesson absorbed is "be like Bunyan" rather than "be hidden in Christ." The sermon's gospel is sound enough to prevent this from becoming moralism, but the structural imbalance is real.
+
+---
+
+### 12. Illusion of Strength
+
+The theological confidence in this sermon — the willingness to preach definite atonement, infinite wrath, the justice of hell — reads as a sign of expositional seriousness. But that confidence is free-floating: it is not anchored to the passage assigned. A congregation that walks away impressed with the preacher's theological backbone has not necessarily heard Romans 3. The sermon *felt* like serious, Reformed, text-heavy preaching because the doctrines are serious and Reformed. But the text was not the source. This is an important distinction. Doctrinal correctness is not the same as expository faithfulness.
+
+---
+
+### 13. Missed Opportunity
+
+Romans 3 — particularly verses 21–26 if this is the pericope — contains the most compressed and precise statement of justification in the New Testament: propitiation, redemption, righteousness through faith, the demonstration of God's justice. This text does not merely say "God has wrath" — it says *how* that wrath was satisfied and *why* that matters for the sinner's standing before God. The sermon preached the first half of that argument (wrath is real) but missed the passage's own movement toward the forensic declaration of righteousness. The text's climax was not preached because the text was not opened.
+
+---
+
+### 14. Surgical Fixes (3–5 Specific)
+
+1. **Open the passage.** Before the first illustration, read the assigned pericope aloud and state Paul's argument in one sentence. Return to specific verses at each major transition. The congregation should be able to follow the sermon in their Bible.
+
+2. **Replace the ChatGPT citation with a confessional or Scriptural source.** Watson, Owen, or the Westminster Larger Catechism Q. 24 on sin are immediately available and carry genuine authority. The novelty of an AI citation works against the weight of the moment.
+
+3. **Trim the martyrs section to one figure and one extended quote.** Bunyan is the strongest. Keep him. Cut or compress Germanicus and Fisher. The section currently runs four figures and risks becoming its own sermon. One story at full depth is more powerful than four stories at partial depth.
+
+4. **Rebuild the closing application from the text.** The final movement should name the specific response the text demands. If Romans 3 grounds the application, the congregation should be able to trace the move from "Paul says this" to "therefore we must do this." "We can all do better" is not an exhortation — it is an encouragement. The preacher should tell the congregation specifically what to believe, repent of, or pursue.
+
+5. **Add differentiated address before the altar call.** Before "won't you come," address the self-righteous believer who knows the doctrine but is unmoved by it, the doubter who suspects grace is not for them, and the backslider who once knew this warmth and has grown cold. The Perkins taxonomy will sharpen the call and prevent it from landing only on the unconverted.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**NOT TRIGGERED.** The sermon has pastoral heat. The preacher is not doctrinally correct and personally indifferent — there is genuine urgency in the exhortation section, real warmth in the Bunyan narrative, and authentic pastoral care in the closing invitation. The fire is present. The problem is structural (no text), not spiritual (no heart).
+
+---
+
+### 16. Weight of Glory Statement
+
+The wrath of God is weighty in this sermon — the God on display is not manageable or domesticated — but the full eternal gravity is partially diffused by the closing retreat into general exhortation; the sermon earns 3 of 5 bonus points because it genuinely presses the listener toward the terror and mercy of God, even if it doesn't finish with the gravity it builds toward.
+
+---
+
+### 17. Rubric Fit Note
+
+The rubric fits this sermon type well — topical-doctrinal preaching is exactly what the Berean Gate and the exposition criteria are designed to evaluate and correct. No genre strain. The rubric bends nowhere here; it applies cleanly, and the primary finding (no textual grounding) is a straightforward expositional diagnosis rather than a genre-category mismatch.

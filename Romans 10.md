@@ -249,3 +249,189 @@ You can have all this world
 You can have all this world
 But give me Jesus
 **Amen.**
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Reformation Doxology With a Thin Expository Floor**
+
+---
+
+### 2. One-Sentence Summary
+A gospel-saturated celebration of the *sola*s that carries genuine evangelical heat while treating Romans 10:1–13 more as a launching pad for Reformation themes than as the controlling authority of the sermon's argument.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: PASS (marginal)**
+The sermon's thesis — that salvation is by grace alone, through faith alone, in Christ alone, according to Scripture alone — is defensible from Romans 10, but the passage's own *dominant argument* (the tragedy of Israel's self-righteousness vs. the righteousness of faith, culminating in the universal call of 10:13) is subordinated to a Reformation framework imported from outside the text. The five *sola*s organize the sermon; the passage illustrates them. That is a near-miss on the scopus test.
+
+**Authority Test: PASS**
+The preacher submits to the text's claims. No softening of uncomfortable declarations, no editorializing away from hard truths. The text is honored, even if it is not always the driver.
+
+---
+
+### 4. Fatal Flaw Flags
+
+No fatal flaws triggered. Gospel is clearly presented. Christ is necessary throughout. Application, while mostly generic, has specific moments. Exhortation is present. The sermon is accessible to ordinary hearers.
+
+**Score cap not applied.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 17 / 25**
+
+- *Textual Fidelity (7/10)*: The sermon draws real meaning from the passage — Christ as the end of the law (v.4), confession and belief (vv.9–10), the universality of the call (vv.11–13). But significant portions of the sermon (Sola Scriptura section, Mary critique, queen of heaven excursus, Olympic marksman, Florence Chadwick) are extended distance from the text. Verses 5–8 (the Moses quotation, the "word near you") receive only passing treatment despite being structurally central to Paul's argument. Verses 14–17, which complete Paul's logic, are entirely absent.
+- *Contextual Awareness (3/5)*: The Romans 9–11 argument about Israel's unbelief is acknowledged in the introduction but then largely abandoned as the sermon pivots to Reformation history. The covenantal logic of Paul's Moses quotation (Deut. 30) is not unpacked.
+- *Exegetical Clarity (4/5)*: Where the preacher touches the text, the meaning is explained clearly and faithfully. "Christ is the *telos* of the law" is handled well. The confession/belief dynamic in vv.9–10 is solid.
+- *Logical Faithfulness (3/5)*: No eisegesis in the strict sense, but the sermon's organizational spine (five *sola*s) imposes a sixteenth-century theological grid on a first-century apostolic argument. The text's own logic — that Israel's problem was seeking to establish their *own* righteousness, not submitting to God's — is the engine Paul drives, but the sermon runs on a different engine.
+- *FCF (Fallen Condition Focus)*: Partially identified — the self-righteous impulse that trusts human merit — but not named with surgical precision. The FCF floats rather than cuts.
+
+**2. Theology & Doctrinal Integrity — 15 / 18**
+
+- *Christ-Centeredness (6/7)*: Christ is genuinely central and organically present. The great exchange (Luther), penal substitution, and the interceding Christ are all present and clear. Slightly formulaic in places.
+- *Redemptive-Historical Awareness (2/3)*: The sermon gestures toward the OT/NT continuity (Abraham, Moses, Israel's sacrifices pointing to Christ) but does not develop the covenantal architecture with precision.
+- *Doctrinal Precision (4/4)*: Justification by faith is clearly articulated. Grace as substitution (not leniency) is explicit and well-stated. No theological slippage detected.
+- *Confessional Alignment (3/4)*: Consistent with 1689 theology. The doctrines of grace are present by implication (grace as the pursuing cheetah, faith as gift). Explicit confessional precision on the Covenant of Grace is not developed, but neither is it contradicted.
+
+**3. Gospel Centrality & Force — 12 / 15**
+
+- *Clarity of the Gospel (5/5)*: The gospel is plainly proclaimed — Christ's substitutionary death, the resurrection, justification by faith. An unbeliever could understand how to be saved from this sermon.
+- *Necessity of Christ (4/5)*: Christ is essential, not decorative. The sermon cannot survive without Jesus. The *Solus Christus* section is the strongest in the sermon.
+- *Cross-Centered Gravity (3/5)*: The sermon moves toward the cross but somewhat circuitously. The Reformation historical framework sometimes acts as a detour. The closing doxology lands powerfully, but the cross-centered gravity builds unevenly.
+- *Synagogue Test*: FAILS. A devout Jewish synagogue member would be offended by the necessity of Christ's blood — the scandal is present. Gospel is not merely decorative. Test passed in the right direction.
+- *Law/Gospel Dialectic*: The law as mirror (hammer) is present (Section II). The gospel as balm follows clearly. Order is correct.
+
+**4. Conscience & Applicatory Force — 9 / 15**
+
+- *Heart Penetration (3/5)*: The sermon makes genuine appeals to the heart — the weary Christian who has burned out, the moralist who compares, the failure who feels too far gone. These are real moments. But they are interspersed rather than sustained, and the piercing often gives way to encouragement before the wound fully opens.
+- *Specificity (3/5)*: Some specificity present (the moralist, the weary Christian, the person chasing spectacle). But most applications are general exhortations that could belong in any evangelical sermon on any text. The congregation's specific situation is addressed only at the broadest level.
+- *Spiritual Differentiation (3/5)*: The sermon addresses believers (direct address throughout), the self-righteous (indirectly), and the weary/failing. The hardened unbeliever, the backslider, and the humbled-but-not-yet-believing are not distinctly addressed. Perkins' taxonomy is touched but not systematically employed.
+
+**5. Exhortation & Response — 5 / 8**
+
+- *Call to Response (3/4)*: The closing contains a genuine gospel call. Romans 10:13 is the climax and functions as an invitation. The "everyone who calls" language is explicit. However, the sermon does not produce a clear, differentiated call to response for distinct hearers — the exhortation is primarily doxological rather than directive.
+- *Equipping for Holiness & Witness (2/4)*: The sermon comforts the congregation where they sit more than it sends them out. There is no specific "therefore, go and..." moment. The corporate calling of the church — to proclaim this gospel to others (which Romans 10:14–17 demands) — is entirely absent because those verses were not included.
+
+**6. Structure & Logical Flow — 7 / 9**
+
+- *Clarity of Outline (3/4)*: The four *sola*s plus a closing provide a clear, memorable framework. A listener can sketch it. The headings are traceable.
+- *Progression (3/3)*: The sermon builds — from the Word near you, to grace reaching down, to faith receiving, to Christ alone, to glory. The trajectory is sound.
+- *Unity (1/2)*: The dominant idea is almost singular — the *sola*s as the gospel framework — but the Sola Scriptura section drifts (queen of heaven, Marian devotion, prophets and Bible codes) in ways that feel like a separate agenda rather than a development of the main point. The sermon has two competing centers: Reformation theology and Romans 10.
+
+**7. Illustration & Imagination — 4 / 5**
+
+- *Relevance (2/2)*: The illustrations are drawn from accessible worlds — athletics (Olympic marksman, Florence Chadwick), American idiom (tea in Boston Harbor, toddler in white clothes), historical narrative (Luther, Paul on Damascus road).
+- *Clarity (1/2)*: Most illustrations clarify. The cheetah/gazelle metaphor for irresistible grace is vivid and theologically accurate but slightly overwrought. The Olympic marksman illustration is somewhat generic and could be transplanted to almost any sermon.
+- *Memorability (1/1)*: The "grace doesn't stay buried" line and the Florence Chadwick fog illustration will likely be remembered. The closing African spiritual is a powerful, well-earned image.
+
+**8. Sermonic Force — 4 / 5**
+
+- *Reads as Preaching (2/2)*: This manuscript reads as oral proclamation. Sentence variation, direct address, breath-length rhythm — all present.
+- *Conviction on the Page (1/2)*: The conviction is real but somewhat formulaic. Certain phrases feel rehearsed rather than discovered ("Christ plus anything ruins everything," "Sola Scriptura" sections). The manuscript is strongest when the preacher stays close to Paul's actual argument and weakest when it becomes a Reformation survey course.
+- *Cadence and Breath (1/1)*: The closing section has genuine cadence — the parallel construction in the final doxology builds and releases well.
+
+---
+
+### 6. Cognitive Load Modifier — −1
+
+The sermon is well-organized and broadly accessible. The five *sola*s serve as helpful signposts. Deduction of one point for the density of historical references (Luther, Reformation history, Jeremiah, Mary, Paul's Damascus road) layered over the text, which slightly overloads the ordinary hearer who needs to track both the passage *and* the historical framework simultaneously.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 17 / 25 |
+| Theology & Doctrinal Integrity | 15 / 18 |
+| Gospel Centrality & Force | 12 / 15 |
+| Conscience & Applicatory Force | 9 / 15 |
+| Exhortation & Response | 5 / 8 |
+| Structure & Logical Flow | 7 / 9 |
+| Illustration & Imagination | 4 / 5 |
+| Sermonic Force | 4 / 5 |
+| **Subtotal** | **73 / 100** |
+| Weight of Glory Bonus | +3 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **75 / 105** |
+
+**Interpretation: Solid but lacking — usually in application or gospel force. Needs another pass.**
+
+The score is squarely in the 70–79 band. This is a sermon with real gospel heat and sound doctrine that needs sharpening primarily in expository depth (especially vv. 5–8 and 14–17), conscience-level penetration, and differentiated exhortation.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** *Christ.* The doxological trajectory is genuinely Christ-exalting.
+2. **Did I encounter God, or just ideas about Him?** *Ideas more than encounter.* The sermon explains grace and proclaims Christ but rarely corners the hearer before the living God. The Sola Scriptura section in particular becomes polemical (against Marian devotion, against Bible code enthusiasts) rather than reverent.
+3. **Was I comforted, convicted, or merely informed?** *Comforted and informed, inadequately convicted.* The sermon is warm and reassuring. The conviction of self-righteousness is named but not pressed long enough to do its work before grace arrives.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Penal substitution is explicit and well-stated** (Section IV, *Solus Christus*): "The sinless One would take the sinner's place, that the Judge would bear the judgment... our sin for His righteousness, our shame for His glory, our death for His life." This is clear, precise, and gospel-declarative.
+2. **The grace-as-cheetah metaphor and the Damascus road illustration work together** (Section II): The irresistible nature of saving grace is communicated with both doctrinal accuracy and imaginative vividness. The sequence from Paul's self-righteousness to his overtaking by grace illustrates *Sola Gratia* with scriptural and experiential grounding.
+3. **The closing doxology earns its place** (Closing): The parallel construction ("He took our guilt, our shame, our wrath — and nailed it to the cross"), the pivot from the "white clothes / mud" illustration to the security of Christ's grip, and the African spiritual close represent the sermon's best writing. The doxological ending is appropriately exuberant for a Reformation Sunday text.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Romans 10:5–8 (the Moses quotation and "the word near you") is the heart of Paul's argument and receives the sermon's thinnest treatment.** The Sola Scriptura section borrows the "word near you" phrase but immediately pivots to anti-Catholic polemic and a Jeremiah excursus. Paul's actual point — that the righteousness of faith *does not require ascent or descent*, that the word is already near — is never exegetically developed. This is the passage's most distinctive and theologically rich section, and it is treated as a slogan.
+2. **The conscience is informed but not cornered.** The "self-righteous impulse hides in all of us" (Section II) is the moment to press — but the sermon names it, gestures at it, and then moves to grace before the hearer has felt the exposure. The Puritan pattern (conviction, direction, consolation) is compressed to the point that conviction is decorative. A hardened moralist in the congregation could sit through this sermon nod approvingly and feel largely comfortable.
+3. **Romans 10:14–17 is entirely absent.** Paul's argument in these verses — that faith requires hearing, hearing requires preaching, preaching requires sending — is the *missional climax* of the passage. Its omission means the sermon never reaches the exhortative imperative the text itself provides. The congregation hears the gospel but is never summoned to proclaim it. This is the sermon's most significant structural omission.
+
+---
+
+### 11. Blind Spots
+
+- **The preacher likely does not see that the Reformation framework is driving the sermon rather than the text.** The five *sola*s are a faithful theological summary, but they are not Romans 10's own argument. The text argues from Israel's failure to the universality of the gospel call; the sermon argues from the *sola*s to each other. These produce similar destinations but different journeys — and the preacher's journey bypasses much of Paul's.
+- **The polemical sections (queen of heaven, Marian co-redemptrix, Bible codes) likely feel like application to the preacher but register as distractions to the text.** They are not unimportant topics, but they are being answered by a passage that is not primarily addressing them.
+- **The "already comforted" congregation is not challenged.** The sermon assumes hearers who need reassurance and warmth. It does not reckon with hearers who are self-satisfied, morally confident, or spiritually asleep — the very profile Paul is diagnosing in Israel in vv.1–3.
+
+---
+
+### 12. Illusion of Strength
+
+**The Reformation historical framework creates the *feeling* of expository depth without delivering it.** Luther, Wittenberg, the five *sola*s, the great exchange — these are legitimate, emotionally resonant, and theologically accurate. But they can create the impression that the sermon has engaged the passage's argument when it has largely used the passage as a proof-text for a pre-existing theological framework. The preacher may feel the exposition was strong because the theology was sound. But sound theology is not the same as expository faithfulness to *this* text's *own* argument.
+
+---
+
+### 13. Missed Opportunity
+
+**The Moses quotation in vv.5–8 (from Deuteronomy 30) is one of the most theologically daring moves Paul makes in Romans.** He takes a passage about Israel's covenant obligations and re-reads it as a description of the gospel's accessibility — the word is not in heaven (you don't need to ascend to Christ) or in the abyss (you don't need to bring Christ up). This is Paul doing *christological hermeneutics on the Torah*, and it is breathtaking. The sermon uses the phrase "the word is near you" as a slogan for Sola Scriptura — a legitimate application — but the *exegetical wonder* of what Paul is doing with Deuteronomy 30 is entirely missed. That passage deserved at minimum two minutes of unhurried explanation.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Rebuild Section I around the Moses quotation (vv.5–8).** Spend 3–4 minutes unpacking what Paul is doing with Deuteronomy 30. Show the congregation that Paul is not quoting Moses as background color — he is *re-reading the Torah through the lens of Christ's resurrection*. This is the exegetical wonder the congregation deserves to see.
+2. **Add Romans 10:14–17 as a fifth section (or extend the closing).** Paul's own conclusion is missional: you cannot call on one you have not believed; you cannot believe one you have not heard; you cannot hear without a preacher. The sermon's doxological close is beautiful, but it should be preceded by a summons: *"Therefore, someone must go. Someone must speak. That someone is you."*
+3. **After naming the self-righteous impulse in Section II, let the law land before grace arrives.** Give the moralist, the performance-driven church member, and the "weary Christian trying harder" thirty unrelieved seconds of exposure before grace relieves the pressure. Currently the conviction is too brief to do its work.
+4. **Differentiate the closing exhortation by hearer type.** Address at least three distinct categories: the unbeliever who has intellectual assent but not heart surrender; the believer who is resting in grace genuinely; and the backslider who once knew this gospel and has drifted. Each hears Romans 10:13 differently and deserves a distinct word.
+5. **The Sola Scriptura section's polemical material (queen of heaven, Mary as co-redeemer) should either be integrated as explicit application of the *text's* argument about seeking one's own righteousness, or removed.** As it stands, it reads as a topical insert. If kept, frame it as: "Israel's self-righteousness took the form of religious zeal without submission to God's righteousness. We do the same whenever we supplement Christ with human additions." Then the polemic becomes exposition.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** Exposition scores 17 (below the 20 threshold for trigger). Gospel Centrality is 12 (above 9). The sermon has pastoral warmth and genuine evangelical heat. The fire is present, if not always well-aimed.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The closing doxology — culminating in the African spiritual — carries genuine eternal gravity, and the sermon's consistent Christ-exaltation earns a partial bonus; **+3 of 5** awarded, withheld fully because the sermon's best moments of glory are compressed into the close rather than sustained throughout.
+
+---
+
+### 17. Rubric Fit Note
+
+Romans 10:1–13 is a doctrinal-epistolary passage, which this rubric is well-suited to evaluate. The passage is didactic, argumentative, and gospel-declarative — all categories the rubric measures directly. No genre strain. The one note: this sermon is structured thematically (five *sola*s) rather than sequentially (verse-by-verse), which is a legitimate homiletical choice for this passage. The rubric does not penalize thematic structure per se — but it does penalize when the theme overrides the text's own argument, which has occurred here.

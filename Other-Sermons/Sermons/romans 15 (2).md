@@ -56,3 +56,181 @@ Can you?
 When the people in your life look at you, do they see Jesus? We all fall short in this area. Not one of us has it all together. Not one of us does it right 100% of the time. But that should be our goal. Someone once asked me if messing up meant they shouldn’t come to church. People, there isn’t one of us here that is perfect. A church is not a hotel for saints, it’s a hospital for sinners. Its respite for the weary, and love for the broken hearted, and when needed it’s a kick in the backside, its loving discipline, because God loves us too much to let us grow up to be bad people. 
 
 But all of that starts with a relationship with God. It all starts with the gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Pastoral Warmth Without Expository Spine: A Sermon That Circles the Text but Never Lands on It**
+
+---
+
+### 2. One-Sentence Summary
+A well-intentioned opening of Romans 15:14 that marshaled genuine pastoral energy and cultural observation while failing to exposit the passage's argument, presenting the gospel, or pressing the conscience with the specificity the text demands.
+
+---
+
+### 3. Berean Gate Result
+**PASS — Barely.**
+
+The Scopus Test passes with reservation: the sermon does circle around Paul's three commendations in Romans 15:14 (goodness, knowledge, ability to instruct), and those commendations are the passage's surface content. The main point of the sermon approximates the main point of the text.
+
+The Authority Test raises concern: the preacher handles the passage as a launching pad for cultural commentary, illustration, and general exhortation rather than standing under the text's argument. The sermon does not suppress or contradict the text — but it also does not let the text govern it. The preacher is more editor-of-culture than herald-of-Word. This passes the gate, but only by the narrowest margin.
+
+---
+
+### 4. Fatal Flaw Flags
+**Flag 1 — No clear gospel presentation (TRIGGERED)**
+The sermon ends with "It all starts with the gospel" but never presents the gospel. There is no articulation of sin and its consequences, no proclamation of Christ's atoning work, no call to faith or repentance grounded in the finished work of Christ. The gospel is gestured at but never declared. A person with no prior knowledge of Christianity could not understand how to be saved from this sermon.
+
+**Flag 2 — Application is entirely generic (TRIGGERED)**
+The sermon's applicatory questions — "Are you choosing good? Are you in the Word? Are you discipling?" — are the same questions that could close any sermon on any text in any book. They do not arise from Romans 15:14 specifically. The application never differentiates hearers, never corners a particular sinner, never brings the weight of this specific passage to bear on a specific condition.
+
+**Score is capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 11/25**
+- Textual Fidelity: 4/10. The three commendations of v.14 are mentioned but not genuinely exposited. The sermon does not work through Paul's argument — why Paul commends these people at this point in the letter, what "filled with goodness" means in context, why the ability to instruct one another matters for the specific situation of the Roman church (the strong/weak dynamic of chapters 14–15). The passage is a caption on a long series of illustrations rather than the ground from which the sermon grows.
+- Contextual Awareness: 1/5. No awareness of the immediate context (chapters 14–15 concerning the strong and the weak) or the book flow (Romans 15:14 as Paul's transition to his own apostolic mission). The opening historical material about Rome is socially interesting but disconnected from the passage's own argument.
+- Exegetical Clarity: 3/5. The three commendations are named and briefly explained at a surface level. No Greek engagement. No unpacking of "admonish one another" (nouthetein) or what Paul means by "filled with all goodness."
+- Logical Faithfulness: 3/5. No outright eisegesis, but the sermon is driven more by illustration and cultural commentary than by the text's logic.
+
+**2. Theology & Doctrinal Integrity — 9/18**
+- Christ-Centeredness: 2/7. McCheyne's quote about "likeness to Jesus" is the closest the sermon comes to Christ-focus. Christ is referenced but is not the sermon's governing center. The McCheyene illustration is the best theological material in the sermon and is underutilized.
+- Redemptive-Historical Awareness: 1/3. No placement of the text in the story of redemption.
+- Doctrinal Precision: 3/4. No gross theological errors, but nothing requiring precision is attempted. The brief comment on Catholicism and authority is reasonable but peripheral.
+- Confessional Alignment: 3/4. No contradictions of confessional theology. No engagement with confessional themes.
+
+**3. Gospel Centrality & Force — 4/15**
+- Clarity of the Gospel: 1/5. The gospel is named but not proclaimed. "It all starts with the gospel" is a gesture, not a presentation. An unbeliever would leave this sermon knowing that Christians are supposed to be good, knowledgeable, and disciple-making — but not knowing what the gospel is or why they need it.
+- Necessity of Christ: 1/5. Christ is largely unnecessary to this sermon's structure. The sermon's exhortations (be good, learn, disciple others) could survive without Christ's person and work.
+- Cross-Centered Gravity: 2/5. The sermon does not move toward the cross. It moves toward the Great Commission, which is treated primarily as moral obligation rather than gospel response.
+
+**4. Conscience & Applicatory Force — 7/15**
+- Heart Penetration: 3/5. The questions at the end of the sermon ("If Jesus were to return right now, what would he say about my efforts in these areas?") have genuine pastoral punch. The "hospital for sinners" line is warm and true. There is a pastor's heart here.
+- Specificity: 2/5. The application questions are generic. No hearer is differentiated. No specific condition is named and addressed.
+- Spiritual Differentiation: 2/5. The sermon addresses believers in a general way. It does not address the hardened, the doubting, the backslider, or the seeker with any differentiation. Perkins' taxonomy is entirely absent.
+
+**5. Exhortation & Response — 3/8**
+- Call to Response: 2/4. There is a call — "Stop the mental gymnastics of self-justification right now" — which has force. But the call is to self-examination, not to specific response. What exactly must they do, believe, or pursue?
+- Equipping for Holiness & Witness: 1/4. The Great Commission material gestures at mission but provides no equipment for it. The "garlic" illustration is memorable but does not arm the congregation for witness.
+
+**6. Structure & Logical Flow — 5/9**
+- Clarity of Outline: 2/4. Three commendations provide a latent structure, but the sermon buries them under lengthy introductory material (the Hmong Bua paragraph, the Rome comparison, the ISIL account, the reading log story). By the time the text is read (nearly halfway through the sermon), the listener has been through substantial scene-setting with no announced destination.
+- Progression: 2/3. The sermon moves from Roman culture to text to commendations to application with loose progression, but the lengthy introduction disrupts forward momentum.
+- Unity: 1/2. The sermon touches Paul's commendations, Roman history, American moral decline, ISIL atrocities, Martin Luther, McCheyne, the Great Commission, the "garlic" illustration, and a "hospital for sinners" close. These do not cohere around one dominant idea.
+
+**7. Illustration & Imagination — 3/5**
+- Relevance: 1/2. The Robert Kraft / sex trafficking illustration is vivid and culturally grounded. The reading-log story is from the congregation's world. The garlic illustration is inventive.
+- Clarity: 1/2. The garlic illustration works well and lands cleanly. The ISIL/Yazidi material is graphic and vivid but its connection to the text's argument is underdeveloped.
+- Memorability: 1/1. The garlic illustration is the most memorable element of the sermon and will likely be retained.
+
+**8. Sermonic Force — 3/5**
+- Reads as Preaching: 2/2. This reads like a preacher speaking to a congregation. Oral cadence is present. Direct address is used. The voice is accessible.
+- Conviction on the Page: 1/2. Genuine conviction in places (the ISIL material, the final questions) but the conviction is not consistently Scripture-driven.
+- Cadence and Breath: 0/1. Sentence variation is inconsistent. No climactic compression. The sermon does not build to a single high-pressure moment.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+
+The sermon is accessible and does not overload the ordinary hearer. The challenge is the opposite — it may be slightly thin on developed thought in places. The lengthy introductory material (Hmong Bua, Rome, ISIL) creates early density that does not pay theological dividends. The cognitive burden is not excess complexity but excess scene-setting before arriving at the text.
+
+---
+
+### 7. Total Score
+**Base: 45/100**
+**Cognitive Load: −1**
+**Adjusted: 44/100**
+**Score Cap Applied: Yes (Fatal Flaw Flags 1 and 2 — capped at 69, but raw score is below cap)**
+**Final Score: 44/100**
+
+Interpretation: **Fundamentally flawed. Rebuild from the text.**
+
+This score does not reflect a mean spirit toward the preacher. It reflects the rubric's honest accounting. There is a genuine pastor's heart here, real warmth, some memorable illustration, and evident love for the congregation. But a sermon that does not present the gospel, does not exposit the text's argument, and offers only generic application has not yet become preaching in the fullest sense.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Largely myself. The closing questions are self-examination oriented: "Are you choosing good? Are you in the Word? Are you discipling?" Christ is referenced but is not magnified. The moral weight of the sermon lands on human effort.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas about Him, and mostly ideas about the culture around Him. The sermon is more sociological survey than theological encounter.
+
+3. **Was I comforted, convicted, or merely informed?**
+Mildly convicted in places (the closing questions have genuine sharpness) and warmly reminded (the "hospital for sinners" close). But the conviction does not arise from the text — it arises from the preacher's pastoral instinct. A hearer walks away informed about Roman culture, touched by Yazidi suffering, and gently challenged — but not cornered by the Word of God.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Pastoral Warmth and Genuine Care for the Congregation.** The preacher's love for his people is evident throughout. The "hospital for sinners" close, the gentle "I know I can do better. Can you?", and the explicit pastoral question about the person who wonders whether they should come to church despite messing up — these reflect a pastor who knows his people and loves them. This is not a strength of the text work, but it is a real strength of the man.
+
+2. **The McCheyne Illustration.** The Robert Murray McCheyne material is the best theological content in the sermon. The quote — "It is not great talents God blesses so much as likeness to Jesus" — is precisely right, well-sourced, and could have become the spine of the entire application section. This shows the preacher has good theological instincts and reads widely.
+
+3. **The Garlic Illustration.** Genuinely effective. It is concrete, from the preacher's own world, native to the theme of the sermon, and will be remembered. The image of a life saturated with the gospel "sweating" the presence of God is vivid and theologically evocative. This is how illustration is supposed to work.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The Gospel Is Named but Never Proclaimed.** The sermon ends, "It all starts with the gospel" — but the gospel was never preached. The hearer who does not already know the gospel will not learn it here. There is no articulation of sin's deserved consequence, no proclamation of Christ's substitutionary death, no call to repentance and faith. The gospel functions here as a presupposition, not a proclamation. This is the sermon's most serious failure.
+
+2. **The Introduction Consumes the Sermon.** The Hmong Bua paragraph (which appears to be a research note accidentally included), the Rome-to-America comparison, the ISIL/Yazidi account, and the Robert Kraft aside together consume the majority of the sermon before the text is even read. This is not a minor structural issue — it represents a fundamental inversion of priorities. The text must drive the introduction, not the other way around.
+
+3. **The Three Commendations Are Not Exposited — They Are Listed.** Paul's commendation of the Romans in 15:14 is rich with meaning for the letter's argument. The Romans are commended at this point because Paul is transitioning from pastoral instruction (chapters 12–15) to apostolic defense of his ministry (15:14–33). He commends them not simply because they are good people, but because they are capable of holding one another accountable — which is precisely what he has been calling them to do across chapters 14–15 regarding the strong and the weak. None of this is in the sermon. The three commendations are named and briefly illustrated, but they are not exposited in their context.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears unaware that Romans 15:14 is not a generic commendation of Christian virtue — it is a strategic pastoral move by Paul at a very specific moment in the letter. Paul has just concluded his extended exhortation about the strong and the weak (14:1–15:13) and is now transitioning to his defense of his own apostolic mission and his plans. His commendation of the Romans ("I myself am satisfied about you, my brothers, that you yourselves are full of goodness, filled with all knowledge and able to instruct one another") is the ground on which he can say to them what he is about to say — that he writes boldly as their minister and that he hopes to visit them on his way to Spain. The passage's rhetorical and pastoral function is entirely invisible in this sermon.
+
+Additionally, the preacher does not appear to recognize that the "Hmong Bua" paragraph at the opening of the document appears to be research material that was accidentally left in the sermon manuscript. This creates immediate confusion for any reader.
+
+---
+
+### 12. Illusion of Strength
+
+The cultural illustrations — the Rome-to-America comparison, the ISIL/Yazidi account, the Robert Kraft aside — feel like the sermon's strongest material because they are vivid, emotionally engaging, and socially relevant. But they are the sermon's greatest structural weakness. They consume the time and emotional space that should belong to the text. The Yazidi account is harrowing and real — but it does not arise from Romans 15:14, does not illuminate Paul's argument, and does not lead the hearer toward the gospel. It is powerful, but it is not preaching. The sermon's apparent strength in cultural engagement masks its actual failure to let the Word drive the content.
+
+---
+
+### 13. Missed Opportunity
+
+Romans 15:14 offers a profound gospel opportunity that this sermon entirely bypasses: the question of how these Roman Christians — surrounded by the very depravity the preacher spent so long describing — became people "full of goodness, filled with all knowledge." The answer is not that they tried harder. The answer is the gospel of chapters 1–8, the doctrine of grace in chapters 9–11, and the transformed life of chapters 12–15. Paul's commendation of the Romans is itself a testimony to the transforming power of the gospel he has spent fourteen chapters proclaiming. A sermon on this verse should present the gospel as the explanation for how broken people become the kind of people Paul is describing. That opportunity is present in the text. It was not taken.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Remove or relocate the opening research note.** The Hmong Bua paragraph appears to be a research artifact left in the manuscript. It must be removed. It creates immediate confusion and has no connection to the sermon.
+
+2. **Preach the gospel before closing with it.** The final sentence — "It all starts with the gospel" — should be the sermon's center, not its postscript. Rebuild the applicatory close to present the gospel explicitly: what is sin, what has Christ done, what is the response required? The McCheyne quote ("It is not great talents God blesses so much as likeness to Jesus") is the theological key — explain that likeness to Jesus comes not from effort but from union with Christ through faith.
+
+3. **Shorten the introduction to one cultural illustration and move immediately to the text.** Choose either the Rome comparison or the ISIL material — not both. Set the cultural stakes briefly, then let the text govern everything that follows. The text should be read before the sermon's midpoint.
+
+4. **Exposit the three commendations in their context.** When the sermon reaches Paul's three commendations, explain *why* Paul commends the Romans at this moment in the letter. Connect "able to instruct one another" to the strong/weak dynamic of chapters 14–15. This transforms the commendation from a general pat on the back into a specific, textually grounded call.
+
+5. **Differentiate the closing application by hearer type.** After asking "Are you choosing good?", distinguish: the person who is trying but failing (comfort them with grace), the person who isn't trying at all (warn them), the person who doesn't yet know Christ (present the gospel to them directly). The congregation is not one homogeneous mass.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** This sermon does not display the pattern of correct doctrine with cold delivery. The problem is almost the reverse: genuine warmth and pastoral energy without sufficient doctrinal grounding. The Dead Orthodoxy flag applies to sermons that are theologically precise but pastorally cold; this sermon is pastorally warm but theologically thin.
+
+---
+
+### 16. Weight of Glory Statement
+This sermon carries the warmth of a pastor's heart, but it does not yet carry the weight of the Word — the eternal gravity that comes when a man has stood in the text long enough to be governed by it, and preaches as one who knows God is present and the stakes are eternal.
+
+---
+
+### 17. Rubric Fit Note
+Romans 15:14 is a transitional epistolary verse — a pastoral commendation within a letter. It is not a doctrinal thesis statement, a narrative, or a lament. The rubric applies well here, though evaluators should note that a single verse in a transitional passage will always require the preacher to work harder to exposit the verse in its immediate context (chapters 14–15) and its book-level context (the entire letter). The rubric's demands for textual fidelity, contextual awareness, and gospel centrality are appropriate for this passage and are not strained by the genre.

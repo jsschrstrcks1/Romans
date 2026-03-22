@@ -119,3 +119,176 @@ He's still working on me
 All these promises, and hope, and a future, and a purpose are only available to those that know and have a relationship with Jesus. 
 
 That starts with the gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**"Pastoral Warmth in a Half-Built House: Rich Doctrine on Election and Suffering With a Gospel That Never Arrives"**
+
+---
+
+### 2. One-Sentence Summary
+A pastorally affectionate and doctrinally earnest sermon on 1 Peter 1 that opens genuine richness on election, perseverance, and sanctification through suffering, while repeatedly pointing toward a gospel it never actually preaches and attributing the letter to the wrong apostle.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with significant qualification.**
+
+*Scopus Test:* The sermon's organizing thesis — elect exiles should be strengthened by the promises of God (election, new birth, living hope, imperishable inheritance, guarding power, and sanctifying suffering) because those promises belong to them — does arise from 1 Peter 1, at least in aggregate. The sermon is not a single-text exposition but a promise-survey of the chapter, which is a legitimate homiletical approach.
+
+*Authority Test:* The preacher submits to what the text says. He does not soften election, he does not avoid the hard parts of Jacob's suffering, and he does not reframe persecution as merely unfortunate. However, the letter is again attributed to Paul (see line 51: "Right in verse two, Paul writes"). Peter wrote this letter. This error, appearing now in a second consecutive sermon in this series, is a pattern that must be corrected.
+
+---
+
+### 4. Fatal Flaw Flags
+**Two flags triggered. Score capped at 69.**
+
+**Flag 1 — No clear gospel presentation.** The sermon ends with "All these promises...are only available to those that know and have a relationship with Jesus. That starts with the gospel." The gospel is named but not preached. For the second sermon in this series, the gospel appears as a reference point at the close rather than as the proclaimed content. Christ's death, the meaning of the cross, justification, the resurrection, and what it means to believe are never unfolded. The closing line points to the door without opening it.
+
+**Flag 5 — No actual exhortation.** The sermon closes with a hymn about God still working on the believer. This is a comfort, not a summons. There is no "therefore" moment — no specific call to repent, believe, obey, or pursue. The congregation is told what God has done and is doing. They are not told what they must now do in response. Comfort without command leaves the congregation passive before the promises that should mobilize them.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 12 / 25**
+- *Textual Fidelity (10 pts): 6* — The sermon identifies genuine promises from 1 Peter 1 (sanctification, new birth, living hope, imperishable inheritance, guarding). These are real textual movements. However, each is treated briefly as a promise-to-claim rather than expounded from its place in Peter's argument. The passage's own structure — a berakah (blessing) leading to a theology of tested faith in vv. 6–9 — is not surfaced.
+- *Contextual Awareness (5 pts): 3* — Helpful continuity from the prior sermon (elect exiles). The persecution context is acknowledged. The exilic context is present. But the letter's origin — Peter writing to dispersed Jewish-Christian and Gentile communities under Roman pressure — is underdeveloped.
+- *Exegetical Clarity (5 pts): 2* — The definition of sanctification as "the amount of righteousness that's required for salvation" (line 51) is a doctrinal error. Sanctification is not the righteousness required for salvation — that is justification. Sanctification is the ongoing work of the Spirit making the believer progressively holy. This error is not a slip; it is stated as a definition and then built upon. It muddles the very doctrine the sermon is trying to teach.
+- *Logical Faithfulness (5 pts): 1* — The sermon's structure is a promise-survey rather than an argument-following. As a result, it does not demonstrate how Peter's thought moves. The sermon could be rearranged in several different orders without loss, which indicates that the text's own logical progression is not being followed.
+
+**2. Theology & Doctrinal Integrity — 10 / 18**
+- *Christ-Centeredness (7 pts): 4* — Christ is more present in this sermon than in the prior one. The resurrection is briefly but genuinely noted: "Jesus is still alive! He is our hope." The imputed righteousness note ("his righteousness is put in our account") is accurate and welcome. But these are brief statements rather than developed proclamations.
+- *Redemptive-Historical Awareness (3 pts): 2* — The Old Testament election material (Deuteronomy 7, Acts 13) and the Esau/Jacob narrative are helpful. There is a sense of God's unfolding purpose across history. The connection to the new covenant is less developed.
+- *Doctrinal Precision (4 pts): 2* — The sanctification error noted above is significant. It conflates justification and sanctification in a way that will confuse a congregation trying to understand how salvation works. The imputed righteousness statement partially corrects it but does not fully repair it. Beyond this error, the doctrinal content on election and perseverance is generally sound.
+- *Confessional Alignment — 1689 Pulse (4 pts): 2* — The perseverance of the saints section (lines 57–63) is excellent material — the rhetorical questions about whether the believer can destroy an imperishable inheritance are pastorally strong and confessionally aligned. The election material is also sound. The sanctification definition is the weak point.
+
+**3. Gospel Centrality & Force — 5 / 15**
+- *Clarity of the Gospel (5 pts): 1* — The gospel is gestured at twice but never preached. "Jesus died on that cross" is stated. Imputed righteousness is mentioned. But no coherent gospel proclamation is offered. The closing line — "That starts with the gospel" — functions as a deferral, not a declaration.
+- *Necessity of Christ (5 pts): 3* — Christ is more necessary to this sermon than the prior one. The resurrection is named, imputed righteousness is mentioned, and the blood of Christ appears as the purchase price of salvation. Christ is not decorative here; he is referenced as the mechanism of grace. But "referenced" is not the same as "preached."
+- *Cross-Centered Gravity (5 pts): 1* — The sermon does not move toward the cross. It moves toward the promises of perseverance and the comfort of God's still working on us. These are good themes, but the cross is not the gravitational center.
+
+**4. Conscience & Applicatory Force — 8 / 15**
+- *Heart Penetration (5 pts): 3* — The Esau/Jacob section is the sermon's strongest moment of pastoral penetration. The image of God loving Jacob too much to leave him comfortable, and the direct connection to the congregation's suffering (Kathy in the hospital, Marie, Dalia, Carol) is a genuinely pastoral move. The preacher names real people and real pain and connects it to the text's theology of sanctifying suffering. This is the most powerful section of the sermon.
+- *Specificity (5 pts): 3* — The naming of congregation members by name (line 87) is a form of applied specificity that is pastoral and concrete. This is the sermon's clearest application of its theology to the actual congregation.
+- *Spiritual Differentiation (5 pts): 2* — The sermon addresses believers under suffering well. It does not meaningfully address the unconverted, the doubting, the hardened, or the self-righteous. Perkins' taxonomy is not employed. The closing line ("only available to those that know and have a relationship with Jesus") gestures toward the unconverted without actually addressing them.
+
+**5. Exhortation & Response — 2 / 8**
+- *Call to Response (4 pts): 1* — The sermon closes with a hymn and a reference to the gospel. There is no imperative, no summons, no "therefore." What must I now do? The sermon does not answer this.
+- *Equipping for Holiness & Witness (4 pts): 1* — The congregation is comforted but not sent. The suffering-as-sanctification theme could generate a rich exhortation (endure your suffering as a means of grace; pursue God in the difficulty; do not waste your afflictions). None of this is explicitly summoned.
+
+**6. Structure & Logical Flow — 5 / 9**
+- *Clarity of Outline (4 pts): 2* — The sermon presents itself as a promise-survey (first... next... the next one...), which gives it a list structure rather than a developing argument. The list is followable but not memorable as an outline.
+- *Progression (3 pts): 2* — The sermon builds toward the Esau/Jacob section, which is its best material and its emotional apex. That progression is natural and effective. The closing hymn, however, dissipates rather than lands the argument.
+- *Unity (2 pts): 1* — The sermon has several competing threads: election, sanctification, perseverance, Jacob's suffering, and the sovereignty of God in persecution. These are related but not unified under a single driving idea. A congregation trying to summarize the sermon in one sentence would struggle.
+
+**7. Illustration & Imagination — 3 / 5**
+- *Relevance (2 pts): 2* — The horse-and-bit illustration, the parking lot marine, and the truck owner are accessible and concrete. The congregation can see these things.
+- *Clarity (2 pts): 1* — The horse-and-bit illustration runs long and loses its connection to the main point about election and submission. By the time the application arrives ("when we say the same thing about God people chafe"), the illustration has spent several sentences on horse-training logistics that do not advance the theological point.
+- *Memorability (1 pt): 0* — The illustrations are serviceable but not native to the text. The Esau/Jacob narrative (drawn from the sermon itself) is the most memorable image the sermon offers — and it is textual, not invented.
+
+**8. Sermonic Force — 3 / 5**
+- *Reads as Preaching (2 pts): 2* — The manuscript reads conversationally, with direct address and natural oral cadence. The personal asides ("I knew a guy," "I covered his car top to bottom in bumper stickers") are warm and accessible.
+- *Conviction on the Page (2 pts): 1* — The sermons warmth is genuine but its theological conviction is unevenly distributed. The election and perseverance sections have some force. The gospel never arrives to carry the full weight.
+- *Cadence and Breath (1 pt): 0* — Sentences are relatively uniform. The closing hymn is the emotional high point, but it is borrowed rather than earned through the sermon's own rhetorical buildup.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1 (Slightly dense — one fewer concept would help)**
+
+The sermon covers election, sanctification (with a definitional error), new birth, living hope, imperishable inheritance, guarding by God, Esau/Jacob, and suffering-as-sanctification. Each is treated briefly. For a congregation that is also being asked to hold the prior sermon in mind, this is a moderate tracking demand. The accessibility of the illustrations and the conversational tone keep it from becoming inaccessible, but one fewer concept — or one longer developed concept — would serve the congregation better.
+
+**Total with modifier: −1 applied.**
+
+---
+
+### 7. Total Score
+**Base: 48 / 100**
+**Cognitive Load Modifier: −1**
+**Total: 47 / 100**
+
+*Score is capped at 69 due to two fatal flaw flags. The raw score of 47 falls well below that cap, indicating structural weaknesses that are not merely about missing a gospel conclusion but about the sermon's foundational construction.*
+
+**Interpretation: Fundamentally flawed. Rebuild from the text.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** More of God's sovereignty and God's work in me than of Christ specifically. The sermon is more God-centered than Christ-centered. The Father's electing love and the Spirit's sanctifying work appear; the Son's mediating work does not get the weight it requires.
+
+2. **Did I encounter God, or just ideas about Him?** The Esau/Jacob section comes close to an encounter — it is the one moment where the preacher moves from idea to reality in the congregation's actual lives (naming the suffering members by name). That moment has genuine pastoral gravity. The rest is largely instructional.
+
+3. **Was I comforted, convicted, or merely informed?** The congregation is comforted — particularly in the Esau/Jacob and the perseverance-of-saints sections. They are informed about election, new birth, and sanctification. They are not convicted, and they are not exhorted.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Esau/Jacob section connected to the congregation's real suffering** (line 87) is the sermon's finest pastoral moment. The preacher moves from biblical narrative to named individuals in the congregation who are suffering, and draws the explicit connection: hard times mean God is still working on you. This is specific, compassionate, and textually grounded. It is the kind of pastoral application that makes people feel seen.
+
+2. **The perseverance-of-the-saints rhetoric on the imperishable inheritance** (lines 57–63) is effective. The series of rhetorical questions — "Can you go to heaven to steal it? Can you somehow corrode it away when God is protecting it?" — is the sermon's most convincing oratorical moment. It presses the logic of God's sovereignty into the anxiety of the believer who fears losing their salvation, and it does so with force and clarity.
+
+3. **The Old Testament election material** (Deuteronomy 7, Acts 13) and the engagement with the Israel-to-Gentile election thread shows a redemptive-historical instinct that is valuable in a congregation learning to read the whole Bible as one story. The continuity between Old and New Testament election is not a given in many evangelical pulpits, and the preacher handles it with appropriate care.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The definition of sanctification is doctrinally wrong and must be corrected.** Line 51: "It's the amount of righteousness that's required for salvation." This is the definition of justification (the imputed righteousness of Christ credited to the believer), not sanctification. Sanctification is the ongoing work of the Holy Spirit producing holiness in the believer over time. Teaching the wrong definition of sanctification in a sermon that depends on the doctrine of sanctification is a significant error that will lodge in the congregation's understanding and require correction later. The partial recovery later in the sermon ("his righteousness is put in our account") does not repair the definitional error because most hearers will not connect the two.
+
+2. **The letter is attributed to Paul for the second consecutive sermon in this series** (line 51: "Paul writes"). This is now a pattern. Peter wrote 1 Peter. This is not a peripheral detail — the identity of the author shapes how the congregation reads the letter and what they understand about its historical and pastoral context. A correction at the opening of the next sermon, brief and without drama, is necessary.
+
+3. **The gospel is deferred to a closing reference rather than preached.** "That starts with the gospel" (line 121) is the most pastorally costly line in the sermon, because it acknowledges that the gospel is the gateway to everything just proclaimed — and then does not deliver it. An unbeliever in the room has just been told that all the promises belong to those who know Jesus, and that it starts with the gospel. They have not been told what the gospel is. A curious, seeking, or convicted person is left without the one thing they most need to hear.
+
+---
+
+### 11. Blind Spots
+
+The preacher has a genuine pastoral gift for making theology concrete and for naming real people and real pain in the sermon's application. He likely does not see that this gift is operating below its potential because the doctrinal foundation it should rest on (justification, atonement, regeneration) is not sufficiently clear in the sermon. The pastoral application and the doctrinal teaching are running on parallel tracks rather than the pastoral emerging from the doctrinal.
+
+Additionally, the preacher may not see that closing with a hymn, while emotionally satisfying, absorbs the energy the sermon needs in order to land on an exhortation. The hymn is a comfort. The sermon needed a command.
+
+---
+
+### 12. Illusion of Strength
+
+The Jacob/Esau section reads as the sermon's strongest material, and in terms of pastoral narrative it is. But its strength masks that it is the section least directly connected to the text being preached (1 Peter 1). The Jacob story is introduced via Paul Washer, not via the passage. The comfort it provides is real, but the congregation is being comforted by an illustration of a theological principle rather than by the passage itself opening up and addressing them. The section's emotional weight makes it feel like the sermon arrived somewhere; in expositional terms, it departed from the text to do so.
+
+---
+
+### 13. Missed Opportunity
+
+**1 Peter 1:6–9 — The tested faith passage.** The sermon gestures at the suffering-as-sanctification theme through the Jacob narrative but does not open vv. 6–9, where Peter himself addresses trials explicitly: "In this you rejoice, though now for a little while, if necessary, you have been grieved by various trials, so that the tested genuineness of your faith — more precious than gold that perishes though it is tested by fire — may be found to result in praise and glory and honor at the revelation of Jesus Christ." This is Peter's own theology of suffering, applied to the exact congregation receiving the letter. The preacher imports Washer's Jacob illustration to make a point that the text makes directly and more powerfully. The congregation needed to hear Peter say it, not hear an illustration of Peter saying it.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Correct the sanctification definition immediately.** Replace the current definition with: "Sanctification is the ongoing work of the Holy Spirit in the believer — making us more like Christ over time, progressively conforming us to his image. It's not what earns salvation; it's what God does in us after salvation." Then connect this to 1 Peter 1:2: the Spirit's sanctifying work is part of the Trinitarian act by which God brings his elect to himself.
+
+2. **Correct the Pauline attribution.** At the opening of the next message, or within this manuscript, replace "Paul writes" with "Peter writes." Consider briefly naming why it matters: Peter — the man who denied Christ three times, was restored, and later died for that same Christ — writes about the secure hope of elect exiles. The pastoral authority behind those words is not interchangeable.
+
+3. **Preach the gospel before the closing hymn.** Replace the closing line "That starts with the gospel" with the gospel itself. Two or three minutes of direct, clear proclamation: Christ died in the place of sinners, bore the wrath that elect sinners deserved, rose from the dead, and is the only hope of salvation. Faith in him — not religious effort, not wearing the right jersey — is how one comes into possession of the imperishable inheritance. Then close with the hymn as a response to what was just declared, not as a substitute for it.
+
+4. **Add a clear exhortation after the Jacob narrative.** The suffering-as-sanctification theme demands a corresponding imperative. Consider: "Do not waste your suffering. Do not run from the fire. Do not beg God to make it stop before he has finished what he started. Run to him in it. Let him have the chisel. Let him do what love requires." This is a specific, summoning, pastorally grounded exhortation that emerges directly from the Jacob material already in the sermon.
+
+5. **Open 1 Peter 1:6–9 as the textual foundation for the Jacob material.** Rather than importing Washer's Jacob illustration and then looking back for a proof-text, begin with vv. 6–9 — Peter's own theology of tested faith — and let the Jacob story serve as an illustration of what Peter already said. This inverts the current structure (illustration precedes text) to the correct one (text governs illustration), which is the difference between a sermon and a devotional.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — the sermon has too much pastoral warmth and too many applicatory moves to be cold. The concern is not dead orthodoxy but incomplete gospel and doctrinal imprecision. Different diagnostic, different prescription.
+
+---
+
+### 16. Weight of Glory Statement
+The sermon carries genuine pastoral love for the congregation — the naming of specific suffering members by name is a moment of real weight — but the eternal gravity of the passage's Trinitarian election, blood-sealed covenant, and tested-faith-for-glory is not yet fully present on the page; the sermon comforts well, but it does not yet make the congregation feel the weight of belonging, at infinite cost, to an imperishable inheritance.
+
+---
+
+### 17. Rubric Fit Note
+This rubric is well-suited to 1 Peter 1 as a New Testament epistle. One note of fit adjustment: the sermon covers the full chapter rather than a single pericope, which means it operates as a survey/overview message rather than a close expositional treatment of a single unit. The rubric's exposition scores reflect this — the breadth of coverage is appropriate for a survey message, but the depth of exegetical development that the rubric expects from a tight expositional sermon is harder to achieve across an entire chapter. The evaluation accounts for this by not penalizing breadth per se, but by noting where depth was possible and not taken. The genre fit is otherwise appropriate.

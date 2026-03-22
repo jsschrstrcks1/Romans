@@ -307,3 +307,200 @@ Raw notes cite this passage with "(read at home)" — suggesting you intend to p
 
 ### Sermon Is Incomplete
 Notes end at "Romans 10:9 — preach gospel here." The gospel presentation and any closing appeal need to be written or preached verbally.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Warm Pastoral Bones, Unfinished Gospel Arch — A Draft That Must Be Completed Before It Can Preach**
+
+---
+
+### 2. One-Sentence Summary
+A textually grounded and pastorally affectionate opening of James 1:1–4 that earns genuine warmth through personal illustration and honest exhortation, but whose gospel presentation is explicitly unwritten, whose conscience-work is uneven, and whose structural unity is diluted by imported material from the Baptist Faith and Message and Galatians 5.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: PASS (conditional)**
+The sermon's thesis — that God tests His bondservants through trials to produce steadfastness, and that steadfastness is grounded in Christ's own endurance — arises demonstrably from James 1:1–4. The main point of the sermon matches the main point of the passage.
+
+**Authority Test: PASS**
+The preacher submits to what the text says, including the hard word that trials are inevitable ("when," not "if"). He does not soften this claim.
+
+**Conditional note:** The Berean Gate passes on the existing material. But because the sermon is explicitly incomplete — the gospel presentation is a placeholder — the full evaluation must note that what has been written does not constitute a complete sermon. The gate assessment covers what exists.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG: No clear gospel presentation — Christ's finished work is absent or assumed, never proclaimed.**
+The sermon's only gospel section reads: *"Romans 10:9 — preach gospel here. Notes end."* This is not a gospel presentation. It is a reminder to give one. As submitted, the sermon fails fatal flaw #1. The score is capped at 69.
+
+**No other fatal flaws triggered** in the existing material, though the partial nature of the manuscript means several categories cannot be fully evaluated.
+
+*Score cap: 69 maximum.*
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 18 / 25**
+
+- *Textual Fidelity (10):* 7/10. The sermon stays meaningfully close to James 1:1–4. The δοῦλος treatment in section I is exegetically honest and carefully distinguishes belonging from purchase — a commendable precision. The ὑπομένω treatment in section II shows genuine engagement with the Greek. However, the sermon spends considerable ground on material that leaves the text behind: the Baptist Faith and Message quote, the Galatians 5 vice list, and the Noah illustration are orbits that don't return cleanly to the passage.
+- *Contextual Awareness (5):* 3/5. The letter's audience — Jewish Christians in diaspora under pressure — is barely mentioned. The Dispersion context would have sharpened everything: these were people in the middle of the crucible by social condition, not just individual suffering.
+- *Exegetical Clarity (5):* 4/5. The Greek word studies (δοῦλος, ὑπομένω) are handled with pastoral care and lexical honesty. The correction note about not presenting "purchased" as the bare definition of doulos is exactly right.
+- *Logical Faithfulness (5):* 4/5. No eisegesis detected. The sermon doesn't import ideas — it does, however, import passages (Galatians 5, the BFM) that aren't native to the text's argument.
+
+**Fallen Condition Focus:** Partially named. The condition is suffering and trial, and the text's answer is steadfastness through faith. The preacher names this. But the deeper fallen condition James presupposes — that we are by nature self-willed, impatient, and rootless — is not named concretely. The sermon works around it rather than through it.
+
+**2. Theology & Doctrinal Integrity — 13 / 18**
+
+- *Christ-Centeredness (7):* 5/7. Christ appears as both the purchaser (1 Cor 6:20), the model of endurance (Heb 12), and the foundation of steadfastness (1 Cor 15:57–58). This is organic to James's own christological frame. The crucifixion description in section II is vivid and honest. Minor deduction: the connection between Christ's endurance and our endurance could be drawn more tightly — why His suffering is the *ground* of our endurance, not merely the *example*.
+- *Redemptive-Historical Awareness (3):* 2/3. The Christ-connection is mostly exemplary (He endured, so can we) rather than covenantal (He endured *for us*, therefore we endure *in Him*). The indicative-before-imperative structure is partially present but not fully realized.
+- *Doctrinal Precision (4):* 3/4. No theological errors. The purchase language is handled well. The statement "It was our actions that required the death of Christ" is sound in substance but could be sharper on substitution — it reads more morally than substitutionally.
+- *Confessional Alignment (4):* 3/4. No contradiction of confessional theology. The sermon operates at a broadly evangelical level. Where it touches soteriology it is accurate. The perseverance section is handled carefully.
+
+**3. Gospel Centrality & Force — 5 / 15**
+
+This is the sermon's critical wound — and it is self-diagnosed. The gospel section is literally a note to self. What does exist:
+- The cross is described with power in the Hebrews 12 section.
+- The purchase language (1 Cor 6:20) is present.
+- But justification by faith is nowhere articulated. The call to repentance and belief is nowhere completed.
+
+*Synagogue Test:* A devout non-Christian could sit through this sermon as currently written and not be confronted with the necessity of Christ's atoning blood for their justification. The sermon tells them Christ endured and died — but never tells them why that death is their only hope before God. The test is not fully passed.
+
+*The Law/Gospel Dialectic:* The Galatians 5 vice list functions as law — and there is a conscience-pressing moment ("If Jesus were to look at your life today, would He find He had a good servant?"). But the gospel relief — the answer to that question for the man who falls short — is placeholder text.
+
+**4. Conscience & Applicatory Force — 9 / 15**
+
+- *Heart Penetration (5):* 4/5. The sermon has genuinely good pastoral searching moments. "Just between you and God. Right here. Right now." is direct address at a pressure point. The Dottie illustration (though a placeholder for confirmation) shows the preacher knows how to press a real person's story into the sermon's argument. These are marks of a pastoral conscience at work.
+- *Specificity (5):* 3/5. The BFM quote and its application to sexual immorality is specific — perhaps more topically driven than textually required, but it shows the preacher is willing to name things. The "good servant" mirror is specific in form but generic in list (mow, clean, decorate, answer phones). It names congregational activity without naming the deeper heart-service the text calls for.
+- *Spiritual Differentiation (5):* 2/5. The sermon addresses primarily the believer. The unbeliever is gestured toward at the end of section III ("might I suggest you are not yet a believer") but not substantively addressed. The backslider and the knowledgeable-but-unmoved are not reached. Perkins' categories are largely not deployed.
+
+**5. Exhortation & Response — 4 / 8**
+
+- *Call to Response (4):* 2/4. The practical tools for steadfastness at the close of section III are the sermon's clearest exhortation: put on the full armor, quote Scripture, remember God's promises, keep a higher focus. These are real and actionable. But the primary exhortation of the text — *count it all joy* — is never explicitly called for as a commanded response. The congregation is told joy is appropriate; they are not summoned to it.
+- *Equipping for Holiness & Witness (4):* 2/4. The sermon sends no one out. There is a witness note ("What if how you hold up under trials is the only Bible someone around you ever reads?") — this is sharp and worthy of development. But it is a single sentence, not developed into a genuine equipping.
+
+**6. Structure & Logical Flow — 6 / 9**
+
+- *Clarity of Outline (4):* 3/4. Three sections are traceable: (I) bondservant identity, (II) trials produce steadfastness, (III) steadfastness grounded in God's unchanging nature. A listener could follow this. The headings are clear.
+- *Progression (3):* 2/3. The sermon builds toward the 1 Corinthians 15 climax, which is its best moment. However, the Galatians 5 excursus in section I and the BFM quote at the opening interrupt the progression — they feel like detours rather than development.
+- *Unity (2):* 1/2. The sermon's dominant idea — bondservants endure trials through faith in the enduring Christ — is present but competes with: sexual ethics (Galatians 5), Baptist confessionalism (BFM Article III), and the list of congregational volunteers. The single mother following this sermon might lose the thread at the BFM quote.
+
+**7. Illustration & Imagination — 4 / 5**
+
+This is a genuine strength. The Marine Crucible illustration is native to the text's own word (crucible), well-developed, and memorable. The nephew in the wind is tender and theologically apt — Christ walking beside us through the storm. The Gilmore hymn is used well, not decoratively. The Noah illustration is brief but vivid. One minor deduction: Downton Abbey is used for a conceptual illustration of servant identity — it works, but it is softer than the military and personal illustrations that surround it.
+
+**8. Sermonic Force — 3 / 5**
+
+- *Reads as Preaching (2):* 2/2. This manuscript reads like preaching. The oral cadence is present throughout. "Count it all joy. When storms come." Direct address is used well. Short sentence staccato at emotional peaks.
+- *Conviction on the Page (2):* 1/2. The moments of conviction are real but inconsistent. The crucifixion description in section II earns its force. The closing "practical tools" list feels like a handout, not a summons.
+- *Cadence and Breath (1):* 0/1. The sermon does not have a climax. The 1 Corinthians 15:57–58 quote points toward one — "Death has no sting. We have the victory because of Jesus Christ. *Therefore, be steadfast.*" — but the sermon doesn't land there. It dissipates into a bullet-point list.
+
+---
+
+**Subtotal: 62 / 100**
+
+---
+
+### 6. Cognitive Load Modifier: **−1**
+
+The sermon is not inaccessible, but the imported material (BFM Article III at length, Galatians 5 vice list, multiple side illustrations) adds density without direction. An average church member can follow the main argument but may lose the thread at the BFM quote and again at the Galatians 5 insertion.
+
+---
+
+### 7. Total Score
+
+**62 − 1 = 61 / 100**
+
+*(Score capped at 69 by fatal flaw. Actual calculated total: 61. Cap not required to apply — the score falls below 69 on its own.)*
+
+**Interpretation: Concerning gaps. Often the sermon explains but doesn't preach. Significant revision needed.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Partly Christ, partly myself. The δοῦλος section and the "good servant" mirror focus heavily on the hearer's performance. The Hebrews 12 Christ-as-model section genuinely redirects to Christ. The balance is unresolved.
+
+2. **Did I encounter God, or just ideas about Him?**
+The Dottie illustration and the hymn come closest to encounter. The practical tools list does not.
+
+3. **Was I comforted, convicted, or merely informed?**
+Convicted in places (the servant mirror). Comforted in the nephew/hymn section. But the circuit never completes — the gospel relief for the conviction is missing.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Exegetical honesty with the Greek.** The δοῦλος treatment — carefully distinguishing the belonging meaning from the purchase meaning and citing 1 Corinthians 6:20 for the latter — models the kind of transparency that builds congregational trust. The preaching notes reinforce this with the explicit correction: "Do not present 'purchased' as the definition of doulos alone from the pulpit."
+
+2. **The Marine Crucible illustration.** Native to the text's own vocabulary, concrete, well-proportioned, and personally grounded (the preacher's cousins). This is exactly how illustrations should work — not decorative but explanatory, not abstract but embodied.
+
+3. **The Hebrews 12 / Christ's endurance section.** The description of Christ's kenosis (from King to feed trough, from issuing orders to requiring someone to wipe His backside) is vivid and theologically serious. The application — "who are we to complain when we become uncomfortable?" — earns its force rather than assuming it.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is a placeholder.** "Romans 10:9 — preach gospel here. Notes end." This is the sermon's most urgent problem. The sermon presses the conscience (are you a good servant?), describes the cross vividly, and then does not give the hearer what they need: justification by faith clearly stated, repentance called for, the one who falls short of being a good servant told where to go. As submitted, the sermon leaves the guilty standing in the courtroom after the verdict, with no announcement of pardon.
+
+2. **The Baptist Faith and Message Article III is a structural intrusion.** The BFM quote appears in the opening, runs to eleven sentences, and is presented as connecting James to "our third article." But the connection is thin — the passage is about doulos identity, not anthropology and gender. The quote brings in sexual ethics, racial dignity, and creation theology, and the sermon pivots to Galatians 5:19–21 sexual immorality before returning to James. This is not James's argument. The sermon imports a doctrinal agenda that the text does not generate.
+
+3. **Exhortation dissolves into a bullet-point list.** The sermon's closing exhortation — "Practical tools for steadfastness under spiritual assault" — is four bullet points: armor of God, quote Scripture, remember promises, keep a higher focus. These are not wrong. But they are not preaching. They are a handout. The sermon never arrives at a "therefore" moment that looks the congregation in the eye and says: *now go and do this specific thing in your actual life this week.*
+
+---
+
+### 11. Blind Spots
+
+The preacher likely doesn't see how thoroughly the BFM Article III insertion redirects the sermon's energy. What feels like a pastoral connection point ("this feeds into our third article") is functioning as a detour that imports a topical agenda (sexual ethics, created gender) that James 1:1–4 does not raise. The congregation may follow — but the sermon's coherence pays the cost.
+
+There is also a potential blind spot around the servant imagery. The sermon focuses predominantly on external service (tasks, behavior, conduct) rather than the internal disposition of belonging. The δοῦλος word study opened this door — a slave belongs entirely to another — but the application closes it again into a list of tasks ("mow, clean, decorate, answer phones"). The text calls for something deeper: a reorientation of self-ownership.
+
+---
+
+### 12. Illusion of Strength
+
+The Galatians 5 section feels like faithful biblical content — and the individual exegesis is not wrong. But its presence in this sermon creates an illusion of applicatory depth that is actually applicatory drift. The preacher is pressing on real sins, naming things the congregation needs to hear — but the text (James 1:1–4) is not the source of that pressing. The conviction is real; the textual grounding for it is borrowed from elsewhere. A listener will feel this was searching — but what was searched was not James.
+
+---
+
+### 13. Missed Opportunity
+
+The phrase "perfect and complete, lacking in nothing" (τέλειος καὶ ὁλόκληρος) in James 1:4 is not developed at all. This is the text's own destination — the telos of the crucible. The preacher stops at steadfastness and does not arrive at completeness. This was a significant gospel opportunity: the trials produce steadfastness, steadfastness produces completeness — and yet we are not yet complete, which is why the trials are necessary, and why Christ who is already complete is our only hope of arriving there. That connection between our incompleteness and Christ's perfection — our need and His sufficiency — is the precise hinge where the gospel was most available from this passage, and it was passed over.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Write the gospel presentation before preaching this sermon.** The placeholder must become proclamation. Specifically: name what the hearer who fails the "good servant" mirror must do. Justification by faith. The cross as propitiation, not merely example. The call to repentance and belief. Romans 10:9 is the right text — but the connection from the sermon's argument must be made: *you have not been a perfect bondservant — neither have I — and the only reason that failure is not final is that Christ, the perfect bondservant who endured all things for the Father's glory, bore what we deserved. Believe in Him, and you are free.*
+
+2. **Remove or abbreviate the Baptist Faith and Message quote.** If the doctrinal connection is essential to the sermon's context, quote one sentence and move on. The full eleven-sentence article is better handled in a Bible study or a doctrinal series. Its presence here costs the sermon's unity more than the connection gains.
+
+3. **Develop "perfect and complete, lacking in nothing" as the sermon's climax.** The text's own destination — completeness — is the sermon's most available gospel hinge. Add a section that asks: what would a person "lacking in nothing" look like? And then: only Christ is that. Only in union with Him do we arrive at completeness. The trials serve that end.
+
+4. **Replace the closing bullet-point list with a direct exhortation.** The "practical tools" section should be a summons, not a handout. Consider the Puritan pattern: conviction (you are not yet steadfast), direction (here is what steadfastness looks like in your actual week), consolation (Christ has already run this race perfectly for you). End with a specific "therefore" command: *this week, when the trial comes — and it will — do not run. Abide. Quote the Word. Look at the Rock.*
+
+5. **Address the unbeliever directly in section III.** The gesture toward unbelievers ("might I suggest you are not yet a believer") is too gentle and too brief. If someone in the room does not yet have a rock to build on, tell them plainly what to do and where to go.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon has genuine pastoral warmth and personal heat. It is not bloodless. The Dottie illustration, the nephew illustration, and the direct address moments ("just between you and God, right here, right now") demonstrate that the preacher is pastorally engaged with real people. The problem is not dead orthodoxy — it is an incomplete gospel and an unfinished manuscript.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The hymn ("He Leadeth Me") and the image of Christ walking a frightened child through the storm carry genuine eternal gravity — but the sermon does not yet arrive at the weight it is reaching for, because the gospel that would make that gravity complete has not yet been written.
+
+---
+
+### 17. Rubric Fit Note
+
+James 1:1–4 is wisdom literature in epistolary form — and the rubric fits it well. The passage's own structure (identity → trial → steadfastness → completeness) maps cleanly onto the rubric's expectations for exposition, application, and exhortation. No genre strain detected. The primary evaluative pressure this rubric rightly applies — gospel centrality, exhortation, conscience-work — is exactly what this passage (and its preacher) most need.

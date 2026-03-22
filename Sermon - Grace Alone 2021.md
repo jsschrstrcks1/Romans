@@ -246,3 +246,223 @@ Perhaps you are here tonight and have never made that decision.
 Tonight's the night.
 
 *[Gospel]*
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Earnest Gospel Warmth with a Truncated Text and a Missing Exhortation Engine**
+
+---
+
+### 2. One-Sentence Summary
+A warm and doctrinally earnest opening of Sola Gratia that correctly grounds total depravity in John 6 and lands the grace of God clearly, while suffering from a thin exegetical base, an abrupt conclusion, a buried or absent gospel call, and an applicatory structure that comforts the converted without sufficiently cornering the unconverted.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with concern**
+
+*Scopus Test*: The sermon's thesis — that salvation is entirely by God's grace and that human beings contribute nothing to it — does arise from John 6:44 and 6:65, which plainly assert that no one can come to Christ unless the Father draws him. The text's main point (divine initiative in salvation, the total inability of the natural man) is the sermon's main point. Pass.
+
+*Authority Test*: The preacher submits to the text's uncomfortable claim — that natural persons cannot come to God — and does not soften it. He names total depravity plainly and applies it without hedging. Pass.
+
+Concern: The sermon's textual anchor is almost entirely John 6:44 and 6:65. The surrounding verses (43–51, 60–64) — which include Jesus' Bread of Life discourse and his dialogue with the grumbling disciples — receive almost no treatment. The text is used as a launching pad more than a sustained passage. The exposition stays close enough to avoid failing the gate, but the treatment is thin.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 5 — No actual exhortation (TRIGGERED, SOFT)**
+
+The sermon ends with: "Perhaps you are here tonight and have never made that decision. Tonight's the night." followed by a bracketed "[Gospel]" placeholder. This is not an exhortation — it is a gesture toward one. The gospel call is not written out. The congregation is warned, illustrated, and doctrinally informed, but never summoned in written form to a specific response. The text "Tonight's the night" is a closer, not an exhortation. The flag is soft (the *intent* is present; the *content* of the call is absent in the manuscript), but it is real.
+
+**No other fatal flaw flags triggered.**
+
+Score is not capped, but the soft exhortation flag will cost meaningful points in Category 5.
+
+---
+
+### 5. Score Breakdown
+
+**Category 1 — Exposition & Hermeneutics: 15 / 25**
+
+- *Textual Fidelity (10)*: 6/10. The sermon correctly identifies John 6:44 and 6:65 as teaching divine initiative and human inability. However, the passage assigned (vv. 43–51, 60–65) is broader than the two verses cited. The Bread of Life context — Christ as the living bread that gives life to the world (v. 51), the Father giving people to the Son (v. 44), the disciples stumbling at hard sayings (vv. 60–61) — is not exposited. The sermon uses the passage for its doctrinal freight without tracing its argument.
+- *Contextual Awareness (5)*: 2/5. The redemptive-historical location of John 6 (Jesus as the true Manna, Passover context, exodus typology) is entirely absent. No sense of why Jesus says this here, to this crowd, on this occasion.
+- *Exegetical Clarity (5)*: 4/5. What little exegesis is offered is clear and accessible. The preacher is transparent about what the verses mean, and the congregation can follow. Greek is not employed but is not missed here.
+- *Logical Faithfulness (5)*: 3/5. The pivot to the Reformation/Catholic history section in the early portion of the sermon, though intentional (Sola Gratia in the Reformation context), is not tightly bridged back to the text. Ephesians 2 is summarized but not turned to. The Fallen Condition Focus is present (total depravity, inability) but not named or located precisely in the text.
+
+**Category 2 — Theology & Doctrinal Integrity: 15 / 18**
+
+- *Christ-Centeredness (7)*: 5/7. Christ is present and necessary — the cross is named, the new birth is central, and the sermon correctly roots human inability and divine grace in Christ's work. However, the cross itself receives only passing treatment ("He provided the cross for that"), and the resurrection is not integrated into the grace argument.
+- *Redemptive-Historical Awareness (3)*: 1/3. No sense of where John 6 sits in the redemptive story. The Sola Gratia argument is made from a doctrinal grid rather than from the text's own narrative location.
+- *Doctrinal Precision (4)*: 4/4. Justification is affirmed. Total depravity is clearly stated. Election is referenced via BF&M Article V. Perseverance of the saints is included. The preacher avoids theological sloppiness where it matters.
+- *Confessional Alignment — 1689 Pulse (4)*: 5/4. The BF&M Article V citation is an unusual choice (this is a Reformed Baptist context, and the 1689 is nearer to the theological tradition), but the content is fully confessionally aligned. Election, regeneration, perseverance — all present, all orthodox. Award full marks; the confessional pulse is present and clear.
+
+**Category 3 — Gospel Centrality & Force: 10 / 15**
+
+- *Clarity of the Gospel (5)*: 3/5. The gospel content is present — sin, inability, the cross, grace, faith — but it is assembled piece by piece across the sermon rather than proclaimed as a unified declaration. Justification by faith is named but not explained. The cross is mentioned but not expounded.
+- *Necessity of Christ (5)*: 4/5. Christ is essential to this sermon. The sermon could not survive intact without him. The new birth and grace through Christ are not peripheral — they are the argument.
+- *Cross-Centered Gravity (5)*: 3/5. The sermon gestures toward the cross but does not dwell at the cross. "He provided the cross for that" is the fullest statement. The cross is asserted, not proclaimed. The law has time to land, but the gospel relieves it too briefly.
+
+Synagogue Test: A devout non-Christian would find the necessity of Christ's blood lightly offensive — it is mentioned — but would not be cornered by it. The cross is present but not the focal point. Partial concern.
+
+**Category 4 — Conscience & Applicatory Force: 9 / 15**
+
+- *Heart Penetration (5)*: 3/5. The Bible Belt / cultural Christianity section is genuinely diagnostic — "you can look real good and still be as lost as a goat" — and presses the conscience of the nominal Christian. The R.C. Sproul anecdote about loving God is well-placed. The sermon does search the heart in these moments.
+- *Specificity (5)*: 3/5. The application has real specificity in the cultural Christianity warning. Less specific elsewhere. The personal illustrations (kids hanging on ankles) are warm but do not have cutting application attached.
+- *Spiritual Differentiation (5)*: 3/5. The sermon addresses the unconverted (lost in cultural Christianity), the believer (perseverance, grace), and gestures toward the inquirer ("if you are considering following Christ"). The backslider, the humbled-but-not-believing, and the self-righteous are not directly addressed. Perkins' taxonomy is partially engaged.
+
+**Category 5 — Exhortation & Response: 4 / 8**
+
+- *Call to Response (4)*: 2/4. "Tonight's the night" is a summons in tone but not in content. The written manuscript contains a placeholder ("[Gospel]") where the call should be. As a preachable document, the exhortation is effectively absent from the manuscript.
+- *Equipping for Holiness & Witness (4)*: 2/4. Billy Sunday is cited as a witness example, and the cultural Christianity warning implies a call to obedience, but the congregation is not equipped with specific actions for holy living or witness. The missions emphasis (Dar Hamid) points outward, which is commendable, but it is not connected back to the sermon's doctrinal argument.
+
+**Category 6 — Structure & Logical Flow: 6 / 9**
+
+- *Clarity of Outline (4)*: 3/4. The sermon moves through identifiable stages: Reformation context → man's condition → grace already at work → cultural Christianity warning → gospel call. This is traceable, though not formally outlined.
+- *Progression (3)*: 2/3. The Reformation/Catholic section at the start is substantive but feels like a separate sermon unit that has been prepended. The pivot to man's condition is acknowledged ("This message is mostly centered around Sola Gratia, but it necessitates we look at our own condition first") — which is self-aware — but the integration is loose.
+- *Unity (2)*: 1/2. Two competing centers: (1) Sola Gratia as a Reformation distinctive vs. Catholic tradition, and (2) Sola Gratia as the existential reality of the new birth. Both are legitimate, but the seam between them is visible.
+
+**Category 7 — Illustration & Imagination: 4 / 5**
+
+- *Relevance (2)*: 2/2. The illustrations are native to the preacher's world — rental management, kids on the ankles, the dying elderly couple and the indulgence. These land in real life.
+- *Clarity (2)*: 1/2. The Michelangelo / chisel illustration is beautiful but slightly extended; it begins as a picture of sanctification and ends as a theodicy. The kids-on-ankles illustration is charming but the application pivot ("But is it not the same with sin?") is softer than the illustration deserves.
+- *Memorability (1)*: 1/1. The indulgence found in the rental property — that image will stay. Strong.
+
+**Category 8 — Sermonic Force: 3 / 5**
+
+- *Reads as Preaching (2)*: 2/2. This manuscript reads like a spoken sermon. Sentence fragments, direct address, conversational cadence — all present. It is clearly an oral document.
+- *Conviction on the Page (2)*: 1/2. Scripture-to-assertion ratio is moderate. The doctrinal sections rely more on summary than on Scripture driving the proclamation. The Billy Sunday quote is memorable but belongs to a section that reads as illustrative addition rather than sermonic spine.
+- *Cadence and Breath (1)*: 0/1. The sermon does not have a clear climactic moment. It accumulates rather than builds. The ending falls off rather than landing.
+
+---
+
+### 6. Cognitive Load Assessment
+
+**Score: −1**
+
+The sermon is accessible to ordinary hearers. The doctrinal content (total depravity, election, perseverance) is explained in plain language. The Reformation history section adds context that a new believer could follow. One point is deducted because the sermon covers more conceptual ground than it has time to develop — total depravity, divine drawing, Reformation history, Catholic authority, sanctification as sculpting, perseverance, the new birth, and cultural Christianity all appear, and while each is accessible, the cumulative effect is slightly diffuse. The congregation may carry several impressions rather than one sharp truth.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 15 / 25 |
+| Theology & Doctrinal Integrity | 15 / 18 |
+| Gospel Centrality & Force | 10 / 15 |
+| Conscience & Applicatory Force | 9 / 15 |
+| Exhortation & Response | 4 / 8 |
+| Structure & Logical Flow | 6 / 9 |
+| Illustration & Imagination | 4 / 5 |
+| Sermonic Force | 3 / 5 |
+| **Subtotal** | **66 / 100** |
+| Weight of Glory (bonus) | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **67 / 100** |
+
+**Interpretation: Concerning Gaps.**
+
+The sermon explains and warms but does not fully preach. The doctrinal content is largely sound, but the thin exposition, the absent manuscript exhortation, and the gospel-at-a-distance all suppress the score. With the gospel call written out and the John 6 passage genuinely opened, this sermon moves comfortably into the 75–80 range.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?*
+Mostly Christ. The grace-alone argument is theologically self-effacing. The congregation is driven to see their own inability and God's initiative. However, the illustrations (kids on ankles, rental management) are self-referential enough to create a mild pull toward the narrator rather than the Savior.
+
+2. *Did I encounter God, or just ideas about Him?*
+Mostly ideas, with moments of encounter. The indulgence illustration carries genuine moral weight. The cultural Christianity warning has some pastoral heat. But the sermon does not generate the sustained divine gravity that produces encounter.
+
+3. *Was I comforted, convicted, or merely informed?*
+The cultural Christianity section convicts. The grace argument comforts the converted. But the sermon does not fully land on either register — the conviction is real but brief, and the comfort is doctrinal rather than doxological.
+
+---
+
+### 9. Strengths (Top 3)
+
+**Strength 1 — Clear and Courageous Total Depravity**
+The sermon states human inability plainly and without apology: "Apart from God, what we have to offer is what? Zilch. Zero. Zip. Nada. Nothing." The zombies illustration — though unconventional — is effective in its cultural currency, and the preacher resists softening the doctrine. This is a strength in a preaching context where total depravity is often hedged.
+
+**Strength 2 — The Cultural Christianity Diagnostic**
+The section beginning "Want to hear something scary? Is your relationship with God marked by obedience rooted in faith?" is the sharpest moment in the sermon. The Bible Belt warning — "it's easy to look real good and still be as lost as a goat" — corners a real and present danger in the congregation's context. The preacher shows he understands his people's specific vulnerability.
+
+**Strength 3 — The Rental Property Indulgence**
+The story of finding an indulgence in a cleared-out rental — an elderly dying couple's possession — is genuinely powerful. It is concrete, historically grounded, emotionally resonant, and theologically pointed all at once. This is an illustration native to the text and the moment, and it will be remembered.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+**Weakness 1 — The Assigned Passage Is Never Opened**
+John 6:43–51, 60–65 is the stated text. The sermon cites verse 44 twice and verse 65 once. Verses 43, 45–51, 60–64 receive no treatment. The Bread of Life discourse — with its stunning declarations about Christ as the living bread who gives his flesh for the life of the world (v. 51) — is ignored. The very verse that most naturally connects total depravity to the cross (v. 51) is passed over. The text is a proof-text launcher, not an opened passage.
+
+**Weakness 2 — The Gospel Call Is Absent from the Manuscript**
+The sermon ends with "Tonight's the night." and "[Gospel]" — a placeholder. A preacher may have delivered a full gospel call verbally, but as a manuscript document, the exhortation is not written. The most important moment in the sermon is an empty bracket. The written sermon cannot be evaluated, shared, or revised with respect to its gospel call because the gospel call does not exist in the text.
+
+**Weakness 3 — The Conclusion Falls Rather Than Lands**
+After the BF&M citation and the "Sola Gratia Defined" quote, the sermon winds down with doctrinal affirmation and then a brief invitation. There is no climactic moment. The closing sentences — "When God intercedes on our behalf it is an undeserved blessing. If you ask him and mean it, you will be saved — Scripture says so." — are true but thin. The sermon never builds to a peak; it stops. The congregation is not summoned, sent, or slayed — they are told to make a decision and left at the door.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the Reformation/Catholic history section (roughly the first third of the sermon) is functioning as a semi-separate sermon on Sola Scriptura that has been prepended to a sermon on Sola Gratia. The section makes the point that man's word (papal decrees) changes while God's Word does not — but this is Sola Scriptura's argument, not Sola Gratia's. The bridging sentence ("Almost every single one of Luther's theses... had to do with man adding things to Scripture") attempts to connect, but the link to grace is indirect. The preacher may not realize how much of the Reformation material is doing no work for the Sola Gratia thesis.
+
+Additionally, the preacher likely does not see that the Billy Sunday section — though charming and energetic — arrives without landing. The quote is vivid, but it arrives in the middle of an application section and then disappears. It produces a surge of momentum that the sermon does not capitalize on.
+
+---
+
+### 12. Illusion of Strength
+
+The doctrinal density — BF&M Article V, the Boice(?) quote on Sola Gratia, the Edwards attribution, 1 Corinthians 2:14, Ephesians 2:8–9 — creates an impression of theological thoroughness. The sermon *feels* like it has opened the text because it has cited several texts. But citation is not exposition. The doctrinal material is largely correct, but it arrives as quoted authority rather than as exegetical discovery. The impression of depth exceeds the actual depth.
+
+Similarly, the personal illustrations (Michelangelo, kids on ankles) are warm and engaging and create a sense of pastoral intimacy. But warmth is not the same as application. The illustrations comfort; they do not cut.
+
+---
+
+### 13. Missed Opportunity
+
+John 6:51 — "the bread that I will give for the life of the world is my flesh" — is the theological climax of the assigned passage and is entirely absent from the sermon. This verse bridges the total depravity argument (vv. 44, 65) directly to the atonement. The crowd's grumbling (vv. 60–61) and the departure of many disciples (vv. 66–67, just outside the assigned range) provide the exact illustration the preacher is building toward with the cultural Christianity warning — the self-identified followers who walk away when the cost is revealed. The passage itself is a diagnostic of false discipleship, and the preacher missed it while preaching a sermon on the danger of false discipleship.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+**Fix 1 — Open John 6:51 and build the cross from the passage itself.**
+After establishing total depravity from vv. 44 and 65, move to v. 51: "the bread that I will give for the life of the world is my flesh." This is how Jesus answers the inability problem — not with explanation, but with self-offering. The cross is not just an add-on to Sola Gratia; it is the means of grace. The passage hands the preacher the cross. Take it.
+
+**Fix 2 — Write out the gospel call; remove the "[Gospel]" placeholder.**
+The manuscript must contain the exhortation as written text. At minimum: What must the unconverted person believe? What must they repent of? What must they do tonight? The current ending is an invitation without content. Write it.
+
+**Fix 3 — Tighten or relocate the Reformation history section.**
+Either (a) compress the Sola Scriptura / papal authority material to two paragraphs as context-setting, or (b) relocate the indulgence illustration to the grace section where it naturally belongs — indulgences are a grace problem, not only a Scripture problem. The first third of the sermon is doing duty it was not assigned.
+
+**Fix 4 — Use John 6:60–65's departing disciples as the cultural Christianity illustration.**
+The preacher correctly identifies cultural Christianity as the great danger. The assigned text shows it happening in real time — disciples walking away when grace is hard. "After this many of his disciples turned back and no longer walked with him" (v. 66) is the biblical illustration for "lost as a goat in the Bible Belt." The preacher drove past the very verse that would have grounded the application in the text rather than in anecdote.
+
+**Fix 5 — Build a climactic moment and end there.**
+The Billy Sunday quote has the energy for a sermon climax. The Ephesians 2:8–9 citation has the doctrinal weight. Consider: (1) Billy Sunday quote as the passion of witness, (2) Ephesians 2:8–9 as the foundation of that witness, (3) a direct address to the room — believer and unbeliever both named and spoken to — and close. Do not add more material after the climax.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon has genuine pastoral warmth and the cultural Christianity section has real heat. The doctrine is not bloodless — it is earnest. The fire is present, if unevenly distributed.
+
+---
+
+### 16. Weight of Glory Statement
+
+The sermon carries genuine pastoral warmth and a sincere longing for the congregation's salvation, but it does not yet carry the weight of eternity — God is present as doctrine more than as Presence, and the cross is asserted rather than proclaimed, leaving the congregation informed and warmed but not trembling at grace.
+
+**Bonus: +2 / 5**
+
+---
+
+### 17. Rubric Fit Note
+
+This rubric fits this sermon well. The passage is didactic New Testament discourse, not wisdom literature, lament, or apocalyptic — the categories map cleanly. One note: this is a series sermon on a Reformation theme, which means the preacher is navigating a dual responsibility — historical/theological instruction AND textual exposition. The rubric does not penalize for historical context-setting per se, but it does require that the text remain the sermon's governing authority. That is the exact tension this sermon struggles with, and the rubric surfaces it accurately.

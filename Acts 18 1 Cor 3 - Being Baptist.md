@@ -179,3 +179,201 @@ Let's close by spending a few minutes in prayer for our denomination. There are 
 - Polemical characterizations left as-preached (Methodist critique, woke theology)
 - Political/cultural commentary left as-preached — reflects preacher's position on live denominational debates
 - Only four of seven Baptist distinctives were covered before time ran out — noted but not fabricated
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+
+**A Useful Historical Lesson Wearing Sermon Clothes — Christ Present but Not Preached**
+
+---
+
+### 2. One-Sentence Summary
+
+A historically grounded defense of Baptist identity and against Landmarkism that accurately anchors the church on Christ while never pressing the congregation toward the gospel, personal repentance, or genuine response.
+
+---
+
+### 3. Berean Gate
+
+**Pass — with qualification.**
+
+*Scopus Test*: The sermon's thesis — "Jesus Christ, not John the Baptist or Baptist tradition, is the foundation of the church" — does arise from 1 Corinthians 3:11 and is coherently stated. Pass.
+
+*Authority Test*: The preacher submits to the texts he cites and does not soften them. However, the two passages (Acts 18:24-28 and 1 Corinthians 3:4-11) are used primarily as proof-texts for a historical-ecclesiastical argument rather than as texts to be opened and expounded. The sermon passes the gate, but only just — the text is treated as a banner, not a source.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Two fatal flaw flags triggered. Score capped at 69.**
+
+**Flag 1 — No actual exhortation.** The sermon closes with a call to pray for the denomination. This is pastoral housekeeping, not exhortation. The congregation is never summoned to believe something, repent of something, or pursue something arising from the texts. The closing acknowledges time ran out. That is accurate — but exhortation was never in the manuscript to begin with.
+
+**Flag 4 — Application is entirely generic.** The sermon explains Baptist distinctives and corrects Landmarkist error but never presses these truths into the conscience of any specific hearer. Who is being addressed? The curious? The Landmarkist in the pew? The nominal Baptist? No differentiation is made, no conscience is cornered, no particular person is found and addressed.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 12/25**
+
+- *Textual Fidelity*: 5/10. Both texts are quoted in full and accurately, but neither is actually expounded. Acts 18:24-28 is summarized and the Apollos illustration is applied as an analogy. 1 Corinthians 3:4-11 is read and then its conclusion (v. 11) is stated. The argument of the passage — the anti-partisan, God-alone-gives-growth logic of vv. 5-8 — is not traced. The sermon lands on v. 11 and stops.
+- *Contextual Awareness*: 3/5. The Corinthian factionalism context is nodded to ("I follow Paul," "I follow Apollos") but not developed. The congregation does not learn why Paul wrote this or what problem it was solving.
+- *Exegetical Clarity*: 2/5. No engagement with the Greek. No unpacking of the "foundation" metaphor or the field/building duality. The sermon tells us what the text concludes without showing how it gets there.
+- *Logical Faithfulness*: 2/5. The application — "don't elevate denomination over Christ" — is fair but thin. The leap from "Baptist history lesson" to "1 Corinthians 3:11 proves our foundation" is asserted rather than demonstrated.
+- *FCF*: The fallen condition addressed — idolizing ecclesiastical lineage and tradition over Christ — is real and identifiable. But it is diagnosed historically and denominationally, never existentially or personally.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+
+- *Christ-Centeredness*: 5/7. The section "The True Foundation of the Church" is the theological high point. Christ's incarnation, sinless life, and atoning death are clearly stated. The statement "Jesus was the only one able to make the payment God's holiness and justice demanded for sin" is precise and good. This section saves the theology score.
+- *Redemptive-Historical Awareness*: 1/3. No placement of the text in the redemptive-historical arc. No sense of why Paul's argument about Christ as the only foundation matters in the New Covenant versus Old Covenant contexts.
+- *Doctrinal Precision*: 4/4. Baptist distinctives are described accurately. The Donatist correction is precise. No theological errors detected in this version.
+- *Confessional Alignment*: 2/4. The sermon is clearly confessional in orientation and intent, but the 1689 theological categories — covenant, justification, regeneration as the basis for church membership — are mentioned in passing without being grounded in their doctrinal weight.
+
+**3. Gospel Centrality & Force — 7/15**
+
+- *Clarity of the Gospel*: 2/5. Justification by faith is not articulated. The gospel section is embedded mid-sermon as a correction to Landmarkism: "Jesus paid that through his death on the cross." This is true but functions as a parenthetical, not a proclamation.
+- *Necessity of Christ*: 3/5. Christ is formally necessary to the argument — the whole sermon argues he is the foundation. But Christ is not experientially necessary in the sense that the sermon never shows *why this matters for you right now*.
+- *Cross-Centered Gravity*: 2/5. The sermon moves toward denominational history and Baptist polity, not toward the cross. The cross appears once, clearly, then disappears.
+- *Synagogue Test*: A devout non-Christian could follow much of this sermon — the historical argument, the Baptist distinctives, even the "Christ is the foundation" claim stated abstractly — without being confronted with the scandal of the cross as the only hope for sinners. Moralistic drift is not present, but gospel-evacuated catechesis is.
+
+**4. Conscience & Applicatory Force — 6/15**
+
+- *Heart Penetration*: 2/5. The conscience is not addressed. The sermon argues a historical case and describes Baptist identity. It does not ask the listener anything about his own soul.
+- *Specificity*: 2/5. The Baptist distinctives section has concrete examples (the Lutheran baptism certificate anecdote is good). But application is organizational and ecclesiological, not personal.
+- *Spiritual Differentiation*: 2/5. The sermon speaks to the congregation as one undifferentiated group. No distinction between the Landmarkist sympathizer, the uninstructed newcomer, the nominal Baptist, the believing member, or the unconverted visitor.
+- *Perkins' Taxonomy*: Addresses categories 2 (ignorant but teachable) and possibly 5 (believers). Does not address the humbled, the backslider, the hardened, or the self-righteous.
+
+**5. Exhortation & Response — 2/8**
+
+- *Call to Response*: 1/4. "Let's close by spending a few minutes in prayer for our denomination" is the only call. It is pious but not an exhortation arising from the texts. The congregation is not told what to believe, repent of, obey, or pursue on the basis of what was preached.
+- *Equipping for Holiness & Witness*: 1/4. The section on convention participation is practically equipping in a narrow organizational sense. The church is not sent out with gospel-shaped mission or personal holiness direction.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline*: 3/4. The sermon has discernible movements: (1) The problem of Landmarkism, (2) Historical case against it, (3) The true foundation, (4) Baptist distinctives, (5) Application to denominational loyalty. A listener can follow it.
+- *Progression*: 2/3. The sermon moves forward but does not build toward a climax. The closing feels like a stop rather than an arrival.
+- *Unity*: 1/2. Two ideas compete: (a) the Landmarkism error, and (b) Baptist identity and distinctives. They are related but not unified under one controlling proposition that governs everything.
+
+**7. Illustration & Imagination — 3/5**
+
+- *Relevance*: 2/2. The computer repair analogy is accessible and clear. The Heraclitus illustration is interesting, if slightly academic. The Lutheran baptism certificate story is the most pastorally effective illustration in the sermon.
+- *Clarity*: 1/2. The Heraclitus analogy is a bit extended and its connection to Landmarkism requires the listener to do some work.
+- *Memorability*: 0/1. No single image is likely to be carried home. The illustrations explain without haunting.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching*: 2/2. The oral cadence is present — this reads like a man talking to his congregation, not an essay. Direct address ("Do you remember who I mentioned...") appears at points.
+- *Conviction on the Page*: 1/2. The manuscript has conviction about denominational history. It does not have the same conviction pressing the gospel into the soul. The fire shows up for Baptist identity, not for Christ crucified.
+- *Cadence and Breath*: 0/1. No climactic compression. The sentence rhythm is fairly uniform. There is no moment where the manuscript roars.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1.** The sermon covers Baptist history, Landmarkism, the Donatists, Heraclitus, Baptist distinctives, the Conservative Resurgence, and the "woke theology" controversy in a single teaching. This is a lot of ground. The single mother and the new believer can follow it — the material is explained clearly — but one fewer topic would sharpen the impact. The teaching type (explicitly labeled) gives more latitude here than a sermon would.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 12/25 |
+| Theology & Doctrinal Integrity | 12/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 6/15 |
+| Exhortation & Response | 2/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **51/100** |
+| Cognitive Load Modifier | −1 |
+| **Adjusted Subtotal** | **50** |
+| Fatal Flaw Cap | Capped at 69 |
+| **Final Score** | **50/100** |
+
+**Interpretation: Fundamentally flawed — rebuild from the text.**
+
+Note: The score of 50 reflects the pre-cap assessment. The fatal flaw flags are the dominant finding, not the number.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* **Partly of Christ** — the "True Foundation" section genuinely lifts Christ. More of the time, it makes the listener think about Baptist identity.
+2. *Did I encounter God, or just ideas about Him?* **Ideas about Him.** The God of this sermon is the foundation — stated, not encountered.
+3. *Was I comforted, convicted, or merely informed?* **Merely informed.** This is the precise diagnosis.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Historical accuracy and corrective precision.** The Donatist correction, the Smyth/Helwys grounding of Baptist origins, and the Landmarkism critique are handled with genuine care and factual integrity. The preacher did the homework.
+
+2. **The "True Foundation" section (pp. "Do you remember who I mentioned...").** The Christ-centered paragraph — virgin birth, sinless life, atoning death as "the payment God's holiness and justice demanded" — is theologically tight and well-stated. It is the sermon's theological peak.
+
+3. **The Lutheran baptism certificate anecdote.** This is the sermon's most effective illustration. It is concrete, personally witnessed, and shows precisely why believers' baptism matters — without being abstract or academic.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The texts are never opened — only cited.** Neither Acts 18:24-28 nor 1 Corinthians 3:4-11 is expounded. They are quoted and then applied as proof-texts for a predetermined argument. 1 Corinthians 3:5-10 — the argument that God alone gives growth, that planters and waterers are nothing, that the field belongs to God — is never preached. These verses contain the theological energy the sermon needs but does not use.
+
+2. **No gospel proclamation — only gospel statement.** The gospel appears once, clearly and correctly, in the "True Foundation" section. But it is stated as historical fact in service of a denominational argument, not proclaimed as urgent news for sinners in the room. The cross is decoration here. It should be the destination.
+
+3. **The closing collapses.** "I had more planned to say, but I don't think I can finish it in the time remaining" is a jarring admission that the sermon did not land anywhere. A congregation cannot be left with a prayer request for denominational politics as the final word of a sermon. The closing reveals that exhortation was never planned — the sermon was organized as a lecture from the beginning.
+
+---
+
+### 11. Blind Spots
+
+The preacher almost certainly does not see that this teaching, despite being labeled as such, is functioning as a denominational apologetic and not as preaching. The passion for Baptist distinctives and historical accuracy is evident and good — but it has displaced the question: *What must this congregation do with what they have heard?* The sermon assumes that correct historical information produces right spiritual orientation. It does not. Correct information must be driven into the conscience before it reshapes the soul.
+
+---
+
+### 12. Illusion of Strength
+
+The historical accuracy and careful factual correction create an impression of depth. The Donatist discussion, the Smyth/Helwys origins, the precision on Calvinist vs. Arminian Baptist streams — this feels like substantive theological work. And it is substantive *historical* work. But historical accuracy is not the same as expositional faithfulness or gospel proclamation. The sermon feels weighty because it is well-researched. It is not weighty in the sense the rubric requires.
+
+---
+
+### 13. Missed Opportunity
+
+1 Corinthians 3:5-10 is never preached. Paul's point — "neither he who plants nor he who waters is anything, but only God who gives the growth" — is the precise antidote to Baptist pride, denominational self-congratulation, and any form of institutionalism. The sermon applies the *conclusion* of Paul's argument (v. 11: Christ is the only foundation) but ignores the *engine* of his argument (vv. 5-10: the church belongs entirely to God). This would have been the natural bridge from Baptist history to pastoral humility to gospel dependence — the sermon's most natural climax, and it was left untouched.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Preach vv. 5-10 before v. 11.** The argument of 1 Corinthians 3 is the sermon's best material and it was skipped. Spend five minutes on "neither he who plants nor he who waters is anything, but only God who gives the growth" — and let that level every form of Baptist pride before landing on Christ as the only foundation.
+
+2. **Add a gospel moment that is proclamation, not statement.** After the "True Foundation" paragraph, pause and address the congregation directly: "If you have never rested your soul on this foundation — not on your baptism, not on your church membership, not on your denomination, but on Christ alone — today is the day." This is the natural gospel moment and the sermon walks past it.
+
+3. **Differentiate the hearers at the Baptist distinctives section.** After explaining believers' baptism, turn directly to the person who was baptized as an infant and has never repented and believed. After explaining regenerate church membership, speak to the person sitting in the pew who has never been born again. The material is there — the application to specific hearers is absent.
+
+4. **Replace the closing with an exhortation.** Cut "I had more planned to say" entirely. End on 1 Corinthians 3:11 — state it again, ask the congregation to look at what their own life is built on, and call them to examine themselves (2 Cor. 13:5). The prayer for the denomination can follow the exhortation, not replace it.
+
+5. **Unify the sermon under one proposition.** The sermon currently runs two parallel arguments: (a) Landmarkism is historically false, and (b) here is what Baptists actually believe. Unify them under a single controlling idea, e.g.: *"Because Jesus Christ alone is the foundation of the church, our identity must be built on him — not on our history, our tradition, or our distinctives."* Every section then serves that one point.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — the Dead Orthodoxy diagnostic requires high exposition scores alongside low conscience scores. Here the exposition score is itself modest. The diagnosis is not dead orthodoxy but *category confusion*: this is a catechetical teaching, not a sermon, and it was delivered without recognizing the difference.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The "True Foundation" section carries genuine gravity — the incarnation, the sinless life, and the atoning death are stated with force — but this weight is not sustained, and the sermon as a whole does not leave the congregation in the presence of God.
+
+---
+
+### 17. Rubric Fit Note
+
+This piece explicitly identifies itself as a "teaching" rather than a sermon, and the rubric strains slightly at that boundary. Catechetical and apologetic teachings have a different generic function — they instruct and defend rather than primarily proclaim and exhort. The rubric's fatal flaw flags for absent exhortation and generic application are accurate and fair, but the evaluator acknowledges that a teaching on Baptist distinctives will naturally carry lower exhortation scores than an evangelistic or devotional sermon. The core critique stands regardless of genre: even a teaching must bring its material to bear on the conscience and close with a response the congregation can actually make. The rubric is appropriate here — it simply reveals what is missing from a piece that calls itself a teaching but stops short of the pastoral work that teaching, at its best, also performs.

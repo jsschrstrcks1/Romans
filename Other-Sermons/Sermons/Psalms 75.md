@@ -17,3 +17,184 @@ It is this judgement from God, this righteous, fair, holy judgement from God tha
 But it all starts with God doing a work in your heart, and your response. Scripture says jn 3:16. 
 
 Have you come to a point where you’ve come to believe in Jesus, where you’ve done what romans 10:9 says? Confessed with your mouth the Lord Jesus Christ, and believed in your heart that God has raised him from the dead?  If not, don’t let another day go by. Come talk to me.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Passage:** Psalm 75 (with extended treatment of 1 Peter 1)
+**Evaluator:** Thus Says the Lord Rubric v1.0
+
+---
+
+### 1. Verdict Title
+
+**"Judgment Rightly Elevated, Psalm 75 Left Behind"**
+
+---
+
+### 2. One-Sentence Summary
+
+A doctrinally earnest sermon on God’s righteous judgment that opens well but migrates almost entirely to 1 Peter 1 and never returns to develop Psalm 75’s own argument about the appointed time, the cup of wrath, and the horns of the wicked.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: Fail / Borderline Pass**
+Psalm 75 is named as the passage, read (implied — the text is not shown in the manuscript), and mentioned in the introduction. However the body of the sermon is built on 1 Peter 1:13–22, a passage about sober-mindedness, holy conduct, and the precious blood of Christ. Psalm 75’s distinctive contribution — God judges at the appointed time (v. 2), the cup of wrath poured out on the wicked (v. 8), the cutting off of the horns of the wicked (v. 10) — receives no treatment. The sermon would be entirely unchanged if the stated text were simply removed.
+
+**Authority Test: Pass**
+The preacher submits to Scripture’s uncomfortable declarations about judgment, sin, and human depravity without softening. The statement about God knowing every dark thought is appropriately unsettling.
+
+**Ruling:** The Berean Gate is borderline. The main point (God judges fairly and righteously; live accordingly) is thematically related to Psalm 75 but arises from 1 Peter 1, not from the psalm itself. This is a topical sermon using a psalm as an entry point. The rubric permits this to pass narrowly, but the expositional deficit is severe.
+
+---
+
+### 4. Fatal Flaw Flags
+
+- **Flag 2 — Main point does not equal text’s point (borderline):** The psalm’s point — that God judges at the *appointed time* and that both the timing and the content of judgment are under his sovereign control — is not developed. The sermon’s point is broader: God is a righteous judge, therefore be holy and live with fear.
+- **No score cap triggered** — The flags present are borderline and the gospel is actually presented near the close. Cap does not apply, but these weaknesses significantly depress the score.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 9/25**
+- *Textual Fidelity (10):* 3/10 — The psalm is introduced but abandoned. The expositional weight is carried by 1 Peter 1. No verse in Psalm 75 is treated specifically.
+- *Contextual Awareness (5):* 2/5 — Brief acknowledgment of the cultural context of postmodern moral relativism (helpful framing). No context for Psalm 75 itself — its Asaphic authorship, its probable connection to God’s deliverance in a time of crisis, its chiastic structure around vv. 6–7.
+- *Exegetical Clarity (5):* 2/5 — The 1 Peter Greek word study on "sober-minded" (nepho) is useful and handled well. No Greek work on Psalm 75.
+- *Logical Faithfulness (5):* 2/5 — The extended 1 Peter treatment is exegetically honest but constitutes a mid-sermon text change that is never signaled as such.
+- *FCF:* The fallen condition is human moral confusion and self-deception before God’s perfect judgment. This is named and is genuinely present in 1 Peter 1. It is not drawn from Psalm 75.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 14/18**
+- *Christ-Centeredness (7):* 5/7 — Christ’s blood, death, resurrection, and victory are genuinely present and preached near the conclusion ("Three days later Jesus rose from the grave having defeated sin and death and hell and satan"). This is real christological content.
+- *Redemptive-Historical Awareness (3):* 2/3 — Adequate. The sermon connects the law’s demands, human inability, and Christ’s provision organically.
+- *Doctrinal Precision (4):* 4/4 — The soteriological discussion (God as initiator of salvation, human confession as response not cause) is handled with Reformed precision. The Edwards quote is used accurately. Romans 9:16 is cited correctly.
+- *Confessional Alignment (4):* 3/4 — The sermon’s treatment of sovereign grace and salvation is confessionally sound. The note that "by the time someone gets to the point of confessing with their mouth, God has already saved them" is a defensible Reformed position, clearly stated.
+
+**3. Gospel Centrality & Force (15 pts) — 10/15**
+- *Clarity of the Gospel (5):* 4/5 — The gospel is actually proclaimed in the final movement: sin, God’s love, Christ’s incarnation, death, resurrection, adoption. This is specific and substantive.
+- *Necessity of Christ (5):* 4/5 — Christ is essential to the sermon’s resolution. The beggar illustration ("took him in, cleaned him up, gave him new clothes, a bedroom in your home, your last name, and let your son die for him") is one of the best moments in the manuscript.
+- *Cross-Centered Gravity (5):* 2/5 — The sermon’s center of gravity is judgment and sobriety, with the cross arriving late as resolution. The law has significant time to land; the gospel relieves it but arrives in the closing third only.
+
+**4. Conscience & Applicatory Force (15 pts) — 9/15**
+- *Heart Penetration (5):* 4/5 — The passage about God knowing every thought, every dark secret, every forgotten sin is genuinely conscience-searching. This section is one of the strongest in the batch.
+- *Specificity (5):* 3/5 — Good specificity in the sober-mindedness section (road rage, pot, prescription drug abuse, rashness). Somewhat blurs together in the final application.
+- *Spiritual Differentiation (5):* 2/5 — The sermon addresses believers and unbelievers but does not distinguish among the humbled, the hardened, the backslider, or the doubter.
+
+**5. Exhortation & Response (8 pts) — 6/8**
+- *Call to Response (4):* 3/4 — The final appeal is clear: believe in Jesus, confess, don’t let another day go by. Direct.
+- *Equipping for Holiness & Witness (4):* 3/4 — The section on spiritual disciplines (word, prayer, fellowship, evangelism, worship) as the pathway to holiness is practically useful.
+
+**6. Structure & Logical Flow (9 pts) — 5/9**
+- *Clarity of Outline (4):* 2/4 — The sermon has no announced structure and moves from Psalm 75 → postmodernism → 1 Peter 1 (long treatment) → soteriology (extended) → hymn → gospel. The outline is reconstructable only in retrospect.
+- *Progression (3):* 2/3 — There is genuine progression from judgment to conviction to gospel. But the mid-sermon text migration breaks the flow.
+- *Unity (2):* 1/2 — Two passages competing for primacy. Unity suffers.
+
+**7. Illustration & Imagination (5 pts) — 3/5**
+- *Relevance (2):* 2/2 — Illustrations drawn from real life (road rage, drug culture, the beggar image).
+- *Clarity (2):* 1/2 — The beggar illustration is excellent. The doctrinal illustration on divine sovereignty (Romans 9:16 + 1 Peter 1:21) is accurate but abstract.
+- *Memorability (1):* 0/1 — No single image is likely to be carried home as the dominant takeaway.
+
+**8. Sermonic Force (5 pts) — 3/5**
+- *Reads as Preaching (2):* 2/2 — Oral, direct address, natural cadence.
+- *Conviction on the Page (2):* 1/2 — The conscience-searching section is forceful; the doctrinal middle section reads more like theological instruction than preaching.
+- *Cadence and Breath (1):* 0/1 — Some sentences run long and lose force.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−2** — The sermon carries two texts, a doctrinal excursus on sovereign grace, applications on sobriety and daily disciplines, and a gospel proclamation. These are not developed in sequence — they compete. An average church member tracking the sermon would need to reset twice (once when the passage changes from Psalm 75 to 1 Peter 1, and once when the sermon shifts from application to soteriology).
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 9/25 |
+| Theology & Doctrinal Integrity | 14/18 |
+| Gospel Centrality & Force | 10/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 6/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **59/100** |
+| Cognitive Load Modifier | −2 |
+| **Total** | **57/100** |
+
+**Interpretation: Below 60 — Fundamentally flawed in expositional structure. The gospel is present and the theology is sound, but the sermon does not arise from Psalm 75. Needs rebuilding around the text.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Largely of Christ in the final movement — the beggar illustration is genuinely Christ-centering. Earlier portions focus on self-examination.
+2. *Did I encounter God, or just ideas about Him?* The section on God knowing every thought has genuine encounter potential. The soteriological middle section is more conceptual.
+3. *Was I comforted, convicted, or merely informed?* Convicted and then comforted — in proper order. This is the sermon’s genuine strength.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The beggar illustration** — "Saw a lowly beggar on the street, dressed in rags, covered in lice, and his own filth and be so moved with compassion that you took him in, cleaned him up, gave him new clothes, a bedroom in your home, your last name, and let your son die for him." This is exceptional applicatory imagination. It is earnable in any pulpit.
+2. **The section on divine omniscience and judgment** — "Think about all the thoughts you have ever had… God knows. Every deep dark secret in your closet, God knows. He was there, he heard you. He Remembers." This is Puritan-level conscience-searching and lands hard.
+3. **Doctrinal precision on sovereign salvation** — The handling of 1 Peter 1:21, Romans 9:16, and the distinction between confession as response versus confession as cause is among the clearest Reformed soteriological treatments in the entire sermon batch.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Psalm 75 is the stated text but not the preached text** — The psalm’s distinctive content — the appointed time of judgment (v. 2), the cup of wrath (v. 8), God alone being the judge who puts down one and exalts another (vv. 6–7) — receives zero treatment. The congregation does not learn what Psalm 75 says.
+2. **Two-text structure is unannounced and disorienting** — The sermon transitions from Psalm 75 to 1 Peter 1 without signaling the move. A listener tracking their Bible would be lost. The extended 1 Peter treatment needs either to be named explicitly as a supporting text or the sermon needs to be rebuilt around one primary passage.
+3. **Spiritual differentiation is collapsed** — From the conscience-searching section through the soteriological discussion, the congregation is addressed uniformly. The person who is genuinely humbled and seeking, the person who is confident in their theology but cold in their obedience, and the open unbeliever all need different words from this material.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how far the sermon has migrated from Psalm 75. The material on 1 Peter 1 is so good — the Greek word study, the beggar illustration, the soteriological precision — that it may feel like the sermon is doing excellent expositional work. But it is doing excellent expositional work on a different text than the one announced. The preacher may also not realize that the congregation is likely to leave thinking more about sobriety and salvation than about the particular truth Psalm 75 was written to deliver: God will judge at his appointed time, not on human demand — and the wicked will drink the full cup.
+
+---
+
+### 12. Illusion of Strength
+
+The sovereign grace discussion *feels* like theological depth, and it is — but it is not drawn from Psalm 75. A listener who knows the text might notice that the sermon’s most substantive content has nothing to do with the stated passage. The sermon’s apparent expositional confidence masks the fact that the actual text has not been opened.
+
+---
+
+### 13. Missed Opportunity
+
+Psalm 75:8 — "For in the hand of the LORD there is a cup with foaming wine, well mixed, and he pours out from it, and all the wicked of the earth shall drain it down to the dregs." This is one of the most terrifying images in the Psalter. The cup of God’s wrath, which Isaiah and Jeremiah also employ, and which Christ himself takes up in Gethsemane ("Let this cup pass from me") — the preacher had the material for a profound christological connection without forcing it. The cup of wrath that the wicked will drain is the same cup that Christ drank in full on behalf of all who believe. This was the sermon’s missed crown jewel.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Return to Psalm 75 and build the body around its three movements:** (a) God controls the appointed time of judgment (vv. 1–3); (b) God alone exalts and puts down — not the east, not the west, not the south (vv. 4–7); (c) The cup of wrath for the wicked / the lifted horn of the righteous (vv. 8–10). The 1 Peter material can serve as supporting exposition under each point.
+2. **Develop the cup of wrath image christologically.** At point 3, note that this cup — which every wicked person will drain to the dregs — is the cup Christ took in Gethsemane and drank on behalf of his people. This is the gospel from within the text, not imported over it.
+3. **Add differentiated address after the conscience section.** Speak directly to three categories: (a) "If you are here today and you are certain you are right with God but your daily life doesn’t show it — this psalm is for you"; (b) "If you are here and the thought of God knowing your thoughts makes you want to run — that is the right response. Don’t run from him. Run to him"; (c) "If you have never confessed Christ, today is the appointed time."
+4. **Announce the text shift explicitly.** If 1 Peter 1 is used as supporting material, say so: "I want to turn to 1 Peter 1 for a moment, because the apostle Peter draws out precisely what judgment-shaped living looks like."
+5. **Tighten the soteriology section.** The discussion of who does what in salvation is valuable, but at its current length it competes with the sermon’s climactic movement toward the gospel. Reduce by half; let the beggar illustration carry the weight.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon has genuine pastoral warmth, conscience-searching weight, and a live gospel appeal. The weakness is structural, not emotional.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The beggar illustration and the omniscience section carry genuine eternal weight; the sermon’s doctrinal competence is evident, but the stated text is largely a stranger to the sermon that bears its name.
+
+---
+
+### 17. Rubric Fit Note
+
+Psalm 75 is a wisdom psalm with prophetic elements about divine judgment — it fits the rubric well. The rubric’s demand for textual fidelity presses appropriately hard here because the psalm has a specific and dramatic argument that deserves full treatment. The genre does not strain the rubric. The sermon strains the rubric by not actually preaching the text it claims to preach.

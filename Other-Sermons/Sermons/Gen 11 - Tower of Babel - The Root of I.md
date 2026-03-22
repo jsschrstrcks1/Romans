@@ -32,3 +32,203 @@ If that's you, if looking back over your life you realize you've been living for
 Pray for a youth pastor, pray for him to be fully equipped in love, joy, peace, patience, kindness, goodness, and self-control. That he be sensitive to the Holy Spirit, that he have a love for teenagers, that God sends us a man that the Lord can use, and use effectively to model what it means to be a believer in Jesus Christ. That he would have a great impact in the community, and a heart for evangelism. That his family would be being prepared even now, and in the same ways. That his wife would be a great example for the girls growing up, and that they would be the kind of people that commit for the long haul. That God would give them the endurance to stay and minister in that role for the long haul. Pray for the protection and growth of all those who've been baptized recently and all those who are yet to be baptized. Pray for those of us in school that you would help us remember everything we're taught, that we would bring glory and honor to you in the way we study, in every test, quiz, midterm, final and in every paper, that what we learn would bring you glory, and would be used to bring you glory and honor and bring people into your kingdom.
 
 Announcement: Dessa getting baptized on Wednesday.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Sincere but Text-Thin Youth Talk with a Borrowed Gospel Ending**
+
+---
+
+### 2. One-Sentence Summary
+A well-intentioned opening of Genesis 11 that correctly identifies pride as the root of human sin while relying heavily on cultural illustrations, never returning to the text in any sustained way, and attaching a gospel invitation that feels appended rather than exegetically earned.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: Marginal Pass / Concern**
+The sermon's thesis — "the letter I is at the root of every sin" — is a general homiletical principle that can be connected to Babel but does not arise from the passage's own argument. Genesis 11:1–9 is not fundamentally a sermon on individualism or the "I" problem; it is a narrative about corporate human rebellion against God's dispersal mandate (Genesis 1:28, cf. 9:1), divine judgment through linguistic confusion, and the sovereignty of God over unified human ambition. The thesis is not wrong, but it is imposed on the text rather than drawn from it.
+
+**Authority Test: Partial Pass**
+The preacher does not soften the text's judgment. However, the passage itself is largely abandoned after the first few sentences. The hard covenantal and redemptive-historical dimensions of the passage — its relationship to Genesis 1:28, its place in the Table of Nations (ch. 10), its anticipation of Pentecost — are entirely absent.
+
+**Gate Result: Narrow pass. The main homiletical point has a connection to the text but does not arise organically from the passage's own argument. The sermon uses the text as a launching pad and does not return to it.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 3 — Christ is present but not necessary to the sermon's argument.** The gospel section (paragraphs 22–26) is structurally detached from the exposition. The sermon would be 90% intact if the gospel section were removed. Christ is appended, not woven.
+
+**Flag 4 — Application is entirely generic.** The application ("put in the time and the effort into building your relationship with God") is exactly the kind of vague exhortation the rubric flags. It does not arise from this text specifically, and it could be inserted into a sermon on almost any passage.
+
+**Flag 5 — No actual exhortation grounded in the text.** The altar call is a standing evangelistic invitation, not an exhortation that arises from Genesis 11. The congregation is invited to respond to the gospel, which is good, but they are never told what Genesis 11 specifically demands of them — no Babel-specific repentance, no confrontation with the particular shape of pride named in the text.
+
+**Score cap: 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 10/25**
+
+- *Textual Fidelity (10):* 4/10. Only Genesis 11:9 is read aloud. The passage is referenced at the start and briefly again mid-sermon, but the argument does not return to the text's own movement. No verse-by-verse treatment. No engagement with the narrative arc (vv. 1–4, the divine deliberation in vv. 5–7, the scattering in vv. 8–9).
+- *Contextual Awareness (5):* 2/5. No engagement with the Genesis 10 Table of Nations, no awareness that the Babel narrative explains the dispersion already listed in chapter 10. No redemptive-historical placement.
+- *Exegetical Clarity (5):* 2/5. The meaning of "Babel/confusion" is mentioned. No Hebrew engagement. No authorial intent explored.
+- *Logical Faithfulness (5):* 2/5. The "I is the root of all sin" thesis is not demonstrated from the text — it is asserted and then illustrated culturally.
+
+**Fallen Condition Focus:** Present but too generic. The FCF is pride/self-centeredness, which is correct for Babel, but it is never named in relation to the text's own vocabulary or narrative logic.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 10/18**
+
+- *Christ-Centeredness (7):* 4/7. Christ appears in the conclusion. The connection (Jerusalem → David → Bethlehem → Jesus) is creative but somewhat artificial. The organic covenantal link from Babel to Pentecost (Acts 2 as reversal of Babel) is entirely missed — which is the most natural and textually grounded Christ-connection in the passage.
+- *Redemptive-Historical Awareness (3):* 1/3. The redemptive-historical placement is absent. The Pentecost/Babel typology is the obvious organic connection — it is not mentioned.
+- *Doctrinal Precision (4):* 3/4. The gospel statement in Romans 10:9 is accurate. No serious doctrinal errors.
+- *Confessional Alignment — 1689 Pulse (4):* 2/4. No contradiction of confessional theology, but no positive engagement with covenantal themes where the text clearly invites it (image of God, common grace, corporate solidarity in sin, divine sovereignty in judgment).
+
+**3. Gospel Centrality & Force (15 pts) — 6/15**
+
+- *Clarity of the Gospel (5):* 3/5. Romans 10:9 is cited. But justification by faith is not explained — what does it mean that God raised Jesus from the dead, and why does that save? The mechanics are assumed, not proclaimed.
+- *Necessity of Christ (5):* 2/5. Christ is presented as the one who "restored order" and "brought peace" — which is thin and reads closer to moral influence than substitutionary atonement. Why exactly did Jesus need to die? This is not answered.
+- *Cross-Centered Gravity (5):* 1/5. The cross is mentioned ("he even died") but the sermon does not move toward it as its gravitational center. It is mentioned in passing.
+
+**Synagogue Test:** A devout Jew or Muslim could sit through the bulk of this sermon without offense. The moral of "stop being selfish and build your relationship with God" is acceptable to many non-Christian faiths. The cross is not presented as scandalous.
+
+**Law/Gospel Dialectic:** The law is used (pride, selfishness = sin) but the hammer never falls hard enough to make the gospel feel necessary. The relief offered is gentle — "come talk to me" — rather than arising from a felt weight of conviction.
+
+**4. Conscience & Applicatory Force (15 pts) — 5/15**
+
+- *Heart Penetration (5):* 2/5. The McDonald's illustration and drug examples land in the culture but not in the conscience. The sermon identifies pride as sin but does not press on the specific pride of the congregation sitting before the preacher.
+- *Specificity (5):* 1/5. "Put in the time and effort into building your relationship with God" is among the least specific applications available in Christian preaching.
+- *Spiritual Differentiation (5):* 2/5. The sermon distinguishes believer from unbeliever in the altar call (paragraph 27) but only shallowly. The backslider is mentioned briefly. No address to the self-righteous, the hardened, the humbled-but-not-yet-believing.
+
+**Perkins' Taxonomy:** Categories 2 (ignorant but teachable) and 5 (believers) are partially addressed. Categories 1, 3, 4, 6 are absent.
+
+**5. Exhortation & Response (8 pts) — 3/8**
+
+- *Call to Response (4):* 2/4. An altar call is present. But the response invited ("come talk to me") is not specifically tethered to what Genesis 11 demands. What does the Babel text demand of this congregation today? That is never stated.
+- *Equipping for Holiness & Witness (4):* 1/4. The closing prayer for a youth pastor and for students is encouraging, but it does not arise from the passage's claims. The congregation is not sent out equipped — they are invited to respond privately.
+
+**6. Structure & Logical Flow (9 pts) — 5/9**
+
+- *Clarity of Outline (4):* 2/4. No discernible outline. The sermon moves: Jerusalem/Babel intro → pride thesis → McDonald's → internet search → TV procedurals → drugs → Walmart theft → application → gospel invitation.
+- *Progression (3):* 2/3. There is forward movement, but the illustrations multiply rather than develop. The sermon accumulates examples rather than building an argument.
+- *Unity (2):* 1/2. The "I is the root of every sin" thesis provides nominal unity, but the text is not the organizing spine.
+
+**7. Illustration & Imagination (5 pts) — 3/5**
+
+- *Relevance (2):* 2/2. The illustrations (McDonald's, internet searches, drug use, Walmart theft) are from the congregation's world.
+- *Clarity (2):* 1/2. The drug/insomnia anecdote is extended far beyond its illustrative usefulness. It occupies more space than the text itself.
+- *Memorability (1):* 0/1. No single image is likely to be carried home as a crystallization of the text's truth.
+
+**8. Sermonic Force (5 pts) — 3/5**
+
+- *Reads as Preaching (2):* 2/2. This reads like spoken ministry — direct, conversational, accessible.
+- *Conviction on the Page (2):* 1/2. The conviction is present in tone but not in textual density. Scripture-grounded assertions are infrequent.
+- *Cadence and Breath (1):* 0/1. No climactic compression. The sermon does not build to a moment of force.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**0.** The sermon is accessible. No congregation member will be confused. The danger is the opposite — it is too thin to require real tracking.
+
+---
+
+### 7. Total Score
+
+| Category | Earned | Possible |
+|---|---|---|
+| Exposition & Hermeneutics | 10 | 25 |
+| Theology & Doctrinal Integrity | 10 | 18 |
+| Gospel Centrality & Force | 6 | 15 |
+| Conscience & Applicatory Force | 5 | 15 |
+| Exhortation & Response | 3 | 8 |
+| Structure & Logical Flow | 5 | 9 |
+| Illustration & Imagination | 3 | 5 |
+| Sermonic Force | 3 | 5 |
+| **Subtotal** | **45** | **100** |
+| Weight of Glory Bonus | +1 | +5 |
+| Cognitive Load Modifier | 0 | — |
+| **Fatal Flaw Cap Applied** | — | 69 max |
+| **Final Score** | **46/100** | |
+
+**Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.**
+
+*(Note: The raw score of 46 falls below the 69 cap, so the cap does not alter the final result — the sermon's actual score reflects its weaknesses independently of the cap.)*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily myself — the "I" thesis, while not wrong, keeps the focus on human failure and human effort rather than on Christ's person and work.
+2. **Did I encounter God, or just ideas about Him?** Ideas about Him — and more specifically, ideas about human sinfulness illustrated culturally.
+3. **Was I comforted, convicted, or merely informed?** The congregation was given general information and a standing gospel invitation. True conscience-level conviction was not produced.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Accessibility and conversational warmth.** The preacher speaks directly to the congregation in plain language. The McDonald's illustration is culturally grounded and the sermon's tone is genuinely pastoral. This is not dead academicism — there is a real person addressing real people.
+2. **Correct identification of the fallen condition.** Pride and self-centeredness as the root of sin is a legitimate FCF for Genesis 11, and the preacher names it early and returns to it as the sermon's organizing principle.
+3. **Gospel invitation is present and scripturally anchored.** Romans 10:9 is cited accurately, and the preacher extends a clear evangelistic invitation. For a youth-context sermon, this is not nothing.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The text is abandoned almost immediately.** Only Genesis 11:9 is quoted (and only in passing). The narrative of vv. 1–8 — the unity of language, the human deliberation ("let us build"), the divine deliberation ("let us go down"), the scattering — receives no treatment. The sermon uses the text as a title, not a source.
+2. **The gospel is structurally decorative, not architecturally load-bearing.** The gospel appears in the final three paragraphs as a cap to a moralistic argument ("stop living for yourself; build a relationship with God"). This is the gospel as antidote to selfishness, not the gospel as the only hope for the condemned. It reads as appended, not as the culmination of the passage's own movement.
+3. **The extended drug/insomnia anecdote (paragraph 11) dominates the sermon's middle section and does no exegetical work.** It is a pastoral aside that became the body of the sermon. It occupies more real estate than the biblical text itself.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears unaware that Genesis 11:1–9 has one of the richest redemptive-historical trajectories in the Old Testament. The Babel narrative is explicitly reversed at Pentecost (Acts 2), where the Spirit undoes the confusion of languages through the proclamation of the gospel. This connection is organic, not forced — it is Luke's own theological intention. Preaching Babel without Pentecost leaves the most powerful Christ-connection in the passage entirely on the table.
+
+Additionally, the preacher does not appear to notice that Babel is a corporate, not merely individual, sin. The builders deliberate together ("let us make a name for ourselves"). The sermon's individualism thesis ("the letter I") actually works against the text's emphasis on unified human rebellion.
+
+---
+
+### 12. Illusion of Strength
+
+The sermon feels culturally connected and practically relevant — the illustrations from McDonald's, TV procedurals, and drug culture create a sense of pastoral engagement. But this cultural engagement is not in service of the text's claims; it is in service of a thesis the preacher brought to the text. The illustrations are plentiful where the exposition should be. The sermon feels like it is doing something with the text when it is actually doing something instead of the text.
+
+---
+
+### 13. Missed Opportunity
+
+The Babel/Pentecost typology is the most natural, textually grounded, and pastorally powerful Christ-connection in this passage. Acts 2 is Luke's deliberate narrative reversal of Genesis 11 — where Babel scattered through linguistic confusion, Pentecost gathers through the Spirit-empowered proclamation of the gospel in all languages. This would have given the sermon a gospel center that arises organically from the text rather than being bolted on at the end. The resurrection could have been presented not as a separate topic but as the answer to Babel — God has not only judged human pride, he has reversed the curse of confusion through the work of his Son.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Read and work through Genesis 11:1–9 verse by verse.** The sermon currently reads only v. 9. The narrative logic of vv. 1–4 (human deliberation, "let us," "lest we be scattered") and vv. 5–7 (divine deliberation, "the Lord came down") is exegetically rich and completely untouched. The irony of God having to "come down" to see a tower the builders thought reached heaven is one of the most searingly ironic moments in the entire Torah.
+2. **Rebuild the Christ-connection around Babel/Pentecost.** Remove the Jerusalem/Bethlehem geography chain and replace it with the Babel/Pentecost reversal. This connection is organic, powerful, and gives the congregation a reason to believe Christ is the answer specifically to what Genesis 11 names — not just to selfishness in general.
+3. **Cut the drug/insomnia anecdote by 80% or remove it entirely.** One sentence of illustration is sufficient. The extended pastoral aside unbalances the sermon and displaces time that should go to the text.
+4. **Add a specific exhortation tethered to the passage.** What does Babel demand of this congregation? Possible exhortation: "Stop building your own name. Stop constructing monuments to your own significance — in your social media presence, in your ambitions, in the way you manage your reputation — and submit to the one whose name is above every name. There is only one name given under heaven by which we must be saved (Acts 4:12). Build toward that name, not your own."
+5. **Name the penal dimension of the cross.** Currently the death of Jesus is described as him coming to "restore order" and bring "peace." This reads as moral influence. Add a sentence: Christ did not merely model a different way of living — he bore the judgment that human pride and rebellion deserved, and in doing so opened the way to God that no tower could ever reach.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — the sermon lacks the high doctrinal precision that triggers the dead orthodoxy pattern. The concern here is the inverse: warmth and pastoral tone without sufficient textual and theological substance.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries genuine pastoral warmth and an evident love for the congregation, but it does not yet carry the weight of the eternal — the passage's own gravity (divine judgment, the scattering of nations, the sovereignty of God over human ambition) is never allowed to press down upon the hearer.
+
+*Bonus: +1/5*
+
+---
+
+### 17. Rubric Fit Note
+
+Genesis 11:1–9 is Old Testament narrative — the rubric bends slightly in that verse-by-verse homiletical structure is not the only legitimate approach to narrative. However, the passage's narrative arc is clear enough that the expositor is not constrained by genre difficulties. The Fallen Condition Focus, redemptive-historical placement, and Christ-connection categories all apply with full force here. No rubric strain — the weakness is not genre-related, it is execution-related.

@@ -201,3 +201,182 @@ If you have never come to that point — come find me before you leave today.
 - John 3:16: "his one and only son" (NIV) / "whosoever shall believe" (KJV) → ESV "his only Son" / "whoever believes"
 
 **Spurgeon quote confirmed**: *Morning and Evening*, Evening June 28 (Exodus 7:12). Also in sermon "The Power of Aaron's Rod" (spurgeon.org).
+
+## Thus Says the Lord — Sermon Evaluation
+
+### Verdict Title
+**A Gospel-Clear Easter Invitation with a Thin Expository Spine**
+
+### One-Sentence Summary
+A warm, accessible Easter message that delivers a genuine gospel presentation and presses the conscience of the unconverted, but leans on illustration and illustration-driven application at the expense of sustained textual exposition of its stated passage.
+
+---
+
+### Berean Gate: CONDITIONAL PASS
+
+**Scopus Test**: The sermon's thesis — that Christ is the only gate through which sinners must enter, and that nothing but faith in him is sufficient — arises genuinely from John 10:7-11. The wicket gate as a figure for Christ is legitimate and Bunyan's own intent. The sermon's main point is defensible.
+
+**Authority Test**: The preacher does not stand above the text, but he also does not spend much time *under* it. John 10:7-11 is read once, briefly commented on in transition, and then the sermon pivots almost entirely to Romans 3:23, 6:23, John 3:16, Ephesians 2:8-9, and Romans 10:9. The stated text functions more as an entry point than a governing passage. The preacher passes the gate — but narrowly. The sermon is thematically faithful without being textually governed.
+
+---
+
+### Fatal Flaw Flags
+
+No fatal flaws triggered. The following is noted:
+- **Gospel is clearly present** — the substitutionary death of Christ, the necessity of faith, the gift of grace are all stated plainly.
+- **Application is present** — the sermon differentiates between churchgoing, giving, and genuine saving faith.
+- **Exhortation is present** — "Come find me before you leave today."
+- **Accessible** — the sermon is highly accessible, designed for a broad audience.
+
+No score cap applied.
+
+---
+
+### Score Breakdown
+
+**1. Exposition & Hermeneutics — 14/25**
+
+- *Textual Fidelity* — 5/10: John 10:7-11 is the stated text but functions primarily as a launching pad. The "I am the door" / "I am the good shepherd" imagery connects to the wicket gate theme, and the preacher does make the organic connection between the text and Bunyan's allegory. However, the sermon derives its primary argument not from John 10 but from the Romans/Ephesians/John 3 gospel presentation appended near the end. The longest stretch of the sermon — the section on fatherlessness, the sexual revolution, Vanity Fair, and the green meadow illustrations — has no sustained return to the passage. The exposition is topical more than textual.
+- *Contextual Awareness* — 2/5: No treatment of John 10's context (the Pharisees, the healing of the blind man in John 9, the Good Shepherd discourse). The passage is not situated in its own argument.
+- *Exegetical Clarity* — 3/5: The preacher makes a clear and legitimate connection between the "door" and the wicket gate. The "I came that they may have life abundantly" is briefly noted. No Greek, no deeper engagement with the text's own claims about exclusivity and access.
+- *Logical Faithfulness* — 4/5: No eisegesis. The connections drawn are legitimate. The typological move from Bunyan's gate to Jesus as the gate is Bunyan's own argument, not the preacher's imposition.
+
+*Fallen Condition Focus*: Partially identified — sin, wandering from the path, the inadequacy of good works. But it remains somewhat impressionistic rather than precisely named.
+
+**2. Theology & Doctrinal Integrity — 14/18**
+
+- *Christ-Centeredness* — 5/7: Christ as the only way, his substitutionary death, his resurrection, his role as the gate — all present. The connections are organic to the film's allegory, which is Bunyan's own Christology. Not forced, though not developed deeply.
+- *Redemptive-Historical Awareness* — 1/3: Minimal. The Easter setting is noted but not developed theologically. No placement of the cross in redemptive history.
+- *Doctrinal Precision* — 4/4: The gospel is stated with clarity — penal substitution is implicit in "he took our place" and "absorbed by him." Justification by faith alone is explicit in Ephesians 2:8-9. The wrath of God against sin is present in "wages of sin is death." No theological sloppiness detected.
+- *Confessional Alignment* — 4/4: The negative test is clean — nothing contradicts confessional theology. The positive test is moderately met: faith alone, grace alone, Christ alone are all affirmed. The sermon is broadly evangelical-confessional.
+
+**3. Gospel Centrality & Force — 12/15**
+
+- *Clarity of the Gospel* — 5/5: The gospel presentation section is clear, structured, and complete — sin (Romans 3:23), death as the wage (Romans 6:23), substitutionary atonement, resurrection, faith (Romans 10:9), grace not works (Ephesians 2:8-9). An unbeliever could understand how to be saved from this sermon.
+- *Necessity of Christ* — 4/5: Christ's necessity is asserted plainly ("If you don't [have a relationship with his Son] — you have no hope"). The exclusivity is not softened. Slight deduction: the sermon's moral sections (fatherlessness, sexual revolution) carry more rhetorical weight than the Christological sections, which risks leaving some hearers with a moralistic impression.
+- *Cross-Centered Gravity* — 3/5: The cross is present but arrives late and in a structured evangelistic block rather than as the gravitational center of the whole sermon. The Pilgrim's Progress illustrations, while compelling, orbit moral consequences more than the cross. The sermon does not build toward the cross as its climax — it arrives at the cross in the penultimate section.
+
+*Synagogue Test*: A devout non-Christian would be offended by the necessity of Christ — the exclusivity is stated plainly ("He will ask about your relationship with his Son... if you don't — you have no hope"). Gospel clarity is genuine. Pass.
+
+*Law/Gospel Dialectic*: The law is present (moral consequences, fatherlessness statistics, sin defined). The gospel relieves it. The order is roughly correct, though the law section is extended and the gospel section is compressed.
+
+**4. Conscience & Applicatory Force — 10/15**
+
+- *Heart Penetration* — 3/5: The fatherlessness statistics press the conscience regarding sexual sin. The address to those who've wandered off the path has genuine pastoral warmth. The sermon does reach the affections, particularly in the "some of you know exactly what that meadow looks like" moment. But the heart-penetration is primarily through moral consequence rather than through the convicting weight of God's holiness or the specific guilt of a known sin before a known God.
+- *Specificity* — 4/5: The sermon is concrete — drugs, alcohol, sex, fatherlessness, the sexual revolution. These land in real lives. The application is tied to the congregation's world. The statistical section, while corrected in the editorial notes, gives the application sociological grounding.
+- *Spiritual Differentiation* — 3/5: The sermon addresses the unconverted directly and well. It also distinguishes between churchgoing and saving faith — a real and important distinction. It does not substantially address the backslider, the doubter, the grieving believer, or the self-righteous moralist who would nod at all the cultural critique while remaining unconverted. Perkins' categories addressed: the ignorant but teachable (well), the knowledgeable but unhumbled (partially), believers (briefly in the churchgoing section). The humbled-but-not-yet-believing and the backslider are largely absent.
+
+**5. Exhortation & Response — 6/8**
+
+- *Call to Response* — 3/4: "Come find me before you leave today" is a clear, personal, direct call. The invitation to faith is genuine. However, the exhortation for believers who are wandering is left somewhat implicit — the sermon explains what happens when people leave the King's Road but does not directly summon wanderers back.
+- *Equipping for Holiness & Witness* — 3/4: The Khmer people group prayer section at the opening is an effective witness prompt. The Pilgrim's Progress framework carries genuine equipping value — the imagery of staying on the King's Road is a portable metaphor. The sermon sends the congregation out with the image and the categories, though the explicit commissioning of believers for witness is underdeveloped.
+
+**6. Structure & Logical Flow — 7/9**
+
+- *Clarity of Outline* — 3/4: The sermon's structure is traceable in retrospect: Two Rules (King's Road + Wicket Gate) → What Happens When You Leave (illustrations) → What the Wicket Gate Is (John 10) → The Gospel → Communion. It is clear enough, though the transition from the King's Road illustrations to the wicket gate is somewhat abrupt. The outline is held together by the Pilgrim's Progress frame more than by the text.
+- *Progression* — 3/3: The sermon does build — from allegory to application to gospel to invitation. It does not wander. The Vanity Fair clip breaks the progression momentarily but is intentional in the context.
+- *Unity* — 1/2: The sermon carries two main concerns — stay on the path (moral) and enter through the gate (gospel). These are related but the first section is heavy enough to compete with the second. A listener might leave remembering the fatherlessness statistics more vividly than the gate.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance* — 2/2: The fatherlessness and drug abuse illustrations land in concrete contemporary experience. The Doubting Castle and green meadow illustrations are culturally fresh given the Pilgrim's Progress context.
+- *Clarity* — 2/2: The illustrations clarify the point — straying from the path leads to real consequences. The connection is never strained.
+- *Memorability* — 0/1: The statistical block is informative but not imagistically memorable. The strongest image is the green meadow / Doubting Castle — this may be the image the congregation carries home. But it is borrowed from Bunyan, not native to the text.
+
+**8. Sermonic Force — 4/5**
+
+- *Reads as Preaching* — 2/2: This manuscript was clearly written for oral delivery. The interactive questions, the direct address ("Some of you know exactly what that meadow looks like"), the congregational engagement instructions — all indicate a preaching document, not an essay.
+- *Conviction on the Page* — 1/2: The gospel section carries conviction. The Pilgrim's Progress material carries enthusiasm. The longer statistical section reads closer to a lecture. Scripture-to-general-assertion ratio is lower than ideal in the middle third of the sermon.
+- *Cadence and Breath* — 1/1: Sentence variation is present. The short punches ("Every single time it was tried.") contrast effectively with the longer explanatory passages.
+
+**Subtotal: 71/100**
+
+---
+
+### Cognitive Load Modifier: 0
+
+The sermon is designed for maximum accessibility — children are engaged, terminology is plain, the structure is driven by story. No cognitive overload.
+
+---
+
+### Total Score: 71/100
+
+**Interpretation: Solid but lacking — needs another pass**
+
+Specifically, the sermon is strongest in gospel clarity, accessibility, and illustration, but thinner in textual exposition and conscience differentiation. It preaches; it just doesn't yet *preach from the text it claimed*.
+
+---
+
+### Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Primarily Christ, via the wicket gate, the substitution, and the resurrection. The moral sections edge toward self-assessment, but the gospel section rights the balance. **Yes — Christ is exalted.**
+2. *Did I encounter God, or just ideas about Him?* The gospel section brings genuine encounter. The Pilgrim's Progress sections are more illustrative than doxological. **Partially — ideas and encounter in measure.**
+3. *Was I comforted, convicted, or merely informed?* The unconverted hearer is convicted and invited. The believing hearer is reminded of grace and warned about wandering. A drifting believer is implicitly convicted. **Convicted and comforted — both present.**
+
+---
+
+### Strengths (Top 3)
+
+1. **Gospel presentation clarity** (The Gospel section): The five-text gospel outline (Romans 3:23, 6:23, John 3:16, Ephesians 2:8-9, Romans 10:9) is clean, complete, and well-sequenced. An unbeliever sitting in the room would hear a coherent, sufficient gospel. This is the sermon's best work.
+
+2. **Concrete moral application** (The Green Meadow and fatherlessness sections): The sermon makes the theological claim — straying has consequences — concrete and sociologically grounded. The specific statistics and real-world examples give the application pastoral weight, not just rhetorical vagueness.
+
+3. **Accessibility for a broad audience**: The interactive, film-framing, child-inclusive approach serves the Easter occasion well. The sermon meets people where they are — including those who may never have held a Bible — without condescending or watering down the gospel.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **John 10:7-11 is underpowered as the governing text** (The Wicket Gate section): The passage is read, briefly introduced, and then largely abandoned in favor of the gospel outline. The "I am the door" and "Good Shepherd" language — rich with thieves and robbers, abundant life, the sheep hearing his voice — is almost entirely unexplored. The sermon claims the text without drawing from it.
+
+2. **The moral section outweighs the gospel section in rhetorical intensity** (The King's Road, Green Meadow, Vanity Fair sections): Three substantial sections develop what happens when you leave the path. One shorter section develops the gospel. This imbalance risks leaving morally serious but unconverted hearers with a sense that the sermon's primary concern is cultural-moral, and that the gospel was appended at the end.
+
+3. **Believing hearers are undifferentiated** (throughout): The sermon is written almost entirely for the evangelistic moment. Believers who have been walking with Christ for years, who are struggling with doubt, grief, or cold hearts, receive almost nothing specific. The brief aside about David's elevator and having peace does not amount to pastoral address.
+
+---
+
+### Blind Spots
+
+The preacher likely does not see that the fatherlessness section, however factually corrected and pastorally motivated, risks becoming the sermon's emotional center of gravity. A non-Christian conservative could hear that section, nod vigorously, feel convicted about cultural decline, and leave without having been confronted with their own need for the gate. The cultural diagnosis can produce agreement without contrition.
+
+---
+
+### Illusion of Strength
+
+The sermon *feels* exegetically anchored because it keeps returning to the wicket gate image — but the image is Bunyan's, not the text's. The John 10 passage itself is doing almost no work. The preacher might feel that the Pilgrim's Progress connection has served as textual exposition, when in fact it has served as a frame for a topical sermon that arrives at gospel verses at the end. The exposition *felt* present because the sermon stayed within a Bunyan-shaped world. But Bunyan's theology, however sound, is not the same as opening John 10.
+
+---
+
+### Missed Opportunity
+
+John 10:8 — "All who came before me are thieves and robbers" — and 10:10 — "The thief comes only to steal and kill and destroy" — were left untouched. These verses would have sharpened and deepened the very Pilgrim's Progress theme the sermon was built around: Worldly Wiseman, Giant Despair, the residents of Vanity Fair — all are thieves and robbers in the text's own language. The sermon walked right past the text's own strongest contribution to the sermon's own theme.
+
+---
+
+### Surgical Fixes
+
+1. **Spend two minutes in John 10:8-10 after reading the passage.** Point out that the text itself names the thieves and robbers who offer false paths — and let those words describe Worldly Wiseman and Vanity Fair. The text and the allegory would then speak to each other, not merely coexist.
+
+2. **Move the gospel section's emotional center forward.** The cross is too compressed given its centrality. Consider briefly previewing the gate's cost (Good Shepherd lays down his life, v.11) before the Pilgrim's Progress illustrations, and returning to it at the climax rather than arriving at it after the statistics.
+
+3. **Add two sentences for the drifting believer.** After "If you have that relationship, you have nothing to fear," add a brief address: "And if you have that relationship but feel far from the gate right now — wandering, cold, doubtful — come back to it. The gate is still open. He is still the door." This closes the pastoral gap for the congregation's Christians without lengthening the sermon significantly.
+
+4. **Tighten the fatherlessness section or relocate it.** The statistics, while verified and important, carry so much weight that they require rebalancing. Either compress this section, or use it explicitly to drive hearers to their need for the gate — not just their awareness of cultural breakdown.
+
+---
+
+### Dead Orthodoxy Flag: NOT TRIGGERED
+
+The sermon has genuine evangelical heat. The gospel is not mere information — it is presented with urgency ("come find me before you leave today"). The moral sections are animated by pastoral concern for real people. The sermon is warm, not merely correct.
+
+---
+
+### Weight of Glory Assessment
+
+The sermon carries genuine gospel gravity in its final movements; the resurrection evidence and the open invitation are earnest and clear, though the Weight of Glory is somewhat diffused by the earlier sociological density — the sermon leaves hearers more informed and evangelistically moved than doxologically undone.
+
+---
+
+### Rubric Fit Note
+
+This sermon was preached in a highly contextual setting — following a Pilgrim's Progress film, Easter Sunday, interactive with children — and the rubric's standard exposition expectations strain slightly against that format. A purely expository rating penalizes what may have been a wise contextual choice: to meet people in Bunyan's world and lead them to Christ's. The evaluation has attempted to account for this, but the low textual fidelity score should be read in light of the occasion's unique demands. The sermon functions well as a contextual gospel invitation; it is not an expository sermon in the standard sense and should not have been billed as one.

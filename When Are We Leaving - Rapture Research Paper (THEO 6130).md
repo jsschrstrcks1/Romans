@@ -104,3 +104,168 @@ Ryrie, Charles C. *Biblical Theology of the New Testament*. Dubuque, IA: ECS Min
 Shedd, William Greenough Thayer. *Dogmatic Theology*. Edited by Alan W. Gomes. 3rd ed. Phillipsburg, NJ: P & R Pub., 2003.
 
 Zuck, Roy B. *A Biblical Theology of the Old Testament*. Electronic ed. Chicago: Moody Press, 1991.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+Earnest Eschatological Survey with Honest Conclusions but No Pastoral Nerve
+
+### 2. One-Sentence Summary
+A sincere academic survey of rapture positions that demonstrates genuine engagement with the Greek text, honest scholarly humility, and a commendable doxological impulse, while stopping well short of the pastoral exhortation, conscience-searching application, and gospel-centered proclamation that would make it preaching rather than research.
+
+### 3. Berean Gate Result
+**PASS (with qualification)**
+
+This is not a sermon — it is a graduate theology research paper (THEO 6130). The Berean Gate is therefore applied in adapted form. The paper does not claim a single "main point" in the homiletical sense, but rather surveys three rapture positions within a premillennial framework. The scopus — "what does Scripture actually say about the timing of the rapture?" — arises legitimately from the texts examined. The author handles the text with visible submission: he enters the paper with a pre-tribulation assumption and exits with a post-tribulation conclusion because the evidence demanded it. That is a herald's posture, not an editor's. Gate: Pass.
+
+### 4. Fatal Flaw Flags
+**Context note: this is a research paper, not a preached sermon. Fatal flaw flags are noted where applicable.**
+
+- **Flag 3 — Christ absent or unnecessary**: In significant stretches of the paper, Christ is functionally absent. The discussion of harpazo usage, the Noah/Lot typology, and the tribulation wrath debate could survive nearly intact without a robust Christology. The paper's best Christological moment — the brief treatment of what it means to know Christ through studying eschatology — is in the introduction and is never sustained. For a paper whose stated purpose is partly to "learn more about Christ," the Christ-content is thin.
+- **Flag 4 — Application entirely generic**: The applicatory material in the final third is genuine but undifferentiated. "We ought to be sharing the Gospel" and "living like we are leaving" address no particular person in any particular condition. The Spurgeon quotation is the most applicatorily sharp moment in the paper — and it belongs to Spurgeon, not to this author's own pastoral voice.
+- **Flag 5 — No actual exhortation**: The paper concludes with epistemological humility ("at best we make inferences") but no exhortation. The reader is not summoned to anything. The closing paragraph, despite acknowledging genuine uncertainty, offers no "therefore." A research paper is not obligated to exhort — but the author's stated pastoral motivation ("we study this because it is a way to know Christ") creates an expectation that is never fulfilled.
+
+**Score cap applied: 69 maximum.**
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 17/25**
+
+The paper's exegetical instincts are its clearest strength. The survey of harpazo across all 30 New Testament occurrences is disciplined and illuminating. The observation that Matthew avoids harpazo in the Olivet Discourse despite using it five times elsewhere — and that his prior uses associate the word with thieves and wolves — is a genuinely insightful exegetical move. The Luke 17 analysis (Noah, Lot, and the question of when wrath begins) is handled with care.
+
+Weaknesses: The paper conflates the Septuagint (Greek OT) with the Latin Vulgate in its opening paragraph, calling the LXX "the Latin translation of the New Testament." This is a factual error that undermines early confidence. The FCF (Fallen Condition Focus) is never clearly named — the paper explains what the texts say but does not clearly identify the human condition (fear about dead loved ones, confusion about God's justice, uncertainty about the future) that these texts were written to address. Exegetical transparency is good, though Greek is occasionally displayed more than it is explained.
+
+Score: 17/25
+
+**2. Theology & Doctrinal Integrity — 10/18**
+
+The paper is broadly orthodox. The treatment of God's wrath as distinct from Satan's wrath, and the argument that God is capable of selective application (Passover), is theologically sound. The final position — that the definition of "wrath" determines everything and Scripture is not definitive on that definition — is appropriately humble.
+
+Weaknesses: The Confessional Pulse (1689 alignment) is largely absent; the paper operates in a broadly evangelical premillennial frame without engaging Covenant of Grace theology, which has significant bearing on questions of tribulation and the church's relationship to Israel. The paper's assertion that the Stone-Campbell movement's addition of baptism to salvation is "little better than our own tradition's simple sinner's prayer" is theologically imprecise and dismissive of both traditions. The discussion of false teachers (Osteen, various cult founders) feels tangential and underdeveloped — it raises important questions about discernment but doesn't integrate them into the argument about rapture timing. Christ-centeredness is episodic rather than structural.
+
+Score: 10/18
+
+**3. Gospel Centrality & Force — 7/15**
+
+The gospel is present but not proclaimed. The paper quotes 2 Corinthians 5:21 early and quotes it well. The closing vision — "to see the face of Christ, to see the holes in His hands and weep for joy" — is the most doxologically alive moment in the paper and deserves expansion. The Spurgeon quotation about hell-bound sinners is powerful.
+
+However, the gospel is never fully articulated as the paper's gravitational center. The Synagogue Test: a devout premillennial Jewish reader could follow most of this paper's argument without being confronted by the offense of Christ's substitutionary death as the only ground of salvation. The cross appears at the margins. Justification by faith is assumed, never declared. The law/gospel dialectic is absent.
+
+Score: 7/15
+
+**4. Conscience & Applicatory Force — 6/15**
+
+The paper contains genuine pastoral concern — the worry that some in the pews may be complacent about their salvation, the acknowledgment that studying eschatology is partly about loving souls, the direct reference to congregational ministry. These are not mere academic gestures.
+
+But the paper addresses almost exclusively Perkins' category 5 (believing, growing Christians) — and only in the most general terms. The self-righteous (category 3), the hardened (category 1), the backslider (category 6), and the humbled-but-not-yet-believing (category 4) are invisible. The conscience is never actually searched. The paper tells readers what to do ("share the Gospel") without searching the condition that makes them fail to do it.
+
+Score: 6/15
+
+**5. Exhortation & Response — 3/8**
+
+There is a gesture toward exhortation in the passage about living as if we are leaving and the Spurgeon quotation about evangelistic urgency. These are the paper's warmest moments. But no clear "therefore" is ever issued. The conclusion retreats into epistemological modesty precisely where exhortation is most needed. The reader closes the paper knowing the author's conclusions but unsummoned to any particular response.
+
+Score: 3/8
+
+**6. Structure & Logical Flow — 6/9**
+
+The paper's flow is largely coherent: introduction to the word harpazo → survey of key passages → analysis of the three positions → resolution. The pivot to a post-tribulation conclusion is well-earned and clearly signaled.
+
+Weaknesses: The paper wanders significantly at several points. The extended discussion of Heaven is for Real, the treatment of Lazarus's emotional state after resurrection, the tangent on cult founders, and the IMB membership statistics are all loosely connected to the main argument. Each of these would have been stronger if tied directly back to the question of rapture timing. The conclusion's three conditional "IF" statements are structurally interesting but feel like a retreat from the clarity the paper had almost achieved.
+
+Score: 6/9
+
+**7. Illustration & Imagination — 3/5**
+
+The paper has genuine illustrative instinct. The painter who pours herself into her art as an analogy for Christ's self-revelation in eschatology is evocative and original. The promise keepers march on Washington as an illustration of the innumerable multitude is vivid. The Heaven is for Real extended illustration is honest and personally engaged, though it runs longer than it illuminates.
+
+The C.S. Lewis Aslan quotation is apt but has become a cliche in evangelical writing. The illustrations generally serve the argument rather than competing with it.
+
+Score: 3/5
+
+**8. Sermonic Force — 2/5**
+
+This is a research paper, not a sermon manuscript, and it does not read as preaching — nor is it intended to. There are moments of genuine personal voice ("How heartbreaking would it be...") and pastoral warmth that hint at what this material could become in a pulpit context. The ending vision of glorified bodies worshipping at the throne is one of the few places where the writing achieves actual doxological heat. The paper's voice is engaged and honest, if uneven.
+
+Score: 2/5
+
+### 6. Cognitive Load Assessment
+**Modifier: -1**
+
+The paper is slightly dense, not because of theological technicality but because of scope. Three positions, multiple sub-arguments, several lengthy tangents, and a conditional three-part conclusion all in one sitting creates moderate cognitive load. A cleaner outline would reduce this. One fewer tangent (the cult founders section or the Heaven is for Real extended treatment) would improve tracking considerably.
+
+### 7. Total Score
+- Exposition: 17
+- Theology: 10
+- Gospel Centrality: 7
+- Conscience & Application: 6
+- Exhortation: 3
+- Structure: 6
+- Illustration: 3
+- Sermonic Force: 2
+- **Subtotal: 54/100**
+- Cognitive Load Modifier: -1
+- **Total: 53/100 (with fatal flaw cap: reported as 53, which is below the 69 cap)**
+
+**Interpretation: Fundamentally limited for preaching purposes. As a research paper, this demonstrates genuine scholarly engagement and intellectual honesty. As a document that aims toward pastoral formation and ministry preparation, it stops short of the finish line — explaining without pressing, surveying without summoning.**
+
+### 8. Core Override Questions
+
+1. **Does this paper make me think more of Christ — or myself?**
+Intermittently of Christ. The painter illustration, the 2 Corinthians 5:21 quotation, and the closing vision of the throne room all gesture toward Christ. But the majority of the paper's intellectual energy is spent on the mechanics of rapture timing rather than on magnifying the Christ who is coming.
+
+2. **Did I encounter God, or just ideas about Him?**
+Primarily ideas. The God of this paper is largely a doctrinal category — the One whose wrath defines the eschatological timeline — rather than the living and weighty Being who demands response. The closest the paper comes to an encounter is the closing vision, which deserves to be three times longer.
+
+3. **Was I comforted, convicted, or merely informed?**
+Primarily informed. There is a brief gesture toward conviction (the warning about complacency in the pew) but it does not land with enough specificity to sting. There is a gesture toward comfort (the note that God protects from wrath) but it does not land with enough gospel content to truly console.
+
+### 9. Strengths (Top 3)
+
+1. **Exegetical discipline with harpazo**: The survey of all 30 NT occurrences and the specific observation about Matthew's deliberate avoidance of the word in the Olivet Discourse is careful, original, and genuinely illuminating scholarship. This kind of word-study discipline — tracing a term through its full semantic range and noting where an author chooses not to use it — is exactly what good exegesis looks like.
+
+2. **Intellectual honesty under evidence**: The author entered the paper with a pre-tribulation presupposition inherited from his undergraduate education and exited with a post-tribulation conclusion. He names this explicitly. That willingness to follow the argument where it leads, rather than defending the inherited position, is a mark of real scholarly integrity and is exactly the posture a minister needs.
+
+3. **Genuine pastoral orientation**: Despite being a graduate research paper, this document is never merely academic. The concern for souls who may be falsely assured, the awareness that ministers will face eschatological questions from congregants, the Spurgeon quotation on evangelistic urgency — these show a man who is studying this for ministry, not merely for grades.
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **A factual error in the opening paragraph**: Calling the Septuagint "the Latin translation of the New Testament" is a double error — the LXX is a Greek translation of the Hebrew Old Testament. This is not a minor slip. In a graduate paper on a topic where linguistic precision is central (the paper's entire opening argument turns on Latin and Greek word meaning), this undermines credibility at the starting gate. It must be corrected.
+
+2. **The conclusion retreats when it should advance**: The three conditional IF statements at the end ("IF God sees the tribulation as part of His wrath... IF God's wrath is only at a certain point... IF as I believe, God's wrath is an eternity separated from Him...") present three mutually exclusive positions as equally valid personal options. But the paper has spent pages arguing that the post-tribulation position has "the scriptural view on most of the passages." The conclusion undercuts that earned conclusion with false humility. Own the argument. Then exhort from it.
+
+3. **Christ is instrumentalized rather than magnified**: The stated purpose of studying eschatology — "to learn more about Christ" — is articulated in the introduction but never fulfilled. The paper uses Christ as a frame for why eschatology matters, then proceeds to discuss eschatology almost entirely in terms of wrath timing, covenant arguments, and Greek vocabulary. Christ's return is the paper's topic, but Christ himself is not the paper's center. The closing vision of the throne room proves the author is capable of Christological heat — that heat needs to pervade the paper, not only close it.
+
+### 11. Blind Spots
+
+The author appears unaware of how thoroughly his Reformed bibliography (Bavinck, Shedd, Boyce, Lloyd-Jones) stands in tension with the broadly evangelical dispensational framework within which the rapture debate is usually conducted. The Covenant of Grace / Covenant of Works distinction has direct bearing on whether "the church" can be expected to experience tribulation in the same way Israel does in a dispensational system — and the paper never engages this. A Reformed reader will notice the tension; the paper does not. Additionally, the paper does not engage the pastoral implications of its own conclusion: if post-tribulationalism is correct, what does a minister say to a congregation that has been raised on pre-trib expectations? That pastoral challenge is at least as important as the exegetical resolution.
+
+### 12. Illusion of Strength
+
+The paper's most confident-sounding section — the extended treatment of the innumerable multitude in Revelation 7:9 — is actually its most statistically speculative. The IMB membership figure of 720 million believers "as of 11:19pm on December 1st, 2014" and the projection of one billion believers within thirty years are deployed with a precision that implies certainty the data does not warrant. The argument that the multitude cannot be composed mostly of Jews because "a billion Jews have never existed" is arithmetically reasonable but proceeds as if the numerical argument settles the exegetical question — which it does not. The specificity of the statistics creates an impression of rigor that is not fully earned.
+
+### 13. Missed Opportunity
+
+The paper spends considerable energy on the semantic range of harpazo and then largely abandons the payoff. Having established that Matthew deliberately avoids harpazo in the Olivet Discourse and uses different vocabulary for the "taking" in Matthew 24:40-41, the paper does not fully exploit what this means for the interpretation of that passage. Does the different vocabulary suggest a different kind of removal — judgment rather than rescue? Does it align the Matthew 24 "taking" with the pre-flood removal of the wicked rather than the rapture of the saints? This is one of the most exegetically interesting questions in the rapture debate, and the paper raises it and then moves on.
+
+### 14. Surgical Fixes (3-5)
+
+1. **Correct the LXX error immediately**: In the opening paragraph, "which is the Latin translation of the New Testament" must be revised to accurately identify the LXX as the Greek translation of the Hebrew Old Testament. The argument about Latin (rapio) and Greek (harpazo) is correct and interesting — it just needs the LXX properly identified.
+
+2. **Commit to the conclusion**: The three conditional IF statements in the final paragraph should be restructured. The paper has earned a conclusion. State it: "The scriptural evidence, assessed honestly, points toward a post-tribulation rapture as the most exegetically defensible position — while acknowledging that the timing of God's wrath introduces genuine uncertainty." Then exhort from that conclusion rather than dissolving it in qualifications.
+
+3. **Integrate the Christological frame throughout**: The painter illustration and the closing throne-room vision demonstrate real capacity for doxological prose. The paper's introduction promises that studying eschatology is a way to know Christ more fully. Insert brief Christological anchors at each major transition — what does this position on wrath say about the character of Christ? What does the harpazo of the church say about the union between Christ and His people? Let the promised payoff (knowing Christ) actually arrive.
+
+4. **Apply the post-trib conclusion pastorally**: Having concluded that post-tribulationism has the stronger scriptural case, add a brief applicatory section: what does this mean for the congregation the author will pastor? How should a church live if tribulation is expected rather than escaped? What does the Spurgeon quotation on evangelistic urgency look like when applied to a church that expects suffering rather than rescue? The paper ends at the exegetical conclusion when it should proceed to the pastoral one.
+
+5. **Remove or integrate the tangential sections**: The Heaven is for Real section, the cult-founders paragraph, and the Lazarus emotional state meditation each contain genuinely interesting ideas, but none of them directly advance the argument about rapture timing. Either integrate each one with a direct tie back to the central question ("...and this affects the post-trib position because...") or cut them and use the recovered space for the pastoral application the paper lacks.
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — the paper is not a sermon and this diagnostic applies primarily to preached material. However, a related pattern is present: the paper's strongest theological moves (the harpazo word study, the Luke 17 analysis, the Revelation 7 argument) are exegetically competent but pastorally cool. The author clearly loves these texts and loves the God they describe — the closing throne-room vision proves this — but that warmth is rationed when it should be sustained.
+
+### 16. Weight of Glory Assessment
+The paper carries genuine eschatological weight in its closing vision — "to see the face of Christ, to see the holes in His hands and weep for joy" — but that moment arrives too briefly and too late; the paper's primary register is scholarly analysis, and the glory breaks through only at the end rather than pervading the whole.
+
+### 17. Rubric Fit Note
+This rubric was designed for preached sermon manuscripts, and its application here requires significant adjustment. Categories 5 (Exhortation), 8 (Sermonic Force), and the Cognitive Load modifier are least applicable to a graduate research paper. The Conscience & Applicatory Force category and the Core Override Questions carry full weight because the author himself framed this paper in pastoral and doxological terms ("we study this to know Christ"; "this fervency should be the hallmark of our faith"). A paper that frames itself as pastorally motivated is accountable to pastoral standards. The Berean Gate, Exposition, Theology, and Gospel Centrality categories apply with full force. The total score (53) reflects the evaluation of this document's fitness as pastoral-theological writing — not merely as academic research, where it would score meaningfully higher on the exegetical subcategories alone.

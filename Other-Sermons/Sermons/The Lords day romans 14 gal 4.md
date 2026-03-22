@@ -71,3 +71,172 @@ We keep Sunday as a protestant church because we believe Jesus was resurrected o
 Shall we continue in sin that grace may abound? May it never be. But we can only work on things as God reveals them to us, and aids us in our victory over it, or all of it is futile. Now if you’re an alcoholic, that doesn’t give you liscense to pick up the bottle again because you’re feeling strong today. If you’re prone to desiring a thing above all else then its worth your while to put it down, and run away from it. Your relationship with God is far more important than your next drink, or your next hit of drugs, and if it isn’t more important to you, than you are still lost and in need of a relationship with God. A famous preacher once wrote “This Antinomian principle, that it is needless for a man, perfectly justified by faith, to endeavour to keep the law, and do good works, is a glaring evidence that legality is so engrained in man’s corrupt nature, that until a man truly come to Christ, by faith, the legal disposition will still be reigning in him; let him turn himself into what shape, or be of what principles he will in religion; though he run into Antinomianism he will carry along with him his legal spirit, which will always be a slavish and unholy spirit.” None embrace one extreme whose hearts have not been steeped in the other. 
 
 True knowledge of God’s grace, starts with the Gospel.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+
+---
+
+### 1. Verdict Title
+*A Pastoral Excursion on Christian Liberty That Finds Grace But Loses the Text*
+
+---
+
+### 2. One-Sentence Summary
+A warm and conversational treatment of Romans 14 and Galatians 4 that rightly defends Christian liberty against legalism and antinomianism, but never stays in orbit around the passage long enough to preach its actual burden.
+
+---
+
+### 3. Berean Gate
+**Scopus Test: MARGINAL PASS**
+The sermon’s thesis — that Christians are not bound to a specific day of worship, and that legalism is the enemy of grace — is defensible from Romans 14:5–10. However, the main point of Romans 14 is mutual acceptance among the strong and the weak regarding adiaphora (matters of indifference), not primarily a polemic against legalism as a salvation system. The sermon uses the passage as a springboard for a broader discussion of legalism/antinomianism rather than expounding Paul’s actual argument about how the strong are to receive the weak without judging.
+
+**Authority Test: PASS**
+The preacher submits to the text and does not soften its claims. The uncomfortable reality that legalists are still brothers ("no less saved than you or I") is honored.
+
+---
+
+### 4. Fatal Flaw Flags
+**Flag #4 — Application is largely generic.** The sermon addresses the broad question of Sabbatarianism and Christian liberty, but application never differentiates hearers or presses specific consciences. The conclusion ("True knowledge of God’s grace, starts with the Gospel") is a statement, not an application or exhortation.
+
+**Flag #5 — Exhortation is weak to absent.** The sermon explains the legalism/antinomianism contrast and arrives at grace as the middle ground, but never calls the congregation to a specific response. What must the hearer *do*, believe, or pursue differently after this sermon?
+
+**Score cap: 69**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14/25**
+- Textual Fidelity (6/10): Romans 14:1–12 is read and referenced, but the sermon’s argument diverges quickly from Paul’s actual concern (the strong receiving the weak in fellowship). The text is used to validate a pre-formed thesis about legalism rather than expounded on its own terms. Galatians 4:8–20 is brought in but not exegeted — it is quoted and paraphrased with minimal unpacking.
+- Contextual Awareness (2/5): The immediate context of Romans 14 — Paul’s concern for unity between Jewish and Gentile Christians — is touched but not developed. No treatment of the book flow or authorial intent.
+- Exegetical Clarity (3/5): The explanation of Paul’s meaning is accessible but surface-level. The Greek is never consulted. No attention to specific words or phrases that anchor the argument.
+- Logical Faithfulness (3/5): The move from Romans 14 to Galatians 4 to antinomianism to grace is plausible but loosely connected. The Fallen Condition Focus is implicit (legalism as bondage) but not named concretely.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+- Christ-Centeredness (4/7): Christ is mentioned in the context of the Lord’s Supper, the resurrection, and as the object of saving faith, but he is not organically central to the sermon’s argument. The discussion of legalism vs. grace could largely stand without specific reference to Christ’s person and work.
+- Redemptive-Historical Awareness (1/3): The Sabbath’s roots in creation and its trajectory through the resurrection are mentioned only briefly. No redemptive-historical arc is traced.
+- Doctrinal Precision (3/4): The distinction between justification and sanctification is implicit but not precise. The treatment of antinomianism is good — the Ferguson quote is well used. Minor sloppiness: "Romans 12" referenced when the text is Romans 6 (the "shall we continue in sin" argument).
+- Confessional Alignment (3/4): The sermon’s conclusions are broadly consistent with 1689 thinking. The treatment of the Sabbath is consistent with a Reformed Baptist position (Lord’s Day, not Sabbatarian).
+
+**3. Gospel Centrality & Force — 7/15**
+- Clarity of the Gospel (2/5): The gospel is gestured toward at the end ("True knowledge of God’s grace, starts with the Gospel") but never proclaimed. Justification by faith is not clearly articulated. The closing sentence points toward the gospel without arriving at it.
+- Necessity of Christ (3/5): Christ is presented as necessary to salvation and as the antidote to legalism. But the sermon could survive in a context of moral theism with only minor adjustment.
+- Cross-Centered Gravity (2/5): The cross is not the center of gravity. The Rembrandt illustration lands on grace in concept but does not move toward the cross specifically.
+
+**Synagogue Test: PARTIAL CONCERN.** A moral theist or devout Jew could hear most of this sermon without being confronted with the offensiveness of Christ’s atoning death. The gospel is assumed background music, not proclaimed melody.
+
+**4. Conscience & Applicatory Force — 7/15**
+- Heart Penetration (2/5): The illustrations (vacation nap, Rembrandt museum) are warm but do not search the conscience. The text never corners a specific type of sinner.
+- Specificity (2/5): "We can only work on things as God reveals them to us" and similar statements are too general. The specific application about the Lord’s Day is clear but occupies only a small portion of the sermon.
+- Spiritual Differentiation (3/5): The legalist is addressed. The antinomian is addressed. The alcoholic and the idolater receive a mention. But the humbled sinner, the backslider, and the believer in Christ are not distinctly addressed with appropriate specificity. Perkins’ taxonomy is largely absent.
+
+**5. Exhortation & Response — 2/8**
+- Call to Response (1/4): The sermon ends with an affirmation ("True knowledge of God’s grace, starts with the Gospel") rather than a summons. There is no clear "therefore" moment.
+- Equipping for Holiness & Witness (1/4): The sermon does not send the church anywhere. It informs about Christian liberty but does not equip for holiness or witness.
+
+**6. Structure & Logical Flow — 6/9**
+- Clarity of Outline (2/4): The structure is loose: introduction (Meo people, BFM), Romans 14, Galatians 4, legalism, antinomianism, grace. It is followable but not memorable or traceable.
+- Progression (3/3): The sermon does build — from the question of the Lord’s Day to the broader theology of grace vs. legalism.
+- Unity (1/2): Two competing ideas (Lord’s Day vs. Sabbatarianism; legalism vs. antinomianism) compete without being unified under one dominant thesis.
+
+**7. Illustration & Imagination — 3/5**
+- Relevance (1/2): The vacation/nap illustration and the Rembrandt story are warm and accessible, native to this preacher’s voice. The "tie in church" illustration is effective.
+- Clarity (1/2): The Rembrandt illustration lands on "grace is better than legalism" but does not illuminate a specific aspect of the text.
+- Memorability (1/1): The Rembrandt/stick figure image is memorable.
+
+**8. Sermonic Force — 3/5**
+- Reads as Preaching (2/2): The manuscript has oral cadence, direct address, and is conversational. It reads like a man talking to his people, not presenting a paper.
+- Conviction on the Page (1/2): The conviction is warm but not sharp. There is no moment where the manuscript roars.
+- Cadence and Breath (0/1): Sentence length is relatively uniform. No climactic compression.
+
+---
+
+### 6. Cognitive Load Modifier
+**−1**: The sermon moves through several distinct topics (Sabbatarianism, legalism in general, antinomianism, the Rembrandt/grace illustration) without a clear unifying spine. Slightly dense in concept, slightly light in development. A congregant could follow but might struggle to state the one takeaway.
+
+---
+
+### 7. Total Score
+14 + 11 + 7 + 7 + 2 + 6 + 3 + 3 − 1 = **52/100**
+
+**Interpretation: Fundamentally flawed. Rebuild from the text.** (Fatal flaw flags also cap at 69; actual score 52 falls below that cap.)
+
+**Score Band: Below 60 — Fundamentally flawed. Rebuild from the text.**
+
+---
+
+### 8. Core Override Questions
+1. *Does this sermon make me think more of Christ — or myself?* Mostly Christ, but the discussion is abstract enough that neither is strongly centered.
+2. *Did I encounter God, or just ideas about Him?* Ideas about grace, not God himself.
+3. *Was I comforted, convicted, or merely informed?* Informed — and mildly encouraged. Not convicted.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The legalism/antinomianism treatment is theologically sound.** The Ferguson quote — "The antinomian is by nature a person with a legalistic heart" — is well-placed and accurate. Few preachers handle this dialectic with this level of care.
+
+2. **Pastoral warmth and accessibility.** The conversational register, the tie/dancing illustration, and the vacation story make the sermon approachable for ordinary hearers. The preacher clearly loves his people.
+
+3. **The Rembrandt illustration is vivid and native to the sermon.** The image of legalism as a stick figure next to grace’s Rembrandt lands cleanly and is memorable.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The sermon never actually expounds Romans 14.** The passage is read and referenced but its argument — that the strong should receive the weak without despising or judging them, because each stands before the Lord — is never opened. The sermon *uses* the passage to validate a pre-formed conclusion rather than *deriving* its argument from the text.
+
+2. **No gospel proclamation.** The final sentence ("True knowledge of God’s grace, starts with the Gospel") is the closest the sermon gets to the gospel. Christ’s death and resurrection are not proclaimed as the ground of the freedom being described. The sermon teaches *about* grace without *announcing* grace.
+
+3. **No exhortation.** The sermon ends without telling the congregation what to do, believe, or pursue. The listener is informed but never summoned. What does the person in the pew leave with as a call to action?
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how far the sermon has drifted from the text’s actual burden. Romans 14 is not primarily about legalism as a salvation system — it is about the strong and the weak living together in fellowship, not judging one another over adiaphora. The sermon answers a question Romans 14 is not primarily asking. The preacher is also likely unaware that the gospel invitation implied in the closing line arrives too late and too quietly to do the work it needs to do.
+
+---
+
+### 12. Illusion of Strength
+
+The antinomianism discussion *feels* theologically sophisticated — and it is, as far as it goes. But it is doing extra-textual theological work, not exegetical work on Romans 14. The congregation may leave feeling that a complex theological balance was struck, when in fact the text’s own argument was never fully engaged.
+
+---
+
+### 13. Missed Opportunity
+
+Romans 14:7–9 — "For none of us lives to himself, and none of us dies to himself... For to this end Christ died and lived again, that he might be Lord both of the dead and of the living" — is the theological heart of the passage and a profound statement about Christ’s lordship over all of life. This text cries out for Christological development. The sermon passes over it without comment. This is where the Lord’s Day argument and the gospel could have been united: we gather on Sunday *because* Christ is Lord of the living and the dead, and the resurrection proved it.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Anchor the sermon in Romans 14:7–9.** Make the lordship of Christ over "the living and the dead" the theological center. The question of the Lord’s Day flows from this: we meet on Sunday because Christ rose and is Lord. Legalism denies that his lordship is sufficient; antinomianism denies that his lordship is authoritative.
+
+2. **Add a clear gospel proclamation.** Before or after the antinomianism discussion, explicitly announce: Jesus lived, died, and rose to be Lord — and his finished work is what frees us from both the bondage of law-keeping and the license of antinomianism. Name Christ’s cross as the ground of freedom.
+
+3. **Add differentiated direct address.** Address the person who suspects they are sliding into antinomianism. Address the person whose legalism is masking a fear that grace is not sufficient. Address the new believer who is confused about which rules still apply.
+
+4. **Write an exhortation.** End with a "therefore": "Therefore, if Christ is Lord of both the living and the dead, and if his lordship is your freedom — stop judging your brother. Stop adding rules where Christ has not ruled. And stop using freedom as a cover for the flesh. Come to Christ, not the calendar."
+
+5. **Tighten structure.** The sermon has two competing topics (Lord’s Day and legalism/antinomianism). Choose one as the dominant theme, or explicitly unify them under the thesis about Christ’s lordship.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon is warm and pastorally engaged, though it lacks doctrinal depth.
+
+---
+
+### 16. Weight of Glory Assessment
+The sermon carries genuine pastoral warmth but limited eternal gravity; God is present as the God of grace but not as the holy and weighty Lord before whom all accounts are rendered.
+
+---
+
+### 17. Rubric Fit Note
+Romans 14 is a practical passage about life in community, and this rubric fits it well. The passage contains robust Christological content (vv. 7–9) that the rubric’s Christ-centeredness category correctly identifies as underdeveloped. No genre strain.

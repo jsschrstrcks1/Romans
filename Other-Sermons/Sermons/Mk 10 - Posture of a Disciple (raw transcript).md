@@ -151,3 +151,198 @@ Altar call. Christians — would God approve of what he saw in you today? For ev
 - **"6 different times in the first four books of the Bible"**: The cross-bearing command appears 5 times clearly (Matt 10:38, Matt 16:24, Mark 8:34, Luke 9:23, Luke 14:27). A 6th (Mark 10:21) appears only in KJV tradition — modern translations based on earlier manuscripts omit it. Also: "first four books of the Bible" is an odd phrasing (that would be Genesis–Numbers); the preacher means "the four Gospels." None appear in John.
 - **Dhobi people group**: Real caste community in India. However, the total Dhobi population across sub-groups is approximately 12 million (Joshua Project), not "about a million." The "not a single one" claim overstates it — Joshua Project lists 0.02% evangelical (~2,400 people). They are classified as unreached, but "zero" is inaccurate.
 - **"Corpse" / "literally dead"** (Eph 2): The ESV says "dead in the trespasses and sins." The word "corpse" does not appear. "Literally" is the preacher's theological emphasis. The Greek *nekros* means "dead" and can imply a corpse, but the ESV simply renders "dead."
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Date Evaluated:** 2026-03-21
+**Evaluator:** Thus Says the Lord Rubric (Reformed Baptist)
+
+---
+
+### 1. Verdict Title
+
+**"Faithful Pastoral Energy with an Unfinished Gospel and a Scaffolded Structure"**
+
+---
+
+### 2. One-Sentence Summary
+
+A warm, personally grounded opening of Mark 10:32–45 that rightly confronts prosperity-gospel distortion and applies cross-bearing to congregational life, but leaves the gospel as a placeholder rather than a proclamation, and relies on study notes structure rather than sermonic architecture.
+
+---
+
+### 3. Berean Gate
+
+**Pass — with reservation.**
+
+*Scopus Test:* The sermon's thesis — that discipleship means self-denial and submission, not status-seeking — does arise organically from Mark 10:35–45. The contrast between James and John's request and Jesus's cup/cross language is the text's own argument. Pass.
+
+*Authority Test:* The preacher submits to the text's claims including the costly ones (cross-bearing illustrated with real personal examples). No softening or evasion of hard material. Pass.
+
+Reservation: This is a raw transcript, not a finished manuscript. The "sermon" is more accurately a set of preaching notes and illustrations threaded around the passage. The Berean Gate grades what is there — but gaps noted below are partly structural/developmental.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 1 — No clear gospel presentation: TRIGGERED.**
+The sermon ends with "Altar call. Christians — would God approve of what he saw in you today? For everyone else — today is the day. It's just a matter of turning from your old ways and turning towards Christ. Christ has already done the hardest parts." This is not a gospel presentation. It is a gesture toward one. There is no articulation of sin's weight, Christ's substitutionary death, resurrection, repentance, or faith. The altar call summarizes the gospel in one passive sentence ("Christ has already done the hardest parts") without explaining what those parts were, why they were necessary, or what is required of the hearer. Score capped at 69.
+
+**Flag 4 — Application is partially generic:** The cross-bearing applications in the "What is our cross today?" section are specific and congregationally grounded (sound board, visiting hospital, guarding tongue over motorcycle). This partially redeems generic drift. Flag does not fully trigger but is noted.
+
+**No other fatal flaw flags triggered.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 17/25**
+
+- *Textual Fidelity (7/10):* The sermon follows the text's sequence (10:32–34, 35–37, 38, then 8:34). The connection between James and John's status-seeking and the prosperity gospel is exegetically valid and well-executed. However, Mark 10:41–45 — the theological heart of the passage ("the Son of Man came not to be served but to serve, and to give his life as a ransom for many") — receives no treatment. This is the passage's own climax, and the sermon skips it entirely. That is a critical omission.
+- *Contextual Awareness (3/5):* The third passion prediction (10:32–34) is noted as context for the disciples' obtuseness. The parallel to Mark 8:34 is appropriate. The book-flow context (repeated passion predictions, disciples' repeated failure to understand) is implicit but underdeveloped.
+- *Exegetical Clarity (4/5):* The chief priests explanation is accurate and accessible. The "cup" and "baptism" language is noted but not exegetically unpacked — the depth of what Jesus means by "the cup" (Gethsemane, wrath) is absent.
+- *Logical Faithfulness (3/5):* The GotQuestions.org quotation is used without attribution in the sermon and presents Luke 9:24–25 in NIV rather than the sermon's working translation. Minor eisegesis: the prosperity gospel framing, while valid, slightly imports a modern grid onto the disciples' ancient worldview.
+- *FCF:* The Fallen Condition Focus is implicit — human pride, status-seeking, self-orientation — but never named with precision. The sermon feels it without saying it.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+
+- *Christ-Centeredness (4/7):* Christ is present as teacher, model of submission, and fulfillment of what cross-bearing points to. But Mark 10:45 — "a ransom for many" — goes completely untreated. The most explicitly christological and soteriological verse in the passage is absent. The sermon's Christ is primarily exemplary rather than substitutionary.
+- *Redemptive-Historical Awareness (2/3):* The cross-bearing command connects appropriately to the disciples' eventual martyrdom and is placed in salvation-historical context through Ephesians 2.
+- *Doctrinal Precision (3/4):* Ephesians 2 is used correctly to establish total depravity as the baseline for why prosperity-gospel self-focus is spiritually deadly. The "I is always in the middle of sin" formulation is a good popular-level summary. Some imprecision: "turning from your old ways and turning towards Christ" at the close elides regeneration entirely.
+- *Confessional Alignment (3/4):* The total depravity framework is sound. No contradictions of confessional theology. The altar call's implicit synergism ("turning from your old ways") is a mild concern.
+
+**3. Gospel Centrality & Force — 7/15**
+
+- *Clarity of the Gospel (1/5):* The gospel is gestured at in the altar call but never proclaimed. Mark 10:45 ("ransom for many") — the passage's own gospel hinge — is skipped. The closest the sermon comes to articulating the gospel is the Ephesians 2 reference and the Jonathan Edwards quote ("the only thing we can contribute to salvation is the sin that made it necessary") which appears near the end of the Mk 14 evaluation notes — wait, that is a different sermon. In this sermon, the gospel at the close reads: "Christ has already done the hardest parts." That is not gospel clarity.
+- *Necessity of Christ (3/5):* Christ is necessary to the argument — the entire sermon is about submitting to him, following him, finding joy in him. But the *reason* Christ is necessary (sin, wrath, substitutionary atonement) is left unarticulated.
+- *Cross-Centered Gravity (3/5):* The cross is referenced (cross-bearing, martyrdom, Ephesians 2), but the cross as the place of Christ's atoning work is never directly addressed. The Christian Hedonism point (find your joy in Christ) points in the right direction without arriving.
+
+**4. Conscience & Applicatory Force — 11/15**
+
+- *Heart Penetration (4/5):* The personal illustrations — gun at the door, friend's father, motorcycle, Carol's service, woman teaching through chemo — are pastorally specific and press the conscience. The "I is always in the middle of sin" moment and the Tozer application are effective.
+- *Specificity (4/5):* The cross-bearing applications are unusually specific and congregationally grounded. This is one of the sermon's genuine strengths. Real names, real situations, real cost counted.
+- *Spiritual Differentiation (3/5):* The sermon addresses believers (what is your cross today?) and gestures toward unbelievers (altar call). The backslider and the knowledgeable-but-unmoved categories are not directly addressed. The altar call does not differentiate between the doubter, the moralist, and the hardened sinner.
+
+**5. Exhortation & Response — 5/8**
+
+- *Call to Response (2/4):* The altar call is present but thin. "Turning from your old ways and turning towards Christ" is the form of a call without the substance. What must the unbeliever believe? What is the believer called to do now? The Christians are asked a self-examination question ("Would God approve?") but not given a clear imperative.
+- *Equipping for Holiness & Witness (3/4):* The specific cross-bearing applications function as genuine equipping — sound board, food bank, guarding tongue, teaching kids. This is real and good.
+
+**6. Structure & Logical Flow — 5/9**
+
+- *Clarity of Outline (2/4):* This is a raw transcript, not a finished outline. The structure follows the biblical text verse by verse (seams format), which is traceable but not rhetorically compelling. There is no announced main point that unifies the material.
+- *Progression (2/3):* The sermon builds from Jesus's prediction → disciples' failure to understand → cost of following → application. There is forward movement, though the Dhobi people group insert, the DL Moody quote, and the GotQuestions quotation slow the progression.
+- *Unity (1/2):* The prosperity gospel frame competes with the cross-bearing application frame. Both are valid but they need to be integrated into a single controlling idea. The sermon feels like two homilies stitched together.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2):* The illustrations are drawn from the congregation's actual world — the gun at the door, the motorcycle, the cancer patient teaching kids, the football game, the ATM parent analogy.
+- *Clarity (1/2):* Most illustrations clarify effectively. The Benny Hinn opener is dated and contested (as the corrections log notes) and risks making the sermon feel reactive rather than expository.
+- *Memorability (1/1):* "I is always in the middle of sin" and the ATM/vending machine God will be remembered.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (1/2):* The seams format reads as notes, not preaching. Direct address is present in places ("What is our cross today?") but inconsistent.
+- *Conviction on the Page (1/2):* The personal illustrations carry conviction. The doctrinal sections (Ephesians 2, Piper, Tozer) are named rather than preached.
+- *Cadence and Breath (1/1):* Genuine oral rhythm in the application section. The specific congregational names (Carol, the woman teaching through chemo) give it real weight.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1.** The raw transcript format adds conceptual load — multiple quoted sources (Moody, Tozer, Piper, GotQuestions), the Dhobi insert, the corrections log, and overlapping frames (prosperity gospel + cross-bearing) make this harder to follow than a finished sermon would be. The average hearer could track the main argument but would struggle to summarize the sermon in one sentence.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 17/25 |
+| Theology & Doctrinal Integrity | 12/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 11/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **64/100** |
+| Cognitive Load Modifier | −1 |
+| **Total** | **63/100** |
+| Fatal Flaw Cap | Capped at 69 ✓ (score is below cap) |
+| Weight of Glory Bonus | +1 (the personal applications carry genuine pastoral weight) |
+| **Final Score** | **64/100** |
+
+**Interpretation: Concerning gaps.** The sermon explains and applies but the gospel never fully arrives. Significant revision needed.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Mostly Christ — the prosperity gospel critique and cross-bearing applications keep Christ central. But Christ's finished work is not proclaimed, only implied.
+2. *Did I encounter God, or just ideas about Him?* The personal illustrations create genuine pastoral encounter. The doctrinal sections remain at the level of information.
+3. *Was I comforted, convicted, or merely informed?* The specific cross-bearing applications genuinely convict. The altar call fails to comfort the anxious sinner or clearly direct the unbeliever.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Congregationally specific cross-bearing applications.** The list in "What is our cross today?" — the cancer patient teaching through chemo, the broken motorcycle and guarded tongue, the football game as false god — is the sermon's genuine strength. These are real, costly, and grounded in actual community life. This is Puritan applicatory specificity in practice.
+2. **Prosperity gospel critique is exegetically valid and well-placed.** The contrast between James and John's request and Jesus's passion prediction is the text's own irony. The ATM/vending-machine-God illustration is sharp and memorable.
+3. **Total depravity grounded in Ephesians 2.** The use of Eph 2:1, 5 to undercut the self-focused framework of prosperity theology is theologically sound and well-integrated as the opener's doctrinal foundation.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Mark 10:45 is entirely absent.** "The Son of Man came not to be served but to serve, and to give his life as a ransom for many" — the passage's own climax, its most explicitly soteriological statement — receives zero treatment. The sermon builds a cross-shaped discipleship call without anchoring it in Christ's own cross. This is the text's heartbeat. Its absence is not a minor gap; it is the sermon's structural wound.
+2. **The gospel is a placeholder, not a proclamation.** The altar call ("Christ has already done the hardest parts") presupposes the gospel without presenting it. An unbeliever attending this service would not know what Christ did, why he did it, what their problem is, or how to respond with genuine faith. This triggers Fatal Flaw Flag 1.
+3. **The sermon has two frames that never fully integrate.** The prosperity gospel critique (opener through Mark 10:38) and the cross-bearing application (Mark 8:34 through close) are both valid, but they are parallel tracks rather than a unified argument. A clear thesis sentence stated early would allow both to serve one master point.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that by skipping Mark 10:45, he has removed the very ground on which cross-bearing discipleship stands. The call to self-denial is not self-generating motivation — it is a response to Christ's prior self-giving. Without "a ransom for many," the call to take up the cross can read as moral challenge rather than gospel response. The sermon calls people to the shape of the cross without first showing them what happened on it.
+
+---
+
+### 12. Illusion of Strength
+
+The application section feels strong — and the specificity is genuinely good. But the strength of the applications masks the absence of the gospel foundation. A congregation can leave feeling challenged, encouraged, and even convicted about their cross-bearing without having heard the gospel that makes cross-bearing possible and meaningful. Feeling pastorally warm is not the same as being gospel-fed.
+
+---
+
+### 13. Missed Opportunity
+
+Mark 10:45 is the passage's own answer to every question the sermon raises. Why should we not seek status? Because the Son of Man didn't. Why can we deny ourselves? Because he gave himself as a ransom for many. The word "ransom" (Greek: *lytron*) is the most explicit ransom/substitution language in the Synoptic Gospels. The sermon preaches the shadow of the cross from verse 38 while missing the substance of the cross in verse 45. A five-minute treatment of that verse would have transformed this sermon from an application lecture into a gospel proclamation.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Preach Mark 10:45.** Anchor the entire cross-bearing call in the "ransom for many." The disciples wanted to sit at his right and left — in Mark 15:27, two criminals hang at his right and left at Golgotha. The sermon could pivot: the glory James and John sought, Christ won through exactly the death he predicted. Make that turn.
+2. **Replace the altar call placeholder with actual gospel content.** Before the call to respond, state clearly: (a) the problem — sin separates us from God and incurs his just wrath; (b) the solution — Christ's death as a ransom, bearing what we deserved; (c) the resurrection as vindication; (d) the call — repent and trust Christ alone. "Christ has already done the hardest parts" is a comma, not a proclamation.
+3. **State the thesis once, early, and let both frames serve it.** Something like: "Mark 10 exposes our instinct for status and comfort — and then shows us the only one who has the right to demand everything from us, precisely because he gave everything for us." This integrates the prosperity gospel critique and the cross-bearing application under one roof.
+4. **Develop the "cup" language in Mark 10:38.** Jesus's cup is Gethsemane's cup — the cup of divine wrath. James and John said they could drink it; they could not. Jesus drank it. That connection, made in one minute, would illuminate both the seriousness of discipleship and the uniqueness of Christ's sacrifice.
+5. **Remove or reframe the Benny Hinn opener.** The corrections log is right — this is contested and dated. It makes the sermon reactive rather than expository. Open with the text's own drama (Jesus predicting his death for the third time; disciples immediately asking about positions of honor) — that irony is more gripping than a TV preacher's contested repentance.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon has pastoral warmth and specific application. The deficit is gospel articulation, not doctrinal coldness.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The personal applications — the cancer patient teaching through chemo, the broken motorcycle held in silence for the gospel — carry genuine eternal weight, and the preacher's own willingness to be specific about his own failures gives the sermon gravity; but the absence of Mark 10:45 means the sermon gestures toward the cross without dwelling there.
+
+---
+
+### 17. Rubric Fit Note
+
+Mark 10:32–45 is narrative-didactic gospel material with strong redemptive-historical freight (third passion prediction, ransom saying). The rubric fits this passage well. The genre does not strain the categories. The passage itself demands gospel centrality (v.45), making the rubric's Gospel Centrality category particularly load-bearing for this text.

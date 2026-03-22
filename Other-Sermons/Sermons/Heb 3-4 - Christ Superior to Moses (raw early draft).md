@@ -177,3 +177,236 @@ Maybe you just need some prayer. Won't you come?
 - Grace as "mess puppy" still in active training → early in the sermon corpus timeline
 - "Gideon a while back" suggests Judges 6 sermons had been preached recently
 - Casual/early preaching style with less theological precision than later corpus
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Well-Documented Raw Draft That Confirms the Diagnosis: Faithful Intent, Textual Absence**
+
+---
+
+### 2. One-Sentence Summary
+This raw early draft of the same Hebrews 3–4 sermon demonstrates identical expositional gaps as its companion text — an accessible and pastorally warm announcement of Christ's superiority that never descends into the text's own argument — now preserved with integrity annotations that provide more exegetical engagement than the sermon body itself.
+
+---
+
+### 3. Berean Gate Result
+
+**PASS — with the same significant reservation as the companion sermon.**
+
+This is substantially the same sermon as "Heb 3 - Christ Superior to Moses.md" with integrity flags added and minor formatting improvements. The main point (Christ is superior to Moses) is the main point of the text. The preacher does not stand above the Word as a conscious editor. However, the Scopus Test again reveals the same structural gap: the thesis is stated but never developed from Hebrews 3's actual argument. The Authority Test is borderline for the same reason — the warning sections of Hebrews 3 (vv. 7–19) are entirely absent. The integrity log in this draft is notably more thorough than the sermon itself, which creates an unusual situation: the annotations provide more exegetical precision than the preaching.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Three flags are triggered. Score is capped at 69.** (These are the same flags as the companion sermon, arising from the same underlying text.)
+
+**Flag 2 — Main point does not equal text's point (structural drift):** Identical to the companion evaluation. Hebrews 3 is a warning sermon built on Psalm 95; the sermon is an encouragement built on a comparison chart. The entire warning structure (vv. 7–19) is absent.
+
+**Flag 4 — Application is entirely generic:** The five spiritual disciplines (Bible, prayer, worship, fellowship, evangelism) are attached to this text without arising from it. They could appear in any sermon on any passage.
+
+**Flag 5 — No actual exhortation:** The closing invitation issues a warm open call but does not summon the congregation to a specific response arising from Hebrews 3's argument. There is no "therefore" moment grounded in the text.
+
+**Note on this draft specifically:** The integrity log and Scripture annotations added to this draft do not change the sermon's expositional substance — they document its errors without correcting the deeper absence of the warning text's content. A sermon with accurate Scripture citations but no treatment of Hebrews 3:7–19 is not more faithful than one without them.
+
+---
+
+### 5. Score Breakdown
+
+**This draft is substantively identical to the companion sermon. Score differences reflect minor improvements in Scripture precision in the closing section (correct ESV citations) and the structural clarity introduced by the section headings, offset by the confusion introduced by the Integrity Log appearing as a sermon appendix rather than a revision tool.**
+
+**1. Exposition & Hermeneutics — 10/25**
+
+- *Textual Fidelity (10):* **5/10.** Same assessment as companion. The text is announced, not opened. Hebrews 3:7–19 is absent. The integrity log documents errors but does not add textual engagement. The section headings (Christ's Ministry Is Superior / Christ's Rest Is Superior) provide structure but the sections beneath them contain minimal verse-level work.
+- *Contextual Awareness (5):* **2/5.** The chapter 1–3 summary is present. The book's flow is acknowledged. The immediate warning context remains absent.
+- *Exegetical Clarity (5):* **2/5.** Slightly higher than the companion because the archēgos reference is more carefully handled here (footnoted, transliteration corrected) and the Galatians error is flagged. But annotation of error is not the same as exegetical work.
+- *Logical Faithfulness (5):* **1/5.** The Hebrews 1 mischaracterization ("He does most every miracle God did throughout the OT") is flagged but not corrected. An integrity log that documents the error without revising the sermon leaves the erroneous content in place.
+
+**Total: 10/25**
+
+**2. Theology & Doctrinal Integrity — 10/18**
+
+- *Christ-Centeredness (7):* **5/7.** Identical to companion. The comparison at line 47 remains the theological high point.
+- *Redemptive-Historical Awareness (3):* **2/3.** The Egypt/bondage typology is present. The covenant structure underlying Hebrews (old covenant / new covenant; Mosaic administration as provisional) remains absent.
+- *Doctrinal Precision (4):* **2/4.** The Scripture corrections in the integrity log improve citation precision but do not improve doctrinal substance. Justification, atonement mechanics, and the nature of grace remain unarticulated.
+- *Confessional Alignment (4):* **1/4.** Same as companion. The covenant framework is absent.
+
+**Total: 10/18**
+
+**3. Gospel Centrality & Force — 7/15**
+
+- *Clarity of the Gospel (5):* **2/5.** Same as companion. The gospel is implied, not proclaimed.
+- *Necessity of Christ (5):* **3/5.** Same as companion. Christ is central to the structure.
+- *Cross-Centered Gravity (5):* **2/5.** Same as companion. "Gave his life" appears without penal or substitutionary development.
+
+*Synagogue Test:* Same mild flag as the companion. The comparisons are framed as improvements rather than as the indictment of a failed covenant requiring Christ's blood as the only remedy.
+
+**Total: 7/15**
+
+**4. Conscience & Applicatory Force — 5/15**
+
+- *Heart Penetration (5):* **1/5.** Same as companion. The warnings of Hebrews 3 never reach the congregation.
+- *Specificity (5):* **2/5.** Same as companion. The local illustrations are present and appropriate.
+- *Spiritual Differentiation (5):* **2/5.** Same as companion. Differentiation occurs only at the invitation.
+
+**Total: 5/15**
+
+**5. Exhortation & Response — 3/8**
+
+- *Call to Response (4):* **1/4.** Same as companion. The invitation is warm but unanchored to the text's demand.
+- *Equipping for Holiness & Witness (4):* **2/4.** Same as companion. The five disciplines provide some equipping in generic terms.
+
+**Total: 3/8**
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline (4):* **3/4.** This draft benefits from explicit section headings (Introduction / Christ Is Superior to Moses / Christ's Ministry Is Superior / Christ's Rest Is Superior / Closing: Five Disciplines). These improve navigability compared to the companion draft. A listener could sketch a rough outline from these headings, though what sits under them remains underdeveloped.
+- *Progression (3):* **2/3.** Same general movement as the companion; headings aid tracking.
+- *Unity (2):* **1/2.** Same competing sub-threads.
+
+**Total: 6/9**
+
+**7. Illustration & Imagination — 3/5**
+
+Identical to companion. The local, relatable illustrations are the sermon's clearest strength; the Minority Report illustration is slightly clarified here with the parenthetical summary but remains extended past its usefulness.
+
+**Total: 3/5**
+
+**8. Sermonic Force — 3/5**
+
+Identical to companion. Oral cadence is present; conviction density is low; Scripture-grounded assertion ratio is weak.
+
+**Total: 3/5**
+
+---
+
+### 6. Cognitive Load Assessment
+
+**Score: −1**
+
+Same as companion. Accessible to the average congregant. The integrity log appended to this draft would be invisible in oral delivery, so it does not affect the delivered sermon's cognitive load. The section headings in this draft provide modest clarity improvement over the raw transcript.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 10/25 |
+| Theology & Doctrinal Integrity | 10/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 5/15 |
+| Exhortation & Response | 3/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **47/100** |
+| Weight of Glory Bonus | +1/5 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **47/105** |
+
+**Score capped at 69 due to three Fatal Flaw Flags.** Raw score of 47 is well below the cap. The cap is not operative.
+
+**Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.**
+
+*Note: This draft scores 1 point higher than the companion (47 vs. 46) solely due to the section headings improving structure clarity. All other categories are identical.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Partially Christ, partially self-maintenance. Identical to the companion evaluation. The five disciplines framework orients the congregation toward their own spiritual effort rather than toward Christ's completed work and current intercession.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas about Him. The integrity log documents where the ideas were imprecisely stated, but neither the sermon nor the log produces an encounter with the living God who speaks through Psalm 95.
+
+3. **Was I comforted, convicted, or merely informed?**
+Informed — gently and warmly. The text's capacity to convict (hardened hearts, falling short of rest, unbelief as the sin that bars entry) is undischarged.
+
+---
+
+### 9. Strengths (Top 3)
+
+**Strength 1 — The Integrity Log as a Model of Intellectual Honesty.**
+The systematic flagging of Scripture errors, paraphrases, historical imprecisions, and speculative claims (particularly the Jonah bleached-skin note) represents a level of homiletical accountability rarely practiced at this stage of ministry development. This discipline — noticing where the sermon overstated, misquoted, or speculated — is the same discipline that produces better exposition. The habit is right; it now needs to migrate from post-hoc annotation into the sermon preparation stage.
+
+**Strength 2 — The Christ/Moses Comparison at Line 47.**
+Identical to the companion: "Moses gave his life getting his people to the Promised Land, but was barred from entry. Christ gave his life getting his people to heaven, where we will be with him for eternity." Clear, memorable, and christologically grounded. This line should be a sermon's anchor, not a passing comparison.
+
+**Strength 3 — Section Headings That Expose the Sermon's Own Logic.**
+The headings in this draft (Christ's Ministry Is Superior / Christ's Rest Is Superior) inadvertently reveal that the sermon has two genuine topics but develops neither fully. This is diagnostic value: the structure suggests what a revised sermon could become. A properly developed sermon on "Christ's Rest Is Superior" — preaching Hebrews 3:7–4:11 with the Psalm 95 warning at its center — would be a significant piece of pastoral work.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+**Weakness 1 — The Integrity Log Documents the Problem Without Solving It.**
+The log flags the Hebrews 1 mischaracterization ("He does most every miracle God did throughout the OT") but does not correct it in the sermon body. The correction lives in a footnote; the error lives in the preaching text. A congregation hearing this sermon would receive the incorrect statement, not the footnote. The log is a tool for revision, not a substitute for it.
+
+**Weakness 2 — The Warning Section of Hebrews 3 Is Still Absent.**
+This is the same critical weakness as the companion, now confirmed across both drafts. Hebrews 3:7–19 — the Psalm 95 quotation, the definition of the sin that killed Israel (unbelief, v. 19), the direct congregational address ("Take care, brothers," v. 12), the mutual exhortation command (v. 13) — does not appear in either draft. This is not a minor omission; it is the absence of the text the sermon claims to preach.
+
+**Weakness 3 — The Five Disciplines Are Disconnected from the Text's Own Remedy.**
+The closing section presents the five disciplines as the sermon's applicatory conclusion, but they are not generated by Hebrews 3. Hebrews 3:13 gives a specific, urgent remedy: *"But exhort one another every day, as long as it is called 'today,' that none of you may be hardened by the deceitfulness of sin."* The text prescribes daily mutual exhortation in the covenant community as the specific guard against hardening. The sermon prescribes five generic disciplines without acknowledging the text's own answer to its own problem.
+
+---
+
+### 11. Blind Spots
+
+**Identical to the companion evaluation, with one addition specific to this draft:** The integrity log's existence may create a false confidence that the sermon's problems have been identified and addressed. The Scripture errors flagged in the log are real and worth correcting — but they are surface-level problems. The deep problem (the absence of Hebrews 3:7–19 from a sermon on Hebrews 3) is not flagged in the integrity log at all. The log addresses citation accuracy; it does not address expositional completeness. A sermon can have every citation accurate and still fail to preach the text.
+
+---
+
+### 12. Illusion of Strength
+
+The integrity log creates an illusion of scholarly rigor. A reader (or the preacher reviewing his own work) could easily conclude that a sermon with an attached integrity log, correct ESV citations, and documented factual checks is a well-prepared sermon. But the rigor applied to citation accuracy was not applied to textual coverage. The hardest question — "Did I preach the passage?" — is answered not by whether the citations are correct but by whether the passage's actual argument was opened and applied. On that question, the integrity log is silent.
+
+---
+
+### 13. Missed Opportunity
+
+The dating evidence within the sermon (Glenn Beck reference, Grace as puppy) places this in the early 2010s — an era when the congregation likely included people with genuine questions about political allegiances, cultural captivity, and the relationship between civic life and Christian faith. Hebrews 3's warning against hardening — specifically the pattern of hearing God's voice and choosing other loyalties in response — could have been preached directly into the Glenn Beck question the sermon itself raises. The preacher names the problem (more time with Glenn Beck than with God's Word) and then pivots away from it. That contrast could have become the sermon's spine: *"Today, if you hear his voice, do not harden your hearts"* — and then preaching concretely into what competes with God's voice in this congregation's specific life.
+
+---
+
+### 14. Surgical Fixes (5)
+
+**Fix 1 — Integrate the integrity log's corrections into the sermon body before the next use.**
+The Hebrews 1 mischaracterization, the Galatians citation error, and the Moses/rock imprecision should be corrected in the preaching text itself. The log has done its work; now let the sermon reflect it. Do not preach the annotated version — preach the corrected version.
+
+**Fix 2 — Rebuild the sermon body around Hebrews 3:7–19.**
+The section headings suggest two sermon topics; the actual textual work should begin at verse 7 rather than stopping there. Read Psalm 95:7–11 aloud in the sermon. Explain what "Today" means — the urgency of the present moment before the heart calcifies. This is the passage's center of gravity.
+
+**Fix 3 — Replace "He does most every miracle God did throughout the OT" (line 39) with a two-sentence accurate summary of Hebrews 1.**
+Hebrews 1 argues that Christ is the divine Son through whom God spoke, who sustains all things by his word, who is superior to the angels in nature and name. That is the argument. It can be stated accurately in one sentence.
+
+**Fix 4 — Develop the "Christ's Rest Is Superior" section from Hebrews 4:1–11 rather than from the Minority Report.**
+The text itself makes the argument: the rest that remained after Joshua's conquest was not the ultimate rest, because Psalm 95 still says "Today" — meaning rest is still available, and still at risk of being missed. The Sabbath rest of God (4:9–10) is the sermon's theological destination. This is better than the film illustration and requires no scaffolding.
+
+**Fix 5 — Replace the five generic disciplines with Hebrews 3:13 as the specific congregational application.**
+"But exhort one another every day, as long as it is called 'today,' that none of you may be hardened by the deceitfulness of sin." This verse does exactly what the five disciplines are trying to do — it provides a concrete, daily, communal practice — but it is native to the text, carries divine authority, and addresses the sermon's own stated concern about spiritual drift. The disciplines can remain as illustrations of what daily exhortation might look like; Hebrews 3:13 should be the command they illustrate.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** Same assessment as companion. The weakness is expositional thinness, not cold orthodoxy. The preacher's pastoral warmth is visible throughout both drafts.
+
+---
+
+### 16. Weight of Glory Statement
+
+This draft, like its companion, carries genuine pastoral care for the congregation but does not yet carry the weight of the text it claims to preach — a text in which the living God swears an oath of exclusion against those who harden their hearts, and a weight that demands more than warm invitation to feel it.
+
+**Weight of Glory Bonus: +1/5**
+
+---
+
+### 17. Rubric Fit Note
+
+The rubric fits this text and this draft identically to the companion evaluation. One note specific to this draft: the presence of an integrity log appended to the sermon manuscript raises a question the rubric does not directly address — how to evaluate a sermon that has been partially annotated for error but not revised. This evaluation has treated the sermon body as the preaching text (the content that would be delivered) and the integrity log as a separate document. The annotations do not improve the sermon's exposition score because they were not incorporated into the preaching text. If the integrity log's corrections were absorbed into a revised draft, the Exposition & Hermeneutics score for the revision should be re-evaluated accordingly.
+
+*Rubric genre note (same as companion):* No genre strain. Hebrews as an expository-hortatory epistle maps well onto every category of this rubric.

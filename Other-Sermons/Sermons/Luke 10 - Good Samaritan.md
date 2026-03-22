@@ -118,3 +118,194 @@ SCRIPTURE VERIFIED CORRECT:
 - Deuteronomy 6:5 ✓
 - Leviticus 19:18 ✓
 - Matthew 22:37 ✓
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date**: 2026-03-21
+**Sermon**: Luke 10 — Good Samaritan
+**Primary Text**: Luke 10:25-37
+
+---
+
+### 1. Verdict Title
+
+**Strong Gospel Instinct, Unfinished Application, Gospel Placeholder Again**
+
+---
+
+### 2. One-Sentence Summary
+
+A sermon that correctly identifies the salvific context of the Good Samaritan parable, resists the moralistic reduction most preachers fall into, and makes a genuinely strong christological move — but then ends with another placeholder gospel and application sections that address the church's witness role without finishing the work of pressing individual conscience.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test**: PASS. The sermon's thesis — "This parable is told in the context of salvation; Christ is the true Samaritan who rescues us; we are called to meet both the physical and spiritual needs of our neighbor" — demonstrably arises from the passage's own framing (v. 25: "what shall I do to inherit eternal life?") and the christological logic the text invites. The preacher correctly identifies that most treatments of this passage flatten it into a moralism ("just be kind") and explicitly argues against that reading. This is genuine expositional instinct.
+
+**Authority Test**: PASS. The preacher submits to the text's discomfort — naming the lawyer's attempt to justify himself (v. 29), noting that Jesus made the most hated person the hero, and applying the "walking on by" indictment to the congregation's own gospel neglect. The text's uncomfortable implication (we are like the beaten man, helpless apart from Christ) is proclaimed.
+
+**Berean Gate**: PASS — the sermon is genuinely text-driven in its core moves.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 1 — No clear gospel presentation**: The sermon ends with the single word "Gospel." on its own line, preceded by "Romans 5:10" and followed by nothing. This is the third sermon in the evaluated batch with a placeholder gospel. The Christ-as-Samaritan christological move (vv. 64-67 of the manuscript) is genuinely strong and gets closer than most — "He paid our debts, he healed our injuries, and supplied the holy spirit to nurse us back to health... Christ gave his life for us" — but "gave his life" without mentioning the cross, the resurrection, or justification by faith does not constitute a full gospel proclamation. The nearest statement of the need and the remedy is "Apart from Christ we are little better than the man in the story... bruised and broken we are unable to do anything for ourselves" — this is close but incomplete.
+
+**Score capped at 69.** The preacher has the instinct; the manuscript lacks the finished execution.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 17/25**
+
+- *Textual Fidelity (10)*: 7/10. The sermon correctly reads v. 25 as the framing question (salvation context), develops the lawyer's self-justifying motive (v. 29), identifies the Samaritan's historical significance, and draws the christological application from within the parable's own logic. The Deuteronomy 6:5, Leviticus 19:18, Matthew 22:37 cross-referencing is done with the congregation actively participating — a strong pedagogical and expositional move.
+- *Contextual Awareness (5)*: 4/5. The sermon handles the Samaritan's social meaning (intermarriage, temple rejection, used as a slur against Jesus) with accuracy and pastoral application. The WWII ghetto illustration illuminates the Samaritan's status as both traitor-in-Jewish-eyes and hero-in-Jesus's-story.
+- *Exegetical Clarity (5)*: 4/5. The "context of salvation" framing is stated early and returned to. The passage is not over-exegeted at the expense of application. Loses one point because the lawyer's use of the Shema quotation (possibly from memory of Jesus's own prior teaching, as the scholar note suggests) is mentioned but not developed — it's a genuine exegetical observation dropped too quickly.
+- *Logical Faithfulness (5)*: 2/5. The sermon's middle section (comparing the Samaritans to the WWII ghetto collaborator) is historically interesting but introduces a comparison that slightly misaligns — the ghetto collaborator was hated by his own people for betraying them; the Samaritans were hated by Jews for perceived apostasy and intermarriage, not betrayal. The comparison works approximately but is not precise. The larger logical gap is the jump from "be like the Samaritan" (evangelism application) back to "Christ is the Samaritan" (christological application) — these need to be kept distinct in the argument.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 13/18**
+
+- *Christ-Centeredness (7)*: 5/7. The Christ-as-Samaritan move is organic, text-derived, and proclaimed with warmth. "Christ — who is the person most different from us, and most hated by the world, came and made a way for us." This is genuine christology. Loses two points because the application of "be like Christ" risks conflating the indicative (Christ rescued us) with the imperative (we rescue others) without adequate grounding of the second in the first.
+- *Redemptive-Historical Awareness (3)*: 2/3. The sermon correctly notes this is a Luke 10 context within Jesus's ministry, and the Samaritan's cultural status is historically grounded. No formal redemptive-historical arc is drawn, but the parable-as-gospel is intuited.
+- *Doctrinal Precision (4)*: 3/4. Romans 5:10 is correctly applied. The "while we were enemies" logic is sound. The statement "Christ gave his life for us so that we could live" is correct but needs more precision (substitution, resurrection) to serve as gospel proclamation.
+- *Confessional Alignment (4)*: 3/4. No confessional contradictions. The sermon's evangelistic thrust aligns with Baptist missiology.
+
+**3. Gospel Centrality & Force (15 pts) — 7/15**
+
+- *Clarity of the Gospel (5)*: 2/5. The Christ-as-Samaritan section is the closest approach to gospel clarity in the manuscript, and it is genuine. But it does not include justification by faith, penal substitution, or the resurrection. The gospel placeholder at the end ("Gospel.") suggests the full presentation was intended for live delivery and was not written into the manuscript.
+- *Necessity of Christ (5)*: 4/5. The "apart from Christ we are like the beaten man" logic makes Christ genuinely necessary to the argument. The Roman 5:10 ("while we were enemies") quote further establishes that human need is radical and the remedy is specifically Christ's death.
+- *Cross-Centered Gravity (5)*: 1/5. "Christ gave his life for us" is the nearest approach to the cross. No crucifixion, no resurrection, no substitutionary language.
+
+**4. Conscience & Applicatory Force (15 pts) — 10/15**
+
+- *Heart Penetration (5)*: 4/5. The three-part "walking on by" application (community, friends, family) is the sermon's pastoral high point. "How much do you have to hate your friends to neglect sharing the gospel with them?" and "Are you sharing the gospel with your kids? Or do you just walk on by?" are genuine conscience-pressing moments. The question about Facebook/social media visibility of faith ("Would they even be able to tell that you are a Christian by the way you live your life?") is well-aimed.
+- *Specificity (5)*: 4/5. The application is specific: community, circle of friends, family, grandkids, kids' doubts about the Lord. These are not generic categories — they are the actual relationships in a typical congregation's daily life.
+- *Spiritual Differentiation (5)*: 2/5. The sermon primarily addresses believers who are failing in witness. The unbeliever is gestured at in the placeholder gospel. The humbled-but-not-yet-believing and the backslider are not specifically addressed. The self-righteous (who may identify with the priest or the Levite without acknowledging it) could be pressed harder.
+
+**5. Exhortation & Response (8 pts) — 5/8**
+
+- *Call to Response (4)*: 3/4. "Don't be like the priest. Be like Jesus. Don't just walk on by" is a genuine exhortation — direct, text-derived, and repeated with escalating specificity (community, friends, family). The closing "Don't be stingy with the gospel" is an exhortation to action.
+- *Equipping for Holiness & Witness (4)*: 2/4. The sermon calls for witness but does not equip the congregation to actually do it — what does sharing the gospel look like in conversation? How do you begin? The stated intent (equipping for witness) is present but the content is light. The text has already demonstrated through the VBS testimony that the congregation does do this work; they need encouragement and modeling, not just the command.
+
+**6. Structure & Logical Flow (9 pts) — 6/9**
+
+- *Clarity of Outline (4)*: 3/4. The sermon's structure is: Introduction (VBS/people group) → Context of salvation → Samaritan background → Christ as Samaritan → Witness application → Gospel placeholder. This is a traceable and logical sequence.
+- *Progression (3)*: 2/3. The sermon builds well from context through christological move to application. The loss comes from the "walking on by" application's three-part structure being presented without clear escalation — community, friends, family are parallel, not escalating. A stronger close would have pressed family (especially children) as the hardest and most urgent of the three.
+- *Unity (2)*: 1/2. Two slightly competing messages: (1) the parable is about salvation, not moralism, and (2) go and be a witness like the Samaritan. These are related but the sermon does not fully unify them under a single driving thesis.
+
+**7. Illustration & Imagination (5 pts) — 4/5**
+
+- *Relevance (2)*: 2/2. VBS opening is warmly relevant to the specific congregation in the specific week. The Bhat people group is a genuinely interesting missional illustration. The WWII ghetto story grounds the Samaritan's social complexity.
+- *Clarity (2)*: 2/2. The sunscreen-in-a-cave illustration (importance of context) is the clearest illustration-of-method in any sermon in the batch. It is brief, memorable, and perfectly deployed.
+- *Memorability (1)*: 0/1. The "walking on by" repeated phrase is the most memorable element. The sunscreen illustration is memorable. The VBS framing dates the sermon to one specific week.
+
+**8. Sermonic Force (5 pts) — 4/5**
+
+- *Reads as Preaching (2)*: 2/2. The best oral rhythm in the batch. The "Don't just walk on by" refrain builds genuine homiletical force through repetition.
+- *Conviction on the Page (2)*: 2/2. The "how much do you have to hate your friends" challenge is the sharpest conviction moment in the evaluated batch after the Josh 7&8 herem paragraph.
+- *Cadence and Breath (1)*: 0/1. The "Gospel." placeholder deflates the ending. The sermon earns a strong landing and then puts a period where a proclamation should be.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**0**. The sermon is well-paced and accessible. The congregation can follow it. No penalty.
+
+---
+
+### 7. Total Score
+
+| Category | Raw | Cap |
+|---|---|---|
+| Exposition & Hermeneutics | 17/25 | — |
+| Theology & Doctrinal Integrity | 13/18 | — |
+| Gospel Centrality & Force | 7/15 | — |
+| Conscience & Applicatory Force | 10/15 | — |
+| Exhortation & Response | 5/8 | — |
+| Structure & Logical Flow | 6/9 | — |
+| Illustration & Imagination | 4/5 | — |
+| Sermonic Force | 4/5 | — |
+| **Subtotal** | **66/100** | → |
+| Weight of Glory Bonus | +2 | — |
+| Cognitive Load Modifier | 0 | — |
+| **Raw Total** | **68** | — |
+| **Fatal Flaw Cap** | — | **68/69** |
+
+**Final Score: 68/69 (capped — gospel placeholder is fatal flaw #1)**
+
+**Interpretation: Concerning Gaps** — The sermon is the second-strongest in the batch (behind Josh 7&8), and would score in the 80s with a written-out gospel proclamation. The fatal flag is fixable in one revision.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ or myself?* — More of Christ. The Christ-as-Samaritan move is genuinely Christ-centering.
+2. *Did I encounter God, or just ideas about Him?* — The "walking on by" section creates genuine encounter — the preacher corners the congregation before the question of gospel neglect in a way that feels pastoral, not merely didactic.
+3. *Was I comforted, convicted, or merely informed?* — Both convicted (gospel neglect) and briefly comforted (Christ met you when you were unable to help yourself). The balance is appropriate.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The anti-moralism diagnosis**: "If all we do is make you appear more moral on the outside, we have failed as a ministry, and also completely missed the depth and nuance of Jesus message here." This is the right instinct and it is explicitly stated. Most preachers of this passage never get here.
+2. **The "walking on by" application structure**: The three-part application (community, friends, family) is conscience-pressing, specific, and well-deployed. The "how much do you have to hate your friends" challenge is devastating in the right way.
+3. **The Christ-as-Samaritan christological move**: "Apart from Christ we are little better than the man in the story. Beaten up by sin and our adversary. Bruised and broken we are unable to do anything for ourselves... Christ — who is the person most different from us, and most hated by the world, came and made a way for us." This is organic christology derived from the parable's own logic.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is a placeholder**: The single word "Gospel." is not the gospel. The Christ-as-Samaritan christological move gets close — but "gave his life for us" without substitution, resurrection, and faith-language is incomplete. The sermon promises a gospel and delivers a gesture.
+2. **The "be like the Samaritan" application risks works-righteousness if not grounded in Christ's work**: The closing application calls the congregation to witness ("Don't be like the priest, be like Jesus") without first grounding that imperative in the indicative (because Christ rescued you, now rescue others). The sermon makes this connection briefly, but the application section's repeated imperatives need the indicative base to prevent moralistic drift.
+3. **The VBS framing dates the sermon**: The opening five paragraphs about VBS — while genuinely warm and pastorally appropriate for the specific week — make this sermon inaccessible for any future use without significant revision. The substantive sermon begins at paragraph six. This is a practical manuscript problem.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how close the sermon gets to its full potential and then stops short. The Christ-as-Samaritan move deserves two full paragraphs, not one. The "apart from Christ we are like the beaten man" image is rich enough to carry an entire gospel presentation — the beaten man could not call for help, could not pay the innkeeper, could not heal himself, could not identify the Samaritan. That is the human condition before grace. The sermon sees this and then moves on without dwelling in it.
+
+---
+
+### 12. Illusion of Strength
+
+The "walking on by" refrain creates an impression of a strong, unified closing section. But the three repetitions (community, friends, family) are structurally parallel rather than escalating. If they were arranged in order of increasing intimacy and difficulty — community (strangers), friends (comfortable), family (hardest) — the emotional and exhortational force would build rather than plateau.
+
+---
+
+### 13. Missed Opportunity
+
+The lawyer's question in v. 25 — "What shall I do to inherit eternal life?" — contains a fatal theological flaw that Jesus does not immediately correct: the lawyer asks what he shall *do* to inherit life, as if life is the result of human doing. Jesus meets him where he is and lets the law do its work (vv. 26-28, 37: "go and do likewise") before the implication lands: *You cannot do this. No one can. That is the point.* The sermon notes the context-of-salvation framing but does not fully develop the law/gospel dynamic the passage itself employs. The parable is Jesus's law-hammer before the gospel — and the hammer needs to fall harder before the balm is offered.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Write out the gospel proclamation and replace the "Gospel." placeholder**: Take the Christ-as-Samaritan image and develop it to its conclusion: the beaten man needed a rescuer who would pay a cost he could not — Christ paid a cost we could not, on a cross we should have occupied, and the Holy Spirit is the innkeeper who tends us until Christ returns. This is all in the text's own logic.
+2. **Develop the law/gospel dynamic from vv. 25-28**: Before the application section, press the question: "The lawyer asked what he must *do* to inherit life. Jesus answered: the law says love God with everything and love your neighbor as yourself. Can you do that? Have you ever done that? Has anyone?" Let the law land. Then: "That is exactly why Jesus told this story."
+3. **Ground the witness-imperative in the rescue-indicative**: Before "don't be like the priest," add: "You were the man in the ditch. Christ crossed the road for you. He paid a price for you that you could not repay. That is why you go. Not to earn anything. Not because you have to. But because you have been rescued, and the people around you are still lying in the ditch."
+4. **Escalate the "walking on by" three-part application**: Arrange it: community → friends → family/children. The stakes increase toward the closest relationships. End on children and grandchildren — the most urgent and most painful.
+5. **Remove or move the VBS framing for future preaching use**: The substantive sermon content is strong and reusable. The VBS introduction is not. Create a separate note for when this sermon was first preached and allow the sermon to stand on its own opening.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+Not triggered. The sermon is warm, specific, and pastorally genuine. The failure is incomplete execution, not cold precision.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The Christ-as-Samaritan paragraph and the "how much do you have to hate your friends" challenge both carry genuine eternal weight. If the gospel were written out and the law/gospel dynamic developed, this sermon would carry significant glory.
+
+---
+
+### 17. Rubric Fit Note
+
+Gospel narrative / parable. The rubric's Gospel Centrality and Law/Gospel Dialectic sections are the most important categories here. The Synagogue Test is technically borderline — a devout non-Christian could hear most of this sermon without being significantly offended (the gospel is gestured at, not proclaimed), which is why the fatal flag fires. With the gospel written out and the cross made explicit, the Synagogue Test would be clearly failed in the necessary way. No genre strain on the framework.

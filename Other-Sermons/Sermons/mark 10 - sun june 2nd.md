@@ -167,6 +167,186 @@ I’ll add to that, Even if it means giving up some of my rights. Or even if it 
 As the praise team comes up and sings a final song. I want you to be thinking about your life. Your actions over the past week. Or even today. Christians Would God “approve” of what he saw in you today? As a Christian we believe God purchased us back at the cost of his son’s life. This past week, has your life been a good investment? 
 
 For everyone else, if you are not yet a follower of Christ, then today is the day. Its just a matter of turning from your old ways, and turning towards Christ. Christ has already done the hardest parts. Christians if you need to get right with God, the alter is open. If you don’t yet follow Christ, get my attention at some point before you leave and I’ll show you how you can have eternal life in the bible. Won’t you come?
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Sermon File:** mark 10 - sun june 2nd.md
+**Passage:** Mark 10:32–45; Mark 8:34 (the posture of discipleship)
+
+---
+
+### 1. Verdict Title
+**A Faithful Call to Cross-Bearing Discipleship That Almost Arrives**
+
+---
+
+### 2. One-Sentence Summary
+A genuine and practically grounded sermon on the cost of discipleship from Mark 10 that holds the prosperity gospel accountable, calls for real self-denial, and presses concrete application, but lapses into motivational framing at key moments and treats the gospel as an afterthought to a sermon that earns the right to proclaim it.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: PASS**
+The main point of the sermon — the posture of a disciple is submission to Christ even to the point of death, not the pursuit of status or comfort — arises directly from Mark 10:35–45. James and John’s status-seeking is contrasted with Christ’s call to servanthood and cross-bearing (via Mark 8:34). The sermon’s thesis is text-governed.
+
+**Authority Test: PASS**
+The preacher submits to the text’s demands. The uncomfortable edges of cross-bearing discipleship — rejection, cost, literal suffering for Christ’s sake — are preached rather than softened. The prosperity gospel is named and critiqued by name.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 1 — No clear gospel presentation (TRIGGERED):**
+The sermon contains multiple gospel gestures: "Christ has already done the hardest parts," "God purchased us back at the cost of his son’s life," and an invitation at the close. But these are not developed gospel proclamations. The content of the gospel — the death of Christ as substitution for sin, the resurrection, justification by faith — is never preached. The invitation for the unconverted to "get my attention and I’ll show you how to have eternal life in the bible" moves the gospel off the page entirely. The congregation heard a full sermon on discipleship without first hearing why Christ is the one worth dying for.
+
+**Score cap at 69 triggered.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 18/25**
+- *Textual Fidelity (8/10):* The sermon follows Mark 10:32–45 with reasonable fidelity. The reading of vv.35–37 (James and John scrambling for status immediately after Jesus foretells his death) is exposed well, and the contrast with v.45 (the Son of Man came not to be served) is the sermon’s theological center. The detour through Mark 8:34 is legitimate — it is the parallel passage Jesus himself returns to repeatedly.
+- *Contextual Awareness (4/5):* The historical note about multiple chief priests under Roman governance (v.33) is accurate and helpful. The reminder that this is the third passion prediction is well used to expose the disciples’ incomprehension.
+- *Exegetical Clarity (3/5):* The passage is explained with pastoral accessibility. The Greek of 2 Timothy 2:15 receives some attention. However, the FCF is not clearly named — what fallen condition does Mark 10:35–45 address? It is the human drive for status, honor, and self-preservation above submission to God. This is present implicitly but never named as the fallen condition being diagnosed.
+- *Logical Faithfulness (3/5):* No eisegesis. The application examples (football as idol, being diligent, guarding the tongue) are organically connected to the cross-bearing theme. The quote attributed to the sermon is paraphrased from Luke 9 rather than from Mark — a minor point but worth noting.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+- *Christ-Centeredness (5/7):* Christ is the sermon’s necessary center. The prosperity gospel critique, the D.L. Moody quote, the Tozer reference, and the cross-bearing call all orbit around Christ’s authority and the disciple’s submission to him. The Christology is sound but not developed — Christ’s work is assumed more than proclaimed.
+- *Redemptive-Historical Awareness (2/3):* The connection between James and John’s misunderstanding and the cross is made. No broader canonical placement, but the passage doesn’t strongly demand it.
+- *Doctrinal Precision (3/4):* No doctrinal errors. The critique of prosperity gospel is accurate and well-aimed. The call to "follow Christ for Christ’s sake" correctly prioritizes relationship over transaction.
+- *Confessional Alignment (3/4):* No contradictions of confessional theology. The sermon is solidly orthodox without being explicitly confessional.
+
+**3. Gospel Centrality & Force — 6/15**
+- *Clarity of the Gospel (1/5):* The gospel is gestured at throughout but never proclaimed. "Christ has already done the hardest parts" is gospel-adjacent but not gospel. An unbeliever would leave knowing that following Christ is costly, but not knowing what Christ actually did or why it was necessary.
+- *Necessity of Christ (4/5):* Christ is essential to the sermon’s argument. The whole call to cross-bearing requires Christ at the center — without him there is no cross to take up.
+- *Cross-Centered Gravity (1/5):* Ironically for a sermon on cross-bearing, the cross of Christ is almost entirely absent as a theological object. The cross functions as a metaphor for costly discipleship, but Christ’s own cross — his substitutionary death for sin — is not preached. The believer’s cross is preached without the Savior’s cross.
+
+**4. Conscience & Applicatory Force — 11/15**
+- *Heart Penetration (4/5):* The prosperity gospel critique, the "football as idol" application, the challenge to guard the tongue with difficult neighbors, the story of the friend who kept sharing the gospel until his father cut him off — these reach the conscience with genuine specificity.
+- *Specificity (4/5):* The application is concrete and grounded in the congregation’s world: motorcycles broken by neighbors, football games missed, care for an ill spouse, diligence in sound board and cleaning. This is specific, non-generic application.
+- *Spiritual Differentiation (3/5):* The sermon addresses believers (call to submit, guard tongue, be diligent), backsliders (implicitly), and the unconverted (close invitation). The humbled-but-not-yet-believing and the knowledgeable-but-unmoved are not explicitly addressed.
+
+**5. Exhortation & Response — 5/8**
+- *Call to Response (3/4):* The call to submit, to be willing to die for Christ, to cross the street and love the neighbor — these are genuine imperatives. The closing invitation ("the altar is open") is real. The exhortation is present and specific.
+- *Equipping for Holiness & Witness (2/4):* The sermon equips for personal holiness (self-denial, tongue-guarding) and for witness (gospel sharing despite rejection). However, the corporate dimension — the church as covenant community, mutual edification, bearing one another’s crosses — is absent.
+
+**6. Structure & Logical Flow — 7/9**
+- *Clarity of Outline (3/4):* The sermon moves logically: prosperity gospel critique → James and John’s status-seeking → Jesus’ counter-call → Mark 8:34 parallel → concrete cross-bearing examples → exhortation. The progression is traceable.
+- *Progression (3/3):* The sermon builds toward its climax — the 2 Timothy 2:15 translation and the Jeremy Camp song — and lands on a clear point.
+- *Unity (1/2):* The Dhobi of India people-group section (vv.13–15) is a detour that breaks the narrative momentum. It is missional and appropriate to the congregation’s practice, but it disrupts the flow from the prosperity gospel opening to the Mark 10 text.
+
+**7. Illustration & Imagination — 4/5**
+- *Relevance (2/2):* The "dying to self" illustrations are native to this congregation — motorcycles, football, sound boards, neighbors. The beheading-video reference for cross-bearing (though graphic) is culturally situated.
+- *Clarity (1/2):* The illustrations generally clarify. The 2 Timothy 2:15 Greek translation story (calling David at 2–3 AM over diphthongs) is charming but slightly self-focused.
+- *Memorability (1/1):* "I want more of You and less of me" — the Jeremy Camp song as a closing vehicle is memorable and carries the sermon’s thesis into a singable form.
+
+**8. Sermonic Force — 4/5**
+- *Reads as Preaching (2/2):* Oral cadence, direct address, personal transparency — the sermon reads as genuinely preached.
+- *Conviction on the Page (1/2):* Strong in the application sections. Weaker in the theological sections where the gospel should have carried more weight.
+- *Cadence and Breath (1/1):* "I want more of you, and less of me. Empty me, empty me" — the sermon ends with genuine sermonic compression and pathos.
+
+---
+
+### 6. Cognitive Load Modifier: **0**
+The sermon is well-paced and accessible. No overload.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 18/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 6/15 |
+| Conscience & Applicatory Force | 11/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **68/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total (pre-cap)** | **70/100** |
+| **Fatal Flaw Cap Applied** | **69/69 cap** |
+| **Final Score** | **69/100** |
+
+**Interpretation: Concerning gaps — solid discipleship sermon undermined by absent gospel proclamation. With gospel repair, this could score 80+.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* A genuine tension — the self-denial theme presses the congregation Christward, but the practical focus on "what I must do" risks domesticating the call.
+2. *Did I encounter God, or just ideas about Him?* Mostly ideas and challenges. The Jeremy Camp close brings a moment of genuine encounter.
+3. *Was I comforted, convicted, or merely informed?* Convicted — specifically and concretely. The comfort of the gospel is not supplied.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Concrete, congregation-native application.** The cross-bearing examples are not generic — they are rooted in this congregation’s actual life (motorcycles, sound boards, football, difficult neighbors). This is exactly what the rubric demands.
+2. **Prosperity gospel named and dismantled directly.** The Benny Hinn reference and the "cosmic vending machine" description are sharp and accurate. The sermon doesn’t equivocate on error.
+3. **The structure follows the text’s own movement.** James and John’s misunderstanding → Jesus’ correction → the broader call to cross-bearing is the passage’s own argument, and the sermon honors it.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The cross of Christ is absent while the cross of the disciple is preached.** This is the most serious problem. Mark 10:45 — "the Son of Man came not to be served but to serve, and to give his life as a ransom for many" — is the theological foundation of the entire passage. The disciple’s cross-bearing is grounded in and shaped by Christ’s own cross. But v.45 is barely touched. The ransom is not explained. The sermon calls people to die for Christ without proclaiming why Christ’s death gives that calling its meaning.
+2. **The gospel is deferred to a private conversation.** "Get my attention and I’ll show you how to have eternal life in the bible" removes the gospel from the sermon entirely. This is the moment when the sermon should open the ground under the unbeliever and offer the only escape. Deferring it is a pastoral and theological failure.
+3. **The opening prosperity gospel section and the Dhobi people-group section fragment the introduction.** The sermon has three separate introductions before the text is engaged. This dilutes the sermon’s opening force and delays arrival at the text.
+
+---
+
+### 11. Blind Spots
+
+The preacher may not see that a sermon on cross-bearing discipleship without a proclamation of Christ’s cross can become, functionally, a call to moral effort — a call to be the kind of person who is willing to suffer for good things. Without the gospel foundation, the exhortation to "follow Christ for Christ’s sake" can slide into a form of virtue ethics that does not require Christ’s substitutionary work. The irony is that this sermon is anti-prosperity-gospel in its explicit argument but can functionally reinforce the same problem (focus on what I do/sacrifice) without a strong gospel proclamation.
+
+---
+
+### 12. Illusion of Strength
+
+The concrete, specific application creates an impression of deep pastoral care and textual faithfulness. And much of it is genuinely good. But application without the gospel indicative is moralism dressed in Reformed language. "God purchased us back at the cost of his son’s life" is one sentence. It deserves a paragraph, or five. The sermon’s applicatory strength masks the theological thinness of its gospel foundation.
+
+---
+
+### 13. Missed Opportunity
+
+Mark 10:45 — "to give his life as a ransom for many" — is one of the clearest statements of substitutionary atonement in the Gospel of Mark. The sermon arrives at this verse and moves past it without pausing to explain ransom, substitution, or the cost of forgiveness. This is the verse that answers the question the whole sermon raises: why is following Christ worth the cost? Because he paid a ransom for you that you could never pay for yourself. That verse should have been the theological climax of the sermon.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Build the gospel proclamation around Mark 10:45.** The ransom language is already in the text. Spend 4–6 minutes on "to give his life as a ransom for many" — what is a ransom, who was it paid for, what did it cost, and what does it accomplish. Let that be the sermon’s theological center.
+2. **Remove the private gospel deferral.** Replace "get my attention before you leave" with a full gospel call from the pulpit. The altar call should follow a proclaimed gospel, not substitute for one.
+3. **Consolidate the introduction.** Choose between the prosperity gospel opening and the Dhobi people group — they cannot both serve as introductions. Reserve one for a designated missions moment and open with the prosperity gospel critique, which connects directly to the text.
+4. **Add a direct address to the knowledgeable-but-unmoved hearer** — the person who already knows about cross-bearing, nods along, and has not yet surrendered anything. "Some of you have heard this before and it has not yet cost you anything — not one football game, not one uncomfortable conversation. What does that tell you about your Jesus?"
+5. **Develop v.45 as the turn from law to gospel.** After pressing the congregation with the cost of discipleship (law function — stripping self-reliance), turn to the ransom as the only hope: "You cannot bear your cross until you have first received his."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+Not triggered — the sermon has real fire, genuine application, and pastoral specificity. The problem is insufficient gospel, not cold correctness.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries genuine pastoral urgency and a real counter-cultural edge — the call to die to self in a comfort-saturated congregation is weighty — but it stops short of the full eternal gravity that a proclamation of the ransom price would bring.
+
+---
+
+### 17. Rubric Fit Note
+
+Mark 10:32–45 is Gospel narrative with a clear didactic passage embedded (vv.42–45). The rubric applies well. The rubric’s gospel-centrality categories are particularly apt here because the passage itself contains one of Mark’s strongest atonement statements (v.45), making the absence of gospel proclamation not just a rubric concern but a textual one.
 ‌
 
 ‌

@@ -46,3 +46,201 @@ Does that story sound familiar to any of you? Any of you ever been dead in your 
 But God so loved the world that he gave his one and only son that whosoever believes in him shall not perish but have ever lasting life. Jesus walked over to our casket, reached in, helped us out of it, and took our place. He took our death, died for us, he was buried in a borrowed tomb, and rose again to life three days later. Then ascended to the right hand of the father where he is to this day. 
 
 Like that little girl there is nothing inherently good enough in us to warrant God having saved us, but he chose to rescue us any way didn’t he? He chose to send his son to die on the cross – one of the most brutal ways of killing someone ever conceived by the twisted evil mind of man, for his glory and so that one day you and I will spend an eternity in heaven with Him. Jesus has already done all the ahrd parts.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Pastoral Warmth and Gospel Instincts Undermined by Structural Drift and Missing Exhortation**
+
+---
+
+### 2. One-Sentence Summary
+A sermon on Mark 5:21-43 that carries genuine gospel instincts and pastoral heart, but loses its way in a long discursive middle section on the Sanhedrin and Big Pharma before landing a solid — though underdeveloped — Ephesians 2 application without ever issuing a clear call to response.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with concern**
+
+*Scopus Test*: The sermon’s main point — that Jesus raises the spiritually dead as He raised Jairus’s daughter, and that we contribute nothing to our salvation — does arise from the passage. The dead girl as an allegory of Ephesians 2 is textually grounded and is the sermon’s best moment.
+
+*Authority Test*: The preacher submits to the text. There is no softening of sin’s deadness or Christ’s sufficiency. The preacher does not stand above the text as editor.
+
+**Concern**: The sermon passes the gate but barely holds its orbit. Large sections (the Sanhedrin-as-collaborators section, the Big Pharma and Big Business digression) drift so far from the passage that the sermon nearly loses the tether. The gate is passed, but the rope is fraying.
+
+---
+
+### 4. Fatal Flaw Flags
+**One flag triggered — score capped at 69.**
+
+- **Flag 5 — No actual exhortation**: The sermon explains the gospel clearly and applies it movingly to the dead-in-trespasses theme, but it never issues a summons. There is no "therefore" moment. No one is told what to now believe, repent of, obey, or pursue. The sermon ends mid-sentence emotionally and simply stops. The congregation is informed and perhaps moved, but they are never called. This is the single most significant failure in the manuscript.
+
+No other flags triggered. The gospel is present. Christ is essential. The passage’s point governs the sermon. Ordinary hearers can follow it, albeit with effort through the middle section.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 17/25**
+
+- *Textual Fidelity* — 7/10: The two narrative threads (Jairus and the bleeding woman) are handled, and the dead girl as Ephesians 2 allegory is well-executed. However, the passage receives uneven treatment. The bleeding woman’s healing gets substantial attention in one dimension (ceremonial uncleanness, social ostracism) but her faith, Jesus’ response, and the "daughter" address from Jesus receive no real treatment. The passage’s climax — Jesus entering the room, taking the dead girl’s hand, and the command "Talitha cumi" — is passed over without exegetical weight. The resurrection itself is barely treated.
+- *Contextual Awareness* — 3/5: The synagogue-ruler role is helpfully unpacked. The Mosaic law on uncleanness is engaged. The redemptive-historical placement (healings in Mark as sign of the kingdom) is implicit but never named.
+- *Exegetical Clarity* — 4/5: The preacher explains the social realities clearly and accessibly. Greek is not used, but the passage’s meaning is explained at the level a congregation can receive.
+- *Logical Faithfulness* — 3/5: The main allegorical move is faithful. But the Sanhedrin-as-collaborators section is extended speculation (based on Josephus) that feels imported into the passage rather than discovered in it. The Benedict Arnold analogy and Big Business/Big Pharma section are the sermon’s longest digressions, and they impose more than they illuminate.
+
+**Fallen Condition Focus**: Partially named. Sin as spiritual deadness is the FCF, and it’s articulated well at the end. It arrives late, though, and the FCF is not named early enough to organize the congregation’s hearts for the whole sermon.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness* — 5/7: Christ as the one who raises the dead is clear and organic to the text. The cross is mentioned. The resurrection and ascension are named. The connection is not forced. Deduction for the fact that Christ’s authority over death — the theological weight of the raising — is not unpacked. Why could Jesus raise the dead? That question is not answered.
+- *Redemptive-Historical Awareness* — 2/3: Present in the Ephesians 2 connection and in the gesture toward our deadness in sin. The healings as signs of the inaugurated kingdom (Isaiah’s servant, the messianic age) are absent.
+- *Doctrinal Precision* — 3/4: Justification is not explicitly named, but grace alone, Christ alone, and the complete sufficiency of Christ’s work are present. No theological errors detected. Loose language in places ("one day you and I will spend an eternity in heaven with Him" is not wrong, but the new creation/resurrection hope is more precise).
+- *Confessional Alignment* — 3/4: The doctrines of grace are functionally present — total inability, monergistic salvation, grace alone. No contradictions of confessional theology. The sermon does not develop federal headship or covenantal language, but it does not contradict them.
+
+**3. Gospel Centrality & Force — 10/15**
+
+- *Clarity of the Gospel* — 4/5: John 3:16 is quoted, the cross is named, substitution is gestured at ("took our place… took our death"), burial and resurrection are stated. An unbeliever would understand the basic shape of the gospel. Justification by faith is not explicitly articulated, but the "believing" language is present.
+- *Necessity of Christ* — 4/5: Christ is not decorative. The sermon cannot survive without Jesus. The dead girl cannot save herself; neither can we.
+- *Cross-Centered Gravity* — 2/5: This is the category’s weakness. The sermon circles toward the cross but does not dwell there. The substitutionary atonement is gestured at in one sentence ("took our place… took our death") but is not proclaimed with force or developed. The cross is present but it does not bear the sermon’s weight. The law/gospel dynamic is present but compressed: sin’s consequences are named but the hammer does not fall long enough before the balm is applied.
+
+*Synagogue Test*: Borderline. A morally disciplined unbeliever could sit through most of this sermon comfortably. The cross would be a speed bump, not a scandal. The sermon does not press the offense of grace or the exclusive sufficiency of Christ’s atoning work with enough force to give genuine offense.
+
+**4. Conscience & Applicatory Force — 9/15**
+
+- *Heart Penetration* — 3/5: The move "does that story sound familiar — any of you ever been dead in your trespasses?" is effective and personal. The opening story about the drunk man outside the water mill is the sermon’s most pastorally warm moment. But the middle section (Sanhedrin, Big Business) is intellectual and does not press the heart.
+- *Specificity* — 3/5: The drunk-man story is specific and local. The Ephesians 2 application is specific. Much of the middle section, however, is general historical/social commentary.
+- *Spiritual Differentiation* — 3/5: The sermon largely addresses believers, with a gesture toward the unbeliever implied in "does that sound familiar?" Two of Perkins’ seven categories are in view (believers and possibly the ignorant-but-teachable). The backslider, the humbled-but-not-yet-believing, the knowledgeable-but-unmoved are not addressed distinctly. The man from the water mill is described in the introduction but not followed through to application.
+
+**5. Exhortation & Response — 2/8**
+
+- *Call to Response* — 0/4: Absent. The sermon ends after the gospel statement. There is no "therefore." No one is told what to do with what they have heard. The drunk man is in the introduction but is never brought back as a summons. "What is your next step?" — the question the preacher asked the drunk man — is never asked of the congregation.
+- *Equipping for Holiness & Witness* — 2/4: The opening illustration and the Bondo unreached people group note both gesture toward witness. But neither is connected to the sermon’s argument or applied as a call to action.
+
+**6. Structure & Logical Flow — 5/9**
+
+- *Clarity of Outline* — 2/4: The sermon has discernible movement (Jairus/synagogue role → woman with bleeding → both as allegories of our condition) but it is not announced, and the congregation cannot trace it in real time. The Sanhedrin-Big Pharma digression is a structural rupture.
+- *Progression* — 2/3: The sermon builds toward the Ephesians 2 landing, which is good. But the middle section stalls progress for an extended period.
+- *Unity* — 1/2: The Bondo people group, the drunk man, Jairus, the bleeding woman, the dead girl, Big Pharma, Benedict Arnold, and the Ephesians 2 allegory are all in the air simultaneously. The sermon holds together by a thread — the thread is the Ephesians 2 allegory — but the sermon’s unity is not evident until the final section.
+
+**7. Illustration & Imagination — 3/5**
+
+- *Relevance* — 2/2: The water mill story, the grocery store staph infection story, the sister’s fiancé and the father — all drawn from real life, all accessible.
+- *Clarity* — 1/2: The staph infection illustration for the woman’s uncleanness is vivid but risks triggering disgust rather than illuminating the spiritual point. The "Dave asking Dad" illustration for Jairus’s anxiety in waiting is warm but underdeveloped and only loosely connected.
+- *Memorability* — 0/1: None of the illustrations are native to this text in a way that will be remembered specifically in connection with this passage’s truth. The drunk man at the water mill is the sermon’s most memorable moment, but it is not developed into a thematic anchor.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching* — 2/2: This reads as spoken, not written. The direct address ("does that sound familiar?"), the conversational register, the questions — this is oral preaching on the page.
+- *Conviction on the Page* — 1/2: The conviction rises at the end but is muted through the middle. The Sanhedrin section reads as a lecture, not a proclamation.
+- *Cadence and Breath* — 0/1: Sentence variation is inconsistent. The climactic compression at the gospel statement is present but brief. The sermon ends abruptly — there is no earned climax, just a stop.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+
+The sermon is generally accessible. The opening story, the historical background on synagogue rulers, and the Ephesians 2 application are all within reach of the single mother, the high schooler, and the new believer. The extended Sanhedrin/Josephus/Big Pharma section adds conceptual weight that doesn’t resolve into a clear point, creating a moment of drift rather than genuine overload. The congregation can follow it, but they will work harder than they should in the middle. Slightly dense in one section; one fewer concept would help.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 17/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 10/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 2/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **62/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **63/100** |
+
+**Score capped at 69 due to Fatal Flaw Flag 5 (no exhortation). Raw score of 63 is below the cap — cap does not raise the score, it only limits upward movement. Final score: 63.**
+
+**Interpretation: Concerning gaps. The sermon explains but does not yet preach. Significant revision needed.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Mostly Christ. The Ephesians 2 section redirects squarely to Christ’s sufficiency. The middle Sanhedrin section redirects to historical and social commentary. Verdict: Christ — but not consistently.
+
+2. **Did I encounter God, or just ideas about Him?**
+Partially. The sermon’s warmth and the gospel statement carry genuine weight. The extended digression into political/social analysis is intellectual, not devotional. The encounter with God is real but intermittent.
+
+3. **Was I comforted, convicted, or merely informed?**
+The congregation would leave comforted, partially convicted of their own spiritual deadness, and significantly informed about first-century synagogue politics. The comfort is real. The conviction is surface-level. The information is excess.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Ephesians 2 allegory is the sermon’s crown jewel.** The parallel between the dead girl (who contributed nothing to her resurrection) and the sinner dead in trespasses is textually grounded, theologically precise, and pastorally moving. "She was a corpse, laying there, unable to move, not breathing, heart stopped, dead as it gets. Dead." — that line earns its place. This is the best thing in the sermon, and it carries real weight.
+
+2. **The opening story about the drunk man at the water mill is genuine pastoral gold.** It is specific, local, warm, and immediately establishes the preacher as a real shepherd among real people. The prayer for the alcohol to taste like gasoline is vivid and memorable. This is preaching born from pastoral life, and congregations feel the difference.
+
+3. **The treatment of the bleeding woman’s social and spiritual exclusion is effective.** Naming that her condition barred her from the temple, from having her sin covered, from the ordinary rhythms of community life — and naming that Jesus was therefore her only hope for both social restoration and spiritual reconciliation — is excellent pastoral exegesis that serves the congregation.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The sermon has no exhortation.** It ends. After the gospel statement, there is no "therefore." The congregation has been told what God did. They have not been told what they must now do — believe, repent, return, give thanks, witness, persevere. The drunk man at the water mill was asked "What do you think your next steps should be?" The congregation is never asked. This is the sermon’s most significant failure.
+
+2. **The Sanhedrin-Big Pharma-Big Business digression is a structural rupture that derails the sermon for its longest section.** The material may be historically interesting, but it is speculative (Josephus is cited but without precision), the Big Pharma cancer-treatment conspiracy theory is introduced and left unresolved, and none of it produces a spiritual payoff. The digression’s implicit point — that Jairus was risking his social standing — could be made in three sentences. Instead it consumes the sermon’s middle section and loses the congregation’s spiritual momentum.
+
+3. **The passage’s actual climax — "Talitha cumi," Jesus taking the dead girl by the hand and commanding her to rise — receives no exegetical or proclamatory treatment.** The scene is the theological and dramatic apex of the passage. Jesus speaks with authority over death. The mourners are dismissed. The parents are astonished. The command is intimate and sovereign. None of this is unpacked. The sermon uses the girl’s death as an allegory but does not dwell in the resurrection itself — and resurrection is the text’s own announcement.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how much the Sanhedrin/Big Business section reads as a history lecture rather than proclamation. From inside the sermon, it probably feels like relevant contextual background. From outside it, it reads as the sermon’s momentum-killer. The preacher is clearly well-read and finds this material interesting — and that interest fills the page without asking whether it serves the congregation.
+
+There is also likely a blind spot around ending the sermon. The gospel statement is moving and real, and it may feel like a strong place to land — the note of grace, Christ’s finished work, the cross and resurrection. But ending on a statement of what God has done, without a call to respond to what God has done, leaves the congregation as spectators. The sermon described the rescue. It did not summon the rescued.
+
+---
+
+### 12. Illusion of Strength
+
+The introduction appears to be the sermon’s strongest moment — and in some ways it is. But the drunk man at the water mill is never integrated into the sermon’s argument. He appears, the story is told warmly, and then the sermon moves to the Bondo unreached group, and then to Mark 5. The drunk man is not the sermon’s thesis; he is an anecdote. His story illustrates God’s persistence in pursuit — which is a genuine theme — but that theme is not the sermon’s main point, and the introduction therefore sets up expectations the sermon does not fulfill. What felt like a thematic launch is actually a disconnected opening.
+
+---
+
+### 13. Missed Opportunity
+
+The passage’s own treatment of faith is largely unexplored. Jairus fell at Jesus’ feet and begged — and then had to wait while Jesus stopped to address a woman in a crowd, while Jairus’s daughter was dying. The text gives us a man whose faith was stretched almost to breaking, and then the word came: "Your daughter is dead. Why trouble the Teacher any further?" And Jesus said: "Do not fear. Only believe." That is the passage’s pastoral heart for the doubter, for the waiting, for the one whose faith is hanging by a thread. It is completely absent from this sermon. It would have given the sermon’s application a second register — not only "you were dead and Christ raised you" but "you are despairing and Christ says: only believe."
+
+---
+
+### 14. Surgical Fixes (4)
+
+1. **Cut the Sanhedrin/Big Pharma section to three sentences.** The sole necessary point is: "Jairus was risking his standing among the religious authorities by coming to Jesus — the enemy of those authorities. A parent would give up everything for his child." Everything else in that section is expendable.
+
+2. **Bring the passage’s climax into the sermon.** Spend four to five sentences on "Talitha cumi" — on Jesus entering the room, dismissing the mourners, taking the dead girl by the hand, and speaking her back to life. This is the text’s own proclamation of Christ’s authority. Use it. Let it carry the weight of the Ephesians 2 allegory before you name the allegory explicitly.
+
+3. **Add a clear "therefore" exhortation at the close.** After the gospel statement, turn to the congregation with one direct call. To the unconverted: "You are that dead girl. Christ is standing at the foot of your casket and calling your name. Will you hear him?" To the believer: "You were that dead girl. Live like someone who was raised — not by your own effort, but by the word of the living Christ." To the doubter, the Jairus: "Your situation may look hopeless. The mourners may already be gathering. Do not fear. Only believe."
+
+4. **Bring the opening illustration home in the conclusion.** The drunk man was asked, "What do you think your next steps should be?" Ask the congregation the same question. The sermon opens with a man brought to the edge of repentance. The passage is about Christ raising the dead and healing the desperate. Let the opening story become the closing question. This gives the sermon both structural unity and genuine exhortation.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon is not bloodless. Pastoral warmth is evident throughout. The gospel is not merely recited — it is felt. The preacher cares about his people. The deficit is not coldness but incompleteness.
+
+---
+
+### 16. Weight of Glory Assessment
+**+2/5** — The sermon carries genuine pastoral gravity in its opening and closing moments, and the Ephesians 2 allegory lands with real weight; but the extended middle section dissipates the accumulated glory before the sermon can deliver it.
+
+---
+
+### 17. Rubric Fit Note
+Mark 5:21-43 is a miracle narrative — a genre that presents no structural strain for this rubric, but does require the rubric’s exposition categories to assess narrative exegesis rather than propositional argument. The rubric handles this appropriately. The primary genre note: miracle narratives carry their theology *in the event itself* — the authority of Christ is displayed, not argued. The sermon’s best instinct (the Ephesians 2 allegory) captures this. The missed opportunity (the "Talitha cumi" scene) is the place where the narrative’s own theological gravity was left unpreached.

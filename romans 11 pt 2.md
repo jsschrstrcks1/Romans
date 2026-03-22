@@ -140,3 +140,197 @@ How does He make dead hearts alive?
 The answer begins on a road.
 A Roman road.
 And if you will walk with me a little farther, Scripture will show you every step of the way.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Faithful Scope, Genuine Pastoral Heat — Derailed by an Unannounced Detour into Ephesians**
+
+---
+
+### 2. One-Sentence Summary
+A textually anchored and pastorally warm opening of Romans 11:11–32 that exposits the mercy-and-humility logic of Paul's argument with genuine force, but undermines its own coherence by grafting a full Ephesians 4:29 sub-sermon onto the passage without exegetical warrant, displacing the doxological climax that Paul himself provides.
+
+---
+
+### 3. Berean Gate Result
+**Pass — with a significant structural caveat.**
+
+- **Scopus Test**: The sermon's main thesis — that God's mercy humbles the proud and fuels mission — does arise demonstrably from Romans 11:11–32. The argument tracks Paul's actual logic: stumble, jealousy, warning, mystery, and doxology.
+- **Authority Test**: The preacher submits to the text's uncomfortable claims (the warning to Gentile pride in vv.17–21 is pressed hard). The sermon does not soften Paul's severity.
+- **Caveat**: The extended Ephesians 4:29 section (the entire "holiness always touches the mouth" passage) is not derived from the Romans 11 text. It is imported as an application bridge that the text itself does not build. This is not technically eisegesis of the Romans passage, but it does constitute a significant departure from the stated text for a full section of the sermon. The Berean Gate passes because the main point is textually grounded — but this caveat is load-bearing for the scoring below.
+
+---
+
+### 4. Fatal Flaw Flags
+**No fatal flaws triggered. Score is uncapped.**
+
+However, note the following near-miss warnings:
+- The gospel presentation is real but arrives late and leans heavily on Isaiah 53 rather than being woven into the exposition of Paul's own argument. For a sermon on Romans 11, the gospel could be more organically textual.
+- The Ephesians 4:29 departure risks making the application section feel disconnected from the text's actual applicatory logic.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 19/25**
+
+- *Textual Fidelity (8/10)*: The sermon follows Paul's argument through vv.11–32 with genuine care. The four-movement structure (stumble, jealousy, warning, mystery) maps faithfully onto the passage. Paul's "by no means" is given its proper Greek weight. The Isaiah 53 insertion in the conclusion is hermeneutically legitimate as Paul himself quotes Isaiah 59. However, the Ephesians 4:29 section consumes substantial sermonic real estate for a passage the text never goes to — a notable fidelity gap.
+- *Contextual Awareness (4/5)*: The connection to Romans 9–11 as a unit is present, and the "grafted in" image is used with the covenant-historical awareness it requires. The redemptive-historical flow from Abraham's root to Gentile inclusion is handled well.
+- *Exegetical Clarity (4/5)*: Greek terms are used well (μὴ γένοιτο appears twice, helpfully). The "mystery" language in v.25 is explained correctly. The olive tree metaphor is unpacked. The FCF (Fallen Condition Focus) is present but not named precisely — the sermon is responding to Gentile pride and complacency, which is real, but the Ephesians 4:29 pivot obscures whether the FCF is *pride* or *corrupt speech*.
+- *Logical Faithfulness (3/5)*: The import of Ephesians 4:29 as a stand-alone sub-topic is the weakest point. The preacher transitions from "you cannot provoke holy jealousy if your speech has not changed" — a fair inferential move — into a full exposition of Ephesians 4:29 that is not derived from or accountable to Romans 11. It is idea-importing, even if the idea is sound.
+
+**2. Theology & Doctrinal Integrity — 15/18**
+
+- *Christ-Centeredness (6/7)*: The Isaiah 53 deployment in section 4 and the conclusion is powerful and organically rooted in Paul's own use of Isaiah. Christ is not decorative here — His wounded, risen person is the ground of the mercy being proclaimed. Slight deduction because the Christ-connection through the warning section (vv.17–24) remains implicit rather than explicit.
+- *Redemptive-Historical Awareness (3/3)*: Strong. The "ancient covenant root" language, the Abraham-to-church covenantal logic, and the "Israel rejected their Messiah but the Messiah did not reject Israel" formulation are all sound.
+- *Doctrinal Precision (3/4)*: The sermon handles election, hardening, and irrevocability with clarity. "God closed every door except grace so that the only way in is Christ" is a clean gospel formulation. Slight imprecision: the sermon never quite distinguishes the nature of saving faith from the kind of "standing" mentioned in v.20 — the warning's relationship to assurance and perseverance is left undeveloped.
+- *Confessional Alignment — 1689 Pulse (3/4)*: The Doctrines of Grace are visible and unashamed. The irrevocability of divine election is affirmed. No confessional contradictions. The sermon does not fully develop the Covenant of Grace framework, which this passage invites — but it does not contradict it either.
+
+**3. Gospel Centrality & Force — 11/15**
+
+- *Clarity of the Gospel (3/5)*: The gospel is present and real, but its clearest articulation is pushed to the conclusion and anchored in Isaiah 53 rather than in Paul's own statement in vv.26–27 ("this will be my covenant with them when I take away their sins"). For a sermon on Romans 11, justification by faith is not clearly articulated — it is gestured toward. An unbeliever at the end of this sermon would know Christ died for sinners, but the "how does God save?" question raised in the conclusion is deferred to a future sermon rather than answered in this one.
+- *Necessity of Christ (5/5)*: Christ is essential and not merely decorative. The Suffering Servant passage, the "Deliverer will come from Zion," and the "raised for our justification" line all make Christ structurally necessary.
+- *Cross-Centered Gravity (3/5)*: The cross is present but arrives primarily at the conclusion. The bulk of the sermon — especially the Ephesians 4:29 section — orbits closer to moral renewal than cross-centered grace. The sermon does not fully press the indicative/imperative pattern: the imperatives (stop sinful speech, stop pride) come before the indicatives are fully set.
+
+**4. Conscience & Applicatory Force — 11/15**
+
+- *Heart Penetration (4/5)*: The warning to Gentile pride is genuinely searching. "The moment a Christian begins saying, 'I would never…' they are already halfway to doing exactly that" is a strong conscience-penetrating move. The speech application ("our hearts whisper, 'But God — that's my favorite sin. Can't I keep just that one?'") is honest and affectively real.
+- *Specificity (4/5)*: The speech application is specific and grounded — profanity, sarcasm, sexual innuendo, cutting words. The pastoral applications at the end of section 1 address the believer, the complacent, and the skeptic with reasonable specificity.
+- *Spiritual Differentiation (3/5)*: The sermon addresses the believer, the complacent, the self-righteous (the Pharisee comparison), and the skeptic. However, it never specifically addresses the backslider, the humbled-but-not-yet-believing, or the hardened. The Perkins categories addressed are approximately three of seven. The sermon defaults to a Christian-audience-assumed register without distinguishing more finely.
+
+**5. Exhortation & Response — 6/8**
+
+- *Call to Response (3/4)*: The calls are real but distributed rather than concentrated. "Stop doing that" (corrupt speech), "do not become proud," "ask yourself if your speech has changed" — these are genuine imperatives. However, the conclusion pivots to introducing the Romans Road rather than issuing a final summoning call. The sermon ends with a tease rather than a "therefore, go."
+- *Equipping for Holiness & Witness (3/4)*: The sermon connects holiness of speech to witness ("when your mouth carries grace… people catch a faint but real taste of Jesus"). The mission framing — Gentile faithfulness as provocation toward Israel's salvation — is well-developed and sends the congregation outward. The ending tease weakens the commissioning somewhat.
+
+**6. Structure & Logical Flow — 7/9**
+
+- *Clarity of Outline (3/4)*: The four-movement structure is stated upfront and followed. A listener could sketch it. However, the Ephesians 4:29 section is not announced in the outline and feels like a fifth movement without signage — it arrives mid-sermon and readers/hearers may lose their bearings.
+- *Progression (3/3)*: The sermon builds from stumble to jealousy to warning to mystery to doxology. The escalation is real.
+- *Unity (1/2)*: The Ephesians 4:29 section introduces a second organizing idea (holy speech) that competes with the dominant idea (mercy that humbles and sends). By the end, it is possible to leave thinking the sermon was about profanity rather than the mystery of God's mercy.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2)*: The Pharisee illustration, the "favorite sin" voice, and the "average American only prays when life gets hard" observation are congregation-level and concrete.
+- *Clarity (1/2)*: The old black-and-white serial announcer analogy in the introduction is clever but slightly dilutes the gravity of what follows. The rotten fruit/good fruit graphic reference (slide cue) adds visual anchoring. The Thomas Manton quote is used well. The olive tree slide reference works.
+- *Memorability (1/1)*: "God bent their trespass into a doorway of mercy" and "God closed every door except grace so that the only way in is Christ" are both memorable lines.
+
+**8. Sermonic Force — 4/5**
+
+- *Reads as Preaching (2/2)*: The manuscript reads as oral proclamation, not essay. Breath-length paragraphs, direct address ("So ask yourself…"), short declarative sentences at pressure points.
+- *Conviction on the Page (1/2)*: The conviction is present but uneven. The Ephesians 4:29 section generates its own energy but is slightly disconnected from the text's authority — the "thus says the Lord" weight comes from the Romans 11 passage, and when the sermon shifts to Ephesians 4:29, some of that authority is transferred to the preacher's own moral concern rather than the text's.
+- *Cadence and Breath (1/1)*: "A filthy mouth reveals a filthy heart" and the tricolon "How does He forgive? / How does He save? / How does He make dead hearts alive?" show genuine awareness of climactic compression.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+
+Slightly dense due to the four-movement structure plus the unannounced Ephesians 4:29 expansion. A congregant tracking the Romans 11 outline will have to reorient when the sermon pivots to Ephesians without warning. One fewer concept — specifically, integrating the speech application back into the Romans 11 warning section rather than opening a new sub-exposition — would resolve this.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 19/25 |
+| Theology & Doctrinal Integrity | 15/18 |
+| Gospel Centrality & Force | 11/15 |
+| Conscience & Applicatory Force | 11/15 |
+| Exhortation & Response | 6/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **77/100** |
+| Cognitive Load Modifier | −1 |
+| Weight of Glory Bonus | +3 |
+| **Total** | **79/105** |
+
+**Interpretation: Solid but lacking — needs another pass. The exposition is faithful and the pastoral heat is genuine, but the gospel force and structural coherence require targeted revision before this sermon reaches its potential.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Mostly Christ, but the Ephesians 4:29 section temporarily redirects attention to the hearer's speech patterns. The conclusion recovers Christward orientation well.
+
+2. **Did I encounter God, or just ideas about Him?**
+Partially. The doxology in the conclusion and the Isaiah 53 passage have genuine weight. The middle sections are more informational. The sermon earns moments of encounter but does not sustain them throughout.
+
+3. **Was I comforted, convicted, or merely informed?**
+Both convicted and informed — the warning to pride lands, and the mercy-for-all conclusion genuinely comforts. The sermon is not merely informational. However, the shift to Ephesians 4:29 introduces a section that is more morally corrective than gospel-driven, tipping toward instruction over encounter.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The warning to Gentile pride is textually grounded and pastorally courageous.** The Pharisee comparison and the "I would never" indictment in the vv.17–24 section are exactly what Paul intends and land with appropriate discomfort. The sermon does not soften the severity of the warning.
+
+2. **The redemptive-historical framework is handled with genuine competence.** The "ancient covenant root" language, the Abraham-to-church grafting logic, and the treatment of Israel's future turning as repentance before the Servant they pierced are all theologically sound and congregationally accessible.
+
+3. **"God closed every door except grace so that the only way in is Christ"** is one of the finest summary lines in the manuscript — clear, memorable, doxological. The conclusion's movement toward Paul's own doxology (11:33–36) is the right instinct and lands well.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The Ephesians 4:29 section is an unannounced textual departure that fractures the sermon's unity.** Beginning with "Holiness always touches the mouth," the sermon leaves Romans 11 and does not return substantively until the conclusion. This is not application derived from the text — it is a second sermon embedded in the first. The connection ("you cannot provoke holy jealousy if your speech has not changed") is inferentially plausible, but the extended Ephesians 4:29 exposition exceeds what that inferential bridge can support. A listener may leave thinking Romans 11 was primarily about profanity.
+
+2. **The gospel is deferred rather than proclaimed.** The conclusion raises the questions ("How does He forgive? How does He save?") but deliberately does not answer them, pivoting to a future Romans Road sermon. For the present congregation in the present service, this means the gospel is gestured at but not given. Romans 11:26–27 itself contains the covenantal gospel promise Paul quotes — the Deliverer coming from Zion to remove sins — and this is not fully preached as the sermon's own gospel moment. The Isaiah 53 passage is invoked but functions more as backdrop than proclamation.
+
+3. **The indicative/imperative order is inverted in the application section.** The exhortations (stop proud speech, stop corrupt words, ask if you've really changed) come before the indicatives (you are grafted in by grace, God's gifts are irrevocable, mercy is the final word) are fully secured. This creates a momentary moralistic register in the middle of the sermon where the hearer is pressed to change without first being grounded in the grace that makes change possible.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears to not see how substantially the Ephesians 4:29 section displaces the text. From the inside, it likely feels like vivid application of the "humility" theme — and the content is sound. But from the outside, it reads as a sermon within a sermon, one the preacher was perhaps more eager to preach than the Romans 11 material warranted. The homiletical instinct is pastoral and right; the execution imports material the text does not require.
+
+Additionally, the sermon's treatment of "all Israel will be saved" (v.26) is brief — it names the view but does not press its pastoral and missiological implications with the force Paul does. The preacher does not appear to notice how much Paul himself lingers here as the emotional and theological climax of the entire pericope.
+
+---
+
+### 12. Illusion of Strength
+
+The Ephesians 4:29 section feels like the sermon's most "practical" and "direct" moment — the preacher names specific sins (profanity, sarcasm, sexual innuendo), speaks plainly, and generates energy. It *feels* like the sermon's strength. But this strength is illusive: it comes from the preacher's own moral conviction and the familiarity of the application, not from the authority of the text being preached. Romans 11 does not say "stop cussing." The power in that section is the preacher's, not the text's. The sermon's actual strength — the mercy-humility-mission framework of Romans 11 itself — is quieter, and the preacher may unconsciously feel that Romans 11 needs the Ephesians 4:29 section to become "practical enough." It does not. The passage itself has ample applicatory pressure.
+
+---
+
+### 13. Missed Opportunity
+
+The greatest missed opportunity is Paul's own climax: **verses 28–32**, especially "For God has consigned all to disobedience, that He may have mercy on all" (v.32). This is one of the most staggering sentences in the New Testament — the universal solidarity of human disobedience and the universal offer of divine mercy in Christ. The sermon names it but does not stay with it. The doxology of vv.33–36, which the sermon rightly invokes, only lands with its full weight if v.32 has first pressed its nail into the congregation. The preacher hurries past the passage's own theological climax to get to the conclusion.
+
+---
+
+### 14. Surgical Fixes (4)
+
+1. **Restructure or compress the Ephesians 4:29 section back into the Romans 11 warning.** The speech application is legitimate as one concrete illustration of the "do not become arrogant" command. But it should be one paragraph inside the warning section, not a full sub-exposition with its own Greek word studies. Cut or compress to: one pointed application of holy speech as the visible marker of the humility Paul commands, without opening Ephesians 4:29 as a separate text.
+
+2. **Preach v.32 as the sermon's climax, not the doxology.** The doxology is the right ending, but the congregation needs to feel the weight of "God has consigned all to disobedience" before the wonder of "that He may have mercy on all" can release. Spend two to three minutes in v.32 naming the shared disobedience of Jew and Gentile, naming the hearer's own disobedience, and then letting the mercy thunder. The doxology will carry more force.
+
+3. **Reverse the indicative/imperative order in the application.** Before calling the congregation to holy speech and humble mission, anchor the call in the indicative: you were a wild branch, you were grafted in by grace, you are held by roots you did not grow. From that position of grace-received, the exhortations to humility and holy living carry gospel weight rather than moral pressure.
+
+4. **Answer the gospel questions in the conclusion rather than deferring them.** "How does He forgive? How does He save? How does He make dead hearts alive?" — the Romans Road tease is evangelistically intentional, but it leaves the present congregation without a completed gospel word for today. Romans 11:26–27 already contains the answer in covenantal form. Preach it here. The Romans Road can still be announced as the next series without withholding the gospel from the current service.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.**
+
+Exposition scores above 20 threshold with application below 9 was not reached. The sermon has genuine pastoral heat, direct conscience address, and affective engagement. The fire is present, if unevenly distributed. The Ephesians 4:29 section in particular shows the preacher does not want to leave people only theologically informed.
+
+---
+
+### 16. Weight of Glory Assessment
+**+3/5**
+
+The sermon carries genuine eternal gravity in its conclusion — the doxology landing, Isaiah 53 invoked, "God closed every door except grace" — but the Ephesians 4:29 section temporarily reduces the sermon's atmospheric pressure to a moral register, and the gospel deferral at the end means the service ends with a question rather than a proclamation. The Weight of Glory is real but intermittent rather than sustained.
+
+---
+
+### 17. Rubric Fit Note
+Romans 11:11–32 is Pauline epistolary argumentation with covenantal-historical scope — it is among the most rubric-native texts imaginable for this framework. The categories of exposition, gospel centrality, conscience application, and doxological force map directly onto Paul's own rhetorical structure. The rubric does not strain here. If anything, this passage is more demanding than most under this rubric because Paul himself provides the applicatory moves (warning, mystery, mercy), the gospel content (Isaiah 53, covenantal removal of sins), and the worship response (the doxology). A sermon on this text that is evaluated low is not being penalized by an ill-fitting rubric — it is being held to what the passage itself demands.

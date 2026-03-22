@@ -92,6 +92,174 @@ If you’ve never come to a point in your spiritual life where you’ve asked fo
 As the praise team comes up to sing a final song, ask yourself: if you were to die today, and be standing in front of the gates of heaven, and God were to walk up to you and ask why He should let you in, what would you say? Would you have an answer? If not, talk to me after the service.
 
 The altar is open, won’t you come?
-Our closing prayer is from the same book. I really like that book, I keep giving my copy away. Regardless - It’s a collection of prayers written by the puritans, back when you had the time to sit and think while you rode your horse into town. Any way, lets close with this prayer from that book: 
+Our closing prayer is from the same book. I really like that book, I keep giving my copy away. Regardless - It’s a collection of prayers written by the puritans, back when you had the time to sit and think while you rode your horse into town. Any way, lets close with this prayer from that book:
 
 “Almighty God, who justifies the ungodly by faith, grant that we may never boast in ourselves but only in Christ Jesus. Help us to walk in the blessedness of credited righteousness, resting in the peace You have given. Keep us hidden in Christ, sealed by Your Spirit, and strengthened to live as Your redeemed people, awaiting the glorious day when we shall appear with Him in final glory. Through Jesus Christ our Lord, who bore our sins on the cross and finished all the debt. Amen.”
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**File:** Romans 4 - In Christ Alone- Where Justice Meets Grace.md
+**Text:** Romans 4:1–8
+**Evaluated:** 2026-03-22
+
+---
+
+### 1. Verdict Title
+Doctrinally Precise Exposition Carrying a Heavy Quote Load — Justification by Faith Clearly Proclaimed, Conscience Work Thin
+
+---
+
+### 2. One-Sentence Summary
+A theologically rich sermon on Romans 4:1–8 that accurately expounds *logizomai*, deploys the ledger illustration consistently, names all five solas, quotes the 1689, and presents the gospel clearly — but relies on eight or more attributed quotes to do work the preacher’s own voice could do more powerfully, and leaves the believing congregation’s application underdeveloped.
+
+---
+
+### 3. Berean Gate
+**PASS**
+
+*Scopus Test:* “Righteousness is credited (*logizomai*) by faith, not earned by works.” This is precisely what Romans 4:1–8 argues via Abraham (vv.1–5) and David (vv.6–8). The sermon follows both examples.
+
+*Authority Test:* The preacher submits to the text’s claims — including the offensive claim that God justifies the ungodly (v.5), not the godly. He does not soften this.
+
+---
+
+### 4. Fatal Flaw Flags
+**None triggered.**
+
+- Gospel present: Romans 5:8, Ephesians 2:8–9, John 3:16, Romans 10:9–10. Full gospel invitation.
+- Main point equals text’s point.
+- Christ is necessary — the ledger can only be cleared through him.
+- Application addresses three hearer categories.
+- Gospel invitation is explicit.
+- Accessible throughout.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 20/25**
+
+- *Textual Fidelity (8/10):* The Abraham section (vv.1–5) is well-developed — *logizomai* explained, the timing of Abraham’s justification (before law and sacrifice) is correct, the wages/gift distinction (vv.4–5) is precise. The David section (vv.6–8, Psalm 32) is present but briefer — the quotation is engaged but not deeply exegeted. The redemptive-historical connection between Psalm 32 and Romans 4 (Paul reading David through the lens of imputed righteousness) is noted but could be deeper.
+- *Contextual Awareness (4/5):* Abraham before the law → sacrificial system as shadow pointing to Christ → Christ as fulfillment is correctly sequenced. The Romans series context is set.
+- *Exegetical Clarity (4/5):* *Logizomai* is well-explained as a bookkeeping term. The FCF — the works-righteousness treadmill that cannot clear the ledger — is clear. The pork/shellfish tangent on law (addressing a specific church member) is honest but rhythmically disruptive.
+- *Logical Faithfulness (4/5):* No eisegesis. The pork tangent is logically relevant but breaks the sermon’s momentum at a key exegetical moment.
+
+**2. Theology & Doctrinal Integrity — 17/18**
+
+- *Christ-Centeredness (6/7):* Christ as the one who pays the ledger, absorbs wrath, provides the righteousness credited to the believer. The imputation language is precise. One point held: the connection between Abraham’s specific faith-object (Genesis 15:6) and Christ could be drawn more explicitly.
+- *Redemptive-Historical Awareness (3/3):* Abraham before the law → law as exposing sin → sacrificial system as shadow → Christ as substance. Hebrews 10:1–4 and John 1:29 deployed correctly.
+- *Doctrinal Precision (4/4):* *Logizomai* as imputation; unconditional election (Romans 4:16; Ephesians 1:4–5) correctly stated; sola fide, sola gratia, solus Christus explicitly named; 1689 London Baptist Confession 11.1 quoted (“not by infusing righteousness into them, but by pardoning their sins”).
+- *Confessional Alignment (4/4):* The 1689 is cited. Unconditional election is explicit. Five solas named. Fully confessional.
+
+**3. Gospel Centrality & Force — 15/15**
+
+- *Clarity (5/5):* Complete — Romans 5:8, Ephesians 2:8–9, John 3:16, Romans 10:9–10. The ledger metaphor (paid in full by Christ) carries the gospel clearly throughout.
+- *Necessity of Christ (5/5):* The whole sermon is structured around the impossibility of self-justification and the necessity of Christ’s credited righteousness.
+- *Cross-Centered Gravity (5/5):* Penal substitution is explicit — “infinite wrath was absorbed by Christ”; “the storm of justice struck Christ instead.” The cross is the gravitational center.
+
+**4. Conscience & Applicatory Force — 9/15**
+
+- *Heart Penetration (3/5):* The ledger illustration presses the conscience effectively in the abstract. Thomas Boston’s “a sink of sin and a spring of rebellion” paraphrase lands. But the conscience-pressing is largely done by quotation — the preacher outsources the most pointed moments to Calvin, Luther, Sproul, MacArthur, Watson, Edwards, Boston, Davey.
+- *Specificity (3/5):* Three categories (struggling saint, self-assured sinner, seeking skeptic) are present but formulaic. No specific person, story, or moment.
+- *Spiritual Differentiation (3/5):* The three categories cover the basic hearer types but without differentiation between the self-righteous believer and the self-assuring believer, the backslider and the seeker.
+
+**5. Exhortation & Response — 5/8**
+
+- *Call to Response (3/4):* The gospel invitation is clear and direct (“if you’ve never come to a point... today is the day”). The already-believing congregation’s response is stated (“how then should we live? Faith is not a one-time act but a daily reliance”) but not pressed as a specific summons.
+- *Equipping (2/4):* “Sanctification flows from justification” is stated (twice) but not developed. The believer is told what is true but not given a specific practice or movement toward it.
+
+**6. Structure & Logical Flow — 8/9**
+
+- *Clarity (4/4):* Four labeled sections plus conclusion. The ledger metaphor provides structural continuity.
+- *Progression (2/3):* The fourth section (Living in Blessedness) is long and covers multiple sub-topics — glorification, daily faith, Puritan endurance, Colossians 3 — without a clear climactic move. Tightening this section would sharpen the sermon’s landing.
+- *Unity (2/2):* *Logizomai* — righteousness credited by faith — is the consistent organizing principle.
+
+**7. Illustration & Imagination — 4/5**
+
+The ledger metaphor is the sermon’s strongest illustrative contribution — vivid, biblical in principle, and sustained consistently through every section. Pilgrim’s Progress is well-deployed (twice). The Valley of Vision prayers frame the sermon with appropriate devotional warmth. One gap: no personal illustration from the preacher’s own life or pastoral experience.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (1/2):* High quote density makes this read closer to a theological essay than a preached sermon in places. Eight or more attributed quotes, plus two Valley of Vision prayers, reduces the preacher’s own voice to connective tissue between citations. The conclusion improves significantly.
+- *Conviction on the Page (1/2):* The conclusion has genuine conviction (“He knew you better than you know yourself, and even knowing the dark corners... he still chose to die for you”). The body of the sermon is more essay than proclamation.
+- *Cadence (1/1):* Good moments of sentence variation; the conclusion’s rhythmic compression is effective.
+
+---
+
+### 6. Cognitive Load Modifier
+**−1** — Eight or more attributed quotes, two prayers, and multiple sub-topics in section IV create genuine density. The ledger metaphor is the lifeboat.
+
+---
+
+### 7. Total Score
+**82 / 100**
+
+*Interpretation: Strong and faithful. Minor sharpening needed. Ready for the pulpit with targeted revision.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Christ — the ledger metaphor consistently directs away from self-effort toward Christ’s credited righteousness.
+2. **Did I encounter God, or just ideas about Him?** Ideas, primarily. The theology is accurate but the devotional warmth is largely borrowed from Spurgeon, Luther, and the Valley of Vision.
+3. **Was I comforted, convicted, or merely informed?** Theologically informed and somewhat comforted. Conscience-searching is present but mild.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The *logizomai* development.** Bookkeeping term, credited to account, not earned — deployed at vv.4–5 with precision and sustained through the sermon. The “ledger of the guilty” metaphor is a legitimate and effective illustration of an abstract doctrinal truth.
+2. **Doctrinal precision on justification.** The 1689 is quoted correctly. Unconditional election is stated without apology. Imputation (not infusion) is precise. Sola fide, sola gratia, solus Christus are named. This is Reformed Baptist theology preached clearly.
+3. **The conclusion.** “He knew you better than you know yourself, and even knowing the dark corners of all the darkest closets in your soul, he still chose to die for you.” That is the preacher’s own voice, and it is the sermon’s most powerful moment — unmediated by citation, direct, and searching.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Quote density dilutes the preacher’s voice.** Eight or more attributed quotes — Calvin, Edwards (×2), Sproul, MacArthur, Luther, Boston, Watson, Davey, plus paraphrases noted as such — crowds the sermon. A preacher who can accurately handle *logizomai*, quote the 1689, and deploy the ledger metaphor does not need this many guards. Reduce to two or three quotes maximum; let the preacher’s own voice carry the theology.
+2. **The pork/shellfish tangent disrupts the flow.** The “one woman in particular” anecdote appears at the most critical exegetical moment — the connection between Abraham’s pre-law justification and the law’s unified purpose. The content is valid; the placement breaks the exegetical momentum at exactly the wrong time.
+3. **The application section (section IV) is diffuse.** It covers glorification, daily faith, Charnock on faith, Davey on sanctification, Colossians 3, the general application to three categories, and the conclusion — without a clear climactic move. Tighten to: one truth, one application, one summons.
+
+---
+
+### 11. Blind Spots
+
+The sermon may not see how much of its conviction is being borrowed. The citations are accurate and well-chosen — but Luther saying “a living, daring confidence in God’s grace” may land differently than the preacher saying it in his own words. The congregation needs to hear their pastor convinced, not informed about others who were convinced.
+
+---
+
+### 12. Illusion of Strength
+
+The Valley of Vision framing (opening and closing prayers) creates an impression of devotional depth that the body of the sermon must then fulfill. The prayers are beautiful — but they set an expectation of soul-engagement that the quote-heavy middle sections only partially meet.
+
+---
+
+### 13. Missed Opportunity
+
+**Romans 4:5 — “him who justifies the ungodly.”** The sermon names this as shocking — “God does not justify the godly but the ungodly.” This is the text’s most scandalous claim and deserved a full minute of dwelling: “Every other religion in the world justifies the godly — the obedient, the devout, the disciplined. The gospel justifies the ungodly. It runs opposite to every human instinct about how God must work. This is not what any of us would have invented.” That development would have been the sermon’s sharpest moment.
+
+---
+
+### 14. Surgical Fixes
+
+1. Reduce attributed quotes to two or three. Let the preacher’s own voice carry what Luther, Sproul, and MacArthur are currently saying.
+2. Move the pork/shellfish tangent to a footnote or remove it. The law-purpose point can be made in one sentence without the anecdote.
+3. Develop Romans 4:5 (“justifies the ungodly”) as the sermon’s most scandalous claim — give it ninety seconds.
+4. Tighten section IV to one truth, one application, one summons. Cut the Charnock quote and the Colossians 3 sub-section.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The gospel is proclaimed with genuine conviction, especially in the conclusion.
+
+---
+
+### 16. Weight of Glory Assessment
+The ledger paid in full, Christ bearing infinite wrath, the believer hidden with Christ — the content is eternal. But the quote-heavy delivery dilutes the unction. The conclusion recovers. **+2/5**
+
+---
+
+### 17. Rubric Fit Note
+Romans 4:1–8 is dense doctrinal argument. The rubric fits it well. The high quote density is a pastoral choice that the rubric correctly identifies as reducing sermonic force — not because quoting theologians is wrong, but because at this density the congregation is no longer receiving preaching; they are receiving a curated anthology. The content is right; the delivery needs the preacher’s own voice.

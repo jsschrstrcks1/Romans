@@ -216,3 +216,199 @@ In short, I'm reminded of Ephesians 1:17–18:
 > — Ephesians 1:17–18, ESV
 
 Let's let that be our prayer. That God open our eyes to see the truth. That we would be so in love with God's word that we would spend time studying it and memorizing it, and basking in the things it says and its promises, and allow it to have its purifying effect on us — so that we could come to know God more deeply. So that we can see him more clearly. So that our hearts are tuned to sing his praise, and his praise alone. So that when we run into a counterfeit, we would know the difference. So that we won't be deceived by our enemy or the world.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Faithful Discernment Alarm With a Gospel Placeholder and a Hollow Application Core**
+
+---
+
+### 2. One-Sentence Summary
+A practically urgent opening of 2 Corinthians 5:6–10 and 12:1–6 that effectively exposed the counterfeit heaven-tourism genre while leaving the gospel as a one-word stage direction and the conscience almost entirely unsearched.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with noted drift**
+
+*Scopus Test:* The sermon's thesis — that Scripture is the sufficient and final authority, and that claims of heaven-visits must be tested against it — does arise organically from 2 Corinthians 12:1–6 (Paul's own heavenly experience as the standard against which all such claims are measured) and is corroborated by 2 Corinthians 5:6–10 (the sequence of death, presence with Christ, and judgment). The main point of the sermon corresponds to a legitimate main point the texts support.
+
+*Authority Test:* The preacher submits to the text's claims without softening them. He does not edit away the uncomfortable elements (judgment in v.10, the prohibition of utterance in 12:4). He stands under the Word as a herald.
+
+*Noted drift:* The sermon's argumentative center of gravity is the Malarkey case study and the discernment principle, which is appropriate — but the passage's own argument (Paul's suffering and thorn as the context for the heavenly experience) receives minimal treatment. The sermon uses the text as a foundation but does not fully exposit its argument.
+
+---
+
+### 4. Fatal Flaw Flags
+**Flag 1 — TRIGGERED: No clear gospel presentation**
+Section XII reads in its entirety: "But before all of that, we need to know Jesus as our Savior. Gospel." This is a placeholder, not a proclamation. The gospel was delivered extemporaneously and is not present in the manuscript. By manuscript standards, Christ's finished work is absent. Justification by faith is not articulated. The cross is referenced in Alex Malarkey's letter (quoted by the preacher) but not preached by the preacher. This triggers the fatal flaw and caps the score at 69.
+
+**Flag 4 — TRIGGERED: Application is entirely generic**
+The application in Section XI amounts to: "Have biblical skepticism," "test what you hear against Scripture," "know Jesus better, know his word better." These are true but undifferentiated. No specific hearer is addressed. No conscience is cornered. The sermon does not distinguish the person who is already trusting in counterfeit spiritual experiences, the grieving widow who bought the heaven-tourism book for comfort, the skeptic, or the believer. Every application point could be preached in any sermon on any topic without modification.
+
+**Score is capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 17 / 25**
+- *Textual Fidelity (10):* 7 — The sermon derives its argument from the texts and does not import foreign ideas. The reading of 2 Corinthians 5:6–10 to establish the absent-from-body/present-with-Lord/judgment sequence is exegetically sound. John 3:13 and John 1:18 are used accurately. However, the exposition is primarily proof-text deployment rather than sustained argument-following. The passage's own argument (Paul defending his apostleship, the context of suffering, the thorn) is acknowledged but not developed.
+- *Contextual Awareness (5):* 3 — The preacher notes the scholarly consensus that Paul speaks of himself in the third person and the humility motive. The wider redemptive-historical context is thin.
+- *Exegetical Clarity (5):* 4 — The Greek note on 2 Corinthians 5:8 is brief but accurate and accessible. The preacher does not over-display technical knowledge.
+- *Logical Faithfulness (5):* 3 — The argument is mostly sound but the move from "Paul couldn't share" to "therefore no one today can" is asserted rather than demonstrated. The Fallen Condition Focus (why this text exists — the human susceptibility to false spiritual authority) is present implicitly but never named concretely.
+
+**2. Theology & Doctrinal Integrity — 12 / 18**
+- *Christ-Centeredness (7):* 4 — Christ appears as the destination of the dead (2 Cor. 5:8), the judge (2 Cor. 5:10), and the sole mediator (1 Tim. 2:5). These are accurate and important. But the sermon does not exposit Christ's person or work — He functions as a reference point, not a magnified Savior. The one mediator point (Section IX) is the strongest Christ-centered moment and is largely wasted as a transition.
+- *Redemptive-Historical Awareness (3):* 2 — The pattern of Scripture's silence about heaven details is noted across the canon. The connection to why God withholds certain knowledge is theologically sound but undeveloped.
+- *Doctrinal Precision (4):* 3 — No theological errors. The treatment of the sufficiency of Scripture is accurate. The characterization of Ellen White and Watchman Nee is appropriately nuanced. The judgment seat of Christ (2 Cor. 5:10) is mentioned but not explained (what is being judged? what does this mean for believers vs. unbelievers?).
+- *Confessional Alignment (4):* 3 — No contradictions of confessional theology. The sufficiency and finality of Scripture aligns with 1689 Chapter 1. No explicit engagement with soteriological themes beyond the placeholder gospel.
+
+**3. Gospel Centrality & Force — 5 / 15**
+- *Clarity of the Gospel (5):* 1 — The gospel is a one-word placeholder in the manuscript. Alex Malarkey's letter contains the clearest gospel language in the entire sermon ("repentance of your sins and a belief in Jesus as the Son of God, who died for your sins"), but this is the boy's words, not the preacher's proclamation. Justification by faith is absent. The cross is not preached.
+- *Necessity of Christ (5):* 3 — Christ is genuinely necessary to the sermon's argument — he is the sole mediator, the one before whom we stand in judgment, the one who descended and ascended uniquely (John 3:13). The sermon would not survive intact without these references.
+- *Cross-Centered Gravity (5):* 1 — The sermon does not move toward the cross. It moves toward the closing prayer. The gravitational center is discernment and Scripture, not the person and work of Christ.
+
+**4. Conscience & Applicatory Force — 6 / 15**
+- *Heart Penetration (5):* 2 — The sermon does not press the heart. It informs the mind. The challenge "Can you?" (end of Section VII) is the closest the sermon comes to a direct personal question, but it is aimed at discernment capacity, not conscience.
+- *Specificity (5):* 2 — Application is real-world (books, TBN, specific names) but not congregation-specific. No hearer is spoken to in their particular spiritual condition.
+- *Spiritual Differentiation (5):* 2 — Only two categories of hearers are implicitly addressed: believers who need discernment, and generic unbelievers ("before all of that, we need to know Jesus"). The backslider, the grieving person who found comfort in heaven-tourism books, the religiously curious, and the hardened skeptic are not addressed.
+
+**5. Exhortation & Response — 4 / 8**
+- *Call to Response (4):* 2 — The closing paragraph (Section XI) calls the congregation to know Jesus, know his word, pray, read Scripture, worship, and fellowship. These are real actions but they are offered as a list rather than an urgent summons. There is no "therefore" moment — no point where the truth preached becomes a concrete demand on the will.
+- *Equipping for Holiness & Witness (4):* 2 — The sermon briefly addresses how to evaluate teachers and what to do when you encounter false claims. This is equipping in a narrow sense. The congregation is not sent out — they are left with a closing prayer.
+
+**6. Structure & Logical Flow — 7 / 9**
+- *Clarity of Outline (4):* 3 — The sermon has a clear movement: counterfeit claim → pattern of false authority → scriptural test → case study → Paul's own experience → discernment principle → gospel placeholder → closing prayer. A listener could track the argument without difficulty.
+- *Progression (3):* 3 — The sermon builds well through the Malarkey case and the scriptural arguments. The ending (gospel placeholder → closing prayer) is an abrupt descent from the argumentative peak.
+- *Unity (2):* 1 — The sermon has one dominant idea (Scripture is sufficient; test all claims against it) but the survey of false religious movements (Jim Jones, Quran, Jehovah's Witnesses, Mormons, Unitarians, Christian Science, Ellen White, Watchman Nee) momentarily expands the scope in ways that are not fully integrated.
+
+**7. Illustration & Imagination — 4 / 5**
+- *Relevance (2):* 2 — The counterfeit money illustration is local (the pharmacy near the preacher's house), immediate, and fitting. The Malarkey case study is itself an extended illustration that is vivid and well-documented.
+- *Clarity (2):* 2 — Both the money illustration and the case study illuminate the point without competing with it.
+- *Memorability (1):* 0 — No single image rises to the level of something a congregation member would carry home next week. The money illustration is serviceable but forgettable; the Malarkey story is memorable but functions more as evidence than image.
+
+**8. Sermonic Force — 5 / 5**
+- *Reads as Preaching (2):* 2 — This is clearly oral in character. The congregation is directly addressed throughout ("I need someone to read," "Are you in 2 Corinthians 12?", "Can you?"). Breath-length units are natural.
+- *Conviction on the Page (2):* 2 — The preacher's own conviction about Scripture's sufficiency comes through consistently. There is no filler language or hedging on the main point.
+- *Cadence and Breath (1):* 1 — Sentence variation is natural. The "Can you?" at the end of Section VII is the strongest single compression in the manuscript.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: 0 (No penalty)**
+
+The sermon is accessible to any ordinary listener. The case studies are concrete and self-explanatory. The scriptural arguments are presented in plain language. The survey of false movements is rapid but not confusing. A single mother, a high schooler, and a new believer could all follow the main argument and take home one clear truth: test spiritual claims against Scripture.
+
+---
+
+### 7. Total Score
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 17 | 25 |
+| Theology & Doctrinal Integrity | 12 | 18 |
+| Gospel Centrality & Force | 5 | 15 |
+| Conscience & Applicatory Force | 6 | 15 |
+| Exhortation & Response | 4 | 8 |
+| Structure & Logical Flow | 7 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 5 | 5 |
+| **Subtotal** | **60** | **100** |
+| Cognitive Load Modifier | 0 | — |
+| **Pre-cap Total** | **60** | **100** |
+| Fatal Flaw Cap | 69 max | — |
+| **Final Score** | **60** | **100** |
+
+**Interpretation: Below 60 boundary / Concerning gaps (60–69 band)**
+The pre-cap score is 60, which sits at the floor of the "Concerning gaps" band. The fatal flaw cap is not the limiting factor — the raw score is already there. This is a sermon that explains and illustrates but does not fully preach.
+
+*Weight of Glory bonus not applied: the sermon does not carry sufficient eternal gravity in its manuscript form due to the absent gospel proclamation.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Neither, primarily. It makes the listener think about discernment and Scripture sufficiency. Christ is present as reference point but not as the gravitational center. This is not moralism, but it is not worship either.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas. The closing prayer reaches toward encounter ("that God open our eyes to see the truth"), but the sermon itself is argumentative and informational throughout. The Weight of Glory is largely absent from the manuscript.
+
+3. **Was I comforted, convicted, or merely informed?**
+Informed — and usefully so. But the conscience is not cornered, the heart is not pressed, and the comfort of the gospel is not delivered. A listener leaves knowing more about false heaven-claims than they did when they arrived, but without having been either convicted of their own susceptibility to counterfeits or comforted by the true gospel.
+
+---
+
+### 9. Strengths (Top 3)
+
+**Strength 1 — The Scriptural Argument Is Structurally Sound**
+The sermon's core exegetical move — using 2 Corinthians 5:6–10 to establish the sequence of death/presence/judgment, and then 2 Corinthians 12:1–6 to establish that even genuine heavenly experiences are not to be narrated — is textually legitimate and clearly presented. The deployment of John 3:13 ("No one has ascended into heaven except he who descended") is precisely targeted. This is honest text work.
+
+**Strength 2 — The Case Study Is Well-Executed and Pastorally Motivated**
+The preacher clearly spent significant preparation time on the Malarkey case and is genuinely motivated by concern for the congregation. The case is specific, documented, and local in flavor (the preacher connects it to how people in the congregation might encounter such books). Alex Malarkey's own letter is quoted at length and is the single most powerful moment in the sermon — letting the victim's testimony do what mere argumentation cannot.
+
+**Strength 3 — Sermonic Voice Is Authentic and Accessible**
+The sermon reads exactly as it was preached: direct, unpretentious, locally inflected (David Gerner the sound guy, the pharmacy near the preacher's house), and free of performance. The congregation is treated as adults capable of handling theological argument. The preacher's own credibility is not inflated. "Does what he says line up with what God says? If not, I hope you'll come to me" is a genuinely humble and pastorally sound invitation.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+**Weakness 1 — The Gospel Is a Stage Direction, Not a Proclamation (Section XII)**
+"But before all of that, we need to know Jesus as our Savior. Gospel." This is the most significant failure in the manuscript. The gospel was preached extemporaneously and is lost. What remains tells us nothing about what was said. Given that the sermon has established Christ as sole mediator and judge, there is natural scaffolding for a genuine gospel proclamation here — but it was not captured. A sermon on Scripture's sufficiency against false spiritual experiences is precisely the moment to preach that Christ's finished work is the only adequate answer to what those experiences promise but cannot deliver: assurance, peace, and the presence of God.
+
+**Weakness 2 — Application Never Corners a Specific Sinner (Sections XI–XII)**
+"We need to have a sense of biblical skepticism" and "know Jesus better, know his word better" are true but generic. The sermon never asks the harder question: Who in this room has already bought a heaven-tourism book and found comfort in it? Who is leaning on experiences — their own or someone else's — rather than on the Word? Who has a family member in one of the movements named in Section III? The Fallen Condition Focus is implicit (human susceptibility to false spiritual authority) but never named and never pressed into the specific lives of the people sitting in the room.
+
+**Weakness 3 — The Judgment Seat of Christ Is Mentioned but Not Developed (Section V)**
+Second Corinthians 5:10 — "For we must all appear before the judgment seat of Christ, so that each one may receive what is due for what he has done in the body, whether good or evil" — is read aloud and noted as establishing the sequence of death → presence → judgment. But the sermon does not stop there. This verse is explicitly about accountability, about the weight of what we do in the body, about the fact that eternity is not a picnic but a reckoning. This is the precise moment where the sermon could have pressed the conscience ("The false heaven accounts skip right past this verse — but you cannot") and driven the congregation toward the only One who has absorbed that judgment on their behalf. Instead, the verse is used only as a logical argument against the Malarkey timeline.
+
+---
+
+### 11. Blind Spots
+
+The preacher does not appear to see that his strongest pastoral moment is the one he is most tempted to underuse. Alex Malarkey's letter contains a complete gospel outline — sin, repentance, the death of Christ for sinners, faith, the sufficiency of Scripture. The preacher reads it aloud and moves on. He does not recognize that the boy's letter is doing the work the sermon's Section XII was supposed to do. The preacher is so focused on the discernment argument that he misses the evangelistic gift the boy handed him.
+
+Additionally, the survey of false movements in Section III (Jim Jones, Islam, JWs, Mormons, Unitarians, Christian Science, Ellen White, Watchman Nee) is presented as a catalog of examples, but the underlying pattern — the substitution of human experience and authority for Scripture — is named but not applied to the congregation's own hearts. The blind spot is the assumption that the danger of false authority is "out there" (in cults, on TBN), rather than endemic to every human heart's tendency to prefer experience over the Word.
+
+---
+
+### 12. Illusion of Strength
+
+The case study approach creates an illusion of pastoral depth. The sermon is richly detailed — specific names, specific books, specific quotes, specific scriptural citations — and this density of detail reads as thorough and authoritative. But documentary rigor is not the same as applicatory force. The sermon knows a great deal about Alex Malarkey's situation. It does not know much about the spiritual condition of the specific people in the room. The detail that feels like pastoral engagement is largely journalistic rather than pastoral — it serves the argument, not the soul.
+
+---
+
+### 13. Missed Opportunity
+
+The sermon misses the therapeutic dimension of the counterfeit problem. Heaven-tourism books are not primarily believed by fools — they are believed by the grieving. People buy *Heaven Is for Real* and *The Boy Who Came Back from Heaven* because they have lost children, spouses, and parents, and they desperately want to know those people are okay. The sermon's discernment argument is sound, but it does not address the grief that makes the counterfeit attractive. What does Scripture actually offer the grieving person that the counterfeit pretends to offer? The answer — the resurrection of Christ, the certain hope of reunion, the present comfort of the Spirit — is right there in 2 Corinthians 5 and was not preached. This is the moment the sermon needed most.
+
+---
+
+### 14. Surgical Fixes (4)
+
+1. **Write out the gospel in Section XII.** The placeholder must become a proclamation. Suggested anchor: "The false heaven accounts skip Christ's judgment seat — but you cannot. And neither can I. There is only one way to stand before that judgment and not be destroyed, and that is to be found in Christ — who bore the judgment in your place, who absorbed the wrath that should have fallen on you, and who offers you his righteousness as a free gift through faith alone. That is the real heaven. Not a picnic with King David. Not a tour of the celestial city. But Christ himself, your advocate, your substitute, your Lord."
+
+2. **Press the Fallen Condition Focus explicitly before Section XI.** Name the specific human susceptibility: "Why do these books sell? Because we are afraid of death. Because we love our dead and we want them to be okay. Because we do not trust that what God has said is enough. That is the sin underneath the counterfeit — the sin of needing more than God's Word. And every one of us has that sin." Then apply the gospel as the only real answer to that fear.
+
+3. **Use the Judgment Seat of Christ (2 Cor. 5:10) as a conscience-pressing moment.** After establishing the death → presence → judgment sequence, pause: "Every false heaven account skips this verse. Do you see why? Because this verse is terrifying if you are not in Christ. The judgment seat is real. The accounting is real. You will stand there. The question is whether you will stand there alone, or whether you will stand there in Christ — covered by his righteousness, shielded by his blood. That is what is at stake in these stories."
+
+4. **Add differentiated address to the grieving hearer.** Before the closing prayer, add a specific word: "Some of you have bought books like these — not because you were gullible, but because you are grieving, and you needed to know your mother or your child was okay. I understand. But God has not left you without comfort. He has given you his Word, and his Word says more about the safety of those who die in Christ than any TBN interview ever could. Let me show you what he actually says."
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The score pattern does not meet the Dead Orthodoxy threshold (exposition 20+ / conscience below 9). The exposition score is 17. The issue here is not cold correctness but an underdeveloped gospel and a failure of applicatory specificity.
+
+---
+
+### 16. Weight of Glory Statement
+The sermon carries real pastoral urgency and genuine conviction about Scripture's authority, but it does not yet carry eternal gravity — the Weight of Glory bonus is withheld because the sermon ends at discernment rather than at worship, and the gospel that alone could produce wonder is absent from the manuscript.
+
+---
+
+### 17. Rubric Fit Note
+This is a topical-expository sermon — a discernment sermon that uses two Pauline texts as its primary framework. The rubric fits well. The texts chosen (2 Cor. 5:6–10; 12:1–6) are expository anchors, not proof-texts in a vacuum. The rubric's Exposition category rightly flags the gap between "texts are used accurately" and "the text's full argument is followed." The Gospel Centrality and Conscience categories surface the structural weakness accurately. No rubric category strains against the passage's genre. The evaluation is fair.

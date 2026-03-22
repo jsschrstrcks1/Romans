@@ -187,3 +187,160 @@ If you have a relationship with Jesus Christ, then you'll have the former conver
 
 > "Satan wanted Christ to prove his deity by turning rocks into bread, but Jesus has worked a far greater miracle by turning hard hearts of stone into flesh."
 > — Attributed to Thomas Watson (c. 1620–1686), Puritan pastor and author of *The Doctrine of Repentance*
+
+---
+
+---
+
+# Thus Says the Lord — Sermon Evaluation
+
+**File**: Sermon - Wear the Jersey.md
+**Text**: 1 Peter 1:1–9
+**Occasion**: Easter Sunday
+**Evaluator**: Thus Says the Lord Rubric
+**Date**: 2026-03-22
+
+---
+
+## 1. Verdict Title
+
+**An Easter Sermon With Excellent Election Doctrine and a Resurrection-Shaped Hole at Its Center**
+
+---
+
+## 2. One-Sentence Summary
+
+A Reformed, identity-driven Easter sermon that opens Gentile election with precision, deploys the *eklektos* word study and the basketball-team illustrations effectively, honors the Judy Ayers memorial with pastoral weight, and supplies a pointed "wear the jersey" exhortation — but preaches *about* the resurrection ("born again to a living hope through the resurrection") rather than preaching the resurrection itself, which is the singular theological occasion of Easter.
+
+---
+
+## 3. Berean Gate
+
+**PASS**
+
+**Scopus Test**: "God has sovereignly chosen elect exiles from every nation — including Gentiles who were 'not my people' — and through Christ's death and resurrection given us a living hope, an imperishable inheritance, and a new team identity: the duty to wear the jersey and live as who we are." Arises from 1 Peter 1:1–9. Pass.
+
+**Authority Test**: Election (God chose us, John 6:44) is not softened. Total depravity ("we who rejected God, and chose sin, and in doing so shattered creation") is named. The two possible outcomes at the final conversation ("Well done" or "Depart from me") are named without softening. Pass.
+
+> **Textual accuracy concern — KJV and *eklektos***: The sermon states the KJV "is missing words at this point" and "leaves the Greek word *eklektos* out altogether," attributing this to "fewer manuscripts of lesser quality." This is an overstatement. The Textus Receptus underlying the KJV *does* contain the Greek word *eklektos* in 1 Peter 1:1. The KJV renders the phrase *eklektois parepidemois* as "strangers scattered" — a translation decision, not a manuscript omission. The word study observation is correct and valuable; the textual criticism claim should be revised to: "The KJV's translation at this point renders 'elect exiles' as 'strangers scattered,' partly as a translation choice and partly due to working with fewer manuscripts — but the Greek text itself includes *eklektos*." Do not imply the word is simply absent from the manuscripts.
+
+---
+
+## 4. Fatal Flaw Flags
+
+**None triggered.** The gospel is present: Christ's death for sinners, the resurrection, the living hope of 1 Peter 1:3–9, the invitation to faith. The substitutionary element ("Christ died for us") is implied through the "guilty of Christ's death" framing.
+
+---
+
+## 5. Score Breakdown
+
+### 1. Exposition & Hermeneutics — 17/25
+
+- **Textual Fidelity (7/10)**: The sermon follows 1 Peter 1:1–9 structurally: (1) elect exiles (vv. 1–2), (2) a living hope through resurrection (v. 3), (3) imperishable inheritance (v. 4), (4) guarded through faith (v. 5), (5) trials and tested faith (vv. 6–7), (6) joy inexpressible (vv. 8–9). This is genuine textual fidelity. The *eklektos* word study is exegetically grounded. The exile/resident alien unpacking of *parepidemois* is correct. Minor deduction for the KJV textual claim (overstated) and for the sermon not returning to the text's specific language throughout — the word study section departs into general commentary rather than staying in 1 Peter 1.
+- **Contextual Awareness (4/5)**: The Gentile-inclusion material (three Pentecosts, Hosea 1, Romans 9:22–25) supplies rich canonical context for "elect exiles from the nations." The Acts 2/8/10 structure is accurate and illuminating.
+- **Exegetical Clarity (3.5/5)**: The *eklektos* definitions from BDAG, Liddell-Scott, Louw-Nida, and Moulton-Milligan are impressive and correctly glossed. The election doctrine arising from the word study is textually connected. The three-Pentecosts structure is a creative but accurate redemptive-historical observation.
+- **Logical Faithfulness (2.5/5)**: The "wear the jersey" application arises from "elect exiles" in v. 1 and from "do not love the world" in 1 John 2:15–16. It is thematically connected to 1 Peter 1 without being directly derived from a specific verse.
+
+**FCF**: "Our struggles mostly come back to forgetting which team we are on." Named in the introduction. Well-carried through the basketball illustrations and the final exhortation.
+
+### 2. Theology & Doctrinal Integrity — 14/18
+
+- **Christ-Centeredness (4/7)**: Christ is named throughout — his death, resurrection, the living hope he provides. But the resurrection — the singular theological occasion of Easter — is referenced rather than proclaimed. "We have hope. A living hope in verse 3, an imperishable inheritance" — but what happened on Easter Sunday, what the resurrection means, what it accomplished, what it guarantees — these are gestured at rather than preached. The Thomas Watson quote on stone-to-flesh regeneration is the sermon's most Christ-centered moment.
+- **Redemptive-Historical Awareness (3.5/3)**: The three Pentecosts, the Hosea trajectory, the "vessels of mercy" from Romans 9, the Gentile inclusion arc — this is excellent redemptive-historical awareness. One of the corpus's strongest in this category.
+- **Doctrinal Precision (3.5/4)**: Unconditional election, effectual calling (God "chased us down"), perseverance ("guarded through faith," 1 Peter 1:5), regeneration (Watson on stone to flesh) — all present and precise.
+- **Confessional Alignment (3/4)**: Reformed Baptist through-and-through. John 6:44, the sovereignty of election, the imperishable inheritance by God's power — all consistent with the 1689 Confession.
+
+### 3. Gospel Centrality & Force — 10/15
+
+- **Clarity of the Gospel (3.5/5)**: The gospel elements are present: we are guilty in Christ's death through our sin, God chased us down, Christ died (implied), rose again (stated in v. 3 reference), we have a living hope. But the mechanism of atonement — how Christ's death pays for our sin — is not stated. The sermon says "we are guilty of Christ's death" without explaining how Christ's death removes that guilt.
+- **Necessity of Christ (4/5)**: Christ's resurrection is the explicit anchor of the living hope in v. 3. Easter occasion gives necessary weight to Christ's person.
+- **Cross-Centered Gravity (2.5/5)**: The resurrection is referenced but not proclaimed. For an Easter sermon, the resurrection should be the sermon's center of gravity — not merely the warrant for a living hope, but itself the event being proclaimed. "Christ is risen" and what that means for every person in the room is the Easter occasion's unique contribution to the gospel, and this sermon doesn't fully cash that check.
+
+**Easter Sunday deficit**: An Easter sermon that primarily preaches Gentile election and identity doctrine — rather than the resurrection — has missed its unique occasion. The text (1 Pet 1:3: "born again to a living hope through the resurrection of Jesus Christ from the dead") demands that the resurrection be proclaimed, not just noted.
+
+### 4. Conscience & Applicatory Force — 12/15
+
+- **Heart Penetration (4.5/5)**: "I think if someone murdered my child, I'd be hard pressed to sit in the same room with the murderer, and yet God pursued us, and called us, and made us his children." This is the sermon's conscience-penetrating peak. The Judy Ayers memorial — she came home, laid down, took her last breath — and the closing "you don't know how much time you have left" is genuinely urgent. The "which team do you play for?" framing probes the practical conscience in a way that is direct and memorable.
+- **Specificity (4/5)**: The basketball player changing teams is specific enough to be concrete. The jersey-refusing boy is relatable. The "well done" or "depart from me" closing framing is as specific as an eternal outcome can be.
+- **Spiritual Differentiation (3.5/5)**: Believers (encouraged toward identity-consistent living) and unbelievers (the closing gospel invitation) are addressed. The Judy Ayers memorial moves across both groups effectively.
+
+### 5. Exhortation & Response — 6/8
+
+- **Call to Response (3.5/4)**: "Wear the jersey" is one of the more memorable exhortations in the corpus — concrete, specific, and arising from the sermon's governing illustration. The "which team do you play for?" question demands a personal answer. "Consider your actions" is direct.
+- **Equipping (2.5/4)**: The identity-first sanctification model ("struggles mostly come from forgetting which team we are on") is a genuine equipping insight. The 1 John 2:15–16 citation gives it textual grounding.
+
+### 6. Structure & Logical Flow — 8/9
+
+- **Clarity of Outline (4/4)**: Team name: Elect → Team name: Exiles → A Living Hope → Wear the Jersey → In Memoriam → Closing. Clear and progressive.
+- **Progression (3/3)**: Each section deepens: who we are (elect) → where we are (exiles) → what we have (living hope) → what that demands (wear the jersey) → the urgency of it (Judy Ayers). The escalation is well-managed.
+- **Unity (1/2)**: The jersey metaphor runs from opening to closing effectively. The word study section is slightly long relative to the overall flow.
+
+### 7. Illustration & Imagination — 4/5
+
+- **Relevance (2/2)**: The Charlotte-to-Celtics illustration is creative and effective for election/conversion — going from the worst team to the best, from death to life. The soccer kid scoring on his own team is a memorable image for sin as Christian. The jersey-refusing boy is perfect for the main application.
+- **Clarity (1/2)**: The North Korea illustration (waking up in a hostile foreign land) for "exile" is clear but slightly overwrought. The Watson quote is excellent and accessible.
+- **Memorability (1/1)**: "Wear the jersey." Two words. Goes home.
+
+### 8. Sermonic Force — 4/5
+
+- **Reads as Preaching (2/2)**: The "guilty of Christ's death" paragraph, the Watson quote, the Judy Ayers memorial — these read as genuine preaching. The word study section is more academic but is controlled enough not to slow the sermon.
+- **Conviction on the Page (1.5/2)**: The "well done/depart from me" closing is pointed. The Easter resurrection moment is where the conviction could have been sharpest and is instead understated.
+- **Cadence and Breath (0.5/1)**: The word study section runs a little long before the transition to "a living hope."
+
+---
+
+## 6. Cognitive Load Modifier — 0
+
+The word study is technical but managed well. The sermon is broadly accessible despite the election doctrine.
+
+---
+
+## 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 17/25 |
+| Theology & Doctrinal Integrity | 14/18 |
+| Gospel Centrality & Force | 10/15 |
+| Conscience & Applicatory Force | 12/15 |
+| Exhortation & Response | 6/8 |
+| Structure & Logical Flow | 8/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **75/100** |
+| Weight of Glory Bonus | +3 |
+| Cognitive Load Modifier | 0 |
+| **TOTAL** | **78/105** |
+
+**Interpretation**: Solid and worth preaching. Needs another pass on one element. The election doctrine is some of the corpus's best; the Easter occasion is the corpus's most missed opportunity.
+
+---
+
+## 8. Strengths (Top 3)
+
+1. **The *eklektos* word study**: Drawing from BDAG, Liddell-Scott, Louw-Nida, and Moulton-Milligan to establish "chosen, picked out, selected, made excellent, made beautiful" — and then connecting that to "God chose us despite our guilt in Christ's death" — is the kind of textual engagement that equips a congregation for a lifetime. The observation that God chose people who were "not his people" (Hosea 1, Romans 9:22–25) is both exegetically grounded and doxologically powerful. The inclusion of Gentiles in the covenant is genuinely gospel.
+
+2. **The Judy Ayers memorial and the urgency it creates**: "You don't know how much time you have left. You don't know when you'll take that last breath, you don't know just exactly when you'll meet God face to face." The sermon earns this urgency because Judy's death is fresh, specific, and real. The closing gospel dichotomy ("well done, good and faithful servant" or "depart from me, I don't know you") lands with full weight because the congregation has just been reminded that a person they knew took her last breath this week. This is pastoral preaching at its most effective.
+
+3. **The Thomas Watson quote on regeneration**: "Satan wanted Christ to prove his deity by turning rocks into bread, but Jesus has worked a far greater miracle by turning hard hearts of stone into flesh." This is the best use of a Puritan quotation in the corpus — it is a theological thunderclap in a sermon about God's initiating love. It does in two sentences what a paragraph of explanation could not. It also connects election doctrine to regeneration doctrine in a way that is both precise and experiential.
+
+---
+
+## 9. Critical Weaknesses (Top 3)
+
+1. **An Easter sermon about election that doesn't preach the resurrection**: 1 Peter 1:3 says we were "born again to a living hope through the resurrection of Jesus Christ from the dead." The resurrection is not merely the background to the living hope — it *is* the living hope. What does the resurrection mean? That death has been conquered. That the body will be raised. That Christ's vindication is our vindication. That because he lives, we will live also. An Easter congregation expects — and deserves — to hear the resurrection proclaimed, not just referenced. The word "resurrection" in v. 3 is the Easter gift Peter hands the preacher, and it was not fully opened.
+
+2. **The KJV textual criticism claim is overstated**: The statement that the KJV "leaves the Greek word *eklektos* out altogether" and attributes this to "fewer manuscripts of lesser quality" implies the word is *absent* from the manuscripts underlying the KJV. It is not. The Textus Receptus includes *eklektos* in 1 Peter 1:1. The KJV translates the phrase differently — rendering "elect exiles" as "strangers scattered" — but this is a translation decision, not a manuscript lacuna. This should be corrected before the sermon is preached again. The point the sermon is making (that *eklektos* is genuinely in the Greek and carries the weight of election) is true and valuable; the textual argument needs to be restated accurately.
+
+3. **The gospel's mechanism of atonement is absent**: The sermon says "we are guilty" but does not say how Christ removes that guilt. "Christ died for our sins" is implied but not stated. On Easter Sunday, when the congregation includes visitors and seekers, the sermon should at minimum state that Christ's death was the payment for our sin and his resurrection the proof of its sufficiency.
+
+---
+
+## 10. Surgical Fixes
+
+1. **Add a resurrection proclamation paragraph before the "A Living Hope" section**: "Two thousand years ago this weekend, something happened that changed everything. On the third day, the tomb was empty. The guards who were posted to prevent exactly that reported it to the chief priests, who paid them to lie. An empty tomb with no body. Mary thinking he was the gardener until he said her name. Two disciples on the road to Emmaus whose hearts burned within them. Thomas putting his fingers in the wounds. The same body, glorified, present, real. He is risen. And because he lives, this hope Peter is talking about is not a wish — it is a certainty. His resurrection is the guarantee of ours."
+
+2. **Correct the KJV textual criticism**: Change "the King James Version is missing words at this point — it leaves the Greek word *eklektos* out altogether, either as a poor translation choice or due to fewer manuscripts" to: "The King James Version renders this phrase as 'strangers scattered' — a translation that buries the election language. The Greek word *eklektos* is there in the text; the KJV simply didn't bring it across as fully as later translations have. When you read in the ESV or NIV 'elect exiles' — that's the Greek."
+
+3. **Add the atonement mechanism at the guilt paragraph**: After "we are guilty" add: "That guilt required a payment. Christ made it. The sinless Son of God took our sin onto himself and bore the judgment we deserved. 'He was pierced for our transgressions, he was crushed for our iniquities' (Isaiah 53:5). And then — on Easter — God raised him from the dead as the proof that the debt was fully paid. The resurrection is God the Father's receipt."
+

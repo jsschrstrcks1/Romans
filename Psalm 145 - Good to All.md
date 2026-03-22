@@ -209,3 +209,226 @@ Even you.
 **Hebrews 12:2 — "founder and perfecter"** — ESV (2011 revision) reads "the founder and perfecter of our faith." The pre-2011 ESV used "author and perfecter." Manuscript updated to current ESV ("founder and perfecter"). Either rendering is defensible depending on which ESV edition is in use; note for consistency.
 
 **Lou's story / Chad missionary account.** Presented as a real account from the pastor's personal connection to a missionary friend. No identifying names used in the manuscript. If used in any print or broader distribution context, verify that the missionary friend and Lou are comfortable with the account being shared publicly.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Pastoral Warmth with a Gospel Placeholder — The Sermon Arrives at the Door but Doesn't Enter**
+
+---
+
+### 2. One-Sentence Summary
+A warmly told opening of Psalm 145 that magnified the goodness and mercy of God with genuine pastoral heart, while leaving the gospel literally bracketed as a placeholder and the psalm's full argument only partially excavated.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with reservation.**
+
+*Scopus Test:* The sermon's thesis — "The LORD is good to all, and his mercy is over all that he has made" — arises directly from verse 9 and is reinforced by the psalm's chiastic structure. The sermon stays in genuine orbit around the text.
+
+*Authority Test:* The preacher submits to the text's claims and does not soften or reframe them. He handles the universality of God's goodness honestly, including the uncomfortable implication that even those who crucified Christ fall within the scope of that mercy.
+
+The reservation: the psalm's *acrostic* praise-structure and its robust theology of God's sovereignty, kingdom, and reign (vv. 11–13) receive almost no development. The sermon rightly identifies the chiastic axes but then mostly lists verses in reverse order without developing the psalm's own argument. The main point is present; it could be more fully inhabited.
+
+---
+
+### 4. Fatal Flaw Flags
+**FLAG TRIGGERED: Fatal Flaw #1 — No clear gospel presentation.**
+
+The sermon explicitly acknowledges the need to present the gospel, and contains a gospel-adjacent section — but then marks it only as:
+
+> *[Gospel presentation]*
+
+This is a placeholder, not a proclamation. What should be the sermon's most load-bearing moment — where Christ's finished work is actually declared — is absent from the manuscript. The surrounding paragraphs gesture toward the gospel (sin, death of Christ, mercy) but do not articulate justification by faith, the substitutionary nature of the atonement, or what it means to call upon the Lord. Penal substitution is implied by the crucifixion narrative, never stated. The invitation ("not all of these promises are for you...that starts with the gospel") arrives, and then the sermon hands the hearer a blank page.
+
+**Score is capped at 69.**
+
+No additional fatal flaw flags triggered.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 17/25**
+
+- *Textual Fidelity (10):* 7/10. The sermon genuinely derives its argument from verse 9 and correctly identifies the chiastic structure. However, substantial portions of the psalm — the kingdom/reign passages (vv. 11–13), the feeding/provision passages (vv. 15–16), the wrath-toward-the-wicked passage (v. 20b) — are only listed, not exposited. The acrostic structure is noted in the source notes but not in the sermon. Several verses receive only a one-line gloss. A listener could not reconstruct the psalm's argument from this sermon.
+- *Contextual Awareness (5):* 3/5. The placement of Psalm 145 as the final individual psalm before the Hallel (146–150) — and its role as the only psalm titled "A Praise of David" (tehillah) — goes unmentioned. The psalm as the culmination of the Psalter's praise trajectory is a significant contextual feature.
+- *Exegetical Clarity (5):* 4/5. The chiasm explanation is accessible and helpful. The note on "all" (kol) as the psalm's organizing word is implied but not explicitly developed.
+- *Logical Faithfulness (5):* 3/5. The sermon does not impose meaning, but the walk-through section (vv. 14–20 in reverse) functions more as a list than an argument. The text's own logic — praise arising from who God is and what he does — is present but not built rigorously.
+
+*FCF:* The Fallen Condition Focus is implicit — human guilt, ingratitude, and failure to praise — but never named as such. The ingratitude illustration (the dinner companion, the child who dislikes gifts) lands well practically but isn't explicitly connected to the condition the psalm was written to address.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness (7):* 5/7. The Longinus narrative and the connection between the psalm's mercy-to-all and Christ's crucifixion is the sermon's strongest theological move. It is organically earned by the text's claims, not artificially bolted on. However, the Christological connection could be made more precise — the cross as the supreme demonstration of God's goodness and mercy toward undeserving sinners deserves fuller statement.
+- *Redemptive-Historical Awareness (3):* 2/3. The sermon reads the psalm christologically through the crucifixion but does not place it in the Psalter's redemptive-historical arc or connect it to the Davidic covenant's eschatological fulfillment in Christ.
+- *Doctrinal Precision (4):* 3/4. No serious doctrinal errors. The statement "we are all just as guilty as Longinus" is theologically sound. The treatment of sin as corporate guilt in Christ's death is handled carefully.
+- *Confessional Alignment — 1689 Pulse (4):* 3/4. No contradictions of confessional theology. The common grace dimension of "good to all" is touched but not developed with confessional precision (the 1689's treatment of God's goodness in providence vs. saving grace would sharpen this considerably).
+
+**3. Gospel Centrality & Force — 7/15**
+
+This is the sermon's most significant failure. The framework is present — sin, guilt, the death of Christ, mercy extended — but the finished work of Christ is never proclaimed. The bracketed "[Gospel presentation]" is not a sermon; it is a stage direction. What would an unbeliever hear? That they are "no worse than those who swung the hammer," that "the LORD is good to all," and that "not all of these promises are for you." But they would not hear how those promises become theirs — not in this manuscript.
+
+- *Clarity of the Gospel (5):* 2/5. Justification by faith is not articulated. The mechanism of salvation is absent.
+- *Necessity of Christ (5):* 3/5. Christ is clearly necessary to the illustrations and argument — the cross is central to the setup. But the necessity of his atoning work *for the hearer* is gestured at, not declared.
+- *Cross-Centered Gravity (5):* 2/5. The cross is present as narrative backdrop but not as the sermon's gravitational center. The sermon moves toward "praise God" rather than toward the cross and what it accomplished.
+
+**4. Conscience & Applicatory Force — 10/15**
+
+- *Heart Penetration (5):* 4/5. The Lou story is genuinely searching. The question "Could you extend God's grace to the man who killed your child?" lands with real weight. The ingratitude illustration is accessible.
+- *Specificity (5):* 3/5. The application to gratitude ("keep your focus on God... let the rest of the junk fade") is present but somewhat generic. It doesn't reach the specific congregation — the politically anxious, the grieving, the person in chronic pain who can't muster praise.
+- *Spiritual Differentiation (5):* 3/5. The sermon distinguishes believers and unbelievers (briefly, near the end). It does not meaningfully address the backslider, the humbled-but-not-yet-believing, or the knowledgeable-but-unmoved. Perkins' seven categories are largely unaddressed as distinct needs. The self-righteous person — the one who would never have swung the hammer — is never cornered.
+
+**5. Exhortation & Response — 5/8**
+
+- *Call to Response (4):* 2/4. The sermon tells believers to praise God and offers an invitation to unbelievers — but the actual call is thin. "We should praise him" is stated but not pressed with urgency. The "therefore" moment never fully arrives.
+- *Equipping for Holiness & Witness (4):* 3/4. The call to "tell everyone we encounter" about God's mercy and to "commend God to the next generation" is specific and actionable. This is one of the sermon's stronger closing moves.
+
+**6. Structure & Logical Flow — 7/9**
+
+- *Clarity of Outline (4):* 3/4. The sermon has a discernible shape: opening narrative → text → verse 9 as keystone → Longinus → our guilt → praise section → application → gospel appeal. A listener could roughly follow this, though it is not a crisp outline they could sketch.
+- *Progression (3):* 2/3. The reverse-verse walkthrough (14 → 19 → 16 → 15 → 14 → 13 → 7 → 5–6 → 1–3 → 4) reads as a list rather than a building argument. The sermon plateaus rather than climaxes.
+- *Unity (2):* 2/2. One dominant idea throughout — the goodness and mercy of God toward all — held consistently.
+
+**7. Illustration & Imagination — 4/5**
+
+This is one of the sermon's clearest strengths.
+
+- *Relevance (2):* 2/2. The Lou story is local and real. The mafia/corrupt court illustration is creative and earned. The ungrateful gift-recipient illustration is immediate.
+- *Clarity (2):* 1/2. The opening mafia illustration is effective but runs long before the payoff. Some listeners may lose the thread before arriving at the crucifixion connection.
+- *Memorability (1):* 1/1. Lou's story will be remembered.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2):* 2/2. Oral cadence is strong. The sermon reads as spoken, not written.
+- *Conviction on the Page (2):* 1/2. The middle section (verse walkthrough) loses sermonic energy. It reads as notes rather than proclamation.
+- *Cadence and Breath (1):* 0/1. Sentence variation is present in the opening narrative but flattens in the expository section.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+
+The sermon is accessible. The opening narrative is clear and the chiasm explanation is well-handled. The verse walkthrough in reverse is slightly confusing structurally (moving backward through the psalm without explicit framing) but not overwhelming. A single mother or new believer could follow the main argument. Slightly dense in the middle section.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 17/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 10/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **66/100** |
+| Weight of Glory (bonus) | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **67/100** |
+
+**Score capped at 69 due to Fatal Flaw Flag #1 (gospel placeholder, not proclamation).**
+
+Final score: **67 — Concerning gaps. Significant revision needed.**
+
+*Note: Without the fatal flaw, the raw score of 67 would still land in this band. The flaw is structural, not incidental.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+More of Christ — genuinely. The Longinus narrative and the Lou story both redirect toward the mercy of Christ rather than toward self-improvement. Score: Yes.
+
+2. **Did I encounter God, or just ideas about Him?**
+Partially. The Lou story creates a genuine encounter with the weight of grace. The expository section is more informational. Score: Partially.
+
+3. **Was I comforted, convicted, or merely informed?**
+The believer is comforted. The ingratitude illustration convicts mildly. The unbeliever is pointed toward the door but not brought through it. Score: Partial conviction; comfort strong; primarily informational in the middle.
+
+---
+
+### 9. Strengths (Top 3)
+
+**Strength 1: The Longinus narrative is the sermon's most powerful theological move.**
+Connecting "The LORD is good to all" (v. 9) to the man who drove the spear into Christ's side is not a gimmick — it is an organically earned application of the text's claim. The transition from the mafia illustration to Longinus to Lou to "we are all just as guilty" is carefully constructed and theologically honest. This deserves to be the sermon's gravitational center.
+
+**Strength 2: The Lou story lands with genuine pastoral weight.**
+The account of Lou embracing his daughter's killer in a Chad prison is not an anecdote deployed for effect — it is a lived instantiation of the psalm's thesis. It will be remembered. It searches the conscience without being manipulative.
+
+**Strength 3: The chiasm identification is accessible and helpful.**
+The explanation of the two chiastic axes (vv. 8–9 and vv. 17–18) is clear enough for a general congregation and does real exegetical work. It shows the hearer *why* verse 9 is the keystone, not just *that* the preacher thinks it is.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+**Weakness 1: The gospel is a placeholder, not a proclamation.**
+The manuscript marks "[Gospel presentation]" but provides none. The surrounding paragraphs gesture toward the gospel but do not articulate justification by faith, the substitutionary nature of the atonement, or what response looks like. This is the sermon's most significant failure. The preacher brings the unbeliever to the threshold and hands them a bracket.
+
+**Weakness 2: The reverse verse-walkthrough functions as a list, not an argument.**
+The section listing verses 14, 19, 16, 15, 13, 7, 5–6, 1–3, and 4 in loose reverse order reads as a tour of the psalm rather than an exposition of it. One-line glosses ("He upholds all who are falling") without development do not constitute exegesis. The psalm's movement and argument — from God's nature (vv. 1–9) to God's works (vv. 10–20) to the double response of praise and proclamation — is not tracked.
+
+**Weakness 3: The application to gratitude is generic and does not reach the congregation's real heart-conditions.**
+"Keep your focus on God and let the rest of the junk fade" is pastoral but imprecise. It does not reach the believer in chronic suffering whose psalmic praise feels impossible, the person who is not ungrateful but despairing, or the self-righteous person who never felt they had much to forgive. The application stays at the surface of "praise more, complain less" without pressing into the specific resistance to praise that the congregation actually brings.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears not to see that Psalm 145 is a psalm about *God's kingdom* (vv. 11–13 use "kingdom" three times in three verses) as much as about his goodness. The psalm's climax is not only that God is merciful but that his kingdom is everlasting and his kingship is just. The eschatological dimension — that this praise anticipates the consummation of all things — is missing. The sermon domesticates the psalm into a personal encouragement toward gratitude when the psalm is also a declaration of cosmic sovereignty.
+
+Additionally, the preacher does not appear to see that the psalm's own pairing of *wrath* (v. 20b: "all the wicked he will destroy") and *mercy* creates a law/gospel dynamic the sermon does not exploit. The goodness of God to all does not mean the ultimate salvation of all. The psalm itself distinguishes those who fear God (v. 19) from the wicked (v. 20b) — a distinction the sermon mentions only in passing.
+
+---
+
+### 12. Illusion of Strength
+
+The opening double illustration (the mafia/corrupt court narrative, followed by Lou's story) is strong — but the strength of the opening creates the illusion that the sermon's theological work is done before the psalm is read. The sermon front-loads its most emotionally resonant material, so the expository section that follows feels like a step down rather than a building argument. The illustrations are the sermon's strongest moments, but they are deployed before the text rather than arising from it. The result is a sermon that *feels* like it culminates in Lou's story, when in fact the text's own climax has not yet been reached.
+
+---
+
+### 13. Missed Opportunity
+
+The psalm's acrostic structure — each verse beginning with successive Hebrew alphabet letters — is a pastoral opportunity the sermon does not take. The acrostic communicates that praise is to be *total* and *complete*, "from A to Z," covering every letter of human experience. The fact that the psalm cycles through the entire alphabet while speaking only of God's goodness is a sermonic argument in itself: there is no corner of life from which praise is inappropriate, and no circumstance in which God's goodness is absent. This structural feature would have powerfully reinforced the sermon's "all" thesis.
+
+---
+
+### 14. Surgical Fixes (3–5 Specific)
+
+**Fix 1: Write the gospel presentation — do not bracket it.**
+The "[Gospel presentation]" placeholder must be replaced with an actual articulation of the gospel. At minimum: God is holy and we are sinners whose guilt required the death of his Son; Christ died in our place, bearing the wrath we deserved; he rose, vindicating his work; those who repent and trust in him alone receive forgiveness and are declared righteous. This is not optional content — it is the sermon's essential claim.
+
+**Fix 2: Restructure the verse walkthrough as a tracked argument.**
+Rather than listing verses in reverse order, trace the psalm's two movements: (1) Who God is (vv. 1–9) and (2) What God does (vv. 10–20), with the double response of the saints (praise and proclamation) in vv. 10–11 and 21 as the frame. Develop three or four verses fully rather than touching twelve superficially.
+
+**Fix 3: Add a direct address to the self-righteous after the "guilty as Longinus" section.**
+The sermon correctly says "we are all just as guilty as Longinus" but then moves immediately to comfort. There is no address to the person who does not feel guilty — who attends church, gives money, and is broadly moral. The psalm's own logic (God is good to *all*, including those who don't know they need his mercy) demands a word for the person who doesn't think they swung the hammer. Something like: "And some of you right now are thinking — I'm not like Longinus. I've been pretty good. And to you the psalm says: he is good to *all* — including those who haven't yet felt the weight of what they owe."
+
+**Fix 4: Develop the psalm's kingdom dimension (vv. 11–13) and its bearing on the sermon's thesis.**
+Three consecutive verses use the word "kingdom." This is not incidental. The sermon that God is good to all must account for the fact that this good God is also the sovereign King whose kingdom will not end and who will ultimately "destroy all the wicked" (v. 20b). The goodness of God includes his justice. Developing this would sharpen the gospel presentation: God's mercy is not softness — it cost the death of his Son to extend goodness to those who deserved destruction.
+
+**Fix 5: Move the Lou story to after the expository section, not before.**
+The Lou story is the sermon's most powerful moment. Currently it is deployed before the text is read. Moving it to the point where the gospel presentation belongs — as a lived illustration of what grace extended actually costs and looks like — would give it greater textual grounding and allow it to serve the gospel appeal rather than only the introduction.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon has warmth and pastoral heat. It is not bloodless. The weakness is incomplete gospel articulation, not cold orthodoxy.
+
+---
+
+### 16. Weight of Glory Statement
+The Lou story carries genuine eternal gravity, and the Longinus connection earns its emotional weight — but the sermon as a whole does not reach the doxological altitude the psalm itself occupies, because it stops short of declaring the full gospel that makes that praise possible.
+
+**Bonus: +2/5**
+
+---
+
+### 17. Rubric Fit Note
+Psalm 145 is praise poetry — a genre the rubric handles well in most categories, but the Conscience & Applicatory Force categories (particularly Perkins' taxonomy) strain slightly against a praise psalm, which is less diagnostically differentiated by design. The psalm is addressed to God, not to a congregation of hearers with distinct spiritual conditions. The rubric's demand for Perkins-style differentiation is slightly less native here than it would be in a Pauline epistle or a prophetic text. That said, the preacher is responsible for applying the psalm's implications to different hearers — the rubric's expectations in this category are fair even if the text doesn't do the differentiation work itself.

@@ -97,3 +97,194 @@ Sound system - ~1000$ Set money aside monthly towards it.
 - **"10% of people do 90% of the work"** *(unverified statistic)*: Common pastoral observation. No source cited. Treat as illustrative, not empirical.
 - **"head of the international missions board"** *(unnamed figure)*: The pastor identifies the seminary friend as a former IMB president. This likely refers to a specific individual. If identified, the name can be added when polishing.
 - **Announcements section** *(pastoral notes)*: Lines 78-88 are service announcements and a business meeting agenda. These are not part of the sermon manuscript proper and can be removed in any polished version.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date**: 2026-03-21
+**Sermon**: 1 Corinthians 12:12-27 — Commitment to the Body
+**Primary Text**: 1 Corinthians 12:12-27
+
+---
+
+### 1. Verdict Title
+**A Pastorally Warm Defense of Church Membership That Preaches Conviction Without Completing the Gospel**
+
+---
+
+### 2. One-Sentence Summary
+A sermon with genuine pastoral heat, strong illustrative material, and a real theology of the church body, that nevertheless treats the gospel as an item to be gestured toward rather than proclaimed, and whose applicatory force is largely absorbed by the preacher's own experience rather than the text's argument.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test**: PASS. The sermon's thesis — that Christians are called to committed membership in a local church body because they are members of Christ's body — does arise from 1 Corinthians 12:12-27's argument. Paul's body-metaphor is the primary textual driver.
+
+**Authority Test**: PASS. The preacher does not soften the text's corporate demands. The uncomfortable call to commitment and mutual accountability is pressed honestly, including against his own congregation's tendencies.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG TRIGGERED: Fatal Flaw #1 — No clear gospel presentation**
+
+The sermon gestures toward the gospel twice: "That walk towards Christ begins with the gospel" and "Gospel" appearing as a standalone word at line 73, following "All of that starts with Romans 3:23." Neither constitutes a proclamation. Romans 3:23 is invited to be read aloud but then the manuscript gives no content — "Gospel" appears as a sermon note placeholder, not as delivered content. A first-time visitor or seeking unbeliever would leave knowing they need to join a church but not knowing what the gospel actually is or how to be saved.
+
+**Score capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 16/25**
+
+- *Textual Fidelity (7/10)*: The body-metaphor from 1 Corinthians 12 is the governing frame throughout. The sermon returns to the passage at least twice (vv. 21-27 re-read). The argument from the text is traceable. However, the passage is treated as a launching platform for cultural observations and personal anecdotes rather than as the primary driver — the text is used to validate the sermon's existing conclusion rather than generate it.
+- *Contextual Awareness (3/5)*: The sermon correctly identifies the corporate dimension of the passage and sets it against American individualism effectively. The broader context of 1 Corinthians 12 (spiritual gifts, diversity of the body) is acknowledged but not developed.
+- *Exegetical Clarity (3/5)*: No exegesis of specific terms. The body metaphor is explained via application, not via Paul's own argument. What does Paul mean by "greater honor to the inferior part" (v.24)? The sermon does not ask.
+- *Logical Faithfulness (3/5)*: The sermon is faithful to the passage's general thrust. No eisegesis. But the argument flows from the preacher's pastoral experience more than from Paul's reasoning.
+- *Fallen Condition Focus*: Identified — American individualism, self-centeredness, and consumer Christianity. Well and specifically named.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness (5/7)*: "Christ's death binds us together as one body. Christ's resurrection binds us together in hope. Christ's word binds us together in Truth. Christ's ministry binds us together in purpose." This is the sermon's best theological moment — Christ is the ground of corporate unity, not merely the inspiration for it.
+- *Redemptive-Historical Awareness (2/3)*: The connection between the gospel and church membership is stated. The covenantal dimension of the body-of-Christ language is not developed.
+- *Doctrinal Precision (3/4)*: No theological errors. The ecclesiology is sound — church membership as covenant commitment rather than consumer choice.
+- *Confessional Alignment (3/4)*: Consistent with a Baptist ecclesiology. No contradictions of confessional theology. The priority of Word over experience is stated clearly.
+
+**3. Gospel Centrality & Force — 7/15**
+
+- *Clarity of the Gospel (1/5)*: The gospel is named as a starting point and as a placeholder note, but is not preached. "Gospel" appearing as a standalone manuscript note is not a scored item.
+- *Necessity of Christ (4/5)*: Christ is presented as the ground of church unity — not decorative. "Christ's death binds us together" is a genuine theological statement.
+- *Cross-Centered Gravity (2/5)*: The cross appears twice — once in the four-line conclusion about what binds the church, and once in the Romans 3:23 reference. Neither develops substitutionary atonement or moves the sermon toward the cross as the source of the church's life.
+- *Synagogue Test*: Borderline. The sermon's main content (commit to the church, bear with one another, prioritize corporate life over consumer preference) could be heard by a synagogue member as an exhortation toward synagogue membership. The specifically Christian basis — union with Christ by faith, justified by his blood — is stated but not developed.
+
+**4. Conscience & Applicatory Force — 11/15**
+
+- *Heart Penetration (4/5)*: The sermon genuinely corners the consumer Christian. The line "If you don't like Christ's bride, maybe it's really Christ you don't like" is sharp and memorable. The preacher's own confession of prior church-hopping adds pastoral credibility. The Dottie/Brenda/Dalia illustrations ground the body-metaphor in specific, named, living people.
+- *Specificity (4/5)*: The sermon is highly specific — named congregation members, real scenarios, the food pantry, Thursday clubs. This is congregationally native application.
+- *Spiritual Differentiation (3/5)*: The sermon addresses the backslider/church-hopper (Perkins 6), the believer (5), and the nominal Christian (3). The genuinely unconverted is largely unaddressed.
+- *Perkins' Seven Categories*: Categories 3 (knowledgeable-but-unhumbled), 5 (believers), and 6 (backsliders) are addressed with some specificity. Categories 1, 2, 4 receive little.
+
+**5. Exhortation & Response — 6/8**
+
+- *Call to Response (3/4)*: The sermon calls for commitment to the body directly and specifically. The membership invitation is concrete. The "If you love Jesus, commit to his church" call is genuine exhortation. Loses a point because the gospel call is a placeholder, not a delivered exhortation.
+- *Equipping for Holiness & Witness (3/4)*: The sermon equips for corporate faithfulness and mutual edification. The church-planting vision at the end extends the call beyond maintenance toward mission. "I would love for us to be a church that plants another church in the place of greatest spiritual need" — this is missional.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline (2/4)*: The sermon lacks a clear structural spine. It moves from the opening anecdote to cultural diagnosis to text to personal testimony to application in a flowing but not tightly organized way. A listener could not sketch an outline on a napkin.
+- *Progression (3/3)*: The sermon does build — from the opening dating story to Paul's body metaphor to the call for commitment. The arc is present even if the joints are loose.
+- *Unity (1/2)*: One dominant idea, but the sermon spreads across too many sub-themes (church hopping, American individualism, giving, near-eastern hospitality, the preacher's own past). The thesis is present but competes with the commentary.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2)*: The dating anecdote is congregation-appropriate and sets up the main theme well. Dottie's leg, Dalia's chemo-and-still-comes, Brenda-drove-not-feeling-well — these are native to this congregation and deeply human.
+- *Clarity (1/2)*: Most illustrations illuminate. The dating story is slightly long in setup. The dirty diaper illustration is effective.
+- *Memorability (1/1)*: "If you don't like Christ's bride, maybe it's really Christ you don't like" will be remembered. The Dalia illustration may be the most moving moment in any of the evaluated sermons.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2)*: Oral register throughout. Direct address, humor, congregational callouts by name.
+- *Conviction on the Page (1/2)*: The sermon has real pastoral heat. But the conviction is driven more by anecdote than by the text. The most powerful lines are autobiographical, not expository.
+- *Cadence and Breath (0/1)*: The sermon sprawls. Sentence variation exists but there is no climactic compression — the sermon ends with announcements rather than on a note of authority.
+
+---
+
+### 6. Cognitive Load Modifier: **−1**
+
+The sermon covers significant ground — cultural critique, personal testimony, ecclesiology, body metaphor, giving, church-planting vision, gospel call, communion — in a single manuscript. The congregation can broadly track it, but the lack of clear structure makes the load harder than it needs to be.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 16/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 11/15 |
+| Exhortation & Response | 6/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **66/100** |
+| Cognitive Load Modifier | −1 |
+| Weight of Glory Bonus | +2 |
+| **Uncapped Total** | **67** |
+| **Score (capped — Fatal Flaw #1)** | **67/100** |
+
+**Interpretation**: Concerning gaps — score capped by fatal flaw. The ecclesiology is sound and the pastoral warmth is genuine, but the gospel is a placeholder. Band: 60–69 (with fatal flaw).
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* The sermon consistently points outward to the body and the church's mission. Partially Christ-directed; the body-of-Christ language is genuinely corporate.
+2. *Did I encounter God, or just ideas about Him?* The Dalia illustration comes close to an encounter — a woman undergoing chemotherapy who still shows up to teach children because of her love for Christ and his church. That is God on display. The sermon as a whole is more sociological than doxological.
+3. *Was I comforted, convicted, or merely informed?* The congregation is genuinely convicted about consumer Christianity. The already-committed believer is both affirmed and challenged. The seeker is informed but not confronted with the gospel.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Dalia illustration**: A woman taking chemotherapy to feel better who still shows up on Thursday nights to teach children because of her commitment to the body — this is not an abstraction. This is the body of Christ made visible in one woman's sacrifice. It is the sermon's most powerful moment and earns full credit for the illustration category.
+2. **The ecclesiological conviction**: "If you don't like Christ's bride, maybe it's really Christ you don't like" is a pointed and accurate pastoral diagnosis. The preacher is not soft on consumer Christianity and has the credibility of his own confession: "It took a long time to realize the problem was me."
+3. **The four-line theological summary**: "Christ's death binds us together as one body. Christ's resurrection binds us together in hope. Christ's word binds us together in Truth. Christ's ministry binds us together in purpose." This is compact, memorable, and confessionally sound. It is the closest the sermon comes to a doctrinal center.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is a manuscript placeholder, not a proclamation**: "Gospel" appearing as a standalone word at line 73 is a preaching note indicating where the preacher planned to present the gospel verbally. In a sermon manuscript this constitutes an absence. Whatever was preached in that moment, it is not part of the evaluable text.
+2. **The structural spine is too loose**: The sermon moves through too many sub-themes without a clear organizing principle. The congregation is carried by the preacher's energy and pastoral warmth rather than by a traceable argument. A three-point sermon with clear divisions from the passage would serve this material better.
+3. **The text's own argument is underused**: Paul's body metaphor in 1 Corinthians 12:12-27 includes specific claims the sermon does not explore: the weaker members are indispensable (v.22), God has so composed the body that there is no division (v.25), if one member suffers all suffer (v.26). These are exactly the claims that support the sermon's thesis — and they come from the text, not from the preacher's pastoral experience. The text was there waiting to be used more fully.
+
+---
+
+### 11. Blind Spots
+
+The preacher's own pastoral experience — his personal conversion from church-hopper to committed pastor — is the de facto center of gravity in the sermon's middle section. This is not wrong, but it risks the listener concluding that commitment to the church is primarily about maturity and growth (a human process) rather than about union with Christ's body through the gospel (a divine reality). The preacher's story is compelling; it should be subordinated more clearly to Paul's argument.
+
+---
+
+### 12. Illusion of Strength
+
+The congregation-specific illustrations (Dalia, Brenda, Dottie) create a powerful sense of pastoral presence and earned authority. The sermon feels deeply rooted in real relationships. But this rootedness in the congregation's specific life can mask the fact that the text's own argument has not been rigorously followed. The illustrations prove the point; they do not arise from the text. The sense of depth is real — but it is relational depth, not expository depth.
+
+---
+
+### 13. Missed Opportunity
+
+1 Corinthians 12:26 — "If one member suffers, all suffer together; if one member is honored, all rejoice together" — is not quoted in the sermon, yet the Dalia illustration is a living embodiment of it. The preacher had the perfect textual anchor for his best illustration and did not use it. Quoting v.26 immediately before the Dalia story would have bound text to application with surgical precision.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Write out the gospel content that the placeholder note "Gospel" represents**: Even three sentences — the problem of sin before a holy God, Christ's death bearing that wrath in our place, the invitation to trust him alone — transforms a preaching note into a proclamation. This is non-negotiable for the fatal flaw to be resolved.
+2. **Quote 1 Corinthians 12:26 before the Dalia illustration**: "If one member suffers, all suffer together." Then: "Dalia is on chemotherapy. And she was here on Thursday night anyway." The text illuminates the illustration; the illustration proves the text.
+3. **Tighten the structure to three visible points**: e.g., (1) The body is one — mutual belonging (vv.12-14), (2) The body needs every part — mutual necessity (vv.15-21), (3) The body bears one another — mutual suffering and honor (vv.22-27). This gives the congregation something to carry home.
+4. **Cut or sharpen the cultural commentary sections**: The near-Eastern hospitality comparison, the American individualism discussion, and the grandmother illustration are all useful but collectively too long. Each needs a direct textual tie-in to stay in the sermon.
+5. **End on the four-line Christ summary, not on announcements**: "Christ's death binds us together as one body. Christ's resurrection binds us together in hope. Christ's word binds us together in Truth. Christ's ministry binds us together in purpose." This line should close the sermon. The announcements are pastoral necessity; they should not be the sermon's last register.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** This sermon has genuine pastoral fire. The convictions are real, the love for the congregation is evident, and the call is honest.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The Dalia illustration alone carries more eternal gravity than many carefully crafted sermons. A woman bearing her cross literally — chemotherapy, weakness, still showing up — is the weight of glory made visible in one congregation's life. The sermon earns its bonus for that moment. **+2/5**
+
+---
+
+### 17. Rubric Fit Note
+
+The rubric applies well to this pastoral-ecclesiological sermon. 1 Corinthians 12 is epistolary and propositional, making the Exposition and Theology categories straightforward to apply. The sermon's genre (pastoral exhortation on church membership) fits naturally within the rubric's categories. No special genre considerations.
+

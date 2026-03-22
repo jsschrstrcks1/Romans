@@ -289,3 +289,210 @@ The judgment seat of Christ is coming.
 And it will end all our petty judging forever.
 
 Let's pray.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### Verdict Title
+A Textually Grounded, Pastorally Layered Exposition That Needs a Sharper Gospel Center and Deeper Exhortatory Edge
+
+### One-Sentence Summary
+A faithful opening of Romans 14:10-12 that magnified the humbling logic of the bēma and delivered strong pastoral differentiation, while leaving justification underdeveloped and the exhortatory call slightly diffused.
+
+---
+
+### Berean Gate
+
+**Scopus Test**: Pass. The sermon's thesis — "There is one Judge, and it is not you; therefore release your brother and account for yourself" — arises demonstrably from the passage's own argument in vv. 10-12.
+
+**Authority Test**: Pass. The preacher submits to the text's uncomfortable claims, including the kinism section, which presses a point Paul's argument demands. No softening of the judgment seat or its implications is detectable.
+
+---
+
+### Fatal Flaw Flags
+
+No fatal flaw flags triggered. All six categories are addressed at some level:
+
+1. Gospel is present — see the "To the One Afraid of Judgment" section and the Romans 8:1 citation. However, it is underdeveloped relative to the sermon's length. No cap applied, but flagged as a weakness below.
+2. Main point equals text's point — confirmed.
+3. Christ is necessary — the bēma is His, His lordship over the living and dead is cited (14:9), and the cross appears explicitly in the pastoral section.
+4. Application is differentiated — four distinct hearers are addressed in the pastoral landing.
+5. Exhortation is present — "Put down the gavel. Release your brother to the Lord who bought him."
+6. Accessibility — the sermon is clear and followable for ordinary hearers. The Greek terms (bēma, exomologeō) are explained in plain terms immediately upon introduction.
+
+---
+
+### Score Breakdown
+
+**1. Exposition & Hermeneutics — 21/25**
+
+- *Textual Fidelity* (8/10): The sermon follows vv. 10-12 with genuine care. The bēma is explained. The Isaiah 45:23 citation is set in its OT context before Paul's application is traced. The Philippians 2:10-11 cross-reference is organic, not decorative. However, the sermon opens with a lengthy Romans 1-3 recap that, while rhetorically effective, takes four paragraphs before landing in the text proper. The longest stretch without returning to the passage is the kinism section, which is pastorally necessary but exegetically thinly tethered to vv. 10-12 specifically.
+- *Contextual Awareness* (4/5): The broader Romans 14 context (weak/strong, secondary matters) is well-established. The sermon correctly identifies who "judge" and "despise" are aimed at (v. 10a). Romans 14:9 is rightly invoked. The series context ("Walking in Daylight") is present and helpful.
+- *Exegetical Clarity* (5/5): The two Greek terms (bēma, exomologeō) are introduced and explained accessibly. The distinction between "forced submission" and "recognition" in the confession is a small but genuine exegetical point.
+- *Logical Faithfulness* (4/5): The sermon's logic is faithful to Paul's argument. The kinism application, while important and needed, reads as an importation rather than an organic development — it is not wrong, but the bridge from vv. 10-12 to kinism could be more explicitly exegetical. The "each of us — himself" section is the strongest logical moment.
+
+*Fallen Condition Focus*: Implicit rather than named. The FCF is roughly "the pride that places oneself in the Judge's seat" — present in the structure but never stated with the clarity that would sharpen both exposition and application.
+
+---
+
+**2. Theology & Doctrinal Integrity — 15/18**
+
+- *Christ-Centeredness* (6/7): Christ is present throughout — the bēma is His, His lordship over the living and dead is cited (14:9), and the cross appears explicitly in the pastoral section. The connection between Isaiah 45 and Christ is made organically. Loses one point because the organic Christology of the passage (Lord of the dead and the living, 14:9) is developed more in summary than in depth.
+- *Redemptive-Historical Awareness* (2/3): The Isaiah 45:23 / Philippians 2:10-11 / Romans 14:11 chain is handled competently. However, the sermon does not pause to note why it is significant that Paul — a Jewish theologian writing to a mixed Jewish-Gentile church — quotes YHWH-language and applies it to Christ. That move is enormously significant and is treated as assumed rather than proclaimed.
+- *Doctrinal Precision* (4/4): No theological sloppiness. Justification language is correct when used. "Hidden in Christ" is good. Romans 8:1 is cited accurately. The "fellow defendant who got pardoned" formulation is vivid and doctrinally sound.
+- *Confessional Alignment — 1689 Pulse* (3/4): Consistent with confessional theology. The kinism section reflects a proper understanding of the unity of the redeemed across ethnicity (cf. 1689 26.1). The sermon does not engage covenant categories, which is not required here, but the "fellow defendant who got pardoned" could have been sharpened with more precision about imputed righteousness.
+
+---
+
+**3. Gospel Centrality & Force — 10/15**
+
+This is the sermon's most significant gap.
+
+- *Clarity of the Gospel* (3/5): The gospel is present but compressed. The clearest statement is: "The Judge has already rendered His verdict — and it was rendered at the cross. 'There is therefore now no condemnation for those who are in Christ Jesus.'" This is accurate, but it arrives late (near the end), is addressed to only one hearer category ("To the One Afraid of Judgment"), and is not sufficiently unpacked. An unbeliever listening to the first three-quarters of this sermon would receive helpful moral reasoning about judgment and humility — but not yet a clear call to faith in Christ.
+- *Necessity of Christ* (4/5): Christ is essential to the sermon's argument. The bēma is His. His atoning work is the reason the bēma need not terrify those in Him. The sermon does not function without Christ. However, the "why" of the cross — penal substitution, bearing our judgment — is stated in outline only.
+- *Cross-Centered Gravity* (3/5): The sermon moves toward the cross in the pastoral section but does not orbit the cross throughout. The dominant gravity is the humbling logic of the judgment seat — which is correct — but this logic needs to explicitly land in the gospel more than once. The sermon climaxes at "Put down the gavel" rather than at the cross.
+
+*Synagogue Test*: Partial concern. A devout, morally serious non-Christian could absorb the first half of this sermon — the argument about humility before the universal judgment — without being confronted by the scandal of Christ's atoning blood. The gospel appears, but it arrives in the pastoral section rather than being woven throughout.
+
+*Law/Gospel Dialectic*: The law (you will give an account) functions as the hammer. The gospel (you will not stand alone — you will stand in Christ) functions as the balm. However, the hammer has more weight than the balm in this sermon. The proportion is slightly off — more hammer, less balm.
+
+---
+
+**4. Conscience & Applicatory Force — 12/15**
+
+- *Heart Penetration* (4/5): The sermon reaches the affections. "You're a fellow defendant who got pardoned. Act like it" is conscience-level language. "You've been watching. Keeping a mental list" addresses the scorer concretely. The exhausted-by-being-judged section is pastoral and real.
+- *Specificity* (4/5): The four pastoral addresses (score-keeper, exhausted one, afraid one, forgotten-accountability one) are specific and differentiated. The kinism application names a concrete error. The "no creed but Christ" section is pointed. Loses one point because the specificity is concentrated in the pastoral landing — the main body is more didactic and less penetrating.
+- *Spiritual Differentiation* (4/5): Four Perkins categories are reached: (3) the knowledgeable but unhumbled (the judge/despiser), (4) the humbled — the one afraid of judgment, (5) the believer in need of sobriety, (6) the backslider who has forgotten accountability. The ignorant and unteachable and the ignorant but teachable are not directly addressed. The unbeliever is gestured toward in the gospel section but not distinctly confronted.
+
+---
+
+**5. Exhortation & Response — 6/8**
+
+- *Call to Response* (3/4): "Put down the gavel. Release your brother to the Lord who bought him. And prepare to give an account of how you lived — how you loved — how you walked in the daylight." This is an exhortation. It is clear and has sermonic force. However, it is directed primarily at the already-convinced — those who agree that judging is wrong. The exhortation to the one still holding the gavel does not press hard enough to produce crisis.
+- *Equipping for Holiness & Witness* (3/4): The Giddikki prayer section is a genuine missional equipping moment — unusual and effective. The sermon sends the congregation out to pray and care about unreached peoples. However, the corporate dimension of the exhortation is thin — the call is primarily individual ("you will give an account of yourself") without a corresponding word about what the *community* must do differently.
+
+---
+
+**6. Structure & Logical Flow — 8/9**
+
+- *Clarity of Outline* (3/4): The four-point structure (I. You Are Not the Judge; II. Every Knee Will Bow; III. Every Tongue Will Confess; IV. Each of Us — Himself) is clear and traceable. A listener could sketch this on a napkin. The kinism section sits outside the formal outline, which is a structural choice that mostly works but creates a slight flow disruption.
+- *Progression* (3/3): The sermon builds. It moves from the character of the bēma → the universality of confession → the personal accountability of each → the line between disputable and damnable → the pastoral landing. This is genuine progression.
+- *Unity* (2/2): One dominant idea throughout. The sermon does not wander.
+
+---
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance* (2/2): The Giddikki prayer section is striking and memorable. The "mental list" / "clipboard" imagery in the pastoral section is concrete. The "fellow defendant who got pardoned" metaphor is effective.
+- *Clarity* (1/2): The Giddikki section is well-done but sits in an unusual position (before the Scripture reading) and risks losing the congregation's narrative thread before the sermon proper begins. It works as written, but it is a structural risk.
+- *Memorability* (1/1): "You're not the Judge. You're a fellow defendant who got pardoned. Act like it." This will be remembered. So will the Giddikki.
+
+---
+
+**8. Sermonic Force — 4/5**
+
+- *Reads as Preaching* (2/2): The manuscript reads as oral proclamation. Direct address is consistent. Paragraph lengths breathe. Rhetorical repetition ("Every knee. Every tongue. No exceptions.") is controlled and effective.
+- *Conviction on the Page* (1/2): Strong in the pastoral section. Somewhat more essay-like in the early doctrinal development (sections I-III). The exegetical sections could carry more declarative force.
+- *Cadence and Breath* (1/1): Good sentence variation. The short staccato sentences at climactic moments ("Put down the gavel") are earned.
+
+---
+
+### Cognitive Load Modifier: 0
+
+Well-paced. The congregation can track this without strain. The Greek terms are explained immediately. The outline is clear. The kinism section is a conceptual turn but is clearly signaled.
+
+---
+
+### Total Score
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 21 | 25 |
+| Theology & Doctrinal Integrity | 15 | 18 |
+| Gospel Centrality & Force | 10 | 15 |
+| Conscience & Applicatory Force | 12 | 15 |
+| Exhortation & Response | 6 | 8 |
+| Structure & Logical Flow | 8 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 4 | 5 |
+| **Subtotal** | **80** | **100** |
+| Weight of Glory Bonus | +3 | +5 |
+| Cognitive Load Modifier | 0 | 0 |
+| **Total** | **83** | **105** |
+
+**Band: Strong and faithful. Minor sharpening needed. Ready for the pulpit with targeted revisions.**
+
+---
+
+### Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily of Christ — the bēma is His, the pardon is His, the verdict is His. The self-examination element is present but subservient to the Christ-centered logic. Yes.
+2. **Did I encounter God, or just ideas about Him?** Mostly encounter — especially in the pastoral section. The early expositional sections feel more informational. Mixed.
+3. **Was I comforted, convicted, or merely informed?** Both comforted and convicted. The score-keeper is convicted; the exhausted one is comforted; the accountability-forgetter is sobered. Not merely informed.
+
+---
+
+### Strengths (Top 3)
+
+1. **Pastoral Differentiation in the Landing Section**: The four-category address (score-keeper, exhausted, afraid, accountability-forgetting) is genuinely useful and reaches distinct spiritual states with appropriate specificity. This is Puritan "uses" applied well.
+2. **The Giddikki Prayer Integration**: The connection between the unreached people and "every knee will bow / every tongue will confess" is the kind of creative, missionally grounded illustration that earns its place. It is native to this text, not borrowed from a different sermon.
+3. **"Fellow Defendant Who Got Pardoned"**: The formulation at the close of section I is theologically precise, pastorally penetrating, and memorably compact. It is the kind of language that sticks in a hearer's memory for weeks.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **The Gospel Arrives Late and Is Addressed to Only One Hearer**: The clearest gospel statement — "the Judge has already rendered His verdict — and it was rendered at the cross" — does not appear until the third pastoral category. A hearer in the first two categories receives humbling logic but not gospel relief. The law lands; the balm is delayed and narrowly targeted.
+2. **The Kinism Section Is Exegetically Thin**: The section is pastorally and prophetically needed — the argument is right, the application is right — but the exegetical bridge from Romans 14:10-12 to kinism is stated rather than demonstrated. The connection is asserted ("Paul's question from verse 10... lands with devastating force") but not developed from the text's own vocabulary or argument.
+3. **The Cross Is the Conclusion, Not the Center of Gravity**: The cross appears in the pastoral section but does not govern the earlier expositional movement. The sermon's center of gravity is the humbling logic of the judgment seat. The cross should function not just as relief for the afraid-of-judgment hearer, but as the reason why the bēma is simultaneously solemn and safe for those in Christ — and this should be proclaimed earlier and more fully.
+
+---
+
+### Blind Spots
+
+The preacher likely does not see that sections I-III read more as a well-organized lecture on the bēma than as text-driven preaching under pressure. The exegetical clarity is real, but it does not yet reach the level of conscience-searching that the pastoral section achieves. The sermon's best preaching happens in the second half — a structural imbalance that could be corrected by pressing earlier.
+
+---
+
+### Illusion of Strength
+
+The kinism section feels like the sermon's boldest and most prophetic moment — and in terms of pastoral courage, it is. But it creates an illusion of expositional depth because it is striking and necessary. The exegetical work behind it is thinner than the rhetorical weight it carries. The section could be cut from the sermon without damaging the text's argument, which means it is not yet fully integrated into the exposition rather than appended to it.
+
+---
+
+### Missed Opportunity
+
+The movement Paul makes in v. 11 — quoting YHWH-language from Isaiah 45:23 and applying it to Christ — is one of the highest Christological moments in Romans 14. Paul is identifying Jesus as YHWH. The sermon notes this but does not pause to proclaim it. "Think about what this means for the church" is the pivot — but the weight of what Paul is doing hermeneutically and Christologically could have produced a moment of genuine doxological force. The sermon moves past it toward practical application. That is a missed climax.
+
+---
+
+### Surgical Fixes
+
+1. **Move the first gospel statement earlier**: After "You're a fellow defendant who got pardoned. Act like it." — add one sentence: "And here's the miracle: the verdict has already been rendered — at the cross — in your favor, if you are in Christ." This embeds the gospel in section I rather than reserving it for the pastoral section.
+2. **Develop the YHWH/Christ identification in section II**: At the Isaiah 45:23 citation, add two to three sentences on what it means that Paul applies YHWH's declaration to Jesus. "Paul is not merely quoting Isaiah. He is identifying the risen Christ as the LORD of Israel. Every knee bows to Jesus — because Jesus is the LORD." This makes section II the sermon's theological apex, which the text warrants.
+3. **Exegetically tether the kinism section more firmly**: Before naming kinism, add one sentence tracing the passage's logic: "Paul's verb 'despise' (exoutheneo) means to treat someone as nothing — to count them as below contempt. That is exactly what kinism does. It despises the brothers Christ died for, and it does so in the name of religion." This gives the prophetic application its exegetical roots.
+4. **Sharpen the exhortation toward the unbeliever**: In the closing, add one direct address to the person who has not yet come to Christ: "Some of you are afraid of the judgment seat — and you have no answer for it yet. The answer is Christ. Come to Him today." The pastoral landing covers this category but does not make an explicit call to repentance and faith.
+5. **Add a corporate exhortation**: The sermon's exhortations are all individual. Add one sentence that addresses the community: "This congregation will stand together before that seat. We are accountable not only as individuals but as a body. Love one another across your differences — and do it now, before the dawn."
+
+---
+
+### Dead Orthodoxy Flag
+
+Not triggered. Exposition (21) is strong; Conscience & Applicatory Force (12) is above the threshold. The sermon has both doctrinal substance and pastoral heat.
+
+---
+
+### Weight of Glory Assessment
+
+The Giddikki section, the Isaiah/Philippians cross-referencing, and the closing cadence ("The judgment seat of Christ is coming. And it will end all our petty judging forever.") carry genuine eternal gravity — this sermon feels like it matters beyond Sunday, though the cross needs to carry more of that weight.
+
+---
+
+### Rubric Fit Note
+
+This is a Pauline epistle section with didactic, hortatory, and doxological elements — a standard genre for this rubric. No significant rubric strain. The Perkins taxonomy and the law/gospel dialectic apply cleanly. No adjustments needed.
+
+---
+
+*Evaluated against the Thus Says the Lord rubric — Reformed Baptist sermon evaluation framework.*

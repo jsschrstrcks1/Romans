@@ -256,3 +256,213 @@ This is unmistakably human, unmistakably this preacher. No machine tells detecte
 **Note:** This sermon is more illustration-driven and less verse-by-verse than the Romans series. This is appropriate for a Nehemiah series opener — setting up themes that will develop over subsequent weeks. The text-first orbit is lighter than usual but adequate.
 
 **"Broken/brokenness" usage:** The voice-audit flags "brokenness" as a potential vague moral swap for "sin." In this sermon, "broken" is organic to the Humpty Dumpty metaphor — not therapeutic drift. The sermon also uses "sin," "original sin," "wages of sin," and "damned to hell" alongside it. No correction needed.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### Verdict Title
+**A Pastoral Opener with Genuine Gospel Heat — Exposition Left Thin by Design**
+
+### One-Sentence Summary
+A warmly human, gospel-colored introduction to Nehemiah that establishes the book's emotional stakes and closes with real evangelistic urgency, while covering only verses 1–3 with minimal exegetical depth and leaving the text's own prayer largely unpreached.
+
+---
+
+### Berean Gate
+
+**Scopus Test: CONDITIONAL PASS**
+The sermon's thesis — that human brokenness cannot be remedied by human effort, only by Christ and prayer — is present in the text's spirit (Nehemiah's grief drives him to God), but is not precisely the *main point* of Nehemiah 1 as a unit. The chapter's own climax is Nehemiah's prayer (vv. 4–11), which the sermon explicitly defers to the following week. The thesis is textually connected but not textually derived. This is a series-opener limitation, not a hermeneutical failure — the gate is passed with a caution.
+
+**Authority Test: PASS**
+The preacher does not soften the text. He names sin directly, warns of hell explicitly, and does not reframe the gospel as advice. He submits to the Word as herald, not editor.
+
+---
+
+### Fatal Flaw Flags
+
+**No fatal flaws triggered. Score uncapped.**
+
+Checked against all six criteria:
+1. Gospel is clearly presented — Christ's finished work proclaimed.
+2. Main point connected to the text — series-opener allowance granted.
+3. Christ is not absent — named as the only sufficient answer.
+4. Application is specific — named location (Bolton road, Muslims within a mile), named sin (prayerlessness, indifference to the lost).
+5. Exhortation is present — "Come talk to me," "commit to daily prayer," "Lord, give us Bolton."
+6. Accessible — the single mother and high schooler could follow this without difficulty.
+
+---
+
+### Score Breakdown
+
+**1. Exposition & Hermeneutics — 15/25**
+
+- *Textual Fidelity: 5/10* — Only three verses receive treatment (1:1–3), and the chapter's theological center (the prayer of vv. 4–11) is deferred. The sermon uses the text as a launching pad more than as the ground to stand on. What exposition exists is accurate but thin. Contextual framing (cupbearer, Jerusalem's condition, timeline) is well-handled.
+- *Contextual Awareness: 3/5* — The historical context is generous and helpful: cupbearer's role, 140-year gap, temple rebuild, Ezra's reforms. Integrated into the flow naturally.
+- *Exegetical Clarity: 4/5* — No Greek, but also no need. The verse-level meaning of what was said is explained clearly. The logic of the cupbearer's role is handled with pastoral accessibility.
+- *Logical Faithfulness: 3/5* — No eisegesis detected. The Humpty Dumpty allegory is homiletical application, not exegetical claim — and the preacher handles it as illustration, not exposition. However, the Fallen Condition Focus is arrived at intuitively (original sin, self-sufficiency) rather than shown to arise from the text. The FCF is correct but not textually demonstrated.
+
+*Narrative:* This is an orientation sermon for a series. The text coverage is intentionally shallow. That is a legitimate pastoral choice, but it means exposition scores cannot be strong. What is treated is handled honestly and clearly.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness: 5/7* — Christ is named as the only sufficient answer, the one against whom all king's horses and men fail. The gospel call is Christ-specific. The connection is not forced — it arises organically from the Humpty Dumpty framework.
+- *Redemptive-Historical Awareness: 1/3* — Nehemiah is not placed in the redemptive-historical arc. No connection to exile as covenant consequence, no sense of how Nehemiah's mission anticipates the restoration that only Christ achieves. Missed.
+- *Doctrinal Precision: 4/4* — Original sin, federal headship via Adam, wages of sin, justification by faith (implied), hell — all handled with appropriate precision. No theological sloppiness.
+- *Confessional Alignment — 1689 Pulse: 3/4* — No contradiction of confessional theology. The Covenant of Works / Covenant of Grace distinction is not named but is implied in the Adam-to-Christ movement. No drift into Pelagianism or vague moralism.
+
+**3. Gospel Centrality & Force — 11/15**
+
+- *Clarity of the Gospel: 4/5* — Romans 3:23 and 6:23 are both quoted. The gospel invitation distinguishes clearly between self-righteousness ("good person"), false faith ("demons believe"), and merit ("cosmic scale"). Strong. Penal substitution implied but not named.
+- *Necessity of Christ: 4/5* — "Only Christ is enough" is the sermon's refrain. Christ is essential, not decorative.
+- *Cross-Centered Gravity: 3/5* — The sermon moves toward Christ but not explicitly toward the cross. The atonement is in the background. The invitation assumes substitutionary work without proclaiming it explicitly. The cross is present but not prominent.
+
+*Synagogue Test:* This sermon would give offense to a Muslim or Jewish observer. The necessity of Christ's blood is not fully articulated, but the exclusivity of Christ is stated plainly enough to give offense. Passed.
+
+*Law/Gospel Dialectic:* The hammer falls (original sin, self-sufficiency exposed, hell named). The balm follows (free gift, Romans 6:23, come talk to me). Order is correct. Law has time to land before gospel relieves it.
+
+**4. Conscience & Applicatory Force — 10/15**
+
+- *Heart Penetration: 4/5* — "When was the last time the broken state of the world brought us to tears?" is a genuine conscience probe. The Knox comparison is not rhetorical ornamentation — it is pastoral indictment. "Lost. Dying. Damned to hell. Can we not even pray for them?" is sharp.
+- *Specificity: 4/5* — This is one of the sermon's real strengths. "Prostitutes that hang out on our road." "A hundred Muslims within a mile of those two doors." "Lord, give us Bolton." The application is embedded in the congregation's actual geography. Rare and commendable.
+- *Spiritual Differentiation: 2/5* — The sermon addresses two categories well: the unconverted (gospel invitation) and the comfortable believer (call to prayer and mourning for the lost). The humbled, the backslider, the knowledgeable-but-unmoved, and the ignorant-but-teachable are not reached distinctly. The sermon is essentially binary.
+
+*Perkins' Taxonomy:* Two of seven categories addressed with specificity. A series-opener limitation, but the gap is real.
+
+**5. Exhortation & Response — 6/8**
+
+- *Call to Response: 3/4* — Three distinct calls issued: (1) unconverted — come talk to me; (2) Christians — pray for the lost; (3) church — commit to daily prayer. Clear and direct.
+- *Equipping for Holiness & Witness: 3/4* — "Can we not even pray for them?" addresses the church as a witnessing body. The Knox example equips by modeling intercessory abandon. The corporate dimension is present but lightly developed.
+
+**6. Structure & Logical Flow — 7/9**
+
+- *Clarity of Outline: 3/4* — The flow is traceable: (1) intro illustrations → (2) Humpty Dumpty as the fall → (3) Nehemiah's context → (4) 9/11 parallel → (5) original sin exposition → (6) Nehemiah as model of prayer → (7) Knox as model of intercession → (8) gospel call. Could not be sketched on a napkin in one pass, but the journey is followable.
+- *Progression: 3/3* — Builds from cosmic brokenness → personal sin → Nehemiah's grief → our grief → the lost in our neighborhood → the invitation. Good momentum.
+- *Unity: 1/2* — Two motifs compete: (1) Humpty Dumpty as the fall / only Christ can put us together, and (2) Nehemiah's grief as a model for intercessory prayer. Both are good. The first could support a standalone sermon; the second is the series theme. The unity holds, but narrowly.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance: 2/2* — Plaster of Paris ship mold. Cookies and children. Sandspurs. These are from the congregation's world.
+- *Clarity: 1/2* — The Mother Goose opening is vivid but long. The Ring Around the Rosie section is factually suspect (per the integrity log) and could be cut without loss. The ship mold illustration is the strongest — precise, concrete, theologically accurate.
+- *Memorability: 1/1* — "All the king's horses. All the king's men. It's not enough. Only Christ is enough." This will be remembered.
+
+**8. Sermonic Force — 4/5**
+
+- *Reads as Preaching: 2/2* — Oral cadence throughout. Compressed chains. "Lost. Dying. Damned to hell." Gear-shift markers. The voice audit confirms this.
+- *Conviction on the Page: 1/2* — Scripture-grounded assertion ratio drops in the middle third (the historical background section). The conviction spikes at the Knox section and the gospel call, but the exegetical midsection is more lecture than proclamation.
+- *Cadence and Breath: 1/1* — Sentence variation is strong. Climactic compression at the invitation ("Because I was a good person?... Because I believe you exist?...") is excellent anaphora.
+
+---
+
+### Cognitive Load Modifier: 0
+
+Well-paced. This is not a dense sermon. The single mother and the high schooler can follow it without difficulty. If anything, the introduction runs long before the text appears, but it does not overload — it builds.
+
+---
+
+### Total Score
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 15 | 25 |
+| Theology & Doctrinal Integrity | 13 | 18 |
+| Gospel Centrality & Force | 11 | 15 |
+| Conscience & Applicatory Force | 10 | 15 |
+| Exhortation & Response | 6 | 8 |
+| Structure & Logical Flow | 7 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 4 | 5 |
+| **Subtotal** | **70** | **100** |
+| Weight of Glory Bonus | +3 | +5 |
+| Cognitive Load Modifier | 0 | 0 |
+| **Total** | **73** | **105** |
+
+**Interpretation: Solid but lacking — needs another pass.**
+This is a 73 in the rubric's language: "Solid but lacking — usually in application or gospel force. Needs another pass." The weakness here is exposition (intentional and acknowledged) and spiritual differentiation. The gospel heat and geographic specificity of application are genuine strengths that keep this out of the 60s.
+
+---
+
+### Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?*
+More of Christ. The refrain "only Christ is enough" is the sermon's spine. The application drives toward the lost rather than self-improvement. Christ as the answer to Humpty Dumpty is clear and sufficient.
+
+2. *Did I encounter God, or just ideas about Him?*
+Partially. The Knox section carries genuine weight. The gospel invitation has real heat. The historical-background midsection is informational more than doxological. God is present in this sermon, but not consistently weighty.
+
+3. *Was I comforted, convicted, or merely informed?*
+Convicted — specifically around prayerlessness and indifference to the lost in the immediate community. The comfort is in the gospel invitation, not in pastoral warmth toward the already-suffering.
+
+---
+
+### Strengths (Top 3)
+
+1. **Geographic specificity of application.** "Prostitutes that hang out on our road. A hundred Muslims within a mile of those two doors." This is the opposite of generic application. The congregation cannot escape this by imagining it is for someone else. It is the kind of application that corners people in their actual lives.
+
+2. **Sermonic voice.** The manuscript reads exactly like a man preaching. The compressed declarative chains ("Lost. Dying. Damned to hell."), the anaphora in the gospel invitation, the gear-shift markers — this is a preacher who sounds like himself. The voice audit confirmed it, and the rubric confirms it.
+
+3. **Law/gospel order.** The hammer lands before the balm arrives. The sermon distinguishes between bad answers to the judgment bar question with surgical clarity ("good person... demons believe... cosmic scale") before offering the free gift. The order is right.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **The main text's climax goes unpreached.** Nehemiah 1's theological center is the prayer of vv. 4–11 — perhaps the most important intercessory prayer in the book, and the pattern the sermon's own application is calling the congregation to imitate. The sermon calls people to pray like Nehemiah while declining to open what Nehemiah actually prayed. The congregation is told to do something the sermon has not yet shown them how to do from Scripture. The call to "pray like Nehemiah" would land with far more authority if even one element of Nehemiah's prayer had been opened.
+
+2. **Spiritual differentiation is binary.** The sermon addresses the unconverted and the comfortable believer. It does not reach the backslider, the humbled-but-not-yet-believing, the knowledgeable-but-unmoved, or the grieving. A congregation contains all of these. "When was the last time you wept?" lands on the comfortable, but the person already broken by loss may hear it as an accusation rather than a call.
+
+3. **The introduction is long and factually vulnerable.** The Ring Around the Rosie section runs multiple paragraphs and rests on a claim the integrity log has already flagged as likely apocryphal. The Humpty Dumpty section is the real load-bearing illustration — the Black Death section could be cut entirely without harming the sermon. As currently written, the sermon takes approximately one-third of its length to arrive at the text.
+
+---
+
+### Blind Spots
+
+The preacher may not see that the sermon's most powerful moment — "Lord, give us Bolton" — arrives without having first shown from Scripture what Nehemiah's prayer looked like. The congregation is summoned to a posture the text models but the sermon has not opened. The call is right. The exegetical grounding for it is missing.
+
+---
+
+### Illusion of Strength
+
+The historical-background section on the cupbearer, the Persian court, Ezra, and the timeline feels like textual engagement. It is actually background information. It creates the sensation of exposition without performing it. The preacher has researched the world of the text well; he has not yet opened the text itself.
+
+---
+
+### Missed Opportunity
+
+Nehemiah 1:4 — "As soon as I heard these words I sat down and wept and mourned for days, and I continued fasting and praying before the God of heaven." This verse, which is the hinge between the news and the prayer, sits immediately adjacent to where the sermon leaves off. A single sentence of exposition here — naming the specific components of Nehemiah's grief-response (weeping, mourning, fasting, praying, continuance) — would have anchored the entire applicatory section about weeping for the lost in the actual text. The sermon says what Nehemiah did without ever reading the verse that says it.
+
+---
+
+### Surgical Fixes
+
+1. **Read and briefly open Nehemiah 1:4 before the application.** One verse. Name the four components: weeping, mourning, fasting, praying. Then say, "This is the pattern." The application then arises from the text rather than hovering above it.
+
+2. **Cut the Ring Around the Rosie section or reduce it to two sentences.** It is factually disputed, it is long, and the Humpty Dumpty illustration carries all the same weight without the risk. Start with Humpty Dumpty.
+
+3. **Add one line of address to the already-grieving.** "When was the last time you wept?" does not land the same way for the person who is already weeping over a diagnosis, a prodigal, a marriage. One sentence of differentiation — "If you are already weeping tonight over your own losses, hear this: Nehemiah's grief became intercession. Yours can too" — would serve the congregation without disrupting the flow.
+
+4. **Name penal substitution in the gospel call.** Currently: "he chose to take our punishment." Add: "He bore the wrath we deserved, so the wrath you deserve will never touch you if you are in Christ." The concept is present; the precision is one sentence away.
+
+5. **Correct the historical errors before reprising.** The John Knox / Mary Queen of Scots confusion, the "lions with lambs" misquote, and the Ezra / walls error are all noted in the integrity log. These need correction before this sermon is used again.
+
+---
+
+### Dead Orthodoxy Flag
+
+**Not triggered.**
+
+Exposition: 15 (below 20 threshold). The score patterns do not trigger the dead orthodoxy detection. This is not a bloodless sermon — it has genuine pastoral heat, specific application, and direct evangelistic urgency. The weakness is exposition breadth, not emotional temperature.
+
+---
+
+### Weight of Glory Assessment
+
+**+3/5**
+
+The Knox section carries genuine eternal weight — "Lord, give me Scotland, lest I die" is a prayer that makes a congregation feel the smallness of their own intercession. The gospel invitation is earnest and direct. The sermon does not achieve the gravity of a sermon that has spent extended time in the text's own depths, but it is not a light sermon either. God feels present, if not fully weighty.
+
+---
+
+### Rubric Fit Note
+
+This rubric is designed for text-driven exposition, and this sermon is a series opener that explicitly defers its primary text treatment to subsequent weeks. The rubric bends somewhat in category 1 (Exposition) where the low score reflects a legitimate pastoral strategy rather than hermeneutical failure. The evaluation should be read accordingly: the exposition score reflects what was preached here, not what the preacher is capable of or what the series will deliver. The rubric fits adequately; the genre strain is noted.

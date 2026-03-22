@@ -142,3 +142,110 @@
   - Exodus/Moses "A Godly Home"
 - These 2 sermons were cataloged from a previous info dump that is no longer present in the repository. Source text will need to be re-provided to process them.
 - Note: "The Blank Check" (Acts 13) was re-provided without the Hiroo Onoda section and "Insanity of God" movie reference present in the original catalog. These may have been in a portion of the transcript not re-provided.
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Genre Note:** This is not a sermon manuscript. It is a sermon processing queue — a project management document that tracks the intake, status, and editorial notes for a batch of sermon transcripts being cleaned and committed to the repository. The standard rubric cannot be applied in full; no text is being proclaimed here, no congregation is being addressed, and no exegesis is present. What follows is a partial assessment of the document on the axes where the rubric has genuine traction, with explicit caveats where it does not.
+
+---
+
+**Verdict Title:** A Well-Ordered Editorial Registry — Rubric Has No Preaching to Evaluate
+
+**One-Sentence Summary:** This document faithfully catalogs a body of sermon transcripts with useful production notes but contains no proclamation, exposition, or pastoral address to evaluate on homiletical grounds.
+
+---
+
+### Berean Gate
+
+**Not applicable.** The Berean Gate asks whether the main point of the sermon is the main point of the text. This document has no text and no main point in the homiletical sense. It tracks processing status. Gate cannot be applied.
+
+---
+
+### Fatal Flaw Flags
+
+**Not applicable as written.** The document is not a sermon and cannot trigger homiletical fatal flaws. However, two observations worth noting for the preaching project it manages:
+
+- Two sermons are flagged [!] (Psalm 106, Exodus/Moses "A Godly Home") as source-not-found. If those sermons eventually enter the pipeline without source verification, the accuracy standards implied by the rubric's *careful-not-clever* guardrails would be at risk.
+- The Acts 13 "Blank Check" entry honestly flags the William Borden hagiography as containing known factual issues preserved-as-delivered. That transparency is exactly what the rubric demands of the editorial process, even if it cannot grade the sermon itself here.
+
+---
+
+### Rubric Categories — Partial Assessment
+
+**1. Exposition & Hermeneutics — Not scorable.** No exposition is present. The queue does, however, show consistent attention to textual accuracy: ESV conversion notes, translation tracking (NASB/NIV/NET), and cross-reference corrections ("2 cor 16:9" → 2 Chronicles 16:9, Psalm 126 → Psalm 106). The editor is functioning as a textual steward. That instinct is consistent with what the rubric demands of exposition — faithfulness to what the text actually says.
+
+**2. Theology & Doctrinal Integrity — Not scorable directly.** The sermon subjects cataloged show a healthy range: election and grace (BFM series), adoption (Galatians 3-4), Holy Spirit (Acts 2), missions (Acts 13), Abrahamic covenant (Genesis 12), Akedah (Genesis 22), Scripture (2 Timothy 3), perseverance (Nehemiah). No obviously heterodox trajectory is visible in the content summaries. The Acts 2 entry's handling of tongues and critique of Todd Bentley/Lakeland Revival suggests confessional instincts consistent with the 1689 tradition.
+
+**3. Gospel Centrality — Partially visible.** Several entries note explicit gospel presentations at the close (Genesis 12, Romans 10:9; Exodus/Moses). The Galatians 3-4 entry centers adoption theology with substitutionary language ("God's son was the price paid for my adoption"). The Titus 3 entry is titled "The Blood of the Lamb Silences the Accuser" — a title with gospel directness. The queue as a whole suggests a preacher who regularly moves toward the cross. This cannot be scored, but it can be noted favorably.
+
+**4. Conscience & Applicatory Force — Not scorable.** Application content is not recorded in the queue entries, only illustration content and structural notes.
+
+**5. Exhortation & Response — Not scorable.**
+
+**6. Structure & Logical Flow — Applicable to the document itself.** The queue is logically organized: status key, batched processing groups, key notes, summary. The [x]/[!]/[ ] status taxonomy is immediately readable. The summary at the end accurately synthesizes what the body records. The structure is functional and clear — a congregation of editors could navigate this document without confusion.
+
+**7. Illustration & Imagination — Partially visible.** Illustrations are cataloged but not evaluated. The range suggests a preacher who draws from personal narrative, church history, pop culture, military history, and pastoral anecdote — consistent with the rubric's preference for illustrations native to the congregation's world (trucks, military, marriage, diagnosis). MacArthur barge story, Humpty Dumpty/fall of Adam, Ring Around the Rosie/Black Death, cat rescue in cistern, bone marrow transplant, orange tree grafting — these are earthy and concrete. No judgment on whether they illuminate or distract can be made from the queue alone.
+
+**8. Sermonic Force — Not scorable.** The queue is a reference document, not a manuscript. Its prose is deliberately administrative.
+
+---
+
+### Score Breakdown
+
+No numerical score is assigned. This document is not a sermon. Applying the 100-point rubric would produce a meaningless number. The rubric is designed for proclamation; this is preparation.
+
+**Cognitive Load Modifier — Not applicable.**
+
+**Weight of Glory — Not applicable.**
+
+---
+
+### Core Override Questions
+
+Not applicable. These questions ask whether the reader encountered God, was convicted, or was moved toward Christ. A processing queue is not the instrument for that encounter.
+
+---
+
+### Strengths (as an editorial document)
+
+1. **Factual transparency.** The Borden entry preserves known inaccuracies with explicit notation rather than silently correcting or silently passing them. The Spurgeon clowns/goats entry flags disputed provenance. This is intellectual honesty that honors the *careful-not-clever* discipline even where it cannot be graded under this rubric.
+
+2. **Source discipline.** Two sermons are blocked rather than processed on incomplete sourcing. The queue does not guess. That restraint matters when the goal is a faithful archive.
+
+3. **Breadth and confessional coherence.** The sermon corpus visible here spans Old and New Testaments, narrative and epistle, doctrinal and pastoral — with no obvious gaps in the biblical-theological arc and a consistent Reformed Baptist doctrinal center.
+
+---
+
+### Critical Weaknesses (as an editorial document)
+
+1. **No content-level notes on application or exhortation.** The queue records illustrations, sources, and textual issues extensively, but records almost nothing about how each sermon applied the text or called for response. For future rubric evaluation of these sermons, that gap will matter — the queue provides no material to assess conscience force or exhortation.
+
+2. **Two blocked sermons with no recovery path specified.** Psalm 106 and Exodus/Moses are flagged as source-not-found, but the summary note only says "source will need to be re-provided." No action owner, no timeline, no alternative sourcing strategy is recorded. These sermons remain in limbo.
+
+3. **Translation conversion noted but not confirmed.** The key note specifies "convert all formal blockquotes to ESV," and individual entries note conversions, but the queue offers no confirmation mechanism — no "verified ESV" notation after conversion is complete.
+
+---
+
+### Surgical Fixes (as an editorial document)
+
+- Add an "Application/Exhortation notes" field to each entry, even one sentence, so future rubric evaluations have something to assess beyond illustration inventory.
+- Add a recovery action column to the [!] entries: who needs to provide the source, and by when.
+- Consider a "ESV conversion confirmed" checkbox distinct from the [x] complete status, since [x] currently conflates multiple editorial tasks into one mark.
+
+---
+
+### Dead Orthodoxy Flag
+
+Not triggered. There is no sermon here to be orthodox or dead.
+
+---
+
+### Weight of Glory Assessment
+
+A ledger cannot carry eternal weight — but the faithfulness with which this ledger was kept suggests a project that intends to. The queue serves the sermons, and the sermons, if the queue's content notes are any indication, intend to serve the glory of God.
+
+---
+
+### Rubric Fit Note
+
+This rubric is designed for sermon manuscripts and strains significantly when applied to administrative or planning documents. Most of the 100-point framework simply has no surface to grip. The evaluation above repurposes what applies — editorial fidelity, doctrinal trajectory visible in content summaries, structural clarity of the document itself — and explicitly releases what does not. A queue is not a pulpit. It should not be judged as one.

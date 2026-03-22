@@ -71,3 +71,165 @@ I think your spouse would probably – rightly – beat you with the book wrote.
 But we are talking about God here aren’t we. Some people say that this makes God conceited. But He’s God. Who else’s Glory should God be concerned with? Certainly not mine. Nor yours. Only his. It is for his glory that he chooses to save some. Were going to close with the gospel here in a moment, but before we do I just want to read you one more quote. The author was a man who had one of those crazy titles. He is the “right reverened” Richard Sibbes. He said “Cast yourself into the arms of Christ, and if you perish, perish there. If mercy is to be found anywhere, it is there”. 
 
 Gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Sincere but Unfocused Doctrinal Survey That Loses the Text**
+
+---
+
+### 2. One-Sentence Summary
+A warmly pastoral opening of Ezekiel 36 that demonstrates genuine Reformed conviction about sovereign grace while failing to let the text itself drive the argument, substituting a doctrinal survey for actual exposition of the passage.
+
+---
+
+### 3. Berean Gate Result
+**MARGINAL PASS — with significant qualification.**
+
+Scopus Test: The sermon's thesis — that God saves for His own glory, by grace alone — is genuinely *present in* Ezekiel 36:22-32 ("It is not for your sake... but for my holy name's sake"). However, the sermon does not arise *from* the text's own argument; the text is announced and then largely left behind while Ephesians 2, Romans 8-9, Luther, Augustine, Spurgeon, and Sibbes carry the weight. The passage's specific movement — the promised new heart, the Spirit, the cleansing from idols, the restored land, the nations' witness — receives almost no treatment.
+
+Authority Test: The preacher submits to the text's doctrines but not to its specific argument. He handles the theology correctly while quietly setting aside the passage's actual content.
+
+**Result: Borderline. The main doctrinal point has textual grounding, but the sermon is more a proof-text for a doctrinal theme than an exposition of this passage's own argument. The Berean Gate is held open by a thread.**
+
+---
+
+### 4. Fatal Flaw Flags
+**Score cap of 69 is triggered. Two fatal flaws are present:**
+
+- **Flag 4 — Application is entirely generic**: The three closing questions are posed but never developed. No specific, differentiated application is given to any category of hearer. "How convinced are you that you have been saved by grace alone?" is a generic question with no pastoral pressure, no specificity to circumstance, no differentiation between the doubter, the self-righteous, or the comfortable saint.
+
+- **Flag 5 — No actual exhortation**: The sermon ends with the single word "Gospel." This is a note to the preacher, not a delivered exhortation. The congregation is never told what to believe, repent of, obey, or pursue. The Sibbes quote — "Cast yourself into the arms of Christ" — comes close, but it floats unanchored without pastoral direction. The people were informed but never summoned.
+
+**Score capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 12/25**
+- Textual Fidelity: 4/10 — Ezekiel 36:22-32 is announced but not opened. The sermon's actual argument runs almost entirely through Ephesians 2 and doctrinal summary. The passage's own content — the new heart, the Spirit of God, the removal of the heart of stone, the cleansing, the restored fruitfulness, the nations watching — is not exposited. Verses 26-27 ("I will give you a new heart... I will put my Spirit within you") are the theological engine of the passage and receive no treatment. The FCF (Fallen Condition Focus) is adequately named — spiritual death, total depravity — but it is sourced from Ephesians 2, not Ezekiel 36.
+- Contextual Awareness: 4/5 — The historical background of Babylon, the exile, the temple's destruction, and Israel's spiritual devastation is competently and engagingly set. This is the sermon's strongest exegetical contribution.
+- Exegetical Clarity: 2/5 — No exegetical work is done on the passage itself. What the Hebrew words mean, what the specific promises of vv.26-27 entail, why the passage moves from "for my name's sake" to "I will cleanse you" to "new heart" — none of this is opened.
+- Logical Faithfulness: 2/5 — The sermon imports a doctrinal grid (ordo salutis, TULIP-adjacent theology) onto the passage rather than discovering the passage's own logic. The passage's movement from divine reputation to divine transformation to Israel's shame is a rich argument the sermon never follows.
+
+**2. Theology & Doctrinal Integrity — 14/18**
+- Christ-Centeredness: 4/7 — Christ is named but not presented with gospel force. The closing word "Gospel." suggests the preacher intended a gospel presentation that is absent from the manuscript. The text is an OT passage with clear NT fulfillment (cf. Jer. 31; John 3; Rom. 8) but that connection is not developed organically.
+- Redemptive-Historical Awareness: 2/3 — The exile context is competent, but the passage's place in the prophetic arc — the new covenant promise, the Spirit poured out at Pentecost, the cleansing through the blood of Christ — is not drawn.
+- Doctrinal Precision: 5/4 (effectively 4/4) — The theology of grace, total depravity, election, and sovereign salvation is stated correctly and faithfully throughout. Luther, Augustine, Spurgeon, and Sproul are all used accurately. This is a strength.
+- Confessional Alignment: 4/4 — The sermon is solidly Reformed in its soteriology. No confessional errors detected.
+
+**3. Gospel Centrality & Force — 7/15**
+- Clarity of the Gospel: 2/5 — "Gospel." is a note, not a presentation. Justification by faith is mentioned (Eph. 2:8-9 is read) but not proclaimed. What Christ did, why it was necessary, and how a sinner is united to him is not stated.
+- Necessity of Christ: 3/5 — Christ is named as the one in whom sinners are made alive (Eph. 2:5), but His necessity is functional/assumed rather than proclaimed. The cross is not presented.
+- Cross-Centered Gravity: 2/5 — The sermon moves toward grace but does not arrive at the cross. The Sibbes quote gestures toward it. The sermon ends before landing.
+
+**4. Conscience & Applicatory Force — 5/15**
+- Heart Penetration: 2/5 — The truth of total depravity and sovereign grace is stated with some warmth, but it is not pressed into the conscience. The illustrations (Facebook, the temple, 9/11) contextualize the history, not the hearer's soul.
+- Specificity: 1/5 — The application offered is three questions with no pastoral development. No specific address to any condition of hearer.
+- Spiritual Differentiation: 2/5 — Some implicit distinction between saved and unsaved, but Perkins' categories are not engaged. The doubter, the self-righteous, the backslider, the humbled-but-not-yet-believing are not addressed with distinct pastoral care.
+
+**5. Exhortation & Response — 2/8**
+- Call to Response: 1/4 — The Sibbes quote is the closest the sermon comes to a call. "Gospel." is an incomplete note, not delivered exhortation.
+- Equipping for Holiness & Witness: 1/4 — The congregation is not sent out. No corporate responsibility, no witness dimension, no specific obedience called for.
+
+**6. Structure & Logical Flow — 5/9**
+- Clarity of Outline: 2/4 — Three questions are announced as the structure, but they are not consistently followed. The outline dissolves into a doctrinal survey.
+- Progression: 2/3 — There is movement from historical background to theology to gospel, but the progression is loose and frequently interrupted by asides (the Facebook tangent about livestreaming church is a structural derailment).
+- Unity: 1/2 — The livestream planning announcement mid-sermon breaks unity entirely. The main idea is present but competes with miscellaneous material.
+
+**7. Illustration & Imagination — 3/5**
+- Relevance: 1/2 — The Facebook-as-temple analogy is creative and accessible, though the tangent into livestreaming plans is a distraction. The wagon wheel illustration is evocative.
+- Clarity: 1/2 — The Holocaust museum illustration is powerful but slightly disconnected from the theological argument it serves.
+- Memorability: 1/1 — The Sibbes quote ("Cast yourself into the arms of Christ, and if you perish, perish there") is genuinely memorable and pastoral.
+
+**8. Sermonic Force — 3/5**
+- Reads as Preaching: 2/2 — The manuscript reads as spoken word. Direct address is present ("Who can tell me...?"). Congregational names are used. The voice is warm and pastoral.
+- Conviction on the Page: 1/2 — The theological convictions are stated sincerely, but the density of Scripture-grounded assertion is diluted by illustrations, asides, and organizational material.
+- Cadence and Breath: 0/1 — No climactic compression. The sermon ends without a climax.
+
+**Subtotal: 51/100**
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+
+The sermon is accessible, perhaps more accessible than it is dense. The main ideas are clear. The historical background is well-told. The occasional tangent (livestreaming) and the incomplete ending prevent a clean 0, but this sermon does not overwhelm — it under-delivers.
+
+---
+
+### 7. Total Score
+**51 − 1 = 50/100** *(score capped at 69 due to fatal flaw flags; actual score 50 falls below cap)*
+
+**Interpretation: Fundamentally flawed. Rebuild from the text.**
+
+The score of 50 is not a reflection of bad theology — the theology is sound. It reflects a sermon that does not yet exist as a complete homiletical act. The background is strong. The doctrinal content is faithful. But the text is not opened, the application is skeletal, the exhortation is absent, and the gospel is announced rather than proclaimed.
+
+---
+
+### 8. Core Override Questions
+1. **Does this sermon make me think more of Christ — or myself?** *Somewhat of Christ — the doctrine of grace does point away from self. But Christ Himself is not presented with sufficient clarity or force to draw the gaze fully upward.*
+2. **Did I encounter God, or just ideas about Him?** *Ideas. The theology is accurate, but God is described more than encountered. There is no moment of awe, no moment where the weight of His holiness or the wonder of His grace becomes present.*
+3. **Was I comforted, convicted, or merely informed?** *Primarily informed. The Sproul, Luther, Augustine, and Spurgeon quotes educate more than they corner or comfort.*
+
+---
+
+### 9. Strengths (Top 3)
+1. **Historical and contextual grounding**: The opening background on the temple — its centrality to Jewish life, the catastrophe of its destruction, the emotional and spiritual devastation of the exile — is genuinely well-drawn and accessible. Naming the temple as the hub of a wagon wheel and the destruction as "like 9/11" gives ordinary hearers a real foothold in the text's emotional world.
+2. **Doctrinal faithfulness**: The sermon's core convictions about total depravity, sovereign election, and grace-alone salvation are stated with clarity and supported by a solid array of Reformed witnesses (Sproul, Luther, Augustine, Spurgeon, Sibbes). The theology is not vague evangelicalism — it is confessional and precise.
+3. **Pastoral warmth and congregational directness**: The use of congregants' names (Greg, Paula, Kurt, Brenda, Larry and Judy) creates genuine communal presence. The preacher knows his people and speaks to them personally, which is a real pastoral gift that many technically superior sermons lack.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+1. **The text is never opened**: Ezekiel 36:22-32 is announced and read, but the sermon does not exposit it. The passage's own argument — God acts for the sake of His holy name, He cleanses, He gives a new heart, He puts His Spirit within, the nations will see — is not followed. Verse 26 ("I will give you a new heart and a new spirit") is the theological center of the passage and receives zero treatment. The sermon uses the text as a proof-text for a doctrinal survey rather than letting the passage teach.
+2. **The exhortation is missing**: The sermon ends with the word "Gospel." — a preacher's note, not a delivered call. The congregation is never told what to do with what they've heard. No "therefore" moment. No imperative edge. No summons. The Sibbes quote gestures toward surrender but is not developed into a concrete call to repentance, faith, or obedient pursuit.
+3. **The sermon is structurally interrupted by organizational business**: The mid-sermon announcement about livestreaming plans — naming specific congregation members, describing the cost and logistics — breaks the sermonic arc completely. This belongs in announcements, not inside the exposition of a prophetic text about the glory of God among the nations.
+
+---
+
+### 11. Blind Spots
+The preacher appears unaware that his genuine love for Reformed soteriology has become the lens through which every text is read rather than the *result* of what each text teaches. Ezekiel 36 does teach sovereign grace — but it teaches it in its own way, with its own emphases, through its own argument. The passage's distinctive contribution (the new heart as the fulfillment of what Israel's stone heart could never achieve by covenant obedience; the Spirit as the agent of the transformation that the law demanded but couldn't produce) is left entirely unmined. The sermon preaches the *same sermon* this text could be used to support — but doesn't preach *this text*.
+
+Additionally, the preacher may not see how the incomplete ending ("Gospel.") reads to evaluators and perhaps to the congregation as an unfinished thought. The intention was clearly to preach the gospel — but the act of doing so was omitted from the manuscript. This is a structural problem, not just a stylistic one.
+
+---
+
+### 12. Illusion of Strength
+The doctrinal content feels substantial because of the density of quotations: Sproul, Luther, Augustine, Spurgeon, Sibbes. These are weighty names, and their words are accurately cited. But the effect is that the preacher's own exposition is replaced by a parade of authorities. The sermon *feels* theologically rich — and it is theologically accurate — but the feeling of richness comes from borrowed material, not from the preacher's own engagement with Ezekiel 36. A congregation might leave satisfied that they heard good theology without realizing that the actual passage was barely touched.
+
+---
+
+### 13. Missed Opportunity
+Ezekiel 36:26 — "I will give you a new heart and put a new spirit within you; I will remove the heart of stone from your flesh and give you a heart of flesh" — is one of the great redemptive-historical promises in all of Scripture. Jesus invokes it in John 3 when He tells Nicodemus that one must be born again. Paul's entire argument about the Spirit and the flesh in Romans 8 is grounded in this promise. The passage is a direct oracle of new covenant grace, setting up its fulfillment in the outpouring of the Spirit at Pentecost and its application in every regeneration since. This sermon stands on the front porch of that promise and never enters the house. The doctrine of regeneration — which the preacher clearly believes — could have been preached *from* this text with enormous force, covenantal depth, and gospel clarity.
+
+---
+
+### 14. Surgical Fixes (3–5)
+1. **Preach the passage, not the doctrine**: After reading Ezekiel 36:22-32, walk through the text's own argument phrase by phrase. Let the "for the sake of my holy name" (v.22) become the anchor for the doctrine of grace. Let "I will sprinkle clean water on you" (v.25) lead to the cleansing blood of Christ. Let "I will give you a new heart" (v.26) become the pivot for everything that follows. The doctrine the preacher loves is *in the text* — but it must be drawn *from* the text, not laid *upon* it.
+2. **Remove the livestream announcement entirely from the sermon body**: Place it in pre-service announcements. The mid-sermon logistics discussion costs the sermon its rhetorical unity and signals to the congregation that the sermon is not a sacred act requiring sustained attention.
+3. **Replace "Gospel." with an actual gospel presentation**: Even four sentences would transform the ending. Name what Christ did, why it was necessary (the law that Ezekiel's people could not keep), and what it means to cast oneself into His arms as Sibbes commands. The Sibbes quote deserves a landing pad, not a cliff edge.
+4. **Add differentiated application after each main point**: The three questions announced at the outset are good — use them as actual application points developed with pastoral specificity. Address the person who doubts they have ever been truly saved. Address the person who is theologically convinced but spiritually cold. Address the new believer who is fragile. These are all in the room.
+5. **Connect Ezekiel 36 to its New Covenant fulfillment**: The passage is not merely a promise to national Israel — it is the prophetic basis for regeneration. Show the congregation that what they experienced in conversion is what God promised through Ezekiel. This is not a leap — it is the passage's own trajectory, confirmed by Jesus (John 3), Paul (Rom. 8), and Peter (Acts 2).
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Triggered** — though with pastoral qualification.
+
+Exposition scores 12/25 and Conscience & Applicatory Force scores 5/15. This triggers the diagnostic. However, the "dead orthodoxy" flag here is better described as *incomplete* orthodoxy than cold orthodoxy. The preacher's warmth, congregational love, and evident personal zeal are real. The problem is structural and homiletical, not motivational. The theology is alive in the preacher — it has not yet become fully alive in the sermon.
+
+> "This sermon carries genuine doctrinal conviction but has not yet become a preached act. The theology is right and the heart is warm, but the text is not opened, the application is skeletal, and the congregation was informed without being summoned. The doctrine is present. The sermonic act — the meeting between the living Word and the living congregation — is still forming."
+
+---
+
+### 16. Weight of Glory Statement
+The sermon has warmth and genuine Reformed conviction, but it does not yet carry the weight of glory — the sense that God Himself is speaking through the preacher's mouth from this particular passage; the unction is present in the preacher's disposition but has not yet been channeled into the homiletical form that would let it land.
+
+---
+
+### 17. Rubric Fit Note
+This rubric fits well for this passage and genre. Ezekiel 36 is an oracular/prophetic text with a clear theological argument and direct applicatory force — it is well-suited to expository preaching and to the conscience-level categories this rubric measures. The rubric does not need to bend for this text. What the rubric reveals is that the sermon has not yet let the prophetic genre do its work — prophetic proclamation is inherently declarative and exhortatory, and this sermon is more discursive than declarative. The genre calls for more, not less, of what the rubric demands.

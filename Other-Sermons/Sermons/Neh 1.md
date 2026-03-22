@@ -116,3 +116,190 @@ without resolving flagged items below.
    Sermon: "even the demons believe and they tremble"
    ESV (James 2:19): "Even the demons believe—and shudder!"
    The ESV uses "shudder," not "tremble." Minor wording note; correct before printing.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Sermon:** Nehemiah 1 (untitled — introductory/expository message)
+**Evaluator:** Thus Says the Lord Rubric
+
+---
+
+### 1. Verdict Title
+**A Warm and Evangelistically Earnest Opening That Buries the Text Under Its Illustrations**
+
+---
+
+### 2. One-Sentence Summary
+An evangelistically sincere introduction to Nehemiah 1 that demonstrates genuine pastoral heart and a working gospel appeal, but spends so much time on folklore, illustrations, and personal storytelling that the passage itself receives only surface treatment, leaving the exegetical and applicatory work largely undone.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test:** MARGINAL PASS
+The sermon's animating theme — human brokenness cannot be self-repaired; only prayer and Christ can restore — does arise from Nehemiah's posture in chapter 1. However, the passage's actual main point (Nehemiah's intercessory prayer: confession, covenant appeal, and petitioning God for favor) is never expounded. The sermon uses Nehemiah 1 as a launching pad rather than as the source of its argument. The text is introduced but not opened.
+
+**Authority Test:** PASS (with concern)
+The preacher does not contradict or soften the text. But the text barely speaks — it is more referenced than proclaimed. The preacher stands alongside the text rather than under it or within it.
+
+**Gate Status:** CONDITIONAL PASS — proceeds to scoring with structural weakness noted.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 1 — Application is almost entirely generic:** TRIGGERED
+The application calls believers to "pray for the lost" and asks "when was the last time broken things brought you to tears?" These are genuine appeals, but they are not differentiated, not grounded in the passage's specific argument, and do not press particular sins or callings with precision. The strongest specific application — praying for the prostitutes and Muslims nearby — appears only in a single burst at the end with no pastoral development.
+
+**Flag 2 — Main point does not equal text's point:** MARGINAL
+Nehemiah 1 centers on a remarkable intercessory prayer (vv. 5–11): confession of national sin, appeal to covenant promises, and petition for God's favor. The sermon never opens that prayer. The main point derived is broadly true to the book but not to this chapter's argument.
+
+**Score capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 11/25**
+- Textual Fidelity (10): 4/10 — The passage is named and a handful of verses referenced, but the sermon does not derive its argument from the text's own movement. Nehemiah 1:5–11 (the prayer) receives no treatment. The cupbearer background (vv. 1, 11) is developed culturally but not theologically.
+- Contextual Awareness (5): 3/5 — Some good background on the cupbearer role, Artaxerxes, and the historical setting. The connection to Ezra is mentioned. Reasonable but not deep.
+- Exegetical Clarity (5): 2/5 — No original language engagement. No attention to the prayer's structure or its covenant language. The FCF (Israel's sin, the broken wall, and the need for divine intervention) is identified implicitly but not named with precision.
+- Logical Faithfulness (5): 2/5 — The sermon imports Humpty Dumpty, Ring Around the Rosie, John Knox, and 9/11 before opening the text. The passage's own argument (the prayer) is bypassed entirely.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 10/18**
+- Christ-Centeredness (7): 4/7 — Christ is present and necessary. The gospel appeal is sincere and the substitutionary reference ("wages of sin is death... free gift") is present. However, the Christ-connection to Nehemiah 1 is not organic — it is appended rather than arising from the text's covenantal logic.
+- Redemptive-Historical Awareness (3): 1/3 — No redemptive-historical placement of Nehemiah in the storyline of Scripture. The exile and return are treated historically but not theologically.
+- Doctrinal Precision (4): 3/4 — The gospel presentation is sound in its essentials. The original sin section (mold illustration) is clear and useful. No significant doctrinal errors.
+- Confessional Alignment (4): 2/4 — No contradictions of confessional theology. But no engagement with covenant themes that are directly on the table in Nehemiah 1 (covenant appeal in vv. 5, 8–9).
+
+**3. Gospel Centrality & Force (15 pts) — 9/15**
+- Clarity of the Gospel (5): 4/5 — The gospel invitation is clear, sincere, and repeated twice. The evangelist's heart is evident. Justification is implicit rather than precise, but the call to "make peace with God through Christ" is genuine.
+- Necessity of Christ (5): 3/5 — Christ is presented as necessary for salvation, not merely helpful. The mold illustration makes the case for original sin effectively.
+- Cross-Centered Gravity (5): 2/5 — The cross is mentioned but not dwelt upon. The weight falls more on the felt need (brokenness, the broken wall, the broken nation) than on the cross as the answer. The sermon gestures toward Christ without standing under the cross.
+
+**Synagogue Test:** Would a devout non-Christian be offended? Partially — the gospel call at the end would give offense, but the bulk of the sermon (folklore, history, 9/11, John Knox) could be heard without offense. The cross is not a central scandal here.
+
+**4. Conscience & Applicatory Force (15 pts) — 6/15**
+- Heart Penetration (5): 2/5 — The call to "weep for the lost" is emotionally genuine but does not press the conscience systematically. There is no moment where a particular sinner is cornered.
+- Specificity (5): 2/5 — "Pray for the prostitutes on our road" and "100 Muslims within a mile" are specific geographically, but the call remains generic in its demand. No differentiated address to different hearers.
+- Spiritual Differentiation (5): 2/5 — Addresses believers (call to prayer and tears) and unbelievers (gospel invitation) but nothing for the backslider, the nominal, the hardened, or the broken-but-not-yet-believing. Perkins' categories are largely unaddressed beyond the believer/unbeliever binary.
+
+**5. Exhortation & Response (8 pts) — 5/8**
+- Call to Response (4): 3/4 — Both calls (to believers: pray for the lost; to unbelievers: come talk to me) are present and genuine. The communion section adds a further moment of self-examination.
+- Equipping for Holiness & Witness (4): 2/4 — The call to evangelize is made but the congregation is not equipped to do so. They are summoned to feel and pray, but not trained or sent.
+
+**6. Structure & Logical Flow (9 pts) — 4/9**
+- Clarity of Outline (4): 1/4 — There is no discernible structure. Ring Around the Rosie → Humpty Dumpty → Nehemiah → 9/11 → original sin → John Knox → gospel call → communion. The listener cannot sketch this sermon.
+- Progression (3): 2/3 — There is forward movement toward the gospel call, but it is associative rather than logical.
+- Unity (2): 1/2 — Multiple competing ideas. The Humpty Dumpty / self-help / original sin thread and the John Knox / weeping for the lost thread are both present but not unified.
+
+**7. Illustration & Imagination (5 pts) — 2/5**
+- Relevance (2): 1/2 — The illustrations are engaging in isolation (mold, 9/11, Knox) but several are factually problematic (Ring Around the Rosie, Humpty Dumpty as Fall allegory, Knox/Bloody Mary conflation — all flagged in the corrections log). The mold illustration is the strongest and most reliable.
+- Clarity (2): 1/2 — The nursery rhyme illustrations are vivid but their inaccuracy undercuts the clarity they would otherwise provide.
+- Memorability (1): 0/1 — No single image will anchor this sermon in the congregation's memory cleanly, because the images are stacked without priority.
+
+**8. Sermonic Force (5 pts) — 3/5**
+- Reads as Preaching (2): 2/2 — This reads like preaching, not an essay. The oral cadence is natural, direct address is present, and the preacher's voice is genuine.
+- Conviction on the Page (2): 1/2 — The conviction is personal and evangelistic, but the manuscript lacks Scripture-driven assertion density. Much of the sermon is story and history.
+- Cadence and Breath (1): 0/1 — Sentence variation is inconsistent. Some good moments ("There are muslims at the gates!") but no climactic compression.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1** — The sermon is accessible (no technical overload), but its structural looseness means the congregation cannot track a central thread. The material is not dense but it is scattered, which creates a different kind of cognitive difficulty: the hearer cannot identify what to hold onto.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 11/25 |
+| Theology & Doctrinal Integrity | 10/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 6/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 4/9 |
+| Illustration & Imagination | 2/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **50/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **51/100** |
+
+*Note: Fatal flaw cap (69) not the binding constraint here — the raw score falls below it. Score reflects genuine structural weakness.*
+
+**Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Mostly itself — the illustrations dominate. Christ appears at the end but is not the sermon's center of gravity.
+2. **Did I encounter God, or just ideas about Him?** Ideas about brokenness, history, and the need for prayer. God is invoked but not encountered.
+3. **Was I comforted, convicted, or merely informed?** The gospel call offers comfort. But the bulk of the sermon informs (history, background, folklore) rather than convicts.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Genuine evangelistic heart.** The double gospel invitation (for unbelievers) and the call to evangelistic prayer (for believers) are sincere and specific to this congregation's context. The mention of the Muslims and prostitutes nearby is not hollow — it is a real pastoral challenge.
+2. **Sound original sin doctrine.** The mold illustration is the sermon's most effective theological moment — clear, concrete, biblically grounded, and applied to both the human condition and the need for grace.
+3. **Oral authenticity.** The manuscript reads the way people actually talk. The preacher is present on the page, and the congregation feels addressed, not lectured.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The passage is not opened.** Nehemiah 1:5–11 — the intercessory prayer that is the chapter's theological heart — receives zero treatment. The sermon takes the *context* (broken wall, Nehemiah's grief, his cupbearer role) and builds around it without ever inhabiting the text. The preacher spent more words on Ring Around the Rosie than on Nehemiah's prayer.
+2. **The illustrations are factually unreliable.** The corrections log documents seven errors, including a significant historical conflation (Knox/Bloody Mary), a likely apocryphal etymology (Ring Around the Rosie), and an unverified scientific claim (E. coli/Y. pestis). A congregation that checks the facts will find cause to question everything else.
+3. **No structure.** The sermon cannot be outlined because it has no spine. The preacher moves by association, not argument. A hearer cannot carry this sermon home — there is nothing to carry.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how much of this sermon is about everything except the passage. The genuine pastoral warmth and the evangelistic burden are real strengths — but they are currently being channeled through a framework built around storytelling rather than text. The preacher may believe he has "covered" Nehemiah 1 because he mentioned the cupbearer background and named the grief and the prayer — but covering and opening are different things.
+
+---
+
+### 12. Illusion of Strength
+
+The John Knox section *feels* like a powerful climax — the weeping reformer, the frightened queen, the prayer that shook Scotland. It is emotionally stirring. But it is (a) historically conflated with the wrong queen, (b) built on an unverified attribution of the prayer to Knox, and (c) doing the work that Nehemiah's own prayer in 1:5–11 should be doing. The text contains its own version of this moment — a man on his knees before God, confessing sin, appealing to covenant, weeping over a broken people. The preacher bypassed the original to tell a corrupted copy.
+
+---
+
+### 13. Missed Opportunity
+
+Nehemiah 1:5–11 is one of the great intercessory prayers in the Old Testament. It follows the pattern of Daniel 9 and Ezra 9: confession of sin, acknowledgment of deserved judgment, appeal to covenant faithfulness, petition for grace. This is precisely the kind of prayer the preacher was calling the congregation to pray — and the sermon never showed them what it looks like. The text was the sermon's best illustration, and the preacher reached past it for nursery rhymes.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Restructure the sermon around Nehemiah 1:5–11.** Make the prayer the center. Walk the congregation through its structure: (a) address to the covenant God (v. 5), (b) confession of corporate sin (vv. 6–7), (c) appeal to God's own covenant promises (vv. 8–9), (d) petition for favor (vv. 10–11). This is preachable, moveable, and directly serves the call to prayer the preacher wants to make.
+2. **Remove or heavily qualify the Ring Around the Rosie and Humpty Dumpty sections.** The corrections log makes clear these rest on either disputed or undocumented history. They are consuming the sermon's opening minutes with content that will embarrass the preacher if challenged. Use the time for the text.
+3. **Replace the John Knox section with Nehemiah's prayer.** Nehemiah 1:5–11 is the indigenous version of what Knox allegedly prayed. Show the congregation what a real intercessory prayer looks like from the text itself. This is stronger, more accurate, and more faithful.
+4. **Add differentiated application.** After calling believers to pray, address: (a) the believer who already prays but has grown cold to the lost — press them on the gap between knowing lost people and weeping for them; (b) the nominal who shows up but has never genuinely interceded; (c) the skeptic in the room who thinks prayer accomplishes nothing — show them Nehemiah's prayer produced the king's permission (Nehemiah 2).
+5. **Correct all seven items in the existing corrections log before preaching or republishing.** The Knox/Bloody Mary conflation in particular is a credibility-threatening error.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — the sermon is not doctrinally precise enough to qualify as "correct but bloodless." The concern here is the inverse: pastoral warmth without textual depth. The fire is present; the exposition is missing.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The evangelistic burden for the lost — the Muslims at the gates, the prostitutes on the road — carries genuine unction; but the sermon does not build the theological gravity needed to make the eternal stakes land with full weight, because it never stays in the text long enough to feel its own gravity. **+2 bonus.**
+
+---
+
+### 17. Rubric Fit Note
+
+This is a narrative/historical passage with an embedded prayer. The rubric applies cleanly. The prayer (Neh 1:5–11) is the natural locus of theological and applicatory weight, and the rubric's categories (exposition, FCF, gospel centrality, conscience/application, exhortation) all map directly onto what the passage provides. No genre strain. The rubric is not the problem; the passage was not opened.

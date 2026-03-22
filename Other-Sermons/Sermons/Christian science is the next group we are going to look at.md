@@ -60,3 +60,190 @@ Ultimately it all comes back to scripture though. Bring them right back to the b
 
 Gospel
 Close
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**An Apologetics Lecture With a Sermon-Shaped Hole**
+
+### 2. One-Sentence Summary
+A useful and accessible introduction to the errors of Christian Science that uses John 14:6 as its anchor but never actually preaches the passage, leaving the congregation informed about a cult without being confronted by Christ.
+
+### 3. Berean Gate
+**FAIL — Conditional**
+
+The Scopus Test reveals a structural problem: the sermon's main point is not the main point of the text. John 14:1–7 is Jesus' tender, direct address to troubled disciples, anchored in His own identity as the Way, the Truth, and the Life. The sermon's organizing idea is: *Christian Science is wrong, and here is how to recognize and refute it.* That thesis does not arise from John 14's own argument. The passage is used as a proof text and a launching pad, not as the text under which the preacher stands and from which the sermon flows.
+
+This is not a fatal disqualification given the stated pastoral context (cult awareness series, local mission context), but the sermon must be evaluated for what it is: an apologetics teaching that employs the text instrumentally rather than expositionally. The Scopus Test fails. The Authority Test partially passes — the preacher does not soften or contradict the text, but he also does not stay under it long enough for it to govern the sermon.
+
+**No score is assigned in full.** A partial diagnostic follows given the series context, but the evaluation reflects that this is a teaching session, not a text-driven sermon in the classical sense.
+
+---
+
+*Because the Berean Gate is not cleanly passed, the full scoring framework is applied as a diagnostic, not a commendation. Fatal flaw flags are noted explicitly.*
+
+---
+
+### 4. Fatal Flaw Flags
+**Score capped at 69.**
+
+The following flags are triggered:
+
+- **Flag 1 — No clear gospel presentation**: The sermon ends with the notes "Gospel / Close" — indicating the gospel was intended to be delivered extemporaneously and is not present in the manuscript. As written, the sermon contains no articulation of justification, no proclamation of the cross, no call to faith. The Carolyn Poole testimony moves toward the gospel but never arrives. The manuscript as it stands cannot be evaluated as having proclaimed Christ's finished work.
+
+- **Flag 3 — Christ is absent or unnecessary in the expository core**: The sermon talks *about* Christ's deity and uniqueness extensively in apologetic terms, but never proclaims Christ *to* the congregation. The difference between arguing that Jesus is the Way (apologetics) and preaching Jesus as the Way (proclamation) is the distance between this sermon and a genuine gospel homily.
+
+- **Flag 5 — No actual exhortation**: The sermon informs the congregation about Christian Science and tells them how to witness to Christian Scientists. It never summons the congregation itself to believe, repent, trust, or respond. The call is directed outward (toward Christian Scientists) rather than inward (toward the hearers themselves).
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 9/25**
+
+- Textual Fidelity: 3/10. The text is read twice (vv. 1–7), and Carolyn Poole's testimony crystallizes around it, but the sermon does not move through the passage's argument. No exegetical work is done on "I am the way and the truth and the life" — the most theologically loaded clause in the passage. The FCF (fallen condition focus) is not identified from the text; instead it is imported from the cult context.
+- Contextual Awareness: 2/5. The preacher briefly sets the Last Supper context. No treatment of the Farewell Discourse as a whole unit.
+- Exegetical Clarity: 2/5. Greek is absent. The exclusivity of v.6 is noted but not unpacked. The rooms/dwelling places motif is untouched.
+- Logical Faithfulness: 2/5. The text is not eisegetically abused, but it is also not followed. It governs nothing in the sermon's structure.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+
+- Christ-Centeredness: 4/7. Christ's deity is defended robustly. The Trinity is affirmed. Mediatorial uniqueness is stated. But there is slippage in precision — the Arius/Athanasius summary is casual ("looked like God from the right angles"), and the doctrinal content never rises to confessional clarity.
+- Redemptive-Historical Awareness: 1/3. There is no placement of the passage in the arc of redemption.
+- Doctrinal Precision: 4/4. No outright errors. The critique of Christian Science's Christology is accurate and the Protestant view of Scripture is well-stated.
+- Confessional Alignment: 2/4. Scripture alone is affirmed strongly. Sola fide and the doctrines of grace are absent, but not contradicted.
+
+**3. Gospel Centrality & Force — 5/15**
+
+- Clarity of the Gospel: 1/5. The gospel is noted as a placeholder at sermon's end ("Gospel / Close") but not delivered in the manuscript.
+- Necessity of Christ: 3/5. Christ's exclusivity (v.6) is the sermon's theological spine, and this is its strongest gospel element.
+- Cross-Centered Gravity: 1/5. No cross. No atonement. No mention of what Jesus went to prepare a place by doing. The death that frames John 13–17 goes entirely unnamed.
+
+**Synagogue Test**: A devout non-Christian could sit through this sermon without being offended by the necessity of Christ's blood. The offense is directed at Christian Scientists, not at the unconverted conscience of every hearer. **Flag triggered.**
+
+**4. Conscience & Applicatory Force — 6/15**
+
+- Heart Penetration: 2/5. The strongest moment of conscience engagement is the rhetorical turn at v.40: "At that moment, how are we any better than this crazy lady Mary Eddy?" — directly asking the congregation to examine their own tendency to set Scripture aside. This is real application. It is brief and underdeveloped, but it is genuine.
+- Specificity: 2/5. The flashlight and telescope illustrations move toward concrete application of Scripture use. But application for the believer in the room is thin.
+- Spiritual Differentiation: 2/5. The sermon distinguishes only two categories: Christians (us) and Christian Scientists (them). No differentiation among the congregation's own spiritual states. The backslider, the humbled, the self-righteous within the room are not addressed.
+
+**5. Exhortation & Response — 2/8**
+
+- Call to Response: 1/4. The only call is outward — go study with Christian Scientists. No internal summons to the congregation.
+- Equipping for Holiness & Witness: 1/4. The Carolyn Poole testimony and the practical steps for reaching Christian Scientists (study the deity of Christ, study the mediatorial uniqueness) are genuinely equipping. This is the sermon's practical strength. But the church is not sent out from an encounter with Christ — they are sent out from information about a cult.
+
+**6. Structure & Logical Flow — 5/9**
+
+- Clarity of Outline: 2/4. The shape is discernible: Context → Cult Overview → Scripture's Authority → Founder's Errors → Testimony → Reaching Them. But it is not announced or tracked. A listener could not sketch it on a napkin mid-sermon.
+- Progression: 2/3. The sermon builds loosely from description to application, but the detour through atheism (the festival critic) is a structurally damaging tangent that serves neither the text nor the cult topic.
+- Unity: 1/2. The sermon has two competing centers: Christian Science as a cult (informational) and John 14:6 as the answer (proclamatory). These never merge into one dominant idea.
+
+**7. Illustration & Imagination — 3/5**
+
+- Relevance: 1/2. The Carolyn Poole testimony is the sermon's most powerful illustrative move — a real person, a credible journey, a genuine conversion. The broken leg / diabetes / SIDS list is vivid and grounded.
+- Clarity: 1/2. The flashlight and telescope analogies are serviceable. The telescope illustration is clear and memorable.
+- Memorability: 1/1. "If your god never disagrees with you, you might just be worshiping an idealized version of yourself" (Keller) — this will be carried home.
+
+**8. Sermonic Force — 3/5**
+
+- Reads as Preaching: 1/2. The voice is pastoral and conversational, with direct address and rhetorical questions. It reads as spoken, not written — which is appropriate. But it is the force of a conversation, not a proclamation.
+- Conviction on the Page: 1/2. The preacher clearly believes what he is saying. The indignation about cult authority structures is genuine. But Scripture-grounded assertion density is low — much of the sermon runs on the preacher's summary rather than the text's own weight.
+- Cadence and Breath: 1/1. The colloquial register serves the context. No moment where the manuscript roars, but it does not plod either.
+
+---
+
+### 6. Cognitive Load Modifier
+**−1**
+
+The sermon is accessible and follows without difficulty. The atheism detour introduces a competing idea that briefly overloads the session, but the primary argument is easy to track. Average church member can follow it.
+
+---
+
+### 7. Total Score
+9 + 11 + 5 + 6 + 2 + 5 + 3 + 3 = **44/100 − 1 (Cognitive Load) = 43**
+
+*Score capped at 69 by fatal flaw flags — but the raw diagnostic score of 43 reflects the genuine structural deficiencies independent of the cap.*
+
+**Interpretation: Below 60 — Fundamentally incomplete as a sermon. This is a useful cult-apologetics teaching that requires a full gospel proclamation to become a sermon.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Partially of Christ (His deity, exclusivity) — but primarily about a cult and how to engage it. The answer is mixed.
+2. *Did I encounter God, or just ideas about Him?* Ideas about Him. The Carolyn Poole testimony is the closest the sermon comes to an encounter — and it is her encounter, not the congregation's.
+3. *Was I comforted, convicted, or merely informed?* Primarily informed, with a thin moment of self-examination at the "how are we any better" turn.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Carolyn Poole Testimony**: A well-chosen, credible, real-person account of conversion out of Christian Science. Its logic — if the Bible is right, CS is wrong; if the Bible is wrong, CS (which claims to be based on the Bible) is still wrong — is airtight and memorable. This is the sermon's most durable contribution.
+
+2. **The Direct Conscience Turn (v.40)**: "At that moment, how are we any better than this crazy lady Mary Eddy? Thinking we know better than scripture..." — this is the sermon's only moment of genuine inward application, and it lands. It connects the cult problem to the universal human tendency toward self-authority. More of this would transform the sermon.
+
+3. **Pastoral Accessibility and Voice**: The preacher speaks in a register his congregation can hear. No jargon, no performance, no distance. The colloquial directness ("That smell funny to any of you?") reflects genuine pastoral presence. The Tim Keller quote is aptly chosen and would lodge in memory.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The Gospel Is a Placeholder**: The manuscript ends "Gospel / Close" — which means the most important thing the preacher has to say was left unwritten. John 14 opens with "Do not let your hearts be troubled" and moves through Jesus as the Way precisely because the disciples were facing death and uncertainty. The entire pastoral force of the passage — comfort for the troubled heart, the prepared place, the Father's house — is bypassed in favor of cult apologetics. The cross that gives those promises their foundation is never named.
+
+2. **The Text Governs Nothing**: John 14:1–7 is read twice but preached zero times. The sermon's argument would be entirely intact if the passage were replaced with John 10:9 or Acts 4:12. When a text can be removed from a sermon without changing the sermon, the sermon has not been preached — the text has been borrowed. Every structural point in this sermon arises from cult research, not from the passage's own movement.
+
+3. **No Exhortation to the Congregation Present**: The call to action is directed entirely at Christian Scientists (or toward engaging them). The congregation in the room is never summoned. The believer, the doubter, the person quietly making themselves their own authority — none are told what they must now believe, do, repent of, or pursue. The sermon equips for outward witness without first pressing the inward question.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the sermon is structured as a lecture about an external threat rather than an internal summons. The material is good. The concern is genuine. But the sermon's energy moves consistently away from the congregation (toward the cult) rather than into the congregation (toward their own hearts). A preacher can be entirely right about Christian Science and leave no one convicted, comforted, or changed — if the proclamation never turns inward.
+
+The atheism detour (the festival critic who "tours talking about perceived problems in scripture") is a structurally damaging tangent. It introduces a third subject (biblical inerrancy vs. skepticism) that neither the text nor the cult topic requires, and it breaks the sermon's momentum at its most instructive point.
+
+---
+
+### 12. Illusion of Strength
+
+The doctrinal rebuttals feel strong because they are delivered with confidence and the content is largely accurate. But doctrinal accuracy about a cult is not the same as expositing a text. The sermon *sounds* like it is doing textual work because it mentions the passage twice and ends with a Christological assertion — but the actual work of opening John 14 from the inside never happens. The confidence of the apologetics masks the absence of the exposition.
+
+Similarly, the Carolyn Poole testimony feels like a gospel moment because it ends in conversion. But it is someone else's gospel encounter, not a proclamation of the gospel to the people in the room. The sermon borrows the emotional weight of her story without delivering its own proclamation.
+
+---
+
+### 13. Missed Opportunity
+
+John 14:1 — "Do not let your hearts be troubled" — is the pastoral entry point this sermon needs and never uses. The disciples are troubled because Jesus is leaving and they cannot follow. Christian Scientists are troubled because they cannot achieve the "Christ state of mind" on their own terms. The troubled heart is the human condition the text was written to address, and it is the exact need of the person in the cult. The preacher had a natural, organic, textually-grounded bridge from the cult's appeal (the promise of peace through mental ascent) to the text's answer (peace given by Christ, not achieved by the self) — and walked past it.
+
+The "many rooms / prepared place" motif (vv. 2–3) directly contradicts the Christian Science doctrine that heaven is a state of mind. The preacher could have preached *from the text outward* to refute the cult rather than preaching *from the cult inward* to the text. That inversion would have been both more faithful and more powerful.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Rebuild the structure around the text's own movement**: Let John 14:1–7 set the agenda. Troubled hearts → Jesus as the answer → the exclusive claim of v.6. The cult rebuttal should arise from the passage, not the other way around.
+
+2. **Write out the gospel, do not leave it as a placeholder**: The proclamation of Christ's death, resurrection, and present intercession (the "prepared place" He went to make) belongs in the manuscript. The congregation cannot be exhorted to share a gospel the sermon itself has not proclaimed.
+
+3. **Add the inward turn after the cult material**: After explaining what Christian Science gets wrong, turn and ask: "Where are you trusting your own mind over God's Word? Where are you your own mediator?" The "how are we any better" move is present — it needs to be developed into a full applicatory section with differentiated address.
+
+4. **Cut the atheism detour entirely**: The festival critic tangent is not connected to John 14, Christian Science, or the congregation's immediate need. It belongs, if anywhere, in a separate teaching on inerrancy.
+
+5. **Add a direct exhortation at the close**: Something like — "Bring your troubled heart to the only One who can actually prepare a place for it. Not Mary Eddy. Not your own enlightened mind. The One who said, 'I am the Way' — and then walked the way of the cross to prove it."
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — the sermon does not score high enough in exposition for the dead orthodoxy pattern (20+ exposition, 9- application) to activate. The doctrinal content is sound but the exposition score is too low.
+
+---
+
+### 16. Weight of Glory Assessment
+The eternal stakes are present in the subject matter (a cult that denies Christ and leaves its followers without a mediator) but do not fully register in the sermon's gravity — the tone is more instructional than urgent, and the congregation is not made to feel the weight of what it means to stand before God without Christ.
+
+---
+
+### 17. Rubric Fit Note
+This is not a sermon manuscript in the classical sense — it is a cult-apologetics teaching session with a text attached. The rubric applies appropriately, but the evaluator notes that the genre bends the framework: this session may be entirely appropriate *within a series* where the gospel has been proclaimed repeatedly and the text functions as a key rather than as the governing word. Even so, the fatal flaw flags remain structural rather than contextual — the gospel must be in the manuscript, and the congregation must be exhorted, regardless of series context.

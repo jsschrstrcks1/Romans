@@ -256,3 +256,21 @@ Everything we do is for the glory of God. We don't guess — we verify. The pulp
 > "Slight thoughts of sin produce slight thoughts of God." — John Owen
 
 Finish strong.
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Genre Note:** This file is not a sermon manuscript. It is a project configuration and operational guidelines document — a set of instructions governing how the Romans sermon series is prepared, written, evaluated, and committed. It defines skill workflows, reference maps, voice markers, theological commitments, citation standards, congregation profile, and operational rules. No Berean Gate test, fatal flaw check, or weighted scoring applies. The rubric is designed to evaluate proclamation of God's Word to a congregation; this file governs the process of producing that proclamation.
+
+**Applicable Observations (with caveats):**
+
+1. **Theological Commitments (rubric element 2):** The commitments listed — penal substitutionary atonement, justification by faith alone, monergistic regeneration, five points of Calvinism, 1689 LBCF as confessional framework — are precisely defined and confessionally grounded. No theological sloppiness is present in the framework itself. This is a strong foundation for the sermons this document governs.
+
+2. **Gospel Centrality (rubric element 3):** The structural requirement that every sermon include a gospel call is explicitly mandated (sermon structure item 7). The rubric itself is listed as a governing skill. This document builds gospel centrality into the workflow rather than leaving it to chance or preacher memory.
+
+3. **Conscience & Application (rubric element 4):** The congregation profile section demonstrates genuine pastoral awareness — it names specific burdens (struggling marriages, broken families, addiction, health crises) and explicitly warns against preaching to an idealized hearer. "Don't preach to the person who has it together. They're not in the room." This is Perkins-level differentiation built into the project's DNA.
+
+4. **Sermonic Force / Voice (rubric element 8):** The voice markers section is detailed and pastorally honest. The instruction to use "Greek as unlock, not decoration" reflects the rubric's own exegetical transparency standard. The warning to "always sound like a human preacher, never like an AI" is the right instinct — though the voice-audit skill is where that gets enforced.
+
+5. **Structural Integrity (rubric element 6):** The sermon structure outlined (hook → people group → prayer → reading → body → gospel call → BFM connection → call to action) is coherent and textually anchored. The dual-purpose note (preached and read) adds a legitimate production constraint.
+
+**Summary:** This document is a well-constructed project infrastructure file. Its theological commitments are confessionally sound, its workflow is rubric-aware, and its congregation profile reflects genuine pastoral intelligence. It earns no sermon score because it is not a sermon — but the framework it establishes is one that, if faithfully followed, would produce sermons worth evaluating highly.

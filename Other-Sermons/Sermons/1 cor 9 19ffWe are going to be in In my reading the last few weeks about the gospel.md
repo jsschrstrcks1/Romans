@@ -90,3 +90,182 @@ Are you sharing the gospel? And why are you sharing the gospel?
 Would your answers honor God? 
 
 For those that don’t yet know Jesus let me tell you how you can know him.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Well-Intentioned Gospel Motivations Talk That Never Preaches the Text**
+
+---
+
+### 2. One-Sentence Summary
+A sermon on evangelistic motivation that draws helpfully on Paul Washer and a seminary blog post, but fails to exposit 1 Corinthians 9:19-23 and leaves the congregation exhorted by an article rather than by the Word of God.
+
+---
+
+### 3. Berean Gate Result
+**FAIL — Scopus Test**
+
+The main point of the sermon is not the main point of 1 Corinthians 9:19-23. Paul’s argument in this passage is about his freedom-in-slavery strategy for the gospel — he becomes all things to all men so that "by all means" he might "save some" (v.22). The passage is about the *method and sacrifice* of gospel ministry, rooted in the *freedom* Paul has in Christ that paradoxically becomes total self-surrender for the sake of others. The sermon instead turns the passage into a motivational preamble about why we should share the gospel at all. The blog article by the Oklahoma pastor receives more sustained treatment than the text itself. The preacher reads the passage once and then largely departs from it. The Scopus Test fails: the sermon’s thesis ("Check your motivation for sharing the gospel") does not arise demonstrably from the passage’s own argument ("Paul became all things to all men out of gospel freedom so that by any means some might be saved").
+
+> Because the Berean Gate is not fully passed, the score is evaluated with a cap noted below. However, the evaluation continues to provide diagnostic value.
+
+---
+
+### 4. Fatal Flaw Flags
+**Three flags triggered — score capped at 69.**
+
+- **Flag 2: Main point does not equal text’s point.** The sermon uses the passage as a launching pad for a motivational talk on evangelism. Paul’s actual argument — the freedom-to-slavery paradox of gospel ministry — is never exposited.
+- **Flag 4: Application is entirely generic.** "Are you sharing the gospel? And why are you sharing the gospel?" is the entire applicatory movement. No differentiation among hearers. No specific conscience-pressing. No particular sinner cornered by the text.
+- **Flag 5: No actual exhortation.** The sermon ends with a question and a pivot to "let me tell you how you can know him." The congregation is never called to a specific response. There is no "therefore" moment. No one is told what to do differently on Monday morning.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 8/25**
+- *Textual Fidelity*: 3/10 — The text is read but not exposited. Verse 19 is quoted once ("Even though I am free. I belong to no one. I made myself a slave to everyone") and then immediately generalized. Verses 20-23 — the structural heart of the passage with Paul’s four-part adaptation strategy — receive no treatment. The FCF (Fallen Condition Focus) is never identified: Paul wrote this text to address Corinthian confusion about Paul’s apostolic authority and to model sacrificial gospel ministry. Neither is named.
+- *Contextual Awareness*: 1/5 — A brief reference to Paul’s bivocational ministry in the preceding section is offered, but no engagement with the book’s argument, the Corinthian situation, or what "free from all" means in context.
+- *Exegetical Clarity*: 2/5 — No Greek engagement, no structural observation, no word study. The passage is treated as a slogan rather than an argument.
+- *Logical Faithfulness*: 2/5 — The shift from the passage to 2 Corinthians 11, and then to the article, and then to Paul Washer, moves the sermon entirely away from the text’s own logic. This is citation-driven, not text-driven.
+
+**2. Theology & Doctrinal Integrity — 10/18**
+- *Christ-Centeredness*: 4/7 — Christ is present but not developed. The cross is mentioned in the article, and the Great Commission is cited briefly. But there is no sustained theological account of what the gospel is that Paul is so desperate to share.
+- *Redemptive-Historical Awareness*: 1/3 — No placement of 1 Corinthians 9 within the redemptive storyline. Paul’s apostolic calling, his slavery to all men as an echo of Christ’s kenosis, goes unnoticed.
+- *Doctrinal Precision*: 3/4 — No outright errors. The Paul Washer quotations are sound. But the gospel itself is not defined in the sermon body — it is gestured at but not proclaimed.
+- *Confessional Alignment*: 2/4 — No contradictions. But no confessional precision either. The sermon rests at a generically evangelical level.
+
+**3. Gospel Centrality & Force — 7/15**
+- *Clarity of the Gospel*: 2/5 — The gospel is referenced but never articulated. The sentence "For those that don’t yet know Jesus let me tell you how you can know him" ends the sermon with a gesture that is never filled in (at least not in the manuscript).
+- *Necessity of Christ*: 3/5 — Christ is treated as necessary, but mainly as the object of sharing. The Cross’s actual necessity for the sinner is assumed, never proclaimed.
+- *Cross-Centered Gravity*: 2/5 — The sermon does not move toward the cross. It moves toward motivation, statistics about Paul’s suffering, and a call to share. The cross is background music.
+
+**4. Conscience & Applicatory Force — 5/15**
+- *Heart Penetration*: 2/5 — The article does some of this work effectively (the "I should" confession is genuinely searching), but it is the article doing the searching, not the sermon. The preacher does not press the conscience from the Word.
+- *Specificity*: 1/5 — The applications are entirely generic: share the gospel, check your motivation, don’t make excuses for Muslims/JWs/Mormons. These are accurate but not specific.
+- *Spiritual Differentiation*: 2/5 — One brief differentiation: those who know Jesus and those who don’t. The backslider, the humbled-but-not-yet-believing, the self-righteous, and the discouraged are not addressed.
+
+**5. Exhortation & Response — 3/8**
+- *Call to Response*: 1/4 — "Are you sharing the gospel? And why?" is a question, not a call. The congregation is never told what to do. No imperative lands.
+- *Equipping for Holiness & Witness*: 2/4 — The blog article’s advice (invest in worship, pray for neighbors, fill your mind with gospel truth) functions as practical equipping, but it belongs to the article, not to the sermon’s own development.
+
+**6. Structure & Logical Flow — 5/9**
+- *Clarity of Outline*: 2/4 — There is no traceable outline. The sermon moves: introduction question → article → passage (briefly) → 2 Corinthians 11 suffering catalogue → Paul Washer quotes → closing questions → gospel invitation. A listener cannot sketch this.
+- *Progression*: 2/3 — Some forward movement, but the structure is more accumulative than progressive. The sermon doesn’t build toward a climax.
+- *Unity*: 1/2 — Three competing organizing ideas: motivations for sharing the gospel, Paul’s sufferings for the gospel, the gospel as treasure. These are related but never unified under a single dominant claim.
+
+**7. Illustration & Imagination — 3/5**
+- *Relevance*: 1/2 — The Paul Washer quotation about the gospel as greatest treasure is vivid. The rod-beating description is viscerally effective.
+- *Clarity*: 1/2 — The rod-beating article is informative but lengthy for its illustrative purpose. It illustrates Paul’s commitment but drifts into historical exposition that competes with the sermon’s momentum.
+- *Memorability*: 1/1 — "Starving beggars telling other starving beggars where they found a feast that never runs out" is genuinely memorable and will be carried home.
+
+**8. Sermonic Force — 4/5**
+- *Reads as Preaching*: 2/2 — The manuscript reads as spoken word. Direct address ("When you have an injury..."), conversational rhythm, the rhetorical questions — this is clearly oral.
+- *Conviction on the Page*: 1/2 — The conviction present in the manuscript is largely borrowed from the article and Washer. The preacher’s own voice in the transitions is less convicting.
+- *Cadence and Breath*: 1/1 — Good sentence variation, natural spoken rhythm. The preacher is comfortable in this voice.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: 0 (no modifier)**
+The sermon is accessible. Any hearer can follow it. The danger here is not complexity but shallowness — the load is low because the text is not deeply engaged.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 8/25 |
+| Theology & Doctrinal Integrity | 10/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 5/15 |
+| Exhortation & Response | 3/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **45/100** |
+| Cognitive Load Modifier | 0 |
+| Weight of Glory Bonus | +1 |
+| **Total** | **46/105** |
+
+**Fatal flaw cap: 69. Actual score: 46. Score band: Below 60 — Fundamentally flawed. Rebuild from the text.**
+
+---
+
+### 8. Core Override Questions
+1. *Does this sermon make me think more of Christ — or myself?* Primarily of the task of sharing the gospel — which is about the self’s obedience. Christ himself is not magnified.
+2. *Did I encounter God, or just ideas about Him?* Ideas about the obligation and motivation of evangelism. God himself is not weighty in this sermon.
+3. *Was I comforted, convicted, or merely informed?* The article does convict on motivation. The sermon itself largely informs. The distinction matters: the preacher did not do the convicting — a borrowed article did.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The "Starving Beggars" line** — The closing image from the article ("starving beggars telling other starving beggars where they have found a feast that never runs out") is theologically rich and genuinely memorable. It should not be buried — it should be the sermon’s climax, developed and pressed from the pulpit’s own voice.
+
+2. **The rod-beating description** — The visceral account of Paul’s suffering for the gospel is an effective illustration of what "all things to all men" actually cost. This kind of concrete historical grounding is valuable in making the text feel real to a congregation prone to abstraction.
+
+3. **Pastoral transparency on motivation** — The sermon is honest about the "I should" problem. The article’s confession resonates precisely because it names something most Christians feel but rarely say aloud. This self-implicating openness creates genuine connection.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The passage is never exposited.** Paul’s argument in vv.19-23 is structured around a brilliant paradox: freedom from all → voluntary slavery to all → a four-part adaptive strategy → the goal ("by any means save some"). This is Paul’s theology of missionary self-renunciation, rooted in his freedom in Christ. The sermon never opens this. A listener could not reconstruct the passage’s argument after hearing this sermon.
+
+2. **The article does the preaching.** The seminary blog post receives five paragraphs of sustained reading and is the functional heart of the sermon. The preacher’s own voice never produces comparable conviction or insight. The congregation is being preached to by a pastor in Oklahoma, not by the man standing before them. This is a structural problem, not a stylistic one.
+
+3. **No exhortation and no specific application.** The sermon ends with a string of rhetorical questions: "Are you sharing the gospel? And why? Would your answers honor God?" These are questions, not calls. The congregation was never told what to do differently. No one was cornered. No one was sent. The sermon explains a problem without prescribing a remedy from the text itself.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that he is giving a motivational talk *about* the text rather than *from* the text. The article is a helpful devotional reflection — but it is functioning as the hermeneutical lens through which the passage is read, rather than the passage functioning as the lens through which life is interpreted. This inverts the authority structure of expository preaching. The preacher may believe he is being biblical because Paul is mentioned and quoted — but citation is not exposition.
+
+Additionally, the passage’s core theological freight — Paul’s freedom in Christ as the ground of his total self-surrender — goes unnoticed. This is where the gospel would have entered organically: the freedom Paul has because of Christ’s work *is* what liberates him to become a slave for others. That is not a detour into Christology — it is the passage’s own argument.
+
+---
+
+### 12. Illusion of Strength
+
+The sermon *feels* gospel-centered because it talks about the gospel constantly. The word "gospel" appears approximately fifteen times. Paul Washer quotes about the gospel are prominent and sound. But talking *about* the gospel is not the same as proclaiming it. The gospel itself — what it is, what Christ did, why sinners need it — is never articulated. A hearer new to Christianity could not reconstruct the gospel’s content from this sermon. The frequency of the word masks the absence of the thing.
+
+---
+
+### 13. Missed Opportunity
+
+Paul’s four-part adaptation strategy in vv.20-23 (to Jews as a Jew, to those under the law as under the law, to those outside the law as outside the law, to the weak as weak) is one of the most practically instructive passages on cross-cultural gospel ministry in the New Testament. The preacher briefly gestures at this with the Muslim/JW/Mormon application, but the text’s own categories — and Paul’s theological basis for them — are never unpacked. This is precisely where conscience-level application could have gone deep: What are you unwilling to give up to reach someone unlike you? What rights, comforts, or cultural preferences do you cling to that Paul would have surrendered without a second thought?
+
+---
+
+### 14. Surgical Fixes (3-5)
+
+1. **Rebuild the sermon’s spine from vv.19-23.** The main point must be: *Paul’s freedom in Christ liberates him to become a slave to all, adapting to every person by every means, for the sake of the gospel.* Every section should arise from and return to this claim. The article and Washer quotes may stay — but as illustrations serving this thesis, not as the thesis itself.
+
+2. **Identify and name the Fallen Condition Focus.** What is the broken condition this text addresses? Answer: Our natural self-preservation, our clinging to rights and comfort, our conditional willingness to serve. Paul’s voluntary slavery is the text’s answer to that condition. Name the problem concretely before presenting the solution.
+
+3. **Add a gospel proclamation moment.** When preaching on why we share the gospel, the gospel must be proclaimed — not gestured at. Before the final question, spend two minutes articulating what the gospel actually is: the death of Christ as the just penalty for sin, justification by faith alone, the resurrection as vindication. Let the congregation hear the treasure before being told to share it.
+
+4. **Convert the closing questions into a direct exhortation.** "Are you sharing the gospel?" becomes: "This week, identify one person — one person — whom you will invite into a gospel conversation. Not because you should. Because you are a freed slave who was bought at infinite cost, and you know where the feast is." That is the imperative edge. Give it.
+
+5. **Apply Paul’s four categories specifically.** The Muslim/JW/Mormon section is good but brief. Develop one category concretely: What would it look like to become "as one under the law" to a religious, morally serious neighbor who doesn’t know Christ? That lands where the passage actually lives.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon is not orthodox enough in its exposition to qualify as "correct but bloodless." The issue here is not dead orthodoxy but insufficient textual engagement. The sermon is warm and genuine — but warmth without exposition is not preaching.
+
+---
+
+### 16. Weight of Glory Statement
+The genuine pastoral care for the congregation and the borrowed fire from the Washer quotations suggest a man who believes what he is saying — but the sermon does not carry the weight of eternity because it never stands under the text long enough for the text to bear down on the hearers.
+
+**Bonus: +1/5**
+
+---
+
+### 17. Rubric Fit Note
+The rubric fits this passage well. 1 Corinthians 9:19-23 is a propositional argument (epistolary instruction), not apocalyptic or lament — all eight scoring categories apply without strain. The sermon’s deficiency is not a genre problem; it is an exposition problem. The rubric’s categories reveal the gaps precisely.

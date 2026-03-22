@@ -203,3 +203,73 @@ The user-provided text is an expanded version of the raw transcript that include
 7. **"God is a gentleman" rebuttal expanded** — More extensive in the user's version than in either the archive or polished copy.
 
 **Recommendation**: The 1 Cor 2:14-16 addition and the "enough of the taint" qualifier should be incorporated into the polished version, as both strengthen the sermon theologically.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Document Type Note**: This is not a sermon manuscript. It is a fact-check, voice audit, and sermon map document — a quality-control record generated for the sermon *Out of the Cistern* (BFM Article V). It contains Scripture verification tables, attribution analysis, people-group accuracy checks, a voice continuity report, and a corpus cross-reference map. It describes and audits a sermon; it is not itself a sermon. The rubric cannot be meaningfully applied to a quality-control document as though it were a preachable manuscript.
+
+The evaluation below is therefore a document-type evaluation, not a homiletical scoring. Where rubric categories can be applied informatively (e.g., the document's own theological accuracy, its handling of misattributed quotes, the quality of its editorial recommendations), those observations are offered. No full scoring is assigned.
+
+---
+
+**1. Verdict Title**
+Not a Sermon — A Quality-Control Record for *Out of the Cistern*
+
+**2. One-Sentence Summary**
+This document is a fact-check, voice audit, and corpus map for the sermon *Out of the Cistern* (BFM Article V / Acts 13:48), not a sermon manuscript; the rubric does not apply in its standard form, but the document's own quality and faithfulness as an editorial tool can be assessed.
+
+**3. Berean Gate**
+N/A — This is not a sermon. No Scopus Test or Authority Test applies. The document makes no claim to preach a text; it audits a preacher who does.
+
+**4. Fatal Flaw Flags**
+N/A — The rubric's fatal flaw criteria (no gospel, absent Christ, generic application, no exhortation, inaccessibility) apply to sermon manuscripts, not editorial audit documents. None are triggered or suppressable here.
+
+**5. Score Breakdown**
+No score assigned. This document is not a sermon manuscript and cannot be evaluated on exposition, gospel centrality, conscience and applicatory force, exhortation, sermonic force, or any other homiletical category. Scoring a fact-check document on these criteria would produce meaningless numbers.
+
+**6. Cognitive Load Modifier**
+Not applicable.
+
+**7. Total Score**
+None assigned. Document type is incompatible with rubric scoring.
+
+**8. Core Override Questions**
+Not applicable as homiletical questions. As editorial questions:
+- Does this document make the underlying sermon more faithful and precise? Yes — the Scripture correction, the Edwards misattribution flag, and the Brahmin accuracy refinements all serve the sermon's integrity.
+- Did the auditor engage the text or just perform a checklist? The document shows genuine theological engagement, not mechanical box-checking.
+
+**9. Document Strengths (Top 3) — Evaluated as Editorial Work**
+1. **The Edwards misattribution is handled with scholarly exactness**: The flag is not merely "unverified" but traces the attribution history to William Temple, notes the Puritan Board investigation, and cross-references the same quote appearing in other corpus sermons. This is the kind of rigorous source discipline that protects the preacher from repeating a false attribution in print.
+2. **The Brahmin fact-check is proportionate and specific**: The document does not simply endorse or reject the claim — it identifies the precise overstatement ("no known believers" vs. "0–0.1%") and offers the more defensible phrasing. Joshua Project sourcing and the 65% Dalit Christian statistic from a peer-reviewed journal are sound.
+3. **The voice audit is grounded in textual evidence, not impressionism**: The Voice Continuity Check cites specific lines from the manuscript for each marker. "Yet he did it. Yet he did it any way." and the anaphora sequence are quoted verbatim. This is diagnostic precision, not general affirmation.
+
+**10. Document Weaknesses (Top 3) — Evaluated as Editorial Work**
+1. **The "air-conditioned hell" attribution remains unresolved**: The document correctly identifies three possible sources (Sproul, Lawson, Mohler) and names Sproul as most likely, but the recommendation ("qualify with footnote") defers the resolution rather than providing it. The editorial task was to locate the specific source; identifying three candidates is research, not conclusion.
+2. **The Paul Washer verification is soft**: "Substance verified, exact wording likely paraphrased" is an acceptable pulpit standard, but the document should either locate a specific sermon timestamp/transcript or explicitly note that it cannot be confirmed as a direct quotation. "Quintessentially Washer" is a character argument, not a source argument.
+3. **The Expanded Version Notes (Section VI) contain recommendations without editorial authority**: "The 1 Cor 2:14-16 addition and the 'enough of the taint' qualifier should be incorporated into the polished version" are sound recommendations, but they are buried at the end of the document with no tracking mechanism. An editorial document that makes revision recommendations should indicate whether those recommendations were implemented.
+
+**11. Blind Spots**
+The document is thorough on factual accuracy but does not assess the underlying sermon's theological precision on the point it is auditing most heavily — sovereign election. The phrase "He removes enough of the taint of sin" (Section VI, note 4) is flagged as "theologically more precise," but this framing raises its own questions: Is it accurate to say God removes *sufficient taint for the person to see*, as if regeneration is a partial internal renovation that enables a cooperative response? Reformed/1689 confessional theology (and the BFM 2000 Article V the sermon is expounding) teaches that God regenerates the will completely — the elect are not given a partially cleared view and then asked to choose; they are raised from death. The qualifier "enough of the taint" may drift toward a semi-Pelagian framing if not carefully controlled. The fact-check document endorses this language without this theological caveat.
+
+**12. Illusion of Strength**
+The voice audit's "Machine Tell Scan: CLEAR (0 flags)" creates the impression of a fully authenticated manuscript, but the document is auditing a raw transcript against a polished version — it is not performing a full textual authentication. The 0-flags result is accurate for the narrow question ("Is this AI-generated?") but could mislead if taken as comprehensive authentication of the sermon's integrity.
+
+**13. Missed Opportunity**
+The document cross-references five related corpus sermons but does not assess whether the same Edwards misattribution or the same "pastor near Orlando" attribution appears in those sermons and has been similarly flagged. If the Edwards quote appears in *Ordo Salutis*, *Sola Gratia*, and *Out of the Cistern* (all confirmed in the cross-reference section), and the misattribution flag is only attached to one file, the other files remain unflagged. The editorial task of consistent corpus-wide flagging appears incomplete.
+
+**14. Surgical Fixes — As Editorial Recommendations**
+- Resolve the "air-conditioned hell" attribution before the document is considered complete. If the specific Sproul sermon cannot be located, the recommendation should say so explicitly and provide the Lawson/Mohler alternatives with their verified sources.
+- Add a theological caveat to the "enough of the taint" endorsement in Section VI. The phrase is worth keeping if the sermon clarifies that this is not a partially cooperative act but a complete regenerative work; if the clarification is absent in the polished manuscript, the recommendation should note the risk.
+- Verify that the Edwards misattribution flag has been propagated to all corpus sermons that use the same quote (*Ordo Salutis*, *Sola Gratia 2017/2021*). If not, add a corpus-wide action item.
+- The Washer attribution should be closed with either a specific source or an explicit note: "Specific source sermon not located as of March 2026."
+
+**15. Dead Orthodoxy Flag**
+Not applicable to this document type.
+
+**16. Weight of Glory Assessment**
+This document carries no weight of glory — nor should it; it is a tool that serves the sermon that does, and a well-sharpened editorial tool is its own form of faithfulness.
+
+**17. Rubric Fit Note**
+This rubric does not fit this document. The *Thus Says the Lord* rubric is designed exclusively for sermon manuscripts — preachable texts that expound Scripture, proclaim Christ, and call for response. A fact-check/voice-audit document is not a sermon and cannot be evaluated on exposition, gospel centrality, applicatory force, or sermonic structure without producing nonsense scores. The evaluation above has been adapted to assess the document on its own terms (editorial accuracy, completeness, and integrity) rather than forcing it through a homiletical framework. If a rubric evaluation of the actual sermon *Out of the Cistern* is desired, that evaluation should be applied to `/home/user/Romans/Sermon - Out of the Cistern.md`, not to this audit file.

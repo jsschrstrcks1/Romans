@@ -78,3 +78,177 @@ You can't truly understand love until you've tasted the love of God, until his l
 All that starts with a relationship with God.
 
 Gospel
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**File:** Psalm 119 161-168 (raw draft).md
+**Text:** Psalm 119:161–168 (Shin stanza)
+**Evaluated:** 2026-03-22
+**Status Note:** This is an explicitly raw, unedited draft. The evaluation is applied to the manuscript as it stands. The gospel section is a single-word placeholder ("Gospel") — this is the most critical finding and its implications are scored accordingly. Revision to supply the missing sections would substantially change this score.
+
+---
+
+### 1. Verdict Title
+Scripture Celebrated as Treasure Without Christ as Its Center — An Incomplete Draft with a Structural Gospel Void
+
+---
+
+### 2. One-Sentence Summary
+A vivid and accessible pre-text illustration block leading into a thin engagement with the Shin stanza, where the value of Scripture is warmly celebrated but Christ is absent from the body, the gospel section is a placeholder, and the exegesis illustrates around the text rather than from it.
+
+---
+
+### 3. Berean Gate
+**MARGINAL PASS**
+
+*Scopus Test:* The passage's main theme — the surpassing value of God's Word and the peace, integrity, and love it produces — does ground the sermon's overall thrust (Scripture is a treasure; vv.162, 163, 165 are touched). The sermon does not contradict the text. However, only three of the eight verses receive any attention, and the primary illustrative weight (treasure hunt, storage locker, Forrest Fenn, Brother Andrew) is deployed *before* the text is read. The thesis is text-adjacent, not text-derived.
+
+*Authority Test:* The preacher is not editing away uncomfortable material — Psalm 119's stanza does not contain much that is uncomfortable for a Western congregation. The preacher is a herald of what the text broadly teaches. Pass, but thinly.
+
+---
+
+### 4. Fatal Flaw Flags
+**TWO FLAGS TRIGGERED. Score capped at 69 — but raw score falls below the cap regardless.**
+
+**Flag #1 — No clear gospel presentation.** The manuscript ends with the single word "Gospel" as a placeholder. The gospel has not been written. No substitutionary atonement, no cross, no Christ's finished work — in any form. A listener who came in without knowing the gospel would leave without hearing it. This is not a raw draft caveat — it is the manuscript as submitted to the repository.
+
+**Flag #3 — Christ is absent or unnecessary.** This sermon could be preached — almost word for word — in a synagogue, a mosque, or a generic self-improvement seminar, provided the word "Bible" was substituted for the word "Torah" or "Quran." The celebration of Scripture's value is genuine, but it is not christologically grounded. The New Testament hermeneutic for Psalm 119 — that Christ is the living Torah, the one in whom all the promises of the Word are yes and amen, the one who kept the law perfectly so that his people might love it freely — is entirely absent. Brother Andrew smuggled Bibles, but the Christ those Bibles proclaim is never named.
+
+**Score cap: 69. Raw score: 41. Raw score applied.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 12/25**
+
+- *Textual Fidelity (5/10):* Three of eight verses receive attention — v.162 (great spoil → treasure illustrations), v.163 (hating falsehood → compass illustration), v.165 (great peace → Superman/anxiety). Vv.161 (princes persecute; heart stands in awe of your word), 164 (seven times daily praise), 166 (hoping in salvation and doing commands), 167 (soul keeps testimonies and loves them exceedingly), 168 (all ways before God) — untouched. The passage's opening verse, which frames the entire stanza in a context of persecution, is never engaged.
+- *Contextual Awareness (2/5):* Psalm 119 as a Torah-love acrostic is not oriented. The Shin stanza's place in the acrostic is not named. The Psalm's canonical context — wisdom poetry born in persecution — is invisible. The sermon treats the stanza as a generic "benefits of Bible reading" passage.
+- *Exegetical Clarity (2/5):* No original language work. No entry into the text. The FCF (we treat Scripture as an unopened treasure box) is present and accurate. The sermon illustrates *about* the text rather than exegeting *from* it.
+- *Logical Faithfulness (3/5):* No eisegesis — the illustrations are genuinely relevant to the text's themes. But relevance is not exegesis.
+
+**2. Theology & Doctrinal Integrity — 6/18**
+
+- *Christ-Centeredness (2/7):* Absent from the body. Brother Andrew risks his life for Bibles; the Christ those Bibles proclaim is not named. The "relationship with God" at the close gestures toward the gospel placeholder.
+- *Redemptive-Historical Awareness (0/3):* None. Psalm 119 is treated as a devotional text about Bible reading, not as part of Israel's Torah-love that finds its fulfillment in Christ.
+- *Doctrinal Precision (2/4):* The peace of v.165 is connected to trusting God — accurate but undeveloped. The pill-mill/anxiety connection is culturally specific and statistically documented. No theological sloppiness that contradicts doctrine, but no precision either.
+- *Confessional Alignment (2/4):* No contradiction. No engagement.
+
+**3. Gospel Centrality & Force — 0/15**
+
+- *Clarity of the Gospel (0/5):* Placeholder. Not present.
+- *Necessity of Christ (0/5):* Christ is not present in the manuscript.
+- *Cross-Centered Gravity (0/5):* Absent.
+
+*Fatal Flaw Flags #1 and #3 triggered. This section confirms both.*
+
+**4. Conscience & Applicatory Force — 8/15**
+
+- *Heart Penetration (3/5):* "Did you have anyone threaten you with violence if you didn't give them your Bible this morning?" — effective conscience work through contrast. The Brother Andrew story moves. The "how many of you have cracked open your treasure outside of church this week?" is direct and self-involving.
+- *Specificity (3/5):* The pill-mill/oxycodone connection is specific and well-documented. The Bible-reading question is honest and aimed at the congregation's actual habit. The compass illustration is specific. The Superman/Lois Lane illustration is accessible but thinner.
+- *Spiritual Differentiation (2/5):* One category primarily — the comfortable Western Christian who owns Bibles and doesn't read them. No differentiation between the believer, the doubter, the seeker, the self-righteous.
+
+**5. Exhortation & Response — 2/8**
+
+- *Call to Response (1/4):* The implicit call is "read your Bible." This is never stated as a direct exhortation with a "therefore" moment. The gospel section is a placeholder — whatever call to repentance and faith was intended is not written.
+- *Equipping for Holiness & Witness (1/4):* The Brother Andrew story models costly witness, but the congregation is not explicitly equipped to do likewise.
+
+**6. Structure & Logical Flow — 5/9**
+
+- *Clarity of Outline (2/4):* Three illustrations → Brother Andrew → passage engagement → three points (peace, hate falsehood, overflow of love). The structure is present but the transition from pre-text illustration to text engagement is abrupt. The three points at the end feel loosely assembled.
+- *Progression (2/3):* The pre-text block builds well (treasure hunt → storage locker → Forrest Fenn → Brother Andrew). The transition into the passage and the back half of the sermon lose momentum.
+- *Unity (1/2):* The dominant idea (Scripture as treasure) holds, but the conclusion drifts — the compass illustration and the love-overflow point feel like separate ideas rather than a unified landing.
+
+**7. Illustration & Imagination — 4/5**
+
+The illustrations are the sermon's genuine strength. The pineapple safe story is vivid, specific, and memorable — Jarrod bludgeoning the one thing of value to get at whatever might be inside is a sharp image for how we treat Scripture. The Forrest Fenn treasure hunt is vivid. Brother Andrew is powerful and historically grounded (verified). The Superman/Lois Lane illustration is dated and lighter than the others. The compass illustration is effective for the "half-degree change" point on v.163.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2):* Conversational register, congregational asides ("How many of you..."), first-person reflection, direct address. This reads like a sermon.
+- *Conviction on the Page (1/2):* The Brother Andrew section has conviction. The back half loses it as the sermon moves through its three points without building toward a climax.
+- *Cadence and Breath (0/1):* The draft's unedited state shows — sentences are run-on in places, paragraphs are unbroken where breaks are needed, and the oral cadence is inconsistent.
+
+---
+
+### 6. Cognitive Load Modifier
+**0** — The sermon is accessible to any hearer. No cognitive overload.
+
+---
+
+### 7. Total Score
+**41 / 100** (raw)
+
+*Fatal Flaw cap at 69 does not lift the score — raw score is already below the cap.*
+
+*Interpretation: Fundamentally flawed in current form. The gospel section is a placeholder, Christ is absent from the body, and the exegesis is illustrative rather than expository. This is not a score of the pastor's ability — it is an accurate reading of the manuscript as submitted.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** The sermon makes me think about my Bible-reading habits. Christ is not present to think about.
+2. **Did I encounter God, or just ideas about Him?** Ideas. The Brother Andrew story is moving, but God's weight is not sustained throughout.
+3. **Was I comforted, convicted, or merely informed?** Mildly convicted (about Bible reading) and somewhat informed. The comfort that only the gospel provides is absent.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The pre-text illustration block is the sermon's genuine achievement.** The three treasure-hunt illustrations (engagement box, pineapple safe, Forrest Fenn) build momentum before the text is read, and the progression from lightest to heaviest (engagement → storage locker → multi-state search with five deaths) is well-paced. The Forrest Fenn illustration is vivid and well-verified.
+2. **The Brother Andrew account is powerful and honestly deployed.** The verification footnotes are meticulous. The "make seeing eyes blind" prayer is confirmed. The guard holding the door shut with his knee — that detail is the kind of specific credibility that makes an illustration land. The contrast between Brother Andrew's Bible-hunger and the congregation's Bible-abundance is an effective conscience lever.
+3. **The oxycodone/pill-mill statistical grounding is rare and effective.** A preacher willing to do the research to verify "ten times more than all other states combined" and cite the specific DEA press release is taking the congregation's trust seriously. The Xanax claim was correctly removed when it could not be sourced. This is *careful, not clever* in practice.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel section is a placeholder.** This is the defining failure of the manuscript. Whatever was intended — and the intention to offer the gospel is clear — it is not written. Until it is, this sermon cannot be preached or filed as complete.
+2. **Christ is absent from the body of the sermon.** Scripture is celebrated as treasure — but why? Because it reveals God. Which God? The one who sent his Son. The one whose Word became flesh (John 1:14). The one who kept the law perfectly in our place. The christological grounding of why the Bible is treasure is entirely absent. Brother Andrew risked his life for the Bible — and the Christ that Bible proclaims is never named in the sermon's body.
+3. **The exegesis is illustrative rather than expository.** Five of eight verses receive no attention. The sermon is oriented around the text's *theme* rather than the text's *argument*. The Shin stanza as a whole — the peace of v.165 in the context of persecution (v.161), the seven-times-daily praise of v.164, the "all my ways before you" accountability of v.168 — is left unexplored. The congregation leaves knowing that the Bible is like a treasure chest they don't open. They don't leave knowing what the psalmist actually said in these eight verses.
+
+---
+
+### 11. Blind Spots
+
+- The sermon may not see that celebrating Scripture without grounding that celebration in Christ is close to bibliophilia — loving the map but not the destination it points to. The psalmist's love for Torah is ultimately love for the God who gave it and the promise it contains. That promise is Christ.
+- The pre-text illustrations are so vivid (Forrest Fenn, Brother Andrew) that they may crowd out the exegetical work the back half needs to do. The illustrations earned the congregation's attention — the sermon then needs to deliver more than three loosely connected points on the passage.
+
+---
+
+### 12. Illusion of Strength
+
+The Brother Andrew story *feels* like the sermon's climax, and emotionally it functions as one. But it is illustrative rather than expository — it proves that Scripture is valuable to those who lack it, not what Scripture *says* in these eight verses. The sermon may feel stronger than it is because the illustrations are genuinely moving. The exegetical substance needed to match that emotional investment is not yet present.
+
+---
+
+### 13. Missed Opportunity
+
+**Psalm 119:161 — "Princes persecute me without cause, but my heart stands in awe of your word."** This verse opens the stanza and provides the sermon's entire thesis from the inside: the psalmist is under pressure, under threat — and what holds his heart is not a strategy, a defense, or a political solution. It is the Word. Brother Andrew belongs here, not as pre-text illustration, but as post-text application: *this* is what v.161 looks like when the princes actually persecute. The sermon missed the chance to root its most powerful illustration in the passage's most powerful verse.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Write the gospel section.** This is not optional. The placeholder must become a proclamation: Christ is the one the Bible is about (Luke 24:27). He kept every word of Psalm 119. He is the fulfillment of the Torah the psalmist loved. Faith in him is the foundation of the peace (v.165) the sermon promises.
+2. **Christologize the celebration of Scripture.** Add one paragraph in the body: "Why is the Bible treasure? Not because it makes us better people. Because it tells us about the God who came to find us. The Word of God became flesh — and the rest of the Bible is either preparation for that or response to it. When you open your Bible, you are opening the book that tells you who Jesus is and what he has done."
+3. **Move the Brother Andrew story to be the application of v.161.** "The psalmist says princes persecute him without cause — but his heart stands in awe of the Word. There was a man named Andrew who understood this. He was driving toward a border controlled by princes who hated this book. What he held in his heart was exactly what the psalmist held in his: that this Word is worth more than his safety." Then the prayer. Then the guard's knee. The story becomes exegesis.
+4. **Engage vv.161 and 165 more fully.** V.161 sets the persecution context; v.165 ("great peace have those who love your law; nothing makes them stumble") is the stanza's pastoral climax. The sermon touches v.165 with the Superman illustration — but Lois Lane's confidence because Superman always shows up is not quite the psalmist's peace. The psalmist's peace is not circumstantial protection but settled orientation: nothing makes the Word-lover stumble because he already knows where north is.
+5. **Close the compass illustration with a gospel landing.** "A half degree of change in your heart, and a half degree more, and your desires begin to align with God's. That's growth. But where does that transformation begin? Not with trying harder. It begins with Christ — the one who aligned himself perfectly with God so that we could be forgiven for every degree we've drifted."
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not applicable.** This is not dead orthodoxy — it is an incomplete draft. The pastor's pastoral instinct and illustrative imagination are evident. The diagnosis is incompleteness, not spiritual deadness.
+
+---
+
+### 16. Weight of Glory Assessment
+The illustrations carry pastoral warmth and the Brother Andrew story carries genuine weight. But Christ's absence means the sermon does not yet reach the full gravity of what it is celebrating. Scripture's value is not finally its moral utility — it is that it brings us to Christ. Until that is said, the treasure remains partly unopened. **+0/5 as submitted; revisable to +2/5 upon completion.**
+
+---
+
+### 17. Rubric Fit Note
+Psalm 119 is wisdom poetry — the rubric itself notes that this genre stresses certain categories. The Berean Gate applies differently: the "scopus" of a Psalm stanza is often affective and doxological rather than argumentative. The "conscience" categories apply well — the sermon does press on Bible-reading neglect. The "gospel centrality" and "Christ-centeredness" categories do not bend for genre, however: even a Torah-love psalm, preached by a New Testament preacher, must be preached christologically. The rubric is correctly applied here. The genre does not excuse the absence of Christ.

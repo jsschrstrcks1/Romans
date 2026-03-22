@@ -67,3 +67,193 @@ It strikes me that people are a lot like my little dog. They have this huge absc
 
 as the praise team comes up to sing a final song, ask your self if your heart is truly clean of abscesses of sin & idolatry. If not, heres the alter, come talk to God and get clean. If you do not yet have a relationship with Jesus that is where it starts, come talk to me during the song, and I’ll show you in the bible how you can have eternal life.
 Lets close in prayer.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Warm Pastoral Heart, Wandering Exposition — A Shepherd Who Lost the Trail of His Own Text**
+
+---
+
+### 2. One-Sentence Summary
+A conversational, affectionate opening of Psalm 23 that surfaces genuine pastoral care and useful illustrations while repeatedly abandoning the text's own argument for personal tangents, a detached profanity digression, and an application section that never presses the specific conscience-searching the psalm demands.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with significant caveats**
+
+*Scopus Test*: The sermon's thesis — "We need a shepherd because we are prone to wander, and God as our Shepherd provides, sustains, restores, and promises his presence" — does arise from the passage. The main point of Psalm 23 (the LORD is the shepherd of his people and this shapes how we live and die) is roughly the main point of the sermon.
+
+*Authority Test*: The preacher does not stand above the text as an editor who softens its claims. He submits to it in spirit. However, the extended sections on profanity, nationalism, LGBTQ commentary, and the European missions story represent the preacher *leaving* the text for stretches too long to ignore. He passes the gate but barely — the sermon spends more time away from the passage than in it.
+
+---
+
+### 4. Fatal Flaw Flags
+**One flag triggered — score capped at 69.**
+
+**Flag 4: Application is largely generic.** The application throughout defaults to the abstract: "think about your idols," "sin is like an abscess," "we need to trust God in hard times." The psalm itself contains rich differentiated content — the valley of the shadow of death, the prepared table before enemies, the anointed head, the promise of dwelling in the house of the LORD forever. None of these receive specific, conscience-pressing, differentiated application. The altar call at the close is the broadest possible net ("is your heart truly clean of abscesses?") without the precision required to search the conscience of the believer, the doubter, the self-righteous, or the grieving. The application is warm but undifferentiated and thus falls under Flag 4.
+
+**Note:** Flag 6 (inaccessibility) is not triggered — the sermon is accessible. The other flags are not triggered.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+
+- *Textual Fidelity*: 5/10. The sermon references the psalm in several places but does not work through it systematically or explain the text's argument. Large portions of the psalm (vv. 4–6 in any depth) receive little exegetical treatment. The preacher correctly identifies the "personal" nature of the psalm's pronouns (14 first-person references) — that is a genuine observation. But he does not follow the psalm's own movement from provision (vv. 1–3) to peril (v. 4) to provision-in-peril (vv. 4–5) to ultimate blessing (v. 6). The text's logic is not the sermon's logic.
+- *Contextual Awareness*: 2/5. There is a brief note about possible Davidic authorship during Saul's persecution — this is appropriate and useful. But the Davidic and redemptive-historical context is not developed. The psalm as Israel's shepherd-king theology, as the LORD as Israel's true shepherd, is left untouched.
+- *Exegetical Clarity*: 3/5. Some moments of clarity (the 14 personal pronouns, the green pastures as equipping time). But no engagement with Hebrew terms, no attention to the movement of the text, no identification of the psalm's climax in v. 6.
+- *Logical Faithfulness*: 3/5. No serious eisegesis, but the broken-leg shepherd illustration (while evocative) is not from Psalm 23 and is theologically and historically dubious — this is a popular pastoral legend with no grounding in ancient Near Eastern shepherding practice and should not be presented as explanatory fact.
+- *Fallen Condition Focus*: Identified as "prone to wander" and "in need of a shepherd" — this is the right FCF but named broadly without being connected specifically to what the psalm's text says about our condition.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+
+- *Christ-Centeredness*: 4/7. The sermon mentions Jesus at the close and connects the psalm to our need for Christ. But the New Testament's own identification of Jesus as the Good Shepherd (John 10), as the one who walks through the valley of death on our behalf, is not developed. The Christological connection is present but thin and decorative rather than organic.
+- *Redemptive-Historical Awareness*: 1/3. The sermon does not locate Psalm 23 within the redemptive story. David as king of Israel, the LORD as shepherd of the covenant people, the eschatological dimension of "I shall dwell in the house of the LORD forever" — none of this is connected to Christ's fulfillment.
+- *Doctrinal Precision*: 3/4. No serious doctrinal errors. The Judges cycle summary is accurate. The statement about sin putting the soul at risk is true but understated.
+- *Confessional Alignment*: 3/4. No contradictions of confessional theology detected.
+
+**3. Gospel Centrality & Force — 8/15**
+
+- *Clarity of the Gospel*: 2/5. The gospel appears only at the close and in passing: "if you do not yet have a relationship with Jesus, come talk to me." This is not a clear articulation of justification by faith. There is no proclamation of what Christ has done — his death, his resurrection, forgiveness of sin, imputed righteousness. The gospel is gestured at but not preached.
+- *Necessity of Christ*: 3/5. Christ is mentioned as necessary, but the sermon could largely function as a moral-religious talk about trusting God without explicit reference to the cross. The Synagogue Test is borderline: a devout Jewish person familiar with the psalm could follow most of this sermon without being offended by the necessity of Christ's blood.
+- *Cross-Centered Gravity*: 3/5. There is movement toward Christ at the close, but the sermon spends most of its weight on horizontal application (what hard times teach us) rather than vertical proclamation (what God has done in Christ).
+
+**4. Conscience & Applicatory Force — 7/15**
+
+- *Heart Penetration*: 3/5. The dog abscess illustration and the broken-leg shepherd illustration both work to show that God's painful dealings are loving. There is warmth here. But the conscience is not truly searched — there is no moment where a specific type of sinner is cornered.
+- *Specificity*: 2/5. The application ranges from profanity (only loosely connected to the psalm) to nationalism to disaster response to vague "whatever your idol is." The specificity is scattered rather than sharp.
+- *Spiritual Differentiation*: 2/5. The sermon essentially addresses the congregation as a single undifferentiated group with an altar call at the end. The believer struggling in the valley, the grieving saint, the person facing real enemies (as v. 5 addresses), the one whose soul needs restoration — none are addressed distinctly. Perkins' taxonomy is almost entirely absent.
+
+**5. Exhortation & Response — 4/8**
+
+- *Call to Response*: 2/4. There is an altar call and a verbal invitation to come to Christ. But the "therefore" moment is weak. The congregation is told to ask whether their heart has abscesses — this is more a question than a summons. What must the believer now do? What must the doubter do? What specific obedience does Psalm 23 demand?
+- *Equipping for Holiness & Witness*: 2/4. The sermon sends people out with encouragement to trust God in hard times — this is present but thin.
+
+**6. Structure & Logical Flow — 5/9**
+
+- *Clarity of Outline*: 2/4. The stated structure is: "It's personal" and "It's full of descriptions of God's ministry to us." This is minimal and the sermon does not follow even this loose structure consistently. The profanity digression (a page of quoted material about swearing) fits neither heading.
+- *Progression*: 2/3. The sermon moves from introduction (we wander like Israel) to the psalm (it's personal) to illustrations to the close. There is some forward movement but the profanity section arrests it entirely.
+- *Unity*: 1/2. The dominant idea is roughly stated but the sermon competes with itself — nationalism, LGBTQ commentary, European missions, dog abscess, Joy the puppy, hurricane relief, Dottie's leg, the profanity digression, and the Judges cycle all appear. The unity is strained.
+
+**7. Illustration & Imagination — 3/5**
+
+- *Relevance*: 2/2. Joy the puppy with an abscess, Dottie's leg, the hurricane stories — these are drawn from the congregation's real world and are the sermon's genuine strength.
+- *Clarity*: 1/2. The dog abscess illustration is effective. The broken-leg shepherd illustration is evocative but theologically dubious. The profanity illustration (occupying roughly 1/6 of the manuscript) is disproportionate and disconnects from the text.
+- *Memorability*: 0/1. The illustrations that will be carried home are the abscess and the sheep/shepherd image, but neither is tightly attached to a specific textual truth that makes them "sticky" in the way the sermon needs.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching*: 1/2. The opening is conversational and direct. The preacher addresses the congregation genuinely. But the long quoted block of text about profanity reads as copy-paste from an article, not as preaching. It is an essay embedded in a sermon.
+- *Conviction on the Page*: 1/2. There are moments of conviction — the close about souls at risk, the "just wait" moment about glory. But they are surrounded by too much rambling throat-clearing.
+- *Cadence and Breath*: 1/1. The oral register is present. This sounds like a person talking to people he knows and loves, which is a genuine strength.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+
+The sermon is accessible — no inaccessibility flag triggered. However, the sheer number of competing topics (LGBTQ commentary, nationalism, European missions, puppies, hurricanes, profanity, Judges cycles, Dottie's testimony, Spurgeon quote) creates a mild overload. The average hearer would struggle to identify a single clear takeaway. One fewer major tangent would significantly improve this.
+
+---
+
+### 7. Total Score
+**Base: 54/100**
+**Cognitive Load Modifier: −1**
+**Fatal Flaw Cap: Applied (cap at 69 — score is already below cap)**
+**Total: 53/105**
+
+*Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.*
+
+The score is not an indictment of the preacher's heart or love for his people. It is a diagnosis of a sermon that has not yet arrived. The pastoral warmth is real. The exposition is not.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+   Mostly myself and my patterns of sin and trust. Christ appears but does not dominate.
+
+2. **Did I encounter God, or just ideas about Him?**
+   Ideas about God — that he is like a shepherd, that he allows hard things for good purposes, that he is present in the valley. These are true ideas. But "encounter" requires the text to press harder.
+
+3. **Was I comforted, convicted, or merely informed?**
+   Lightly comforted and broadly informed. The specific comfort of "the LORD is MY shepherd" — in the valley, before enemies, unto death — was not pressed with the weight the psalm carries.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Genuine pastoral affection and congregational knowledge.** The references to Dottie's testimony, the hurricane relief work, and Joy the puppy demonstrate a preacher who knows his flock. This is the right instinct — specific illustrations from the congregation's actual lives are exactly what the rubric rewards, and this sermon does it naturally.
+
+2. **The observation that the psalm is intensely personal (14 first-person pronouns).** This is a real exegetical observation that orients the congregation toward the intimacy of the text. It is brief but right, and a stronger sermon would build the whole exposition on this foundation.
+
+3. **The eschatological turn near the close.** The paragraph beginning "People you think you know joy now, just wait..." is the sermon's most powerful moment. The movement from earthly foretastes to heavenly fullness — "we won't know perfect rest until we are in glory" — is exactly the right direction for Psalm 23 to go, especially given v. 6's "I shall dwell in the house of the LORD forever." This moment earns genuine sermonic weight.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The profanity digression (the long quoted block near the end).** This section — roughly 350 words of quoted article material about why Christians should not swear — has no textual connection to Psalm 23, does not arise from any verse in the passage, and represents the sermon's most significant structural failure. It reads as copy-paste content inserted into a sermon rather than an exposition. It derails whatever momentum had built and places the congregation in a different sermon entirely.
+
+2. **The gospel is present only as an altar call invitation, not as proclamation.** The only explicit gospel offer is the final two sentences: "If you do not yet have a relationship with Jesus, that is where it starts, come talk to me during the song, and I'll show you in the bible how you can have eternal life." This is not preaching the gospel — it is offering a conversation about it. The finished work of Christ, his death and resurrection, the forgiveness of sins, the righteousness given to the ungodly — none of this is announced. For a psalm that closes with "I shall dwell in the house of the LORD forever," the new covenant fulfillment in Christ is not optional content.
+
+3. **The broken-leg shepherd illustration is likely a pastoral legend.** The claim that shepherds in antiquity broke the legs of wandering sheep to keep them close is a widely circulated story in Christian preaching with no credible historical or textual grounding. It is not found in any ancient Near Eastern shepherding text, no credible biblical scholar attributes it to ancient practice, and the original Hebrew Psalm offers no support for this image. Presenting it as an explanatory fact for Psalm 23 violates the "careful-not-clever" protocol and misleads the congregation about what the text actually says.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears unaware that his most interesting theological statement — "he wasn't spared from the valley of the shadow of death... yet look at the things that God whispered into David's heart" — is the sermon's real thesis, and it is never developed. This is the key insight: Psalm 23 is not a promise of easy circumstances but of divine presence through hard ones. That insight appears once and disappears. The preacher does not seem to see how central this is.
+
+Additionally, the sermon does not appear to recognize that the political and cultural commentary in the introduction (LGBTQ, nationalism, American politics) — however the preacher intends it — functions as a distraction from the text and risks alienating or unsettling hearers before the Word has had a chance to do its work.
+
+---
+
+### 12. Illusion of Strength
+
+The opening section on the Judges cycle and generational sin *feels* like a strong contextual setup. The contrast between Israel's cycles and our own is legitimate. But on closer reading, this section is doing no exegetical work for Psalm 23 specifically — it is a general introduction to human sinfulness that would serve as the opening for dozens of different sermons. It creates the impression of textual setup while actually being freestanding moralizing.
+
+Similarly, the dog abscess illustration feels like a powerful pastoral image — and it is genuinely evocative — but it is applied to a point the text does not make. Psalm 23 does not teach that God lances our abscesses. The illustration describes God's sanctifying work in a general sense but is not anchored to any specific verse, which means the illustration is doing theological work that the exposition failed to do.
+
+---
+
+### 13. Missed Opportunity
+
+Verse 4: "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
+
+This verse — the emotional and theological center of the psalm — receives almost no direct treatment. The preacher mentions that David was not spared from the valley, and that the psalm promises God's presence. But the verse itself is not read aloud, explained, or applied with any specificity. For a congregation that has just walked through hurricanes, that is dealing with illness (Dottie's leg), that faces death and loss — this verse is the word they needed most. The text offers it and the sermon walks past it.
+
+Verse 6's "I shall dwell in the house of the LORD forever" is mentioned only obliquely in the eschatological turn. The Hebrew "forever" (*le'orech yamim*) carries the weight of the entire psalm's confidence. This was the missed climax.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Remove the profanity digression entirely.** The 350-word quoted block on swearing has no textual connection to Psalm 23. Replace it with a two-minute application of verse 5 ("You prepare a table before me in the presence of my enemies") — what does it mean that God honors us publicly in the midst of opposition? This would give the congregation something to carry.
+
+2. **Proclaim the gospel explicitly in the body of the sermon, not only in the altar call.** At minimum, add two to three sentences in the body: "The shepherd who promises to walk with you through the valley of the shadow of death is the shepherd who walked through it himself. Jesus went into the darkness of the cross so that every sheep who follows him would come out the other side into the light of resurrection. That is the Good Shepherd of Psalm 23 — identified by Jesus himself in John 10." This takes sixty seconds. It transforms the sermon.
+
+3. **Replace the broken-leg illustration with the psalm's actual content.** The image of God "making us lie down" (v. 2, *yarbitseni* — he causes me to lie down) is itself the illustration: this is not sheep choosing rest, it is the shepherd's sovereign action. Develop what it means that the shepherd *makes* the sheep lie down — because frightened sheep will not rest, and the shepherd's calm is the source of theirs. This is in the text; the broken-leg story is not.
+
+4. **Press conscience differentiation at verse 4.** After explaining the valley, address hearers distinctly: "Some of you are in that valley right now — a diagnosis, a marriage falling apart, a wayward child, a grief that won't lift. The psalm does not promise you the valley ends soon. It promises you are not alone in it. 'I will fear no evil, for you are with me.'" Then address the one who has never entered the valley: "Some of you have never felt the weight of this verse because life has been comfortable. Let this text prepare you — not to fear, but to know where your safety lies before the valley comes."
+
+5. **Restructure the conclusion around verse 6.** "Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the LORD forever." This is the psalm's destination. The sermon's eschatological turn is its best moment — but it arrives as an afterthought. Make verse 6 the planned climax. Build the whole sermon toward this: the Shepherd does not merely guide us through valleys — he is taking us home. The table, the anointing, the full house — these are what the journey is for.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon does not score high enough in exposition or theology to trigger the dead orthodoxy pattern. The concern here is not bloodless correctness but insufficient depth and focus. The preacher's heart is warm; the craft needs sharpening.
+
+---
+
+### 16. Weight of Glory Statement
+The eschatological turn — "People you think you know joy now, just wait, just wait till you meet our God face to face" — carries genuine unction and is the moment the sermon most approaches the eternal weight of its subject; but it is too brief, too loosely connected to the psalm's own climax, and surrounded by too much that dilutes it to register as a full Weight of Glory moment. **Bonus: +1/5.**
+
+---
+
+### 17. Rubric Fit Note
+Psalm 23 is wisdom/devotional poetry in the Hebrew psalter, written as first-person confessional lyric. The rubric fits this genre reasonably well — the psalm does have a main argument, a climax (v. 6), and applicatory force that presses the conscience regarding fear, trust, and ultimate hope. The genre does not strain the rubric. However, the evaluator notes that devotional psalms reward a more meditative exposition — moving slowly through the images and letting each one open rather than surveying the whole quickly. The rubric's emphasis on clear propositional structure (Outline, Progression, Unity) should be applied with some flexibility for poetry that operates through image-clusters rather than formal argument. The scores in Structure & Logical Flow reflect this — the psalm itself does not demand a three-point outline, but the sermon does demand a governing logic, which it lacks.

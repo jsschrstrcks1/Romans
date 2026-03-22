@@ -70,6 +70,138 @@
 - **Paul's plans vs. God's sovereignty**: Paul planned Spain, arrived in Rome in chains — gospel still went
 
 ---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Not a Sermon — A Well-Stocked Arsenal Awaiting a Preacher**
+
+### 2. One-Sentence Summary
+This file is a preparatory research and illustration index for Romans 15:14-33, not a sermon manuscript; it cannot be evaluated for faithful proclamation because no proclamation has yet been made — but the raw material assembled here is rich, missions-focused, and exegetically grounded.
+
+### 3. Berean Gate — Pass/Fail
+
+**Not applicable. No sermon manuscript present.**
+
+This file is a content survey and illustration catalog. There is no main point to test, no argument to trace, no text being opened for a congregation. The Scopus Test and Authority Test cannot fire on an index. Applying the Berean Gate here would be a category error.
+
+**Rubric Fit Note (Element 17, surfaced early):** The "Thus Says the Lord" rubric is designed to evaluate a completed sermon manuscript. This file is pre-sermonic raw material — Greek terms, illustration sources, people group data, cross-reference indexes. The rubric does not fit this file because the file makes no proclamatory claims. Forcing a score would produce a meaningless number. What follows is therefore a diagnostic report on the *readiness* of this material, with notes on what a sermon built from it would need to do to pass the rubric.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Score Cap:** N/A — no score assigned to a non-sermon document.
+
+However, if a sermon were assembled from this material *without further work*, the following fatal flaw risks are latent:
+
+- **Risk: Application entirely generic** — the survey catalogs illustrations but makes no applicatory moves. A sermon built mechanically from this index would need specific conscience-level application added intentionally.
+- **Risk: No actual exhortation** — indexes do not summon. The preacher will need to add the "therefore" moments from the text itself.
+- **Risk: Gospel assumed, not proclaimed** — the survey's framing is almost entirely missiological and motivational. Justification by faith and the necessity of Christ's substitutionary work are not surfaced. A sermon built from these notes could easily become a missions motivational talk rather than gospel proclamation.
+
+---
+
+### 5. Score Breakdown
+
+**No numerical score assigned.** This file is not a sermon.
+
+| Category | Observations on Raw Material |
+|---|---|
+| Exposition & Hermeneutics | Greek terms are solid (leitourgos, hierourgounta, prosphora, synagonisasthai, philotimeomai). Panta ethne breakdown is accurate. Contextual awareness of Rome (32,000 prostitutes, historical moral environment) is present. FCF not yet articulated — the survey doesn't name the fallen condition the text addresses. |
+| Theology & Doctrinal Integrity | Theological frameworks are gestured at but undeveloped: Five Solas appear in Romans 10 section; M'Cheyne quote is confessionally healthy. No doctrine of justification surfaced in the survey. The priestly service cluster (v. 16) is noted but not theologically unpacked. |
+| Gospel Centrality & Force | Weakest area in the raw material. The survey is missions-heavy and community-heavy but does not catalog any content explicitly focused on Christ's finished work as the ground of missions. The aroma of Christ illustration (2 Cor 2:15) gets closest, but it is undeveloped. |
+| Conscience & Applicatory Force | No conscience-pressing content is indexed. Illustrations are available (gold bar in glass box; Florence Chadwick), but no application is built. The survey does not distinguish hearers per Perkins' taxonomy. |
+| Exhortation & Response | Not present in a survey format. |
+| Structure & Logical Flow | Not applicable — this is a reference document, not an argument. |
+| Illustration & Imagination | This is where the file excels. The illustration bank is diverse, culturally grounded (NYC elevator, garlic uncle, Navajo Code Talker's wife), and contains memorability candidates. The adoption story (Kazakhstan/China) and the relief organization analogy are the two strongest candidates for a missions sermon. |
+| Sermonic Force | N/A |
+
+---
+
+### 6. Cognitive Load Modifier
+
+**Not applicable.** However, the density of illustration options and Greek terms in this survey suggests a cognitive load *risk* for any sermon assembled from it without curation. The preacher will need to select ruthlessly — not use everything cataloged here.
+
+---
+
+### 7. Total Score
+
+**No score assigned.** This is not a sermon manuscript.
+
+---
+
+### 8. Core Override Questions
+
+These cannot be answered for an index. They are offered as standards the *eventual sermon* must meet:
+
+1. Does this sermon make me think more of Christ — or myself? (The survey's illustrations trend toward human faithfulness and community. The eventual sermon must redirect to Christ as the ground and goal of all mission.)
+2. Did I encounter God, or just ideas about Him? (The survey contains no doxological moments. These must be written in.)
+3. Was I comforted, convicted, or merely informed? (An index informs. The sermon must do more.)
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Illustration richness**: The bank is genuinely strong. The Florence Chadwick fog illustration (human effort cannot overcome the fog of sin), the gold bar in glass box (proximity ≠ possession), and the relief organization analogy all have the potential to land with concrete force on a congregation.
+2. **Exegetical groundwork**: The Greek vocabulary catalog is accurate and ministry-ready. The distinction between leitourgos/hierourgounta/prosphora gives the preacher a priestly frame for evangelism that is native to the text, not imported.
+3. **People Group discipline**: The "Do Not Repeat" tracking table demonstrates pastoral intentionality — the preacher is not recycling illustrations mechanically but thinking about cumulative congregational formation over a series.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **No gospel articulation in the raw material**: Searching the entire survey, there is no entry that captures Christ's substitutionary atonement as the *reason* missions exists. The priestly service language of vv. 15-16 points directly to this, but the survey catalogs the Greek terms without unpacking the theological freight. A sermon assembled from this index could preach missions without the gospel.
+2. **No fallen condition focus identified**: The survey does not name what specific aspect of the human fallen condition Romans 15:14-33 was written to address. Is it indifference to the lost? Self-centeredness that narrows the believer's horizon? Unbelief in God's sovereign power to save across cultures? Until the FCF is named, the application will remain motivational rather than redemptive.
+3. **Perkins' taxonomy entirely absent**: The survey contains no content differentiated by hearer category. There is nothing for the backslider who once cared about missions and now doesn't. Nothing for the knowledgeable-but-unmoved elder who affirms missions theologically but has not taken a step toward it in a decade. Nothing for the new believer who is eager but directionless. The eventual sermon will need these categories added from scratch.
+
+---
+
+### 11. Blind Spots
+
+The survey's framing is almost entirely *outward* — toward unreached peoples, toward the frontier, toward Paul's ambition. This is appropriate for the text but creates a blind spot: **Romans 15:14 opens with Paul's confidence in the Roman *believers* themselves** — "full of goodness, filled with all knowledge, and able to instruct one another." The congregation's *internal* spiritual health as the prerequisite for outward mission is not cataloged. The survey risks producing a sermon that calls people to do missions without first establishing the spiritual formation that makes missionaries.
+
+---
+
+### 12. Illusion of Strength
+
+The illustration bank *feels* like sermon readiness. It is not. Illustrations without textual argument are anecdotes. The survey's density of good stories may create a false sense that the sermon is nearly done — when in fact the hardest work (textual argument, gospel articulation, conscience application, exhortation) has not yet begun. The preacher should treat this document as lumber, not as a house.
+
+---
+
+### 13. Missed Opportunity
+
+**Romans 15:30-33 — the prayer request** is indexed only for *synagonisasthai* (agonizing prayer). But these verses contain something theologically remarkable: Paul, the apostle, asks for prayer for his own safety and reception. This is a moment of apostolic *vulnerability* that speaks directly to the ordinary believer's fear of witness. Paul himself needed the church to pray him through danger. The survey misses this as an applicatory bridge to the congregation's own fear of evangelism.
+
+---
+
+### 14. Surgical Fixes
+
+For the *eventual sermon* built from this material:
+
+1. **Write the gospel explicitly into the sermon's spine**: Before cataloging Paul's ambition, establish *why* there is a gospel to proclaim — Christ's finished work, justification by faith, the offense of the cross. The priestly service frame (vv. 15-16) is the natural location.
+2. **Name the FCF before selecting illustrations**: Identify the specific fallen condition (e.g., "self-enclosed Christianity that shrinks the horizon to personal comfort") and then select only the illustrations that address that condition. Do not use all nine indexed illustrations.
+3. **Add a Perkins-informed application section**: Write three distinct address moments — one to the indifferent believer who has stopped caring, one to the fearful believer who wants to go but is paralyzed, one to the unbeliever in the room who has never heard why the gospel spreads across cultures.
+4. **Develop the vv. 30-33 vulnerability angle**: The sermon needs a moment where missions is not heroic but costly and frightening, and Paul's own prayer request is the textual ground for that moment.
+5. **Add a doxological landing**: The survey catalogs no content that ends in worship. The sermon must close with the congregation wanting to pray, not merely to act. Revelation 7:9 (already referenced in the Romans 15a entry) is available for this.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — no sermon is present to evaluate. However, the raw material carries a *missions-orthodoxy* risk: content that is factually accurate about the Great Commission but does not move from conviction to doxology. The preacher should guard against assembling a sermon that is informationally rich about missions but pastorally cool toward the cross.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The material contains seeds of eternal gravity — particularly the people group data (the Balija, the Shaikh, the Kabyle Berber), which, when named from the pulpit, carries the weight of actual souls who have never heard. Whether those seeds produce a sermon with unction depends entirely on whether the preacher has been with God before he stands to preach it.
+
+---
+
+### 17. Rubric Fit Note
+
+This rubric is designed for a completed sermon manuscript. Applied to a content survey, most of its scoring categories are inoperable. The evaluation above has been redirected toward diagnostic readiness — identifying what the raw material contains, what it lacks, and what the sermon built from it will need to do to pass the rubric when it exists. When the sermon manuscript is complete, run this evaluation again against the finished text.
+
+---
 
 ## People Groups Used (Do Not Repeat)
 

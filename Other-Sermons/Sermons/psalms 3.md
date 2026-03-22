@@ -92,3 +92,203 @@ That’s the kind of God we follow.
 Gospel.
 
 I lay down, and I slept; I awoke, because the Lord sustained me.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Sermon:** Psalms 3
+**Primary Text:** Psalm 3
+
+---
+
+### 1. Verdict Title
+
+**"A Faithful Portrait of David's Trust Under Pressure — Warmly Pastoral, Exegetically Thin, and Gospel-Incomplete"**
+
+---
+
+### 2. One-Sentence Summary
+
+A conversational, personally illustrated sermon on Psalm 3 that captures David's posture of prayer and trust under mortal threat, draws relevant applications to modern despair, and contains the seed of a strong conclusion in vv. 4-5 — but never develops the psalm's full argument from the text, treats the gospel as a placeholder, and ends before the final exhortation can be given.
+
+---
+
+### 3. Berean Gate
+
+**PASS — with qualification.**
+
+**Scopus Test:** The sermon's thesis — "When things are desperate, turn to the Lord and trust Him; He is shield, lifter, and salvation" — arises from Psalm 3:3-8 and is genuinely the psalm's own argument. David's move from description of enemies (vv.1-2) to declaration of trust (vv.3-6) to petition rooted in confidence (vv.7-8) is the psalm's actual logic, and the sermon broadly follows it.
+
+**Authority Test:** The preacher submits to the text's claims. He does not soften the psalm's portrait of David's desperation. The application to modern despair (the drug-addicted young man) is genuine and not softening.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 1 triggered:** "Gospel." is a placeholder, not a proclamation. The gospel is not preached. Score cap: maximum 69.
+
+**Flag 5 triggered:** There is no clear exhortation from the text. The sermon's conclusion — "That's the kind of God we follow. Gospel." followed by the closing verse — does not call the congregation to believe, repent, obey, or pursue anything specific.
+
+**Score cap applies: maximum 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+
+- *Textual Fidelity (5/10):* The psalm's background (Absalom's rebellion) is developed at the opening. The three attributes of God in vv.3-4 (shield, lifter of head, answerer of prayer) are identified and applied. Vv. 4-5 receive a genuine exegetical moment with the perfect tense observation (citing Roy Zuck and Dallas Willard — though the ascription of this note to Dallas Willard is somewhat unusual, as this is primarily a Hebrew grammar point). The sermon works through the psalm but does not expose its structural logic: vv.1-2 (the complaint: many enemies, even God has abandoned him), vv.3-6 (the counter-declaration: but God is my shield), vv.7-8 (the petition in the perfect tense: rise up, O LORD; salvation belongs to the LORD). The FCF is identified (turning to the world's solutions rather than God when things are desperate) but not named with precision — the specific fallen condition Psalm 3 addresses is the temptation to despair and abandon God when the situation looks humanly impossible, and this is touched but not developed.
+- *Contextual Awareness (3/5):* The historical background of 2 Samuel and Absalom's rebellion is given. The note about "selah" and the psalm's liturgical/worship use is present. The note on "from his holy hill" (v.4) suggesting the ark of the covenant's presence in Jerusalem is a valid contextual observation. The psalm's superscription is acknowledged and developed, which is commendable.
+- *Exegetical Clarity (3/5):* The perfect tense observation on vv. 7-8 is the sermon's best exegetical moment — "an action that began in the past has been fully completed." This correctly observes that David's petition is made in full confidence, not tentative request. The attribution is slightly unusual but the point is sound.
+- *Logical Faithfulness (2/5):* The movement from "don't turn to the world's solutions" (the drug addict illustration) to "turn to God" (David's posture) to "God can do anything" (the sovereignty section) is logically coherent but not derived from the psalm's own argument step by step. The KGB spy illustration is an apt illustration of sin's incremental nature but introduces a new topic (sin's slippery slope) not directly present in Psalm 3.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+
+- *Christ-Centeredness (4/7):* The cross is referenced — "Jesus went to the cross not reluctantly, not just willingly but gladly" with Hebrews 12:2 cited. This is genuine christological content. But the connection between Psalm 3 and Christ — the Son of David who faced greater abandonment (Psalm 22 / "my God, my God, why have you forsaken me?") and who, unlike David, had no human allies and no army, and yet trusted the Father — is not made.
+- *Redemptive-Historical Awareness (2/3):* The cross is referenced. The resurrection is not. Psalm 3 ends with "salvation belongs to the LORD" — this is a Messianic declaration with New Testament fulfillment that is not developed.
+- *Doctrinal Precision (3/4):* The cross presentation (Heb 12:2) is accurate. The sin as offense against God is stated. The sovereignty section is theologically sound.
+- *Confessional Alignment (2/4):* Broadly orthodox. No contradictions. But the doctrines of grace are absent, and the sermon treats salvation somewhat generically ("he does that willingly and freely for you and I").
+
+**3. Gospel Centrality & Force — 4/15**
+
+- *Clarity of the Gospel (0/5):* "Gospel." is not the gospel. Zero points.
+- *Necessity of Christ (2/5):* The cross is referenced as evidence of God's love and Christ's willing sacrifice. This is more than most of the incomplete sermons in the batch. But it is asserted as evidence of God's love rather than proclaimed as the ground of salvation.
+- *Cross-Centered Gravity (2/5):* The Hebrews 12:2 reference and the "gladly went to the cross" language give the sermon a genuine cross moment. But it appears in the middle of the sovereignty/application section rather than as the sermon's climactic focus.
+
+**4. Conscience & Applicatory Force — 8/15**
+
+- *Heart Penetration (3/5):* The drug-addicted young man illustration is specific and vivid. The contrast with David is well-drawn. The question "can he fix my cancer?" and the sovereignty section reach genuine pastoral territory. The "SAM" (sex, alcohol, money) framework is a useful and memorable pastoral diagnostic.
+- *Specificity (3/5):* The drug addiction illustration is specific. The SAM framework names specific temptations. The KGB spy illustration names how sin accumulates. These are concrete and relevant.
+- *Spiritual Differentiation (2/5):* The sermon addresses people who turn to the world's solutions in despair, and people who doubt God's ability to act. The backslider is addressed implicitly through the drug addict illustration. Broader Perkins categories are not explicitly reached.
+
+**5. Exhortation & Response — 2/8**
+
+- *Call to Response (1/4):* "Instead of turning to these things that give you a temporary high, turn to Jesus" is a genuine exhortation but brief and general. No specific call to repentance, faith, or obedience from the text's own logic.
+- *Equipping for Holiness & Witness (1/4):* The sovereignty section ("there is literally nothing that God can't do") provides some basis for trust, but does not equip the congregation for specific action.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline (3/4):* The sermon has a discernible movement: background (Absalom) → David's response (worship, not despair) → contrast with the modern American response → God's three attributes (shield, lifter, answerer) → perfect tense observation → sovereignty section → gospel placeholder. This is followable, if not elegant.
+- *Progression (2/3):* The sermon builds toward the sovereignty section and the gospel, which is the right direction. But the KGB spy illustration and the "SAM" section interrupt the psalm's flow without integrating with its argument.
+- *Unity (1/2):* The sermon has too many competing illustrations (drug addict, KGB spy, SAM, cancer prayer, Denise cleaning the house) that are connected by association rather than argument.
+
+**7. Illustration & Imagination — 3/5**
+
+- *Relevance (2/2):* The drug addict illustration is specific and accessible to the congregation. The Denise-cleaning-the-house analogy for the Hebrew perfect tense is simple and clear.
+- *Clarity (1/2):* The KGB spy story is specific and the application to sin (incremental compromise leading to full captivity) is apt — but it is long and somewhat digressive for a sermon on Psalm 3. The "SAM" framework is clearer and more useful.
+- *Memorability (0/1):* No single memorable image is developed from the text itself. The KGB story is memorable but not native to the text.
+
+**8. Sermonic Force — 2/5**
+
+- *Reads as Preaching (1/2):* The manuscript reads as a warm pastoral address. Genuine and accessible.
+- *Conviction on the Page (1/2):* The sovereignty section ("for a God that holds the universe together, is there anything beyond the scope of his power?") has genuine declarative force. The application to sin is earnest. But the "Gospel." placeholder deflates the conclusion.
+- *Cadence and Breath (0/1):* Even pace, no climactic build.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1** — The sermon carries multiple illustration threads (drug addict, KGB spy, SAM, sovereignty) without a unifying framework to connect them. A listener could follow the main point but would struggle to trace the argument precisely.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 13/25 |
+| Theology & Doctrinal Integrity | 11/18 |
+| Gospel Centrality & Force | 4/15 |
+| Conscience & Applicatory Force | 8/15 |
+| Exhortation & Response | 2/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 2/5 |
+| **Subtotal** | **49/100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | −1 |
+| **Raw Total** | **49/105** |
+| **Fatal Flaw Cap** | capped at 69 (raw score below cap — score stands) |
+| **Total** | **49/105** |
+
+**Interpretation: Fundamentally flawed. The gospel is absent and the manuscript is incomplete. The strong elements (vv.4-5 exegesis, the drug addict illustration, the sovereignty section) are present but the sermon's structural foundations are missing.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* **God's power and goodness,** primarily. Christ appears briefly in the cross reference. The Son of David who faced greater desolation than David and trusted more perfectly is not proclaimed.
+2. *Did I encounter God, or just ideas about Him?* **Ideas about God's sovereignty and care.** The psalm's own declarations ("the LORD sustains me," "salvation belongs to the LORD") are noted but not fully inhabited as God's own speech.
+3. *Was I comforted, convicted, or merely informed?* **Mildly convicted and warmly informed.** The drug addict illustration produces genuine conviction. The rest is primarily descriptive.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The perfect tense observation on vv.7-8:** The note that David's petition is grammatically in the completed past — "fully confident that God will come through no matter how grim it looks" — is the sermon's finest exegetical moment. This correctly captures the psalm's mood of confident trust rather than desperate pleading. The Denise analogy makes it accessible.
+
+2. **The contrast between David's response and the modern American response:** The explicit comparison between David (desperate circumstances → worship and prayer) and the contemporary young man (desperate circumstances → drugs, alcohol, destruction) is vivid, pointed, and genuinely relevant. The sermon makes its application without softening either portrait.
+
+3. **The "SAM" framework from Bob Gilstrap:** This is a memorable, practical pastoral diagnostic — sex, alcohol, money as the three most common ways people try to fill the emptiness apart from Christ. It is specific, honest, and pastorally experienced. A congregation member will likely remember "SAM" long after they forget other details.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is a placeholder:** "Gospel." followed by the closing verse is not a gospel presentation. This is the sermon's most serious and unambiguous failure. The manuscript is structurally incomplete.
+
+2. **The psalm's climax (v.8 — "Salvation belongs to the LORD") is not proclaimed with its full weight:** This verse is the psalm's triumphant conclusion — a declaration that David's deliverance is not his own military achievement but the LORD's sovereign act. It is also one of the great Messianic declarations of the Psalter, with direct New Testament fulfillment. The sermon notes it briefly in the sovereign power section but does not land on it as the psalm's own conclusion and the gateway to the gospel.
+
+3. **The KGB spy illustration is too long for its contribution:** The story takes significant homiletical time and introduces a topic (incremental sin leading to full captivity) that is not directly present in Psalm 3. The point it makes (sin sneaks up on you) is valid but would be better made in two sentences, freeing time for the psalm's own content.
+
+---
+
+### 11. Blind Spots
+
+The preacher has a genuine and admirable instinct for application — the ability to connect ancient texts to modern situations (drug addiction, despair, the American entitlement myth). The blind spot is the movement from application to gospel proclamation. The sermon consistently gets the congregation to the place where the gospel is needed and then stops. The pattern across the batch (multiple "Gospel." placeholders) suggests the preacher may view the gospel as a separate module appended to the sermon rather than as the sermon's own climax that arises from the text's own logic.
+
+---
+
+### 12. Illusion of Strength
+
+The sovereignty section ("there is literally nothing that God can't do") generates a sense of theological weight and declarative confidence. This creates the impression that the sermon has arrived at its climax. But the sovereignty section is supporting material for the gospel, not the gospel itself. The Hebrews 12:2 cross reference, the sovereignty declarations, and the "that's the kind of God we follow" line all feel like a climax — but they stop short of proclaiming why this God's power and love are *available* to the congregation, and on what ground.
+
+---
+
+### 13. Missed Opportunity
+
+Psalm 3:8 — "Salvation belongs to the LORD; your blessing be on your people!" — is the missed opportunity of this sermon. This verse is David's triumphant conclusion: not "I survived" but "salvation is the LORD's act." In the New Testament, this declaration is fulfilled in Jesus Christ, who is literally called "the LORD saves" (Yeshua). The sermon on the God "who holds the universe together" and who "sent His Son gladly to the cross" should arrive at this verse and open it: "Salvation belongs to the LORD — not to David's army, not to your willpower, not to your good decisions. The LORD has acted. In Christ, He has acted finally and fully. Salvation is His accomplishment. And it is available to you now." This is exactly the gospel the sermon is reaching for, and it is already in the text.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Shorten the KGB spy illustration and remove it from the primary sermon structure:** Compress to 2-3 sentences: "Sin is like the KGB turning an American spy — it starts with a small compromise that seems harmless, and before long you've sold out everything. Don't let sin negotiate with you. Be killing sin or it will be killing you." Then return to the psalm.
+
+2. **Develop v.8 as the sermon's climax and the gateway to the gospel:** "The psalm doesn't end with David surviving. It ends with this declaration: 'Salvation belongs to the LORD.' Not to David's skill. Not to his remaining soldiers. To the LORD alone. And the New Testament tells us where that salvation arrives: in the Son of David who went to a greater battle than David ever faced, and who won not with a sword but with a cross and an empty tomb."
+
+3. **Replace "Gospel." with the gospel:** "Salvation belongs to the LORD — and that means you don't have to earn it. You can't. Christ has already secured it. Jesus went to the cross gladly — Hebrews 12:2 says for the joy set before Him. He endured the cross because the salvation of His people was worth it to Him. And that salvation is available now, freely, to everyone who turns from their own solutions and trusts in Him. That is the only way to wake up tomorrow and know it is because the LORD sustained you."
+
+4. **Add a closing exhortation:** "So here is what Psalm 3 calls for: When things are desperate — don't turn to SAM. Don't turn to drugs or escape or control. Turn to the LORD. Cry aloud to Him. Lie down and trust that He will sustain you through the night. And if you've never done that — if you've never placed your trust in the God whose Son went gladly to the cross for you — do it today. Salvation belongs to the LORD. Not to your efforts. To Him. And He is offering it freely."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — the sermon has genuine pastoral warmth and personal investment. The failure is structural (gospel as placeholder, incomplete manuscript) not spiritual.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon has moments of genuine pastoral weight — the God who sustains through the night, the Lord who is shield and lifter and answer — but the psalm's climactic declaration ("salvation belongs to the LORD") and its New Testament fulfillment in Christ are not proclaimed, and the sermon ends before its eternal stakes are fully opened.
+
+**Bonus: +1/5**
+
+---
+
+### 17. Rubric Fit Note
+
+Psalm 3 is a lament psalm with a rapid movement from distress to trust, ending in confident petition and doxology. The rubric applies well. Lament psalms move from complaint through trust-declaration to petition — this structure is the psalm's own homiletical shape, and the rubric's exposition category correctly identifies how far the sermon follows it. The gospel centrality category correctly surfaces the structural incompleteness. No rubric category is strained by this genre.

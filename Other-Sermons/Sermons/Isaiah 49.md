@@ -67,3 +67,191 @@ As Christian parents we have the wisdom of Proverbs 22:6 – that if we train up
 That may mean in the middle they wander and stray, or become prey to the tyrant, but the God we serve, the good God, maker and creator of heaven and earth, is stronger than our enemy. He has already won the battle. Our enemy just hasn’t gotten the memo yet. 
 
 Maybe you’re here today and you can Identify with what Billy Graham wrote. Maybe you realize you’ve wandered off the path, and you’re stuck in a thicket of thorns and poison ivy. God is waiting right there to help us, all we have to do is ask. You see each and every one of us has done that. We have all wandered off the path. Scripture said we would. Scripture says all of us have a sin nature that makes us desirous of going the wrong way. Romans 3:23. Gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Pastoral Heart With a Fractured Exegetical Foundation**
+
+---
+
+### 2. One-Sentence Summary
+A sermon driven by genuine compassion for parents of wayward children that opens Isaiah 49:22-25 with warm intent but fails to derive its controlling argument from the passage itself, substituting topical comfort for text-governed proclamation.
+
+---
+
+### 3. Berean Gate Result
+**FAIL — Partial**
+
+*Scopus Test*: The sermon’s stated heart — "God promises to save your wayward children" — has *some* connection to v.25 ("I will save your children"), but the text’s actual argument is a covenant-rescue declaration to corporate Israel in the context of the Servant’s mission and the ingathering of the nations (vv.22-26). The sermon lifts one clause out of its redemptive-historical setting and treats it as a pastoral promise to individual Christian parents in 2018, which misrepresents both the primary referent and the covenantal logic of the passage.
+
+*Authority Test*: The preacher largely submits to what he believes the text says — but because his reading of the text is exegetically incomplete, he ends up under a *misread* text rather than the text itself. The passage’s Christological and eschatological dimensions (the Servant, the nations, the nursing kings and queens) are never opened.
+
+The gate is not cleanly passed. The sermon should be rebuilt with the passage’s actual argument — the Servant’s vindication and Israel’s covenant restoration — as its center, with application to parental anguish as a secondary pastoral use.
+
+---
+
+### 4. Fatal Flaw Flags
+**Score cap at 69 applies. Two flags are triggered:**
+
+- **Flag 2 — Main point does not equal text’s point**: The sermon’s controlling idea (God will rescue your wandering children) is drawn from a single clause in v.25 rather than from the passage’s actual argument (the Servant’s mission, national shame turning to honor, YHWH’s covenant commitment to rescue Israel from captivity).
+- **Flag 4 — Application is entirely generic**: The application ("pray for your kids," "cling to these verses") is not differentiated by hearer. No one is cornered. The comfortable are not disturbed, the backsliding parent is not searched, the doubter is not addressed, the self-righteous are not confronted.
+
+*No third flag for gospel absence — the gospel is briefly present (Romans 3:23, Billy Graham’s path illustration, the closing appeal) — but it arrives as a fragment, not a proclamation.*
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 11 / 25**
+
+- *Textual Fidelity* — 4/10: The sermon uses v.25 as its anchor but does not engage the passage’s actual structure. Vv.22-23 (kings and queens as nursing parents for restored Israel, national shame reversed) receive no treatment. V.24 ("Can the prey be taken from the mighty?") is treated as a stand-alone principle rather than as YHWH’s rhetorical challenge setting up v.25. V.26 (God’s judgment on the oppressors) is mentioned only in passing.
+- *Contextual Awareness* — 1/5: The background of Isaiah 49 — Second Servant Song, the Servant’s mission to the nations, the suffering and vindication of Israel — is entirely absent. The sermon treats Isaiah as a personal devotional entry rather than a text embedded in a covenantal narrative.
+- *Exegetical Clarity* — 3/5: The explanation of Isaiah’s emotional state (felt like a failure; God’s "wait, there’s more" reply) is engaging and basically accurate for vv.1-6, but the preacher is commenting on a section outside his stated passage. The actual four verses (22-25) are underexposed.
+- *Logical Faithfulness* — 3/5: No overt eisegesis, but the argument moves by association rather than textual logic. The Fallen Condition Focus (what human brokenness does this text address?) is felt but never named with precision.
+
+**2. Theology & Doctrinal Integrity — 11 / 18**
+
+- *Christ-Centeredness* — 3/7: Isaiah 49 is a Servant Song with profound Christological content — the Servant as the one who embodies Israel and extends salvation to the nations. None of this is developed. Christ appears only at the closing appeal, not as the interpretive key to the passage.
+- *Redemptive-Historical Awareness* — 1/3: Brief gesture ("here we are almost 3000 years later reading Isaiah’s message") without connecting the text to its place in the arc of redemption — Servant Songs → fulfillment → the church as the ingathered nations.
+- *Doctrinal Precision* — 4/4: No overt doctrinal errors post-corrections. The treatment of Proverbs 22:6 as wisdom rather than guarantee is handled well. The sin nature comment is accurate.
+- *Confessional Alignment* — 3/4: No contradictions of confessional theology. The positive test (handling soteriological themes with precision) is not triggered, since those themes are not engaged.
+
+**3. Gospel Centrality & Force — 7 / 15**
+
+- *Clarity of the Gospel* — 2/5: Romans 3:23 is cited. An altar-call-style appeal is made. But the gospel is not *proclaimed* — it appears as a tag, not as the sermon’s destination. What is the good news for the parent of a wandering child? That Christ has borne the sin of the wanderer? That the same God who said "I will save your children" sent his Son to accomplish that salvation? None of this is drawn out.
+- *Necessity of Christ* — 2/5: Christ is not integral to the sermon’s argument. The sermon could be preached with minor adjustment in a synagogue. Billy Graham’s path illustration is essentially a morality tale — it does not require the cross.
+- *Cross-Centered Gravity* — 3/5: The closing appeal gestures toward grace, but the sermon’s emotional gravity is placed on human wandering and parental anguish, not on the cross as the ground of hope.
+
+**4. Conscience & Applicatory Force — 7 / 15**
+
+- *Heart Penetration* — 3/5: Genuine pastoral warmth. The congregation is clearly loved. The enumeration of pressures children face is real and felt. But "penetration" requires pressing the conscience, not only comforting it — and here the sermon mostly comforts without searching.
+- *Specificity* — 2/5: The examples (transgenderism, drug use, peer pressure) are locally specific but remain at surface level. No one is cornered. The parent who has given up praying is not addressed. The parent who secretly blames God is not confronted. The parent whose own sins contributed to the child’s wandering is not named.
+- *Spiritual Differentiation* — 2/5: The sermon broadly addresses parents of wayward children and closes with an invitation for those who have wandered themselves. Two categories (believers in anguish; open wanderers) are addressed. Perkins’ other categories — the backslider, the knowledgeable but unhumbled, the humbled-but-not-believing — are untouched.
+
+**5. Exhortation & Response — 3 / 8**
+
+- *Call to Response* — 2/4: A closing appeal is present. But it is soft: "God is waiting right there to help us, all we have to do is ask." What specifically must be believed? What must be repented of? What must the grieving parent do next — in prayer, in relationship, in faith? The call is too vague to constitute genuine exhortation.
+- *Equipping for Holiness & Witness* — 1/4: The congregation is told to pray. Nothing more specific. No commissioning, no equipping for the week ahead, no corporate responsibility named.
+
+**6. Structure & Logical Flow — 5 / 9**
+
+- *Clarity of Outline* — 2/4: There is a detectable movement: (1) Billy Graham tribute → (2) Isaiah’s background and context → (3) American idolatry → (4) God’s discipline → (5) children in danger → (6) Isaiah 49:25 as promise → (7) closing appeal. But the structure is loose — the Billy Graham material, the Elijah and Baal section, and the Katrina digression feel more like associative wandering than purposeful movement.
+- *Progression* — 2/3: There is momentum toward the closing, but the middle section (God disciplines nations via natural disasters) feels like a separate sermon intruding.
+- *Unity* — 1/2: Multiple competing ideas: Billy Graham tribute, American materialism, divine punishment and natural disasters, parental anguish, and the promise of Isaiah 49:25. These do not resolve into a single dominant idea.
+
+**7. Illustration & Imagination — 3 / 5**
+
+- *Relevance* — 2/2: Billy Graham’s final Facebook post is poignant and well-chosen. The thorns/path illustration lands.
+- *Clarity* — 1/2: The Katrina illustration is distracting and potentially harmful — it reproduces the friend’s theory without adequate pastoral caution, and the specific identification of homosexual attendees as the cause of Katrina is theologically undefended and pastorally reckless in a public sermon.
+- *Memorability* — 0/1: The Billy Graham quote is memorable; the Katrina digression is memorable for the wrong reasons.
+
+**8. Sermonic Force — 3 / 5**
+
+- *Reads as Preaching* — 2/2: Oral cadence is strong. Conversational and direct. The "Good. So you know where we are then" rhythm is authentic.
+- *Conviction on the Page* — 1/2: Warmth is present; conviction is intermittent. The sermon’s emotional force is pastoral affection more than prophetic gravity.
+- *Cadence and Breath* — 0/1: Long run-on paragraphs without compression. The Billy Graham section and the context section both sprawl without payoff.
+
+---
+
+### 6. Cognitive Load Assessment
+**−1**: The sermon is accessible to ordinary hearers — no seminary vocabulary, colloquial pacing, good use of familiar stories. The primary load issue is topic proliferation: by the time the passage is formally addressed, the congregation has been asked to hold Billy Graham, American materialism, Elijah’s drought, Katrina, transgenderism, David’s family, and the founding of Rome. One fewer digression would significantly improve focus.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 11 / 25 |
+| Theology & Doctrinal Integrity | 11 / 18 |
+| Gospel Centrality & Force | 7 / 15 |
+| Conscience & Applicatory Force | 7 / 15 |
+| Exhortation & Response | 3 / 8 |
+| Structure & Logical Flow | 5 / 9 |
+| Illustration & Imagination | 3 / 5 |
+| Sermonic Force | 3 / 5 |
+| **Subtotal** | **50 / 100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **50 / 100** |
+
+**Fatal Flaw Cap: Score capped at 69. Raw score (50) falls below cap — cap does not alter the result.**
+
+*Interpretation: Fundamentally flawed. Rebuild from the text.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily myself — my wandering, my children’s wandering, my country’s sins. Christ is mentioned but not magnified.
+2. **Did I encounter God, or just ideas about Him?** Ideas about Him, conveyed warmly. The sermon produces pastoral comfort, not the fear and joy of encounter.
+3. **Was I comforted, convicted, or merely informed?** Comforted. The conscience is not searched; no one is particularly disturbed. The grieving parent is soothed rather than both searched and upheld.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Genuine pastoral warmth for the congregation’s actual pain**: The turn to parental anguish over wayward children (p.5-6) is real, locally grounded, and compassionate. The preacher clearly knows his people and loves them. This is not generic — it is pastorally native.
+2. **The Billy Graham closing illustration**: The path/thorns quote from Graham’s final Facebook post is an effective, memorable, and well-verified illustration that serves the closing appeal. It earns its place.
+3. **Oral authenticity and accessibility**: The sermon reads as genuine preaching. The colloquial rhythm, the "Good — so you know where we are" directness, and the conversational warmth make this accessible to every hearer in the room, including the new believer and the unchurched spouse.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The text’s actual argument is never preached**: Isaiah 49:22-25 is about YHWH’s covenant commitment to restore corporate Israel through the Servant’s mission — reversing shame, reclaiming captives, defeating the mighty. The sermon uses v.25b as a devotional promise to individual parents, bypassing the covenantal, Christological, and eschatological dimensions entirely. The passage is used as a springboard, not expounded.
+2. **The Katrina/homosexual convention digression is pastorally reckless**: The extended description of a friend’s theory that Katrina was divine punishment for a gay convention — including graphic references to public sex acts — is theologically undefended (the rubric for when a specific disaster is divine judgment is not given), pastorally harmful (it trains the congregation to speculate about others’ punishment rather than examine their own hearts), and illustratively counterproductive (it derails the sermon’s compassion for children). This section should be removed entirely.
+3. **The gospel is a footnote, not a proclamation**: "Romans 3:23. Gospel." appears at the very end as a one-line tag. For a sermon on a passage with profound Servant-Song Christology, and for parents desperate for hope, the gospel needed to be preached — not cited. What is the specific good news for the parent of a wandering child? That Christ died for wanderers? That the same YHWH who said "I will save your children" sent the Servant to accomplish that salvation through the cross? None of this is drawn out.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears unaware that Isaiah 49 is a Servant Song — one of the most Christologically rich passages in all of the Old Testament. The poem’s primary subject is the Servant who embodies Israel, is given as a light to the nations, and whose ministry will reverse every captivity. By treating the passage as a general divine promise rather than a Christological text, the preacher misses the very ground that makes the promise credible: the promise is secure because the Servant has accomplished it.
+
+Additionally, the preacher seems unaware of the difference between *comforting* application and *searching* application. The sermon is tender but not diagnostic — it never asks the congregation whether their own patterns of parenting, prayer, or faith might be part of the story.
+
+---
+
+### 12. Illusion of Strength
+
+The Billy Graham tribute creates an impression of sermonic substance and cultural engagement. It feels strong — timely, culturally aware, well-documented. But it functions as an extended introduction that crowds out the text rather than serving it. The tribute runs roughly as long as the actual exposition of Isaiah 49. The sermon’s opening energy is invested in a man, not in the passage. The illustration of strength here is a demonstration of the sermon’s structural problem: the preacher is more comfortable in the Billy Graham story than in the text.
+
+---
+
+### 13. Missed Opportunity
+
+Isaiah 49:23b — "those who wait for me shall not be put to shame" — is the emotional and theological climax of the entire passage and is never mentioned. This single verse is the most direct answer to the anguish the sermon is trying to address: the parent who has waited, prayed, and seen nothing. YHWH’s specific promise that waiting on him does not end in shame is the very word grieving parents need to hear — and it is in the text, waiting to be preached.
+
+The Servant Song framework also offered a natural bridge to Christ: the same Servant who was despised (v.7), who felt his work was in vain (v.4), is the one who now guarantees the restoration. The parents of wayward children can hope not merely because God has said a nice thing, but because Jesus bore the sin of wanderers and rose to intercede for them.
+
+---
+
+### 14. Surgical Fixes (3-5)
+
+1. **Rebuild the exposition around the text’s actual argument**: Before addressing individual parents, preach what vv.22-25 actually say — YHWH will cause kings and queens to serve as nursing parents to restored Israel (vv.22-23); the "mighty" who hold Israel captive will be stripped of their prey (vv.24-25). *Then* move to application: if God promised this to corporate Israel, how much more does this speak to the individual wanderer and the parent who waits?
+
+2. **Remove the Katrina/homosexual convention digression entirely**: It has no exegetical warrant, pastoral benefit, or illustrative coherence with the sermon’s argument. Replace with a single sentence, if anything: "Sometimes God disciplines nations as He disciplines individuals — turning us toward dependence. We’ve seen that in our own community."
+
+3. **Preach the gospel from the Servant Song, not from Romans 3:23 as a tag**: At the application point, make this move explicit: "The reason the promise of v.25 can be trusted is that God sent the Servant — the one Isaiah was writing about — to accomplish this rescue. Jesus Christ went to the cross as the one who bears the wanderer’s sin and brings the captive home. The God who says ‘I will save your children’ has already paid the price to do it."
+
+4. **Add searching application for the parent who has given up, and for the one whose own sin contributed**: "Some of you stopped praying for your child three years ago because it seemed pointless. Verse 25 is a rebuke to your despair. Some of you know, if you are honest, that your own compromise made the path easier for your child to wander. The text does not let you off the hook — but it does not leave you there either."
+
+5. **Incorporate v.23b as the emotional climax**: "Those who wait for me shall not be put to shame." Preach this verse to the parent who has waited twenty years. Make it a promise, make it specific, make it the sermon’s final word — not Billy Graham’s Facebook post.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — the sermon is not doctrinally cold; it is theologically *incomplete* and exegetically *thin*, but it has pastoral heat. The problem is not orthodoxy without fire; it is fire without enough text to sustain it.
+
+---
+
+### 16. Weight of Glory Statement
+The sermon carries genuine pastoral heat for suffering parents, but the eternal gravity of Isaiah 49 — YHWH’s cosmic rescue of a captive people through the Servant who bears their shame — is largely absent; what remains is warm comfort without the weight of the redemptive drama that makes that comfort credible.
+
+---
+
+### 17. Rubric Fit Note
+Isaiah 49 is prophetic poetry embedded in a Servant Song — a genre that rewards redemptive-historical and Christological reading more than direct applicatory mining. The rubric’s categories (exposition, theology, gospel centrality) are well-suited to this passage, but the *Fallen Condition Focus* diagnostic is especially useful here: the passage’s FCF is not primarily individual parental anguish but corporate spiritual captivity and the shame of feeling abandoned by God — and the Servant is the answer to *that* condition. A preacher who starts with the FCF of the text (Israel feels abandoned; God has not forgotten) will arrive naturally at the most powerful pastoral application (the parent who feels God has abandoned their child) without flattening the passage’s own argument.

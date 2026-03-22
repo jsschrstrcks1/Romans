@@ -68,3 +68,160 @@ For his glory, and our salvation.
 What a gift. 
 
 All that starts with the gospel.
+
+---
+
+# Thus Says the Lord — Sermon Evaluation
+
+## 1. Verdict Title
+**A Gospel Instinct Without Gospel Precision: Pastoral Warmth Over Expository Scaffolding**
+
+## 2. One-Sentence Summary
+A sermon on the injustice of Christ's trial that reaches movingly toward the cross but never fully opens the text, never completes the gospel announcement, and leaves the congregation with sentiment where they needed proclamation.
+
+## 3. Berean Gate
+
+**Scopus Test: Borderline Pass.**
+The sermon's thesis — that Jesus experienced unjust condemnation, and that our sin makes us complicit in that injustice, yet he died willingly for us — is broadly consistent with the passage's argument. The text (Luke 23:13-25) shows Pilate's repeated declarations of innocence alongside the crowd's demand for Barabbas, an exchange of the innocent for the guilty. The sermon gestures at this, though it never exegetes it. The main point (man's injustice vs. God's justice) is a legitimate angle on this passage.
+
+**Authority Test: Pass, with reservation.**
+The preacher does not soften the text's offense or reframe its plain declarations. He stands under the word. However, the passage's own argument — the substitutionary logic embedded in the Barabbas exchange — is almost entirely neglected. The sermon does not silence the text; it leaves most of it unread.
+
+**Verdict: The Berean Gate passes, but barely. The sermon does not contradict the text — it simply fails to open it.**
+
+## 4. Fatal Flaw Flags
+
+**Flag 3 — TRIGGERED (partially): Christ is present but not proclaimed with precision.**
+The sermon mentions Jesus, his death, his willingness, and his forgiveness of enemies. But the finished work of Christ is never declared as the ground of justification. The phrase "all that starts with the gospel" appears in the last sentence as if the gospel were about to begin — but the sermon ends there. Christ is present emotionally but not proclaimed doctrinally. This narrowly avoids a full flag, but the gospel is incomplete.
+
+**Flag 4 — TRIGGERED: Application is entirely generic.**
+"Don't be like Michael Douglas." "We are complicit in his death." These are gestures, not addresses. No hearer is differentiated. The self-righteous person is not cornered. The grieving believer is not comforted. The unconverted person is not called. Everyone receives the same warm fog.
+
+**Flag 5 — TRIGGERED: No actual exhortation.**
+The sermon ends with "What a gift. All that starts with the gospel." The congregation is not told what to believe, repent of, obey, or pursue. They are moved — or nearly moved — and then released without a summons. The sermon informs and warms but never commands.
+
+**Score is capped at 69.**
+
+## 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 12/25**
+- Textual Fidelity: 4/10. Luke 23:13-25 is named but not opened. The MacArthur quotation does more expository work than the sermon itself. The Barabbas exchange — the most exegetically rich element of the passage — receives no treatment. The preacher spends more time on Jan. 6 footage than on the text.
+- Contextual Awareness: 3/5. The trial sequence is described accurately (via MacArthur). Book flow and Lukan purpose are absent.
+- Exegetical Clarity: 2/5. The original meaning is gestured at, not explained. No verse-by-verse movement. Luke 23:34 ("Father, forgive them") is cited and briefly applied, which is the strongest textual moment.
+- Logical Faithfulness: 3/5. No eisegesis detected, but significant omission — particularly the Barabbas substitution typology.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+- Christ-Centeredness: 5/7. Jesus is clearly central. The deity of Christ is affirmed ("fully God and yet fully man"). The willingness of Christ to die is grounded in Hebrews 12:2. These are genuine theological moments.
+- Redemptive-Historical Awareness: 1/3. The 300 OT prophecies are mentioned without any being engaged. Redemptive-historical placement is gestured at but undeveloped.
+- Doctrinal Precision: 3/4. No serious errors detected. Sin, guilt, and need for atonement are present. Penal substitution is implied but not named or explained.
+- Confessional Alignment: 2/4. No contradictions of confessional theology. But the Covenant of Grace, the nature of justification, and the imputation of Christ's righteousness are entirely absent where the text invited them.
+
+**3. Gospel Centrality & Force — 7/15**
+- Clarity of the Gospel: 1/5. The gospel is not clearly articulated. Sinners need a Savior — yes. Christ died — yes. But justification by faith is not stated. How a person receives what Christ accomplished is not addressed. The last line — "All that starts with the gospel" — is the most honest moment in the sermon: the gospel was never actually preached.
+- Necessity of Christ: 4/5. Christ is essential to the sermon's argument. The sermon does not survive without Jesus.
+- Cross-Centered Gravity: 2/5. The cross is present emotionally but not theologically. The movement is toward sentiment about Christ's suffering, not toward the accomplishment of the cross for sinners.
+
+**4. Conscience & Applicatory Force — 7/15**
+- Heart Penetration: 3/5. The "it was my sin that held him there" section is the conscience-pressing peak of the sermon. Working through the commandments — hate as murder, lust as adultery — is effective and personally aimed.
+- Specificity: 2/5. Specific sins are named (hate, lust, lying), but application remains at the level of universal guilt rather than calling specific people to specific response.
+- Spiritual Differentiation: 2/5. Only one category of hearer is addressed: the person who needs to feel the weight of their sin. The unconverted person is not called. The believer is not differentiated from the doubter. Perkins' taxonomy is essentially unused.
+
+**5. Exhortation & Response — 2/8**
+- Call to Response: 0/4. There is no call to response. The sermon ends at emotional crescendo and then dissolves. No one is told what to do, believe, repent of, or pursue.
+- Equipping for Holiness & Witness: 2/4. The illustration of the street-preaching friend at the Jan. 6 events implies witness, and the posture of Christ's forgiveness could equip for witness — but it is not developed as a send-out.
+
+**6. Structure & Logical Flow — 6/9**
+- Clarity of Outline: 2/4. The sermon has two identifiable movements: (1) man's injustice and its frustration, (2) Christ's unjust trial and willing death. But these are not articulated as movements. The outline is felt more than seen.
+- Progression: 3/3. The sermon does build. The introduction is connected to the text. The MacArthur quotation bridges context to application. The commandment-working section leads to "it was my sin." There is genuine momentum.
+- Unity: 1/2. The sermon's unity is strained by the length of the Jan. 6 material, which threatens to become the dominant illustration rather than a setup.
+
+**7. Illustration & Imagination — 3/5**
+- Relevance: 2/2. The Michael Douglas film, the motorcycle comment, and Jan. 6 are all drawn from the congregation's world and recent memory.
+- Clarity: 1/2. The Michael Douglas illustration works as a frame for human rage at injustice. The Jan. 6 material is overlong and risks becoming politically polarizing rather than illustratively clarifying.
+- Memorability: 0/1. The illustrations are vivid in the moment but compete with each other for dominance. No single image will be carried home.
+
+**8. Sermonic Force — 4/5**
+- Reads as Preaching: 2/2. This manuscript reads like it was spoken, not written for publication. The conversational address, the rhetorical repetition ("Oh. No wait that was Michael Douglas"), and the direct engagement all register as genuine preaching voice.
+- Conviction on the Page: 1/2. Conviction is present in the "it was my sin" section. The rest is narrative and illustration.
+- Cadence and Breath: 1/1. Sentence variation is natural. The preacher knows when to compress and when to expand.
+
+## 6. Cognitive Load Modifier: −1
+The sermon is not overloaded. It is, if anything, under-developed theologically. The congregation can follow it. One point: the extended Jan. 6 section adds cognitive and emotional friction that doesn't serve the theological argument.
+
+## 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 12/25 |
+| Theology & Doctrinal Integrity | 11/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 7/15 |
+| Exhortation & Response | 2/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 4/5 |
+| Subtotal | 52/100 |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **53** |
+
+**Score capped at 69 due to Fatal Flaw Flags (4 and 5). Raw score of 53 is below the cap — cap does not raise the score, it limits it. Final score: 53.**
+
+**Interpretation: Below 60 — Fundamentally flawed. Significant rebuild needed, particularly in gospel clarity and exhortation.**
+
+## 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Mostly Christ, though the Jan. 6 material keeps pulling the eye back to current events and human anger.
+2. **Did I encounter God, or just ideas about Him?** Ideas about him, warmly presented. The sermon aims for encounter but does not fully achieve it.
+3. **Was I comforted, convicted, or merely informed?** Partially convicted (the sin section works). Not comforted with gospel precision. Informed about the trial narrative.
+
+## 9. Strengths (Top 3)
+
+1. **The "it was my sin" section (paragraph beginning "Are we really any better")** — Working the commandments down to specific sins and showing universal guilt is the most pastorally honest and conscience-pressing moment in the sermon. This is Puritan-adjacent application.
+2. **The preaching voice is genuine.** The conversational address, the playful biblical quiz, and the rhetorical callbacks to Michael Douglas all demonstrate a man who preaches, not performs. The sermonic register is right.
+3. **The Hebrews 12:2 citation** — Grounding Christ's willingness in a specific text ("for the joy set before him") rather than sentiment alone is a strong theological anchor and the best exegetical moment in the sermon.
+
+## 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is never preached.** The sermon ends with "All that starts with the gospel" — which is an admission. Justification, faith, repentance, forgiveness as received rather than merely observed in Jesus's words from the cross — none of these are presented. A person could leave this sermon moved by Christ's example and still have no idea how to be saved.
+2. **The Barabbas exchange is ignored.** Luke 23:13-25 contains one of Scripture's most vivid pictures of substitution: Barabbas — guilty, condemned — goes free; Jesus — innocent, declared not guilty three times — goes to the cross. This is the text's own theological center of gravity. The sermon never touches it.
+3. **There is no exhortation.** The sermon ends at the emotional high point and then stops. The congregation was moved toward something and then released without a destination. "What a gift" is not a summons. The preacher told the people what Christ did but never told them what they must now do in response.
+
+## 11. Blind Spots
+
+The preacher may not see that **his instincts are better than his execution**. The conscience-pressing section shows he knows how to corner a sinner. The Hebrews 12:2 citation shows he can anchor emotion in text. But the sermon as a whole does not deliver what those moments promise. He likely feels the gospel was present — and emotionally it was — but doctrinally it was absent. The difference between a gospel atmosphere and a gospel announcement is the difference between the smell of bread and being fed.
+
+The Jan. 6 material also carries a risk the preacher may not feel: in a politically mixed congregation, it may function as tribal alignment rather than universal illustration. The goal of showing human rage at injustice is right — but the specific example has partisan weight that could cause some hearers to disengage before the text is opened.
+
+## 12. Illusion of Strength
+
+**The MacArthur quotation reads as exposition but isn't.** It is accurate, informed, and contextually helpful — but it does the preacher's exegetical work for him. The congregation may feel they've been taken through the text because MacArthur walked them through the trial sequence. They haven't been. The preacher's own engagement with the text is thin. The borrowed scaffolding makes the building look more solid than it is.
+
+**The emotional arc feels like gospel.** The sermon moves from frustration (Michael Douglas) to guilt (your sin held him there) to wonder (what a gift). That arc mimics law-and-gospel structure. But it stops short — the relief of the gospel (justification, forgiveness received, reconciliation with God) never arrives. The hammer swings; the balm is never applied.
+
+## 13. Missed Opportunity
+
+**The Barabbas exchange is the sermon.** Luke 23:18-19 and 25 are the theological climax of this passage. Barabbas is guilty; Jesus is innocent. Barabbas is released; Jesus is condemned. The crowd chose Barabbas. And we are Barabbas. This is not a strained typological leap — it is the text's own picture. Every point the preacher makes about human guilt, substitutionary willingness, and the injustice of the cross could be anchored to this exchange with devastating force. The sermon reached for the cross without picking up the text's own key.
+
+## 14. Surgical Fixes
+
+1. **Open the Barabbas exchange and make it the sermon's spine.** After the introduction, establish Barabbas as the guilty man who went free — and show the congregation they are Barabbas. This is where the text does its own gospel work.
+2. **Add a gospel announcement before the final paragraph.** One paragraph: What did Christ's death accomplish? How does a guilty person receive it? What is faith? The last line ("All that starts with the gospel") is an invitation — accept it and preach the gospel before the sermon ends.
+3. **Add a direct exhortation at the close.** Something concrete: "You came in here carrying the weight of sins you would not name aloud. This text tells you: name them before God. Trust in the one who bore them. That is what faith is. Do it today." That is a call. The sermon currently has none.
+4. **Trim the Jan. 6 material by half.** The point — human rage at injustice — is made in the first two paragraphs. The detailed catalogue of arrest statistics adds length without theological weight. Replace with one more illustration native to the congregation's daily life.
+5. **Differentiate hearers at the application point.** After the commandment-conviction section, address at least three types: the person crushed by guilt (comfort them with the cross), the person who thinks they're not so bad (press them harder), and the believer who already knows this (call them to wonder and witness).
+
+## 15. Dead Orthodoxy Flag
+
+**Not triggered** — this sermon's weakness is not cold orthodoxy but incomplete proclamation. The passion is present. The doctrine is the gap.
+
+## 16. Weight of Glory Assessment
+
+There is real pastoral warmth in this manuscript, and the preacher's genuine love for his congregation and for the willingness of Christ to die shows through — but the sermon does not yet carry the full weight of glory because it stops short of the announcement that would cause sinners to flee to Christ and saints to worship.
+
+## 17. Rubric Fit Note
+
+The rubric fits this passage well. Luke 23:13-25 is narrative, but narrative with explicit theological structure (the substitution pattern, the triple declaration of innocence, the exchange of Barabbas). The rubric's gospel centrality and exhortation categories are not straining against the genre here — they are exposing a real gap. The one genre caveat: narrative sermons sometimes allow the story to do theological work implicitly. This sermon used that implicit allowance as an excuse not to do the theological work explicitly. The genre does not require the omissions found here.
+
+---
+*Evaluation generated by Thus Says the Lord rubric — Soli Deo Gloria.*

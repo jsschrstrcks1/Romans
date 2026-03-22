@@ -323,3 +323,48 @@ These edge cases were identified by testing the plan against the actual sermon-m
 | 8 | CONNECT could generate massive noise — 100+ doctrinal positions | Only suggest novel additions (new positions or new evidence) | Section 6 |
 | 9 | GAP can't distinguish "not preached" from "not mapped" | Cross-reference map AND filesystem; separate true gaps from AUDIT findings | Section 7 |
 | 10 | Map too large for single read (364KB / 1291 lines) | Section-based operations: Grep → Read with offset → Edit | Section 10 |
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+**Note on Rubric Application**: `plan.md` is a software design document — a specification for a sermon-mapping skill — not a sermon manuscript. It contains no biblical text, no proclamation, no congregation address. The "Thus Says the Lord" rubric evaluates sermon manuscripts for faithfulness, gospel clarity, pastoral force, and sermonic quality. Applying it to a planning document would be a categorical error: forcing a preaching rubric onto engineering documentation.
+
+**Verdict Title**: Not a Sermon — Outside Rubric Scope
+
+**One-Sentence Summary**: `plan.md` is a technical specification for repository tooling, not a proclamation of God's Word; the rubric cannot and should not be applied.
+
+**Berean Gate**: NOT APPLICABLE — This document contains no biblical text, no thesis derived from a passage, and no herald-congregation relationship. There is no sermon to evaluate.
+
+**Fatal Flaw Flags**: All six would technically fire — but only because the document is not a sermon, not because of any preaching failure. Flagging them would misrepresent the nature of the document.
+
+**Score Breakdown**: No score assigned. Applying a 100-point preaching rubric to a software design document would produce a meaningless number and dishonest diagnostic.
+
+**Cognitive Load Modifier**: Not applicable.
+
+**Total Score**: Not assigned.
+
+**Core Override Questions**:
+1. Does this document make me think more of Christ — or myself? — It makes me think about software architecture. The document is silent on Christ by design.
+2. Did I encounter God, or just ideas about Him? — Neither. I encountered a structured technical plan.
+3. Was I comforted, convicted, or merely informed? — Informed, as is appropriate for a design specification.
+
+**Strengths (Top 3)**:
+1. The document is admirably thorough in its attention to edge cases — demonstrating the kind of careful thinking that protects the integrity of the sermon map as a pastoral tool.
+2. The design principles (esp. #6 — "Soli Deo Gloria") ground technical work in its ultimate purpose: sermons that carry the weight of "Thus says the Lord." This is not boilerplate.
+3. The scope boundaries for AUDIT (in-scope vs. out-of-scope directories) show pastoral wisdom applied to engineering — the distinction between the pastor's own sermons and reference material is a meaningful one that protects the map's clarity.
+
+**Critical Weaknesses (Top 3)**: Not evaluated under this rubric — the document is not a sermon.
+
+**Blind Spots**: Not applicable.
+
+**Illusion of Strength**: Not applicable.
+
+**Missed Opportunity**: Not applicable.
+
+**Surgical Fixes**: Not applicable — this is a planning document, not a sermon. If sermon evaluation was intended, the wrong file was submitted. The sermon files in this repository are the appropriate targets for this rubric.
+
+**Dead Orthodoxy Flag**: Not triggered — the category does not apply to technical documentation.
+
+**Weight of Glory Assessment**: The document itself carries no eternal gravity — but the system it describes exists to serve preaching that does. The tool is not the sermon.
+
+**Rubric Fit Note**: This rubric is explicitly designed for sermon manuscripts. `plan.md` is a software skill specification. The rubric strains badly here — not because of any weakness in the rubric or the document, but because the genres are entirely different. A faithful application of "Thus Says the Lord" requires a text, a proclaimed thesis, and a congregation addressed. None of those are present here. The correct action is to identify this as a non-sermon file and decline to score it, rather than produce a misleading evaluation.

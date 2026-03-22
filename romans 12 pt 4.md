@@ -184,3 +184,180 @@ Not because we are impressive. Because He is.
 *Do not be overcome by evil, but overcome evil with good.*
 
 Let's pray.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Sermon That Earns Its Climax — Strong Exposition, Genuine Gospel Weight, With One Blind Spot Left Unaddressed**
+
+---
+
+### 2. One-Sentence Summary
+A faithful and at times powerful opening of Romans 12:14–21 that diagnosed human pride and vengeance with real precision, carried genuine gospel gravity in its close, and deployed its most memorable illustration brilliantly — while leaving the unbeliever inadequately addressed and the conscience differentiation shallow outside the primary application of personal injury.
+
+---
+
+### 3. Berean Gate Result
+**PASS — Strong**
+
+- **Scopus Test**: Pass. The sermon's controlling thesis — that the gospel-transformed person overcomes evil with active good, trusts God with vengeance, and loves enemies as a direct expression of what Christ did for us — arises directly from Paul's argument in vv. 14–21. The main point of the sermon is the main point of the text.
+- **Authority Test**: Pass. The preacher submits to the text's hardest commands without softening them. "Never avenge yourselves" is not hedged. The political application is courageous and specific. The prison illustration delivers the command's full weight rather than escaping it.
+
+---
+
+### 4. Fatal Flaw Flags
+**No fatal flaw flags triggered.**
+
+The gospel is present and explicitly proclaimed in the conclusion. Christ's finished work is articulated with real clarity ("every sin you have ever committed was laid on Christ"). Application is specific and differentiated at multiple points. Exhortation is present and clear. The sermon is accessible. No score cap applied.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 21/25**
+- *Textual Fidelity* — 9/10: The sermon tracks every verse in the passage, gives each command its due, and reads Paul's argument as a unit. The "burning coals" exegesis is responsible and clarifying. The connection to vv. 1–2 (renewal of mind as the source of transformation) in the conclusion is textually grounded, not decorative.
+- *Contextual Awareness* — 4/5: The sermon's introductory recap of Weeks 1–3 demonstrates genuine awareness of Romans 12's structure as a sustained ethical argument built on the indicatives of Romans 1–11. The Roman persecution context (early 50s AD, pre-Nero) is used well and without overreach.
+- *Exegetical Clarity* — 4/5: The unpacking of *mē heautous ekdikountes* ("do not do the justice yourself"), the *ta hypsēla phronountes* ("thinking high thoughts"), and the Proverbs 25 "burning coals" background is clear and congregation-level accessible. The Greek is used as an unlock, not a display.
+- *Logical Faithfulness* — 4/5: The FCF (Fallen Condition Focus) is genuinely and specifically named: the natural human drive toward vengeance, the self-deceiving pride that justifies retaliation, the reflex to reverse Paul's commands (rejoicing when rivals fail, grieving when enemies succeed). This is well-observed. Minor deduction: v. 15 ("weep with those who weep") receives adequate but not deep treatment.
+
+**2. Theology & Doctrinal Integrity — 16/18**
+- *Christ-Centeredness* — 6/7: Christ is organically central — as the one who modeled the commands (eating with tax collectors, touching lepers, going to the cross), as the one who absorbed the justice due us, as the one who makes enemy-love possible. The Christ-connection arises from the text's own logic, not from an artificial jump.
+- *Redemptive-Historical Awareness* — 3/3: The move from Romans 1 (God's wrath revealed) through the cross (justice absorbed) to Romans 12 (transformed living) is clearly present in the conclusion. The redemptive-historical scaffolding is used well.
+- *Doctrinal Precision* — 4/4: The articulation in the close is unusually precise: "every sin you have ever committed was laid on Christ... God looked at the full account of your life... and chose, in the death of His Son, to absorb the justice that should have fallen on you." Penal substitution is clear. The connection between God's wrath being real (Romans 1) and God's wrath being satisfied (the cross) is made explicit.
+- *1689 Pulse* — 3/4: Sound throughout. No confessional contradictions. The sovereign God who will repay, whose wrath is "not a comforting metaphor but a terrifying, permanent, complete reality" — this is confessional language handled with precision. Minor deduction: the call to believe the gospel in the close could more explicitly ground the response in grace rather than in the moral force of the example ("you know what grace at cost looks like").
+
+**3. Gospel Centrality & Force — 12/15**
+- *Clarity of the Gospel* — 4/5: The conclusion contains genuine gospel proclamation — specific, substitutionary, personal. "God allowed his only Son to die for people like us. We are the ones responsible for Christ's death. And God forgave us." This is clear. Minor deduction: justification by faith is implicitly present but not as crisply articulated as it could be for the unconverted hearer who needs to know not just that God forgave but how that forgiveness becomes theirs.
+- *Necessity of Christ* — 4/5: Christ is genuinely necessary to the sermon's argument. Without the cross, the command to bless persecutors becomes a moral ideal rather than a Spirit-enabled response to grace received. The sermon makes this connection explicitly.
+- *Cross-Centered Gravity* — 4/5: The sermon moves toward the cross throughout and lands on it in the conclusion. The Synagogue Test is not triggered — the exclusive necessity of Christ's blood is present and would give offense to a devout non-Christian.
+
+**4. Conscience & Applicatory Force — 11/15**
+- *Heart Penetration* — 4/5: The political application (Point 1) is genuinely confrontational and specific. The question "When is the last time you genuinely prayed for the leader you can't stand?" is conscience-level. The diagnosis of schadenfreude in Point 2 ("we rejoice when rivals fail... we dress it up — we call it justice") is excellent diagnostic work. The sermon reaches the affections, not just the intellect.
+- *Specificity* — 4/5: The political prayer test, the prison illustration, the specific description of the person who "has been overcome by evil — not by losing, but by being changed into a smaller, meaner version of yourself" — these are specific and concrete. The sermon grounds truth in recognizable experience.
+- *Spiritual Differentiation* — 3/5: The sermon speaks primarily to two categories: the injured believer (who must not seek vengeance) and the politically-captured churchgoer (who must bless those they despise). These are well-addressed. But the unconverted hearer, the self-righteous observer, and the person who has never been significantly wronged and therefore feels this sermon does not concern them — these are not specifically reached. The backslider and the hardened are untouched.
+
+**5. Exhortation & Response — 7/8**
+- *Call to Response* — 4/4: The conclusion functions as a genuine exhortation. "So we bless. We pray. We enter each other's grief. We lay down our pride. We refuse revenge. And we fight — hard, actively, with everything we have — to overcome evil with good." This is a clear, specific, imperative summary. There is a real "therefore" moment.
+- *Equipping for Holiness & Witness* — 3/4: The sermon gestures toward witness ("sometimes that is what breaks a person open") and the prison illustration demonstrates the evangelistic power of enemy-love. The church is sent out with a posture, not just a private discipline. Minor deduction: the church-as-body dimension of these commands (how we collectively respond to cultural opposition, not just individual personal injury) is present but underdeveloped.
+
+**6. Structure & Logical Flow — 8/9**
+- *Clarity of Outline* — 4/4: Five clearly titled points that follow the passage sequentially and build logically. A listener could sketch this on a napkin: bless / enter / humble / leave it to God / overcome.
+- *Progression* — 3/3: The sermon builds effectively toward its climax. The prison illustration arrives at exactly the right structural moment — it lands in Point 4 where the command is most demanding and is then harvested again in Point 5. The placement is intentional and effective.
+- *Unity* — 1/2: The dominant idea is clear: overcome evil with good, trusting God with justice. Minor deduction: the political application in Point 1 is valuable but occupies proportionally more space than its weight in the passage warrants. It is the right application but risks becoming the sermon within the sermon.
+
+**7. Illustration & Imagination — 5/5**
+- The prison illustration is exceptional. It is specific, personal, emotionally costly, textually native, and tied directly to the command being expounded. It does not just illustrate Romans 12:19 — it enacts it. The listener will carry it. The political prayer diagnostic ("the person you find it hardest to pray for") is a second strong illustration, grounded in the congregation's actual experience. The Jesus-at-the-margins sketch (eating with tax collectors, touching lepers) serves the point cleanly without becoming an extended digression. Full marks.
+
+**8. Sermonic Force — 5/5**
+- The manuscript reads as preaching throughout. The sentence structure varies with purpose — short at pressure points ("Never. That word in Greek... literally means: do not do the justice yourself"), longer in the theological passages. Direct address is consistent and well-placed ("Some of you are thinking of someone right now"). The conclusion escalates appropriately and ends on a clean, one-sentence landing: "Not because we are impressive. Because He is." The tone-text congruence is strong — the sermon matches the passage's moral seriousness without becoming funereal.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: 0**
+
+Well-paced. The political digression in Point 1 adds a second concern to the opening, but it resolves quickly and does not compete with the main argument throughout the sermon. The five-point structure follows the passage sequentially, which makes the argument easy to track. The "burning coals" exegetical clarification prevents a potential confusion. The congregation can follow this.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 21/25 |
+| Theology & Doctrinal Integrity | 16/18 |
+| Gospel Centrality & Force | 12/15 |
+| Conscience & Applicatory Force | 11/15 |
+| Exhortation & Response | 7/8 |
+| Structure & Logical Flow | 8/9 |
+| Illustration & Imagination | 5/5 |
+| Sermonic Force | 5/5 |
+| **Subtotal** | **85/100** |
+| Weight of Glory Bonus | +4 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **89/105** |
+
+**Interpretation: Strong and faithful. Minor sharpening needed. Ready for the pulpit with targeted revisions.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+   More of Christ. The conclusion explicitly names Christ as the one who bore our justice and whose example and grace fund every command in the passage. The prison illustration makes Christ's way — not the preacher's cleverness — the hero of the sermon.
+
+2. **Did I encounter God, or just ideas about Him?**
+   God is present and weighty, particularly in the treatment of divine wrath and justice. "God's wrath is not a comforting metaphor. It is a terrifying, permanent, complete reality for everyone who dies outside of Christ." This is not an idea about God — it is a confrontation with Him. The response is yes, with qualification: the encounter is deepest in the last two points and the close. The earlier points are more horizontal (how we treat people) than vertical (who God is in this).
+
+3. **Was I comforted, convicted, or merely informed?**
+   Convicted and, in the close, comforted. The political application produces genuine conviction. The prison illustration and the conclusion produce genuine comfort and resolve. This is the proper Law/Gospel sequence, and the sermon earns it.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The prison illustration is the sermon's crown**: The story of the father whose daughter was murdered, his conversion, and his fifteen-year discipleship of his daughter's killer is a near-perfect sermon illustration. It arrives at the right structural moment (Point 4, the hardest command), is tied directly to the text's language ("that is Romans 12:19"), is harvested effectively in Point 5, and will not be forgotten. It does not decorate the sermon — it proves the sermon.
+
+2. **The political application is courageous, specific, and earned**: The move from first-century Roman persecution to contemporary political idolatry is not a stretch — it is exegetically legitimate and pastorally necessary. "If you can't bring yourself to bless the politician you disagree with most, it is worth asking honestly before God whether politics has become more of a savior to you than Jesus has." This is diagnostic, specific, and self-inclusive ("I will include myself in that"). It corners the comfortable without retreating to abstraction.
+
+3. **The close contains genuine gospel proclamation**: Unlike many sermon conclusions that gesture toward the gospel, this one states it plainly and substitutionarily: "every sin you have ever committed was laid on Christ... God looked at the full account of your life... and chose, in the death of His Son, to absorb the justice that should have fallen on you." The connection from this gospel to the commands of Romans 12 is made explicit ("if you know this, then you know that the person who wronged you is not more guilty before God than you were before Christ"). The logic is tight and the application is direct.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The unbeliever is not directly addressed**: The sermon's final section proclaims the gospel clearly but directs it entirely toward the believer ("if you know... then you know..."). The unconverted hearer — who may be sitting in the room precisely because they were brought by a believing friend, or who is present and self-righteous and undisturbed — is not specifically addressed. The sermon explains what the gospel does in a believer but does not invite the unbeliever to believe it. A single paragraph addressed directly to the person who cannot do these things because they have not received the grace that funds them would close this gap.
+
+2. **Verse 15 receives minimal development**: "Rejoice with those who rejoice, weep with those who weep" (Point 2) is treated with reasonable insight (the diagnosis of schadenfreude is good) but the structural weight of what Paul is doing here — calling the church into genuine empathic solidarity as a counter-cultural community — is not developed. The congregation is told that "love shows up anyway" without being given the theological grounding for why gospel-recipients specifically can weep with enemies. The indicative/imperative dynamic that funds every other command in the passage is briefly missing here.
+
+3. **Spiritual differentiation is limited to the person of injury**: The sermon's conscience work consistently addresses one primary category: the person who has been wronged and wants revenge. This is the passage's primary concern, and the sermon is right to stay there. But the person who has never suffered significant injury — the prosperous, relationally comfortable, socially insulated churchgoer — is not given a corresponding point of entry. What does "overcome evil with good" mean for the person whose life contains no dramatic enemies? The hardened, the comfortable, and the person who cannot identify with the passage's scenarios are left without traction.
+
+---
+
+### 11. Blind Spots
+
+The preacher's imagination for this passage is shaped primarily by dramatic suffering — persecution, murder, political opposition. The illustrations and applications are drawn from extreme situations (prison, martyrdom, Nero). These are textually appropriate, but they may cause the congregation member whose "enemy" is a passive-aggressive coworker, a distant parent, or a neighbor who has never spoken to them to feel that the passage does not quite apply to their situation. The sermon does not help the congregation locate enemy-love in the ordinary and mundane — which is, for most hearers, where the command will actually be required.
+
+Additionally, the sermon's political application speaks almost entirely to one political posture: the person who curses leaders they oppose. The inverse failure — using political loyalty to justify ignoring the poor or dehumanizing those on the other side — is equally common and equally a failure of Romans 12:14, but it goes unaddressed.
+
+---
+
+### 12. Illusion of Strength
+
+The prison illustration is so powerful that it may create the impression that the sermon's application work is complete after Point 4. In fact, the sermon's differentiation work largely ends there. Points 5 and the close are proclamation and summary — beautifully done — but they do not add new categories of hearer or new forms of conscience engagement. A reader who experiences the emotional weight of the prison story may feel fully addressed when in fact only one dimension of the passage has been pressed into their life. The illustration is not the weakness — it is genuinely excellent. The weakness is that nothing comparable is offered for the person who is not a victim of grave injury.
+
+---
+
+### 13. Missed Opportunity
+
+The passage's closing command — "Do not be overcome by evil, but overcome evil with good" — contains a warning that the sermon identifies but does not fully press: "It is possible to be overcome by evil. It is possible to let what someone did to you define you, harden you, make you into a smaller and meaner version of yourself." This diagnostic is precisely right and the sermon states it well. But it does not spend time with it. There is a congregation of people who have been subtly overcome — not by open sin but by bitterness, by coldness, by a narrowing of the heart — who do not recognize themselves in that description because it has happened slowly and quietly over years. The sermon names the condition and moves past it. A brief pastoral stop here — describing what being slowly overcome looks like, naming its symptoms (the hardened elder, the cynical deacon, the person who stopped giving because someone once misused the money) — would have made the warning land differently.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Add a direct address to the unconverted hearer in the close.** After the gospel proclamation in the conclusion, add 3–4 sentences specifically addressed to the person who knows they cannot do these things: "If you are sitting here this morning and you know — honestly know — that you do not have this love and cannot produce it, I want you to hear this: the gospel is not just the fuel for this kind of living. It is the door into it. Christ did not die to make you a better person. He died to make you a new one. And if you have never received that — if you have been moral but not born again — today is a day you can be."
+
+2. **Develop the empathy command (v. 15) with its gospel grounding.** In Point 2, add the indicative underneath the imperative: the reason we can genuinely weep with enemies is that we ourselves were God's enemies when Christ wept over Jerusalem and went to the cross for us. The gospel funds the empathy Paul commands. Without naming the indicative, the imperative stays at the level of moral aspiration.
+
+3. **Locate enemy-love in the ordinary and mundane.** Add one concrete, non-dramatic example of what "overcome evil with good" looks like in an everyday situation — the neighbor who complained about your fence, the coworker who took credit for your work, the family member who excluded you from a decision. The prison illustration covers the dramatic. The congregation also needs to know what the command means in their Tuesday afternoon.
+
+4. **Tighten the political application to a single decisive challenge.** The Point 1 political section is the right content but runs slightly long. The key question ("When is the last time you genuinely prayed for the leader you can't stand?") is the sermon's sharpest conscience probe. Land there faster and move on. The theological reflection on the gospel not being a platform is valuable but could be trimmed by half without losing the point.
+
+5. **Press the "being overcome slowly" warning in Point 5.** Name the symptoms of gradual hardening — the cold elder, the person who has stopped hoping for the person who wronged them, the one who still prays for enemies but no longer means it. Give the quietly-overcome person a mirror before calling them to fight.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon has genuine pastoral heat, conscience-level application, and a close that earns its gospel proclamation. It does not read as correct but bloodless. The prison illustration alone disqualifies dead orthodoxy — that is not the work of a man going through theological motions.
+
+---
+
+### 16. Weight of Glory Assessment
+The sermon carries real eternal gravity — particularly in the treatment of divine wrath as "terrifying, permanent, complete," in the prison illustration's demonstration of what the gospel actually costs and actually does, and in the conclusion's move from the specific commands to the specific cross. A man who has been with God could preach this with trembling, and a congregant who has been with God could receive it with tears. **+4/5**
+
+---
+
+### 17. Rubric Fit Note
+Romans 12:14–21 is a paraenetic passage with a strong ethical imperative cluster culminating in a programmatic summary statement. The rubric applies well. The passage is more directly applicable than most of Paul's ethical material, which means the rubric's conscience and applicatory categories are under greater pressure here — the text itself nearly does the application work, so the question is whether the preacher presses it into the congregation with differentiation and specificity, or simply restates it with illustration. This sermon presses it with genuine force in some directions and leaves others untouched, which the rubric captures accurately. No genre strain.

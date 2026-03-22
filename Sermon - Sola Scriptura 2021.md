@@ -171,3 +171,160 @@ But if you have never come to a point in your spiritual life where you've begun 
 - ⚠️ **Trevor Noah attribution**: Strongest lead (March 2026): a Trevor Noah is associated with City Centre Church (Whalley Presbyterian Church), Surrey, BC, Canada — a Reformed, Gospel-centered Presbyterian congregation whose theology is entirely consistent with this quote. The attribution may be correct as originally stated, referring to this pastor/leader rather than the comedian. Quote not indexed online (likely from a sermon recording). Pastor should confirm whether this is the source. Contact: 604-581-4833 or connect@citycentrechurch.org. Do not use in print until confirmed.
 - ⚠️ **Luther Quotes 3–4**: Editions identified; content authentic; verbatim unverified. Acceptable for preaching. For print/book use, obtain physical copies of Mueller and Middleton/Fallowes editions to confirm exact wording.
 - **Incomplete sentence**: "I don't know if you know this but I've saved" — abandoned mid-thought in pastor appreciation aside. Drafting artifact; left as-is.
+
+---
+
+---
+
+# Thus Says the Lord — Sermon Evaluation
+
+**File**: Sermon - Sola Scriptura 2021.md
+**Text**: 2 Timothy 3:13–17
+**Occasion**: Evening service / Sunday school — Five Solas series (October 2021)
+**Evaluator**: Thus Says the Lord Rubric
+**Date**: 2026-03-22
+
+---
+
+## 1. Verdict Title
+
+**A Faithful Sunday School Lecture on Sola Scriptura That Preaches the Doctrine Without Preaching the Text**
+
+---
+
+## 2. One-Sentence Summary
+
+An enthusiastic and well-researched evening defense of Sola Scriptura — anchored by Luther, the Masoretes, and the Dead Sea Scrolls — that correctly grounds biblical authority in 2 Timothy 3 but never exposits the text itself, functioning more as an apologetics lecture than a sermon and leaving Christ and the gospel at the margin until the final paragraph.
+
+---
+
+## 3. Berean Gate
+
+**PASS**
+
+**Scopus Test**: "Scripture alone is the supreme authority for Christian life and faith — God-breathed, internally consistent, reliably preserved, and sufficient for every circumstance — so read it, trust it, and turn to it in all things." Arises from 2 Timothy 3:13–17 and the Five Solas tradition. Pass.
+
+**Authority Test**: The sufficiency and authority of Scripture against contemporary challenges (evolutionary science, sexuality, politics) is stated without retreat. The reality of hell is referenced (Matthew 7:13–14). The gospel call names the "narrow gate." Pass.
+
+---
+
+## 4. Fatal Flaw Flags
+
+**None triggered.** Christ is named as the Savior and the gospel is invited at the close. Theological authority throughout is Scripture-grounded.
+
+**Standing integrity flags (carried from existing source notes)**:
+- ⚠️ Trevor Noah attribution: See source notes. Quote withheld; investigate City Centre Church (Whalley Presbyterian, Surrey BC) lead before print use.
+- ⚠️ Luther Quotes 3–4: Editions identified; verbatim unverified. Acceptable for preaching; confirm before publication.
+
+---
+
+## 5. Score Breakdown
+
+### 1. Exposition & Hermeneutics — 13/25
+
+- **Textual Fidelity (4/10)**: 2 Timothy 3:13–17 is read aloud from congregation's Bibles but is never quoted in the manuscript and never expounded. The text is the occasion for the sermon's subject (Sola Scriptura) but the sermon's content is drawn from Luther, the Masoretes, history of the Reformation, and contemporary apologetics. No individual verse from 2 Timothy 3 is opened, worked, or applied specifically. The phrase *theopneustos* (God-breathed) is the text's exegetical heartbeat — and it is not examined.
+- **Contextual Awareness (3/5)**: The BFM Article I is read and functions as a confessional anchor. The RC Sproul gloss on Timothy's opponents (contentious, OT-misreading) provides some historical context for why Paul wrote this. The Reformation history is accurate and relevant.
+- **Exegetical Clarity (3/5)**: The "cookie jar" analogy for reading a text in its situation (if a child is scolded, assume they stole a cookie) is a clear statement of basic hermeneutical inference. It is applied to 2 Timothy 3 only briefly.
+- **Logical Faithfulness (3/5)**: The sermon's thesis — that Scripture alone is the supreme authority, that it has been supernaturally preserved, and that we should read it daily — arises from the text's teaching (*theopneustos*, profitable for teaching, correction, training). But this is stated rather than demonstrated from the text.
+
+**FCF**: "People who don't understand the value and authority of Scripture are vulnerable to every false teaching." Named implicitly through the Sproul comment and the contemporary-issues list. Present but not developed from the text's own argument.
+
+### 2. Theology & Doctrinal Integrity — 14/18
+
+- **Christ-Centeredness (4/7)**: Christ is named at the gospel close ("begin a relationship with Jesus Christ") and is implicit throughout (the Bible points to Him as its subject). But Christ is not the sermon's center — the reliability and authority of Scripture is. The sermon is about the book rather than the One the book is about. This is an appropriate emphasis for a Sola Scriptura lecture but limits the score.
+- **Redemptive-Historical Awareness (3/3)**: The Masoretes passage and the Dead Sea Scrolls reliability argument are solid redemptive-historical content — God's supernatural preservation of Scripture through human history is genuinely argued and illustrated.
+- **Doctrinal Precision (4/4)**: The Luther quotes are accurate (two confirmed, two with editions identified). The BFM is quoted verbatim. The *theopneustos* implication (God breathed the Word through specific authors using their vocabulary and phrasing) is well stated.
+- **Confessional Alignment (3/4)**: Sola Scriptura, Scripture's inerrancy and sufficiency, the authority of the Word over all human conduct — all present and correct. The BFM grounding is appropriate for the congregation's context.
+
+### 3. Gospel Centrality & Force — 9/15
+
+- **Clarity of the Gospel (3/5)**: "Being a Christian is more than believing in God — scripture says that even the demons believe in God, and they tremble... It's also having a relationship with God." The gospel close identifies the issue (head belief without saving relationship) and offers a conversation. But the mechanism — how one begins that relationship, what Christ accomplished, how faith operates — is not stated. "Come talk to me" is not a gospel presentation; it is an appropriate invitation for a Sunday school context, but the gospel itself is deferred.
+- **Necessity of Christ (3/5)**: Christ is named as the one with whom relationship begins. The Scripture is correctly described as a tool that "draws us closer to Jesus every time we read it." This is functional Christocentrism without structural Christocentrism.
+- **Cross-Centered Gravity (3/5)**: The cross does not appear in this sermon. Christ as the subject of all Scripture (as in the BFM: "All Scripture is a testimony to Christ, who is Himself the focus of divine revelation") is asserted in the BFM reading but not developed.
+
+### 4. Conscience & Applicatory Force — 10/15
+
+- **Heart Penetration (3.5/5)**: "If we are not reading our Bible every day, we should be." Direct. The "friend who dumps their problems and then doesn't listen to advice" illustration is relationally probing. The contemporary-issues list (abortion, sexuality, politics) is pointed but sweeping.
+- **Specificity (3.5/5)**: The Masoretes illustration is detailed and specific enough to be memorable. The Brandon Sanderson illustration gives a human scale to the Bible's internal consistency claim.
+- **Spiritual Differentiation (3/5)**: The sermon distinguishes believers (the "do you read your Bible" application) from unbelievers (the gospel close). The five categories implied in the "where should you turn?" list (weary, sad, discouraged, tempted, attacked, in loss) are specific.
+
+### 5. Exhortation & Response — 5/8
+
+- **Call to Response (2.5/4)**: "Do you guys read your Bible every day? It washes us, it comforts us, it helps us fight temptation and the evil one." Specific directive. "Please come talk to me before you leave tonight" is a genuine if deferred gospel call.
+- **Equipping (2.5/4)**: The "when weary / sad / discouraged / tempted / attacked / in loss → turn to Scripture" list equips the hearer for daily spiritual discipline. Luther's four quotes supply theological backbone for the recommendation.
+
+### 6. Structure & Logical Flow — 7/9
+
+- **Clarity of Outline (3/4)**: Three sections: (1) Luther and the Reformation; (2) Contemporary authority of Scripture; (3) Supernatural preservation (Masoretes/DSS). Clear and progressive, though the three sections are loosely connected.
+- **Progression (2.5/3)**: The movement from historical (Luther) to contemporary (application today) to evidential (preservation) is logical. The gospel close lands after the evidential section, which is the right order.
+- **Unity (1.5/2)**: The "turn to Scripture in all things" motif unifies the Luther quotes with the closing application.
+
+### 7. Illustration & Imagination — 3/5
+
+- **Relevance (1.5/2)**: The Brandon Sanderson illustration (20 months for error-checking vs. Paul writing personal letters directly) is creative and makes the preservation/consistency point effectively. The Monty Python Latin sequence is genuinely funny and historically illustrative for the Latin-Mass context.
+- **Clarity (1/2)**: The "too much salt in the coffee pot" analogy for hermeneutical distortion is clear but low-dignity. The "lemon/lemonade" line for the Scripture application is a cliché.
+- **Memorability (0.5/1)**: The Masoretes section — burning entire manuscripts for a single word error, 20 years to copy the Old Testament — is the sermon's most memorable content.
+
+### 8. Sermonic Force — 3/5
+
+- **Reads as Preaching (1.5/2)**: The "turn to Scripture" section reads with genuine pastoral voice. The list-of-circumstances preaching has homiletical rhythm.
+- **Conviction on the Page (1/2)**: The personal appreciation aside and the Monty Python humor keep this in Sunday school register. The Luther quotes supply theological weight that the pastor's own prose does not always achieve.
+- **Cadence and Breath (0.5/1)**: Conversational register throughout. Appropriate for an evening/Sunday school setting but lacks homiletical architecture.
+
+---
+
+## 6. Cognitive Load Modifier — 0
+
+The content (Reformation history, Masoretes, DSS, Luther quotes, BFM) is substantial but introduced sequentially and explained accessibly. No overload.
+
+---
+
+## 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 13/25 |
+| Theology & Doctrinal Integrity | 14/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 10/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **64/100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | 0 |
+| **TOTAL** | **65/105** |
+
+**Interpretation**: Concerning gaps. The integrity work already done on this file (three confirmed corrections, four Luther quotes researched, source flags maintained) reflects the careful-not-clever standard. The score reflects the sermon's identity as a well-researched lecture rather than an expository sermon.
+
+---
+
+## 8. Strengths (Top 3)
+
+1. **The Masoretes illustration**: The 20-year copying process, the purification ritual before writing God's name, burning entire manuscripts for one error, the double-checking scholar — this is the most memorable and substantive illustration in the sermon. It makes the case for divine preservation through extraordinary human care in a way that sticks. "If God wanted to give us his word, would he not preserve it as well?" is exactly the right rhetorical question, and the Masoretes answer it visually.
+
+2. **Luther's four quotes as theological spine**: The decision to use four Luther quotes — two on comfort, one on spiritual warfare, one on Christ as comforter rather than accuser — gives the sermon more theological weight than its length would otherwise carry. The sourcing work already done (two confirmed, two with editions identified) reflects genuine integrity. Luther Quote 4 in particular — "The Scripture does not set forth Christ as an accuser, a judge, or a tempter, but as a reconciler, a mediator, a comforter, and a throne of grace" — is outstanding and more Christ-centered than anything in the pastor's own prose.
+
+3. **Integrity of the corrected text**: Three confirmed errors removed (Trevor Noah attribution withheld, flat-earth claim corrected, DSS "2,000 years" → "1,000 years"), standing flags maintained with action items. This file is a model of the careful-not-clever standard applied to a re-preached sermon. Every correction is documented, every unverified item flagged, no claim made beyond what can be confirmed.
+
+---
+
+## 9. Critical Weaknesses (Top 3)
+
+1. **The text (2 Timothy 3:13–17) is never expounded**: The sermon is about what the text teaches (Sola Scriptura) without ever opening the text. The word *theopneustos* — God-breathed — is the most theologically potent word in the passage. It means Scripture is not merely inspired (as in "inspiring") but expired — breathed out — from God. The sermon would be transformed by five minutes on this word alone: what it means for the origin, authority, and reliability of what we hold. The Masoretes illustration would then be an answer to: "If God breathed this out, of course he preserved it."
+
+2. **Christ is the BFM's declaration about Scripture, but not the sermon's center**: The BFM reads: "All Scripture is a testimony to Christ, who is Himself the focus of divine revelation." The sermon quotes this without developing it. A Sola Scriptura sermon that doesn't ask "what is Scripture *for*?" and answer "to reveal Christ for salvation" (John 5:39, 2 Timothy 3:15: "the sacred writings, which are able to make you wise for salvation through faith in Christ Jesus") has located the authority of Scripture without locating its purpose.
+
+3. **The gospel close is an invitation without content**: "If you have never come to a point in your spiritual life where you've begun a relationship with Jesus Christ, please come talk to me before you leave tonight." This is appropriate for a Sunday school closing but should be expanded: at minimum, name what that relationship requires (repentance and faith), and point to the passage just preached — "the sacred writings are able to make you wise for salvation through faith in Christ Jesus" (2 Timothy 3:15) — as the very reason the Word of God matters tonight.
+
+---
+
+## 10. Surgical Fixes
+
+1. **Open the word *theopneustos* in the sermon body**: After the congregation reads 2 Timothy 3:13–17 aloud, spend two minutes on v. 16: "God-breathed" — not *inspired* (which can mean "enthusiastic") but *expired*, breathed out. Every word of Scripture is the exhalation of the living God. This is the theological foundation for everything the sermon then builds: reliability (of course God preserves what he breathed out), authority (of course it speaks to every area of life), and sufficiency (it is profitable for *all* teaching, correction, training — not *some*).
+
+2. **Add 2 Timothy 3:15 to the gospel close**: "The sacred writings... are able to make you wise for salvation through faith in Christ Jesus." This verse is *in the text being preached* and makes the gospel close arise from the text rather than being appended to it. If someone is here tonight who doesn't yet know Christ — the book we've been talking about for the last half hour exists, above all else, to make you wise for salvation. That's why God preserved it. That's why the Masoretes gave their lives to copy it. That's why Luther died defending it.
+
+3. **Resolve the Trevor Noah attribution before the next preaching of this sermon**: Contact City Centre Church (Whalley Presbyterian, Surrey BC) at 604-581-4833 or connect@citycentrechurch.org to confirm whether the quote originated from their ministry context. If confirmed, attribute correctly. If not, the quote remains withheld from use.
+

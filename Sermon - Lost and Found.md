@@ -283,3 +283,191 @@ Come see me. Or my dad, who leads the singing. Or Dottie. Or any of us. We are h
 
 **"Jasmine" reference:**
 - A previous church the pastor served. Retained as authentic.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date**: 2026-03-21
+**Evaluator**: Thus Says the Lord Rubric v1.0
+**Sermon**: Lost and Found — Luke 15
+
+---
+
+### 1. Verdict Title
+
+**Winsome Pastoral Storytelling That Misses the Scopus and Softens the Gospel**
+
+---
+
+### 2. One-Sentence Summary
+
+A warmly told, illustration-rich tour of Luke 15 that illuminates the parables with genuine pastoral color while failing to derive a coherent governing thesis from the passage's own argument and leaving the gospel underarticulated at every decisive moment.
+
+---
+
+### 3. Berean Gate
+
+**PASS — with concern.**
+
+*Scopus Test*: The sermon does engage all three parables of Luke 15 and broadly treats their theme of God seeking the lost. A thesis can be constructed — "God takes the initiative to seek and receive sinners, and this should shape how the church receives people." This does arise from the passage, though the sermon never states it cleanly. Pass, but barely. The sermon spends significant time on subsidiary applications (dress codes, church hurt, cultural hospitality) that dilute the primary thrust.
+
+*Authority Test*: The preacher does not stand above the text as editor — he is genuinely under it. However, the closing invitation ("Maybe you've never accepted Christ as your Lord and Savior. Tonight is the night") is far too thin to carry the theological weight of the passage's climax. The text's own declaration that heaven rejoices over repentant sinners deserves far more than a three-sentence invitation.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG TRIGGERED — Score capped at 69.**
+
+**Flag #4 — Application is entirely generic**: The applications offered (don't judge people for their clothes; be welcoming; deal with your church hurt; give pain to God) are real pastoral concerns but are not specifically derived from the text's argument. There is no differentiated address to the unbeliever, the self-righteous Pharisee (who is the implicit target of Luke 15's framing), the backslider, or the hardened heart. The dress code discussion is not a use of this text — it is a pastoral topic attached to a loose hook.
+
+**Flag #5 — No actual exhortation**: The closing invitation ("Come see me") is present but functionally absent as exhortation. The congregation is never told what they must *believe*, *repent of*, *obey*, or *pursue* in response to this text. The sermon ends with an open invitation but no call. The Powell cross-cultural section ends with a bracket: *[Observations — the pastor's own application of the Powell material was not completed in the source notes. Add before preaching.]* — meaning the sermon's final substantive section is deliberately incomplete.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 16/25**
+- *Textual Fidelity (7/10)*: The three parables are all treated and the basic thrust (God seeks the lost) is captured. The Greek word study on ἔρημος is legitimate and clarifying. The observation that the prodigal son's waste is doubled in the Greek is accurate and illuminating. However, the sermon never treats Jesus' framing audience — the Pharisees and scribes grumbling in vv.1–2 — as the governing context that gives Luke 15 its argumentative force. Without that, the parables become general illustrations of God's love rather than pointed rebukes of religious exclusivism.
+- *Contextual Awareness (3/5)*: The immediate narrative context (Pharisee criticism in vv.1–2) receives one brief reference but no exegetical weight. The redemptive-historical placement of Luke 15 is untouched.
+- *Exegetical Clarity (3/5)*: Greek notes are well-handled and congregation-level. The note on Luke 15:20 (two Greek words for distance) is directionally sound.
+- *Logical Faithfulness (3/5)*: The dress code digression and the church hurt section are genuine pastoral concerns but they are not derived from this text. They constitute idea-importing — eisegesis of pastoral agenda rather than gross theological error, but a structural weakness nonetheless.
+- *FCF (Fallen Condition Focus)*: The sermon never names the fallen condition this text addresses. Luke 15's FCF is the Pharisaical contempt for sinners — the religious pride that refuses to rejoice when the lost are found. This is the passage's own diagnosis. The sermon preaches around it rather than through it.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+- *Christ-Centeredness (4/7)*: Christ as the seeking shepherd is present and the application to Luke 19:10 is well placed. The connection between the bride price in the coin parable and the church's betrothal to Christ is insightful and legitimate. However, Christ's role as the one who absorbs the cost of seeking is absent — the cross is implied but never stated. The sermon says Jesus "came to seek and to save" but does not explain what saving *cost* him.
+- *Redemptive-Historical Awareness (2/3)*: The Psalm 23 connection is organic. The bride-price typology is suggestive and could be developed further.
+- *Doctrinal Precision (3/4)*: The Calvinist affirmation on divine initiative is present and theologically sound. The forgiveness discussion is handled with pastoral care.
+- *Confessional Alignment (3/4)*: The affirmation of monergism is stated. No confessional errors.
+
+**3. Gospel Centrality & Force — 6/15**
+- *Clarity of the Gospel (1/5)*: The closing invitation ("Maybe you've never accepted Christ as your Lord and Savior. Tonight is the night. Come see me.") is the entire gospel presentation. There is no articulation of sin, substitutionary atonement, repentance, or faith. A person who had never heard the gospel could not understand how to be saved from this sermon.
+- *Necessity of Christ (3/5)*: Christ as seeker is present. The necessity of his death is not articulated. The sermon could survive in a synagogue without causing offense on the point of the cross.
+- *Cross-Centered Gravity (2/5)*: The sermon orbits around warm pastoral application and cultural illustrations. It does not move toward the cross. The bride-price imagery gestures at costly redemption but does not complete the movement.
+- *Synagogue Test*: A devout Torah-observer who believes God seeks the lost (Ezekiel 34) could sit through this sermon without being confronted with the offense of Christ's specific, substitutionary atonement. This is a significant failure.
+
+**4. Conscience & Applicatory Force — 7/15**
+- *Heart Penetration (3/5)*: The forgiveness section (older brother / church hurt) is the sermon's most pastorally penetrating moment. The line "Being wrapped in how you were hurt, how you were wronged, how you were affected — that's sinful" has genuine conscience-pressing force.
+- *Specificity (2/5)*: The dress code and church hospitality applications are specific to this congregation's context, but they are not specific to Luke 15's argument. The sermon doesn't press the question Luke 15 actually presses: *Are you like the Pharisees, too proud to rejoice when sinners come home? Are you the older brother right now?*
+- *Spiritual Differentiation (2/5)*: The sermon addresses believers who have been hurt and unbelievers who might be present. It does not address the self-righteous (the text's primary target), the backslider (addressed in the prodigal parable), or the knowledgeable-but-unmoved.
+
+**5. Exhortation & Response — 3/8**
+- *Call to Response (1/4)*: The closing invitation is present but paper-thin. The congregation is not told what to do — they are told to come find the pastor. This is not exhortation; it is a door left open.
+- *Equipping for Holiness & Witness (2/4)*: The section on Calvinism and seeking the lost is present but underdeveloped. The Powell material gestures at cultural humility in reading Scripture — a genuinely useful equipping note — but the section is explicitly incomplete.
+
+**6. Structure & Logical Flow — 6/9**
+- *Clarity of Outline (2/4)*: The three-parable structure is the sermon's backbone, which is good — it follows the text's own structure. But within each parable, the sermon wanders into pastoral digressions that obscure the central argument.
+- *Progression (2/3)*: The sermon builds through the three parables but loses momentum in the prodigal section, where the forgiveness digression and the Powell material each introduce new centers of gravity.
+- *Unity (2/2)*: One dominant theme is identifiable, even if not cleanly stated.
+
+**7. Illustration & Imagination — 4/5**
+- *Relevance (2/2)*: Razzle and Frazzle are congregation-native, vivid, and memorable. The wedding ring in the canal is earned and well-told.
+- *Clarity (2/2)*: Illustrations generally illuminate rather than compete.
+- *Memorability (0/1)*: The sheep story and the wedding ring story will be remembered, but neither carries the text's thesis home — they serve the illustrations rather than being driven by the text's own weight.
+
+**8. Sermonic Force — 3/5**
+- *Reads as Preaching (2/2)*: The manuscript has oral cadence, first-person address, and breath-length paragraphs. This was clearly written to be preached.
+- *Conviction on the Page (1/2)*: The forgiveness section has conviction. The gospel invitation does not. The Powell material reads as a lecture insert rather than a sermon moment.
+- *Cadence and Breath (0/1)*: No climactic compression. The sermon trails off into the Powell material and a three-sentence invitation. There is no moment where the manuscript roars.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1**: The sermon is not inaccessible, but its multiple centers (sheep illustration, Greek word study, dress code digression, forgiveness/older brother, Powell cross-cultural material, gospel invitation) compete for attention. A single mother tracking three parables plus a dress code discussion plus church hurt theology plus cross-cultural hermeneutics plus an incomplete section will leave with the illustrations but not with a clear main truth. One fewer digression — most likely the dress code section — would sharpen the load considerably.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 16/25 |
+| Theology & Doctrinal Integrity | 12/18 |
+| Gospel Centrality & Force | 6/15 |
+| Conscience & Applicatory Force | 7/15 |
+| Exhortation & Response | 3/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **57/100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **57/100** |
+
+**Score capped at 69 due to Fatal Flaw Flags #4 and #5. Raw score of 57 falls below the cap; cap does not raise the score.**
+
+*Interpretation: 57 — Fundamentally flawed. The exposition has real strengths and the illustrations are good, but the gospel is absent as a proclaimed reality, the application is untethered from the text's governing argument, and the sermon has no functional exhortation. Rebuild the conclusion and the applicatory sections from the text.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Partially Christ — the seeking imagery is present. But the dress code section, the forgiveness discussion, and the Powell material turn the lens toward the congregation's cultural and emotional life. Mixed.
+2. **Did I encounter God, or just ideas about Him?** Ideas, mostly — and some good pastoral storytelling. God is discussed warmly but not encountered with weight.
+3. **Was I comforted, convicted, or merely informed?** Informed and pastorally consoled. The forgiveness section comforts. The congregation is not convicted of the specific sin Luke 15 targets (religious pride that refuses to rejoice over sinners).
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The sheep illustration (Razzle and Frazzle)**: Congregation-native, theologically applied, and genuinely illuminating. "Something with a face he recognized" — this is the text made flesh. One of the stronger pastoral illustrations in the corpus.
+2. **The Greek word study on ἔρημος**: Exactly the right use of original language — it unlocks the text, serves the congregation, and is explained without condescension.
+3. **The forgiveness section (older brother)**: "Being wrapped in how you were hurt, how you were wronged, how you were affected — that's sinful. That's what it is." This is Puritan-quality conscience-pressing. The congregation is not flattered here.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The Pharisee framing of Luke 15 is entirely absent**: Luke 15:1–2 is the text's governing context — the parables are Jesus' answer to the Pharisees' contempt for sinners. Without this, the sermon loses the text's sharpest edge: the danger of being the older brother *in the church*, the danger of resenting grace extended to sinners. The sermon treats the Pharisees as background rather than as the mirror the text holds up to the religious reader.
+2. **The gospel is never proclaimed**: The closing three sentences do not constitute a gospel presentation. There is no articulation of the problem (sin and its consequences), the solution (Christ's substitutionary death), or the response (repentance and faith). An unbeliever would hear "Come see me" and leave without knowing what they are coming about.
+3. **The dress code digression is not an application of Luke 15**: The coin-fell-through-no-fault-of-its-own section leads directly into a pastoral discussion about dress codes, hats, and clothing in church. This is a real pastoral issue but it is not derivable from the lost coin parable. It imports a separate agenda into the text. At minimum, the connection needs to be made explicit and exegetically justified; as written, it undermines the sermon's structural coherence.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how significantly the dress code section displaces the text's actual application. What the coin parable calls the congregation to is *active searching for the lost* — the woman lights a lamp, sweeps the house, seeks diligently. The sermon never asks: *Are you that woman? Are you searching? What would it mean to sweep your house for the lost coin in your neighborhood?* This is the parable's own exhortation, and it is entirely unpreached.
+
+The preacher also does not appear to notice that the Powell cross-cultural material, while genuinely fascinating and congregation-enriching, introduces a third interpretive framework at the sermon's climax — a moment that should be building toward the gospel and the exhortation, not expanding the hermeneutical discussion.
+
+---
+
+### 12. Illusion of Strength
+
+The sermon *feels* strong because it is warm, personal, well-illustrated, and congregationally engaged. The sheep story, the wedding ring in the canal, the cross-cultural Powell material — all of these create an impression of depth and pastoral connection. But the warmth masks the absence of the gospel's proclamatory edge. A sermon can be delightful to listen to and still fail to do what a sermon must do: corner sinners before Christ, press the conscience under the text's actual claim, and call for response. This sermon is pleasant but not powerful.
+
+---
+
+### 13. Missed Opportunity
+
+The prodigal's homecoming in Luke 15:20 — the father running, embracing, the robe and the ring and the sandals and the fattened calf — is the richest gospel illustration in the synoptics, and the sermon hurries through it. The robe (Christ's righteousness covering our rags), the ring (covenant seal, adoption into the family), the sandals (slaves went barefoot; the son is received as a son, not a servant), the fattened calf (the cost of the feast is real and immediate) — these details are a theology of grace compressed into one scene, and the sermon does not touch them. This was the text's own gospel presentation, offered to the preacher on a platter.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Begin with Luke 15:1–2 and make the Pharisees the sermon's mirror**: State plainly: "Jesus told these three stories to answer the Pharisees who were appalled that he ate with sinners. That means before we look at the lost sheep and the lost coin and the lost son — we have to ask: are we the Pharisees in this room? Do we secretly resent grace extended to the kinds of people who embarrass us?" This reframes everything that follows and gives the dress code and hospitality material a legitimate textual home.
+2. **Preach the homecoming scene in Luke 15:20–24**: Walk through the robe, the ring, the sandals, the feast. Each detail is a gospel beat. "This is not what a father does for a hired servant. This is what a father does for a son — and this is what God does for every sinner who comes home." This is where the gospel belongs and the text supplies it.
+3. **Replace the closing three-sentence invitation with a full gospel call**: State the problem (sin separates; the far country is your life without God), state the solution (Christ came to seek and to save; he ran to meet you before you could clean yourself up), state the response (repent — turn, come home — and trust him). Give the congregation something specific to *do*, not just someone to *find*.
+4. **Remove or relocate the dress code digression**: Either cut it entirely or attach it explicitly to the Pharisee framing — "The Pharisees had their own version of the dress code problem: they believed the wrong kind of people shouldn't be welcomed. Don't be the Pharisee." This makes it a use of the text rather than a departure from it.
+5. **Complete the Powell section or remove it**: The incomplete bracket (*Observations — the pastor's own application of the Powell material was not completed*) means the sermon ends before it ends. Either complete the application or cut the Powell section and use that space for the gospel and the exhortation.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — the issue here is not cold orthodoxy but incomplete proclamation. The sermon is warm, pastoral, and engaged. The problem is absence of gospel content and exhortation, not theological bloodlessness.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries genuine pastoral warmth and the illustrations will be remembered — but it does not carry the eternal gravity that Luke 15's own material demands. The father running, the angels rejoicing, the son who was dead and is alive — these are weight-of-glory moments, and the sermon passes them at a walk.
+
+---
+
+### 17. Rubric Fit Note
+
+Luke 15's parable genre stresses the rubric's illustration and applicatory categories productively — parable preaching lives or dies on whether the preacher can make the images do theological work without allegorizing them to death. This sermon shows real strength in that area. The rubric's gospel centrality and exhortation categories apply directly and fully — Luke 15 is one of Scripture's most gospel-saturated chapters, and the rubric's demands are not excessive here. The Conscience category is where the genre demands extra attention: parable sermons must identify *who* is the implied hearer in each story (the Pharisees, the returning sinner, the grudging older brother) and address each category with appropriate specificity.

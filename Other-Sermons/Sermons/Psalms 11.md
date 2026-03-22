@@ -121,3 +121,194 @@ With peace on earth, good-will to men.”
 In the end Jesus will prevail. If your hope is in an elephant or donkey, its misplaced. Joe Biden is NOT jesus, and neither is Donald Trump. Regardless of who wins in November this is something that’s been true since the beginning of time. True since Adam and Eve walked in the Garden, True since Noahs flood. True when Abraham walked the earth. True when Jesus walked the earth, true every day since, true today, and true forever, that regardless of who is president, Christ is King. There is no authority greater. Our trust, and hope needs to be in Christ alone. “Our hope is built on nothing less than Jesus love and righteousness. Not in horses and chariots. Not in missles, and guns. Not in rockets and bombs. Not in presidents. Not in congress, or the house or the senate. Not in governor, not in the mayor. Not in city or county commissioners. 
 
 Only in Jesus. Do you know him today?
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated**: 2026-03-21
+**Passage**: Psalm 11
+**Working Title**: Psalm 11 — When Foundations Are Being Destroyed
+
+---
+
+### 1. Verdict Title
+
+**"A Culturally Engaged Lament That Wanders Far from the Text"**
+
+---
+
+### 2. One-Sentence Summary
+
+A pastorally motivated sermon that captures Psalm 11's spirit of faith-over-fear with genuine cultural awareness and appropriate evangelical concern, but spends the majority of its length on current events, scientific arguments, and illustrations that largely displace the text rather than open it.
+
+---
+
+### 3. Berean Gate
+
+**Pass — narrowly.**
+
+The main point — "When foundations are being destroyed, the righteous should look to God rather than flee in fear" — does arise from Psalm 11:3–4 and aligns with David's posture in the psalm. The preacher submits to the text's counsel rather than contradicting it. However, the Scopus Test reveals a genuine problem: the sermon uses Psalm 11 as a frame for cultural commentary (satanic cartoons, CRT, Chrislam, school board meetings, transgender issues) and extended scientific apologetics, while verses 1–9 receive minimal exegetical treatment. The text passes the gate as a launch pad, not as the engine of the sermon.
+
+**Scopus Test**: "When the world is upside down, the righteous should trust God rather than flee." — Arises from the text. Passes.
+**Authority Test**: The preacher does not edit or soften the text. Passes.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 4 — Application is entirely generic.** The sermon concludes with "Cling to your foundation. Cling to Jesus. Cling to God's word like a shield" and "Do you know him today?" These are real appeals, but they are the same appeals that could close any sermon on any passage. No hearer is differentiated. No specific conscience is pressed. No category of person is addressed distinctly.
+
+**Flag 5 — No actual exhortation.** "Do you know him today?" is the closing line — a good evangelistic question, but the sermon never tells anyone what they must believe, repent of, obey, or pursue. The Longfellow poem, while well-placed, is allowed to serve as the sermon's emotional climax rather than a textually-grounded call.
+
+**Score capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 12/25**
+- Textual Fidelity (10): 5/10. The psalm is identified and its setting explored. Verse 3 ("When the foundations are being destroyed, what can the righteous do?") and verses 4–7 are the pivot points and do receive attention — the preacher rightly notes that David's answer is to point straight to God. The reference to God watching, God's willingness to rain down judgment, and God's protection of the righteous are all present. However, the individual verses are not opened exegetically; they are quoted or paraphrased and then associated with illustrations. Verse 7 ("the righteous LORD loves righteous deeds; the upright shall behold his face") — the psalm's climax — is not treated at all.
+- Contextual Awareness (5): 2/5. Historical background of David's flight is surveyed helpfully. No placement in the Psalter's canonical context. No literary analysis of the psalm's structure (the voices in vv. 1–3, David's response in vv. 4–7 — the psalm is a dialogue between the counsel of fear and the counsel of faith).
+- Exegetical Clarity (5): 2/5. No word studies. No original language engagement. The direct instruction to "re read vs 4-7" in the middle of the manuscript (without those verses being quoted or opened) is a homiletical gap — the congregation is pointed to a text that is then immediately abandoned for the apologetics section.
+- Logical Faithfulness (5): 3/5. No eisegesis in the classic sense, but the sermon imports a massive amount of material (current events, fine-tuning arguments, the Grand Canyon water illustration) that is not native to Psalm 11 and that receives proportionally more time than the text itself.
+
+**Fallen Condition Focus**: Present but only as cultural diagnosis. The sermon identifies the world as broken and backward. It does not identify the congregation's own fallen condition — their tendency to fear, their own idolatry, their own complicity in the cultural disintegration being described. The FCF is entirely external.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+- Christ-Centeredness (7): 3/7. The closing appeal "Cling to Jesus" and "Do you know him today?" introduce Christ explicitly. The foundation-is-Christ section (via Audio Adrenaline) makes a sound point. But Christ is not organically connected to Psalm 11's own argument. He appears as the conclusion's answer rather than as the thread running through the exposition.
+- Redemptive-Historical Awareness (3): 1/3. No redemptive-historical placement of Psalm 11. No connection between David's faith-posture and the faith to which Christ calls us. No reflection on what "the LORD is in his holy temple" means in light of Christ as the true temple.
+- Doctrinal Precision (4): 4/4. No theological errors. The statement "We can't save ourselves" and the description of humanity as spiritually dead are theologically sound.
+- Confessional Alignment (4): 3/4. Sound. The "we are like a corpse" anthropology is consistent with Reformed theology on total depravity. The statement is made confidently.
+
+**3. Gospel Centrality & Force — 5/15**
+- Clarity of the Gospel (5): 1/5. "Do you know him today?" is not a gospel proclamation. What Christ did, why His death saves, how a person comes to faith — none of this is present. The sermon ends at the threshold of the gospel without stepping through.
+- Necessity of Christ (5): 2/5. Christ is necessary to the sermon's conclusion. But the bulk of the sermon — the cultural commentary, the scientific apologetics — could survive without Him. The case for God (fine-tuning, intelligent design) is made at length; the case for Christ is made in one closing line.
+- Cross-Centered Gravity (5): 2/5. No movement toward the cross. The sermon's gravity is toward cultural confidence and epistemological stability, not toward the atonement.
+
+**Synagogue Test**: A devout theist — a Jew, a monotheistic Muslim, even a deist — could receive most of this sermon without offense. The fine-tuning argument, the cultural critique, the "cling to your foundation," the Longfellow poem — none of these require the unique scandal of Christ crucified. The sermon does not pass the Synagogue Test.
+
+**4. Conscience & Applicatory Force — 7/15**
+- Heart Penetration (5): 3/5. The Longfellow poem is the sermon's most emotionally penetrating moment — genuine pathos, historically grounded, and the despair-to-hope arc is well-executed. The cultural examples engage real anxieties the congregation has. But no conscience is specifically cornered. The sermon exposes the culture's sin but not the congregation's.
+- Specificity (5): 2/5. The cultural examples are quite specific (the Amazon cartoon, the Chrislam center, the Fairfax school board). But the application to the congregation's own lives is generic: "cling to Jesus," "don't let the detritus of life steal your focus."
+- Spiritual Differentiation (5): 2/5. The sermon ends with "Do you know him today?" — a binary believer/unbeliever address. No differentiation among believers: the doubting believer, the culturally anxious believer, the nominally believing one who is drifting. No address to the person whose foundations are being destroyed by their own sin rather than by culture.
+
+**Perkins' Taxonomy**: Only the binary (believer/unbeliever) is addressed — categories 5 and possibly 4. Six of Perkins' seven categories are unaddressed.
+
+**5. Exhortation & Response — 3/8**
+- Call to Response (4): 2/4. "Do you know him today?" is a genuine gospel appeal. "Cling to Jesus. Cling to God's word like a shield." is a direction, if not a fully articulated exhortation. Better than nothing; not a clear "therefore."
+- Equipping for Holiness & Witness (4): 1/4. The congregation is encouraged toward personal stability in Christ but not equipped for witness. The Mark Driscoll quote ("Read your Bible — that's the only rebellion left") gestures at counter-cultural witness but is not developed into equipping.
+
+**6. Structure & Logical Flow — 5/9**
+- Clarity of Outline (4): 2/4. The sermon's outline is implicit: cultural chaos → Psalm 11 background → David's answer → God's bigness → Longfellow → Christ. But the transition from the cultural examples to the psalm is abrupt, and the long scientific apologetics section (Grand Canyon, fine-tuning arguments, Niagara Falls) creates a structural detour that is hard to track.
+- Progression (3): 2/3. The sermon does progress — from cultural diagnosis to biblical answer to personal appeal. But the science section delays the resolution significantly.
+- Unity (2): 1/2. There are at least three competing centers: cultural apologetics, scientific apologetics, and pastoral encouragement. The text is present but not the primary unifying element.
+
+**7. Illustration & Imagination — 3/5**
+- Relevance (2): 2/2. The Longfellow poem is brilliantly chosen — the civil war despair-to-hope arc mirrors the congregation's cultural anxiety precisely. The Bourne franchise analogy for David's situation is accessible.
+- Clarity (2): 1/2. The Grand Canyon / Niagara Falls / fine-tuning section runs very long and its connection to the text's specific claims is indirect. It establishes God's bigness in general but does not connect to Psalm 11's specific claim that God watches from His holy temple and will judge the wicked.
+- Memorability (1): 0/1. Too many images compete. The congregation is likely to leave with the Longfellow poem and the cultural examples, not with a textual image from Psalm 11 itself.
+
+**8. Sermonic Force — 3/5**
+- Reads as Preaching (2): 2/2. Genuine oral cadence. The cultural commentary reads with conviction.
+- Conviction on the Page (2): 1/2. The cultural critique is delivered with force. The textual applications are less forceful — they are stated rather than proclaimed.
+- Cadence and Breath (1): 0/1. The Longfellow poem is the sermon's climactic moment — which means the poem does the work the preacher should be doing. The actual final lines are comparatively flat.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1** — The sermon covers cultural commentary, Psalm 11 background, two apologetics frameworks (intelligent design / fine-tuning), Longfellow, and a closing appeal. The average church member can follow it, but there are one or two too many threads. One fewer section (the GJ Whitlow / William Lane Craig material could be compressed) would improve clarity.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 12/25 |
+| Theology & Doctrinal Integrity | 11/18 |
+| Gospel Centrality & Force | 5/15 |
+| Conscience & Applicatory Force | 7/15 |
+| Exhortation & Response | 3/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **49/100** |
+| Cognitive Load Modifier | −1 |
+| Weight of Glory Bonus | +2 |
+| **Total** | **50/100** |
+
+**Score capped at 69 (fatal flaw flags 4 and 5 triggered). Raw score of 50 falls below the cap — cap does not elevate the score.**
+
+**Interpretation**: Below 60 — Fundamentally flawed. The sermon's cultural engagement and pastoral concern are genuine, but the text is not the engine. The scientific apologetics section is valuable material for a different context (an apologetics class, an outreach event) but it displaces Psalm 11's own argument for too long. The sermon needs to be rebuilt around the text.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Neither primarily — the sermon directs attention toward cultural chaos and God's bigness in response. Christ appears at the end as the answer to an implied question, but the sermon's gravity is toward cultural analysis.
+2. **Did I encounter God, or just ideas about Him?** Ideas about Him — specifically, ideas about His bigness, His omniscience, and His reliability. The Longfellow poem is the closest moment of encounter, but it is an encounter mediated by a 19th-century poet, not by Psalm 11.
+3. **Was I comforted, convicted, or merely informed?** Partially comforted (the Longfellow poem and "God is not dead"), substantially informed (cultural examples, scientific arguments), and minimally convicted. The sermon does not turn back on the congregation to expose their own faithlessness or fear.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Longfellow poem and its contextual backstory** — Exceptionally well-placed. The civil war setting, Longfellow's grief (a widower holding his wounded son), and the poem's own movement from despair ("there is no peace on earth") to faith ("God is not dead, nor doth He sleep") mirrors Psalm 11's movement precisely. The congregation will carry this image.
+2. **The cultural diagnosis is accurate and specific** — The Amazon cartoon, the Chrislam center, the school board incident, the Mark Driscoll quote — these are real, specific, named cultural developments. The preacher is not fighting windmills or shadow-boxing. This earns credibility with a congregation that is actually experiencing these things.
+3. **The foundation/Christ connection** — "As Christians, everything is built upon the word of God, which is itself built upon Christ" is theologically sound and connects Psalm 11:3 to christological ground. The Audio Adrenaline illustration is effective as a bridge for the congregation's generation.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The text is abandoned for nearly the entire middle section of the sermon.** The longest uninterrupted engagement with Psalm 11 in this sermon is one paragraph. The rest — cultural examples (sustained), Bourne franchise, David's biography, Audio Adrenaline, Grand Canyon, Niagara Falls, GJ Whitlow, William Lane Craig — is all imported. Psalm 11's own richness goes untouched: the contrast between the counsel of fear (vv. 1–3) and the counsel of faith (vv. 4–7), the LORD's fiery coals and sulfur (v. 6), and the climactic vision of the upright beholding His face (v. 7).
+2. **The gospel is never actually proclaimed.** "Do you know him today?" is the last line. It asks a question but announces nothing. The congregation is not told what Christ did, why it saves, or how a person comes to Him. The sermon closes at the door without opening it.
+3. **The congregation's own fear and flight-impulse is never addressed directly.** Psalm 11 opens with advisers telling David to "flee like a bird to the mountains." David rejects that counsel. The sermon identifies external cultural chaos but never presses on the congregation's own temptation to flee — to check out spiritually, to disengage from the culture, to abandon hope, to trust political solutions rather than God. This is the text's most searching application and it is entirely absent.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the sermon is doing two good things (cultural apologetics and pastoral comfort) but has not done the specifically homiletical thing: pressing the text's argument into specific consciences. The cultural commentary reads as a preacher's genuine concern — and it is — but the congregation may leave feeling validated in their cultural anxieties without being pressed toward the faith-posture the psalm actually demands. The sermon diagnoses the culture's illness; it does not diagnose the congregation's response to it.
+
+---
+
+### 12. Illusion of Strength
+
+The scientific apologetics section (fine-tuning, GJ Whitlow, William Lane Craig) feels like theological depth. It is accurate, and it establishes God's existence and sovereignty. But Psalm 11 does not argue for God's existence — it assumes it. The preacher's congregation already believes in God. What they need is not proof that God exists but confidence that He governs from His holy temple while their world falls apart. The apologetics section answers a question the psalm is not asking, and the length devoted to it creates the impression of deep theological engagement while actually displacing the text's own argument.
+
+---
+
+### 13. Missed Opportunity
+
+Psalm 11:7 — "For the LORD is righteous; he loves righteous deeds; the upright shall behold his face." This is the psalm's climax and it receives no treatment. "The upright shall behold his face" is an eschatological promise — the promise that the righteous person who stays put, who trusts God when foundations shake, will one day see God face to face. This is the Beatific Vision in seed form, and it drives the entire Sermon on the Mount's "Blessed are the pure in heart, for they shall see God." The sermon had its climax handed to it on a plate and walked past it.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Cut or compress the fine-tuning/apologetics section by 60%.** Reduce it to two sentences: "The universe is designed for life with precision no accident can explain. God built this world, and He governs it still." Use the saved time to open verses 4–7.
+2. **Preach the two voices in Psalm 11.** Verses 1–3 are the voice of fearful counsel: "The foundations are destroyed — flee!" David's answer (vv. 4–7) is the voice of faith: "The LORD is in his holy temple — He sees, He judges, He protects." Make this dialogue explicit. Let the congregation hear which voice they have been listening to.
+3. **Preach v. 7 as the climax.** "The upright shall behold his face." — This is the hope that underwrites all earthly endurance. Connect it to Matthew 5:8, Revelation 22:4, and the gospel: only those washed in Christ's righteousness will see God's face. This is where the gospel belongs and where it lands with maximum force.
+4. **Add differentiated application.** After identifying the counsel of fear, name specific people in the congregation: the person considering stepping away from church because it feels pointless; the person whose political hopes have collapsed; the person fleeing into entertainment and distraction. "Some of you have been listening to the voice in verses 1–3. You've been fleeing. God says: look up. I'm still in my holy temple."
+5. **Replace the closing question with a call.** "Do you know him today?" is an appeal but not an exhortation. Try: "The foundations may shake. But the foundation that holds you is Christ — and no earthquake, no election, no culture war can move Him. Come to Him today. Stay put in Him. And when your world goes upside down, look to the face of the one who is already watching."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — the score pattern does not fit the Dead Orthodoxy profile (high exposition, low application). The exposition score is low. The more pressing issue is insufficient textual engagement rather than correct-but-bloodless orthodoxy.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The Longfellow poem and the closing appeal carry genuine pastoral weight, and the cultural courage of the sermon — naming specific evils by name — has a prophetic quality that earns respect. But the sermon does not arrive at eternal gravity; it arrives at cultural confidence and personal reassurance. The weight of glory requires the cross, the resurrection, and the face of God at the end — none of which are present in their full force.
+
+---
+
+### 17. Rubric Fit Note
+
+Psalm 11 is a psalm of trust under threat — a short, compact psalm with a clear dialogic structure (fear vs. faith). The rubric fits well. The Conscience & Applicatory Force categories are especially apt here: the psalm is explicitly about what the righteous *do* when foundations crumble, which means application must be specific and behavioral. The rubric's pressure toward exhortation and response is appropriate for this text's imperative character.

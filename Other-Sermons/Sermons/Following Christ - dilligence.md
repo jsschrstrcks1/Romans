@@ -75,3 +75,249 @@ Following Christ isn’t for the weak. Following Christ isn’t about getting fr
 
 Awanas recently started back up, and the awana verse is 2nd tim 2:15 – our translations render the greek a little differently and there was a question of which translation was the closest. So at the request of one of the teachers, I spent some time trying to translate the greek, and this is what I came up with: Diligently work HARD to serve as one watched, tested and approved by THE God as a workman unashamed. As the praise team comes up and sings a final song. I want you to be thinking about your life. Your actions over the past week. Or even today. Christians Would God “approve” of what he saw in you today?  For everyone else, if you are not yet a follower of Christ, then today is the day. Its just a matter of turning from your old ways, and turning towards Christ. Christ has already done the hardest parts. Christians if you need to get right with God, the alter is open. If you don’t yet follow Christ, get my attention at some point before you leave and I’ll show you how you can have eternal life in the bible. Won’t you come?
 Gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+Pastoral Warmth Without Exegetical Spine: A Topical Exhortation Loosely Anchored to Mark 10
+
+### 2. One-Sentence Summary
+A earnest and personally-invested call to diligent discipleship that draws on Mark 10:32–45 and 8:34, but whose governing idea arises more from the preacher's own topical concerns than from the passage's own argument, and whose gospel presentation, though present at the close, arrives too late and too thin to carry the sermon's weight.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: CONCERN — Soft Pass**
+A thesis can be stated: "Following Christ requires self-denial and diligent cross-bearing rather than seeking status or comfort." This is compatible with the passage. However, the sermon's actual controlling idea drifts significantly away from the text's own argument. Mark 10:32–45 is not primarily about diligence in church duties — it is about the nature of greatness in the Kingdom and the servant-lordship of the Son of Man who gave his life as a ransom for many. The ransom statement in v.45 is the climax of the passage and is virtually absent from the sermon. The sermon uses the passage as a launching pad rather than as the source of its governing logic.
+
+**Authority Test: PASS (with reservation)**
+The preacher does not explicitly contradict the text, and he submits to the passage's demands on discipleship. However, by migrating quickly from the text to personal illustrations and topical lists, he functions more as a topical speaker using a biblical springboard than as a herald under the text's own authority.
+
+**Ruling: Soft pass. The gate is not failed, but the sermon is significantly topical in practice. No score cap imposed by the gate alone — but the drift from the text's own climax (v.45, the ransom saying) is a hermeneutical wound that will reduce scores across multiple categories.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 4 — Application is largely generic: TRIGGERED**
+The application section (diligence in cleaning, sound board, bringing grandkids to church, guarding tongue at a driver in traffic) is sincere and contextually local, but it moves from the text's own categories into generic lists of church duties. The sermon does not press specific distinct categories of sinners — it addresses "us" as a largely undifferentiated group. No specific sinner is cornered before the text.
+
+**Flag 5 — Exhortation present but thin: BORDERLINE**
+There is a call at the close — "today is the day," "the altar is open," "get my attention and I'll show you eternal life." This is a genuine gospel invitation. However, it arrives as a brief appendix tagged "Gospel." tacked onto a sermon that did not build toward it. The exhortation for believers ("Christians, would God approve of what he saw in you today?") is conscience-level but not text-grounded.
+
+**Score cap: Not applied strictly, but Flag 4 is active. The evaluation will reflect this throughout.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+
+- *Textual Fidelity (10 pts): 5/10* — The sermon references the passage and draws real observations from it (disciples scrambling for status, Jesus' third passion prediction, the cup/baptism imagery). But the sermon's main development — the diligence list — has no tether back to the text. The ransom saying (v.45), which is the theological and narrative climax of the entire pericope, is entirely absent. This is the hardest omission to forgive. The sermon skips the most important verse in the passage.
+- *Contextual Awareness (5 pts): 3/5* — There is some awareness of context (third passion prediction, messianic expectations, James and John's ambition). The brief note on "chief priests" plural is a nice historical detail. But the broader redemptive-historical context of what the cup and baptism mean, and what it means that the Son of Man came to give his life as a ransom for many, is not developed.
+- *Exegetical Clarity (5 pts): 2/5* — There is minimal exegetical work. The translation of 2 Tim. 2:15 at the close is an interesting moment, but it doesn't emerge from the main passage. No word-study, no grammatical observation, no structural analysis. The congregation cannot reconstruct the passage's argument from what they heard.
+- *Logical Faithfulness (5 pts): 3/5* — The sermon does not impose a foreign meaning per se, but it imports the diligence theme from outside the passage rather than deriving it from the text's own logic.
+
+**Score: 13/25**
+
+---
+
+**2. Theology & Doctrinal Integrity — 11/18**
+
+- *Christ-Centeredness (7 pts): 4/7* — Jesus is present throughout. The sermon returns to Jesus regularly. But he is present primarily as example and teacher, not as the ransom-giver. The most Christologically loaded moment in the entire passage — "the Son of Man came not to be served but to serve, and to give his life as a ransom for many" (v.45) — is unpreached. This turns a Christ-centered passage into a Christ-as-model passage.
+- *Redemptive-Historical Awareness (3 pts): 1/3* — The cross is mentioned, the death of Jesus is referenced, but there is no placement of Mark 10 within the redemptive storyline. The cup and baptism in v.38–39 are not exposited — their connection to Gethsemane, the wrath of God, and the cross is untouched.
+- *Doctrinal Precision (4 pts): 3/4* — No outright errors. The single sentence on conversion at the close ("turning from your old ways, turning towards Christ") is brief but not wrong. The Ephesians 2 dead-in-sin reference is theologically sharp and is one of the most interesting moments in the sermon.
+- *Confessional Alignment — 1689 Pulse (4 pts): 3/4* — Nothing contradicts confessional theology. The note on total inability (Ephesians 2) is the closest the sermon comes to confessional precision, and it is a genuine moment of doctrinal care. But it is also a detour from the main passage rather than an exposition of it.
+
+**Score: 11/18**
+
+---
+
+**3. Gospel Centrality & Force — 7/15**
+
+- *Clarity of the Gospel (5 pts): 2/5* — The gospel is present only in the final paragraph, as an invitation appendix. "Christ has already done the hardest parts" is the gospel's closest approximation in the sermon. What Christ did, why it was necessary, and how a sinner is united to him by faith — these are not explained. An unbeliever sitting through this sermon would understand that following Christ is costly and that Jesus died, but would not clearly understand the gospel of justification by faith in Christ's substitutionary work.
+- *Necessity of Christ (5 pts): 3/5* — Christ is not merely decorative — his death and example are referenced throughout. But he functions primarily as the costly Lord to follow rather than as the substitutionary Savior who took the cup we deserved.
+- *Cross-Centered Gravity (5 pts): 2/5* — The sermon moves toward diligence, not the cross. The cross is mentioned as the context for costly discipleship, but it is not preached as the ground of the disciples' hope or the source of their ability to follow.
+
+**Synagogue Test: SOFT TRIGGER.** A devout Jew or Muslim who valued moral discipline and self-denial could sit through most of this sermon without being offended by the exclusive necessity of Christ's blood for the forgiveness of sins. The gospel is present but not as the scandal it must be.
+
+**Score: 7/15**
+
+---
+
+**4. Conscience & Applicatory Force — 8/15**
+
+- *Heart Penetration (5 pts): 3/5* — The football illustration ("if football is more important than God, football is your little-g god") is a genuine conscience-level moment. The personal vulnerability in the sermon — the broken motorcycle, the gun pulled at the door, the friend whose father disowned him — creates authentic pastoral warmth. But the conscience is prodded through illustration rather than searched through the text.
+- *Specificity (5 pts): 3/5* — The specificity is largely contextual (cleaning, sound board, grandkids, AWANA) rather than textual. The specific application is to church duties and relational courage — both valid, but unmoored from what the text is actually teaching.
+- *Spiritual Differentiation (5 pts): 2/5* — The sermon closes by addressing two groups: Christians and non-Christians. This is basic binary differentiation. The backslider, the knowledgeable-but-unmoved, the humbled-but-not-yet-believing — none of these are distinctly addressed. The sermon speaks mostly to "us" as an undifferentiated Christian group.
+
+**Perkins Assessment:** Addresses primarily categories 2 (ignorant but teachable) and 5 (believers). Categories 3 (knowledgeable but unhumbled), 4 (humbled but not yet believing), and 6 (backsliders) are not specifically reached.
+
+**Score: 8/15** (Flag 4 active — generic application confirmed)
+
+---
+
+**5. Exhortation & Response — 5/8**
+
+- *Call to Response (4 pts): 3/4* — There is a genuine invitation at the close. It addresses both believers and unbelievers. The personal offer ("get my attention and I'll show you how you can have eternal life") is pastoral and specific. However, the exhortation for believers ("would God approve?") is not grounded in the text's imperatives and is more of a conscience-prompt than a text-driven summons.
+- *Equipping for Holiness & Witness (4 pts): 2/4* — The Dhobi missions insert is a genuine equipping moment for witness, even if structurally awkward. The call to share the gospel even at personal cost is well-illustrated. But the sermon does not equip the church as a body — it addresses individuals.
+
+**Score: 5/8**
+
+---
+
+**6. Structure & Logical Flow — 5/9**
+
+- *Clarity of Outline (4 pts): 2/4* — There is no clear outline. The sermon moves: introduction → prosperity gospel critique → Dhobi unreached people group → Mark 10 reading → James and John observation → prosperity gospel comparison → Mark 8:34 → diligence illustrations → closing invitation. This is a series of connected thoughts, not a structure. A listener could not sketch it on a napkin.
+- *Progression (3 pts): 2/3* — There is a general movement toward the conclusion, but several detours (the Moody quote, Tozer, the beheading illustration, the Benny Hinn note) slow momentum without adding weight.
+- *Unity (2 pts): 1/2* — The Dhobi unreached people group paragraph is entirely disconnected from the sermon's main argument. It reads as an inserted missions segment that does not arise from or feed back into the text. This is a structural seam.
+
+**Score: 5/9**
+
+---
+
+**7. Illustration & Imagination — 4/5**
+
+This is the sermon's relative strength. The illustrations are genuinely from the congregation's world:
+- The cancer diagnosis / kids asking about the house: vivid and well-placed.
+- The gun pulled at the door during evangelism: memorable and honest.
+- The friend whose father disowned him for speaking the name of Jesus: pastorally weighty.
+- The broken motorcycle as the price of witnessing to a neighbor: concrete and personal.
+- The football/little-g-god illustration: has real bite.
+
+These illustrations are not swappable into any other sermon — they arise from lived experience and are native to a pastor who knows his people. The woman taking chemo and still teaching AWANA is moving.
+
+**Score: 4/5**
+
+---
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2 pts): 2/2* — This reads like spoken preaching. It is colloquial, direct, and has oral rhythm. The direct address ("Any of you ever been mocked for being a Christian?") is natural and personal.
+- *Conviction on the Page (2 pts): 1/2* — The conviction is present in the illustrations but thin in the exposition. The Scripture-grounded assertion ratio is low — many paragraphs pass without a textual anchor.
+- *Cadence and Breath (1 pt): 0/1* — Sentence length is relatively uniform. There is no climactic compression or moment where the manuscript tightens into urgency. The sermon ends on an invitation that feels appended rather than arrived at.
+
+**Score: 3/5**
+
+---
+
+### 6. Cognitive Load Modifier
+
+**Score: 0**
+The sermon is accessible. It is not dense. The single mother and the high schooler can follow it. No penalty applied.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 13/25 |
+| Theology & Doctrinal Integrity | 11/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 8/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **56/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **58/100** |
+
+**Interpretation: Below 60 — Fundamentally flawed in current form. Rebuild from the text.**
+
+The score is pulled down primarily by the near-total absence of the passage's own climax (v.45), a gospel presentation that arrives as an appendix rather than the sermon's center of gravity, and a structural looseness that prevents the exposition from doing its work.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Partially. The prosperity gospel critique rightly redirects from self to Christ. But the diligence application section turns attention back to *my* performance of church duties. The ratio tips toward self in the middle section.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas about him, mostly. The personal illustrations create pastoral warmth, but there is no moment where the weight of who God is descends on the listener.
+
+3. **Was I comforted, convicted, or merely informed?**
+Mildly convicted by the football and tongue-guarding illustrations. But not deeply searched. The conviction is surface-level because it arises from illustration rather than from the text bearing down on the conscience.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Pastoral authenticity in illustration.** The personal illustrations — the gun at the door, the neighbor who broke the motorcycle, the friend whose father cut him off — are genuinely earned and native to this preacher's ministry. They create real texture and communicate that the preacher has lived what he is preaching. This is not decoration; it is pastoral credibility.
+
+2. **The prosperity gospel critique is sharp and properly rooted.** The line "I is always in the middle of sin" is memorable. The cosmic vending machine image communicates the problem clearly. The connection between James and John's status-seeking and the prosperity gospel's instinct is a legitimate and well-drawn exegetical observation.
+
+3. **The closing invitation is personal and actionable.** "Get my attention before you leave and I'll show you how you can have eternal life in the Bible" is not generic. It is a specific, pastoral offer. In a small church context this is precisely how gospel invitations should work.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Mark 10:45 is entirely absent.** The ransom saying — "the Son of Man came not to be served but to serve, and to give his life as a ransom for many" — is the theological and narrative climax of the entire passage. It is the passage's own answer to the question of greatness. It grounds servant-leadership not in moral example but in redemptive substitution. By omitting it, the sermon turns a gospel passage into a discipleship lecture. This is not a minor omission; it is the passage's beating heart.
+
+2. **The gospel functions as an appendix, not the sermon's center.** The word "Gospel." appears as a single-word stage note at the end of the manuscript. This reveals that the gospel is treated as a closing module rather than the motivating center of everything said before it. The cross must not arrive after the application — it must be the ground on which all application stands. Diligence, self-denial, and cross-bearing are only possible for those who first understand what the cross accomplished for them.
+
+3. **The Dhobi unreached people group segment is structurally unattached.** It is inserted between the introduction and the passage reading and has no connection to the text's argument. However well-intentioned as a missions awareness moment, it breaks the sermon's logic and creates a structural seam that disorients the listener before the exposition has even begun.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears to be unaware that his best material — the illustrations of costly discipleship — is actually doing most of the preaching, while the text is doing relatively little. The sermon *feels* text-based because it opens in Mark 10 and returns there periodically, but the governing logic is illustrative and topical. The preacher has likely prepared by thinking about what he wants to say about discipleship and then found the text that supports it, rather than letting the text generate the sermon's argument.
+
+There is also a tendency to treat diligence in church programs (sound board, cleaning, AWANA) as the primary embodiment of cross-bearing, when the passage's own logic connects cross-bearing to servant-*lordship* — specifically the ransom. The sermon's application is narrower than the text demands.
+
+---
+
+### 12. Illusion of Strength
+
+The personal illustration density creates the impression of pastoral depth and specificity. The sermon *feels* applied because it is full of concrete examples. But illustration is not application, and application is not exhortation. The congregation leaves knowing that the preacher has lived costly discipleship — they are less certain what the text of Mark 10 says, means, and demands of *them*. The illustrations carry the sermon where the exposition should.
+
+---
+
+### 13. Missed Opportunity
+
+**Mark 10:38–40 — the cup and baptism.** Jesus' question to James and John is not merely rhetorical challenge — it is a window into the atonement. The cup Jesus will drink is the cup of divine wrath (see Ps. 75:8; Isa. 51:17; Jer. 25:15). The baptism he will be baptized with is his immersion in the full weight of sin's penalty (see Luke 12:50). Jesus is not simply asking "are you ready for hard times?" He is asking "Can you bear what I am about to bear — the full, undiluted wrath of God against sin?" The answer is no. Only he can drink that cup. And because he drank it, those who follow him do not face God's wrath — they face the much lighter cross of sharing in his sufferings. This is the text's own pastoral logic and it is entirely unpreached. It would have turned the sermon's application from "be diligent about church duties" to "bear your cross knowing that the one who bore God's wrath already carried what you could never carry."
+
+---
+
+### 14. Surgical Fixes
+
+1. **Preach Mark 10:45.** Structure the entire sermon around the ransom saying as the climax. Build toward it. Everything before v.45 — the passion prediction, James and John's ambition, the cup and baptism question, the call to servant greatness — leads to that sentence. The sermon should end there, not at a diligence list.
+
+2. **Exposit the cup and baptism (v.38).** Spend 3–4 minutes on what Jesus meant. Connect it to Gethsemane ("let this cup pass from me"). Name what the cup is: the wrath of God against sin. Then show why this means that the disciple's cross is bearable — not because it is light, but because Christ drank the heavy cup first.
+
+3. **Move the gospel from appendix to spine.** The gospel should not arrive at the end as a separate module. After establishing what the ransom means, show that cross-bearing discipleship flows *from* the gospel: because Christ served us to the point of death, we serve others; because he gave himself as a ransom, we are freed to give ourselves. The indicative (what Christ did) must precede and ground the imperative (what we must do).
+
+4. **Remove or relocate the Dhobi segment.** If missions awareness is a regular feature of this congregation's gatherings, handle it before or after the sermon — not inside it. Its placement currently fractures the sermon's logic before it has begun.
+
+5. **Add differentiated address.** After the main application, speak directly to at least three types of hearers: (a) the person who already knows all this but whose diligence has quietly died — the backslider; (b) the person who does not yet follow Christ and is sitting here calculating the cost; (c) the person who is faithfully bearing a cross right now and needs the balm, not only the hammer.
+
+6. **Compress the illustration section.** The beheading illustration, the Moody quote, the Tozer reference, and the John Piper reference all appear in rapid succession. These compete with each other rather than reinforcing a single point. Choose one and develop it fully; remove the others.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** This sermon is not cold or bloodless — it has genuine warmth, personal investment, and pastoral care. The issue is not dead orthodoxy but *thin exposition* and *displaced gospel*. The fire is present; the theological fuel is insufficient.
+
+---
+
+### 16. Weight of Glory Assessment
+
+There are genuine sparks of eternal gravity here — particularly in the friend who kept speaking Christ's name knowing it might cost him his father — but the sermon as a whole does not carry the weight of eternity because it does not stand long enough under the cross to let that weight accumulate. **+2 of 5 bonus points.**
+
+---
+
+### 17. Rubric Fit Note
+
+Mark 10:32–45 is gospel narrative — a passage with a clear redemptive-historical argument and a climactic theological declaration (the ransom saying). This rubric is well-suited to it. The rubric's Gospel Centrality and Exposition categories rightly flag what is missing here. The Illustration category appropriately rewards what the sermon does well. No genre strain noted — the rubric applies cleanly to this passage and this sermon type.
+
+---
+
+*Soli Deo Gloria.*

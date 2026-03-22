@@ -93,3 +93,207 @@ Sometimes our perspective is too small. We see the crack; God sees the garden. W
 Is Jesus worth it? Paul’s shipwrecks say yes. Judy’s garbage bags say yes. The martyrs’ blood says yes. The cross shouts yes.
 Let’s lay our hands on our mouths and say yes with our lives.
 Let’s pray.
+
+---
+
+---
+
+# Thus Says the Lord — Sermon Evaluation
+
+**File**: Romans 9 pt 2.md
+**Text**: Romans 9:14–18 (with extension to vv. 19–20)
+**Evaluator**: Thus Says the Lord Rubric
+**Date**: 2026-03-22
+
+---
+
+## 1. Verdict Title
+
+**A Theologically Sound Sovereignty Sermon That Preaches Mercy Without Fully Grounding It in the Cross**
+
+---
+
+## 2. One-Sentence Summary
+
+A faithful and pastorally warm opening of Romans 9:14–18 that pressed the sovereignty of God's mercy against the human instinct to accuse God of injustice, anchored by the Judy and Ripken illustrations, while leaving Christ's atoning work significantly underexplored as the ground of the very mercy it proclaims.
+
+---
+
+## 3. Berean Gate
+
+**PASS**
+
+**Scopus Test**: "God's sovereign mercy in election is never unjust — He owes mercy to no one, and every act of mercy is grace, and every act of hardening is righteous — so our only fitting response is awe, not accusation." Demonstrably arises from Romans 9:14–18.
+
+**Authority Test**: The preacher does not soften the hardening of Pharaoh or the absolute sovereignty of God in verse 16. The uncomfortable claims of the text are named and held. Pass.
+
+---
+
+## 4. Fatal Flaw Flags
+
+**None triggered** — with one significant integrity concern noted below.
+
+> **Integrity Alert (Line 65) — Charlie Kirk Reference**: The sentence reads: "God wastes nothing — not Pharaoh's cruelty, not our struggles, not even Charlie Kirk's blood, not even the darkest chapter of your life." Charlie Kirk is a living conservative political commentator (b. 1993) and has not died a martyr's death as of this evaluation. This reference is either a factual error (a name confused for someone else) or a placeholder that was never corrected. It must be removed or corrected before the sermon is preached again. If the intended referent was a martyr from missions contexts (e.g., from Ripken's material), the name needs to be identified and verified. Under the *careful-not-clever* integrity standard, a false biographical claim — even a brief one — damages the congregation's trust in everything else the preacher says.
+
+This does not trigger a rubric fatal flaw flag, but it is a preaching integrity issue requiring immediate attention.
+
+---
+
+## 5. Score Breakdown
+
+### 1. Exposition & Hermeneutics — 22/25
+
+- **Textual Fidelity (8.5/10)**: The three-point structure follows Romans 9:14–18 closely. The *mē genoito* identification with its Romans 6 parallel is exegetically precise. The Exodus 33 quotation is correctly contextualized within Israel's golden calf apostasy. Slight deduction: the stated passage is Romans 9:14–18 but Point III extends into vv. 19–20 without noting the expanded scope. Also, the Augustine and Piper quotations are deployed without verified primary sources in the sermon notes.
+- **Contextual Awareness (4.5/5)**: The golden calf context of Exodus 33 is accurately presented. Job 38–40 is appropriately connected to the creature-before-Creator theme. Romans 6, Romans 8:18, Romans 8:28–30 supply useful canonical context. Well-supplied.
+- **Exegetical Clarity (4.5/5)**: *Mē genoito* explained. The Pharaoh passage's missionary purpose ("so that his name might be proclaimed in all the earth") is helpfully unpacked as God's global worship intent. Clean.
+- **Logical Faithfulness (4.5/5)**: No eisegesis detected. The justice/mercy distinction is accurately grounded in the biblical text. The claim that the greater scandal is not that God doesn't save all but that He saves any arises naturally from the logic of the passage.
+
+**FCF**: The human instinct to accuse God of injustice — "here's the question that rises in our sin-darkened hearts" — is named concretely in the introduction. It is developed as the FCF through all three points and confronted directly. Well-executed.
+
+### 2. Theology & Doctrinal Integrity — 15/18
+
+- **Christ-Centeredness (5/7)**: Christ appears at meaningful moments — the Damascus road, the cross in the Ripken/son section, the closing "the cross shouts yes." But Christ's redemptive work is not expounded. The theological machinery of the sermon's mercy argument does not require Christ specifically — it is built on Old Testament texts (Exodus 33, Romans 9 quoting Exodus/Exodus) and could be followed by a devout Jew. The cross is decorative rather than structural here.
+- **Redemptive-Historical Awareness (2.5/3)**: The Exodus 33 context is well-placed in Israel's story. Paul's trajectory from persecutor to apostle is a redemptive-historical movement. The servant-of-God trajectory through suffering is implicit. Could have traced the mercy motif more explicitly through the covenantal arc.
+- **Doctrinal Precision (3.5/4)**: The justice/mercy distinction is precise and important. Ephesians 2 is accurately deployed. Minor concern: the Augustine quote — "God is not unjust in not giving mercy; for mercy is owed to no one" — is used without a verified primary source. If this phrasing is misattributed or paraphrased beyond recognition, it misrepresents a theologian under the care of God's glory.
+- **Confessional Alignment — 1689 Pulse (4/4)**: Sovereignty of God in election, unconditional mercy, salvation not of human will or exertion — all present and Reformed. The sovereign hardening of Pharaoh is not softened.
+
+### 3. Gospel Centrality & Force — 10/15
+
+- **Clarity of the Gospel (3.5/5)**: Ephesians 2:8–9 is quoted ("by grace... through faith... not a result of works"). The principle is present. But the mechanism — how mercy reaches sinners specifically through Christ's substitutionary death — is not proclaimed. The sermon announces that mercy is available without explaining how it comes. An unbeliever would understand that God shows sovereign mercy but would not necessarily understand how to receive it.
+- **Necessity of Christ (3/5)**: Christ appears but is not structurally necessary to the sermon's argument. The mercy/justice logic is built on Old Testament citations and philosophical distinctions that could stand independently of Christ's cross. The Damascus road illustration features Jesus, but as an example of sovereignty rather than as the procurer of mercy through atonement.
+- **Cross-Centered Gravity (3.5/5)**: The cross appears once in the closing doxology ("the cross shouts yes") but is not developed. The sermon builds toward awe before God's sovereignty without centering that sovereignty in the cross where justice and mercy converge. Romans 3:25–26 — where God shows He is both just and the justifier — was left unused. This is where the text's questions ultimately find their answer.
+
+**Synagogue Test**: A devout non-Christian could follow the sermon's core argument — God is sovereignly merciful, none deserve it, Pharaoh was used for God's glory — without being confronted by the exclusive necessity of Christ's atonement. The cross needs to be the structural answer to Romans 9:14's question, not merely a doxological footnote.
+
+### 4. Conscience & Applicatory Force — 12/15
+
+- **Heart Penetration (4/5)**: "If you think God owes you — or your kids — mercy, you've misunderstood mercy." This lands. The Job comparison — creature before Creator — forces a posture change. The differentiated application in Point III (suffering saint, proud skeptic, weary parent, believer) gives the sermon genuine pastoral reach.
+- **Specificity (4/5)**: The Judy illustration makes the abstract concrete in a way specific illustrations rarely do. The Ripken material supplies a global dimension. The cracked pot parable provides a domestic image.
+- **Spiritual Differentiation (4/5)**: The four-pronged application explicitly addresses different categories of hearers. This is close to Perkins' taxonomy and is one of the sermon's strongest features. Minor deduction: the "weary parent" application (even a hardened child can be struck like Saul) is encouraging but slightly misreads Romans 9 — Paul is talking about God's election, not a promise that rebellious children of believers will be converted.
+
+### 5. Exhortation & Response — 6.5/8
+
+- **Call to Response (3.5/4)**: The closing is explicit: "Lay our hands on our mouths and say yes with our lives." The four-pronged application gives specific directives: trust, bow, rejoice, worship. Clear and imperative.
+- **Equipping for Holiness & Witness (3/4)**: "Stop boasting in your willpower." The blank-check framing is holiness-equipping. The Ripken material carries a missions dimension. The cracked pot parable reorients the believer toward trusting God's use of their weakness.
+
+### 6. Structure & Logical Flow — 9/9
+
+- **Clarity of Outline (4/4)**: Three-point structure from the text: God is never unjust (vv. 14–15), mercy is freely given (vv. 16–17), sovereignty demands awe (vv. 18–20). Clear and traceable.
+- **Progression (3/3)**: Each point deepens the argument logically. The objection-answer pattern mirrors Paul's own rhetorical method.
+- **Unity (2/2)**: The blank-check metaphor introduced at the opening, woven through the illustrations, and closed with "say yes with our lives" provides genuine thematic unity.
+
+### 7. Illustration & Imagination — 5/5
+
+- **Relevance (2/2)**: Aunt Judy's story is personal, specific, and theologically precise — weakness as the vehicle for mercy. Ripken's testimony is well-deployed in a missions-oriented congregation.
+- **Clarity (2/2)**: The cracked pot parable is clear and appropriate — it illuminates the "Why has God made me like this?" question without competing with the text.
+- **Memorability (1/1)**: "We see the crack; God sees the garden." The garbage bags full of letters. Both go home.
+
+### 8. Sermonic Force — 4/5
+
+- **Reads as Preaching (2/2)**: The repeated "So when you cry, 'Why me?'" structure is preaching voice. The four-pronged application with direct address is sustained.
+- **Conviction on the Page (1.5/2)**: Scripture-grounding is solid but several paragraphs run without a direct text reference, relying instead on the illustrations. The Augustine and Piper quotes carry authority without sourced backing.
+- **Cadence and Breath (0.5/1)**: The Pharaoh-as-stagehand paragraph has good rhythmic development. The cracked pot parable is well-paced. But the overall cadence is more conversational than homiletically shaped.
+
+---
+
+## 6. Cognitive Load Modifier — 0
+
+Three points, clear structure, blank-check thread. Accessible to a broad congregation. The theological weight (sovereignty, hardening, election) is real but introduced gradually and explained accessibly.
+
+---
+
+## 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 22/25 |
+| Theology & Doctrinal Integrity | 15/18 |
+| Gospel Centrality & Force | 10/15 |
+| Conscience & Applicatory Force | 12/15 |
+| Exhortation & Response | 6.5/8 |
+| Structure & Logical Flow | 9/9 |
+| Illustration & Imagination | 5/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **83.5/100** |
+| Weight of Glory Bonus | +3.5 |
+| Cognitive Load Modifier | 0 |
+| **TOTAL** | **87/105** |
+
+**Interpretation**: Strong and faithful. Minor sharpening needed. Ready for the pulpit with targeted revisions — particularly the Charlie Kirk correction and the development of Christ's cross as the structural ground of mercy.
+
+---
+
+## 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily God's sovereignty. Christ is present but not the center. The answer tilts toward "ideas about God" more than "encounter with Christ."
+2. **Did I encounter God, or just ideas about Him?** Genuinely God, especially in the sovereignty/awe section. The Judy illustration gives it pastoral warmth that doctrine alone would not.
+3. **Was I comforted, convicted, or merely informed?** Convicted (if you've been accusing God of injustice) and comforted (the cracked pot, the Judy example). Informed by the Romans framework. A reasonable three-way answer.
+
+---
+
+## 9. Strengths (Top 3)
+
+1. **Aunt Judy's story**: The most powerful personal illustration in the corpus. Garbage bags full of letters from people she led to Christ while living as a patient in Spanish Harlem — this is Romans 9's point made flesh. It does not merely illustrate mercy; it *demonstrates* it in a way the congregation cannot forget.
+
+2. **The four-pronged application (Point III)**: "To the suffering saint... To the proud skeptic... To the weary parent... To the believer." This is genuine Perkins-style differentiated application. Each category receives a specific word grounded in the text. This is what the Conscience & Applicatory Force category exists to reward.
+
+3. **The missionary purpose of Pharaoh's hardening**: "Do you see the missionary heart even in judgment? God's purpose was global worship. Pharaoh's hardness became the backdrop for God's mercy to Israel — and that mercy was meant to reverberate through all the nations." This connection is textually grounded, theologically precise, and missionally energizing. It redeems the hardening doctrine rather than merely defending it.
+
+---
+
+## 10. Critical Weaknesses (Top 3)
+
+1. **Christ's cross is decorative, not structural**: The sermon proclaims that God is merciful without explaining how that mercy comes to sinners through Christ's specific atoning work. Romans 3:25–26 — where God demonstrates He is "just and the justifier of the one who has faith in Jesus" — is the passage that answers Romans 9:14's question at the deepest level. An unbeliever who heard this sermon would know that God is sovereignly merciful but would not know how to receive that mercy through Christ.
+
+2. **The Charlie Kirk reference is a factual error**: As noted in the Fatal Flaw section, Charlie Kirk is a living person who has not died a martyr's death. This must be corrected immediately. One verifiable error in a sermon makes hearers wonder what else might be wrong. Under the care required for God's Word, this requires correction before this sermon is preached again.
+
+3. **The Augustine and Piper quotations lack source verification**: Both are deployed in Point I without citing a primary source. The Augustine quote — "God is not unjust in not giving mercy; for mercy is owed to no one" — may be genuine but its placement and exact wording need verification. If it is misattributed or paraphrased beyond recognition, it misrepresents a theologian in the service of a correct argument, which is a double irony.
+
+---
+
+## 11. Blind Spots
+
+The preacher may not see that the "weary parent" application subtly implies a promise the text does not give — that rebellious children of believers will be converted as Paul was. Romans 9 is about God's sovereign mercy in election, not a parental prayer guarantee. The application is pastorally warm but slightly misapplies the text's logic, which could give false assurance or, conversely, crushing guilt if a child does not convert.
+
+---
+
+## 12. Illusion of Strength
+
+The sermon feels theologically complete because it addresses all three aspects of the text's logic (justice, mercy, sovereignty) and matches them with strong illustrations. But the gospel presentation — which should be the sermon's undergirding theology, not a closing doxological line — is almost absent. The "cross shouts yes" at the end gives the impression that the cross has been the sermon's engine throughout. It hasn't. The Synagogue Test reveals the gap.
+
+---
+
+## 13. Missed Opportunity
+
+Romans 3:25–26, adjacent to this passage's logic, was passed over entirely: "God put [Christ] forward as a propitiation by his blood... It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus." This is the text that shows how God's justice and mercy are reconciled — not by explaining them philosophically but by pointing to the cross where both fully landed. The sermon defends God's justice and celebrates God's mercy without showing the congregation where they meet.
+
+---
+
+## 14. Surgical Fixes
+
+1. **Remove or correct the Charlie Kirk reference immediately**: Replace with a verified martyrdom account from Ripken's book, properly attributed to the named individual (e.g., Dimitri, the Russian believer whose story Ripken tells in *The Insanity of God*). Do not use a living person's name in a context that implies their death.
+
+2. **Add one paragraph on Romans 3:25–26 in the conclusion**: "And if you're wondering how God can be just and merciful at the same time — if that tension feels unresolved — Paul gives you the answer nine chapters earlier: God put Christ forward as a propitiation. Justice and mercy didn't collide at the cross. They converged. Justice landed on the Son; mercy flows to everyone who trusts Him. That's how God's wrath is satisfied and sinners are pardoned."
+
+3. **Verify the Augustine and Piper quotations before the next preaching**: Locate the primary text (Piper: likely *The Pleasures of God* or a Romans commentary; Augustine: likely *The Enchiridion* or *On Free Will*). If the wording cannot be verified, paraphrase and identify as a paraphrase.
+
+4. **Revise the "weary parent" application**: Replace the implication of a conversion promise with the genuine comfort the text offers — not "your hardened child will be struck like Saul" (which the text doesn't promise) but "God's sovereign purposes do not fail, and your prayers are in the hands of the One who shows mercy on whom He will. That is not a threat — it is your only hope, and it is a sure one."
+
+---
+
+## 15. Dead Orthodoxy Flag
+
+**Not triggered.** The Judy illustration and the four-pronged application prevent the sermon from being merely informational. The conscience is engaged and hearers are differentiated.
+
+---
+
+## 16. Weight of Glory Assessment
+
+The Judy illustration and the martyrdom testimonies carry genuine eternal weight. The sermon's overall awe before God's sovereignty is authentic. But the "cross shouts yes" finale — arriving after a sermon that has not made the cross structural — means the weight of glory is felt in the illustrations more than in the theology.
+
+---
+
+## 17. Rubric Fit Note
+
+Romans 9 is one of the most exegetically contested passages in the New Testament. The rubric fits it well in the sovereignty/mercy categories, but the Conscience & Applicatory Force category naturally strains on a doctrinal passage whose first-order purpose is theodicy. The preacher navigates this well by building the application around the Judy and Ripken illustrations rather than trying to press pure doctrine onto individual consciences.
+

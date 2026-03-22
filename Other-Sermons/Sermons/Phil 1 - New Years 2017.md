@@ -47,3 +47,144 @@ Ok so what I want to do is put my dad on the spot for a minute. Come on up here.
 I'm walking down the street, and I've just seen you for the first time. (gospel presentation).
 
 Now I'd like for us to split up into groups. I didn't warn them about this, but I know my dad, pastor Bob, and Kenny Duffield are prepared to give an account for their faith, so lets split into a couple of groups and run through it again, maybe some of you would be willing to try in the safety of the church to share the gospel with one of us. Bob, dad and Kenny feel free to use your own presentation style, don't feel like you have to use mine though I think there will be a good deal of overlap. Then when everyones had a chance that wants one, lets close in prayer again, and we will go eat.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated:** 2026-03-21
+**Rubric:** Thus Says the Lord — Reformed Baptist Sermon Evaluation
+
+---
+
+### 1. Verdict Title
+
+**A Pastoral New Year's Talk With Evangelistic Instinct, Weak Exposition, and Gospel Assumed Rather Than Proclaimed**
+
+---
+
+### 2. One-Sentence Summary
+
+A warmly pastoral New Year's address built on Philippians 1:12-14 and 1:27 that speaks pointedly into real congregational suffering, shows genuine evangelistic instinct, but suffers from thin exegesis, a gospel that is referenced rather than proclaimed, and application that slides into moralism at the close.
+
+---
+
+### 3. Berean Gate
+
+**MARGINAL PASS — with significant concerns.**
+
+The sermon is loosely anchored in Philippians 1:12-14 (suffering advances the gospel) and 1:27 (let your manner of life be worthy of the gospel). Both are addressed, though neither is opened exegetically. The sermon's main point — *hardship is God's instrument for growth and gospel advance; therefore live worthily* — is broadly congruent with Paul's argument in Philippians 1. But the sermon drifts substantially from the text's argument into personal illustration, natural analogy, and congregational application before returning to the passage. The Scopus Test passes narrowly.
+
+**Berean Gate: MARGINAL PASS** (text is present and referenced, but not the sermon's controlling authority)
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Score cap at 69 applies. Flags triggered:**
+
+1. **No clear gospel presentation** — The gospel is referred to ("((gospel presentation))" appears as a stage direction placeholder, never filled in the manuscript), mentioned generically ("live worthy of the Gospel"), and gestured toward in the evangelism training section — but it is never actually proclaimed in the sermon itself. Christ's death for sinners, justification by faith, the cross — none appear as proclamation. The "(gospel presentation)" placeholder at the end is a training exercise, not a sermon conclusion.
+2. **Application drifts into moralism** — The section beginning "Let your manner of life be worthy of the gospel of Jesus Christ" (line 27) applies to profanity, television habits, over-eating, and idols — all without grounding these calls in the indicatives of what Christ has accomplished. "Change because you want to live a life worthy of the Gospel of Jesus Christ" is the imperative; but the indicative that empowers it (you are justified, adopted, indwelt) is absent. The moral applications float free of grace.
+
+---
+
+### 5. Score Breakdown
+
+| Category | Score | Max | Notes |
+|---|---|---|---|
+| Exposition & Hermeneutics | 11 | 25 | Phil 1:12-14 is correctly summarized (Paul's imprisonment advances the gospel; others are emboldened). Phil 1:27 is correctly quoted and applied. The Greek word *charisthomai* in Phil 1:29 is handled with genuine energy and exegetical observation (it is the word for a freely given gift). But no passage is opened at length; the sermon moves around the text rather than through it. The caterpillar/butterfly and astronaut illustrations are extended far longer than the actual textual content. No contextual awareness of the Philippian church, the imprisonment setting, or book flow. |
+| Theology & Doctrinal Integrity | 9 | 18 | Effectual calling is absent; the sermon nods toward God's sovereignty in hardship but doesn't ground it theologically. The "God has a plan for your life" framing (implied throughout) is not the same as God's sovereign decree — it slides toward therapeutic theism. Christ is mentioned ("live worthy of the gospel") but is not the theological center. The substitutionary atonement is absent. Phil 1:29 (*charisthomai*) is genuinely well-handled — suffering as a gift from God, the same word as spiritual gifts in Corinthians, is a real exegetical gem. |
+| Gospel Centrality & Force | 4 | 15 | The gospel is the referenced horizon of the sermon but is never the melody. "Live worthy of the gospel" is the recurring imperative — but the gospel content that makes that command possible (what Christ did, for whom, how it is received) is never stated. The post-sermon evangelism training exercise contains a gospel presentation, but that is training, not proclamation. The Synagogue Test: a Jewish or Muslim visitor could sit through most of this sermon without being offended by the necessity of Christ's blood. |
+| Conscience & Applicatory Force | 9 | 15 | This is the sermon's clearest strength. The personal address to named congregants (Christina, David, Jill, Dalia, Lois) is pastorally courageous and specific. The preacher does not address abstract "people in hard circumstances" — he names them, knows their stories, and speaks into those stories. The application to profanity, television habits, and overindulgence in lines 27-31 is more specific than most sermons attempt, though it tips toward moralism. The "find your gospel appointment" challenge regarding broken trucks and ladder injuries is concrete and imaginative. |
+| Exhortation & Response | 5 | 8 | The final call (lines 39-41) — "Resolve to live a life that is worthy of the Gospel. Resolve to bring glory to God in the midst of the ashes of life. Resolve to make much of God, and little of your self" — is a real exhortation, brief and direct. The evangelism training segment is a practical missional equipping that has genuine "send the church out" force. However, the exhortation is to resolve and act, not grounded in the finished work of Christ. |
+| Structure & Logical Flow | 6 | 9 | The sermon has a recognizable movement: suffering is real → God uses suffering for gospel advance → live worthy of the gospel → the gift of suffering (*charisthomai*) → close with evangelism training. Each section connects loosely to the next, but the transitions are abrupt and the balance is off — the opening pastoral survey of 2016 hardships is longer than the actual exposition. The closing pivot to evangelism training feels like a separate event appended to the sermon. |
+| Illustration & Imagination | 4 | 5 | The caterpillar/butterfly/astronaut/birth canal cluster is vivid and well-developed, even if slightly overextended. The "find your gospel appointment" (broken truck, ladder injury) is an excellent and specific illustration. The "(gospel presentation)" placeholder and the street evangelism roleplay have strong contextual relevance for this congregation. The personal stories about Christina's imprisonment and recovery are the most powerful illustrative material in the sermon. |
+| Sermonic Force | 3 | 5 | The sermon reads as it was preached: conversational, warm, direct, familiar. "Is Jesus worth it?" is the kind of question a real preacher asks. The cadence is oral and accessible. The weakness is the unresolved placeholder ("(gospel presentation)") — as a manuscript, the sermon's climactic moment is an empty bracket. |
+
+**Raw Subtotal: 51/100**
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1**: The sermon is actually quite accessible — the personal references and illustrative clusters keep it followable. Slight deduction for the structural looseness (multiple pivots without clear transitions). The congregation this was preached to could track it.
+
+---
+
+### 7. Total Score
+
+**50/100 (capped at 69 due to fatal flaw flags)** — *Fundamentally flawed as a manuscript*
+
+**Interpretation band: Below 60 — Fundamental repairs needed**
+
+*Note: The actual preached sermon almost certainly scored higher due to live delivery, the gospel presentation that was performed but not written, and the pastoral relationship with named congregants. As a manuscript, the core weaknesses are structural and theological.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** — More of God's sovereignty in suffering and the missional obligation of the Christian. Christ himself is not the sermon's focus.
+2. **Did I encounter God, or just ideas about Him?** — Ideas about Him, warmly held and pastorally applied. The *charisthomai* moment comes closest to an encounter.
+3. **Was I comforted, convicted, or merely informed?** — The named congregants were addressed directly and would have been comforted. The congregation at large was exhorted. Most readers of the manuscript are informed.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Named pastoral application** (lines 1-8): Naming Christina, David, Jill, Dalia, and Lois by name — with their specific struggles — and speaking God's Word into those situations is exactly what pastoral preaching is. This is the sermon's highest point. Perkins would call it spiritual differentiation; here it is viscerally present.
+2. **The *charisthomai* word study** (lines 33-35): This is genuine exegetical work that lands: suffering and spiritual gifts share the same Greek root — both are freely and joyously given by God. The application ("if God breaks your truck for the gospel, God can fix your truck for the gospel too") is specific and earns its place.
+3. **The evangelism-training close** (lines 41-49): Equipping the congregation to actually share the gospel — in the service, in groups, with real practice — is exactly what "equipping the saints for the work of ministry" looks like. This is the sermon's most practically missional element.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is a placeholder, not a proclamation** — The manuscript contains "(gospel presentation)" as a stage direction. For the rubric, this is not a gospel presentation; it is the absence of one. No score for gospel centrality can be awarded for a bracket. If the sermon is to be preserved or preached again, the gospel must be written out.
+2. **The moral application in lines 27-31 is ungrounded indicatively** — Profanity, television, overindulgence are addressed as failures to "live worthy of the gospel." That framing is theologically possible (Eph 4:1 is the same logic), but without the indicative of what Christ has accomplished — who you now *are* in him — the exhortations reduce to self-improvement. "Change because you want to honor him more deeply" is not the same as "You are a new creation in Christ — live from that."
+3. **The passage disappears for long stretches** — The opening 15 lines contain no Scripture reference. Lines 11-15 (the long survey of biblical hardship from Adam to Christ) are accurate but function as topical survey, not exegesis. The sermon loses contact with Philippians for several minutes at a stretch.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how much the sermon's moral application section (lines 27-31) sounds to a Reformed ear like law without gospel. The commands — don't curse, limit TV, don't over-eat — are given as things Christians should want to do. But the question a theologically trained listener asks is: *on what basis? By what power?* The answer (new nature, Spirit's indwelling, union with Christ) is not present. The preacher's warm pastoral relationship with the congregation likely carries this in the room; on the page it reads as moral exhortation without grace-grounding.
+
+---
+
+### 12. Illusion of Strength
+
+The evangelism training section *feels* like the sermon's most practical and therefore strongest close. And in some ways it is admirable — preacher-led, hands-on, missional. But it is actually a separate instructional event appended to the sermon. A sermon ends when the congregation is sent out in response to the Word preached. What follows here is a training exercise. These are not the same thing. The strength of the missional instinct can mask the absence of a proper gospel close and exhortation.
+
+---
+
+### 13. Missed Opportunity
+
+Philippians 1:29 — the *charisthomai* word study — is the text's own climax. This is where Paul says suffering for Christ is not a misfortune but a *gift from God*, using the same Greek root as *charis* (grace). The sermon touches this genuinely but does not hold it long enough. This single word, unpacked with care, could have restructured the entire sermon: suffering is grace; Paul is writing from a place of received grace-through-chains; therefore the congregation's hard year is not God's absence but God's gift in another form. That is not moralism — that is the gospel applied to suffering. The sermon grazes it and moves on.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Write out the gospel presentation.** The "(gospel presentation)" stage direction must become actual text. Use Romans 3:23, 6:23, 5:8, and 10:9 — or whatever the preacher's normal bridge is — and write it into the manuscript. This is the sermon's highest-priority repair.
+2. **Ground the moral application in the indicative.** Before "let your manner of life be worthy of the gospel," insert the basis: "You are in Christ. You have been declared righteous. The Spirit lives in you. Now — live from that. Don't curse because you belong to the one who spoke the world into existence with His words. Don't give your hours to idols because you have been bought at infinite cost." Imperative must follow indicative.
+3. **Anchor the sermon in the passage more consistently.** At each major transition, return explicitly to the text. Readers should be able to reconstruct Philippians 1:12-14, 27, 29 from the sermon's argument.
+4. **Restructure the close.** The sermon should end with exhortation and dismissal, not transition to training. Close the proclamation first ("Go, and find your gospel appointment. Suffer well. Live worthy. The God who gave you this year will give you the next."), then pivot explicitly to the training exercise as a separate activity.
+5. **Tighten or remove the natural illustration cluster.** The caterpillar, astronaut, and birth canal analogies run five lines each. The Philippians 1 text deserves that space instead. One illustration from the cluster (caterpillar is the strongest) is sufficient.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — the sermon has genuine warmth and pastoral specificity. The problem is not cold correctness but thin exegesis and an absent gospel proclamation. These are different failures.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The pastoral naming of suffering congregants by name, and the *charisthomai* moment, carry genuine weight; but the sermon as a manuscript does not sustain divine gravity — it is warmer and more affectionate than weighty.
+
+---
+
+### 17. Rubric Fit Note
+
+This is a New Year's occasional sermon, not a standard expository sermon in a series — it addresses the congregation's shared experience of a hard year and pivots to exhortation and training. The rubric applies well to the sermon's core categories, but the evangelism-training close is properly a separate activity and should not be scored as "exhortation" in the rubric's sense. The pastoral-affective register of the opening (naming names, specific suffering) is exactly what the Conscience & Applicatory Force category rewards — and this sermon scores well there precisely because the preacher knows his people.

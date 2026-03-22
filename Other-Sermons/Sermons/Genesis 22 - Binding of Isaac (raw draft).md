@@ -153,3 +153,209 @@ Maybe you accepted Christ a long time ago, but you're not sure if you really mea
 - "gun shot through the front door" — may reference a real incident known to the congregation
 - Theology class anecdote (student with murdered loved one) — left intact
 - The Treblinka illustration is left in the body text with the factual error corrected — the "American tank" liberation replaced with the actual prisoner revolt and escape. The theological analogy is preserved.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated**: 2026-03-22
+**Rubric**: Thus Says the Lord (Reformed Baptist Sermon Evaluation)
+**File**: Genesis 22 - Binding of Isaac (raw draft).md
+
+---
+
+### Verdict Title
+
+**A Warm-Hearted Gospel Close on a Shaky Expositional Foundation**
+
+---
+
+### One-Sentence Summary
+
+A sincere and personally engaged opening of Genesis 22:1-18 that lands a genuine gospel invitation while losing significant ground to a persecution-themed detour that overtakes the text's own argument for most of the sermon.
+
+---
+
+### Berean Gate
+
+**Scopus Test**: Borderline PASS — with qualification.
+
+The text's main point is the demonstration and vindication of Abraham's faith through the Akedah, culminating in God's oath and provision. The sermon's stated interest is "faith and obedience" and "persecution follows obedience." These are not the same thing. The text does not argue that obedience causes persecution — it argues that God tests faith and then vindicates it with provision and oath. The persecution theme is an application imported from Nik Ripken and the cultural moment, not a claim the text makes.
+
+However, the sermon does eventually return to Abraham's faith, Isaac's typology, and the gospel close. The main point of the text is touched, but it does not govern the sermon. The persecution application functions as a second sermon grafted onto the first.
+
+**Authority Test**: PASS — the preacher submits to what the text says. There is no softening of God's command, no editing of the hard elements. The imagined dialogue is a legitimate sermon device and does not distort the passage.
+
+**Gate Result**: Passes narrowly. The sermon is text-touching rather than text-governed, but the passage's core claim (God tests, God provides, God vindicates faith) does ultimately appear.
+
+---
+
+### Fatal Flaw Flags
+
+**Flag 4 — Application is Largely Generic**: The persecution application ("when you follow Christ, the enemy attacks") is broad cultural commentary, not specific to this text or this congregation's identifiable condition. "Maybe it's finances, or sudden deaths of loved ones. Maybe it's a gun shot through the front door" is more specific — but still a list rather than a targeted use.
+
+**Flag 5 — Exhortation is Thin**: The gospel close contains a response invitation ("come talk to me"), but the sermon never directly calls the congregation to a specific act of obedience, repentance, or trust grounded in *what this text showed them*. The exhortation reads more as an altar call formula than a summoning from the specific argument of Genesis 22.
+
+**Score cap applies: maximum 69.**
+
+---
+
+### Score Breakdown
+
+**1. Exposition & Hermeneutics — 14 / 25**
+
+- *Textual Fidelity*: 5/10 — The sermon treats genuine textual material (v.5's "we will return," Abraham's faith, Isaac's willing submission, the ram as substitute, Moriah/Golgotha proximity). But the Treblinka/Nik Ripken/missionary statistics section — which occupies a substantial portion of the sermon — does not arise from this text at all. The text's argument is interrupted early and resumed late.
+- *Contextual Awareness*: 3/5 — Brief awareness of the Genesis 21 context (Isaac's birth). No engagement with the covenant promise trajectory from Genesis 12 or 15 that gives Genesis 22 its weight. The reader is not told why God's command is so shattering in covenantal terms.
+- *Exegetical Clarity*: 3/5 — The "clues in the text" framing is engaging and the key exegetical moments (v.5, v.8) are identified. No Hebrew engagement. Fallen Condition Focus is not named explicitly, though "we value comfort over Christ" gestures at it.
+- *Logical Faithfulness*: 3/5 — The move from "Abraham obeyed" to "persecution follows obedience" is a logical leap. The text does not claim this. The thematic drift is significant.
+
+**2. Theology & Doctrinal Integrity — 12 / 18**
+
+- *Christ-Centeredness*: 5/7 — The Christological typology (Isaac as type of Christ, Moriah/Golgotha, the ram as substitute) is handled genuinely and organically from the text. The preacher rightly notes the typological parallels without forcing them. "God didn't ask Abraham for anything he wasn't willing to endure himself through Christ" is a strong theological observation.
+- *Redemptive-Historical Awareness*: 1/3 — Moriah to Golgotha is mentioned, but the redemptive-historical arc from the Abrahamic covenant through the sacrificial system to Christ is not developed. The sermon touches the destination without tracing the road.
+- *Doctrinal Precision*: 3/4 — No serious theological errors. The gospel close is accurate. "A new nature, a new start... washed white as snow" gestures at regeneration but with imprecision — "if we ask him, God will give us a new nature" could imply a decisional view of regeneration without adequate grounding. The theology class anecdote about God forgiving a murderer is pastorally good but could be sharpened doctrinally.
+- *Confessional Alignment*: 3/4 — No contradiction of confessional theology. The grace/faith theme is present. No explicit engagement with the Covenant of Works / Covenant of Grace distinction that this text naturally surfaces.
+
+**3. Gospel Centrality & Force — 9 / 15**
+
+- *Clarity of the Gospel*: 3/5 — Romans 5:8 is quoted, the substitutionary logic is present ("Ultimately we are saved by the willing sacrifice of the only perfect human being who has ever existed"), and the invitation is genuine. But justification by faith is not articulated — the mechanism of salvation is described in terms of "ask him" and "a new nature" rather than imputed righteousness received through faith.
+- *Necessity of Christ*: 4/5 — Christ is not decorative. The Isaac typology points to him. The gospel close does not work without him.
+- *Cross-Centered Gravity*: 2/5 — The sermon does not build toward the cross. The persecution theme redirects attention for the middle third of the sermon. The Moriah/Golgotha connection is the most cross-centered moment, but it arrives as a paragraph rather than as the climactic weight of the whole sermon.
+
+*Synagogue Test*: A devout moral monotheist could sit through the persecution section and the Treblinka/obedience material without being offended. The gospel close does introduce Christ's sacrifice and the need for personal response. Marginal pass.
+
+**4. Conscience & Applicatory Force — 7 / 15**
+
+- *Heart Penetration*: 3/5 — "Could you imagine giving up a dream for Christ? Comfort for Christ?" is a genuine conscience-press. The fan story humanizes God's provision. The theology class anecdote about the student struggling with forgiveness for murderers has real pastoral weight.
+- *Specificity*: 2/5 — The persecution application is culturally broad. "Maybe it's finances, or sudden deaths of loved ones" is a list, not a use. No specific call to a specific condition is sustained.
+- *Spiritual Differentiation*: 2/5 — The sermon addresses the congregation as a mostly uniform body. The gospel close does distinguish unbelievers, doubters, and the wandering (three categories). No address to the self-righteous, the hardened, or the backslider. Perkins' categories are largely uncovered.
+
+**5. Exhortation & Response — 4 / 8**
+
+- *Call to Response*: 2/4 — The gospel invitation is genuine and specific in its categories (never trusted, not sure, wandered). But the exhortation tied to the sermon's argument — what must I *do* because of what God showed me in Genesis 22? — is absent. "Come talk to me while the praise team sings" is an invitation, not an exhortation from the text.
+- *Equipping for Holiness and Witness*: 2/4 — The missionary statistics and persecution theme do gesture toward witness and obedience. But there is no concrete sending — no "here is what faith-obedience looks like for you in your week."
+
+**6. Structure & Logical Flow — 5 / 9**
+
+- *Clarity of Outline*: 2/4 — The sermon has section headers but the structure does not build cumulatively. The move from the Clue game intro → Nik Ripken → Treblinka → back to Genesis 22 is difficult to follow as a single argument.
+- *Progression*: 2/3 — The gospel close is where the sermon arrives, and it does feel like an arrival. But the middle portion wanders.
+- *Unity*: 1/2 — There are at least two competing central ideas: "Persecution follows obedience" and "Isaac is a type of Christ / God provides." These do not synthesize.
+
+**7. Illustration & Imagination — 3 / 5**
+
+- *Relevance*: 1/2 — The fan story is intimate and effective for this congregation. The Treblinka illustration is ambitious but strained as an analog for Christian persecution in America.
+- *Clarity*: 1/2 — The Clue game framing is playful and sets up a "look for clues" engagement strategy that works. The Treblinka/believers-as-Jews-in-concentration-camp analogy introduces more complexity than the sermon can resolve.
+- *Memorability*: 1/1 — The fan story will be remembered. The imagined Abraham-God dialogue is memorable.
+
+**8. Sermonic Force — 3 / 5**
+
+- *Reads as Preaching*: 2/2 — This reads like it was preached, not written. Oral cadence, direct address ("Hear me on this"), conversational rhythm — all present and authentic.
+- *Conviction on the Page*: 1/2 — Conviction is present but diffuse. The strongest conviction moments (the imagined dialogue, "God didn't ask Abraham for anything he wasn't willing to endure himself") are surrounded by more meandering material.
+- *Cadence and Breath*: 0/1 — No clear climactic compression. The sermon does not build to a single moment that earns silence.
+
+---
+
+### Cognitive Load Modifier
+
+**−1** — The sermon is generally accessible. No technical vocabulary. However, the Treblinka history, the 10/40 Window statistics, and the Nik Ripken background create competing threads that are not fully resolved. A careful listener can track the main argument, but the argument is harder to find than it should be.
+
+---
+
+### Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 14/25 |
+| Theology & Doctrinal Integrity | 12/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 7/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| Subtotal | 57/100 |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | −1 |
+| **Raw Total** | **58** |
+| **Fatal Flaw Cap** | **capped at 69** |
+| **Final Score** | **58 / 105** |
+
+**Interpretation**: Below 60 — Fundamentally restructured. The fatal flaw cap applies (Flags 4 and 5), but the raw score also falls below 60 on its own, meaning the structural problem is real, not just a cap artifact. The sermon has a beating heart — the typology is genuine, the gospel is present, the preacher clearly loves this passage. But it needs to be rebuilt around the text's actual argument.
+
+---
+
+### Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Partly both. The typology is genuinely Christ-centered. The persecution section turns attention toward the congregation's suffering and comfort.
+2. *Did I encounter God, or just ideas about Him?* Ideas more than encounter. The fan story humanizes God's care, but the sermon does not linger there with enough weight.
+3. *Was I comforted, convicted, or merely informed?* Comforted and informed — but not pierced. The conscience is nudged, not cornered.
+
+---
+
+### Strengths (Top 3)
+
+1. **The Isaac typology is textually grounded and organically handled.** The parallel between Isaac carrying the wood and Christ carrying the cross, the willing submission of both, and the Moriah/Golgotha connection are not forced — they arise from the text's own imagery and geography. This is the sermon's strongest section.
+
+2. **The imagined Abraham-God dialogue (vv.1-4) is an effective and legitimate sermon device.** It inhabits the text rather than performing it. The preacher captures Abraham's likely disorientation with humor and restraint.
+
+3. **The fan story is an authentic microcosm of Jehovah Jireh.** Small, personal, specific, and proportionate — it does exactly what illustrations should do: makes an abstract doctrine land in a particular life. It does not oversell itself.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **The sermon's longest section — persecution and the Treblinka/Nik Ripken material — does not arise from this text.** Genesis 22 does not say "obedience causes persecution." It says "God tests, God provides, God swears." The persecution theme is a legitimate biblical topic and a legitimate sermon — but it is a different sermon. Importing it here at such length untethers the sermon from its text for the better part of the message.
+
+2. **The Fallen Condition Focus is never named.** Why was Genesis 22 written? What broken thing in us does it address? The sermon gestures at comfort-idolatry ("we value comfort and an easy life over following Christ"), but never names the precise fallen condition this text was designed to expose: the human tendency to love the gift (Isaac, the dream, the blessing) more than the Giver. That is the knife in this text, and the sermon never brings it to its sharpest edge.
+
+3. **The gospel close is genuine but theologically imprecise.** "If we ask him, God will give us a new nature" is true, but it frames salvation in terms of a request rather than trust. Justification by faith — the very doctrine that this text's argument (through Paul and Hebrews) establishes — is not articulated. The sermon lands a gospel invitation without the gospel mechanism.
+
+---
+
+### Blind Spots
+
+The preacher likely does not see that the persecution detour functionally replaces the text's own argument rather than illustrating it. From inside the preaching moment, it probably felt like a rich contemporary application. From outside, it reads as a second sermon that begins at "Persecution Follows Obedience" and never fully merges with the first. The preacher is passionate about missions, comfort-avoidance, and the American church's softness — and that passion hijacks Genesis 22.
+
+---
+
+### Illusion of Strength
+
+The Treblinka illustration *feels* weighty because it involves death, persecution, historical gravity, and dramatic narrative. It gives the sermon an emotional urgency that reads as depth. But the depth is borrowed from a historical event rather than generated by the text. When an illustration provides more emotional force than the text itself, something has gone wrong. Genesis 22 — a father binding his son on an altar with a knife in his hand — does not need Treblinka to be heavy. The text is heavier than anything the illustration adds.
+
+---
+
+### Missed Opportunity
+
+Genesis 22:5 — "we will come back to you" — is the sermon's sharpest exegetical moment, and the preacher identifies it well. But he stops one step short: the Hebrews 11:19 connection ("he considered that God was able even to raise him from the dead") is never made. This is not a minor omission. It is the key to understanding why Abraham obeys without bargaining. The preacher circles the resurrection logic without naming it. That connection would have given the entire persecution application a firmer theological anchor: Abraham obeyed not because he was hardened to suffering, but because he believed in resurrection — and so can we.
+
+---
+
+### Surgical Fixes
+
+1. **Collapse the persecution section to one paragraph.** The Nik Ripken and Treblinka material can each be one sentence feeding a single point: "When you follow God radically, it costs you — Abraham knew this." Then return immediately to the text. The 10/40 Window statistic should be cut entirely — it belongs in a missions sermon, not here.
+
+2. **Name the Fallen Condition Focus explicitly.** Early in the sermon, say something like: "The thing this text confronts is the human habit of loving the blessing more than the one who blessed. We love the Isaac — the dream, the child, the plan — more than we love God. That is what is on trial in Genesis 22."
+
+3. **Add the Hebrews 11:19 connection at verse 5.** After the "we will come back" observation, say: "The writer of Hebrews tells us exactly why Abraham could say this: he believed God was able to raise Isaac from the dead if necessary. Not wishful thinking. Resurrection faith. That is what drove that early morning departure."
+
+4. **Sharpen the gospel close around justification.** "Abraham believed God, and it was counted to him as righteousness" (Genesis 15:6 / Romans 4:3). Use that connection — Paul makes it explicitly. The same faith that took Abraham up Moriah is the same faith that receives Christ's righteousness as a gift. That is the bridge from Genesis 22 to the gospel close, and it is already in the text's orbit.
+
+5. **Add one specific exhortation from the text to believers.** After the gospel invitation, address the congregation who already know Christ: "Some of you have an Isaac. You know what it is. And God is not asking you to destroy it — he is asking whether you trust him with it. Put it on the altar. He is Jehovah Jireh. He will provide."
+
+---
+
+### Dead Orthodoxy Flag
+
+Not triggered. The sermon's weakness is not bloodless orthodoxy — it is structural dispersion. There is genuine warmth, genuine gospel, genuine love for the text. The problem is a lack of discipline in staying with what the text actually argues.
+
+---
+
+### Weight of Glory Assessment
+
+The fan story and the Isaac typology carry a brief but real gravity — the sense that God is near and that this text matters beyond Sunday. The persecution section, while earnest, disperses that gravity rather than intensifying it.
+
+---
+
+### Rubric Fit Note
+
+Genesis 22 is narrative with typological and covenantal dimensions — it is well-served by this framework, particularly the Fallen Condition Focus and the Christ-centeredness categories. Narrative sermons can legitimately inhabit the story before extracting doctrine, and the preacher does this with the dialogue device. No category strain here.

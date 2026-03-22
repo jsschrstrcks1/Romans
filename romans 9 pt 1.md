@@ -114,3 +114,206 @@ So come to the cross. Come again to the cross. Come weary and heavy-laden; come 
 And let us pray with the words of saints who have gone before us, from *Streams in the Desert*:
 “O Lord, I thank You that all my life is in Your hands—woven by Your design, not mine. Help me to rest in Your promises, even when my heart is heavy with anguish for those who resist You. Teach me to trust that not one word of Yours has ever failed, nor ever will. When all looks barren, breathe life. When I despair, remind me that You are faithful, and Your purposes stand. Keep me from murmuring against Your will, and give me grace to say in every circumstance: ‘Even so, Father, for so it seemed good in Thy sight.’”
 Amen.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Sovereign Grace Sermon with Pastoral Fire and an Overcrowded Grief Narrative**
+
+---
+
+### 2. One-Sentence Summary
+A faithful and often moving exposition of Romans 9:1–13 that magnified God’s unconditional election with genuine doctrinal precision and pastoral warmth, while allowing the recurring Charlie Kirk grief motif to crowd the text’s argument and blur the line between pastoral context and thematic distraction.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: PASS**
+The sermon’s thesis — that God’s sovereign, unconditional election stands as the anchor for both Paul’s grief and the believer’s confidence — is the demonstrable main point of Romans 9:1–13. The three-point structure (Paul’s anguish, God’s word cannot fail, election by purpose not works) tracks the passage’s own argument.
+
+**Authority Test: PASS**
+The preacher does not soften the hard parts. “Jacob I loved, but Esau I hated” is addressed directly with doctrinal care. The distinction between reprobation and active hardening is handled. Unconditional election is not sanded down for palatability. The preacher stands under the text.
+
+---
+
+### 4. Fatal Flaw Flags
+
+No fatal flaws triggered. The score is not capped.
+
+- Gospel presentation: Present — the cross and definite atonement are explicitly proclaimed in the conclusion.
+- Christ centrality: Christ is essential; the sermon cannot survive without Him.
+- Application specificity: Present with varying depth.
+- Exhortation: Present — believers, skeptics, and grieving parents are each summoned.
+- Accessibility: Generally accessible; some density in the election section is manageable.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 20/25**
+
+- *Textual Fidelity (8/10)*: The three-point structure is faithful to the passage’s own progression. Paul’s triple oath, the Isaac/Ishmael contrast, and the Jacob/Esau example are all treated. However, the granular exegetical work on individual verses (e.g., what “children of the promise” means syntactically in v. 8, what “hated” means in v. 13 as a Hebraic comparative) is gestured at but not fully opened. The preacher explains the conclusions more than the reasoning path.
+- *Contextual Awareness (4/5)*: The connection to Romans 8’s assurance is made explicit and well-placed. The tie back to Romans 5 and 6 in the “Tie to earlier sermons” section adds genuine canonical weight.
+- *Exegetical Clarity (4/5)*: Good explanatory work on monergism vs. synergism, reprobation vs. active hardening. Greek is not deployed, which is not itself a flaw, but at key moments (e.g., “hated” in Mal. 1:2–3 / Rom. 9:13 — the Hebrew *sane’* meaning to set aside rather than emotional animosity) a single clarifying note would have sealed the exegetical argument.
+- *Logical Faithfulness (4/5)*: No eisegesis detected. The move from Isaac to Jacob presses the argument correctly. The FCF (Fallen Condition Focus) is implied — the human tendency to confuse privilege with salvation, and to trust in fleshly descent or outward covenant membership — but it is not named concretely. The sermon would benefit from a single explicit statement of the condition this text was written to address.
+
+**2. Theology & Doctrinal Integrity — 16/18**
+
+- *Christ-Centeredness (6/7)*: Organic and genuine. The move to the cross in the conclusion is not a “Jesus jump” — it arises from the logic of definite atonement embedded in the election argument. Paul’s anguish → Christ’s curse (Gal. 3:13) is well-executed.
+- *Redemptive-Historical Awareness (3/3)*: Isaac/Ishmael and Jacob/Esau are handled as genuine redemptive-historical data points, not mere illustrations. The Galatians 4:28 echo is apt.
+- *Doctrinal Precision (4/4)*: Monergism vs. synergism is clearly articulated. The distinction between reprobation and active hardening is carefully drawn. Definite atonement is explicit. Justification by grace through faith is present. No theological sloppiness detected.
+- *Confessional Alignment — 1689 Pulse (3/4)*: 2LBCF citations are deployed with genuine fidelity (3:1, 3:5, 7.2). However, the Covenant of Grace / Covenant of Works distinction, while present implicitly in the “children of promise” language, is not drawn out — a minor miss in a passage that invites exactly that precision.
+
+**3. Gospel Centrality & Force — 13/15**
+
+- *Clarity of the Gospel (4/5)*: Justification by faith is present. The invitation to the skeptic at the end is explicit and warm. However, the mechanics of imputation and Christ’s righteousness credited are not stated — the sermon presents “trust Christ” and “lay down your arms” without quite explaining why the cross satisfies divine justice. An unbeliever would understand the call; they might not fully grasp the legal ground of forgiveness.
+- *Necessity of Christ (5/5)*: Christ is non-negotiable to the argument. The Father-Son-Spirit Trinitarian frame for salvation is one of the sermon’s genuine strengths.
+- *Cross-Centered Gravity (4/5)*: The conclusion moves powerfully toward the cross. The sermon’s center of gravity is somewhat in the doctrinal explanation until the conclusion, where it shifts to Golgotha. Earlier sections could have pulled harder toward the cross before the final movement.
+
+*Synagogue Test*: FAIL (appropriately — this sermon would offend a devout Jew or Muslim, as it should). The necessity of Christ’s blood is proclaimed. No moralistic drift detected.
+
+*Law/Gospel Dialectic*: The law lands in the sense of privilege stripped of salvation-power (Israel’s advantages, Ishmael excluded). The gospel relieves it genuinely. The sequence is generally correct, though the law’s hammer could strike harder in the middle sections before the gospel comforts.
+
+**4. Conscience & Applicatory Force — 11/15**
+
+- *Heart Penetration (4/5)*: The sermon has genuine pastoral warmth. “What is your life preaching to your children right now about the worth of Christ?” is a sharp, conscience-pressing question. The address to those who cannot unsee the Kirk footage is tender and textually grounded. The affections are engaged, not merely the intellect.
+- *Specificity (4/5)*: Good specificity in several places — wandering child, unbelieving spouse, parents teaching the gospel, the man steeped in sin, the young woman in rebellion. These are concrete. However, the applications tend to cluster around the same scenario (grieving a lost loved one) rather than distributing across distinct life situations.
+- *Spiritual Differentiation (3/5)*: Perkins’ taxonomy is partially served. The believer is comforted; the skeptic/sinner is invited. The backslider receives minimal direct address. The knowledgeable-but-unhumbled (the person who knows election doctrine but is not broken by it) is addressed obliquely but not cornered. The hardened/unteachable is not directly addressed. The sermon operates mostly on the believer/unbeliever axis without reaching the full range.
+
+**5. Exhortation & Response — 7/8**
+
+- *Call to Response (4/4)*: The conclusion contains clear exhortation: skeptics are summoned to lay down arms and come to Christ; believers are called to take tears to the throne room, preach with urgency, love enemies, refuse venom. These are specific and imperative.
+- *Equipping for Holiness & Witness (3/4)*: The sermon sends the church out — to preach, to pray, to honor memory by faithfulness rather than fury. However, the “go” is primarily evangelistic and grief-responsive. Mutual edification, corporate covenant responsibility, and the church as a body are present but thin.
+
+**6. Structure & Logical Flow — 7/9**
+
+- *Clarity of Outline (3/4)*: The three-point structure is clear and tracks the text. A listener could reproduce it. However, the sermon announces the outline, then the prayer, then contextual material before arriving at Point I — the opening is genuinely moving but structurally loose.
+- *Progression (3/3)*: The sermon builds: from tears → unfailing word → unconditional election → cross. The conclusion gathers all three threads. This is a real sermonic arc.
+- *Unity (1/2)*: The Charlie Kirk motif — while pastorally motivated — recurs so often (six or more times) that it competes with the text’s own argument as the sermon’s emotional center. By Point III, the reader/hearer may have lost track of whether this is a sermon on Romans 9 or a memorial sermon contextualized by Romans 9. The unity of the dominant idea is strained.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2)*: The barren desert/garden illustration, the man steeped in sin, the young woman in rebellion, the tapestry of grace — these are drawn from recognizable human experience.
+- *Clarity (1/2)*: The pastor-who-would-volunteer-for-the-Holocaust illustration is vivid but somewhat unmoored — attributed without full clarity and the rhetorical effect overshoots the exegetical point it is meant to illustrate.
+- *Memorability (1/1)*: The stars-and-darkness Spurgeon quote, the barren desert, and the tapestry image are likely to be carried home.
+
+**8. Sermonic Force — 4/5**
+
+- *Reads as Preaching (2/2)*: Direct address is present throughout. The manuscript reads as spoken word, not essay.
+- *Conviction on the Page (1/2)*: Scripture-to-assertion ratio is strong in some places, weaker in others where the pastoral context drives the momentum rather than the text.
+- *Cadence and Breath (1/1)*: The conclusion has genuine climactic compression — the triple “Father chooses, Son purchases, Spirit applies” rhythm and the three-fold “No condemnation, No separation, No defeat” landing are earned sermonic moments.
+
+---
+
+### 6. Cognitive Load Modifier — −1
+
+The sermon is generally trackable. The doctrine of election, definite atonement, and monergism are explained at a level most church members can follow. One deduction for carrying both the emotional weight of the grief narrative and the doctrinal weight of election simultaneously without enough breathing room between them.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 20/25 |
+| Theology & Doctrinal Integrity | 16/18 |
+| Gospel Centrality & Force | 13/15 |
+| Conscience & Applicatory Force | 11/15 |
+| Exhortation & Response | 7/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **82/100** |
+| Weight of Glory Bonus | +3 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **84/105** |
+
+**Interpretation: Strong and faithful. Minor sharpening needed. Ready for the pulpit with targeted revisions.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* **Christ.** The doctrinal weight consistently directs toward Christ’s finished work, not human performance.
+2. *Did I encounter God, or just ideas about Him?* **Largely God.** The conclusion has genuine weight of presence. The middle sections occasionally feel more argumentative than doxological.
+3. *Was I comforted, convicted, or merely informed?* **Comforted and to a degree convicted.** The sermon comforts more than it convicts, which is appropriate given the grief occasion, though the conviction register could be sharpened for the comfortable and self-righteous.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Trinitarian soteriology as structural argument**: The Father-chooses / Son-redeems / Spirit-applies frame is not decorative — it is the engine of the entire exposition. It holds together the election argument, the atonement, and assurance with genuine doctrinal elegance. (See Point II conclusion: “The Father chooses. The Son secures. The Spirit makes alive.”)
+
+2. **The cross as the eruption of the mystery**: The conclusion’s move to Golgotha — “the thunderhead of that mystery erupts at the cross” — is genuinely powerful and avoids the trap of a merely doctrinal sermon. The connection of definite atonement to election is explicit and earned.
+
+3. **Pastoral tenderness toward the grieving without sentimentalism**: The address to those shaken by the Kirk footage, grounded in John 11:35 and Isaiah 53:4, models how pastoral pain can be brought under the text rather than used to avoid the text.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The Charlie Kirk motif overcrowds the text**: The pastoral occasion is legitimate, but the sermon references it at least six times across every major section. By Point III, the text’s own argument is competing with the grief narrative for the sermon’s emotional center. A single strong pastoral anchor at the introduction and a brief return at the conclusion would serve both the text and the congregation better.
+
+2. **Spiritual differentiation is underdeveloped**: The sermon operates almost entirely on the believer/unbeliever axis. The backslider, the knowledgeable-but-unmoved (the Reformed church member who knows election doctrine but whose heart is cold), and the hardened are not directly addressed. The sermon would be substantially sharpened by one pointed paragraph per major section addressing the person who knows the doctrine and is unchanged by it.
+
+3. **The Fallen Condition Focus is implicit, not named**: The specific human fallen condition this text addresses — the tendency to confuse outward covenant privilege with saving grace, to trust in religious heritage rather than Christ — is present in the sermon but never crystallized in a single sentence. Naming it concretely early would give the application greater precision throughout.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how much the Charlie Kirk grief narrative has displaced the text’s own emotional architecture. Romans 9:1–13 carries its own profound grief — Paul’s anguish for Israel — which is more than sufficient pastoral fuel. The contemporary occasion risks importing an emotional framework that competes with the text’s own affective force.
+
+Additionally, the sermon’s applications consistently address those grieving unsaved loved ones, but do not directly confront the nominal church attender — the person sitting in a Reformed church who has never truly been converted, who knows the doctrine of election as information. This is the hearer election preaching most urgently must press.
+
+---
+
+### 12. Illusion of Strength
+
+The density of Reformed citations (Lloyd-Jones, Piper, Owen, MacArthur, Spurgeon, Bunyan — all in the same sermon) reads as expositional strength but can mask relatively light engagement with the Romans 9 text itself. The preacher explains what monergism means and supports it primarily with Ephesians 2, spending less time inside the Romans 9 verses. The authority of the text — not the commentators — should carry the argument. The citations should support the exegesis, not substitute for it.
+
+---
+
+### 13. Missed Opportunity
+
+Verse 5 — “from their race, according to the flesh, is the Christ, who is God over all, blessed forever” — is one of the most explicit affirmations of Christ’s full deity in the Pauline corpus. The preacher mentions it in passing as part of Israel’s privilege list, but this is a theological thunderclap: the very people who rejected their Messiah gave Him His flesh. The irony is devastating and the weight is enormous. This deserved a full stop, direct address, and would have provided an organic, textually-grounded bridge to the cross that the conclusion has to construct somewhat independently.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Reduce Kirk references to two**: Keep the introduction anchor and one brief return at the final exhortation. Remove mid-sermon repetitions. The text’s own grief is sufficient pastoral fuel between those bookends.
+
+2. **Add a direct address to the knowledgeable-but-unmoved after Point III**: “Some of you know every word of this doctrine. You can argue for unconditional election. And your heart is stone. The doctrine of grace has become a comfortable theology rather than a searching fire. Jacob was a schemer. Grace is for sinners — including the sinner who has memorized the Confession. Is grace actually working in you, or only informing you?”
+
+3. **Name the Fallen Condition Focus in the introduction**: “This text exists because God’s people in every age confuse the container with the contents — the covenant with the Christ, the privilege with the promise, the heritage with the heart. Paul’s anguish is for people with every spiritual advantage who missed the only thing that mattered. That condition is what this passage was written to address.”
+
+4. **Give verse 5 its full weight**: “The Messiah — God over all, blessed forever — came through Israel’s flesh. The very people who rejected Him gave Him His humanity. If that doesn’t break your heart and your pride simultaneously, read it again.”
+
+5. **Sharpen the legal ground of forgiveness in the gospel invitation**: Add a single sentence: “You do not come to a God who is willing to overlook your sin — you come to a God who has already punished it in the body of His Son. The wrath is absorbed. The record is cleared. The invitation is free because the price was fully paid.”
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** Exposition scores 20 and Conscience & Applicatory Force scores 11. The gap approaches but does not trigger the flag. The sermon has genuine pastoral heat and the fire is present; it needs to be aimed more precisely at undifferentiated hearers.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The conclusion carries genuine eternal gravity — the Trinitarian assurance, the “No condemnation, No separation, No defeat” landing, and the call to worship rather than merely to act — earning a bonus of +3 for doxological weight that is real, if not uniformly sustained throughout the sermon’s middle.
+
+---
+
+### 17. Rubric Fit Note
+
+Romans 9:1–13 is a dense soteriological argument — not narrative, not lament, not apocalyptic — and this rubric applies with full force. No genre strain. The passage’s own argument invites exactly the categories this rubric uses: textual exposition, doctrinal precision, gospel centrality, conscience application, and exhortation. The rubric does not bend here; it fits without modification.
+
+---
+
+*Soli Deo Gloria.*
+

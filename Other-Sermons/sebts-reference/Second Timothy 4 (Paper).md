@@ -95,3 +95,175 @@ Thornton, Dillon T. 2016. Hostility in the House of God: An Investigation of the
      1 and 2 Timothy. Bulletin for Biblical Research Supplements 15. Winona Lake, IN: 
      Eisenbrauns.
 Exported from Logos Bible Software, and Zotero 2:27 AM April 11, 2020.
+
+## Thus Says the Lord — Sermon Evaluation
+
+### Genre Note
+
+This file is an **academic interpretive paper**, not a sermon manuscript. It was submitted for PRS6100 Bible Exposition I at Southeastern Baptist Theological Seminary (Spring 2020). It functions as an expository research paper covering 2 Timothy 4:1–5, with exegetical analysis, historical-critical background, Greek word studies, application observations, and a formal bibliography. It is not structured as a proclamation to a congregation; it is structured as a student exposition for academic assessment.
+
+Accordingly, the full 17-element sermon rubric cannot be applied — this paper was not written for the pulpit and should not be scored as though it were. However, several rubric categories are genuinely relevant to an interpretive paper of this kind: textual fidelity, hermeneutical soundness, doctrinal integrity, and exegetical clarity are all appropriate diagnostic lenses. The categories that are inherently sermonic — exhortation and response, sermonic force, conscience and applicatory force, spiritual differentiation, cognitive load for a congregation — are either inapplicable or can only be evaluated in modified form. Where they are applied below, that limitation is noted.
+
+**Rubric Fit Note:** The rubric was built for sermon manuscripts. Lament psalms, wisdom literature, and apocalyptic texts strain it in different ways. Academic papers strain it most of all — the genre excludes direct address, exhortation, and oral cadence by design. Categories 5, 7, and 8 (Exhortation, Illustration, Sermonic Force) are not scored. Categories 1, 2, 3, and 4 are applied with caveats noted.
+
+---
+
+### Berean Gate (Modified for Academic Genre)
+
+**Scopus Test:** Can the paper's thesis be stated in one sentence that demonstrably arises from the passage's own argument?
+
+Yes — the paper's controlling argument is that Paul's charge to Timothy in 2 Timothy 4:1–5 constitutes an urgent, non-deferrable commission to preach, reprove, rebuke, exhort, and remain sober-minded, grounded in eschatological urgency and the reality of coming doctrinal defection. This arises directly from the passage.
+
+**Authority Test:** Does the writer submit to the text's claims?
+
+Substantially yes. The paper works from the text outward, does not editorialize against the passage's demands, and affirms its normative force. Some sections drift toward illustration and application in ways that move away from rigorous exegesis, but the writer does not stand above the text as an editor.
+
+**Gate Verdict: Pass (with caveats — academic genre).**
+
+---
+
+### Applicable Rubric Elements
+
+#### 1. Exposition & Hermeneutics (25 pts — applicable with caveats)
+
+**Textual Fidelity (10 pts) — Score: 7/10**
+
+The paper derives its argument from the text and works through it verse by verse. The Greek word studies are a genuine strength: διαμαρτύρομαι, κήρυξον (aorist active imperative analysis), εὐκαίρως / ἀκαίρως, ἔλεγξον, ἐπιτίμησον, παρακάλεσον, and νῆφε are all engaged with care. The exegetical instincts are sound. However, the paper occasionally drifts into extended illustration (the idol/baal section, the social media anecdote) that replaces rather than illuminates exegetical work. The textual fidelity is real but inconsistent — some verses receive close attention, others receive more thematic commentary than exegesis. The passage's structure (charge, commission, warning, contrast) is identified but not systematically traced.
+
+**Contextual Awareness (5 pts) — Score: 4/5**
+
+The historical-critical background is the paper's strongest section. The Neronian context, Paul's imprisonment, the relationship between Paul and Timothy, the abandonment at Paul's first defense — all are documented carefully and sourced from multiple reference works. The connection between the urgency of vv. 1–5 and Paul's anticipation of death in vv. 6–8 is noted. The paper is aware of canonical context (1 Timothy, Acts, Romans, Philippians, Hebrews, Thessalonians) without being gratuitous. Minor deduction: the paper does not address the book's place within the Pastoral Epistles as a corpus, and the relationship between the false teachers of 2 Timothy and those of 1 Timothy goes undeveloped.
+
+**Exegetical Clarity (5 pts) — Score: 3/5**
+
+The Greek is used as an unlock rather than mere decoration — a real strength in a student paper. The aorist analysis of κήρυξον is the clearest piece of exegetical work in the paper: the claim that the aorist active imperative signals urgency, non-deferral, and completion-direction is competently handled and connects directly to the point. However, some Greek glosses are imprecise or slightly dated (the Friberg-era lexical glosses occasionally lag behind BDAG), and the exegetical logic is not always made transparent — the reader is told what the Greek means but not always shown *how* the writer arrived there. The paper would benefit from tighter demonstration of the exegetical pathway.
+
+**Logical Faithfulness (5 pts) — Score: 3/5**
+
+The paper does not import ideas that are alien to the text, which is a virtue. However, the logical development within the paper is often associative rather than cumulative — one paragraph connects to the next by topic rather than by argument. The extended treatment of Nero (apocryphal violin legend, Tacitus quote, Nero's suicide) illuminates context but exceeds what the passage requires and crowds out deeper textual engagement. The paper identifies what Paul commands but does not always demonstrate *why* the text makes that command the natural conclusion of the argument at that point.
+
+**Exposition Subtotal: 17/25**
+
+---
+
+#### 2. Theology & Doctrinal Integrity (18 pts — applicable)
+
+**Christ-Centeredness (7 pts) — Score: 4/7**
+
+Christ is present in the paper, but not organically central. The paper makes clear that the gospel must be preached, that Jesus is Judge, and that salvation depends on being "bought and paid for by Jesus." However, the paper does not develop a robust Christology or trace how Christ's person and work give the commands of 2 Timothy 4:1–5 their foundation. The reference to "Jesus purchased you back from the enemy" gestures toward redemption but does not land a clear articulation of the atonement. The Christ-connection is present but thin for an expository paper on a passage that grounds its urgency explicitly in the presence of Christ Jesus (v. 1).
+
+**Redemptive-Historical Awareness (3 pts) — Score: 1/3**
+
+The paper situates the passage in its immediate historical context well (Nero, Timothy, Paul's martyrdom), but does not locate the text within the arc of redemptive history. How does Paul's final charge to Timothy relate to the commission given to Israel, to the Great Commission, to the eschatological gathering of the nations? These connections are not explored. For an academic paper on a Pauline epistle, some engagement with the redemptive-historical location of the church's preaching mandate would strengthen the exegesis considerably.
+
+**Doctrinal Precision (4 pts) — Score: 3/4**
+
+The paper handles the major doctrinal claims carefully. Salvation, sin, judgment, the Spirit's role in indwelling, the nature of sound doctrine — these are treated without significant error. The statement that "Jesus purchased you back from the enemy" is acceptable colloquial language for an academic paper, though the precise grammar of penal substitution would sharpen it. The idol-worship analysis (Baal, rain, 2 Kings 17) is theologically coherent if somewhat impressionistic. No doctrinal errors are introduced.
+
+**Confessional Alignment (4 pts) — Score: 3/4**
+
+The paper is broadly evangelical and consistent with historic Baptist theology. There are no departures from confessional soteriology or ecclesiology. The paper does not engage baptistic distinctives or covenant theology explicitly, which is appropriate given the passage and academic context. No confessional contradictions are present.
+
+**Theology Subtotal: 11/18**
+
+---
+
+#### 3. Gospel Centrality & Force (15 pts — partially applicable)
+
+**Clarity of the Gospel (5 pts) — Score: 3/5**
+
+The paper mentions the gospel repeatedly but does not articulate it with precision. "If a human doesn't follow God, isn't bought and paid for by Jesus, isn't indwelt by the Holy Spirit" gestures toward the ordo salutis but is not a clear gospel proclamation. The famous hymn reference ("we owed a debt we could not pay") is the closest thing to a clear gospel statement in the paper. For an academic paper, a more theologically precise articulation of justification by faith — especially given that the passage concerns preaching the word — would strengthen the argument that gospel-preaching is what Paul is commanding.
+
+**Necessity of Christ (5 pts) — Score: 3/5**
+
+Christ is treated as necessary rather than decorative, but this is asserted more than demonstrated. The paper would benefit from a clearer argument for why Christ's finished work makes the commands of vv. 1–5 both possible and urgent.
+
+**Cross-Centered Gravity (5 pts) — Score: 2/5**
+
+The paper does not move toward the cross with any deliberateness. The application sections tend toward moral exhortation (guard against idols, maintain sober-mindedness, rebuke error) without grounding that exhortation in what Christ has accomplished. This is the paper's most significant theological gap: the commands of 2 Timothy 4:1–5 are treated as obligations without being anchored in gospel-indicatives.
+
+**Gospel Subtotal: 8/15**
+
+---
+
+#### 4. Conscience & Applicatory Force (15 pts — modified for academic genre)
+
+The rubric's full weight here (heart penetration, specificity, spiritual differentiation) presupposes a sermon. An academic paper is not designed to press individual consciences or distinguish among types of hearers in the Perkins taxonomy. That said, the paper does contain applied sections — and those sections can be evaluated for their quality.
+
+**Heart Penetration (5 pts) — Score: 3/5**
+
+The application sections are genuinely pastoral in tone. The idol analysis is searching and specific. The closing challenge about standing before Christ is real. The social media anecdote (Christians calling each other names) is pointed and concrete. However, these sections are episodic rather than sustained — the paper moves between exegesis and application without a governing pastoral logic. The conscience is occasionally addressed but not systematically pressed.
+
+**Specificity (5 pts) — Score: 3/5**
+
+The applications are more specific than generic: the Baal/drought analogy, the church discipline scenario (elder voting for discipline of his own daughter), the social media thread — these are concrete and well-chosen. They would land in a sermon. In an academic paper, specificity of illustration is somewhat less central, but the instincts here are sound.
+
+**Spiritual Differentiation (5 pts) — Score: 1/5**
+
+The paper does not distinguish among types of hearers — it addresses a generalized reader throughout. This is appropriate for an academic paper but is worth noting as a gap if this material were ever adapted for preaching.
+
+**Conscience Subtotal: 7/15**
+
+---
+
+### Elements Not Scored (Genre-Inapplicable)
+
+- **Exhortation & Response (Category 5):** Not scored. Academic papers do not issue pulpit exhortations by genre. The paper does contain exhortatory language, but grading it as sermonic exhortation would be a category error.
+- **Illustration & Imagination (Category 7):** Not scored as a rubric category. Illustrations are present (Nero, the elder and his daughter, social media, the idol analysis) and generally well-chosen; they would function better in a sermon than in an academic paper.
+- **Sermonic Force (Category 8):** Not scored. The paper reads as a student academic essay, not a preaching manuscript. This is appropriate to genre.
+- **Weight of Glory Bonus:** Not scored.
+- **Cognitive Load Modifier:** Not applied — irrelevant to a written academic paper.
+
+---
+
+### Fatal Flaw Check (Academic Genre)
+
+Fatal flaws are assessed against what an academic interpretive paper is designed to accomplish:
+
+- No clear gospel presentation: **Partial flag.** The gospel is present but under-articulated for a paper whose entire subject is Paul's command to preach it.
+- Main point does not equal text's point: **Clear.** The paper's main point (preach urgently, reprove, rebuke, exhort, remain sober-minded — because judgment is coming and apostasy is near) matches the text.
+- Christ absent or unnecessary: **Not flagged.** Christ is present and necessary, if underdeveloped.
+- Application entirely generic: **Not flagged.** Applications are specific.
+- No actual exhortation: **Partially flagged** — but genre-appropriately so. The paper exhorts but does not do so in the sustained, differentiated way preaching requires.
+- Inaccessible to ordinary hearers: **Not applicable** — academic paper written for a seminary audience.
+
+**No fatal flaws that override academic genre assessment.**
+
+---
+
+### Dead Orthodoxy Check
+
+Not fully applicable to an academic paper. However, the pattern is worth noting: the paper's exegetical and historical work is competent, while its gospel articulation is thin. If this paper's theological framework were imported directly into a sermon without deepening the gospel content, it would trend toward what the rubric calls "doctrinally sound but pastorally inert." The commands of 2 Timothy 4:1–5 are treated as obligations to be discharged rather than as responses to grace already received. That gap should be addressed in any sermon built on this foundation.
+
+---
+
+### Summary Verdict
+
+**Verdict Title:** A Competent Student Exegesis with Gospel Underdevelopment and Drift Toward Obligation
+
+**One-Sentence Summary:** A historically well-grounded and lexically engaged student paper on 2 Timothy 4:1–5 that correctly identifies the passage's imperatives but inadequately grounds them in gospel-indicatives, producing a framework that disciplines without fully delighting.
+
+**Top Strengths:**
+1. The Greek word studies are genuine and functional — particularly the aorist active imperative analysis of κήρυξον and the semantic range of νῆφε. These demonstrate real engagement with the text at the lexical level.
+2. The historical-critical background (Nero, Paul's relationship with Timothy, the abandonment at the first defense) is carefully sourced and contextualizes the passage's urgency well.
+3. The specific illustrations (the elder voting for church discipline of his own daughter, the idols-and-drought analogy) are concrete, pastoral, and would preach well if adapted for the pulpit.
+
+**Critical Weaknesses:**
+1. The gospel is asserted but not articulated. For a paper whose entire subject is Paul's command to preach the gospel, the absence of a clear, theologically precise statement of justification by faith is a significant gap. The paper tells us to preach; it does not demonstrate what to preach.
+2. The logical development within the paper is associative rather than cumulative. Paragraphs connect by topic but do not build a sustained argument. The paper covers the passage but does not argue from it.
+3. The extended Nero digression (apocryphal violin legend, Tacitus, the 68 AD suicide) adds historical color but crowds out deeper theological engagement with the passage. The historical scaffolding is longer than the exegetical superstructure it was meant to support.
+
+**Blind Spots:**
+The writer does not appear to see the gap between the passage's gospel-urgency ("because Jesus will judge the living and the dead") and the paper's ethical-urgency ("because God will notice what you're doing with your hobbies"). Paul's eschatology grounds the preaching imperative in Christ's authority and return — the paper grounds it more in personal accountability and pastoral responsibility. Both are present in Paul, but the Christological weight of v. 1 receives less attention than it deserves.
+
+**Missed Opportunity:**
+Verses 3–4 — the warning about those who "will not endure sound doctrine" — receive the Robert Hawker quotation and a brief cultural application (prosperity gospel, novelty in academia) but miss the deeper exegetical point: this is Paul's rationale for the urgency in vv. 1–2. The connection between the coming apostasy and the present imperative to preach is the theological hinge of the passage, and it deserves a full paragraph of exegetical development rather than being used primarily as a springboard for contemporary illustration.
+
+**Surgical Fixes (if adapted for preaching):**
+- Before the first exhortation section, add a clear statement of the gospel: what Paul is commanding Timothy to preach, and why Christ's death and resurrection make that preaching both possible and urgent.
+- Restructure the paper's argument so that each command (preach, reprove, rebuke, exhort, remain sober-minded) is connected back to the eschatological grounding of v. 1 — not just stated as an obligation.
+- Trim the Nero section by at least half. The cultural and historical context it provides can be conveyed in two sentences; the current length is disproportionate.
+- The idol section is the application highlight — but it arrives as an aside within a longer paragraph. If this material is ever preached, bring the idol analysis forward and let it serve as the major applicatory movement of the sermon.
+
+**Weight of Glory Assessment:** The paper carries genuine pastoral concern and moments of real gravity — particularly in the church discipline illustration — but it does not yet sustain the weight of a man who has stood before God and been commissioned to speak for Him.
+

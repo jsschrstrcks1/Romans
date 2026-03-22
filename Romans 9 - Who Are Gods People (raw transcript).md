@@ -176,3 +176,204 @@ Often times we are like the watering can. God is using us in ways we don't under
 **If you are looking to set down roots with a church** — come talk to me.
 
 **If you've never been baptized and would like to be** — come talk to me. We have one who wants to be baptized in just a few weeks! Praise God.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Pastoral Survey with Gospel Warmth but Insufficient Textual Rootedness**
+
+---
+
+### 2. One-Sentence Summary
+A warm, accessible survey of Romans 9:1–33 that covers significant ground on election, Israel, and divine goodness, but functions more as a topical Bible study than a text-driven exposition, with the sermon's strongest pastoral moments arriving in illustration rather than in the text itself.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with qualification**
+
+*Scopus Test*: The sermon's thesis — "God's people are believing Jews and Gentiles grafted in; God is good and just in his sovereign election" — does arise from Romans 9, and the main point is not foreign to the passage. Pass.
+
+*Authority Test*: The preacher largely submits to the text's claims, including the hard sayings on election and Pharaoh. He does not soften Paul's argument. Pass.
+
+**Qualification**: The sermon ranges across Romans 9:1–33 in a survey mode — covering many texts but dwelling deeply on none. The passage's own internal argument (Paul's theodicy: God's word has not failed because his purpose in election stands) receives narrative acknowledgment but not sustained exposition. The sermon passes the gate but does not fully inhabit the text.
+
+---
+
+### 4. Fatal Flaw Flags
+**No fatal flaws triggered. Score cap not applied.**
+
+- Gospel is presented, though with less precision than the text demands (see Score Breakdown below)
+- Main point is broadly aligned with the text
+- Christ is present and necessary
+- Application is differentiated — five distinct categories of hearers are addressed at the close
+- Exhortation is present
+- Accessibility is strong — this sermon is easy to follow
+
+*No cap imposed.*
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 15/25**
+
+- *Textual Fidelity (6/10)*: The sermon draws from the text but surveys rather than exegetes. Paul's actual argument — that the word of God has not failed because election according to purpose was always God's method — is named but not developed. Key verses (9:6, 9:11, 9:14, 9:19–23) are quoted but their logical connection in Paul's argument is not traced. The sermon reads events in the passage rather than the argument of the passage.
+- *Contextual Awareness (3/5)*: The Israel/Gentile context and OT background (Hosea, Isaiah) are acknowledged. The Romans 9–11 arc is not placed within its broader epistolary context (chapters 1–8 ground what chapter 9 defends).
+- *Exegetical Clarity (3/5)*: Accessible, but no Greek engagement and no moment where the preacher shows the congregation *how* Paul arrives at his conclusion. The Pharaoh material is the strongest exegetical moment.
+- *Logical Faithfulness (3/5)*: No eisegesis, but the sermon imports significant theological scaffolding (Calvinism/Arminianism debate) that Paul does not raise directly. This is a legitimate use of the text's material but risks making Romans 9 an answer to the TULIP debate rather than reading Paul's own question (Has God's word failed?).
+
+*Fallen Condition Focus*: Partially identified — the human tendency to question God's justice is named ("Is God good?"), but the specific fallen condition the text addresses (Israel's rejection of Christ, the scandal of the gospel stumbling stone) receives less attention than the Calvinist/Arminian taxonomy.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness (5/7)*: Christ is present organically — the closing application connects the watering can illustration directly to Christ pouring out his blood. The Christological connection to Romans 9's stumbling stone (v. 33) is not developed, which is a missed opportunity since it is Paul's own climactic move.
+- *Redemptive-Historical Awareness (2/3)*: Israel's history is surveyed adequately. The redemptive-historical arc (Moses → prophets → Christ → church as new Israel) is gestured at but not carefully traced.
+- *Doctrinal Precision (3/4)*: Justification is present but not precisely articulated. The statement "compliance with the law was superseded by faith in Christ" is broadly accurate but underdeveloped. Election is handled with pastoral care.
+- *Confessional Alignment — 1689 Pulse (3/4)*: No contradictions of confessional theology. The Covenant of Works/Grace distinction is not engaged — understandably given the passage — but the sermon's softness on unconditional election ("chooses some out of an overflow of his love and grace") slightly mutes what Paul says about purpose prior to works (v. 11). The statement "if those he doesn't choose don't choose him, is it God's fault" reintroduces conditional framing Paul has just foreclosed.
+
+**3. Gospel Centrality & Force — 9/15**
+
+- *Clarity of the Gospel (3/5)*: The gospel is present — "faith in Christ," "Christ poured out his blood on the cross." But justification by faith is not clearly articulated. An unbeliever would know Christ is the way but not clearly understand why the cross is necessary (substitution, the wrath being absorbed, the righteousness imputed).
+- *Necessity of Christ (4/5)*: Christ is necessary to the sermon's argument — the whole trajectory of Israel's history leads to him. This is genuinely strong.
+- *Cross-Centered Gravity (2/5)*: The sermon's center of gravity is the sovereignty/election debate, not the cross. The cross appears in the closing application rather than as the theological heartbeat throughout. The Synagogue Test is close — a devout Jew could follow most of this sermon without encountering the offense of the cross until the final paragraphs.
+
+**4. Conscience & Applicatory Force — 10/15**
+
+- *Heart Penetration (3/5)*: The "Is God good?" framing is genuinely pastoral and reaches real doubts. The watering can illustration has emotional resonance. But the sermon rarely corners a specific sinner — it describes and explains more than it searches.
+- *Specificity (4/5)*: The closing application is notably specific — five differentiated categories of hearers, each with a concrete next step. This is the sermon's strongest pastoral moment.
+- *Spiritual Differentiation (3/5)*: The closing addresses the unbeliever, the wandering believer, the purposeless Christian, the unrooted church member, and the unbaptized. This is commendable. However, the body of the sermon addresses primarily the intellectually curious and the theologically confused — the humbled-but-not-yet-believing and the backslider are not specifically addressed until the very end.
+
+**5. Exhortation & Response — 6/8**
+
+- *Call to Response (4/4)*: Clear, differentiated, specific. "The time is now." "Come talk to me." These are genuine imperative calls.
+- *Equipping for Holiness & Witness (2/4)*: The exhortation to share the gospel and "leave a trail of changed lives" is present and specific. But the congregation is not sent out with a clear sense of what it means to live as a vessel under the Potter's hand — the corporate/covenantal dimension of election ("vessels of mercy prepared for glory") is undeveloped.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline (2/4)*: The sermon moves through five loose sections: Who Are God's People? / Calvinism vs. Arminianism / Is God Just? / Illustrations / Applications. These do not cohere into a traceable skeleton. A listener could not sketch this sermon on a napkin — they would produce a list of topics.
+- *Progression (2/3)*: The sermon builds loosely toward the watering can conclusion, but the Calvinism/Arminianism section reads as a detour from the main question rather than a necessary step toward it.
+- *Unity (2/2)*: One dominant idea is present throughout: God is good and just in sovereign election. This unity holds even when the structure wanders.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2)*: Both illustrations are apt. The Flatland illustration is conceptually well-matched to the transcendence of God's ways. The watering can parable is native to this text.
+- *Clarity (1/2)*: The watering can parable is told with genuine pastoral craft and lands clearly. The 2D beings illustration is clear as a philosophical thought experiment but is slightly abstract for concrete application.
+- *Memorability (1/1)*: The watering can will be remembered. The flowers on the path, the potter saying "You're not a pitcher — you're a watering can" — this is a memorable image.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2)*: Oral cadence is present throughout. Direct address is natural. This reads like a man talking to his congregation, not reading an essay.
+- *Conviction on the Page (1/2)*: The manuscript has warmth but lacks moments where it truly asserts. The theological sections read more as explanation than proclamation. The Calvinist/Arminian material in particular reads as a theological survey rather than a prophetic word.
+- *Cadence and Breath (0/1)*: Sentence length is relatively uniform. There is no moment of climactic compression — no sentence that stops the hearer cold.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+
+Slightly dense due to the Calvinism/Arminianism detour, which introduces theological vocabulary (TULIP concepts, prevenient grace dynamics, antinomianism) without fully explaining them. A new believer would track the main argument but lose the thread in the middle section. One fewer conceptual layer would help.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 15/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 10/15 |
+| Exhortation & Response | 6/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **66/100** |
+| Cognitive Load Modifier | −1 |
+| Weight of Glory Bonus | +2 |
+| **Total** | **67/100** |
+
+**Interpretation: Concerning gaps. The sermon explains but does not yet fully preach. Significant revision would strengthen it — particularly in exposition, gospel clarity, and structural cohesion. The pastoral closing and illustrations are genuinely strong.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?*
+Primarily Christ — the watering can parable redirects self-focus toward the Potter's design, and the closing points to Christ's blood. Partial yes.
+
+2. *Did I encounter God, or just ideas about Him?*
+Mostly ideas about him, with moments of genuine encounter — particularly in the watering can narrative and the closing application. Partial yes.
+
+3. *Was I comforted, convicted, or merely informed?*
+The body of the sermon largely informs. The closing comforts and exhorts. The preacher's heart for his congregation is evident and the closing lands pastorally. Partial yes — comfort in the close, information in the body.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The watering can parable is genuinely excellent pastoral preaching.** It is theologically apt (the potter imagery is Paul's own), emotionally resonant, and lands with the right climax: "You're not a pitcher — you're a watering can." The detail of flowers growing along the path is memorable and theologically rich. This illustration does what the best illustrations do: it makes the doctrine inhabitable.
+
+2. **The differentiated closing application is a model of pastoral specificity.** Five distinct categories of hearers — unbeliever, wandering Christian, purposeless Christian, unrooted seeker, unbaptized — each receives a concrete, personal next step. This is exactly what Perkins called for, and it is rarely done this well in expository preaching.
+
+3. **The Pharaoh material demonstrates honest engagement with the text's difficulty.** Rather than softening the hardening of Pharaoh's heart, the preacher engages it directly, uses multiple Exodus references, and draws the correct conclusion: God can and does override the human will in his sovereign purposes. This is the sermon's most faithful moment of exegetical courage.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Paul's actual question is never clearly stated, and therefore never clearly answered.** Romans 9 opens with Paul's anguish over Israel's rejection (vv. 1–5) and immediately poses the question: "Has the word of God failed?" (v. 6). This is the engine driving the entire chapter. The sermon never names this question explicitly, and therefore the answers Paul gives (election according to purpose, Jacob/Esau, Pharaoh, the Potter) float as isolated points rather than as steps in a sustained theodicy. The congregation finishes the sermon knowing Paul discusses election — but not what problem election is being invoked to solve.
+
+2. **The Calvinism/Arminianism survey displaces the text's own argument for approximately one-third of the sermon.** The debate is relevant background but it is introduced as the organizing lens rather than the text's own logic. Paul is not answering the Arminian objection — he is answering the charge that God has abandoned his covenant people. Foregrounding the TULIP debate reframes the passage through a later theological controversy rather than reading it on its own terms. This is the sermon's most significant hermeneutical weakness.
+
+3. **The gospel's substitutionary logic is absent.** The sermon states that Christ died on the cross and that "compliance with the law was superseded by faith in Christ," but it never explains why the cross is necessary — what it accomplished, what it absorbed, what it secured. An unbeliever hears that faith in Christ is the way but not why Christ's death is the only way. The Synagogue Test is nearly triggered: a devout Jew could follow this sermon through most of its length without encountering the scandal of the cross.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how much of the sermon's weight is carried by the illustrations rather than the text. The watering can parable is moving — but the emotional resonance it produces is doing work that the exposition should have built toward. When the sermon's most powerful moment is the illustration rather than the text, the illustration has become the sermon. The preacher also may not see how the "both sides have good people" framing of the Calvinist/Arminian discussion slightly inoculates the congregation against feeling the full weight of Paul's argument — if both sides are basically fine, the reader loses urgency about what the text is actually claiming.
+
+---
+
+### 12. Illusion of Strength
+
+The broad coverage of Romans 9:1–33 feels comprehensive — the preacher touches Israel's history, election, Pharaoh, the Potter, the Hosea and Isaiah quotations, the stumbling stone. This creates the impression of thorough exposition. But breadth without depth is survey, not exposition. The very completeness of the survey masks the fact that no single unit of Paul's argument has been traced from premise to conclusion. The sermon feels more thorough than it is.
+
+---
+
+### 13. Missed Opportunity
+
+Romans 9:33 — Paul's own climax — is the most significant missed opportunity in the sermon. Paul ends by identifying Christ himself as the stumbling stone, quoting Isaiah 28 and Isaiah 8: *"Behold, I am laying in Zion a stone of stumbling... whoever believes in him will not be put to shame."* This is the passage's own answer to the question of Israel — they stumbled over Christ. And it is Paul's most explicit gospel statement in the chapter. The sermon closes with the watering can rather than with this verse. The text's own crescendo is bypassed in favor of the preacher's illustration.
+
+---
+
+### 14. Surgical Fixes (3–5 Specific)
+
+1. **Open with Paul's question.** State Romans 9:6 at the outset: "Has the word of God failed?" Make this the sermon's organizing question. Every subsequent point — election, Jacob/Esau, Pharaoh, the Potter, Hosea/Isaiah — is Paul's answer to this question. This single reframing would give the sermon a spine it currently lacks.
+
+2. **Move the Calvinist/Arminian material to a subordinate position.** Treat it as an excursus — "Paul's argument here has been the battleground for a theological debate you may have heard of..." — rather than as the sermon's organizing framework. The debate is real and worthy of pastoral attention, but it should serve the text, not organize it.
+
+3. **Add the substitutionary logic in the closing gospel appeal.** When the closing says "Christ poured out his blood on the cross," add one sentence: why was this necessary? What was being absorbed? What was being purchased? The sermon calls people to faith in Christ without clearly explaining what Christ accomplished that makes such faith necessary and sufficient.
+
+4. **Climax at Romans 9:33, not at the watering can.** The watering can should be a penultimate illustration. The sermon's final word should be Paul's: Christ is the stone — Israel stumbled, but whoever believes will not be put to shame. The illustration opens toward Christ; let Christ be the landing place.
+
+5. **In the body of the sermon, use direct address at the pressure points.** The "Is God good?" section would be sharpened by addressing the congregation directly: "Some of you are sitting here with exactly this question — not as theology, but as a wound." The pastoral instinct is present in the closing but absent in the body where the hard questions are raised.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon has genuine pastoral warmth, and the preacher's affection for his congregation is evident. The closing application has real exhortatory heat. The sermon is not bloodless. However, the body of the sermon is notably cooler than the closing — the theological survey sections tend toward information rather than proclamation.
+
+---
+
+### 16. Weight of Glory Statement
+The watering can parable carries genuine weight of glory — the image of the Potter knowing his vessel's purpose, of flowers growing unnoticed along the path, moves toward doxology. The sermon earns a partial bonus for this, though the full five points require the entire sermon to carry this gravity, not only its illustration.
+
+*Bonus: +2*
+
+---
+
+### 17. Rubric Fit Note
+Romans 9 is a sustained theological argument — the most exegetically demanding chapter in Paul's most doctrinal letter. The rubric fits well here; this passage rewards the kind of careful exposition, gospel-centrality testing, and conscience-pressing that the framework demands. The passage does not strain the rubric. If anything, the rubric exposes how much this chapter rewards slower, more careful exposition than the survey approach allows. A sermon on Romans 9:1–6 alone, tracing Paul's anguish and the "word of God has not failed" thesis, would score significantly higher than a survey of the full chapter — not because shorter is better, but because the depth this passage deserves cannot be achieved at survey speed.

@@ -272,3 +272,79 @@ Amen."
 ⸻
 
 *Next session: Chapter 21 — "Towards an Answer" — where Terry and Ira work through Possibility 3 and move toward a resolution of the universal passages in light of particular redemption.*
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Genre Note — This Is Not a Sermon**
+
+This file is a men's Bible study guide built around Richard Belcher's *A Journey in Grace*, covering Chapters 18 and 20. It is a structured discussion resource — containing chapter summaries, Scripture blocks, reflection questions, group discussion prompts, and closing prayers. It is not a sermon manuscript: there is no preacher, no congregation address, no exposition of a primary text in a homiletical arc, and no singular proclamation moment. It functions as a study facilitator's tool for exploring doctrines of grace (unconditional election and particular redemption) in a small group setting.
+
+Because this is not a sermon, the Berean Gate, fatal flaw flags, and weighted scoring framework do not apply in their standard form. However, the rubric's theological and applicatory categories can be used diagnostically to assess the guide's doctrinal faithfulness, gospel clarity, and ability to press truth into conscience — which is the legitimate analogue of applicatory force in a study guide context. The evaluation below applies relevant rubric elements with appropriate caveats and does not assign a composite numerical score.
+
+---
+
+### Theology & Doctrinal Integrity — Assessment
+
+This guide handles two of the most contested doctrines in Reformed soteriology — unconditional election and definite atonement — with notable precision and fidelity to confessional standards.
+
+**Strengths:**
+
+The treatment of the "is God unjust?" objection (Chapter 18) is logically disciplined. The infralapsarian framing is correctly deployed: all humanity is seen as fallen prior to the election decree, so election operates within a mass of the already-condemned, and no one who is passed over is passed over from a position of innocence. The dictionary exercise (arbitrary, tyrant, despot) is both memorable and exegetically sound — it exposes the category error of applying inter-human standards of justice to the Creator-creature relation. This aligns well with Romans 9:20-21 and with the Westminster/1689 tradition's handling of divine sovereignty.
+
+The Chapter 20 material on definite atonement is handled with rare carefulness. John Owen's trilemma is presented clearly and fairly. The lexical treatment of κόσμος is accurate — particularly the distinction between "world" as "all kinds of people from all nations" versus "every individual without exception." The 1 Timothy 2 and 1 John 2:2 contextual readings (John writing to Jewish believers, "not for ours only" being an ethnic rather than universalist contrast) are exegetically defensible and represent mainstream Reformed interpretation. The guide does not evade the hard passages; it engages them directly and provides the congregation tools for honest interpretation.
+
+The golden chain of Romans 8:29-30 is correctly used to expose the logical problem of a general atonement: if the links are unbreakable, then either the atonement secures all it was designed for, or the chain fails. This is a sharp exegetical and theological move.
+
+The guide is confessionally aligned with 1689 Baptist theology throughout. There is no drift toward Arminian softening, no concession to indefinite atonement without acknowledgment of its implications, and no confusion on justification.
+
+**One doctrinal note:** The "breaking the leg" illustration near the Closing Reflection should be flagged for the group. This illustration — that shepherds would break a wayward sheep's leg and carry it until it imprinted on them — is a beloved homiletical tradition but is not historically documented practice. The guide does not use it (it is mentioned here as a note for leaders), but if it surfaces in discussion it should be handled carefully: the theological point it makes (God's discipline as mercy) is sound; the illustration itself is likely legendary.
+
+---
+
+### Gospel Centrality & Force — Assessment
+
+The gospel is present and specific. The closing prayers are particularly notable — especially the Chapter 20 prayer: "Your cross was not an attempt. It was not a possibility. It was a triumph." This is precise, warm, and doxological. The guide consistently moves toward worship as the proper response to sovereign grace, which reflects the rubric's concern that correct doctrine should produce not smug satisfaction but awe.
+
+The Revelation 5:9 anchor at the close of the guide is well-chosen. It is the doxological seal on the entire argument: particular redemption is gloriously vast — from every tribe, tongue, people, and nation — purchased fully, not partially.
+
+**One concern:** The guide is almost entirely written for already-convinced or nearly-convinced Reformed men. An unbeliever attending this study would receive a great deal of intra-Calvinist argumentation but might not encounter a clear, simple presentation of the gospel itself — what it is to be lost, what it is to be found, what repentance and faith look like. This is an appropriate limitation for an advanced doctrine study, but leaders should be aware of it.
+
+---
+
+### Conscience & Applicatory Force — Assessment
+
+This is the guide's greatest strength and its area of greatest opportunity.
+
+**Strengths:** The reflection questions are well-crafted for conscience engagement. Question 3 of Chapter 18 — "How does that insight change the way you think about your own salvation?" — presses from doctrine to personal reception. The Chapter 18 group discussion question about carrying election in humility versus weaponizing it as theological pride is one of the sharpest applications in the document: it names a real and common sin in Reformed circles and forces men to examine their own posture.
+
+Question 6 of Chapter 20 — "Does knowing Christ died specifically for you... change anything in your worship, your assurance, or your boldness?" — is excellent. It is specific, differentiated (worship, assurance, boldness are distinct categories of Christian life), and asks for self-examination rather than general agreement.
+
+**Opportunity:** The guide addresses what Perkins would call "believers" and "knowledgeable-but-unhumbled" categories well, but does not explicitly address the man who is intellectually drawn to these doctrines but has never been converted — the man who finds Reformed theology interesting but has no regenerate love for Christ. A group discussion prompt inviting men to examine whether they know these truths in the head only or in the heart as well would strengthen the guide's pastoral reach.
+
+---
+
+### Structure & Logical Flow — Assessment
+
+The two-chapter structure is coherent and purposeful. The leader's note correctly identifies that Chapter 18 should move quickly (its ground was covered implicitly in earlier sessions) and that Chapter 20 requires the most time — limited atonement being both the hardest and most contested of the five points. This is good pastoral judgment.
+
+The Biblical Case for Particular Redemption section (eight passages with exposition) is organized logically: from Christ's own words about the sheep, to the high priestly prayer, to the ransom language, to the golden chain, to the priestly intercession, to the Revelation doxology. It builds cumulatively and well.
+
+The "Handling the Hard Passages" section follows naturally. It would be slightly stronger if it explicitly named its method at the outset — something like: "We interpret unclear passages in light of clear ones, not clear ones in light of unclear ones" — giving men a hermeneutical principle to carry home, not just a set of answers.
+
+---
+
+### Illustration & Imagination — Assessment
+
+The Owen trilemma is the most memorable analytical tool in the guide, and it is presented cleanly. The Revelation 5:9 closing image is powerful. The Owen argument and the John 17:9 "I am not praying for the world" citation are the two strongest rhetorical anchors.
+
+What the guide lacks — appropriately for its genre — is the kind of concrete pastoral illustration that would make these doctrines land in everyday experience. That is the sermon's job. The guide rightly focuses on text and argument, and it does so well.
+
+---
+
+### Overall Assessment
+
+This is a doctrinally serious, exegetically careful, and pastorally thoughtful study guide. It handles two of the hardest doctrines in Reformed theology without evasion, without softening, and without theological sloppiness. The reflection questions are among the stronger elements — they press doctrine toward personal examination and corporate humility rather than leaving men with mere intellectual agreement.
+
+For its genre, it is well-executed. The leader's notes are wise. The prayers are doxological and specific. The Scripture selection is generous and correctly handled.
+
+**Rubric Fit Note:** This material is well-served by the theology, gospel centrality, and conscience categories of the rubric, but the exposition, exhortation, structure, illustration, and sermonic force categories do not apply to a study guide format. The guide's purpose is formation and discussion, not proclamation — and it succeeds at what it sets out to do.

@@ -198,3 +198,211 @@ But a fresh start begins with the gospel.
 
 > "If a person allows himself long to hold anger towards another, he will quickly come to hate him."
 > — Jonathan Edwards, *Charity and Its Fruits*
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Warm and Winsome Pastoral Talk That Mistakes Explanation for Proclamation**
+
+### 2. One-Sentence Summary
+A pastorally engaging walk through 1 Corinthians 13 triggered by 1 Thessalonians 3:12–4:8 that wins the congregation's affection through vivid storytelling while failing to preach the gospel, press the conscience to the point of crisis, or issue any actual exhortation.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: CONDITIONAL PASS — with concern.**
+The sermon's thesis — that love is others-centered and expressed in concrete acts — is broadly consistent with 1 Thessalonians 3:12 ("increase and abound in love"). However, the sermon spends the overwhelming majority of its time expounding 1 Corinthians 13 rather than 1 Thessalonians 3:12–4:8. The 4:3–8 section on sexual holiness receives fewer than 100 words after extensive treatment of a different passage. The primary text is treated as a peg on which to hang a different sermon. This is a significant structural issue — the passage's own main point (sanctification unto blamelessness before God at Christ's coming, with sexual holiness as its concrete expression) is not the sermon's main point. The sermon's main point is the attributes of 1 Corinthians 13 love. These are related but not identical.
+
+**Authority Test: PASS — but thin.**
+The preacher does not soften or edit the text's claims against sin. He names sexual immorality plainly, including same-sex sin. He does not stand above the text. However, he largely abandons the text for another text, which is a different authority problem.
+
+**Gate Verdict: Conditional pass. The sermon is not text-driven in the strict sense — it is themed around the passage rather than arising from the passage's own argument. It does not fail the gate outright (the themes are genuine), but it does not pass cleanly. The evaluation will proceed with this structural deficit noted.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG 1 — No clear gospel presentation (TRIGGERED).**
+The gospel appears in one sentence: "But a fresh start begins with the gospel." This is a reference to the gospel, not a proclamation of it. Christ's name does not appear in the sermon. The cross is not mentioned. Justification is not articulated. What must an unbeliever do? The sermon does not say. This is a fatal flaw. **Score is capped at 69.**
+
+**FLAG 2 — Application is almost entirely generic (PARTIAL TRIGGER).**
+Most application points are practical observations without concrete commands: "be courteous," "don't be rude," "love is the antidote for envy." The tipping section is the sharpest specific application in the sermon. The sexual purity section is nearly absent in applicatory depth. The sermon does not differentiate meaningfully between hearers — the believer, the unbeliever, the struggling, and the hardened are addressed as one undifferentiated mass.
+
+**FLAG 3 — No actual exhortation (TRIGGERED).**
+The sermon explains love's attributes and illustrates them with stories. It never summons the congregation to any specific response. There is no "therefore" moment. There is no imperative edge — no "repent of your record-keeping," no "come to Christ for the fresh start the gospel offers," no "examine whether your conduct as a Christian is commending or condemning the Name." The sermon ends at the gospel reference, full stop. The congregation was informed and warmed; they were not summoned.
+
+**Score is capped at 69 due to fatal flaw triggers.**
+
+---
+
+### 5. Score Breakdown
+
+**Category 1 — Exposition & Hermeneutics (25 pts): 12/25**
+
+- *Textual Fidelity (10):* 5/10. The sermon reads the passage, quotes it in full, and circles back to it. But the primary expository energy goes to 1 Corinthians 13, not the assigned text. The passage's own argument — that increasing love leads to blamelessness at Christ's coming, and that God's will for sanctification specifically includes sexual holiness — is not developed. 1 Thessalonians 4:3–8 is effectively skipped.
+- *Contextual Awareness (5):* 2/5. No engagement with the Thessalonian context: Paul's anxiety for the church (3:1–11), his prayer as the hinge to the imperatives, the eschatological frame ("at the coming of our Lord Jesus"). The coming of Christ is mentioned in the text but ignored in the sermon.
+- *Exegetical Clarity (5):* 3/5. Clear on the 1 Corinthians 13 material. No exegetical work on the primary text's Greek or structure.
+- *Logical Faithfulness (5):* 2/5. The move from 1 Thessalonians 3:12 to an extended sermon on 1 Corinthians 13 is not argued — it is assumed. This is a logical leap the congregation may not have noticed but the rubric must flag.
+
+**Category 2 — Theology & Doctrinal Integrity (18 pts): 11/18**
+
+- *Christ-Centeredness (7):* 2/7. Christ is named in the passage quotations ("through the Lord Jesus," "the coming of our Lord Jesus") but is never the subject of a sentence in the sermon itself. Christ's role in enabling love — the indicative before the imperative — is entirely absent.
+- *Redemptive-Historical Awareness (3):* 1/3. No redemptive-historical placement. The eschatological context (blameless at Christ's coming) is present in the text but untouched in the sermon.
+- *Doctrinal Precision (4):* 4/4. What theology is present is accurate. The definition of sexual immorality is stated clearly and confessionally. The discussion of anger, love, and sin's compounding effect (drawing on Edwards) is theologically sound.
+- *Confessional Alignment — 1689 Pulse (4):* 4/4. No confessional contradictions. Sanctification is treated as progressive, not perfectionist. Sexual ethics are clear and biblically grounded.
+
+**Category 3 — Gospel Centrality & Force (15 pts): 4/15**
+
+- *Clarity of the Gospel (5):* 1/5. One sentence: "But a fresh start begins with the gospel." An unbeliever would not know from this sermon what the gospel is, how to be justified, or why Christ's death matters for either love or purity.
+- *Necessity of Christ (5):* 1/5. Christ is not necessary to this sermon. It could survive intact as a secular talk on emotional intelligence with a few Bible verses attached. The sermon is about love's attributes; Christ does not appear as the one who models, enables, or grounds them.
+- *Cross-Centered Gravity (5):* 2/5. The sermon does not move toward the cross. It moves through the attributes of love toward a brief, undeveloped mention of the gospel and then stops.
+
+**Synagogue Test: FAIL.** A devout moral Jew or Muslim could sit through this sermon, agree with it entirely, and leave untroubled. The cross is not present. The necessity of Christ's blood is never proclaimed. This is a significant failure.
+
+**Category 4 — Conscience & Applicatory Force (15 pts): 8/15**
+
+- *Heart Penetration (5):* 4/5. The illustrations are strong — the foot-fungus hospital friend, the burned list, the Vietnam vet — and they do press on real sins (selfishness, rudeness, record-keeping). The congregation's conscience is touched at these points, even if not cornered.
+- *Specificity (5):* 3/5. The tipping section and the damage list are genuinely specific. The envy and patience sections are more generic. Sexual purity receives no specific applicatory development.
+- *Spiritual Differentiation (5):* 1/5. No differentiation among hearers. The unbeliever is not addressed. The backslider is not addressed. The sermon speaks to the congregation as a single body of friendly believers who mostly already do well at love. Perkins' categories are essentially unused.
+
+**Category 5 — Exhortation & Response (8 pts): 2/8**
+
+- *Call to Response (4):* 1/4. There is no exhortation. The sermon ends on a declarative: "A fresh start begins with the gospel." There is no imperative. No summons. No "therefore, brothers."
+- *Equipping for Holiness & Witness (4):* 1/4. The witness angle is raised (tracts without tips, Jesus bumper stickers) but not developed into an equipping framework. The congregation is left with interesting observations, not actionable direction.
+
+**Category 6 — Structure & Logical Flow (9 pts): 6/9**
+
+- *Clarity of Outline (4):* 3/4. The 1 Corinthians 13 structure serves as an implicit outline — patient, kind, not envious, not boastful, not rude, not easily angered, keeps no record of wrong. This is traceable and followable.
+- *Progression (3):* 2/3. The sermon moves attribute by attribute but does not build toward a climax. It ends abruptly with the sexual purity section, which feels like an afterthought.
+- *Unity (2):* 1/2. Two sermons are fighting for space here: a sermon on love's attributes (1 Cor 13), and a sermon on sanctification and sexual holiness (1 Thess 4). They do not resolve into one dominant idea.
+
+**Category 7 — Illustration & Imagination (5 pts): 4/5**
+
+- *Relevance (2):* 2/2. The illustrations are earthy, local, and genuine — grocery trips, hospital donuts, parking lot altercations, neighborhood disputes. These are from the congregation's actual world.
+- *Clarity (2):* 2/2. Each illustration lands on its intended point without confusion.
+- *Memorability (1):* 0/1. The burned list is the one image that might travel home. The foot-fungus story is vivid but may be remembered as an anecdote rather than a theological anchor.
+
+**Category 8 — Sermonic Force (5 pts): 4/5**
+
+- *Reads as Preaching (2):* 2/2. This reads as spoken word — conversational, direct, first-person, oral cadence throughout. No essay feeling.
+- *Conviction on the Page (2):* 1/2. The manuscript has warmth and authenticity, but low Scripture-assertion density. Many paragraphs pass without grounding in a text.
+- *Cadence and Breath (1):* 1/1. Sentence variation is natural. The tipping passage has real force.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**Score: 0.** The sermon is highly accessible. The single mother, the high schooler, and the new believer can all track it. The main ideas are illustrated concretely. No seminary training required.
+
+---
+
+### 7. Total Score
+
+| Category | Possible | Earned |
+|---|---|---|
+| Exposition & Hermeneutics | 25 | 12 |
+| Theology & Doctrinal Integrity | 18 | 11 |
+| Gospel Centrality & Force | 15 | 4 |
+| Conscience & Applicatory Force | 15 | 8 |
+| Exhortation & Response | 8 | 2 |
+| Structure & Logical Flow | 9 | 6 |
+| Illustration & Imagination | 5 | 4 |
+| Sermonic Force | 5 | 4 |
+| **Subtotal** | **100** | **51** |
+| Weight of Glory (bonus) | +5 | +1 |
+| Cognitive Load Modifier | −3 to 0 | 0 |
+| **Total** | **105** | **52** |
+
+**Fatal flaw cap at 69 is not binding here — the raw score (52) is already below the cap.**
+
+**Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.**
+
+*Note: The score reflects structural failures (gospel absence, no exhortation, text drift), not pastoral failure. The warmth, storytelling, and pastoral heart are genuine. But warmth without proclamation is not a sermon in the fullest sense.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Myself. The sermon is anthropocentric — it is about how we love each other. Christ does not appear as the subject or ground of anything.
+2. **Did I encounter God, or just ideas about Him?** Ideas about how to treat people. God is referenced but not encountered.
+3. **Was I comforted, convicted, or merely informed?** Informed and warmed. The illustrations are affecting. But the conscience is not cornered, and there is no comfort from the gospel — only the implicit comfort of being reminded that this congregation mostly already does well.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Vivid, congregation-specific illustration.** The burned damage list is a genuinely powerful sermon moment — a preacher confessing his own struggle with record-keeping and taking a costly action to break the cycle. This is not illustrative decoration; it is pastoral transparency that validates the text's demand. *(Section: "Love Is Not Easily Angered / Keeps No Record of Wrong")*
+
+2. **Clear and courageous on sexual ethics.** In a cultural moment when many preachers soften or omit the text's sexual holiness demands, the sermon names them plainly, including same-sex sin. This is confessionally faithful and pastorally honest. *(Section: "A Call to Purity")*
+
+3. **Oral authenticity and pastoral warmth.** This manuscript reads as genuine preaching by a man who knows his congregation. The grocery chain, the donuts, the painting — these are not generic illustrations. They are this church's story. That intimacy is a genuine sermonic strength. *(Opening section)*
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is present in name only.** "A fresh start begins with the gospel" is not a gospel presentation — it is a directional sign pointing toward a gospel that is never preached. Christ's finished work, the cross, justification by faith, and the call to repentance are all absent. An unbeliever in this congregation would leave warm, perhaps even convicted about their tipping habits, but with no idea how to be reconciled to God. *(Section: "A Call to Purity" — the sermon's final substantive beat)*
+
+2. **The primary text is effectively abandoned for a different text.** The sermon preaches 1 Corinthians 13 by way of 1 Thessalonians 3:12. This means the passage's own argument — that growing love leads to eschatological blamelessness, and that God's will for sanctification is concretely expressed in sexual holiness — is never developed. The eschatological frame ("at the coming of our Lord Jesus with all his saints") is present in the reading and ignored in the sermon. This is a significant missed opportunity for urgency. *(The entire sermon)*
+
+3. **No exhortation.** The sermon ends without a summons. The congregation is never told what to do now. There is no "therefore." The transition from explanation to application is present (the illustrations land), but the transition from application to exhortation is entirely missing. The preacher has shown them what love looks like; he never commands them to love, calls them to repent of lovelessness, or sends them out equipped. *(Absent throughout — most acute at the close)*
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how fully the gospel is absent. The sermon is delivered among a congregation that presumably knows the gospel, and the one-sentence reference ("a fresh start begins with the gospel") may feel sufficient in context. But the rubric's standard is not "Does the congregation know the gospel somewhere in their background?" but "Is the gospel proclaimed in this sermon?" By that standard, it is not. The warmth of the congregation, and the preacher's obvious pastoral rapport, may mask the structural absence.
+
+Additionally, the preacher may not notice how thoroughly he has preached a different text. The move to 1 Corinthians 13 feels natural — it is a legitimate connection — but it quietly displaces the text he announced. By the end, the sermon has not opened 1 Thessalonians 3:12–4:8 so much as glanced at it on the way to somewhere else.
+
+---
+
+### 12. Illusion of Strength
+
+The illustrations give the sermon a feeling of applicatory strength that is not borne out by the application itself. The foot-fungus story, the Vietnam vet, the burned list — these are vivid, specific, and pastoral. They create the impression that the sermon is pressing deeply into real life. But illustration is not application, and application is not exhortation. The congregation may leave feeling like the sermon was "practical" when in fact they were given no specific mandate. The stories did the emotional work; the imperatives were never written.
+
+The tipping section is the one place in the sermon where genuine exhortation almost occurs ("if you don't leave a tip, don't leave a tract"). But it arrives as pointed observation, not as a pastoral command rooted in the text's theology.
+
+---
+
+### 13. Missed Opportunity
+
+The eschatological frame in 1 Thessalonians 3:12–13 is the sermon's greatest missed opportunity. Paul is not merely saying "love each other more." He is saying: "May your love increase so that your hearts are established blameless in holiness *before our God and Father at the coming of our Lord Jesus with all his saints.*" The return of Christ is the horizon against which love and holiness are commanded. This is not background theology — it is the passage's engine. A sermon built on that engine would have had natural urgency, natural gospel connection (Christ is coming — are you ready?), and a natural exhortation (live now in light of what is coming). None of that is present.
+
+The sexual holiness section (4:3–8) is similarly underdeveloped. "God is an avenger in all these things" is a thunderclap that was never allowed to thunder. The warning that disregarding this disregards not man but God who gives His Holy Spirit is pastorally weighty — and untouched.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Rebuild the sermon around the primary text's argument, not 1 Corinthians 13.** The structure should be: (a) Paul's prayer that love would increase as the ground of holiness, (b) the eschatological urgency — blameless at Christ's coming, (c) the concrete expression of sanctification in sexual holiness, (d) the gospel as the power and motive for both love and purity. The 1 Corinthians 13 material can remain as a supporting window into what "abounding love" looks like, but it should not be the sermon's spine.
+
+2. **Preach the gospel explicitly, not referentially.** At minimum: name what we are being saved from (the wrath of God against unholiness), name who saves (Christ, by his death and resurrection), and name how (repentance and faith). "A fresh start begins with the gospel" assumes the hearer knows the gospel. The text doesn't assume that — it declares it.
+
+3. **Write an exhortation and preach it.** After the application of each section, add a direct imperative: "Burn the list. Tonight. Whatever the cost." "If you have been living in sexual immorality, know this: there is a Christ who did not die to leave you there. Come to him. Come clean." "Do not leave this place the same. The Lord who is coming is the Lord who is watching. Walk in holiness."
+
+4. **Use the eschatological frame as the sermon's urgency engine.** The "coming of our Lord Jesus" in verse 12 is not a theological decoration — it is the reason Paul is writing. Let it generate the sermon's weight. A sermon preached under the shadow of Christ's return has a different gravity than a sermon about being nicer.
+
+5. **Differentiate hearers.** Address the person in the room who is currently in sexual immorality. Address the one who is nursing a record of wrongs. Address the unbeliever who is in the room but doesn't know it applies to them. The congregation is not a monolith — preach to the whole room.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered in classical form** — the sermon is not cold or bloodless. But a related diagnostic is warranted: this sermon exhibits **warm moralism** — it has genuine pastoral heat, but the heat is generated by storytelling and personal rapport rather than by the gospel's weight. The congregation may feel good about their community's love without being confronted with their own lovelessness before God. Warmth without proclamation is not a substitute for preaching.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries genuine pastoral affection and real community gravity, but it does not yet carry eternal gravity — the coming of Christ, the holiness of God, and the ground of grace in the cross are all absent, and without them the sermon remains a warm community talk rather than a herald's proclamation.
+
+**Bonus: +1/5.**
+
+---
+
+### 17. Rubric Fit Note
+
+The rubric fits this passage well. 1 Thessalonians 3:12–4:8 is didactic-epistolary material with clear indicatives (Paul's prayer, the eschatological horizon) and imperatives (sanctification, abstaining from immorality, controlling the body). No genre strain. The rubric's expectations for gospel centrality, exhortation, and conscience application are all directly applicable. The passage itself is more demanding than the sermon allowed it to be.

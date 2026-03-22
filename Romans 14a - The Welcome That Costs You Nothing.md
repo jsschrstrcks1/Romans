@@ -497,3 +497,171 @@ Never wound one of Christ's little ones. You cannot destroy their everlasting ha
 Now go and do likewise.
 
 Let's pray.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**File:** Romans 14a - The Welcome That Costs You Nothing.md
+**Text:** Romans 14:1–4
+**Evaluated:** 2026-03-22
+
+---
+
+### 1. Verdict Title
+Exemplary Pastoral Exposition — A Theological Guillotine Applied to the Church's Most Respectable Sins
+
+---
+
+### 2. One-Sentence Summary
+A near-exemplary sermon on Romans 14:1–4 that tracks the text precisely, addresses six distinct categories of hearers with specific and searching application, grounds the entire command in Christ's cross-purchased welcome, and ends with a clear exhortation — with only minor notes on quote verification and the density of the pastoral landing section.
+
+---
+
+### 3. Berean Gate
+**PASS**
+
+*Scopus Test:* "The welcome costs you nothing doctrinally — but it costs you your pride." This arises from the text's own argument: welcome (v.1) → God has welcomed him (v.3) → who are you to judge your Master's servant? (v.4) → the Lord will make him stand (v.4). The sermon follows the passage verse by verse.
+
+*Authority Test:* The preacher submits to the text's rebuke of both the strong (contempt) and the weak (judgment). He doesn't soften either. He extends the text's logic to uncomfortable modern applications — celebrity conversions, political division — rather than retreating to safe examples.
+
+---
+
+### 4. Fatal Flaw Flags
+**None triggered.**
+
+- Gospel present: 1 Corinthians 6:9–11; Romans 5:8; the cross as the ground of the welcome ("it cost Christ everything to welcome you").
+- Main point equals text's point.
+- Christ is the theological engine — his welcome grounds every command.
+- Application is specific (Holly/Sarah, Rami, OnlyFans celebrity, politically confident, one who has been judged, one weaponizing weakness).
+- Exhortation is clear: "Now go and do likewise."
+- Accessible throughout.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 22/25**
+
+- *Textual Fidelity (9/10):* Five sections track the five movements of vv.1–4. *proslambanō* (welcome, v.1) is defined and connected to Romans 15:7. "Not to quarrel over opinions" boundary is engaged. Weak/strong distinction (v.2) is developed with appropriate historical context (Jewish dietary laws in Rome). Both contempt and judgment are rebuked (v.3). "For God has welcomed him" is identified as the theological ground of everything. v.4's "who are you?" and "the Lord is able to make him stand" both receive full development. Philippians 1:6, Jude 24, and John 10:28–29 are deployed at v.4's perseverance claim.
+- *Contextual Awareness (4/5):* The Romans series context is well-oriented (the "midnight to morning" frame). The Jewish/Gentile tension in Rome is noted briefly. The connection to Romans 15:7 as fulfillment is made. John Murray on racial prejudice in Rome is cited accurately.
+- *Exegetical Clarity (4/5):* *proslambanō* defined and illustrated. 1689 Confession 21.2 on liberty of conscience deployed correctly at v.4. The FCF — treating our judgment as authoritative over consciences that belong to God — is named and exposed. The distinction between disputable matters and doctrinal non-negotiables is precisely maintained throughout.
+- *Logical Faithfulness (5/5):* No eisegesis. No proof-texting. The text governs.
+
+**2. Theology & Doctrinal Integrity — 16/18**
+
+- *Christ-Centeredness (6/7):* Christ's welcome is the ground of the command — not the illustration but the argument. "It cost Christ everything to welcome you" is the theological center. The cross is not decorative here.
+- *Redemptive-Historical Awareness (2/3):* The Abrahamic promise ("all families of the earth shall be blessed") → the nations → the welcome of the weak is a real redemptive-historical arc, briefly touched.
+- *Doctrinal Precision (4/4):* Justification complete; sanctification ongoing; conscience real and shaped by grace. Liberty of conscience from the 1689 is exactly right. Perseverance grounded in divine ability, not human resolve.
+- *Confessional Alignment (4/4):* Liberty of conscience (1689, 21.2) explicitly quoted and correctly applied. Perseverance from multiple texts. Fully confessional.
+
+**3. Gospel Centrality & Force — 13/15**
+
+- *Clarity of the Gospel (4/5):* 1 Corinthians 6:9–11 ("such were some of you — washed, sanctified, justified"). Romans 5:8. The cross as the cost of welcome. Clear for believers; not a full evangelistic proclamation — appropriate to the sermon's congregational focus.
+- *Necessity of Christ (5/5):* Without Christ's welcome, the command to welcome has no foundation. The entire sermon would collapse without it.
+- *Cross-Centered Gravity (4/5):* The sermon climaxes at the cross ("that's exactly what Christ paid for you") and immediately connects it to the exhortation. The cross is the last argument, not a supporting point.
+
+**4. Conscience & Applicatory Force — 15/15**
+
+- *Heart Penetration (5/5):* Holly's hand-rubbing corrected during worship. Rami and the hat. Celebrity conversions. The politically confident. The one who has been frozen out. The one weaponizing weakness. Every category is addressed with a specific image.
+- *Specificity (5/5):* The OnlyFans example is bold and specific. Masks and vaccines named. "Aren't you glad God drew you in private instead of under cameras?" — precise pastoral searching.
+- *Spiritual Differentiation (5/5):* Six categories of Perkins' hearers addressed by name. The preacher sees his congregation in all its complexity and speaks to each part of it.
+
+**5. Exhortation & Response — 8/8**
+
+- *Call to Response (4/4):* "Now go and do likewise." After six specific categories, the exhortation lands with cumulative force.
+- *Equipping for Holiness & Witness (4/4):* The congregation leaves knowing what welcome looks like, what it is not, and what grounds it. Fully equipped.
+
+**6. Structure & Logical Flow — 9/9**
+
+- *Clarity (4/4):* Five exegetical sections + named pastoral landing categories. Traceable on a napkin.
+- *Progression (3/3):* Builds from defining welcome → two equal sins → theological guillotine → "who are you?" → perseverance → application.
+- *Unity (2/2):* "Therefore welcome one another as Christ has welcomed you." One idea.
+
+**7. Illustration & Imagination — 5/5**
+
+Holly and Rami will be remembered. The veteran/recruit illustration is effective without condescension. "That sentence is a theological guillotine" is itself a vivid move. The Hela People Group section is brief and purposeful.
+
+**8. Sermonic Force — 5/5**
+
+- *Reads as Preaching (2/2):* "Paul says: Stop it." "Not the Master. Not the Judge." "That's not faithfulness. That's faction."
+- *Conviction on the Page (2/2):* "For God has welcomed him" — repeated as a refrain, building each time. "Who are you?" hanging in the air.
+- *Cadence and Breath (1/1):* Short sentences at climactic moments. Good variation throughout.
+
+---
+
+### 6. Cognitive Load Modifier
+**−1** — Five exegetical sections plus six pastoral landing categories is comprehensive but slightly dense.
+
+---
+
+### 7. Total Score
+**97 / 100**
+
+*Interpretation: Rare. Exemplary exposition, pastoral heat, gospel gravity. Preach it.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Christ — his welcome is the ground of every argument.
+2. **Did I encounter God, or just ideas about Him?** Yes — "For God has welcomed him" lands as a word from God.
+3. **Was I comforted, convicted, or merely informed?** All three: convicted (six categories), comforted (the Lord will make him stand), moved (the cross as the cost of welcome).
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **"For God has welcomed him" — the theological guillotine.** Identified as the text's load-bearing phrase, returned to as a refrain, deployed as a weapon against every justification for contempt or judgment.
+2. **Six categories of hearers, all specifically addressed.** Holly and Rami are specific enough to be in the room. The weaponized-weakness warning is a pastoral insight most preachers miss.
+3. **The 1689 Confession on liberty of conscience deployed at exactly the right moment.** Not academic display — pastoral medicine, applied at v.4's "who are you to judge the servant of another?"
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Two quotes need verification.** The Spurgeon quote has no source citation. The Piper attribution applies Romans 11:36 — a verse about God — to the act of welcoming one another; this may be a loose citation or misattribution. Verify before reprint.
+2. **The pastoral landing section is long enough to dilute.** Six categories is one too many. The marriage section is the least developed and could be folded into the estranged-family category.
+3. **The Hela People Group section is not connected back in the close.** A two-sentence callback in the final paragraphs would seal the missional framing established in the opening.
+
+---
+
+### 11. Blind Spots
+
+The "cynical about public conversions" section, while pastorally courageous, could subtly lower discernment where Acts 5 and 1 John still apply. The qualifications are present but should be slightly more prominent.
+
+---
+
+### 12. Illusion of Strength
+
+The "politically confident" section feels like the sermon's bravest moment — but may lean slightly asymmetric in which political temperament it searches most precisely.
+
+---
+
+### 13. Missed Opportunity
+
+**Romans 14:4b — "the Lord is able to make him stand"** as pastoral relief for the strong. If God is responsible for your brother's sanctification, you don't have to be. The energy spent managing his growth is returned to you as rest. The sermon notes this but doesn't develop the freedom it offers.
+
+---
+
+### 14. Surgical Fixes
+
+1. Verify the Spurgeon and Piper quotes; add source citations.
+2. Add a two-sentence Hela callback in the close.
+3. Tighten to five pastoral categories; fold or expand the marriage section.
+4. Make the political section equally searching in both directions.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** Conscience-searching is extensive and specific. Gospel is proclaimed as the ground of the command.
+
+---
+
+### 16. Weight of Glory Assessment
+"The ground at the foot of the cross is level." A man who has been with God would weep at the cross-grounded welcome and tremble at "who are you?" **+5/5**
+
+---
+
+### 17. Rubric Fit Note
+Romans 14:1–4 is didactic-ethical Pauline literature. The rubric fits it well. The sermon's particular strength — differentiation across Perkins' categories — is exactly what this passage demands, and the rubric correctly rewards it.

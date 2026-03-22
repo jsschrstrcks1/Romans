@@ -45,3 +45,209 @@ Perhaps you’re here today and all of this is new for you, and you don’t know
 The gospel. 
 
 Communion.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Warm Gospel Urgency, Weak Textual Tethering — A Motivational Talk That Almost Becomes a Sermon**
+
+---
+
+### 2. One-Sentence Summary
+A passionate appeal for evangelistic obedience that captures genuine missionary urgency while never anchoring its argument to the specific exegetical weight of its three texts, leaving the congregation motivated but not governed by the Word.
+
+---
+
+### 3. Berean Gate Result
+
+**PASS — with significant qualification.**
+
+*Scopus Test*: Barely passes. The sermon's thesis — Christians are commanded to prioritize evangelism of all peoples as an act of worship — can be traced to Matthew 28:18-20. However, the thesis is not *derived from* the passages so much as *illustrated by* them. The preacher arrives with the point already formed and recruits the texts in support.
+
+*Authority Test*: Pass. The preacher does not soften or edit the texts. He submits to the Great Commission's command. However, he skips Romans 15:18-21 entirely in any exegetical sense, and Revelation 7:9-17 is handled as a visualization aid rather than as a text to be preached. Only Matthew 28 is treated with even minimal exposition.
+
+**Verdict: The gate passes, but the sermon is closer to a topical motivational message than a text-driven exposition. The three texts are announced, but one governs, one is quoted briefly, and one is referenced conceptually. The preacher does not stand under the authority of any single text — he circulates through three without deeply inhabiting any of them.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FATAL FLAW #4 — Application is generic in significant sections.** The call to evangelism is repeated but not differentiated. The sermon addresses the congregation as a uniform mass of people who are not evangelizing. It does not speak to the intimidated believer differently from the apathetic one, the homebound widow differently from the young man who has natural relational access. "What will you do?" is not specific application — it is an open-ended gesture.
+
+**FATAL FLAW #2 — Partial.** The main point of the sermon loosely matches the texts, but the sermon's argument is not derived from *any single text's* argument. It imports the argument and uses the texts as support. This is the textbook definition of topical preaching with proof texts. This does not trigger the full fatal flaw but bears notation.
+
+**Score cap: NOT applied** (Fatal Flaw #4 is present but the sermon does contain application movement, even if generic — the boundary case is judged generously). However, the score will reflect this weakness heavily.
+
+---
+
+### 5. Score Breakdown
+
+**Category 1 — Exposition & Hermeneutics: 11/25**
+
+- *Textual Fidelity*: 5/10 — Matthew 28:18-20 receives the most attention, but the treatment is announcement, not exposition. The weight of "all authority" (v.18) and the causal "therefore" (v.19) — the entire theological engine of the Great Commission — is not unpacked. The sermon repeats the commission's *content* but not its *logic*. Romans 15:18-21 is listed as a text but never exegeted. Revelation 7:9-17 is used as a motivational image, not a text-governed argument.
+- *Contextual Awareness*: 2/5 — Brief mention of Paul's ministry pattern from Romans 15, and a gesture toward the eschatological vision of Revelation 7. No sustained attention to context.
+- *Exegetical Clarity*: 2/5 — The Greek word study on *panta ethne* is the strongest exegetical moment in the sermon and is genuinely useful. However, it is inserted as standalone content without connecting back to the governing argument of any specific passage.
+- *Logical Faithfulness*: 2/5 — No eisegesis in the harmful sense, but the sermon imports its argument and decorates it with verses rather than excavating the argument from the text. The Fallen Condition Focus is implicit (human failure to evangelize) but never named as arising from the text itself.
+
+**Category 2 — Theology & Doctrinal Integrity: 12/18**
+
+- *Christ-Centeredness*: 5/7 — Christ is genuinely central. The repeated refrain about Christ dying for us, the language of "in whom lies our only hope for salvation" — these are real. But they are more creedal repetition than organic textual development. Christ is mentioned more as motivation than as the theological ground of the mission.
+- *Redemptive-Historical Awareness*: 2/3 — Some sense that Revelation 7 points to the eschatological fulfillment of what the Great Commission sets in motion. This connection is present but underdeveloped.
+- *Doctrinal Precision*: 3/4 — No significant doctrinal error. The gospel is referenced accurately. The sermon is not theologically sloppy, but it is also not theologically precise. Justification is not articulated. The nature of salvation is gestured at rather than stated.
+- *Confessional Alignment*: 2/4 — Nothing contradicts confessional theology. The sermon affirms Christ, the gospel, and the necessity of missions. But where it could have opened the doctrines of grace as the engine of missions confidence (God's sovereign purpose to save from every tribe — the ground of certainty in Revelation 7), it instead leaves the motivational weight on human obedience.
+
+**Category 3 — Gospel Centrality & Force: 9/15**
+
+- *Clarity of the Gospel*: 3/5 — The gospel is referenced repeatedly ("Jesus died for us," "our only hope for salvation") but never *articulated*. The closing paragraph — "Perhaps you're here and you don't know what the gospel is. It's easy, I'll tell you!" — is followed by the single word "The gospel." and then "Communion." The actual gospel content is absent from the manuscript. This is a significant gap. An unbeliever in the room heard the word "gospel" frequently but never its content.
+- *Necessity of Christ*: 4/5 — Christ is essential to the sermon's motivation. The sermon cannot survive without Jesus as the one who commands and died for us.
+- *Cross-Centered Gravity*: 2/5 — The cross is mentioned but not dwelt upon. The sermon's gravitational center is human obedience to the commission, not the cross as the content of the commission. The Synagogue Test: this sermon *might* pass — a devout Jew could object to the centrality of Jesus as sole savior, but the sermon's actual offense is mild because the cross is more background music than proclaimed scandal.
+
+**Category 4 — Conscience & Applicatory Force: 8/15**
+
+- *Heart Penetration*: 3/5 — There are genuine pastoral moments: the story about the friend adopting children as a microcosm of God's heart for the lost, the challenge about the local pastor who dismissed a people group, and the question "Do we think we are better than Paul?" These land. But the heart-penetration is uneven and relies more on anecdote than on the text pressing the conscience.
+- *Specificity*: 2/5 — The application remains at the level of "share the gospel" and "make it your life's ambition." What does that look like for the stay-at-home parent? The skeptic who has never shared the gospel and fears rejection? The man who has tried and been burned? The specificity needed is absent.
+- *Spiritual Differentiation (Perkins)*: 3/5 — The sermon addresses primarily category 3 (knowledgeable but unhumbled — knowing the command but not obeying) and category 5 (believers in general). There is a brief reach to unbelievers at the end ("perhaps you're here and don't know the gospel"). The backslider, the humbled, and the hardened receive no differentiated address.
+
+**Category 5 — Exhortation & Response: 5/8**
+
+- *Call to Response*: 3/4 — There is a clear "therefore" moment: "Now that you know it's God's priority... what will you do? Will you respond like Jonah or like Paul?" The choice is named. The command is applied. This is genuine exhortation. However, it remains binary and blunt rather than graduated and pastoral.
+- *Equipping for Holiness & Witness*: 2/4 — The sermon motivates but does not equip. It tells the congregation *that* they should evangelize but gives no tools, no framework, no next step. The Anthony Cox story (buying lunch to create gospel conversations) is the closest the sermon comes to equipping — and it is the most useful moment in the sermon for practical witness. More of this was needed.
+
+**Category 6 — Structure & Logical Flow: 5/9**
+
+- *Clarity of Outline*: 2/4 — Three texts are announced but the sermon does not follow a traceable outline from them. The structure is: story → theology → Greek word study → missions map illustration → application → closing gospel offer. This is coherent enough to follow but not memorable or text-derived.
+- *Progression*: 2/3 — The sermon does build toward the application, but the progression is more accumulative than logical. The adoption story, the dock story, the elevator story, the missions map, the tornado illustration — these add texture but also fragment the momentum.
+- *Unity*: 1/2 — The dominant idea is clear (evangelize all peoples as commanded and as worship), but it competes with the missions strategy content (the 10/40 window, the map, the statistics). These are interesting but slightly deflect from the sermon's single controlling point.
+
+**Category 7 — Illustration & Imagination: 4/5**
+
+- *Relevance*: 2/2 — The adoption story is excellent. The elevator encounter is vivid and real. The dock story and the tornado/relief agency illustration are from recognizable life. These are genuine congregational illustrations.
+- *Clarity*: 1/2 — Most illustrations land, but the adoption story runs long and the dock story (about a kid falling in) is attached loosely to the larger theological point about learning things the hard way.
+- *Memorability*: 1/1 — The adoption story and the elevator/aroma of Christ image will be remembered.
+
+**Category 8 — Sermonic Force: 3/5**
+
+- *Reads as Preaching*: 1/2 — Yes, this reads as spoken word — conversational, direct, addressed to a room. The repeated refrain ("Jesus, the one we love and serve, in whom lies our only hope for salvation...") functions as a sermonic anchor and creates good oral rhythm.
+- *Conviction on the Page*: 1/2 — The conviction is genuine and comes through. But there is also throat-clearing, repetition that adds length without depth, and the filler language of a man thinking out loud rather than proclaiming.
+- *Cadence and Breath*: 1/1 — The manuscript has natural spoken cadence. It reads the way a man talks, which works for preaching.
+
+---
+
+### 6. Cognitive Load Assessment
+
+**Score: 0 (no modifier applied)**
+
+This sermon is entirely accessible. The single mother, the high schooler, and the new believer can all follow this. If anything, the sermon's main liability is not complexity but *insufficient depth* — it skims surfaces that deserve sustained attention.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 11/25 |
+| Theology & Doctrinal Integrity | 12/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 8/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **57/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **59/100** |
+
+**Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.**
+
+The score sits at the boundary of the lowest band. This does not mean the sermon is worthless — the illustrations are strong, the motivation is real, the gospel is present in skeleton form, and genuine pastoral warmth comes through. But a score at this level means the sermon's foundation (exposition) and central task (gospel proclamation with conscience-pressing application) are insufficiently developed to constitute a full and faithful sermon.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Mostly Christ — but also substantially about *my obedience*. The sermon's engine is human response to divine command. Christ is the object of the mission and the motivation for it, but is not the *content* of the preaching in any developed sense.
+
+2. **Did I encounter God, or just ideas about Him?**
+The adoption analogy approaches an encounter — God's aching desire for his lost children is genuinely evoked. But the sermon does not sustain this encounter. It moves quickly to human action.
+
+3. **Was I comforted, convicted, or merely informed?**
+Convicted — in a general sense. The challenge to obedience is real. But the conviction is more motivational than textual, more emotional than conscience-searching in the Puritan sense.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The adoption illustration is pastorally excellent.** The story of the friend whose family grows through a combination of international adoption and natural pregnancy — used as a window into God's longing for the lost — is the best moment in the sermon. It is original, emotionally resonant, grounded in real life, and theologically suggestive. It creates genuine empathy for the missionary heart of God.
+
+2. **The repeated refrain functions well as a sermonic anchor.** "Jesus, the one we love and serve, in whom lies our only hope for salvation, the one who loved us enough to die on the cross for us, he commissioned us to take the gospel to the nations, all nations" — repeated three or four times — is excellent homiletical practice. It drives the thesis home, creates oral rhythm, and keeps Christ in the foreground even when the content is about human obedience.
+
+3. **The *panta ethne* word study is the sermon's most exegetically useful moment.** The etymology of "panta" via "pantheism" and "panorama" is clever and accessible. The definition of *ethnos* as people drawn together by kinship and tradition, with no size limits — connecting back to the 16,000 unreached people groups — is a genuine contribution that helps the congregation grasp the scope of the command.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel content is absent from the manuscript.** The sermon's stated purpose includes evangelism, and it explicitly addresses unbelievers at the end ("Perhaps you're here and don't know the gospel — it's easy, I'll tell you!"). What follows in the manuscript is the single word "The gospel." followed by "Communion." The actual articulation of the gospel — Christ's substitutionary death, the problem of sin and divine wrath, the necessity of faith and repentance — never appears. Whatever was said verbally, it is absent from the manuscript. This is a structural failure for any sermon on evangelism to contain no proclaimed gospel.
+
+2. **Romans 15:18-21 and Revelation 7:9-17 are announced but not preached.** The sermon title names three texts. Only Matthew 28:18-20 receives any interpretive attention. Romans 15 is paraphrased briefly. Revelation 7 is evoked as a visual of the eschatological gathering but is never opened as a text. If these texts are in the passage header, they bear responsibility to do exegetical work. If the preacher cannot preach from all three, he should narrow to one or two and preach them faithfully. Announcing texts and then not inhabiting them creates the impression of biblical depth without delivering it.
+
+3. **Application is motivational but not differentiated or equipped.** The sermon ends with a choice between Jonah and Paul — a compelling binary, but a binary. It does not ask: *what specifically should someone who has never shared the gospel do this week?* The Anthony Cox story (buying a homeless person lunch in exchange for a conversation) is more practically useful than anything in the formal application, and it is buried in the body. The congregation is sent home convicted but not equipped. Conviction without direction produces guilt, not obedience.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that **his sermon is primarily about human obedience rather than divine initiative.** The Great Commission in Matthew 28 is grounded in Christ's authority ("all authority has been given to me — *therefore* go") and his presence ("I am with you always"). The sermon names Christ's death as motivation but does not develop his living authority and active presence as the power that makes obedience possible. The result is a sermon whose burden is "you should evangelize" rather than "the sovereign Christ is extending his kingdom — you get to be part of it."
+
+Additionally, the preacher likely does not realize that **the missions-strategy section (10/40 window, the map, the statistics) while genuinely useful, slightly displaces the theological center.** Good missions information is not a substitute for text-driven application.
+
+---
+
+### 12. Illusion of Strength
+
+**The repeated refrain creates an illusion of gospel density.** "In whom lies our only hope for salvation, the one who loved us enough to die on the cross for us" — this phrase sounds like a gospel proclamation. It uses gospel vocabulary. But it is a *reference to* the gospel, not a *proclamation of* it. The congregation hears the words and assumes the gospel has been preached. It has not. This is the illusion: the language of the gospel substituted for the content of the gospel.
+
+Similarly, **the word study on *panta ethne* creates an illusion of exegetical depth.** It is genuinely useful, but it is also the only exegetical move in the sermon. One Greek word study does not constitute exposition. The congregation may leave feeling that the text was carefully opened when in fact only one lexical window was looked through.
+
+---
+
+### 13. Missed Opportunity
+
+**Matthew 28:18 — "All authority in heaven and on earth has been given to me."** This verse is the theological engine of the Great Commission, and the sermon does not turn the key. The "therefore" in verse 19 is causal: the mission is grounded in Christ's sovereign authority. This means missions is not primarily a guilt-based obligation ("are we better than Paul?") but a confident participation in the march of the already-crowned King. Revelation 7 is the vision of that march completed — every tribe and tongue worshiping the Lamb. The sermon would have been dramatically strengthened by showing the congregation that Matthew 28's authority *guarantees* Revelation 7's fulfillment. We go because he is sovereign and *his mission will not fail*. That is not just more theologically accurate — it is more motivationally powerful than guilt.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Preach Matthew 28:18 before Matthew 28:19.** Spend serious time on "all authority has been given to me." What does it mean that the risen Christ holds sovereign authority over all creation? How does that authority empower the commission? How does it change the emotional posture of the person who feels inadequate or afraid to evangelize? The imperative ("go") hangs entirely on this indicative.
+
+2. **Write out and preach the gospel explicitly.** If the sermon is about evangelism, it must demonstrate evangelism by doing it. The closing paragraph that promises to explain the gospel must deliver the gospel — not just name it. This is not optional. Use the same accessible language the rest of the sermon employs: sin, wrath, substitution, resurrection, faith, repentance. Make it brief but complete.
+
+3. **Cut one illustration and replace it with differentiated application.** The dock story can be removed with no loss. In its place, address the intimidated believer specifically: "Some of you know you should be sharing the gospel, but fear has paralyzed you. Let me speak to you directly..." Then do the same for the self-justifying believer, the missions-supporter-who-never-speaks, the person who thinks evangelism is for special people. Perkins' taxonomy applied here would transform the application section.
+
+4. **Tighten the missions-strategy content or relocate it.** The 10/40 window information and the map reference are valuable, but they could be a separate missions-education moment (a Sunday school class, a missions moment). Within the sermon, they dilute the textual authority. If retained, they should be anchored explicitly to the texts — "this is what *panta ethne* looks like on a map today."
+
+5. **Close on the Revelation 7 vision, not on the Jonah/Paul binary.** Revelation 7:9-17 describes the completed eschatological gathering: every people group before the throne. End the sermon there. Let the congregation see where this is going. The people they fail to reach will stand before God having never heard. The people they *do* reach will stand in that assembly. That is a more weighty and textually grounded call to response than "Jonah or Paul?"
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** This sermon is not doctrinally cold. The preacher has genuine passion, evident love for the lost, and personal investment in the subject. The weakness here is not bloodless orthodoxy but underdeveloped exposition and incomplete gospel proclamation.
+
+---
+
+### 16. Weight of Glory Statement
+
+The adoption illustration reaches for genuine eternal gravity, and the evocation of Revelation 7's eschatological gathering briefly places the sermon in the sweep of redemptive history — but the sermon does not sustain that weight long enough to leave the congregation trembling at the scope of what God is doing and the privilege of participating in it. **+2/5**
+
+---
+
+### 17. Rubric Fit Note
+
+This sermon works across three texts in three different genres (Synoptic Gospel, Pauline epistle, apocalyptic vision), which strains the rubric's expectation of a single governing text. The rubric's Berean Gate is designed for a single-text exposition; this sermon is topical by structure, which means the exposition score will naturally compress. That is noted — but it does not excuse the failure to inhabit *any* of the three texts with genuine exegetical depth. The topical form would be forgivable if each text were opened and its specific contribution to the thesis named. That does not happen here.
+
+*Soli Deo Gloria.*

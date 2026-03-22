@@ -84,3 +84,228 @@ At this church we have whats called an open communion. That means if you are a m
 
 That said scripture says 1 Corinthians 11:23-26 (ESV)
 that the Lord Jesus on the night when he was betrayed took bread, and when he had given thanks, he broke it, and said, "This is my body which is for you. Do this in remembrance of me." In the same way also he took the cup, after supper, saying, "This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me." For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Warm Pastoral Instincts, Incomplete Exposition — A Draft That Shows Promise but Has Not Yet Become a Sermon**
+
+---
+
+### 2. One-Sentence Summary
+A warmhearted narrative tour of Genesis 24 that draws genuine observations about Eliezer and Rebekah's responsiveness to God, but leaves its theological and gospel freight underdeveloped, its application truncated, and its Christ-connection asserted rather than grounded.
+
+---
+
+### 3. Berean Gate Result
+
+**PASS — with caution.**
+
+The Scopus Test passes at a functional level: the sermon's governing concern (two people who responded to the movement of God in their lives) does arise from the text's own narrative. Eliezer's prayerful dependence and Rebekah's willing obedience are genuine emphases of Genesis 24.
+
+The Authority Test gives pause. The sermon does not edit out hard material (the text has no scandal here), but it also does not submit to what the text is most deeply doing. Genesis 24 is not primarily a character study of two responders — it is a covenant narrative in which God's sovereign faithfulness to his promise (the seed, the land, the blessing) is demonstrated through providential detail. The servant's prayer and Rebekah's response are instruments of that larger covenant purpose. The sermon stays at the character level and never descends to the covenant foundation beneath it. This is not a Berean Gate failure — the sermon is not importing a foreign idea — but it is a significant narrowing of the text.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Three flags present. Score capped at 69.**
+
+**Flag 1 — No clear gospel presentation.** The sermon contains a placeholder: "Romans 3:23. Gospel presentation." This is not a gospel presentation — it is a note to self. As the manuscript stands, the finished work of Christ is entirely absent. No atonement, no substitution, no justification. The communion section warns unbelievers not to partake but never tells them what they must believe or do to become believers. A person could sit through this sermon and walk away knowing they have sinned (Romans 3:23) but having no idea what has been done about that sin or what response is required.
+
+**Flag 2 — Application is almost entirely generic.** The concluding application ("I challenge you to ask God to make himself real to you this week") is an appropriate seeker-sensitive gesture but constitutes the totality of the sermon's applicatory work. The church — the believers in the room — receives no specific instruction, no conscience-searching, no call to obedience arising from the text. The double exhortation structure of the text (Eliezer's faithful service; Rebekah's costly yes) is identified but never pressed into the listener's actual life.
+
+**Flag 3 — No actual exhortation for believers.** The sermon calls the unbeliever to investigate God, but it never calls the believer to any specific response. The text's portrait of costly, faithful, prayerful obedience is not translated into any imperative. "Go and do likewise" is never said in any form. The church is informed about Eliezer and Rebekah; it is not summoned.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+
+- *Textual Fidelity* — 5/10: The sermon accurately identifies key moments in the narrative (the oath, the prayer, the watering-of-camels, the consent of verse 57–58). But it never surfaces the text's controlling argument: God's covenant faithfulness to Abraham, demonstrated by his providential guidance to the exact right woman. The FCF — the fallen condition this text addresses — is never named. Is it unbelief? Lack of trust in God's provision? The difficulty of costly obedience? The text speaks to all three; the sermon names none clearly.
+- *Contextual Awareness* — 2/5: The Abraham series context is noted briefly but the covenant thread — the promise of seed, the importance of the lineage from which the Messiah would come — is absent. Why does it matter that Isaac marry from Abraham's family? The sermon doesn't answer this, and the answer is everything.
+- *Exegetical Clarity* — 3/5: Some good close reading is present (the significance of verse 57–58 on Rebekah's consent; the weight of the servant's prayer criteria; the water volume calculation). But the *betulah* removal note in the verification flags indicates that an earlier draft contained fabricated lexical claims — a caution flag about the preacher's exegetical instincts in raw form.
+- *Logical Faithfulness* — 3/5: No eisegesis detected, but the narrative is thinly processed. The sermon recounts the story more than it opens it.
+
+**2. Theology & Doctrinal Integrity — 9/18**
+
+- *Christ-Centeredness* — 3/7: The sermon does not attempt a Christ-connection, which is preferable to a forced one. But Genesis 24 offers organic typological depth: Eliezer as a type of the Holy Spirit (sent by the Father to secure a bride for the Son), Rebekah as a type of the church, the journey as a picture of the gospel call. These are not obscure — they appear in Calvin, Matthew Henry, and much of the Reformed tradition. The sermon leaves this entirely untouched.
+- *Redemptive-Historical Awareness* — 1/3: Absent. The sermon does not locate Genesis 24 in the redemptive-historical arc. The reader learns nothing about why this chapter exists in the larger story of Scripture.
+- *Doctrinal Precision* — 3/4: No errors detected in what is said. The problem is what is not said.
+- *Confessional Alignment* — 2/4: No contradictions. But the soteriological moment (the placeholder "Gospel presentation") is where confessional precision was needed most, and it never arrived.
+
+**3. Gospel Centrality & Force — 4/15**
+
+- *Clarity of the Gospel* — 0/5: There is no gospel presentation. Romans 3:23 is cited in a parenthetical note but the sermon never resolves it. What has God done about the sin? No answer given.
+- *Necessity of Christ* — 2/5: The communion section references Christ's body and blood, but this is liturgical framing rather than proclamation. Christ's necessity to the sermon's argument is not established.
+- *Cross-Centered Gravity* — 2/5: The sermon does not move toward the cross. The communion section appears as a separate liturgical act, not as the destination the sermon was building toward.
+
+*Synagogue Test: This sermon would cause no offense in a synagogue. A devout Jew or Muslim who believes in one God, rewards faithfulness, and values prayer could sit through this sermon without encountering the necessity of Christ's blood. This is a significant failure.*
+
+**4. Conscience & Applicatory Force — 6/15**
+
+- *Heart Penetration* — 2/5: The appeal to the seeking unbeliever is warm and genuine. The personal illustrations (Mom's arthritis, Bob and Sherrie's son, Kurt's testimony) create pastoral intimacy. But the sermon does not search the conscience; it presents friendly evidence for God's existence.
+- *Specificity* — 2/5: The congregation-specific illustrations are a real strength — named people, real stories. But the application itself ("ask God to make himself real to you") is vague. What does that look like? What must they do with Eliezer and Rebekah's example?
+- *Spiritual Differentiation* — 2/5: The sermon addresses one category of hearer — the investigating unbeliever — almost exclusively. The believer, the backslider, the knowledgeable-but-unmoved, the doubter under pressure: none of these are addressed. Perkins' seven categories are effectively reduced to one.
+
+**5. Exhortation & Response — 2/8**
+
+- *Call to Response* — 1/4: The challenge to the unbeliever is present but soft. The believer receives no call whatsoever.
+- *Equipping for Holiness & Witness* — 1/4: The communion section is the closest the sermon comes to equipping the church, but it is procedural instruction, not pastoral equipping.
+
+**6. Structure & Logical Flow — 5/9**
+
+- *Clarity of Outline* — 2/4: The two-part structure (Eliezer, then Rebekah) is stated but not developed symmetrically. Rebekah receives minimal treatment relative to the stated structure.
+- *Progression* — 2/3: The sermon largely follows the narrative, which gives it a natural arc. But it does not build toward a theological destination.
+- *Unity* — 1/2: Two stated focal points (Eliezer and Rebekah) plus an embedded unbeliever appeal plus communion create a somewhat fragmented movement. The two characters are never fully unified under a single thesis.
+
+**7. Illustration & Imagination — 3/5**
+
+- *Relevance* — 2/2: The congregation-specific illustrations are the sermon's greatest strength. Kurt, Bob and Sherrie, the Haitian bathroom story — these are real, pastoral, community-anchored. This preacher knows his people.
+- *Clarity* — 1/2: The water-volume calculation for the camels is genuinely illuminating. The Maserati/Harley/waterfront-home comparison for the bride price is vivid but feels somewhat disconnected from the deeper significance of what Eliezer was doing.
+- *Memorability* — 0/1: No single image that will carry home the sermon's main point, because the main point is not sharply enough articulated.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching* — 2/2: This is clearly a spoken, dictated draft. The oral cadence is present. Direct address appears naturally. The preacher sounds like a preacher, not an essayist.
+- *Conviction on the Page* — 1/2: The personal testimony section has genuine warmth. But the manuscript includes unfinished placeholders ("Romans 3:23. Gospel presentation" and "Communion") that reveal a draft rather than a proclaimed word.
+- *Cadence and Breath* — 0/1: The sentence variation is present in places but the sermon does not build to a climax. It trails off into liturgical instruction.
+
+---
+
+### 6. Cognitive Load Assessment
+
+**0 — No modifier applied.**
+
+This sermon is accessible. The narrative is clearly told, the illustrations are grounded, the vocabulary is plain. If anything, the concern is the opposite: the sermon may be too thinly developed rather than too dense. The ordinary hearer will have no difficulty tracking it.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 13/25 |
+| Theology & Doctrinal Integrity | 9/18 |
+| Gospel Centrality & Force | 4/15 |
+| Conscience & Applicatory Force | 6/15 |
+| Exhortation & Response | 2/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **45/100** |
+| Weight of Glory Bonus | +1/5 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **46/105** |
+
+**Score cap applied: Fatal Flaw Flags 1, 2, and 3 are present. Score is capped at 69 regardless.**
+
+*Reported score: 46 — capped at 69. The raw score of 46 is the more honest diagnostic number and reveals the severity of the gaps.*
+
+**Band: Below 60 — Fundamentally incomplete. This is a preaching outline, not a finished sermon. Rebuild with gospel center and applicatory development.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Neither, in the current form. The sermon primarily makes the listener think about Eliezer and Rebekah as interesting characters, and about God's general faithfulness as evidenced by congregational testimonies. Christ barely appears.
+
+2. **Did I encounter God, or just ideas about Him?**
+Closer to ideas — specifically, the idea that God is real and responsive to prayer. The personal illustrations carry genuine warmth, but the sermon does not create an encounter with the living God through the text.
+
+3. **Was I comforted, convicted, or merely informed?**
+Informed. The seeking unbeliever may have been slightly encouraged. The believer was largely unaddressed.
+
+---
+
+### 9. Strengths (Top 3)
+
+**Strength 1 — Genuine pastoral intimacy with the congregation.**
+The named testimonies — Kurt, Bob and Sherrie's son, the Haitian bathroom, the preacher's own stories — are not generic illustrations. They are this congregation's stories. This is a real strength. The preacher knows his people and loves them. This is the soil from which good preaching grows.
+
+**Strength 2 — Sound observational instincts on the narrative.**
+The observation about verse 57–58 (the first time Rebekah's opinion is sought) is perceptive. The water-volume calculation for the camels is genuinely illuminating and makes the weight of Rebekah's act concrete in a way a congregation can feel. The instinct to notice the servant's motivation and call it a "fear of God" is textually defensible and theologically interesting.
+
+**Strength 3 — The verification flags show genuine editorial integrity.**
+The existence and thoroughness of the verification section — removing the fabricated *betulah* claim, correcting the camel capacity, removing the undocumented water-taboo — reflects a preacher who cares about truth and is willing to remove material rather than preach something unverified. This is a character strength that should be recognized.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+**Weakness 1 — The gospel presentation does not exist.**
+"Romans 3:23. Gospel presentation." This is a placeholder in a manuscript that was apparently preached (it has communion instructions). If the preacher improvised the gospel at this point in delivery, there is no way to evaluate it — and the congregation deserves a preacher who has worked out his gospel presentation before he stands up, not one who wings it. The communion section (1 Corinthians 11:23–26) is quoted accurately but framed procedurally: "here is who may take it." The text's content — Christ's body given, his blood shed, the new covenant — is read aloud but never proclaimed. The cross is recited, not preached.
+
+**Weakness 2 — The covenant foundation of the narrative is entirely absent.**
+The sermon never answers: *Why does it matter that Isaac marry from Abraham's family?* The answer is covenantal and messianic — the promised seed, from whom the Messiah will come, must be guarded and continued. Eliezer's mission is not a matchmaking errand; it is a covenant-protecting mission. Without this, the sermon treats Genesis 24 as a story about two admirable people, when the text is making a statement about God's faithfulness to his promise. This is the text's main point, and the sermon misses it.
+
+**Weakness 3 — Rebekah essentially disappears from the sermon.**
+The stated structure promises to treat both Eliezer and Rebekah. But after establishing Eliezer's backstory and motivation (the majority of the sermon), Rebekah receives approximately two paragraphs. Her act of faith — leaving her family, her homeland, everything she knew, to follow a stranger on the word of his master's God — is one of the most dramatic covenant responses in the patriarchal narratives. It is precisely parallel to Abraham's call in Genesis 12 and is arguably the text's second major climax. The sermon notes her consent ("I will go") but does not preach it.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears not to see that Genesis 24 is a covenant narrative first and a character study second. The result is that the sermon uses the characters as illustrations of general spiritual principles (prayer works; obedient people are rewarded) rather than as participants in God's redemptive-historical purposes. The typological depth of the passage — Eliezer as a picture of the Spirit's work in drawing the bride to the Son — is not a speculative reading but a well-established strand of Reformed interpretation (see Matthew Henry, Charles Bridges, various Puritan treatments). Its absence is a significant missed opportunity.
+
+The preacher also appears not to see that the congregation's believers needed to be addressed. The sermon's applicatory vision was entirely focused on the investigating unbeliever. This is a gracious instinct — but it leaves the majority of the room unpastored.
+
+---
+
+### 12. Illusion of Strength
+
+The personal testimony section (Kurt, Bob and Sherrie, Mom's arthritis) feels like the sermon's warmest and most effective moment — and it is, relationally. But it functions as a substitute for the exposition rather than a supplement to it. The preacher essentially says: "Here's what Eliezer saw in Abraham's life — and here's what you've seen in our community." That is a valid analogy, but it makes the congregation's experience the authority for God's reality rather than the text. The illustrations feel strong because they are warm and familiar. They are not doing expositional work.
+
+---
+
+### 13. Missed Opportunity
+
+The type-antitype structure of Genesis 24 is one of the richest Christological opportunities in the patriarchal narratives, and it arises organically from the text's own logic — not as an imposed leap:
+
+- The Father sends the servant with gifts to secure a bride for the Son.
+- The servant will not eat or rest until his mission is complete (v. 33).
+- The servant speaks of his master and his master's son — never of himself.
+- The bride must willingly say yes (v. 58).
+- The servant brings her to the Son, and the Son receives her.
+
+This is the Holy Spirit's ministry. The sermon stood at the edge of this and walked away. A two-paragraph movement here — grounded carefully and without overreach — would have given the sermon its gospel center organically, from the text itself.
+
+---
+
+### 14. Surgical Fixes (5 Specific)
+
+**Fix 1 — Write out the gospel presentation in full before preaching.**
+"Romans 3:23. Gospel presentation" must become a fully articulated proclamation: humanity's sin, God's just wrath, Christ's substitutionary death, his resurrection, the call to repent and believe. One paragraph, fully worked out. This is not optional — it is the difference between preaching and talking about preaching.
+
+**Fix 2 — Add one paragraph establishing the covenant stakes of the narrative.**
+Before the character study begins, the sermon needs: "God had made a promise to Abraham. From Abraham's line would come the one who would bless all nations. That promise ran through Isaac. And so finding the right wife for Isaac was not a romantic errand — it was a covenant mission. Everything depended on it." This reframes the entire sermon and connects it to the larger biblical story.
+
+**Fix 3 — Develop Rebekah's yes in proportion to its significance.**
+Her response in verse 58 — "I will go" — deserves at least as much treatment as Eliezer's prayer. What did it cost her? What did she leave? How is her act of faith parallel to Abraham's in Genesis 12? And most pressingly: what does it look like for someone in this congregation to say "I will go" to what God is asking of them today? This is where the sermon's application for believers lives.
+
+**Fix 4 — Address the believing congregation explicitly.**
+After the appeal to the unbeliever, add a turn: "And for those of you who do believe — what is God asking you to water the camels in? What costly, inconvenient, unasked-for act of faithfulness is sitting in front of you right now?" Use Eliezer's decades of faithfulness and Rebekah's immediate yes as two models — the long-term servant and the immediate responder.
+
+**Fix 5 — Connect the communion to the sermon's content.**
+The 1 Corinthians 11:23–26 quotation should not function as a separate liturgical insert. Bridge it: "This is where every story in Genesis is heading. Eliezer drawing water, Rebekah saying yes, Isaac waiting — all of it pointing toward a greater servant, sent by the Father, to secure a bride. And on the night he was betrayed, he said: This is my body, which is for you." This creates a natural gospel movement from the Old Testament narrative to the Lord's Table.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The concern here is not dead orthodoxy — correct doctrine without warmth. The concern is the opposite: genuine warmth and pastoral care without sufficient doctrinal and expositional substance. The fire is present in the personal illustrations; the light is what needs developing.
+
+---
+
+### 16. Weight of Glory Statement
+
+There are genuine flickers of glory here — in the congregation-specific testimonies, in the servant's prayer, in Rebekah's costly yes — but the sermon does not yet carry eternal weight because it has not yet told its people what is ultimately at stake: that the covenant faithfulness of God displayed in Genesis 24 culminates in the sending of his Son, and that every "I will go" in redemptive history points to the one who said yes to the cross on our behalf.
+
+---
+
+### 17. Rubric Fit Note
+
+Genesis 24 is an Old Testament narrative passage, and the rubric's categories bend slightly here. The FCF and Fallen Condition Focus categories are harder to locate in pure narrative than in epistolary literature — the passage's "fallen condition" is less about individual sin and more about the vulnerability of the covenant promise in a fallen world (Abraham is old, Sarah is dead, Isaac is unmarried, the seed is unprotected). The rubric handles this well, but the evaluator notes that the low exposition score reflects not a failure of the rubric's framework but a genuine failure of the sermon to engage the narrative's own theological freight. Narrative sermons are especially susceptible to the character-study trap — treating the text as a collection of admirable figures rather than as a scene in God's redemptive drama. That is precisely what has happened here.

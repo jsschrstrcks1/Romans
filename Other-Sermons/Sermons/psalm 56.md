@@ -165,3 +165,206 @@ Or maybe — just maybe — God is calling you to go on a foreign missions trip.
 - "foreful" → "forceful"
 - "its" → "it's" (possessive/contraction corrections throughout)
 - General punctuation, capitalization, and paragraph formatting throughout
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Sermon:** Psalm 56 — Is Jesus Worth It
+**Primary Text:** Psalm 56
+
+---
+
+### 1. Verdict Title
+
+**"An Earnest Evangelistic Address Built on Illustration, Thin on Exposition — Warm Heart, Shallow Roots"**
+
+---
+
+### 2. One-Sentence Summary
+
+A passionate, illustration-heavy sermon that uses Psalm 56 as a launching pad for stories about the persecuted church and calls hearers to personal commitment, but never returns to the psalm's text with enough exegetical force to constitute expository preaching, and offers a gospel that is more invitation than proclamation.
+
+---
+
+### 3. Berean Gate
+
+**PASS — cautiously.**
+
+**Scopus Test:** The sermon's thesis — "Is Jesus worth it?" — has genuine connection to Psalm 56's refrain ("What can flesh do to me?" / "In God I trust; I shall not be afraid"). However, the thesis is primarily imported via the *Pilgrim's Progress* and *Insanity of God* narratives rather than derived from the psalm's own argument. The psalm's actual structure (complaint, trust refrain, lament, confidence, doxology) is noted but not expounded. The connection holds — barely.
+
+**Authority Test:** The preacher does not contradict the text. But the sermon is more accurately described as an address *with* Psalm 56 than an address *from* Psalm 56. The preacher stands more as narrator of inspiring stories than as herald of the text's specific claims.
+
+The gate is passed, but the sermon sits at the threshold. A stricter reading would return a fail — the main point of the sermon (is Jesus worth it to you personally — will you risk your relationships, your finances, your life?) does not arise from the main point of the psalm (David's expressed trust in God in the face of his enemies, grounded in God's faithfulness). The psalm's logic is: *I am afraid → I choose trust → therefore I will not fear → God has kept count of my suffering → God is for me.* The sermon's logic is: *inspiring people suffered for Christ → is Jesus worth it to you?* These are related but not the same.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 2 triggered — conditional:** Main point drifts from the text's point. The psalm's argument is David's movement from fear to faith, grounded in God's covenant keeping. The sermon's argument is personal commitment and evangelistic courage. These overlap but the psalm is used as a launching pad, not a governing text.
+
+**Flag 4 triggered — partial:** Application is not entirely generic (giving, risking relationships, going on mission trips, sharing the gospel are named), but it lacks specificity to the text. The application could be lifted out of this sermon and dropped into a sermon on any passage about courage.
+
+**Score cap applies: maximum 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 11/25**
+
+- *Textual Fidelity (4/10):* The psalm is read aloud and a few verses are referenced, but its internal argument is not traced. The structure of the psalm — the repeated trust refrain (vv.3-4 and 10-11), the complaint sections (vv.1-2, 5-6), the remarkable "put my tears in your bottle" (v.8), and the vow/doxology (vv.12-13, which are not even quoted) — receives almost no exposition. The sermon primarily uses the psalm's setting (David fleeing to Gath) as a backdrop for the *Pilgrim's Progress* lion illustration. The FCF (the specific human condition the psalm addresses — the experience of real fear in genuine danger, and the discipline of choosing trust anyway) is not named or developed.
+- *Contextual Awareness (3/5):* The superscription is acknowledged (Psalm 56's setting in Gath, 1 Sam 21). The background story of David fleeing Saul is given. But the psalm's place in the Davidic collection and its connection to the broader psalter pattern of lament-to-trust is not addressed.
+- *Exegetical Clarity (2/5):* There is essentially no exegesis. The trust refrain is quoted, but not unpacked. "What can flesh do to me?" is paraphrased ("you can take my life but you can't separate me from my Savior") — this is application, not exposition. The remarkable v.8 ("you have kept count of my tossings; put my tears in your bottle") — one of the most pastorally rich images in the Psalter — is completely ignored.
+- *Logical Faithfulness (2/5):* No overt eisegesis, but the movement from the text is more free association than logical derivation. The bulk of the sermon is the *Pilgrim's Progress* narrative, the *Insanity of God* stories, and personal testimony. These are not wrong in themselves, but they crowd out the text's own argument.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+
+- *Christ-Centeredness (4/7):* Christ is present throughout. The question "Is Jesus worth it?" is Christological in intent. But the Christology is devotional rather than doctrinal — Christ is primarily the object of personal commitment, not the fulfillment of covenantal promise or the ground of David's trust. The connection between Psalm 56's "God is for me" (v.9) and the New Testament's elaboration of that claim (Romans 8:31) is not made.
+- *Redemptive-Historical Awareness (2/3):* Minimal. The psalm is treated as a personal encouragement rather than as part of the messianic/redemptive history. No connection is made between David's trust under persecution and Christ's fulfillment as the one who ultimately bore the enemies' full assault.
+- *Doctrinal Precision (3/4):* Nothing theologically incorrect is stated. The gospel is referenced at the end (salvation, hell, heaven). No major doctrinal errors.
+- *Confessional Alignment (2/4):* The sermon is broadly evangelical in theology. Nothing contradicts confessional theology, but there is no confessional engagement — covenant, grace, the doctrines of grace, and justification are absent from the sermon's theological texture.
+
+**3. Gospel Centrality & Force — 8/15**
+
+- *Clarity of the Gospel (2/5):* The gospel invitation section ("Have you asked Jesus to pay the price for your sins?") is present but brief and invitation-formula in character. The mechanism of the gospel — why Christ's death is necessary, what it accomplishes, how it relates to sin and wrath — is not explained. An unbeliever sitting in the room would understand that Jesus is someone important to commit to, but would not clearly understand *why* his death is required or what it accomplishes.
+- *Necessity of Christ (3/5):* Christ is presented as the goal and reward of commitment ("Is Jesus worth it?") but not as the only possible ground of reconciliation with God. The Synagogue Test is not fully failed — a morally serious non-Christian could follow much of this sermon without encountering the scandal of the cross.
+- *Cross-Centered Gravity (3/5):* The cross is referenced in the closing prayer ("may our hearts be set on fire for You"). The sermon moves toward personal commitment and evangelistic mission rather than toward the cross. The law is not deployed to create conviction — the congregation is assumed to be believers, and the call is forward-facing (mission, boldness, giving) rather than cross-facing.
+
+**4. Conscience & Applicatory Force — 7/15**
+
+- *Heart Penetration (2/5):* The stories are emotionally engaging. The persecuted church narratives genuinely move. But the conscience is not searched. The sermon does not probe the self-righteousness of the comfortable or press the specific idols of the congregation. The application stays in the realm of inspiration rather than conviction.
+- *Specificity (3/5):* The application section names specific areas: finances (tithing), relationships, gospel-sharing, and short-term missions. This is more specific than generic. However, the specificity is organized around external acts rather than internal idols — the heart disposition behind the reluctance to tithe, to risk relationships, or to go on mission is not exposed.
+- *Spiritual Differentiation (2/5):* The sermon addresses believers and seekers (an altar call is extended). The call to salvation and to baptism are noted. But the range of hearers reached is narrow — the sermon does not address the comfortable and hardened, the backslider, or the person who has already said "yes" to commitment language but whose life is unchanged.
+
+**5. Exhortation & Response — 4/8**
+
+- *Call to Response (2/4):* An altar call is extended — for salvation, baptism, church membership, and missions interest. These are concrete responses. However, the call is presented as a menu of options rather than an urgent summons from the text. The "therefore" moment — where the text's own argument becomes the basis for the command — is absent.
+- *Equipping for Holiness & Witness (2/4):* The sermon explicitly offers help with gospel sharing — "come talk to me," "movies are a great segue." The missions invitation is specific. But the equipping for holiness (the internal transformation that would make a person *want* to share the gospel or go on mission) is underdeveloped.
+
+**6. Structure & Logical Flow — 5/9**
+
+- *Clarity of Outline (2/4):* There is no stated outline. The sermon moves: opening illustration (*Pilgrim's Progress*) → David's situation → *Pilgrim's Progress* continued → persecuted church story 1 → persecuted church story 2 → application to hearers → communion. A listener could not sketch this on a napkin.
+- *Progression (2/3):* The sermon broadly moves from illustration to text to application. The illustration-heavy opening eventually arrives at application. But the movement feels more associative than logical — each illustration leads to the next by emotional resonance rather than argumentative necessity.
+- *Unity (1/2):* The theme "Is Jesus worth it?" provides superficial unity. But the sermon has multiple competing threads: personal salvation, tithing, risking relationships, sharing the gospel, and foreign missions. These are not developed from a unified textual argument.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2):* The *Pilgrim's Progress* illustration is well-chosen and its allegorical nature is acknowledged. The *Insanity of God* stories are contemporary, emotionally accessible, and culturally specific to this congregation's missionary frame of reference.
+- *Clarity (2/2):* Both the Slough of Despond and the lions are clear. The extended use of the *Pilgrim's Progress* analogy (Slough → lions → "is Jesus worth it?") is coherent and well-narrated.
+- *Memorability (0/1):* The illustrations are emotionally memorable but not theologically memorable. A congregation member will likely remember the Chinese pastors praying for Somalia; they are less likely to remember what Psalm 56 says.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (1/2):* The sermon reads as a genuine personal testimony and inspirational address. It is warm and accessible. But it reads more as an enthusiastic talk than as a proclamation of God's Word. The ratio of Scripture-grounded assertions to personal narrative is inverted from what strong preaching requires.
+- *Conviction on the Page (1/2):* The conviction comes from the stories, not from the text. The text is the launching pad; the stories carry the weight. This is characteristic of topical preaching and represents the sermon's structural limitation.
+- *Cadence and Breath (1/1):* The conversational, personal style is appropriate to this preacher's context and creates genuine accessibility.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**0** — The sermon is clear and easy to follow. No cognitive overload is present. The narrative-heavy structure reduces complexity to the point where the congregation may receive encouragement without being pressed to think deeply.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 11/25 |
+| Theology & Doctrinal Integrity | 11/18 |
+| Gospel Centrality & Force | 8/15 |
+| Conscience & Applicatory Force | 7/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **53/100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | 0 |
+| **Fatal Flaw Cap Applied** | capped at 69 |
+| **Total** | **54/105** |
+
+*Note: The raw subtotal of 54 falls below the cap — the score is not artifically lowered by the cap. The score reflects the actual categorical deficits.*
+
+**Interpretation: Concerning gaps — fundamentally limited by narrative substitution for exposition. Significant revision needed.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* **Primarily myself** — the question "Is Jesus worth it to you?" centers the hearer's decision rather than Christ's sufficiency.
+2. *Did I encounter God, or just ideas about Him?* **Inspiring stories about God's people,** primarily. The text of Psalm 56 — God's own words — is not inhabited long enough to constitute an encounter.
+3. *Was I comforted, convicted, or merely informed?* **Inspired, primarily.** The stories of the persecuted church are genuinely moving, but inspiration without exposition or conviction is not yet preaching.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The "Is Jesus worth it?" framing is genuinely connected to Psalm 56's trust refrain:** David's repeated question "What can flesh do to me?" is functionally the same as "I have decided Jesus is worth any cost." The sermon's central question is not foreign to the psalm — it just needs to be derived from the psalm more explicitly rather than imported from the *Pilgrim's Progress* opening.
+
+2. **The *Insanity of God* material is used well:** The China story — especially the Chinese pastors committing to pray for Somalia — produces genuine missionary urgency without manipulation. This is one of the more affecting moments in all seven sermons under evaluation.
+
+3. **The closing personal testimony (UK gospel encounter):** The story of the sword-fight-like exchange with the Muslim convert, with Scripture arriving in the preacher's mouth as needed, is specific, personal, and carries genuine authority. It is the kind of testimony that equips ordinary believers for evangelism without making it seem beyond them.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Psalm 56 verse 8 is completely absent:** "You have kept count of my tossings; put my tears in your bottle. Are they not in your book?" — This is the pastoral and theological heart of the entire psalm, and the richest verse for the sermon's theme. David's trust is not naive courage. It is grounded in the specific and personal attention of God who keeps a record of every sleepless night. This is the verse that answers the question "Is Jesus worth it even when it costs everything?" with the reply: "Because God counts every tear."
+
+2. **The gospel presentation is an invitation formula, not a proclamation:** "Have you come to a point in your spiritual life where you've asked Jesus to pay the price for your sins?" assumes the hearer knows what that means and why it is necessary. An unbeliever present at this service would not leave knowing what sin is, what it deserves, why Christ's death addresses it, or how to be reconciled to God. The altar call is present; the gospel that grounds the altar call is not.
+
+3. **The sermon does not spend enough time in the text to constitute exposition:** The psalm is read and briefly described, but the preacher never opens it — the internal argument is not traced, the key verses are not unpacked, and the congregation is not shown how to read this psalm on their own. A listener could attend this sermon and leave without being able to explain what Psalm 56 is about.
+
+---
+
+### 11. Blind Spots
+
+The preacher has an abundance of pastoral warmth, personal credibility, and genuine missionary burden. These are real strengths. The blind spot is the assumption that the stories *are* the sermon — that if the congregation is moved by the persecuted church and challenged to ask "Is Jesus worth it?" the exposition has been accomplished. The text of Psalm 56 is actually far more powerful than the stories imported to carry it: a man who is genuinely afraid, who names his fear, who makes a conscious choice to trust, who addresses God as the one who sees and records every tear, and who then says "In God I trust; I shall not be afraid" — this is the psalm's own drama, and it is more compelling than any illustration drawn from outside it.
+
+---
+
+### 12. Illusion of Strength
+
+The sermon *feels* pastorally effective because the stories are moving and the application section has a concrete menu of response options. This creates the impression of a complete homiletical arc: illustration → text → application → invitation. But the application is not tethered to the text's own argument. The concreteness of the response options (missions trip, baptism, tithing) gives the impression of specificity while the actual application of Psalm 56 to the congregation's specific fear-and-trust dynamic is never made.
+
+---
+
+### 13. Missed Opportunity
+
+Psalm 56:8 — the "tears in a bottle" verse — is the missed opportunity of this sermon. It is the verse that most directly answers the sermon's own question ("Is Jesus worth it even when it costs everything?") with the answer the psalm actually provides: *because God is personally, specifically, tenderly attentive to your suffering.* He does not merely win eventually. He sees now. He counts now. He records now. The suffering of the persecuted church is not merely noble — it is seen by the God who keeps every tear. This would have been the moment where the *Insanity of God* stories and the psalm became one argument rather than two streams running in parallel.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Open the sermon from the text, not from *Pilgrim's Progress*:** Introduce the context of Psalm 56 first — David, genuinely afraid, in enemy territory — and *then* allow *Pilgrim's Progress* to serve as an illustration of what the psalm describes. Currently the illustration is the sermon's frame; it should be a window into the frame the text provides.
+
+2. **Expose Psalm 56:8 as the theological center:** After reading the psalm, spend 3–5 minutes on "put my tears in your bottle." This is why Jesus is worth it: not because the suffering is romantic, but because the God of the universe keeps count of every sleepless night and every tear of His people. The persecuted Chinese pastor's suffering is not just heroic — it is seen, recorded, and treasured by God.
+
+3. **Reframe the gospel section around Psalm 56:9:** "This I know, that God is for me." Build the gospel from this declaration: "David could say this in the Psalms because of covenant promise. You and I can say this with a New Testament clarity David didn't have — because Christ has died, and Christ has risen, and if you are in Christ, God is *for* you in the fullest sense. Romans 8:31: 'If God is for us, who can be against us?' — That is what makes Jesus worth it."
+
+4. **Consolidate the application:** Instead of five response options at the end, identify the single application the text demands: "Decide, today, whether you will trust God in the specific area where you are most afraid." Then name the specific fears this congregation carries — health, finances, relationships, persecution, family — and invite people into David's posture: "When I am afraid, I put my trust in You."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — the sermon is not dead orthodoxy. It has warmth, mission, and genuine pastoral concern. The problem is structural (insufficient exposition) rather than spiritual (absence of heart or fire).
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries a genuine burden for the lost and a real love for the persecuted church, and the closing prayer ("May my heart be set on fire for You") rings authentically — but the eternal weight of Psalm 56 itself, the weight of a man crying out to God in mortal danger and finding that God keeps his every tear, is not fully proclaimed.
+
+**Bonus: +1/5**
+
+---
+
+### 17. Rubric Fit Note
+
+Psalm 56 is a lament psalm, and lament psalms present a specific challenge: the movement from complaint to trust is the psalm's own sermon structure, and the rubric's categories (exposition, gospel centrality, application) apply well if the preacher follows that movement. The rubric does not strain against this genre. The difficulty in this sermon is not that the genre resists the rubric but that the text is not inhabited long enough for the genre's own dynamics to appear. The rubric applies cleanly.

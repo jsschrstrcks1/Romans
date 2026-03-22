@@ -542,6 +542,65 @@ The Coordinated Entry System is the HUD-required process for accessing housing p
 | **Homeless Helping Homeless** — Tampa | (813) 415-3586 | Free showers, storage, Wi-Fi, phone, bus passes, food, hygiene kits, clothing, computers |
 
 ---
+## Thus Says the Lord — Sermon Evaluation
+
+**1. Verdict Title:** Not a Sermon — Pastoral Reference Document Outside Rubric Scope
+
+**2. One-Sentence Summary:** This file is a curated directory of emergency contacts, crisis hotlines, shelter listings, and social-service resources for Pasco County — it is a pastoral tool, not a sermon manuscript, and the "Thus Says the Lord" rubric does not apply.
+
+**3. Berean Gate:** NOT APPLICABLE — No text. No passage. No proclamation. There is no sermon here to evaluate. The Berean Gate presupposes a preached or written sermon derived from a biblical text. This document contains no biblical text, no main point, no homiletical argument. The Scopus Test and Authority Test cannot be run because there is no thesis and no preacher standing anywhere in relation to Scripture.
+
+**4. Fatal Flaw Flags:** ALL SIX FATAL FLAW CONDITIONS ARE TECHNICALLY TRIGGERED — but only because the document is not a sermon, not because it is a failed sermon. To flag this document under those categories would be a category error. No score cap is meaningful here because no score applies.
+
+**5. Score Breakdown:**
+
+- Exposition & Hermeneutics (25 pts): 0 — No biblical text is opened, explained, or applied.
+- Theology & Doctrinal Integrity (18 pts): 0 — No theological claims are made.
+- Gospel Centrality & Force (15 pts): 0 — No gospel is presented.
+- Conscience & Applicatory Force (15 pts): 0 — No conscience is addressed.
+- Exhortation & Response (8 pts): 0 — No one is called to believe, repent, obey, or pursue anything.
+- Structure & Logical Flow (9 pts): 0 — Reference-document organization is present but is not sermonic structure.
+- Illustration & Imagination (5 pts): 0 — Not applicable.
+- Sermonic Force (5 pts): 0 — Not applicable.
+
+**6. Cognitive Load Modifier:** Not applicable. The document is well-organized for its actual purpose (a reference table), and a church member or pastor can use it effectively. But cognitive load as a homiletical category does not apply.
+
+**7. Total Score:** No score assigned. This is not a sermon. Assigning a score would be meaningless and potentially misleading.
+
+**8. Core Override Questions:**
+- Does this make me think more of Christ or myself? — Neither. The document does not address this axis.
+- Did I encounter God, or just ideas about Him? — Neither. The document is utilitarian, not theological.
+- Was I comforted, convicted, or merely informed? — Informed, in the most practical sense — which is exactly what this document is designed to do.
+
+**9. Strengths (Top 3):**
+- The document is organized by category (crisis lines, shelters, DV services, veterans, legal, recovery, etc.), making it immediately navigable in a pastoral emergency.
+- Contact information is specific and locally grounded — Pasco County resources, addresses, hours, and eligibility criteria are clearly noted, which is genuinely useful for a pastor doing mercy ministry.
+- The Coordinated Entry System (CES) section includes process notes (VI-SPDAT, By-Name List, 90-day reactivation requirement) that equip a pastor or deacon to actually walk someone through the system rather than merely hand them a phone number.
+
+**10. Critical Weaknesses (Top 3):**
+- There is no theological framing — no statement of why the church holds and uses these resources, no grounding in the imago Dei, the commands to love the neighbor, or the diaconal tradition. A purely functional list without theological anchor can over time become mercy ministry without gospel.
+- There is no gospel entry point noted for any of the organizations listed. The document does not distinguish between secular agencies and Christian ones, or between organizations that will present the gospel and those that will not. A pastor handing someone a list of secular resources with no gospel integration has done social work, not pastoral ministry.
+- There is no internal guidance on how to use these resources pastorally — e.g., "accompany the person," "follow up within 48 hours," "do not give this list without also praying with them." The document is a tool; it offers no instruction on how to wield it with pastoral care.
+
+**11. Blind Spots:** The compiler likely does not see that a resource list without theological framing can quietly train church members to think of mercy ministry as referral coordination rather than Word-and-deed gospel witness. The absence of any gospel-presenting organization (e.g., a rescue mission with chapel, a faith-based recovery program with explicit gospel content) alongside the secular listings is a gap worth noting.
+
+**12. Illusion of Strength:** The comprehensiveness of the list may create confidence that pastoral mercy ministry is being done well. A long, well-organized directory can feel like ministry readiness. But a list is not ministry — it is a precondition for ministry. The illusion here is that having the numbers means the church knows what to do with them.
+
+**13. Missed Opportunity:** This document would be significantly more useful if it included a brief one-paragraph pastoral philosophy of mercy ministry at the top — grounding the church's use of these resources in Scripture (e.g., Luke 10, Acts 6, James 2) and clarifying how the deacons or care team are expected to engage: not as case managers, but as shepherds pointing suffering people toward Christ through tangible care.
+
+**14. Surgical Fixes:**
+- Add a brief theological preamble (3–5 sentences) grounding the document in the church's diaconal theology — why the church keeps this list, what it believes about human dignity, and what distinguishes Christian mercy from secular social work.
+- Add a column or notation to flag which organizations are explicitly Christian or gospel-presenting, so a deacon can make informed referrals when the person's spiritual state is the primary concern.
+- Add a short "how to use this list" section for staff and deacons: pray first, accompany when possible, follow up within 72 hours, never send someone away with only a phone number.
+- Consider adding an internal church care contact (deacon team lead, elder on call) at the top so that community resources exist alongside — not instead of — the church's own pastoral infrastructure.
+
+**15. Dead Orthodoxy Flag:** Not triggered — the category does not apply to a non-sermon document.
+
+**16. Weight of Glory Assessment:** This document carries no eternal gravity of its own — it is a means, not an end. Whether it carries weight of glory depends entirely on how the pastor and deacons pick it up and use it in the presence of suffering people.
+
+**17. Rubric Fit Note:** The "Thus Says the Lord" rubric is purpose-built for sermon manuscripts and does not fit this document. The rubric presupposes a preacher, a text, a congregation, and a proclamation. None of those elements are present here. Applying the scoring framework would produce a meaningless zero and falsely imply the document is a failed sermon rather than what it actually is: a competently assembled pastoral reference tool. The rubric should not be run on reference documents, administrative tools, or resource guides. This evaluation is provided for completeness per the evaluation request, with the explicit notation that no score is valid and no homiletical judgment is implied.
+
+---
 
 **Appendix B: Hernando County Resources (Near County Line)**
 

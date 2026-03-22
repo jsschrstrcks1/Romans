@@ -76,3 +76,192 @@ I'll start, anyone else that would like to pray is welcome to, and then when its
 - **Proverbs 27:17** *(corrected)*: Was NIV wording ("As iron sharpens iron, so one person sharpens another"). Corrected to ESV: "Iron sharpens iron, and one man sharpens another." Verified via BibleGateway. ✓
 - **General MacArthur / Japan missions** *(historically accurate in substance)*: MacArthur's appeal for missionaries to Japan after WWII is a documented historical event — he reportedly requested 10,000 missionaries. The broad narrative (Japanese openness post-defeat; the church's inadequate response; resulting persistent Shinto/Buddhist majority) is accurate. Specific numbers and sourcing should be verified before citing in a written or published context.
 - **"Preacher I used to know"** — "more power in a fragment of God's fingernail clipping than in all of mankind" — unattributed oral quote. Acceptable as a recalled saying; do not attribute to a named source without confirmation.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Pastoral Warmth With an Underdeveloped Exposition — The Gospel Arrives but Doesn't Land**
+
+---
+
+### 2. One-Sentence Summary
+A warm, shepherd-hearted opening of Psalm 68:1-6 that connects God's power to his care for the vulnerable and draws a genuine gospel application, while leaving the text's own argument largely undeveloped and the conscience mostly unaddressed.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with qualification.**
+
+*Scopus Test*: The sermon's main point — that the all-powerful God is father to the fatherless and protector of widows — does arise from Psalm 68:5-6, which is the text's pivot. The sermon handles this legitimately. However, the first half of the sermon (on Baal, Elijah, 1 Kings 18) is a lengthy excursus that delays arrival at this point, and the text's own logic (vv. 1-4 as the theophanic march leading into vv. 5-6's tender care) is never explicitly traced. The main point passes; the argument of the passage is not fully honored.
+
+*Authority Test*: Pass. The preacher submits to the text. He does not soften or editorialize against the passage's claims. The hard edges (hell, wrath, the exclusivity of Christ) are named, even if briefly.
+
+---
+
+### 4. Fatal Flaw Flags
+**One flag triggered — score cap at 69 applies.**
+
+- **Flag #4 — Application is almost entirely generic**: The sermon closes with exhortations to "read your bible, pray, fellowship with other believers, worship, and evangelism" — these are undifferentiated, could apply to any sermon from any text, and do not arise from the specific argument of Psalm 68. The adoption/gospel application is a genuine moment, but even it remains at the level of general warmth rather than pressing specific consciences toward specific response.
+
+*No other fatal flaw flags triggered.*
+
+---
+
+### 5. Score Breakdown
+
+**Category 1 — Exposition & Hermeneutics: 13/25**
+
+- *Textual Fidelity (10)*: 6/10. The sermon covers the text's content but does not trace its argument. Psalm 68:1-6 is a theophanic march psalm — the God who scatters enemies (vv. 1-3) is the same God who fathers orphans (vv. 5-6). This contrast is the sermon's spine, and it is gestured at ("the passage changes tone a bit") but never unpacked with any exegetical force. Verse 4's anti-Baal polemic is handled well. The 1 Kings 18 illustration is long enough to become the sermon's body, displacing the text itself as the center of gravity.
+- *Contextual Awareness (5)*: 3/5. The Baal polemic is handled with cultural intelligence. The covenantal context — Israel's march, the Sinai theophany, God's historical faithfulness — is absent. The psalm's place in the Psalter's theology of the divine warrior is untouched.
+- *Exegetical Clarity (5)*: 2/5. No Greek or Hebrew engagement beyond naming "Yahweh" in passing. The word "settles" in v. 6 is significant (the Hebrew *mושׁיב*, to cause to dwell) but not opened. No explanation of why the psalm uses "Father" language for God.
+- *Logical Faithfulness (5)*: 2/5. The Elijah illustration, while vivid and substantively accurate, runs approximately 700 words and displaces the text. The sermon's logic is more illustrative-associative than text-driven. The fallen condition (human vulnerability, lostness, fatherlessness — spiritual and physical) is implied but never named precisely.
+
+**Category 2 — Theology & Doctrinal Integrity: 12/18**
+
+- *Christ-Centeredness (7)*: 5/7. The adoption metaphor produces a genuine and moving gospel connection: "Our adoption was expensive... a price they both willingly paid." This is organic to the text — Psalm 68's "father to the fatherless" language points forward to adoption theology. The connection is real, not forced.
+- *Redemptive-Historical Awareness (3)*: 1/3. The psalm's place in Israel's history — the exodus, the Sinai march, the ongoing divine-warrior motif — is absent. The sermon treats it as a timeless devotional rather than a covenantal text in a redemptive-historical arc.
+- *Doctrinal Precision (4)*: 3/4. The gospel moments are genuine and mostly accurate. "Apart from Christ what do we deserve? We're only owed punishment and separation from God" is sound. The adoption language is theologically appropriate. Minor imprecision: "A price they both willingly paid" is accurate but could be slightly tightened to clarify the distinction between the Father's giving and the Son's offering.
+- *Confessional Alignment — 1689 Pulse (4)*: 3/4. No contradiction of confessional theology. The doctrines of grace are not explicitly engaged, which is understandable for this text. No drift into Arminian or moralistic framing.
+
+**Category 3 — Gospel Centrality & Force: 9/15**
+
+- *Clarity of the Gospel (5)*: 3/5. The gospel is named and the cross is referenced ("that addiction, our love for sin, cost His Son, his life"). Justification by faith is not explicitly articulated. An unbeliever could hear this sermon and understand that Christ died for sinners, and that adoption is available — but the mechanics of how (faith, repentance, imputation) are not stated. The gospel is present but not fully proclaimed.
+- *Necessity of Christ (5)*: 4/5. Christ is necessary to the sermon's argument — the adoption passage would not function without him. He is not merely decorative.
+- *Cross-Centered Gravity (5)*: 2/5. The sermon moves toward warmth and comfort rather than the cross. The hell/wrath section (Elijah, fire from heaven) is vivid but disconnected from the cross — the sermon describes God's wrath against Baal-worshippers but never explicitly connects that wrath to what Christ absorbed on behalf of those who were themselves Baal-worshippers by nature. The hammer lands; the balm relieves too quickly without sufficient law-work.
+
+**Category 4 — Conscience & Applicatory Force: 7/15**
+
+- *Heart Penetration (5)*: 3/5. The adoption illustration is warm and genuine, and the picture of God welcoming the sinner "with all their baggage" is touching. But the conscience is not searched — no one is cornered by the text. The hard-hearted member, the nominal Christian, the one who trusts in their own sufficiency — none is directly addressed.
+- *Specificity (5)*: 2/5. The closing application ("read your bible, pray, fellowship, worship, evangelism") is not specific to this text. The specific application of Psalm 68 — that the God of terrifying power is tenderly near to the most vulnerable — is not pressed into specific life circumstances beyond a general encouragement.
+- *Spiritual Differentiation (5)*: 2/5. Perkins' taxonomy is essentially unaddressed. The sermon speaks to the broad congregation as if they are all broadly friendly to the gospel. The knowledgeable-but-unhumbled member, the grieving widow who is physically present in the congregation, the person who has been abandoned and doubts God's fatherly care — none are addressed distinctly. The prayer request section (Donna, Curt, Gloria's brother) is more differentiated than the sermon itself.
+
+**Category 5 — Exhortation & Response: 4/8**
+
+- *Call to Response (4)*: 2/4. The closing "read your bible, pray, fellowship" is a genuine exhortation but is generic rather than text-derived. There is no "therefore" moment that flows from this specific text. The congregation is comforted but not summoned.
+- *Equipping for Holiness & Witness (4)*: 2/4. The people-group focus on Japan is a genuine and commendable evangelistic application — this is a real strength. The iron-sharpens-iron exhortation is practical. But the equipping remains at the level of general spiritual disciplines rather than text-specific mission.
+
+**Category 6 — Structure & Logical Flow: 6/9**
+
+- *Clarity of Outline (4)*: 3/4. The sermon has a traceable three-movement shape: God's power over the Baals → God as father to the fatherless/protector of widows → application to Christian life in hard times. This is coherent.
+- *Progression (3)*: 2/3. The Elijah illustration is the structural problem. At approximately 700 words, it occupies more space than any other section and is, at its core, an illustration of something covered in Part 1. Its presence in Part 2 is logical but not tightly controlled.
+- *Unity (2)*: 1/2. There are at least four competing ideas: God vs. Baal, God's care for the vulnerable, adoption as a gospel picture, and Christian community in hard times. The seed-and-flower metaphor and the *Alone* television show illustration both feel appended rather than integral.
+
+**Category 7 — Illustration & Imagination: 4/5**
+
+- *Relevance (2)*: 2/2. The illustrations are drawn from the congregation's actual world: specific named families (Lindsay, Konner, Madison; Josh and Sarah), the *Alone* survival show, limpets, seeds, Elijah. These are concrete and local. This is a genuine strength.
+- *Clarity (2)*: 1/2. The Elijah illustration illuminates God's power but runs long enough to become its own event. The seed-germination metaphor is evocative but introduces botanical detail (cotyledons) that may slightly outrun the congregation.
+- *Memorability (1)*: 1/1. "Withdrawing from God and from those that love you is like walking past the most delectable buffet, and hunting limpets while slowly starving." This will be remembered.
+
+**Category 8 — Sermonic Force: 3/5**
+
+- *Reads as Preaching (2)*: 2/2. The manuscript reads like spoken word. It has oral cadence, direct address, honest asides, congregational awareness. This is a genuinely preached text, not an essay.
+- *Conviction on the Page (2)*: 1/2. The conviction is present in moments (hell, wrath, adoption cost) but diffuse. Long stretches of the Elijah narrative are storytelling without sermonic bite.
+- *Cadence and Breath (1)*: 0/1. Sentence variation is present but the climactic compression is missing. The sermon trails into prayer requests rather than landing on a single, weighty note.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: −1**
+
+The sermon is not inaccessible. An ordinary church member can follow it. The Elijah narrative is long but familiar. The seed metaphor introduces one unfamiliar term (cotyledons) without disruption. The main ideas are clear. One fewer extended illustration would improve tracking. The transition from Baal-power to orphan-care to Christian community in hard times asks the listener to make three conceptual leaps — manageable but slightly effortful.
+
+---
+
+### 7. Total Score
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 13/25 |
+| Theology & Doctrinal Integrity | 12/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 7/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **58/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **59/100** |
+
+**Fatal Flaw Cap Applied: Score capped at 69.** The raw score of 59 falls below the cap, so the cap does not change the result.
+
+*Interpretation: Below 60 — Fundamentally underdeveloped. The pastoral heart is present and the gospel is named, but the sermon has not yet become an exposition of Psalm 68. Revision needed at the structural level, not just polish.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+   Mostly Christ. The adoption passage is genuinely Christ-centered. The closing section tilts toward self and community disciplines.
+
+2. **Did I encounter God, or just ideas about Him?**
+   Partially. The Elijah fire-from-heaven moment carries genuine awe. The tender-father section is warm but does not produce encounter so much as comfort.
+
+3. **Was I comforted, convicted, or merely informed?**
+   Primarily comforted and informed. The conscience is largely undisturbed. A member living in comfortable, self-sufficient spiritual routine would leave this sermon without having been pressed.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The adoption illustration is genuinely pastoral and gospel-connected.** The pivot at "taking in children that aren't yours is a challenge" — drawing on named, real families the congregation knows — and then connecting it to divine adoption is warm, specific, and theologically sound. "Our adoption was expensive... a price they both willingly paid" is the sermon's best moment.
+
+2. **The Baal polemic is culturally intelligent and exegetically grounded.** The explanation of "him who rides through the deserts" as a direct challenge to Baal's domain is accurate, clear, and interesting. The cultural background enriches the text rather than displacing it here.
+
+3. **Congregational specificity and illustration are consistently drawn from real life.** Named families, the *Alone* show, limpets, specific prayer requests — this sermon is clearly addressed to an actual community, not a generic audience. The limpet-vs-buffet illustration is genuinely memorable.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The 1 Kings 18 Elijah narrative displaces the text as the sermon's body.** Running approximately 700 words, it occupies the central position in the sermon while Psalm 68:1-6 receives proportionally far less attention. The Elijah story illustrates a point made in Part 1 (God's power over enemies). In Part 2, it becomes the structural anchor — which means the sermon is largely built on an illustration of a prior sermon's point, not on the passage at hand. The text's own argument (theophanic march → tender care for the vulnerable) never fully emerges.
+
+2. **The closing application is generic and text-detached.** "Read your bible, pray, fellowship with other believers, worship, and evangelism" (closing section) could close any sermon from any text. It does not arise from Psalm 68's specific claims. The text's powerful peculiarity — that the God of fire-from-heaven specifically seeks out widows and fatherless children — is not converted into specific, conscience-level application.
+
+3. **The law is not allowed to work before the gospel relieves it.** The wrath/hell moment (fire consuming the altar, "imagine facing the wrath of God for eternity") is vivid, but it does not press the hearer personally before comfort arrives. The sequence moves from wrath-as-spectacle to gospel-comfort without a personal indictment of the hearer's own sin and need. The hammer does not land before the balm is applied.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how much of the sermon's work is being done by the Elijah narrative rather than by Psalm 68. The illustration feels like the body of the sermon because it is vivid and familiar — but in occupying that structural position, it has quietly demoted the text to a framing device. The preacher is also likely unaware that the congregation's most vulnerable members (those experiencing actual loneliness, grief, or abandonment) are addressed in the illustration (adoption, widowhood) but not directly — the sermon speaks *about* them rather than *to* them.
+
+---
+
+### 12. Illusion of Strength
+
+The Elijah passage feels like the sermon's strongest section because it is the most detailed, vivid, and scripturally dense. The 1 Kings 18 material is accurate, well-researched, and preached with energy. But this is illustrative strength masking expositional weakness: the sermon is more confident about 1 Kings 18 than about Psalm 68. The congregation leaves with a vivid picture of Elijah's contest — and a somewhat thinner understanding of what Psalm 68 actually says and why it was written.
+
+---
+
+### 13. Missed Opportunity
+
+Verse 6b — "he leads out the prisoners to prosperity" — is a profound gospel text. The Hebrew word translated "prosperity" (*כּוֹשָׁרוֹת*, kosharot) is unusual and disputed, but the image is striking: prisoners led to flourishing. This is not merely a picture of social liberation — it is an image of radical reversal, the kind of reversal the gospel produces. The sermon mentions this verse but does not open it. A full paragraph on the prisoner-to-prosperity reversal — applied both to Israel's history and to the gospel's work in the sinner's life — would have been this sermon's most powerful moment and would have directly strengthened the weakest category (conscience and applicatory force).
+
+---
+
+### 14. Surgical Fixes (4)
+
+1. **Reduce the Elijah narrative by half and return that time to Psalm 68.** The key beats of 1 Kings 18 (drought, contest, fire, Baal's silence) can be communicated in 300 words. The remaining 400 words should be given to Psalm 68:5-6's specific argument: why does a God of devastating power call himself "father to the fatherless"? What is the psalm saying about God's character by juxtaposing these images? That contrast is the sermon's theological heart and it is currently underdeveloped.
+
+2. **Add direct address to the widow, the orphan, and the abandoned in the congregation.** The sermon speaks *about* vulnerable people but not *to* them. After the adoption passage, add something like: "If you are alone today — if you have lost your husband, your father, your family — this text is not about someone else. This God is making a specific claim about you. He is not generically benevolent. He is your father. This is his promise to you." This moves the sermon from warm teaching to pastoral proclamation.
+
+3. **Insert a law-work moment before the gospel.** Before the adoption illustration, press the hearer's personal guilt: "But notice — God doesn't adopt people who deserve it. He adopts people who are addicted to sin, who have worshipped Baals of their own making — comfort, money, approval, self. You and I are not the noble missionaries MacArthur called for. We are the Japanese. We were Baal-worshippers. And this God chose us anyway." This applies the law personally before the gospel relieves it.
+
+4. **Replace the generic closing application with one text-specific imperative.** Instead of the general spiritual disciplines list, close with something arising directly from Psalm 68: "Because God is father to the fatherless, your job this week is to find one person in this church who is alone — one widow, one single parent, one person sitting at the edge of this community — and become the instrument of what this psalm promises. God fathers the fatherless through his people. Go be that." This is specific, exhortatory, corporate, and text-derived.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon does not score high enough in exposition or theology to trigger the dead-orthodoxy diagnostic. The pastoral warmth is genuine, not bloodless. The weaknesses here are developmental, not attitudinal.
+
+---
+
+### 16. Weight of Glory Assessment
+The sermon carries genuine pastoral warmth and a real love for the congregation — named families, specific prayer requests, a shepherd's attention to actual people — but does not yet carry the full eternal weight of Psalm 68, a text written to make God's terrifying tenderness press on the soul. +2/5.
+
+---
+
+### 17. Rubric Fit Note
+Psalm 68 is a theophanic hymn — a text that celebrates God's historical and eschatological march on behalf of his people. It belongs to the genre of the divine-warrior psalm, which means its logic is covenantal and historical before it is applicatory. The rubric's Exposition and Redemptive-Historical categories press appropriately on this text — a sermon on Psalm 68 that does not situate God's fatherhood within the covenantal march is genuinely missing something. The Conscience & Applicatory Force categories are slightly harder to score on a psalm than on an epistle, because psalms are primarily doxological — they are addressed to God, not to us. The rubric bends slightly here: the applicatory categories are legitimate but should be measured against the grain of the genre. A psalm sermon that produces worship and wonder alongside application is functioning well. This sermon produces warmth; it has not yet produced either the worship the psalm calls for or the specific application the congregation needs.

@@ -72,3 +72,245 @@ Pride is one of those wicked and pernicious sins that no matter how well you thi
 C.S. Lewis said, "Pride gets no pleasure out of having something, only out of having more of it than the next man. We say people are proud of being rich, or clever, or good-looking, but they are not. They are proud of being richer, or cleverer, or better-looking than others."
 
 Perhaps tonight you're sitting there and you've —
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+
+**Promising Typology, Unfinished Sermon — A Draft That Hasn't Arrived at Its Own Point**
+
+---
+
+### 2. One-Sentence Summary
+
+A sermon on Genesis 4:1–16 that surfaces genuinely rich Abel/Christ typology and makes a promising start at applicatory conscience-work, but ends mid-sentence before the exhortation lands — leaving the congregation diagnosed but not summoned.
+
+---
+
+### 3. Berean Gate
+
+**Pass — with qualification.**
+
+*Scopus Test:* The sermon's implied thesis — that God accepts offerings made in faith and rejects those made in pride and disobedience — does arise from the passage, though it is never stated as a single controlling sentence. The sermon pursues multiple angles (typology, offering quality, pride) without fusing them into one main point.
+
+*Authority Test:* The preacher submits to the text, corrects a dangerous misreading, and presses toward conscience application. He does not soften the text's claims.
+
+**Gate: Pass (with note that the sermon is a draft — it ends mid-sentence and has no conclusion, exhortation, or gospel landing).**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 5 — No actual exhortation:** The manuscript ends before any clear call to response is issued. What exists is setup and illustration, but the congregation is never summoned to believe, repent, or obey.
+
+**Flag: Score capped at 69.**
+
+*Note:* This flag is partially mitigated by the sermon being an incomplete draft. The flaw is architectural, not theological — the preacher clearly intends to exhort (see "Perhaps tonight you're sitting there…") but the manuscript breaks off before delivery. The cap stands, but should be re-evaluated when the sermon is complete.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 17/25**
+
+- *Textual Fidelity (10):* **7** — The sermon treats the text responsibly. The threefold analysis of why Cain's offering was rejected (type, quality, heart) is exegetically sound and honest about uncertainty. The Ironside argument for behind-the-scenes instruction (Romans 10:17 + "fullness of time") is reasonable and accessible. However, Genesis 4:9–16 (Cain's banishment, the curse, the mark) receives no treatment at all — the sermon quietly stops at verse 8.
+- *Contextual Awareness (5):* **3** — The Fall backdrop is implied and the Abel/Christ typology carries some redemptive-historical awareness. But the sermon makes no explicit connection to Genesis 3 (the promise of the Seed, the fur coats as proto-sacrifice), which would have strengthened the "they must have known" argument considerably.
+- *Exegetical Clarity (5):* **4** — The "fullness of time" / Hebrew note and the "some of his fruit" vs. "fattest firstborn" contrast are well-explained. Accessible without being shallow.
+- *Logical Faithfulness (5):* **3** — The three reasons for Cain's rejection are asserted somewhat in parallel without clear logical subordination. The "heart problem" section is the weakest exegetically — it leans on implication rather than demonstrated textual grounding.
+
+**Subtotal: 17/25**
+
+---
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness (7):* **6** — The Abel/Christ typology table is the theological centerpiece of the sermon and it is genuinely strong. The parallels are organically grounded in the texts cited (Hebrews 11, John 10, Acts 2, Ephesians 5) rather than forced. This is covenantally aware typology, not a "Jesus jump."
+- *Redemptive-Historical Awareness (3):* **2** — Present implicitly through the typology. Could be strengthened by an explicit statement of where this text sits in the Covenant of Grace and its promise of the Seed.
+- *Doctrinal Precision (4):* **3** — The sacrifice/atonement logic is sound (blood covering sin). The statement that God's acceptance of Abel's offering "moved God's heart a little" is imprecise — it anthropomorphizes in a way that slightly softens the text's theological weight.
+- *Confessional Alignment (4):* **2** — The sermon is broadly evangelical and Reformed-compatible, but the Covenant of Works / Covenant of Grace distinction — highly relevant here — is absent. Cain and Abel sit at the hinge of proto-redemptive history, and the sermon doesn't articulate that.
+
+**Subtotal: 13/18**
+
+---
+
+**3. Gospel Centrality & Force — 9/15**
+
+- *Clarity of the Gospel (5):* **3** — The gospel is present through the typology, but it is embedded in a table rather than proclaimed. Justification by faith is not clearly articulated. The final row of the typology table — "Though we deserved death, we like Cain are offered life" — is the closest the sermon comes to a gospel declaration, and it stops short of naming the cross, the resurrection, or faith as the means.
+- *Necessity of Christ (5):* **4** — Christ is clearly necessary to the sermon. The typology makes Him the fulfillment of Abel and the anti-type toward which the whole offering system pointed.
+- *Cross-Centered Gravity (5):* **2** — The sermon points toward the cross through typology but never arrives there. There is no moment where Christ's atoning death is proclaimed as the ground of acceptance before God.
+
+*Synagogue Test:* A devout Old Testament monotheist could largely follow this sermon. The typological table would be interesting to a rabbi. The cross is gestured at but not scandalized. **Mild concern.**
+
+**Subtotal: 9/15**
+
+---
+
+**4. Conscience & Applicatory Force — 9/15**
+
+- *Heart Penetration (5):* **4** — The section on pride (Comparison — The Sin of Pride) is the sharpest applicatory move. The C.S. Lewis quote on pride lands well. The grandmother illustration is warm but serves exposition more than conscience-searching.
+- *Specificity (5):* **3** — The young couple illustration (marital collapse, affair, anger at God) is specific and sharp — it names actual sins and consequences. The Saturday-rest personal disclosure (preacher arranging his week) is honest but risks modeling personal practice rather than pressing congregational conscience.
+- *Spiritual Differentiation (5):* **2** — The sermon speaks mostly in the plural ("we," "us") and does not systematically distinguish hearers. The unbeliever in the room is not directly addressed. The backslider — a natural category for this text, given Cain's trajectory from nominal worshiper to murderer — receives no distinct address. The "Perhaps tonight you're sitting there…" setup is cut off before differentiation occurs.
+
+**Subtotal: 9/15**
+
+---
+
+**5. Exhortation & Response — 2/8**
+
+- *Call to Response (4):* **1** — The manuscript ends before any exhortation is issued. "Perhaps tonight you're sitting there…" is the beginning of one, not the delivery.
+- *Equipping for Holiness & Witness (4):* **1** — The Saturday-rest example is the closest the sermon comes to sending the congregation out equipped. It is one preacher's practice, not a congregational send.
+
+**Subtotal: 2/8**
+
+---
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline (4):* **3** — The sections are clearly labeled and follow the text in sequence. The "Fat and Flavor" opening, the Mark of Cain correction, and the typology table are all intelligible stops. However, the relationship between sections is never made explicit — the sermon accumulates observations rather than building an argument.
+- *Progression (3):* **2** — The sermon moves from background to typology to analysis to application, which is a reasonable shape. The appendage feel of the opening illustration (fat meat) is never fully resolved into the sermon's argument.
+- *Unity (2):* **1** — The sermon pursues at least four distinct ideas: (1) the Abel/Christ typology, (2) why Cain's offering was rejected, (3) the misuse of the Mark of Cain in history, and (4) the sin of pride. These are related but not unified under one controlling idea.
+
+**Subtotal: 6/9**
+
+---
+
+**7. Illustration & Imagination — 3/5**
+
+- *Relevance (2):* **2** — The fat-meat opening, the grandmother's bargain tomatoes, and the young couple are all drawn from real life. They are native to this congregation's world.
+- *Clarity (2):* **1** — The grandmother illustration is warm but it does not clearly illuminate the theological point. It demonstrates the opposite of what God wants, but the application direction is muddied.
+- *Memorability (1):* **0** — The strongest candidate for a memorable image — Abel's "fattest firstborn" contrasted with Cain's "some fruit" — is stated rather than pictured. The grandmother illustration is memorable but may displace the more important image.
+
+**Subtotal: 3/5**
+
+---
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2):* **2** — The sermon reads in an oral register. Direct address is natural. The preacher's voice is present and unaffected.
+- *Conviction on the Page (2):* **1** — There are moments of assertion (the Mark of Cain correction is delivered with genuine force), but much of the manuscript is explanatory rather than declarative. The typology table, while theologically substantive, functions more like a Bible study handout than preached proclamation.
+- *Cadence and Breath (1):* **0** — Sentence variation is inconsistent. Several explanatory sections run long without a compression point or pivot.
+
+**Subtotal: 3/5**
+
+---
+
+**9. Weight of Glory Bonus — +2/5**
+
+The Abel/Christ typology, if preached with full force, carries eternal weight. The sermon reaches toward it. The draft does not yet deliver it. One point for the theological architecture; one for the honest correction of a racist misreading that honors the imago Dei.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1** — Slightly dense due to four competing ideas. One clearer dominant thread would help. The typology table is information-rich and benefits from being a visual handout, but the surrounding sermon does not always frame it interpretively for the listener who cannot hold a table in their head.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 17/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 2/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **62/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **63/100** |
+
+**Score capped at 69 due to Fatal Flaw Flag 5 (no exhortation).** Raw score of 63 falls below the cap, so cap does not further restrict.
+
+**Band: Concerning gaps (60–69).** The sermon explains but has not yet preached. Significant completion and revision needed.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* **Partly Christ** — the typology table points clearly to Christ. The applicatory sections tilt toward self-examination without the gospel relief that would anchor them in Christ.
+2. *Did I encounter God, or just ideas about Him?* **Ideas about Him, mostly.** The doctrinal architecture is present. The encounter is not yet summoned.
+3. *Was I comforted, convicted, or merely informed?* **Informed, with the beginnings of conviction.** The pride section presses. The sermon stops before comfort or full conviction lands.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Abel/Christ typology table is the sermon's best work.** The parallels are exegetically grounded (every citation is earned), organically arising from covenantal-typological logic rather than bolted on. This is not a "Jesus jump" — it is a legitimate reading of the text through Hebrews 11 and the canon.
+
+2. **The Mark of Cain correction is pastorally courageous and historically necessary.** Naming the abuse of this text in the service of slavery — and naming it plainly as sin, eisegesis, and evil — is an act of hermeneutical integrity that protects the congregation and honors the text.
+
+3. **The young couple illustration is genuinely sharp.** It names specific sins (violence, adultery, God-avoidance, blame-shifting) and traces the trajectory of a life where sin was allowed to rule. It is the kind of illustration that earns its place in a sermon on Cain's defiance of God's warning.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The sermon has no conclusion, no exhortation, and no gospel landing.** It ends mid-sentence. Whatever the preacher intended to say — and the setup suggests it would have addressed specific categories of hearers — it was never written or preached. A sermon that stops before the exhortation has not yet become a sermon.
+
+2. **The gospel is embedded in a table, not proclaimed from the pulpit.** The final row of the typology ("Though we deserved death, we like Cain are offered life") is the closest the sermon comes to a gospel declaration — and it is a passive clause in a chart. Justification, the cross, the resurrection, faith — none are proclaimed. The Synagogue Test reveals the gap: a synagogue congregation could receive this sermon as a meditation on sacrifice typology without being confronted by the necessity of Christ's blood.
+
+3. **The sermon lacks a single controlling idea.** Four parallel tracks (typology, offering analysis, historical correction, pride) run alongside each other without being subordinated to one dominant point. The congregation leaves with observations, not a text-driven thesis they can carry home.
+
+---
+
+### 11. Blind Spots
+
+The preacher may not see that the typology table, while theologically rich, functions more as a teaching aid than as preached proclamation. A table can inform the mind; it requires a preacher's voice — and the sermon's integrating argument — to move the heart. The table needs to be *announced* and *applied*, not merely displayed.
+
+There is also a missed internal connection: the preacher's own Saturday-rest practice is presented as an example of giving God the best — but it implicitly models a private devotional discipline rather than calling the congregation to a corporate pattern. The congregation may leave impressed by the preacher's habits rather than convicted about their own.
+
+---
+
+### 12. Illusion of Strength
+
+The Abel/Christ typology table *feels* like the sermon's climax because it is the most visually organized and theologically dense section. But in fact it is a teaching moment, not a preaching moment. The table shows what is true; it does not yet declare what must therefore be done. The congregation may feel they have received a substantial theological meal when they have received the ingredients, not the dish.
+
+---
+
+### 13. Missed Opportunity
+
+Genesis 4:6–7 is one of the most pastorally urgent moments in all of early Genesis — God himself, before judgment falls, stooping to ask Cain: *"Why are you angry? If you do well, will you not be accepted?"* This is a grace moment. God is not obligated to warn Cain. He does it anyway. The sermon quotes the passage and notes Cain's defiance, but does not dwell on the astonishing mercy of God's warning — the God who knew what Cain was about to do, and still reached out first. That moment is where the sermon's gospel nerve should fire: God still reaches first, even toward the Cains among us. The sermon hurries past it.
+
+Additionally, Genesis 4:9–16 — Cain's banishment, the mark of protection, the city of Nod — receives no treatment. The mercy embedded in the mark (God protecting the murderer from blood vengeance) is itself a proto-gospel moment the sermon could have seized.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Complete the sermon.** The manuscript ends at "Perhaps tonight you're sitting there and you've —." Write the exhortation. Address at minimum: the Cain in the room (the one who is going through religious motions with an unrepentant heart), the Abel in the room (the one whose faith is genuine and whose offering is costly), and the one being warned right now by God and choosing defiance. Call each to a specific response.
+
+2. **State the controlling thesis before the first section.** Something like: *"God accepts the offering made in faith from a whole heart — and only that offering, because only that offering points to the one true Lamb."* Hang everything else on that hook.
+
+3. **Proclaim the gospel from the text, not just table it.** After the typology table, step out of the structure and preach: "What Abel's death only whispered, Christ's cross screams — that God accepts sinners not because of the quality of their offering but because of the perfection of His Son's." Let the typology become a launching pad for the gospel declaration, not the destination.
+
+4. **Develop Genesis 4:6–7 as the mercy-before-judgment moment.** Slow down. Let the congregation hear God's question to Cain as God's question to them right now. *"Why are you angry? If you do well, will you not be accepted?"* God still asks this. Christ is the answer.
+
+5. **Tighten the opening.** The fat-meat illustration is clever but requires too much setup before the theological payoff arrives. Consider cutting it to two sentences and integrating it directly into the "quality of the offering" section rather than leading with it before the passage is read.
+
+6. **Add direct address to differentiated hearers in the application.** "Some of you have been doing exactly what Cain did — attending, going through the motions, and privately resenting the person whose faith seems to have cost them something yours hasn't. God's word to you is the same word He gave Cain: *'Sin is crouching at the door. Rule over it — before it rules over you.'"*
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is not bloodless — the preacher's pastoral instincts are warm and his applicatory intent is evident. The concern here is incompleteness, not inertness.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon reaches toward eternal gravity through the Abel/Christ typology and the proto-gospel logic of blood sacrifice, but does not yet arrive — the draft ends before the weight can fully land on the congregation.
+
+---
+
+### 17. Rubric Fit Note
+
+This rubric is designed primarily for complete sermon manuscripts. This file is a draft that ends mid-sentence, which means categories 5 (Exhortation), 3 (Gospel Centrality), and 4 (Conscience/Applicatory Force) are structurally disadvantaged — the sermon almost certainly intended to address these in its unwritten conclusion. The evaluation scores what exists; the preacher should not read the scores for those categories as a judgment on his intent, but as an incentive to complete the work. The rubric is well-suited to Old Testament narrative; the typological reading of Abel does not strain the framework but extends it naturally toward the theological categories the rubric measures.
+
+*Soli Deo Gloria.*

@@ -400,3 +400,171 @@ May the Christ who welcomed you when you were far off draw you near to one anoth
 And may the Spirit who fills you with hope make that hope overflow — until the dawn.
 
 Amen.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**File:** Romans 15a - The Welcome We've Been Given.md
+**Text:** Romans 15:1–13
+**Evaluated:** 2026-03-22
+
+---
+
+### 1. Verdict Title
+The Climax of the Welcome Argument — Christ-Grounded, Nations-Scoped, Eschatologically Anchored
+
+---
+
+### 2. One-Sentence Summary
+A strong continuation of the Romans 14–15 arc that develops the obligation of the strong (vv.1–3), the unity goal (vv.5–6), the welcome command (v.7), and the surprising Gentile-inclusion scope of the OT quotations (vv.8–12), climaxing in a glorious benediction — slightly below its companion (Romans 14a) in applicatory specificity but richer in redemptive-historical scope.
+
+---
+
+### 3. Berean Gate
+**PASS**
+
+*Scopus Test:* "Welcome one another as Christ has welcomed you, for the glory of God" (v.7) is the text's thesis and the sermon's. The sermon tracks all five movements of the passage: obligation of the strong (vv.1–3) → OT purpose (v.4) → unity/one voice goal (vv.5–6) → welcome command (v.7) → Gentile-inclusion scope from OT (vv.8–12) → benediction (v.13).
+
+*Authority Test:* The preacher submits fully. He doesn't soften the debt the strong owe the weak, the Christ-model of not pleasing himself, or the missional scope of the welcome.
+
+---
+
+### 4. Fatal Flaw Flags
+**None triggered.**
+
+- Gospel present: Psalm 69:9 applied to Christ's bearing; Romans 5:8 quoted; "While we were still sinners, Christ died for us."
+- Main point equals text's point.
+- Christ is the model and the ground — his bearing and his welcome.
+- Application addresses five hearers specifically.
+- Exhortation is clear: "Now give it."
+- Accessible to ordinary hearers.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 22/25**
+
+- *Textual Fidelity (9/10):* All five text movements receive treatment. *opheilomen* (we owe, v.1) and *bastazein* (bear, v.1) are explained with Galatians 6:2 support. Psalm 69:9 (v.3) is identified, explained, and typologically read (David → Christ). v.4's hermeneutical statement ("written for our instruction") is developed as a rationale for OT use. vv.5–6 prayer for harmony/one voice explained. v.7 *proslambanesthe* as present middle imperative ("keep welcoming, never stop") is the Greek highlight, supported by Acts 28:2 and Philemon 17. vv.8–12 four OT citations identified and sourced (2 Samuel 22:50 / Psalm 18:49; Deuteronomy 32:43; Psalm 117:1; Isaiah 11:10). v.13 benediction unpacked in three moves (source, content, result).
+- *Contextual Awareness (4/5):* The chapter-division note is excellent and rarely made from the pulpit. John Murray on Jewish/Gentile table fellowship is well-placed. The "Night Is Far Gone" series frame is used well. Genesis 12:3 traced to the OT citations.
+- *Exegetical Clarity (4/5):* Schreiner's typological reading of Psalm 18:49 (David → risen Christ claiming the nations) is the exegetical high point. The FCF: we tolerate at a distance when we are obligated to bear. The proslambanō word study is deepened by the Acts 28 and Philemon 17 usages.
+- *Logical Faithfulness (5/5):* No eisegesis. The text governs throughout.
+
+**2. Theology & Doctrinal Integrity — 16/18**
+
+- *Christ-Centeredness (6/7):* Christ as the one who bore reproaches (Ps 69:9 applied), who "did not please himself," who welcomed us while we were dead/enemy (Rom 5:8). The cross is the model and the ground, not an illustration.
+- *Redemptive-Historical Awareness (3/3):* Outstanding. Four OT citations demonstrated as always-planned Gentile inclusion. Genesis 12:3 → Isaiah 11:10 → Revelation 7:9-10. The psalmist David typologically pointing to the risen Christ singing among the nations. This is the sermon's redemptive-historical crown.
+- *Doctrinal Precision (4/4):* The Spirit as the agent of hope (v.13) is precisely stated. "You can't grit your teeth and make yourself hopeful. The Spirit produces it in you." Perseverance from earlier sermon assumed.
+- *Confessional Alignment (3/4):* No contradiction. Slightly less confessionally explicit than Romans 14a (no 1689 citations), though the content is confessional.
+
+**3. Gospel Centrality & Force — 13/15**
+
+- *Clarity (4/5):* Romans 5:8 quoted. The bearing of reproaches at the cross is explicit. Not a full evangelistic proclamation but fully appropriate for the congregational context.
+- *Necessity of Christ (5/5):* Christ's not-pleasing-himself is the only ground for the obligation. Without the cross, the command has no engine.
+- *Cross-Centered Gravity (4/5):* The sermon's climax is doxological (Revelation 7:9-10) rather than cross-centered. This is appropriate to the text's own movement — the passage ends with a benediction of hope, not a cross passage. The sermon matches its text's emotional register well.
+
+**4. Conscience & Applicatory Force — 12/15**
+
+- *Heart Penetration (4/5):* "If you feel weak... if you feel strong... if your marriage is struggling... if you're estranged from family... if you're fighting addiction." Five categories. The addiction section ("You didn't get clean first") is the most pastorally direct.
+- *Specificity (4/5):* The categories are specific by type but lack the person-specific illustrations that made Romans 14a's Holly and Rami so effective. The sermon would be strengthened by one concrete story in the application.
+- *Spiritual Differentiation (4/5):* Five hearers addressed — but without the sixth (weaponized weakness) from Romans 14a, and without specific names. The differentiation is real but slightly more generic than its companion.
+
+**5. Exhortation & Response — 7/8**
+
+- *Call to Response (4/4):* "Now give it." "Get under the burden." "Leave the door open." Clear and direct.
+- *Equipping for Holiness & Witness (3/4):* "Practicing for eternity" frame equips the church for corporate life and eschatological orientation. No specific witness-equipping for unbelievers (slightly less missionary than the People Group framing would suggest).
+
+**6. Structure & Logical Flow — 9/9**
+
+- *Clarity (4/4):* Five labeled sections + five application categories. Traceable.
+- *Progression (3/3):* Obligation → OT grounding → harmony goal → welcome command → nations scope → benediction. The structure escalates properly.
+- *Unity (2/2):* "Welcome one another as Christ has welcomed you, for the glory of God." One idea.
+
+**7. Illustration & Imagination — 4/5**
+
+The "practicing for eternity" / Revelation 7:9-10 frame is the sermon's most memorable move — the dawn as a choir of all nations provides an image that will stay. The Malta (Acts 28) and Philemon examples give the word study texture. The "daylight" series metaphor lands well here. No personal story in the application — the one gap.
+
+**8. Sermonic Force — 5/5**
+
+- *Reads as Preaching (2/2):* "Did he wait until you cleaned up your act?... No." Short paragraphs. Direct address.
+- *Conviction (2/2):* "If Christ bore your weight when you had nothing to offer — how can you refuse?" That is preached.
+- *Cadence (1/1):* Good variation; short sentences at pressure points.
+
+---
+
+### 6. Cognitive Load Modifier
+**−1** — Five exegetical sections plus five application categories. Dense but navigable.
+
+---
+
+### 7. Total Score
+**92 / 100**
+
+*Interpretation: Strong and faithful. Minor sharpening needed. Ready for the pulpit.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Christ — his bearing and his welcome ground everything.
+2. **Did I encounter God, or just ideas about Him?** The benediction ("may the God of hope fill you") lands as a word spoken over the congregation, not just described.
+3. **Was I comforted, convicted, or merely informed?** Convicted (strong owe a debt) and comforted (the God of hope). Not merely informed.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Schreiner typological reading of Psalm 18:49.** David's victory psalm → the risen Christ claiming the nations as his own. This is exegetically surprising, textually grounded, and missionally staggering. Most preachers skip past the OT quotations as proof texts. The preacher mines them.
+2. **"Every Sunday when we gather, we rehearse eternity."** Theologically dense in six words. The church's gathering as eschatological practice — practicing for the Revelation 7 choir — reframes every aspect of congregational life.
+3. **The benediction close matching the passage's own benediction.** "May the God who bore your weakness give you strength to bear another's." The sermon closes with prayer language over the congregation that echoes and deepens v.13. This is the right tone and the right theological note.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The application lacks a concrete story.** Romans 14a had Holly and Rami. This sermon has five application categories but no person. One specific story — a moment where someone bore another's burden at cost — would give the application the same weight the exegetical section carries.
+2. **The People Group of the Week (Burmese) is not connected back in the close.** Like Romans 14a, the missional framing set up at the beginning is not retrieved in the conclusion. "Thirty million Burmese who have not yet heard 'you are welcome'" deserves a callback.
+3. **The marriage application is the weakest category.** "In the ordinary frictions of marriage — the habits and differences that grate but are not sin" is abstract. A single specific example (the crockpot food texture; the person who married someone with a different political tempo) would make it land.
+
+---
+
+### 11. Blind Spots
+
+The "by the power of the Holy Spirit" in v.13 is identified as the agent of hope but not developed as the ground of all the weight-bearing described in vv.1–6. The Spirit is the one who produces in the strong the capacity to bear. This pneumatological dimension — sanctification as Spirit-wrought, not willpower — is present at the end but could be threaded through the entire sermon's obligation section.
+
+---
+
+### 12. Illusion of Strength
+
+The four OT quotations section feels comprehensive — four sources, all making the same point. But the sermon identifies the point (Gentiles always included in the plan) without fully landing on its implications for the church in the room. "You are the answer to four thousand years of prophecy" would have turned the redemptive-historical observation into congregational self-understanding.
+
+---
+
+### 13. Missed Opportunity
+
+**Verse 13 — "by the power of the Holy Spirit you may abound in hope."** The word *perisseuein* — abound, overflow — is the same word in 2 Corinthians 9 about generous giving overflowing. The benediction of hope is not just a feeling; it is the Spirit producing an overflow that spills out on those around you. The abounding hope is the mechanism of the welcome. This connection — the Spirit fills you with overflowing hope, and that overflow is what you give the weak brother — was one paragraph away.
+
+---
+
+### 14. Surgical Fixes
+
+1. Add one concrete story in the application section — a moment from pastoral experience where bearing a burden at cost produced the welcome Paul describes.
+2. Add a Burmese callback in the close: "Thirty million people haven't heard 'you are welcome.' The welcome has to start here, in this room, with this family."
+3. Develop the Spirit as the ground of weight-bearing in vv.1–3, not only as the agent of hope in v.13: "You don't manufacture the capacity to bear. The Spirit who produces hope also produces the strength to carry."
+4. Land the Gentile-inclusion argument on the congregation: "You are not an afterthought to the covenant. You are what four Old Testament books were promising."
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The application is genuine, the gospel is the ground, and the benediction carries real pastoral weight.
+
+---
+
+### 16. Weight of Glory Assessment
+"Every Sunday when we gather, we rehearse eternity." Revelation 7:9-10 as the destination — the dawn the church is walking toward. A man who has been with God would be moved by the four OT citations converging on the Messiah welcoming the nations. **+4/5** (the missed Spirit-as-overflow connection and the lack of a concrete story hold it from a 5).
+
+---
+
+### 17. Rubric Fit Note
+Romans 15:1–13 is didactic-ethical with heavy OT citation and a doxological benediction. The rubric fits well. The OT citation section (vv.8–12) stresses the redemptive-historical category in a positive direction — the sermon is rewarded for its textual precision there. The benediction (v.13) stresses the "sermonic force" category in a doxological direction, which the rubric handles correctly by evaluating tone-text congruence.

@@ -104,3 +104,185 @@ I asked you before, are you sharing the gospel, but now I ask this instead. Are 
 
 Worship matter to God.
 And all of that starts with the gospel.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Passage:** Psalm 96
+**Evaluator:** Thus Says the Lord Rubric v1.0
+
+---
+
+### 1. Verdict Title
+
+**"Worship Rightly Defended, Gospel Quietly Assumed"**
+
+---
+
+### 2. One-Sentence Summary
+
+A passionate and practically grounded defense of theocentric worship that builds compellingly toward evangelism as an act of praise, but concludes with a gospel reference rather than a gospel proclamation — leaving the most important truth as a signpost rather than a declaration.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: Pass**
+Psalm 96's thesis — sing a new song to the Lord, declare his glory to the nations, worship him truly — governs the sermon's argument. The progression from Yahweh's name (vv. 1–3), to God's greatness (vv. 4–6), to the call for all creation to worship (vv. 11–13) is at minimum acknowledged, and the connection between worship and evangelism (vv. 2–3) is the sermon's central insight.
+
+**Authority Test: Pass**
+The preacher does not soften the text's demands. The judgment sections on Cain, Nadab and Abihu, and the Levitical fire all stand as difficult passages handled honestly.
+
+**Ruling:** Gate passes. The main point of the sermon (true worship includes gospel proclamation and is theocentric) arises from the text's own argument.
+
+---
+
+### 4. Fatal Flaw Flags
+
+- **Flag 5 — Weak exhortation / gospel assumed at the close:** "And all of that starts with the gospel" ends the sermon. The gospel is referenced but not proclaimed. A person in the room who does not know the gospel hears only that worship and evangelism require it — not what it is. This falls just short of the full Flag 5 threshold (the sermon does exhort throughout its body), but the closing gospel gesture is inadequate.
+
+**Score Cap: Not applied — fatal flag is borderline, present as a warning rather than a hard trigger.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 14/25**
+- *Textual Fidelity (10):* 6/10 — The Psalm is the anchor. The connection between vv. 1–3 (sing / bless / declare / tell) and Acts 1:8 is exegetically observed and genuinely present in the text. However, the middle of the sermon (bad worship music, Seeker Sensitivity, Regulative Principle, Cain and Abel, Nadab and Abihu) spends more time on the problem the text diagnoses than on the text itself. The psalm's specific imagery — the beauty of holiness (v. 9), God's coming to judge the earth with equity (v. 13) — receives no treatment.
+- *Contextual Awareness (5):* 3/5 — The Yahweh/Tetragrammaton introduction is well-researched and contextually meaningful. The Masoretic scribal practice is a genuinely illuminating piece of context.
+- *Exegetical Clarity (5):* 3/5 — The Yahweh name study is clear. No further Greek or Hebrew work. The Acts 1:8 parallel is observed accurately.
+- *Logical Faithfulness (5):* 2/5 — The digression into worship music quality, Hillsong lyrics, the Regulative Principle, and Cain/Abel is loosely connected to the text but risks becoming a platform for the preacher's critique of contemporary worship culture rather than an exposition of Psalm 96. The Nadab and Abihu passage is accurately handled but competes with the primary text.
+- *FCF:* Identified as human-centered worship — the tendency to substitute self-referential feeling for God-honoring praise. This is genuinely present in the psalm's context and named concretely.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 13/18**
+- *Christ-Centeredness (7):* 4/7 — Christ is present in the single sentence about God's wrath being poured on Christ at the cross ("that kind of wrath was poured out on Christ, on the cross for us. Jesus took the full cup of God's wrath, and drank it down, and declared with his dying breath, it is finished"). This is genuinely Christ-centered but isolated and brief.
+- *Redemptive-Historical Awareness (3):* 2/3 — Brief but present. The connection from Psalm 96's call to evangelism to Acts 1:8 and the present-day missions field coming to us (Tampa statistics) is organic and well-handled.
+- *Doctrinal Precision (4):* 4/4 — No errors. The assessment of worship heresy (making the Spirit's function about emotional experience) is theologically sound.
+- *Confessional Alignment (4):* 3/4 — No contradictions. The sermon does not deeply engage soteriological themes where confessional precision would be tested.
+
+**3. Gospel Centrality & Force (15 pts) — 6/15**
+- *Clarity of the Gospel (5):* 2/5 — The cross moment ("Jesus took the full cup of God's wrath") is correct and moving. But it is one sentence in a long sermon, and the closing line "And all of that starts with the gospel" assumes rather than proclaims.
+- *Necessity of Christ (5):* 2/5 — Christ's necessity is stated but undeveloped. The sermon's operative logic is: worship God truly (including evangelism). Christ appears as the content of the evangelism without his person and work being foregrounded.
+- *Cross-Centered Gravity (5):* 2/5 — The sermon's gravity is theocentric (correct) but the cross is not the functional center. The cup of wrath sentence is the closest approach and deserved a full paragraph.
+
+**4. Conscience & Applicatory Force (15 pts) — 9/15**
+- *Heart Penetration (5):* 3/5 — The worship critique lands practically. The question "Are you worshipping God through evangelism?" reaches the conscience. The cup image, if expanded, would have been devastating.
+- *Specificity (5):* 4/5 — The contemporary worship examples (specific song lyrics, Hillsong, seeker sensitivity) are highly specific and will land on this congregation. The Tampa Muslim population statistics give specificity to the evangelism application.
+- *Spiritual Differentiation (5):* 2/5 — The sermon addresses believers throughout without distinguishing the complacent member from the genuinely seeking person, the person who is culturally Christian from the person who is struggling with doubt.
+
+**5. Exhortation & Response (8 pts) — 4/8**
+- *Call to Response (4):* 2/4 — "Are you sharing the gospel?" and "Are you fully and properly worshipping God?" are genuine exhortations. But the sermon ends without a clear summons to action or to Christ.
+- *Equipping for Holiness & Witness (4):* 2/4 — The overflow cup illustration (DCLA conference) is equipping for evangelism. But practical next steps are absent.
+
+**6. Structure & Logical Flow (9 pts) — 6/9**
+- *Clarity of Outline (4):* 3/4 — The sermon has a discernible arc: Yahweh's name → the nature of true worship → worship includes evangelism → response. A listener can follow it.
+- *Progression (3):* 2/3 — The worship music critique section is long and risks feeling like a detour. The sermon recovers in the evangelism section.
+- *Unity (2):* 1/2 — Two ideas compete slightly: the nature of true worship (theocentric) and evangelism as worship. Both arise from the text; neither fully dominates.
+
+**7. Illustration & Imagination (5 pts) — 4/5**
+- *Relevance (2):* 2/2 — Overflow cup, DCLA conference, Tampa Muslim demographics, North Korea ESL story, Iranian imam — all drawn from real congregational life.
+- *Clarity (2):* 2/2 — Each illustration serves its point clearly.
+- *Memorability (1):* 0/1 — The overflow cup from the DCLA conference is useful but not novel enough to carry forward. The Iranian imam story is the most memorable, but it appears late and briefly.
+
+**8. Sermonic Force (5 pts) — 4/5**
+- *Reads as Preaching (2):* 2/2 — Direct address throughout. Clearly oral.
+- *Conviction on the Page (2):* 1/2 — The worship critique section carries conviction. The closing loses force.
+- *Cadence and Breath (1):* 1/1 — Natural.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1** — The sermon is well-paced overall, but the worship music critique section (bad theology songs, Regulative Principle, Cain and Abel, Nadab and Abihu, seeker sensitivity) is a sustained digression that asks the congregation to hold several threads simultaneously.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 14/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 6/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **60/100** |
+| Cognitive Load Modifier | −1 |
+| **Total** | **59/100** |
+
+**Interpretation: Below 60 — Solid thematic content and pastoral instinct, but the gospel is assumed rather than proclaimed and the exposition departs from the text too often. A targeted revision of the gospel section and closing exhortation would move this meaningfully.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Primarily of God (correct for this psalm), with a brief Christ-centering moment. Not of self.
+2. *Did I encounter God, or just ideas about Him?* The Yahweh name section and the "cup of wrath poured on Christ" moment approach encounter. The worship music critique section is more analytical.
+3. *Was I comforted, convicted, or merely informed?* Convicted on worship and evangelism. Informed about worship theology. Not deeply comforted — the comfort that could come from the gospel is absent.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Evangelism as worship — a genuine expositional discovery** — The connection between vv. 1–3 of the psalm (sing → bless → declare → tell of his salvation → declare to the nations) and Acts 1:8 is exegetically sound and practically powerful. Many congregations have never been told that sharing the gospel is itself an act of worship. This is the sermon's best insight.
+2. **The Tetragrammaton introduction** — The Yahweh name research, the Masoretic scribal practice, and the application to the congregation's casual use of the Lord's name in Walmart is well-researched and lands with appropriate weight.
+3. **The Iranian imam story** — Five to six hours sharing the gospel, praying for the imam's children, the man weeping — this is real missions from a real front porch. It is the most memorable and moving pastoral illustration in the sermon.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **"And all of that starts with the gospel" is not a gospel** — The most important sentence in the sermon is the last one, and it points toward the gospel without containing it. A person who needs to hear the gospel hears only that it is necessary — not what it is.
+2. **The worship music critique section is a detour** — While theologically sound and practically important, the extended treatment of Hillsong lyrics, bad theology songs, and the Regulative Principle functions as a sermon within a sermon. It eats time that belonged to Psalm 96's own material (vv. 4–6, 9, 11–13).
+3. **Psalm 96's climactic verses (11–13) are entirely absent** — "Let the heavens be glad, and let the earth rejoice; let the sea roar, and all that fills it; let the field exult, and everything in it. Then shall all the trees of the forest sing for joy before the LORD, for he comes, for he comes to judge the earth. He will judge the world in righteousness, and the peoples in his faithfulness." This is the psalm's own eschatological climax and the natural home for both gospel and exhortation.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the contemporary worship critique, while real and valid, has crowded out the psalm's own climax. The preacher clearly cares about theological precision in worship — this is a good instinct — but the sermon has become a vehicle for that concern more than a vehicle for Psalm 96's argument. The ending also likely felt complete in live delivery (the preacher presumably spoke the gospel verbally), making the gap invisible on the page.
+
+---
+
+### 12. Illusion of Strength
+
+The evangelism-as-worship insight feels like a strong expositional discovery, and it is — but it is drawn from vv. 1–3 only. The congregation leaves with a genuinely biblical idea but without any engagement with the psalm's remaining content. The sermon's energy and specificity (real song lyrics, real statistics, real missions stories) can mask the fact that roughly 70% of the text received no treatment.
+
+---
+
+### 13. Missed Opportunity
+
+Psalm 96:13 — "He will judge the world in righteousness, and the peoples in his faithfulness" — is the psalm's closing declaration and the natural location for a gospel movement. The God who judges in righteousness is the same God who, in Christ, bore his own righteous judgment so that his people could be declared righteous. The psalm's call to declare his glory to the nations (v. 3) is answered, ultimately, in the gospel — the greatest news that could be given to any nation. The sermon had the architecture for this but didn't build it.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Write the gospel in full at the close.** Replace "And all of that starts with the gospel" with a paragraph that proclaims it: sin, God's righteous character demanding judgment, Christ taking the cup of wrath, resurrection, the call to believe. This is the psalm's own conclusion drawn to its fullness.
+2. **Shorten the worship music critique section by half.** Keep the Hillsong example and the Nadab/Abihu account. Cut the extended Regulative Principle discussion. The point (God cares how he is worshipped) is made forcefully with less material.
+3. **Preach Psalm 96:11–13.** Add a final structural point: the whole creation joins the worship of God in anticipation of his coming judgment. Use this as the launch point for the gospel — the good news that the coming judge has already provided the way of pardon.
+4. **Differentiate hearers in the evangelism application.** Speak to: (a) the believer who has been quiet about their faith; (b) the person who wants to share the gospel but doesn't know how; (c) the person in the room who has never heard the gospel — and then give it to them.
+5. **Tighten the cup of wrath sentence into a paragraph.** "Jesus took the full cup of God's wrath, and drank it down, and declared with his dying breath, it is finished." This is the sermon's best theological sentence. It deserves expansion.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is not bloodless — the pastor's missions stories, the direct address, and the genuine pastoral warmth prevent it. But the gospel gap pushes close.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The Iranian imam story and the cup-of-wrath sentence carry genuine eternal weight; the sermon's failure to proclaim the gospel it points to keeps it from fully arriving at the gravity it reaches for.
+
+---
+
+### 17. Rubric Fit Note
+
+Psalm 96 is a classic call-to-worship hymn with eschatological elements — the rubric fits well. The categories of exposition, gospel centrality, and exhortation press precisely where the sermon is weakest. The psalm's genre (universal praise summons + eschatological expectation) actually makes the rubric's gospel centrality category more natural here, not less — the call to "declare his glory among the nations" leads directly to the gospel.

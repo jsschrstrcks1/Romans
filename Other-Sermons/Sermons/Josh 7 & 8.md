@@ -119,3 +119,195 @@ So let me tell you what that means. It doesn't mean a vague spiritual openness. 
 - ⚠️ **Canaanite festival in April / Jericho timing** *(researched March 2026)*: The spring/April timing is solidly supported by the biblical text — Jordan crossing Abib 10 (Josh 4:19), Passover Abib 14 (Josh 5:10–12), flax drying on Rahab's roof (Josh 2:6, spring harvest marker), burned barley grain in excavations. These are textual and archaeological facts. However, "several scholars feel like April was when Jericho fell" overstates the case — no mainstream named scholarly source has been located linking Jericho's fall specifically to a Baal/Asherah spring festival. Baal's spring association in the Ugaritic texts is real, but the festival-counterpoint argument is the preacher's own plausible inference. Inline note added. Present the April timing as textually grounded; reframe the Baal festival connection as the preacher's own observation, not scholarly consensus.
 - ✅ **New addition: herem/Christ paragraph** *(added March 2026)*: Gal 3:13 ("Christ redeemed us from the curse of the law by becoming a curse for us") and Heb 13:12 ("Jesus also suffered outside the gate in order to sanctify the people through his own blood") — both direct scripture quotations, ESV verified. The spatial parallel (Achan executed outside the camp / Christ suffering outside the gate) is exegetically grounded in Heb 13:11–12 which explicitly invokes the OT "outside the camp" disposal logic. Theologically sound.
 - ✅ **New addition: gospel close** *(added March 2026)*: "The true Joshua, the one whose name is the same" — Hebrew *Yehoshua* and Greek *Iesous* are the same name ("the LORD saves"); Acts 7:45 uses *Iesous* for Joshua; Heb 4:8 makes the typology explicit ("For if Joshua had given them rest, God would not have spoken of another day later on"). "Brings His people into rest" — Heb 4:8–11. No scripture references added inline (oral delivery context); solid if preached or printed.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date**: 2026-03-21
+**Sermon**: Josh 7 & 8 — Leaving God Out / Achan and Ai
+**Primary Text**: Joshua 7:4-13; Joshua 8:1, 27
+
+---
+
+### 1. Verdict Title
+
+**The Strongest Manuscript in the Series — Gospel Nerve Restored, Exegetical Depth Emerging**
+
+---
+
+### 2. One-Sentence Summary
+
+A substantially revised oral transcript that demonstrates genuine expositional growth — the herem/Christ typology, the true Joshua close, and the Galatians 3:13 / Hebrews 13:12 paragraph represent the most theologically grounded preaching in the Joshua series, though the sermon's middle section (the Hudson Taylor biographical detour) disrupts structural momentum and the conscience work remains underdeveloped for believers.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test**: PASS. The sermon's thesis — "Leaving God out leads to defeat; doing God's work in God's way through Christ brings victory" — demonstrably arises from Joshua 7:2-5 (prayer neglected → defeat at Ai) and Joshua 8:1, 27 (God's plan followed → complete victory). The herem/gospel parallel is the sermon's crowning expositional achievement.
+
+**Authority Test**: PASS. The preacher submits to the text's hard material — the communal accountability for Achan's sin, the severity of herem judgment — and does not soften it. The gospel close (Christ bearing the herem we earned) is exegetically grounded in Hebrews 13:12 and is precisely the kind of submission to the text's uncomfortable implications that the rubric rewards.
+
+**Berean Gate**: PASS — the sermon is genuinely text-driven, especially in its revised sections.
+
+---
+
+### 4. Fatal Flaw Flags
+
+No fatal flaw flags are triggered. This is the first sermon in this Joshua/evaluation batch to clear the Berean Gate with a clean pass and avoid all fatal flag conditions.
+
+The gospel is proclaimed (Galatians 3:13, Hebrews 13:12, the true Joshua close). Christ is necessary to the sermon's argument. Application, while somewhat underdeveloped for believers, is not entirely generic. Exhortation is present and text-derived. The sermon is accessible to ordinary hearers.
+
+**No score cap applied.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 18/25**
+
+- *Textual Fidelity (10)*: 7/10. The sermon derives its argument from the text: the neglect of prayer in Joshua 7:2 → defeat at Ai → herem violation → communal accountability → repentance → God's plan followed in Joshua 8 → complete victory. The herem/Christ parallel (Achan outside the camp; Christ outside the gate) is exegetically grounded in Heb. 13:11-12. The text's own climax at 8:27 is identified and quoted. Solid. Loses points for the Hudson Taylor section, which occupies substantial space not derived from any text at all.
+- *Contextual Awareness (5)*: 4/5. The Jericho-Achan-Ai-circumcision sequence is well-narrated. The Deuteronomy 8:17-18 callback from the previous sermon is an effective expositional bridge.
+- *Exegetical Clarity (5)*: 4/5. The herem vocabulary is explained carefully (three senses, with appropriate qualifications in the verification notes). The "outside the gate" parallel is explicitly tied to Heb. 13:12. The American sola bootstrapsa observation is culturally acute. Loses one point because the Hebrew herem analysis is in the notes but the in-text explanation somewhat overstates the sexual-sin lexical sense (acknowledged in flags).
+- *Logical Faithfulness (5)*: 3/5. The sermon's central argument is exegetically faithful. The Hudson Taylor section (approximately 600 words) introduces a third thread — the history of China missions — that is not derived from the passage and disrupts the logical development.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 15/18**
+
+- *Christ-Centeredness (7)*: 6/7. The Gal. 3:13 / Heb. 13:12 paragraph is the most theologically precise Christ-connection in the entire batch of sermons being evaluated. "Achan was dragged outside the camp and destroyed. Jesus walked outside the gate voluntarily, to bear what we deserved." This is organic, covenantal, and exegetically earned. The true Joshua close (Heb. 4:8) is equally strong.
+- *Redemptive-Historical Awareness (3)*: 3/3. Full marks. The sermon places the Joshua narrative correctly in the redemptive-historical storyline, identifies the typological function of the herem, and connects it to the New Testament's own exegesis (Heb. 13:12; Heb. 4:8; Acts 7:45).
+- *Doctrinal Precision (4)*: 3/4. Justification, repentance, and faith are clearly stated. The Spurgeon paraphrase is appropriately framed. The William Temple quote (formerly misattributed to Edwards) is corrected; "We contribute nothing to our salvation except the sin that makes it necessary" is theologically sound and now properly handled.
+- *Confessional Alignment (4)*: 3/4. The substitutionary logic (Christ bearing the curse/herem we earned) is confessionally precise. No contradictions. Loses one point because the penal substitutionary atonement language, while present, could be stated more precisely — "bearing what we deserved" is correct but "penal substitution" or its equivalent should be accessible to the congregation.
+
+**3. Gospel Centrality & Force (15 pts) — 12/15**
+
+- *Clarity of the Gospel (5)*: 4/5. The gospel is clearly stated in multiple registers: the herem/Christ parallel, the ordo salutis in the earlier transition section (briefly), and the closing call (repentance, faith in Christ, "not in your effort... but in Him alone"). The Synagogue Test: a devout non-Christian would be offended by the exclusive necessity of Christ's blood here.
+- *Necessity of Christ (5)*: 5/5. Christ is not decorative; he is the resolution of the herem problem that the text raises. The sermon cannot be understood without him.
+- *Cross-Centered Gravity (5)*: 3/5. The cross is present and meaningful. The sermon does not dwell on it at the length its weight demands — the Hudson Taylor section receives more space than the cross does. Rebalancing would push this to 4-5.
+
+**4. Conscience & Applicatory Force (15 pts) — 9/15**
+
+- *Heart Penetration (5)*: 3/5. The accountability section ("call someone, ask them to help keep you accountable") and the "Achan with a pile of forbidden things buried under your tent" image are both conscience-pressing. The self-reliance diagnosis (sola bootstrapsa) is culturally penetrating. Loses two points because the heart-searching never distinguishes between types of sin buried under the tent — the image is powerful but undifferentiated.
+- *Specificity (5)*: 3/5. The "hidden things" and accountability application are specific and actionable. The closing call ("repent now, bring it to the light") is specific. The middle section generalizes.
+- *Spiritual Differentiation (5)*: 3/5. The sermon addresses unbelievers (the gospel close) and believers (the accountability, the prayer, the hidden-sin warning). The backslider ("Achan had crossed the line") is implicitly addressed. The knowledgeable-but-unhumbled is not specifically addressed. Better than most sermons in this batch.
+
+**5. Exhortation & Response (8 pts) — 6/8**
+
+- *Call to Response (4)*: 3/4. "Repent now. Bring it to the light. And if you've never trusted Christ... that is where it starts." This is a genuine exhortation from the text's own logic, not just an altar call formula.
+- *Equipping for Holiness & Witness (4)*: 3/4. The accountability call is practical equipping. The prayer emphasis throughout equips the church for dependence on God. Witness is not explicitly addressed.
+
+**6. Structure & Logical Flow (9 pts) — 6/9**
+
+- *Clarity of Outline (4)*: 3/4. Three clear movements: (1) Leaving God out → defeat at Ai, (2) Achan's hidden sin → communal accountability, (3) God's plan followed → victory at Ai. The Hudson Taylor interlude sits awkwardly between movements 2 and 3.
+- *Progression (3)*: 2/3. The sermon builds well from defeat to diagnosis to gospel to victory — until the Hudson Taylor biographical section creates a plateau that the conclusion has to recover from. The recovery is successful but costs momentum.
+- *Unity (2)*: 1/2. Four distinct threads compete: (1) prayer/self-reliance, (2) hidden sin/accountability, (3) Hudson Taylor biography, (4) the herem/Christ gospel. The first two are integrated; the third is a detour; the fourth is the climax. The sermon would be unified if the third thread were reduced or removed.
+
+**7. Illustration & Imagination (5 pts) — 4/5**
+
+- *Relevance (2)*: 2/2. Lake Placid / Sopchoppy / Yanomami — vivid small-town Florida illustrations that ground the sermon geographically. Hudson Taylor's biography is genuinely compelling, if overlong.
+- *Clarity (2)*: 2/2. All illustrations illuminate their points. The Yanomami military comparison for Ai's defeat is memorable and apt.
+- *Memorability (1)*: 0/1. The "outside the gate" image is the most memorable moment, but it is theological rather than illustrative. The Lake Placid / Sopchoppy opening, while charming, may be what the congregation carries home rather than the herem/Christ parallel.
+
+**8. Sermonic Force (5 pts) — 4/5**
+
+- *Reads as Preaching (2)*: 2/2. The best oral cadence in the batch. The sermon roars at the herem/Christ paragraph.
+- *Conviction on the Page (2)*: 2/2. "Achan was dragged outside the camp and destroyed. Jesus walked outside the gate voluntarily, to bear what we deserved." This is the sentence of the series.
+- *Cadence and Breath (1)*: 0/1. The Hudson Taylor section runs too long at uniform pace, diluting the climactic sentence's impact. Compression would restore the climax.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1**. The sermon carries four parallel threads (prayer, sin, Taylor biography, herem typology) plus multiple verified historical and statistical claims. The verification notes at the bottom demonstrate careful research, but the sermon's in-text density is slightly above optimal. A congregation can follow it, but one fewer narrative thread would make it sharper.
+
+---
+
+### 7. Total Score
+
+| Category | Raw | Cap |
+|---|---|---|
+| Exposition & Hermeneutics | 18/25 | — |
+| Theology & Doctrinal Integrity | 15/18 | — |
+| Gospel Centrality & Force | 12/15 | — |
+| Conscience & Applicatory Force | 9/15 | — |
+| Exhortation & Response | 6/8 | — |
+| Structure & Logical Flow | 6/9 | — |
+| Illustration & Imagination | 4/5 | — |
+| Sermonic Force | 4/5 | — |
+| **Subtotal** | **74/100** | — |
+| Weight of Glory Bonus | +3 | — |
+| Cognitive Load Modifier | −1 | — |
+| **Total** | **76/100** | — |
+
+**Final Score: 76/100**
+
+**Interpretation: Solid but Lacking** — Needs one more pass, primarily in structural tightening (Hudson Taylor section) and conscience differentiation. The expositional and theological core is the strongest in the Joshua series. Ready for the pulpit after targeted revision.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ or myself?* — More of Christ. The herem/cross paragraph centers the Savior, not the preacher.
+2. *Did I encounter God, or just ideas about Him?* — The sermon approaches genuine encounter at the "outside the gate" passage. The Hudson Taylor section returns briefly to ideas.
+3. *Was I comforted, convicted, or merely informed?* — Both convicted (hidden-sin accountability) and comforted (Christ bore the herem we earned). This is the rubric's target.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The herem/Christ paragraph**: "Achan was dragged outside the camp and destroyed. Jesus walked outside the gate voluntarily, to bear what we deserved." (Gal. 3:13; Heb. 13:12) — this is exegetically grounded, organically derived from the text's own vocabulary, and proclaimed with real force. It is the strongest christological moment in the entire evaluated batch.
+2. **The true Joshua close**: "He is the true Joshua, the one whose name is the same, who did what Israel's Joshua only pointed to. He entered where we cannot, bore the herem we earned, and brings His people into rest." This is Reformed Baptist preaching at its best — typological, christological, pastoral, and precise.
+3. **Thorough verification practice**: The flags section at the bottom of the manuscript demonstrates a level of intellectual honesty and pastoral care for accuracy that is rare. The corrections to Spurgeon, Taylor, MacArthur, and the herem lexical claim all protect the congregation from false impressions while preserving the sermon's theological substance.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The Hudson Taylor section is too long**: At roughly 600 words covering Taylor's biography from age 21 to CIM's 1900 dominance, this section is a full sub-sermon grafted into the middle of an exposition. "God's work done in God's way will never lack God's supply" is a beautiful quote that connects to the passage — but it does not require five paragraphs of biography to deploy. The section should be compressed to a single paragraph or illustration.
+2. **Conscience work for believers is underdeveloped**: The sermon identifies hidden sin and self-reliance as the twin dangers from the text, but it does not press believers with specificity. "What is buried under your tent right now?" is stated and then not pursued. The knowledgeable-but-unhumbled hearer — the church member who knows the doctrine and has not yet been broken by it — is not cornered.
+3. **Penal substitution is present but not named**: The herem/Christ paragraph articulates the logic of penal substitution — Christ bore the curse we earned, outside the gate — without naming it. For a Baptist congregation that should be building a theological vocabulary, naming the doctrine and briefly explaining it strengthens rather than obscures the point.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how dramatically the Hudson Taylor section disrupts the sermon's climactic arc. The story is genuinely compelling, but it arrives precisely when the sermon should be building toward the herem/Christ paragraph — and it delays that arrival by five to six minutes. The result is that the sermon's most powerful moment comes after a plateau, not at the peak.
+
+---
+
+### 12. Illusion of Strength
+
+The biographical richness of the Hudson Taylor section creates an impression of expositional depth — it looks like the kind of thing a well-read preacher does. But connecting Joshua 8:27 to Hudson Taylor's China mission via the "God's work done God's way" quote is not exposition of the text; it is thematic association. The real exposition — the herem/Christ paragraph, the true Joshua close — is done. The Taylor section is a strong illustration in search of a less crowded sermon.
+
+---
+
+### 13. Missed Opportunity
+
+Joshua 7:19-21 — Achan's confession: "I saw... I coveted... I took... I hid them." This is the most psychologically precise description of how sin works in the entire conquest narrative: see, covet, take, hide. The sermon notes the hiding but does not walk through the sequence. That four-step anatomy of temptation is native to the text, universally recognizable, and would press the conscience more specifically than the general accountability application.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Cut the Hudson Taylor section from five paragraphs to one**: Keep the quote ("God's work done in God's way will never lack God's supply"), one sentence of biography, and move immediately to the Ai victory and the herem/Christ paragraph. This recovers the climactic momentum.
+2. **Preach Achan's four-step sequence**: "I saw, I coveted, I took, I hid — that is how sin always works. What have you seen this week? What have you coveted? What have you taken? What are you hiding?" This gives the conscience application teeth and textual roots.
+3. **Name penal substitution**: After the herem/Christ paragraph, add one sentence: "This is what theologians call penal substitution — the penalty was real, the substitute was Christ, and the only thing you bring to that exchange is the sin that made it necessary."
+4. **Address the knowledgeable-but-unhumbled directly**: "Some of you know all of this. You've heard it before. You can say it back to me. But the doctrine has not yet broken you — you have not yet stood at the gate with Achan and recognized yourself. That is the most dangerous place to be." This is Perkins' third category and this text demands it.
+5. **Strengthen the "what is buried under your tent" moment**: Follow the image with specific contemporary equivalents — not lists, but one or two concrete scenarios pressed with pastoral directness. Then call for immediate action: "Name it. Confess it. Tonight. Not next Sunday."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+Not triggered. The sermon is doctrinally warm and the herem/Christ paragraph demonstrates genuine theological passion. The fire is present.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The revised sermon — especially the herem/Christ paragraph and the true Joshua close — carries genuine eternal gravity. The Weight of Glory bonus is earned: this sermon feels like it matters beyond Sunday.
+
+---
+
+### 17. Rubric Fit Note
+
+Old Testament narrative with strong typological freight. The rubric's Redemptive-Historical and Theological categories are where this sermon earns its highest marks — and rightly so, since the text's own New Testament interpreters (Heb. 4; Heb. 13) invite precisely the connections made here. The verification practice modeled in this manuscript's flags section is commendable and should become standard across the sermon series. No genre strain on the framework.

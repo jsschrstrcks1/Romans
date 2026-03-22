@@ -87,3 +87,202 @@ Unlike the totality of the eclipse which brought us darkness, the totality of Ch
 OK so the three roles of Christ are Prophet, Priest, and King.
 
 *[DRAFT ENDS HERE — permanently incomplete as submitted. The three roles (Prophet, Priest, King) were named but never developed; no gospel close was submitted. This file preserves the 2024 re-delivery up to the point the source transcript ends. For the complete treatment of this topic, use the 2020 version: `Other-Sermons/Sermons-txt/Sola Christus (AutoRecovered).txt`. That version develops the three roles, includes 2 Corinthians 5:21, a John Owen reference, and a full gospel close. The 2020 AutoRecovered version is the authoritative complete sermon for Sola Christus.]*
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated**: 2026-03-22
+**Rubric**: Thus Says the Lord (Reformed Baptist Sermon Evaluation)
+**File**: Sermon - Sola Christus 2024.md
+**Status evaluated**: Incomplete draft — permanently cut off before the three roles are expounded and before any gospel close
+
+---
+
+### 1. Verdict Title
+
+**A Sermon That Died Before It Was Born — Sound Polemics, No Gospel, No Christ Proclaimed**
+
+---
+
+### 2. One-Sentence Summary
+
+A historically grounded, earnest polemic against Roman Catholic mediatorial error that arrives at the gates of Christ's threefold office and goes no further, leaving the congregation without exposition, without proclamation, and without the gospel.
+
+---
+
+### 3. Berean Gate
+
+**CONDITIONAL PASS / EFFECTIVELY FAIL (due to incompleteness)**
+
+- **Scopus Test**: The sermon's intended thesis — that Christ alone is Prophet, Priest, and King, the sole mediator — is latent and announced but never demonstrated from any text. The primary passage is not filled in. The 2020 version used 1 Timothy 2:1–7; this draft cites verse 5 but never exegetes the passage or establishes the sermon from it. The thesis is asserted, not derived.
+- **Authority Test**: The preacher submits to the polemical demands of the text conceptually, but there is no sustained passage of text-driven argument. The sermon operates more as a catechetical lecture than a text-governed proclamation.
+
+**Ruling**: The draft is too incomplete to receive a clean Berean Gate pass. The framework is sound; the sermon is missing. Evaluation proceeds under fatal flaw conditions.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Score is capped at 69. Multiple flags triggered.**
+
+- **Flag 1 — No clear gospel presentation**: The gospel is referenced but never proclaimed. Christ's finished work (atonement, justification, resurrection) is alluded to but never stated plainly. The draft ends before any gospel close. An unbeliever could not be saved from what is here.
+- **Flag 2 — Main point does not equal text's point**: No text is established. The passage is unnamed ("Our scripture will be ___"). The argument about Sola Christus is historically grounded but not textually derived in any demonstrable way from a specific passage.
+- **Flag 3 — Christ is absent or unnecessary**: The draft talks *about* Christ — His roles, the necessity of His sole mediation — but Christ is not proclaimed. He is the subject of the argument, not the Savior presented to the sinner. The threefold office (the sermon's announced structure) is named in the final line and then the draft ends.
+- **Flag 5 — No actual exhortation**: The draft ends before any exhortation. No one is called to believe, repent, or pursue anything.
+
+---
+
+### 5. Score Breakdown
+
+**NOTE**: Scoring an incomplete draft is a special-case exercise. Scores reflect what is present on the page. The draft is evaluated as submitted — missing sections receive zeros or near-zeros because they are absent, not because the preacher is incapable.
+
+**1. Exposition & Hermeneutics (25 pts) — 6/25**
+- Textual Fidelity (10): 2/10 — No passage is established or exegeted. 1 Timothy 2:5 is quoted and applied; Acts 10:26 is paraphrased. But neither receives exposition. The announced primary text is blank.
+- Contextual Awareness (5): 1/5 — The Reformation context and the contrast with Romanism are handled competently, but biblical context is absent.
+- Exegetical Clarity (5): 1/5 — The one-mediator text (1 Tim 2:5) is cited correctly and used appropriately but never opened. Greek is not engaged.
+- Logical Faithfulness (5): 2/5 — The logical flow of the polemic is coherent: saints cannot mediate → priests cannot absolve → the church cannot speak as prophet. This is valid argument, but it is theological reasoning, not exegetical movement through a text.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 11/18**
+- Christ-Centeredness (7): 4/7 — The sermon's entire burden is the exclusive mediation of Christ, which is exactly right. But Christ is the argument's subject, not its living center — He is discussed rather than proclaimed.
+- Redemptive-Historical Awareness (3): 2/3 — The eclipse/totality illustration gestures toward Christ as the fulfillment of prophetic light; OT types (Jonah, Abraham, Isaac, Moses, Joseph, David) are mentioned. Competent.
+- Doctrinal Precision (4): 3/4 — The mediatorial claim is precise. The threefold office (munus triplex) is correctly named. The treatment of sin as requiring divine forgiveness is accurate.
+- Confessional Alignment — 1689 Pulse (4): 2/4 — No contradiction of confessional theology. The critique of Rome's sacerdotalism aligns with confessional commitments. But the positive articulation of how Christ fulfills the threefold office — which is explicitly what the sermon promises — is absent.
+
+**3. Gospel Centrality & Force (15 pts) — 3/15**
+- Clarity of the Gospel (5): 1/5 — The gospel is gestured toward ("what Christ did to prevent us from getting our well-deserved punishment") but never plainly articulated. Penal substitution is implied; it is not proclaimed.
+- Necessity of Christ (5): 2/5 — Christ's necessity as sole mediator is the sermon's entire argument. Credit for the logic; deducted for the absence of proclamation.
+- Cross-Centered Gravity (5): 0/5 — The cross does not appear. There is no movement toward Calvary in this draft. The sermon ends before it gets there.
+
+**4. Conscience & Applicatory Force (15 pts) — 4/15**
+- Heart Penetration (5): 1/5 — The warning about saint-veneration has some pastoral directness ("Folks, I have news for you"). The corpse illustration is memorable and pointed. But there is no sustained pressure on the conscience.
+- Specificity (5): 2/5 — The congregation is addressed at points ("just in case any of you were confused"). The application to avoiding synergistic additions to the gospel is directionally correct. Thin, but present.
+- Spiritual Differentiation (5): 1/5 — No differentiation among hearers. The sermon addresses the congregation as a monolithic unit. No address to the doubter, the backslider, the religiously self-righteous, the grieving.
+
+**5. Exhortation & Response (8 pts) — 0/8**
+- Call to Response (4): 0/4 — Absent. The draft ends before any call is made.
+- Equipping for Holiness & Witness (4): 0/4 — Absent.
+
+**6. Structure & Logical Flow (9 pts) — 5/9**
+- Clarity of Outline (4): 2/4 — The announced structure (Prophet, Priest, King) is clear and memorable. It is never executed.
+- Progression (3): 2/3 — The existing draft moves with coherent logic from the Catholic error of saint-mediation to priestly absolution to prophetic usurpation. The movement is intelligible.
+- Unity (2): 1/2 — Unity is undermined by the incomplete state. The Obama clemency digression is only loosely connected.
+
+**7. Illustration & Imagination (5 pts) — 3/5**
+- Relevance (2): 2/2 — The eclipse illustration is drawn from a shared recent experience ("Any of you watch the eclipse? I did too"). The Solomon/baby illustration is familiar. The corpse-bathing image is vivid.
+- Clarity (2): 1/2 — The eclipse-to-totality-of-Christ pivot is evocative but slightly forced. The connection to prophetic totality is more asserted than developed.
+- Memorability (1): 0/1 — Nothing in the existing fragment rises to the level of an image the congregation will carry home next week, because the illustration isn't given time to resolve into proclamation.
+
+**8. Sermonic Force (5 pts) — 3/5**
+- Reads as Preaching (2): 2/2 — This reads like a man talking to his congregation, not like an essay. The direct address, the rhetorical questions, the conversational asides — these are oral markers.
+- Conviction on the Page (2): 1/2 — The Galatians 1:8 citation carries edge. The Luther quotes carry Reformation fire. But the conviction dissipates without a gospel close to drive it home.
+- Cadence and Breath (1): 0/1 — The draft ends before cadence can build toward climax.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1**
+
+The existing draft is accessible. The eclipse illustration and the Solomon illustration lower density. The polemical argument is clear enough for an ordinary hearer to follow. No inaccessibility penalty beyond slight thinness in doctrinal density.
+
+---
+
+### 7. Total Score
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 6 | 25 |
+| Theology & Doctrinal Integrity | 11 | 18 |
+| Gospel Centrality & Force | 3 | 15 |
+| Conscience & Applicatory Force | 4 | 15 |
+| Exhortation & Response | 0 | 8 |
+| Structure & Logical Flow | 5 | 9 |
+| Illustration & Imagination | 3 | 5 |
+| Sermonic Force | 3 | 5 |
+| **Subtotal** | **35** | **100** |
+| Cognitive Load Modifier | −1 | — |
+| Weight of Glory Bonus | 0 | +5 |
+| **TOTAL** | **34** | **105** |
+
+**Score capped at 69 due to fatal flaw flags. Raw score: 34/100.**
+
+**Interpretation**: Below 60 — Fundamentally flawed. But this is not a flawed sermon; it is a sermon that does not exist yet. The fragment that exists contains genuine pastoral instincts, sound polemic, and a coherent doctrinal framework. The score reflects the missing 60% of the sermon, not the quality of what was written.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** The intent is Christ. But since Christ is never proclaimed, the hearer leaves having thought about the Catholic church's errors more than about Christ Himself.
+2. **Did I encounter God, or just ideas about Him?** Ideas about Him. There is no moment in this fragment where God is present — only discussed.
+3. **Was I comforted, convicted, or merely informed?** Informed. And then the sermon stops.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The corpse illustration** ("Apart from Christ we are the corpse that tries to bathe itself") — found in the section on saints' merit. This is vivid, theologically precise, and congregation-accessible. It earns its keep.
+2. **Pastoral directness in confronting saint-veneration** — "Folks, I have news for you — just in case any of you were confused. St. Peter is dead." This is preacher's courage. It names the error plainly without hedging.
+3. **The Luther citations carry historical weight** — using Luther's own testimony ("St. Ann was my idol") against the very error Luther repented of is sound homiletical instinct. The personal autobiography of a Reformer is more compelling than a theological abstraction.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **No text, no sermon**. The primary passage is blank. The entire sermon rests on an unestablished textual foundation. Without 1 Timothy 2:1–7 (or whatever text was used) being read, opened, and expounded, the preacher is lecturing about a doctrine, not proclaiming a text. This is the structural failure from which all other weaknesses flow.
+2. **The threefold office is announced and abandoned**. "OK so the three roles of Christ are Prophet, Priest, and King" — and then the draft ends. The sermon's entire announced purpose is never fulfilled. The congregation heard an extended introduction to a sermon they never received.
+3. **The gospel is an allusion, not a proclamation**. The phrase "what Christ did to prevent us from getting our well-deserved punishment" is the closest the draft comes to the gospel. This is not enough. Penal substitution must be named, the resurrection must appear, and the call to faith must be issued. What exists is gospel background music at best.
+
+---
+
+### 11. Blind Spots
+
+- **The preacher may not feel the weight of beginning without a text**. The draft opens with the Ryle quote and a personal reflection on OT types before directing the congregation to a passage that is never named. In the live event, the preacher almost certainly named and read the text — but the transcript does not preserve this, and the manuscript as written cannot stand as a text-driven sermon.
+- **The polemic dominates the positive**. The bulk of the existing draft is a critique of Rome. This is necessary for a Sola Christus sermon, but the polemic sets up a positive proclamation that never arrives. The sermon spends all its time clearing ground for a building it never constructs.
+- **The factual errors (Baal/wood, Obama figures)** represent an unexamined assumption that congregational illustrations drawn from current events are accurate. The preacher may not realize that "most of those 2000 people are back in jail" is unverified and likely false — and that this kind of misstatement, if challenged, can undermine the sermon's credibility at a moment of pastoral import.
+
+---
+
+### 12. Illusion of Strength
+
+The Luther citations feel authoritative and carry rhetorical weight. But they function here as extended historical background rather than as a springboard into the text. The sermon feels like it has substance because Luther is present — but Luther is not the text, and the text is absent. The historical competence creates a false impression that the theological work has been done when in fact it has only been set up.
+
+Similarly, the eclipse illustration feels like it is going somewhere significant ("the totality of Christ brought us light") — and it is a genuinely good pivot. But because the threefold office is never expounded, the illustration illuminates nothing. It is a lamp in a room where the sermon never arrives.
+
+---
+
+### 13. Missed Opportunity
+
+1 Timothy 2:1–7 contains an extraordinary embedded gospel: "Christ Jesus, who gave himself as a ransom for all people" (v.6). The word *antilutron* — "ransom in the place of" — is a direct reference to substitutionary atonement embedded in the very text about sole mediation. This is the text's own gospel climax. The preacher announces the three roles, misses the ransom, and ends. The text itself preached the gospel the sermon never reached.
+
+Additionally, verse 7 — "And for this purpose I was appointed a herald and an apostle... and a true and faithful teacher of the Gentiles" — gives Paul's own self-understanding as a herald of the one Mediator. This could have anchored the sermon's entire argument: Paul, not the Catholic priest, is what a true minister looks like. Missed.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Establish the text first**. Before Luther, before the historical context, read 1 Timothy 2:1–7. Let it sit. Let the congregation hear "one mediator" from Scripture before they hear the polemic. The text must govern the argument, not decorate it.
+2. **Expound the threefold office from the text**. The munus triplex is a rich, Reformed category — but it must emerge from 1 Timothy 2 and the broader biblical witness. Prophet: Christ speaks God's final Word (Heb 1:1–2). Priest: Christ gave Himself as ransom (1 Tim 2:6, the *antilutron*). King: Christ is the one Lord (1 Tim 2:5). Each role dismantles the Catholic substitution (church as prophet, priest, kingly mediator) from the text outward.
+3. **Proclaim the gospel explicitly before closing**. The cross must appear. Name penal substitution. State the resurrection. Issue the call to faith. The sermon as it stands cannot save anyone — not because the preacher is unfaithful, but because it ends before it gets to the thing that saves.
+4. **Remove or verify the Obama recidivism claim** ("Most of those 2,000 people are back in jail"). This is unverified and likely false. A factual error at an illustrative moment does not merely embarrass — it trains the congregation to accept unverified assertions from the pulpit as authoritative.
+5. **Add a direct address to the self-righteous churchgoer** who has replaced Catholic saint-veneration with Protestant self-trust. The sermon confronts Rome; it does not confront the Protestant who trusts his own repentance, his own sincerity, his own church attendance. The Sola Christus problem is not only Catholic — it lives in every heart that trusts anything alongside Christ.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**NOT TRIGGERED** — The sermon does not reach sufficient scores in any category to trigger the dead orthodoxy pattern (high exposition + low conscience). The incompleteness prevents it. What is present is not dead orthodoxy; it is an unfinished sermon with live instincts.
+
+---
+
+### 16. Weight of Glory Assessment
+
+There are sparks here — the Luther autobiography, the corpse image, the eclipse pivot — but they are kindling waiting for a fire that the draft never lights; the Weight of Glory bonus cannot be awarded to a sermon that ends before it reaches the throne.
+
+**Bonus: 0/5**
+
+---
+
+### 17. Rubric Fit Note
+
+This evaluation is strained by the object being evaluated: a permanently incomplete draft is not a sermon but a sermon's opening movement. The rubric is designed for complete manuscripts. Applied here, it functions less as a quality assessment and more as a diagnostic map of what is missing. The rubric fits the genre (doctrinal/polemical expository sermon); it does not fit the incompleteness. Scores should be read as "what exists scores X" rather than "the preacher is capable of only X." The 2020 AutoRecovered version — which is the complete treatment — would be the appropriate object for a full rubric evaluation. Evaluators who wish to assess the preacher's full capability on this text should apply the rubric to that version, not this one.

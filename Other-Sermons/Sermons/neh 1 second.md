@@ -66,5 +66,191 @@ Announcements:
 5th Sunday
 New time for clubs – 5:30
 Food pantry 10-12
-Talking about a mid week bible study, if youre interested come talk to me. 
+Talking about a mid week bible study, if youre interested come talk to me.
 People have been asking about ways they can help, help john and I with the yard, talking about painting, website work, manage our social presence, work with kids, a man willing to teach a Sunday morning bible study? Passing out fliers for the 5th Sunday, making fliers for the 5th Sunday. Apprentice sound guy, david needs to be able to take vacations! The possibilities are endless.
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Verdict Title:** A Warm and Pastoral Exploration of Hesed That Stops Short of Preaching
+
+**One-Sentence Summary:** A genuinely affectionate opening of Nehemiah 1 that magnified God's covenant love with pastoral energy and accessible illustration while failing to press the text's own argument, complete the gospel summons, or exhort the congregation to a specific response.
+
+---
+
+### Berean Gate
+
+**Scopus Test:** CONDITIONAL PASS — The sermon's stated thesis (God's hesed as the ground for prayer and trust) does arise from Nehemiah 1, though it prioritizes the word study over the text's own argument and structure. The passage's dominant thrust — Nehemiah's confessional prayer as a model of covenant intercession — is treated as background material rather than the sermon's controlling idea.
+
+**Authority Test:** PASS — The preacher does not soften or reframe the text. He submits to its claims and draws real theology from it. The sermon does not stand above the text as editor.
+
+**Gate result:** Pass, with a noted drift from the text's own climactic argument.
+
+---
+
+### Fatal Flaw Flags
+
+**Flag 3 — TRIGGERED: Christ is present but functionally decorative.** The sentence "All that begins with the gospel though. It begins with a relationship with Christ" (closing line before announcements) is the sole gospel tether. Christ is named but his work is never proclaimed. Why must the hearer trust Christ? What has he done? What does justification by faith look like? These go unanswered.
+
+**Flag 5 — TRIGGERED: No actual exhortation.** The sermon ends by naming that the gospel is the starting point, then pivots immediately to church announcements. The congregation is never summoned. There is no "therefore." No specific call to believe, repent, pray, or pursue.
+
+**Score is capped at 69.**
+
+---
+
+### Score Breakdown
+
+**1. Exposition & Hermeneutics — 14 / 25**
+
+- *Textual Fidelity (10 pts): 6* — The hesed word study is legitimate and serves the congregation. However, the text of Nehemiah 1:3–11 as a unit — its structure, its confessional movement, its specific petitions — receives almost no direct exegetical treatment. The sermon derives its main concept from the passage but does not follow the passage's own argument. Several verses in the assigned passage receive no treatment at all.
+- *Contextual Awareness (5 pts): 4* — Good historical backstory on the exile, Nebuchadnezzar, Daniel, and the return. The flow of redemptive history in the exilic period is accurately sketched.
+- *Exegetical Clarity (5 pts): 3* — The Strong's Concordance demonstration is helpful pedagogy. The explanation of hesed is the strongest exegetical moment. However, the sermon never models how to read a passage's own logical structure.
+- *Logical Faithfulness (5 pts): 1* — The sermon moves from historical context → word study → application of hesed → gospel tag. This is not the text's logic. The text's logic — confession of sin, appeal to covenant, specific petition — is bypassed.
+
+**Fallen Condition Focus:** Partially present. The sermon identifies spiritual drift and prayerlessness (introduced via the question "How often is that your response to trouble?") but does not name this as the condition the text addresses with precision.
+
+**2. Theology & Doctrinal Integrity — 12 / 18**
+
+- *Christ-Centeredness (7 pts): 4* — Christ is named and connected to hesed. The illustration of God adopting those who crucified his Son is striking and moving. But there is no organic redemptive-historical connection between Nehemiah's covenant prayer and Christ as its fulfillment.
+- *Redemptive-Historical Awareness (3 pts): 2* — The exile-to-return framework is present. The connection to Christ as the one who finally restores what the exile broke is absent.
+- *Doctrinal Precision (4 pts): 3* — Ephesians 2 is quoted accurately and applied well. The Edwards quote ("the only thing we contribute to our salvation is the sin that makes it necessary") is excellent and correctly deployed. No theological errors detected.
+- *Confessional Alignment — 1689 Pulse (4 pts): 3* — No confessional contradictions. The treatment of human depravity and God's sovereign love is consistent with Reformed Baptist theology.
+
+**3. Gospel Centrality & Force — 7 / 15**
+
+- *Clarity of the Gospel (5 pts): 2* — The cross is referenced in hymn and illustration but never proclaimed in propositional terms. An unbeliever listening to this sermon would not know how to be saved. Justification by faith is absent.
+- *Necessity of Christ (5 pts): 2* — Christ is present, but his work is not essential to the sermon's argument. The hesed exposition could stand largely intact without him.
+- *Cross-Centered Gravity (5 pts): 3* — The illustration about God's mercy toward those who crucified his Son is the strongest moment in the sermon and does move toward the cross. The hymn supports this. But the cross is approached and then not fully inhabited.
+
+**Synagogue Test:** FAILED — A devout observant Jew could hear the bulk of this sermon (God's covenant love, hesed, the exile, prayer as response to trouble) without being confronted by the necessity of Christ's atoning blood. The cross appears but is not proclaimed as the only ground of the sinner's hope.
+
+**Law/Gospel Dialectic:** The law lands adequately (Ephesians 2, human depravity, our daily failures). The gospel is gestured at but never fully delivered. The balm is promised but withheld.
+
+**4. Conscience & Applicatory Force — 9 / 15**
+
+- *Heart Penetration (5 pts): 4* — The 9/11 illustration, the hurricane story, and the direct questions ("How often is that your response to trouble?", "Don't raise your hand, but how many of you have done something this week...") all show genuine pastoral instinct for reaching the heart. The preacher clearly knows his congregation and addresses them as real people.
+- *Specificity (5 pts): 3* — Application is specific enough to feel personal (prayer as default response to suffering, sulking vs. trust, daily sin). But it stops short of naming the exact sins or struggles of specific hearer categories.
+- *Spiritual Differentiation (5 pts): 2* — The sermon largely addresses the believing congregation. The unbeliever is not distinctly addressed (beyond the closing gospel tag). The humbled-but-not-yet-believing, the backslider, and the knowledgeable-but-unmoved receive no differentiated address. Perkins' categories 1, 2, 3, 4, and 6 are untouched.
+
+**5. Exhortation & Response — 2 / 8**
+
+- *Call to Response (4 pts): 1* — The sermon ends with "All that begins with the gospel though. It begins with a relationship with Christ." This is the closest the sermon comes to exhortation. There is no clear call: no "repent," no "believe," no "go and pray like this," no "here is what you must now do."
+- *Equipping for Holiness & Witness (4 pts): 1* — The congregation is not sent out equipped. The announcements page follows immediately. The sermon informs and warms but does not summon.
+
+**6. Structure & Logical Flow — 6 / 9**
+
+- *Clarity of Outline (4 pts): 2* — The four "legs of hesed" are a helpful structural device, but they are introduced mid-sermon without clear signposting. The sermon's structure is: historical context → illustration (9/11) → application (prayer vs. sulking) → illustration (hurricane) → word study → four legs of hesed → hymn → illustration (crucifixion) → gospel tag → announcements. This is associative rather than architecturally clear.
+- *Progression (3 pts): 2* — The sermon moves forward but wanders. The hurricane illustration and the 9/11 illustration are both strong but could be served by tighter sequencing.
+- *Unity (2 pts): 2* — The dominant idea (hesed as the foundation of Nehemiah's prayer and our own) is present throughout.
+
+**7. Illustration & Imagination — 4 / 5**
+
+- *Relevance (2 pts): 2* — 9/11, the hurricane, and the naming of specific congregation members (Kurt, Greg, John, and the personal names of their grandchildren and children) are exceptionally pastoral. The congregation feels seen.
+- *Clarity (2 pts): 2* — Each illustration illuminates its point without competing with it.
+- *Memorability (1 pt): 0* — The most memorable element, the direct address to named individuals about how they would feel if someone did that to their child, lands powerfully in the room but may not travel home as a crystallizing image the way a single well-turned illustration would.
+
+**8. Sermonic Force — 4 / 5**
+
+- *Reads as Preaching (2 pts): 2* — This reads like oral communication, not an essay. Direct address, colloquial register, congregation engagement ("show of hands"), and personal anecdote all mark this as genuinely preached.
+- *Conviction on the Page (2 pts): 1* — The conviction is pastoral warmth more than textual thunder. The assertion ratio tilts toward illustration and away from Scripture-grounded declaration.
+- *Cadence and Breath (1 pt): 1* — Sentence variation is present. The podium-bang moment and the direct naming of congregation members create genuine climactic compression.
+
+---
+
+### Cognitive Load Modifier
+
+**Score: 0** — The sermon is accessible. The word study is actually a feature here — it teaches the congregation a skill while grounding the exposition. No inaccessibility concerns.
+
+---
+
+### Total Score
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 14 | 25 |
+| Theology & Doctrinal Integrity | 12 | 18 |
+| Gospel Centrality & Force | 7 | 15 |
+| Conscience & Applicatory Force | 9 | 15 |
+| Exhortation & Response | 2 | 8 |
+| Structure & Logical Flow | 6 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 4 | 5 |
+| **Subtotal** | **58** | **100** |
+| Weight of Glory (bonus) | +2 | +5 |
+| Cognitive Load Modifier | 0 | −3 to 0 |
+| **Total** | **60** | **105** |
+
+**Score capped at 69 due to two fatal flaw flags (Flags 3 and 5).**
+
+**Interpretation: 60 — Concerning gaps. The sermon explains and warms but has not yet become preaching. Significant revision needed.**
+
+---
+
+### Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Mostly of God's love in the abstract and of the preacher's congregation. Christ is present but not magnified enough to draw the eye decisively to him.
+2. **Did I encounter God, or just ideas about Him?** Partially. The named-member illustration and the hesed exposition bring God's character genuinely near. But the encounter is incomplete — the gospel is not fully opened.
+3. **Was I comforted, convicted, or merely informed?** Comforted, partially convicted, and mostly informed. The preacher has a pastor's heart and it shows. The congregation knows they are loved. But they have not been cornered before Christ.
+
+---
+
+### Strengths (Top 3)
+
+1. **Pastoral concreteness.** Naming congregation members by name and asking them to feel the weight of what was done to Christ's body is among the most effective applicatory moments this rubric has encountered. It is specific, personal, and deeply felt. (Lines: "Kurt how would you feel towards someone that took little Maddison...")
+2. **Hesed exposition.** The word study — Strong's numbers, translation comparisons, the four "legs" as an organizing image, the Richardson comparison to charis — is genuinely instructive and models exegetical curiosity for the congregation without being pedantic.
+3. **Accessible historical grounding.** The exile background (Daniel, Shadrach, Nehemiah, Babylonian captivity) is well-integrated and helps ordinary hearers locate the text in redemptive history without requiring theological training.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **The sermon never opens the text.** Nehemiah 1:3–11 is assigned, but verses 6b–10 (the specific confessional content of Nehemiah's prayer, the appeal to Moses, the specific promise invoked) receive no exegetical treatment. The sermon derives a word from verse 5 and circles it. This is a thematic springboard from the text, not an exposition of it.
+2. **No gospel proclamation.** "All that begins with the gospel though. It begins with a relationship with Christ" is a gospel tag, not a gospel. An unbeliever sitting in this room heard about hesed, 9/11, a hurricane, and a prayer that took four hours — and was not told what Christ did, why it matters, or how to receive it. This is the sermon's most serious failure.
+3. **No exhortation whatsoever.** The sermon ends with announcements. The transition from "relationship with Christ" to "5th Sunday / New time for clubs" is jarring and suggests the closing gospel moment was an afterthought rather than a prepared conclusion. The congregation was never summoned to do anything.
+
+---
+
+### Blind Spots
+
+The preacher appears to assume that the congregation already knows the gospel well enough that it need only be gestured at. This is understandable in a small established church context but is not a safe assumption in any mixed congregation — and it produces sermons that comfort the believing but fail the seeking. The unnamed visitors, the nominal attenders, and the wavering will leave without the one thing the sermon promised but did not deliver.
+
+---
+
+### Illusion of Strength
+
+The direct address to named congregation members ("Kurt... Greg... John...") is emotionally the sermon's peak and the preacher likely senses it landing. It does land. But it lands as pastoral warmth rather than gospel force, because the moment is never completed: God adopted us... but through what? By what right? At what cost to whom, precisely? The illustration opens a door the sermon never walks through. The strength of the delivery masks the absence of the proclamation.
+
+---
+
+### Missed Opportunity
+
+Nehemiah 1:8–9 — "Remember the word that you commanded your servant Moses, saying, 'If you are unfaithful, I will scatter you among the peoples, but if you return to me... I will gather them'" — is one of the most explicitly covenantal prayers in the Old Testament. Nehemiah is doing something theologically rich: he is holding God to his own word. He is praying the covenant back to God. This is a natural entry point for the believer's prayer life as covenant boldness, and it connects organically to Christ as the one in whom every "yes" of the covenant is fulfilled (2 Corinthians 1:20). The sermon touched hesed but never reached this.
+
+---
+
+### Surgical Fixes
+
+1. **Build the exposition around the passage's own logic.** Nehemiah 1:3–11 has a clear structure: report received → grief → fasting and prayer → adoration of God's character (v.5) → confession of sin (vv.6–7) → appeal to God's covenant word (vv.8–9) → petition (vv.10–11). Walk the congregation through that structure, and let the hesed word study land within verse 5 rather than replacing the whole.
+2. **Complete the gospel.** After the hesed exposition and the illustration of God adopting those who crucified his Son, add: "This adoption cost something. It cost the blood of the Son. This is the gospel — Christ bore the wrath we deserved so that God could adopt us in righteousness, not despite justice but through it. If you have never received this, today is the day." Three sentences. Do not leave the room without them.
+3. **Add a closing exhortation.** Before the announcements, give the congregation one clear "therefore." "Therefore: this week, when trouble comes — and it will — your first move must be prayer. Not sulking, not managing. Prayer. Come to God with his own hesed, his own promises, and his own Son, and hold him to every word he has spoken." That is Nehemiah 1 preached.
+4. **Address the unbeliever directly.** At some point in the sermon, turn and say: "If you are here today and you are not a Christian — if you don't have this relationship with the Good Shepherd — here is what that looks like..." The sermon currently speaks only to the believing congregation.
+5. **Cut the Strong's pedagogical sidebar slightly.** The instruction in how to use Strong's Concordance, while genuinely helpful, runs long and temporarily shifts the register from preaching to classroom. Tighten it to half the length and return to the text faster.
+
+---
+
+### Dead Orthodoxy Flag
+
+NOT triggered. This sermon is not dead orthodoxy — it has genuine pastoral heat, emotional engagement, and affectionate address. The problem is incompleteness, not coldness. The fire is present. The proclamation is absent.
+
+---
+
+### Weight of Glory Assessment
+
+The sermon carries real pastoral love and a genuine sense that these truths matter to the preacher personally — but it does not yet carry the weight of eternity, because the door to the eternal is opened and then left ajar.
+
+**Bonus: +2 / 5**
+
+---
+
+### Rubric Fit Note
+
+Nehemiah 1 is a narrative/prayer text, and the rubric bends slightly here. The "Fallen Condition Focus" category is well-served by this genre — Nehemiah's own confession models the FCF clearly. The redemptive-historical category is also native to this text. The rubric applies cleanly. No genre strain noted. The sermon's weaknesses are not genre-related but structural and proclamatory.

@@ -62,3 +62,165 @@ Lets pray.
 - **F.B. Meyer quote** ⚠️ — *Attribution contested.* "The great tragedy of life is not unanswered prayer, but unoffered prayer" is widely attributed to Meyer's *The Secret of Guidance*, but the specific page has not been confirmed in the available sources reviewed. Some secondary sources attribute a similar sentiment to R.A. Torrey. Cannot verify from available resources. Use with caution; verify against the published text of *The Secret of Guidance* before citing in print.
 - **Calvin Wittman** ⚠️ — *Lexical data confirmed independently; sermon source unverified.* The Greek word in Colossians 4:2 is προσκαρτερέω (*proskartereō*). BDAG (the standard NT Greek lexicon) gives its meaning as "to persist in, continue in, to devote oneself to" — exactly the range Wittman is cited as describing. The claim is linguistically accurate regardless of Wittman's sermon as source. Wittman's Colossians 4 sermon has not been located to confirm his exact wording. Cite as: "Calvin Wittman, in his sermon on Colossians 4, notes that the Greek word..." with a ⚠️ note that the sermon has not been independently confirmed.
 - **No direct Scripture misquotes identified.** This sermon relies heavily on paraphrase and pastoral application rather than direct quotation.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**File:** Colossians 4 - Devoted to Prayer.md
+**Text:** Colossians 4:2–4
+**Evaluated:** 2026-03-22
+**Status Note:** Explicitly labeled raw, unpolished draft. Evaluated as submitted.
+
+---
+
+### 1. Verdict Title
+A Relationally Warm Sermon on Prayer That Illustrates Better Than It Exegetes
+
+---
+
+### 2. One-Sentence Summary
+A sincere, accessible call to devoted prayer that relies on two effective personal illustrations and the Müller quote to carry its weight, while the exegetical engagement with Colossians 4:2–4 remains thin and the theological grounding of prayer through Christ's mediation is largely undeveloped.
+
+---
+
+### 3. Berean Gate
+**PASS (marginal)**
+
+*Scopus Test:* The sermon's thesis — prayer is a relationship, not merely an emergency tool; we are commanded to persist in it and pray for gospel doors — does arise from Colossians 4:2 ("continue steadfastly in prayer") and vv.3–4 (praying for open gospel doors). The text's point is the sermon's point, even if the exegesis is thin.
+
+*Authority Test:* The preacher submits to the text's command. He doesn't soften the imperative of persistent prayer. Pass.
+
+---
+
+### 4. Fatal Flaw Flags
+**None triggered.** The sermon is addressed to the congregation on the topic of spiritual practice. The gospel is referenced (Ephesians 2:1–5; "lost becoming found") but not formally proclaimed. This is within the expected range for a sanctification-topic sermon. The weakness is noted in the score but does not trigger a cap.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+
+- *Textual Fidelity (6/10):* The key Greek word proskartereō ("continue steadfastly") is properly glossed via Wittman and the lexical data is accurate (confirmed in verification notes). The sermon engages Col 4:2's command to persist and Col 4:3–4's specific object: open doors for the gospel. Luke 11 (ask/seek/knock as present imperatives) is correctly deployed. However, the text is only three verses and the sermon is primarily illustrative. The word about prayer with thanksgiving (v.2) is not developed.
+- *Contextual Awareness (2/5):* The Colossians epistle context — Paul in prison, writing to a church he hasn't visited, needing the very doors he asks them to pray for — is entirely absent. This context would have made the "pray for open gospel doors" section powerful and personal. Missed.
+- *Exegetical Clarity (2/5):* The Wittman citation is the sermon's one technical exegetical move. The FCF (we treat prayer as emergency-only rather than relational communion) is clear and apt. Beyond the Greek word, no deeper exegesis.
+- *Logical Faithfulness (3/5):* No eisegesis. The illustrations are relevant to the text's theme.
+
+**2. Theology & Doctrinal Integrity — 7/18**
+
+- *Christ-Centeredness (3/7):* Christ as bridegroom is the relational frame for prayer — appropriate and genuine. But why does prayer work? Through whose mediation? What grounds the confidence that God hears? The Trinitarian shape of Christian prayer (to the Father, through the Son, by the Spirit) is entirely undeveloped.
+- *Redemptive-Historical Awareness (0/3):* None. Prayer is treated as a relational practice without situating it in the biblical-theological category of priestly access through Christ's mediation.
+- *Doctrinal Precision (2/4):* No sloppiness detected. No precision either.
+- *Confessional Alignment (2/4):* No contradiction. No engagement.
+
+**3. Gospel Centrality & Force — 6/15**
+
+- *Clarity (2/5):* Gospel referenced — Eph 2 ("those dead in sin being made alive in Christ"), gospel prayers for the lost. Not proclaimed for unbelievers.
+- *Necessity of Christ (3/5):* Prayer is "through Christ" but the mediatorial ground is not developed.
+- *Cross-Centered Gravity (1/5):* Absent. The sermon's emotional center is the relational illustration, not the cross.
+
+**4. Conscience & Applicatory Force — 8/15**
+
+- *Heart Penetration (3/5):* The high school friend illustration is personal, self-incriminating, and effective — "it cut me to the core one day in bible college when I realized we do the exact same thing to God." The question about praying daily for the lost is a direct conscience-lever.
+- *Specificity (3/5):* The friend illustration is specific. The application is somewhat general ("pray more regularly").
+- *Spiritual Differentiation (2/5):* One category — the believer who neglects prayer. No differentiation across Perkins' spectrum.
+
+**5. Exhortation & Response — 5/8**
+
+- *Call to Response (3/4):* The sermon closes by calling the congregation into a prayer meeting — an unusually concrete and immediate response. This is not mere advice; it is summoning the congregation to the very act commanded.
+- *Equipping for Holiness & Witness (2/4):* The Müller quote equips for persevering through dry seasons of prayer. The practical prayer-meeting structure is equipping for the church's corporate life.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline (2/4):* No stated outline. The sermon flows narratively — pilot illustration → relational frame → friend illustration → text engagement → Müller → prayer meeting.
+- *Progression (2/3):* The progression builds toward the prayer meeting, but meanders between the Müller quote and the close.
+- *Unity (2/2):* One idea: pray devotedly, not only in crisis.
+
+**7. Illustration & Imagination — 4/5**
+
+The pilot/ATC illustration is effective for the emergency-prayer frame ("Our father, which art in heaven" — the punchline lands). The high school friend illustration is the sermon's best moment — personal, humble, and theologically precise in its application. The Müller quote is appropriately chosen and accurately sourced. These three together carry more weight than the exegesis does.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2):* Conversational and personal throughout. First-person reflection, rhetorical questions, congregation-addressed asides.
+- *Conviction on the Page (1/2):* The friend illustration has conviction. The closing prayer-meeting summoning has pastoral authority. The middle section is flat.
+- *Cadence and Breath (0/1):* Raw draft — run-on sentences, unbroken paragraphs. Needs editing for oral cadence.
+
+---
+
+### 6. Cognitive Load Modifier
+**0** — Accessible to all hearers. No overload.
+
+---
+
+### 7. Total Score
+**53 / 100** (raw draft)
+
+*Interpretation: Below 60 — Fundamentally flawed in current form. The sermon's illustrations exceed its exegesis. The theological grounding of prayer through Christ's mediation is absent. The raw draft status means this manuscript has not yet been developed to sermon quality.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily relational self-examination (how am I treating God?) — Christ is background.
+2. **Did I encounter God, or just ideas about Him?** The God-as-neglected-husband frame is warm but not weighty.
+3. **Was I comforted, convicted, or merely informed?** Convicted (mildly) by the friend illustration. Not deeply moved.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The high school friend illustration.** Personal, self-incriminating, and the application to God lands without being forced. "It cut me to the core one day in bible college" is the sermon's most honest and effective moment.
+2. **The prayer-meeting exhortation.** Most sermons on prayer end with advice. This one ends with action — the congregation is called into actual prayer together. That is a concrete and costly exhortation.
+3. **The Müller quote.** Accurately sourced, properly contextualized ("these were lessons learned the hard way"), and well-chosen for the problem of joyless prayer. The "less we pray the less we desire to pray" observation is pastorally wise.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The Colossians context is entirely absent.** Paul was imprisoned when he wrote this. He is asking the church to pray for the very doors he cannot open himself. This context would have made the "pray for gospel doors" section alive with urgency. The congregation needs to know: Paul is not giving theoretical advice. He is asking people on the outside to pray for someone locked inside. That changes everything about what "devoted to prayer" means.
+2. **The mediatorial ground of prayer is undeveloped.** The sermon says we should pray — but on what basis? What allows sinners to speak to God? Through whose blood? By whose name? The New Testament's answer — we pray through Christ our High Priest, who intercedes for us — is the theological engine of prayer, and it is missing. Without it, the sermon's relational frame ("God as husband") can become presumptuous rather than gospel-grounded.
+3. **The exegesis is thinner than the illustrations.** The sermon works better as an encouraging talk than as an exposition of Colossians 4:2–4. The text is used as a springboard, not as the engine. A fuller exegetical pass — particularly on the thanksgiving dimension (Col 4:2 "being watchful in it with thanksgiving") — would transform this from a talk into a sermon.
+
+---
+
+### 11. Blind Spots
+
+The sermon may not see how much the imprisonment context changes the prayer-for-gospel-doors section. The preacher emphasizes relational prayer (talking to God as to a spouse) — but Paul's emphasis in vv.3–4 is missional prayer for others. These are related but distinct. The sermon's relational frame (which is good) slightly crowds out the missional frame (which is the text's specific concern).
+
+---
+
+### 12. Illusion of Strength
+
+The pilot illustration feels like a strong opening — the punchline ("Our father, which art in heaven") is amusing and makes the emergency-prayer point clearly. But it subtly frames prayer as a resource rather than a relationship, which is slightly in tension with the sermon's own main point. The relational frame (spouse) is introduced immediately after — but the transition is abrupt.
+
+---
+
+### 13. Missed Opportunity
+
+**Colossians 4:2b — "being watchful in it with thanksgiving."** The full verse is "Continue steadfastly in prayer, being watchful in it with thanksgiving." The sermon develops "steadfastly" and mentions the gospel-doors prayer — but thanksgiving is never addressed. For a sermon on prayer as relationship rather than emergency, thanksgiving is where the relational argument actually lives. Gratitude is what you give to someone when things are good, not just when you need them.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Open with Paul in prison.** "Paul wrote this letter in chains. He couldn't open a door himself. So he wrote to people who could — not because they had political power, but because they had access to the one who does. 'Pray for us, that God may open to us a door for the word.' That is a man who believes prayer accomplishes something."
+2. **Add one paragraph on Christ's mediation.** "How can we walk up to the King of the universe and speak to him? Because we have a great High Priest who has gone before us. The book of Hebrews says we can 'with confidence draw near to the throne of grace' — not because we've earned access, but because Christ has opened the way through his own blood."
+3. **Develop thanksgiving.** Add two minutes on "with thanksgiving" — gratitude as the mark of relational prayer rather than transactional prayer.
+4. **Edit the draft for oral delivery.** Break long paragraphs. Shorten sentences at key moments. The sermon has good bones; the raw state obscures them.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon has genuine pastoral warmth and a real call to response.
+
+---
+
+### 16. Weight of Glory Assessment
+The Müller quote carries weight. The prayer-meeting close carries pastoral authority. But the sermon does not yet feel like it is about meeting God — it feels like it is about maintaining a good relationship. The difference is significant. **+1/5**
+
+---
+
+### 17. Rubric Fit Note
+Colossians 4:2–4 is an apostolic command with missional content. The rubric fits it well. The raw draft status means the sermon has not yet realized the text's full potential. This evaluation is a diagnostic for what the final manuscript needs, not a verdict on the pastor's preaching ability.

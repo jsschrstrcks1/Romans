@@ -263,3 +263,186 @@ And may the Holy Spirit go before you into every grocery store, every gas statio
 Go. Be missionaries. Not imposters.
 
 Amen.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date**: 2026-03-21
+**Evaluator**: Thus Says the Lord Rubric v1.0
+**Sermon**: Missionaries or Imposters — Missions, Hell, and the Urgency of the Gospel
+
+---
+
+### 1. Verdict Title
+
+**Evangelistic Fire Without an Expository Home — A Missions Exhortation That Earns Its Urgency But Lacks Textual Roots**
+
+---
+
+### 2. One-Sentence Summary
+
+A passion-driven missions sermon that builds genuine urgency around the reality of hell and the privilege of gospel witness, but whose textual engagement is too thin and whose main point — while gospel-adjacent — does not demonstrably arise from any single governing passage.
+
+---
+
+### 3. Berean Gate
+
+**PASS — with significant structural concern.**
+
+This sermon is not primarily an expository sermon — it is a topical exhortation on missions, with Revelation 20:11–15 as an anchor text and a sprint through hell passages as supporting documentation. The main point ("We are included in God's mission to proclaim the gospel to those heading to hell") is consistent with the texts cited, but it does not arise as the primary argument of any single passage. The Berean Gate is designed for text-governed sermons; this sermon passes as a topical missions address but cannot claim expository standing with Revelation 20 as its text.
+
+*Scopus Test*: The sermon's thesis is coherent and scripturally grounded, but it is constructed from multiple passages rather than derived from the argumentative movement of one. The opening Tozer extended quotation (not a biblical text) functions as the sermon's intellectual center more than Revelation 20. Pass as topical proclamation; would fail as expository.
+
+*Authority Test*: The preacher submits to the texts he cites. No softening of hell or manipulation of the passages.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**None triggered.**
+
+The gospel is clearly proclaimed (John 3:16–17, Romans 5:8, Romans 6:23), Christ is essential and not merely helpful, application is specific and differentiated (four distinct "if you" categories in the application section), and the sermon ends with a direct exhortation. The congregation could follow it without seminary training.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+- *Textual Fidelity (5/10)*: The sermon cites and reads multiple texts (Rev 20:11–15; Mark 9:48–49; Isaiah 66:24; 2 Peter 2:17; Matthew 24:51; Matthew 13:49–50; Isaiah 59:2; John 3:16–17; Romans 5:8; Romans 6:23). Each is handled accurately. But the sermon never stays in one passage long enough to derive its argument from that passage's own logic. This is text-supported topical preaching, not exposition.
+- *Contextual Awareness (2/5)*: Individual texts are read in isolation. Revelation 20's context within John's Apocalyptic vision, and its specific redemptive-historical function as the final judgment scene, receives no treatment.
+- *Exegetical Clarity (3/5)*: No original language work, but the texts are explained adequately for a congregational setting.
+- *Logical Faithfulness (3/5)*: No eisegesis. The topical structure is logically consistent, even if it is not exposition.
+- *FCF*: Named implicitly — the congregation does not truly believe in hell or has not tasted God's majesty, so they remain silent. This is a legitimate fallen condition focus, though it is stated as a rebuke rather than an exegetical discovery.
+
+**2. Theology & Doctrinal Integrity — 14/18**
+- *Christ-Centeredness (5/7)*: Christ's substitutionary death is clearly stated ("He lived the perfect life that we could not live. He died the death that we deserved to die."). The gospel section is crisp and cross-centered.
+- *Redemptive-Historical Awareness (2/3)*: The sermon operates in the New Testament and missions framework. Hell passages span Testaments. Limited redemptive-historical integration.
+- *Doctrinal Precision (4/4)*: The gospel articulation is precise — perfect life, substitutionary death, bodily resurrection, repentance, and faith. No sloppiness on justification.
+- *Confessional Alignment (3/4)*: Strong alignment. The sermon's anthropology (all deserve hell; we are all sinners) is unambiguous. The sovereignty of God over missions is stated ("We are included in God's mission not because he needs us, but because he loves us enough to include us"). No confessional errors.
+
+**3. Gospel Centrality & Force — 13/15**
+- *Clarity of the Gospel (5/5)*: The gospel section is among the clearest in the corpus. Sin, substitution, resurrection, repentance, faith — all present. Romans 6:23 is the landing text. An unbeliever would understand how to be saved.
+- *Necessity of Christ (5/5)*: Christ is entirely essential. Salvation is not available through any other means. The sermon's whole argument about hell depends on Christ as the only rescue.
+- *Cross-Centered Gravity (3/5)*: The sermon moves powerfully toward the gospel but the movement is driven more by the fear of hell than by the glory of the cross. This is effective evangelistically but the cross gets less weight than the threat.
+- *Law/Gospel Dialectic*: The hammer (hell, wrath, separation from God) is swung with force throughout. The balm (Christ's finished work, justification by faith, free gift) lands clearly. The order is correct.
+
+**4. Conscience & Applicatory Force — 11/15**
+- *Heart Penetration (4/5)*: "Some of you know exactly who I'm talking about. There's a face in your mind right now." This is direct, searching, effective. The conscience-press is real.
+- *Specificity (4/5)*: The four differentiated categories in "What This Means for You" (the unbeliever, the silent Christian, the self-satisfied Christian, the afraid Christian) are specific, distinct, and pastorally intelligent.
+- *Spiritual Differentiation (3/5)*: The four categories address multiple Perkins hearers — the unbeliever (humbled-but-not-believing), the believer who is silent (backslider in practice), the proud Christian, the fearful witness. The self-righteous (those who think their gospel witness is sufficient) gets addressed. The hardened and unteachable is not specifically addressed.
+
+**5. Exhortation & Response — 7/8**
+- *Call to Response (4/4)*: The Spurgeon quote frames the exhortation with force. The benediction turns into a sending commissioning. "Go. Be missionaries. Not imposters." is a clean, direct imperative.
+- *Equipping for Holiness & Witness (3/4)*: The sermon equips for witness: start with one person, one conversation, one lunch. This is specific and actionable. The corporate dimension is present in the Yemen prayer and the missions statistics, though the church-as-body framing could be stronger.
+
+**6. Structure & Logical Flow — 7/9**
+- *Clarity of Outline (3/4)*: The sermon's movement is clear: God's sovereignty → missions → our backyard → the reality of hell → the gospel → exhortation. This is traceable.
+- *Progression (3/3)*: The sermon builds well. The hell passages accumulate — fire, worms, darkness, weeping — toward a climax of urgency. The gospel then arrives as relief.
+- *Unity (1/2)*: The sermon carries two related main ideas (God includes us because he loves us; the reality of hell demands we speak). These are connected but not quite unified under one thesis.
+
+**7. Illustration & Imagination — 4/5**
+- *Relevance (2/2)*: The fishing/horseback riding illustration for God including us is warm and congregation-accessible. The Yemen statistics are viscerally local (Christians fitting in one room). The Disney World as mission field is surprising and effective.
+- *Clarity (1/2)*: The Tozer quote dominates the sermon's opening and is used well, but it is doing hermeneutical work that a text should do. The Spurgeon "dead bodies" quote is vivid but its placement after the gospel risks undercutting the gospel's warmth.
+- *Memorability (1/1)*: "Every Christian is either a missionary or an impostor" will be remembered.
+
+**8. Sermonic Force — 4/5**
+- *Reads as Preaching (2/2)*: Direct address throughout. Oral cadence. "Don't raise your hand, but..." is a classic preacher's move, well-deployed.
+- *Conviction on the Page (1/2)*: The hell section has real conviction. The gospel section is clear but slightly formulaic.
+- *Cadence and Breath (1/1)*: The sentence rhythms in the hell section build and compress effectively.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**0**: The sermon is well-paced, the structure is clear, and the congregation can track it from Tozer → statistics → hell → gospel → exhortation. No modifier applied.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 13/25 |
+| Theology & Doctrinal Integrity | 14/18 |
+| Gospel Centrality & Force | 13/15 |
+| Conscience & Applicatory Force | 11/15 |
+| Exhortation & Response | 7/8 |
+| Structure & Logical Flow | 7/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **73/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **75/100** |
+
+*Interpretation: 75 — Solid but lacking. The sermon's evangelistic heat and gospel clarity are genuine strengths. The exposition score reflects not poor exegesis but the topical nature of the sermon — this is a missions address, not a text-governed exposition, and the rubric penalizes accordingly. For a topical missions sermon, this is strong. As a claim on Revelation 20, it is thin.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** More of the lost — which is appropriate for a missions sermon. Christ is present and exalted, but the dominant emotional pull is urgency about the lost rather than wonder at grace.
+2. **Did I encounter God, or just ideas about Him?** The God of this sermon is weighty, sovereign, and not dependent on us. The Tozer quotes make him large. Encounter-level is moderate-to-high.
+3. **Was I comforted, convicted, or merely informed?** Convicted — specifically of silence in the face of hell. This is appropriate and intentional. The sermon does what it sets out to do.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The gospel section is clean and complete**: "He lived the perfect life that we could not live. He died the death that we deserved to die." Every essential gospel element is present. Romans 6:23 as the landing verse works perfectly.
+2. **The four-category differentiated application**: The "What This Means for You" section addresses four distinct hearers with distinct pastoral address. This is among the better applicatory differentiation in the corpus.
+3. **The Tozer extended quotation as the sermon's theological spine**: Using Tozer's demolition of a "nervous, ingratiating God" as the sermon's frame is a genuine homiletical strength. It establishes divine sovereignty, humbles the church's sense of indispensability, and then reframes missions as gift rather than duty — all before the first main point.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The sermon has no expository home**: Revelation 20:11–15 is read and quoted but never exposited. The great white throne judgment, the books, the book of life, the second death — these images are powerful and the congregation deserves to understand them from within the text's own vision. As currently structured, Revelation 20 functions as a launch pad for a hell survey, not as the governing text of a sermon.
+2. **The hell section is descriptive but not penetrating**: Five hell passages are cited in rapid succession — fire, worms, darkness, weeping, furnace. This creates urgency through accumulation but does not stop long enough to press the conscience on any single image. The preacher says "we're going to be sprinting through Scripture" — and the sprint trades depth for quantity. One passage, deeply pressed, would be more devastating.
+3. **The sermon's primary audience is the believer, but the unbeliever is not forgotten**: This creates a structural tension. The closing gospel invitation ("If you don't know Christ: the reality of hell is not meant to scare you into faith") follows the Spurgeon "dead bodies" quote — arriving after a sustained emotional buildup that the gospel then partially deflates. The gospel should be the emotional climax, not the section following the climax.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the sermon's argument depends on the congregation already believing in hell — but the sermon's own stated thesis is that the American church doesn't truly believe in hell. If that's the anthropological diagnosis, then simply describing hell more graphically will not produce the result. The sermon needs to address the deeper question: *Why* doesn't the church believe? What is the sin behind the silence — is it comfort, cowardice, unbelief, or is it that we don't truly love God enough to love his glory among the nations? The sermon names the symptom (silence) but doesn't press the root (lovelessness, unbelief, comfort-idolatry).
+
+---
+
+### 12. Illusion of Strength
+
+The sermon *feels* maximally urgent because of the hell imagery and statistics. But urgency created by descriptions of suffering is not the same as urgency created by a holy God's claim on his image-bearers. The Habakkuk 2:14 vision — the earth full of the knowledge of God's glory — is cited early and then dropped. If that vision had governed the sermon's climax rather than the Spurgeon "dead bodies" quote, the urgency would have been glory-rooted rather than horror-rooted. The sermon is urgent — but for the wrong reason, or at least a secondary reason.
+
+---
+
+### 13. Missed Opportunity
+
+Revelation 20's most theologically distinctive element is not the lake of fire (which appears throughout Scripture) but the *books* and the *book of life*. The dead are judged "according to what they had done" — works-based judgment resulting in condemnation — while those in the book of life are rescued by *whose they are*, not what they did. This is justification by faith dramatized in apocalyptic imagery. The sermon does not mention it. This is the passage's own gospel — and it would have made the sermon's gospel presentation arise organically from the text rather than being imported from Romans.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Exposit Revelation 20:11–15 rather than using it as a launch pad**: Slow down on the great white throne — the books, the judgment according to works, the book of life. Ask: "What does it mean to have your name written in a book before the foundation of the world? What does it mean to stand before that throne with your record being read aloud?" Then the gospel arrives as the answer: someone else's record — Christ's — is what covers those in the book of life.
+2. **Choose one hell passage and dwell in it**: Rather than sprinting through five, take Mark 9:48 — "where their worm does not die and the fire is not quenched" — and press it until the congregation cannot look away. The accumulation of five passages reduces the impact of each.
+3. **Reorder the closing so the gospel is the climax**: Move the Spurgeon "dead bodies" quote earlier — let it motivate the missions section — and close on the gospel's beauty, not its urgency. "This is the message. This is what 3.4 billion people have never heard" can become a doxological climax if the cross is at the center.
+4. **Name the root sin behind evangelical silence**: "The reason we don't share the gospel is not primarily fear — it is that we love our comfort, our relationships, and our reputation more than we love God's glory and our neighbor's soul. That is the sin. Name it."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is warm, urgent, and pastorally alive. The gospel is not background music; it is the melody, even if the arrangement could be stronger.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries genuine eternal weight — 3.4 billion souls, the reality of the lake of fire, the Spurgeon image of arms around knees — and the benediction ("May the Christ who endured the cross so that you would never face the fire") is among the most doxologically beautiful closing lines in the corpus. The weight of glory is present, though rooted more in urgency about damnation than in wonder at redemption.
+
+---
+
+### 17. Rubric Fit Note
+
+This is a topical missions sermon, not an expository sermon on a single text. The rubric's exposition category is the primary area of tension — it will always score lower for a topical sermon than for an expository one, regardless of the sermon's theological and evangelistic quality. The rubric is not a poor fit, but the reader should interpret the exposition score as a genre observation rather than a quality failure. The gospel centrality, conscience, and exhortation categories apply fully and produce the sermon's highest scores. This is an appropriate result for a well-executed missions address.

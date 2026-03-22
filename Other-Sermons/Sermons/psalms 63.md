@@ -76,3 +76,124 @@ One kaveat though. We only see them protecting followers of God. David followed 
 ‌
 As the praise team comes up, I ask you what say you to Jesus? He died for you. Will you follow him?]\
 ‌
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Passage:** Psalm 63
+**Evaluator:** Thus Says the Lord Rubric v1.0
+
+---
+
+### 1. Verdict Title
+A Pastoral Heart Betrayed by Structural Drift — Rich Background, Thin Exposition
+
+### 2. One-Sentence Summary
+A warmly personal sermon on Psalm 63 that opens with genuine pastoral feeling and engaging illustration but fails to stay in orbit around the text, substituting storytelling and devotional commentary for the psalm's own argument.
+
+### 3. Berean Gate
+**Scopus Test: MARGINAL PASS — with significant drift**
+The sermon loosely identifies the psalm's core movement (thirsting for God in affliction → satisfaction found in worship → protection under God's wings), and David's crisis context is well-established. However, the sermon's actual thesis is never clearly stated. The preacher gestures toward "staying focused on Christ in struggle" but this is not demonstrably the main point of Psalm 63, which is more precisely about the soul's insatiable longing for God's presence when stripped of every earthly comfort, and the surpassing worth of God's steadfast love.
+
+**Authority Test: PASS (soft)**
+The preacher does not edit or soften the text. He submits to its claims with genuine affection.
+
+### 4. Fatal Flaw Flags
+**Flag 4 — Application is entirely generic:** The only application present is "Are we keeping our eyes on Jesus?" and "Are we staying focused on Christ and God?" These are not differentiated by hearer, not grounded in concrete life circumstance, and not pressed with any specificity. The single mother, the backslider, the comfortable churchgoer all receive the same vague exhortation.
+
+**Flag 5 — No actual exhortation:** The closing call ("What say you to Jesus?") is directed exclusively at unbelievers and is tacked on as a brief gospel tag. The congregation of believers is never summoned to a specific response. The sermon explains and illustrates; it never commands.
+
+**SCORE IS CAPPED AT 69.**
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 12/25**
+- *Textual Fidelity (10):* 5/10 — The preacher covers vv. 1-7 and briefly gestures at v. 8, but the exposition is largely impressionistic. The psalm's key words (steadfast love, glory, soul, flesh) are not unpacked with any exegetical weight. The "shadow of your wings" section is the longest exegetical engagement but spends more time on guineas and cherubim than on what the phrase means for the hearer today.
+- *Contextual Awareness (5):* 3/5 — Good historical context (Absalom's rebellion, David's family tragedy) but no engagement with the psalm's placement in the Psalter or its superscription theology.
+- *Exegetical Clarity (5):* 2/5 — No original language engagement. The "flesh as the sum total of being" reading is asserted without support. FCF is not identified — the sermon never names what fallen condition this psalm addresses (the soul's displacement and homesickness for God's presence).
+- *Logical Faithfulness (5):* 2/5 — The sermon drifts significantly from the text into the Steven Curtis Chapman story (vv. 1-3 context), the Insanity of God illustration, and the cherubim tangent. These are not tethered to the text's own argument.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 11/18**
+- *Christ-Centeredness (7):* 4/7 — The brief Christological move at the end (sin covered vs. wiped away through Christ) is correct but underdeveloped and nearly parenthetical.
+- *Redemptive-Historical Awareness (3):* 2/3 — The David/covenant observation is present but not developed.
+- *Doctrinal Precision (4):* 3/4 — No significant errors; the coverage of sin and atonement is light but not inaccurate.
+- *Confessional Alignment (4):* 2/4 — No covenantal or soteriological precision. The statement that David's sin was "only covered, not completely wiped away" is theologically correct but presented without the depth the distinction deserves.
+
+**3. Gospel Centrality & Force (15 pts) — 7/15**
+- *Clarity of the Gospel (5):* 3/5 — The gospel is present and sincere but functions as a tag, not a thread woven through the sermon. Justification by faith is not articulated. "He died for us" is stated without penal substitution being named.
+- *Necessity of Christ (5):* 2/5 — Christ's necessity is asserted at the close but not organically demonstrated from the text.
+- *Cross-Centered Gravity (5):* 2/5 — The sermon does not move toward the cross; it moves toward devotional encouragement and then drops a brief invitation at the end.
+
+**4. Conscience & Applicatory Force (15 pts) — 5/15**
+- *Heart Penetration (5):* 2/5 — The Steven Curtis Chapman story is emotionally powerful and could open hearts, but it is not leveraged to press any specific conviction.
+- *Specificity (5):* 1/5 — "Are we keeping our eyes on Jesus?" is the sum of application. No one is cornered by anything specific.
+- *Spiritual Differentiation (5):* 2/5 — The sermon addresses only the believer/unbeliever binary at the close. Perkins' categories are almost entirely absent.
+
+**5. Exhortation & Response (8 pts) — 2/8**
+- *Call to Response (4):* 1/4 — The closing gospel invitation is present for unbelievers but no exhortation is given to the congregation.
+- *Equipping for Holiness & Witness (4):* 1/4 — The sermon sends no one anywhere specific.
+
+**6. Structure & Logical Flow (9 pts) — 5/9**
+- *Clarity of Outline (4):* 2/4 — Two points are vaguely named ("staying focused on Christ" and "what happened as a result"), but the structure is not memorable or traceable.
+- *Progression (3):* 2/3 — The sermon progresses loosely from context → text → application → gospel, but the lengthy cherubim tangent breaks the flow.
+- *Unity (2):* 1/2 — The Steven Curtis Chapman story, the Insanity of God illustration, and the cherubim exposition pull in different directions.
+
+**7. Illustration & Imagination (5 pts) — 3/5**
+- *Relevance (2):* 2/2 — Chapman story and guinea hen illustration are genuinely from the congregation's world.
+- *Clarity (2):* 1/2 — The cherubim illustration is fascinating but runs so long it becomes an exhibit of interest rather than a lens for the text.
+- *Memorability (1):* 0/1 — The congregation is more likely to leave remembering the guinea hens attacking the mamba than any truth from Psalm 63.
+
+**8. Sermonic Force (5 pts) — 3/5**
+- *Reads as Preaching (2):* 2/2 — Oral cadence is strong; this reads like it was spoken, not written.
+- *Conviction on the Page (2):* 1/2 — Scripture-grounded assertions are sparse; the sermon leans on stories rather than text-driven declaration.
+- *Cadence and Breath (1):* 0/1 — No clear climactic moment.
+
+**Subtotal: 48/100**
+
+### 6. Cognitive Load Modifier
+**−1** — The sermon is accessible but unfocused. The cherubim tangent, the motorcycle vision statistics, and the camera technology illustration collectively overload the "wing" section. One fewer concept would sharpen significantly.
+
+### 7. Total Score
+**48 − 1 = 47/100 (capped at 69 due to Fatal Flaw Flags 4 and 5)**
+**Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.**
+
+### 8. Core Override Questions
+1. *Does this sermon make me think more of Christ — or myself?* Partially — the emphasis is on our focus and our response rather than on what God does in and for the soul thirsting for Him.
+2. *Did I encounter God, or just ideas about Him?* Ideas, largely — the cherubim section and the Chapman story are engaging but they describe things *about* God rather than placing the hearer before Him.
+3. *Was I comforted, convicted, or merely informed?* Informed, with emotional warmth — the conviction and specific comfort the psalm offers are not delivered.
+
+### 9. Strengths (Top 3)
+1. **Pastoral context-setting** — The reconstruction of Absalom's rebellion and David's family devastation (lines 4-21) is vivid, compassionate, and gives the congregation genuine entry into David's emotional world.
+2. **Oral warmth** — The manuscript reads as genuine spoken word. The preacher's voice is present and warm throughout; this is not a polished lecture.
+3. **The Steven Curtis Chapman illustration** — A powerful, true story that captures grief, guilt, and the complexity of family tragedy. Had it been connected more deliberately to the psalm's own movement from lament to praise, it would have been exceptional.
+
+### 10. Critical Weaknesses (Top 3)
+1. **The text is barely opened** — Psalm 63 has eleven verses, each theologically dense. The sermon covers roughly vv. 1-7 impressionistically and never returns to vv. 8-11. The "therefore" of v. 8 ("my soul clings to you") — which is the psalm's hinge — receives almost no attention.
+2. **The FCF is unnamed** — The psalm exists to address the soul's desperate displacement and the discovery that God's steadfast love is better than life. This fallen condition (the idolatrous settling for earthly security over God Himself) is never named or applied.
+3. **The cherubim section is a tangent, not an exposition** — Nine paragraphs on guinea hens, Ezekiel's cherubim, motorcycle vision statistics, and camera technology generate fascination but not worship. The theological content (God protects His servants) is good; the delivery buries the point.
+
+### 11. Blind Spots
+The preacher appears genuinely moved by the psalm and by David's story — which is a gift. But the love of the story has overridden the love of the text. The preacher may not see that the congregation could leave knowing more about guinea hens attacking black mambas than about the steadfast love of God being better than life (v. 3), which is the psalm's climactic assertion.
+
+### 12. Illusion of Strength
+The cherubim passage *felt* like theological depth — it's fascinating material and the congregation was likely engaged. But it was exposition of Ezekiel 1, not Psalm 63. Extensive content about a supporting illustration is not the same as digging into the text.
+
+### 13. Missed Opportunity
+Psalm 63:3 — "Your steadfast love is better than life" — is one of the most radical declarations in the Psalter. A man being hunted by his own son, a man who has watched his family destroy itself, declares that the love of God outweighs his own survival. This verse received no treatment whatsoever. It is the psalm's beating heart and the sermon walked past it.
+
+### 14. Surgical Fixes
+1. **State the thesis from Psalm 63:3 early:** "David says God's steadfast love is better than life itself — not when life is comfortable, but when life is in ruins. Tonight we ask: Do we believe that?" This anchors everything.
+2. **Cut or compress the cherubim section to two paragraphs.** The point (God protects His people with His best) can be made in two minutes. The current section takes six and leaves the text behind.
+3. **Apply Psalm 63:8 ("My soul clings to you") to specific congregational realities** — the person in a dry spiritual season, the one whose family is in ruins, the one who is comfortable enough not to thirst. This is where differentiated application begins.
+4. **Add a direct address moment:** "Some of you have not thirsted for God in years. You're not in a desert — you're in a suburb, with Netflix and a full schedule. The psalm's warning is for you."
+5. **The exhortation is absent.** The preacher must close with a concrete summons: "Leave here tonight with one resolve: I will seek God's face this week — not out of duty, but because His love is better than my comfort."
+
+### 15. Dead Orthodoxy Flag
+Not triggered — the sermon does not score high enough in exposition or theology to trigger Dead Orthodoxy detection. The weakness here is structural and applicatory, not doctrinal coldness.
+
+### 16. Weight of Glory Assessment
+There are genuine moments of pastoral warmth and a real sense that the preacher loves David and loves this psalm — but the eternal weight of God's steadfast love being better than life never fully presses down upon the congregation.
+
+### 17. Rubric Fit Note
+Psalm 63 is a Davidic lament-to-praise psalm — a genre that stresses the psalm's *genre markers* (cry, declaration, confidence, imprecation) as much as its doctrinal content. The rubric's FCF lens is highly appropriate here: the psalm exists to address the soul's thirst for God in desolate circumstances. The rubric fits this passage well, though the imprecatory close (vv. 9-11) was entirely omitted, which the rubric would flag as a quiet skipping of hard material (see Exposition subcategory: "Which verses received no treatment?").

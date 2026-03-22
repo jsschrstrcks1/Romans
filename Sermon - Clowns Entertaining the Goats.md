@@ -200,3 +200,210 @@ Bentley says he's here to — and I quote — blow the "bum hole" out of the chu
 - Elijah/Elisha "same amount" theology corrected: OT Spirit was selective, temporary, task-specific ("upon"); NT believers receive permanent indwelling ("within") as New Covenant baseline — this is greater, not equal (John 7:39; Ezek. 36:26-27; Matt. 11:11; 2 Cor. 3); cross-references added: Ezek. 36, Matt. 11:11, 1 Pet. 1:10-12
 
 **Standing flags:** None remaining.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date**: 2026-03-21
+**Rubric**: Thus Says the Lord — Reformed Baptist Sermon Evaluation
+
+---
+
+### 1. Verdict Title
+
+**"A Discerning Pastoral Warning with an Absent Gospel Center and a Borrowed Doctrinal Frame"**
+
+---
+
+### 2. One-Sentence Summary
+
+A faithful practical survey of Holy Spirit ministry and charismatic error that demonstrates genuine pastoral care and hermeneutical awareness while failing to preach an actual gospel and leaving the theological framework borrowed entirely from a confessional statement rather than exegeted from the primary texts.
+
+---
+
+### 3. Berean Gate
+
+**Result: Conditional Pass — with significant reservation.**
+
+**Scopus Test**: The sermon is organized around the Baptist Faith and Message Article C rather than around the explicit argument of any single text. Acts 2, Romans 8, and Galatians 5 are all used in supporting roles. The sermon's main point — the Holy Spirit indwells believers permanently and produces transformation; charismatic counterfeits must be rejected — is not demonstrably *the* main point of any one of these passages. Acts 2 is about Pentecost-as-inauguration; Romans 8 is about Spirit/flesh contrast and the guarantee of glorification; Galatians 5 is about the works of the flesh. The sermon borrows from all three without deriving its main point from the controlling argument of any one. This does not fail the gate entirely — the doctrinal content is substantially grounded — but it is a topical sermon using Scripture illustratively more than expositionally.
+
+**Authority Test**: Pass. The preacher submits to the text's claims, including the uncomfortable pneumatological ones. He does not soften the exclusion of charismatic excess but handles it directly. No editing of hard passages detected.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG TRIGGERED: Fatal Flaw #1 — No clear gospel presentation.**
+
+The sermon manuscript contains an explicit placeholder: *"⚠️ [Gospel presentation placeholder — preacher delivers gospel call live]"*. This means the written manuscript, as it stands, contains no gospel. There is doctrinal content about the Spirit, sin, and the flesh. There is a reference to salvation and the Spirit sealing believers. But there is no articulation of what salvation *is* — no cross, no substitution, no "Christ died for your sins," no call to repentance and faith. The congregation is told "you can't fake it across the arc of your life" and asked "would people speak of you in that manner?" — but never told how to become someone the Spirit has sealed.
+
+**Score capped at 69.**
+
+*Note: If the gospel was in fact preached live and this is merely a manuscript placeholder, the score cap would not apply to the delivered sermon — but the manuscript as submitted cannot be evaluated differently than what is on the page. The rubric evaluates manuscripts.*
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14/25**
+
+- *Textual Fidelity* (6/10): The sermon engages genuine passages but functions as a topical survey. Acts 2:3-4 and 5-6 are handled carefully — the exegetical argument about *heteros* and the literal/figurative analysis is the strongest expository moment in the sermon. Romans 8:5-11 is read but not opened; it is cited as support for a point already established rather than preached through. Galatians 5:19-21 similarly functions as a list-illustration, not exposition.
+- *Contextual Awareness* (3/5): The Pentecost context is handled adequately — the redemptive-historical note about the transition from OT Spirit-work to NT indwelling is genuinely helpful. The correction on Elijah/Elisha is strong. But the broader covenantal framework is asserted rather than shown from the texts.
+- *Exegetical Clarity* (3/5): The *heteros/ἕτερος* discussion is a real exegetical moment. The 1 Corinthians 13:1 hyperbole-vs-literal distinction is also useful. But most of the sermon does not demonstrate *how* the preacher arrived at conclusions.
+- *Logical Faithfulness* (2/5): The structure is thematic-topical. The movement from Pentecost → ministry of Spirit → proof of Spirit → warning about counterfeits is coherent but not derived from any text's own logic.
+
+**FCF** (Fallen Condition Focus): The sermon correctly identifies mankind's inability and the flesh's hostility to God — but this remains general. The specific condition addressed by each text is not named concretely.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness* (4/7): Christ appears — the cross secures our salvation, the Spirit is "the Spirit of Christ" — but Christ is not the center. The sermon centers on the Holy Spirit's work, which is appropriate given the topic, but the organic connection between Spirit-work and Christ's finished work is underdeveloped. The Spirit is presented as the guarantor, but what the Spirit guarantees (union with Christ, righteousness credited) is not fleshed out.
+- *Redemptive-Historical Awareness* (2/3): The Elijah/Elisha contrast with NT indwelling is well-handled — a genuine redemptive-historical observation. The Pentecost-as-new-covenant-inauguration framing is correct.
+- *Doctrinal Precision* (4/4): The pneumatological doctrine is precise: permanent indwelling, not a "gas tank," sealing at regeneration, not a second blessing. The correction of charismatic error is clear and fair. The 1 Corinthians 13:1 exegetical move is sound.
+- *Confessional Alignment* (3/4): The doctrinal content aligns with the 1689 and BFM. No errors detected. The Spirit's role in regeneration is clearly stated. The absence of a gospel presentation keeps this from scoring full marks here — without it, the soteriological picture is incomplete.
+
+**3. Gospel Centrality & Force — 4/15**
+
+- *Clarity of the Gospel* (1/5): A placeholder. The sermon says Christ "paying our sin price" and "securing our salvation" in passing, but never preaches it. No penal substitution, no justification, no call.
+- *Necessity of Christ* (2/5): Christ is mentioned as necessary but functions as background infrastructure. The sermon could be understood by a Unitarian who believed the Spirit was a transforming force — the necessity of Christ's *cross* is not argued.
+- *Cross-Centered Gravity* (1/5): No cross-movement in the sermon. The direction is toward Spirit-discernment and charismatic critique, not toward the cross.
+
+**Synagogue Test**: A devout Jew could sit through this sermon without being significantly offended by the necessity of Christ's blood. The Spirit is real and produces transformation, discernment is needed — none of this requires a crucified and risen Jesus in a way that would give offense. **Flag triggered.**
+
+**4. Conscience & Applicatory Force — 9/15**
+
+- *Heart Penetration* (3/5): The self-examination questions ("Are you closer to God now?") are genuinely pastoral. The "lipstick on a pig" illustration is vivid. The section on truth/grace balance presses the conscience. But the conscience-pressure is behavioral and moralistic without gospel-grounding.
+- *Specificity* (3/5): The self-examination questions are specific and congregationally pitched. The Washington D.C. illustration is personal. Named characters ("Kurt," "Kenny Duffield") ground the application.
+- *Spiritual Differentiation* (3/5): The sermon distinguishes believers from counterfeits (Perkins #3 and #5 addressed). It does not address the humbled-but-not-yet-believing (Perkins #4), the backslider (#6), or the ignorant/unteachable (#1). The unbeliever is barely addressed, since there is no gospel.
+
+**5. Exhortation & Response — 4/8**
+
+- *Call to Response* (2/4): "Would people speak of you in that manner?" is a genuine application. The self-examination bullet points function as a call to examine. But there is no clear summons — no "therefore" moment — no "repent of this and do that."
+- *Equipping for Holiness & Witness* (2/4): The discernment section equips the congregation against charismatic error. The "know your Bible" point is actionable. But the church is not sent out in any missional or witness-oriented sense.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline* (3/4): The four movements are discernible: (1) What happened at Pentecost, (2) Ministry of the Spirit, (3) Proof of the Spirit in your life, (4) Todd Bentley warning. The outline is traceable.
+- *Progression* (2/3): The progression is generally logical but loose. The Washington D.C. story is an extended introduction that takes a while to arrive at its point.
+- *Unity* (1/2): The sermon has competing concerns — tongues exegesis, Spirit ministry, self-examination, charismatic critique — that do not reduce to a single dominant idea.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance* (2/2): The Washington D.C. youth trip, the Elijah/Elisha contrast, "lipstick on a pig," the gas tank analogy — all drawn from the congregation's world or familiar cultural touchstones.
+- *Clarity* (1/2): The Todd Bentley section is vivid but very long. It risks becoming the dominant emotional memory of the sermon rather than a supporting illustration.
+- *Memorability* (1/1): Todd Bentley's story will be remembered. The Archibald Brown "clowns entertaining the goats" quote is striking and appropriate to the argument.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching* (2/2): The sermon has genuine oral cadence. Direct address ("Have you ever heard...?") is natural and sustained. The conversational register feels authentic.
+- *Conviction on the Page* (1/2): There is pastoral conviction on the charismatic critique. But the absence of gospel proclamation means the deepest conviction — the weight of Christ's cross — is entirely absent.
+- *Cadence and Breath* (0/1): The sentence structure is reasonably varied but the Bentley section runs long and flattens the pace.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1**: The sermon covers more ground than one text can naturally carry — tongues exegesis, OT/NT pneumatology, self-examination, charismatic discernment. All topics are accessible, but the sermon is asking the congregation to track five distinct subjects. One fewer concept (either the tongues section or the self-examination section) would sharpen the focus.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 14/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 4/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **57/100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **57/100** |
+
+**Score capped at 69 due to Fatal Flaw #1 (no gospel presentation in manuscript).**
+
+**Interpretation**: *Concerning gaps. The score before the cap reflects a genuinely problematic deficit in gospel content — this is not merely a capped score masking underlying strength. The sermon explains and warns; it does not yet proclaim.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily of myself — the self-examination section is the dominant applicatory register, and Christ is not the lens through which it is refracted.
+2. **Did I encounter God, or just ideas about Him?** Ideas, primarily. The Spirit is discussed with accuracy; he is not encountered in the sermon.
+3. **Was I comforted, convicted, or merely informed?** Informed and warned — with some genuine conviction in the self-examination section. Not comforted in any gospel sense.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Exegetical precision on tongues** (Acts 2:3-6 section): The *heteros* argument, the literal-vs-figurative distinction, and the contextual reading of the crowd hearing their own languages is the sharpest expository moment in the sermon. This equips the congregation with a replicable hermeneutical method, not just a conclusion.
+
+2. **The Elijah/Elisha pneumatological correction** (Holy Spirit Ministry section): The OT Spirit-as-task-specific vs. NT Spirit-as-permanent-indwelling distinction is biblically sound, redemptive-historically aware, and practically significant. Anchoring it to Ezekiel 36, Matthew 11:11, and 1 Peter 1:10-12 gives it genuine depth.
+
+3. **The Todd Bentley critique is specific and grounded**: Rather than a vague warning about "false teachers," the preacher names, describes, and tests a specific case against the doctrinal standard just established. The "know your Bible" conclusion is precisely right.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is a placeholder** (Gospel section): "⚠️ [Gospel presentation placeholder — preacher delivers gospel call live]" is the entirety of the gospel section in this manuscript. A manuscript that contains no gospel cannot be evaluated as a complete sermon. Everything the Holy Spirit is said to do — convict, regenerate, seal — requires a gospel to make sense of it. The congregation is told the Spirit seals "everyone that's a believer" but is never told what believing *means* or what one is believing *in*. The cross does not appear.
+
+2. **Application is moralistic without gospel grounding** (Proof of the Holy Spirit section): The self-examination questions ("Are you closer to God? Are you more humble?") are legitimate, but they arrive without the indicative that makes the imperative bearable. The congregation is told to examine themselves to determine if they are saved — but is never told what to do if the answer is no, and is never pointed to Christ's righteousness as the basis of assurance. This is spiritual examination without a gospel anchor, which produces either pride or despair.
+
+3. **The sermon is topical, not expository** (entire sermon): The Scripture references serve the doctrine; the doctrine does not emerge from the texts. Acts 2 is not preached — it is quarried for the tongues discussion. Romans 8:5-11 is read but receives no verse-by-verse treatment. Galatians 5:19-21 functions as a list. A BFM article, not a biblical text, governs the sermon's structure. This is a faithful doctrinal talk; it is not an expository sermon in the sense the rubric requires.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the warning against charismatic emotionalism has itself created an emotionally flat gospel center. In correcting the excesses of those who make everything about feelings and experience, the sermon risks presenting a Holy Spirit who is doctrinally correct but experientially thin. The congregation is told what the Spirit does without being given a reason to treasure it. The irony is that the Todd Bentley critique warns against a Spirit divorced from the Word — but the sermon's Spirit is barely connected to the cross.
+
+Additionally, the self-examination section, well-intentioned as it is, functions as a law-without-gospel application — which is precisely the type of moralism the sermon does not intend but structurally produces.
+
+---
+
+### 12. Illusion of Strength
+
+The sermon *feels* doctrinally strong because it is accurate. The pneumatology is correct. The charismatic critique is well-argued. The congregation will likely leave feeling well-informed. But accurate information about the Spirit is not the same as encountering the Spirit through the preaching of the cross. The doctrinal precision functions as a substitute for proclamation. The sermon knows what the Spirit does; it does not proclaim what Christ has done that makes the Spirit's presence possible.
+
+---
+
+### 13. Missed Opportunity
+
+Romans 8:5-17 was read but not preached. Verses 12-17 — *"For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, 'Abba! Father!'"* — are among the most pastorally rich pneumatological texts in the New Testament. They connect Spirit-work directly to adoption, assurance, and the witness of the Spirit with our spirit. Preaching through these verses would have given the sermon both its theological spine and its gospel warmth. The sermon lists what the Spirit does from the BFM; these verses *show* what that means in the believer's experience, and they do so with a gospel-grounded joy entirely absent from this manuscript.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Write out the full gospel presentation — do not leave it as a live placeholder.** Even if the preacher intends to deliver it extemporaneously, the manuscript must show the trajectory: sin → wrath → substitution → resurrection → call to repentance and faith. A three-paragraph gospel kernel would transform this sermon's structural integrity.
+
+2. **Anchor the self-examination section to Romans 8:14-17.** The current self-examination questions ("Are you closer to God?") are not wrong — but they need to follow the indicative before the imperative. Reframe: "Because the Spirit of adoption has been given to you, he will produce these marks. Examine yourself not to earn your standing, but to confirm what the Spirit is doing." The examination then becomes gospel-assurance, not moralistic measurement.
+
+3. **Reduce the Bentley section by half and redirect the final beat to Christ.** The Todd Bentley narrative, vivid as it is, currently ends the sermon on a warning against counterfeits rather than on an affirmation of the real. The sermon should close on what the true Spirit actually produces — which requires articulating what Christ has done. The quote about "clowns entertaining the goats" is a perfect title and a sharp opening hook; it does not need to be the sermon's emotional climax.
+
+4. **Choose one primary text and preach it.** The topical structure is the root cause of most of the sermon's weaknesses. Romans 8:5-17 is the most comprehensive pneumatological text in the reading list and can carry the whole argument: the Spirit's role in regeneration (v.9), indwelling (v.11), transformation (v.13-14), adoption and assurance (v.15-17). Preach that text, use the others as cross-references, and the BFM article becomes commentary on what the text already teaches.
+
+5. **Add a direct address to the person examining themselves and finding they come up short.** Currently the sermon corners the self-righteous faker but does not speak to the person who has honestly examined their heart and is afraid. Perkins #4 (the humbled, convicted but not yet believing) is entirely unaddressed. A sentence: *"If you've looked at these questions and your heart has sunk — good. That's the Spirit doing exactly what he's supposed to do. And the answer to a sinking heart is not to try harder. It's to look to Christ."*
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Partial trigger.** Exposition scores adequately in isolated moments but the Gospel Centrality score of 4/15 triggers the theology/gospel diagnostic. The sermon is doctrinally sound in its pneumatology and could be used as a reference document for understanding the Spirit's work. But *correct pneumatology without the cross is not preaching* — it is Christian anthropology without a Savior. The fire is missing not because the preacher lacks conviction but because the object of conviction (Christ crucified) does not appear in the manuscript.
+
+---
+
+### 16. Weight of Glory Assessment
+
+There are flashes — the Elijah/Elisha contrast carries genuine eternal weight, and the "least in the kingdom is greater than John the Baptist" moment is striking — but the sermon as a whole does not carry the gravity of its subject; a sermon about the indwelling Holy Spirit should feel like something irreplaceable has arrived, and this one feels like a careful warning about what to avoid.
+
+---
+
+### 17. Rubric Fit Note
+
+This sermon strains the rubric at the Berean Gate because it is a topical-doctrinal sermon attached to a confessional article rather than an expository sermon from a single controlling text. The rubric is designed to evaluate text-driven sermons, and applying it here reveals that the sermon's primary weakness — the absence of a gospel center — is structural, not incidental. The rubric fits this sermon well enough to be useful; it reveals the cost of organizing around a confessional statement rather than a biblical text.

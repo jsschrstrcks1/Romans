@@ -19,3 +19,59 @@ Reverend Ken Baker
 Pastor at Lakeview Fellowship Church
 Bachelors of Arts in Biblical Studies from Trinity College of Florida
 A senior in pursuit of his Masters of Divinity in Christian Leadership at Southeastern Baptist Theological Seminary.
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Genre Note**: This file is not a sermon. It is a pastoral character reference letter written by Reverend Ken Baker on behalf of a child named Stephanie, submitted in the context of a custody proceeding. The rubric's full 17-element scoring framework is designed for sermon manuscripts and does not apply to this genre. What follows is a genre-appropriate assessment with observations on the pastoral elements that are relevant.
+
+---
+
+**Document Type**: Pastoral custody reference letter
+**Author**: Rev. Ken Baker, Lakeview Fellowship Church
+**Subject**: Character witness for a child (Stephanie) in a custody matter
+**Audience**: Likely a family court or guardian ad litem
+
+---
+
+### Relevant Rubric Elements Applied With Caveats
+
+**Theological Integrity and Pastoral Voice**
+
+The letter does contain spiritual content: Baker notes Stephanie's love for church and Jesus, her scripture memorization, and his concern about the spiritual impact of removing her from her church community. These observations are pastorally appropriate and reflect genuine care for the child's spiritual formation. The claim that custody decisions have spiritual consequences is a legitimate pastoral concern — not overreach.
+
+However, the spiritual concerns are embedded within what is functionally advocacy writing for one party in a legal dispute. The pastor writes as a character witness for the mother's position against the father having sole custody. That is a legitimate role, but it means the document's purpose is persuasion in a legal context, not spiritual instruction or biblical exposition.
+
+**Pastoral Concern for the Congregation Member**
+
+Baker's attention to Stephanie's hygiene, behavior, demeanor, and emotional state across custody arrangements reflects genuine pastoral observation of someone he knows well. The description is specific, warm, and grounded in firsthand contact. This is consistent with faithful pastoral shepherding of a church family — knowing people well enough to speak meaningfully about their lives.
+
+**Appropriate Limits and Potential Concerns**
+
+The letter makes several observations that venture beyond what a pastor can know with certainty:
+- Baker attributes changes in Stephanie's emotional state to visits with her father, though he acknowledges he cannot know the cause with certainty ("Perhaps it's the lack of stability...").
+- He explicitly states his opinion that the father having full custody "would have profoundly negative effects on her as she grows up" — this is advocacy, not pastoral fact.
+- He states the father "has already stopped her from coming to church any time he has had custody," which is relevant spiritual observation, but is presented as settled fact in a contested legal matter.
+
+None of these observations are inappropriate for a character reference — courts expect advocates to advocate. But a reader should understand this letter is pastorally motivated advocacy, not a neutral assessment.
+
+**What the Rubric Cannot Assess Here**
+
+The following rubric categories do not apply to this document:
+- Exposition & Hermeneutics — no text is being preached
+- Gospel Centrality & Force — no gospel presentation is being made
+- Conscience & Applicatory Force — no hearer is being addressed in a preaching context
+- Exhortation & Response — not a sermon call to action
+- Structure & Logical Flow (as homiletical category) — document has appropriate epistolary structure
+- Illustration & Imagination — not applicable
+- Sermonic Force — not applicable
+- Weight of Glory (bonus) — not applicable
+
+---
+
+### Summary Assessment
+
+This is a well-written, pastorally warm character reference letter from a shepherd who clearly knows his congregation member. It is honest about its purpose (advocacy for the mother's custody position), grounded in firsthand observation, and appropriately pastoral in its concern for the child's spiritual formation. The spiritual content is genuine, not decorative. Baker is doing exactly what a pastor should do when asked to speak on behalf of a vulnerable member of his congregation.
+
+**This document should not be scored on the sermon rubric.** It is a different genre serving a different purpose, and applying homiletical criteria to it would produce a meaningless number. What it demonstrates is a pastor who knows his people, cares for their souls, and is willing to speak up on their behalf — which is precisely what pastoral ministry looks like outside the pulpit.
+
+**Rubric Fit Note**: The Thus Says the Lord rubric is built for expository sermon manuscripts. It is not designed to evaluate pastoral correspondence, legal declarations, character references, or any genre where the goal is testimony rather than proclamation. This document is well outside its scope, and that is not a criticism of the document — it is simply a note that the instrument does not fit the artifact.

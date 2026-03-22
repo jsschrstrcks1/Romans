@@ -147,3 +147,156 @@ All in the hopes that you might be able to share the gospel with someone, and se
 - Political illustrations preserved as-preached; no editorial comment added
 - Greek word study kept as-preached with contextual smoothing only
 - "[c]" footnote marker from ESV removed (was an artifact from the preacher's Bible)
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated:** 2026-03-21
+**Rubric:** Thus Says the Lord — Reformed Baptist Sermon Evaluation Rubric
+**File:** 2 Tim 2 14-26 - The Approved Workman.md
+
+---
+
+### 1. Verdict Title
+Solid Pastoral Ethics, Thin Exegesis, Missing the Gospel Center of the Passage
+
+---
+
+### 2. One-Sentence Summary
+A practically useful sermon on 2 Timothy 2:14-26 that handles the passage's warnings about quarreling and irreverent babble with vivid illustration and contemporary relevance, but fails to develop the passage's positive theological center — the approved workman, the God-granted repentance, and the escape from the devil's snare — and leaves the gospel as an afterthought rather than the passage's own climax.
+
+---
+
+### 3. Berean Gate
+**Scopus Test: PASS (qualified)**
+The sermon's thesis — Christians should be approved workers who avoid quarreling, handle God's word rightly, and pursue honorable use — is derivable from the passage. However, the sermon spends disproportionate time on the negative commands (don't quarrel, avoid babble) and significantly underdevelops the passage's positive center: the approved worker who "rightly handles the word of truth" (v.15), the vessel cleansed for honorable use (v.20-21), and God's gift of repentance to opponents (v.24-26).
+
+**Authority Test: PASS**
+The preacher is not softening or editing the text's demands.
+
+---
+
+### 4. Fatal Flaw Flags
+**Score cap: NOT triggered — but close.**
+
+**Near-flag on gospel:** The sermon's closing line — "If not, maybe you need to hear and respond to the gospel yourself" — is a gospel pointer, not a gospel proclamation. The passage itself contains a beautiful gospel movement in vv. 24-26 (God may grant repentance, escape from the devil's snare, knowledge of the truth), and the sermon does quote this text but does not mine its gospel content. An unbeliever could attend this sermon and not understand how to be saved. This is a significant gap that does not quite trigger the fatal flaw only because vv. 22-26 are quoted in full and the closing invitation is present, however thin.
+
+**Near-flag on exhortation:** The sermon explains and warns but does not clearly summon. The final paragraph closes with a conditional ("if not, maybe you need to hear and respond to the gospel"), which is more of a diagnostic than an exhortation. No clear "therefore" moment is present.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 16/25**
+- *Textual Fidelity (10):* 7/10 — The sermon covers verses 14-26 section by section and quotes the text accurately and fully. However, the structural organization is topically weighted: sections on "Don't Quarrel," "Irreverent Babble," and "Approved Worker" are not equally developed. V.15 (the approved workman) receives only one section, while the quarreling/babble material receives significantly more attention. Vv. 17-19 (Hymenaeus and Philetus, the solid foundation) are skipped entirely.
+- *Contextual Awareness (5):* 4/5 — Paul's end-of-life context is carried forward well from the opening series frame. The Ephesian false-teaching context is noted.
+- *Exegetical Clarity (5):* 4/5 — The Greek engagement on κενοφωνία ("empty babble") and the word study on τούτων in v.21 are legitimate and accessible. The gangrene medical detail is accurate and illuminating.
+- *Logical Faithfulness (5):* 1/5 — The FCF is implicit (Christians who damage the church through careless speech and quarreling) but never named. The passage's own internal logic — the contrast between the ashamed/dishonorable workman and the approved/honorable one — is present in structure but never stated as the sermon's thesis. Eisegesis is not the problem; *selective coverage* is: vv. 17-19 (the named heretics and the sure foundation) are skipped, which is a significant omission.
+
+**2. Theology & Doctrinal Integrity — 10/18**
+- *Christ-Centeredness (7):* 3/7 — Christ is not the center of this sermon. The sermon's dominant concern is ecclesial behavior (how Christians speak and act). The Christ-content is minimal: the refiner's fire illustration at v.15 is Christologically adjacent but not Christological. The passage's own Christology — "the Lord knows those who are his" (v.19), the Lord who grants repentance (v.25) — is present in the quoted text but not developed.
+- *Redemptive-Historical Awareness (3):* 1/3 — No redemptive-historical movement. The sermon operates at the level of applied ethics.
+- *Doctrinal Precision (4):* 3/4 — No doctrinal errors. The statement "God may perhaps grant them repentance" (v.25) is quoted but not theologically unpacked — this is a significant Calvinistic/Reformed Baptist text about the sovereignty of God in repentance, and it passes without comment.
+- *Confessional Alignment (4):* 3/4 — No confessional contradictions. The 1689 pulse is present in the quoted text but not developed.
+
+**3. Gospel Centrality & Force — 6/15**
+- *Clarity of the Gospel (5):* 2/5 — The gospel is gestured at in the final paragraph: "see them accept Christ" and "maybe you need to hear and respond to the gospel yourself." This is not a proclamation. The passage's own gospel content — God granting repentance, escape from the devil's snare, knowledge of the truth — is present in the quoted text (vv.24-26) but the preacher does not preach it.
+- *Necessity of Christ (5):* 2/5 — Christ is not necessary to the majority of this sermon's argument. The sermon's practical ethics (avoid quarreling, pursue righteousness) could survive in a mosque or synagogue without the gospel. The Synagogue Test is triggered for the body of the sermon; the closing line barely prevents a full flag.
+- *Cross-Centered Gravity (5):* 2/5 — The cross is not present. The gospel movement in vv.24-26 is the passage's own cross-adjacent content (God rescuing captives through repentance) and it goes unmined.
+
+**4. Conscience & Applicatory Force — 9/15**
+- *Heart Penetration (5):* 3/5 — The gangrene illustration is viscerally effective. The political illustrations are culturally grounded. The cold-calling opening is relatable. But the conscience is addressed mostly at the level of behavior (what you say on social media) rather than the heart (why you quarrel — pride, self-justification, idolatry of opinion).
+- *Specificity (5):* 4/5 — The social media and political illustrations are highly specific and well-grounded in the congregation's world. The Facebook wall question ("would people have a harder time hearing the gospel or your politics?") is excellent direct address.
+- *Spiritual Differentiation (5):* 2/5 — The sermon primarily addresses one category of hearer: the Christian who quarrels too much. The knowledgeable-but-unhumbled is touched. The unbeliever is gestured at in the close. The backslider, the doubter, and the genuinely faithful are not addressed.
+
+**5. Exhortation & Response — 4/8**
+- *Call to Response (4):* 2/4 — The implicit call is: stop quarreling, be an approved workman, share the gospel. But this is diffuse rather than direct. There is no "therefore" moment where the congregation is summoned to a single concrete response.
+- *Equipping for Holiness & Witness (4):* 2/4 — The positive vision is present: "use words to give grace, to speak truth, to provide clarity, to produce peace." But this appears in the previous sermon (2 Tim 1) rather than here. In this sermon the positive equipping is thin.
+
+**6. Structure & Logical Flow — 6/9**
+- *Clarity of Outline (4):* 3/4 — The section headers (Don't Quarrel About Words / Irreverent Babble / The Approved Worker / Vessels for Honorable Use) are clear and the sermon is easy to follow.
+- *Progression (3):* 2/3 — The sermon moves from negative (don't quarrel) to positive (be an approved workman) to the vessel metaphor, but the progression flattens in the closing section. The gangrene and political material is vivid; the approved workman section is comparatively thin.
+- *Unity (2):* 1/2 — Two ideas compete: "avoid quarreling" and "be an approved workman." These are related but the sermon never synthesizes them into one dominant idea. The vessel metaphor (vv.20-21) points toward a synthesis — the honorable vessel is the one who avoids these things — but this is not stated as the sermon's unifying thesis.
+
+**7. Illustration & Imagination — 4/5**
+- *Relevance (2):* 2/2 — Cold-calling opening, gangrene detail, Koh-i-Noor diamond, political illustrations, and the fire-scarred man are all from the congregation's accessible world.
+- *Clarity (2):* 2/2 — The gangrene illustration is the sermon's strongest: medically accurate, viscerally memorable, and perfectly calibrated to the text's own metaphor.
+- *Memorability (1):* 0/1 — The fire-scarred man illustration is memorable but is not native to this text (it could appear in a sermon on sanctification, Romans 8, etc.). The gangrene illustration is the one image likely to be carried home.
+
+**8. Sermonic Force — 3/5**
+- *Reads as Preaching (2):* 2/2 — Oral cadence is strong. Section headers are used effectively and the direct address ("You might be more interested in...") is natural.
+- *Conviction on the Page (2):* 1/2 — The political applications have conviction; the approved workman section feels comparatively muted.
+- *Cadence and Breath (1):* 0/1 — The sermon does not build to a climactic moment. It closes with a mild conditional invitation rather than a proclamation.
+
+---
+
+### 6. Cognitive Load Modifier
+**−1** — The sermon covers a long passage (13 verses) with multiple Greek word studies, a medical excursus, political illustrations, a diamond illustration, and a fire metaphor. The density is manageable but the congregation must track many distinct concepts without a clear unifying thesis. One fewer concept thread would help.
+
+---
+
+### 7. Total Score
+16 + 10 + 6 + 9 + 4 + 6 + 4 + 3 = **58/100** − 1 (cognitive load) = **57/100**
+
+**Interpretation: Fundamentally Flawed** — The sermon is not fundamentally flawed in doctrine or pastoral instinct, but the gospel center is missing from a passage that contains one of the most pointed gospel movements in the Pastorals (vv.24-26: God granting repentance, escape from the devil's snare). The score is pulled below 60 primarily by the thin gospel centrality (6/15) and incomplete Christ-centeredness (3/7). This is a sermon that explains but does not preach.
+
+---
+
+### 8. Core Override Questions
+1. *Does this sermon make me think more of Christ — or myself?* Mostly myself — am I quarreling too much? Am I a vessel of honorable use? The questions are legitimate but self-directed.
+2. *Did I encounter God, or just ideas about Him?* Ideas about Christian behavior. God is not weighty in this sermon.
+3. *Was I comforted, convicted, or merely informed?* Convicted about speech patterns and political behavior. Not comforted. Not brought to Christ.
+
+---
+
+### 9. Strengths (Top 3)
+1. **The gangrene illustration.** Medically accurate, viscerally appropriate to the text's own metaphor, and calibrated to the seriousness of irreverent babble in the church. This is illustration at its best — not decorative, but native to the text.
+2. **The Facebook wall diagnostic.** "If someone were to look at your Facebook wall would they have a harder time hearing the gospel, or hearing about your favorite politics?" — This is specific, memorable, and conscience-pressing in exactly the way the rubric demands.
+3. **The Greek word study on κενοφωνία.** Accessible, accurate, and illuminating without being pedantic. This is Greek as unlock, not Greek as decoration.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+1. **The passage's own gospel center in vv. 24-26 is quoted but not preached.** "God may perhaps grant them repentance leading to a knowledge of the truth" is one of the most Reformed, most pastorally weighty statements in the Pastorals. The sermon quotes it and moves past it. This is the text's answer to the problem of quarreling opponents: not better rhetoric, but God-granted repentance. The sermon completely misses this.
+2. **Vv. 17-19 (Hymenaeus, Philetus, and the sure foundation) are skipped.** The text names false teachers and then immediately grounds the church's stability in "the Lord knows those who are his" — a powerful word of assurance in the context of false teaching. The sermon skips from v.17 to v.20 without explanation.
+3. **The approved workman section (v.15) is the sermon's title and centerpiece but receives the thinnest treatment.** The sermon is called "The Approved Workman," but the approved workman (v.15) gets less development than the gangrene illustration. "Rightly handling the word of truth" (ὀρθοτομοῦντα) is one of the great pastoral texts in the New Testament and deserved substantial engagement.
+
+---
+
+### 11. Blind Spots
+The preacher likely does not see how thoroughly the political/social media application has become the sermon's de facto center. The opening (cold-calling story), the quarreling section (politics), the babble section (social media), and the workman section (true Christians vs. politics-obsessed Christians) all orbit around the same application. The passage is richer than this single application axis.
+
+---
+
+### 12. Illusion of Strength
+The vivid gangrene and Koh-i-Noor illustrations create an impression of sermonic vividness that masks the thinness of the positive theological content. The sermon feels strong in the middle (the negative commands, well illustrated) and weak at the end (the approved workman, the vessel, the gospel) — the opposite of what a strong sermon structure requires.
+
+---
+
+### 13. Missed Opportunity
+"God may perhaps grant them repentance" (v.25) is the passage's answer to the question the entire section raises: what do you do with people who are trapped in quarreling and false teaching? The sermon's implicit answer is: give them good arguments and model better behavior. The text's answer is: God must grant them repentance. This is a sovereignty-of-God text embedded in a passage about Christian speech, and the sermon walks right past it. A five-minute exposition of v.25 — connecting God's role in repentance to the preacher's role in gentle correction — would have given this sermon its theological spine.
+
+---
+
+### 14. Surgical Fixes
+1. **Preach vv. 24-26 as the sermon's climax, not its appendix.** "The Lord's servant corrects with gentleness... *God may grant repentance*" — this is the passage's answer to everything the sermon has been warning against. The whole point of avoiding quarreling is not to win; it is to create conditions where God can work in someone's heart. Develop this as the sermon's positive center.
+2. **Add a 3-minute section on vv. 17-19.** The sure foundation ("the Lord knows those who are his") gives the church stability when false teachers are present. This is also the comfort side of the passage — the sermon is almost entirely warning with minimal comfort.
+3. **Develop v.15 more substantially.** "Rightly handling the word of truth" — what does this look like practically? The fire-scarred man illustration is moving but does not connect directly to the workman metaphor. A more text-native illustration would serve better.
+4. **End with a proclamation, not a conditional.** Replace "maybe you need to hear and respond to the gospel yourself" with an actual proclamation of v.25-26: "God can grant repentance even to those caught in the devil's snare. That includes anyone here today who has been living in the babble and quarreling Paul describes — and it includes anyone who has never known Christ. Come to Him."
+5. **State the FCF explicitly.** "The human problem this passage addresses is the tendency of Christians to use God's truth as a weapon for winning arguments rather than a tool for bringing people to repentance and life."
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Partially triggered.** Theology scores high enough relative to gospel centrality to trigger the pattern: correct doctrine, thin gospel proclamation. The diagnosis: "This sermon may be doctrinally sound but pastorally inert in its gospel presentation. The ethics are right. The fire is directed at social behavior rather than at the heart's need for Christ."
+
+---
+
+### 16. Weight of Glory Assessment
+The gangrene and fire-scarred man illustrations carry real weight, and the pastoral passion for the church's integrity is genuine; but the sermon's eternal gravity is undermined by a missing gospel center that would have grounded the ethical concern in God's own redemptive purpose.
+
+---
+
+### 17. Rubric Fit Note
+The rubric is well-suited to this passage. The Pastorals are practical but not merely ethical — they are grounded in the gospel (cf. 2 Tim 1:9-10) and the rubric rightly presses for that gospel grounding even in the ethical sections. The passage's own gospel content (vv. 24-26) validates the rubric's gospel centrality category as directly applicable here.

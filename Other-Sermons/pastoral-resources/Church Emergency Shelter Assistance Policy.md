@@ -1733,4 +1733,149 @@ Apply for SNAP, Medicaid, cash assistance
 6. **The Volunteer Way operates multiple locations**: the Congress Street food pantry in Port Richey, and the Moon Lake Mission (soup kitchen, showers, clothing, social services assistance) on Moon Lake Road in NPR. Both use the same phone number: (727) 815-0433.
 7. **Father and Son Food Pantry** has been listed at two addresses across sources: 1627 Chesapeake Dr., Odessa and 21418 Carson Dr., Land O' Lakes. Call (813) 846-9993 to confirm the current location.
 8. **Metropolitan Ministries operates two Pasco locations**: West Pasco at 3214 US 19, Holiday and East Pasco (Restored Hope) at 13703 17th St., Dade City. Both offer food, clothing, and financial assistance. The West location also provides residential housing and 3 hot meals daily.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### Genre Note
+
+This is not a sermon. It is a church policy document — specifically, an Emergency Shelter Assistance Policy governing hotel placement for homeless or housing-unstable church members. It is an institutional instrument, not a proclamation of the Word from the pulpit.
+
+The "Thus Says the Lord" rubric is designed to evaluate sermon manuscripts for exposition, gospel centrality, conscience-level application, and sermonic force. Most of those categories do not apply here, and applying them directly would misrepresent what this document is attempting to do. However, the rubric's concerns about **theological foundation, scriptural fidelity, gospel posture, and applicatory specificity** are genuinely relevant to any church document that claims biblical grounding — and this one makes that claim explicitly. The evaluation below applies those elements with appropriate caveats and deliberately omits categories (Berean Gate, Homiletical Structure, Sermonic Force, Illustration, Weight of Glory bonus) that are only meaningful for preached proclamation.
+
+---
+
+### Verdict Title
+
+**Theologically Grounded Policy Work with Unusual Pastoral Warmth — A Rare Document**
+
+---
+
+### One-Sentence Summary
+
+A carefully structured emergency shelter policy that does the uncommon thing of letting Scripture actually govern its reasoning rather than decorating it, producing a document that reads less like a rulebook and more like pastoral theology in institutional form.
+
+---
+
+### Berean Gate
+
+*Not applicable.* This is not a sermon and does not claim to proclaim the main point of a biblical text. No gate evaluation is assigned.
+
+---
+
+### Fatal Flaw Flags
+
+*Sermon-specific fatal flaw flags (gospel absence, moralistic drift, inaccessibility) are not formally applicable.* However, the following observations bear on analogous concerns in the policy genre:
+
+- **No fatal flaws of the applicable kind detected.** The document does not claim more biblical warrant than it has, does not moralize without gospel grounding, and does not present a works-based framework for benevolence eligibility without acknowledging grace as the posture.
+- **One area of mild concern**: The 2 Thessalonians 3:10 passage ("if anyone will not work, let him not eat") is used with appropriate caution and a contextual caveat — but this passage remains the most susceptible to misapplication in benevolence policy contexts. The document handles it responsibly, but leadership will need to hold the caveat tightly in practice.
+
+---
+
+### Rubric Categories Applied (With Caveats)
+
+#### Theology & Doctrinal Integrity — Applied Partially
+
+**Strength.** The biblical foundation section is not performative. Each passage is exegetically engaged with real explanatory prose. The James 2 / Matthew 25 opening is not used as a guilt lever — it is treated as a genuine command that settles the "whether to help" question before the policy ever reaches the "how." The Galatians 6:10 "especially those of the household of faith" citation is handled with the important qualifier that it establishes an *order*, not an exclusion. This is theologically careful.
+
+The Romans 14 application at the end of the biblical foundation section is notable. Paul's passage about food and the strong/weak dynamic is employed to set the *posture* for how the policy is administered — not grudgingly, not with condescension, but as those who have been loved at infinite cost. This is a theologically sophisticated move for a policy document, and it works.
+
+**Mild concern.** The document is implicitly Christianly orthodox but does not explicitly articulate the gospel (Christ's atoning work, justification by faith) anywhere. For a benevolence policy this is not a fatal flaw — the gospel is not the purpose of the document — but the document's theological grounding stops at moral theology and ecclesiology rather than reaching the cross. This is appropriate to genre, not a deficiency.
+
+**Confessional pulse.** The document reflects Reformed/Baptist ecclesiology (covenant community, eldership/board oversight, membership-based commitment) without being formally confessional. No confessional commitments are contradicted.
+
+#### Conscience & Applicatory Force — Adapted for Policy Genre
+
+**Unusual strength.** The best policy documents are technically accurate but spiritually inert — they tell you what to do without addressing the heart posture behind doing it. This document does not fall into that trap.
+
+The line "A policy without this posture is just a rulebook. A policy with this posture is an expression of the kingdom: righteousness, peace, and joy in the Holy Spirit" (Romans 14 section) is the kind of sentence that should not appear in a policy document — and does here, to considerable effect. The document anticipates the temptation to use the policy as a shield against helping rather than a structure for helping, and names it.
+
+The section "If the fund is empty, the decision is made" is pastorally honest in a way that many church documents are not. It does not spiritualize the absence of funds — it names it plainly and tells leadership what to say.
+
+The "walk with them, not just hand them a phone number" exhortation is specific and behavioral, not vague. This is the policy equivalent of Puritan applicatory specificity — it corners the comfortable leader who would discharge responsibility with a referral list.
+
+#### Exhortation & Response — Adapted for Policy Genre
+
+**Strength.** The document ends its guiding principles with a "Final Word" that functions as something like a policy homily. It exhorts: not just "here are the rules" but "here is why — and here is who we are when we follow them." The final paragraph ("We are a small church. We cannot do everything. But what we can do, we will do faithfully, with open hands and clear eyes, for the glory of God and the good of His people") closes with doxological orientation. For a policy document, this is unusual and commendable.
+
+**One gap.** The policy gives significant attention to what leadership should do but relatively less to how the *congregation* might be involved in carrying out the church's benevolence responsibility (beyond the brief mention of church member hospitality). A policy that equips elders and deacons but does not invite the body into the work is missing something. The 1 Corinthians 12 / body of Christ vision for mutual care is implied but not surfaced.
+
+#### Structure & Logical Flow — Fully Applicable
+
+**Strength.** The structure is clear and well-organized: Biblical Foundation → Guiding Principles → Eligibility → Triggers → Limits → Process → Long-term Care → Fund Management → Review → Summary Table. The summary table at the end is particularly strong — it allows the reader to reconstruct the policy's key decisions at a glance. For a policy document, this is the equivalent of a clear sermon outline with a memorable thesis.
+
+**Minor concern.** The transition between the policy itself and Appendix A (the Pasco County Community Resource Directory) is abrupt. The appendix is extensive and valuable — but a brief transition sentence or paragraph explaining how leadership is to use it in relationship to the policy would help. It currently feels like two documents stitched together rather than one integrated resource.
+
+#### Illustration & Imagination — Adapted
+
+**Strength.** Policy documents are typically dry. This one uses grounded, concrete language throughout: "a tent in the woods on a freezing night," "a prayer without a blanket," "a father feeds his own children before he feeds the neighborhood." These are not decorative — they serve the argument and make the stakes legible. The illustrations are native to the document's actual pastoral situation, not imported from elsewhere.
+
+---
+
+### Strengths (Top 3)
+
+1. **The biblical foundation actually governs.** The six Scripture sections are not decorative — each one is engaged with explanatory prose that connects the text to a specific policy decision. This is rare. Most church policy documents quote Scripture and then proceed as if it were not there. This document lets the texts do real work.
+
+2. **The posture language is sustained throughout.** From the Romans 14 application ("not grudgingly, not with condescension") to the Final Word ("with open hands and clear eyes"), the document maintains a consistent posture of grace. This matters because policy without posture creates Pharisaism — the letter obeyed while the spirit is violated. The document is aware of this danger and names it.
+
+3. **The single women provision is pastorally specific and courageous.** The acknowledgment that congregate shelters pose a specific safety risk to single women — and that the church's obligation to protect its members does not end at a shelter door — is exactly the kind of differentiated pastoral care that good policy requires. It distinguishes hearers in a real way, rather than treating all situations identically.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **The gospel (properly speaking) is absent.** The document grounds its benevolence theology in commands, obligations, and wise stewardship — all legitimate — but never explicitly roots the church's posture of giving in the indicative of the gospel: *we give because we have been given to, at infinite cost, in Christ.* The Romans 14 passage comes closest ("those who have themselves been loved at infinite cost") but does not name the cross. For a benevolence policy that will be read by members who may be receiving assistance at vulnerable moments, an explicit gospel anchor would be appropriate and would deepen the theological foundation beneath the practical structure.
+
+2. **The congregation is absent as an agent.** The policy is written almost entirely for leadership (the board, the pastor, the point of contact). The body of Christ's role in caring for its own members is mentioned only briefly in the "Alternatives to Consider" section (church member hospitality). A more complete theology of benevolence would locate the primary responsibility in the covenant community, with the formal policy serving as a structure for what the body is already doing. The current framing risks turning mercy into an administrative function rather than a corporate spiritual practice.
+
+3. **The Appendix A relationship to the policy is underdeveloped.** The community resource directory is genuinely excellent and practically useful. But the transition into it is abrupt, and there is no guidance about how frequently it should be introduced, at what point in the relationship it becomes relevant, or how leadership should navigate a member who has exhausted all listed resources. The policy tells leaders to "know what exists" and "go with people" but does not connect that exhortation to the specific content of Appendix A.
+
+---
+
+### Blind Spots
+
+- The document assumes a level of pastoral knowledge of members ("We should have enough idea from moving with them through life to answer these questions") that may outpace the actual relational density of a small church in transition. The policy is written for shepherds who know their sheep — but shepherds and sheep change. A note about how to build the needed relational knowledge before a crisis, not only during one, would strengthen the document.
+
+- There is no provision for what happens when a member's conduct during a hotel stay creates problems (damages, behavior that jeopardizes the church's relationship with the hotel, etc.). The liability section addresses the financial question, but not the pastoral-disciplinary question.
+
+---
+
+### Illusion of Strength
+
+The summary table at the end is well-constructed and creates an impression of comprehensive coverage. But the dollar amounts are left as placeholders (`$[amount]`), which means the policy's most concrete limits — the per-night cap and the annual fund cap — are unset. A policy with placeholder amounts is not yet a fully operational policy. The structure is strong; the policy is incomplete until those numbers are filled in and adopted.
+
+---
+
+### Missed Opportunity
+
+The document's treatment of 1 Timothy 5:8 ("worse than an unbeliever") is accurate but brief. The larger context of 1 Timothy 5 — Paul's structured approach to caring for widows, including eligibility criteria, family responsibility, and a maintained list — is directly applicable to a benevolence policy and would have provided rich biblical grounding for the structured, conditional, list-based approach this policy takes. The connection is implied but not made explicit, and making it would substantially strengthen the policy's biblical case for its own structure.
+
+---
+
+### Surgical Fixes
+
+1. Add a brief gospel-grounding paragraph to the Biblical Foundation section — or a sentence at the end of it — that roots the church's posture of giving explicitly in the gospel: the cross as the ultimate act of meeting need at personal cost. This does not require length; one paragraph will do. Something like: "We give because we have been given to. The One who owns all things became poor so that we through his poverty might become rich (2 Cor. 8:9). Every act of mercy in this church flows from that mercy, or it is merely charity."
+
+2. Add a brief section — even two or three sentences — under the biblical foundation or guiding principles that names the role of the *congregation* (not just leadership) in the church's mercy ministry. This could invoke 1 Corinthians 12 or Galatians 6:2 ("Bear one another's burdens"). The policy currently reads as a program administered by leaders; it should read as a structure supporting what the body does together.
+
+3. Fill in the dollar amount placeholders before adopting the policy. A policy with blank amounts is a draft, not a governing document.
+
+4. Add a brief transitional note at the start of Appendix A connecting it explicitly to the policy's "walking with people toward stability" section, with a sentence about how to use it pastorally (i.e., "this directory is for use in step 2 of the stability engagement process above; it is not a substitute for accompanying someone in person").
+
+5. Add a conduct provision: what happens if a member's behavior during a hotel stay results in damages, complaints, or a severed relationship with the hotel? The church needs a clear answer before it needs to give one.
+
+---
+
+### Dead Orthodoxy Flag
+
+*Not applicable to this genre.* The document is not a sermon and cannot be assessed for the correct-but-bloodless pattern. The analogous risk in a policy document is bureaucratic coldness — and the document actively resists it throughout.
+
+---
+
+### Rubric Fit Note
+
+This rubric was designed for sermon manuscripts, and most of its categories do not apply to a policy document. The evaluation above applies only those categories that are relevant to documents making explicit biblical claims: theological foundation, doctrinal integrity, applicatory specificity, structural clarity, and posture. Categories omitted — the Berean Gate, gospel centrality scoring, sermonic force, illustration weight, and the Weight of Glory bonus — are omitted because they presuppose a preached proclamation of a specific biblical text, which this document is not.
+
+The document is evaluated on what it is, not what it was never meant to be. On its own terms — as a theologically grounded church policy for emergency benevolence — it is an unusually strong piece of work.
 9. **For members near the Hernando County line**, Appendix B lists Hernando resources that may be closer. Several organizations (SpringLife Church, St. Vincent de Paul Spring Hill, Jericho Road) serve both counties.

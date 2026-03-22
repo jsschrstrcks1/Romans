@@ -166,3 +166,229 @@ Perhaps you are here tonight and have never made that decision.
 Tonight's the night.
 
 *[Gospel]*
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**The Earlier Draft: Same Core Strengths, Fewer Supports, Starker in Its Gaps**
+
+---
+
+### 2. One-Sentence Summary
+A faithful but stripped-down 2017 version of the Sola Gratia sermon that shares all the structural weaknesses of the 2021 revision while lacking its illustrative additions and the Baptist Faith and Message framing that gave the later version additional theological ballast — leaving a doctrinally earnest but thinner document whose chief virtues are its pastoral directness and its willingness to press total depravity without apology.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with the same concern as the 2021 version**
+
+*Scopus Test*: The sermon's thesis — that salvation is entirely of grace because man is entirely unable — arises from John 6:44 and 6:65. The text's core claim (no one can come unless drawn) is the sermon's core claim. Pass.
+
+*Authority Test*: The preacher does not soften the passage's claim. Human inability and divine initiative are stated plainly. Pass.
+
+Concern carries forward from the 2021 evaluation: the assigned text (John 6:43–65) is not opened. The two anchor verses are cited; the rest of the passage — including the Bread of Life discourse, the flesh-and-blood language of v. 51, and the disciples' departure — receives no treatment. The text governs the sermon's doctrine but not its argument.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 5 — No actual exhortation (TRIGGERED, SOFT)**
+
+As with the 2021 version, the sermon ends on "Tonight's the night." followed by a "[Gospel]" placeholder. The exhortation is gestured toward but not written. The manuscript contains no specific call to belief, repentance, or obedience. The intent is present; the content is absent.
+
+**No other fatal flaw flags triggered.**
+
+Score not capped, but the same penalty applies as in the 2021 evaluation.
+
+---
+
+### 5. Score Breakdown
+
+**Category 1 — Exposition & Hermeneutics: 13 / 25**
+
+- *Textual Fidelity (10)*: 5/10. Two verses from a twenty-three-verse passage are cited. The Bread of Life context, the crowd dynamics, the flesh-and-blood language of v. 51, and the disciples' stumbling in vv. 60–65 are all absent. The 2017 version also lacks the Michelangelo illustration that at least gave the 2021 version a richer sense of divine working.
+- *Contextual Awareness (5)*: 1/5. Even thinner than the 2021 version. No redemptive-historical location, no exodus/manna context, no sense of the audience Jesus is addressing.
+- *Exegetical Clarity (5)*: 4/5. What is explained is explained clearly and accessibly. The preacher has a plain, unpretentious teaching voice.
+- *Logical Faithfulness (5)*: 3/5. The argument is logically coherent — man is dead, Christ must act first, grace is sovereign — but it is assembled from a doctrinal grid rather than derived from the passage's own movement. Ephesians 2 is summarized rather than turned to.
+
+The 2017 version scores 2 points lower than 2021 in this category primarily because the Reformation/Catholic history section is absent (less contextual scaffolding) and the Michelangelo illustration — whatever its theological imprecision — gave the 2021 version a more developed picture of sanctification as divine work.
+
+**Category 2 — Theology & Doctrinal Integrity: 14 / 18**
+
+- *Christ-Centeredness (7)*: 5/7. Christ is necessary and named. The cross is present ("He provided the cross for that"). The new birth is central. But, as in 2021, the cross is asserted rather than exposited.
+- *Redemptive-Historical Awareness (3)*: 1/3. No redemptive-historical integration. Grace is treated as a Reformation concept and a personal reality, but not as the story of God's movement through covenant history.
+- *Doctrinal Precision (4)*: 4/4. Total depravity, election, perseverance — all present and orthodox. No theological slippage.
+- *Confessional Alignment — 1689 Pulse (4)*: 4/4. BF&M Article V is present, as in the 2021 version. Confessionally sound.
+
+The 2017 version scores 1 point lower than 2021 because the 2021 version added the explicit 1 Corinthians 2:14 citation (spiritual discernment), which gave additional exegetical texture to the inability argument.
+
+**Category 3 — Gospel Centrality & Force: 9 / 15**
+
+- *Clarity of the Gospel (5)*: 3/5. The gospel pieces are present — sin, inability, cross, grace, faith — but not assembled into a proclamation. "He provided the cross for that" is the fullest atonement statement. The mechanics of justification are absent.
+- *Necessity of Christ (5)*: 4/5. Christ is not decorative here. The sermon's argument requires him.
+- *Cross-Centered Gravity (5)*: 2/5. The cross is less developed even than in the 2021 version, which at least added the language of Christ as "masterpiece" and restoration of the image of God. The 2017 version's cross reference is briefer.
+
+Synagogue Test: Same assessment as 2021 — the necessity of Christ's blood is asserted but not proclaimed with sufficient force to give offense to a devout non-Christian. Partial concern.
+
+**Category 4 — Conscience & Applicatory Force: 9 / 15**
+
+- *Heart Penetration (5)*: 3/5. The cultural Christianity diagnostic ("lost as a goat") functions identically to the 2021 version and is the sharpest moment in this manuscript as well.
+- *Specificity (5)*: 3/5. Same assessment as 2021. The Bible Belt application is specific; the rest is general.
+- *Spiritual Differentiation (5)*: 3/5. The unconverted are addressed, the believer is implicitly addressed, the inquirer is gestured toward. The same partial engagement of Perkins' taxonomy as the 2021 version.
+
+Score is identical to 2021 because the applicatory content is substantively the same.
+
+**Category 5 — Exhortation & Response: 3 / 8**
+
+- *Call to Response (4)*: 1/4. Slightly weaker than the 2021 version. The 2017 version lacks the Billy Sunday momentum preceding the invitation, making the closing invitation feel more abrupt. "Tonight's the night" followed by a placeholder is still the entirety of the written call.
+- *Equipping for Holiness & Witness (4)*: 2/4. Billy Sunday is cited as a witness example. The congregation is not equipped with specific practices.
+
+**Category 6 — Structure & Logical Flow: 6 / 9**
+
+- *Clarity of Outline (4)*: 3/4. The 2017 version is more streamlined — without the Reformation/Catholic history section prepended, the sermon moves more directly to its subject. This is a structural advantage.
+- *Progression (3)*: 2/3. The movement from human condition → grace at work → warning → call is clear, if thin.
+- *Unity (2)*: 1/2. The 2017 version is slightly more unified than 2021 because it lacks the Sola Scriptura material that competes for the sermon's center. But the unity is achieved by absence, not by integration.
+
+**Category 7 — Illustration & Imagination: 3 / 5**
+
+- *Relevance (2)*: 2/2. The kids-on-ankles illustration is present and native to the preacher's world.
+- *Clarity (2)*: 1/2. Without the Michelangelo illustration, the 2017 version has fewer illustrative supports. The children illustration carries more weight here and does so adequately.
+- *Memorability (1)*: 0/1. The 2017 version lacks the rental property / indulgence story that gave the 2021 version its most memorable moment. This is the 2017 version's most significant loss relative to its revision.
+
+**Category 8 — Sermonic Force: 3 / 5**
+
+- *Reads as Preaching (2)*: 2/2. Oral cadence, direct address, conversational register — all present. This is a spoken document.
+- *Conviction on the Page (2)*: 1/2. Same assessment as 2021. The Scripture-to-assertion ratio is adequate but not dense.
+- *Cadence and Breath (1)*: 0/1. Same issue as 2021 — the sermon accumulates rather than builds; no climactic moment.
+
+---
+
+### 6. Cognitive Load Assessment
+
+**Score: 0**
+
+The 2017 version is actually marginally less cognitively loaded than the 2021 version because it carries less material — no Reformation/Catholic history section, no Michelangelo extended metaphor, no people group feature. The congregation receives a clear doctrinal argument (grace alone because man is dead) without the competing conceptual threads of the 2021 version. The trade-off is that it is also thinner.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 13 / 25 |
+| Theology & Doctrinal Integrity | 14 / 18 |
+| Gospel Centrality & Force | 9 / 15 |
+| Conscience & Applicatory Force | 9 / 15 |
+| Exhortation & Response | 3 / 8 |
+| Structure & Logical Flow | 6 / 9 |
+| Illustration & Imagination | 3 / 5 |
+| Sermonic Force | 3 / 5 |
+| **Subtotal** | **60 / 100** |
+| Weight of Glory (bonus) | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **62 / 100** |
+
+**Interpretation: Concerning Gaps.**
+
+The 2017 version scores 5 points lower than the 2021 revision. The difference is primarily in Exposition (−2), Illustration (−1), Theology (−1), and Exhortation (−1). The 2021 version's additions — the indulgence story, the Michelangelo illustration, the Reformation/Catholic context, the 1 Corinthians 2:14 citation — each added something real. The 2017 version is a leaner, slightly less resourced form of the same sermon.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?*
+Mostly Christ, for the same reasons as the 2021 version. The inability-and-grace argument is self-effacing by design. Without the extended personal illustrations of the 2021 version, this answer is marginally stronger here.
+
+2. *Did I encounter God, or just ideas about Him?*
+Mostly ideas. The 2017 version has fewer illustrative moments that might generate encounter. The cultural Christianity section has pastoral heat; the rest is doctrinal explanation.
+
+3. *Was I comforted, convicted, or merely informed?*
+The Bible Belt section convicts. The grace argument informs. The overall register is informative with moments of conviction. The sermon does not reach the register of comfort in any sustained way.
+
+---
+
+### 9. Strengths (Top 3)
+
+**Strength 1 — Streamlined Focus**
+Without the Reformation/Catholic history section prepended, the 2017 version moves more directly to its subject. The sermon begins with man's condition almost immediately, which is structurally tighter. The preacher's intent — to establish inability before proclaiming grace — is more cleanly executed here.
+
+**Strength 2 — The Cultural Christianity Warning Is Identical and Equally Sharp**
+"Lost as a goat. Lost as a tare. Lost as chaff among the wheat." The preacher's willingness to speak plainly to nominal Christianity in the Bible Belt is a consistent pastoral strength across both versions. This is the sermon's sharpest moment in 2017 as in 2021.
+
+**Strength 3 — Doctrinal Plainness**
+The sermon teaches total depravity, election, and perseverance without hedging, without apology, and without complexity that exceeds the congregation's capacity. "You contribute nothing to your salvation except the sin that made it necessary" is a clean encapsulation that lands clearly for a lay audience.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+**Weakness 1 — Thinner Than Its 2021 Revision Throughout**
+Every illustrative and contextual addition the 2021 preacher made was an improvement. The 2017 version lacks the rental property indulgence story (the most memorable moment in 2021), the Michelangelo illustration (whatever its imprecision, it developed the sanctification argument), and the 1 Corinthians 2:14 citation (which grounded the inability argument in a second text). The 2017 version is an earlier draft that was improved by revision — and the evaluation score reflects that.
+
+**Weakness 2 — The Gospel Call Is Absent from the Manuscript (Same as 2021)**
+"Tonight's the night." followed by "[Gospel]" is not a gospel call. This weakness is identical to the 2021 version and is perhaps more significant here, because the 2017 version has less doctrinal and illustrative material preceding it to carry momentum into the invitation.
+
+**Weakness 3 — The Children Illustration Carries Too Much Alone**
+In the 2021 version, the kids-on-ankles illustration is one of several illustrations. In the 2017 version, it is the primary illustration after the walking-dead image. It is warm and accessible, but its theological application — "But is it not the same with sin? Without the work of Christ in your heart you don't even try" — understates what the illustration could say. The illustration pictures weight, entanglement, and inability to move — but the sermon does not press that into conviction. It lands as a charming anecdote and moves on.
+
+---
+
+### 11. Blind Spots
+
+The same blind spot as the 2021 version: the assigned text is never opened. The preacher has a clear doctrinal thesis and cites supporting verses, but does not appear to see that the passage he has chosen contains far richer material for his very argument — most especially v. 51 (Christ's flesh given for the life of the world) and the disciples' departure in the surrounding context, which is a narrative illustration of cultural Christianity avant la lettre.
+
+Additionally: the 2017 version has no illustration rooted in concrete observed experience (the 2021 version had the indulgence from the rental property). The preacher may not see how much the absence of that kind of grounded, witnessed image costs the sermon's pastoral impact.
+
+---
+
+### 12. Illusion of Strength
+
+The sermon's directness — its refusal to hedge on total depravity, its blunt warning about nominal Christianity — can read as pastoral boldness. And it is, in part. But directness without textual depth is assertion without authority. The sermon says hard things plainly, which feels strong, but the hard things are stated rather than demonstrated from the passage. The strength is real; it is just not as deep as it appears.
+
+---
+
+### 13. Missed Opportunity
+
+Same core missed opportunity as the 2021 version: John 6:51 ("the bread that I will give for the life of the world is my flesh") hands the preacher the cross directly from the text, and it is never used. But the 2017 version has an additional missed opportunity: the children/sin illustration — with its picture of weight, entanglement, and immobilization — is the perfect setup for describing the liberation of grace. The illustration ends by describing the problem (sin weighs you down, you can't move, you stumble). The natural homiletical move is: "But what happens when someone takes the weight off? What happens when the One who is not entangled, not dead, not stumbling — reaches down and lifts the weight?" That move is not made. The illustration stops at the problem.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+**Fix 1 — Open John 6:51 before the conclusion.**
+Verse 51 is the textual resolution to the inability argument: "the bread that I will give for the life of the world is my flesh." This is Christ's answer to human inability — not explanation, but self-giving. Add a paragraph here. The cross is not just the place where forgiveness is dispensed; it is where the One who alone could come to God came — on our behalf.
+
+**Fix 2 — Complete the children illustration's theological arc.**
+After describing the weight of sin and the inability to move: "But what happens when someone removes the weight? What if the One who is entirely free — who has never stumbled, never been entangled — stoops down and takes the children off you? That is the gospel. Christ carries what we cannot. He lifts what crushes us." This fix costs four sentences and dramatically increases the illustration's theological yield.
+
+**Fix 3 — Write out the gospel call; remove "[Gospel]".**
+Same fix as prescribed for the 2021 version. The call must be written. At minimum: who Jesus is, what he has done, what the listener must do tonight, and what they are promised if they come.
+
+**Fix 4 — Add one piece of concrete observed experience.**
+The 2017 version is entirely experiential (Wyley on the floor, R.C. Sproul interview) or general. The 2021 version added the indulgence from the rental property — an image rooted in something the preacher saw and held. The 2017 version needs an equivalent. The preacher should ask: what have I seen, held, or witnessed that makes grace concrete? That image belongs here.
+
+**Fix 5 — Build toward the Billy Sunday quote as a climax, not as an addition.**
+The Billy Sunday quote ("I'll gum it till I go home to Glory") has the energy of a preaching climax. In both the 2017 and 2021 versions, it arrives and then the sermon continues past it. Consider restructuring so that the exhortation — the call to witness, the summons to fight sin, the gospel offer — builds to and then from this quote, rather than using it as a colorful detour.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The same assessment as 2021: the sermon has genuine pastoral warmth, the cultural Christianity warning has heat, and the preacher's earnestness is evident on the page.
+
+---
+
+### 16. Weight of Glory Statement
+
+The 2017 version carries the same earnest pastoral warmth as its 2021 revision but less of the illustrative and contextual weight that makes a sermon feel freighted with eternity — it is a faithful man telling his congregation what he believes, which is not nothing, but it is not yet preaching that makes God feel weighty in the room.
+
+**Bonus: +2 / 5**
+
+---
+
+### 17. Rubric Fit Note
+
+Same note as the 2021 version: the rubric fits this sermon well. New Testament didactic discourse maps cleanly to all eight categories. The dual responsibility of a series sermon (historical instruction + textual exposition) is the same tension here.
+
+One additional note specific to the 2017/2021 comparison: the rubric is not designed to evaluate versions against each other, but when evaluating what is effectively a first draft, it is worth noting that the 2021 revision improved the sermon in every scored category. The preacher's instinct to add the Reformation history, the indulgence story, the Michelangelo illustration, and the BF&M citation was sound. The revision was an upgrade. What neither version yet does is open the passage — and that is the single fix that would most transform this sermon.

@@ -70,3 +70,132 @@ Gospel.
 Christian one last thing before the praise team comes up. The famous preacher A.W. Pink wrote “if you are still following a course of self-pleasing, you are only deceiving yourself if you think you have come to Christ”. If YOU and how you feel, and what you want in that moment are your main priority, then YOU not Christ are on the throne of your heart. YOU not Christ is sitting on the worship alter of your heart. 
 
 If that’s you, then today is the day to become a Christian. Today is the day. Won’t you come?
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Moralistic Framework with a Gospel Afterthought: Disobedience as the Theme, Christ as the Footnote**
+
+### 2. One-Sentence Summary
+A sermon on Jeremiah 44 that correctly identifies idolatry as the root of disobedience but constructs its entire argument around human obedience rather than divine grace, with the gospel appended as a single word rather than proclaimed as the power.
+
+### 3. Berean Gate
+**PASS — with significant qualification.**
+
+Scopus Test: The main point — that disobedience to God (in evangelism and otherwise) is rooted in self-idolatry — does arise from Jeremiah 44, which indicts Israel for idolatry. The connection holds structurally, though it is stretched by making evangelism the primary application frame when the text does not address evangelism at all.
+
+Authority Test: The preacher submits to the text’s judgment on idolatry. However, the text’s specific judgment — God’s covenantal wrath poured out on a covenant people who had persistently rejected prophetic warning — is softened. The sermon pivots away from the weight of divine justice into "God is long-suffering," and the application drifts substantially from what Jeremiah 44 is actually arguing. The text’s severity is acknowledged briefly (cutting off), then quickly bracketed by eternal security theology. The gate passes, but narrowly.
+
+### 4. Fatal Flaw Flags
+**FLAG TRIGGERED: Fatal Flaw #1 — No clear gospel presentation.**
+
+The word "Gospel." appears as a standalone line at the bottom of the manuscript (line 68). This is a note, not a proclamation. The gospel — Christ’s atoning death, resurrection, justification by faith — is never actually preached. The closest the sermon comes is Thomas Manton’s quote ("Every time we sin we make Christ’s death necessary") and the description of Christ’s crucifixion suffering. But substitutionary atonement is described as something our sin necessitates, not as something Christ accomplished on our behalf. There is no declaration of what the finished work of Christ accomplished, no articulation of faith’s role, no proclamation of the gospel in any form a listener could receive and believe.
+
+**FLAG TRIGGERED: Fatal Flaw #4 — Application is entirely generic.**
+
+"We all fall short." "We all don’t measure up." "Think back on your obedience." These are true but undifferentiated. The sermon does not address the self-righteous, the grieving, the backslider, or the doubter with any specificity. Application remains at the level of collective moral inventory without pressing any particular conscience with any particular truth.
+
+**Score is capped at 69.**
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 12/25**
+- Textual Fidelity: 4/10. The sermon uses Jeremiah 44 as a backdrop but does not open the text. Verses 1–14 are noted to be read but no verse is actually quoted or expounded. The specific argument of the passage — that Judah has persisted in the idolatry of their fathers despite prophetic warning and has now fled to Egypt in defiance of God’s command — is mentioned in summary but never unpacked. The FCF (the specific fallen condition the text addresses: covenant-people presumption in the face of divine judgment) is never named. The preacher moves on Jeremiah as a launching pad, not a text to be opened.
+- Contextual Awareness: 3/5. The Babylonian exile context is implied but never stated. Why Jeremiah 44? Why Egypt? What had God commanded in ch. 42–43? None of this is developed.
+- Exegetical Clarity: 2/5. No exegetical work is displayed. The passage is summarized rather than explained.
+- Logical Faithfulness: 3/5. The idolatry connection is legitimate but the evangelism application is imported from Matthew 28, not derived from Jeremiah 44. The sermon is partly eisegetical in its primary application frame.
+
+**2. Theology & Doctrinal Integrity — 10/18**
+- Christ-Centeredness: 3/7. Christ appears in passing, primarily in the description of his suffering. He is not presented as the one who bore the covenant curse that Israel is experiencing in Jeremiah 44.
+- Redemptive-Historical Awareness: 1/3. The exile is not placed in redemptive-historical context. The connection between Israel’s covenantal failure and the Mediator who succeeds where they failed is entirely absent.
+- Doctrinal Precision: 4/4. No outright theological error. The note on eternal security (lamb’s book of life) is orthodox, though introduced abruptly.
+- Confessional Alignment: 2/4. No contradiction of confessional theology, but no engagement with covenantal themes when the text demands it. The Covenant of Grace is directly at stake in Jeremiah 44 (covenant faithfulness, prophetic mediation, exile as covenant curse) and receives no treatment.
+
+**3. Gospel Centrality & Force — 4/15**
+- Clarity of the Gospel: 0/5. The gospel is not proclaimed. "Gospel." as a lone word in the manuscript is not a gospel presentation.
+- Necessity of Christ: 2/5. Christ’s suffering is referenced. His necessity is implied by the Manton quote. But he is not proclaimed as Savior, Mediator, or risen Lord.
+- Cross-Centered Gravity: 2/5. The sermon gestures toward the cross ("We may as well have held the nail") but uses it primarily as a device to magnify the gravity of sin, not to proclaim the grace that the cross achieves.
+
+Synagogue Test: A morally serious non-Christian (Jewish or Muslim) could sit through the majority of this sermon and hear primarily: obedience matters, idolatry is self-elevation, disobedience grieves God, God is long-suffering. The gospel offense does not arrive until the final three sentences — and even there it is not proclaimed, only invited into.
+
+**4. Conscience & Applicatory Force — 7/15**
+- Heart Penetration: 3/5. The opening question about evangelism obedience is genuinely probing. The story of the friend in sexual sin, while risky, does attempt to corner a listener. The sermon has some probing instinct but it runs out before it presses deeply.
+- Specificity: 2/5. The applications (share the gospel, don’t elevate desires over God) are largely generic. No specific hearer in the congregation is addressed with differentiated pastoral attention.
+- Spiritual Differentiation: 2/5. The sermon primarily addresses the believer who is disobedient. It does not reach the humbled-but-not-yet-believing, the backslider, the self-righteous churchgoer, or the grieving.
+
+**5. Exhortation & Response — 4/8**
+- Call to Response: 2/4. There is an invitation at the end. But the exhortation to the believer — "Here is what you must now do" — is only implied, never stated directly. The sermon convicts but doesn’t commission.
+- Equipping for Holiness & Witness: 2/4. The Great Commission framing is present in the introduction, and the sermon does push toward gospel witness as obedience. But no practical shape is given to what that looks like.
+
+**6. Structure & Logical Flow — 5/9**
+- Clarity of Outline: 2/4. The movement is: statistics → Matthew 28 → Nik Ripken story → Jeremiah 44 → idolatry connection → God’s long-suffering → eternal security → sin’s gravity → gospel invitation. This is a journey with many stops but no clear map. A listener would struggle to sketch the outline.
+- Progression: 2/3. There is forward movement, but the structure buries its most important content (sin’s gravity, the cross) in the final third with no sermonic buildup preparing for it.
+- Unity: 1/2. The sermon tries to hold evangelism disobedience and general idolatry together. These are related but are not unified into one dominant idea.
+
+**7. Illustration & Imagination — 3/5**
+- Relevance: 1/2. The Nik Ripken illustration is vivid and earned. Bruce Almighty is accessible but thin — it reduces God’s patient warning to a movie gag. The pen/pencil illustration for eternal security is creative but belongs to a different sermon.
+- Clarity: 1/2. The Nik Ripken story is the clearest. The Bruce Almighty illustration competes with the text rather than illuminating it.
+- Memorability: 1/1. Nik Ripken’s son dying in the backseat while he administered CPR is unforgettable. Credit here.
+
+**8. Sermonic Force — 3/5**
+- Reads as Preaching: 1/2. The sermon has oral energy in places — direct questions, conversational asides, "Lets read it." But it also has stretches that feel like extended personal narrative without sermonic traction.
+- Conviction on the Page: 1/2. The Manton quote and the crucifixion paragraph carry genuine force. But "Gospel." as a line break is the lowest-force moment possible for what should be the sermon’s climax.
+- Cadence and Breath: 1/1. There is sentence variety. The crucifixion passage ("We may as well have held the nail") does build rhythmically.
+
+### 6. Cognitive Load Modifier
+**−1.** The sermon is not dense — it is if anything underdeveloped rather than overloaded. The modifier is slight because the sermon’s main ideas are traceable, but the structural looseness (three illustration streams, two different primary texts, several sub-applications) slightly taxes tracking without providing commensurate payoff.
+
+### 7. Total Score
+12 + 10 + 4 + 7 + 4 + 5 + 3 + 3 = **48/100**, minus 1 (Cognitive Load) = **47/100**
+
+Score capped at 69 due to fatal flaw flags, but the raw score falls well below the cap at 47.
+
+**Interpretation: Fundamentally flawed. Rebuild from the text.**
+
+Weight of Glory Bonus: +0. The sermon carries some pastoral sincerity but not the eternal gravity that warrants bonus points.
+
+### 8. Core Override Questions
+1. Does this sermon make me think more of Christ — or myself? Primarily myself. The sermon’s sustained focus is on the hearer’s obedience and disobedience. Christ appears late and briefly.
+2. Did I encounter God, or just ideas about Him? Ideas. God is discussed — his long-suffering, his patience, his commands — but he is not presented with weight sufficient to produce encounter.
+3. Was I comforted, convicted, or merely informed? Mildly convicted, then somewhat informed. The conviction is real but doesn’t land on any fixed point, and there is no gospel comfort to receive after conviction.
+
+### 9. Strengths (Top 3)
+1. **The Nik Ripken illustration is exceptional.** The Somalia orphanage scene, the maggot-infested food, the son dying in the backseat — this is vivid, concrete, earned pastoral material. It accomplishes what illustrations are supposed to do: it shows what obedience costs and therefore what it means.
+2. **The idolatry-as-root-of-disobedience diagnosis is exegetically sound and pastorally useful.** The insight that "the reason and ways we disobey when we fail to evangelize are often because our heart worships something" is a genuine theological contribution that most moralistic sermons on the Great Commission never make.
+3. **The Thomas Manton quote lands.** "We make light of sin, but Christ found it not so light" — this is one of the sharpest moments in the manuscript and earns its place. The crucifixion paragraph that follows it is the sermon’s best sequence.
+
+### 10. Critical Weaknesses (Top 3)
+1. **The gospel is not preached.** The word "Gospel." appears as a solitary heading at line 68 — a production note, not a proclamation. After building to the gravity of sin ("we may as well have held the nail"), the sermon needed to pivot to the good news: Christ bore that nail, Christ took that wrath, Christ accomplished what we could not. It doesn’t. The invitation ("today is the day to become a Christian") is issued without the gospel being announced. You cannot invite someone to receive what you have not proclaimed.
+2. **Jeremiah 44 is never actually preached.** The text is mentioned, read (presumably aloud), and summarized in one sentence, then left behind. Not a single verse is quoted in the sermon body. Not a single exegetical observation is made. The FCF — the specific condition the text addresses — is never named. The passage functions as a topic header, not a preached text.
+3. **The sermon’s structure disorients.** The listener is taken through: evangelism statistics → Great Commission → Nik Ripken → Jeremiah 44 summary → idolatry diagnosis → a story about a friend’s sexual sin → God’s patience → eternal security illustration → sin’s gravity → gospel invitation. Without a clear spine, each segment feels like a new sermon. The listener cannot predict where the sermon is going because there is no announced destination.
+
+### 11. Blind Spots
+The preacher likely does not see that the word "Gospel." in the manuscript reveals a structural problem: the gospel was planned but not executed. It is possible the preacher intended to preach the gospel at that moment and did so verbally in the room — but the manuscript as written contains no gospel content. If the manuscript represents the sermon, the sermon is missing its center.
+
+The preacher also likely does not see that the evangelism application — while pastorally important — is not native to Jeremiah 44. The text addresses covenantal idolatry that led to exile and divine judgment. The evangelism frame is imported from Matthew 28. This creates a sermon that uses two texts without fully inhabiting either.
+
+### 12. Illusion of Strength
+The Bruce Almighty illustration feels functional — it’s accessible, people know the film, it makes the point about ignoring divine signs. But it quietly undermines the sermon’s seriousness. After the weight of Nik Ripken’s story (a son dying in the backseat while his missionary father performs CPR), a Jim Carrey comedy clip feels incongruous. The illustration feels like a crowd-connector but it actually deflates the pastoral gravity the Ripken story built.
+
+Similarly, the closing crucifixion paragraph ("We may as well have held the nail") reads as the sermon’s emotional peak — and it is vivid — but it is used to intensify guilt rather than announce grace. The language of the cross without the announcement of the resurrection and the offer of forgiveness turns the crucifixion into law rather than gospel.
+
+### 13. Missed Opportunity
+Jeremiah 44 is one of the most devastating passages in the prophets. God’s patient, persistent sending of his servants ("I have persistently sent to you all my servants the prophets, sending them again and again, saying, ‘Oh, do not do this abomination’" — Jer. 44:4) is a direct prefiguration of the Father sending the Son. The sermon was standing on a gold mine: the prophets warned and were rejected; the Son came and was crucified; yet in that crucifixion the covenant curse was borne, and the people cut off were welcomed back through him. The sermon glimpsed the gravity of the exile but never arrived at its resolution in Christ. The text itself cries out for a redemptive-historical reading that would have given the gospel its proper grounding.
+
+### 14. Surgical Fixes
+1. **Preach Jeremiah 44 before applying it.** Spend at least one clear section opening the text: Why did God issue this command? What is the specific sin named? What does "cut off" mean covenantally? What is God’s tone, and what does that reveal about his character? This is non-negotiable. The text must be expounded, not only mentioned.
+2. **Proclaim the gospel, do not assume it.** Replace the placeholder "Gospel." with a full paragraph: "Here is the good news — the very wrath Jeremiah warns about, the very cutting-off we deserve, fell on Jesus Christ at Calvary. He bore the covenant curse. He was cut off from God so we would not be. And the Father raised him from the dead as the vindication of his people. Trust him — not your obedience, not your evangelism record, not your reformed credentials — trust him and you will not be cut off." This is what the invitation requires as its foundation.
+3. **Unify around one sentence.** Before writing the next draft, write this sentence: "The sermon is about ___." It cannot contain a slash. One idea. Then cut everything that does not serve that idea. Currently the sermon is about (a) evangelism disobedience, (b) self-idolatry as root of all disobedience, (c) God’s patience, and (d) eternal security. These are related but not unified. Choose the one Jeremiah 44 is most directly about and let the others serve it.
+4. **Add differentiated address.** After the idolatry diagnosis, address at least two types of hearers directly: "If you’re someone who has convinced yourself that your particular disobedience is too small to matter..." and "If you’ve been convinced by your own spiritual track record that you’re basically okay..." The sermon’s conviction needs a specific address, not only a collective one.
+5. **Remove or reframe Bruce Almighty.** Either cut it or use it only as a throwaway contrast point before returning to the gravity established by Ripken. Don’t let a comedy film share the stage with a father losing his son on the mission field.
+
+### 15. Dead Orthodoxy Flag
+**Not triggered in the traditional sense.** The sermon’s problem is not cold orthodoxy — it is insufficient doctrinal content. It is warmer than it is precise, more pastoral in instinct than in execution.
+
+### 16. Weight of Glory Assessment
+The sermon has pastoral sincerity and moments of genuine gravity (the Ripken story, the Manton quote, the crucifixion paragraph), but it does not carry the cumulative eternal weight of a sermon that has stood under the text long enough to let the text speak through it.
+
+### 17. Rubric Fit Note
+The rubric fits this passage well. Jeremiah 44 is prophetic judgment literature — it is direct, declarative, and covenantally dense — which means the rubric’s categories (exposition, theological integrity, gospel centrality, conscience-level application) are all highly relevant. No genre strain. If anything, the prophetic genre demands even higher marks in gospel centrality than narrative passages might, because the prophets are the direct voices crying in the wilderness that Christ came to fulfill — and a sermon on a judgment oracle that does not arrive at the one who bore the judgment has missed the prophets entirely.

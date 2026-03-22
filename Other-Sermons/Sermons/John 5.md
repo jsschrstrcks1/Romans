@@ -83,3 +83,191 @@ Have you looked to Jesus and been saved? Have you come to that point? If not as 
 God loved us that much that he took our place. 
 
 If you’ve never come to the point where you’ve done what we’ve talked about today please don’t let another day go by. Come talk to me during lunch, and I show you how you can know this God that loved you that much.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Warm Pastoral Heart, Thin Textual Bones — A Sermon About the Text More Than From It**
+
+---
+
+### 2. One-Sentence Summary
+A warmly pastoral and doctrinally sincere sermon on irresistible grace that relies more on personal narrative and theological summary than on careful, verse-by-verse exposition of John 6:29–60.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: CONDITIONAL PASS**
+The sermon’s thesis — that God’s grace is irresistible and that election is the basis of saving faith — does arise from John 6:44 and the broader passage. However, the sermon announces a text (John 6:29–60) and then largely works from one verse (v.44) and a cluster of theological assertions. The passage’s own argument — the Bread of Life discourse, Jesus’ "I am" claims, the grumbling of the crowd, the hard sayings, the desertion of disciples — is never exposited as a whole. The sermon uses the text as a platform for a doctrine rather than deriving the doctrine through the text’s own argument.
+
+**Authority Test: PASS**
+The preacher submits to the text’s claims, including the offensive doctrine of divine sovereignty in election. He does not soften or evade the difficult material.
+
+**Ruling: Passes the gate, but barely. The text is present but not governed.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag #4 — Application is largely generic.** The sermon tells hearers what God has done (irresistible grace) but never concretely addresses their specific condition, differentiates among hearers, or identifies the particular sins or doubts the passage is pressing. The only application is a general invitation at the end.
+
+**Flag #5 — Exhortation is thin.** The closing call is present but vague: "Come talk to me during lunch." There is no clear "therefore" moment — no specific belief to embrace, no repentance named, no obedience called for among the believing congregation. The sermon ends with an invitation to the lost but has no exhortation to the saints.
+
+**Score cap applied: 69 maximum.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+- *Textual Fidelity (10):* 6/10. The sermon references the text (especially v.44) and reads it aloud. But the Bread of Life discourse as a unit — the signs, the "I am," the eating and drinking language, the offense of the crowds, the desertion of disciples — receives almost no treatment. Key verses are mentioned but not opened. The sermon announces the text will be read by volunteers and then largely bypasses verse-by-verse engagement.
+- *Contextual Awareness (5):* 2/5. Minimal. The synagogue setting is noted ("He’s saying all these things in the synagogue") but the canonical, redemptive-historical, and Johannine context goes unexplored.
+- *Exegetical Clarity (5):* 3/5. The word study on *helkuo* (draw/drag) is a genuine and appropriate piece of exegesis — the kind of lexical observation that unlocks the text. It’s used well and honestly. This is the sermon’s strongest exegetical moment.
+- *Logical Faithfulness (5):* 2/5. The sermon moves from John 6 to 2 Corinthians to James to Acts to Ephesians 2 without adequately anchoring back to the passage’s own logic. The Fallen Condition Focus is present (human inability, spiritual blindness) but stated abstractly rather than shown from the text’s own development.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+- *Christ-Centeredness (7):* 5/7. Christ is essential to the sermon — the Kolbe illustration ends on "Jesus Christ died in my place," which is genuinely christological. However, the sermon’s focus is on the *mechanism* of grace more than on the person of Christ. The "I am the Bread of Life" claim — which is John 6’s own Christological center — is never unpacked.
+- *Redemptive-Historical Awareness (3):* 2/3. Minimal gestures toward the Old Testament (Isaiah quotation noted in v.45) but no placement of this text in the redemptive story.
+- *Doctrinal Precision (4):* 4/4. The doctrines of irresistible grace, effectual calling, election, and total depravity are handled with genuine care. The Horton and Grudem quotations are accurately deployed. The trinitarian note on salvation is a strength.
+- *Confessional Alignment — 1689 Pulse (4):* 2/4. The doctrines of grace are affirmed and defended. However, the sermon does not distinguish the Covenant of Grace structure or ground the doctrine of election in its redemptive-historical context. The appeal to Baptist history is historically inaccurate in its detail (the claim about "all but 13 of the near thousand" early Baptist churches is unsupported and likely embellished).
+
+**3. Gospel Centrality & Force — 10/15**
+- *Clarity of the Gospel (5):* 3/5. The gospel is present — Christ died in our place, God loves us enough to save us — but justification by faith is stated only in passing. The sermon never clearly articulates: what must I believe? What has Christ actually accomplished? The Kolbe illustration is moving, but "he died in my place" as an illustration of substitution is not the same as a clear proclamation of penal substitution, imputation, and justification.
+- *Necessity of Christ (5):* 4/5. Christ is necessary to the argument. The sermon would not survive without him.
+- *Cross-Centered Gravity (5):* 3/5. The sermon moves toward the cross in the conclusion, but the movement is more emotional (the Kolbe story) than theological. The cross is invoked; it is not opened.
+
+*Synagogue Test:* The sermon would likely give offense in a synagogue — the doctrine of irresistible election and the exclusive necessity of Christ’s death are both present. Test passes.
+
+*Law/Gospel Dialectic:* The law is present (total depravity, inability) but is stated more as theological fact than as a hammer that drives the hearer to despair of self. The gospel relieves it, but the tension between them is not deeply developed.
+
+**4. Conscience & Applicatory Force — 7/15**
+- *Heart Penetration (5):* 3/5. The Dawn story is genuinely affecting and does reach the heart. The sheep illustration is vivid. But these are the preacher’s stories, not the text’s pressure on the hearer’s conscience.
+- *Specificity (5):* 2/5. Application remains at the level of "trust God" and "come talk to me." No specific condition of the congregation is named, no particular sin is cornered, no specific struggle of faith is addressed.
+- *Spiritual Differentiation (5):* 2/5. The sermon addresses primarily the unconverted (the invitation) and theological skeptics (those who resist the doctrine of grace). The believer who already holds these truths and needs to be moved from knowing to living them is not addressed. The backslider, the doubter, the knowledgeable-but-unmoved — none are distinctly reached. Only 2 of Perkins’ 7 categories are meaningfully addressed.
+
+**5. Exhortation & Response — 4/8**
+- *Call to Response (4):* 2/4. There is a closing invitation to the unconverted. But what must the believer now do? The sermon ends without a "therefore" for the congregation. No specific obedience is called for, no repentance named, no faith-act summoned for those already in the fold.
+- *Equipping for Holiness & Witness (4):* 2/4. The congregation is not sent out. The closing sends the unconverted to the pastor, but the church body is not deployed for holiness or witness. The doctrine of irresistible grace, if received, has profound implications for how we pray, how we evangelize, how we rest — none of these are drawn out.
+
+**6. Structure & Logical Flow — 6/9**
+- *Clarity of Outline (4):* 2/4. The sermon does not have a traceable outline. It moves: story → text → doctrine → story → doctrine → story → invitation. The listener would struggle to sketch this on a napkin.
+- *Progression (3):* 2/3. There is a general movement from human inability to divine grace to the cross, which is the right theological direction. But the progression is more intuited than architectured.
+- *Unity (2):* 2/2. The sermon has one dominant idea (irresistible grace) and stays with it. This is a genuine strength.
+
+**7. Illustration & Imagination — 4/5**
+- *Relevance (2):* 2/2. Both illustrations (Dawn and the sheep) are genuinely from the preacher’s world and community. They are native, not imported.
+- *Clarity (2):* 1/2. The sheep illustration does genuine theological work and is the sermon’s best single moment — it captures total inability, the shepherd’s persistence, and the kindness of irresistible grace with concrete vividness. The Dawn story is pastoral and moving but operates more as an evangelistic testimony than as an illustration of a textual point. The Kolbe story, while emotionally powerful, is a stock illustration that could appear in any sermon and is not native to this text.
+- *Memorability (1):* 1/1. The sheep story will be remembered.
+
+**8. Sermonic Force — 3/5**
+- *Reads as Preaching (2):* 2/2. This manuscript reads as oral, conversational preaching — not an essay. The direct address is present, the rhythm is pastoral and warm.
+- *Conviction on the Page (2):* 1/2. The preacher’s own conviction is evident. But too many sentences hedge or qualify ("I believe," "I think," "In my mind"). The text needs to assert with the text’s own authority.
+- *Cadence and Breath (1):* 0/1. Sentences are relatively uniform in rhythm. There is no climactic compression, no moment where the sermon slows and strikes with single-sentence force.
+
+---
+
+### 6. Cognitive Load Modifier: **0**
+The sermon is accessible. The theological content (irresistible grace, election) is explained in plain language. A single mother, a high schooler, and a new believer could all follow the main argument. No penalty applied.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 13/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 10/15 |
+| Conscience & Applicatory Force | 7/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **60/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **62/100** |
+
+**Fatal Flaw Cap Applied: Score held at 62 (within capped range).**
+
+**Interpretation: Concerning gaps. The sermon explains but does not fully preach. Significant revision needed.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Mostly of Christ, though the personal stories occupy significant real estate. The doctrinal content is genuinely God-centered.
+2. **Did I encounter God, or just ideas about Him?** Primarily ideas — the sheep illustration comes closest to an actual encounter with the living God, but the sermon does not sustain it.
+3. **Was I comforted, convicted, or merely informed?** Informed and warmed. The believer who already holds Reformed convictions is confirmed. The uncommitted hearer may be moved emotionally. But genuine conviction — the kind that corners the specific sinner — is largely absent.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The sheep illustration is theologically native and pastorally brilliant.** The preacher does not reach for a borrowed story — he walks directly from his own sheep pasture into John 6’s language of the shepherd and draws the doctrine of irresistible grace with genuine vividness. "The sheep could no more resist the shepherd than when God calls us, can we resist his loving call." This is the sermon’s best moment and carries real weight.
+
+2. **The lexical note on *helkuo* (drag) is appropriately deployed.** Rather than using Greek as decoration, the preacher uses it as a key: the same word translated "draw" in John 6:44 appears as "drag" in James and Acts. This is honest, accessible exegesis that genuinely unlocks the text’s claim about the nature of divine grace.
+
+3. **Trinitarian precision in the Grudem quotation.** The observation that "all three persons of God are active in their own way in us at the moment of salvation" — calling (Father), regeneration (Father and Spirit), and faith as gift — reflects sound confessional theology and is stated with clarity that many sermons on grace miss.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The announced text (John 6:29–60) is never exposited as a unit.** The Bread of Life discourse — the miraculous feeding, the crowd’s misunderstanding, the "I am the bread of life" declaration, the eating and drinking language, the offense, the desertion — is read aloud by volunteers and then left largely unopened. The sermon works from v.44 in isolation. Everything the passage itself argues for — that Jesus is the true bread, that the Pharisaic quest for signs is a misunderstanding of grace, that faith is not bread-seeking but bread-receiving — goes unpreached. Verses 29–43 and 45–60 exist in the manuscript only as backdrop, not as the sermon’s fuel.
+
+2. **Application never leaves the balcony.** The congregation is told God drags people to himself (true) and that Christ died in their place (true), but they are never told what this truth demands of them today. There is no "therefore" for the believer. The doctrine of irresistible grace, properly preached, should transform how the church prays for the lost, how it endures spiritual dryness, how it rests in assurance — none of this is drawn down into the congregation’s actual life. The closing invitation speaks only to the unconverted, leaving the ninety-nine without a word.
+
+3. **The historical claim about early Baptist churches is an overreach that undermines credibility.** "All but 13 of the near thousand of the first churches that came together and called themselves Baptist" is stated as fact without support and is almost certainly embellished. In a sermon about the doctrines of grace, a claim about church history that cannot be verified functions as a distraction and weakens the preacher’s authority on the points that matter more.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that his best theological instincts (total depravity, irresistible grace) are being preached *about* rather than *through* the text. The sermon is an accurate statement of what the text teaches but not a proclamation of the text itself. The difference between "this passage teaches X" and "hear the text say X to you" is the difference between a lecture and preaching. The preacher has the doctrine right and the warmth real — the missing element is the discipline of staying inside the text long enough for the text itself to do the pressing.
+
+---
+
+### 12. Illusion of Strength
+
+The personal illustrations (especially Dawn and the sheep) create an impression of pastoral depth and application. They are warm, real, and well-told. But they substitute for textual application — the hearer feels the truth has landed because the stories are moving, when in fact the text’s own argument has never pressed them specifically. The emotional resonance of "Dawn died four days later and she knew where she was going" can mask the absence of "and here is what this means for you, sitting here today, if you are still dead in your sin." The stories carry the weight that the text should be carrying.
+
+---
+
+### 13. Missed Opportunity
+
+John 6:60–66 — the desertion of the disciples — is the passage’s own climax and its most powerful application point. "After this many of his disciples turned back and no longer walked with him." Jesus preaches the hardest possible sermon, and the crowd leaves. Then he turns to the Twelve: "Do you want to go away as well?" And Peter answers: "Lord, to whom shall we go? You have the words of eternal life." This is the text’s own exhortation embedded in narrative form. It is the passage pressing the conscience of every hearer: when Christ’s words are hard, will you stay or will you leave? The preacher read through this material but never stopped here. This moment — Peter’s confession born of irresistible grace — is the sermon’s missing climax.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Rebuild the exposition around the passage’s own movement.** Take the congregation through the whole discourse: the crowd seeks bread → Jesus redirects to the true bread → the crowd grumbles → Jesus declares the necessity of divine drawing → the crowd deserts → Peter confesses. Each transition is a sermon point. The doctrine of irresistible grace emerges not as a theological lecture but as the explanation for why Peter stays when others go.
+
+2. **End with Peter’s confession as the exhortation.** "To whom shall we go? You have the words of eternal life." Turn this on the congregation: "Some of you are in that moment right now. The words of Christ are hard. The doctrine offends. The call is costly. Jesus is asking you the same question he asked the Twelve: ‘Do you want to go away as well?’ What will you say?" This is both exhortation and invitation — and it comes from the text itself.
+
+3. **Add a differentiated address to the believing congregation after the doctrine is established.** Something like: "If you are a Christian this morning, the doctrine of irresistible grace is not just a theological trophy. It is the ground of your assurance. You did not find God — he dragged you to himself. You did not choose him first — he chose you. That means your standing before him does not depend on the quality of your choosing. It depends on the certainty of his." Then move to the implications: rest in assurance, pray boldly for the lost, endure dryness without despair.
+
+4. **Remove or verify the claim about early Baptist church statistics.** If it cannot be sourced, cut it. Replace with the actual confessional history — the Second London Baptist Confession of 1689 — which is both accurate and authoritative for a Baptist congregation.
+
+5. **The Kolbe illustration, while moving, is borrowed stock.** Consider whether the sermon needs three extended illustrations. The sheep story and the Peter confession (if used) may do more textual work. Kolbe could be condensed to two sentences and kept only as a gesture toward substitution — not as the emotional climax.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is not bloodless. The preacher’s pastoral warmth, genuine conviction, and care for his congregation are evident throughout. The weakness is structural (insufficient exposition, absent differentiated application) — not spiritual temperature.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries genuine pastoral warmth and a sincere reverence for the sovereign grace of God, but it does not yet carry the gravity of a text fully opened — the sheep story glimpses it, the Kolbe story reaches for it, but the sermon does not sustain the weight long enough to leave the congregation undone before the beauty of irresistible grace. **Bonus: +2/5.**
+
+---
+
+### 17. Rubric Fit Note
+
+John 6:29–60 is a narrative-didactic discourse — Jesus teaching in the synagogue, with crowd response embedded in the text. The rubric fits this passage well. The one genre note is that John’s Gospel embeds its theology in dramatic encounter (crowds, grumbling, desertion, confession), and the best exposition of this text will follow that drama as its structure rather than imposing a doctrinal outline over it. The rubric’s "FCF" lens is particularly apt here: the Fallen Condition Focus is the crowd’s inability to see past the bread to the Bread-Giver, which is precisely the human condition the text was written to address.

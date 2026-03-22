@@ -206,3 +206,169 @@ So the question is not, Do you know the date? The question is, Do you know the S
 So let us live ready — not by knowing the day, but by knowing the Savior. Not by stockpiling secrets, but by walking daily with the Bridegroom who loved us and gave Himself for us. In times like these, we need an anchor. Be very sure, be very sure, your anchor holds and grips the Solid Rock — and that Rock is Christ.
 And that readiness begins with the gospel: “All have sinned… but are justified by His grace as a gift, through the redemption that is in Christ Jesus.” (Romans 3:23–24)
 Amen. Come, Lord Jesus.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+
+---
+
+### 1. Verdict Title
+*Faithful Apologetics, Thin Gospel — A Necessary Warning That Never Becomes Full Proclamation*
+
+---
+
+### 2. One-Sentence Summary
+A timely and well-resourced refutation of date-setting prophecy that rightly anchors readiness in sanctification rather than speculation, but whose gospel center arrives too briefly and too late to do the full work the sermon's pastoral moment demands.
+
+---
+
+### 3. Berean Gate
+**Scopus Test: MARGINAL PASS**
+The sermon's text is Matthew 24:23–27, 36. The argument — that no one knows the day or the hour, that Christ's return will be public and final, and that readiness is sanctification not calculation — is consistent with these verses. However, the sermon's center of gravity is a polemical response to a TikTok prophet, and the text is used as ammunition in that polemic rather than expounded on its own terms. Matthew 24's broader eschatological argument (the Olivet Discourse, the distinction between the destruction of Jerusalem and the parousia, the "like lightning" imagery in context) is referenced but not exposited.
+
+**Authority Test: PASS**
+The preacher submits to the text's claims. The hard declaration — "no one knows, not even the Son" — is quoted and applied without softening.
+
+---
+
+### 4. Fatal Flaw Flags
+**Flag #5 — Exhortation is weak.** The sermon's closing call ("Do you know the Savior?") is present but buried under accumulated material. The sermon's three-point structure has an application section in each point, but the cumulative exhortation — the moment where the preacher looks the congregation in the eye and says "now *go*" — is scattered rather than summoning.
+
+**Flag #2 — Loose textual connection.** The sermon passes the Berean Gate marginally, but Points 1 and 3 especially use the text as a proof-text repository rather than as an unfolded argument. The passage's actual rhetorical structure (the false Christ warnings, the lightning comparison, the fig tree parable) is referenced but not developed.
+
+**Score cap: 69**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14/25**
+- Textual Fidelity (5/10): Matthew 24:23–27 and 36 are read and repeatedly cited, but the sermon's argument does not emerge from the passage's own logic. The Olivet Discourse's structure — Jesus responding to the disciples' question about when the temple will fall and what will be the sign of his coming — is never established. The sermon launches from the text to address a contemporary controversy and rarely returns with exegetical specificity.
+- Contextual Awareness (3/5): The broader Matthew 24 context is referenced. 1 Thessalonians 4, Revelation 1:7, Hebrews 9:27–28, Acts 1:11 are all appropriately brought in to build the picture of the return. But these are additive, not arising from the primary text's own argument.
+- Exegetical Clarity (3/5): The Greek note on οὐδεὶς οἶδεν — that it is not gendered — is one of the sermon's stronger exegetical moments and is used well to correct a live error. The *lēstai* type of careful word-work present in the Luke sermon (evaluated separately) is absent here.
+- Logical Faithfulness (3/5): The three-point structure is sound and logical. No eisegesis. Fallen Condition Focus (the flesh's craving for secret knowledge and the fear that drives it) is named and is accurate.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+- Christ-Centeredness (4/7): Christ is present — his return, his lordship, his Bridegroom love — but the sermon is structured around false prophecy and correct eschatology more than around Christ himself. The Bridegroom passage is the most Christ-centered section and is warm and evocative.
+- Redemptive-Historical Awareness (3/3): The 1689 Confession citation on cessation of prophetic revelation, the appeal to the historical pattern of date-setting across two millennia, and the "one return, one resurrection, one judgment" formulation are all historically and theologically well-placed.
+- Doctrinal Precision (3/4): The treatment of false prophecy, the cessationist position, and the description of Christ's return are doctrinally sound. Minor issues: the MacArthur "recently passed" note (he passed in 2024/2025; this is accurate per the sermon's dateable context) and occasional theological imprecision in describing the "rapture" in 1 Thess. 4 language without clarifying the eschatological position of the congregation (pre-, post-, amillennial?).
+- Confessional Alignment (2/4): The 1689 citation is apt and well-used. However, the sermon does not engage the confessional Reformed understanding of the covenant-historical framework that contextualizes Matthew 24 (the question of whether portions refer to AD 70 or the final parousia is entirely unaddressed, which is a significant exegetical gap for a confessionally Reformed congregation).
+
+**3. Gospel Centrality & Force — 8/15**
+- Clarity of the Gospel (3/5): The gospel appears clearly only in the final paragraph: "All have sinned… but are justified by His grace as a gift, through the redemption that is in Christ Jesus" (Romans 3:23–24). This is accurate and necessary, but it arrives after the sermon has already concluded its main argument. The gospel functions as a coda, not as the spine.
+- Necessity of Christ (3/5): Christ is necessary to the sermon's argument. The readiness section correctly centers relationship with Christ. But the cross — its atoning work, its specific mechanism of salvation — is not proclaimed. The sermon describes knowing Christ without explaining how one comes to know him through his death and resurrection.
+- Cross-Centered Gravity (2/5): The cross is largely absent as an explicit center. "The same Christ who died for you and rose for you will one day return for you" (Point 2 closing) is the clearest cross-centered statement, and it is good — but it is one sentence in a long sermon.
+
+**Synagogue Test: PARTIAL CONCERN.** A devout Jewish listener could sit through most of this sermon — including the application on holiness and relationship with God — without being confronted with the exclusive and offensive necessity of Christ's atoning blood. The final Romans 3 citation helps, but the sermon's dominant register is apologetical and ethical rather than evangelistic.
+
+**4. Conscience & Applicatory Force — 9/15**
+- Heart Penetration (3/5): The divination section (the person consulting horoscopes out of grief) is a moment of genuine pastoral searching. The Matthew 7:21–23 application — "I never knew you; depart from me" — is sharp and well-deployed. But these moments do not sustain throughout; most of the sermon operates at the level of instruction rather than conscience-searching.
+- Specificity (3/5): The point-by-point readiness application (holiness, self-denial, dying to sin, hope, relationship) is concrete. The Bridegroom application is specific and pastoral. Less specific: the general call to "test the spirits" and "flee the shadows" without differentiating who in the room is in each category.
+- Spiritual Differentiation (3/5): The false prophet follower, the horoscope-seeker-out-of-grief, the outwardly religious but inwardly unknown (Matthew 7), the genuine believer — several categories are addressed. But the humbled sinner who is genuinely seeking, the backslider who has drifted from watchfulness, and the new believer confused by eschatological sensationalism are not specifically addressed.
+
+**5. Exhortation & Response — 5/8**
+- Call to Response (3/4): The closing question — "If Jesus came today... would you meet Him as a stranger or as your Savior?" — is a genuine call. The "Amen. Come, Lord Jesus." is appropriately liturgical. Slightly weaker: the sermon's actual "therefore" moment is distributed across three point-applications rather than gathered into one summoning close.
+- Equipping for Holiness & Witness (2/4): "Sharing the gospel in season and out" is mentioned at the end (Readiness section). The C.T. Studd quote is good. But the church's corporate witness responsibility — as a body, not as isolated individuals — is not developed.
+
+**6. Structure & Logical Flow — 7/9**
+- Clarity of Outline (3/4): The three-point roadmap (why false claims flourish / what Jesus promised / what readiness looks like) is clear and memorable. The congregation can track it. Minor issue: Point 1 appears twice in the manuscript (verbatim repetition), suggesting the sermon went through at least two drafts that were not fully reconciled.
+- Progression (3/3): The sermon builds logically from problem to promise to response.
+- Unity (1/2): The sermon has one dominant idea, but the opening Judas/Peter digression and the extended divination section compete for space with the primary argument.
+
+**7. Illustration & Imagination — 4/5**
+- Relevance (2/2): The "88 Reasons Why Jesus Will Return in 1988" / "89 Reasons" illustration is perfect — precise, memorable, self-evidently absurd. The Uber driver story is vivid and grounding. The car/water fuel analogy is effective.
+- Clarity (1/2): The Judas digression (spiritual treason, guts spilling out) is graphic and somewhat disconnected. It makes a point about seriousness but the gruesome detail risks overshadowing the argument rather than illuminating it.
+- Memorability (1/1): The "88 Reasons" books image will be remembered.
+
+**8. Sermonic Force — 4/5**
+- Reads as Preaching (2/2): The oral cadence is strong. Direct address is consistent. "Say it with me" is an effective congregational engagement.
+- Conviction on the Page (1/2): The conviction is present and consistent in the apologetical sections. The sermon's volume drops in the readiness application, which is the most important section.
+- Cadence and Breath (1/1): Good sentence variation. The climactic use of short sentences in the application sections is effective.
+
+---
+
+### 6. Cognitive Load Modifier
+**−1**: The sermon covers substantial ground — false prophecy, biblical tests, the nature of the return, five dimensions of readiness. The breadth is appropriate to the topic, but one fewer concept (the extended Judas digression could be removed without loss) would tighten the cognitive load.
+
+---
+
+### 7. Total Score
+14 + 12 + 8 + 9 + 5 + 7 + 4 + 4 − 1 = **62/100**
+
+**Score Band: 60–69 — Concerning gaps. Often the sermon explains but doesn't preach. Significant revision needed.**
+*(Fatal flaw flags also cap score at 69; actual score 62 falls below that cap.)*
+
+---
+
+### 8. Core Override Questions
+1. *Does this sermon make me think more of Christ — or myself?* Partly Christ (his return, his lordship), partly the contemporary problem (false prophets). The balance tips slightly toward the apologetical occasion.
+2. *Did I encounter God, or just ideas about Him?* Ideas — very good and sound ideas — but the encounter with God himself is reserved mostly for the Bridegroom section.
+3. *Was I comforted, convicted, or merely informed?* Primarily informed. The conviction moments (Matthew 7:21–23, the divination pastoral insert) are present but brief.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Greek correction on οὐδεὶς οἶδεν.** Addressing the "I'm a woman!" argument directly with proper exegesis is a model of pastoral care and textual precision. It defends the flock without mocking the person, and it does so from the text itself.
+
+2. **The readiness section is theologically sound and pastorally specific.** "Readiness is relationship" — centered on John 10:27, John 15:4–5, and John 17:3 — is exactly right. The Bridegroom application is the warmest and most gospel-adjacent passage in the sermon.
+
+3. **The "88 Reasons / 89 Reasons" illustration.** This is a perfect illustration: verifiable, self-evidently absurd, and native to the argument. It will be remembered and repeated.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is a coda, not a spine.** The Romans 3:23–24 citation appears in the final paragraph after the sermon has effectively concluded. A listener who left early would not have heard the gospel proclaimed. The sermon's subject (readiness for Christ's return) is precisely the context that demands a clear proclamation of *how* one becomes ready — through the cross and resurrection — but this is never explicitly preached until the very end.
+
+2. **Matthew 24 is not actually exposited.** The discourse's own structure — disciples' question, Jesus' answer about the destruction of Jerusalem, the signs of the end, the "no one knows" declaration — is referenced but not opened. The sermon uses the text as a proof-text platform rather than engaging with what the passage itself is teaching and why. A listener could not reconstruct Matthew 24's argument from this sermon.
+
+3. **Point 1 appears twice verbatim.** The manuscript contains a full repetition of "Point 1 — Why False Rapture Claims Flourish" — beginning with "When I mention September 24th..." — twice. This is a structural error that needs to be resolved before preaching or publishing.
+
+---
+
+### 11. Blind Spots
+
+The preacher is aware that false prophecy is harmful but may not see that the sermon spends more energy on the problem than on the solution. The proportional investment is roughly 2:1 in favor of refuting false prophets over proclaiming Christ. The congregation that has been thoroughly warned but only briefly presented with the living Christ has been protected but not fully nourished.
+
+---
+
+### 12. Illusion of Strength
+
+The volume and breadth of quotation (Calvin, Spurgeon, RC Sproul, MacArthur, Watson, Owen, Platt, Thomas Brooks) *feels* like theological depth. The citations are all accurate and well-selected. But a high citation density can substitute for engaged textual exposition. The sermon quotes many men who have said true things about these topics; it does not deeply open the text that occasions the topic. The congregation may leave feeling robustly instructed when the exegetical foundation is thinner than the scaffolding suggests.
+
+---
+
+### 13. Missed Opportunity
+
+Matthew 24:27 — "For as the lightning comes from the east and shines as far as the west, so will be the coming of the Son of Man" — is cited but not developed. The contrast Jesus is drawing is between the hiddenness of false Christs ("in the wilderness," "in the inner rooms") and the public visibility of his own coming. This is an argument about the *nature* of divine revelation itself — that the true God does not require insider knowledge or special access. This would have been a rich exegetical foundation for the entire sermon's argument, and the sermon misses it.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Move the gospel proclamation to Point 2.** When describing what Christ actually promised about his return, add: "And what makes his return good news rather than terror for any person is this: the same Christ who is coming to judge has already come to save. He died on a cross — bearing the punishment that guilty sinners deserve — and rose from the dead. Everyone who calls on his name will be saved. That is the readiness that matters most." Then the Romans 3 citation belongs *here*, not in the conclusion.
+
+2. **Remove the verbatim repetition of Point 1.** Consolidate the two versions of Point 1 into one clean, well-ordered section.
+
+3. **Exposit Matthew 24:23–27 as the sermon's anchor.** Open the sermon by establishing Jesus' context — *why* is he warning about false Christs? Because the disciples asked about signs. And Jesus says: don't look for hidden signs; when I come, you will not need a TikTok prophet to tell you. That exegetical foundation makes every subsequent point stronger.
+
+4. **Add a summoning close.** After the final Romans 3 citation, add: "So flee the date-setters. But don't just flee from them — flee *to* Christ. Come to the Savior who will one day split the skies. Come to him now, while it is still called today."
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon is warm, engaged, and pastorally alive. The fire is present, if unevenly distributed.
+
+---
+
+### 16. Weight of Glory Assessment
+The sermon carries genuine pastoral urgency about a real contemporary danger, but the weight of eternity — the terror of Matthew 7:23, the glory of Christ's coming, the finality of judgment — is distributed too thinly across too much material to fully land.
+
+---
+
+### 17. Rubric Fit Note
+Matthew 24 is a complex eschatological passage (Olivet Discourse) with an ongoing debate about its referents (AD 70 vs. final parousia). The rubric's emphasis on contextual awareness correctly flags this as a gap. The rubric bends slightly here: the sermon's subject (addressing false prophecy) is itself a form of textual application even if the exegetical foundation is thin. The rubric does not penalize topical preaching per se, but it does require that the sermon's main point arise from the text's own argument — and this one only partially does.

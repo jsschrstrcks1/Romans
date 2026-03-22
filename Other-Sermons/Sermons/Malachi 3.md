@@ -47,3 +47,196 @@ He does the same to us today. Scripture says God chastises those he loves.
 But it all starts with a relationship with him. 
 
 Gospel
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Date Evaluated:** 2026-03-21
+**Evaluator:** Thus Says the Lord Rubric (Reformed Baptist)
+
+---
+
+### 1. Verdict Title
+
+**"A Useful Survey of Malachi's Charges with a Gospel Placeholder and an Underdeveloped Christological Turn"**
+
+---
+
+### 2. One-Sentence Summary
+
+A warm, pastorally grounded survey of Malachi 3 that explains God's refining purposes with genuine clarity and congregational specificity, but ends with "Gospel" as a placeholder rather than a proclamation, and treats the Messiah's coming in Malachi 3:1 as background rather than as the sermon's christological hinge.
+
+---
+
+### 3. Berean Gate
+
+**Pass — with reservation.**
+
+*Scopus Test:* The sermon's controlling thesis — that God refines his people because he loves them, and the violation of his law (improper worship, failed marriages, neglected tithes) is what drives the need for refinement — does arise from Malachi 3:1–12. The fuller soap and refiner's fire images are the text's own. The survey of the chapter's charges (worship, marriage, tithes) is the passage's own structure. Pass.
+
+*Authority Test:* The preacher does not soften God's severity — the "pretty strong words" acknowledgment, the description of God's anger at improper worship, the refiner's fire as painful process. No evasion. Pass.
+
+Reservation: The sermon covers Malachi 3:1–12 but gives only passing treatment to 3:1 — the announcement of the messenger who prepares the way and the Lord who suddenly comes to his temple. In its New Testament fulfillment, this is John the Baptist and the first coming of Christ. The christological hinge of the passage is in verse 1, and the sermon treats it as orientation rather than as the sermon's theological center.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 1 — No clear gospel presentation: TRIGGERED.**
+The sermon ends with "Gospel" — a placeholder, not a proclamation. The final paragraph ("But it all starts with a relationship with him") is an invitation without content. Score capped at 69.
+
+**No other fatal flaw flags triggered.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 16/25**
+
+- *Textual Fidelity (7/10):* The sermon follows Malachi 3:1–12 and covers its main charges: violation of the law, improper worship (blemished sacrifices), failed marriage (foreign wives, divorce), and withheld tithes. The fuller soap and refiner's fire images are developed with genuine illustrative work (Haiti clothing anecdote, refining metals). The passage is treated as a whole rather than cherry-picked.
+- *Contextual Awareness (3/5):* The connection to Nehemiah (near-contemporary book, same period, same people, same issues) is genuinely useful context. The 400 years of silence observation (Malachi as last OT word) adds weight. The "major revival" context that preceded Malachi's charges is a good setup — the sermon uses the Nehemiah revival as the backdrop for understanding why God's subsequent displeasure is so jarring.
+- *Exegetical Clarity (3/5):* The fuller soap explanation (Hebrew: "one who treads cloth with alkali") is the best piece of exegetical work in the sermon — clearly explained, illustrated with a personal story, and connected to the passage's meaning. The "first fruits" explanation (peppers at the start of season vs. end) is good applied exegesis of the first fruits concept.
+- *Logical Faithfulness (3/5):* No significant eisegesis. The application of tithing-as-first-fruits to modern giving (time, money) is consistent with the passage's logic though it extends beyond the specific tithe system.
+- *FCF:* Identified — the people's religious formalism masking actual unbelief and self-interest. This is well-named: "In so doing it was a way of expressing their disbelief in God."
+
+**2. Theology & Doctrinal Integrity — 12/18**
+
+- *Christ-Centeredness (4/7):* The sermon mentions Christ in the final sentence ("a relationship with him") and in the refining-fire-for-gospel-witness framing ("point our meager lights to Christ"). But Malachi 3:1 — "Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple" — is the most christologically freighted verse in the passage (fulfilled in Matthew 11:10 and Mark 1:2 as referring to John the Baptist preparing for Christ). This verse is mentioned in the introduction ("He will refine them like gold or silver") but the messenger/Lord dynamic is not developed. A sermon on Malachi 3 that does not treat verse 1 christologically has missed the passage's own redemptive-historical climax.
+- *Redemptive-Historical Awareness (2/3):* The Nehemiah connection is good. The 400-year silence observation is strong. But the sermon is not placed on the line from Malachi's prophecy to John the Baptist to Christ's first coming — which is the passage's own trajectory.
+- *Doctrinal Precision (3/4):* God's wrath at inadequate worship is presented honestly. The "God chastises those he loves" point (Hebrews 12:6 background) is sound. No doctrinal errors detected.
+- *Confessional Alignment (3/4):* The implicit doctrine of original sin ("choosing to sin all the way back in the garden") and its ongoing effect ("the grossness of our sin demands holiness to work in us") are present and sound. No confessional contradictions.
+
+**3. Gospel Centrality & Force — 5/15**
+
+- *Clarity of the Gospel (0/5):* "Gospel" as placeholder. The final sentence ("But it all starts with a relationship with him") is not a gospel presentation.
+- *Necessity of Christ (3/5):* Christ is implied as the one toward whom the sermon's "pointing our lights" is directed, and "a relationship with him" implies his necessity. But the mechanism — why this relationship is possible, what it costs, how one enters it — is absent.
+- *Cross-Centered Gravity (2/5):* The refiner's fire imagery is christologically rich territory (the cross as the ultimate refining fire; Christ bearing the full weight of God's wrath so believers are not "washed away by it" — a phrase the sermon uses). That phrase appears once but is not developed: "Thank God for the cross. Because Christ satisfied the wrath of God — He took the full weight of it — so that you and I are not washed away by it." Wait — this appears in the Numbers 11 sermon, not Malachi. In Malachi, the cross-centered content is only "But it all starts with a relationship with him." Very thin.
+
+**4. Conscience & Applicatory Force — 11/15**
+
+- *Heart Penetration (4/5):* The blemished sacrifice section is the sermon's applicatory strength. The observation that blemished sheep required deliberate effort to produce (third-generation non-white breeding) indicts complacent worship with precision. The tithing application (new watch, bigger TV, dining out vs. giving to God) is specific and appropriately pointed without being legalistic.
+- *Specificity (4/5):* The applications are genuinely specific — specific members are acknowledged as giving sacrificially, specific items are named (watch, TV, dining out), specific ministry areas are named (food pantry, music, sound). Good congregational specificity.
+- *Spiritual Differentiation (3/5):* The sermon addresses believers who are spiritually drifting (the giving of leftovers, the marriage compromises) and gestures toward unbelievers at the close. The knowledgeable-but-unmoved and the backslider categories are addressed implicitly. The newly converted or seeking person is not directly addressed.
+
+**5. Exhortation & Response — 4/8**
+
+- *Call to Response (1/4):* "But it all starts with a relationship with him" is a comma, not a call. The gospel section was apparently to provide the exhortation — it is absent. Within the body, "What does giving your leftovers look like?" and "What about your money?" function as conscience-pressing but do not rise to clear imperatives.
+- *Equipping for Holiness & Witness (3/4):* The tithe and service applications give specific, actionable content for how the congregation should live. The "pointing our lights to Christ" framing is a genuine witness-equipping note.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline (3/4):* The structure is traceable: (1) Nehemiah context → (2) Malachi's last words before 400-year silence → (3) Text: refiner's fire and fuller's soap explained → (4) Three charges: worship, marriage, tithes → (5) Gospel. This can be sketched on a napkin.
+- *Progression (2/3):* The sermon builds from context to text to application with reasonable momentum. The application of each charge (worship → sacrifice → tithes → marriage) follows the passage's logic.
+- *Unity (1/2):* The controlling idea (God refines what he loves, and the refining begins with exposing what has been withheld) is consistent throughout. The marriage section feels slightly tangential (it is more topical than textual) but is in the passage.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance (2/2):* The Haiti fuller's soap illustration is excellent — personal, culturally textured, and directly illustrative of the passage's image. The peppers-at-season-start/end illustration is original and effective.
+- *Clarity (1/2):* The sheep genetics explanation (third-generation breeding for colored wool) is impressive but slightly technical — it works because the payoff is clear.
+- *Memorability (1/1):* The Haiti clothes illustration will be remembered. Clean clothes from a Haitian river = what God's refining process produces. That image will stay.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching (2/2):* This manuscript reads like spoken sermon. Conversational rhythm, direct address, personal illustrations, rhetorical questions.
+- *Conviction on the Page (1/2):* The blemished sacrifice section and the giving section carry genuine conviction. The christological and gospel sections are absent.
+- *Cadence and Breath (0/1):* Some long paragraphs without pause points. The introduction runs very long before the text is read.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1.** The sermon covers the Nehemiah revival context, the Billy Graham statistics on false conversions, the fuller's soap process, the refiner's fire, three distinct charges (worship, marriage, tithes), multiple illustrations (Haiti, Spurgeon, sheep genetics, peppers, baal worship), and a gospel placeholder. It is full. An average hearer can track the main thread, but the density near the edges reduces takeaway clarity.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 16/25 |
+| Theology & Doctrinal Integrity | 12/18 |
+| Gospel Centrality & Force | 5/15 |
+| Conscience & Applicatory Force | 11/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **61/100** |
+| Cognitive Load Modifier | −1 |
+| **Total** | **60/100** |
+| Fatal Flaw Cap | Capped at 69 ✓ (score already below cap) |
+| Weight of Glory Bonus | +1 (the fuller's soap illustration carries genuine refining weight) |
+| **Final Score** | **61/100** |
+
+**Interpretation: Concerning gaps.** Solid exposition and applicatory work are undercut by an absent gospel presentation and a missed christological opportunity in verse 1.
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Primarily the refining process and the congregation's own failures — more about self-examination than Christ's person. The christological turn is too thin to reorient.
+2. *Did I encounter God, or just ideas about Him?* The Haiti illustration and the blemished sacrifice section create genuine encounter with God's holiness and the cost of casual worship.
+3. *Was I comforted, convicted, or merely informed?* The sermon convicts (blemished offerings, leftover giving) and the refining-fire imagery is implicitly comforting (God refines because he loves). But the comfort is not grounded in what Christ has done — it is grounded in the refining process itself.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Haiti fuller's soap illustration is the sermon's best moment.** It is personal, vivid, cross-culturally grounded, and directly illustrative of the passage's key image. The image of stained, worn-out clothes coming back clean and brightly colored captures what God's refining accomplishes. This will be remembered.
+2. **The blemished sacrifice section is exegetically sharp.** The observation that blemished sheep required deliberate breeding effort (not an accident of nature), combined with the first fruits/pepper illustration, makes the passage's charge against Israel's worship viscerally clear. This is applied exegesis at its best.
+3. **The Nehemiah context is well-used.** Placing Malachi in the aftermath of the great revival (and the Billy Graham statistics on post-crusade conversion rates) sets up the passage's central drama: the people were moved emotionally but the movement did not last. That is exactly the sermon's FCF.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Malachi 3:1 is not treated as the christological hinge it is.** "Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple" — in the New Testament, Jesus himself identifies the "messenger" as John the Baptist (Matthew 11:10). The Lord who "suddenly comes to his temple" is Christ. A sermon on Malachi 3 that does not make this connection has missed the passage's own redemptive-historical climax. The sermon uses the refiner's fire language from vv.2–4 without grounding it in who the refiner is: the coming Messiah.
+2. **The gospel is a placeholder.** "But it all starts with a relationship with him" is a gesture, not a proclamation. The refining fire of Malachi 3 is the righteous judgment of God — and the gospel is that Christ absorbed that fire so that believers are refined rather than destroyed. That is one of the most natural gospel transitions in the entire Old Testament. It was not taken.
+3. **The marriage section is the weakest piece of exposition.** The treatment of Malachi's marriage charge is largely topical (contemporary marriage compromise, Roman/Juliet romance, baal worship and temple prostitutes) rather than textual. The specific context of Malachi 2:14–16 — God as witness to the covenant of marriage, the charge that Israel has been faithless to the wife of their youth — is not engaged. The passage's covenant theology of marriage is much richer than the sermon indicates.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how the refiner's fire of Malachi 3 points directly to the cross. When Malachi says God will be "like a refiner's fire" and will "purify the sons of Levi," the New Testament answer to "how does God do this without destroying the defiled?" is: Christ took the fire. The cross is the place where God both satisfied his own holiness and preserved his people. That connection — which is in the passage's own logic — would have given the gospel section genuine textual authority rather than being a bolt-on.
+
+---
+
+### 12. Illusion of Strength
+
+The pastoral warmth and the abundant illustrations give the sermon a sense of completeness that masks the christological gap. The congregation will feel they have understood Malachi — the fuller's soap, the blemished offerings, the tithing challenge — without ever being told what the passage's opening verse promises: a messenger coming before the Lord who will suddenly appear. The sermon surveys the field without naming the one the field was prepared for.
+
+---
+
+### 13. Missed Opportunity
+
+The Billy Graham statistics introduction (half of crusade converts show no evidence of true conversion a year later) sets up the sermon's FCF perfectly but is never connected to Malachi's own framing. Malachi is writing to people who had a genuine revival (Nehemiah's dedication ceremony) and fell back into exactly the same patterns. The sermon mentions this but does not drive it: "This is what happened to Israel. They wept over the Law in Jerusalem. And within one generation they were giving God their sick sheep and divorcing their wives for foreign women. And they are us. And this is what happens when emotion runs ahead of genuine transformation." That argument — sitting right there in the sermon — is never made with full force.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Treat Malachi 3:1 as the christological center.** Identify the messenger as John the Baptist and the Lord who comes to his temple as Christ. Then frame the entire sermon: "All of this refining process — the fire, the soap, the charges against worship and marriage and giving — is preparation for this moment. The Lord is coming. And when he comes, he will refine. Are you ready?" This would transform the sermon from a survey of charges to a christological summons.
+2. **Complete the gospel section.** The refiner's fire is the sermon's natural gospel bridge: "You and I would be consumed by that fire. We have given God our sick sheep, our leftover time, our distracted worship. The fire should have destroyed us. But Christ stepped into the fire in our place. He was refined — tested, proven, and raised — so that we could be purified rather than destroyed. That is the gospel." Write this out fully before any future delivery.
+3. **Shorten the introduction.** The Nehemiah revival context and the Billy Graham statistics are both good, but together they delay the text by several minutes. Choose one.
+4. **Strengthen the marriage section with Malachi 2:14–16.** The covenant-witness language of Malachi 2 is richer than the topical discussion of contemporary marriage compromise. "God is witness between you and the wife of your youth, to whom you have been faithless" — that language of covenant fidelity is both more textually grounded and more searching than the baal worship discussion.
+5. **Add a clear "therefore" moment before the gospel.** "God is telling his people: you have given me your leftovers in worship, in marriage, in giving. You have taken what you wanted and handed me the dregs. So here is what I am going to do — I am going to send my messenger, and then I am going to come. And I am going to burn through all of this until what is pure remains. Will you be purified — or destroyed? The answer depends entirely on one thing."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon has pastoral warmth, personal illustration, and genuine conscience-pressing. The deficit is christological and proclamatory completeness, not doctrinal coldness.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The fuller's soap image and the refiner's fire language give the sermon genuine Old Testament gravity, and the preacher's Haiti illustration earns the metaphor rather than merely repeating it; but the sermon does not arrive at the Lord who comes to his temple — the one who makes the refining possible rather than fatal.
+
+---
+
+### 17. Rubric Fit Note
+
+Malachi is prophetic discourse — covenant lawsuit genre. The rubric fits well. The text's own christological freight (verse 1 as a messianic text quoted in the NT) makes the Gospel Centrality categories especially load-bearing for this passage. The rubric correctly identifies the gap. No genre strain.

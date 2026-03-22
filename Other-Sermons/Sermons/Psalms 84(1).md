@@ -32,3 +32,170 @@ Brothers and sisters, are you weary? Lean into God. His strength is perfect when
 The psalmist wishes he could be like the birds that made their nests in the temple in the presence of God, but now under the new testament we can be closer to God than that. We can have a personal relationship with him. 
 
 But all of that starts with the Gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Warm Pastoral Heart, Wandering Exposition: A Sermon That Circles the Text Without Landing on It**
+
+---
+
+### 2. One-Sentence Summary
+A conversational and genuinely affectionate opening of Psalm 84 that captures the psalm's longing and delight in God's presence but never submits to the text's own argument, produces no structured exposition, and ends before gospel, conscience, or exhortation can do their work.
+
+---
+
+### 3. Berean Gate Result
+**PASS — provisional.**
+
+The sermon's three-point framework (Delight in the Lord / Strength in the Lord / Trust in the Lord) does arise from the psalm's movement and is not foreign to the text. The main point — that the believer's joy, strength, and trust are anchored in God's presence — is broadly defensible as the psalm's thrust. However, the exposition never closely tracks the text's own argument verse by verse, and several key verses (vv. 8–12) are barely treated. The sermon passes the gate on trajectory but drifts significantly in execution.
+
+- **Scopus Test**: Marginal pass. The thesis is identifiable but the sermon does not demonstrably derive it from the passage's argument.
+- **Authority Test**: Pass. The preacher does not edit uncomfortable material — there is little uncomfortable material engaged at all.
+
+---
+
+### 4. Fatal Flaw Flags
+The following flags are triggered. **Score is capped at 69.**
+
+- **Flag 4 — Application is entirely generic**: The application ("Lean into God," "Worship God when you're weak") never becomes specific. No hearer is addressed distinctly, no conscience is pressed, no particular sin or condition is named. The advice could appear in any devotional booklet without connection to Psalm 84.
+- **Flag 5 — No actual exhortation**: The sermon explains and loosely applies but never calls for response. There is no "therefore" moment. No one is told what to believe, repent of, obey, or pursue as a result of this text. The closing line — "all of that starts with the Gospel" — gestures toward exhortation without delivering it. The sermon ends at the threshold.
+- **Flag 6 — Incomplete accessibility issue (borderline)**: The sermon is conversational and accessible in tone, but it is structurally unfinished. The third point (Trust) is named but not preached. "Let's briefly cover the other two elements" followed by abbreviated treatment means the congregation received two-thirds of the announced sermon. This is not a cognitive-load failure but a structural abandonment.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 12/25**
+- Textual Fidelity: 5/10 — The sermon orbits the psalm's themes but does not work through the text. Verses are gestured at ("someone read vv. 5–7") but not opened, explained, or applied from the passage itself. The Hebrew word *yedidot* is briefly noted — a positive moment — but stands alone.
+- Contextual Awareness: 2/5 — No placement in the Psalter, no pilgrimage context (Psalms of Ascent, though Ps. 84 is technically a Korah psalm), no authorial situation explored.
+- Exegetical Clarity: 3/5 — The Baca/tears note is handled adequately. The one Hebrew word is handled with charm if not depth.
+- Logical Faithfulness: 2/5 — Significant idea-importing: the extended nature illustrations (crab nebula, fish at Looe Key, northern lights) are not derived from or controlled by the text. They reflect the preacher's imagination more than the psalm's argument.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+- Christ-Centeredness: 4/7 — Christ is named, the new covenant is noted at the end ("under the New Testament we can have a personal relationship with him"), but this is a passing comment, not a developed connection. The Christological movement is gestured at, not inhabited.
+- Redemptive-Historical Awareness: 1/3 — "Under the new testament we can be closer to God than that" is a significant claim that is simply asserted. No covenantal logic, no connection to temple theology, no fulfillment of the sanctuary.
+- Doctrinal Precision: 4/4 — No doctrinal errors detected. What is said is sound. The weakness is omission, not commission.
+- Confessional Alignment: 2/4 — No contradictions. But no engagement with the text's covenant context, the mediating presence of the Lord, or the believer's access in Christ.
+
+**3. Gospel Centrality & Force — 5/15**
+- Clarity of the Gospel: 1/5 — The sermon ends with "all of that starts with the Gospel" without ever stating the gospel. Justification, the cross, Christ's blood, and faith are entirely absent as proclaimed realities.
+- Necessity of Christ: 2/5 — Christ is present peripherally but is not necessary to the argument. A devout Jewish listener could receive almost the entire sermon as encouragement toward temple worship.
+- Cross-Centered Gravity: 2/5 — The sermon moves toward comfort and delight, which is appropriate to the psalm — but the comfort never anchors in Christ's finished work. The Synagogue Test: this sermon would not offend a devout non-Christian. The cross is neither present nor scandalous.
+
+**4. Conscience & Applicatory Force — 6/15**
+- Heart Penetration: 2/5 — Moments of warmth and pastoral tenderness are present ("David no more wheelchair buddy," "no more failed hernia meshes"). These touch the affections briefly but do not search the conscience.
+- Specificity: 2/5 — Personal illustrations (cruise, Windsor Castle, Looe Key diving) are specific to the preacher's life, not the congregation's condition. Specific application to hearers' actual spiritual states is absent.
+- Spiritual Differentiation: 2/5 — One category of hearer is largely addressed: the weary believer. The unbeliever, the self-righteous, the backslider, the doubter are untouched. Perkins' categories: 1 of 7 reached with any directness.
+
+**5. Exhortation & Response — 2/8**
+- Call to Response: 0/4 — No exhortation issued. "Worship God" is stated but not summoned. The congregation is not told what to do, repent of, believe, or pursue.
+- Equipping for Holiness & Witness: 2/4 — The sermon sends no one out. The closing line implies the gospel matters but does not deliver it or send the church with it.
+
+**6. Structure & Logical Flow — 5/9**
+- Clarity of Outline: 3/4 — The three-point framework is announced and memorable. Points one and two are identifiable. Point three (Trust) is named but not preached.
+- Progression: 1/3 — The sermon does not build toward a climax. Nature illustrations in point one expand horizontally rather than pressing forward. The sermon ends rather than concludes.
+- Unity: 1/2 — The three points broadly cohere, but competing illustration threads dilute the central idea.
+
+**7. Illustration & Imagination — 3/5**
+- Relevance: 1/2 — The illustrations are vivid but belong predominantly to the preacher's biography (Windsor Castle, cruises, Looe Key, crab nebula with a college friend). They are drawn from the preacher's world, not primarily the congregation's.
+- Clarity: 1/2 — Some illustrations illuminate the text's sense of wonder (especially the heaven section). The night-arrow illustration in point two is memorable and does serve the point about God as shield.
+- Memorability: 1/1 — The night-arrow illustration will be remembered. The aggregation of nature examples may blur together.
+
+**8. Sermonic Force — 3/5**
+- Reads as Preaching: 2/2 — The manuscript reads conversationally and orally. It has breath. Direct address is present.
+- Conviction on the Page: 0/2 — There is warmth and enthusiasm but no sermonic weight, no place where the manuscript presses hard. Assertion density is low; Scripture-grounded assertions are sparse relative to illustration.
+- Cadence and Breath: 1/1 — The sentence rhythm is natural and the voice is consistent.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: 0 (no deduction)**
+
+The sermon is not overloaded — it is under-filled. Cognitive load is not a problem here; cognitive content is. The congregation can follow it easily. There is simply not enough substantive exposition to tax anyone.
+
+---
+
+### 7. Total Score
+**47/100 (+ 0 bonus — no Weight of Glory deduction, but bonus not earned)**
+
+**Fatal Flaw Flags active: Flags 4 and 5.**
+
+Interpretation: **Below 60 — Fundamentally incomplete. Rebuild from the text.**
+
+Note: The score reflects not a collapsed foundation but an unfinished structure. What is present is often warm and occasionally insightful. What is absent constitutes the core of preaching: close textual engagement, gospel proclamation, conscience address, and exhortation.
+
+---
+
+### 8. Core Override Questions
+1. **Does this sermon make me think more of Christ — or myself?** Largely myself, and the preacher's experiences. Christ is named but not magnified. The wonder evoked is primarily creation-wonder, not redemption-wonder.
+2. **Did I encounter God, or just ideas about Him?** Ideas adjacent to Him. The warmth is genuine, but God remains at arm's length — described rather than encountered.
+3. **Was I comforted, convicted, or merely informed?** Partially comforted in a devotional sense. Not convicted. The weary believer receives encouragement; no one else is addressed at all.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Pastoral Warmth and Personal Presence**: The personal illustrations — the wheelchair-bound David, failed hernia meshes, cancer taking children — reveal a pastor who knows his people and loves them. This is not generic sympathy; it is named, local, and real. The congregation feels seen.
+
+2. **The Night-Arrow Illustration (Point 2, Shield of God)**: This illustration is textually connected (God as shield, Ps. 84:9), historically grounded, and memorable. It earns its place and illuminates something the congregation will carry home: that God shields against the attacks they never see coming.
+
+3. **The Heaven Section (Point 1)**: The extended meditation on heaven's loveliness, building from creation wonder to the promise of God's dwelling place, has genuine evangelical warmth and captures something of the psalm's own longing. The note about *yedidot* and its meaning of "beloved" is the sermon's strongest exegetical moment and opens a real window into the text's emotion.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The Gospel Is Announced but Never Preached**: The sermon's final line — "But all of that starts with the Gospel" — is the rubric's clearest failure point. The entire sermon leads to this threshold and stops. The gospel is named as necessary but never proclaimed. No hearer learns what the gospel is, why they need it, or what Christ accomplished. This is not a small omission — it is the omission of the sermon's necessary center.
+
+2. **The Third Point Is a Skeleton, Not a Sermon**: "Trust in the Lord" is announced, gestured at with the shield/night-arrow illustration, but never developed from the text. The preacher says "let's briefly cover the other two elements" — and the brevity collapses the structure. A three-point outline in which point three is a paragraph is not a three-point sermon.
+
+3. **Illustrations Dominate Exposition Throughout**: The Windsor Castle tour, two cruises, Looe Key reef diving, the crab nebula, IBM's knowledge-doubling statistic — these are the body of points one and two. The psalm's own argument, imagery, and logic are displaced by the preacher's travelogue. A text with remarkable poetic architecture ("even the sparrow has found a home," "they go from strength to strength," "better is one day in your courts") is barely opened.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the personal illustrations — though genuinely warm — function as the sermon's primary content rather than as windows onto the text. The result is that the congregation leaves having heard about the preacher's experiences of wonder rather than having been led into the psalmist's experience of longing for God's presence. There is also a blind spot around the sermon's structural incompleteness: announcing three points and preaching one-and-a-half communicates (unintentionally) that the text's full argument was not worth the time.
+
+---
+
+### 12. Illusion of Strength
+
+The personal illustrations create an illusion of pastoral connection and specificity. They are warm, and the congregation responds to warmth. But naming real people from the congregation (David in a wheelchair, hernia mesh failures, cancer) is not the same as addressing those people from the text. The sermon feels personal because it names personal things — but the text never speaks to those people's actual condition before God. Warmth without Word is not pastoral care from the pulpit; it is affection without direction.
+
+---
+
+### 13. Missed Opportunity
+
+The pilgrimage architecture of Psalm 84 is the sermon's greatest untapped resource. The psalm is a movement — from longing (vv. 1–4), to the journey through the valley of Baca (vv. 5–7), to arrival at the temple (vv. 8–12). This is the structure of the Christian life: longing for God's presence, persevering through suffering toward it, and arriving — fully and finally — in Christ. The "valley of Baca" (tears) transformed into a "place of springs" (v. 6) is not just encouragement to the weary; it is a picture of how grace turns suffering into formation. The sermon touches the surface of vv. 5–7 but misses entirely the theological spine of the passage: that God himself transforms the valley. This is the text's own gospel movement, and it was left unopened.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Preach the text verse by verse through at least one section fully.** Take verses 1–4 and work through them: *How lovely* (yedidot — beloved), the courts of the Lord, the altar, the sparrow. Let the congregation see how the meaning was found, not just asserted. One section preached deeply is worth three sections named.
+
+2. **Develop the valley-of-Baca section (vv. 5–7) as the sermon's emotional center.** Name the valley: illness, grief, spiritual dryness, church conflict, prolonged suffering. Then show from the text that God transforms the valley — "they make it a place of springs" — which requires the preacher to explain: who transforms it, and by what power? This is the sermon's missing theological engine, and it is the text's own engine.
+
+3. **State the gospel explicitly before the sermon ends.** The closing line gestures at it. Instead: "All of this longing for God's presence — the valley of Baca, the sparrow at the altar, the pilgrim pressing toward the temple — all of it is answered in Christ. He is the temple (John 2:19–21). He is the one through whom we have access to the Father. What the psalmist traveled toward, you and I have been given." This is not importing the gospel — it is following the text's own trajectory to its fulfillment.
+
+4. **Add direct address differentiated by hearer.** Before the closing: "Some of you are in Baca right now — the valley of weeping is real and you know it. Some of you have never longed for God's presence — the psalm exposes that as a kind of poverty. Some of you are coming to church because it's what you do, but the longing of verse 2 is foreign to you. The psalmist would say: you are missing the thing you were made for."
+
+5. **Preach the third point (Trust) or remove it from the outline.** If time is short, a two-point sermon preached well is immeasurably more useful than a three-point sermon with a missing third point. The outline should match what is actually delivered.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — the failure here is not dead orthodoxy (correct but bloodless theology). The failure is incomplete exposition and absent gospel. The warmth is real. The problem is structural incompleteness and a gospel center that was announced but never proclaimed.
+
+---
+
+### 16. Weight of Glory Statement
+There are genuine sparks here — the heaven section carries real eternal weight, and the pastoral tenderness is not manufactured — but the sermon does not sustain the gravity of the psalm's own longing; it ends before the weight can accumulate into worship.
+
+---
+
+### 17. Rubric Fit Note
+Psalm 84 is a lament-tinged hymn of pilgrimage — technically a psalm of the Sons of Korah, not a Davidic psalm, though it shares wisdom psalm characteristics. The rubric applies well here with one important note: the Conscience & Applicatory Force categories presuppose a sermon that has first done full exposition. For psalms, the "application" often lives *inside* the poetry — the text itself is the application, if the preacher will let it speak. The rubric's pressure toward Perkins' categories of hearers is fully appropriate for this psalm, since the psalm itself distinguishes between those who long for God's presence and those who do not (the blessed man of v. 5 versus the implied contrast). The rubric does not strain this genre — it simply requires that the preacher first open the text before applying the categories.

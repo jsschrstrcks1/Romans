@@ -211,3 +211,109 @@ The title may be *Planting Growing Churches for the Twenty-First Century* (witho
 Malphurs, Aubrey. *Advanced Strategic Planning: A New Model for Church and Ministry Leaders*. Grand Rapids: Baker Book House, 1999. 288 pp.
 
 This companion volume to Malphurs's church planting text provides practical tools for the strategic planning dimensions of church planting and ministry leadership — addressing questions of vision, mission, values, and implementation with characteristic methodological thoroughness. It was excluded from the primary bibliography solely to meet the twenty-five book requirement, as Malphurs is already represented by entry #23. It is recommended as a supplementary resource for students who wish to pursue the planning and organizational dimensions of church planting in greater depth.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+
+Not a Sermon — No Proclamation, No Text, No Herald
+
+### 2. One-Sentence Summary
+
+This document is a well-researched annotated bibliography for a local church missions class and is not a sermon manuscript; it contains no biblical text, no expository argument, no gospel proclamation, and no exhortation, and therefore cannot be evaluated against the Thus Says the Lord rubric as a sermon.
+
+### 3. Berean Gate: FAIL
+
+**Scopus Test**: There is no thesis arising from a biblical passage. There is no passage. The document does not claim to be a sermon.
+
+**Authority Test**: There is no preacher standing under or over a text. The document is a scholar-practitioner bibliography with annotations.
+
+> "This document is not a sermon. It contains no text-driven proclamation, no main point arising from a biblical passage, and no herald standing under the Word. The rubric cannot be applied. No score is assigned. This is a bibliography, not a sermon manuscript."
+
+The evaluation must stop here per the rubric's own logic. What follows in elements 4–17 is a brief accounting of the document's nature, offered in lieu of a score, so the record is complete.
+
+### 4. Fatal Flaw Flags
+
+All six fatal flaw conditions are structurally present by default — not because of homiletical failure, but because this is not a sermon:
+
+- No gospel presentation (none attempted — not a sermon)
+- No main point from a text (no text cited as the sermon's basis)
+- Christ is absent as the center of a proclamation (referenced peripherally in book descriptions)
+- No application (bibliographic annotation is not applicatory address)
+- No exhortation (no summons issued)
+- Accessibility is not assessable in the absence of any argument to follow
+
+**Score cap: not applicable. No score assigned.**
+
+### 5. Score Breakdown
+
+| Category | Score | Notes |
+|---|---|---|
+| 1. Exposition & Hermeneutics (25 pts) | N/A | No text is opened |
+| 2. Theology & Doctrinal Integrity (18 pts) | N/A | No theological argument is advanced |
+| 3. Gospel Centrality & Force (15 pts) | N/A | Gospel is mentioned in passing in annotations but never proclaimed |
+| 4. Conscience & Applicatory Force (15 pts) | N/A | No conscience is addressed |
+| 5. Exhortation & Response (8 pts) | N/A | No call to response is issued |
+| 6. Structure & Logical Flow (9 pts) | N/A | Bibliographic organization is clear and functional, but that is not sermonic structure |
+| 7. Illustration & Imagination (5 pts) | N/A | Annotations occasionally evoke vivid content (Sawi treachery, Pineapple Story) but in a descriptive, not illustrative-for-preaching, mode |
+| 8. Sermonic Force (5 pts) | N/A | The prose is clear and scholarly; it reads as an academic-practitioner document, not as preaching |
+
+### 6. Cognitive Load Modifier
+
+N/A — no sermon argument to track. The annotations are readable and well-paced for an academic bibliography. A layperson could follow the document easily.
+
+### 7. Total Score
+
+**No score assigned.** The document does not pass the Berean Gate because it is not a sermon. Applying a numerical score would be a category error.
+
+### 8. Core Override Questions
+
+1. Does this document make me think more of Christ — or myself? *Neither, primarily — it makes the reader think about missions literature and strategy.*
+2. Did I encounter God, or just ideas about Him? *Ideas about missionary engagement with various peoples. God is in the background.*
+3. Was I comforted, convicted, or merely informed? *Informed. Competently and usefully informed — but informed.*
+
+### 9. Strengths (Top 3)
+
+1. **Genuine missiological breadth.** The bibliography ranges from doxological theology (Piper's *Let the Nations Be Glad*) to field anthropology (Richardson's *Peace Child*) to practical communications (Hesselgrave) to biographical inspiration (Elliot on Carmichael). The breadth serves a class well.
+2. **Responsible annotation of controversies.** The End Notes section is commendably honest: the Gospel for Asia financial scandal (entry #7), the Bill Gothard/IBLP concern (entry #22), and multiple spelling corrections are flagged with pastoral candor rather than swept aside. This kind of institutional integrity is not common in bibliographies compiled under deadline.
+3. **Dual-purpose framing.** The compiler's consistent attention to domestic applicability of international missions resources — noting which books serve both foreign and home contexts — reflects sound pedagogical instinct for a local church setting where most students will never leave their zip code.
+
+### 10. Critical Weaknesses (Top 3)
+
+These are offered not as homiletical critique but as bibliographic observations relevant to the document's stated purpose:
+
+1. **No confessionally Reformed primary text on the theology of missions.** *Let the Nations Be Glad* is present and correctly identified as the theological anchor, but there is no book engaging the biblical-covenantal grounding of the Great Commission — no Bavinck, no Bosch (*Transforming Mission*), no treatment of the Abrahamic covenant as the missionary charter of Scripture. The list is broadly evangelical rather than distinctively Reformed in its theological architecture.
+2. **Indigenous church leadership and post-colonial missions are underrepresented.** Garrison's *Church Planting Movements* touches this, but the bibliography is weighted toward Western sending and strategy, with limited attention to majority-world ecclesiology or the missiological challenges arising from colonial-era mission history. For a class aiming to produce thoughtful practitioners, this gap matters.
+3. **No text on missionary prayer or spiritual warfare.** Johnstone's *Operation World* is present as a prayer tool, but the bibliography does not include a text treating the theology and practice of prayer in missionary labor — a significant omission for a class preparing believers for costly gospel work.
+
+### 11. Blind Spots
+
+The compiler appears unaware of the degree to which the list's theological center of gravity is American evangelical (primarily Southern Baptist and parachurch) rather than Reformed Baptist or confessionally Reformed. Given that this bibliography is compiled for a local church context, the absence of a confessional theological anchor — one that ties the missionary mandate to covenant theology and the glory of God in redemptive history — means students may leave the class with excellent missiological knowledge but an insufficiently deep theological root system for sustaining long-term missionary conviction.
+
+### 12. Illusion of Strength
+
+The End Notes section, which is genuinely strong, may create the impression that the bibliography's content has been thoroughly vetted for theological integrity. It has been vetted for bibliographic accuracy and organizational credibility — but not for theological coherence or confessional alignment. The presence of careful institutional warnings (Gothard, GFA) should not be mistaken for theological curation.
+
+### 13. Missed Opportunity
+
+The bibliography includes no text engaging the relationship between domestic church health and missionary sending — the question of whether a church must be spiritually vital before it can send well. Piper's *Radical Together* gestures at this, but the gap between local church discipleship and missionary commission is the most important practical question for a local church missions class, and it receives no dedicated treatment.
+
+### 14. Surgical Fixes
+
+- Add one confessionally Reformed treatment of the biblical theology of missions (e.g., Andreas Köstenberger and Peter O'Brien's *Salvation to the Ends of the Earth*, or Walter Kaiser's *Mission in the Old Testament*) to anchor the list theologically.
+- Consider replacing or supplementing entry #7 (Yohannan) with a title that addresses indigenous church leadership from a majority-world theological perspective rather than a Western fundraising appeal.
+- Add a brief prefatory paragraph to the bibliography identifying its organizing theological conviction — that missions exists for the glory of God among all nations — so that the annotated entries cohere around a stated center rather than a tacit one.
+- Resolve the Bill Gothard concern in entry #22 before classroom distribution: identify an alternative edition or note that the IBLP edition should not be purchased new.
+
+### 15. Dead Orthodoxy Flag
+
+Not triggered — this is not a sermon and the diagnostic does not apply. However, a parallel concern applies to the bibliography as curriculum: a missions class built around this list could produce students who are knowledgeable about missions strategy, emotionally moved by missionary biography, and practically equipped for cross-cultural work — without ever being theologically undone by the weight of the Great Commission and the glory of God. Information without doxological gravity is its own form of dead orthodoxy.
+
+### 16. Weight of Glory Assessment
+
+The bibliography carries genuine freight — Piper, Richardson, Brainerd, Carmichael — but the freight is distributed across twenty-five entries rather than concentrated in a single proclamation, and no document that is fundamentally a reading list can substitute for a sermon that makes God weighty in a room.
+
+### 17. Rubric Fit Note
+
+This rubric is designed for sermon manuscripts and is categorically misapplied to a bibliography. The framework strains at every point because the genre is wrong. A bibliography is not a proclamation; it points toward proclamation. The evaluation above is offered in the interest of completing the record, not because the rubric genuinely applies. If a sermon arising from this curriculum were submitted — one that proclaimed the supremacy of God in missions from a specific text — the rubric would engage it fully. This document itself is the preparation for that sermon, not the sermon.

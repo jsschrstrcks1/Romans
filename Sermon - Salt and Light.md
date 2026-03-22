@@ -118,3 +118,211 @@ Because people are watching, and its not just about you. Those people that are w
 Will you hide the light of Christ in you under a basket?
 
 It is my sincerest hope and prayer that you will go out and tell lost people about Jesus. That you will not hide it under a basket.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+Sincere Pastoral Heart, Structurally Unmoored — A Sermon That Accumulates Rather Than Argues
+
+---
+
+### 2. One-Sentence Summary
+A well-intentioned opening of Matthew 5:13–16 that carries genuine pastoral warmth and a memorable Rutherford quotation while failing to derive its central argument from the text's own logic, drifting through uncontrolled illustration, and substituting a brief gospel aside for actual gospel proclamation.
+
+---
+
+### 3. Berean Gate Result — CONDITIONAL PASS (Narrow)
+
+**Scopus Test:** The sermon's functional thesis is "Christians should live consistently so as not to harm their witness" — this is a legitimate implication of Matthew 5:13–16, but it is not the *main point* of the passage. Jesus' assertion in the Sermon on the Mount is declarative and indicative first: "You *are* salt. You *are* light." The passage's own thrust is identity before imperative — the nature of kingdom people is announced, then the absurdity of hiding it is exposed. The sermon reverses the order and never recovers the indicative basis. The thesis is drawn *from* the text but not *from the text's own argument*. This passes the gate narrowly but is flagged.
+
+**Authority Test:** The preacher does not stand above or against the text, but he does not consistently stand under it. Large portions of the sermon — the magnesium chemistry digression, the Cheerful Charlie story, the Ten Commandments survey — operate independently of the passage. The text is used as a launching point rather than a governing authority. Pass — but barely, and with flagged drift.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**FLAG TRIGGERED — Fatal Flaw #4: Application is entirely generic.**
+The application at the end ("go tell lost people about Jesus," "don't hide your light under a basket") is the same exhortation one could append to any evangelism sermon. No differentiated address. No specific distinguishing of hearers. No pressing of conscience toward particular patterns of sin or faith. The Rutherford section comes closest but then dissipates without being anchored to specific calls.
+
+**FLAG TRIGGERED — Fatal Flaw #5: No actual exhortation.**
+The sermon closes with a desire ("it is my sincerest hope and prayer") rather than a command. There is no "therefore" moment. The congregation is encouraged to consider their sin but never summoned to repentance, faith, or concrete action. The closest the sermon comes to exhortation is "Think about that a minute, and apply it to yourself" — which is an invitation to self-application, not a pastoral summons.
+
+**Score is capped at 69.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 12/25**
+
+- *Textual Fidelity (10 pts): 5* — The passage is cited once (Matt 5:15–16) and alluded to in the introduction and conclusion, but the sermon never treats the text as a whole unit. Verse 13 ("You are the salt of the earth") receives no exegetical treatment. The "saltless salt" image — Jesus' own warning about becoming useless — is entirely absent. The "city on a hill" (v.14) is never mentioned. The sermon is loosely tethered to the passage's language but not to its argument.
+- *Contextual Awareness (5 pts): 2* — No awareness of the Beatitudes as the immediately preceding context. Matthew 5:13–16 follows the Beatitudes as their natural outworking — a point that would have richly grounded the sermon. No Sermon on the Mount context. No redemptive-historical placement.
+- *Exegetical Clarity (5 pts): 2* — The Greek and original cultural context of salt are gestured toward in the magnesium digression, but the chemistry tangent produces confusion rather than clarity. The actual cultural and agricultural uses of salt in first-century Palestine are not engaged. The magnesium claim also distorts rather than illuminates the text.
+- *Logical Faithfulness (5 pts): 3* — No egregious eisegesis, but the salt/light imagery is quickly allegorized in ways the text does not warrant (salt = Holy Spirit, salt = enthusiasm). The text is not made to say something false, but it is not made to say what it actually says.
+
+**Fallen Condition Focus:** Absent as a structured element. The sermon's functional FCF is hypocrisy or inconsistency — but this is never named as the specific fallen condition the text was given to address.
+
+**2. Theology & Doctrinal Integrity — 10/18**
+
+- *Christ-Centeredness (7 pts): 4* — The Rutherford quotation is genuinely Christ-centered and penal-substitutionary in its imagery. The brief "Gospel" section references Christ's death and our deserving death. However, Christ's person and work are not woven organically throughout — they appear in two isolated clusters.
+- *Redemptive-Historical Awareness (3 pts): 1* — None. Matthew 5 as kingdom announcement within the arc of redemption is not present. "Light of the world" as an identity that echoes Israel's calling, fulfilled in Christ, extended to his people — completely absent.
+- *Doctrinal Precision (4 pts): 3* — No serious doctrinal errors. The sin language is clear. The brief gospel statement ("we all deserve death, yet Christ offers life") is accurate if compressed.
+- *Confessional Alignment (4 pts): 2* — No contradictions of confessional theology, but no positive engagement with covenantal or soteriological themes where the text invites them.
+
+**3. Gospel Centrality & Force — 6/15**
+
+- *Clarity of the Gospel (5 pts): 2* — The "Gospel" section is two sentences: "Christ would die for me. For you. We all deserve death. Yet Christ offers us life." This is true but is not a gospel presentation. Justification, faith, the nature of Christ's substitution — absent. An unbeliever present would hear that Christ died and offers life, but would not know how to receive it or what exactly occurred at the cross.
+- *Necessity of Christ (5 pts): 2* — Christ appears, but the sermon could be restructured as a moral motivation sermon about consistent living without substantially altering the main argument. The Rutherford section creates some Christ-necessity, but the frame around it is behavioral (don't damage your witness) rather than gospel (you are already Christ's, therefore...).
+- *Cross-Centered Gravity (5 pts): 2* — The sermon orbits the moral problem of inconsistency. The cross appears late as a motivating image rather than as the center of gravity from which everything radiates.
+
+**Synagogue Test:** A devout non-Christian could hear most of this sermon without offense. The Ten Commandments section, the moral call to consistency, the story of Cheerful Charlie — none of these require the necessity of Christ's blood. The brief gospel section creates momentary offense, but the overall sermon is structured around moral improvement, not the scandal of the cross. Partial trigger.
+
+**4. Conscience & Applicatory Force — 7/15**
+
+- *Heart Penetration (5 pts): 3* — The Rutherford quotation is the sermon's most penetrating moment. "If anyone can willfully drive the nails into the hands of Christ over and over again then at best they don't love him" is a genuine conscience-searching line. The Ten Commandments section also creates brief conviction. But these moments are not developed pastorally.
+- *Specificity (5 pts): 2* — "Apply it to yourself" is not specific application. The smoking-at-Bible-college illustration is vivid but is directed at a very narrow audience. The closing exhortation is entirely generic.
+- *Spiritual Differentiation (5 pts): 2* — The sermon addresses the congregation undifferentiated. The hardened sinner, the weak believer, the doubter, and the self-righteous are not distinguished. Perkins' categories are not engaged. The call at the end assumes the congregation is composed of Christians who need to witness better — but no distinction is made between the unconverted and the converted, the backslider and the growing.
+
+**Perkins' Coverage:** Categories 5 (believers) and partially 3 (knowledgeable but unhumbled) are addressed. Categories 1, 2, 4, and 6 are absent.
+
+**5. Exhortation & Response — 3/8**
+
+- *Call to Response (4 pts): 1* — There is no explicit call. "Think about that a minute" and "it is my sincerest hope and prayer" are neither commands nor invitations. The congregation is not told what to *do*, *repent of*, *believe*, or *pursue*.
+- *Equipping for Holiness & Witness (4 pts): 2* — The broad theme of consistent Christian living as witness is present but is not translated into equipping. How does one actually be salt and light? What does that look like on Monday? Not answered.
+
+**6. Structure & Logical Flow — 5/9**
+
+- *Clarity of Outline (4 pts): 2* — The sermon has section headings but no traceable argument. The movement from salt chemistry → Cheerful Charlie → Rutherford → Ten Commandments → brief gospel → closing appeal does not follow logical development. A listener could not sketch this on a napkin.
+- *Progression (3 pts): 2* — There is a rough emotional progression from illustration to conviction to gospel to appeal, but the connecting tissue is absent. The Rutherford section and the Ten Commandments section feel like separate sermons merged at the seams.
+- *Unity (2 pts): 1* — Multiple competing ideas: enthusiasm is contagious, sin damages your witness, sin is against Christ, the commandments convict, therefore witness. These are related but not unified.
+
+**7. Illustration & Imagination — 3/5**
+
+- *Relevance (2 pts): 1* — Cheerful Charlie is a children's story told to a presumably adult congregation. The salt/magnesium chemistry sequence is an extended science lesson that obscures the text's point rather than illuminating it. The smoking-at-Bible-college story is the most congregation-native illustration.
+- *Clarity (2 pts): 1* — The magnesium chemistry sequence actually competes with the passage's meaning. The salt-as-Holy-Spirit allegory is creative but unmoored from the text.
+- *Memorability (1 pt): 1* — The Rutherford quotation is highly memorable. "The knife that cuts your husband's throat" will stay with hearers.
+
+**8. Sermonic Force — 4/5**
+
+- *Reads as Preaching (2 pts): 2* — This reads as spoken, not written. Direct address ("Do any of you like pickles?"), rhetorical questions, and conversational flow are present throughout. The oral register is authentic.
+- *Conviction on the Page (2 pts): 1* — The conviction is present in patches (Rutherford, the commandments) but the ratio of Scripture-grounded assertion to general talk is low. Long stretches pass without the passage governing the sermon's claims.
+- *Cadence and Breath (1 pt): 1* — Sentence variation is natural. Short declarative sentences at points of pressure ("Liar." "Thief.") show instinctive sermonic compression.
+
+---
+
+### 6. Cognitive Load Assessment — 0
+
+The sermon is accessible to ordinary hearers. The chemistry section creates momentary confusion but the overall sermon is easy to follow. No seminary training required. No cognitive overload. The problem is not density but underdevelopment. Score: **0**
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 12/25 |
+| Theology & Doctrinal Integrity | 10/18 |
+| Gospel Centrality & Force | 6/15 |
+| Conscience & Applicatory Force | 7/15 |
+| Exhortation & Response | 3/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **50/100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **51/100** |
+
+**Score capped at 69 due to Fatal Flaw Flags #4 and #5. Raw score of 51 falls below the cap — cap does not change the outcome. Final score: 51.**
+
+*Interpretation: Fundamentally flawed. Rebuild from the text.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Primarily myself — the dominant frame is the believer's consistency and its effect on witness. Christ appears as object of devotion and motivation, not as the subject of proclamation.
+
+2. **Did I encounter God, or just ideas about Him?**
+The Rutherford quotation creates a brief moment of genuine divine encounter. The rest is ideas about Christian living. The answer is: mostly ideas.
+
+3. **Was I comforted, convicted, or merely informed?**
+Partially convicted — the Rutherford and commandments sections press the conscience. But the conviction is not resolved in gospel comfort. The hearer is left with moral weight without gospel relief. The closing is too thin to bear the weight of what the Rutherford section laid on the conscience.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Rutherford quotation and its application** — "Will you, his wife, love the knife that cuts your own husband's throat?" is a theologically rich, conscience-searching image used effectively. The preacher's own expansion — connecting the bride of Christ to the prostitution of sin — shows genuine theological instinct and pastoral boldness. This is the sermon's best moment.
+
+2. **Authentic oral voice** — The sermon reads as genuinely spoken, not performed. The direct address, conversational questions, and natural register ("Do any of you like pickles?") suggest a preacher who is comfortable before his people and not hiding behind academic prose. This is a real strength.
+
+3. **The Ten Commandments conviction section** — Brief but pointed. "If you're following along so far we are idolatrous thieves that don't love Christ like we should" followed by "We are all adulterous, thieving, lying, idolatrous, murderers that don't love Christ like we should" uses the law as a hammer with appropriate directness. The instinct is right, even if the execution is compressed.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The sermon's central argument is not derived from the text.** Matthew 5:13–16 is declarative — Jesus tells his disciples what they *are*, not primarily what they should *do*. The passage's logic runs: You are salt (identity) → saltless salt is worthless (warning) → You are light (identity) → a hidden lamp is absurd (warning) → therefore let your light shine (imperative). The sermon skips the identity-before-imperative structure entirely and arrives at the imperative without the indicative foundation. This is not a minor omission — it changes the nature of the call. "Be a better witness" is a law word. "You already *are* light — stop covering it" is a gospel word. The sermon preaches law where the text preaches identity.
+
+2. **The gospel section is the shortest section of the sermon and is placed last as an afterthought.** Four sentences at the end do not constitute gospel centrality. The congregation is convicted by the Rutherford section, left under law by the commandments section, and given a two-sentence gospel with no explanation of how Christ's death resolves the problem named. The hammer falls but the balm is withheld.
+
+3. **The magnesium chemistry sequence and Cheerful Charlie story are extended digressions that consume the sermon's development time without advancing the text's argument.** Nearly half the sermon's space is given to content that could appear in any motivational talk about positive attitude and enthusiasm. This is not salt-and-light — it is a children's story about cheerfulness. The time these consume is time the text never receives.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears unaware that the Beatitudes immediately precede this passage and provide its anthropological foundation. The people called to be salt and light in verses 13–16 are the poor in spirit, the mourning, the meek, the persecuted of verses 3–12. The identity being announced is not generic Christian duty — it is the surprising declaration that the broken and lowly are the world's preserving salt and guiding light. This inversion is theologically rich and completely missed.
+
+The preacher is also likely unaware that the moral-improvement framework he is using ("be a better witness, live more consistently") structurally resembles what the passage is *not* saying. Matthew 5:13–16 does not say "try harder to be salt." It says "you *are* salt — don't become tasteless."
+
+---
+
+### 12. Illusion of Strength
+
+The Rutherford section feels like the sermon's theological center of gravity — and the preacher likely feels most confident here. But the quotation does the theological work that the sermon itself does not. Rutherford's own Christ-saturated, gospel-driven theology is imported into a sermon frame that is not itself Christ-saturated. The quotation is strong; the surrounding argument is weak. The result is that the sermon appears more theologically rich than it is, because Rutherford's voice carries weight that the sermon's own argument has not earned.
+
+---
+
+### 13. Missed Opportunity
+
+Verse 13b: "But if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people's feet."
+
+This verse is the text's own warning — and the most pastorally urgent line in the passage. Jesus is warning that a disciple who has lost the character of discipleship has become worthless. This is not a mild caution about enthusiasm; it is a searching warning about the reality of nominal Christianity. The preacher never mentions it. This verse would have grounded the entire sermon's concern about hidden lights and inconsistent living with far more authority than the chemistry digression.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Begin from the indicative, not the imperative.** The first move of the sermon should be to announce what Jesus announces: "You *are* salt. You *are* light." Spend the first major section unpacking what this identity means — who the "you" is (the Beatitudes people), what salt does (preserves, purifies, gives flavor), what light does (exposes, guides, glorifies). Only after the identity is established does the imperative "let your light shine" make sense. Currently the sermon skips the declaration and goes straight to the exhortation.
+
+2. **Replace the magnesium chemistry section with exegesis of verse 13b.** Cut the extended chemistry digression. Spend that time on "if salt has lost its taste" — what does it mean for a disciple to become saltless? This is where the conscience should be searched first, and it is the text's own searching word. The Rutherford quotation can follow as pastoral expansion of what saltless discipleship looks like.
+
+3. **Give the gospel its own section, not a closing paragraph.** The gospel must not be the shortest section. After the law lands (commandments) and the conscience is searched (Rutherford), the gospel must be proclaimed with full force: what Christ did, why he did it, what it means for the guilty hearer. At minimum: Christ bore the judgment the commandments declare, his death satisfies the justice that our sin demanded, and his resurrection is the ground of a new identity. The hearer needs to know *how* Christ's death resolves the problem the sermon named.
+
+4. **Add a clear exhortation with differentiated address.** The closing must include: (a) a call to the unconverted to believe, (b) a call to the backslider to return, (c) a call to the consistent believer to see their ordinary life as kingdom witness. "It is my hope and prayer" is not exhortation. "Turn from your sin and trust Christ — today, not someday" is exhortation.
+
+5. **Remove Cheerful Charlie entirely, or relocate and compress.** A children's story about positive attitude is not an illustration of Matthew 5:13–16 — it is an illustration of optimism. If a story about contagious character is needed, find one that is grounded in actual gospel transformation, not in a decision to "be happy regardless." The illustration teaches that enthusiasm is a choice — which is exactly the wrong anthropology for a sermon on kingdom identity.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — the Dead Orthodoxy pattern requires high exposition + low application, or high theology + low gospel. This sermon's scores are low across multiple categories due to underdevelopment, not cold correctness. The preacher has genuine pastoral warmth and real instincts toward conscience-searching. The problem is structural and expositional, not attitudinal.
+
+---
+
+### 16. Weight of Glory Statement
+
+The Rutherford quotation carries genuine eternal weight, and in that isolated moment the sermon trembles with something real — but the sermon as a whole does not sustain that gravity, and the hearer is not left wanting to worship so much as wanting to try harder.
+
+**Bonus: +1/5**
+
+---
+
+### 17. Rubric Fit Note
+
+Matthew 5:13–16 is a short dominical saying embedded in the Sermon on the Mount — a genre that is declarative, identity-shaping, and eschatologically charged. The rubric's categories fit this passage well, particularly the emphasis on indicative-before-imperative (which maps to gospel centrality and exposition). The passage does not strain the framework. The rubric's Fallen Condition Focus diagnostic is especially applicable here: the specific human condition this text addresses is the tendency of kingdom people to obscure or deny their kingdom identity — to hide what they are. That FCF, if named clearly, would have organized the entire sermon.

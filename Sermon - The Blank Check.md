@@ -300,3 +300,197 @@ New sections added: "The Men at Antioch," "The Spirit's Initiative," "The Church
 - **"Father, forgive them, for they know not what they do" (Luke 23:34)** — ✅ Correct (ESV)
 - **Year of Four Emperors / Vespasian / Titus / Colosseum** — ✅ Historically accurate
 - **Stoning of Stephen with Paul present** — ✅ Acts 7:58–8:1
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated:** 2026-03-22
+**Evaluator:** Thus Says the Lord rubric v1.0
+
+---
+
+### 1. Verdict Title
+
+**A Sermon That Writes Its Own Blank Check — Exposition, Gospel, and Pastoral Challenge at Full Strength**
+
+---
+
+### 2. One-Sentence Summary
+
+A faithful opening of Acts 13:1-3 that magnified the sovereignty of the Spirit, the gospel as the ground of all sacrifice, and the church's missionary identity — while carrying the weight of three lives (Borden, Ripken, Paul) as testimony that blank checks for God are always answered by the one God wrote first in the blood of His Son.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test:** PASS. The sermon's thesis — as Christians we are called to live as blank checks for God, written in response to the Spirit's sovereign initiative — arises from Acts 13:1-3's own pattern: the Spirit speaks first, the church confirms, the men obey. The blank check metaphor is not imposed on the text; it is drawn from Paul's own words in Acts 20:24: "I do not account my life of any value nor as precious to myself."
+
+**Authority Test:** PASS. The preacher does not stand above the text. He follows where the passage leads: the Spirit initiates, not the church committee; the mission is God's errand, not man's ambition. The exhortation to write a blank check is grounded in this theological observation rather than in the preacher's own will.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**None.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 21/25**
+
+The three-movement exegesis of Acts 13:1-3 is careful, sequential, and textually grounded: the five men at Antioch (diversity as a product of the gospel), the Spirit's initiative (*aphorisate* connected to Romans 1:1), and the laying-on-of-hands as identification with sacrifice (Levitical background applied). Each movement yields a theological observation that governs the sermon's exhortation. Acts 20:21-24 as a secondary text is a strong exegetical choice — Paul himself articulates the blank check principle in his own words.
+
+The Integrity Log's verification of *aphorisate* as the same root as Romans 1:1 (both ἀφορίζω, different forms) is precise. The Old Testament connection of laying-on-of-hands to Levitical sacrifice identification is confessionally grounded and not forced.
+
+Weakness: The five men at Antioch section, though the best sustained exegetical passage, does more background work (who was Manaen? who was Simeon Niger?) than exposition of the text's *argument*. The text's argument is that the Spirit speaks and the church obeys — the names ground that argument in a diverse community, but the exposition could stay closer to the argument's movement. The sermon's exegetical center of gravity shifts from Acts 13 to Acts 20 at the midpoint, which is appropriate but means the primary text is somewhat thinly covered after verse 3.
+
+FCF: The fallen condition addressed — the believer's tendency to fill in their own amount on the blank check, to give God what is convenient rather than what He demands — is named concretely and searched at the close.
+
+**2. Theology & Doctrinal Integrity — 15/18**
+
+The gospel proclamation is the theological centerpiece and is stated with full confessional precision: "The sinless Son of God — the only man who ever lived who owed God nothing, who had no sin to atone for, no debt to pay — he took on himself the full weight of God's wrath against sin. Not his sin. Ours. Yours and mine." 2 Corinthians 5:21 is quoted. The great exchange (our sin placed on Him; His righteousness credited to us) is explicitly stated. Penal substitution is not softened.
+
+The monergistic note — "apart from God moving in our hearts we don't even have an interest in the things of the Lord" — is confessionally consistent (1 Corinthians 2:14 applied). The Spirit's sovereignty over mission ("God initiated. God called. God chose the men. God defined the work.") is maintained throughout.
+
+Weakness: Christ's resurrection is not mentioned. The gospel states Christ died bearing our sin, but His resurrection — which Paul insists is the ground of justification (Romans 4:25) and the power of Paul's ministry (Philippians 3:10 is quoted but the resurrection-power aspect is underdeveloped) — is implicit rather than proclaimed. A sentence connecting the blank check to the risen Christ would close this gap.
+
+**3. Gospel Centrality & Force — 13/15**
+
+The gospel arrives as the sermon's climax — the turn from human blank checks (Borden, Ripken, Paul) to God's blank check (the cross) is the sermon's best structural move. It reframes everything that came before: human sacrifice is response, not ground. The sinless Son's sacrifice is categorically different from the sacrifice of sinners for sinners. This is not moralism — it is gospel.
+
+"We don't give our lives to God so that he'll save us. We give our lives to God because he already has." This sentence is the gospel's imperatives-flow-from-indicatives logic stated perfectly. It should be preached in every church where missions is the topic.
+
+*Synagogue Test:* This sermon would give offense. The cross is necessary and named as the ground of all that follows. It passes.
+
+Weakness: The law does not have full time to land before the gospel relieves it. The sermon builds through human examples of sacrifice and arrives at the cross without a full accounting of why the cross was necessary — why God's wrath needed to be propitiated. The sermon assumes the hearers know they are sinners without pressing that conviction. A brief hammer before the balm would sharpen the gospel's force.
+
+**4. Conscience & Applicatory Force — 12/15**
+
+The three-category spiritual differentiation at the close is the conscience section's strength:
+- *The unconverted*: "God isn't asking you tonight to go to Somalia. He's asking you to come to him."
+- *The believer who fills in their own amount*: "What are you holding back? What have you quietly taken off the table and told God he can't have?"
+- *The long-time believer whose fire has gone low*: "Somewhere along the way, the world got comfortable and the cost got theoretical."
+
+These three are specific, graduated, and addressed distinctly. The backyard application (80 Muslims within a mile, prayer-driving initiative) is specific and locally grounded.
+
+Weakness: The three categories are addressed but the *knowledgeable but unhumbled* (Perkins) is not. The person who knows the blank-check theology, agrees with it, even admires it — and is still holding back without knowing why — is not cornered. The sermon addresses willful holding back but not the deeper self-deception of the person who believes they are all-in while they are not.
+
+**5. Exhortation & Response — 7/8**
+
+The prayer-driving initiative is a specific, actionable call: "I want to put together a team of people that will commit to once a week getting together and driving through the surrounding communities and praying for them." This is not a generic call to "be more missional." It has a meeting, a route, and a specific group to pray for.
+
+The Spurgeon quote at close ("If sinners will be damned, at least let them leap to Hell over our bodies") is the right close for a missions sermon — it exhorts urgency without making exhortation the gospel itself. The "who would be willing?" invitation makes the exhortation participatory rather than rhetorical.
+
+**6. Structure & Logical Flow — 8/9**
+
+The structure is clear and builds: Context (Antioch) → Read text → Three exegetical movements (men / Spirit / church sends) → Borden illustration → Paul's example (Acts 20) → Gospel climax (God's blank check) → Spiritual differentiation → Backyard application → Spurgeon close → Specific call.
+
+The Borden section is long, but it earns its length — the Integrity Log shows careful verification and correction, and the "No Reserves, No Retreats, No Regrets" summary is memorable. The transition from Borden to the Ripken family flows naturally. The sermon does not wander; every section advances the blank-check thesis.
+
+Minor weakness: The personal missions-training scenario (kidnapping simulation, wrestling with whether to follow God if it cost him his family) is the most vulnerable point in the sermon's structure — it is more autobiographical than exegetical, and it arrives between the Acts 20 text and the gospel proclamation in a way that slightly delays the sermon's climax.
+
+**7. Illustration & Imagination — 5/5**
+
+Three major illustrations, all native and verified:
+- *William Borden*: "No Reserves, No Retreats, No Regrets." The detail (trip around the world at 16, Yale church plant, inheritance given away, death in Cairo at 25) is specific and moving. The Integrity Log's corrections are applied. The biographer's attribution of the phrases is honest.
+- *The Ripken family / Timothy*: The missionary's son dying of asthma in Nairobi, the letters from Somali parents — this is genuinely extraordinary material. The Integrity Log's corrections (Timothy named, Nairobi specified, the 4 remaining believers) make the story more accurate and more precise.
+- *The blank check metaphor itself*: Clear, consistent, applied to every major figure (Paul, Borden, Ripken, the church at Antioch, the congregation). The metaphor never outstays its welcome.
+
+**8. Sermonic Force — 4/5**
+
+The manuscript reads as preaching. "And here's the thing — here's what makes God's blank check different from every other one we've talked about tonight." That is a turn-and-look moment, and it earns what follows. The Philippians 3 prison epistles comment ("He was literally praising God not because his damp prison cell was comfortable, but because God is good") is a good sermon line. The three-category address at the close is direct and personal. Some sections read more as testimony than proclamation, but for a missions sermon that is not a weakness — it is appropriate.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**0.** Well-paced. Three illustrations, three exegetical movements, three categories of hearers. The congregation can track it. The blank-check metaphor provides a unifying thread that prevents the multiple stories from fragmenting the sermon.
+
+---
+
+### 7. Total Score
+
+**21 + 15 + 13 + 12 + 7 + 8 + 5 + 4 = 85 + 4 (Weight of Glory) = 89/100**
+
+**Interpretation: Strong and faithful. Minor sharpening needed. Ready for the pulpit with targeted revisions.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** *More of Christ. The turn from human blank checks to God's blank check is the sermon's best theological move — it dethrones human sacrifice and re-enthroned the cross.*
+2. **Did I encounter God, or just ideas about Him?** *Encountered God — in the weight of the Ripken family's loss, in the cross, in the Philippians 3 prison-praise.*
+3. **Was I comforted, convicted, or merely informed?** *Convicted (what are you holding back?) and comforted (God doesn't ask you to walk any road He wasn't willing to walk Himself). Both present.*
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The God's-blank-check climax.** "What Christ did on that cross was something else entirely... The sinless Son of God... took on himself the full weight of God's wrath against sin. Not his sin. Ours." The transition from human sacrifice to divine sacrifice is structurally sound and theologically exact. The comparative framing ("they were all sacrifices made by sinners for the sake of other sinners") is precisely the kind of sentence that distinguishes preaching from religious inspiration.
+
+2. **The five men at Antioch exegesis.** The diversity of the Antioch leadership team (Levite, African, North African, Herod's foster-brother, former persecutor) is developed with specificity (each man named, their background given, the scandal of their unity noted). "Only God does that. Only the gospel brings those men into the same room." This is expositionally honest and pastorally powerful.
+
+3. **The three-category spiritual differentiation.** The unconverted, the believer who fills in their own amount, and the long-time believer whose fire has gone low — all three are addressed distinctly, with specific language ("what have you quietly taken off the table and told God he can't have?"). The fire-gone-low category is particularly rare in missions sermons and particularly needed.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The law is underdeveloped before the gospel lands.** The sermon moves through human sacrifice to divine sacrifice without pressing the full weight of why the wrath of God needed to be satisfied — why the sinless Son's death was *necessary*, not merely *generous*. The gospel is stated correctly but the law's hammer has not fully struck before the balm is applied. The Ripken story and Borden story produce emotional weight; that weight could be redirected into conviction about the sinner's own lostness before the gospel is proclaimed.
+
+2. **Christ's resurrection is absent from the gospel proclamation.** 2 Corinthians 5:21 is quoted; Philippians 3:10 ("the power of his resurrection") is quoted. But the gospel section itself does not explicitly state that Christ rose. The blank check requires an empty tomb — the resurrection is the vindication that the payment was accepted. One sentence is needed.
+
+3. **The autobiographical missions-simulation section delays the climax.** The kidnapping scenario and the wrestling-with-God-over-family material is genuine and instructive, but it arrives between Acts 20:21-24 and the gospel proclamation in a way that slows the sermon's momentum at exactly the moment it should be accelerating. It would be stronger earlier — or moved to a separate illustration in the setup section.
+
+---
+
+### 11. Blind Spots
+
+The preacher does not appear to see that the blank-check metaphor, while powerful, has a built-in limitation: it frames the Christian life primarily as *sacrifice* and *risk* — which is true and necessary — but may inadvertently communicate to the comfortable, cautious believer that radical missions-level sacrifice is required for faithfulness. The sermon's close corrects this somewhat ("the man who finally tithes after years of holding back — that's a blank check") but the dominant examples (Borden, Ripken, Somalia) set a very high bar that can leave the ordinary congregant feeling either guilty or absolved ("I could never do what they did, so the call is not for me").
+
+---
+
+### 12. Illusion of Strength
+
+The Borden story feels like the sermon's emotional peak, and the "No Reserves, No Retreats, No Regrets" line is unforgettable. But the sermon's actual theological strength is the God's-blank-check section that follows. There is a risk that the congregation carries home the Borden story rather than the cross. The gospel section should be the *climax* the Borden section builds toward — and structurally it is, but the emotional memory of Borden and the Ripkens may compete with it.
+
+---
+
+### 13. Missed Opportunity
+
+Acts 13:2 — "While they were worshiping the Lord and fasting, the Holy Spirit said..." — the Spirit speaks *in the context of worship and fasting*. This is a direct application point for the congregation's prayer life that the sermon gestures toward at the end ("the mission didn't start with a committee meeting — it started with the church on its knees") but does not develop from the text's own language. A sentence unpacking *why* worship and fasting create the conditions in which the Spirit's voice is heard would enrich both the exposition and the backyard-prayer-initiative call at the close.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Add one sentence on Christ's resurrection.** After "he took on himself the full weight of God's wrath against sin," add: "And three days later, He rose. The empty tomb is God's declaration that the payment was accepted — that sin's debt was paid in full, and death itself could not hold the one who bore it."
+
+2. **Develop the law briefly before the gospel.** Before "And here's the thing — here's what makes God's blank check different...," add two to three sentences pressing the question: "Why did God have to write a blank check at all? Because we were bankrupt. Because our sin had placed us under a wrath we could not pay. Because no amount of human sacrifice — not Borden's youth, not Ripken's grief, not Paul's imprisonment — could satisfy what we owed."
+
+3. **Move the missions-simulation story earlier.** Place it in the setup section before the Acts 13 exegesis as background for why the blank-check concept is concrete and costly — then the exegesis confirms it and the gospel explains its source.
+
+4. **Develop Acts 13:2 in the context of worship and fasting.** Tie the closing backyard-prayer-initiative directly to the text: "The Holy Spirit said while they were worshiping and fasting. We cannot hear what we are not listening for. The Antioch church was on its knees when the Spirit spoke — and we are going to get on ours."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+*Not triggered.* The sermon has both doctrinal precision and pastoral heat. The Ripken family story prevents the sermon from becoming a missions lecture.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The image of the Ripken family receiving letters from Somali parents after their son's death — seeds planted in children that grew in the absence of the planters — carries genuine eternal gravity. Alongside the cross passage, the sermon earns weight that lingers.
+
+*+4 bonus points.*
+
+---
+
+### 17. Rubric Fit Note
+
+Acts 13:1-3 is a narrative text with minimal propositional content — the rubric's exegetical categories (textual fidelity, contextual awareness) bend slightly toward *observational* exegesis rather than *argumentative* exposition. The sermon handles this well by drawing theological conclusions from narrative observations, which is the appropriate method for narrative texts. The Rubric Fit is good.
+

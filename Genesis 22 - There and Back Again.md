@@ -292,3 +292,174 @@ This manuscript is distinct in its exclusive focus on the typological/Christolog
 ---
 
 *Soli Deo Gloria*
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**File:** Genesis 22 - There and Back Again.md
+**Text:** Genesis 22:1–19
+**Evaluated:** 2026-03-22
+
+---
+
+### 1. Verdict Title
+Exemplary Typological Exposition — God Showed Abraham What He Was Planning to Do
+
+---
+
+### 2. One-Sentence Summary
+A rare sermon: textually precise, theologically saturated, typologically earned, pastorally searching, and climaxing exactly where the text climaxes — on the cross, with God letting the knife fall.
+
+---
+
+### 3. Berean Gate
+**PASS**
+
+*Scopus Test:* The sermon's thesis — that God, on Moriah, was showing Abraham what he himself was planning to do in Christ — arises directly from the passage's own movement and imagery: *yachid* (v.2) → only Son (John 3:16); Isaac carrying wood (v.6) → Christ carrying the cross; "God will provide for himself the lamb" (v.8) → John 1:29; the ram in the thicket (v.13) → the substitute; "On the mount of the LORD it shall be provided" (v.14) → Golgotha. The connection is apostolically warranted (Hebrews 11:17–19) and organically developed, not bolted on.
+
+*Authority Test:* The preacher submits fully to the text. He does not soften the terror of the test, the three-day walk, the binding, or the knife going up. He stands under the text's claims — including the claim that God's intentional sovereign design crushed his own Son.
+
+---
+
+### 4. Fatal Flaw Flags
+**None triggered.**
+
+- Gospel present and proclaimed (John 1:29; Isaiah 53:10; John 3:16; explicit gospel invitation)
+- Main point equals text's point throughout
+- Christ is necessary — the whole typological structure requires him as its fulfillment
+- Application is concrete and costly ("the altar in your life right now"; "the marriage you wanted to control")
+- Clear exhortation: "Trust him with the costly thing" / "Come to that provision"
+- Accessible to ordinary hearers throughout
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 24/25**
+
+- *Textual Fidelity (9/10):* Every major textual detail is exegeted — the fourfold "your son, your only son Isaac, whom you love" (v.2), Abraham's early rising (v.3), the "we will come back" faith statement (v.5), Isaac carrying the wood (v.6), "here I am" three times across the chapter, Isaac's question (v.7), Abraham's prophetic answer (v.8), the binding (vv.9–10), the angel's call (vv.11–12), the ram caught in the thicket (v.13), Jehovah-Jireh (v.14), and the Abrahamic covenant reaffirmation (vv.16–18). The covenant renewal section is engaged but briefly — a slightly fuller treatment of vv.15–18 as the promise-climax would complete the textual coverage.
+- *Contextual Awareness (5/5):* Abraham's prior arguing with God (Genesis 18, 14) is used to make his silence in chapter 22 theologically significant. Isaac's age calculation (approximately 37, per J. Vernon McGee and Seder Olam Rabbah) is presented with appropriate hedging. The Moriah → Temple Mount (2 Chronicles 3:1) → Calvary ridge connection is handled with geographic precision and honest caveating. Matthew 1:1 traces the covenant seed to its fulfillment. The chapter is placed inside Abraham's full biography.
+- *Exegetical Clarity (5/5):* *Yachid* — unique, singular — is deployed precisely and paralleled with John 3:16. The "here I am" triad is observed and theologically mined. "God will provide for himself the lamb" is correctly identified as prophetic utterance with a scope Abraham did not fully grasp. The FCF is clear: the human fallen condition is inability to provide what God demands — only God can supply the substitute. The typological hedging ("I know the connection is typological — I'm not making a one-to-one textual claim") is exegetically responsible.
+- *Logical Faithfulness (5/5):* No eisegesis. Every claim is either textually grounded or explicitly flagged as typological inference. The Hebrews 11:19 warrant for the Isaac/Christ typology is cited. No proof-texting detected.
+
+**2. Theology & Doctrinal Integrity — 18/18**
+
+- *Christ-Centeredness (7/7):* The typological connection is apostolically warranted, organically developed, and textually precise. The Father/Son parallel (God not receiving his Son back; the knife falling) is the sermon's theological center of gravity — handled with both doctrinal precision and pastoral force. Christ is not decorative.
+- *Redemptive-Historical Awareness (3/3):* The Aqedah is situated in Abraham's biographical arc, in the Abrahamic covenant narrative, in the Moriah/Temple/Calvary ridge, and in Matthew 1:1 as the seed-tracing. Pilgrims repeating "On the mount of the LORD it shall be provided" without understanding its full scope is a beautiful redemptive-historical observation.
+- *Doctrinal Precision (4/4):* Penal substitution is exact ("the only sacrifice that could actually cover sin. Not a ram. Not a type. The Lamb."). Isaiah 53:10 is deployed without sentimentality. Divine sovereignty in the cross is explicit: "That was not an accident. That was not God overwhelmed by events." Resurrection and ascension are noted.
+- *Confessional Alignment (4/4):* Divine sovereignty in the test is handled correctly: "The test did not produce Abraham's faith. It revealed it." The covenant of grace (Abrahamic covenant → gospel) is developed with confessional precision. No contradiction of Reformed Baptist theology at any point.
+
+**3. Gospel Centrality & Force — 15/15**
+
+- *Clarity of the Gospel (5/5):* Explicit and complete. John 1:29 names the Lamb. Isaiah 53:10 names the substitution. The gospel invitation is clear and exclusive: "You don't approach God on the back of your own sacrifice. You never could."
+- *Necessity of Christ (5/5):* The entire typological architecture requires Christ as the only sufficient, non-typological fulfillment. Without him, the sermon has no answer to Isaac's question.
+- *Cross-Centered Gravity (5/5):* The sermon climaxes on "He let the knife fall." The conclusion does not drift from this. Jehovah-Jireh is not sentiment here — it is the name given on the day God provided the only substitute that could actually cover sin. The gravity is sustained through the application and invitation.
+
+*Synagogue Test:* The claim that the Aqedah points to Jesus of Nazareth as the only sufficient substitute, that the Abrahamic covenant was pointing at his gospel — this is deeply offensive to a devout non-Christian. The gospel is scandalous here. Test passed.
+
+**4. Conscience & Applicatory Force — 12/15**
+
+- *Heart Penetration (4/5):* The opening — "Some of you have heard this story so many times it's lost its edge" — is precision desensitization removal. The pastoral address ("the marriage you wanted to control, the child you're gripping, the diagnosis that stole your certainty") is genuinely searching. "If your faith hasn't cost you anything lately, this text wants to ask why" — that is the Puritan press. What holds it from a 5: there is no Puritan moment where a particular category of sinner is specifically cornered by name.
+- *Specificity (4/5):* The application is specific and costly — not generic trust-God piety. "Jehovah-Jireh is not a name you appreciate from a distance. It's the name you can only speak on the mountain, when you don't have a ram yet, and you're still walking." That is earned specificity.
+- *Spiritual Differentiation (4/5):* The sermon cleanly addresses two categories: the believing congregation (Section IV, Part 1 — the altar) and the unbeliever/seeker (Section IV, Part 2 — "Where is the lamb?"). The structural discipline ("Two things. Stay with me.") is effective. What is absent: the self-righteous, the backslider, the knowledgeable-but-unmoved are not distinctly addressed.
+
+**5. Exhortation & Response — 7/8**
+
+- *Call to Response (4/4):* "Trust him with the costly thing" — specific, costly, direct. "Come to that provision" — clear gospel call. Both exhortations are concrete and address different hearers.
+- *Equipping for Holiness & Witness (3/4):* The sermon equips for faith-under-trial ("Jehovah-Jireh is the name you can only speak on the mountain") and for gospel witness (the Isaac's question / "Where is the lamb?" frame is transferable). What is absent: the corporate/ecclesial dimension — the church as covenant community is not addressed. The congregation is equipped as individuals.
+
+**6. Structure & Logical Flow — 9/9**
+
+- *Clarity of Outline (4/4):* Four movements tracking the text: Test → Question → Provision → Promise. Then explicit application ("Two things. Stay with me."). Elegant, memorable, and traceable on a napkin.
+- *Progression (3/3):* Each section raises the stakes and deepens the typological weight. The climax ("He let the knife fall") is where it belongs — at the fullest development of the parallel, not before it.
+- *Unity (2/2):* One dominant idea throughout: God showed Abraham on Moriah what he himself was planning to do.
+
+**7. Illustration & Imagination — 5/5**
+
+The sermon's discipline is to use the narrative itself as its primary illustrative vehicle — and the narrative is rich enough to carry it. The "yachid" etymology illuminates without decorating. The ram caught in thorns is handled with both restraint and maximum effect. The modern application images (marriage, child, diagnosis) are drawn from the congregation's actual world. The integrity log correctly flags the absence of a personal pastoral illustration between Sections II and III — this is the one gap in an otherwise full illustrative strategy.
+
+**8. Sermonic Force — 5/5**
+
+- *Reads as Preaching (2/2):* "File that image away." "Look at that ram." "Feel what's being asked here before you move past it." Short paragraphs. Staccato sentences at pressure points. "Your son. Your only son. Isaac. Whom you love." — four beats, each one tightening. This manuscript was built to be preached.
+- *Conviction on the Page (2/2):* "He let the knife fall." That sentence earns its brevity. The paragraph on divine intentionality ("That was not an accident. That was not God overwhelmed by events. That was God providing...") is preached with precision and heat.
+- *Cadence and Breath (1/1):* Sentence variation is excellent throughout. The sermon accelerates and slows at the right moments. The climactic sentences are short for a reason.
+
+---
+
+### 6. Cognitive Load Modifier
+**0** — No modifier. The narrative structure carries the congregation naturally. The typological connections are clearly signposted and explicitly hedged. An ordinary hearer can track every movement and take home one clear truth: God provided the Lamb so you don't have to.
+
+---
+
+### 7. Total Score
+**100 / 100**
+
+*Interpretation: Rare. Exemplary exposition, pastoral heat, gospel gravity. Preach it.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Christ — primarily and deliberately. The typological architecture drives toward the Lamb of God. The self-examination in the application is in service of greater trust in Christ, not self-focus.
+2. **Did I encounter God, or just ideas about Him?** God is present as terrifyingly sovereign and lavishly merciful. The test is not background — it is the foreground. Yes, God is encountered here.
+3. **Was I comforted, convicted, or merely informed?** Convicted by the altar-question, comforted by Jehovah-Jireh, moved by the cross. Not merely informed at any point.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The typological precision is textually earned.** "God will provide for himself the lamb" — the sermon lingers here and gets it right: this is not Abraham's comfort-talk, it is a prophecy he didn't fully understand. The Isaac/Christ connections are apostolically grounded (Hebrews 11:17–19), not imposed. The preacher explicitly hedges where the connections are typological inference rather than textual assertion.
+2. **"He let the knife fall."** Four words that are the theological center of the entire sermon. The parallel is fully developed before this moment — the fourfold "your son, your only son" → John 3:16, the wood carried up the hill, the ram in the thicket. When the sentence arrives, it carries the full weight of everything before it. This is how a climax is earned, not announced.
+3. **"Jehovah-Jireh is not a name you appreciate from a distance."** The application does not let the congregation receive the sermon passively. The preacher presses: if your faith hasn't cost you anything lately, this text wants to know why. The application is specific enough to land — and costly enough to require a response.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+These are minor relative to the sermon's overall quality, but honest diagnosis requires naming them.
+
+1. **No personal pastoral illustration.** The integrity log flags this itself. The sermon is all text and typology — which is appropriate to the material — but a brief pastoral moment (a moment from the preacher's own experience of costly trust) between Sections II and III would add flesh to the bones and give the congregation a human witness to the faith Abraham displayed. The "some of you know what this feels like" address is honest; it would be stronger if the preacher stood inside it.
+2. **The self-righteous and the complacent believer are not specifically addressed.** The application divides the congregation into believers (who have an altar) and unbelievers (who need the Lamb). Missing: the believer who would agree with everything being said and feel no particular pressure. The "if your faith hasn't cost you anything lately" line gestures at this group — but a sharper direct address would close the gap.
+3. **The Abrahamic covenant reaffirmation (vv.15–19) is developed briefly.** Matthew 1:1 is used to trace the seed — well done. But the fullness of "in your offspring shall all the nations of the earth be blessed" — the scope of the promise, the universal mission it implies — is noted rather than developed. In a church with a "Taking Strangers, Making Family" mission, this was an available thread.
+
+---
+
+### 11. Blind Spots
+
+The sermon may not see how rare it is. The typological hedging ("I know the connection is typological — I'm not making a one-to-one textual claim") is exegetically responsible, but it may also slightly undercut the force of the parallel at the moment it's being deployed. The hedging is correct; the delivery can be simultaneously honest and bold.
+
+---
+
+### 12. Illusion of Strength
+
+There is no illusion of strength in this sermon. Every strong moment is earned. The weakness that could be mistaken for strength: the absence of personal illustration is sometimes confused with exegetical restraint. It is exegetical restraint — but it is also a genuine gap.
+
+---
+
+### 13. Missed Opportunity
+
+**Genesis 22:18 — "in your offspring shall all the nations of the earth be blessed."** This is the missionary charter of the Abrahamic covenant. The sermon develops the gospel (Christ as the fulfillment of "God will provide for himself the lamb") and the personal application (trust God with the costly thing) — but the ecclesiological and missional force of the promise is left on the mountain. In two minutes: "The promise made on this mountain is not just about you. It is about all nations. The reason God provided the Lamb is so that the blessing of Abraham would reach to the ends of the earth. You are part of that mission."
+
+---
+
+### 14. Surgical Fixes
+
+1. **Add a personal pastoral illustration between Sections II and III.** One brief story from pastoral experience — a congregant or a moment from your own walk — where you watched God provide for someone who trusted him with the costly thing. Do not invent. If no story comes readily, use the "some of you" address more specifically: name a category of person and speak to them directly.
+2. **Add a direct-address moment for the comfortable believer after the altar passage.** "Some of you would agree with everything I've said tonight — and you're not sweating a thing. You believe God will provide. And you haven't laid anything on an altar in years. This text is for you too. What's the costly thing? Because Abraham didn't learn Jehovah-Jireh from a distance."
+3. **Develop Genesis 22:18 as the missional payoff before the gospel invitation.** "The promise made on this mountain was not only for Abraham. It was for all nations. God let the knife fall so that every tribe and tongue and people could approach him through the Lamb he provided. You are invited into that promise tonight."
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The application is genuinely searching, the gospel is proclaimed with weight and exclusivity, and the sermon's emotional register matches the text's gravity throughout.
+
+---
+
+### 16. Weight of Glory Assessment
+God is present in this sermon as terrifyingly sovereign and lavishly merciful. "He let the knife fall" — followed by Isaiah 53:10 — carries eternal gravity. A man who has been with God would weep at the cross and rejoice at the provision. **+5/5**
+
+---
+
+### 17. Rubric Fit Note
+Genesis 22:1–19 is narrative. The rubric notes that narrative passages may stress categories differently. In this case, the rubric fits well precisely because the sermon's typological method translates the narrative into theological argument — it does not merely retell the story, it exegetes it. The narrative categories are not strained; they are inhabited. The rubric's demands for textual fidelity, theological integrity, and gospel centrality are all met on the text's own terms.

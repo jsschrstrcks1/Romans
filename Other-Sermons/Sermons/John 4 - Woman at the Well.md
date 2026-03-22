@@ -88,3 +88,190 @@ OPEN — requires your input:
    Haran (Gen 29:1-12), not at this well in Samaria. The connection the sermon is
    drawing is thematic (man meets woman at a well), not locational. Worth clarifying
    so the congregation isn't left with a false geographical impression.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Warm Pastoral Heart, Thin Expository Spine — A Sermon That Finds the Text's People But Loses Its Theology**
+
+---
+
+### 2. One-Sentence Summary
+A compassionate opening of John 4:7–26 that successfully located the human condition and the missional impulse of the text while failing to preach the Living Water as justifying grace, leaving the congregation warm toward Jesus but not confronted by the gospel.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with reservation.**
+
+*Scopus Test:* The sermon's thesis — that only Jesus fills the void in the human heart — does arise from the passage. The woman's restlessness, her failed substitutes, and Christ's offer of living water are genuinely present in the text. The main point is not invented.
+
+*Authority Test:* Marginal pass. The sermon does not contradict the text, but it handles the passage more as a platform than as an argument. The preacher follows the passage's human drama carefully, but the theological declaration of who Jesus is — the I AM who gives eternal life through faith — is treated as background color rather than the proclamation the text demands. The authority test is technically passed, but barely.
+
+---
+
+### 4. Fatal Flaw Flags
+**FLAG TRIGGERED — Fatal Flaw #1: No clear gospel presentation.**
+
+The sermon references Jesus and belief repeatedly, but justification by faith is never articulated. The mechanics of salvation — what it means to receive the living water Jesus offers, how sinners are reconciled to God through Christ's atoning work — are assumed, not proclaimed. The phrase "Do you know him today?" closes the application section, but no one listening who did not already know the gospel would understand from this sermon what it means to know Christ or how one comes to know Him.
+
+**FLAG TRIGGERED — Fatal Flaw #4: Application is entirely generic.**
+
+The application ("Only Jesus fills the void. Only Jesus. Do you know him today?") is undifferentiated. It does not distinguish the grieving widow from the moral self-achiever, the doubter from the backslider, the already-converted from the hardened unbeliever. Everyone receives the same "Jesus fills the hole" message with no variation in address.
+
+*Score is capped at 69.*
+
+---
+
+### 5. Score Breakdown
+
+**Category 1 — Exposition & Hermeneutics: 15/25**
+
+- *Textual Fidelity:* 6/10. The sermon works through the passage's human drama with genuine care — the social context of Samaritans, the gender dynamics, the well-scene typology. But the passage's theological core (vv. 13–14, 21–24, 25–26) receives almost no direct exposition. Verses 13–14 ("whoever drinks of the water I will give him will never be thirsty again") are the exegetical center, and they are never opened. The sermon describes around the text more than it expounds the text.
+- *Contextual Awareness:* 4/5. The betrothal type-scene observation is excellent — it shows real literary and canonical awareness. The Muhamasheen application from the framing is thematically coherent with Jesus crossing social barriers.
+- *Exegetical Clarity:* 2/5. The Greek is untouched. The movement of the conversation — Jesus offering living water, the woman's misunderstanding, the escalating revelation — is not tracked. The FCF (fallen condition: spiritual thirst, idolatry, futile substitutes) is named vaguely ("void") but not grounded in the text's own argument.
+- *Logical Faithfulness:* 3/5. No serious eisegesis, but the Huffington Post section and the Audio Adrenaline illustration push the sermon away from the text for an extended stretch with no return to the passage.
+
+**Category 2 — Theology & Doctrinal Integrity: 10/18**
+
+- *Christ-Centeredness:* 4/7. Jesus is present throughout, but as a social reformer and void-filler rather than as the divine Son who gives eternal life through his atoning work. The passage's own Christological climax — "I who speak to you am he" (v. 26), the first I AM declaration in John — is not preached.
+- *Redemptive-Historical Awareness:* 2/3. The betrothal type-scene and the five-husbands/five-nations parallel are genuine redemptive-historical moves and are the sermon's strongest theological work.
+- *Doctrinal Precision:* 2/4. Justification is absent. Sin is softened to "void" and "restlessness." The sermon's anthropology (a hole in the heart) is accurate as far as it goes but never rises to the level of moral guilt before God.
+- *Confessional Alignment:* 2/4. No contradictions to confessional theology, but no affirmations either. Doctrines of grace are untouched. The passage naturally invites sovereign initiative (Jesus came to her — she did not seek him), but this is not developed.
+
+**Category 3 — Gospel Centrality & Force: 6/15**
+
+- *Clarity of the Gospel:* 1/5. The gospel is gestured at ("believing and being saved," v. 39 reference) but never proclaimed. An unbeliever would leave knowing that Jesus offers something called "living water" and that he "fills the void," but would have no understanding of sin before a holy God, of Christ's substitutionary death, or of justification by faith.
+- *Necessity of Christ:* 3/5. Christ is not presented as optional, and the "only Jesus fills the void" refrain is clear. But necessity built on existential satisfaction ("fills the hole") is not the same as necessity built on atonement ("without his blood, you remain under wrath").
+- *Cross-Centered Gravity:* 2/5. The cross is never mentioned. The sermon moves toward Jesus as satisfier of restlessness rather than toward the cross as the ground of reconciliation.
+
+*Synagogue Test: Partially triggered.* A devout monotheist could sit through most of this sermon and understand Jesus as a wise, boundary-crossing spiritual teacher who offers deep fulfillment. The offense of the cross — the blood, the wrath, the substitution — is entirely absent. The gospel is not a scandal here.
+
+**Category 4 — Conscience & Applicatory Force: 8/15**
+
+- *Heart Penetration:* 3/5. The sermon does reach the affections, particularly through the sympathy extended to the woman and the Muhamasheen framing. The "void" diagnosis is emotionally resonant.
+- *Specificity:* 2/5. The application remains at the level of "fill the void with Jesus" rather than pressing on specific idolatries, specific patterns of misbelief, or specific sins the congregation carries.
+- *Spiritual Differentiation:* 3/5. The sermon addresses the broken and the restless with warmth. It never addresses the self-righteous, the knowledgeable-but-unmoved, or the backslider. Perkins' categories 1, 3, and 6 are untouched.
+
+**Category 5 — Exhortation & Response: 4/8**
+
+- *Call to Response:* 2/4. "Do you know him today?" is a call, but it is not a specific one. The congregation is not told what repentance looks like, what faith involves, or what it means to come to Christ. The sermon pivots abruptly from application to a lengthy section on Pastor Coates and prayer, diffusing whatever pressure the exhortation created.
+- *Equipping for Holiness & Witness:* 2/4. The missional note — "that's our job, Christians, to tell people about Christ" — is present and grounded in the woman's own response. This is a genuine strength. The equipping, however, is general rather than specific.
+
+**Category 6 — Structure & Logical Flow: 6/9**
+
+- *Clarity of Outline:* 2/4. There is a discernible movement: context → the void → Jesus fills the void → mission. But the sermon's second half loses coherence entirely. The transition from "only Jesus fills the void" to a multi-paragraph treatment of Pastor Coates' arrest is structurally disruptive and thematically disconnected from the passage.
+- *Progression:* 3/3. The early sections build well toward the "living water" application.
+- *Unity:* 1/2. The Pastor Coates section introduces a competing idea (religious liberty, civil disobedience, persecution) that consumes the sermon's closing minutes and displaces the gospel application.
+
+**Category 7 — Illustration & Imagination: 3/5**
+
+- *Relevance:* 1/2. The Huffington Post illustration is clever but runs too long. The Audio Adrenaline song is culturally situated (the preacher's teenage years) and may not land with all hearers.
+- *Clarity:* 1/2. The appendix/self-surgery illustration effectively makes the point that the void requires outside intervention. The parallel construction (child raised by wolves, dog with a wound) slightly overdevelops the same point.
+- *Memorability:* 1/1. The Muhamasheen framing is memorable and well-executed.
+
+**Category 8 — Sermonic Force: 3/5**
+
+- *Reads as Preaching:* 1/2. The sermon has a conversational, pastoral tone — it clearly comes from a real pastor who knows his congregation. But it reads more as a prepared talk than preaching. The direct address is occasional rather than sustained.
+- *Conviction on the Page:* 1/2. The "only Jesus" refrain has force, but the sermon lacks the kind of textual grounding density that produces authority. Assertions are made about the text more than from the text.
+- *Cadence and Breath:* 1/1. The prose is natural and readable. It breathes like a spoken sermon.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: 0 (no modifier applied)**
+
+The sermon is accessible. The argument is simple enough that the single mother, the high schooler, and the new believer can follow it. This is a genuine strength. The problem is not cognitive overload — it is cognitive underfill. The sermon is accessible but thin, not dense but navigable.
+
+---
+
+### 7. Total Score
+**Subtotal: 55/100**
+**Cognitive Load Modifier: 0**
+**Weight of Glory Bonus: +1** (the Muhamasheen framing carries genuine eternal weight; the pastoral warmth toward the marginalized is real)
+**Total: 56/100**
+
+*Interpretation: Fundamentally flawed. The fatal flaw flags are structural, not peripheral — the gospel is absent and the application undifferentiated. The sermon has a warm heart and some genuine insight, but it does not yet preach the passage. Rebuild from the text's own theological argument.*
+
+*Note: Score would be higher without fatal flaw caps. The sermon's pastoral instincts and contextual work score well in isolation. The cap is not punitive — it reflects that a sermon without a clear gospel is not yet a Christian sermon in the full sense.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Primarily myself (my void, my restlessness, my need). Christ is the answer to the self-focused question rather than the magnificent object who draws the eye away from self.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas about Him. The sermon teaches about Jesus' social courage and his filling capacity, but it does not bring the hearer before the living God in a way that produces awe, fear, or wonder.
+
+3. **Was I comforted, convicted, or merely informed?**
+Primarily informed and emotionally warmed. The sermon comforts the restless, but it does not convict. No one is cornered before God's holiness, no one is shown their sin as guilt before God, and no one is called to the cross as the only refuge.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The betrothal type-scene exegesis** is the sermon's best moment. The observation that John is writing in the literary key of Old Testament well-scene betrothal narratives — and that this signals Jesus as the divine bridegroom pursuing his bride — is exegetically sound, canonically aware, and genuinely illuminating. This is real expository work.
+
+2. **The Muhamasheen framing** is pastoral imagination at its best. Opening with a specific, named people group — a million souls with less than 0.1% evangelical presence — and closing the loop ("the Muhamasheen are that woman, waiting at the well") gives the passage missional urgency and global scope. This is exactly how a sermon on John 4 should land in a missions-minded congregation.
+
+3. **The pastoral sympathy extended to the woman** — reading her trajectory of loss (five husbands, possibly widowed, certainly marginalized) with compassion rather than judgment — models how to handle morally complex figures in the text. The congregation is shown a woman "profoundly touched by tragedy" rather than simply a sinner to be condemned, which accurately reflects how Jesus himself approaches her.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is never preached.** The sermon's entire application rests on "Jesus fills the void," but the passage's own gospel logic — that Jesus is the Christ who gives living water springing up to eternal life, that he is the I AM who has come to seek the lost — is never proclaimed with theological specificity. A lost person in the pew would leave knowing that Jesus offers deep fulfillment, but not knowing what sin is before God, what the cross accomplished, or what faith involves. This is a fatal structural failure, not a stylistic weakness.
+
+2. **The Pastor Coates section consumes the sermon's conclusion and displaces the gospel call.** Beginning at "That's our job — Christians" and running through the end, the sermon pivots from its text entirely. A multi-paragraph treatment of a Canadian pastor's arrest for COVID violations, the details of Canadian constitutional law, and civil disobedience theory — however legitimate as pastoral matters — has no place as the sermon's closing movement. The congregation's attention, warmed by the passage and ready for a gospel appeal, is redirected to a political-ecclesiastical controversy. Whatever exhortation the text demanded was lost.
+
+3. **The exposition of the text's theological center is absent.** John 4:13–14 — "Everyone who drinks of this water will be thirsty again, but whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life" — is the hermeneutical and theological core of the passage. These verses are not opened. John 4:26 — "I who speak to you am he" — is the passage's Christological climax, the first explicit I AM declaration in John's Gospel. It is not mentioned. The sermon preaches the human drama of the passage while bypassing its divine proclamation.
+
+---
+
+### 11. Blind Spots
+
+The preacher appears not to see the difference between *existential* gospel application ("Jesus fills the void you feel") and *forensic* gospel proclamation ("You are guilty before a holy God; Christ bore your guilt; repent and believe"). The sermon consistently works in the first register and never enters the second. This produces a warm, appealing message that will comfort the emotionally needy but will not reach the morally satisfied or the doctrinally informed skeptic. The "void" anthropology is true as far as it goes, but it does not go far enough — the human problem is not only emptiness, it is guilt, enmity with God, and condemnation. A gospel that only fills a felt need has not yet addressed the unfelt need.
+
+---
+
+### 12. Illusion of Strength
+
+The Audio Adrenaline song and the Augustine/C.S. Lewis trilogy of quotes *feel* like a strong theological section — three authoritative voices all confirming the "God-shaped hole." But this section creates the appearance of theological weight while actually holding the sermon at a popular-level anthropological claim. Augustine's restlessness is not a psychological observation; it is a theological declaration about the soul's orientation toward its Creator and its inability to rest in anything less than God himself. Lewis' longing argument has a specific apologetic logic. The sermon uses both as emotional illustrations rather than theological arguments, which dilutes them. The section feels learned but functions as extended emotional preparation for a shallow application.
+
+---
+
+### 13. Missed Opportunity
+
+The passage's own climax — Jesus' declaration "I who speak to you am he" (v. 26) — is the theological summit of the entire scene. The woman came to get water. She received a revelation of the Christ. This is John's point: a conversation about physical thirst becomes a revelation of the divine Son who alone can satisfy spiritual thirst. The sermon identifies the theme of spiritual thirst but never arrives at the Christological declaration that gives the theme its force. The preacher had an opportunity to stand at verse 26 and preach the I AM — the same divine name from the burning bush, now spoken to a rejected woman at a well in enemy territory — and call the congregation to marvel at the God who crossed every barrier to reveal himself to the least likely person. That moment, which is the passage's own climax, was walked past without acknowledgment.
+
+---
+
+### 14. Surgical Fixes (4)
+
+1. **Preach verses 13–14 and 25–26 directly.** The sermon's entire application depends on "living water," but those words are never exegeted. Open verse 13: "Everyone who drinks of this water will be thirsty again." Name the specific idols and substitutes the congregation reaches for — not abstractly, but concretely. Then open verse 14: "a spring of water welling up to eternal life." Explain what eternal life is, what it costs, and who gives it. Close the expository section at verse 26 with the I AM declaration and let it thunder.
+
+2. **Replace the Huffington Post section and extended illustration chain with a direct gospel statement.** The appendix/self-surgery illustration works and can stay, compressed to one paragraph. Remove the Huffington Post article entirely — it adds length without depth. Redirect the space to a clear articulation of the gospel: humanity's problem is not only a felt void but actual guilt before a holy God; the living water Jesus offers is not merely fulfillment but forgiveness, reconciliation, and eternal life purchased at the cross.
+
+3. **Cut the Pastor Coates section entirely, or relocate it to a separate pastoral address.** The sermon's conclusion should move from the woman's evangelism (v. 28–29) to a direct, differentiated call: to the restless — "come to Christ"; to the converted — "go and tell"; to the self-sufficient — "your wells will run dry." The Pastor Coates material, however important, belongs in a Sunday morning pastoral update or a different sermon, not as the closing movement of a John 4 exposition.
+
+4. **Add a direct address to the self-righteous and the knowledgeable-but-unmoved.** The sermon addresses the broken and the restless with pastoral warmth, but it never speaks to the person in the pew who is morally satisfied, theologically informed, and spiritually cold. John 4's own context provides the tool: the disciples were off getting food while Jesus was doing mission. The Pharisees were watching Jesus' baptizing activity from a distance (4:1). The self-righteous are present in the narrative. Address them directly: "Some of you know this passage. You know the theology. But you are no less thirsty than this woman — you have just built better-looking wells."
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** This sermon does not score high enough in exposition or theology to trigger the dead orthodoxy diagnostic. The concern here is not bloodless correctness but incomplete proclamation — the sermon is warm and pastoral but theologically thin, not cold and precise.
+
+---
+
+### 16. Weight of Glory Statement
+The sermon carries genuine pastoral warmth and missional urgency — the Muhamasheen framing in particular gives it a weight that reaches beyond Sunday — but it does not yet carry the eternal gravity of the text's own proclamation, because the I AM who spoke to the woman at the well never speaks from this pulpit.
+
+---
+
+### 17. Rubric Fit Note
+John 4 is a narrative passage, and the rubric's categories apply cleanly. Narrative passages sometimes strain the exposition scoring because the preacher's task is not only to unpack propositions but to follow a story's arc and let the scene speak. This sermon engages the narrative arc well and handles the scene's human drama with appropriate care. The rubric's gospel centrality and conscience categories, however, are not strained by the narrative genre — John 4 is one of the most explicitly gospel-laden passages in the Fourth Gospel, and the categories press appropriately. The genre does not excuse the missing gospel.
+
+*Thus Says the Lord Evaluation — completed March 21, 2026*

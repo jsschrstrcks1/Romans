@@ -139,3 +139,162 @@ Not just because the Bible says not to — but because of WHY the Bible says not
 ---
 
 **Gospel.**
+
+---
+
+---
+
+# Thus Says the Lord — Sermon Evaluation
+
+**File**: Proverbs 13 (raw draft).md
+**Text**: Proverbs 13 (key verse: v. 20)
+**Theme**: Generational gaps — listening to instruction, the Puritan example, cultural drift
+**Status Evaluated**: Corrected raw draft (five flag items resolved, March 2026)
+**Evaluator**: Thus Says the Lord Rubric
+**Date**: 2026-03-22
+
+---
+
+## 1. Verdict Title
+
+**A Culturally Sharp Generation-Gap Sermon That Lands on the Right Verse but Leaves the Gospel as a Placeholder**
+
+---
+
+## 2. One-Sentence Summary
+
+A pastorally timely sermon on Proverbs 13:20 — "whoever walks with the wise becomes wise, but the companion of fools will suffer harm" — that opens with a striking Paul Washer illustration about Puritan theological depth, documents the cultural drift from Scripture-saturated education toward entertainment-saturated passivity, and calls the congregation to model and transmit godly wisdom, but ends with "[Gospel.]" as a blank placeholder where the most important content belongs.
+
+---
+
+## 3. Berean Gate
+
+**PASS — with placeholder concern**
+
+**Scopus Test**: "The companion of fools will suffer harm — and our children are being formed by fools; we must be the wise, walk with the wise, and pass wisdom down through one household at a time." Demonstrably arises from Proverbs 13:20. Pass.
+
+**Authority Test**: The cultural slide is named without softening. "Not just because the Bible says not to — but because of WHY the Bible says not to. Because these things are sin. Because sin separates us from God." Clear doctrinal grounding for ethical behavior. Pass.
+
+> **Placeholder concern**: "[Gospel.]" at the end of the draft is the entire gospel section. The sermon closes with an exhortation to raise wise children and then offers a blank line where the gospel is supposed to be. Every sermon should land Christ's finished work on the conscience of every hearer, believer and unbeliever alike. This is not a raw-draft artifact — it is a pattern observed in multiple files in this corpus. The gospel placeholder must be written out, not deferred.
+
+---
+
+## 4. Fatal Flaw Flags
+
+**None triggered** — Christ is referenced in the exhortation ("dependent upon Christ," "love your Savior," "put Christ first"), and the connection between sin and separation from God is explicit. The gospel is not *absent*; it is *deferred to a placeholder*.
+
+---
+
+## 5. Score Breakdown
+
+### 1. Exposition & Hermeneutics — 12/25
+
+- **Textual Fidelity (4/10)**: The sermon announces "Proverbs chapter 13" as its text. Of the 25 verses in Proverbs 13, only three appear in the body: v. 1 ("A wise son hears his father's instruction, but a scoffer does not listen to rebuke"), v. 24 ("Whoever spares the rod hates his son, but he who loves him is diligent to discipline him"), and v. 20 ("Whoever walks with the wise becomes wise, but the companion of fools will suffer harm"). The sermon's argument is substantially a cultural analysis illustrated from the Washer illustration and the Live PD story, with the text providing a frame rather than a foundation.
+- **Contextual Awareness (3/5)**: Proverbs 13's genre (wisdom literature, generational instruction, the righteous vs. the fool) is understood and the cultural commentary arises naturally from the text's concern. The Puritan education comparison is historically appropriate for a Proverbs sermon.
+- **Exegetical Clarity (3/5)**: Proverbs 13:20 is the landing verse and its argument is correctly stated: you become like those you walk with. The sermon extends this correctly to cultural formation, entertainment, and parental example.
+- **Logical Faithfulness (2/5)**: The move from Proverbs 13 to Puritan schoolbooks to Google Ngram to Common Sense Media to Live PD is culturally relevant but textually distant. The sermon uses the text as a platform rather than expounding it.
+
+**FCF**: "Our children are being formed by fools rather than by the wise — and we are allowing it." Named through the screen time comparison and the Live PD story. Well-identified.
+
+### 2. Theology & Doctrinal Integrity — 11/18
+
+- **Christ-Centeredness (3/7)**: Christ is present as the destination of the exhortation ("dependent upon Christ," "put Christ first," "love your Savior") but is not the center of the sermon's argument. The sermon's engine is wisdom formation, not Christ-centered transformation. The missing move: Proverbs 13's wisdom is ultimately Christ (1 Corinthians 1:30: "Christ Jesus, who became to us wisdom from God"). The sermon does not make that connection.
+- **Redemptive-Historical Awareness (2/3)**: The cultural drift from Scripture-saturated Puritan education to public school secularism is a legitimate redemptive-historical observation. No canonical arc is traced.
+- **Doctrinal Precision (3/4)**: "Murder... unheard of. Adultery... almost unheard of... because sin separates us from God." This is correct and more theologically grounded than most wisdom-sermon applications.
+- **Confessional Alignment (3/4)**: Scripture as authority, sin as the root issue, Christ as the answer — all present, though understated.
+
+### 3. Gospel Centrality & Force — 7/15
+
+- **Clarity of the Gospel (2/5)**: The gospel is a placeholder. Christ is named but his atoning work — what he did, why it matters for every hearer tonight — is not stated. The closest the sermon gets is "because sin separates us from God" and "put Christ first" — which imply the gospel without proclaiming it.
+- **Necessity of Christ (2.5/5)**: The exhortation ("raise them to love God") assumes Christ without presenting him. The "dependent upon Christ" framing implies necessity but does not explain it.
+- **Cross-Centered Gravity (2.5/5)**: The cross does not appear in this sermon. The gospel placeholder at the end is the place where the cross should land.
+
+**This is the corpus's lowest Gospel Centrality score**. Every sermon in this corpus should be able to answer: where does Christ die for sinners in this message? This one cannot.
+
+### 4. Conscience & Applicatory Force — 11/15
+
+- **Heart Penetration (4/5)**: "What we teach our seminarians today is less comprehensive than what we taught 7–12 year olds a few hundred years ago. What does that mean for the average Christian then?" This is a conscience-disturbing comparison delivered with appropriate weight. The Live PD story about the kid who knows better than adults is universally relatable for parents and grandparents.
+- **Specificity (4/5)**: The Paul Washer story is specific and documented. The Live PD story is local, specific, and captures the attitude the sermon is confronting. The chemistry lab hydrogen explosion is memorable.
+- **Spiritual Differentiation (3/5)**: The sermon differentiates parents, grandparents, and the children being raised — but does not differentiate believers from unbelievers within the congregation. The closing gospel placeholder was the place for that.
+
+### 5. Exhortation & Response — 5/8
+
+- **Call to Response (2.5/4)**: "We are going to have to BE different. We're going to have to THINK different. We're going to have to LIVE different." Three-part call with good rhetorical shape. "It all starts with you" is direct. But the call is to cultural counter-formation, not to repentance and faith.
+- **Equipping (2.5/4)**: "Read your Bible daily. Be in fellowship. Walk with the wise" — these are specific and actionable. The Puritan comparison functions as a positive target: "here's what theological depth looked like when Scripture was the center of everything."
+
+### 6. Structure & Logical Flow — 6/9
+
+- **Clarity of Outline (2.5/4)**: Three sections can be traced: (1) Puritan depth / current decline (Washer illustration); (2) Cultural shift — public school, screen time, entertainment culture; (3) Proverbs 13:20 — walk with the wise, recover it household by household. Clear enough, though the Science / Fortnite tangent between sections II and III is loose.
+- **Progression (2.5/3)**: The escalation from historical loss → current cause → present call is coherent.
+- **Unity (1/2)**: The Puritan illustration, the Live PD story, and Proverbs 13:20 are connected by the "generational wisdom transmission" theme. The chemistry lab illustration is the least connected element.
+
+### 7. Illustration & Imagination — 4/5
+
+- **Relevance (2/2)**: The Paul Washer Puritan logic primer story is perfectly calibrated for the sermon's thesis — a seminary-trained pastor humbled by a primary school textbook. The Live PD motorcycle story is locally specific and emotionally resonant.
+- **Clarity (1/2)**: The chemistry lab hydrogen explosion is memorable but the theological point ("science should be kept in its proper perspective — kneeling at the cross of Christ") is underdeveloped. The illustration earns the laugh but not the lesson.
+- **Memorability (1/1)**: "The level and depth of theological education of the 1600s Puritan child was as great — or greater — than his own modern 21st century pastoral seminary education." This claim will go home.
+
+### 8. Sermonic Force — 3/5
+
+- **Reads as Preaching (1.5/2)**: The Washer illustration and the closing exhortation read as preaching. The screen time statistics and Google Ngram section reads as lecture.
+- **Conviction on the Page (1/2)**: "Garbage in, garbage out" is a cliché that softens what could be a sharper point. The closing exhortation has genuine conviction but the gospel placeholder cancels it.
+- **Cadence and Breath (0.5/1)**: Raw draft — needs shaping.
+
+---
+
+## 6. Cognitive Load Modifier — 0
+
+Accessible content. The Puritan background requires a brief orientation (provided). Screen time statistics are familiar. No unusual theological complexity.
+
+---
+
+## 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 12/25 |
+| Theology & Doctrinal Integrity | 11/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 11/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **59/100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | 0 |
+| **TOTAL** | **60/105** |
+
+**Interpretation**: Significant work needed. The cultural analysis is sharp and the illustrations are good, but the sermon currently informs more than it redeems. The gospel placeholder is the critical fix.
+
+---
+
+## 8. Strengths (Top 3)
+
+1. **The Paul Washer Puritan logic primer illustration**: Documented, specific, and theologically devastating in the best sense. A seminary-trained pastor with advanced degrees in philosophy, logic, and theology — struggling with a textbook written for 7-year-olds. The illustration does everything the sermon needs it to do: it names the size of the loss, gives it a human face, and creates the desire to recover what was lost. The flag-verified version (say "a book on logic," "schoolmaster," not a named title) is exactly right.
+
+2. **The Live PD diversion program story**: "Kids just don't think adults know what they're talking about." The deputy's observation — that only 1 in 10 kids complete the diversion program — and his explanation of why (they believe they know better) is a precise illustration of Proverbs 13:1 ("a scoffer does not listen to rebuke"). This is the rare topical illustration that actually illuminates the text rather than replacing it.
+
+3. **The closing exhortation's civic theology**: "Murder among the Puritans was all but unheard of. You know why? The Bible says not to... Not just because the Bible says not to — but because of WHY the Bible says not to. Because these things are sin. Because sin separates us from God." This is a more honest and more theologically precise argument for Christian ethics than "the Bible says so, period." It grounds the Proverbs 13 application in the nature of sin and its relational consequence — separation from God — rather than in mere rule-following.
+
+---
+
+## 9. Critical Weaknesses (Top 3)
+
+1. **The gospel is a placeholder**: "[Gospel.]" This is not a gospel presentation. This is the sermon's most important word and it is blank. Every hearer — the parent who has already failed to transmit faith, the adult child who stopped believing, the visitor who has never heard — needs to encounter the grace that makes change possible. Proverbs 13:20's call to "walk with the wise" finds its ultimate referent in Jesus Christ, who is wisdom (1 Corinthians 1:30). The sermon calls people to walk with the wise without presenting the Wisest One who died for their foolishness.
+
+2. **The text of Proverbs 13 is underused**: Only three of twenty-five verses are engaged, and even those are more referenced than expounded. Proverbs 13 has rich material directly relevant to the sermon's theme: v. 1 (the wise son listens to instruction), v. 10 (by insolence comes nothing but strife), v. 18 (poverty and disgrace come to him who ignores instruction), v. 20 (the companion of fools will suffer harm), v. 24 (discipline as love). Working through four or five of these verses — showing how Proverbs 13 consistently reinforces the theme — would both ground the sermon and give it more authority.
+
+3. **Christ is never named as the Wise One in whom all wisdom finds its source**: 1 Corinthians 1:30 and Colossians 2:3 ("in whom are hidden all the treasures of wisdom and knowledge") are the canonical answer to Proverbs 13:20. Walking with the wise is not ultimately about Puritan education or screen-time limits — it is about abiding in Christ, the one in whom all wisdom is hidden. Without this move, the sermon calls people to a cultural standard (Puritanism) rather than to a person (Christ), and the congregation is left motivated but not transformed.
+
+---
+
+## 10. Surgical Fixes
+
+1. **Write the gospel section — here is a draft**:
+> "Here's the real problem with wisdom formation — and why it fails without Christ. You can raise your children in the most Scripture-saturated home imaginable, read Proverbs every morning, send them to classical Christian school, and still watch them walk away. Because wisdom, in the end, is not a curriculum. It is a Person. Paul writes in Colossians 2 that in Christ 'are hidden all the treasures of wisdom and knowledge.' The Proverbs 13:20 call to walk with the wise is, at its deepest level, a call to walk with Jesus Christ — the one who is wisdom from God (1 Corinthians 1:30). And to walk with him, you need to know him. Not know about him — know him. That begins with this: you are a sinner. The wisdom gap we've been talking about tonight is a symptom of a deeper disease. Sin separates us from God, from wisdom, and from the life we were made for. Christ came to close that gap. He lived the wise life Adam and the Puritans and you and I have failed to live. He died for the foolishness we have lived. He rose to give us new life — a life in which the fear of the Lord, the beginning of wisdom, becomes possible again. If you've never trusted him, tonight is a wise time to start."
+
+2. **Add 1 Corinthians 1:30 to the text base**: In the closing section, when the sermon calls the congregation to "walk with the wise," add: "And who is the ultimate Wise One? Paul tells us in 1 Corinthians 1:30: 'Christ Jesus, who became to us wisdom from God.' Proverbs 13:20 ends — and begins — with him."
+
+3. **Cut the chemistry lab illustration**: It earns a laugh but the point (science should kneel before Scripture) is made more powerfully in the Isaiah 40:22 paragraph that precedes it. The lab explosion is entertaining but interrupts the flow and dilutes the main argument.
+

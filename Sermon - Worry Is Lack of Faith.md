@@ -179,3 +179,143 @@ That, however, starts with the Gospel.
 **Relationship to existing manuscripts:**
 - `Sermon - Be Anxious for Nothing.md` — a distinct finished sermon on the same passage (Philippians 4:4–7) from earlier in the COVID period, built around the seminary friend's story, the storm-in-Rome illustration, and a prayer-meeting close. That is a separate message. No content from that file has been imported here.
 - `Other-Sermons/Sermons/Philipians 4.md` — raw notes for the same earlier sermon. The raw notes for the present sermon were provided directly by the pastor.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Pastoral Warmth Without a Gospel Floor: A Faithful Call to Trust Held Up by a Missing Pillar**
+
+### 2. One-Sentence Summary
+A warm, personally grounded opening of Philippians 4:4–7 and Matthew 6:25–34 that genuinely presses worry as a faith failure and applies the text to real congregational fears, while leaving the gospel itself as a bracketed placeholder rather than a proclaimed foundation.
+
+### 3. Berean Gate
+**Pass — with qualification.**
+
+*Scopus Test:* The thesis — "worry is lack of faith in God; the command is to bring your anxiety to God and receive his peace" — is a demonstrable reading of Philippians 4:6–7 and Matthew 6:25–34. The sermon's main point is the text's main point. Pass.
+
+*Authority Test:* The preacher submits to the text's commands. He applies them unflinchingly — to COVID, to finances, to grief, to cancer — without softening the "nothing" in "be anxious about nothing." Pass.
+
+Qualification: The sermon is built on two texts, and the relationship between them is not argued — they are placed side by side without showing how the Sermon on the Mount's "seek first the kingdom" intensifies or completes the Philippians command. The dual-text structure is homiletically permissible but hermeneutically underdeveloped.
+
+### 4. Fatal Flaw Flags
+**Flag Triggered: No clear gospel presentation.**
+
+The sermon closes with *[Gospel presentation and prayer.]* — a stage direction, not a gospel. The manuscript treats the gospel as a note to self appended after the final illustration ("That, however, starts with the Gospel"). The blood of Christ, justification, penal substitution — none of these appear in the body of the sermon. The peace promised in verse 7 is not grounded in what Christ accomplished on the cross. The sermon tells hearers to bring their anxiety to God but does not explain why God would receive them, how they can have peace with God to begin with, or what "in Christ Jesus" (v.7) actually means.
+
+This is fatal flaw #1 (no clear gospel presentation) and fatal flaw #3 (Christ is absent or unnecessary — the sermon's argument stands without the incarnation, atonement, or resurrection).
+
+**Score capped at 69.**
+
+No other fatal flaw flags triggered. The sermon is accessible, specific, and does exhort.
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 18 / 25**
+- *Textual Fidelity (10):* 7 — The sermon faithfully derives its argument from both texts. The doubled "rejoice" command is handled well (noting the Greek emphasis). The "peace that surpasses understanding" is treated as a real promise contingent on prayer. However, verse 5 ("Let your reasonableness be known to everyone. The Lord is at hand") receives no treatment — a significant omission. "The Lord is at hand" as eschatological grounding for the command to rejoice goes untouched.
+- *Contextual Awareness (5):* 3 — Paul's imprisonment context is mentioned and handled well. The Sermon on the Mount is brought in without establishing its connection to Philippians. The FCF (Fallen Condition Focus) is named — worry as unbelief — but not shown to be the text's own diagnosis of the human condition; it is introduced from Stephen Davey before the text is read.
+- *Exegetical Clarity (5):* 4 — The Greek repetition of "rejoice" is a genuine exegetical note that illuminates the text. The Greek work is thin elsewhere but what exists is accurate and congregation-level appropriate.
+- *Logical Faithfulness (5):* 4 — No eisegesis detected. The COVID applications are drawn from the text's own logic ("be anxious about nothing — there is no footnote").
+
+**2. Theology & Doctrinal Integrity — 12 / 18**
+- *Christ-Centeredness (7):* 4 — "In Christ Jesus" in verse 7 is not exposited. The sermon references the Savior in eschatological terms (seeing Christ in glory) and in the closing tag ("starts with the Gospel"), but Christ's mediatorial role — that the peace of God comes through the peace with God purchased at the cross — is absent. The Christ-reference is present but thin.
+- *Redemptive-Historical Awareness (3):* 2 — The slavery illustration and the slaves' spirituals gesture toward suffering in the redemptive story, but redemptive history as a framework is not deployed.
+- *Doctrinal Precision (4):* 3 — The definition of worry as lack of faith is theologically tight. The eschatology (Phil. 1:21, the eternal perspective) is accurate and well-deployed. No false teaching detected.
+- *Confessional Alignment (4):* 3 — No contradiction of confessional theology. The Doctrines of Grace are not in view in this text, and the sermon does not force them in. The implicit anthropology (we are limited, broken, finite) is sound.
+
+**3. Gospel Centrality & Force — 5 / 15**
+This is the sermon's most significant failure. The bracket *[Gospel presentation and prayer]* is not a gospel. The peace described in verse 7 — "the peace of God" — is not the same as peace with God through justification, but the two are inseparable: the peace of God flows from the peace with God. The sermon offers the fruit without the root.
+
+- *Clarity of the Gospel (5):* 1 — Not present in the manuscript body.
+- *Necessity of Christ (5):* 2 — Christ appears eschatologically and devotionally but not soteriologically. The sermon would survive largely intact in a Jewish or Islamic context (with minor modifications). The Synagogue Test is triggered.
+- *Cross-Centered Gravity (5):* 2 — The final illustration (the dog waiting for the treat) is charming and the application to eternal reward is sound, but the pivot to "that starts with the Gospel" is a gesture, not a proclamation. The sermon's gravitational center is practical trust, not the cross.
+
+**4. Conscience & Applicatory Force — 11 / 15**
+This is the sermon's clearest strength.
+- *Heart Penetration (5):* 4 — The mom-and-Ellisha story is genuinely searching. "That worry says something to God. It says: you are not capable of taking care of this person. That's where it becomes sin. That's the line." This is precise conscience work.
+- *Specificity (5):* 5 — The anaphoric sequence (COVID, the vaccine, the cancer diagnosis, the financial collapse, the child who is struggling) is a genuine homiletical achievement. The preacher names real fears his real congregation is carrying. Full marks here.
+- *Spiritual Differentiation (5):* 2 — The sermon primarily addresses believers who are struggling to trust. The unbeliever, the hardened, the backslider, and the humbled-but-not-yet-believing are not distinguished. The application is consistent but not differentiated.
+
+**5. Exhortation & Response — 6 / 8**
+- *Call to Response (4):* 3 — The exhortation is clear: bring your anxiety to God in prayer with thanksgiving. The command is direct and repeated. The "therefore" moment is present but not sharply climactic.
+- *Equipping for Holiness & Witness (4):* 3 — The eternal perspective section ("for the Christian, this world is the only hell we will ever experience") is powerful equipping material. The sermon does not address corporate witness or mutual edification.
+
+**6. Structure & Logical Flow — 7 / 9**
+- *Clarity of Outline (4):* 3 — The sermon moves: worry defined → worry is sin → the command to rejoice → practical application of the command → eternal perspective → second text → final illustration. The logic is followable, but the two-text structure creates mild structural drift.
+- *Progression (3):* 2 — The sermon builds to the eschatological section well, then the Matthew 6 text arrives as a second sermon rather than a resolution. The movement stalls slightly before recovering with the dog illustration.
+- *Unity (2):* 2 — One dominant idea throughout. Unified.
+
+**7. Illustration & Imagination — 4 / 5**
+- *Relevance (2):* 2 — The sheep-and-dogs story, the dog treat story, the mom-and-Ellisha story, the football locker room — all are native to this congregation and this preacher. No borrowed or generic illustrations.
+- *Clarity (2):* 2 — Each illustration illuminates its point cleanly. The finite-information illustration (dogs and sheep, imperfect text message) is particularly effective for grounding the argument that God's knowledge exceeds ours.
+- *Memorability (1):* 0 — The dog treat illustration is charming but too light to carry the weight of the sermon's close. A congregation will remember the anaphora more than the final image.
+
+**8. Sermonic Force — 4 / 5**
+- *Reads as Preaching (2):* 2 — Oral cadence is present throughout. "Rejoice. But not in earthly things." "So what." Short sentences at pressure points. The manuscript is clearly a preaching manuscript, not an essay.
+- *Conviction on the Page (2):* 2 — The anaphoric section is the manuscript's most powerful moment. The ratio of Scripture-grounded assertion to general statement is adequate.
+- *Cadence and Breath (1):* 0 — The manuscript does not have a moment where it genuinely roars. The tone is warm and pastoral throughout — which is appropriate — but even a warm sermon should have one moment of altitude. The closest is "So what. It only gets better from here." — which has real force but arrives without sufficient build.
+
+### 6. Cognitive Load Modifier
+**0** — The sermon is accessible to a wide range of hearers. The logic is clear, the illustrations are concrete, and the congregation can track the main argument without difficulty. No deduction.
+
+### 7. Total Score
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 18 / 25 |
+| Theology & Doctrinal Integrity | 12 / 18 |
+| Gospel Centrality & Force | 5 / 15 |
+| Conscience & Applicatory Force | 11 / 15 |
+| Exhortation & Response | 6 / 8 |
+| Structure & Logical Flow | 7 / 9 |
+| Illustration & Imagination | 4 / 5 |
+| Sermonic Force | 4 / 5 |
+| **Subtotal** | **67 / 100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **69** |
+
+**Score capped at 69 due to fatal flaw flags #1 and #3.**
+
+*Interpretation: Concerning gaps. The sermon explains and applies but has not yet become preaching in the full sense because its gospel center is a placeholder.*
+
+### 8. Core Override Questions
+1. *Does this sermon make me think more of Christ — or myself?* — Primarily of trusting God more, with Christ appearing mainly as the eschatological reward. The answer is "more of myself and my anxiety" — which is the text's appropriate starting point, but the sermon does not complete the turn toward Christ.
+2. *Did I encounter God, or just ideas about Him?* — Partially. The anaphoric application section presses toward encounter. The eschatological section is genuinely moving. But the God encountered here is primarily the sovereign caretaker, not the crucified and risen Savior.
+3. *Was I comforted, convicted, or merely informed?* — Both comforted and convicted. The conscience work is real. The comfort is genuine but lacks its proper ground (the atonement).
+
+### 9. Strengths (Top 3)
+1. **The anaphoric application sequence** (pp. "When you're afraid because of COVID…") is a genuine homiletical achievement. The preacher names real congregational fears and applies the same text-governed answer to each one without condescension. This is specific, textual, and pastorally courageous.
+2. **The conscience-naming moment**: "That worry says something to God. It says: you are not capable of taking care of this person. That's where it becomes sin. That's the line." — This is precise diagnostic work. It moves from illustration to doctrine to conscience in a single turn.
+3. **The eschatological turn**: The section on Phil. 1:21 and the Christian's death ("So what. It only gets better from here.") is pastorally strong. The image of eternal joy washing away earthly sorrow "like dirt being hosed off" is vivid and theologically sound.
+
+### 10. Critical Weaknesses (Top 3)
+1. **The gospel is a stage direction.** The manuscript closes with *[Gospel presentation and prayer.]* — not a gospel. "In Christ Jesus" (Phil. 4:7) — the phrase that grounds all of Paul's promised peace — receives no exposition. The sermon promises the fruit (peace) without the root (justification). This is the sermon's defining failure.
+2. **Verse 5 is entirely absent.** "Let your reasonableness be known to everyone. The Lord is at hand" — the eschatological urgency behind the command to rejoice — goes untreated. The sermon's eschatological section would be strengthened if it were grounded in this verse rather than inserted freestanding.
+3. **The second text (Matthew 6:25–34) arrives without argumentative connection.** The Matthew passage is introduced after a full sermon has already been preached. It adds weight but does not deepen or resolve what Philippians started. The result is a second opening rather than a climax.
+
+### 11. Blind Spots
+The preacher likely does not see that the structural elegance of the anaphoric section — the same answer to every fear — obscures the gospel's absence. The passage through verse 6 is handled well enough that the sermon *feels* complete. But verse 7 is the payoff verse ("the peace of God... will guard your hearts and your minds *in Christ Jesus*"), and it receives no exposition. The preacher preaches the command (v.6) but not the promise's foundation (v.7, "in Christ Jesus"). The sermon stops one verse short of its own finish line.
+
+### 12. Illusion of Strength
+The anaphoric sequence is so rhetorically effective that it creates the impression the sermon has accomplished something it has not. The hearer leaves knowing what to do (pray, don't worry) but not why God can be trusted in the deepest sense — not because he is a sovereign caretaker of birds and lilies, but because he gave his Son for sinners. The practical application feels complete. The theological foundation is hollow.
+
+### 13. Missed Opportunity
+"In Christ Jesus" (Phil. 4:7) is the most loaded theological phrase in the passage and it receives zero exposition. This is where the sermon should have turned from application to gospel: the peace that surpasses understanding is available only to those who are in Christ — which means the sermon's invitation is implicitly addressed only to the already-converted, and even for them the ground of peace (union with Christ through faith) is unexplored. The phrase is a hinge the preacher walked past.
+
+### 14. Surgical Fixes
+1. **Expand *[Gospel presentation and prayer]* into actual manuscript.** The closing illustration (the dog treat) ends well. Follow it immediately with: "But this only works if you're *in* Christ. How do you get there? Here is what Christ has done." Then preach justification by faith. The stage direction must become proclamation.
+2. **Expose "in Christ Jesus" in verse 7.** After the anaphoric section, before the Matthew 6 passage, add a paragraph: "Notice Paul doesn't just say 'the peace of God will guard your hearts.' He says it will guard them *in Christ Jesus.* This peace isn't available to everyone — it belongs to those who belong to him. And the only way to belong to him is through the cross." This bridges the gap between the practical application and the gospel close.
+3. **Treat verse 5 before verse 6.** "The Lord is at hand" is Paul's reason for the command to rejoice and the command against anxiety. A brief paragraph: "Paul grounds both commands in one fact: *the Lord is at hand.* He's coming. He's near. That changes everything about how we hold our fears." This deepens the eschatological section that already works well.
+4. **Differentiate hearers in the anaphoric sequence.** The sequence currently addresses everyone identically. Add one turn toward the unbeliever: "And if you're here this morning and you don't know Christ — your anxiety tells you something important. You were made for a peace you don't yet have. Come to him."
+5. **Cut the Matthew 6 passage or integrate it.** Either use Matthew 6 as the exposition text and Philippians 4 as the confirmation — or drop to a single reference. As currently structured, Matthew arrives too late to be the main text and too early to be a capstone.
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon is warm, personal, and the conscience work is genuine. The failure here is not bloodless orthodoxy — it is an incomplete gospel, not a cold one.
+
+### 16. Weight of Glory Assessment
+The sermon carries genuine pastoral heat and eschatological seriousness — the section on dying as gain is one of the finest moments in the manuscript — but the absence of the cross means the eternal weight the sermon reaches for is not fully supported by its own foundation.
+
+**Bonus: +2 / 5** — Real gravity is present in the eschatological material. The full five are withheld because the gospel that would give the sermon its ultimate eternal weight is bracketed out.
+
+### 17. Rubric Fit Note
+This is a wisdom/ethical passage with strong imperatival force (Pauline epistle + dominical teaching in Matthew 6). The rubric fits well. The Law/Gospel dialectic applies directly: the sermon's strength is its law use (worry named as sin, conscience pressed) and its weakness is precisely the gospel that should follow. No genre strain. The rubric's gospel-centrality categories apply without bending.

@@ -126,3 +126,208 @@ without resolving flagged items below.
     Sermon says "strive" — ESV reads "strife." Also "murders" should be "murder" (ESV).
     These are spoken/transcription variants, not doctrinal issues, but correct before
     printing or publishing.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+A Warmhearted Opening of Psalm 1 That Arrives at the Gospel Too Late and Too Briefly
+
+---
+
+### 2. One-Sentence Summary
+A friendly, conversational opening of Psalm 1 that handles the text's major movements with genuine pastoral warmth, includes a meaningful Christological reading, and presses toward the fork-in-the-road appeal — but allows the gospel to remain a stub at the close rather than the sermon's gravitational center throughout.
+
+---
+
+### 3. Berean Gate Result
+**PASS** — with qualification.
+
+**Scopus Test**: The sermon's thesis is identifiable: blessed joy belongs to the one anchored in God's Word; the wicked face ruin through progressive moral hardening. This arises directly from Psalm 1's own argument. Pass.
+
+**Authority Test**: The preacher does not stand above the text as editor. He submits to the text's structure (walks/stands/sits, the tree/chaff contrast, the two ways) and does not soften its warnings. The Andrew Stanley and "compromise with culture" asides actually reinforce the text's authority rather than diluting it. Pass.
+
+Qualification: The sermon is text-referenced more than text-driven in its middle sections. The dog illustrations and the Yogi Berra introduction consume significant real estate before the exposition resumes. The text is present but does not always govern the movement.
+
+---
+
+### 4. Fatal Flaw Flags
+**Flag Triggered: Fatal Flaw #1 — No clear gospel presentation.**
+
+The sermon ends with "But it all starts with the gospel. Gospel." This is a placeholder, not a proclamation. The finished work of Christ — his substitutionary atonement, his death for sinners, justification by faith — is never articulated. The Christological section (vv. 1–3 read as a picture of Christ) is the sermon's strongest moment, but it stops short of explaining *why* Christ's perfection matters for the sinner sitting in that pew. "Christ threw down his body so that we might have freedom from sin" (para. 19) is the closest the sermon comes, and it is underdeveloped.
+
+**Score is capped at 69.**
+
+**Flag Triggered: Fatal Flaw #4 — Application is largely generic.**
+
+The application calls are sincere but thin: "Will you turn from your own judgement and embrace what actually is good?" and "Stop right there, turn around and run back to Christ." These are standard altar-call phrases, not differentiated pastoral address. The sermon does not press specific sins, specific idols, specific patterns of hardening. The dog illustration is warm and relatable but does not land on any particular hearer's conscience.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 17/25**
+
+- *Textual Fidelity* — 7/10: The sermon covers Psalm 1's core movements: the two ways, the blessed man, the tree/chaff contrast, the downward progression of sin. The text is read aloud and referenced throughout. However, the exposition is often surface-level. Key verses (4–6) receive summary treatment ("these are the people Psalm 1:4–6 is talking about") rather than careful explication. The professor's thesis about Psalms 1–2 as a gateway to the whole Psalter is introduced but not developed.
+- *Contextual Awareness* — 3/5: The sermon correctly identifies Psalm 1 as an introduction to the Psalter. The canonical scope is gestured at. The relationship to Psalm 2 is named but unexplored — the Messiah appears only in an indirect typological reading, not in the explicit royal-Davidic eschatology that Psalms 1–2 actually announce together.
+- *Exegetical Clarity* — 4/5: The *asher* (blessed) word study is handled accessibly. The delight/*hafetz* study is also useful. The walks/stands/sits progression is noted. These are genuine expository contributions.
+- *Logical Faithfulness* — 3/5: No significant eisegesis. The Christological reading of vv. 1–3 is legitimate and the preacher is careful to frame it as a "picture." However, the illustration excursions (Yogi Berra, dog, banana tree, dog again) break the text's logical flow significantly.
+
+**Fallen Condition Focus**: Present but diffuse. The sermon assumes fallenness rather than naming the specific condition Psalm 1 addresses: the temptation to find counsel, community, and identity outside of God's Word. The FCF is implied in the "fork in the road" framing but never named with surgical precision.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+
+- *Christ-Centeredness* — 4/7: The Christological section is the sermon's highlight. Walking through vv. 1–3 as a portrait of Christ is exegetically defensible and pastorally useful. However, the connection does not reach its destination: if Christ is the blessed man, what does that mean for those who are not? The organic move from Christ's righteousness to our union with him and imputed righteousness is absent.
+- *Redemptive-Historical Awareness* — 2/3: The placement of Psalm 1 in the Psalter's canonical flow is noted. The professor's gateway thesis is referenced. But redemptive-historical placement into the whole Bible's story is minimal.
+- *Doctrinal Precision* — 3/4: No doctrinal errors. The sermon is theologically safe. The references to sin, judgment, and the dangers of drifting are sound. However, the gospel itself is imprecise — "freedom from sin" is too vague to do doctrinal work.
+- *Confessional Alignment* — 3/4: No contradictions of confessional theology. The sermon affirms biblical authority strongly (the Stanley rebuke is appropriately sharp). No positive confessional engagement on covenant, justification, or grace.
+
+**3. Gospel Centrality & Force — 7/15**
+
+- *Clarity of the Gospel* — 2/5: The gospel is gestured at, not proclaimed. "Christ threw down his body" is the strongest moment. The closing "Gospel." is an intention, not an execution.
+- *Necessity of Christ* — 3/5: The Christological section establishes Christ's relevance to the text. But Christ is used primarily as the supreme example of Psalm 1 obedience — the perfect blessed man — without explicitly connecting that to the sinner's need for imputed righteousness.
+- *Cross-Centered Gravity* — 2/5: The sermon moves toward Christ but does not reach the cross. There is no moment where the cross is the answer to the sermon's diagnosis.
+
+**Synagogue Test**: A devout moralist could sit through most of this sermon without offense. The sermon's main thrust — live by God's Word, avoid the downward spiral of sin, find joy in God — could be preached in a synagogue. The Christological section raises the stakes, but without atonement, it still doesn't close the offense-gap.
+
+**4. Conscience & Applicatory Force — 8/15**
+
+- *Heart Penetration* — 3/5: The sermon has warmth and does press the "fork in the road" decision. The closing appeal to backsliders is genuine. But there is no moment where a specific hearer is cornered — no specific sin named, no particular deception exposed.
+- *Specificity* — 2/5: "A waitress friend of mine had a baby with a guy thinking it would make her happy" is specific — but it is the opening illustration, not the application. The application itself is generic: "Turn from your judgement and embrace what actually is good" doesn't tell anyone what to do with their actual Monday morning.
+- *Spiritual Differentiation* — 3/5: The sermon does differentiate between the unconverted (the fork appeal) and the backslider ("turn around and run back to Christ"). Two of Perkins' seven categories are addressed. The hardened-but-knowledgeable hearer, the humbled-not-yet-believing, and the established believer are not addressed separately.
+
+**5. Exhortation & Response — 5/8**
+
+- *Call to Response* — 3/4: The closing appeals are present and sincere. The preacher does call for response — to come to faith, or to return to Christ. These are real imperatives. However, they arrive after "But it all starts with the gospel. Gospel." — meaning the exhortation follows an incomplete gospel proclamation, which weakens its foundation.
+- *Equipping for Holiness & Witness* — 2/4: The sermon mentions the Spurgeon quote about striving to reach the lost, which is a witness thrust. But the sermon does not equip the congregation for any specific action in their week.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline* — 3/4: The three movements are roughly identifiable: (1) Joy/delight of the blessed man; (2) Christ as the blessed man; (3) The downward progression of the wicked. These are traceable but not announced, and the sermon does not return to them clearly.
+- *Progression* — 2/3: The sermon moves forward, but the Yogi Berra opening, the two dog illustrations, and the banana tree interrupt the flow more than they advance it.
+- *Unity* — 1/2: One dominant idea is present, but it competes with peripheral material. The sermon is slightly longer in introduction than content warrants.
+
+**7. Illustration & Imagination — 3/5**
+
+- *Relevance* — 2/2: The illustrations (dog, banana tree, waitress friend) are clearly from the preacher's actual life and world. These land as genuine.
+- *Clarity* — 1/2: The banana tree illustration is the best — it earns its point about being rooted in Christ. The second dog illustration (Joy running off the porch) works for the punishment/correction point. The first dog illustration (recalcitrance) runs long and buries its point.
+- *Memorability* — 0/1: The banana tree has the best shot at being remembered. The Yogi Berra opener is memorable but disconnected.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching* — 2/2: This reads as spoken, not written. The conversational cadence, the direct address, the natural transitions — these are the marks of a man who preaches, not performs. Authentic.
+- *Conviction on the Page* — 1/2: The Stanley and cultural compromise section shows conviction. The exegetical sections show engagement. But the overall manuscript lacks pressure — it explains and warms but does not drive.
+- *Cadence and Breath* — 0/1: Sentence length is mostly uniform. There is no climactic compression, no moment where the rhythm shortens and the weight descends. The sermon's most important theological point (the Christological section) does not receive the rhythmic emphasis it deserves.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: 0 (no modifier)**
+
+This sermon is accessible. The vocabulary is plain, the illustrations are from common life, and the argument can be followed by a new believer or a high schooler. No cognitive load penalty.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 17/25 |
+| Theology & Doctrinal Integrity | 12/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 8/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **61/100** |
+| Cognitive Load Modifier | 0 |
+| Weight of Glory Bonus | +1 |
+| **Total** | **62/100** |
+
+**Score capped at 69 due to Fatal Flaw Flags #1 and #4.**
+Final score: **62/100 — Concerning Gaps**
+
+Interpretation: *The sermon explains but does not yet preach. The exposition is genuine, the warmth is real, and the Christological section is the best moment in the manuscript. But the gospel is absent as proclamation, and the application does not press any hearer's specific conscience.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+   Mostly Christ, especially in the typological section. The illustrations pivot back to the preacher's life and neighborhood more than to the congregation's — a small but real imbalance. Partial yes.
+
+2. **Did I encounter God, or just ideas about Him?**
+   The warmth of the preacher's faith is present. The banana tree illustration captures genuine pastoral love. But the sermon does not produce the weight of divine encounter — it produces the warmth of a pastoral conversation. Not the same thing. Partial yes, leaning no.
+
+3. **Was I comforted, convicted, or merely informed?**
+   Informed, with moments of gentle encouragement. The "fork in the road" appeal is a sincere call. But no one was cornered. No specific sin was named. No particular comfort was extended to the suffering. Informed, primarily.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Christological reading of vv. 1–3 is the sermon's best moment.** Walking through "walks not in the counsel of the wicked… stands not… sits not" as a portrait of Christ's perfect obedience, then connecting it to "planted by streams of water" — this is exegetically sound and pastorally useful. The Spurgeon quote landing here is well-placed and emotionally earned.
+
+2. **The preacher's voice is genuinely pastoral, not performative.** The illustrations from his own yard, his dog, his neighbors — these are a man preaching from his life, not from a sermon illustration database. The congregation knows this is their pastor. That authenticity is a real asset.
+
+3. **The cultural faithfulness section has prophetic edge.** The rebuke of the "just compromise a little" argument and the Andy Stanley "unhitch" moment (correction noted: "unpin" should be "unhitch" from the OT, not scripture broadly) are appropriately sharp and directly tied to the text's own argument about being planted vs. blown. This is the text actually functioning as correction — which is exactly what it should do.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is a stub, not a sermon.** The final two lines — "But it all starts with the gospel. Gospel." — are the most important and least developed moment in the entire manuscript. The hearer arrives at the most critical juncture in the whole address and receives a word, not a proclamation. What is the gospel? What did Christ do? Why does it matter that he perfectly fulfilled Psalm 1? What must the sinner do? None of this is answered. An unconverted person hearing this sermon would not know how to be saved.
+
+2. **The exhortation is generic where it must be specific.** "Will you turn from your own judgement about what seems good?" is too abstract to move anyone. The sermon has identified several concrete avenues for application (the pursuit of temporary pleasures, the cultural pressure to compromise, the pull of old sinful paths) but the actual call does not connect to any of them. The Puritan structure of "uses" — instruction, conviction, direction, consolation — is entirely absent.
+
+3. **The illustrations outweigh the exposition in proportion.** Two extended dog illustrations, a banana tree illustration, and a Yogi Berra introduction consume a significant portion of the sermon's real estate. The illustrations are warm and relevant, but when the ratio of illustrative material to expository material tips this far, the text begins to serve the stories rather than the stories serving the text.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see how thoroughly he has assumed the gospel rather than proclaimed it. To a man saturated in the gospel, "But it all starts with the gospel" sounds like a sufficient landing point — because he knows exactly what that means. But a visitor, a backslider, or a new seeker sitting in the pew does not. The preacher's own theological fluency creates an invisible gap between what he intends and what the hearer receives.
+
+The sermon also has a quiet moralistic tendency it may not recognize. The primary framework is: here is the blessed life (obedience and delight in God), here is the cursed life (sin and its downward spiral) — choose the blessed life. Without a robust gospel center, this functions as sanctified self-help: the right kind of life leads to the right kind of outcome. The indicative must precede and empower the imperative.
+
+---
+
+### 12. Illusion of Strength
+
+The Christological section feels like a gospel presentation — but it isn't. The preacher moves through vv. 1–3 as a portrait of Christ, and the congregation likely feels the warmth of that. But a portrait of Christ's obedience, without connecting it to substitution, imputation, or faith-union with Christ, is admiration without salvation. The hearer learns that Christ is the ultimate blessed man. They do not learn what Christ's blessedness means for their curse. This is where the sermon most needs to press through its best moment into actual proclamation.
+
+---
+
+### 13. Missed Opportunity
+
+**Psalm 1:2 — "his delight is in the law of the LORD, and on his law he meditates day and night."** This verse received word-study treatment (*hafetz*, *hagah*) but no pastoral press. The sermon tells us what *delight* means. It never asks: *Do you delight in God's Word? What does it feel like when you don't? What happens to a soul that has lost its appetite for Scripture?* The Puritan tradition would have pressed this verse on multiple categories of hearers — the believer who has grown cold to Scripture, the new convert whose love is fresh, the hardened hearer who has heard this all before and remains unmoved. That pastoral press is entirely absent.
+
+The professor's thesis that Psalms 1–2 form a gateway to the entire Psalter — and are in some ways a thesis for all of Scripture — is introduced at the beginning and then dropped. This is a missed opportunity for enormous canonical richness. If Psalm 1 is a thesis for all of Scripture, the sermon should have moved toward that with some gravity.
+
+---
+
+### 14. Surgical Fixes (4)
+
+1. **Build the gospel out before the exhortation.** The closing "But it all starts with the gospel. Gospel." must become a full proclamation. Specifically: because Christ is the only perfectly blessed man (as you showed from vv. 1–3), his righteousness is what the sinner needs credited to them. He bore the curse of Psalm 1's "way of the wicked" so that sinners might be joined to the blessed man. That is the gospel. State it, then call for response. The exhortation must stand on a proclaimed gospel, not a referenced one.
+
+2. **Apply Psalm 1:2 to differentiated hearers.** After the delight word study, press the question: Does this describe you? If not — why not? Distinguish: the believer who has grown cold (comfort and rebuke), the unbeliever who has never known this delight (invitation), the self-righteous hearer who performs Bible reading without affection (warning). This is where the sermon can corner specific consciences.
+
+3. **Cut one dog illustration.** Both dog illustrations (recalcitrance; running off the porch) are charming but redundant in effect — both make the same point about stubborn disobedience and the need for discipline. Choose the stronger one (the porch/chasing scene has better narrative drive) and use the recovered time for gospel exposition.
+
+4. **Give the Christological section its proper conclusion.** After tracing Christ through vv. 1–3, press the question you are building toward: *If Christ alone is the truly blessed man, and you are not Christ — then what hope do you have?* Answer that question. Let the Christological section become the on-ramp to justification, not just an inspiring portrait.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**NOT triggered.** The sermon is not dead orthodox — it is warmly underdeveloped. There is genuine pastoral heat and authentic faith in this manuscript. The concern is not bloodless orthodoxy but incomplete proclamation. The fire is present; it needs to be directed at the gospel's actual content.
+
+---
+
+### 16. Weight of Glory Statement
+The banana tree planted by the canal, pulled back from destruction by roots finding living water — that image carries quiet eternal weight, and the congregation will carry it home; but the sermon does not yet place that image in the shadow of the cross, where it would become not just memorable but transforming.
+
+---
+
+### 17. Rubric Fit Note
+Psalm 1 is wisdom literature, and this rubric fits it well. Wisdom literature naturally lends itself to the two-ways structure, which maps cleanly onto the rubric's conscience/application categories. The Christological pressure is appropriate here — wisdom psalms have a natural typological trajectory toward Christ as the perfectly wise man — but the rubric must not force a Pauline gospel structure onto a genre that moves by comparative illumination rather than propositional declaration. The sermon's instinct to show *Christ as the blessed man* is exegetically right; the rubric's demand for gospel proclamation then asks the next question the text's own trajectory invites. No genre strain — the rubric applies naturally.

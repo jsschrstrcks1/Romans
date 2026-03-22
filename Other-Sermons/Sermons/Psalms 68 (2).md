@@ -86,3 +86,186 @@ Don’t let covid, or fear, or whatever, keep you from being obedient to God.
 For those of you that would leave, under those circumstances. This next part is for you. Its time for you to become followers of Jesus Christ.
 ‌
 Gospel.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Passage:** Psalms 68:1–4 (with extended excursions)
+**Evaluator:** Thus Says the Lord Rubric v1.0
+
+---
+
+### 1. Verdict Title
+
+**"God Is Big — But the Text Is a Stranger Here"**
+
+---
+
+### 2. One-Sentence Summary
+
+A passion-driven celebration of God's omnipotence that accumulates compelling illustrations but repeatedly departs from Psalm 68's own argument, climaxing in a COVID-era exhortation to gospel courage that the passage itself never summons.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: Marginal Pass / Borderline Fail**
+The psalm's own thesis — that God arises to scatter his enemies, while the righteous rejoice — is acknowledged in the opening and periodically referenced. However, the sermon's controlling question ("Is anything too hard for God?") is drawn primarily from 1 Chronicles 29:11, Ephesians 3:20–21, and the story of Sarah's pregnancy — not from the internal logic of Psalm 68. The passage is treated as a launching pad for a meditation on omnipotence rather than as the text whose argument governs the sermon.
+
+**Authority Test: Pass**
+The preacher does not soften or edit the text's claims. God's power over enemies, his greatness, and his sovereignty are affirmed without hedging.
+
+**Ruling:** The gate passes narrowly, but the sermon's main point (God is powerful enough to handle anything, so obey him regardless of risk) is not the psalm's main point (God arises to scatter his enemies; let the righteous rejoice and the wicked perish). The sermon uses the psalm rather than expounds it.
+
+---
+
+### 4. Fatal Flaw Flags
+
+- **Flag 4 — Application is largely generic:** The application ("Don't let fear slow you down," "wear a mask but share the gospel") is tied to COVID-era circumstances and lacks differentiated address. The believer, the doubter, the hardened sinner, and the backslider are addressed en masse. The final call — "Gospel." — is literally a one-word placeholder, not a presented gospel.
+- **Flag 5 — Gospel presented as placeholder:** The sermon ends with the word "Gospel." as a heading with no actual content. The gospel is not proclaimed; it is gestured at. An unbeliever in the room hears no actual content about Christ's death, resurrection, or the terms of salvation.
+
+**Score Cap: 69 (flags present)**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts) — 12/25**
+- *Textual Fidelity (10):* 5/10 — The passage is quoted and briefly expounded (vv. 1–4), but the sermon body is anchored in 1 Chronicles 29:11, Ephesians 3:20–21, and the Sarah/Abraham account. Psalm 68's own argument (the processional march of God, the scattering of enemies, the call to praise) is not developed. Long stretches pass without returning to the text.
+- *Contextual Awareness (5):* 2/5 — No discussion of Psalm 68's historical context (possibly the ark's movement, David's military triumphs), its genre as a victory hymn, or its placement in the Psalter.
+- *Exegetical Clarity (5):* 3/5 — Some honest engagement with the imagery ("blown away as smoke," "melted like wax"). No word study; no development of the psalm's own structure.
+- *Logical Faithfulness (5):* 2/5 — The sermon imports the Sarah narrative, the COVID analogies, the Plato ideal forms, and the CME discussion. These are not eisegesis in the strict sense, but they crowd out the passage's own logic. The FCF is implicit (fear/unbelief in God's power) but never named from the text itself.
+
+**2. Theology & Doctrinal Integrity (18 pts) — 13/18**
+- *Christ-Centeredness (7):* 4/7 — Christ is mentioned in passing but is not the theological center. The sermon magnifies God's power, which is orthodox, but doesn't develop it christologically.
+- *Redemptive-Historical Awareness (3):* 2/3 — Brief nods to God's sovereignty across redemptive history. No development of how Psalm 68 sits in redemptive history.
+- *Doctrinal Precision (4):* 4/4 — No theological errors. God's omnipotence, sovereignty, and knowledge are affirmed with precision. The statement about God knowing the totality of the pandemic's purposes is theologically sound.
+- *Confessional Alignment (4):* 3/4 — No confessional contradictions. No development of confessional themes.
+
+**3. Gospel Centrality & Force (15 pts) — 5/15**
+- *Clarity of the Gospel (5):* 1/5 — The gospel is a heading with no content. "Gospel." at the end is not a proclamation.
+- *Necessity of Christ (5):* 2/5 — Christ is mentioned as necessary for salvation but his work is not developed in the body of the sermon.
+- *Cross-Centered Gravity (5):* 2/5 — The sermon orbits God's power, not the cross. The cross is not the gravitational center.
+
+**4. Conscience & Applicatory Force (15 pts) — 7/15**
+- *Heart Penetration (5):* 3/5 — The sermon presses on fear and disobedience in a general way. The story of the pastor under the gun is powerful and conscience-pressing.
+- *Specificity (5):* 2/5 — Application is largely COVID-specific (wear a mask, share the gospel anyway). This may have been contextually specific at delivery but reads as dated and generic outside that moment.
+- *Spiritual Differentiation (5):* 2/5 — Perkins' categories are mostly collapsed. The believer and unbeliever are addressed together. No differentiation between the hardened, the fearful, the backslider, or the doubter.
+
+**5. Exhortation & Response (8 pts) — 4/8**
+- *Call to Response (4):* 2/4 — There is a clear implicit call (obey even at risk; don't let fear stop you). The final call to the unsaved is present but empty of gospel content.
+- *Equipping for Holiness & Witness (4):* 2/4 — The sermon does call the church to evangelism despite fear, which is genuinely equipping language. But it stops at willingness, not equipping.
+
+**6. Structure & Logical Flow (9 pts) — 5/9**
+- *Clarity of Outline (4):* 2/4 — The sermon lacks a discernible structure. It moves from COVID → God's power → Chuck's healing → Plato ideal forms → CME → hollow victories → COVID → secret police story → gospel (placeholder). These are loosely connected but not architecturally organized.
+- *Progression (3):* 2/3 — There is emotional momentum but not logical progression. The sermon builds toward the secret police story effectively.
+- *Unity (2):* 1/2 — Multiple competing ideas: omnipotence, COVID response, hollow victories, gospel courage. The dominant idea is present but buried.
+
+**7. Illustration & Imagination (5 pts) — 4/5**
+- *Relevance (2):* 2/2 — Illustrations are drawn from the congregation's world (pandemics, weather, electricity, space science, wars).
+- *Clarity (2):* 1/2 — The CME illustration is vivid but so detailed it competes with the point. The Plato ideal forms reference is interesting but unlikely to land on most hearers.
+- *Memorability (1):* 1/1 — The secret police / pastor story is memorable and will be carried home.
+
+**8. Sermonic Force (5 pts) — 4/5**
+- *Reads as Preaching (2):* 2/2 — Clearly oral, conversational, direct address.
+- *Conviction on the Page (2):* 1/2 — High energy, but the manuscript lacks Scripture-density in its midsection.
+- *Cadence and Breath (1):* 1/1 — Natural rhythm; sentences shorten at emotional peaks.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1** — Slightly dense in the midsection (Plato + CME + hollow victories + WWII casualties all in sequence). The main idea is clear, but the congregation is asked to hold too many sub-illustrations simultaneously without resolution.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 12/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 5/15 |
+| Conscience & Applicatory Force | 7/15 |
+| Exhortation & Response | 4/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **54/100** |
+| Cognitive Load Modifier | −1 |
+| **Total** | **53/100** |
+| Fatal Flaw Cap | Applies (capped at 69 — raw score below cap) |
+
+**Interpretation: Below 60 — Fundamentally flawed in gospel presentation. Needs significant reconstruction of the gospel section and re-anchoring to the text.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Partially of God's power; not clearly of Christ. The answer is "God's attributes" more than "Christ crucified."
+2. *Did I encounter God, or just ideas about Him?* Ideas. The power of God is described at length but the congregation is not brought to worship — they are brought to resolve.
+3. *Was I comforted, convicted, or merely informed?* Informed and somewhat motivated. The conviction is real but diffuse.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The secret police story** — This extended narrative is the sermon's most powerful moment. The pastor's declaration ("Your gun can only take my life, but God is responsible for my eternity") is the kind of illustration that will be remembered and repeated. It earns its length.
+2. **Pastoral warmth and congregational care** — The Chuck update, the authentic voice, the direct engagement with the congregation's fears show a preacher who knows his people. This is real pastoral ministry.
+3. **The hollow victory sequence** — The legal case, World War II, and the COVID vaccine as illustrations of hollow human victory against God's complete and lasting victory is a genuinely useful sermon concept, even if it needed stronger textual grounding.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **"Gospel." is not a gospel** — The sermon ends with a single word where the most important content of the entire message should live. An unbeliever in the room hears nothing. This is the most urgent repair in the entire manuscript.
+2. **Psalm 68 is functionally absent from the sermon's argument** — The passage is read and quoted at the opening, then largely abandoned. The controlling frame (God is powerful / don't let fear stop you) is not Psalm 68's controlling frame. The psalm's own drama — God's enemies scattered, the righteous rejoicing, the procession of the ark, the call to praise — is untouched.
+3. **No differentiation of hearers** — The sermon speaks to "you" as a uniform group. The fearful, the doubting, the openly rebellious, and the strong believer all receive the same address. Perkins' categories are collapsed entirely.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the "Gospel." placeholder is a structural failure. In live delivery, the preacher presumably spoke the gospel; in the manuscript, it is absent. If this manuscript is used for revision or future preaching, the gospel must be written out in full — not assumed or improvised. The sermon also may not see how far it has drifted from Psalm 68. The preacher's evident love for God's omnipotence is real, but it belongs to a different text (perhaps Job 40, Isaiah 40, or Ephesians 3:20–21 as the primary text).
+
+---
+
+### 12. Illusion of Strength
+
+The sermon *feels* textually grounded because it quotes several Scripture passages. But the primary passage (Psalm 68:1–4) is quoted and immediately left. The remaining scriptures (1 Chronicles 29:11, Ephesians 3:20–21, the Abraham/Sarah narrative) are assembled thematically, not expositionally. The sermon gives the impression of a well-stocked biblical argument while actually doing topical theology illustrated with text fragments.
+
+---
+
+### 13. Missed Opportunity
+
+Psalm 68 is one of the most majestic processional psalms in the Psalter — possibly written for the transport of the ark to Jerusalem. Verse 4 calls God to "ride through the deserts" — a reference to his wilderness march. The sermon never enters this landscape. The imagery of God rising, his enemies scattering, smoke blown away, wax melting — these are not incidental illustrations. They are the psalm's own argument about what it means to live before the living God. The sermon brushes past the door without entering.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Write the gospel in full.** Replace "Gospel." with at minimum a paragraph: sin, the holiness of God, Christ's death as substitution, resurrection, and the call to repent and believe. Do not leave it to improvisation in the manuscript.
+2. **Rebuild the exposition around the psalm's own structure.** Psalm 68:1–4 has a clear movement: the petition that God arise (v. 1–2), the contrast between the wicked and the righteous (vv. 2–3), and the call to praise (v. 4). Let each of these drive a point. The omnipotence material can serve the exposition rather than replace it.
+3. **Add differentiated application.** After the secret police story, speak directly to at least three categories: (a) the Christian who is letting fear govern their choices; (b) the person who is not yet a believer and is weighing the cost of surrender; (c) the backslider who once was courageous and has retreated.
+4. **Shorten the CME and Plato sequences.** These are intellectually interesting but cognitively expensive. Each could be condensed to two sentences without loss of force.
+5. **Name the Fallen Condition Focus explicitly.** The FCF here is fear — the belief that the threats of this world are greater than the God who commands us. Name it directly and early: "The psalm was written for people who are afraid. Specifically people who are afraid that the enemies arrayed against God's people are more powerful than God himself."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** The sermon is not cold or bloodless — it has genuine pastoral heat. Its weakness is structural and expositional, not emotional.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon carries genuine warmth and pastoral courage; the secret police story approaches eternal weight — but the missing gospel and the text's absence keep it from rising to full gravity.
+
+---
+
+### 17. Rubric Fit Note
+
+Psalm 68 is a complex victory hymn with disputed historical context and rich redemptive-historical freight (Paul quotes it in Ephesians 4:8 in reference to Christ's ascension). The rubric's exposition categories press helpfully here — this psalm rewards deep contextual and canonical work that the sermon does not attempt. The genre (victory hymn / processional) does not strain the rubric, but the sermon's topical approach means the rubric has little to evaluate expositionally beyond what was done to the passage.

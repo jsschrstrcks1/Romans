@@ -55,3 +55,174 @@ In this analogy there are only two teams.
 Which team do you play for? Cpnsider your actions, do you play for God’s team? Or for the team of his enemy? 
 
 Gospel.
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**"Elect Exiles and a Borrowed Jersey: Identity Truths Held Back by an Absent Gospel and a Framework That Outpaces the Text"**
+
+---
+
+### 2. One-Sentence Summary
+A winsome and accessible opening of 1 Peter 1:1–2 that correctly anchors Christian identity in election and exile while failing to preach the gospel it gestures at, to press the conscience with specificity, or to fully open the theological wealth the text actually contains.
+
+---
+
+### 3. Berean Gate Result
+**PASS — with qualification.**
+
+*Scopus Test:* The sermon's main point — Christians are "elect exiles," chosen by God and therefore citizens of a different homeland — does arise from the passage's own argument. The thesis is traceable to the text.
+
+*Authority Test:* The preacher submits to the text's claims, including the doctrine of election, which he defends directly and without softening. That deserves credit. However, v. 2 — "according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood" — is effectively reduced to "God knew you and chose to love you anyway." The Trinitarian architecture of election, the Spirit's sanctifying work, and the covenantal blood-sprinkling language receive almost no treatment. The sermon uses the passage more than it opens it.
+
+---
+
+### 4. Fatal Flaw Flags
+**Two flags triggered. Score capped at 69.**
+
+**Flag 1 — No clear gospel presentation.** The word "Gospel." appears alone at the end of the manuscript as a single word. This is a placeholder, not a proclamation. Christ's atoning work is mentioned in passing ("God allowed his son to die for us," "Christ died for that sin") but is never proclaimed as the finished, sufficient, saving work of the Son. Justification is absent. Substitution is gestured at but never named. The cross is mentioned but never preached. A listener leaving this service would understand they are on a team — they would not understand how they got there, what it cost, or why it is certain.
+
+**Flag 5 — No actual exhortation.** The sermon ends with a rhetorical question: "Which team do you play for?" This is an invitation to reflection, not a summons to response. There is no clear "therefore" moment. The congregation is not told what to believe, repent of, obey, or pursue. The closing analogy sets up a call that never arrives.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13 / 25**
+- *Textual Fidelity (10 pts): 6* — The sermon derives its two anchor points (elect, exiles) from the text, and the defense of "eklektos" using multiple lexicons is a genuine exegetical strength. However, the passage's Trinitarian structure (foreknowledge of the Father / sanctification of the Spirit / obedience and blood of Christ) is not expounded. Verse 2b is quietly passed over. The Fallen Condition Focus — what human condition does this text address? — is gestured at (exile, forgetting which team we're on) but not named precisely.
+- *Contextual Awareness (5 pts): 3* — Some awareness of the Petrine audience as Roman-context believers, and a gesture toward the Gentile inclusion theme via Romans 9. But the letter's opening as a pastoral encouragement to suffering exiles is not developed. The note that Peter, not Paul, wrote this letter would matter — it goes unaddressed.
+- *Exegetical Clarity (5 pts): 3* — The lexical work on "eklektos" is transparent and appropriate. However, the sermon misattributes the 1 Peter letter to Paul twice ("That's Paul's point"). This is an error, not a slip. The audience would notice, or more dangerously, would not.
+- *Logical Faithfulness (5 pts): 1* — The sermon imports the basketball analogy framework extensively and returns to the text infrequently. After the lexical section, the sermon functions mostly by application of analogy, not exposition of text. Several moves are made without textual warrant (e.g., "we are guilty of Christ's death" — true, but not from this passage).
+
+**2. Theology & Doctrinal Integrity — 11 / 18**
+- *Christ-Centeredness (7 pts): 4* — Christ is present and necessary to the sermon's argument in a general sense. The death of Christ is mentioned. But the Christology is thin: Christ dies so we can be on the team. There is no resurrection, no intercession, no union with Christ. The blood-sprinkling of v. 2 — a covenantal image with deep Old Testament roots in Exodus 24 and Hebrews 9–10 — is untouched.
+- *Redemptive-Historical Awareness (3 pts): 2* — The Hosea citation via Romans 9 and the Gentile inclusion theme show some redemptive-historical instinct. This is a genuine strength in miniature.
+- *Doctrinal Precision (4 pts): 3* — Election is handled with reasonable clarity. The guilt of sin is stated plainly. No major doctrinal errors except for the attribution of 1 Peter to Paul.
+- *Confessional Alignment — 1689 Pulse (4 pts): 2* — Election is affirmed, but the Covenant of Grace is absent. The Trinitarian structure of v. 2 — which is a precise confessional locus — is ignored. No treatment of effectual calling, which this passage practically demands.
+
+**3. Gospel Centrality & Force — 5 / 15**
+- *Clarity of the Gospel (5 pts): 1* — The gospel is gestured at but never proclaimed. "God allowed his son to die for us" is not a gospel presentation. Justification, faith, repentance, forgiveness, and new birth are absent as explicit categories.
+- *Necessity of Christ (5 pts): 2* — Christ's death is mentioned as the cost of the team change, but Christ is not preached as the only way, the risen Lord, or the necessary Mediator. He is present but peripheral to the sermon's primary framework.
+- *Cross-Centered Gravity (5 pts): 2* — The sermon mentions the cross but does not move toward it. The closing drive is toward team identity, not to the foot of the cross.
+
+**4. Conscience & Applicatory Force — 8 / 15**
+- *Heart Penetration (5 pts): 3* — The section on sinning as "spitting in the eye of God" has real conscience-reaching potential and is the sermon's most penetrating moment. The image is apt and uncomfortable in a useful way.
+- *Specificity (5 pts): 2* — The application remains within the sports analogy. There is no address to specific life situations — the person living in open sin, the person doubting their election, the grieving exile.
+- *Spiritual Differentiation (5 pts): 3* — The sermon addresses believers broadly and implicitly gestures at the unconverted ("Which team do you play for?"). But Perkins' taxonomy is not employed. The doubting believer, the hardened sinner, the backslider, and the knowledgeable-but-unmoved are not addressed distinctly.
+
+**5. Exhortation & Response — 2 / 8**
+- *Call to Response (4 pts): 1* — The closing question is the only exhortational move, and it is a question, not a command. No specific belief, repentance, or obedience is called for.
+- *Equipping for Holiness & Witness (4 pts): 1* — The congregation is not sent. There is no corporate call, no missional direction, no instruction for how to live as exiles in the week ahead.
+
+**6. Structure & Logical Flow — 6 / 9**
+- *Clarity of Outline (4 pts): 3* — The two-point structure (elect / exiles) is clear and memorable, a genuine strength. The congregation can follow it.
+- *Progression (3 pts): 2* — The sermon moves from introduction → text → elect → exiles → application, but the application section returns repeatedly to the sports analogy rather than advancing a clear argument.
+- *Unity (2 pts): 1* — The jersey analogy, the soccer story, and the basketball player story compete rather than build. The sermon has one idea but three competing illustrations, and they do not all serve the same aspect of the point.
+
+**7. Illustration & Imagination — 3 / 5**
+- *Relevance (2 pts): 2* — The sports world is accessible and the congregation likely connects to it.
+- *Clarity (2 pts): 1* — The jersey illustration is apt. The basketball-player-switching-teams illustration is strained — it portrays salvation as a free-agent decision, which sits awkwardly against the doctrine of election just preached.
+- *Memorability (1 pt): 0* — None of the illustrations are native to this text. The jersey could appear in any sermon about identity. The soccer own-goal story is memorable but its connection to the theological point is loose.
+
+**8. Sermonic Force — 3 / 5**
+- *Reads as Preaching (2 pts): 2* — The manuscript reads conversationally and orally. Direct address ("Folks," "People," "Imagine going to bed one night") is present and natural.
+- *Conviction on the Page (2 pts): 1* — The sermon has warmth but lacks force at key moments. The most important theological moves (election, the Trinitarian covenant, the blood of Christ) are stated without weight.
+- *Cadence and Breath (1 pt): 0* — Sentences are relatively uniform in length throughout. There is no compression at climax. The ending dissipates rather than lands.
+
+---
+
+### 6. Cognitive Load Assessment
+**Score: 0 (Well-paced)**
+
+The sermon is accessible. The single mother, the high schooler, and the new believer can follow it. The lexical section on "eklektos" is handled well — technical enough to be instructive, accessible enough not to lose the room. No deduction applied.
+
+---
+
+### 7. Total Score
+**Base: 51 / 100**
+**Cognitive Load Modifier: 0**
+**Total: 51 / 100**
+
+*Score capped at 69 due to two fatal flaw flags (no gospel presentation, no exhortation). However, the raw score of 51 falls below that cap, meaning the fatal flaws compound genuine structural weaknesses, not merely a strong sermon with one missing element.*
+
+**Interpretation: Fundamentally flawed. Rebuild from the text.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily of identity and team membership. Christ appears but does not dominate. The sermon's emotional center is on what we are (elect exiles) more than on what Christ has done.
+
+2. **Did I encounter God, or just ideas about Him?** Ideas. The sermon informs competently but does not position the hearer before the living God. The moment closest to encounter is the line about God pursuing those who killed his Son — that line has power, but it is not developed into proclamation.
+
+3. **Was I comforted, convicted, or merely informed?** Primarily informed. The "spitting in the eye of God" line presses toward conviction, but it is not followed through. The comfort offered is identity-comfort, not the comfort of the gospel applied to a troubled conscience.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The defense of "eklektos" using multiple lexicons** is a transparent and congregation-instructing piece of exegetical work. The preacher shows his work, names the lexicons, and lands on a clear meaning. The congregation gains tools to trust the translation and understand the term. This is the sermon's clearest expository moment.
+
+2. **The direct confrontation of election's uncomfortable nature** ("A lot of people bristle at the word elect, but its right here in scripture") is appropriately unapologetic. Rather than softening the doctrine, the preacher leans into it. This is confessional courage at the level of a congregation that may be skeptical.
+
+3. **The "spitting in the eye of God" applicatory move** — connecting worldliness and sin to a kind of face-to-face rejection of the God who pursued sinners at the cost of his Son — has genuine conscience-reaching force. It is specific enough to sting and theologically grounded enough to be legitimate.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is never preached.** The word "Gospel." appears alone at the end. The sermon has a gospel-shaped hole at its center and close. The death of Christ is mentioned as part of the election-and-love narrative, but justification, propitiation, resurrection, and faith are never brought forward. A listener cannot be saved from this sermon. A doubting believer cannot be comforted from it. This is the most serious failure.
+
+2. **The letter is twice attributed to Paul** ("That's Paul's point" appears at line 37). This is not a slip — the surrounding context treats it as a sustained description of the author's argument. Peter wrote 1 Peter. Paul wrote none of it. This error, if unnoticed in the congregation, undermines the sermon's exegetical credibility. If noticed, it erodes trust.
+
+3. **Verse 2b is theologically abandoned.** "In the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood" — this is Trinitarian, covenantal, and richly applicatory. The preacher reduces the entire verse to "He knew you and chose to love you anyway." The blood-sprinkling image alone contains the whole covenant: Exodus 24, Hebrews 9, and the ratification of the new covenant. None of it is opened. This is the single greatest missed exegetical opportunity in the sermon.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that his sports framework has quietly substituted for the text's own framework. He is preaching a Team Identity sermon illustrated by 1 Peter, rather than a 1 Peter sermon illustrated by team identity. The result is that the illustrations set the categories, and the text fills them in — rather than the reverse. This is a structural inversion that will, over time, produce sermons where the preacher's existing frameworks govern what the text is allowed to say.
+
+Additionally, the preacher may not see how the free-agent illustration (basketball player choosing the Celtics) works against the very doctrine of election he just preached. If election is God choosing us, the illustration of a player choosing a better team is not a picture of grace — it is a picture of Arminianism. The illustrations need to be audited for theological consistency with the doctrine being taught.
+
+---
+
+### 12. Illusion of Strength
+
+The lexical section on "eklektos" *feels* like the strongest exegetical moment in the sermon, and in some ways it is. But its strength is definitional, not expositional. The preacher establishes what the word means with commendable thoroughness — and then does not press the word's meaning into the covenantal and applicatory territory the passage requires. Establishing a definition is not the same as opening a text. The congregation may leave feeling that the exegesis was thorough when in fact the hardest exegetical work (the Trinitarian structure of v. 2, the blood-sprinkling image, the relationship between foreknowledge and election in Reformed theology) was never begun.
+
+---
+
+### 13. Missed Opportunity
+
+**1 Peter 1:2 — "sprinkling with his blood."** This phrase is the richest unopened room in the sermon. In Exodus 24:6–8, Moses sprinkled the blood of the covenant on the people, ratifying their relationship with God. Hebrews 12:24 calls Christ's blood "the sprinkled blood that speaks a better word than the blood of Abel." Peter reaches directly into this covenantal imagery to say: you are not elect in the abstract — you are elect by covenant, ratified in blood, the blood of the Son. This is not merely a reminder that Christ died. It is the declaration that the covenant between God and his people was sealed in the most expensive transaction in the history of the universe. The jersey doesn't just identify you — it was purchased for you at infinite cost, by the covenant-keeping Son, in blood. That is where the sermon should have arrived. It never left the parking lot.
+
+---
+
+### 14. Surgical Fixes (3–5)
+
+1. **Correct the authorial error immediately.** Replace all references to "Paul" with "Peter" in the sermon manuscript. Then consider whether this correction opens new material: Peter wrote this letter to suffering exiles in the diaspora — and Peter himself was a man who knew what it was to deny his Lord and be restored. The pastoral force of Peter writing about election and grace is distinct from Paul writing about it.
+
+2. **Preach the gospel in the body of the sermon, not as a placeholder at the end.** When you reach the line about God pursuing those who crucified his Son, stop there and open it. Tell the congregation what actually happened at the cross: the wrath owed to elect sinners was absorbed by the Son, so that the elect could be clothed in his righteousness. That is why the jersey fits — Christ earned it. That is what the blood-sprinkling in v. 2 points to. Build from what you have; do not add a new section. Replace the basketball free-agent illustration with a development of v. 2b.
+
+3. **Add a clear "therefore" exhortation before the closing question.** The closing question ("Which team do you play for?") is a good diagnostic. It is not an exhortation. Follow it with a direct, differentiated call: to the unconverted — repent and believe; to the believing exile who is living for this world — return to Christ and wear the jersey with joy; to the doubting — your election rests not on your feelings but on the foreknowledge of God, the sanctifying work of the Spirit, and the blood of Christ already sprinkled on your behalf.
+
+4. **Audit the illustrations for theological consistency.** The free-agent basketball player illustration implies self-chosen team membership. Either replace it with an illustration that captures unconditional election (someone transferred to a team they did not choose, by a coach who saw something in them no one else saw, and gave up something to acquire them), or bracket it explicitly ("I know this illustration breaks down here — unlike a free agent, we didn't choose this team; the Coach chose us").
+
+5. **Open 1 Peter 1:2's Trinitarian structure as the sermon's climactic move.** The foreknowledge of the Father, the sanctification of the Spirit, the obedience and blood of Christ — this is the Trinity in election action. Elect exiles are not just people with a new team name; they are people over whom the entire Godhead has acted, each person of the Trinity with a distinct role in their belonging. That is the sermon's natural climax, and it will carry the weight of glory the current ending cannot.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — the sermon does not score high enough in exposition or theology to trigger the dead orthodoxy pattern. The concern here is not correct-but-bloodless theology; it is incomplete theology delivered with warmth. Different problem, different prescription.
+
+---
+
+### 16. Weight of Glory Statement
+The sermon carries genuine pastoral affection and a real desire to help the congregation understand their identity in Christ, but it does not yet carry the weight of eternal gravity — the blood-sealed covenant remains a theological footnote rather than the sermon's trembling center, and until the full cost of the jersey is proclaimed, the congregation will leave warmed but not undone.
+
+---
+
+### 17. Rubric Fit Note
+This rubric is well-suited to an epistolary New Testament passage like 1 Peter 1:1–2. The passage is doctrinal, applicatory, and Trinitarian — exactly the kind of text this framework was built to evaluate. No genre strain. The rubric's demands are appropriate to what Peter wrote and to what a congregation needs from this passage.

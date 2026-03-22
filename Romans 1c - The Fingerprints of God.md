@@ -256,3 +256,212 @@ Becoming a Christian doesn't make you perfect. Christians are not perfect. Chris
 But all of it starts with a relationship with God.
 
 *[Gospel presentation.]*
+
+---
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Warm Apologetic That Carries Providence to the Threshold of the Gospel Without Crossing It**
+
+---
+
+### 2. One-Sentence Summary
+A winsome opening of Romans 1:18-32 that handles general revelation with genuine clarity and builds to real doctrinal depth, while leaving the gospel itself as a placeholder and the conscience largely unexamined.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: PASS (qualified)**
+The sermon's thesis — general revelation is sufficient to condemn but not to save; only the gospel carried by human feet can rescue — arises directly from Paul's argument in Romans 1:18-20 and flows into the missionary burden of the passage. The main point of the sermon is recognizably the main point of the text.
+
+**Authority Test: PASS (qualified)**
+The preacher submits to the text's harder claims — "without excuse," the progressive giving-over of humanity, the catalog of sin in vv. 28-32. He does not soften the wrath language or the finality of condemnation. The authority test passes, though the application of vv. 28-32 is lighter than the passage demands.
+
+**Gate: OPEN — proceed to scoring.**
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 5 — TRIGGERED (partial): No actual exhortation.**
+The sermon closes with *[Gospel presentation.]* — a bracketed placeholder, not a preached gospel. The congregation is brought to the door of the cross, given evocative material (the Winslow meditation, the Shultz reflection, the election passage), but never summoned through it. No call to repentance, no call to faith, no specific imperative is delivered. The exhortation that should crown the sermon is absent from the manuscript as submitted.
+
+**Flag 4 — PARTIAL: Application is predominantly generic.**
+The mirror section (Point IV) does press briefly and specifically — gossip, boasting, anger — but it does not sustain that pressure. The broader application is atmospheric rather than targeted.
+
+**Score Cap: 69 points — Fatal Flaw Flag 5 is triggered.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 18 / 25**
+
+- *Textual Fidelity (10 pts): 7* — The sermon accurately derives its central argument from vv. 18-20 and the exchange of vv. 21-25. Point I handles the general/special revelation distinction with real precision. However, vv. 24-27 (the "gave them up" sequence and sexual exchange) receive no treatment whatsoever — the preacher reads them and moves past them entirely. This is the structural center of Paul's argument about divine judicial abandonment and it goes unpreached. Vv. 32 ("give approval to those who practice them") is likewise passed over, despite its enormous pastoral relevance.
+- *Contextual Awareness (5 pts): 3* — The connection to Romans 1:1-17, Paul's argument about the righteousness of God and the gospel's power, is not drawn. The sermon treats the passage somewhat in isolation. The missionary application (connecting to 10:14-15) is gestured at but not formally exegeted.
+- *Exegetical Clarity (5 pts): 4* — The general/special revelation distinction is explained lucidly and accessibly. The word "suppress" (κατέχω) is not unpacked, though the concept is present.
+- *Logical Faithfulness (5 pts): 4* — No eisegesis. The apologetic illustrations (anthropic fine-tuning, Paley's watch, positioning in the Milky Way) genuinely serve the text's argument that God's power and nature are clearly perceived. The Grand Canyon speculation is a minor liability.
+
+**Fallen Condition Focus:** Present and named — humanity's willful suppression of the truth they possess. It is stated clearly in Point I and returns in Point III. Good.
+
+**2. Theology & Doctrinal Integrity — 14 / 18**
+
+- *Christ-Centeredness (7 pts): 5* — Christ is central in Points V and VI. The cross is presented as planned, costly, and substitutionary in substance (though penal substitution is not formally named). The Winslow and Shultz meditations are theologically rich. The connection is organic to the passage's logic.
+- *Redemptive-Historical Awareness (3 pts): 2* — The brief survey of the covenant history in Point VI (sacrificial system, judges, kings, Noah, the new covenant) is genuine redemptive-historical instinct, though it is more illustrative than exegetically grounded.
+- *Doctrinal Precision (4 pts): 3* — Election is handled with care and confessional precision ("those whom he had chosen before the foundation of the world... whose belief he himself enabled them to have"). Justification is not named or defined. The substitutionary logic is present but not formally articulated — "he paid our ransom" gestures there without landing it.
+- *Confessional Alignment — 1689 Pulse (4 pts): 4* — No confessional contradictions. Election is handled with Reformed precision. The irresistibility of grace is implicit. General revelation's limitation to condemnation, not salvation, is stated with confessional clarity.
+
+**3. Gospel Centrality & Force — 9 / 15**
+
+- *Clarity of the Gospel (5 pts): 2* — The gospel is present in atmospheric terms: the cross was planned, Christ died, God chose. But justification by faith is not articulated. What must a person believe? What is the content of saving faith? The sermon ends with *[Gospel presentation.]* — the gospel's clarity is literally deferred to an unwritten section. This is a significant gap.
+- *Necessity of Christ (5 pts): 5* — Christ is fully necessary to this sermon. "There is only one way to God, and that is through Jesus Christ." This is stated plainly and not hedged.
+- *Cross-Centered Gravity (5 pts): 2* — The cross is present and moving (the Shultz meditation is genuinely powerful), but the sermon does not formally arrive at the cross as proclamation. It contemplates it. It marvels at it. But it does not preach it — no death for sin, no resurrection, no imputed righteousness. The gravity is there; the landing strip is not.
+
+**Synagogue Test:** Would a devout non-Christian be offended by the necessity of Christ's blood? Moderately — "there is only one way to God" would give offense, but the full scandal of penal substitution is not presented, so the offense is incomplete. Partially passed.
+
+**Law/Gospel Dialectic:** The law lands in Point IV (mirror passage), but briefly. The gospel follows in Points V-VI but does not formally answer the law's accusation with justification. The hammer falls lightly; the balm is promised but not fully administered.
+
+**4. Conscience & Applicatory Force — 9 / 15**
+
+- *Heart Penetration (5 pts): 3* — The mirror passage (Point IV) is the most penetrating moment. The personal catalog — "Gossiped lately? Boasted? Been foolish? Faithless?" — is genuine conscience work. The Matthew 5 citation about anger as murder is well-placed. But this lasts only a paragraph before moving to comfort.
+- *Specificity (5 pts): 3* — The illustrations are often specific (Wyley, the named congregation members, the Grand Canyon trip). The conscience-pressing is less specific — it lists sins from the text without anchoring them to concrete congregational patterns.
+- *Spiritual Differentiation (5 pts): 3* — The sermon addresses believers (providence and comfort in Point V), potential converts ("if you're here today and have any interest"), and implicitly the self-righteous (Point IV's mirror). The backslider, the knowledgeable-but-unhumbled, and the humbled-but-not-yet-believing are not distinctly addressed.
+
+**Perkins' Seven:** Addressed meaningfully — the ignorant but teachable (#2), the humbled (#4), and the believers (#5). The hardened (#1), the knowledgeable but unhumbled (#3), the backsliders (#6) receive no specific address.
+
+**5. Exhortation & Response — 3 / 8**
+
+- *Call to Response (4 pts): 1* — John 6:44 is offered as an invitation ("if you have any interest, God is working in you"), which is encouraging but is not an exhortation. No imperative is delivered. No one is told to repent, to trust, to pray, to turn. The sermon closes without telling anyone what to do.
+- *Equipping for Holiness & Witness (4 pts): 2* — The people group section is genuinely missional and equips for witness ("who will pray for the Balija?"). That instinct is real and good. But the church is not sent out with concrete assignments or equipped for the week ahead.
+
+**6. Structure & Logical Flow — 7 / 9**
+
+- *Clarity of Outline (4 pts): 3* — The outline is traceable: (I) What general revelation does/doesn't do; (II) The fingerprints of God; (III) The exchange; (IV) The mirror; (V) The God who planned the cross; (VI) Election and grace. A listener could sketch it. The BFM section floats without structural integration.
+- *Progression (3 pts): 3* — The sermon builds well from revelation to rejection to redemption. The movement has real momentum.
+- *Unity (2 pts): 1* — The people group section, the BFM insert, and the Kristofferson song are genuine structural interruptions that compete with the main argument. The sermon has four distinct opening elements (people group, scripture reading, Point I, Point II) before finding its footing.
+
+**7. Illustration & Imagination — 4 / 5**
+
+- *Relevance (2 pts): 2* — The illustrations are drawn from the congregation's world (MRIs, the Grand Canyon trip, Wyley-and-the-electric-chair). The Wyley illustration is remarkably direct and pastoral.
+- *Clarity (2 pts): 2* — The fine-tuning illustrations are clear and serve the text. The watch/Paley illustration is well-used without being introduced as "Paley's Wager."
+- *Memorability (1 pt): 0* — The Winslow/Shultz meditation is moving and will stay with hearers. However, the nuclear resonance illustration, while accurate, is dense enough that many will retain the feeling without the content. The Wyley illustration will be remembered.
+
+**8. Sermonic Force — 4 / 5**
+
+- *Reads as Preaching (2 pts): 2* — Oral cadence is strong. "It's almost like someone planned it." Direct address is present. Sentences are breath-length. This manuscript reads like it was written to be spoken, not read.
+- *Conviction on the Page (2 pts): 2* — Scripture-grounded assertion ratio is solid. The closing section on election is particularly strong on the page.
+- *Cadence and Breath (1 pt): 0* — The sermon finds rhythm but doesn't fully break into climactic compression. The ending is quiet where it should burn.
+
+---
+
+### 6. Cognitive Load Modifier: **−1**
+
+Slightly dense in the fine-tuning section — the baryon, the nuclear resonance, the electromagnetic constant. Each individual illustration is accessible; together they are slightly cumulative. A single mother tracking her children through a long science lecture may lose the thread before arriving at the theological payoff. One illustration could be trimmed without loss.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 18 / 25 |
+| Theology & Doctrinal Integrity | 14 / 18 |
+| Gospel Centrality & Force | 9 / 15 |
+| Conscience & Applicatory Force | 9 / 15 |
+| Exhortation & Response | 3 / 8 |
+| Structure & Logical Flow | 7 / 9 |
+| Illustration & Imagination | 4 / 5 |
+| Sermonic Force | 4 / 5 |
+| **Subtotal** | **68 / 100** |
+| Weight of Glory (bonus) | +3 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **70** |
+
+**Fatal Flaw Cap Applied: Score capped at 69.**
+
+**Interpretation: Concerning gaps.** The sermon explains and partially applies but never summons. The gospel is gestured at but not proclaimed. Significant revision needed — specifically, the [Gospel presentation] placeholder must become actual preaching, and vv. 24-27 must be engaged.
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Christ — the providence section, the Winslow/Shultz meditation, and the election passage all magnify Christ. Yes.
+2. **Did I encounter God, or just ideas about Him?** Partially. The science section is intellectually engaging but stays in the register of ideas. The Wyley illustration and the election passage bring the hearer nearer to God himself.
+3. **Was I comforted, convicted, or merely informed?** Both informed and comforted — but the conviction is lighter than the text demands, and the comfort arrives before the law has fully done its work.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **General/Special Revelation Distinction (Point I)** — The handling of "sufficient to condemn, not sufficient to save" is clear, accurate, and pastorally necessary. This is the theological core of the passage and the preacher nails it. The missionary implication (Balija need human feet carrying the gospel, not just stars) is elegant and text-grounded.
+
+2. **The Wyley Illustration (Point VI)** — "Imagine someone came to me and said: 'I've been disobedient... But I'm hoping you'll let your child die in my place instead.'" This is the strongest moment of the sermon — it makes substitution concrete, personal, and affectively powerful without becoming maudlin. The congregation will remember this.
+
+3. **Election Handled with Confessional Clarity** — "Those whom he had chosen before the foundation of the world... whose belief he himself enabled them to have." This is stated simply and without apology in the context of the sermon's pastoral warmth. It neither shies from the doctrine nor delivers it as a lecture.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Romans 1:24-27 Is Entirely Absent** — The three "gave them up" clauses are the theological engine of the passage. Paul's argument about divine judicial abandonment — God's wrath expressed not only in future judgment but in present moral unraveling — goes entirely unpreached. The sexual exchange of vv. 24-27 is read aloud and then silently passed over. In 2025-2026 American evangelicalism, this is exactly the passage that must be preached, not avoided. This is not a minor gap; it is the structural center of Paul's argument.
+
+2. **The Gospel Is a Placeholder** — *[Gospel presentation.]* is not a sermon. The manuscript closes with an invitation (John 6:44, the drawing of the Father) and a description of conversion ("becoming a Christian doesn't make you perfect... Christians are just forgiven"), but no one is told what to believe, what to confess, what to repent of, or what to do. The sermon has built a beautiful case for why anyone needs the gospel — and then declined to preach it.
+
+3. **Exhortation Is Absent** — The sermon explains (excellently at points), it comforts (movingly at points), and it invites — but it never commands. There is no "therefore" moment. No imperative lands. The congregation hears "rest in the providence of our God" and "if you have any interest, God is working in you" — but no one is told to repent, to pray, to turn, to trust, to go. The exhortatory voice is missing from the manuscript entirely.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that the science section, while genuinely in service of the text, runs the risk of becoming the sermon's center of gravity. A congregation member could walk away saying "the universe is fine-tuned for life" without having encountered the passage's actual claim: that all of humanity actively suppresses this knowledge and is without excuse before a holy God. The fine-tuning material serves apologetics; the text is about judgment. These are related but not identical, and the sermon needs to feel the weight of the second more than it does.
+
+The preacher also likely does not see that vv. 24-27 are not a digression — they are the illustration of what suppression of the truth produces. Skipping them is not pastoral prudence; it is leaving Paul's argument incomplete.
+
+---
+
+### 12. Illusion of Strength
+
+The Shultz meditation on the cross is the sermon's most emotionally resonant section, and it will feel to both preacher and hearer like the gospel has been preached. It has not. Providence has been preached — beautifully. The cross has been contemplated — movingly. But "God planned Christ's death for your salvation" is not the same as "Christ died for your sins according to the Scriptures, was buried, and rose again — trust him now." The meditation produces awe without calling for response. The emotional weight of that section may mask the absence of actual gospel proclamation.
+
+---
+
+### 13. Missed Opportunity
+
+Verse 32 — "they not only do them but give approval to those who practice them" — is the passage's sharpest edge, and the most culturally pointed verse in the entire pericope for a congregation sitting in 2025-2026 America. Paul is not merely describing individual sin — he is describing a society that has moved beyond doing evil to celebrating it, institutionalizing it, demanding affirmation of it. This verse deserved its own moment. It would have made the "mirror" section genuinely confrontational rather than merely uncomfortable. The preacher read it and moved on.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Preach vv. 24-27.** These verses cannot stay unaddressed. The "gave them up" structure is Paul's argument, not a digression. Explain divine judicial abandonment — God's wrath expressed in removing restraint and allowing sin to metastasize. This is not a culture-war moment; it is the passage's own logic.
+
+2. **Replace *[Gospel presentation.]* with actual preaching.** At minimum: Christ died for the sins of those who were "without excuse" — the same people described in this passage. Justification by faith in Christ alone. What must a hearer do? Repent and believe. Name it. Say it plainly. The Wyley illustration has done the heavy emotional lifting; now tell them what to do with it.
+
+3. **Add exhortation before the close.** After the gospel is proclaimed: "So let me tell you what this passage requires of you today. If you have been suppressing what you know about God — stop. If you have been exchanging his glory for your own comfort — repent. If you have any curiosity about Christ at all, that curiosity is the Father calling you. Answer him. Come to Christ today."
+
+4. **Trim the fine-tuning to two illustrations.** The carbon resonance and the atmospheric cascade can stand alone. The baryon entropy ratio, the electron path, and the galactic positioning are individually excellent but collectively create a Science Channel segment that delays the theological turn. Cut two, develop one more fully.
+
+5. **Integrate the BFM article or remove it from the preaching manuscript.** As formatted, it interrupts the movement toward the close. Either weave its content into the sermon or treat it as a separate church-life element that happens outside the sermon proper.
+
+6. **Address verse 32 directly.** "Paul ends with something more disturbing than individual sin: a culture that approves of what it does. We are not only people who sin — we have become people who applaud sin, who give trophies for it, who demand that others celebrate it. That is the deepest level of the exchange. And it describes our moment precisely."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** Exposition scores 18, Conscience scores 9 — the gap (9 points below threshold) does not trigger. The sermon is not bloodless; it has genuine pastoral warmth. The issue is incompleteness, not clinical correctness.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The providence section and the Shultz meditation carry genuine eternal gravity — God's deliberate, eternal ordering of every element of the cross pulses with the weight of glory — but the sermon does not fully arrive where that weight is pointing, and so the congregation is left marveling rather than prostrating.
+
+**Bonus: +3 / 5**
+
+---
+
+### 17. Rubric Fit Note
+
+Romans 1:18-32 is a forensic and theological argument, not narrative or wisdom literature — the rubric fits it without strain. The one genre note worth flagging: this passage is simultaneously apologetic (vv. 18-20), theological anthropology (vv. 21-23), and judicial/prophetic (vv. 24-32). A sermon that leans heavily into the apologetic material (as this one does) will naturally under-preach the judicial section. The rubric correctly identifies that under-preaching as a weakness; there is no need to bend the rubric here. The framework fits the text, and the text demands more than the sermon currently delivers.

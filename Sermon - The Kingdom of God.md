@@ -221,3 +221,199 @@ As the hymn says:
 ---
 
 Gospel.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Verdict Title**: A Survey of God's Greatness Without a Throne for Christ to Occupy
+
+**One-Sentence Summary**: A warmhearted opening of Matthew 13:44 that assembles genuine wonder at God's omniscience, omnipresence, and omnipotence while failing to drive the parable's radical demand — that the Kingdom calls for total, joyful self-abandonment — into the conscience of any hearer.
+
+---
+
+### A. Berean Gate
+
+**Scopus Test**: The text's main point is the Kingdom of heaven as a treasure of surpassing worth, for which a man joyfully surrenders everything. The sermon's actual main point is that God is great (omniscient, omnipresent, omnipotent) and therefore it is wonderful that he cares for us. These are not the same thing. The parable calls for a response — *sell all*. The sermon calls for wonder.
+
+**Authority Test**: The preacher handles the text respectfully but treats the parable as a launching pad into God's attributes rather than as a text demanding exposition of its own claim. The imperative edge of the text — the total, joyful dispossession of Matthew 13:44 — is never named, let alone pressed.
+
+**Result**: PASS (narrow) — the sermon does not contradict the text and Christ is presented as the treasure. But the sermon's center of gravity has migrated away from the parable's controlling demand. The Berean Gate passes, but with the warning that the sermon's main point and the text's main point are not the same.
+
+---
+
+### B. Fatal Flaw Flags
+
+**Flag 4 — Application is entirely generic**: The sermon closes with a hymn verse and the word "Gospel." There is no specific call. No differentiated address. No hearer is told what the parable demands of them — not the comfortable churchgoer who loves God sentimentally, not the person who has never sold anything for Christ, not the missions-hearted person praying for the Qassab. The application is structurally absent, not merely thin.
+
+**Flag 5 — No actual exhortation**: The sermon explains God's greatness, gestures toward evangelism and discipleship, and ends. There is no moment where the preacher says, "This is what you must now do." The congregation was moved toward wonder, but never summoned to obedience, repentance, or surrender.
+
+**Score is capped at 69.**
+
+---
+
+### C. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14/25**
+
+- *Textual Fidelity*: 5/10. Matthew 13:44 is read aloud and never really exposited. The parable's three movements — finding, hiding, joyful dispossession — receive no treatment. The word "joy" in the text, which is exegetically crucial, is never examined. The sermon derives its argument from the God-of-the-parable, not from the parable's own logic.
+- *Contextual Awareness*: 3/5. The "already and not yet" section is the most exegetically engaged portion of the sermon, with Luke 17:21 and 19:11 cited helpfully. The BFM context is noted but not integrated meaningfully.
+- *Exegetical Clarity*: 3/5. The discussion of inaugurated eschatology is handled clearly. The parable itself goes unexplained.
+- *Logical Faithfulness*: 3/5. No eisegesis, but significant omission. The text's own pressure — *sell all that you have* — is quietly bypassed. The FCF (fallen condition focus) is never named. What hole does this text exist to fill? The sermon does not say.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness*: 5/7. Christ is named as the treasure, the cross is mentioned twice, and the line "Christ didn't come to be King — he came to be crucified" is theologically sharp. This is the sermon's best moment.
+- *Redemptive-Historical Awareness*: 2/3. The "already and not yet" framework is used correctly, though not developed with depth.
+- *Doctrinal Precision*: 3/4. The attributes of God are handled accurately. The Westminster attribution error (corrected in the source notes) would be a minor deduction if it appeared in the final text; as corrected, it is fine.
+- *Confessional Alignment*: 3/4. No confessional contradictions. The sermon does not deeply engage soteriological or covenantal themes, but what it does say is sound.
+
+**3. Gospel Centrality & Force — 8/15**
+
+- *Clarity of the Gospel*: 2/5. The gospel is gestured at but not proclaimed. "This is why Christ traded his throne for a cross" is a powerful line but it arrives in one sentence and is not developed. An unbeliever would know that Christ died but not why, not what his death accomplishes, not what response it demands.
+- *Necessity of Christ*: 3/5. Christ is present. He is named as the treasure. The cross is mentioned. But Christ is not essential to most of the sermon — the omniscience, omnipresence, and omnipotence sections could exist in a synagogue without giving offense. The Synagogue Test is partially triggered.
+- *Cross-Centered Gravity*: 3/5. The sermon moves toward the cross in the final sections but never arrives with force. The hymn lyric is the most gospel-saturated moment, and it is quoted rather than preached.
+
+**Synagogue Test**: The middle third of this sermon — the sections on omniscience, omnipresence, and omnipotence — could be preached in a mosque or synagogue without significant offense. The cross appears but is not the gravitational center. Partial flag.
+
+**4. Conscience & Applicatory Force — 5/15**
+
+- *Heart Penetration*: 2/5. The wonder of God's personal care is genuinely moving. But wonder is not conscience. The sermon produces admiration, not searching. No hearer is asked what they have sold for the Kingdom.
+- *Specificity*: 1/5. "Evangelism and discipleship" is offered as the response. This is accurate but entirely generic. No specific face, situation, or demand is named. The Qassab people group is introduced with pastoral warmth but disconnected from the sermon's applicatory thrust.
+- *Spiritual Differentiation*: 2/5. Perkins' hearers are not distinguished. The sermon addresses a generic "we." The comfortable believer and the unbeliever receive identical address. The backslider and the self-righteous are not reached.
+
+**5. Exhortation & Response — 2/8**
+
+- *Call to Response*: 1/4. The sermon ends with the word "Gospel." There is no exhortation. No "therefore." No summons. The Lord's Prayer citation ("Your kingdom come") is the closest thing to an imperative, but it is presented as description, not demand.
+- *Equipping for Holiness and Witness*: 1/4. Evangelism is mentioned once. The congregation is not sent anywhere or given tools for anything. The Qassab prayer points are the most actionable content in the sermon, and they precede the sermon proper.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline*: 3/4. The structure is legible: Kingdom defined → God's attributes → Already/Not Yet → Our Response → Wonder at personal care. A listener can track it.
+- *Progression*: 2/3. The sermon moves but does not build. The attribute sections feel like parallel units rather than escalating argument. The parable is never returned to.
+- *Unity*: 1/2. Two sermons coexist here: one about God's greatness, one about the Kingdom as treasure. They are related but not unified under one controlling idea.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance*: 2/2. The butterfly effect, the beaver dam, the image-blowing-up-on-a-computer, the glial cells — these are drawn from everyday life and accessible.
+- *Clarity*: 1/2. Most illustrations clarify the attribute being discussed. The glial cell illustration is the most effective, showing that God knew what we would need before science caught up. The quantum physics passage meanders and doesn't land cleanly.
+- *Memorability*: 1/1. The computer-and-the-photo illustration is genuinely memorable. The Hartnett quote, while beautiful, is attributed to a less-known author and may not stick.
+
+**8. Sermonic Force — 4/5**
+
+- *Reads as Preaching*: 2/2. The manuscript reads conversationally. Direct address is present ("I was reading this week," "I daresay"). Breath-length sentences dominate.
+- *Conviction on the Page*: 1/2. Where the manuscript is theologically most dense ("Christ didn't come to be King — he came to be crucified"), it reads with genuine force. But conviction is intermittent. Long passages of marveling lack declarative edge.
+- *Cadence and Breath*: 1/1. Sentence variation is natural. The hymn lyric landing near the close has structural grace.
+
+---
+
+### D. Cognitive Load Modifier
+
+**−1**: The sermon covers omniscience, omnipresence, omnipotence, inaugurated eschatology, the Qassab, quantum physics, and glial cells. An ordinary hearer can track each unit individually, but the sermon does not give them one clear thing to carry home. The load is manageable but the unity is insufficient. A congregation could leave enriched and unfocused simultaneously.
+
+---
+
+### E. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 14/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 8/15 |
+| Conscience & Applicatory Force | 5/15 |
+| Exhortation & Response | 2/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **56/100** |
+| Weight of Glory (bonus) | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **57/105** |
+
+**Fatal flaw cap applied: Score reported as 57 (capped at 69 due to Flags 4 and 5).**
+
+**Interpretation**: Below 60 — Fundamentally flawed in its applicatory and exhortatory architecture. The theology is warm and largely sound. The preaching has not yet begun.
+
+---
+
+### F. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Partially Christ — the wonder of his personal care is the emotional center. But "how amazing that he cares for me" is still self-referential wonder. The sermon does not drive the hearer to the cross so much as warm them by its glow.
+2. *Did I encounter God, or just ideas about Him?* Ideas about him, beautifully assembled. The omniscience section produces admiration. It does not produce trembling.
+3. *Was I comforted, convicted, or merely informed?* Informed and warmed. Not convicted.
+
+---
+
+### G. Strengths (Top 3)
+
+1. **"Christ didn't come to be King — he came to be crucified."** This single sentence in the "Our Response" section is the sharpest theological claim in the sermon. It names the scandal of the incarnation clearly and could anchor an entire sermon if placed at the center rather than the margin.
+
+2. **The computer-and-the-photo illustration** (the image blown up to skyscraper scale crashing the computer) is genuinely memorable, native to the text's argument, and earned. It communicates the incomprehensibility of God's greatness without condescension or cliché.
+
+3. **The Qassab section** — while structurally disconnected from the sermon body — models the missional weight that a Kingdom sermon should carry. The prayer points are specific and the people group is humanized, not merely cited.
+
+---
+
+### H. Critical Weaknesses (Top 3)
+
+1. **The parable is never exposited.** Matthew 13:44 is read once and never revisited. The text's three movements — finding, concealing in joy, total dispossession — receive zero exegetical attention. Most critically, the word *joy* (χαρά), which is the emotional and theological heart of the parable, is never named. The sermon preaches around the text, not from it.
+
+2. **There is no application and no exhortation.** The sermon ends with a hymn and the word "Gospel." Nothing specific is asked of any hearer. This is not a minor weakness — it is the structural failure of the sermon. The parable demands to know: what have you sold? The sermon never asks.
+
+3. **The middle third could survive in a synagogue.** The omniscience, omnipresence, and omnipotence sections are theologically accurate but not gospel-saturated. A devout Muslim could sit through them without offense. Christ's blood is not the center of gravity in those sections — admiration for God's greatness is. This is not heresy; it is a failure of proportion.
+
+---
+
+### I. Blind Spots
+
+The preacher appears unaware that wonder and worship are not the same as preaching. The sections on God's attributes are beautiful. They are also, functionally, the sermon's avoidance of what the text actually demands. Matthew 13:44 is not a text about how great God is. It is a text about what the Kingdom costs and why it is worth it. The sermon has not preached that text.
+
+---
+
+### J. Illusion of Strength
+
+The sermon *feels* gospel-centered because it ends with a hymn about the cross and the word "Gospel." But the hymn is borrowed feeling, not preached truth. The cross appears in the final two minutes of a lengthy sermon and is not the culmination of any argument. The emotional warmth of the closing masks the absence of an exhortation.
+
+Similarly, the breadth of illustration (science, quantum physics, stars, glial cells) creates the impression of intellectual seriousness and pastoral range. But illustration is not exposition. The text remained unexplored throughout.
+
+---
+
+### K. Missed Opportunity
+
+The word *joy* in Matthew 13:44 is the sermon's entire missed opportunity. The man does not sell all he has reluctantly, out of duty, or through gritted teeth. He sells it *in his joy*. This is the key to connecting the Kingdom's greatness to the believer's response. The sermon spent four sections building the case for why God is great enough to deserve all — and then never made the move. "In his joy he goes and sells all" — this is the sentence that binds everything together. It was left unpreached.
+
+The people group section also deserved integration. The Qassab are introduced before the sermon and then forgotten. A preacher preaching Matthew 13:44 to a congregation praying for the Qassab has a gift in front of him: *the Kingdom is worth the cost of sending someone to Pakistan.* That sermon was available. It was not preached.
+
+---
+
+### L. Surgical Fixes
+
+1. **Return to the text in three movements.** Preach the finding, the hiding, and the selling. Give one full section to the word *joy* — why does joy accompany total loss? Because the treasure is worth infinitely more than everything surrendered. This is where the sermon should live.
+
+2. **Convert the attributes sections into a single unit.** Omniscience, omnipresence, and omnipotence serve the parable's point only if they establish *why the Kingdom is the treasure of all treasures*. Compress those three sections into one and make them serve the text's argument rather than stand alongside it.
+
+3. **Add a direct exhortation before the close.** "What have you not yet surrendered that is keeping you from the field? Name it." Address at minimum three hearers: the long-time believer who has never risked anything for the Kingdom, the person who is curious about Christ but holding back, and the congregation corporately in light of the Qassab.
+
+4. **Integrate the Qassab into the body of the sermon.** "A million people who would need to hear a preacher sell everything he has and go to Pakistan to tell them about this treasure — does that sound too costly? The man in the field didn't think so." This is the sermon's missional moment. Use it.
+
+5. **Rewrite the conclusion.** The hymn is beautiful and appropriate. But "Gospel." as a final word is a placeholder, not a proclamation. Name what the gospel is and what it demands — here, at the end of a sermon on the Kingdom's worth.
+
+---
+
+### M. Dead Orthodoxy Flag
+
+**Not triggered** — this sermon is not doctrinally cold. The warmth is genuine. But the rubric notes the inverse danger: *emotional warmth that substitutes for applicatory force*. The sermon is more sentimentally alive than it is pastorally rigorous. Wonder without summons is still incomplete.
+
+---
+
+### N. Weight of Glory Assessment
+
+There are moments — particularly "Christ didn't come to be King, he came to be crucified" and the Hartnett quotation on God's inexhaustibility — where the sermon carries eternal weight. But they are islands in a sea of information. The sermon does not culminate in worship or in summons. It trails off into warmth.
+
+---
+
+### O. Rubric Fit Note
+
+Matthew 13:44 is a parable — a narrative-wisdom form — and the rubric's exposition categories apply well here. The parable has a clear argument, a controlling image, and a demanding application. The rubric is not strained by this text. The text is strained by the sermon's avoidance of it.
+
+*Soli Deo Gloria.*

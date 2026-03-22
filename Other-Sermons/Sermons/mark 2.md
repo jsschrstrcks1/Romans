@@ -61,3 +61,183 @@ What would Jesus want you to do for them?
 Cross the street. Give them a hug. Love on them a bit and share the life saving truth of the gospel of peace. If you want to see the world change, that’s how it happens. Not with snarky facebook posts. Not with feelings of self righteous indignation. Not with protests or riots. Cross the street. Introduce yourself. Love them. Then tell them about Christ’s love for them. 
 
 Gospel.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Sermon File:** mark 2.md
+**Passage:** Mark 2:1–12 (paralytic lowered through the roof)
+
+---
+
+### 1. Verdict Title
+**Three Strong Points, One Missing Center — Gospel Sketched But Not Proclaimed**
+
+---
+
+### 2. One-Sentence Summary
+A vivid and energetic exposition of Mark 2 that makes strong use of the passage's three movements and presses real application, but fails to proclaim the gospel it repeatedly gestures toward, leaving the sermon's most urgent claim as a label rather than a proclamation.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test: PASS**
+The main point of the sermon — Jesus has authority to read hearts, heal bodies, and forgive sins, and he addresses both physical and spiritual need — arises directly from Mark 2:1–12. The sermon's structure follows the passage's own argument (Jesus forgives, scribes object in their hearts, Jesus heals to demonstrate his authority to forgive). This is legitimate text-following.
+
+**Authority Test: PASS**
+The preacher submits to the text. The hard edges of Jesus' declaration ("your sins are forgiven") and its scandalous implication (only God can forgive sins) are engaged rather than softened. The sermon does not edit the passage to avoid offense.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 1 — No clear gospel presentation (TRIGGERED):**
+The sermon ends with the single word "Gospel." as a placeholder. Throughout the sermon, gospel themes are circled — Christ forgives sin, Christ is fully God, Christ is essential — but the actual content of the gospel (the death of Christ for sin, the resurrection, justification by faith) is never proclaimed. An unbeliever listening to this sermon would know that Jesus forgives sin and that he is God, but would not know *how* that forgiveness is received or what Christ's death and resurrection accomplished. "Gospel." is not a gospel presentation.
+
+**Score cap at 69 triggered.**
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 19/25**
+- *Textual Fidelity (8/10):* The three-point structure (Jesus reads hearts, Jesus heals, Jesus forgives) arises cleanly from the text. The exegetical note on "they unroofed the roof" (Mark's Greek) is an excellent and appropriate use of original language as an unlock, not decoration. The treatment of vs. 6–7 (scribes objecting in their hearts) is perceptive and connects directly to the application.
+- *Contextual Awareness (4/5):* The reference to Mark's context — the crowd around Jesus, the tile-roof home likely Peter's — shows awareness of narrative setting. Some engagement with the broader Markan argument would strengthen it.
+- *Exegetical Clarity (4/5):* The passage is explained with enough clarity that a new believer could follow the argument. The transition from physical to spiritual need (Ephesians 2 — dead in trespasses) is an appropriate cross-reference that illuminates rather than distracts.
+- *Logical Faithfulness (3/5):* The move from the passage to the Himalaya missions introduction is a long detour before the text is read — over 1,000 words of missions narrative precede any textual exposition. This creates a structural imbalance: the illustration is longer than the exposition.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+- *Christ-Centeredness (5/7):* "Jesus is the only one who was fully God and fully man... the only one with the authority over sin and death and hell and satan... the only one who was willing to die on the cross once and for all, for all of our sins past present and future" — this is strong Christ-centered language. It arises from the passage's own logic (only God can forgive).
+- *Redemptive-Historical Awareness (2/3):* The connection between the paralytic's healing and Christ's authority over sin is made with some redemptive-historical logic ("the greatest need is Jesus"). No explicit canonical placement.
+- *Doctrinal Precision (3/4):* No doctrinal errors. The double need (physical/spiritual) is helpfully distinguished. The Ephesians 2 reference to being "dead in trespasses and sins" and "children of wrath" is accurate.
+- *Confessional Alignment (3/4):* No contradiction of confessional theology. Justification by faith is implied but not articulated.
+
+**3. Gospel Centrality & Force — 7/15**
+- *Clarity of the Gospel (1/5):* The gospel is named but not proclaimed. "Jesus paid the price for our sin" appears once in passing. The single word "Gospel." closes the sermon. An unbeliever would not know from this sermon the content of what they must believe to be saved.
+- *Necessity of Christ (4/5):* Christ is essential to this sermon — not decorative. The sermon cannot survive without Jesus. The argument about his dual authority (heal and forgive) makes this clear.
+- *Cross-Centered Gravity (2/5):* The sermon moves toward Christ's authority and necessity but not specifically toward the cross. "Die on the cross once and for all, for all of our sins" appears in one sentence and is not developed.
+
+**4. Conscience & Applicatory Force — 10/15**
+- *Heart Penetration (4/5):* "God sees your heart too. He knows your heart, he hears your heart. Every deep and dark closet. Every secret sin." — this is genuine conscience-pressing. The question "Does your thought life bring glory and honor to God?" is sharp.
+- *Specificity (3/5):* The application to crossing the street, putting aside self-righteous indignation, sharing the gospel with difficult neighbors is concrete and grounded in the congregation's real world.
+- *Spiritual Differentiation (3/5):* The sermon addresses Christians (thought-life, loving difficult neighbors), general sinners (need for forgiveness), and the lost (gospel at the end). The hardened, the backslider, and the humbled-but-not-yet-believing are less distinctly addressed.
+
+**5. Exhortation & Response — 5/8**
+- *Call to Response (2/4):* "Cross the street. Give them a hug. Love on them a bit and share the life saving truth of the gospel of peace." is a real exhortation. "What would Jesus want you to do for them?" — these are calls to action. The concluding "Gospel." however is where the most urgent response should be: the call to believe. That is absent.
+- *Equipping for Holiness & Witness (3/4):* The sermon's strongest exhortation equips the church for witness — putting down snarky facebook posts, crossing the street, embodying Christ's love before sharing the gospel. This is specific and actionable.
+
+**6. Structure & Logical Flow — 6/9**
+- *Clarity of Outline (3/4):* The three-point structure ("there are three things I want you to see, maybe four") is announced and followed. Each point is traceable. The problem is the extended missions narrative at the opening — it is so long that a listener may not remember where it fits when the text finally begins.
+- *Progression (2/3):* The sermon builds logically from the text toward application. The missions/Himalaya introduction is thematically connected (compassion for the whole person) but structurally front-heavy.
+- *Unity (1/2):* The sermon has two competing centers — the Himalaya missions narrative and the Mark 2 text. The stated connection ("Perhaps like the people in our passage today") is too loose to unify them.
+
+**7. Illustration & Imagination — 3/5**
+- *Relevance (2/2):* The Himalaya missions narrative is harrowing and vivid. The "handi-crippled" sound man reference adds warmth. The Facebook/internet application is timely and native to the congregation.
+- *Clarity (1/2):* The Himalaya narrative is so extended and graphic that it risks overwhelming the exposition that follows. It illuminates compassion but at the cost of proportionality.
+- *Memorability (0/1):* No single image is likely to be carried home as the encapsulation of the sermon's point.
+
+**8. Sermonic Force — 3/5**
+- *Reads as Preaching (2/2):* Direct address, rhetorical questions, pastoral challenge — the manuscript reads as spoken. "What did Jesus do for you? What would Jesus want you to do for them?" is a genuine preaching moment.
+- *Conviction on the Page (1/2):* Scripture-grounded assertions are present but intermittent. The conscience-pressing section on thought life is strong; much of the rest is narrative.
+- *Cadence and Breath (0/1):* Sentence variation is present but the climax ("Cross the street. Give them a hug.") is too informal in register to carry full sermonic weight.
+
+---
+
+### 6. Cognitive Load Modifier: **0**
+The sermon is clear and accessible. The three-point structure helps. No overload.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 19/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 10/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **66/100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | 0 |
+| **Total (pre-cap)** | **67/100** |
+| **Fatal Flaw Cap Applied** | **67/69 cap** |
+| **Final Score** | **67/100** |
+
+**Interpretation: Concerning gaps — the sermon explains but doesn't fully preach. Significant revision needed.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* More of Christ — Jesus' dual authority is the sermon's center of gravity.
+2. *Did I encounter God, or just ideas about Him?* Mostly ideas, with one moment of genuine encounter ("every deep and dark closet, every secret sin — he was there").
+3. *Was I comforted, convicted, or merely informed?* Conviction is present (thought-life, neighbor-love); the comfort of the gospel is announced but not given.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Three-point structure follows the text's own argument.** The movement from heart-reading to healing to forgiveness is Mark 2's own logic, and the sermon follows it faithfully. This is genuine textual exposition.
+2. **The exegetical note on "they unroofed the roof."** Using Mark's Greek to press the weight of the friends' effort is exactly how original language should function in preaching — as an unlock for the congregation, not as a display of scholarship.
+3. **The conscience-pressing on thought life.** "Every deep and dark closet. Every secret sin. Every embarrassing thing we've ever done, he was there" — this is searching, Puritan-flavored heart-work that arises directly from the text (Jesus knowing the scribes' hearts).
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is a placeholder, not a proclamation.** The most urgent claim of the sermon — that Jesus forgives sin, that he died and rose again, and that forgiveness is received by faith — is gestured at throughout and then labeled "Gospel." at the end without being preached. The congregation is told that forgiveness exists; they are not told what it costs, how it was achieved, or how to receive it.
+2. **The Himalaya opening is structurally disproportionate.** More than 1,000 words of graphic missions narrative precede the reading of the text. By the time Mark 2 is opened, the sermon has already run its longest illustration. The connection ("perhaps like the people in our passage today") is too thin to justify the weight.
+3. **The exhortation ends at witness, not at the cross.** "Cross the street and love on your neighbor" is a real and good call, but the sermon's most urgent imperative — "believe in Jesus Christ who forgives your sin" — is swallowed by the missions application. The vertical call is missing at the conclusion.
+
+---
+
+### 11. Blind Spots
+
+The preacher may not see that the Himalaya narrative is functioning as the emotional center of the sermon — the congregation is more likely to leave thinking about sex-trafficked children and chained boys with cerebral palsy than about Christ's authority to forgive sin. That emotional weight belongs to the sermon's point, not to the opening illustration. The illustration should serve the text; here the text almost serves the illustration.
+
+---
+
+### 12. Illusion of Strength
+
+The three-point structure creates an impression of well-organized exposition. But the first and third points (Jesus reads hearts, Jesus forgives sin) are supporting points of a deeper claim — that Christ has authority over both body and soul — which the sermon never quite crystallizes into a single governing statement. The structure looks tight but the unifying thesis is diffuse.
+
+---
+
+### 13. Missed Opportunity
+
+Mark 2:10 is the theological center of the passage: "But that you may know that the Son of Man has authority on earth to forgive sins..." — this is a direct claim to divine prerogative. The sermon names it but doesn't dwell there. The scribes were right: only God can forgive sins. Jesus' point is not merely that he is compassionate — it is that he is God, and that the healing of the body is a sign of his authority to do the greater thing (forgive sin). That moment of divine self-disclosure deserved a full expository stop.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Replace "Gospel." with a 3–5 minute gospel proclamation.** State plainly: why sin requires death, what Christ's death accomplished (penal substitution), what his resurrection means, and how to receive forgiveness by faith. This is the most urgent repair.
+2. **Shorten the Himalaya narrative to 2–3 minutes and relocate it.** It can serve as a strong application illustration ("Jesus met the whole person — will you?") rather than a 10-minute opening that overwhelms the text.
+3. **Identify and preach the governing thesis of Mark 2.** Add one sentence that crystallizes the sermon's main claim and return to it in the conclusion: "Jesus is the only one with authority over both the body and the soul — and he exercises that authority by dying for our sin."
+4. **Add direct address to the self-righteous after the "Jesus reads hearts" section.** The scribes in the text represent the knowledgeable-but-unhumbled hearer. A direct application to people who know the truth but are unmoved by it would honor Perkins' taxonomy and press the conscience more specifically.
+5. **The exhortation needs a vertical layer.** Before "cross the street," add: "First, repent. Come to the one who reads your heart, forgives your sin, and commands you to rise and walk in newness of life."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+Not triggered — there is genuine pastoral fire and a real call to action. But the absence of a proclaimed gospel means the fire burns outward (toward neighbor-love) without first burning downward (conviction of sin and need for Christ). The sequence is inverted.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The sermon has flashes of genuine weight — the thought-life challenge, the Christ-as-only-Savior language — but the graphic missions narrative carries more emotional freight than the proclamation of the Savior, and the sermon ends without the gravity that a full gospel proclamation would bring.
+
+---
+
+### 17. Rubric Fit Note
+
+Mark 2 is narrative Gospel material. The rubric applies well here — the passage has a clear argumentative structure (healing as proof of authority to forgive), and the categories of exposition, gospel centrality, and conscience all engage naturally. No rubric strain.

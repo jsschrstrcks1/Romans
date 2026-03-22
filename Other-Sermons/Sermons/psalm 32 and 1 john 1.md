@@ -129,3 +129,202 @@ Leave here fearing God and hating sin.
 Leave here loving Jesus more deeply—because the One who deserves to cast you out has, in Christ, brought you near.
 “Blessed is the one whose transgression is forgiven, whose sin is covered.” (Psalm 32:1)
 Amen.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation Date:** 2026-03-21
+**Sermon:** The Burden, the Flame, and the Holy God
+**Primary Texts:** Psalm 32; 1 John 1:5–2:2
+
+---
+
+### 1. Verdict Title
+
+**”A Pastoral Masterwork on Confession — Textually Grounded, Gospelly Hot, and Surgically Applied”**
+
+---
+
+### 2. One-Sentence Summary
+
+A faithful, four-movement exposition of Psalm 32 and 1 John 1 that boldly names the holiness of God and the necessity of the cross, presses the conscience with uncommon specificity, and closes with some of the most practically exhortative sermonic writing in the batch — while occasionally allowing the introductory occasion (the paper-burning ritual) to consume more homiletical oxygen than the texts themselves warrant.
+
+---
+
+### 3. Berean Gate
+
+**PASS — both tests.**
+
+**Scopus Test:** The sermon's thesis — “God has appointed a path for sin's removal: confession, mortification, covenant renewal, and visible fruit, all grounded in the propitiation of Christ” — demonstrably arises from Psalm 32:3–5 and 1 John 1:8–2:2. The four movements map organically onto the texts.
+
+**Authority Test:** The preacher does not soften the hard parts. The holy wrath of God is preached, not softened. Specific sins are named without apology. The sermon stands under the texts rather than above them.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**None.** No score cap applies.
+
+The gospel is clearly proclaimed (propitiation is named and explained). Christ is essential and cannot be removed from the sermon's argument. Application is specific and differentiated. Exhortation is present and strong. The sermon is accessible to ordinary hearers.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 22/25**
+
+- *Textual Fidelity (9/10):* Psalm 32:3–5 and 1 John 1:8–9 are the structural backbone of the sermon. The four movements arise from the texts' own logic. Point I traces David's movement from silence to confession with precision. The propitiation word in 1 John 2:1–2 is highlighted and defined. Minor deduction: Psalm 32 as a whole receives uneven treatment — verses 6–11 (the call to prayer, the promise of steadfast love, the blessing of the forgiven) are not developed. The sermon uses Psalm 32 primarily through vv. 1–5 and Psalm 103:12, leaving the psalm's own arc of joy incomplete.
+- *Contextual Awareness (4/5):* The redemptive and experiential context of Psalm 32 (penitential psalm, Davidic authorship) is handled well. The connection to Psalm 103:12 is apt. The 1 John passage is read in its epistolary context (the problem of false assurance, the walk in light). Minor gap: the occasion-specific nature of the sermon (paper-burning day) creates an extended introductory frame that slightly crowds the text's own contextual scaffolding.
+- *Exegetical Clarity (5/5):* “Propitiation” is not glossed over — it is unpacked: “wrath is real—and wrath is satisfied.” The distinction between God's faithfulness and justice in forgiveness is named. The word “confession” as agreement with God is helpfully defined.
+- *Logical Faithfulness (4/5):* No eisegesis detected. The widow's mite illustration in section I is applied to the spirit of repentance (don't perform) rather than exegetically derived from the passage — it is an apt pastoral application but represents a minor hermeneutical import. The FCF (Fallen Condition Focus) is clearly identified: human tendency toward ritual substitution, self-managed guilt, and the refusal to name sin honestly.
+
+**2. Theology & Doctrinal Integrity — 17/18**
+
+- *Christ-Centeredness (7/7):* Christ is not decorative. The sermon turns every movement toward the cross. “The fire that matters is the wrath that should have fallen on you, and did fall on Him” is among the strongest cross-centered formulations in the batch. Propitiation is proclaimed, not assumed.
+- *Redemptive-Historical Awareness (3/3):* The movement from Psalm 32 (penitential cry under the old covenant) to 1 John (new covenant clarity) to Lord's Supper (covenant ordinance) to Zacchaeus (visible fruit of redemption) shows strong redemptive-historical instinct. The connection is organic, not forced.
+- *Doctrinal Precision (3/4):* Justification language is present but not formally articulated — “forgiveness is not God shrugging; forgiveness is God applying the finished work of Christ” is close but doesn't use the word justification or articulate imputation. The mortification section is strong (by the Spirit, not self-improvement). Minor deduction for the absence of more precise justification language, particularly when connecting to 1 Jn 2:1–2.
+- *Confessional Alignment (4/4):* No contradictions of confessional theology. The law/gospel dynamic is present and well-ordered. Mortification by the Spirit (not by self-discipline) is affirmed clearly. The Lord's Supper is handled with confessional care — a covenant ordinance, not a ritual.
+
+**3. Gospel Centrality & Force — 14/15**
+
+- *Clarity of the Gospel (5/5):* An unbeliever could understand the gospel from this sermon. The substitutionary nature of Christ's death is explicit. “The fire of judgment did not fall on a sheet of paper. It fell on Christ.” That is as clear as it gets.
+- *Necessity of Christ (5/5):* The sermon fails the Synagogue Test emphatically — in the best way. It cannot survive in a mosque or a synagogue without causing offense. Christ is structurally necessary to every movement.
+- *Cross-Centered Gravity (4/5):* The sermon moves toward the cross throughout. The law/gospel dynamic is well-ordered — the holiness and wrath of God are established before the gospel relieves it. Minor deduction: in section II (mortification), the transition from law-weight to gospel-comfort is swift. The hammer strikes hard; the balm arrives quickly. A congregation under deep conviction might benefit from a longer dwell under the law before the gospel is given.
+
+**4. Conscience & Applicatory Force — 14/15**
+
+- *Heart Penetration (5/5):* This sermon reaches the affections, not just the intellect. “Every cherished sin is you preferring something to Jesus” is the kind of line that corners the conscience. The section on pride-in-religious-clothing is searching. The direct address to those who have had abortions — comforting rather than crushing — is exceptional pastoral care.
+- *Specificity (5/5):* This is the strongest category. Specific sins are named: pornography, greed, bitterness, envy, lies, pride, drunkenness, cruel words, prayerlessness. Specific behaviors are addressed: keeping the app, keeping the number, the hidden stash, the late-night isolation. The application does not stay in the fog.
+- *Spiritual Differentiation (4/5):* The sermon explicitly addresses the “struggling saint,” the “self-assured sinner,” and the “skeptic.” Multiple Perkins categories are reached: the knowledgeable-but-unhumbled (those who excuse and celebrate sin), the humbled-but-not-yet-believing (those brought near conviction), the struggling believer, and the backslider. Minor deduction: the teachable-but-ignorant (new believers, seekers genuinely confused about confession and ritual) could have received a slightly fuller address — they appear primarily in the conclusion.
+
+**5. Exhortation & Response — 8/8**
+
+Full marks. The conclusion is a masterclass in exhortation:
+- Specific next steps are named (write, confess, burn, identify a safe person, identify the root, cut off provision, make restitution).
+- The imperatives are ordered: confession → mortification → fellowship → fruit.
+- The congregation is not merely comforted — they are summoned. “Leave here fearing God and hating sin” is not advice. It is a command.
+- The sermon addresses the church as a body (fellowship, mutual accountability) and as individuals.
+
+**6. Structure & Logical Flow — 8/9**
+
+- *Clarity of Outline (4/4):* The four movements (Confession, Mortification, Covenant Renewal, Fruit) are clear and memorable. A listener could sketch them.
+- *Progression (3/3):* The sermon builds. Confession leads to the question of ongoing sin, which leads to the God-ordained table, which leads to visible fruit. The progression is cumulative and purposeful.
+- *Unity (1/2):* The introduction is lengthy and serves multiple purposes — it addresses the paper-burning occasion, establishes wrath theology, and introduces the thesis. This is understandable given the occasion but creates a slightly compressed feeling in the body. The widow's mite illustration in section I is somewhat disconnected from the textual argument at that point. The sermon has one dominant idea but the introduction's dual focus (pastoral occasion + textual argument) slightly strains unity.
+
+**7. Illustration & Imagination — 5/5**
+
+Full marks. Every major illustration serves the text:
+- The paper-burning ritual as a foil for the actual gospel is native to this sermon and not interchangeable with any other.
+- The widow's mite applied to pride-in-repentance is vivid and memorable.
+- The recovery-language section in the conclusion (“rigorous honesty before God”) is excellent — it meets people in their idiom and then lifts them to the text, rather than replacing the text with the idiom.
+- The “sin promises relief and pays slavery” triad is compact and memorable.
+
+**8. Sermonic Force — 5/5**
+
+Full marks. This manuscript reads like preaching, not an essay. Direct address is used repeatedly and at appropriate pressure points (“Some of you know this language already”; “To the struggling saint”; “To the self-assured sinner”; “To the skeptic”). Sentence variation is present. The climactic compression in the conclusion — “Leave here fearing God and hating sin. Leave here loving Jesus more deeply” — earns its moment. Tone-text congruence is present: a sermon on guilt, confession, and the wrath of God should feel weighty, and it does, without feeling crushing.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1** — Slightly dense. The sermon carries four structural movements, extended sub-points within section II (four sub-points), and a lengthy introduction. A congregation already being asked to engage with a paper-burning exercise and prepare for communion on the same Sunday is under significant experiential load. One fewer sub-point in section II (the four steps of mortification could be compressed to three) would improve pace without losing substance.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 22/25 |
+| Theology & Doctrinal Integrity | 17/18 |
+| Gospel Centrality & Force | 14/15 |
+| Conscience & Applicatory Force | 14/15 |
+| Exhortation & Response | 8/8 |
+| Structure & Logical Flow | 8/9 |
+| Illustration & Imagination | 5/5 |
+| Sermonic Force | 5/5 |
+| **Subtotal** | **93/100** |
+| Weight of Glory Bonus | +4 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **96/105** |
+
+**Interpretation: Rare. Exemplary exposition, pastoral heat, gospel gravity. Preach it.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* **Christ.** The cross is the center of every movement.
+2. *Did I encounter God, or just ideas about Him?* **God is present.** The wrath and mercy of God are not abstract — they are proclaimed with weight.
+3. *Was I comforted, convicted, or merely informed?* **Comforted and convicted.** The sermon refuses to allow either to crowd out the other.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The propitiation passage (1 John 2:1–2):** “That word propitiation is not soft. It means wrath is real—and wrath is satisfied. Not by your tears. Not by your resolve. Not by your private symbolism. By Christ.” — This is precise, memorable, and doctrinally irreplaceable. It cannot be removed from the sermon without collapsing the argument.
+
+2. **Differentiated pastoral address in section II:** The three-way address to the self-assured sinner, the struggling saint, and the skeptic is exactly what Perkins called for — each category is addressed with appropriate and distinct language. The struggling saint is not crushed; the self-assured sinner is not coddled; the skeptic is not dismissed.
+
+3. **The four-movement structure's organic connection to the texts:** The sermon does not use the texts as proof-texts for a topical outline — it follows the logic of Psalm 32 (silence → confession → joy) and 1 John 1 (walking in light → confession → cleansing) and extends them naturally into mortification, the Lord's Supper, and fruit. This is expository architecture.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **Psalm 32 vv. 6–11 are largely unused:** The psalm's second half — the call for the godly to pray while God may be found (v.6), the promise of steadfast love surrounding the one who trusts (v.10), and the closing call to rejoice and shout for joy (v.11) — are absent from the exposition. This is a penitential psalm that ends in joy, and the sermon's conclusion, while strong, does not fully arrive at the psalm's own emotional destination: exuberant relief in God's forgiveness. The sermon ends in sobriety when the text ends in celebration.
+
+2. **The widow's mite illustration creates a minor exegetical detour:** The illustration in section I (the widow's two mites applied to unperformative repentance) is pastorally apt but introduces a text (Mark 12) that the sermon does not handle exegetically — it is imported as an illustration of spirit rather than derived from Psalm 32 or 1 John. At this point in the sermon, where careful attention to Psalm 32 would be most useful, the introduction of a third text creates a slight drift. A stronger move would be to ground the same point in Psalm 32:5 itself — the brevity and plainness of David's confession.
+
+3. **Justification is felt but not formally named:** Given that 1 John 2:1–2 is the sermon's doctrinal climax, a brief, clear articulation of imputed righteousness would sharpen the passage's own argument: the forgiven person stands before God not on the basis of their confession's quality but on the basis of Christ's propitiation. “Forgiveness is God applying the finished work of Christ” is close — but the formal language of justification (declared righteous, imputed righteousness) would give confessing sinners a more durable theological foundation than is currently present.
+
+---
+
+### 11. Blind Spots
+
+The sermon is slightly more effective at pressing the guilty conscience than at nourishing the assurance of those who have genuinely confessed and yet still feel the weight of sin. The “if you confess your sins” promise is proclaimed clearly, but the full experiential arc of Psalm 32:1–2 (“blessed is the one whose transgression is forgiven, whose sin is covered, whose iniquity is not counted”) is touched more than developed. The preacher may not realize how much a beaten-down congregation needs to hear that the verdict of forgiveness does not depend on the depth of their felt relief after confession. The sermon summons people to confess; it could more fully assure them of what happens when they do.
+
+---
+
+### 12. Illusion of Strength
+
+The four-step mortification section (II.1–4) *feels* thoroughly systematic and therefore complete. But the ordering — name the sin, hunt the root, bring the gospel, cut off provision — actually front-loads diagnosis and under-develops the gospel application. Step 3 (bring the gospel to the root) is the shortest sub-point in a section about killing sin, which is precisely where the gospel must be given the most room. The structure creates the impression of gospel-centrality in mortification while subtly crowding out the gospel application with more diagnostic content.
+
+---
+
+### 13. Missed Opportunity
+
+Psalm 32:8–9 — “I will instruct you and teach you in the way you should go; I will counsel you with my eye upon you. Be not like a horse or a mule” — offers the richest pastoral development available in the passage and receives zero treatment. This is the divine response to the confession of v.5. The preacher moves directly from the confession-and-forgiveness axis to the mortification section without sitting in the Lord's own pastoral answer to the guilty conscience: “I will lead you. I will instruct you. Don't be a stubborn animal.” That image — God's personal, ongoing counsel to the forgiven soul — would have bridged confession and mortification with the shepherd's own promise rather than a three-step mortification plan.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Add a short dwell on Psalm 32:1–2 in the conclusion:** After the summons to “leave here fearing God and hating sin,” add 3–4 sentences grounding the congregation in the psalm's own verdict: “And when you do — when you confess — hear what the text says first: *Blessed is the one whose transgression is forgiven.* Not 'probably' forgiven. Not 'forgiven if your confession was sincere enough.' Forgiven. The word means to lift and carry away. God does not review your confession for quality. He looks at Christ.”
+
+2. **Trim the widow's mite illustration and replace with Psalm 32:5 itself:** The plainness of David's confession in v.5 — “I said, I will confess my transgressions to the LORD” — is its own illustration of non-theatrical, non-performative confession. Use David to illustrate David, rather than importing a second text at this structural moment.
+
+3. **Develop step 3 of mortification (bring the gospel to the root):** This is the theological and pastoral heart of section II and currently the shortest point. Expand: “Here is where sanctification is not self-discipline — it is the Spirit making Christ more real to you than the bait. You are not just suppressing the desire; you are replacing the object of desire. The gospel doesn't say 'try harder.' The gospel says 'look longer at Christ until the idol loses its power.'”
+
+4. **Treat Psalm 32:8–9 explicitly as the Lord's answer to the confessing soul:** “Before you move to mortification — hear the Lord's answer to your confession. 'I will instruct you. I will counsel you with my eye upon you.' The God who forgave you is now your guide. You don't mortify sin alone. The same God whose hand was heavy on you is the same God who now leads you with His eye.”
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered.** This sermon has both doctrinal content and pastoral fire. The conscience is searched; sinners are cornered; saints are comforted. The doctrine is not merely right — it is warm.
+
+---
+
+### 16. Weight of Glory Assessment
+
+This sermon carries genuine unction — the wrath of God, the blood of Christ, and the call to holy war against sin are all present with weight and specificity, and the sustained refusal to let the congregation settle for the symbolic rather than the real gives the sermon a quality of eternal consequence that most sermons only approximate.
+
+**Bonus: +4/5** — The sermon earns the bonus; the one point withheld is for the psalm's own final note of rejoicing (vv. 10–11) that goes unproclaimed, leaving the congregation in sobriety where the text leaves David in song.
+
+---
+
+### 17. Rubric Fit Note
+
+The rubric applies well to this sermon. Both Psalm 32 (penitential psalm) and 1 John 1 (epistle) are accessible to standard expository categories. The dual-text structure creates slight hermeneutical complexity — the rubric evaluates single-text sermons more cleanly — but the preacher handles the two texts as complementary voices rather than competing ones, which is the correct move. The Lord's Supper and Luke 19 (Zacchaeus) are brought in as supporting texts, not primary texts, and that proportion is appropriate. No rubric category is strained by the genre.

@@ -102,3 +102,151 @@ Both groups will kneel before Him. Both groups will declare Him Lord — one in 
 Which group are you in today?
 
 *Gospel.*
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Date Evaluated**: 2026-03-21
+**Passage**: Philippians 1:27–2:16
+**Evaluator**: Thus Says the Lord Rubric v1.0
+
+---
+
+### 1. Verdict Title
+A Passable Gospel Appeal With a Manuscript That Preaches Better Than It Expounds
+
+### 2. One-Sentence Summary
+A warm, gospel-hearted sermon on Philippians 1:27–2:16 that demonstrates genuine pastoral urgency and produces a real Christ-or-judgment call, but whose exposition never systematically engages the passage's own argument — the call to the unity, humility, and self-emptying mind of Christ — leaving the congregation stirred without being formed.
+
+### 3. Berean Gate
+**MARGINAL PASS — with notation**
+
+- **Scopus Test**: Philippians 1:27–2:16 is Paul's call to a manner of life worthy of the gospel, anchored in the Carmen Christi (2:5–11) — the self-emptying of Christ as the ground and model of Christian unity and humility. The sermon's thesis ("Is your manner of life worthy of the gospel?") does arise from the passage, specifically from 1:27 (*politeuomai*). However, the Carmen Christi — the theological engine of the passage — is barely touched, and the call to unity and against selfish ambition (2:1–4) is not preached. The sermon treats the passage as a frame for an evangelistic appeal and a general Christian exhortation rather than preaching what Paul actually argues.
+- **Authority Test**: The preacher broadly submits to the text but the passage's hardest demand — "do nothing from selfish ambition or conceit" — receives only a single passing reference. The passage's specific command structure is not worked.
+
+> Marginal pass. The thesis arises from a real verse and the passage is referenced throughout, but the governing argument of the passage (Christological humility as the ground of gospel-worthy living) is not the sermon's governing argument.
+
+---
+
+### 4. Fatal Flaw Flags
+**None triggered — score not capped.**
+
+However, note:
+- The passage from 2:5–11 (the Carmen Christi) — arguably the most theologically loaded section of Philippians — is referenced once in passing (the "every knee shall bow" citation at the end) but never expounded. This is a significant expositional gap, not a fatal flaw, but it shapes the score substantially.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14/25**
+- Textual Fidelity (10): 6/10 — The sermon opens verse 27 with the *politeuomai* word study (live as citizens of Philippi; manner of life), which is the best exegetical moment in the manuscript. Verse 29 (suffering granted as a gift) is identified and applied against prosperity gospel thinking — well done. But verses 2:1–4 (unity, humility, the mind of Christ) and 2:5–11 (the Carmen Christi) are not expounded. "Let's read the rest of our passage through verse 16" appears as a stage direction — the reading is assumed, not unpacked.
+- Contextual Awareness (5): 3/5 — The prison epistles context is identified accurately. The special relationship between Paul and Philippi is noted and utilized.
+- Exegetical Clarity (5): 3/5 — The *politeuomai* analysis is good pastoral exegesis. The Greek note on "continuous, ongoing action" for the verb in 2:5 is brief but accurate. The Isaiah 64:6 citation uses NLT rather than a more precise translation.
+- Logical Faithfulness (5): 2/5 — The sermon pivots from exposition to the lipstick/toilet mirror illustration to a Peter/Galatians 2 anecdote to a C.T. Studd quote to an eschatological call to urgency. These are not illogical but they are not the passage's own logic.
+
+**2. Theology & Doctrinal Integrity — 14/18**
+- Christ-Centeredness (7): 6/7 — Christ is central. The Spurgeon quote ("If Christ is not all to you He is nothing to you") is apt and the final scene — kneeling before Christ in glory or in judgment — is Christ-centered and weighty.
+- Redemptive-Historical Awareness (3): 2/3 — The sermon situates Philippians in the New Covenant age and in Paul's imprisonment with appropriate context.
+- Doctrinal Precision (4): 3/4 — The total depravity argument (corpses, children of wrath) is handled soundly. The distinction between what saves (Christ alone) and what obedience signals is correctly drawn. The Galatians 2 incident is accurately summarized.
+- Confessional Alignment (4): 3/4 — Broadly sound. No confessional errors. The penal substitution language ("our sin held Him on the cross until it was finished") is present but brief.
+
+**3. Gospel Centrality & Force — 11/15**
+- Clarity of the Gospel (5): 4/5 — The gospel is proclaimed, not merely assumed. The sermon is clear that it is not obedience that saves, that we are corpses who cannot choose God, and that Christ did what we could not. The Isaiah 64:6 passage (even if in NLT) reinforces depravity.
+- Necessity of Christ (5): 4/5 — Christ is essential. The sermon cannot survive without Him. The final appeal ("which group are you in today?") is grounded in Philippians 2:10–11.
+- Cross-Centered Gravity (5): 3/5 — The cross is mentioned but not dwelt on. "It was our sin that held Him on that cross until it was finished" is the most explicit cross reference, and it passes quickly. More cross-gravity would deepen the sermon's strongest moments.
+
+**4. Conscience & Applicatory Force — 10/15**
+- Heart Penetration (5): 4/5 — The direct address to named congregants ("Paula," "Willie Burdette," "Greg," "Kathy") is a genuine and pastorally courageous move. The toilet-mirror illustration is the sermon's most memorable moment — the image of adults returning to the sewage of old sin is vivid and searching.
+- Specificity (5): 4/5 — The "Rays in the playoffs," "Bucs playing the Saints," and the named congregants give the sermon a specificity that many manuscripts lack.
+- Spiritual Differentiation (5): 2/5 — The sermon effectively addresses both the unbeliever ("which group are you in today?") and the believer ("is your manner of life worthy of the gospel?"), but does not differentiate further. The backslider, the self-righteous, and the doubter are not addressed distinctly.
+
+**5. Exhortation & Response — 6/8**
+- Call to Response (4): 3/4 — The final appeal ("Which group are you in today?") is direct and clear. The "depart from me" / "well done" contrast is the sermon's strongest climactic moment.
+- Equipping for Holiness & Witness (4): 3/4 — The C.T. Studd section is the best equipping moment: "use those things as vehicles to share the life-saving truth of the gospel with the people around you who are lost and bound for an eternity in hell." Direct, specific, missional.
+
+**6. Structure & Logical Flow — 6/9**
+- Clarity of Outline (4): 3/4 — The sermon has a traceable movement: context → verse 27 → suffering (v. 29) → how we fall short → the toilet-mirror illustration → call to gospel-worthy living → eschatological urgency → final appeal. It flows well enough for oral delivery.
+- Progression (3): 2/3 — The Galatians 2 / Peter section (approximately the middle of the sermon) is the most structurally awkward. It introduces a lengthy story about Barnabas, Paul's conversion, and the Antioch incident that is interesting but not tightly connected to the passage's argument at that point.
+- Unity (2): 1/2 — The sermon has two competing centers: (1) an exhortation to gospel-worthy living and (2) an evangelistic appeal. Both are valid — but the passage's own center (the Carmen Christi as the ground of the exhortation) is absent, leaving the two themes floating without theological anchor.
+
+**7. Illustration & Imagination — 4/5**
+- Relevance (2): 2/2 — The lipstick/toilet-mirror illustration is excellent: congregation-native, memorable, and precisely targeted. The "Rays and Bucs" reference lands the eternal-urgency argument in the specific moment of the congregation's life.
+- Clarity (2): 2/2 — The toilet-mirror illustration illuminates its point without competing with it.
+- Memorability (1): 1/1 — "Adults pressing their lips into a toilet-washed mirror" will be remembered. This is the sermon's enduring image.
+
+**8. Sermonic Force — 4/5**
+- Reads as Preaching (2): 2/2 — The manuscript reads as genuine preaching. The direct address is consistent, the cadence is oral, and the named congregants make it feel like a real conversation.
+- Conviction on the Page (2): 2/2 — The Spurgeon, Calvin, Edwards, Owen string of quotes has density and weight. Owen's "Be killing sin or it will be killing you" is the sermon's sharpest line.
+- Cadence and Breath (1): 0/1 — The sermon does not compress toward its climax. The Peter/Galatians 2 section expands mid-sermon when the momentum should be building.
+
+---
+
+### 6. Cognitive Load Modifier
+**0** — The sermon is accessible. The illustrations handle the theological weight well and the congregation can follow it without seminary training.
+
+---
+
+### 7. Total Score
+**69/100**
+
+*Interpretation: Concerning gaps. The sermon explains and appeals but does not expound. The Carmen Christi — the theological engine of the passage — is untouched. Needs another pass, specifically at the exposition.*
+
+---
+
+### 8. Core Override Questions
+1. **Does this sermon make me think more of Christ — or myself?** The balance is roughly even. The final third tilts toward Christ. The middle section tilts toward my response.
+2. **Did I encounter God, or just ideas about Him?** The final eschatological scene (kneeling before Christ) creates a genuine encounter. The Spurgeon/Calvin/Edwards/Owen sequence adds intellectual density. The toilet-mirror illustration is spiritually visceral. Yes, partly.
+3. **Was I comforted, convicted, or merely informed?** Convicted and urged. The gospel appeal is real. The named congregants will have felt searched. The believers will have felt urged toward urgency.
+
+---
+
+### 9. Strengths (Top 3)
+1. **The toilet-mirror illustration** — "How many of us adults willingly return to the toilet water of the sins of our old lives, again and again and again?" This is the best single moment in the sermon. It is visceral, accurate, and will not be forgotten.
+2. **The named direct address** — "Would Paul say that of you, Greg? Of you, Kathy? Would he say it of me?" Pastoral courage. This is what Puritan application looks like in an ordinary congregation.
+3. **The verse 29 counter-prosperity-gospel move** — "For it has been granted to you that for the sake of Christ you should not only believe in him but also suffer for his sake." This is handled well and will reorient hearers conditioned by health-wealth assumptions.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+1. **The Carmen Christi (2:5–11) is absent.** The theological center of the passage — Christ's self-emptying, humility, and exaltation as both the ground and model of gospel-worthy living — is referenced once in the closing ("every knee shall bow," 2:10–11) but never preached. Without it, the call to "have this mind among yourselves" floats without a foundation.
+2. **The Peter/Galatians 2 section is structurally misplaced.** The anecdote about Barnabas vouching for Paul, followed by the Antioch incident, is interesting but arrives mid-sermon when the momentum should be building toward application. It teaches true things that are not connected to the passage's argument at that point.
+3. **The Gujjar people-group section is a sermon-within-a-sermon.** The unreached peoples emphasis is missionally commendable but the Gujjar introduction (four paragraphs) occupies significant early manuscript space and is unconnected to the passage being preached. It delays entry into the text.
+
+---
+
+### 11. Blind Spots
+The preacher appears to believe the sermon has adequately covered Philippians 2 because the chapter was read aloud. But "let's read the rest of our passage through verse 16" followed by the Spurgeon section means the passage's most theologically loaded verses (2:5–11) were read but not opened. Reading and expounding are not the same act.
+
+---
+
+### 12. Illusion of Strength
+The Spurgeon/Calvin/Edwards/Owen sequence is dense and impressive and *feels* like deep theology. But four quotes piled together, however true, are not exposition of the passage. They illustrate a point the preacher already holds rather than a point he derived from the text.
+
+---
+
+### 13. Missed Opportunity
+Philippians 2:5–8 — the Carmen Christi — is one of the most exegetically rich and pastorally powerful passages in Paul's letters. "Who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself... he humbled himself by becoming obedient to the point of death, even death on a cross." This is not just a reference to the cross — it is the *argument* for everything Paul asks in 2:1–4 (no selfish ambition, consider others more significant than yourselves). Preaching that connection would give the exhortation its necessary gospel ground and would have made the toilet-mirror illustration not just vivid but theologically lethal.
+
+---
+
+### 14. Surgical Fixes
+- **Preach the Carmen Christi**: After reading 2:5–11, stop and ask: what did Christ give up? What did He take on? Why does Paul put this *here* — between the command to humility and the command to work out salvation? The answer: because the command is only possible if Christ is not merely our example but our life. Ground the call in the self-emptying.
+- **Reorder or shorten the Peter/Galatians 2 section**: If kept, make it a single paragraph transition-bridge, not a three-paragraph narrative. Its role is to illustrate the difference between gospel-worthy living and hypocrisy — one sentence can do that.
+- **Move or compress the Gujjar section**: Consider placing the unreached peoples prayer focus as a brief opening prayer-point rather than a four-paragraph entry that delays the text.
+- **Name penal substitution more explicitly**: "It was our sin that held Him on that cross until it was finished" is present but could be sharpened: "He bore the wrath that was ours. He exhausted the judgment we had earned. And He did it willingly — emptying Himself, becoming obedient to death, even death on a cross." The text gives you this language.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon has genuine pastoral heat, direct address, and a real gospel appeal. It is not dead orthodoxy — it is under-expounded orthodoxy.
+
+---
+
+### 16. Weight of Glory Assessment
+The final eschatological scene — kneeling before Christ in glory or in judgment — carries genuine eternal gravity, and the sermon earns it. But the Weight of Glory is front-loaded with human warmth and lacks the theological bedrock of the Carmen Christi that would make the closing scene not just dramatic but inevitable.
+
+---
+
+### 17. Rubric Fit Note
+Philippians 1:27–2:16 is epistolary with embedded hymnic material (the Carmen Christi). The rubric applies well. The passage's own law/gospel rhythm (you must live this way / but only because Christ has already done this) is perfectly suited to the rubric's Hammer-and-Balm diagnostic. The rubric's weakness here is that it cannot fully assess the missing Carmen Christi — it can only note its absence. No genre strain.
