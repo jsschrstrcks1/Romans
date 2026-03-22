@@ -350,3 +350,171 @@ And to the only wise God — through Jesus Christ — be glory forevermore.
 The night is over. The names are written. Go in the light.
 
 Amen.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**File:** Romans 16 - The Names in the Light.md
+**Text:** Romans 16:1–27
+**Evaluated:** 2026-03-22
+
+---
+
+### 1. Verdict Title
+A Masterful Series Capstone — The Gospel Produces Named People, and Its Final Word Is Worship
+
+---
+
+### 2. One-Sentence Summary
+A near-exemplary closing sermon to the Romans series that mines the name-list of Romans 16 for its full ecclesiological and missiological weight, handles the warning about false teachers with pastoral precision, and closes the letter with a doxology that ties Romans 1:5 to 16:26 — with only minor notes on application specificity and the warning section's relative brevity.
+
+---
+
+### 3. Berean Gate
+**PASS**
+
+*Scopus Test:* "The letter that began with the wrath of God ends with the family of God — and the only word left is glory." The three-section thesis (Named → Warning → Doxology) tracks the chapter's own structure. The sermon's claim that the gospel produces named, known, spent people is demonstrated from the names themselves. The doxology section shows the letter's inclusio (Romans 1:5 → 16:26). Text-derived throughout.
+
+*Authority Test:* The preacher does not soften the warning (vv.17–18) — "Avoid them" is preached as written. He does not sentimentalize the names — they are historical figures with documented costs (Prisca's near-execution, the women's kopiaō). He submits fully.
+
+---
+
+### 4. Fatal Flaw Flags
+**None triggered.**
+
+- Gospel explicitly presented at the close: Romans 5:10, Romans 10:9, direct invitation.
+- Main point equals text's point.
+- Christ is necessary — the doxology centers "through Jesus Christ."
+- Application is specific across four categories.
+- Exhortation clear: "Can you name ten people?" "Are you a name or a face in the crowd?"
+- Fully accessible.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 24/25**
+
+- *Textual Fidelity (9/10):* All three sections of the chapter receive treatment. The names section is developed with historical precision: Phoebe (*diakonos* and *prostatis*), Prisca and Aquila (Acts 18 context; Prisca named first; throats risked), *kopiaō* for the women (not "helped out" — labored to exhaustion), the Rufus/Simon of Cyrene connection (Mark 15:21), Tertius the invisible hand (the only non-Paul voice in the letter). The warning section (vv.17–20) is handled — *koilia*, smooth talk, naïve hearts, Genesis 3:15 echo. The doxology (vv.25–27) is unpacked: "my gospel" as entrusted, *mystērion* as God's eternal plan, the Romans 1:5/16:26 inclusio. One point held: the warning section receives slightly less development than the other two.
+- *Contextual Awareness (5/5):* The Tunisia/North Africa People Group is the sermon's contextual masterstroke — ancient Christian heritage now nearly erased. The public reading of letters in the Roman church. The Romans series arc reviewed in the closing summary. Tertullian, Cyprian, Augustine named historically.
+- *Exegetical Clarity (5/5):* *diakonos*, *prostatis*, *kopiaō*, *koilia*, *mystērion* — all deployed precisely and pastorally. The FCF: the gospel produces anonymous Christians when it should produce named ones. The Romans 1:5/16:26 inclusio is the sermon's exegetical crown.
+- *Logical Faithfulness (5/5):* No eisegesis.
+
+**2. Theology & Doctrinal Integrity — 16/18**
+
+- *Christ-Centeredness (6/7):* The doxology section is rich — "to the only wise God be glory forevermore through Jesus Christ." The mystery disclosed through the preaching of Jesus Christ. The warning section could have connected more explicitly to Christ as the protector of his church (Genesis 3:15 echo is present but brief).
+- *Redemptive-Historical Awareness (3/3):* Outstanding. The mystery hidden in long ages, now disclosed. The Tunisia example as redemptive history lived out. The Romans 1:5/16:26 frame shows Paul's missionary purpose as a redemptive-historical act.
+- *Doctrinal Precision (4/4):* False teachers serving their *koilia*; Genesis 3:15 echo; the mystery as God's eternal plan; "the only wise God" explained — not merely powerful or holy but wise enough to save through a cross.
+- *Confessional Alignment (3/4):* No contradiction; content is confessional; no explicit 1689 citation.
+
+**3. Gospel Centrality & Force — 13/15**
+
+- *Clarity (4/5):* Romans 5:10, Romans 10:9, direct gospel invitation to the unbeliever. Clear and complete.
+- *Necessity of Christ (5/5):* "Through Jesus Christ" in the doxology; the mystery disclosed through the preaching of Jesus Christ. Christ is the only means of the doxology's "glory forevermore."
+- *Cross-Centered Gravity (4/5):* The sermon's climax is doxological — appropriate to the text. The cross is present (reconciliation through the death of his Son, Romans 5:10) but not the emotional center of this sermon. Correctly so, given the passage.
+
+**4. Conscience & Applicatory Force — 12/15**
+
+- *Heart Penetration (4/5):* "Paul could name twenty-six people in a church he'd never visited. Can you name ten people sitting in this room? Do you know who's exhausted? Who's struggling?" — that is the sermon's conscience-pressing climax. The invisible-servant application is warm and honest.
+- *Specificity (4/5):* Four named categories. The Tunisia section presses the "forgotten names" point with historical specificity. The warning section is specific about voice/media consumption.
+- *Spiritual Differentiation (4/5):* Coasting, invisible, worried, unbeliever — four distinct categories. The backslider and the self-righteous are not distinctly addressed.
+
+**5. Exhortation & Response — 7/8**
+
+- *Call to Response (4/4):* "Are you a name or a face?" for the coasting. "You are not invisible" for the invisible servant. "Avoid them" for the doctrinally concerned. Gospel invitation for the unbeliever.
+- *Equipping for Holiness & Witness (3/4):* The warning section equips for discernment. The names section equips for community investment. The Tunisia section implies a missional call. No explicit witness-equipping.
+
+**6. Structure & Logical Flow — 9/9**
+
+- *Clarity (4/4):* Three labeled sections tracking the chapter's three movements. Application sections named. Series-closing summary at the end. Traceable.
+- *Progression (3/3):* Names → Warning → Doxology is the text's progression. The closing series-summary is the right capstone move.
+- *Unity (2/2):* "The gospel produces not just doctrines believed — people changed. Names known. Family real." One idea held across all three sections.
+
+**7. Illustration & Imagination — 5/5**
+
+The Tunisia/North Africa section is the sermon's most powerful illustrative move — Tertullian coined the word *Trinity*, Augustine just across the border, and now over 99% Muslim. The Rufus/Simon of Cyrene connection is the most emotionally resonant moment in the sermon. Tertius's one sentence — "I was here too" — is handled with pastoral warmth that will be remembered. The "family portrait" framing of the name-list is effective.
+
+**8. Sermonic Force — 5/5**
+
+- *Reads as Preaching (2/2):* "Don't leave." "The letter that began with the wrath of God ends with the family of God." "The only word left is glory." Short, direct, preached.
+- *Conviction (2/2):* "Can you name ten people?" is the conscience-pressing moment. "Not because you were famous, but because you were spent" — that lands.
+- *Cadence (1/1):* The closing series-summary is beautifully cadenced. "We started in darkness. The alarm sounded..." — the rhythm carries the congregation through the whole letter.
+
+---
+
+### 6. Cognitive Load Modifier
+**−1** — Three major sections plus the series-closing summary is comprehensive; the series-summary is necessary but dense.
+
+---
+
+### 7. Total Score
+**95 / 100**
+
+*Interpretation: Rare. Exemplary exposition, pastoral heat, gospel gravity. Preach it.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Both, appropriately: the names-section turns me inward (am I a name?), the doxology turns me upward (to the only wise God). The inward turn serves the upward one.
+2. **Did I encounter God, or just ideas about Him?** "To the only wise God be glory forevermore through Jesus Christ" — preached as worship, not narrated as conclusion. Yes.
+3. **Was I comforted, convicted, or merely informed?** Convicted ("can you name ten people?"), comforted (you are not invisible to God), moved (Tunisia, Rufus's mother, Tertius). Not merely informed.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Romans 1:5/16:26 inclusio.** "To bring about the obedience of faith among all the nations" — the letter begins and ends with the same mission. This exegetical observation ties the entire sixteen-chapter arc into one purpose, and the preacher deploys it not as a curiosity but as the key to everything between those two phrases.
+2. **The Tunisia/North Africa People Group.** In a sermon about names, pointing to a nation whose Christian names have been almost entirely erased is both historically grounded and pastorally devastating. "The land that once gave us Tertullian is now a land where almost no one knows the name of Christ." That is not an illustration. It is a warning.
+3. **Tertius.** "I was here too. I served too. I belong to this family too." — the scribe who slipped in one sentence while recording someone else's theology. The preacher handles it with precisely the pastoral warmth it deserves. The invisible servant in the congregation heard their name spoken.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The warning section (vv.17–20) is the least developed of the three.** It receives real treatment — *koilia*, smooth talk, the naïve, "avoid them" preached without apology, Titus 3:10–11, the distinction from Romans 14. But the Genesis 3:15 echo ("The God of peace will crush Satan under your feet") is the most theologically explosive sentence in the section and receives only two paragraphs. It deserved more.
+2. **The application has no concrete story.** The Romans 14/15 sermons had Holly and Rami. This sermon has four categories but no person. One specific story — a Tertius-type servant in the congregation who has been invisible — would have made the "you are not invisible" section as powerful as the historical illustrations.
+3. **The doctrinally-concerned application could be more specific.** "Some of you are listening to voices right now — online, in your earbuds, on your screens — that fit Paul's description exactly." This is accurate but general. Naming the type of voice (health-and-wealth preaching, therapeutic deism, progressive deconstruction) would make it more searchingly specific.
+
+---
+
+### 11. Blind Spots
+
+The sermon may not see that the warning section's hardest application is for the theologically confident — those who are certain they can always identify the false teacher. Paul's warning is for the "naive," but the theologically trained are not immune to flattery of a more sophisticated kind. A line aimed at the person who thinks they're too discerning to be deceived would close a gap.
+
+---
+
+### 12. Illusion of Strength
+
+The closing series-summary ("We started in darkness... The alarm sounded... We got dressed...") is deeply satisfying as a capstone — it earns its place. But it risks becoming the sermon's emotional climax at the expense of the doxology. The last word of the letter is "Amen" — worship. If the series-summary is the last thing the congregation feels emotionally, the doxology has been displaced. The summary should lead to the doxology, not follow it.
+
+---
+
+### 13. Missed Opportunity
+
+**The "holy kiss" (v.16).** "Greet one another with a holy kiss. All the churches of Christ greet you." The sermon notes this as "a sign of family" — but doesn't press the application: what does the holy kiss look like in this congregation today? This is the one moment in the passage that is explicitly communal and ecclesiological, and it passes relatively quickly. In a sermon about invisible servants and coasting Christians, "greet one another the way a family greets each other" had room to become a moment of real summons.
+
+---
+
+### 14. Surgical Fixes
+
+1. Expand the Genesis 3:15/verse 20 section: "Ordinary believers. Faithful doctrine. Shut doors. And the heel presses down. You are not watching the battle from the stands — you are in it."
+2. Add one specific Tertius-type person from the congregation's life (or pastoral experience) in the application.
+3. Reorder the close: series-summary → leads into the doxology → benediction. The doxology should be the last word, not the summary.
+4. Add one sentence to the warning application naming the type of voice: "The man who tells you your best days are ahead if you'll just believe harder. The teacher who makes you doubt the plain meaning of Scripture and feel sophisticated for doubting it."
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The conscience-pressing is real. The doxology is genuine worship, not a literary close.
+
+---
+
+### 16. Weight of Glory Assessment
+"The only wise God. Wise enough to save through a cross. Wise enough to build a family out of enemies. Wise enough to crush the serpent under the feet of ordinary saints." That is a sentence worth preaching. The Tunisia section carries genuine eternal gravity. **+5/5**
+
+---
+
+### 17. Rubric Fit Note
+Romans 16 is a list of names plus a doxology — a genre that genuinely stresses the rubric's categories. The rubric notes that narrative and list-genre texts may stress the exposition categories differently. Here, the rubric is wisely applied: textual fidelity is measured by whether the preacher mines the names for their actual content, not by whether he produces an academic commentary. The sermon passes this test. The rubric fits.

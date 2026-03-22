@@ -136,3 +136,170 @@ Communion: 
 
 Scripture says: 
 23 For I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, 24 and when he had given thanks, he broke it, and said, “This is my body, which is for[b] you. Do this in remembrance of me.”[c] 25 In the same way also he took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.” 26 For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**File:** Romans 5.md
+**Text:** Romans 5:1–11
+**Evaluated:** 2026-03-22
+
+---
+
+### 1. Verdict Title
+Gospel at Full Strength, Application at Half — A Theologically Rich Sermon That Moves Too Quickly from Conviction to Comfort
+
+---
+
+### 2. One-Sentence Summary
+A theologically precise and cross-centered sermon on Romans 5:1–11 that articulates peace, hope-in-suffering, and reconciliation with real doctrinal force, but whose application is largely undifferentiated and whose conscience-searching work is outpaced by its rush to comfort and doxology.
+
+---
+
+### 3. Berean Gate
+**PASS**
+
+*Scopus Test:* The sermon tracks all five movements of Romans 5:1–11 (peace/access → suffering/hope → Christ died for the ungodly → wrath/reconciliation → rejoicing in God). The thesis — "the gospel at full strength" — is consistent with Paul's argument here.
+
+*Authority Test:* The preacher does not soften the wrath language, the "enemies" language, or the substitutionary nature of Christ's death. He submits to the text's claims.
+
+---
+
+### 4. Fatal Flaw Flags
+**None triggered.**
+
+- Gospel present: Romans 5:8 (quoted twice), propitiation (Romans 3:25–26), "In Christ Alone" hymn, communion elements as visible gospel proclamation.
+- Main point equals text's point.
+- Christ is necessary throughout.
+- Response called for: communion and gospel invitation.
+- Accessible throughout.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 18/25**
+
+- *Textual Fidelity (8/10):* All five text movements tracked. Propitiation correctly deployed at vv.1–2 from Romans 3:25–26. Suffering chain (vv.3–5) explained. "Ungodly/enemies" terminology of vv.6–8 preserved and emphasized. Vv.9–10 (wrath → reconciliation) present. V.11 (rejoicing in God) closes. Gap: no word-level exegesis; Romans 5:10b ("saved by his life" — the resurrection ground of ongoing salvation) is not engaged.
+- *Contextual Awareness (3/5):* Romans series context is set. 1689 Confession cited. No engagement with Romans 5 as the transition from justification (ch.1–4) to sanctification (ch.6–8).
+- *Exegetical Clarity (3/5):* FCF is clear. Sola fide, sola gratia, solus Christus named. No original-language exegesis. The John Mark McMillan song risks becoming the text at moments.
+- *Logical Faithfulness (4/5):* No eisegesis. The hurricane/tree frame is theologically appropriate.
+
+**2. Theology & Doctrinal Integrity — 17/18**
+
+- *Christ-Centeredness (7/7):* The cross is the center throughout. "The storm of justice struck Christ instead." Propitiation precisely defined. Resurrection included. No artificial jump — this is the text's own christology.
+- *Redemptive-Historical Awareness (2/3):* Brief but present via the Romans series placement.
+- *Doctrinal Precision (4/4):* Propitiation correctly defined as wrath-satisfying. Reconciliation correctly distinguished from peace. 1689 quoted accurately. "Not infusing righteousness but pardoning" — precise.
+- *Confessional Alignment (4/4):* 1689 cited (11.1 and 16.5). Sola fide, sola gratia, solus Christus named.
+
+**3. Gospel Centrality & Force — 15/15**
+
+- *Clarity (5/5):* Complete — Romans 5:8 proclaimed twice; communion as visible gospel; "In Christ Alone" as invitation.
+- *Necessity (5/5):* Without Christ the wrath remains unsatisfied and the enmity stands.
+- *Cross-Centered Gravity (5/5):* "The wrath has been spent. The love has been poured out." The cross is the climax of every section.
+
+**4. Conscience & Applicatory Force — 7/15**
+
+- *Heart Penetration (3/5):* The wrath section is genuinely sobering. The A.W. Pink quote deployed precisely. But the sermon moves from conviction to comfort faster than the text demands — the law does not have adequate time to land.
+- *Specificity (2/5):* "People like me. For people like you." is acknowledgment, not application. No specific person, category, or scenario named.
+- *Spiritual Differentiation (2/5):* Essentially one address — all sinners in need of grace. The self-righteous believer, the doubter, the suffering saint, the complacent are not distinctly addressed.
+
+**5. Exhortation & Response — 4/8**
+
+- *Call to Response (2/4):* Communion as response. "In Christ Alone" as invitation. The "therefore" moment for the already-believing congregation — what must they now specifically do? — is absent.
+- *Equipping (2/4):* The suffering section partially equips for perseverance. No specific equipping for witness or holiness.
+
+**6. Structure & Logical Flow — 8/9**
+
+- *Clarity (4/4):* Five labeled sections tracking the text.
+- *Progression (2/3):* Follows the text's own logic well. The concluding lyrical section is emotionally resonant but long — it dilutes the sermon's theological precision with warmth that could be briefer.
+- *Unity (2/2):* "The gospel at full strength" holds throughout.
+
+**7. Illustration & Imagination — 4/5**
+
+The hurricane/tree frame is vivid and disciplined. The courtroom/King illustration is effective. Sibbes's "sun-behind-clouds" quote is the sermon's most pastorally specific moment. Communion as visible gospel is theologically exact. No personal illustration from the preacher's own experience.
+
+**8. Sermonic Force — 4/5**
+
+- *Reads as Preaching (2/2):* Oral rhythm, direct address, good variation.
+- *Conviction (1/2):* The wrath section has conviction; the lyrical close softens into warmth. The hammer needs more time before the balm.
+- *Cadence (1/1):* Effective compression in the conclusion.
+
+---
+
+### 6. Cognitive Load Modifier
+**−1** — Multiple attributed quotes, repeated song lyrics, communion instructions, and People Group section create genuine density.
+
+---
+
+### 7. Total Score
+**79 / 100**
+
+*Interpretation: Solid but lacking — usually in application or gospel force. Needs another pass.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Christ — wrath and love both center on him.
+2. **Did I encounter God, or just ideas about Him?** Close to encounter in the wrath section; the lyrical close softens toward sentiment.
+3. **Was I comforted, convicted, or merely informed?** Comforted well; convicted briefly; the rush from conviction to comfort is the sermon's defining pattern.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The wrath section.** "His wrath is eternal because He is eternal. Infinite because He is infinite. We dare not diminish that wrath, for in doing so we diminish the cross." That is a sentence worth standing behind.
+2. **Communion as visible gospel.** "The bread is the body of Christ broken under God's wrath. The cup is the blood poured out in love. This is justification made visible — tasted, remembered, proclaimed." Theologically exact and pastorally right.
+3. **"Love too great to leave us where we are."** The suffering section correctly interprets God's refining work through trial without prosperity-gospel softness. The 1689's "to try them, and to make them more watchful" is perfectly placed.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The conscience-searching section is too brief.** The sermon moves too quickly from conviction to comfort. The law needs more time before the gospel relieves it. Who in this congregation is relying on their spiritual performance rather than Christ's credited peace? That question is not asked.
+2. **Application is generic.** "People like me. For people like you." No specific hearer is named or addressed by situation. The suffering saint, the self-righteous believer, the complacent person enjoying prosperity — none of these are distinctly addressed.
+3. **Romans 5:10b is missed.** "Saved by his life" — the living, interceding Christ as the ground of ongoing salvation — is one of the New Testament's most neglected assurances. A sermon on peace and hope that stops at the cross and does not reach the risen Christ is half the sermon Romans 5 makes possible.
+
+---
+
+### 11. Blind Spots
+
+The sermon may not see that its own structure embodies the prosperity-gospel error it critiques. The sermon warns against "circumstances were hard, so God must not have wanted me to do it" — but then moves its own emotional arc quickly from wrath to comfort, mirroring the very pattern it critiques. Sustained time in the suffering section would have made the critique more honest.
+
+---
+
+### 12. Illusion of Strength
+
+The John Mark McMillan frame is emotionally powerful — "Love's like a hurricane, I am a tree" — and provides the sermon with a vivid, recurring image. But at the close, the repeated song lyrics do work that the preacher's own voice and the text's own doxology (v.11) could do more directly. The sermon may feel stronger emotionally than it is exegetically because of the song's emotional register.
+
+---
+
+### 13. Missed Opportunity
+
+**Romans 5:10b — "saved by his life."** The risen and interceding Christ is the ground of the believer's ongoing salvation. "Not just that he died for you — he lives for you. Right now, at the right hand of the Father, he is interceding for you. The wrath was satisfied at Calvary; your access to God is maintained by his living priesthood." That development would have given the sermon's assurance section a dimension it currently lacks.
+
+---
+
+### 14. Surgical Fixes
+
+1. Give the wrath/law section thirty more seconds before the gospel relieves it. Let sin press before grace lifts.
+2. Add one specific application: name one category of person (the performer, the doubter, the suffering saint) and address them directly with the peace of v.1.
+3. Develop Romans 5:10b — the living Christ interceding — as the resurrection ground of assurance.
+4. Tighten the lyrical close: one stanza of "In Christ Alone" is sufficient. Remove the repeated hurricane lyrics.
+
+---
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The wrath section has genuine heat and the cross is central.
+
+---
+
+### 16. Weight of Glory Assessment
+The wrath and cross sections carry real eternal gravity. The sermon softens toward the end in a way that partially releases that weight. **+3/5**
+
+---
+
+### 17. Rubric Fit Note
+Romans 5:1–11 is declarative Pauline theology moving through peace, suffering, cross, reconciliation, and doxology. The rubric fits it well. The rubric correctly identifies the application deficit — Paul's own logic demands differentiated address because the peace of v.1 means different things to the self-righteous and the doubting, the comfortable and the suffering. The sermon does not yet make those distinctions.
