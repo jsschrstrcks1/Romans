@@ -59,3 +59,214 @@ Lets look at romans 3:23. I read this every week, but this week I want you guys 
 Gospel.
 
 Announcements, we will continue to be in colossians for a while, and will pick up in col 1 where we left off next Sunday.
+
+---
+
+# Thus Says the Lord — Sermon Evaluation
+
+**File:** col 1.md
+**Passage:** Colossians 1 (primary focus on vv. 12–17)
+**Date of Evaluation:** 2026-03-22
+
+---
+
+## 1. Verdict Title
+
+**A Warm and Winsome Apologist Who Has Not Yet Become a Preacher**
+
+---
+
+## 2. One-Sentence Summary
+
+A lively and at times genuinely compelling defense of Christ's supremacy over false gospels that trades away textual depth, conscience-pressing application, and ordered gospel proclamation for illustrations and cultural commentary, leaving the congregation informed and entertained but not yet cornered or exhorted.
+
+---
+
+## 3. Berean Gate
+
+**Scopus Test: MARGINAL PASS**
+The sermon's thesis — that Jesus is supremely sufficient and no false gospel can supplement or displace him — does arise from the general orbit of Colossians 1. The problem is that the passage is never actually opened verse by verse. The sermon arrives at vv. 12–17 late and only grazes them. The main point is discernible but it floats above the text rather than arising from the text's own argument.
+
+**Authority Test: PASS (with qualification)**
+The preacher does not soften or edit the text's claims. He affirms Christ's deity, the reality of sin's blindness, the necessity of regeneration, and the demand for gospel witness. He does not handle the hard parts, largely because he doesn't stay in the passage long enough to encounter them.
+
+**Verdict: Marginal pass. The gate opens, but barely. The sermon is not anti-textual — it is pre-textual. It preaches about Colossians more than from it.**
+
+---
+
+## 4. Fatal Flaw Flags
+
+**Flag #4 — Application is entirely generic: TRIGGERED**
+The application throughout is vague: "We have to have a proper view of Jesus." "We HAVE to keep Jesus as the focus of our worship." "Sharing the gospel is a privilege." No specific call is made. No differentiated address. No conscience cornered. No one in the room is pressed into a specific posture.
+
+**Flag #5 — No actual exhortation: TRIGGERED**
+The sermon ends with a placeholder ("Gospel.") and announcements. There is no climactic summoning of the congregation to believe, repent, obey, or pursue. The nearest thing to an exhortation is the appeal to share the gospel, but even that is framed as illustration (the theme park story) rather than a direct command with weight.
+
+**Score is capped at 69.**
+
+---
+
+## 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 13/25**
+- Textual Fidelity: 5/10. The sermon references Colossians 1:12–17 but does not open the passage. Verses are cited as punctuation, not as the engine of the argument. The FCF (fallen condition focus) is named — human tendency toward spiritual counterfeits — but it is not drawn from the text's own argument; it is imported from the cultural illustrations.
+- Contextual Awareness: 2/5. Paul's reasons for writing Colossians (the Colossian heresy) are mentioned helpfully, but the historical context is generalized ("people were saying Jesus isn't enough") without precision. No treatment of the Colossian hymn as a unit.
+- Exegetical Clarity: 3/5. The homoousios/homoiousios distinction is explained accessibly and accurately — this is the sermon's strongest exegetical moment. But the actual passage receives almost no exegetical treatment. What does "firstborn of all creation" mean? What does it mean that he "holds all things together"? These are not opened.
+- Logical Faithfulness: 3/5. No eisegesis per se, but the sermon drifts far from the passage into cultural commentary (prosperity gospel personalities, fake watches, Columbus story). No section is built from the passage's own logic.
+
+**2. Theology & Doctrinal Integrity — 12/18**
+- Christ-Centeredness: 5/7. Christ is genuinely central and his deity is defended with energy. The homoousios point is handled correctly. However, "Christ-centered" here means "Christ is the topic" more than "Christ's redemptive work shapes the sermon's entire logic."
+- Redemptive-Historical Awareness: 1/3. The sermon does not place Colossians 1 in the redemptive-historical narrative. The Colossian hymn is one of the great Christological passages in the NT, but its location in the arc of creation → fall → redemption → new creation is not traced.
+- Doctrinal Precision: 4/4. No errors detected. The treatment of election and human response (via the Sproul citation) is handled responsibly. The denial of prosperity gospel is sound and pointed.
+- Confessional Alignment: 2/4. No contradictions with confessional theology. But this passage naturally engages the Covenant of Grace and the person of the Mediator — themes that received no confessional depth. The doctrines of grace are gestured toward but not developed with precision.
+
+**3. Gospel Centrality & Force — 9/15**
+- Clarity of the Gospel: 3/5. The gospel is gestured at throughout ("redemption and forgiveness of sins, v.14") but never proclaimed. The sermon ends with a placeholder: "Gospel." This is not a gospel presentation — it is a reminder that one should happen. Justification by faith is neither articulated nor illustrated.
+- Necessity of Christ: 4/5. The sermon's entire thrust is that Christ alone is sufficient. This is its clearest strength in this category.
+- Cross-Centered Gravity: 2/5. The Octavius Winslow quote ("He created the tree upon which he was to die") is the one moment where the cross breaks through — and it is luminous. But it appears as illustration, not as the sermon's gravitational center. The cross is a cameo, not the climax.
+
+**Synagogue Test: The sermon mostly fails this test.** A devout Jew or Muslim could affirm much of what was said — that Jesus is unique, sufficient, and deserving of worship — without encountering the scandal of substitutionary atonement. The cross is mentioned but not pressed. The blood is absent.
+
+**4. Conscience & Applicatory Force — 6/15**
+- Heart Penetration: 2/5. The sermon presses on false religion and prosperity gospel with some vigor, but the conscience of the person in the pew is not searched. There is no moment where a particular sinner is named and cornered.
+- Specificity: 2/5. Application is entirely at the level of category ("We need a proper view of Jesus"). No specific behavior, posture, or repentance is called for.
+- Spiritual Differentiation: 2/5. The Perkins taxonomy is almost entirely absent. The sermon addresses one posture: the vaguely sympathetic congregation member who needs to affirm Christ's sufficiency. The doubter, the backslider, the self-righteous churchgoer, the person quietly flirting with a prosperity gospel — none are addressed distinctly.
+
+**5. Exhortation & Response — 3/8**
+- Call to Response: 1/4. The nearest thing to a call is: "Some people go their whole life without ever sharing the gospel. But that is their loss, and their sin." This is declarative, not exhortative. The congregation is never summoned. "Gospel." at the end is not an exhortation — it is a marker for where one was supposed to happen.
+- Equipping for Holiness & Witness: 2/4. The gospel-sharing point is made and the Sproul citation helpfully frames human responsibility within divine sovereignty. But there is no concrete equipping — no "here is how to share the gospel" or "here is what to say when you encounter a prosperity gospel teacher."
+
+**6. Structure & Logical Flow — 5/9**
+- Clarity of Outline: 2/4. The sermon has a discernible movement: false gospels (cults/prosperity) → the real Jesus (from Colossians 1) → human responsibility in election → mission. But this structure is not announced and is difficult to track. The congregation cannot sketch this on a napkin.
+- Progression: 2/3. The sermon does build toward something, but the ending collapses. A placeholder ("Gospel.") is not a conclusion.
+- Unity: 1/2. There are at least three competing emphases: (a) false Jesus vs. real Jesus, (b) election and human response, (c) missions/evangelism. These are related but insufficiently unified under one dominant idea.
+
+**7. Illustration & Imagination — 3/5**
+- Relevance: 1/2. The Rolex story and the theme park story are congregationally accessible. The Columbus/Native American story is memorable but theologically problematic as told (the arrival of conquistadors as God's answer to a prayer for the Creator is an uncomfortable historical footnote the sermon doesn't address).
+- Clarity: 1/2. Most illustrations illuminate the point they're attached to. The volcano/travelogue section wanders — it reads more like personal reflection than illumination of the text.
+- Memorability: 1/1. The fauxlex/fouxie Viton wordplay will be remembered. The Winslow quote will be remembered by those who caught it.
+
+**8. Sermonic Force — 4/5**
+- Reads as Preaching: 2/2. This is clearly oral — written for the ear, not the eye. Direct address is present throughout. The tone is warm and conversational without being flaccid.
+- Conviction on the Page: 1/2. The preacher has genuine conviction about Christ's sufficiency, but the manuscript's assertive energy dissipates in the middle sections (election discussion, evangelism anecdote) and does not recover before the abrupt ending.
+- Cadence and Breath: 1/1. Good sentence variation. The prosperity gospel litany (names of preachers) has rhythmic force. The Winslow quote lands well.
+
+---
+
+## 6. Cognitive Load Modifier
+
+**−1**
+The sermon is accessible to ordinary hearers. The main argument is followable. However, the shift from false gospels → election → evangelism → creation → missions creates some navigational difficulty. One fewer major concept (the election/Sproul digression could be dramatically shortened) would sharpen the experience.
+
+---
+
+## 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 13/25 |
+| Theology & Doctrinal Integrity | 12/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 6/15 |
+| Exhortation & Response | 3/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **55/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **56** |
+| **Cap Applied (Fatal Flaw)** | **Capped at 56 — below cap threshold of 69** |
+
+**Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.**
+
+The score is below the fatal flaw cap not because the flaw artificially lowered it, but because the underlying scores do not reach the cap. The two fatal flaws (generic application, absent exhortation) are symptomatic of the deeper problem: the sermon is built around a theme rather than from a text.
+
+---
+
+## 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?**
+Mostly Christ. The sermon's central thrust is genuinely Christ-exalting. This is its most important strength.
+
+2. **Did I encounter God, or just ideas about Him?**
+Ideas about him, largely. The Winslow quote is the one moment where something breaks through.
+
+3. **Was I comforted, convicted, or merely informed?**
+Informed. The congregation leaves knowing that Jesus is better than the prosperity gospel and the Jehovah's Witnesses. They do not leave convicted of anything specific, comforted by anything specific, or summoned to do anything specific.
+
+---
+
+## 9. Strengths (Top 3)
+
+1. **The homoousios/homoiousios distinction** is handled accurately and memorably. This is genuine exegetical content delivered accessibly. The fake Rolex analogy lands the concept without condescending to the congregation.
+
+2. **Genuine theological backbone on election and human response.** The Sproul citation is apt, and the blind man illustration is pastorally effective — it holds divine sovereignty and human responsibility together without dissolving either.
+
+3. **Sermonic register is consistently oral and warm.** The manuscript reads as preaching — direct, conversational, and energized by real conviction. The preacher's personality is present without overwhelming the content.
+
+---
+
+## 10. Critical Weaknesses (Top 3)
+
+1. **The passage is never actually opened.** Colossians 1:12–17 contains one of the most exalted Christological hymns in the New Testament. The sermon skims the surface of verses 12–17 without dwelling in any single verse long enough for the congregation to feel its weight. "He holds all things together" (v.17) deserves a full section. It received one sentence.
+
+2. **There is no gospel presentation.** The word "Gospel." at the end of the manuscript is not a proclamation — it is a slot marker. An unbeliever sitting in this room would not know how to be saved. Justification is not named. The cross is referenced (Winslow quote) but not explained. The blood of Christ is absent.
+
+3. **The application never lands.** The entire sermon builds toward... nothing specific. Who must do what? Which sinner in this room is cornered? The prosperity gospel critique has energy, but it functions as cultural commentary, not as conscience-pressing application to people who may be quietly drawn to comfort-seeking religion.
+
+---
+
+## 11. Blind Spots
+
+The preacher likely does not see that the Columbus/Native American story carries historical freight that undercuts its rhetorical purpose. The arrival of European ships was, for indigenous peoples, often the beginning of profound suffering — not an answer to prayer. Using this as a heartwarming illustration of God's faithfulness is historically tone-deaf and may distract or alienate listeners who know the history.
+
+The preacher also may not see how much of this sermon is about false gospels rather than the true one. The prosecution of the prosperity gospel and the cults is energetic and takes up fully half the manuscript. But the time spent on what Jesus is not is not matched by time spent in what Jesus actually did, is, and offers.
+
+---
+
+## 12. Illusion of Strength
+
+The opening sections feel powerful because the prosperity gospel critique is culturally resonant and the names are recognizable. The congregation likely felt energized and theologically affirmed. But this energy is not exegetical — it is apologetic. The sermon *felt* textually grounded because it referenced Colossians, but the actual passage received less treatment than the fake Rolex story. The strongest rhetorical moments in the sermon are its weakest exegetical moments.
+
+---
+
+## 13. Missed Opportunity
+
+Colossians 1:15–17 is one of the most theologically compressed passages in the New Testament. "He is the image of the invisible God, the firstborn of all creation. For by him all things were created..." — this text alone could generate an entire series on the person of Christ that would make the case against every false gospel the sermon mentions, from within the text itself, with far greater force. The sermon's best argument is lying untouched in the passage it's preaching from. The preacher imported illustrations to do what the text would have done better.
+
+The Winslow quote — "He created the tree upon which he was to die, and nurtured from infancy the men who were to nail him to the accursed wood" — is extraordinary. It appears and disappears in two sentences. This deserved to be the sermon's climax and was instead a footnote.
+
+---
+
+## 14. Surgical Fixes
+
+1. **Rebuild the introduction around the text, not the apologetic.** Open in Colossians 1:15 — "He is the image of the invisible God." Ask: What does it mean that the invisible God became visible? The cultural context of false gospels can be introduced as the occasion for Paul's writing, not as the sermon's thesis.
+
+2. **Give Colossians 1:15–17 a full section each.** "Firstborn of all creation" — not the first thing created, but the heir and Lord of all creation. "All things were created through him and for him" — name the application: your life, your relationships, your suffering, your purpose, all of it was created for him. "He holds all things together" — what does it mean to trust the one who sustains the cosmos?
+
+3. **Replace the Columbus story.** Find an illustration of the Creator being revealed to a seeker that doesn't carry colonial freight. Or use the story of the Native American man only — without the three ships.
+
+4. **Replace the "Gospel." placeholder with an actual gospel proclamation.** Even two paragraphs: name the problem (sin has made us enemies of the one who created us for himself), name the solution (the one who holds all things together gave himself to hold us to God), name the call (repent and believe).
+
+5. **Add a direct exhortation at the close.** After the gospel, address at minimum three groups: (a) the person who has been consuming a false Jesus and needs to repent of it, (b) the believer who has grown comfortable and stopped proclaiming Christ, (c) the person who has never encountered the real Jesus and is here today. Each of these groups needs a specific word, not a general benediction.
+
+6. **Apply Perkins' taxonomy.** The sermon addresses the congregation as a single undifferentiated group of people who mostly agree with the preacher. The knowledgeable-but-unhumbled (the person who knows Christ's supremacy doctrinally but lives as if comfort is the goal), the backslider, and the doubter are all present on Sunday morning and receive nothing here.
+
+---
+
+## 15. Dead Orthodoxy Flag
+
+**Not triggered** — the sermon is theologically warm and apologetically energetic. The problem is not dead orthodoxy but incomplete preaching. There is fire here; it is aimed mostly at false teachers rather than at the congregation's own hearts.
+
+---
+
+## 16. Weight of Glory Assessment
+
+There is genuine love for Christ in this manuscript — the Winslow quote, the travelogue of creation, and the conviction about Christ's sufficiency all carry real warmth — but the sermon does not culminate in worship, and a congregation that merely agrees with its propositions has not been led to the throne.
+
+---
+
+## 17. Rubric Fit Note
+
+The passage (Colossians 1:12–17) is didactic-hymnic material — a Christological poem embedded in a Pauline letter. The rubric fits well. The sermon's failure is not that the rubric strains against the genre; it is that the sermon does not go deep enough into the passage for the rubric's categories to be tested. A sermon that stays in the passage will naturally encounter exposition questions, gospel questions, and application questions. This sermon exits the passage too quickly for any of those to press hard.
