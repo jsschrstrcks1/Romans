@@ -60,6 +60,234 @@ Justice won’t ever be perfect this side of heaven. We should follow Paul’s e
 
 Where is your treasure? Is it in the Lord? IS your treasure in heaven? Is your savior your treasure? Or are you treasuring things of the earth? Paul’s treasure was the Lord. His hope was in the Lord, he depended on Justice coming from the Lord, and it did. Not in Pauls timing or in Paul’s way, but ultimately at the end of the day, God brought his faithful servant Paul home to be with him in glory. 
 
-If your trust is in your self, or your money, or the government, or anything of this earth, then one day when you take that last breath, you’ll find out your trust was misplaced. There is only one who can save us, only one from whom perfect justice flows like a river. Only one in whom we can trust and be set free, and that is Jesus Christ. 
+If your trust is in your self, or your money, or the government, or anything of this earth, then one day when you take that last breath, you’ll find out your trust was misplaced. There is only one who can save us, only one from whom perfect justice flows like a river. Only one in whom we can trust and be set free, and that is Jesus Christ.
 
 If he is not your treasure, then you need to get to know him today!
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Verdict Title:** Pastoral Heart, Thin Exposition — A Sermon That Reaches for Christ but Never Arrives at the Cross
+
+**One-Sentence Summary:** A warm and genuinely pastoral exploration of meekness from Matthew 5 that illuminates the Greek word well and applies it to current events with real conviction, but fails to ground the sermon in the Beatitudes’ own structure, never clearly proclaims the gospel of Christ’s finished work, and exhorts without first searching the conscience deeply enough.
+
+---
+
+### A. Berean Gate
+
+**Scopus Test:** The main point of the sermon is approximately: "Meekness is not weakness but power under control, and the meek will inherit the earth." This is defensible from Matthew 5:5, but the sermon does not engage the broader structure of the Beatitudes (vv. 2–11 are read but only one beatitude is treated). The text’s own point is the shape of kingdom citizenship — the sermon abstracts one element without situating it in the whole. This is a **borderline pass** — the chosen lens (meekness) is legitimate, but the sermonic thesis is thinner than the text’s actual argument.
+
+**Authority Test:** The preacher submits to the text’s claims honestly. He does not soften meekness into mere niceness, which is a genuine strength. He confronts worldly expectations of self-assertion. **Pass.**
+
+**Berean Gate: PASS (narrow)**
+
+---
+
+### B. Fatal Flaw Flags
+
+**Flag 2 — Main point drifts from the text’s point:** The sermon moves from meekness (v.5) to a discussion of Paul under Nero, justice, and treasure in heaven. By the midpoint the text has largely been left behind. This constitutes a drift that approaches but does not fully trigger the flag, since the topic remains loosely tethered. *Borderline — not capping, but noted prominently.*
+
+**Flag 1 — No clear gospel presentation:** The sermon’s closest approach to the gospel is the closing appeal ("There is only one who can save us... that is Jesus Christ"). But **why** Christ saves, **how** he saves — the cross, the atonement, justification by faith — are never stated. Christ’s meekness and suffering are described as exemplary; his death is not proclaimed as substitutionary. The Sermon on the Mount is moralistically applied without the gospel of grace that makes obedience possible. **This flag is triggered.**
+
+**Score is capped at 69.**
+
+---
+
+### C. Score Breakdown
+
+#### 1. Exposition & Hermeneutics — 15 / 25
+
+- **Textual Fidelity (10 pts) → 6:** The sermon derives its central argument (meekness) legitimately from v.5, and the Greek word study is the sermon’s strongest expositional moment. However, Matthew 5:2–11 is read in full but the Beatitudes as a unit are never treated — the sermon picks one beatitude and ignores the others without explanation. The Fallen Condition Focus is never named. Why does meekness need to be preached to *this* congregation at *this* moment? The answer (worldly self-assertion) is implicit but never crystallized.
+- **Contextual Awareness (5 pts) → 3:** The Sermon on the Mount’s place in Matthew’s gospel, Christ as the new Moses giving a new covenant ethic, and the kingdom-of-heaven framing are completely absent. These are not optional decorations — they are the interpretive frame for every Beatitude.
+- **Exegetical Clarity (5 pts) → 4:** The Greek word study on *praus* (fire, breeze, medicine) is the sermon’s best moment and is genuinely illuminating. Attribution to Stephen Davey is honest. This section is accessible and memorable.
+- **Logical Faithfulness (5 pts) → 2:** The sermon moves from meekness → Paul and Nero → justice → treasure in heaven. The logical thread loosens significantly after the word study. Matthew 6:19 is imported without connection to Matthew 5. The Paul material is extensive but its link to meekness is never formally argued — it is assumed.
+
+**Subtotal: 15/25**
+
+---
+
+#### 2. Theology & Doctrinal Integrity — 11 / 18
+
+- **Christ-Centeredness (7 pts) → 4:** Christ is present throughout — his meekness is held up as the paradigm, which is legitimate. The humiliation of Christ is briefly noted. But Christ appears almost entirely as **example**, not as **redeemer**. The sermon’s Christology is functional rather than soteriological.
+- **Redemptive-Historical Awareness (3 pts) → 1:** There is no placement of Matthew 5 in the redemptive-historical arc. The Beatitudes as Christ’s inauguration of kingdom ethics on the lips of the One who will fulfill the law — this is entirely absent.
+- **Doctrinal Precision (4 pts) → 3:** The definition of meekness is handled well. The statement "there is only one who can save us" is true. No serious theological errors are present, but justification, atonement, and grace are undefined.
+- **Confessional Alignment (4 pts) → 3:** Nothing in the sermon contradicts confessional theology. The sermon is broadly orthodox. The soteriological themes the text touches (the poor in spirit, the kingdom promise) are not handled with confessional precision — they are handled loosely.
+
+**Subtotal: 11/18**
+
+---
+
+#### 3. Gospel Centrality & Force — 6 / 15
+
+- **Clarity of the Gospel (5 pts) → 2:** The closing lines name Christ as the only Savior. But justification by faith is never articulated. The hearer is told to "get to know him" — which is relational language, not gospel proclamation. An unbeliever leaving this sermon would not know what they must believe or why Christ’s death matters.
+- **Necessity of Christ (5 pts) → 2:** Christ appears as necessary in the sermon’s final appeal, but throughout the body of the sermon he is primarily **exemplary** — the model of meekness, not the ground of righteousness. The sermon could be substantially preached by a thoughtful moralist who admires Jesus.
+- **Cross-Centered Gravity (5 pts) → 2:** The cross is not mentioned. Christ’s suffering is described (briefly) but not his atoning death. The sermon does not move toward the cross — it moves toward Paul’s example, treasure language, and a general appeal.
+
+**Synagogue Test:** A devout Jew who admired Jesus as a moral teacher would not be offended by the necessity of Christ’s blood in this sermon, because that necessity is never argued. **Triggered — moralistic drift flag.**
+
+**Subtotal: 6/15**
+
+---
+
+#### 4. Conscience & Applicatory Force — 9 / 15
+
+- **Heart Penetration (5 pts) → 4:** The stolen-tools illustration and the neighbor’s salvation question ("Which do you think matters to God?") are genuinely conscience-pressing. The personal illustration of the sister’s comment about not trading future happiness is earthy and real. These moments reach the affections, not just the intellect. This is the sermon’s pastoral strength.
+- **Specificity (5 pts) → 3:** The application is more concrete than most — the neighbor who steals tools, the injustice of Paul’s imprisonment, the treasure question. These are specific enough to land. But the specificity is uneven — the Paul section is long and historical, less immediately pressing.
+- **Spiritual Differentiation (5 pts) → 2:** The sermon addresses believers primarily. The unbeliever is addressed only in the closing lines. The doubter, the backslider, and the self-righteous are not differentiated. Perkins’ categories: the humbled-but-not-yet-believing are never separately addressed. The hardened are not confronted. The category of the self-righteous — particularly relevant for a sermon on meekness — is not pressed.
+
+**Subtotal: 9/15**
+
+---
+
+#### 5. Exhortation & Response — 4 / 8
+
+- **Call to Response (4 pts) → 2:** The closing appeal ("If he is not your treasure, you need to get to know him today") is a genuine call, but it is underdeveloped. What must the believer *do* with meekness after this sermon? The imperative edge for the Christian is vague — implied ("be meek") rather than summoned.
+- **Equipping for Holiness & Witness (4 pts) → 2:** The Paul section is intended as a sending-out model, but it does not clearly equip. The congregation is left with a general disposition (trust God, be meek) rather than a formed practice. The gospel-witness dimension of meekness — that sharing the gospel with the neighbor who steals is the *specifically Christian* response — is mentioned once but not developed.
+
+**Subtotal: 4/8**
+
+---
+
+#### 6. Structure & Logical Flow — 6 / 9
+
+- **Clarity of Outline (4 pts) → 2:** There is no traceable outline. The sermon moves: bully story → text reading → Christ’s meekness → word study (the sermon’s anchor) → Paul and Nero → treasure in heaven → gospel appeal. The word study section is the natural center, but the sermon doesn’t signal this. A listener could not sketch this on a napkin.
+- **Progression (3 pts) → 2:** The word study does build nicely (fire, breeze, medicine). The Paul section is instructive but long and somewhat tangential. The conclusion does not land with accumulated force.
+- **Unity (2 pts) → 2:** Meekness is the thread throughout, but the Paul/justice material threatens to become its own sermon. One dominant idea is maintained, if loosely.
+
+**Subtotal: 6/9**
+
+---
+
+#### 7. Illustration & Imagination — 4 / 5
+
+- **Relevance (2 pts) → 2:** The bully story, the stolen tools/neighbor’s salvation, the sister’s vacation comment, Dalia’s chemotherapy — all are drawn from the congregation’s actual world. These land.
+- **Clarity (2 pts) → 1:** The Dalia illustration is powerful but introduces a specific person by name in a way that might feel intrusive to some. The three Greek illustrations (fire, breeze, medicine) are excellent. The bully story’s relevance to meekness is not explicitly connected — it introduces the topic but the link requires the listener to do work.
+- **Memorability (1 pt) → 1:** "Meekness is being finished with me" is the sermon’s most memorable line. It will be carried home.
+
+**Subtotal: 4/5**
+
+---
+
+#### 8. Sermonic Force — 3 / 5
+
+- **Reads as Preaching (2 pts) → 2:** The manuscript reads as spoken word throughout — colloquial, direct, oral cadence. It sounds like it was spoken, not written for the page.
+- **Conviction on the Page (2 pts) → 1:** The conviction is genuine but the Scripture-grounded assertion ratio drops in the Paul section and the conclusion. The preacher’s voice carries it, but the manuscript alone doesn’t carry the weight.
+- **Cadence and Breath (1 pt) → 0:** Sentences are relatively uniform in length. There is no climactic compression — no moment where the rhythm shortens for impact. The sermon ends without a tonal peak.
+
+**Subtotal: 3/5**
+
+---
+
+#### 9. Weight of Glory — Bonus — 2 / 5
+
+- **Eternal Significance (2 pts) → 1:** The promise "the meek will inherit the earth" is gestured toward but never unpacked eschatologically. The eternal weight is implied, not proclaimed.
+- **Divine Gravity (2 pts) → 1:** God is present in the sermon but not weighty. He functions more as the justifier of Paul’s suffering than as the holy, sovereign, glorious Lord before whom all self-assertion collapses.
+- **The Spurgeon Test (1 pt) → 0:** A man who has been with God would not weep or tremble at this manuscript. He might nod. The unction is missing.
+
+**Bonus: 2/5**
+
+---
+
+#### 10. Cognitive Load Modifier — 0
+
+The sermon is accessible. One clear concept (meekness), illustrated multiple ways. The Paul excursus is long but not complex. A new believer or high schooler could follow it.
+
+**Modifier: 0**
+
+---
+
+### D. Score Totals
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 15 | 25 |
+| Theology & Doctrinal Integrity | 11 | 18 |
+| Gospel Centrality & Force | 6 | 15 |
+| Conscience & Applicatory Force | 9 | 15 |
+| Exhortation & Response | 4 | 8 |
+| Structure & Logical Flow | 6 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 3 | 5 |
+| **Subtotal** | **58** | **100** |
+| Weight of Glory (bonus) | +2 | +5 |
+| Cognitive Load Modifier | 0 | 0 |
+| **Raw Total** | **60** | **105** |
+| **Fatal Flaw Cap** | **cap: 69** | |
+| **Final Score** | **60** | — |
+
+**Interpretation: Concerning gaps — the sermon explains but doesn’t preach, and the gospel is absent from its core.**
+
+---
+
+### E. Dead Orthodoxy Check
+
+Does not fully trigger (exposition score is not high enough), but the pattern is present in seed form: the word study is competent, the theology is broadly sound, and the pastoral illustrations are warm — but the sermon never corners the sinner before the cross. The fire that meekness requires — dying to self before God, not just before neighbors — is pointed at but not ignited.
+
+---
+
+### F. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Somewhat of Christ as example, but not decisively. The application keeps returning to *our* response rather than *his* work.
+2. **Did I encounter God, or just ideas about Him?** Ideas about him, largely. The word study illuminates; it does not bring the hearer into God’s presence.
+3. **Was I comforted, convicted, or merely informed?** Partially convicted (the neighbor illustration lands). Informed about the Greek word. Not comforted by the gospel, because the gospel was not proclaimed.
+
+---
+
+### G. Strengths (Top 3)
+
+1. **The Greek word study on *praus* (fire, breeze, medicine)** is the sermon’s strongest moment. It is accessible, memorable, and genuinely illuminates the text. This is good popular exegesis.
+2. **The stolen-tools illustration and the neighbor’s salvation question** press the conscience concretely. "Which do you think matters to God?" is the sermon’s best applicatory line.
+3. **The oral voice is consistent and genuine.** This sounds like a pastor who loves his people and is thinking out loud with them, not performing.
+
+---
+
+### H. Critical Weaknesses (Top 3)
+
+1. **No gospel proclamation.** Christ’s death, atonement, and the ground of righteousness are entirely absent. The closing appeal to "get to know him" is relational, not soteriological. A congregation that already knows Jesus is not refreshed by grace; an unbeliever is not shown what they must believe. This is the sermon’s fatal failure.
+2. **The sermon abandons the text by the midpoint.** After the word study, Matthew 5 is not referenced again. Paul, Nero, treasure in heaven, and justice become the substance. These are not illegitimate topics, but they are not Matthew 5’s topics.
+3. **The Beatitudes are treated as isolated moral commands, not kingdom promises rooted in Christ’s own person.** "Blessed are the meek" is not first a mandate — it is a declaration about who already possesses the kingdom. The sermon misses the indicative-before-imperative structure of the passage.
+
+---
+
+### I. Blind Spots
+
+The preacher likely does not see that his strongest applicatory instinct (dying to self, being finished with me) is actually *gospel-shaped* — it points toward crucifixion with Christ (Galatians 2:20) but never arrives there. The illustrations are doing theological work the exposition never named. The sermon’s pastoral heart is ahead of its theological framework.
+
+---
+
+### J. Illusion of Strength
+
+The word study feels like exposition, but it is closer to lexical illustration. Defining *praus* illuminates the concept without grounding it in Matthew’s argument, the kingdom’s inauguration, or Christ’s role as the meek King who inherits by dying. The congregation may leave thinking they received a Bible lesson when they received a vocabulary lesson applied to life.
+
+---
+
+### K. Missed Opportunity
+
+Matthew 5:5 is a beatitude — a pronouncement of kingdom blessing on those who already are meek, not a command to become meek by effort. The sermon entirely misses this — it treats meekness as a virtue to pursue rather than a grace to receive. The Christological resolution is right there: Christ, the truly meek one, inherits the earth on our behalf. We receive meekness by union with him, not by emulating him from a distance. This would have provided both gospel proclamation and the indicative-before-imperative structure the sermon needs.
+
+---
+
+### L. Surgical Fixes
+
+1. **Add a one-paragraph gospel center after the word study.** State explicitly: Christ was perfectly meek, and he died as our substitute — not as our example only. His meekness in dying means his righteousness is credited to us by faith. We can now be meek because we are no longer fighting for our own justification.
+2. **Return to Matthew 5 in the Paul section.** Paul’s meekness under Nero is a New Testament illustration of Matthew 5:5 — *say so explicitly*. "Paul was meek — power under control — and he inherited the earth, in the only way that matters."
+3. **Sharpen the exhortation for believers specifically.** After the closing appeal for unbelievers, add a distinct call to believers: "Christian, you do not have to defend yourself — your righteousness is already secured. You are free to be meek. Now go be meek with your neighbor."
+4. **Add the self-righteous hearer.** A sermon on meekness must press those who believe they are already meek, or who are meek in public but proud in private. This category is conspicuously absent.
+5. **Restructure the conclusion.** The final appeal is buried after a long excursus. Move the gospel appeal earlier, then let the Paul material serve as the exhortation for the already-converted, not the emotional weight for the unconverted.
+
+---
+
+### M. Dead Orthodoxy Flag
+
+Not triggered (the score pattern does not meet the threshold). However, the inverse danger is present: the sermon is warm and pastoral but theologically thin where it matters most. The heart is ahead of the doctrine.
+
+---
+
+### N. Weight of Glory Assessment
+
+The sermon carries pastoral warmth but not eternal gravity — God is present as a helpful actor in human stories rather than as the holy Lord before whom all self-assertion is exposed and undone.
+
+---
+
+### O. Rubric Fit Note
+
+The rubric applies well to a Beatitudes sermon. The one genre caveat: Matthew 5’s Beatitudes are *pronouncements* before they are *commands*, which means the gospel-centrality category (Category 3) is unusually load-bearing for this text. The rubric correctly identifies this as the sermon’s critical failure point. No genre distortion present.
