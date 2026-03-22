@@ -144,3 +144,201 @@ Won't you come?
 - "ineveitibly" → "inevitably"
 - "week" → "weak" (describing David Flood's health)
 - Scary clown reference removed — the "killer clown" phenomenon was primarily 2016, not 2019; preacher's recollection of "2019 difficulties" conflated the timeline. Hurricanes/protests/racial tensions retained as documented 2019 events.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### Verdict Title
+*A Pastor's Heart, a Borrowed Theology, and an Illustration Preaching the Sermon the Preacher Didn't Quite Get to*
+
+### One-Sentence Summary
+A warm and congregationally accessible opening of Galatians 6:7–10 that lets an extraordinary illustration carry the doctrinal weight the sermon itself never fully excavates, producing genuine pastoral heat but leaving the conscience and the gospel center underdeveloped.
+
+---
+
+### Berean Gate
+
+**Scopus Test**: The sermon's thesis — don't grow weary in doing good; what you sow, you reap — is genuinely the main point of the passage. Pass.
+
+**Authority Test**: The text is handled honestly; there is no softening or reframing of the passage's hard edges. The law/gospel tension of "sow to the flesh / reap corruption" is not avoided. Partial pass — the preacher names the principle but does not press it personally into the congregation with the specificity the text demands.
+
+**Result: PASS** — with notation that the scopus is stated more than argued.
+
+---
+
+### Fatal Flaw Flags
+
+**Flag 3 — Christ is present but not structurally necessary**: The sermon could survive largely intact as a motivational story about perseverance without the specific soteriological content of the gospel. Christ is mentioned, but the invitation at the end ("ask Jesus to pay the price for your sin") arrives as an add-on rather than as the culmination of an argument. The Svea Flood story does more gospel work than the exposition does.
+
+**Flag 4 — Application is partially generic**: "What are you sowing? What are you planting in your life?" is addressed to the whole congregation without differentiation. The believer, the backslider, and the unconverted are not addressed distinctly until the final paragraph.
+
+**Flag 5 — Exhortation is present but thin**: "Won't you come?" is a real invitation, but it arrives after a long illustration and brief application. The sermon explains and narrates; the actual call to response is compressed into the final two sentences.
+
+**Assessment**: Flags 3, 4, and 5 are partially present but not fully triggered — Christ is named, some application is specific (the Svea/David contrast), and there is an actual invitation. No full fatal flaw cap applied. Score permitted above 69. These remain significant weaknesses documented below.
+
+---
+
+### Score Breakdown
+
+**1. Exposition & Hermeneutics — 16/25**
+
+- *Textual Fidelity*: 6/10 — The sermon derives its controlling idea from the passage ("you reap what you sow"), but the four verses are never worked through exegetically. The structure of the passage — the warning (v.7), the two harvest paths (v.8), the encouragement (v.9), and the community imperative (v.10) — is not traced. Verse 10 ("especially to those of the household of faith") receives no treatment at all.
+- *Contextual Awareness*: 2/5 — The sermon does not situate Galatians 6:7–10 within the broader letter. Galatians is Paul's defense of justification by faith against the Judaizers, and the sowing/reaping passage sits at the letter's ethical conclusion — the life that flows from Spirit-given freedom (5:1, 5:16ff). That context would have dramatically sharpened the sermon's argument. It is absent.
+- *Exegetical Clarity*: 4/5 — The core meaning is communicated clearly enough that a congregation can understand "sow to flesh / sow to Spirit." No original language work is offered, which is not a flaw by itself.
+- *Logical Faithfulness*: 4/5 — No eisegesis is present. The Hosea 8:7 cross-reference is appropriate.
+
+**Fallen Condition Focus**: Named (weariness, self-dependence, living for the world rather than the Spirit) but not theologically grounded in the passage's own diagnosis. The FCF is intuited rather than exegeted.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness*: 4/7 — Christ is present (Philippians 1:21, the gospel invitation) but not organically arising from the passage's own argument. The Christ-connection comes via the illustration and the application, not from the text itself.
+- *Redemptive-Historical Awareness*: 1/3 — No placement of Galatians 6 within redemptive history. The broader Galatians context (law/gospel, flesh/Spirit as covenant categories) is not engaged.
+- *Doctrinal Precision*: 4/4 — The three quotes (Toplady, Spurgeon, Luther) are doctrinally excellent and accurately represent Reformed soteriology. The sovereign grace section is the strongest doctrinal passage in the sermon.
+- *Confessional Alignment*: 4/4 — The handling of free will, divine liberation, and the need for a work of God in the heart is confessionally sound. The Doctrines of Grace are present and clearly stated, though briefly.
+
+**3. Gospel Centrality & Force — 9/15**
+
+- *Clarity of the Gospel*: 3/5 — The gospel is named ("ask Jesus to pay the price for your sin") but not explained. What is sin? What is the price? How does Christ's death accomplish it? These are assumed rather than proclaimed. A new hearer would know an invitation was extended but not what to believe.
+- *Necessity of Christ*: 3/5 — Christ is presented as necessary for the perseverance argument (you need God's work in your heart to sow faithfully), but the gospel invitation does not explain *why* Christ specifically, not just *any* divine intervention.
+- *Cross-Centered Gravity*: 3/5 — The sermon orbits around faithfulness and fruitfulness. The cross is directionally implied but never lands as the center of gravity.
+
+**Synagogue Test**: A devout non-Christian could follow this sermon largely without offense until the final two sentences. The illustration (Svea Flood) could be told as a story of selfless devotion and spiritual heroism without requiring penal substitution. The cross is not a scandal here — it is a destination mentioned in the invitation. This does not trigger a full flag, but it is a real weakness.
+
+**Law/Gospel Dialectic**: The law (you reap what you sow; sowing to the flesh reaps corruption) lands. The gospel does not follow with commensurate force. The hammer is present; the balm is compressed.
+
+**4. Conscience & Applicatory Force — 9/15**
+
+- *Heart Penetration*: 3/5 — The David/Svea contrast is the sharpest applicatory moment in the sermon. "Lord willing, we won't fail so spectacularly and give our children away" presses genuinely. The opening COVID/world-weariness section creates appropriate stakes.
+- *Specificity*: 3/5 — The contractor story and the Facebook-posting employee are local and specific. The broader application ("what are you sowing?") is general.
+- *Spiritual Differentiation*: 3/5 — The David/Svea contrast does some work here — the one whose focus is not on the Lord versus the one whose life is centered on Christ. But the sermon does not address: the backslider (David is portrayed more as a lapsed or nominal Christian than a backslider), the hardened unbeliever, or the humbled-but-not-yet-believing. The invitation at the end does address the unconverted directly.
+
+**Perkins Taxonomy**: Addresses believers (sow to the Spirit, don't give up), nominal/mixed focus (David), and unconverted (final invitation). Three of seven categories. Backslider, humbled-not-yet-believing, ignorant-and-unteachable not reached.
+
+**5. Exhortation & Response — 5/8**
+
+- *Call to Response*: 3/4 — "Won't you come?" is a real invitation, and the bifurcated final paragraph distinguishes the unconverted ("today is the day") from the weary believer ("don't give up"). This is structurally sound, if compressed.
+- *Equipping for Holiness & Witness*: 2/4 — The sermon does not send the church out equipped. The Sindhi Samas of Pakistan prayer call is the closest thing to outward witness, but it is disconnected from the sermon's applicatory arc. Svea Flood's witness could have been developed as a model for the congregation's own missionary engagement — that connection is not made explicitly.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline*: 2/4 — The sermon has no announced structure. The movement is: illustration → people group prayer → text → Hosea cross-reference → missionary narrative → sovereign grace quotes → application/invitation. This is not incoherent, but it is not traceable on a napkin.
+- *Progression*: 3/3 — The sermon builds. The Svea Flood story escalates well, and the emotional payoff at Aggie's kneeling in the soil is earned.
+- *Unity*: 1/2 — Two competing organizing metaphors (oranges vs. diamonds from the Titanic illustration; sowing and reaping from the text) are introduced but not unified. The Sindhi Samas section interrupts the sermon's momentum and is not woven back into the argument.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance*: 2/2 — Both illustrations (Titanic, Svea Flood) are accessible and congregationally appropriate.
+- *Clarity*: 2/2 — The Svea Flood story illuminates the text's point with precision. The David/Svea contrast maps cleanly onto the sermon's theology.
+- *Memorability*: 0/1 — The illustration is so dominant that it risks being the thing people remember rather than the text's claim. "Svea Flood" may be remembered; "sow to the Spirit to reap eternal life" may not be. This is an inversion of illustration's proper function.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching*: 1/2 — The Svea Flood section reads as preaching. The doctrinal section (sovereign grace quotes) reads as a brief lecture. The introduction and people-group section read as pastoral talk.
+- *Conviction on the Page*: 1/2 — The text-assertion ratio is low. Most of the sermon is narrative or quotes; the preacher's own voice pressing the passage's claims is underrepresented.
+- *Cadence and Breath*: 1/1 — The storytelling cadence is natural and effective. Sentence variation is present.
+
+---
+
+### Cognitive Load Modifier: **0**
+
+This sermon is accessible. The single mother, the high schooler, and the new believer can follow it. The sovereign grace section is the densest passage and it is brief. No deduction.
+
+---
+
+### Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 16/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 9/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **65/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **67/105** |
+
+**Interpretation: Concerning gaps.** The sermon explains but does not fully preach. Significant revision needed, particularly in exposition, gospel clarity, and differentiated application.
+
+---
+
+### Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Primarily of Svea Flood — which is an illustration, not Christ. The sermon gestures toward Christ but doesn't make him the gravitational center. **Partial no.**
+2. *Did I encounter God, or just ideas about Him?* The Svea Flood story creates genuine emotional encounter. The sovereign grace section presents ideas about God accurately. Whether God himself is encountered is uncertain. **Partial.**
+3. *Was I comforted, convicted, or merely informed?* The weary believer would be comforted by the Aggie payoff. The unconverted would be invited. The self-sufficient church member would not be specifically cornered. **Comforted and invited; not fully convicted.**
+
+---
+
+### Strengths (Top 3)
+
+1. **The Svea Flood illustration is exquisitely chosen and told.** The narrative arc — from David's bitterness to Aggie's kneeling in the soil to the national church of 110,000 — is the best extended illustration in this corpus. It enacts the text's promise rather than merely illustrating it. The emotional payoff is earned, not manipulated.
+
+2. **The sovereign grace section is doctrinally precise and admirably brief.** Toplady, Spurgeon, and Luther are deployed with economy and accuracy. The sentence "There are only two masters, and unless you've been freed by God, you serve the other one by default" is the sharpest line in the manuscript. It corners the congregation without being harsh.
+
+3. **The David/Svea contrast does genuine applicatory work.** The juxtaposition — one focused on circumstances, one focused on God — gives the congregation a mirror rather than a lecture. "When our lives aren't built and centered around Christ, we will eventually fail" is pastoral and honest without being condescending.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **The text is announced but not opened.** Galatians 6:7–10 is read in full and then largely left. The passage's four-beat movement — divine warning (v.7), two harvest trajectories (v.8), anti-weariness encouragement (v.9), community imperative (v.10) — is not traced. Verse 10 ("especially to those of the household of faith") receives no comment. The congregation would not be able to reconstruct the passage's own argument after hearing this sermon.
+
+2. **The gospel is invited but not proclaimed.** "If you've never come to a point in your life where you've asked Jesus to pay the price for your sin" is an invitation, not a proclamation. It assumes the hearer knows what the price is, why it needed paying, and what Christ's death accomplished. An unbeliever who did not already know the gospel would not learn it from this sermon.
+
+3. **The Sindhi Samas of Pakistan section is structurally detached.** It occupies significant real estate (a full paragraph between the introduction and the text), interrupts the sermon's momentum, and is not woven back into the application. If the sermon's thesis is about faithful sowing, the Sindhi Samas should appear in the application as a missionary *imperative*, not merely as an interlude.
+
+---
+
+### Blind Spots
+
+The preacher may not see that the illustration has become the sermon. The Svea Flood narrative is so powerful and so long that it displaces rather than serves the exposition. A listener would be justified in remembering this as "the Svea Flood sermon" rather than "the sermon on Galatians 6:7–10." This is the illustration's triumph and the text's defeat. The preacher likely feels the sermon is text-based because the text generated the illustration's application — but the text itself was not opened.
+
+---
+
+### Illusion of Strength
+
+The sovereign grace quotation section *feels* like theological depth because the names are weighty (Toplady, Spurgeon, Luther) and the content is accurate. But it functions as a digression — it arises from the free will question tangentially and does not return to the text's own argument. The quotes carry Reformed credibility without doing the exposition's work. A listener would be forgiven for thinking the sermon is more theologically rigorous than it is, because the names invoked are rigorous.
+
+---
+
+### Missed Opportunity
+
+The Galatians letter context is the sermon's great missed opportunity. Paul wrote Galatians to people tempted to return to the flesh — to law-keeping as the means of acceptance before God. "Sowing to the flesh" in Galatians 6 is not primarily about sensual sin; it is about self-justification and religious self-sufficiency. The passage's warning is against a subtle religiosity that looks like faithfulness but is fundamentally self-oriented. That would have sharpened the sermon's application from "sow good things" into something that pressed the congregation's particular temptations with the precision the text was written to address.
+
+---
+
+### Surgical Fixes
+
+1. **Trace the four beats of the passage after reading it.** Even one sentence per verse would transform this from text-as-springboard to text-as-anchor: v.7 (the warning), v.8 (the two paths), v.9 (the anti-weariness word), v.10 (the specific community imperative — what does it mean to "do good to everyone, especially the household of faith" for this congregation right now?).
+
+2. **Move the Sindhi Samas of Pakistan into the application.** If the sermon ends with a call to faithful sowing, the Sindhi Samas are the missionary frontier to which that sowing could be directed. Closing the loop ("The person who sowed faithfully in Pakistan was one twenty-seven-year-old woman — what might God do with this congregation's prayer?") would unify the sermon's two currently disconnected halves.
+
+3. **Proclaim the gospel before inviting a response to it.** Add 2–3 sentences between "Don't grow weary in doing good" and the invitation that explain the gospel's content: the debt owed, the substitution accomplished, the justification available by faith. The Svea Flood story ends with David's tearful reconciliation — that emotional moment is the right place to pivot to the cross, not to skip past it.
+
+4. **Add differentiated address to the self-sufficient and the backslider.** The sermon reaches the weary believer and the unconverted. It does not reach the person who has never felt particularly weary — who thinks their sowing is going fine, who has never leaned hard on the Lord because they haven't needed to. David Flood before Africa would be a useful address point: he went as a missionary without being the person Svea was. That category of hearer is in every congregation.
+
+---
+
+### Dead Orthodoxy Flag
+
+Not triggered. The sermon has pastoral warmth, genuine emotional engagement, and real gospel invitation. The weakness here is not coldness but thinness — not dead orthodoxy but underdeveloped proclamation.
+
+---
+
+### Weight of Glory Assessment
+
+The Svea Flood story carries genuine eternal gravity — the sense that what happens in faithful obscurity matters forever — but the sermon does not consistently sustain that weight in its exposition or its gospel presentation. **+2 of 5.**
+
+---
+
+### Rubric Fit Note
+
+The passage (Galatians 6:7–10) is epistolary ethical exhortation — not narrative, not apocalyptic. The rubric fits without strain. The notable pressure point is that the Fallen Condition Focus for this passage is more subtle than for narrative texts: the specific FCF is not raw moral failure but religious weariness, self-reliance dressed as ministry, and the temptation to invest in what does not last. The rubric's exposition category rightly flags that this diagnosis was not named precisely.
+
+*Soli Deo Gloria.*
