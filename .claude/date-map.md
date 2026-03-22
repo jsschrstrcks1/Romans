@@ -97,6 +97,7 @@ Tracks the preaching date for every sermon in the Romans series and beyond. Roma
 | 2 Timothy 1:1-2 | Paul's Final Letter | `2 Tim 1 - Pauls Final Letter.md` | repaired draft | Full analysis completed March 2026 |
 | Romans 10:12-13 | Cultural Marxism / CRT | `Sermon - Cultural Marxism.md` | polished | Polished and verified March 2026 |
 | Deuteronomy 8:2-10, 17 | Count Your Blessings | `Deuteronomy 8 - Count Your Blessings (repaired draft).md` | repaired draft | ⬜ INCOMPLETE: 3 pastoral flags; not ready to preach as-is |
+| 1 John 2:1-6 | (untitled) | `1 john 2 1-6 lakeview.md` | raw transcript | Preached at Lakeview Fellowship during Afghan withdrawal (Aug–Sep 2021 probable); exact date unconfirmed. ⬜ INCOMPLETE: vv. 3-6 not exposited; gospel close is placeholder. Evaluation: 72/100. |
 | Psalm 42; Psalm 121 | As the Deer Pants | `Psalm 42 - As the Deer Pants.md` | sermon | 2 flags for print use only |
 | Nehemiah 7:1-5 | Faithful and God-Fearing | `Sermon - Faithful and God-Fearing.md` | sermon | ⬜ INCOMPLETE: Gospel and Pascal's Wager sections undeveloped |
 | Proverbs 13 | Generation Gaps | `Proverbs 13 (raw draft).md` | raw draft | Major corrections applied; pew Bible page TBD |
@@ -107,6 +108,9 @@ Tracks the preaching date for every sermon in the Romans series and beyond. Roma
 | 1 Thessalonians 5:12-24 | Rejoice Always | `1 Thess 5 - Rejoice Always (raw draft).md` | raw draft | 7 flags resolved |
 | Philippians 4 | Rejoicing in Division | `Philippians 4 (raw draft).md` | raw draft | 16 flags → 11 resolved; 5 remain |
 | Romans 1:1-2 (Psalm 22) | Prophecy and the Credentials of Christ | `Romans 1 - Psalm 22 (Prophecy raw draft).md` | raw draft | 8 flags → mostly resolved; fulfillment citations need ESV check |
+| 1 Corinthians 9:19-23 | Why Do You Share the Gospel? | `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` (Other-Sermons/Sermons/) | raw transcript | ⚠️ MISSING PEOPLE GROUP; companion: `1 cor 9.md` |
+| 1 John 2:1-6 | (untitled — obedience, advocacy, propitiation) | `1 john 2 vs 1-5 2024.md` (Other-Sermons/Sermons/) | raw transcript | 2024 per filename; exact Sunday unknown; companion: `1 john 2 1-6 lakeview.md` (distinct sermon, Lakeview Fellowship) |
+| 1 John 3:11-24 | (untitled — love vs. hatred) | `1 john 3 pt 2.md` (Other-Sermons/Sermons/) | sermon | No date in filename; ⚠️ MISSING PEOPLE GROUP (placeholder unfilled in MS) |
 | Sola Christus 2024 | — | `Sermon - Sola Christus 2024.md` | incomplete | ⬜ INCOMPLETE: ends at three roles of Christ; no gospel close |
 | Thankfulness | — | `Sermon - Thankfulness.md` | incomplete | ⬜ INCOMPLETE: cuts off mid-narrative |
 | Acts 13:48; Acts 16:14; Romans 5:8; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8; 1 Corinthians 2:14-16; 2 Corinthians 5:21; 2 Thessalonians 2:13; 2 Timothy 1:9; Philippians 1:6 | Out of the Cistern | `Sermon - Out of the Cistern.md` | BFM topical | BFM Article V (God's Purpose of Grace); actual preaching date unknown; audit completed March 20, 2026; companion audit at `Sermon - Out of the Cistern - Fact Check and Audit.md` |
