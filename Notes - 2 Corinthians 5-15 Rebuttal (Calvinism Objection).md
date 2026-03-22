@@ -235,3 +235,179 @@ The Calvinist preaches a wider gospel than he is often credited with. He preache
 *Scripture references: 2 Corinthians 5:14-15, 17-21 | Romans 5:18 | 1 Corinthians 15:22 | Galatians 3:28 | Matthew 25:46 | Revelation 20:15*
 
 *Theological reference: John Owen, The Death of Death in the Death of Christ (1647)*
+
+---
+
+## Thus Says the Lord — Evaluation
+
+*Rubric: Reformed Baptist Sermon Evaluation | Date: 2026-03-22*
+
+---
+
+### Rubric Fit Note (Element 17 — Placed First for Clarity)
+
+**This document is not a sermon.** It is a set of theological study notes — specifically, a polemical-exegetical rebuttal of an Arminian objection to Definite Atonement from 2 Corinthians 5:15. The document's own header identifies it as "Study notes for preaching and conversation." It is rigorous, careful, and pastorally useful — but it lacks the constitutive elements of a sermon: no congregation addressed, no law/gospel movement, no exhortation, no gospel call, no differentiated hearers, no structure oriented toward proclamation. Applying the full weighted 100-point rubric to a document that does not present itself as a sermon would produce a false verdict. Accordingly:
+
+- The **Berean Gate**, **Fatal Flaw system**, and **weighted score** are not applied.
+- Elements that require a sermon manuscript (Exhortation, Cognitive Load, Dead Orthodoxy, Sermonic Force, etc.) are assessed only in terms of what the notes reveal about the preacher's readiness to preach this material.
+- This evaluation functions as a **pre-sermon diagnostic** — assessing whether these notes are ready to become a sermon, and where the gaps would be if they were pressed into the pulpit directly.
+
+---
+
+### 1. Verdict Title
+
+**Theologically Rigorous Ammunition That Has Not Yet Become a Weapon**
+
+---
+
+### 2. One-Sentence Summary
+
+A densely argued, exegetically responsible defense of Definite Atonement from 2 Corinthians 5:14-15 that would arm a preacher well for the study but would leave a congregation unexposed to the glory of particular redemption if preached without transformation into sermonic form.
+
+---
+
+### 3. Berean Gate — Pass/Fail
+
+**Not applicable.** This is not a sermon. However, if these notes were preached directly:
+
+- **Scopus Test**: The controlling thesis is clear — "all" in 2 Corinthians 5:14-15 is coextensive with the covenant people, not all humanity, and this supports Definite Atonement. That thesis does arise from the text's own argument. Pass in principle.
+- **Authority Test**: The notes stand under the text, not above it. The author subjects even his preferred theological conclusion to grammatical and contextual scrutiny. Pass.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Not applicable as scoring mechanism.** But were this preached as-is, it would trigger:
+
+- **Flag 4 — Application entirely generic**: No application of any kind. The notes argue a position; they do not press the conscience of anyone.
+- **Flag 5 — No actual exhortation**: There is no call for response — not to repentance, not to trust, not to anything.
+- **Flag 6 — Inaccessible to ordinary hearers**: The document presupposes knowledge of aorist tense mechanics, Greek vocabulary, federal headship categories, Owen's trilemma, and penal substitution's logical structure. This is not complaint — it is appropriate for study notes. But preached directly, the single mother and the high schooler would be lost inside the first section.
+
+---
+
+### 5. Score Breakdown
+
+*Scores provided where meaningful; narrative substituted where rubric category does not map.*
+
+**1. Exposition & Hermeneutics** — *Exceptional for the genre.*
+The notes handle 2 Corinthians 5:14-15 with genuine rigor. The *ἄρα* ("therefore") observation is precisely the kind of exegetical work that anchors a position in the grammar rather than in a system. The parallel with Romans 5 and 1 Corinthians 15:22 is organic, not proof-texted — it arises from the same federal headship logic Paul is deploying. The contextual sweep through verses 17-21 ("for our sake," "we might become") demonstrates that the author read the passage, not just the verse. If this became a sermon, the exegetical floor would be among the strongest in the building.
+
+**2. Theology & Doctrinal Integrity** — *Precise and confessionally grounded.*
+The treatment of penal substitution and its logical entailments is exactly right — the argument that universal atonement plus PSA yields universalism is one of the strongest logical arguments in the Reformed arsenal, and it is stated cleanly here. The Owen trilemma is correctly deployed and correctly attributed. The distinction between "all without distinction" and "all without exception" is well-drawn. No theological slippage detected.
+
+**3. Gospel Centrality & Force** — *Present as argument; absent as proclamation.*
+The gospel is engaged — Christ's substitution, his bearing of actual guilt, the reconciliation of a people — but it is engaged forensically. These notes would tell you what happened at the cross. They would not make you weep at it. A listener would understand the mechanics of Definite Atonement without encountering the mercy that makes it beautiful. The final section ("A Word on the Offer of the Gospel") moves closer to doxology, but it stops short of full gospel presentation.
+
+**4. Conscience & Applicatory Force** — *Absent.*
+These notes are argument, not address. No one is cornered. No one is comforted. The believer who doubts God's grip on him, the doubter who wonders if Christ died for him specifically, the self-righteous who uses election as insulation from self-examination — none of them are spoken to. This is the largest gap between the notes and a sermon.
+
+**5. Exhortation & Response** — *Absent.*
+There is no call for response. The closing paragraph ("We preach to everyone. We offer to everyone") is close — but it is still argument. It tells the reader what Calvinists do; it does not summon the reader to do anything.
+
+**6. Structure & Logical Flow** — *Excellent for the genre.*
+Seven numbered arguments with clear substructure. The progression is logical: establish the grammatical problem with the objector's reading (§1), show that the result qualifies the scope (§2), show that Paul's own usage of "all" is never universal (§3), examine the surrounding context (§4), propose the "all without distinction" reading (§5), deploy Owen's trilemma (§6), examine the preposition (§7). This is rigorous. A sermon could follow this architecture if each argument were translated into proclamation.
+
+**7. Illustration & Imagination** — *Minimal; appropriate for the genre.*
+The "man going to prison in place of another" illustration in §7 is effective and concrete. No other illustrations are deployed, which is appropriate for study notes but would be insufficient for a sermon.
+
+**8. Sermonic Force** — *Not present; not expected.*
+The document reads as an academic-pastoral hybrid — clearer than a journal article, more rigorous than a blog post, less direct than a sermon. The voice is confident and clear but not preacherly. Direct address to the congregation is absent throughout.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**Not scored.** Were this preached directly: **−3** (inaccessible). The aorist tense argument, the *huper*/*ara* grammatical analysis, the Owen trilemma, and the federal headship logic would need significant scaffolding to be accessible to an ordinary congregation. None of that scaffolding is present. The material is right; the translation work remains undone.
+
+---
+
+### 7. Total Score
+
+**Not assigned.** This is a study document, not a sermon manuscript. Assigning a score would misrepresent both the document's purpose and the rubric's intent.
+
+---
+
+### 8. Core Override Questions
+
+*Applied as diagnostic, not as final verdict.*
+
+1. **Does this make me think more of Christ — or myself?** Primarily of the argument. Not strongly of Christ. The notes are defending a position rather than magnifying a Savior.
+2. **Did I encounter God, or just ideas about Him?** Ideas about him — specifically, ideas about the scope of his atoning work. God is not encountered here.
+3. **Was I comforted, convicted, or merely informed?** Informed. Thoroughly, usefully, impressively informed. Not comforted. Not convicted.
+
+These answers are not criticism of the document's purpose. They are the clearest indication that these notes are not yet a sermon.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The grammatical case for coextensive "alls" in 5:14 is the load-bearing argument, and it is made correctly.** The *ἄρα* observation — that the logical inference in v.14 binds both "all" clauses to the same scope — is the kind of exegetical move that wins the argument at the grammar level before theology is even introduced. This is exactly what the document claims: "reasons the text itself supplies — not reasons imported from a theological system."
+
+2. **The Penal Substitution entailment argument is precisely framed.** The observation that universal PSA + non-universalism = contradiction is one of the strongest logical arguments in this debate, and the notes state it without hedging. "You cannot punish a debt twice" is a sentence that could go directly into a sermon.
+
+3. **The final section on the free offer is both theologically accurate and apologetically necessary.** The notes correctly anticipate the most common pastoral objection to Definite Atonement — that it narrows the gospel offer — and answer it from the text itself (v.20: "We implore you..."). The final line ("He preaches to sinners who cannot save themselves — and tells them that Christ has saved to the uttermost those who come to God through him") is the closest the document comes to doxology, and it is genuinely beautiful.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **No application of Definite Atonement to the believer's assurance.** The most pastorally powerful consequence of particular redemption is the certainty it grounds: if Christ died for you specifically, then your salvation is not contingent on anything you do or fail to do. That ground for assurance is entirely absent from these notes. The doctrine is argued but not cherished.
+
+2. **The argument against the Arminian is stronger than the case for the Calvinist.** The notes spend seven sections dismantling the objection and approximately one paragraph presenting what the text positively teaches. A sermon cannot be organized as a rebuttal — it must be organized around the text's own positive proclamation. The rebuttals are useful; they must be subordinated.
+
+3. **No differentiated hearers.** The notes assume the reader is an Arminian interlocutor or a Calvinist preparing to engage one. But a congregation contains people who have never heard either term, people who are terrified that Christ didn't die for them specifically, and people who are using election as an excuse for presumption. None of those people are addressed here.
+
+---
+
+### 11. Blind Spots
+
+The notes are so focused on the logical case against universal atonement that they miss the devotional power of particular redemption. Definite Atonement is not primarily an argument to win — it is a doctrine to adore. The believer who grasps that Christ bore the specific weight of his specific sins does not primarily want to debate an Arminian; he wants to weep with gratitude. That register is largely absent here.
+
+Additionally, the notes do not engage the experiential question of how a person knows he is among the elect — which is precisely what a troubled conscience will ask the moment the argument lands. The document closes the logical door on Arminianism without opening the pastoral door to the person who cannot stop wondering, "But did he die for *me*?"
+
+---
+
+### 12. Illusion of Strength
+
+The precision of the argument may create the impression that the theological work is done. It is not. Exegetical precision in study notes is the raw material of preaching, not the finished product. A preacher who has mastered this argument could walk into the pulpit with high confidence and still fail to preach — if he delivers the argument rather than proclaiming the truth. The strength of the logical case is not the same as the strength of the sermon. The former can be assessed in a library; the latter only in the room.
+
+---
+
+### 13. Missed Opportunity
+
+The notes touch verses 17-21 but do not dwell in them. Verse 21 — "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God" — is arguably one of the most compressed and glorious statements of penal substitution in the entire New Testament. It is cited as contextual support for the argument, but it is not opened, not preached, not marveled at. A sermon on this passage that passes verse 21 without pausing has missed the summit.
+
+The "new creation" language of verse 17 is similarly underused. The point that Definite Atonement produces a new creation — not a new possibility, but an actual new reality — is gestured at in §2 ("the death of Christ produces a people who live for him") but not developed devotionally. The new creation is the pastoral payoff of everything the notes argue.
+
+---
+
+### 14. Surgical Fixes (For Preaching Development)
+
+These are not corrections to the notes — they are the work that must happen before the notes become a sermon.
+
+- **Rebuild the structure around proclamation, not rebuttal.** The sermon's spine should be what 2 Corinthians 5:14-15 positively teaches, not what it does not teach. The objections can be addressed, but they must serve the proclamation, not organize it.
+- **Open verse 21.** Give it a full section. "He who knew no sin was made sin, so that we might become the righteousness of God" — that is the ground of everything the passage argues. Preach it, don't cite it.
+- **Add a section on assurance.** After establishing that Christ's death is effective and particular, press the question: what does this mean for the believer who doubts? Definite Atonement is the only gospel that can tell a trembling soul, "He did not die for a category you may or may not belong to — he died for his people, and you are known." That is the Balm that must follow the Hammer.
+- **Translate the grammar into imagery.** The *ἄρα* argument is right but technical. Find an illustration that carries the same logical force: a debt that has been paid cannot be demanded again; a representative's act covers all he represents. The argument needs a truck driver's version.
+- **Add direct address to the doubter.** "Some of you have wondered whether Christ died for you specifically. The text answers you. He died for those who now live for him. If you are turning from yourself toward him — that turning is the evidence, not the condition."
+- **End in doxology, not logic.** The sermon's conclusion should leave the congregation in worship, not in debate. The argument is won in the body; the conclusion should kneel.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered as a formal flag** (the document is not a sermon). But the pattern these notes represent — high doctrinal precision, low devotional heat — is the precise condition Dead Orthodoxy detection is designed to catch. If this material becomes a sermon that retains the notes' argumentative architecture without converting it into proclamation, the flag will trigger immediately. The doctrine is right. The fire must be added.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The notes carry intellectual weight but not yet eternal gravity; the glory of particular redemption — that the Son of God purchased a people with his own blood, knowing each one by name — is argued for but not yet beheld.
+
+---
+
+### 17. Rubric Fit Note
+
+*(See top of evaluation — placed first for clarity.)*
+
+This rubric is designed for sermon manuscripts. Applied to study notes, it functions as a gap analysis and pre-sermon diagnostic. The notes are theologically excellent and exegetically responsible. The distance between these notes and a faithful sermon is not theological — the doctrine is sound — but pastoral and homiletical. The argument must become address; the logic must become love; the case must become proclamation. The work remaining is not correction but transformation.
