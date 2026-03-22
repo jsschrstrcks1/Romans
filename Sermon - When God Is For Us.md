@@ -74,3 +74,247 @@ No one is too far gone. No one has sinned so much that God would reject their ea
 ---
 
 *[Gospel — Romans 10:9–10]*
+
+---
+
+# Thus Says the Lord — Sermon Evaluation
+
+## Verdict Title
+**A Warm Pastoral Heart Carried by a Wandering Text**
+
+## One-Sentence Summary
+A sermon that stirs genuine awe at God's sovereignty and reaches for the gospel with evident pastoral love, but whose main point drifts significantly from Ezra 4–6's own argument and whose structural looseness prevents its considerable warmth from landing with precision.
+
+---
+
+## A. Berean Gate
+
+**Scopus Test: Conditional Pass / Flag**
+
+The sermon's stated thesis — "When God is for us, who can be against us?" — is a Pauline doxology (Romans 8:31), not Ezra's thesis. Ezra 4–6 concerns the providential protection of temple reconstruction against sustained opposition and the surprising instrumentality of pagan kings in fulfilling God's covenant purposes. The sermon draws *thematic* material from the passage but does not demonstrably expose Ezra's own argument. The main point is imported from Paul and placed over Ezra, rather than arising from Ezra's own compositional logic.
+
+**Authority Test: Pass (with concerns)**
+
+The preacher submits to the text's uncomfortable claims — including God's sovereignty over pagan rulers — and does not soften what is plainly stated. However, several historical claims introduced into the exposition (death tolls, the nature of Nebuchadnezzar's crimes, the Hiroo Onoda account) contain inaccuracies noted within the manuscript itself. These do not undermine the sermon's theological authority but do raise questions about exegetical transparency.
+
+**Gate Result: Conditional Pass.** The sermon does not flatly contradict the passage's teaching, and the thematic overlap is genuine. But the main point is not tightly derived from Ezra's own argument. Evaluation proceeds, but this drift is registered in the exposition score and flagged below.
+
+---
+
+## B. Fatal Flaw Flags
+
+**Flag 4 — Application is largely generic:** The primary applications ("no one is too far gone," "God is mighty") are true but undifferentiated. No specific call is issued to distinct categories of hearers. The congregation is moved emotionally but not pressed to a concrete response.
+
+**Flag 5 — Exhortation is absent:** The sermon closes with a gospel appeal (Romans 10:9–10) notated only as a reference. What the congregation must *now* believe, repent of, pursue, or obey is never directly summoned. The final paragraphs describe grace beautifully but do not command or invite response with pastoral urgency.
+
+**Score capped at 69.**
+
+---
+
+## C. Score Breakdown
+
+### 1. Exposition & Hermeneutics — 14/25
+
+| Subcategory | Score | Notes |
+|---|---|---|
+| Textual Fidelity | 5/10 | The sermon draws from the passage's narrative but the governing thesis (Romans 8:31) is imported. Significant sections (the "blessings keeping you from church" illustration, the Onoda illustration) have no textual anchor in Ezra. |
+| Contextual Awareness | 4/5 | The Persian-era historical setting is engaged and the broader Babylonian → Persian narrative is traced competently for a popular-level audience. |
+| Exegetical Clarity | 2/5 | Limited engagement with the text's own structure. The passage's actual argument — the stop-start-stop-start of temple construction and the surprising reversal in ch. 6 — is summarized but not opened. |
+| Logical Faithfulness | 3/5 | No overt eisegesis, but the narrative importation of Daniel 3 and 4 material alongside unverified historical claims creates a patchwork that dilutes textual fidelity. |
+
+**Fallen Condition Focus:** Not named explicitly. The implicit FCF is something like "we feel small when earthly powers oppose us," which is genuine but never concretized to this congregation's experience.
+
+---
+
+### 2. Theology & Doctrinal Integrity — 13/18
+
+| Subcategory | Score | Notes |
+|---|---|---|
+| Christ-Centeredness | 5/7 | Christ is present and genuinely necessary — particularly in the closing paragraphs on grace. The connection is organic rather than forced. |
+| Redemptive-Historical Awareness | 2/3 | The pagan-to-worshiper trajectory is traced for Nebuchadnezzar; the *panta ta ethne* connection to Matthew 28 and Revelation 7 is apt. But this is gestured at rather than developed. |
+| Doctrinal Precision | 3/4 | The discussion of grace and regeneration ("we couldn't even choose apart from his having begun to work in us") reflects genuine Reformed instinct. Minor imprecisions in the Neb narrative. |
+| Confessional Alignment | 3/4 | No contradiction of confessional theology. The brief articulation of irresistible grace and election is welcome and clear. |
+
+---
+
+### 3. Gospel Centrality & Force — 9/15
+
+| Subcategory | Score | Notes |
+|---|---|---|
+| Clarity of the Gospel | 3/5 | The closing paragraph (grace, regeneration, adoption) is doctrinally warm and directionally correct. But it reads more as description than proclamation. Justification by faith is not clearly articulated — the gospel is present as atmosphere rather than announcement. |
+| Necessity of Christ | 4/5 | Christ is genuinely essential to the sermon's resolution. The "he held Christ to that old rugged cross" language reaches for the cross meaningfully. |
+| Cross-Centered Gravity | 2/5 | The sermon moves toward grace but does not land on the cross with force. The Atonement is referenced but not proclaimed. The law does not have time to strip the hearer before grace is offered — there is no hammer before the balm. |
+
+**Synagogue Test:** Partial concern. The closing paragraphs would give a theologically literate non-Christian pause, but the bulk of the sermon could survive in a broadly theistic context. The cross is mentioned but not made scandalous.
+
+**Law/Gospel Dialectic:** Grace is offered without the law having first done its searching work. The result is that the gospel lands on unprepared soil — it is warm but not piercing.
+
+---
+
+### 4. Conscience & Applicatory Force — 7/15
+
+| Subcategory | Score | Notes |
+|---|---|---|
+| Heart Penetration | 3/5 | The "no one is too far gone" appeal is genuinely warm and may reach those under condemnation. But the sermon does not press into the specific spiritual conditions of the congregation. |
+| Specificity | 2/5 | The church-attendance illustration is concrete and culturally recognizable, but it occupies significant real estate while delivering a relatively minor point. The larger applications ("God is mighty," "no one is too far gone") remain at altitude. |
+| Spiritual Differentiation | 2/5 | The self-righteous are not addressed. The backslider receives indirect attention. The doubter is not distinguished from the complacent. The unbeliever is addressed only in the final movement. Perkins' taxonomy is largely unworked. |
+
+**Perkins Assessment:** Hearers 2 and 4 (the ignorant-but-teachable and the humbled-but-not-yet-believing) are the primary addresses. Hearers 3, 5, 6, and 7 receive little specific attention.
+
+---
+
+### 5. Exhortation & Response — 3/8
+
+| Subcategory | Score | Notes |
+|---|---|---|
+| Call to Response | 1/4 | The Romans 10:9–10 citation is notated only as a reference — there is no pastoral summons built from it. The hearer is told about grace but never called to receive or act upon it. |
+| Equipping for Holiness & Witness | 2/4 | The "if God can reach Neb, he can reach your neighbor" implication is present but not developed into a concrete missionary or ecclesial exhortation. |
+
+---
+
+### 6. Structure & Logical Flow — 5/9
+
+| Subcategory | Score | Notes |
+|---|---|---|
+| Clarity of Outline | 2/4 | There are section headers ("Secondly," "Ultimately") but these do not form a discernible logical progression. The sermon meanders between the Neb narrative, the church-attendance illustration, the Onoda illustration, and the gospel appeal without clear connective tissue. |
+| Progression | 2/3 | The broad movement from God's power → grace's reach → gospel appeal is directionally right, but individual sections feel episodic rather than cumulative. |
+| Unity | 1/2 | Multiple ideas compete: God's sovereignty over pagans, the danger of comfort-as-distraction, the end of the war, grace for the far-gone. These are thematically related but insufficiently unified under one dominant claim. |
+
+---
+
+### 7. Illustration & Imagination — 4/5
+
+| Subcategory | Score | Notes |
+|---|---|---|
+| Relevance | 2/2 | The church-attendance illustration and the Hiroo Onoda analogy are both drawn from the congregation's experiential world. The Onoda analogy in particular is vivid and theologically apt. |
+| Clarity | 1/2 | The Onoda illustration illuminates the point well; the church-attendance illustration occupies more space than the doctrinal point it serves. |
+| Memorability | 1/1 | "The devil is still trying to wage war on us — even though he's been defeated" is a takeaway image. |
+
+---
+
+### 8. Sermonic Force — 3/5
+
+| Subcategory | Score | Notes |
+|---|---|---|
+| Reads as Preaching | 2/2 | The manuscript reads as oral speech — direct, conversational, and clearly delivered rather than read. |
+| Conviction on the Page | 1/2 | The assertions are warm but not dense with textual authority. The ratio of Scripture-grounded claims to general observations tilts toward the general. |
+| Cadence and Breath | 0/1 | There is no moment of climactic compression. The sermon ends gently, trailing off into a reference citation rather than landing on a note of summons or praise. |
+
+---
+
+### 9. Weight of Glory Bonus — 1/5
+
+| Subcategory | Score | Notes |
+|---|---|---|
+| Eternal Significance | 1/2 | The sermon has genuine warmth and handles the eternal stakes of grace with sincerity. |
+| Divine Gravity | 0/2 | God does not feel weighty in this sermon — he feels reassuring. The power described in the opening paragraphs (bending kings like candle flames) is not sustained through the sermon's gravitational center. |
+| The Spurgeon Test | 0/1 | The manuscript does not produce the impulse to weep, tremble, or rejoice. It produces comfort and warmth — which are good, but not the same thing. |
+
+---
+
+### 10. Cognitive Load Modifier — 0
+
+The sermon is accessible and paced for a general congregation. Ideas are introduced and resolved without overwhelming density. No penalty applied.
+
+---
+
+## D. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 14/25 |
+| Theology & Doctrinal Integrity | 13/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 7/15 |
+| Exhortation & Response | 3/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 3/5 |
+| **Subtotal** | **58/100** |
+| Weight of Glory Bonus | +1 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **59/100** |
+
+**Score capped at 69 due to Fatal Flaw Flags 4 and 5. Adjusted Total: 59/69 (cap not operative — raw score falls below cap).**
+
+**Interpretation: Below 60 — Fundamentally flawed. Rebuild from the text.**
+
+---
+
+## E. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Mostly Christ, but through the lens of comfort rather than confrontation with Christ's claims.
+2. **Did I encounter God, or just ideas about Him?** Ideas about Him — specifically, ideas about His power and His grace, presented descriptively rather than encountered as living address.
+3. **Was I comforted, convicted, or merely informed?** Comforted — warmly and genuinely. But not convicted, and conviction is what this congregation's conscience likely required first.
+
+---
+
+## F. Strengths
+
+1. **Reformed soteriology appears naturally and accurately** — the closing paragraph's articulation of total depravity, irresistible grace, election, adoption, and inheritance is theologically sound and does not feel grafted on. It arises from the pastoral concern of the moment. *("we have so polluted our hearts and minds that we can't even choose to follow God apart from his having begun to work in us")*
+
+2. **The Hiroo Onoda illustration is well-chosen** — the image of a soldier still fighting a war that ended decades ago maps cleanly onto the defeated-but-still-warring enemy. This is the sermon's most effective illustrative moment, and it is native to the text's own argument about victory already secured.
+
+3. **Pastoral tone is genuine and accessible** — the preacher speaks as a shepherd who knows his people. The warmth is not performative. The congregation is addressed as people he loves, and this register is sustained throughout.
+
+---
+
+## G. Critical Weaknesses
+
+1. **The thesis is borrowed from Paul, not Ezra (opening and throughout).** The sermon never asks what Ezra 4–6 is *arguing* — what literary and theological movement drives those chapters. The opposition-and-reversal structure of the text (obstruction → persistence → royal decree → providential provision) is the engine of the passage's meaning. That engine is narrated but not opened. The sermon tells the story; it does not preach the text.
+
+2. **The exhortation is absent.** The sermon closes with a gospel notation ("*[Gospel — Romans 10:9–10]*") rather than a gospel proclamation. The hearer is described as an heir to the kingdom but never called to enter, believe, repent, or pursue. This is the homiletical equivalent of showing someone a door without opening it.
+
+3. **Application never reaches the conscience.** The "blessings keeping you from church" illustration is specific, but the application drawn from it ("if it keeps you from obedience, it's not a blessing") is presented as general principle without surgical follow-through. Who in the room is this? What is their name — not their name, but their condition? The comfortable, the distracted, the man who calls his ease "God's blessing" — he is gestured at but never cornered.
+
+---
+
+## H. Blind Spots
+
+The preacher likely does not see how much the sermon's *warmth* is functioning as a substitute for *precision*. The genuine pastoral affection for the congregation is real — and it is communicating. But warmth without the law's prior work produces comfort without conviction. The hearer leaves feeling good about God's power without having been pressed on whether they are relying on it or ignoring it.
+
+Additionally, the historical embellishments (death tolls, the Neb/pedophilia claim, the Onoda details) are introduced with apparent confidence but cannot be verified. The manuscript itself flags several of these. The preacher may not recognize how much unverified historical material is carrying illustrative weight that properly belongs to the text.
+
+---
+
+## I. Illusion of Strength
+
+The opening paragraphs feel like exposition. The preacher is clearly in the narrative, tracking the historical arc from Nebuchadnezzar to Cyrus, and the rhetorical question ("If the strongest man on earth can have his will bent like the flame of a candle responds to breath...") lands with force. This section *reads* like a preacher who has mastered the text. But the sermon never moves from the *story* of the text to the *argument* of the text. The narrative competence is real; the hermeneutical payoff is deferred indefinitely.
+
+---
+
+## J. Missed Opportunity
+
+Ezra 6 is one of the most astonishing reversals in the Old Testament: the very officials who tried to stop the work become its administrators and funders. The king searches the archives, finds Cyrus's decree, and issues a command that the temple be built with full state funding — and that anyone who interferes be impaled on a beam from their own house. This is not merely "God worked things out" — it is God reversing the reversal, weaponizing the opposition's own mechanisms for His people's benefit. This is the text's climax and its most preachable moment. The sermon summarizes it ("God made Israel's captors *pay* to rebuild the temple") but does not dwell in it long enough for the congregation to feel its weight.
+
+---
+
+## K. Surgical Fixes
+
+1. **Rebuild the thesis from Ezra, not Romans.** A true scopus for this text might be: "God overrules every human opposition to accomplish His redemptive purposes, even using the instruments of opposition themselves." Once this is planted, Romans 8:31 becomes the doxological *response* to the text rather than the text's replacement.
+
+2. **Preach the reversal in Ezra 6 as the sermon's climax.** Stop. Slow down. Let the congregation feel the absurdity and the glory — the pagan king, searching dead archives, finding a promise made by a previous pagan king, and funding the temple his own empire had plundered. This is where the sermon should roar.
+
+3. **Add the law before the grace.** Before the "no one is too far gone" appeal, press the congregation: *Why* are we far gone? What specific rebellion does this room carry? The Babylonian and Persian idolaters are named — name the congregation's idolatry too. Let conviction precede comfort.
+
+4. **Issue a concrete exhortation in closing.** The Romans 10:9–10 reference must become a summons, not a notation. "Confess with your mouth... believe in your heart" — this is a call. Issue it. Distinguish: for the unbeliever, this is the door; for the believer, this is the ground you stand on today; for the backslider, this is your way home.
+
+5. **Tighten or remove the church-attendance illustration.** It is the sermon's longest sustained narrative and carries its smallest doctrinal freight. The point it makes ("blessings that keep you from obedience aren't blessings") is real but minor. Either press it harder or shorten it significantly.
+
+---
+
+## L. Dead Orthodoxy Flag
+
+Not triggered — theology score does not reach the diagnostic threshold. This is not dead orthodoxy; it is living warmth without doctrinal sharpness. The fire is present; the precision is missing.
+
+---
+
+## M. Weight of Glory Assessment
+
+The sermon carries genuine pastoral warmth and reaches for eternal stakes, but it does not produce the weight of glory — the sense that heaven has leaned in, that God Himself is speaking. It is a kind word about a great God, not the great God's own word breaking through.
+
+---
+
+## N. Rubric Fit Note
+
+Ezra 4–6 is narrative history, and the rubric's exposition categories are primarily designed for epistolary or prophetic argument. The passage does not have the propositional structure of a Pauline letter, which means "textual fidelity" requires tracking narrative argument rather than logical syllogism. The rubric bends slightly here — but narrative preaching still requires identifying the passage's own theological claim and letting that claim drive the sermon's thesis. The genre does not excuse the drift identified above; it merely reframes what fidelity would look like.
