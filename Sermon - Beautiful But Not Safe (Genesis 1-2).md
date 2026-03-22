@@ -142,3 +142,205 @@ The pastor flags this himself in the raw notes: "I have nothing to support this.
 **Series context:** This is the Genesis 1–2 message referenced as prior teaching in both "Sin Starts in the Heart" (Gen 2:15–17) and the Gen 3 sermon. The anthropic principle discussion, the grandmother's painting illustration, and the Moon Lake reflection are all cross-referenced in those later messages.
 
 **Sermon reference ID:** 1371237
+
+---
+
+# Thus Says the Lord — Sermon Evaluation
+
+## Verdict Title
+*A Pastoral Warmth with an Underdeveloped Textual Center*
+
+## One-Sentence Summary
+A genuine and winsome sermon from Genesis 1–2 that communicates God's character through vivid personal illustration, but whose expository tether to the actual passage is loose, and whose gospel presentation arrives at the end as an appendage rather than arising from the text's own logic.
+
+---
+
+## Berean Gate
+
+**Scopus Test:** Partial pass. The sermon's organizing idea — God is beautiful but not safe, and following him costs something — is a legitimate and true observation. However, it does not demonstrably arise as *the main point of Genesis 1–2*. The passage centers on creation order, the image of God in man, and the Sabbath rest. "Beautiful but not safe" is an application framework *overlaid* on the text rather than *derived* from it. The C.S. Lewis quote, though apt, is the sermon's interpretive climax — not the text itself.
+
+**Authority Test:** Pass. The preacher does not soften the hard material. The story of Aunt Judy is preached with unflinching honesty. The call to potential suffering and even martyrdom is genuine, not decorative. The preacher submits to the difficult realities the text implies.
+
+**Gate Status:** Conditional pass. The sermon uses Genesis 1–2 as a launch pad more than as a governing text. It does not fail outright — the themes engaged (creation, the image of God, the Sabbath, human mortality) are present in the passage — but the expository center of gravity is weak.
+
+---
+
+## Fatal Flaw Flags
+
+**Flag 3 — Christ present but not central:** Christ appears in the gospel invitation section, but the body of the sermon could largely survive without him. The "beautiful but not safe" framework is developed through creation, Aunt Judy, and the Lewis quotation. These are valid, but Christ's person and work are not woven through the exposition. He arrives at the end as the conclusion of an invitation, not as the organic goal of the passage's argument.
+
+**Flag 4 — Application is somewhat generic:** The application is pastoral and warm, but it generalizes toward "following God may cost you something." The congregation is addressed as a whole rather than in differentiated categories. No specific hearer is cornered. The closest thing to specificity is the call to potentially share the gospel with a Muslim, Jehovah's Witness, or Catholic family member — which is concrete, but arrives very late.
+
+**Score cap applies: 69.**
+
+---
+
+## Score Breakdown
+
+### 1. Exposition & Hermeneutics — 15 / 25
+
+- **Textual Fidelity (10 pts): 6** — The chiasm in Genesis 1 is explained clearly and accurately. The discussion of the Sabbath engages the text. But the sermon's organizing thesis ("beautiful but not safe") is imported, not exegeted. Genesis 2:5–15 receives minimal direct treatment. Several verses receive no handling at all.
+- **Contextual Awareness (5 pts): 3** — The chiastic structure demonstrates awareness of literary form. The reference to oral tradition mnemonic use is perceptive. Redemptive-historical location (creation as preparation for the covenant) is absent.
+- **Exegetical Clarity (5 pts): 3** — The sermon explains what it touches clearly. But it touches relatively little of the actual passage.
+- **Logical Faithfulness (5 pts): 3** — The moves are honest but not always text-derived. "Beautiful but not safe" is a personal observation brought *to* the text rather than discovered *in* it.
+
+**FCF note:** The Fallen Condition Focus is implicit but not named. If Genesis 2 is about mankind given stewardship in a perfect world, the FCF might be: *We are creatures made for communion with God in a good world, but we live east of Eden, in a creation that is no longer what it was.* The sermon gestures toward this but does not name it.
+
+### 2. Theology & Doctrinal Integrity — 12 / 18
+
+- **Christ-Centeredness (7 pts): 4** — Christ appears and is proclaimed, but his connection to Genesis 1–2 is not organically developed. There is no redemptive-historical movement from creation to fall to Christ as the second Adam. The gospel is presented but not shown as arising from the passage.
+- **Redemptive-Historical Awareness (3 pts): 1** — Almost entirely absent. A Genesis sermon that does not gesture toward the trajectory from creation to new creation to Christ misses a major opportunity.
+- **Doctrinal Precision (4 pts): 4** — What is stated is accurate. Sin, wrath, the death of Christ, justification by faith — each appears. The sermon does not make doctrinal errors. The Sabbath treatment is pastoral rather than precise, but is not wrong.
+- **Confessional Alignment (4 pts): 3** — No contradictions of 1689 theology. The gospel invitation is straightforwardly evangelical. The "ask Jesus to pay the price" framing is adequate but lacks the precision of imputed righteousness or penal substitution named explicitly.
+
+### 3. Gospel Centrality & Force — 9 / 15
+
+- **Clarity of the Gospel (5 pts): 4** — Romans 3:23, Romans 5:8–9, the death and resurrection of Christ, comparison with false religions — all present. An unbeliever could understand from this sermon how to be saved. The gospel is clear.
+- **Necessity of Christ (5 pts): 3** — Christ is proclaimed as necessary for salvation, but the sermon's central argument (God is not safe) does not *require* Christ to make its case. The sermon could stand as a reflection on creation and courage without the gospel section.
+- **Cross-Centered Gravity (5 pts): 2** — The sermon moves toward the cross at the end, but the cross is not the gravitational center. The movement is: chiasm → oral tradition → grandmother's paintings → Sabbath → beautiful but not safe → Aunt Judy → gospel invitation. The cross enters late and briefly.
+
+**Synagogue Test:** The first 80% of this sermon — the Genesis 1 literary structure, the grandmother illustration, the Sabbath discussion, the "beautiful but not safe" framework — could be preached in a synagogue or mosque without offense. The gospel enters in the final section but does not govern the preceding exposition.
+
+**Law/Gospel:** The law is present in the form of God's justice and wrath. The gospel relieves it. But the hammer does not land firmly before the balm is offered. The transition is rapid.
+
+### 4. Conscience & Applicatory Force — 8 / 15
+
+- **Heart Penetration (5 pts): 4** — The story of Aunt Judy is the sermon's pastoral high point. It is honest, moving, and does press the conscience. The congregation is invited to imagine their own suffering as purposeful and their own courage as possible. This is genuine heart work.
+- **Specificity (5 pts): 2** — Outside of Aunt Judy's story and the brief mention of sharing the gospel with specific groups (Muslims, JWs, Catholics), application is broad. "Following God is not safe" is a truth, but it does not land with precision in the congregation's specific lives.
+- **Spiritual Differentiation (5 pts): 2** — The sermon primarily addresses believers. The unbeliever is addressed in the gospel invitation. The backslider, the doubter, the knowledgeable-but-unhumbled — these categories go unaddressed.
+
+**Perkins Analysis:** The sermon addresses (5) believers and (4) those nearing conversion. The knowledgeable but unmoved, the backslider, and the hardened receive no distinct address.
+
+### 5. Exhortation & Response — 5 / 8
+
+- **Call to Response (4 pts): 3** — The gospel invitation is a genuine call to response. The mention of potential martyrdom is an honest exhortation to courage. The call to share the gospel with specific groups is concrete.
+- **Equipping for Holiness & Witness (4 pts): 2** — The congregation is pointed toward witness but not equipped for it. The instruction is to share the gospel, but no tools, posture, or model is given. The "Jim Elliot" quotation (used correctly in anonymous form) is motivational but not equipping.
+
+### 6. Structure & Logical Flow — 6 / 9
+
+- **Clarity of Outline (4 pts): 3** — The headings provide clear sections: the literary structure, the Sabbath, "beautiful but not safe," "following God isn't always safe," the gospel. These are traceable. However, the relationship between sections is associative rather than argumentative. Each section follows by topic shift, not by logical necessity.
+- **Progression (3 pts): 2** — The sermon builds emotionally toward the gospel. But the expository logic does not compound. It accumulates illustrations rather than pressing one idea deeper.
+- **Unity (2 pts): 1** — There are effectively two sermons here: (1) a literary and theological introduction to Genesis 1–2, and (2) a pastoral meditation on the cost and safety of following God. These are related but not unified under one dominant thesis.
+
+### 7. Illustration & Imagination — 4 / 5
+
+- **Relevance (2 pts): 2** — The grandmother's paintings, Moon Lake, the tropical storm, and Aunt Judy are all drawn from the congregation's world or close to it. These land.
+- **Clarity (2 pts): 1** — The Moon Lake reflection image is beautiful but its connection to the argument needs one more sentence ("*That stillness, that perfect reflection — that is what Genesis 2 was*"). As delivered, the image hangs slightly.
+- **Memorability (1 pt): 1** — "Beautiful but not safe" is memorable. Aunt Judy's story is memorable. The grandmother's paintings land. This is the sermon's strength.
+
+### 8. Sermonic Force — 4 / 5
+
+- **Reads as Preaching (2 pts): 2** — The manuscript reads like a man talking. The rhythm is natural, conversational, and pastoral. There is no academic register. This is oral preaching captured in text form.
+- **Conviction on the Page (2 pts): 1** — The Aunt Judy section carries conviction. The gospel section carries urgency. The earlier expository sections (chiasm, oral tradition) read more as teaching than preaching. The ratio of Scripture-grounded assertion to general observation is lower in the first half.
+- **Cadence and Breath (1 pt): 1** — Sentence variation is natural. The sermon does not feel stiff. The two-sentence paragraph before the gospel ("But listen — because I have two more points and then we're done") is a well-timed pastoral pause.
+
+---
+
+## Cognitive Load Modifier: 0
+
+The sermon is accessible. A single mother, a high schooler, a new believer can track it without difficulty. The chiasm explanation may stretch a few, but it is brief. No penalty.
+
+---
+
+## Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 15 / 25 |
+| Theology & Doctrinal Integrity | 12 / 18 |
+| Gospel Centrality & Force | 9 / 15 |
+| Conscience & Applicatory Force | 8 / 15 |
+| Exhortation & Response | 5 / 8 |
+| Structure & Logical Flow | 6 / 9 |
+| Illustration & Imagination | 4 / 5 |
+| Sermonic Force | 4 / 5 |
+| **Subtotal** | **63 / 100** |
+| Weight of Glory | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **65 / 100** |
+
+**Score capped at 69 due to fatal flaw flags.** Raw score of 65 falls within the cap.
+
+**Interpretation: Concerning gaps.** The sermon explains and warms — but it does not yet preach from the text. The gospel is present but appended. Significant revision needed to bring the expository center into alignment with the sermon's genuine pastoral strengths.
+
+---
+
+## Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** — Primarily of God's character and of my own call to courage. Christ is invoked but not magnified.
+2. **Did I encounter God, or just ideas about Him?** — In the Aunt Judy section: yes, something real breaks through. In the earlier expository sections: ideas about God, not encounter.
+3. **Was I comforted, convicted, or merely informed?** — Comforted by Aunt Judy's story, somewhat convicted by the cost of following God. Informed by the Genesis 1 literary analysis.
+
+---
+
+## Strengths (Top 3)
+
+1. **Aunt Judy's story (Section: "Following God Isn't Always Safe")** — This is the sermon's pastoral heartbeat. It is honest, long, and worth every word. The congregation sees a real human life shaped by surrender, and the payoff (bags of letters) is not sentimentalized. This is how personal narrative is supposed to work in preaching.
+
+2. **The grandmother's painting illustration** — The connection between a human artist pouring herself into her work and God's image poured into creation is theologically sound and emotionally accessible. The application ("If she was limited by her brush and palette, God had no such limitations") is exact and elegant.
+
+3. **The gospel invitation section** — It is scripturally grounded (Romans 3:23, 5:8–9), theologically honest (God's wrath is named), and genuinely clear. A visiting unbeliever could understand how to be saved. The comparison of Christ's resurrection against Buddhism and Islam is appropriately provocative.
+
+---
+
+## Critical Weaknesses (Top 3)
+
+1. **The text of Genesis 2:5–15 is announced but not opened.** The section heading reads "Genesis 2:5–15" but the passage receives almost no verse-by-verse treatment. The garden, the rivers, the command to work and keep it, the placing of man in the garden — none of these are exposited. The sermon uses Genesis 2 as a title, not as a source. This is the rubric's central concern.
+
+2. **"Beautiful but not safe" is imported, not exegeted.** The Lewis quotation is the sermon's pivot point — but it arrives as the preacher's own observation ("That brought to mind something C.S. Lewis put in *The Chronicles of Narnia*") rather than as a discovery in the text. A faithful sermon on Genesis 1–2 could arrive at the same destination, but the route must run through the passage.
+
+3. **The gospel is structurally separated from the exposition.** There is a literal horizontal rule before "Gospel Invitation." That marker is accurate — the gospel enters as a separate section rather than as the organic culmination of what Genesis 1–2 has been building toward. In a creation sermon, the gospel should arrive through the trajectory of the image of God in man, the fall that is coming, and the Christ who is the second Adam — not as an appended invitation.
+
+---
+
+## Blind Spots
+
+The preacher likely does not see how much the C.S. Lewis quotation is doing structural work that the text should be doing. Lewis is cited as illustration — but the *Not Safe But Good* framework is the sermon's thesis, and it comes from Lewis, not Genesis. This is invisible because the illustration is so apt. But it means the sermon's organizing principle has a literary source, not a scriptural one.
+
+The Sabbath section is also potentially more than the preacher realizes. The movement from Sabbath rest in Genesis 2 to Hebrews 4 (the rest that remains for the people of God, which is rest in Christ) is a rich theological thread. The preacher touches it without pulling it. The "take time to rest and be with your family" application, while pastorally appropriate, domesticates a text that points to eschatological and Christological rest.
+
+---
+
+## Illusion of Strength
+
+The chiasm explanation feels like exposition. It is well-delivered, clearly taught, and the congregation will learn something. But explaining a literary device is not the same as opening the theological argument of the passage. The chiasm observation is accurate and useful — but it functions as introduction, not interpretation. The sermon can feel exegetically strong in this section when it is actually teaching structure rather than preaching content.
+
+---
+
+## Missed Opportunity
+
+Genesis 2:15 — "The LORD God took the man and put him in the garden of Eden to work it and keep it." This verse contains both the human vocation (image-bearers as stewards and workers) and a word (*shamar*, "to keep/guard") that implies a threat. There is already something to guard against. The snake of Genesis 3 is not a surprise — the garden required guarding before the fall. This gives "beautiful but not safe" its actual textual home. The preacher preached the concept but missed the verse that grounds it.
+
+The creation-to-new-creation arc is also entirely absent. Genesis 1–2 describes the world as it was meant to be. Revelation 21–22 describes the world as it will be again. A creation sermon that does not gesture toward the new creation — and toward Christ as the one through whom all things are being made new — leaves the congregation without the fullness of the biblical frame.
+
+---
+
+## Surgical Fixes
+
+1. **Root "beautiful but not safe" in Genesis 2:15.** The word *shamar* ("to keep/guard") implies threat. The garden was beautiful — and there was already something to guard against. This makes Lewis the illustration and the text the argument, not the reverse.
+
+2. **Spend four sentences on Genesis 2:5–15.** The rivers, the garden, the naming of animals, the creation of woman — even brief treatment would establish the passage as the sermon's home. Currently the passage is present in the heading but absent from the content.
+
+3. **Connect the Sabbath to Hebrews 4 and to Christ.** One sentence would do: *"The rest God wove into creation from the beginning is the same rest Jesus promises — Come to me, and I will give you rest. It has always been about this."* This would make the Sabbath section theological rather than practical.
+
+4. **Move the gospel from appendix to destination.** The sermon should build toward Christ as the answer to the problem Genesis 1–2 raises (image-bearing creatures in a world that is beautiful but cursed, dangerous, and temporary). The gospel invitation should feel like the passage's own conclusion, not a separate section added at the end.
+
+5. **Add one direct address to the knowledgeable-but-unmoved.** Something like: *"Some of you know this. You know the doctrine. You've sat in this room and heard about the cost of following Christ, and you've nodded — and gone home and changed nothing. The problem is not information. You don't need another sermon. You need surrender."*
+
+---
+
+## Dead Orthodoxy Flag
+
+Not triggered. The theology is not bloodless — Aunt Judy's story carries genuine pastoral heat, and the preacher is personally invested in what he preaches. The fire is present, even if the text is underdeveloped.
+
+---
+
+## Weight of Glory Assessment
+
+The sermon carries genuine pastoral gravity — particularly in the Aunt Judy narrative — but it does not yet carry the weight of Genesis 1–2 itself, which, fully opened, would press creation's glory against the hearer's lostness with tremendous eschatological force. **+2 of 5.**
+
+---
+
+## Rubric Fit Note
+
+This rubric fits narrative and didactic preaching well and applies naturally here. One genre consideration: this is evidently a congregational teaching sermon in an informal evening or small-group register, not a formal expository address. The evaluation holds, but "Clarity of Outline" should be understood in that pastoral register. The conversational style is appropriate to the setting and should not be penalized for informality. The concern throughout is not tone but textual fidelity.
