@@ -60,6 +60,7 @@ Illustrations used 2+ times are flagged with usage count. Two or more uses isn't
 | 3 | De Gaulle BBC Appeal | June 18, 1940 — de Gaulle's BBC radio appeal to the French Resistance. French Resistance as Christian-in-enemy-territory metaphor. | Various | Various | 1 |
 | 4 | KGB Recruitment | Pentagon phone book for $50K → escalating compromises → blackmail. "It all started with that little compromise." Illustrates how sin escalates from small concessions. | Ps 3 | `Psalm 3 - My Salvation Belongs to the Lord.md` | 1 |
 | 5 | Titanic | 2,000+ sailed, remnant survived in lifeboats — "numbers didn't save." Major Arthur Peuchen left $300K in bonds, took three oranges and a good-luck pin. What you value changes when death is near. | Rom 9-11 | Various | 2 |
+| 6 | Beaten with Rods (Ancient World) | Article quoted at length: strong man bound victim's arms tightly around his body (like a straightjacket), lifted his legs into the air, then hammered the soles of his feet with a large metal rod until they were bleeding, broken, and maimed. Many victims never walked again. Paul endured this three times. Application: Satan targeted the feet of the gospel preacher — "How beautiful are the feet of those who bring good news" (Rom 10:15 / Isa 52:7). This was an attack on the gospel itself. | 1 Cor 9:19-23; 2 Cor 11:23-27 | `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` | 1 |
 
 ---
 
@@ -71,6 +72,7 @@ Illustrations used 2+ times are flagged with usage count. Two or more uses isn't
 | 2 | Heaven/Hell Three-Door Joke | Joke used as sermon opener. | Rom 1:1-2 | `Romans 1 - Psalm 22.md` | 1 |
 | 3 | Mini-Golf in Japan | Debt you can't repay — Japanese mini-golf and capsule hotels as entry point to discussing spiritual debt. | Rom 8:12-17 | `Romans 8.12-17 - Debtors to the Spirit.md` | 1 |
 | 4 | Space Elevator | "I bet they don't fix the elevator music." Light humor before deep point about God's scale. | Rom 1:18-32 | `Romans 1c` | 1 |
+| 5 | Skinny Person / Kale | From article quoted in sermon: hearing a prolific evangelist talk about gospel motivation "was going to be like hearing skinny people talk about how they should eat less kale — for the calories." Humorous way of naming the awkwardness of receiving advice from someone who excels at what you fail at. | 1 Cor 9:19-23 | `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` | 1 |
 
 ---
 
@@ -159,6 +161,7 @@ Illustrations used 2+ times are flagged with usage count. Two or more uses isn't
 | 13 | Toothpaste Tube Marital Conflict | Repeated violation of expressed wishes parallels humanity's relationship with God — it's the principle, not the paste. | Rom 3:19-26 | `Romans 3 - wrath of God (final).md` | 1 |
 | 14 | Trading Down | Porsche→Yugo, 747→paper airplane. Before Christ = debtors to flesh, trading eternal riches for temporal scraps. | Rom 8:12-17 | `Romans 8.12-17 - Debtors to the Spirit.md` | 1 |
 | 15 | Watering Can / Cracked Pot | Original version in raw transcript, later recast in processed sermons. God uses broken vessels. | Rom 9 | `Romans 9 - Who Are Gods People.md` | 1 |
+| 16 | Starving Beggars | From article quoted in sermon (Oklahoma pastor): "What the church needs most is not just a program or process to get more people in the pews, but the continually outflowing plea of starving beggars telling other starving beggars where they have found a feast that never runs out." Captures gospel motivation as joyful overflow of one who has been fed, not duty-driven obligation. | 1 Cor 9:19-23 | `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` | 1 |
 
 ---
 
