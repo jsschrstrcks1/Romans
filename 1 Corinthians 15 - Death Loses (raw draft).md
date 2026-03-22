@@ -6,8 +6,6 @@
 
 ---
 
-I want to start this morning by talking about death.
-
 Not because it's Easter and that's what you're supposed to do. But because there are people in this room for whom death is not a theological category — it's a clock. A diagnosis on a sheet of paper. A name they can't say without their voice breaking. A chair that's empty this morning that wasn't empty last Easter.
 
 And if we rush past that into celebration, we've cheated those people. We've given them a holiday when what they need is a verdict.
@@ -34,7 +32,7 @@ And then verse 20.
 
 *"But in fact Christ has been raised from the dead."*
 
-Three words in Greek: *Νυνὶ δὲ Χριστὸς ἐγήγερται* — "But now, Christ has been raised." The word *νυνί* (nuni) is not just a time marker. It's an adversative — a sharp pivot. *Nevertheless. Contrary to all of that. Despite what you just considered.* It's the turn after the long darkness.
+Three words in Greek: *Νυνὶ δὲ Χριστὸς ἐγήγερται* — "But now, Christ has been raised." The word *νυνί* (nuni) is not just a time marker. It's an adversative — a sharp pivot. *Nevertheless.* It's the turn after the long darkness.
 
 *But in fact.*
 
@@ -52,7 +50,7 @@ If you have buried someone you loved in Christ, that is the promise. They are no
 
 ---
 
-Now verse 21–22. This is where it gets deep, and some of you are going to feel the connection immediately.
+Now verse 21–22.
 
 *"For as by a man came death, by a man has come also the resurrection of the dead. For as in Adam all die, so also in Christ shall all be made alive."*
 
@@ -82,7 +80,7 @@ Now — I know what some of you are thinking. *It doesn't look like that.* It lo
 
 You're not wrong about the observation. You're wrong about the timeline.
 
-There is a story I heard once about a Japanese soldier named Hiroo Onoda. He was stationed in the Philippines during World War II. When the war ended in 1945, he didn't know. Nobody told him. His commanding officer had died. The radio went silent. He stayed in the jungle for 29 years — until 1974 — still fighting a war that had been over for three decades. He ambushed supply convoys. He evaded patrols. He stayed loyal to an empire that had already surrendered.
+In 1945, a Japanese soldier named Hiroo Onoda was stationed in the Philippines. When the war ended, he didn't know. Nobody told him. His commanding officer had died. The radio went silent. He stayed in the jungle for 29 years — until 1974 — still fighting a war that had been over for three decades. He ambushed supply convoys. He evaded patrols. He stayed loyal to an empire that had already surrendered.
 
 Death is Hiroo Onoda.
 
@@ -92,7 +90,7 @@ The last enemy. Not the final winner. The last one to fall.
 
 ---
 
-Jump with me now to verse 50. Paul has been building the theological case. Now he shifts into something else entirely.
+Verse 50.
 
 Verses 51–53: *"Behold! I tell you a mystery."* When Paul says *mystery* in his letters, he doesn't mean something puzzling or obscure. He means something that was hidden and has now been revealed. *"We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trumpet."*
 
@@ -124,15 +122,11 @@ Not earns. Gives. You don't win this victory. You receive it. The victory is his
 
 ---
 
-And then Paul lands.
-
 Verse 58. After the most massive theological argument in the New Testament — after the witnesses, the logic, the firstfruits, the Last Adam, the list of enemies, the taunt of death, the Isaiah quotation, the Hosea quotation, the sting and its removal — Paul ends here:
 
 *"Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain."*
 
 *Not in vain.*
-
-I want to stay here for a minute.
 
 Some of you are fighting for a marriage that isn't getting better. You've been at it for years. You're tired. Nobody can see what it costs you to come home and try again. *It is not in vain.*
 
@@ -160,7 +154,7 @@ Not because you feel like it. Because it is not in vain.
 
 ---
 
-And if you don't know him — if you're sitting here this morning and Easter is something that happens to other people's faith — let me say something simple to you.
+And if you don't know him — if you're sitting here this morning and Easter is something that happens to other people's faith —
 
 Paul wrote to a city full of people who had plenty of options. Corinth had temples on every corner. Every god imaginable. And he laid out the evidence for the resurrection — the eyewitnesses, the logic, the consequence if it's false — and he said: *But in fact.*
 

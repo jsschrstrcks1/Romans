@@ -28,7 +28,7 @@ The distance between those two events — Sunday's shouts and Friday's shouts �
 
 ---
 
-Let me give you the context, because context is everything here.
+Let me give you the context.
 
 It is Passover week. The city of Jerusalem has swollen from its normal population — somewhere around 50,000 people — to estimates of several hundred thousand during the festival. Pilgrims have come from every direction. And they have come to remember one thing: the night in Egypt when the angel of death passed over every household marked by the blood of a lamb.
 
@@ -90,8 +90,6 @@ And Jesus saw it coming. He wept because they didn't know the day of their visit
 
 ---
 
-Let me stay here for a moment.
-
 The "day of your visitation" — *ἐπισκοπή* (episkopē) — is the time of God's appearing. The time when God comes near. The moment when heaven bends toward earth and says: *here I am*. The tragedy of Jerusalem is not that God didn't come to them. He did. The tragedy is that they were looking for the wrong kind of king, and when the right one arrived, they called for his execution.
 
 They wanted a military deliverer. They got the Lamb of God.
@@ -100,7 +98,7 @@ They wanted Caesar's power. They got Isaiah 53's servant — *"he had no form or
 
 And so — they missed him.
 
-Now let me ask you a question, and I want you to take it seriously.
+Now let me ask you a question.
 
 Is it possible to shout *Hosanna* and still miss him?
 
@@ -114,8 +112,6 @@ The real Jesus wept over the city. He mourned the blindness of the people who lo
 
 Not peace with Rome. Peace with God.
 
-That's the king who rode in on Palm Sunday.
-
 ---
 
 Some of you came in this morning hoping for a celebration. And it is a celebration — but it is a strange one. We're celebrating a king who wept for us even while we misunderstood him. We're waving palms for a man who knew the crowd would be calling for his death by Thursday.
@@ -126,7 +122,7 @@ Passover week. The lambs are in the city. The blood is about to be shed.
 
 And the king — the *real* king — the one the stones themselves would have shouted for — rides in on a donkey and weeps for the ones who can't see what's happening.
 
-Romans 9 — you know this passage — Paul writes: *"I have great sorrow and unceasing anguish in my heart... for my brothers."* He ached for Israel the way Jesus ached for Jerusalem. Both of them, weeping. Both of them, faithful. Neither of them, surprised.
+Romans 9 — you know this passage — Paul writes: *"I have great sorrow and unceasing anguish in my heart... for my brothers."* He ached for Israel the way Jesus ached for Jerusalem. Both of them, weeping. Both of them, faithful.
 
 The shepherd weeps for the sheep. And then he goes to the cross for them anyway.
 
@@ -148,6 +144,6 @@ We'll be back next Sunday. Easter morning.
 
 What happens between now and then is the cross — the thing the king came to do. The Passover lamb. The blood on the door. The angel of death, passing over.
 
-Come back next week to hear what happened after.
+Come back next week. The cross is what happens next. And the empty tomb is what happens after that.
 
 *Pray.*
