@@ -136,3 +136,199 @@ Ultimately though, take them to the Gospel.
 - Catholic soteriology characterization — flagged for accuracy (see #22) but left as-preached
 - All personal anecdotes preserved exactly as delivered
 - Preacher's voice, cadence, and pastoral register preserved throughout polish
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluation date**: 2026-03-22
+**Evaluated by**: Thus Says the Lord rubric v.1 (Reformed Baptist, weighted 100-point scale)
+
+---
+
+### 1. Verdict Title
+
+**"A Solid Polemical Survey That Explains Justification Without Quite Preaching It"**
+
+---
+
+### 2. One-Sentence Summary
+
+A congregationally accessible survey of the biblical doctrine of justification, effectively distinguishing Protestant sola fide from Catholic sacramentalism, while stopping short of pressing the conscience or summoning a specific response from its hearers.
+
+---
+
+### 3. Berean Gate
+
+**Genre note**: This is not a single-text expository sermon. It is a topical-polemical lesson organized around a doctrinal topic (justification) with comparative religion application (Catholicism). The rubric is applied accordingly, with bending noted where the genre strains the framework.
+
+**Scopus Test**: The sermon has a clear thesis — justification is by grace through faith alone, not by works or sacrament, and the Catholic system contradicts this. That thesis is defensible from the texts marshaled. However, no single passage governs the argument; it is a theological survey with illustrative texts.
+
+**Authority Test**: The preacher submits to Scripture's teaching. He does not soften the texts or edit their force. He allows the hard edges of the Catholic contradiction to stand.
+
+**Result**: PASS — with the qualification that this is a topical-comparative lesson, not an expository sermon. The rubric is applied to the lesson as a distinct genre.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Flag 4 — Application is entirely generic**: The closing exhortation ("have them read these verses... especially Ephesians 2:8-9") is almost entirely evangelistic coaching aimed at Catholic neighbors — not a differentiated address to the congregation itself. Unconverted people sitting in the room receive no direct address. Believers who may have come from Catholic backgrounds receive no pastoral word. The exhortation is generic: "Take them to the Gospel."
+
+**Score cap applied: 69.**
+
+The flag is real but mild — this is evangelistic instruction, which has legitimate purpose. However, the rubric cannot waive the flag because there is genuinely no differentiated conscience-address to distinct categories of hearers in the room.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14 / 25**
+
+- *Textual Fidelity*: 6/10. Ten passages are quoted and handled honestly. No serious eisegesis. But they function as proof-texts for a pre-formed argument, not as the argument itself. The passages are read *at* the congregation rather than *through* with the congregation. No passage is worked — the preacher reads and summarizes but does not explain the logic within any given text.
+- *Contextual Awareness*: 3/5. Some contextual gesture (John 1:1 → 1:12 → 1:14 connection is good). But Romans 3 and 5 passages appear as isolated proof-texts, not as part of Paul's larger argument about the righteousness of God.
+- *Exegetical Clarity*: 2/5. The Greek term *dikaiōsis* is introduced but not unpacked. The Baker's Encyclopedia definition is solid. No further exegetical depth is offered.
+- *Logical Faithfulness*: 3/5. No eisegesis detected. The argument flows logically from passage to passage, but it is assembled, not excavated.
+- *Fallen Condition Focus (Chapell)*: Not explicitly named. The underlying FCF is present (we cannot justify ourselves; we are enemies of God who boast in our own righteousness), but it is assumed rather than named and pressed.
+
+**2. Theology & Doctrinal Integrity — 14 / 18**
+
+- *Christ-Centeredness*: 6/7. Christ is genuinely central — his death, his bearing of sin, his blood, his once-for-all sufficiency. Not artificially bolted on. 1 Peter 2:23-25 and 2 Corinthians 5:21 are excellent Christological anchors.
+- *Redemptive-Historical Awareness*: 1/3. Absent. The sermon does not locate justification within the covenant of works/covenant of grace framework, nor within the progress of redemption from Adam to Christ. This is a significant missed depth for a Reformed congregation.
+- *Doctrinal Precision*: 5/4 (full credit plus stretch). Justification is handled carefully — passive righteousness, imputation implied, propitiation named. The distinction from sanctification is implicit but present. The Council of Trent Canon 9 is correctly cited and explained. This is the sermon's strongest technical section.
+- *Confessional Alignment — 1689 Pulse*: 2/4. Sola fide is clearly affirmed. But the sermon does not use the confession's precision on justification (imputed righteousness of Christ, active and passive obedience, etc.). It is more broadly evangelical than distinctively Reformed.
+
+**3. Gospel Centrality & Force — 10 / 15**
+
+- *Clarity of the Gospel*: 4/5. Justification by grace through faith is clearly stated. Propitiation is named. 2 Corinthians 5:21 (imputation) is cited. What is missing is a moment where this is *proclaimed* rather than *explained* — the gospel is taught, not thundered.
+- *Necessity of Christ*: 4/5. Christ is necessary to the argument. The sermon could not function without him.
+- *Cross-Centered Gravity*: 2/5. The cross is referenced (1 Pet. 2:24, 2 Cor. 5:21) but never dwelt upon. The sermon moves through these texts quickly. There is no moment of tarrying at the cross. No law/gospel dialectic — the law does not hammer before the gospel relieves. The sermon explains both sides of the contrast (Protestant vs. Catholic) without driving the hearer through either.
+- *Synagogue Test*: Partial pass. A devout non-Christian would understand justification is through Christ's blood received by faith. But the cross is not presented with scandal — it is presented as a doctrinal position in a comparative religion lesson.
+
+**4. Conscience & Applicatory Force — 6 / 15**
+
+- *Heart Penetration*: 2/5. The sermon does not search the conscience of those in the room. It arms the congregation for a conversation they might have with Catholic neighbors. The heart of the hearer is not pressed on their own self-righteousness, their own trust in religious performance, their own boasting.
+- *Specificity*: 2/5. The lion-tamer illustration gestures at specificity and is memorable. The missile anecdote is vivid but pastoral rather than applicatory. Neither lands as a conscience-pressing moment.
+- *Spiritual Differentiation*: 2/5. The sermon operates almost entirely in one mode: the congregation member who needs to be equipped to talk to Catholics. No address to the converted who may have Catholic-adjacent religious tendencies in their own hearts. No address to the unconverted in the room. No address to the backslider.
+- *Perkins' Seven*: Only categories 2 and 5 (the teachable and the believing) are meaningfully addressed. The humbled, the hardened, the knowledgeable-but-unmoved are untouched.
+
+**5. Exhortation & Response — 4 / 8**
+
+- *Call to Response*: 2/4. "Take them to the Gospel" and "have them read Ephesians 2:8-9" are evangelistic coaching responses — they tell the congregation member what to do with their Catholic neighbor, not what to do with themselves before God.
+- *Equipping for Holiness & Witness*: 2/4. The witness-equipping dimension is actually the sermon's clearest practical contribution. It provides scriptural ammunition for a conversation. But holiness — what justification produces in the life of the justified — is absent. Ephesians 2:10 is quoted but the "good works" implication is never followed.
+
+**6. Structure & Logical Flow — 7 / 9**
+
+- *Clarity of Outline*: 3/4. The structure is clear: biblical survey of justification → contrast with Catholic position → practical guidance for Catholic evangelism. A listener could sketch this.
+- *Progression*: 3/3. The argument builds coherently. The polemical contrast in the middle lands well.
+- *Unity*: 1/2. The unity is good but slightly frayed — the Nicaea/Arius aside, the lesbian pastor comment, and the Lee-from-ERS anecdote each introduce minor tangents. None breaks the sermon; each costs something.
+
+**7. Illustration & Imagination — 3 / 5**
+
+- *Relevance*: 2/2. The lion-tamer story is native to this preacher's world, vivid, and well-targeted. The missile conversation with Kurt at the hospital is personal and grounded.
+- *Clarity*: 1/2. The lion-tamer illustration is clear and lands. The missile illustration lands emotionally but its applicatory connection is loose — "getting hit by a missile" as a picture of sudden glory is memorable but somewhat jarring as pastoral encouragement.
+- *Memorability*: 0/1. The illustrations are good but none will carry theological freight home. The lion-tamer will be remembered; its doctrinal connection may not.
+
+**8. Sermonic Force — 3 / 5**
+
+- *Reads as Preaching*: 2/2. Yes — this is oral. It breathes. The register is conversational and real. The preacher's voice is present.
+- *Conviction on the Page*: 1/2. The conviction is comparative-religious rather than pastoral-prophetic. The passages are cited but not pressed. The preacher explains the doctrine; he does not *declare* it.
+- *Cadence and Breath*: 0/1. Sentences are reasonably varied but the manuscript lacks compression. There is no climactic build, no moment of rhetorical force at the highest pitch. "Ultimately though, take them to the Gospel" is the closest thing to a landing blow, and it lands softly.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1**: Slightly dense in the survey section (ten passages in quick succession) but generally accessible. The average church member can follow the argument. The new believer may not retain the doctrinal distinctions, but the main line (salvation is God's gift, not our achievement) is trackable.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 14 / 25 |
+| Theology & Doctrinal Integrity | 14 / 18 |
+| Gospel Centrality & Force | 10 / 15 |
+| Conscience & Applicatory Force | 6 / 15 |
+| Exhortation & Response | 4 / 8 |
+| Structure & Logical Flow | 7 / 9 |
+| Illustration & Imagination | 3 / 5 |
+| Sermonic Force | 3 / 5 |
+| **Subtotal** | **61 / 100** |
+| Weight of Glory (bonus) | +2 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **62 / 100** |
+
+**Score cap applied**: Fatal Flaw Flag 4 (generic application) caps score at 69. Raw pre-cap total: 62. Cap not binding in this case — the raw score is already below 69.
+
+**Interpretation band**: 60–69 — *Concerning gaps. The sermon explains but doesn't fully preach. Significant revision needed.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Moderately of Christ — the theological content keeps Christ central. But the closing pivot to Catholic-evangelism coaching subtly shifts attention to the congregation's competence as witnesses.
+2. **Did I encounter God, or just ideas about Him?** Primarily ideas. The sermon teaches about justification without the sense that the preacher has been broken by or exulting in this truth himself.
+3. **Was I comforted, convicted, or merely informed?** Primarily informed. This is the sermon's dominant mode and its central weakness.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **Doctrinal precision on the Council of Trent**: The Canon 9 citation is correct, well-explained, and sharp. The point that Paul himself would be anathematized by Trent's terms is rhetorically effective and theologically accurate. This is the sermon's clearest moment of argumentative force.
+2. **Textual breadth handled without distortion**: Ten passages cited, none seriously mishandled. The preacher does not impose meanings the texts don't carry. The sequence from guilt (Rom. 3:23-25) to reconciliation (Rom. 5:1-2) to adoption (John 1:12) to imputation (2 Cor. 5:21) to gift (Eph. 2:8-10) is a coherent doctrinal arc.
+3. **Pastoral accessibility**: The lion-tamer illustration, the Lee-from-ERS anecdote, the missile conversation with Kurt — these give the sermon a human texture that prevents it from becoming a theology lecture. The preacher is present as a person.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The congregation's own conscience is never addressed**: The entire applicatory weight of the sermon is directed outward — toward Catholics the congregation member might encounter. But the sermon never asks: "Where are *you* trusting in your own righteousness? Where is your own boasting still alive?" The texts demand this. Romans 3:27 — "What becomes of our boasting? It is excluded" — is quoted without being pressed inward. This is the sermon's most significant pastoral failure.
+2. **Gospel explanation without gospel proclamation**: The sermon explains that Christ bore our sins; it does not *declare* it with force. 1 Peter 2:24 and 2 Corinthians 5:21 are cited and briefly noted, then passed. There is no moment of tarrying at the cross, no moment where the preacher allows the weight of imputed righteousness to land on the congregation. The gospel is present as information; it is absent as event.
+3. **No redemptive-historical depth**: Justification is presented as a theological proposition without location in the story of redemption. The covenant of works, the failure of Adam, the coming of the second Adam — none of this frames why justification is necessary or what it accomplishes in God's larger purpose. The sermon is a flat doctrinal presentation rather than a proclamation set within the sweep of Scripture.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that his intended audience (his congregation) and his stated audience (Catholics the congregation might evangelize) have quietly switched. The sermon is designed to equip the congregation for external conversations, but in doing so it never turns to examine what is in the congregation's own hearts. There is an assumed "we" throughout — "we Protestants know better" — that can function as a subtle form of the very self-righteousness the sermon condemns in Catholic sacramentalism.
+
+---
+
+### 12. Illusion of Strength
+
+The polemical section feels like the strongest moment — the Council of Trent quotation, the "even Paul would be anathematized" argument — because it is rhetorically satisfying and intellectually clear. But it is comparative apologetics, not preaching. The congregation walks away equipped to win an argument more than equipped to marvel at grace or examine their own hearts. The strength of the polemic masks the absence of the pastoral probe.
+
+---
+
+### 13. Missed Opportunity
+
+Ephesians 2:8-10 is quoted at the conclusion, and verse 10 is included — "created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them." This is the text's own turn from justification to sanctification, from gift received to life lived. The preacher quotes it but never follows its logic. Here was the natural bridge from doctrinal survey to conscience-address: *If you have been justified, what does the life of the justified actually look like? What works has God prepared for you? And where are you failing to walk in them?* This would have given the sermon both a positive note on which to close and a genuine applicatory edge. It was passed over entirely.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Turn the conscience inward at Romans 3:27-28**: After quoting "What becomes of our boasting? It is excluded," add direct address to the congregation: *"Where is your boasting still alive? Not just the Catholic's boasting — yours. Where are you trusting your church attendance, your theology, your moral consistency, your comparative righteousness? The text kills that. All of it."* This takes thirty seconds and transforms the sermon's applicatory dimension.
+2. **Dwell at 1 Peter 2:24 and 2 Corinthians 5:21**: These are among the most weight-bearing texts in the entire New Testament on substitutionary atonement. They are quoted and immediately left. Give each text a full paragraph of proclamation — not explanation, but declaration. Let the hearer sit with "He himself bore our sins in his body on the tree" long enough for it to become an event, not a reference.
+3. **Add a Perkins-style differentiated address before the closing**: Before "take them to the Gospel," address three groups: (a) "If you are in this room and you are trusting in anything beyond Christ's finished work — your baptism, your religiosity, your years of faithful attendance — you are in the Catholic position regardless of what church you belong to." (b) "If you are a believer, let this doctrine be your rest, not just your argument. You are justified. God is not keeping a running score on you." (c) "If you are not yet a Christian, this is the offer: the righteousness you could never earn has been provided for free."
+4. **Follow Ephesians 2:10 into application**: After quoting verse 10, follow the text's own logic. Justification produces a people created for good works. Name what those works look like in this congregation's context — not abstractly, but concretely.
+5. **Remove or reframe the lesbian pastor aside**: The SBC disfellowship comment is a congregational reference that may have landed live, but on the page it reads as a tangent that muddies the argument at a critical structural moment (the Catholic/Baptist comparison). It dilutes the unity of the lesson.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — the score pattern does not meet the trigger conditions (exposition would need to score 20+ while conscience scores below 9). However, the sermon exhibits a *cousin* of dead orthodoxy: *comparative orthodoxy* — where the sermon's energy is directed at distinguishing the right position from the wrong one rather than pressing the right position into living hearts. The doctrine is correct. The fire is directed outward rather than inward.
+
+---
+
+### 16. Weight of Glory Assessment
+
+**+2 / 5**: The doctrine of justification carries eternal weight, and that weight is felt intermittently — particularly in the Trent Canon quotation and the Lee anecdote — but the sermon does not sustain the gravity of standing before God declared righteous in Christ. It teaches that truth more than it inhabits it.
+
+---
+
+### 17. Rubric Fit Note
+
+This is a topical-polemical lesson, not an expository sermon. The rubric bends in two places: (1) Exposition & Hermeneutics is evaluated for the handling of multiple texts rather than for the exegesis of a governing passage — the standard is naturally lower, and the score reflects that. (2) The comparative religion format is a legitimate genre for teaching (and historically important in a Reformed Baptist context), but it structurally depresses Gospel Centrality and Conscience categories because the sermon's rhetorical logic is argument rather than proclamation. The rubric is applied as fairly as possible to the genre, with those structural constraints noted. A revised version of this lesson that retained its polemical content while adding a genuine proclamatory and applicatory turn in the final third would score substantially higher — likely in the 75-80 range — with no structural rewrite required.

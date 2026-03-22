@@ -100,3 +100,184 @@ God promises that "to all who received him, to those who believed in his name, h
 **Romans 10:17 NKJV** — "So then faith comes by hearing, and hearing by the word of God."
 
 Your journey as a child of the King of Kings has just begun. You must begin by spending time daily in prayer and in God's Word, the Bible. You must also find fellowship with other believers in a church that teaches and preaches the Bible. You should also now confess Jesus your Savior before men — share about your new faith in Christ with your family, coworkers, and others whom God has placed on your daily path.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**A Gospel Toolbox Without a Sermon: Practical Evangelism Instruction Masquerading as Exposition**
+
+---
+
+### 2. One-Sentence Summary
+A practically-motivated catalog of gospel-sharing method that never opens Romans 8:29–30, substitutes cultural commentary and evangelism training for biblical proclamation, and ends without preaching to anyone in the room.
+
+---
+
+### 3. Berean Gate
+
+**FAIL.**
+
+- **Scopus Test**: The listed passage is Romans 8:29–30. The sermon's thesis — "The most important thing we can do with our lives is share the gospel, so here is how to do it using the Romans Road" — does not arise from Romans 8:29–30. The passage is not opened, not explained, and not referenced. The sermon would be structurally identical without it.
+- **Authority Test**: There is no passage to submit to. The preacher mentions a series context but then builds an entirely independent talk on cultural observations and evangelism methodology. He is not standing under any text as herald.
+
+> This sermon does not pass the Berean Gate. The listed passage (Romans 8:29–30) is not the source of the sermon's argument, and the sermon cannot be said to arise from any single text. What follows is a diagnostic evaluation treating the sermon as an evangelism training talk — not as a textual exposition — and scoring accordingly with a mandatory cap.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**Score is capped at 69.**
+
+- **Flag 1 — Main point does not equal text's point**: Romans 8:29–30 is the listed series passage; it receives zero treatment. The sermon's point (share the gospel, here's how) has no textual source in the named passage.
+- **Flag 2 — No actual exhortation to the congregation present**: The extended Romans Road block is addressed to a hypothetical unbeliever, not to the gathered church. The congregation is told *why* evangelism matters and *how* to do it, but they are never summoned to repent, believe, obey, or pursue anything specific.
+- **Flag 3 — Application is generic**: "The most important thing we can do is share the gospel" is not specific, differentiated, or conscience-probing. No one is cornered. No hearer is addressed distinctly.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 6/25**
+- *Textual Fidelity*: 1/10. Romans 8:29–30 is the named text; it is never opened. The Romans Road verses are cited and quoted, but cited as a personal methodology tool, not expounded as Scripture making an argument.
+- *Contextual Awareness*: 2/5. There is no contextual engagement with any passage. The sermon references confessional documents (Westminster, 2LBC) but never situates the Romans Road verses in their original argument — sin, atonement, and justification in Paul's letter.
+- *Exegetical Clarity*: 1/5. No exegetical work is present. Greek is absent. Authorial intent is never surfaced. The sermon quotes verses as proof-texts for an evangelism method, not as the result of exegetical discovery.
+- *Logical Faithfulness*: 2/5. The selection of verses is not eisegetical per se, but the sermon imposes a framework ("Romans Road") onto a collection of verses and calls that a sermon. The FCF is implicit (people need to hear the gospel and aren't getting it) but never identified from a text.
+
+**2. Theology & Doctrinal Integrity — 10/18**
+- *Christ-Centeredness*: 5/7. Christ and the cross are present — penal substitution is implied, the resurrection is mentioned, repentance is explained well. This is the sermon's genuine strength. The sinner's prayer paragraph handles the heart/mouth distinction (Romans 10:9) with care.
+- *Redemptive-Historical Awareness*: 1/3. There is no redemptive-historical placement. The Romans Road is presented as a methodology, not as Paul's own argument within the arc of redemption.
+- *Doctrinal Precision*: 3/4. Justification is implicit but not named. The explanation of repentance (godly sorrow vs. worldly sorrow, 2 Corinthians 7:10) is clear and accurate. The phrase "placing him in charge of every area of life" risks lordship-salvation framing without careful explication of union and grace, though this is not developed enough to constitute error.
+- *Confessional Alignment — 1689 Pulse*: 1/4. The 2LBC is name-dropped approvingly, but confessional categories (Covenant of Grace, effectual calling, justification by faith alone) are absent. The salvation paragraph is broadly evangelical rather than confessionally Reformed. There is no engagement with the doctrines of grace, irresistible grace, or the nature of regeneration preceding faith — tensions that a Reformed Baptist audience would benefit from having addressed.
+
+**3. Gospel Centrality & Force — 9/15**
+- *Clarity of the Gospel*: 4/5. The Romans Road presentation block does present the gospel: universal sin, God's holiness, Christ's substitutionary death, resurrection, and faith-and-repentance response. An unbeliever could hear this and understand the basic structure of salvation.
+- *Necessity of Christ*: 3/5. Christ is essential to the presentation. But in the framing sermon, Christ functions mostly as the object of the message to be shared — he is not the living Lord who makes this sermon itself a proclamation.
+- *Cross-Centered Gravity*: 2/5. The framing sermon (cultural commentary + methodology) does not move toward the cross. The Romans Road block does. The disconnect between the framing and the embedded presentation weakens the total gravitational pull.
+
+**4. Conscience & Applicatory Force — 5/15**
+- *Heart Penetration*: 1/5. The congregation is not searched. The sermon talks *about* the gospel but does not press the gospel *upon* the hearers. The conviction machinery is aimed at an imaginary unbeliever, not at the gathered church.
+- *Specificity*: 2/5. The political commentary is specific (SBC convention, woke church, France, England), but it functions as cultural critique rather than conscience-pressing application. The evangelism methodology is specific in a practical sense, but it is instruction, not application.
+- *Spiritual Differentiation*: 2/5. No Perkins-style differentiation is present. Hearers are treated as a homogeneous group of potential evangelists. The backslider, the doubter, the knowledgeable-but-unmoved, and the new believer receive no distinct address.
+
+**5. Exhortation & Response — 3/8**
+- *Call to Response*: 1/4. There is no clear "therefore" moment for the congregation. The embedded sinner's prayer is a tool for others, not a summons to the room. The closest thing to exhortation is the implicit "go share the gospel" — but it is never made explicit.
+- *Equipping for Holiness & Witness*: 2/4. The Romans Road methodology genuinely equips believers for witness, and the bookmark-and-cheat-sheet approach is practical. But this is training without commissioning — the church is handed tools without being sent.
+
+**6. Structure & Logical Flow — 5/9**
+- *Clarity of Outline*: 2/4. There are three loosely connected sections: (a) Westminster/confessional identity, (b) cultural diagnosis/distraction from gospel, (c) Romans Road methodology. The connections are stated but not argued.
+- *Progression*: 2/3. The sermon does move from background to problem to solution. But the progression feels assembled rather than built — each section could stand alone without the others.
+- *Unity*: 1/2. The sermon has competing agendas: confessional pride, cultural critique, denomination statistics, and evangelism training. The unifying claim ("share the gospel") arrives late and as a conclusion, not as a governing center.
+
+**7. Illustration & Imagination — 3/5**
+- *Relevance*: 1/2. The SBC convention story (missionary applause vs. politician standing ovation) is vivid and effective. The dog food statistic is illustrative if unverified. The France/England comparison is serviceable.
+- *Clarity*: 1/2. The SBC convention illustration is the strongest — it lands cleanly. The denomination statistics (PCUSA membership figures, SBC percentages) function as data, not illustration, and slow the sermon.
+- *Memorability*: 1/1. The politician/missionary contrast will be remembered.
+
+**8. Sermonic Force — 4/5**
+- *Reads as Preaching*: 2/2. The conversational voice is genuine. Direct address is present. The sermon reads as spoken, not written — colloquial register, real-time thinking visible.
+- *Conviction on the Page*: 1/2. The preacher is convinced of his message. But the manuscript lacks the grounding density that produces sermonic authority — Scripture-to-assertion ratio tilts toward assertion.
+- *Cadence and Breath*: 1/1. The rhetorical questions ("Why do you think that is?") and confession-of-priority ("I know where I would rather spend my time") give the piece natural oral rhythm.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**0** — The sermon is clear and accessible. The embedded Romans Road presentation is well-ordered and easy to follow. An ordinary church member can track it without difficulty. The problem is not complexity but shallowness — the congregation is not asked to think deeply because the text is not being opened.
+
+---
+
+### 7. Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 6/25 |
+| Theology & Doctrinal Integrity | 10/18 |
+| Gospel Centrality & Force | 9/15 |
+| Conscience & Applicatory Force | 5/15 |
+| Exhortation & Response | 3/8 |
+| Structure & Logical Flow | 5/9 |
+| Illustration & Imagination | 3/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **45/100** |
+| Weight of Glory (bonus) | +1/5 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **46/105** |
+
+> **Score is capped at 69 due to fatal flaw flags. Raw score: 46. Interpretation: Fundamentally flawed. Rebuild from the text.**
+
+*Even without the cap, 46 falls below 60 — the sermon is structurally deficient as an exposition.*
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Partially of Christ, but mainly of *what I should do about the gospel* — which tips toward self-focus.
+2. **Did I encounter God, or just ideas about Him?** Ideas about evangelism method. God is described but not encountered.
+3. **Was I comforted, convicted, or merely informed?** Informed. The congregation received training, not proclamation.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The missionary/politician contrast (SBC convention)**: The illustration is punchy, concrete, and lands a real conviction about misplaced priorities. It will be remembered and could anchor a much stronger sermon.
+2. **The sinner's prayer paragraph**: The theological care here — "it's not the prayer that saves them," "if God is already working in them" — reflects genuine pastoral instinct and guards against decisionism. This is the most theologically careful section of the entire piece.
+3. **The repentance explanation (godly sorrow vs. worldly sorrow)**: The use of 2 Corinthians 7:10 to distinguish true repentance from criminal regret is accurate, accessible, and practically useful for evangelism training.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The named text is never opened**: Romans 8:29–30 — predestination, effectual calling, glorification — is listed as the passage and never referenced. A sermon on the Romans Road could have been grounded in Romans 8:29–30 as the telos of salvation Paul describes in chapters 1–8. That connection is never made. The entire doctrinal backbone of the Romans Road (sin, wrath, substitution, justification) is given without the canonical context Paul himself provides.
+2. **The congregation is never preached to**: The extended Romans Road block addresses a hypothetical unbeliever. The framing sermon addresses the congregation as an audience for cultural diagnosis. No one in the room is pressed toward repentance, faith, or gospel courage by this sermon. It trains without transforming.
+3. **The opening third is mis-weighted**: The Westminster/PCUSA/SBC statistics section consumes significant space and energy for what is essentially denominational throat-clearing. The actual point of the sermon (share the gospel, here's how) is buried behind institutional commentary. The "woke" analysis and political tangent further dilute the message and risk alienating hearers the sermon is trying to mobilize.
+
+---
+
+### 11. Blind Spots
+
+The preacher likely does not see that this is a talk *about* the gospel rather than a proclamation *of* it. The embedded Romans Road block is genuinely gospel-shaped — but it is a resource handout nested inside cultural commentary. The preacher may feel that including good evangelical content constitutes preaching. It does not. The congregation heard a diagnosis and received a tool; they were not themselves addressed by the living Word.
+
+Additionally, the cultural commentary (woke churches, politics, France, England) may feel prophetic to the preacher, but without exegetical grounding it reads as pastoral opinion — potentially unifying the theologically aligned while having no authority over the conscience of anyone who disagrees.
+
+---
+
+### 12. Illusion of Strength
+
+The Romans Road presentation block creates an illusion that the gospel has been preached. It has been *described* and *demonstrated* — but demonstrated for a third party, not proclaimed to those present. The practical warmth and informal directness of the preacher's voice also creates an impression of pastoral authenticity that masks the absence of textual authority. The congregation likely felt positively toward this sermon precisely because it was warm and practical. That is the danger: warmth without the Word feels like preaching.
+
+---
+
+### 13. Missed Opportunity
+
+Romans 8:29–30 is the capstone of Paul's argument about God's sovereign grace in salvation — the golden chain from foreknowledge to glorification. The Romans Road verses (chapters 3, 5, 6, 10) are themselves the scaffolding *leading up to* what Paul finally declares in 8:29–30. The sermon could have shown that the Romans Road is not merely an evangelism tool — it is Paul's own argument in his own letter, culminating in God's unbreakable commitment to save and glorify those he calls. That connection — Romans Road to Romans 8 as destination — would have been exegetically honest, pastorally thrilling, and missionally motivating in a way that cultural statistics never can be. That entire architecture was available in the text and was never touched.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Ground the sermon in the text**: Open Romans 8:29–30 and show the congregation that Paul's Romans Road (chapters 1–8) is his own argument from sin to glory. The evangelism tool is Paul's letter, not a modern methodology imposed on it.
+2. **Preach to the congregation, not about them**: After presenting the Romans Road, turn explicitly to the hearers — distinguish the unbeliever in the room who needs to respond, the doubting believer who needs assurance, and the mature believer who needs to be sent. The Perkins taxonomy is precisely the tool for this.
+3. **Add a "therefore, go" exhortation**: The sermon ends on the final verse of the Romans Road presentation. It needs a distinct closing exhortation to the congregation: *specific*, *urgent*, and *text-grounded*. "You have been called (Romans 8:30). Go call others. Here is how."
+4. **Cut or compress the opening third**: The Westminster/PCUSA/SBC statistics block should be reduced to a brief bridge, not a third of the sermon. The missionary/politician contrast is the one illustration worth keeping in full.
+5. **Verify and attribute all unattributed sources**: The dog food statistic and the Romans Road presentation block are unattributed. Before delivery or publication, sources must be identified or the content removed. This is a matter of integrity, not pedantry.
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+**Not triggered** — The sermon's weakness is not cold orthodoxy but thin exposition. The theological content, while present, is too shallow and methodological to generate a Dead Orthodoxy reading. This is better characterized as *active sincerity without textual authority*.
+
+---
+
+### 16. Weight of Glory Assessment
+
+There is genuine pastoral warmth and a real burden for souls here, but the sermon does not carry eternal gravity — it is oriented toward *method* rather than *mystery*, and the congregation is more equipped than they are moved.
+
+**Bonus: +1/5**
+
+---
+
+### 17. Rubric Fit Note
+
+The rubric is designed for expository sermons arising from a specific passage. This document is formally an evangelism training talk that has been filed as a sermon in a series context. The rubric bends significantly at the Exposition, Theology, and Gospel Centrality categories — not because the content is unbiblical, but because the genre is instructional rather than proclamatory. The evaluation above scores it as a sermon, which it partially is. If it were evaluated purely as an evangelism training session, several categories would score differently. The rubric correctly flags the fundamental problem: this document needs to decide what it is and then be rebuilt accordingly.
