@@ -339,3 +339,191 @@ For I am not ashamed of the gospel.
 Neither should you be.
 
 Let's pray.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### Verdict Title
+**A Masterful Exposition of the Gospel's Grammar, Warm but Unevenly Pressed Home**
+
+### One-Sentence Summary
+A faithful and luminous opening of Romans 1:1–17 that magnified the objective content of the gospel with rare clarity while leaving several categories of hearers unaddressed and the exhortation too gently issued.
+
+---
+
+### Berean Gate
+
+**Scopus Test: PASS**
+
+The sermon's thesis — the gospel is the power of God for salvation, revealing a righteousness given by God and received by faith — demonstrably arises from Romans 1:16–17. Paul's own thesis controls the sermon's thesis.
+
+**Authority Test: PASS**
+
+The preacher stands under the text as a herald. No softening of hard claims occurs. The declaration that humanity's condition is a "catastrophe," that faith is not the cause but only the instrument of salvation, and that even faith is a gift — these are stated plainly, not hedged.
+
+---
+
+### Fatal Flaw Flags
+
+None triggered. Score proceeds uncapped.
+
+---
+
+### Score Breakdown
+
+**1. Exposition & Hermeneutics — 22 / 25**
+
+- *Textual Fidelity (10): 9/10* — The sermon follows the passage section by section with genuine fidelity. The Pharisee/aphōrismenos etymology is legitimate exegesis and actually illuminating. The threefold treatment of Habakkuk 2:4 across Romans, Galatians, and Hebrews is a genuine exegetical dividend. Deduction: one point for the Japan prayer section, which, while missionally motivated, occupies substantial early real estate and loosens the passage's own opening gravity before it has been fully established.
+- *Contextual Awareness (5): 5/5* — The sermon correctly situates this passage as the thesis statement of the whole epistle, accurately maps how chapters 1–16 unfold from it, and places Paul's self-description in its historical and literary context (Damascus road, Philippians 3:5).
+- *Exegetical Clarity (5): 5/5* — Greek terms are deployed as unlocking instruments, not decoration. Doulos, aphōrismenos, dunamis — each one cracks the text open. The Luther narrative on "the righteousness of God" is pitch-perfect as a hermeneutical case study.
+- *Logical Faithfulness (5): 3/5* — The sermon is generally free of eisegesis. However, two points lose traction: (1) the Fallen Condition Focus is never named explicitly — the sermon defines the gospel's power but does not name the specific human condition this text was written to address (suppression of truth, moral collapse, the coming indictment of 1:18–32 — all gestured at but not crystallized). (2) The Winslow quote, while beautiful, arrives as flourish rather than as text-governed argument at that moment.
+
+**2. Theology & Doctrinal Integrity — 17 / 18**
+
+- *Christ-Centeredness (7): 7/7* — Not forced. The Person of Christ in vv. 3–4 receives careful treatment: two natures, one Lord. The resurrection as declaration, not constitution, of Sonship is theologically precise. The title "Lord" pressed as authority rather than mere affection is exactly right.
+- *Redemptive-Historical Awareness (3): 3/3* — The OT trajectory is handled well: "the Old Testament is not a prelude." Isaiah 53, Habakkuk 2:4, the Davidic line — these are organic placements, not imposed connections.
+- *Doctrinal Precision (4): 4/4* — Imputation is explained correctly (the righteousness of God given, credited, not earned). Justification by faith is stated without confusion of cause and instrument. Effectual calling is named and correctly defined in the treatment of v. 1.
+- *Confessional Alignment — 1689 Pulse (4): 3/4* — The sermon handles justification, calling, and faith as gift with confessional precision. One point deducted: the Covenant of Works / Covenant of Grace structure, which underlies Paul's "promised beforehand through his prophets" (the organic unity of redemptive history), is present by implication but never surfaced as the framework that makes the promise-fulfillment logic coherent. This is a missed precision opportunity, not an error.
+
+**3. Gospel Centrality & Force — 14 / 15**
+
+- *Clarity of the Gospel (5): 5/5* — Justification by faith is stated explicitly and defined correctly. An unbeliever could understand how salvation is received from this sermon.
+- *Necessity of Christ (5): 5/5* — Christ is not decorative. The sermon grounds everything in His person (two natures), His work (resurrection as vindication), and His authority (Lord). The Synagogue Test: this sermon could not survive in a synagogue — Christ's resurrection as the seal of the gospel is unavoidable here. Pass.
+- *Cross-Centered Gravity (5): 4/5* — The sermon moves toward the cross via the Winslow quote and the "planned from eternity" riff at the close. The cross's substitutionary logic, however, is gestured at but not proclaimed. The tree, the nails, the cross as planned — the Why of the cross (penal substitution) is present by implication only. A single sentence here would have earned full marks.
+
+**4. Conscience & Applicatory Force — 9 / 15**
+
+- *Heart Penetration (5): 4/5* — The sermon reaches the affections — the Winslow quote, the closing riff on the darkness coming, the "remember when the indictment falls" passage. These touch the heart. What is missing is direct address at moments of pressure. The preacher announces great truths but rarely turns and looks the congregation in the eye about their own condition.
+- *Specificity (5): 3/5* — Application is present but tends toward the generic. "Remember that when the darkness comes" is moving but not specific. Who in the room is ashamed of the gospel right now? Who is trusting their own performance? Who is clinging to faith as a spiritual credit card rather than receiving grace as a gift? None of these questions are pressed.
+- *Spiritual Differentiation (5): 2/5* — The sermon largely addresses the believer/unbeliever binary. The self-righteous (who would hear vv. 1–4 as confirming their own religiosity) are not directly addressed. The believer who is ashamed of the gospel in daily life is gestured at in the closing but not cornered. The backslider who has drifted from "faith for faith" perseverance is entirely absent. Perkins' categories of the knowledgeable-but-unhumbled and the backslider are untouched.
+
+**5. Exhortation & Response — 5 / 8**
+
+- *Call to Response (4): 3/4* — The closing is evocative. "Neither should you be" is an implicit call. But the sermon never issues a clear imperative: What must the hearer now do? Believe? Repent of shame? Carry the gospel obligation as a debt? The response is implied but never summoned. There is no "therefore" moment with teeth.
+- *Equipping for Holiness & Witness (4): 2/4* — The Japan prayer section and the obligation passage (vv. 14–15) do genuine missionary equipping work. But the sermon does not send the church out with a concrete charge. How does the congregation leave differently equipped for witness than they arrived? This is underdeveloped.
+
+**6. Structure & Logical Flow — 8 / 9**
+
+- *Clarity of Outline (4): 4/4* — Five clear sections (Servant, Gospel Defined, Call of Saints, Eagerness, Thesis) are traceable and memorable. A listener could sketch this on a napkin.
+- *Progression (3): 3/3* — The sermon builds deliberately. Moving from Paul's identity to the gospel's content to the believer's identity to missionary obligation to the thesis itself is structurally sound and matches the passage's own logic.
+- *Unity (2): 1/2* — The Japan prayer section, while not incoherent, competes with the sermon's early establishment of the text's stakes. The sermon has one dominant idea (the gospel is God's power for salvation received by faith), but the Japan section temporarily imports a second register — missions — before the main argument is grounded. This could be tightened without loss.
+
+**7. Illustration & Imagination — 4 / 5**
+
+- *Relevance (2): 2/2* — The Winslow quote and the Luther narrative are not "illustrations" in the technical sense but function as vivid case studies. The "tree God grew," the "nails forged from iron God created," the "boys God sustained to manhood" — this is imaginative text-work, not decoration.
+- *Clarity (2): 2/2* — Every illustration illuminates rather than competing with the point. The threefold Habakkuk treatment is a high-water mark.
+- *Memorability (1): 0/1* — There is no single image or phrase that will be carried home with certainty. The Winslow quote is the strongest candidate, but it is attributed rather than woven into the sermon's own voice. The sermon would benefit from one native image the congregation can own.
+
+**8. Sermonic Force — 4 / 5**
+
+- *Reads as Preaching (2): 2/2* — The manuscript reads like it was written to be preached. Direct address appears. Short declarative sentences cluster at climactic moments. The closing riff — "Not possibility — power. Not advice — power." — earns its breath.
+- *Conviction on the Page (2): 2/2* — High Scripture-grounded assertion ratio throughout. Filler language is absent. The manuscript does not throat-clear.
+- *Cadence and Breath (1): 0/1* — Sentence variation is present but not fully operationalized. The closing achieves compression. The middle sections, especially IV (Paul's Eagerness), are somewhat even in cadence — the manuscript reads at uniform warmth when a moment of higher intensity would earn the quieter passages around it.
+
+---
+
+### Cognitive Load Modifier: 0
+
+Well-paced. The congregation can track this. Five clear sections, no competing frameworks, one dominant idea. The Greek terms are explained in plain language. The single mother and the high schooler can follow the main argument. No deduction.
+
+---
+
+### Total Score
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 22 | 25 |
+| Theology & Doctrinal Integrity | 17 | 18 |
+| Gospel Centrality & Force | 14 | 15 |
+| Conscience & Applicatory Force | 9 | 15 |
+| Exhortation & Response | 5 | 8 |
+| Structure & Logical Flow | 8 | 9 |
+| Illustration & Imagination | 4 | 5 |
+| Sermonic Force | 4 | 5 |
+| **Subtotal** | **83** | **100** |
+| Weight of Glory (bonus) | +3 | +5 |
+| Cognitive Load Modifier | 0 | 0 |
+| **Total** | **86** | **105** |
+
+**Interpretation: Strong and faithful. Minor sharpening needed. Ready for the pulpit with targeted revisions.**
+
+---
+
+### Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Christ. Clearly. The sermon is relentlessly objective — it points away from the self toward the Person and work of Christ.
+2. *Did I encounter God, or just ideas about Him?* Largely God — especially in the closing riff and the Winslow quote. The middle sections (vv. 8–15) read slightly more as tour than encounter.
+3. *Was I comforted, convicted, or merely informed?* Comforted and informed. Conviction is present in the diagnosis of humanity's catastrophe but is not pressed into the hearer's specific life.
+
+---
+
+### Strengths (Top 3)
+
+1. **The threefold Habakkuk treatment** — The exegetical move in Section V showing how Habakkuk 2:4 stresses life in Romans, justification in Galatians, and perseverance in Hebrews is genuine scholarship worn lightly. This is the kind of work that teaches a congregation how to read Scripture across the canon. It will be remembered.
+
+2. **The aphōrismenos/Pharisee connection** — "The same man. The same word. Completely different mission." This is textually grounded, theologically productive, and pastorally warm. It models exegetical transparency at its best.
+
+3. **The closing eschatological framing** — The sermon's final movement — "Romans 1:16–17 is the sunrise promised before the darkness begins" — is structurally and affectively excellent. It orients the whole letter, sets up the indictment to come, and sends the hearer into the darkness with the gospel already in hand. This is the sermon's best moment.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **Conscience and applicatory force collapse in the middle** (Sections II–IV) — The sermon explains Paul's self-description, defines the gospel's content, and traces Paul's eagerness with precision and warmth. But it never turns these truths into specific address. Who in the room is performing rather than believing? Who is treating faith as credit rather than empty hand? These questions are required by the text and absent from the sermon.
+
+2. **No exhortation with imperative force** — The closing evokes but does not summon. "Neither should you be" is as close as the sermon comes to a direct command. The preacher told the congregation what is true. He did not tell them what they must now do, repent of, or pursue. The congregation was informed and moved; they were not summoned.
+
+3. **Spiritual differentiation is thin** (Sections III–V) — The sermon largely addresses an implied believer or someone who needs to understand the gospel. The self-righteous hearer — who would hear "called to be a servant, not appointed by yourself" and think, "Yes, that's me, I'm called" — is not confronted. The religiously confident are never backed into a corner. This is a significant gap given the text's own context (Paul writing to Rome — the center of religious and imperial confidence).
+
+---
+
+### Blind Spots
+
+The preacher likely doesn't see how much the Japan prayer section is costing him. It is missionally motivated and theologically connected (v. 14), but it arrives before the congregation is fully grounded in the text's stakes. The missionary application that flows naturally from "under obligation" (v. 14) would land harder if it came after the text had been opened — not before. The prayer section is preaching the application before the exposition has done its work.
+
+---
+
+### Illusion of Strength
+
+The warmth and precision of the exposition create the impression that the sermon has done more applicatory work than it has. The hearer leaves with full theological comprehension and genuine affection for the gospel — but not with a specific challenge to the conscience or a clear imperative. The sermon felt complete because the truth was beautiful. But beauty without pressure is not yet preaching in the full Puritan sense.
+
+---
+
+### Missed Opportunity
+
+**The Fallen Condition Focus is never named.** Paul's opening is a pre-emptive answer to a question — but what is the question? What specific human condition does this gospel address? Romans 1:18–32 will answer: suppression of truth, idolatry, moral collapse. The sermon gestures at this ("humanity's condition is a catastrophe") but never crystallizes it. Naming the FCF — "The human condition this text addresses is the condition of people who live under the wrath of God and don't know it, or won't face it" — would have sharpened every section and made the closing land with more precise force.
+
+Also missed: **the shame of the gospel in actual Roman-equivalent contexts today.** "I am not ashamed of the gospel" is preached as a thesis but not pressed as a diagnostic. Is anyone in the congregation ashamed of the gospel at work? With their family? In the contexts where it costs something? This is where the text most directly searches the modern conscience, and the sermon does not go there.
+
+---
+
+### Surgical Fixes
+
+1. **Move or abbreviate the Japan prayer section.** Place it after the Scripture reading and before Section I, or cut it to two sentences and move it entirely to the end of the sermon as a missional send. The Japan material earns its place — but not in the first ten minutes before the text is open.
+
+2. **Add direct address to the self-righteous after Section I.** After the aphōrismenos/Pharisee connection, pause and turn: "Some of you have been set apart your whole lives — by your church attendance, your moral record, your theological knowledge. Paul was all of that, and God had to knock him off his horse. The question is not whether you are separated. The question is: set apart from what, and set apart for what?"
+
+3. **Name the FCF explicitly at the beginning of Section V.** Before unpacking the thesis, state: "This gospel is for people who are dying under the wrath of God and either don't know it or are pretending otherwise. That is the human condition Paul is writing to address. If you are not dying under the wrath of God, you don't need the gospel. But if you are — and you are — then listen carefully to what Paul says."
+
+4. **Add one concrete exhortation to the closing.** The closing is the sermon's best passage — do not rewrite it, but add an imperative before "Neither should you be." For example: "So carry this gospel. Carry it into your workplace this week. Carry it to the person you have been meaning to speak to. You are under obligation — and that obligation is not to be a better Christian in private. It is to take the power of God into the world that is dying without it."
+
+5. **Clarify the cross's penal logic.** The Winslow quote is magnificent but does not explain why Christ had to die. One sentence: "The cross was planned from eternity not because God needed a good story, but because sin required a penalty — and the only one who could bear that penalty without being destroyed by it was God Himself, wearing human flesh."
+
+---
+
+### Dead Orthodoxy Flag
+
+Not triggered. Exposition scores 22 (above 20) and Conscience & Applicatory Force scores 9 (at the threshold, not below). The sermon is warm and has genuine pastoral affection. The fire is present — it simply needs to be aimed more precisely at the conscience.
+
+---
+
+### Weight of Glory Assessment
+
+The sermon carries real gravity — the Winslow quote, the closing eschatological riff, and the Luther narrative all press toward eternal significance — but the weight is distributed unevenly, clustering at the opening and close while the middle sections are informative rather than luminous. +3/5
+
+---
+
+### Rubric Fit Note
+
+This rubric fits this passage naturally. Romans 1:1–17 is epistolary thesis-setting — argumentative prose with clear doctrinal content — and the rubric's categories map cleanly onto Paul's own concerns: identity (exposition), gospel definition (theology), power and faith (gospel centrality), obligation (exhortation). No genre strain detected. The one place the rubric might feel slightly tight is on illustration: this passage does not lend itself to narrative illustration the way a Gospel pericope does, and the sermon correctly uses exegetical case studies rather than pastoral illustrations. The illustration score should be weighted with that in mind.
