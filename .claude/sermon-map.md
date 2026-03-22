@@ -732,7 +732,8 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 
 | Passage | Subject | File | Type |
 |---|---|---|---|
-| 1 John 2:1-5 | Obedience, advocacy, and propitiation | `1 john 2 vs 1-5 2024.md` | sermon |
+| 1 John 2:1-5 | Obedience, advocacy, and propitiation; Golden Corral renovation vs. Miami health inspection failure; insubordination → sin (3-element definition: command given, heard, ignored); Brett/weed-yard story (teen shortcuts root problem, fertilizes weed, faces double punishment); advocate illustration (lawyer/DUI cousin — sleazy loophole vs. Christ who took the punishment himself); propitiation (satisfy wrath of a god; Taken film analogy); extent of atonement (kosmos = elect; John 6:44; John 10:11); ⚠️ "2 cor 2:14" in MS — should be 1 Cor 2:14; Golden Corral transformation as regeneration close; gospel. Distinct sermon from `1 john 2 1-6 lakeview.md` — different illustrations, different church context, same passage | `1 john 2 vs 1-5 2024.md` | sermon |
+| 1 John 2:1-6 | *(raw transcript)* ⬜ INCOMPLETE: vv. 3-6 not exposited — deferred to companion sermon; gospel close is placeholder only. Three purpose statements of 1 John (fellowship, joy, avoiding sin); Afghan withdrawal and Kurdish church (Aug 2021 context); Magi/Medes-Persians/Kurdish connection; Kurdish mothers handing babies over fence to US soldiers; persecution forcing choice between faithfulness and safety; five solas stated; adulterer illustration (unrepentant sin vs. Christian who cares); Billy Sunday "fight sin" quote (✅ verified); Facebook false-employee illustration (false Christian claims publicly); extent of atonement (kosmos = elect); eternal security (postal analogy — addressed, paid for, picked up); Herodotus/postal motto (✅ attribution accurate; ⚠️ called "philosopher" — he was a historian); Romans 8:38-39; ⚠️ "8 million Kurds" — unverified; est. global Kurdish population 30–45M, likely means unreached subset; evaluation score: 72/100 (thus-says-the-lord). Preached at Lakeview Fellowship. People Group: Kurds. Distinct from `1 john 2 vs 1-5 2024.md` | `1 john 2 1-6 lakeview.md` | raw transcript |
 | 1 John 3:11-24 | Love versus hatred among believers | `1 john 3 pt 2.md` | sermon |
 | 1 John 4:1-6 | Stephen Davey sermon reference; *gregoreo* ("wake up/be alert" — origin of name Gregory); 1 Cor 16:13; Paul's warning to Ephesian elders (Acts 20:29 "savage wolves"); John MacArthur quote (elders fail because not vigilant — "errors as fierce as wolves and pitiless as hyenas"); American Banking Association two-week counterfeit training (never handle a fake bill — only handle real currency until you can tell by touch with eyes closed); grocery store Mormon encounter (young man asked about "the covenant path" — baptized/confirmed/ordained in priesthoods of Aaron and Melchizedek; prayer correction claim: "pray for moisture not rain" or God sends only what you literally ask; invited to LDS chapel on Hilltop where he's an elder at ~20); Mormons and JWs appropriate Christian language; Trinity — LDS say three separate persons, not three-in-one; Book of Mormon "another testament" vs. Gal 1:8-9 "let him be accursed"; family member who died believing Mormons were saved; "spirits" = spirit of the argument / intent (not ghosts); Greek word for "test" = same as testing a coin for genuineness (scrape on rock + three acid concentrations); biting gold coins in old westerns (real gold leaves mark, iron pyrite chips tooth); Dollar General self-proclaimed prophet ("planet Nibiru… sickle of Satan coming for whitey"); Facebook teacher claiming to know day and hour of Christ's return via Nibiru/Mayan calendar — Mt 24:36 rebuttal ("Duh. No MAN. I am NOT a man"); Tyndale commentary OT prophet tests (Deut 13, Ezek 13, Mic 3, Jer 8/14/23, Deut 18:22); Warren Wiersbe counterfeit $100 bill illustration (did good while circulating but exposed at the bank); 1 Jn 4:4 "he who is in you is greater"; gospel | `1 john 4 - counterfeit.md` | sermon |
 | 1 John 4:7-21 | God's love as an overwhelming hurricane | `1 john 4 b.md` | sermon |
@@ -986,6 +987,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Galatians 6 - Sowing and Reaping.md` — Galatians 6:7-10 — Toplady, Spurgeon, Luther on bondage of the will; total depravity; sovereign grace as liberation; "two masters" framework
 
 ### Eternal Security / Perseverance
+- `1 john 2 1-6 lakeview.md` — 1 John 2:1-6 — Eternal security through Christ's advocacy; postal analogy (addressed, paid for, picked up); Romans 8:38-39; security rests on God's faithfulness not ours
 - `Other-Sermons/Sermons/Eternal Security.md` — John 6:37-65; 10:25-30 — Preservation of the saints
 - `Sermon - Eternal Security.md` *(polished root-level manuscript)* — John 6:37, 39, 44, 63, 65; John 10:25–30 — Perseverance/preservation of the saints; 4th in Doctrines of Grace series; Edwards on covenant of grace; Josh/Rachel Havel story; sheep illustration; self-examination close
 - `Other-Sermons/Sermons/Eternal Security.md` *(raw archive source)* — John 6:37-65; 10:25-30 — Preservation of the saints
@@ -993,6 +995,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Sunday school notes week 2.md` — 1 Cor 13:8-10; John 10:27-28 — Cessation; eternal security
 
 ### Evangelism / Missions / Great Commission
+- `1 john 2 1-6 lakeview.md` — 1 John 2:1-6 — Kurds as People Group of the Week; Afghan withdrawal (Aug 2021); Kurdish mothers handing babies over fence; Christians worldwide choosing faithfulness over safety; 8M unreached Kurds (⚠️ unverified number)
 - `Psalm 68 Part 2 (raw draft).md` — Psalm 68 / 1 Kings 18 — Japanese of Japan people group; MacArthur's post-WWII missions call; the church's inadequate response as cautionary tale; Japan ~95% non-Christian today
 - `Psalm 2 (raw draft).md` — Psalm 2:1-12 — Persecuted church; IDOP (first Sunday in November); Insanity of God documentary; Heb 13:3 "remember those in prison"; persecuted-church illustrations (Bible pages, secret meetings)
 - `Ecclesiastes 2 - What Matters.md` — Ecclesiastes 2:14-26 — CT Studd: Cambridge cricketer → China Inland Mission (Hudson Taylor); gave away cricket earnings + £29,000 inheritance; £5,000 to Moody (Moody Bible Institute); 10 yrs China, 6 yrs India, ~18 yrs Africa; "rescue shop within a yard of hell"; "if Jesus Christ be God and died for me, no sacrifice too great"; missions as the thing that lasts; food pantry and children's program as local mission
@@ -1143,6 +1146,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Other-Sermons/Sermons/Sermon - A Godly Home.md` — Exodus 2:1–15 — Godly home; courage of faith under persecution; the spiritual legacy of Amram and Jochebed; grandmother illustration; what will you leave your children?
 
 ### Obedience / Faithfulness / Diligence
+- `1 john 2 1-6 lakeview.md` — 1 John 2:1-6 — Fighting sin for right reasons (fellowship, joy, obedience) not to earn salvation; Billy Sunday quote (fight sin till you gum it); Christian integrity vs. false claims
 - `Josh 7 & 8.md` — Joshua 7-8 — Consequences of leaving God out
 - `Joshua 24.md` / `Joshua 24 - 2024.md` — Joshua 24 — Choose this day
 - `Naaman.md` / `Leprosy - naaman - 2kings 5.md` — 2 Kings 5 — Obedience in healing
@@ -1221,6 +1225,7 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `John 10.md` — John 10:7-11 — Wicket gate; good shepherd
 
 ### Sin / Depravity / The Fall
+- `1 john 2 1-6 lakeview.md` — 1 John 2:1-6 — Sin as disrupting fellowship and joy; unrepentant sin vs. Christian who cares; lost people "go right back to it"; fight sin at every opportunity; false Christian who claims the name but lives contrary
 - `Romans 8.12-17 - Debtors to the Spirit.md` (root) — Romans 8:12–17 — Living by the flesh; debt of sin; humanity chose the Fall; traded perfection for corruption
 - `Gen 3.md` — Genesis 3:1-6 — The fall; trusting self over God
 - `hamartiology.md` — Colossians 3:1-11 — Doctrine of sin

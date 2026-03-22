@@ -267,7 +267,7 @@
 
 | # | Quote | Source | Verification | Used In | Count |
 |---|-------|--------|-------------|---------|-------|
-| 1 | "I'm against sin. I'll kick it as long as I've got a foot…" | Attributed to Billy Sunday | ✅ Green — verified | `Eph 2 - but God.txt` | 1 |
+| 1 | "Listen, I'm against sin. I'll kick it as long as I've got a foot, I'll fight it as long as I've got a fist, I've butt it as long as I've got a head, and I'll bite it as long as I've got a tooth. And when I'm old, fistless, footless, and toothless, I'll gum it till I go home to glory and it goes home to perdition." | Attributed to Billy Sunday | ✅ Green — verified (full extended form; consistent with all attributed sources) | `Eph 2 - but God.txt`, `1 john 2 1-6 lakeview.md` | 2 |
 
 ---
 

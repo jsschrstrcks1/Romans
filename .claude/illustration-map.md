@@ -44,9 +44,10 @@ Illustrations used 2+ times are flagged with usage count. Two or more uses isn't
 
 | # | Name | Illustration | Passage(s) | Used In | Count |
 |---|------|-------------|------------|---------|-------|
-| 1 | Cargo Cult | Pacific islanders built fake runways hoping planes would return with goods. Analogy for mimicking Christianity without understanding the gospel. | Eph 1:3-14 | `Sermon - Angels Demons Etcetera.md` | 1 |
-| 2 | Cuban Refugee Boats | Ponce Inlet museum; Keys diving find of abandoned boat with children's clothes and machete. Desperation of those fleeing oppression. | Exod 2 | `Exodus 2 - The Deliverance Begins.md` | 1 |
-| 3 | Dumb Laws | Hook illustration: UK Salmon Act 1986, Singapore gum ban, Denmark approved names, Mexico bicycle law (⚠️ unverified). Used to set up discussion of Law vs. grace. | Gal 3:23-29 | `adoption - gal 3.md`, `Galatians 3 - Law Faith and Adoption.md` | 2 |
+| 1 | Afghan Withdrawal / Kurdish Mothers | Aug 2021 Taliban takeover. Kurdish Christian women in Kabul handed newborns over the perimeter fence to retreating US soldiers — hoping a stranger heading to a foreign land was a better hope than staying. Taliban immediately sent letters demanding Christians leave or die. Used to press the congregation: Christians worldwide are choosing this morning between faithfulness and safety. How many here choose safety over faithfulness? | 1 John 2:1-6 | `1 john 2 1-6 lakeview.md` | 1 |
+| 2 | Cargo Cult | Pacific islanders built fake runways hoping planes would return with goods. Analogy for mimicking Christianity without understanding the gospel. | Eph 1:3-14 | `Sermon - Angels Demons Etcetera.md` | 1 |
+| 3 | Cuban Refugee Boats | Ponce Inlet museum; Keys diving find of abandoned boat with children's clothes and machete. Desperation of those fleeing oppression. | Exod 2 | `Exodus 2 - The Deliverance Begins.md` | 1 |
+| 4 | Dumb Laws | Hook illustration: UK Salmon Act 1986, Singapore gum ban, Denmark approved names, Mexico bicycle law (⚠️ unverified). Used to set up discussion of Law vs. grace. | Gal 3:23-29 | `adoption - gal 3.md`, `Galatians 3 - Law Faith and Adoption.md` | 2 |
 
 ---
 

@@ -97,6 +97,7 @@ Tracks the preaching date for every sermon in the Romans series and beyond. Roma
 | 2 Timothy 1:1-2 | Paul's Final Letter | `2 Tim 1 - Pauls Final Letter.md` | repaired draft | Full analysis completed March 2026 |
 | Romans 10:12-13 | Cultural Marxism / CRT | `Sermon - Cultural Marxism.md` | polished | Polished and verified March 2026 |
 | Deuteronomy 8:2-10, 17 | Count Your Blessings | `Deuteronomy 8 - Count Your Blessings (repaired draft).md` | repaired draft | ⬜ INCOMPLETE: 3 pastoral flags; not ready to preach as-is |
+| 1 John 2:1-6 | (untitled) | `1 john 2 1-6 lakeview.md` | raw transcript | Preached at Lakeview Fellowship during Afghan withdrawal (Aug–Sep 2021 probable); exact date unconfirmed. ⬜ INCOMPLETE: vv. 3-6 not exposited; gospel close is placeholder. Evaluation: 72/100. |
 | Psalm 42; Psalm 121 | As the Deer Pants | `Psalm 42 - As the Deer Pants.md` | sermon | 2 flags for print use only |
 | Nehemiah 7:1-5 | Faithful and God-Fearing | `Sermon - Faithful and God-Fearing.md` | sermon | ⬜ INCOMPLETE: Gospel and Pascal's Wager sections undeveloped |
 | Proverbs 13 | Generation Gaps | `Proverbs 13 (raw draft).md` | raw draft | Major corrections applied; pew Bible page TBD |
