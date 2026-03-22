@@ -88,6 +88,8 @@ Verses 43–44 tell you what he sees: *"For the days will come upon you, when yo
 
 And Jesus saw it coming. He wept because they didn't know the day of their visitation. They missed it.
 
+He is not alone in that grief. Centuries later, Paul would write: *"I have great sorrow and unceasing anguish in my heart... for my brothers."* The weight of watching a people miss what had been promised to them. The shepherd weeps for the sheep. And then he goes to the cross for them anyway.
+
 ---
 
 The "day of your visitation" — *ἐπισκοπή* (episkopē) — is the time of God's appearing. The time when God comes near. The moment when heaven bends toward earth and says: *here I am*. The tragedy of Jerusalem is not that God didn't come to them. He did. The tragedy is that they were looking for the wrong kind of king, and when the right one arrived, they called for his execution.
@@ -112,19 +114,21 @@ The real Jesus wept over the city. He mourned the blindness of the people who lo
 
 Not peace with Rome. Peace with God.
 
+The Passover they had been celebrating for centuries was always pointing here. Blood on the door. Wrath passing over. Peace purchased at the cost of a life. The lambs being examined and brought into the city weren't background detail. They were the picture. And the picture was about to become the thing itself.
+
 ---
 
 Some of you came in this morning hoping for a celebration. And it is a celebration — but it is a strange one. We're celebrating a king who wept for us even while we misunderstood him. We're waving palms for a man who knew the crowd would be calling for his death by Thursday.
 
+Some of you didn't come in today with a political Jesus problem. You came in tired. Carrying something nobody can see. The king who broke down weeping at the edge of the city he loved — he sees you. He wept for those who couldn't receive what he was bringing. He brings it still.
+
 That's the weight of this week. The king came not to win a throne but to lose his life — because losing his life was the only way to win yours.
+
+Don't walk into Easter without walking through what it cost. Come back next Sunday with the weight of what the cross actually was — and what it was for. When you stand at the empty tomb, you'll know what it was supposed to be full of.
 
 Passover week. The lambs are in the city. The blood is about to be shed.
 
 And the king — the *real* king — the one the stones themselves would have shouted for — rides in on a donkey and weeps for the ones who can't see what's happening.
-
-Romans 9 — you know this passage — Paul writes: *"I have great sorrow and unceasing anguish in my heart... for my brothers."* He ached for Israel the way Jesus ached for Jerusalem. Both of them, weeping. Both of them, faithful.
-
-The shepherd weeps for the sheep. And then he goes to the cross for them anyway.
 
 ---
 
