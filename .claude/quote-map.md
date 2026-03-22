@@ -85,6 +85,7 @@
 | 2 | "Doing right is becoming to the righteous." | Attributed to Davey | ⚠️ Yellow | Various | 1 |
 | 3 | "When you're asking why, God introduces himself." | Attributed to Davey | ⚠️ Yellow — paraphrase | Various | 1 |
 | 4 | "Satan does not always fight churches, sometimes he joins them." | Attributed to Davey | ⚠️ Yellow | Various | 1 |
+| 5 | Extended excerpt on false teachers, *gregoreo* (Greek: "wake up/be alert"), spiritual vigilance: deceiving teachers "don't wear red suits with horns and a tail… They often do many good things and present themselves as family oriented, values driven, model citizens, ever smiling who happen to be in touch with just the kind of Jesus you'd really wanna follow." | Read aloud from Davey's writing in sermon; no specific publication cited | ⚠️ Yellow — attributed, no book/page given | `1 john 4 - counterfeit.md` | 1 |
 
 ---
 
@@ -158,6 +159,7 @@
 | 2 | "God does not save you to leave you the way you are — He saves you to make you like His Son." | Attributed to MacArthur | ⚠️ Yellow | `Romans_6b_with_boulder.md` | 1 |
 | 3 | "Serve righteousness as slaves." | Attributed to MacArthur | ⚠️ Yellow | Various | 1 |
 | 4 | On God's eternal purpose (election) | Attributed to MacArthur | ⚠️ Yellow | `romans 9 pt 1.md` | 1 |
+| 5 | "Many an elder fails because he is not vigilant. He took it for granted that there were no wolves, no birds of prey, no robbers; and while he was sleeping the enemy arrived. False ideas, destructive interpretations and false teaching came into the flock; and he never knew it — errors as fierce as wolves and pitiless as hyenas; they tear faith, hope and love to pieces and leave churches mangled and half dead." | *Acts* (Moody Publications, 1966), p. 228 | ✅ Green — source, publisher, and page cited in sermon | `1 john 4 - counterfeit.md` | 1 |
 
 ---
 
@@ -324,6 +326,14 @@
 | 1 | "The forgiveness of sin is the greatest of all blessings." | Attributed to Watson | ⚠️ Yellow — paraphrase | `Romans 4 - In Christ Alone.md` | 1 |
 | 2 | "Grace does not find men worthy; it makes them so." | Attributed to Watson | ⚠️ Yellow | `Romans 11 - The Remnant of Grace.md`, Various | 2 |
 | 3 | "Cheerfulness is a friend to grace." | Attributed to Watson | ⚠️ Yellow | Various | 1 |
+
+---
+
+### Warren Wiersbe
+
+| # | Quote | Source | Verification | Used In | Count |
+|---|-------|--------|-------------|---------|-------|
+| 1 | "Suppose you have a counterfeit $100 dollar bill. You think it's genuine and you use it to pay for a tank of gas; the gas station manager later used the bill to buy supplies. The supplier used the bill to pay for groceries; the grocer bundled the bill up with 99 other $100 dollar bills and took it to the bank. And the teller said, 'I'm sorry, but this particular $100 dollar bill is a counterfeit.' Now that $100 dollar bill did a lot of good things while it was in circulation; but when it arrived at the bank and was handled by an expert – it was exposed for what it really was." | Attributed to Wiersbe; sermon cites Tyndale commentary then separately credits Wiersbe — possible the quote appears in a Tyndale commentary volume | ⚠️ Yellow — no specific book/page cited; MS spells it "Wiersby" (typo) | `1 john 4 - counterfeit.md` | 1 |
 
 ---
 

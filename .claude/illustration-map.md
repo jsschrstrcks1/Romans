@@ -91,6 +91,7 @@ Illustrations used 2+ times are flagged with usage count. Two or more uses isn't
 | 1 | A Bug's Life | Analogy for Midianite oppression of Israel — small creatures standing up to larger oppressor. | Judg 6 | `Judges 6 - Called in the Wine Press.md` | 1 |
 | 2 | Flatland | Edwin Abbott's 2D world illustration — beings who can't perceive the third dimension. Used for human inability to comprehend God's sovereignty. | Rom 9 | `Romans 9 - Who Are Gods People.md` | 1 |
 | 3 | Pilgrim's Progress | Bunyan's allegory used repeatedly: burden falling off at the cross (justification), Slough of Despond (conviction of sin), lions at Palace Beautiful (trials guarding blessing). | Rom 4, Rom 5, Various | `Romans 4 - In Christ Alone.md`, `Romans 5.md`, Various | 4+ |
+| 4 | Wiersbe's Counterfeit $100 Bill | Attributed to Wiersbe (source note: possible Tyndale commentary volume; MS spells it "Wiersby"): A counterfeit $100 bill passes through a gas station, supplier, grocer, and finally a bank — where an expert identifies it as fake. "That $100 bill did a lot of good things while it was in circulation; but when it arrived at the bank and was handled by an expert — it was exposed for what it really was." Application: false teachers do good things, sound familiar, pass through most hands undetected — but the expert who knows the truth will spot the counterfeit. ⚠️ No specific book/page cited in sermon; attribution unverified. | 1 John 4:1 | `1 john 4 - counterfeit.md` | 1 |
 
 ---
 
@@ -198,10 +199,10 @@ Illustrations used 2+ times are flagged with usage count. Two or more uses isn't
 
 ## Statistics
 
-- **Total named illustrations**: 63+
+- **Total named illustrations**: 64+
 - **Total significant unnamed**: 20+
 - **Most reused**: Grace the Dog (4+), Pilgrim's Progress (4+)
-- **Type distribution**: Theological (15), Biographical (11), Personal (6), Pastoral (10), Historical (5), Scientific (3), Literary (3), Military (3), Medical (3), Humorous (7), Cultural (10)
+- **Type distribution**: Theological (15), Biographical (11), Personal (6), Pastoral (10), Historical (5), Scientific (3), Literary (4), Military (3), Medical (3), Humorous (7), Cultural (10)
 
 ---
 
