@@ -145,3 +145,190 @@ A preacher once wrote:
 [Note: This quote is presented in the sermon without specific attribution. The preacher refers to "a famous preacher." The quote is consistent in voice and theology with 18th-century Calvinist/evangelical writing. Source not identified in the manuscript.]
 
 True knowledge of God's grace starts with the gospel.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### Verdict Title
+**"Theologically Aware but Pastorally Unfinished: A Wandering Treatment of Grace, Law, and the Lord's Day"**
+
+### One-Sentence Summary
+A pastorally warm and theologically honest sermon on Christian liberty that opens a worthy subject — legalism, antinomianism, and the nature of grace — but never fully grounds its argument in the primary text, closes without a clear exhortation, and ends before the gospel has been fully proclaimed.
+
+---
+
+### Berean Gate
+
+**Scopus Test**: The stated text is Romans 14:1-12 (with Galatians 4:8-20 added). Romans 14's main point is the mutual reception of believers across disagreements on adiaphora (indifferent things), rooted in the Lordship of Christ over each believer (vv. 7-9). The sermon's actual thesis is approximately: *Grace is the middle ground between legalism and antinomianism, and the Lord's Day is a matter of Christian liberty, not law.* This is *adjacent* to Romans 14's argument but is not identical to it. The sermon draws from the passage without fully inhabiting it — the Lordship of Christ over the conscience (vv. 7-9), the eschatological accountability before the judgment seat (v. 10-12), and the mutual reception of the "weak" brother are treated as background color rather than the text's governing argument.
+
+**Authority Test**: The preacher does not stand *above* the text, but he does drift away from it. The sermon is theologically consistent with Paul's point, but the controlling thesis ("grace is the middle ground") is more of a theological construct than the direct output of this particular passage's own logic. The Galatians 4 passage is integrated with honest exegetical intent.
+
+**Berean Gate**: CONDITIONAL PASS — the sermon is consistent with the text's theology but the main point of the sermon does not straightforwardly arise from the main point of the passage. The evaluation proceeds with this noted.
+
+---
+
+### Fatal Flaw Check
+
+**Flag 1 — No clear gospel presentation**: Near-trigger. The sermon gestures repeatedly at grace and mentions "the sinless God-Man, Jesus Christ," but there is no moment where justification by faith is clearly articulated, where the cross is presented as the ground of forgiveness, or where an unbeliever would understand *how* to be reconciled to God. The final line — "True knowledge of God's grace starts with the gospel" — names the gospel without preaching it. This is the gospel as category, not proclamation.
+
+**Flag 4 — Application is entirely generic**: Triggered. The sermon discusses legalism, antinomianism, and grace at length but never specifically addresses *this* congregation in terms of which specific sins of legalism or lawlessness they face, who the "weaker brother" is in their context, or what it practically means to "fully welcome" someone whose convictions differ. The alcoholic example at the close is specific but arrives too late and too briefly.
+
+**Flag 5 — No actual exhortation**: Triggered. The sermon ends with an unattributed quote and a single sentence. There is no "therefore" moment. The congregation is never summoned to any specific belief, repentance, or obedience. They are informed about grace but never called to live in it differently.
+
+**Ruling**: Two fatal flaw flags triggered (Flags 4 and 5; Flag 1 is near-trigger). **Score is capped at 69.**
+
+---
+
+### Score Breakdown
+
+**1. Exposition & Hermeneutics — 16/25**
+
+- *Textual Fidelity*: 6/10 — Romans 14 is referenced and quoted, Galatians 4 is read at length. But the sermon uses the passages as a launching pad for a discussion of legalism and antinomianism more than it works through either text's own argument. Verses 7-12 of Romans 14 — the Lordship of Christ and the judgment seat — receive no treatment. The FCF is implicitly: *believers are tempted to make adiaphora into law, or to collapse law entirely.* This is real but only partially named.
+- *Contextual Awareness*: 3/5 — The Jewish feast-day background of Romans 14 is noted briefly. The context of Galatians (Judaizers, circumcision controversy) is compressed into "legalism" without full clarity.
+- *Exegetical Clarity*: 4/5 — The preacher handles both texts with reasonable transparency and does not import foreign ideas. The "weaker brother" explanation is solid.
+- *Logical Faithfulness*: 3/5 — The Owen and Ferguson quotations are used well, but the sermon's structure creates a detour through antinomianism that, while theologically legitimate, breaks the text's own logical flow.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+- *Christ-Centeredness*: 4/7 — Christ is named; the God-Man language is present; the Rembrandt illustration concludes with a solid statement. But Christ is primarily instrumental ("only Jesus saves") rather than the subject of proclamation. He functions as the theological answer rather than the person who is glorified.
+- *Redemptive-Historical Awareness*: 2/3 — The Sabbath's creation context is mentioned. The resurrection Sunday rationale is given. Adequate but thin.
+- *Doctrinal Precision*: 4/4 — Legalism and antinomianism are handled with genuine precision, especially via Sinclair Ferguson. No theological sloppiness detected.
+- *Confessional Alignment*: 3/4 — Consistent with 1689 theology. Christian liberty is handled correctly. No contradictions.
+
+**3. Gospel Centrality & Force — 7/15**
+
+- *Clarity of the Gospel*: 1/5 — The gospel is referenced ("the sinless God-Man, Jesus Christ" and "God's grace in Christ") but never articulated. What did Christ do? For whom? How does one receive it? The congregation is not told.
+- *Necessity of Christ*: 3/5 — Christ is present as the necessary third option between legalism and antinomianism. The Rembrandt illustration makes this clear. But Christ is more necessary as a *concept* than as a *person proclaimed*.
+- *Cross-Centered Gravity*: 3/5 — The sermon moves toward grace but not toward the cross specifically. Penal substitution, propitiation, and resurrection are absent as named realities.
+
+*Synagogue Test*: A devout non-Christian who accepts the Old Testament and practices moral discipline could sit through the majority of this sermon without offense. The critique of legalism would resonate. The call to "grace" rather than rule-keeping would be agreeable. Only the final Rembrandt-to-Christ turn would give offense — but it is too brief to be properly scandalous. The test is marginally triggered.
+
+**4. Conscience & Applicatory Force — 7/15**
+
+- *Heart Penetration*: 3/5 — The blind-man-and-the-sun quote lands with some force. The growing awareness of sin as we grow closer to God is a real and conscience-touching observation. But the sermon mostly educates the mind about categories rather than pressing the affections.
+- *Specificity*: 2/5 — The alcoholic and drug-use examples are specific but appear only at the very close. Sexual ethics are mentioned specifically but in a defensive, cultural-critique register rather than a pastoral one. The listener is not individually addressed.
+- *Spiritual Differentiation*: 2/5 — The legalist and the antinomian are distinguished, but no Perkins-style differentiation of hearers occurs. The believer, the doubter, the backslider, the self-righteous — all receive the same address.
+
+**5. Exhortation & Response — 2/8**
+
+- *Call to Response*: 1/4 — The sermon ends with a quote and a sentence. There is no clear call: not "repent of your legalism," not "rest in Christ's finished work," not "receive this grace today." The closest moment is the alcoholic exhortation — which is good — but it is addressed to one demographic slice and vanishes immediately.
+- *Equipping for Holiness & Witness*: 1/4 — The sermon does not send the church out. No corporate responsibility, no witness dimension, no call to treat the "weaker brother" differently in actual community life.
+
+**6. Structure & Logical Flow — 6/9**
+
+- *Clarity of Outline*: 2/4 — The sermon moves: Sabbath question → Romans 14 → Galatians 4 → legalism → John Owen → antinomianism → Ferguson → Rembrandt illustration → grace as middle ground → closing quote. This is traceable but not memorable. A listener could not sketch this on a napkin with a clear central spine.
+- *Progression*: 3/3 — The sermon does build logically from the problem to the concept of grace. No wandering loops.
+- *Unity*: 1/2 — Two texts, two ditches, and a people-group insert at the opening create a slightly fragmented unity. The BFM Article insert adds another voice. The sermon has one dominant idea (grace as freedom from legalism and antinomianism) but the frame is cluttered.
+
+**7. Illustration & Imagination — 4/5**
+
+- *Relevance*: 2/2 — The vacation/nap opening, the Rembrandt museum story, and the "stick figure vs. Rembrandt" contrast all land in recognizable human experience.
+- *Clarity*: 1/2 — The Rembrandt illustration is the strongest. The blind-man quote works. The anecdote about missionaries in sensitive contexts is an interesting detour that doesn't fully pay off.
+- *Memorability*: 1/1 — The Rembrandt stick-figure image is genuinely memorable.
+
+**8. Sermonic Force — 3/5**
+
+- *Reads as Preaching*: 1/2 — The sermon has oral cadence and direct address throughout. The personal anecdotes are warm. But the ending deflates into a long unattributed quote followed by one sentence — the sermon does not close with sermonic authority.
+- *Conviction on the Page*: 1/2 — There are moments of conviction (the legalism critique, the sin-awareness passage) but the density of Scripture-grounded assertion drops sharply in the second half.
+- *Cadence and Breath*: 1/1 — Sentence variation is natural. The preacher's conversational voice is consistent.
+
+**Subtotal (before modifiers)**: 16 + 13 + 7 + 7 + 2 + 6 + 4 + 3 = **58 points**
+
+**Score Cap Applied**: Fatal flaw flags triggered — score capped at 69. Raw score of 58 falls below cap; cap does not change the outcome.
+
+---
+
+### Cognitive Load Modifier
+
+**Score: 0** — The sermon is accessible. The categories (legalism, antinomianism, grace) are explained. The Owen and Ferguson quotes are given theological context. A single mother or high schooler could follow the main argument. The cognitive load is appropriate.
+
+---
+
+### Weight of Glory Bonus
+
+**+2/5** — There are moments of genuine warmth and pastoral honesty. The growing-awareness-of-sin passage has real experiential weight. The Rembrandt illustration earns a brief glimpse of grace's glory. But the sermon does not culminate in worship. God is not weighty here — he is the correct answer to a theological question.
+
+---
+
+### Total Score: **60/105**
+
+*Interpretation: Concerning gaps. The sermon explains but does not fully preach. Significant revision needed — particularly at the gospel center, the exhortation, and the applicatory close.*
+
+---
+
+### Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** *Partially myself — particularly my category (legalist? antinomian?) rather than Christ's sufficiency.*
+2. **Did I encounter God, or just ideas about Him?** *Mostly ideas about Him. The Rembrandt moment is the closest encounter.*
+3. **Was I comforted, convicted, or merely informed?** *Primarily informed. Mild conviction in the sin-awareness section. Comfort is gestured at but not fully delivered.*
+
+---
+
+### Strengths (Top 3)
+
+1. **The legalism/antinomianism/grace framework** — The Ferguson quotation and surrounding explanation are the theological high point of the sermon. The claim that both legalism and antinomianism are opposites of grace (not of each other) is precise and pastorally important.
+2. **The Rembrandt illustration** — "God's grace is Rembrandt. Our best efforts at legalism are stick figure caricatures of holiness at best." This is a strong image that embodies the sermon's central claim and is genuinely memorable.
+3. **The sin-awareness passage** — "The closer we become to God, the more sin we are able to see in ourselves." This is an experimentally true observation that touches the conscience without moralizing. It deserves more development.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **The gospel is invoked but never proclaimed** — At no point does the sermon articulate what Christ actually did, why it was necessary, what it accomplished, or how a sinner receives it. "The sinless God-Man, Jesus Christ" is named as the only thing that saves, but this is a theological claim, not a proclamation. The final line — "True knowledge of God's grace starts with the gospel" — is a setup with no follow-through. The sermon ends where it should have begun preaching.
+
+2. **No exhortation whatsoever** — The sermon closes with a long unattributed quotation and a single sentence. The congregation is never told what to do, what to repent of, what to believe differently, or what to pursue. They were educated. They were not summoned. A congregation that has sat through this sermon has every right to leave unchanged because they were never called to change.
+
+3. **Romans 14:7-12 is entirely absent** — The text's own climax — that each believer lives and dies to the Lord, that each will give an account before the judgment seat of God — receives zero treatment. This is not a minor omission. Verse 9 is the theological engine of the passage: "For to this end Christ died and lived again, that he might be Lord both of the dead and the living." This verse alone contains the gospel, the Lordship of Christ, and the eschatological accountability that Paul is building toward. Skipping it means the sermon never reached the passage's own peak.
+
+---
+
+### Blind Spots
+
+- The preacher likely does not see that the sermon's warm, conversational tone creates the *impression* of pastoral depth without delivering its *substance*. The vacation story, the nap, the sharks' teeth — these establish likability but they also consume space that the gospel needs.
+- The Romans 6 slip (calling it "Romans 12") is noted in the manuscript itself, but it signals a pattern: the preacher is quoting from memory and moving quickly. This is natural for oral preaching but suggests the text is not being mined as deeply as it could be.
+- The people group insert at the opening (Meo of Pakistan) is pastoral and missions-minded, but it creates a frame that is never revisited. The sermon does not connect the Lord's Day question to witness or the Great Commission.
+
+---
+
+### Illusion of Strength
+
+The Ferguson quotation and the Owen reference give the sermon a Reformed, intellectually serious feel that may mask the thinness of the gospel section. A theologically alert listener will feel like the sermon "has the right stuff" because it uses the right names and the right categories. But correct theological vocabulary without gospel proclamation is the precise problem Sinclair Ferguson diagnosed in the Marrow Controversy — which is the very book the sermon cites. The sermon quotes Ferguson about the antinomian's legal heart without recognizing that a sermon which correctly identifies the categories but fails to preach the gospel is doing theology at the *about* level rather than the *proclamation* level.
+
+---
+
+### Missed Opportunity
+
+Romans 14:9 is the golden text this sermon never preached: *"For to this end Christ died and lived again, that he might be Lord both of the dead and the living."* This verse is the gospel embedded in the passage. It answers the Lord's Day question (Christ is Lord of Sunday because he died and rose on Sunday), it grounds the adiaphora argument (Christ's Lordship, not our rules, governs conscience), and it contains the justification for everything Paul says about receiving the weaker brother. This verse is the sermon's backbone — and it was never mentioned.
+
+---
+
+### Surgical Fixes
+
+1. **Preach Romans 14:9 as the sermon's center** — "For to this end Christ died and lived again, that he might be Lord both of the dead and the living." This single verse provides the gospel, the Lordship argument, and the Sunday rationale. Build the whole sermon from this.
+
+2. **Add a clear gospel paragraph before the closing** — Before the final quote, insert a direct articulation: what Christ did (died as the sinless substitute), why (to bear the wrath of God that legalism cannot escape and antinomianism ignores), and what it achieves (justification by faith, freedom in conscience, welcome of the weak). Make it prosecutable: an unbeliever should leave knowing what the gospel *is*.
+
+3. **Write an actual exhortation** — End with three specific calls: (a) to the legalist: "Stop keeping score and receive the brother Christ has received"; (b) to the antinomian: "Stop using grace as a license and remember that Christ is Lord, not you"; (c) to all: "Rest in Christ this Sunday — not because the calendar demands it, but because he rose and he reigns."
+
+4. **Address the weaker brother concretely** — Ask the congregation: "Is there someone in this church whose convictions differ from yours on a secondary matter? Have you fully welcomed them, or have you judged them?" This is the passage's own application — and it never appears.
+
+5. **Trim the opening** — The vacation narrative is warm but runs long. Two sentences would accomplish what four paragraphs attempt. The space recovered should go to the gospel.
+
+---
+
+### Dead Orthodoxy Flag
+
+**Not triggered** — The sermon's weakness is not dead orthodoxy (correct doctrine, no fire) but rather *incomplete proclamation*. The fire exists in the preacher's personality and illustrations. What is missing is not warmth but the full content of the gospel and a summoning exhortation.
+
+---
+
+### Weight of Glory Assessment
+
+The sermon carries pastoral warmth and theological awareness, but it does not carry eternal gravity — God is the answer to a category question rather than the consuming fire before whom legalism and lawlessness alike are burned away.
+
+---
+
+### Rubric Fit Note
+
+This passage (Romans 14:1-12) is well-served by this rubric. The conscience/application categories are directly relevant to Paul's concern. The gospel centrality category is particularly apt since Romans 14:9 embeds the gospel in the adiaphora discussion itself — meaning a sermon on this text that lacks gospel proclamation is not just incomplete but has missed the passage's own embedded Christology.
