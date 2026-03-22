@@ -26,3 +26,130 @@ Close in prayer.
 Communion
 
 the Lord Jesus on the night when he was betrayed took bread, and when he had given thanks, he broke it, and said, "This is my body which is for you.  Do this in remembrance of me."  In the same way also the cup, after supper, saying, "This cup is the new covenant in my blood, do this, as often as you drink it, in remembrance of me."  For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes.  Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of profaning the body and blood of the Lord.  Let a man examine himself, and so eat of the bread and drink of the cup.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+A Pastoral Heart on Display, But the Gospel Needs a Sharper Edge
+
+### 2. One-Sentence Summary
+A warm and accessible opening of 2 Kings 5 that effectively establishes the leprosy-as-sin analogy and moves toward Christ, while falling short in gospel precision, exhortational force, and applicatory differentiation.
+
+### 3. Berean Gate
+**Result: PASS (with reservation)**
+
+*Scopus Test:* The sermon's thesis — that Naaman's leprosy illustrates sin's numbing, isolating, fatal nature, and that only humbling oneself before God through the provision He ordains brings cleansing — does arise from the passage's argument. The connection holds.
+
+*Authority Test:* The preacher submits to the text's claims rather than editing them. He does not soften the offense of the gospel. The reservation is that the sermon spends considerable time in illustration before the text is engaged, and some sections (the Washington Monument, the workplace illustration) feel autonomous rather than text-tethered.
+
+### 4. Fatal Flaw Flags
+**Score cap: NOT triggered.** However, two flags approached the threshold and require attention:
+
+- **Flag 4 (Application is entirely generic):** The application in the final paragraphs is almost entirely generic. "Humble yourself and kneel at the cross" is true but undifferentiated. No specific hearers are addressed, no particular forms of the self-trust Naaman embodied are named for the congregation.
+- **Flag 5 (No actual exhortation):** The sermon ends with "Close in prayer" — the exhortation is minimal and vague. The congregation is told there is a cure but not summoned to it with any pastoral force.
+
+Neither flag fully triggers because the gospel is at least gestured toward and the sermon is accessible. But both are genuine weaknesses.
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 16/25**
+- *Textual Fidelity (6/10):* The sermon follows the narrative arc of 2 Kings 5, but large portions of the text go unaddressed (Gehazi's sin in vv. 20–27 is entirely omitted — and that omission is significant, since Gehazi's greed is the counter-example to Naaman's humility and the judgment contrast the text itself builds). Verses 8–14 receive real attention; the rest is summary.
+- *Contextual Awareness (3/5):* The Syria/Israel geopolitical setting is handled well, including the reference to Luke 4:27. The redemptive-historical placement of Elisha as a type of priest is a genuine insight.
+- *Exegetical Clarity (4/5):* The sermon explains the Leviticus 14 cleansing ritual connection to the sevenfold dipping — this is solid. The Dr. Brand citation and the Wiersbe quote add external reinforcement.
+- *Logical Faithfulness (3/5):* The leprosy-as-sin analogy is valid but leans heavily typological without fully tracking the text's own argument. The FCF (Fallen Condition Focus) — the human tendency to seek salvation on our own terms, to want a cure that costs us nothing and humiliates us not at all — is named implicitly but never stated plainly.
+
+**2. Theology & Doctrinal Integrity — 11/18**
+- *Christ-Centeredness (5/7):* The Leviticus 14 / Elisha-as-priest / Jordan-as-cleansing-fountain connection to Christ is genuinely handled. The statement "Glaxosmithcline has never come up with a cure for sin and never will" lands with appropriate theological force. However, penal substitution is gestured at ("sinless Christ's death on the cross for our sins") without being clearly articulated — it reads as assumed rather than proclaimed.
+- *Redemptive-Historical Awareness (2/3):* Adequate. The covenantal connection is present, though not developed with confessional precision.
+- *Doctrinal Precision (2/4):* Justification is never named. The mechanism of salvation is described as "humbling yourself before God and asking for your sins to be covered by Christ's sacrifice" — which is directionally correct but could imply merit through humility rather than resting the whole of salvation on Christ's imputed righteousness received through faith.
+- *Confessional Alignment — 1689 Pulse (2/4):* No contradiction of confessional theology, but the soteriological language is vague where it could be precise. The distinction between the condition of humility (which God grants) and the ground of salvation (Christ's finished work) is blurred.
+
+**3. Gospel Centrality & Force — 9/15**
+- *Clarity of the Gospel (3/5):* The gospel is present but compressed into two sentences at the end. An unbeliever would understand that Christ died for sin and that faith and humility are required — but they would not understand *why* Christ's death accomplishes cleansing, or *what* justification means.
+- *Necessity of Christ (4/5):* Christ is not decorative. The sermon builds toward Him through the typological reading of the Naaman narrative, and the conclusion requires Christ. This is the sermon's strongest theological moment.
+- *Cross-Centered Gravity (2/5):* The sermon moves toward the cross but does not arrive with weight. The law has not been permitted to do its full work before the gospel relieves it. The Wiersbe quote about sin isolating and defiling is powerful, but the sermon does not sustain the law's pressure long enough for the gospel to be genuinely Good News rather than a tidy conclusion.
+
+*Synagogue Test:* A devout non-Christian who believed in moral discipline and feared God could sit through most of this sermon without being confronted by the necessity of Christ's blood — until the final paragraph. The gospel appears too late and too briefly to generate true offense. The test is borderline.
+
+**4. Conscience & Applicatory Force — 7/15**
+- *Heart Penetration (3/5):* The workplace anecdote about the drunk co-worker who refused to pay child support is vivid and real. The opening leprosy illustration about the boy's torn finger is excellent — concrete and disturbing. But the conscience is informed rather than searched.
+- *Specificity (2/5):* The application is almost entirely generic. "Maybe you find yourself like Naaman tonight" is the beginning of differentiation, not differentiation itself. What specific forms of Naaman-like self-sufficiency are present in *this* congregation? The sermon does not go there.
+- *Spiritual Differentiation (2/5):* Only one category of hearer is addressed — the unconverted who don't think they're sinners. The believer, the backslider, the humbled-but-not-yet-believing, the self-righteous who knows the doctrine — all are passed over.
+
+*Perkins' Taxonomy:* Of seven categories, the sermon reaches approximately one (the ignorant and self-satisfied). This is a significant gap.
+
+**5. Exhortation & Response — 3/8**
+- *Call to Response (1/4):* "You just have to kneel at the cross" and "Close in prayer" are not exhortations — they are transitions. The congregation is never summoned to a specific response with pastoral directness. There is no "Therefore" moment.
+- *Equipping for Holiness & Witness (2/4):* The communion liturgy appended to the sermon does function as a response moment, but it is liturgical rather than exhortational. The church is not sent out — they are seated and served.
+
+**6. Structure & Logical Flow — 6/9**
+- *Clarity of Outline (2/4):* The sermon does not have a stated structure. It moves: illustration → setting → text → leprosy/sin analogy → narrative retelling → typological connection → brief gospel appeal. This is followable but not memorable. A listener could not sketch it on a napkin.
+- *Progression (3/3):* The movement from illustration to analogy to text to Christ is directionally sound and builds with reasonable momentum.
+- *Unity (1/2):* The Washington Monument illustration (paragraphs 4) is the weakest link — it is used to comment on political authority, which has no clear connection to the sermon's main point. It could be removed without loss.
+
+**7. Illustration & Imagination — 4/5**
+- *Relevance (2/2):* Dr. Brand's leprosy illustration, the boy with the torn finger, the drunk co-worker — all arise from recognizable human experience. The Jordan River / FL lake comparison is charming.
+- *Clarity (1/2):* Most illustrations land, but the Washington Monument illustration is a detour that diffuses rather than focuses.
+- *Memorability (1/1):* The boy tearing the flesh off his finger to open a box will be remembered.
+
+**8. Sermonic Force — 3/5**
+- *Reads as Preaching (2/2):* The manuscript reads as oral delivery — colloquial, direct, first-person. The conversational register is appropriate for the setting.
+- *Conviction on the Page (1/2):* The theological assertions are present but not dense. The ratio of Scripture-grounded assertion to general statement tilts toward general statement.
+- *Cadence and Breath (0/1):* Sentence variation is present but underdeveloped. The sermon does not build to a moment that roars. The climax — the cure is Christ — arrives in a single paragraph without compression or force.
+
+### 6. Cognitive Load Modifier
+**Score: 0**
+The sermon is accessible. The average church member — including the new believer and the high schooler — can follow the argument. No inaccessibility issues.
+
+### 7. Total Score
+**16 + 11 + 9 + 7 + 3 + 6 + 4 + 3 = 59/100**
+**Weight of Glory Bonus: +1** (There is genuine pastoral warmth and a real desire to bring people to Christ. The Leviticus 14 typological insight carries weight.)
+**Cognitive Load Modifier: 0**
+**Final Score: 60/100**
+
+*Interpretation: Concerning gaps. The sermon explains and illustrates but does not yet fully preach. Significant revision needed — primarily in gospel precision, applicatory differentiation, and exhortational force.*
+
+### 8. Core Override Questions
+1. **Does this sermon make me think more of Christ — or myself?** Mostly Christ — the typological argument moves genuinely toward Him. But the sermon spends more time in illustration than in Christ. Partial yes.
+2. **Did I encounter God, or just ideas about Him?** Largely ideas about Him, with moments of genuine proximity — particularly the Leviticus 14 connection.
+3. **Was I comforted, convicted, or merely informed?** Primarily informed. The conviction potential is present in the leprosy analogy but is not pressed to produce genuine discomfort before the relief of the gospel arrives.
+
+### 9. Strengths (Top 3)
+1. **The opening leprosy illustration is excellent.** The boy tearing flesh from his finger to open a box — bone exposed, tendons torn, no pain felt — is a concrete, disturbing, and perfectly apt image for sin's numbing effect. It will be remembered.
+2. **The Leviticus 14 / typological reading of the Jordan dipping is genuine exposition.** Identifying Elisha as functioning in a priestly role, the Jordan as a cleansing font, and connecting this to Christ's atoning work is not a leap — it is covenantal, textually grounded, and makes the text yield Christ organically.
+3. **The geopolitical context is handled with pastoral flair.** Describing Naaman in contemporary equivalents (Secretary of Defense, Time's Man of the Year, the MTV Cribs reference) is effective and not cheap. It makes Naaman's humiliation — and ultimately his submission — feel proportionately costly.
+
+### 10. Critical Weaknesses (Top 3)
+1. **The gospel is compressed into two sentences at the end and lacks doctrinal precision.** "Humbling yourself before God and asking for your sins to be covered by Christ's sacrifice" is true but ambiguous. It can be read as works-assisted salvation. What is the basis of covering? What is imputed? What does faith receive? The sermon never answers. This is the sermon's most significant failure.
+2. **The application is generic and undifferentiated.** "Maybe you find yourself like Naaman tonight" is the only differentiation attempted, and it addresses only one hearer — the self-trusting unconverted. The believer tempted to earn sanctification, the backslider who has lost first love, the self-righteous elder who knows the doctrine — none are addressed.
+3. **The Washington Monument illustration is a structural intrusion.** It introduces a political commentary (DC leaders don't kneel to God) that is neither grounded in the text nor resolved by it. It takes time and space that the application and exhortation desperately need.
+
+### 11. Blind Spots
+- The preacher likely does not see that Gehazi's story (vv. 20–27) — omitted entirely — is the text's own counter-example and a crucial warning to those who know the gospel and exploit it. Gehazi is the "knowledgeable but unhumbled" hearer Naaman was not. The sermon's application would be dramatically sharpened by including Gehazi as a distinct category of hearer.
+- The preacher likely does not see how early and how hard the law needs to work before the gospel can land with force. The sermon is warm and the analogy is apt, but the congregation is not under the weight of their own Naaman-likeness long enough to feel the relief of the gospel.
+
+### 12. Illusion of Strength
+The workplace anecdote about the drunk co-worker *feels* like gritty realism and pastoral authenticity. It is vivid. But it illustrates a *visible* and externally recognized sinner — the kind every congregation can safely distance themselves from. The more dangerous Naaman-figure in any congregation is the upright, accomplished, quietly self-sufficient churchgoer who has never been stripped of self-trust. The illustration produces sympathy for the drunk, not self-examination in the respectable. It names the wrong kind of leper.
+
+### 13. Missed Opportunity
+The text's own climax is not in verse 14 (the healing) but in verse 15: "Now I know that there is no God in all the earth but in Israel." Naaman's confession of faith — a Syrian general, enemy of Israel, bowing before the God of a defeated nation — is the text's own gospel moment. The sermon closes before reaching it. This is the verse where the typological argument culminates in doxology. The sermon should have climaxed here, not at the healing.
+
+Additionally, Naaman's question in verse 18 about bowing in the house of Rimmon — and Elisha's enigmatic "Go in peace" — is a window into the complexity of conscience, cultural accommodation, and early sanctification. The sermon never touches it, and it is a pastoral goldmine.
+
+### 14. Surgical Fixes
+1. **Restructure the conclusion around 2 Kings 5:15.** Naaman's confession — "there is no God in all the earth but in Israel" — is the sermon's natural climax. Land the exhortation there: "This is the only verdict that matters. Not Time's Man of the Year. Not Secretary of Defense. But this: 'My God.' Have you said it?"
+2. **Name Gehazi as the second application category.** After addressing the Naaman-type (self-sufficient, unaware of need), address the Gehazi-type: the person in the room who knows the gospel, has watched it change others, and is using spiritual proximity for personal advantage. "Some of you are Naaman. Some of you are Gehazi. Both are dangerous. Only one ends in grace."
+3. **Sharpen the gospel statement with confessional precision.** Replace "asking for your sins to be covered by Christ's sacrifice" with something that distinguishes the basis (Christ's righteousness credited to our account) from the condition (faith, not merit-generating humility). The cure is not our kneeling — it is Christ's blood. Our kneeling is the posture of receiving, not the ground of the cure.
+4. **Add a direct exhortation before "Close in prayer."** The sermon needs a "therefore" moment: "So here is what I am asking you to do tonight. Not someday. Tonight. Acknowledge that you are the leper. Acknowledge that you cannot buy the cure or perform the cure. Turn from self-trust and rest on Christ alone. That is the dip in the Jordan. That is the sevenfold washing. Will you do it?"
+5. **Cut or refocus the Washington Monument illustration.** Either connect it explicitly to Naaman's kneeling to no man — "Even our grandparents' monuments testify to what proud men will not: Praise God" — or remove it entirely and give that time to the application.
+
+### 15. Dead Orthodoxy Flag
+**Not triggered.** The sermon is not coldly orthodox — there is pastoral warmth and genuine desire for the hearers. However, the pattern of a relatively strong theology score against a weak applicatory score warrants monitoring. The danger is not dead orthodoxy but *warm vagueness* — preaching that feels pastoral but does not press.
+
+### 16. Weight of Glory Assessment
+There are genuine moments of eternal gravity — particularly the typological reading of Naaman's cleansing as a picture of Christ's atoning work — but the sermon does not yet sustain the weight of eternity from beginning to end; the congregation is invited to consider the cross more than they are summoned before it.
+
+### 17. Rubric Fit Note
+This rubric fits Old Testament narrative preaching well, and 2 Kings 5 is a rich typological text. The rubric's emphasis on Fallen Condition Focus and redemptive-historical placement is well-suited here — the text is explicitly used in Luke 4 as a theological argument by Jesus, which makes the FCF and gospel centrality categories especially load-bearing. No genre strain. The rubric applies cleanly.
