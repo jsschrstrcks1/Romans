@@ -181,3 +181,196 @@ Gospel.
 **The Elhanan Problem**: The pastor argues that "Elhanan" (אלחנן, meaning "God has been gracious" or "beloved one") is a cognate of "David" (דוד, meaning "beloved") and that the apparent discrepancy between 2 Samuel 21:19, 1 Chronicles 20:5, and 1 Samuel 17 is a translation issue rather than a textual error. While the semantic connection between the names is real, the consonantal roots are different (אלחנן vs. דוד). The standard evangelical harmonization holds that 1 Chronicles 20:5 preserves the correct reading ("Elhanan... struck down Lahmi the brother of Goliath") and that 2 Samuel 21:19 contains a scribal copying error. Both approaches defend textual reliability; the pastor's approach through Hebrew linguistics and the standard approach through textual criticism arrive at the same conclusion: the Bible does not contradict itself.
 
 **Goliath's height**: The pastor says "somewhere between 8 and 10 feet tall." The Masoretic Text gives Goliath's height as "six cubits and a span" (~9 feet 9 inches). The Septuagint and a Dead Sea Scrolls fragment of 1 Samuel give "four cubits and a span" (~6 feet 9 inches). The range the pastor gives accommodates both textual traditions.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated:** 2026-03-22
+**Evaluator:** Thus Says the Lord rubric v1.0
+
+---
+
+### 1. Verdict Title
+
+**A Brilliant Illustration for Total Depravity in a Wednesday Night Teaching That Needed Two More Hours**
+
+---
+
+### 2. One-Sentence Summary
+
+A Wednesday night teaching on 1 Samuel 17 that produces a genuinely excellent compass illustration for total depravity, solid typological work on David-as-Christ, careful textual apologetics on the Elhanan problem, and a principled critique of prosperity theology — all compressed into a teaching skeleton that ends with "Gospel." where the proclamation should be.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test:** PASS, with a note. The sermon's framing ("Who are we in the story?") is a hermeneutical question rather than a thesis statement, and the three-lens answer (we are David / the Israelites / Goliath) distributes the main point across competing emphases. The dominant theological claim that emerges — God must remove the magnet on our heart's compass before we can navigate to Him — arises from the text's depiction of Israel's helplessness before Goliath and David's representative victory. This is a legitimate exegetical conclusion from the narrative, though the text itself emphasizes David's faith-courage and God's vindication more than it emphasizes Israel's passivity.
+
+**Authority Test:** PASS. The preacher does not stand above the text. He submits to the text's confrontational implications (the prosperity-gospel critique is grounded in vv. 45-46, not in the preacher's preference) and handles the Elhanan textual challenge honestly rather than avoiding it.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**One formal flag noted. Score is capped at 69.**
+
+**Flag #1 — No clear gospel presentation.** The sermon ends with "Gospel." — a placeholder. Within the body, the typological gospel is present and is the sermon's theological high point: "David is more or less a type of Christ, and Goliath is sin... With Christ, our victory over sin, and death, and hell, and Satan can be total and complete." This is legitimate typological proclamation. However: no explicit statement of Christ's death as substitute, no righteousness credited, no call to repentance with theological content. The typology opens the door; a proclamation must walk through it. It does not.
+
+*Context note: This is a Wednesday night teaching, not a Sunday sermon (per file header: "Type: Wednesday Night Teaching"). The rubric acknowledges this context — Wednesday teachings are often more didactic than proclamatory, and the "Gospel." placeholder likely indicates a planned oral addition. The evaluation reflects the manuscript as written, not the sermon as likely preached.*
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 18/25**
+
+The Elhanan textual problem is handled with genuine exegetical care — Hebrew consonantal writing, Masoretic niqqud, the cognate relationship between *Elhanan* ("beloved one") and *David* ("beloved") — is a legitimate and interesting defense of textual reliability. The Philistine humiliation ritual (falling face-down, decapitation of king and idols) is illuminating background knowledge that makes the narrative's details — "Goliath fell on his face" — exegetically productive. The sling-as-weapon data (Anchor Yale Bible Dictionary: 5-6 feet, 180 mph, 100+ yards) corrects the false impression that David was the underdog and is well sourced.
+
+The three-lens approach to "who are we in the story?" is creative and tracks the text's main characters, but it creates exposition that is more survey than argument. The sermon observes three possibilities without building toward a conclusion that is the text's own main point. 1 Samuel 17's own main point — stated explicitly in vv. 46-47 — is that the battle belongs to the Lord, and that *all the earth* may know there is a God in Israel. This is a text about God's glory in mission, not primarily about our identity. The sermon approaches this but doesn't land on it.
+
+FCF: Total depravity as misdirected will — "our compass needle is compromised" — is clearly identified and specifically named. This is the sermon's FCF and it drives the compass illustration.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+Total depravity is well articulated: not merely *weakened* will but *misdirected* compass. The monergistic claim is clear: "God has to do the same thing to us... He doesn't fix us because of anything we have done to merit fixing. We can't earn it. We can't even do it ourselves." This is confessionally sound.
+
+The typology (David as Christ-type) is the strongest theological section: David fights without conventional armor as Christ wins through apparent weakness; David uses Goliath's own sword as Christ uses death itself to defeat death; David fights as the representative champion of Israel as Christ fights as the champion of His people. The champion-fights-while-Israel-watches parallel to the cross is stated: "we watch while their representative secures the victory, just as we watch from the foot of the cross" (Scripture Mapping section). This is Reformed typological theology done well.
+
+Weakness: The redemptive-historical framework is more implied than developed. The Davidic covenant — the promise that a king from David's line would rule forever (which the sermon gestures toward: "We might dive into that next week") — is the biblical-theological reason the David-as-Christ-type is organically derived, not imposed. Naming it briefly would strengthen the typological claim's legitimacy.
+
+**3. Gospel Centrality & Force — 7/15**
+
+The typological gospel is genuinely present: "With Christ, our victory over sin, and death, and hell, and Satan can be total and complete." The compass illustration leads to: "He has to do it for us, and he's willing to." These are real gospel notes.
+
+But the placeholder "Gospel." is the formal proclamation, and it does not exist in the manuscript. The cross is not mentioned. Justification by faith is not stated. The *ground* of the compass being restored (the atonement) is not named — only the *fact* that God restores it and is willing to. A Wednesday night congregation needs to hear *why* God is willing and *what it cost Him to remove the magnet*. Without that, the gospel is impression without substance.
+
+*Synagogue Test:* A devout non-Christian could sit through this teaching without offense at the necessity of Christ's blood. The typology is present but imprecise enough to be missed. This is the flag.
+
+**4. Conscience & Applicatory Force — 7/15**
+
+The three-lens structure creates three applicatory movements, though they are brief:
+- *We are David*: Apply the faith-and-God formula to personal battles against sin (not to prosperity-seeking).
+- *We are the Israelites*: The champion has fought on your behalf; receive the victory.
+- *We are Goliath*: Your stubborn will must be broken before you can follow.
+
+The prosperity-gospel critique is the sermon's most direct conscience pressure: "Speak it into existence and you've basically manipulated God into giving you the perverse desires of your heart." This is pointed and specific and addresses a real distortion in the room.
+
+Weakness: The interactive format ("I'm going to call on some of you") suggests a teaching discussion rather than prophetic address. The sermon's conscience pressure is distributed across three lenses rather than concentrated at one decisive point. No distinct address by spiritual state (unconverted / believer / backslider) — the three lenses are literary/hermeneutical categories, not pastoral ones.
+
+**5. Exhortation & Response — 3/8**
+
+"Gospel." The only exhortation is a placeholder. The compass illustration builds toward a response — "He has to do it for us, and he's willing to" — but no call to repentance, faith, or specific obedience follows. The congregation is oriented toward the truth but not summoned by it.
+
+**6. Structure & Logical Flow — 6/9**
+
+The structure is clear: Opening question (who are we?) → Scripture reading → Elhanan problem (apologetics) → What Samuel leaves out → We are David → We are the Israelites → We are Goliath → Compass illustration → Gospel placeholder. This is a coherent teaching outline for a Wednesday evening.
+
+The Elhanan section is long (necessary for the apologetics but demanding for a congregation) and placed upfront before the main exposition. This is an unusual but defensible choice — it builds confidence in the text before the teaching begins.
+
+**7. Illustration & Imagination — 4/5**
+
+The compass illustration is the sermon's crown: sin as a magnet placed on the heart's compass by a villain, redirecting its needle from true north; the captain hopelessly lost while confident he is on course; the engineer finding the magnet and removing it; only then can the ship reach port. This is not borrowed — it is creative, precise for total depravity, and theologically productive. The image of *not knowing you are lost* is its sharpest edge.
+
+Supporting illustrations:
+- Neil Gaiman's 20-page backstory for minor characters vs. Samuel's narrative economy — apt and memorable.
+- "Goliath brought a sword to a gunfight" — the sling-as-superior-weapon surprise is genuinely fun and texturally grounded.
+- Dagon's face-down fall parallel to Goliath's face-down fall — a genuine textual connection that illuminates the narrative.
+- Five stones / five brothers — an interesting parallel (drawn from extra-biblical sources, noted as such).
+
+**8. Sermonic Force — 3/5**
+
+The conversational, interactive, self-deprecating register is appropriate for Wednesday night teaching. The stubbornness joke ("I of course disagree with that strongly — I'm NOT stubborn, and you can't prove to me that I am") works in this context. The sermon reads as a teaching, not an essay. But it does not build toward a climactic moment — the compass illustration provides a natural climax, but "Gospel." is the landing, not a landing.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1.** Three hermeneutical lenses + Elhanan textual issue + Hebrew linguistics + sling physics + Philistine humiliation ritual + prosperity-gospel critique + total depravity + typology = a rich teaching that presses against an hour's capacity. One fewer concept would help; the congregation's ability to carry home one clear truth is strained by the breadth.
+
+---
+
+### 7. Total Score
+
+**18 + 13 + 7 + 7 + 3 + 6 + 4 + 3 = 61 − 1 = 60/100**
+
+*Fatal flaw cap applies (59 rounded to 60); but the raw score independently falls at or near the cap threshold.*
+
+**Interpretation: Concerning gaps. Significant revision needed before Sunday proclamation — though for a Wednesday teaching, the teaching value is higher than the score suggests.**
+
+---
+
+### 8. Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** *The three-lens structure (we are David / Israelites / Goliath) consistently returns to our identity rather than Christ's person and work. The typological section is the exception — there, the gaze turns outward toward the champion. But the frame of the teaching is hermeneutical ("who are we?") rather than christological ("what has He done?").*
+2. **Did I encounter God, or just ideas about Him?** *Encountered ideas about God — good ideas, carefully derived. The compass illustration reaches for God's grace but stops at the doctrine of regeneration rather than arriving at the person of Christ.*
+3. **Was I comforted, convicted, or merely informed?** *Primarily informed, with genuine conviction in the prosperity-gospel critique and the compass illustration's self-diagnostic edge. Comfort is offered ("He has to do it for us, and he's willing to") but without the ground of the cross beneath it.*
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The compass illustration.** It is the best illustration for total depravity in the corpus — concrete, narratively compelling, and theologically precise. The ship's captain hopelessly navigating by a corrupted instrument while confident he is on course captures *both* the misdirection *and* the blindness of total depravity. It will be remembered. It deserves a full gospel proclamation beneath it.
+
+2. **The David-as-champion typology.** "David didn't even bring a sword to the fight. He's promising to use Goliath's sword to ensure the victory is total and complete. With Christ, our victory over sin, and death, and hell, and Satan can be total and complete." The use-the-enemy's-own-weapon parallel (David uses Goliath's sword; Christ uses death itself) is exegetically honest and christologically productive. The champion-fights-while-Israel-watches frame is biblically grounded.
+
+3. **The Elhanan textual apologetics.** This is careful, accessible scholarship that builds congregational confidence in Scripture. The Hebrew linguistics explanation (consonantal text, niqqud, no spaces between words) is handled at the right level — enough to credibly address the objection without requiring seminary training to follow. The openness to other legitimate harmonization approaches (textual-critical vs. cognate-semantic) is intellectually honest.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is not proclaimed.** "Gospel." is a placeholder that indicates the preacher knows the gospel belongs here and has not written it. The compass illustration is the perfect setup for the gospel — "He has to remove the magnet; He is willing to; here is what it cost Him and what it means for you" — and the sermon stops one sentence before the cross. *This is the fatal wound.*
+
+2. **The three hermeneutical lenses produce exposition without culmination.** "We are David / we are the Israelites / we are Goliath" is a creative survey of the story's characters, but without a declared main point that the three lenses serve, the sermon distributes rather than concentrates. The text's own climax (v. 46-47: "that all the earth may know that there is a God in Israel... the battle is the LORD's") is the most important exegetical observation in the passage and the sermon does not land on it.
+
+3. **No spiritual differentiation.** The teaching addresses a generic "we" without distinguishing the converted from the unconverted, the growing believer from the backslider. The compass illustration applies to *all* — but the unconverted needs to hear "the magnet must be removed by God — have you asked Him?" while the believer needs "the magnet is gone — stop navigating by the old compass." These are different calls and neither is made.
+
+---
+
+### 11. Blind Spots
+
+The preacher's primary hermeneutical concern ("who are we in the story?") reflects a commitment to pastoral application — a genuine instinct. But the question subtly orients the sermon toward the congregation's self-understanding rather than toward the text's own theological claim. 1 Samuel 17 is not primarily about *our* identity; it is primarily about *God's* character and sovereignty displayed through a representative champion. When the lens shifts from "who is God in this story?" to "who are we in this story?", the sermon loses the theocentric gravity that 1 Samuel 17 itself insists on in vv. 46-47.
+
+---
+
+### 12. Illusion of Strength
+
+The Elhanan textual section *feels* like the sermon's most sophisticated moment — and it is genuinely good scholarship. But it is apologetics, not exposition. It defends the text's reliability without advancing the text's argument. A congregation that leaves remembering the Hebrew dot-and-dash explanation has learned something true and useful — but they have not encountered the main point of 1 Samuel 17.
+
+---
+
+### 13. Missed Opportunity
+
+1 Samuel 17:45-47 — David's declaration before the battle: "You come to me with a sword and with a spear and with a javelin, but I come to you in the name of the LORD of hosts... that all the earth may know that there is a God in Israel... the battle is the LORD's" — is the text's own theological thesis statement. David does not fight to prove his faith, or to defeat his Goliath, or to be a good example. He fights so the nations will know there is a God in Israel. This missiological purpose, combined with the Davidic covenant's broader trajectory toward Christ, is the sermon's missed opportunity to connect David's fight to the proclamation of the gospel in all the earth.
+
+---
+
+### 14. Surgical Fixes
+
+1. **Write the gospel in place of the placeholder.** The compass illustration sets it up perfectly: "He removes the magnet. He re-orients the compass. But the question is: how does He do it? And what did it cost Him? The answer is the cross. Christ came — not with a sword to fight your sin for you on the outside, but to die under the weight of it on the inside. He took the punishment your misdirected heart deserved. He absorbed the wrath. And three days later, He rose. The magnet is not only removed — it is destroyed. Come to Him."
+
+2. **Land on the text's own main point.** After the three lenses, add a fourth section: "But here's what the text itself says about why David fought." Read vv. 46-47 again. "The battle belongs to the LORD — and it is God's glory that is at stake, not David's." This reorients all three lenses: we are David (in God's strength), the Israelites (watching the champion fight for us), and Goliath (having our stubborn will broken) — all in service of the text's conclusion: *that the nations may know there is a God in Israel.*
+
+3. **Add two sentences of spiritual differentiation before the placeholder.** "If you are here and your compass has never been touched by God — you've been navigating by your own desires and wondering why you can't find peace — tonight is the night to ask Him to remove the magnet. And if you are a believer whose fire has gone low, who has been navigating by the old compass out of habit — the magnet is already gone. Stop steering by it."
+
+---
+
+### 15. Dead Orthodoxy Flag
+
+*Not triggered.* The teaching has genuine theological warmth — the compass illustration and the champion typology are not bloodless. The problem is incompleteness, not cold orthodoxy.
+
+---
+
+### 16. Weight of Glory Assessment
+
+The compass illustration carries genuine eternal weight — it is the kind of image that persists in a congregation for years. The David-as-champion typology, if developed to its full depth, would add more. As it stands, the teaching points toward the eternal without arriving there.
+
+*+2 bonus points for the compass illustration and the typological gravity it opens.*
+
+---
+
+### 17. Rubric Fit Note
+
+Narrative texts stress the rubric's categories differently. Exposition of a narrative is necessarily observational rather than argumentative, and the "Exposition" category must be calibrated accordingly — we are evaluating whether the preacher draws legitimate theological conclusions from narrative observations, not whether he produces a propositional syllogism from the text. The rubric bends here, and the score reflects narrative-appropriate evaluation. The Wednesday night teaching genre further reduces the exhortation expectations in categories 4 and 5 — this is acknowledged but the scores are not inflated for it. The evaluation reflects the manuscript as written.
+
