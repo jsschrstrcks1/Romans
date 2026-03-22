@@ -134,3 +134,232 @@ I think we can all do better here. Myself included. All of us as a church. All t
 All of that starts with a relationship with God though, and if you’ve never come to a point in your spiritual life where you’ve asked Jesus to pay the price for your sins, then today is the day. Come talk to me. Or come on up to the altar and talk to God. Christian, if you realize you have things in your life you need to confess to God, areas where you’re weak, , then friend, don’t walk away from this moment unchanged. If you realize there are things in your life that God hates—things that cost Jesus everything—then come to Him. Bring your sin. Bring your shame. Bring your cold heart. And find that the One who drank the cup of God’s wrath is still offering grace.
 
 Wont you come?
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Verdict Title:** Pastoral Heart, Thin Exposition — A Topical Meditation Wearing Romans 3's Clothes
+
+**One-Sentence Summary:** A sermon with genuine pastoral warmth and vivid illustrations on the wrath of God that derives its argument more from martyrology and theological reflection than from the text of Romans 3 itself, leaving the congregation moved but underexposed to what the passage actually argues.
+
+---
+
+### Berean Gate
+
+**Scopus Test:** The sermon's thesis — "God's wrath is just, infinite, and holy, and Christ absorbed it so we don't have to" — is broadly compatible with Romans 3 but is not specifically derived from Romans 3's own argument. The passage (Romans 3:9–26) argues that all humanity is under sin (vv. 9–20), that righteousness now comes apart from law through faith in Christ (vv. 21–26), culminating in the demonstration of God's justice in the propitiation. The sermon does not trace this argument. No specific verse from Romans 3 is cited, quoted, or exposited. The sermon uses Romans 3 as a topical launching pad rather than as the text under proclamation.
+
+**Authority Test:** The preacher does not stand above the text as editor — he is not softening or reframing Scripture. But he does effectively bypass the text. The sermon's content could have been preached from Romans 1:18 or Hebrews 10 with no substantive change.
+
+**Gate Ruling:** Conditional Pass — the sermon is not unfaithful to Scripture, and the subject matter is drawn from the broader Romans context. However, it operates as a topical sermon on wrath rather than an exposition of Romans 3. This is disclosed to the preacher, and scoring proceeds with the understanding that Exposition scores will reflect this structural reality.
+
+---
+
+### Fatal Flaw Flags
+
+- **Flag 1 — No clear gospel presentation:** Partially triggered. The gospel is present but compressed into a brief passage about Jesus drinking the cup of wrath and "Tetelestai." Justification by faith is mentioned but not explained with clarity. The invitation is present. Flag is *partial* — score cap not applied, but a deduction is warranted.
+- **Flag 2 — Main point does not equal text's point:** Triggered. The sermon's main point (God's wrath is just and holy; Christ absorbed it) is not the specific argument of Romans 3. Score is not capped at 69 because the subject is not fabricated — it is present in the broader passage — but this is the sermon's most significant structural weakness.
+- **Flags 3–6:** Not triggered.
+
+*No full fatal flaw cap is applied, but Flag 2 is formally noted and reflected in the Exposition score.*
+
+---
+
+### Score Breakdown
+
+**1. Exposition & Hermeneutics (25 pts)**
+
+| Subcategory | Score | Max | Notes |
+|---|---|---|---|
+| Textual Fidelity | 3 | 10 | Romans 3 is never quoted or exposited. The text functions as a chapter reference, not a source of argument. Habakkuk 1:13, Psalm 5:4, Isaiah 6:3, 1 John 1:5, and Colossians 3 are referenced, but not Romans 3. |
+| Contextual Awareness | 2 | 5 | The broader Pauline argument about wrath is implicitly present, and there is awareness of Romans as a series, but Romans 3's specific argument (indictment of all, then propitiation) is not engaged. |
+| Exegetical Clarity | 2 | 5 | "Tetelestai" is handled well and correctly. The ChatGPT citation for the definition of sin is theologically serviceable but methodologically odd. No Greek work on Romans 3 proper. |
+| Logical Faithfulness | 3 | 5 | The logic of wrath → cost → Christ's absorption → hope is sound. No eisegesis detected, but the argument is constructed topically, not textually. |
+| **Subtotal** | **10** | **25** | |
+
+**Fallen Condition Focus (Chapell):** Present — human sinfulness before God's holiness. But it arrives by assertion rather than by text. The FCF is stated, not discovered from the passage.
+
+---
+
+**2. Theology & Doctrinal Integrity (18 pts)**
+
+| Subcategory | Score | Max | Notes |
+|---|---|---|---|
+| Christ-Centeredness | 6 | 7 | Christ is genuinely central. The cup of wrath, Tetelestai, penal substitution, and adoption language ("hidden with Christ in God") are all present and well-placed. |
+| Redemptive-Historical Awareness | 2 | 3 | Martyrs are used well to illustrate endurance, but redemptive-historical movement (law → fulfillment → new covenant) is not explicitly traced. |
+| Doctrinal Precision | 3 | 4 | Penal substitution is affirmed. Definite atonement is explicitly argued ("He paid the price for all of the Christians past, present, and future") — which is a theologically precise and confessionally consistent position, and the reasoning given (it would be unjust to punish twice) is sound. |
+| Confessional Alignment — 1689 Pulse | 3 | 4 | Definite atonement, penal substitution, and adoption language all align with confessional theology. No contradictions detected. The "ask Jesus into your heart" register of the invitation is mildly below confessional precision. |
+| **Subtotal** | **14** | **18** | |
+
+---
+
+**3. Gospel Centrality & Force (15 pts)**
+
+| Subcategory | Score | Max | Notes |
+|---|---|---|---|
+| Clarity of the Gospel | 3 | 5 | The mechanics of penal substitution are present, and "Tetelestai" is handled well. But justification by faith is not clearly articulated — the hearer is told Christ paid the price but not clearly told what it means to be justified, how faith receives, or what repentance looks like. |
+| Necessity of Christ | 5 | 5 | Christ is entirely necessary to the sermon's argument. Without him, there is no hope against the infinite wrath described. This is the sermon's clearest strength. |
+| Cross-Centered Gravity | 4 | 5 | The sermon moves toward the cross, not morality. The final call does drift slightly toward moral improvement ("Can we do better?") before arriving at the invitation. |
+| **Subtotal** | **12** | **15** | |
+
+**Synagogue Test:** A devout moral theist would be offended by the necessity of Christ's blood. The cross is not decoration here. Test: passed.
+
+**Law/Gospel Dialectic:** The law (wrath, justice, infinite guilt) lands with significant force before the gospel relieves it. The hammer and the balm are both present, in correct order. Well done.
+
+---
+
+**4. Conscience & Applicatory Force (15 pts)**
+
+| Subcategory | Score | Max | Notes |
+|---|---|---|---|
+| Heart Penetration | 4 | 5 | The toothpaste illustration opens the heart. The death row analogy is effective. The Bunyan material is genuinely moving. The preacher does reach the affections, not merely the intellect. |
+| Specificity | 3 | 5 | The cursing example is specific. The call to pursue God more deeply is somewhat generic ("Myself included, we can all do better"). The application paragraph is more encouragement than precision. |
+| Spiritual Differentiation | 2 | 5 | The sermon addresses primarily the believer and the unconverted in the invitation. The backslider, the hardened, the intellectually convinced but unhumbled — these categories receive no distinct address. The Perkins grid is nearly absent. |
+| **Subtotal** | **9** | **15** | |
+
+**Perkins Categories addressed:** The ignorant but teachable (implied), the believer (primary audience), and the unconverted (at invitation). The knowledgeable but unhumbled, the backslider, and the humbled-but-not-yet-believing receive no distinct address.
+
+---
+
+**5. Exhortation & Response (8 pts)**
+
+| Subcategory | Score | Max | Notes |
+|---|---|---|---|
+| Call to Response | 3 | 4 | The invitation is present and warm: "Come talk to me. Come to the altar." For believers: "Are you going to follow Jesus this week?" But the specific content of response (what repentance looks like, what faith grasps) is underdeveloped. |
+| Equipping for Holiness & Witness | 2 | 4 | The tools are listed (Spirit, Word, community, prayer, worship) but not developed into a robust equipping. The congregation is comforted more than commissioned. |
+| **Subtotal** | **5** | **8** | |
+
+---
+
+**6. Structure & Logical Flow (9 pts)**
+
+| Subcategory | Score | Max | Notes |
+|---|---|---|---|
+| Clarity of Outline | 2 | 4 | No discernible outline. The sermon moves: introduction → wrath defined → nature of wrath (illustrations) → martyrs → the cup of wrath → Christ → application → invitation. This is an organic flow but not a traceable structure. |
+| Progression | 2 | 3 | The movement from "wrath is real" to "Christ absorbed it" to "respond" is a sound arc. But the martyrology section (Jan Huss, Germanicus, John Fisher, Bunyan) is extensive and disrupts the flow. |
+| Unity | 2 | 2 | One dominant idea throughout: God's wrath is just, Christ drank it, live accordingly. Unity is the sermon's structural strength. |
+| **Subtotal** | **6** | **9** | |
+
+---
+
+**7. Illustration & Imagination (5 pts)**
+
+| Subcategory | Score | Max | Notes |
+|---|---|---|---|
+| Relevance | 2 | 2 | Toothpaste, magnets, pickles, the death row analogy, the surgeon and cancer — these are well-chosen and accessible. The telescope/galaxy illustration is vivid and effective. |
+| Clarity | 2 | 2 | Each illustration illuminates its point without competing with it. The cancer surgeon analogy is particularly well-constructed. |
+| Memorability | 1 | 1 | The cup of wrath, the death row analogy, and the telescope image are all highly memorable. |
+| **Subtotal** | **5** | **5** | Full marks — this is the sermon's strongest technical category. |
+
+---
+
+**8. Sermonic Force (5 pts)**
+
+| Subcategory | Score | Max | Notes |
+|---|---|---|---|
+| Reads as Preaching | 2 | 2 | Strong oral cadence. Direct address throughout. The manuscript clearly belongs to a spoken sermon, not an essay. "Someone tell me what infinite means." "Are you going to follow Jesus this week?" These are preaching moments. |
+| Conviction on the Page | 1 | 2 | Conviction is present but uneven. The Bunyan section is powerful. The application section becomes listy and pastoral in a comfortable way that slightly reduces pressure. |
+| Cadence and Breath | 1 | 1 | Sentence variation is present. The short declarative punches ("God is just in His wrath towards us." "Sin is a contradiction of His holiness.") work well. |
+| **Subtotal** | **4** | **5** | |
+
+---
+
+### Cognitive Load Modifier
+
+**Score: 0**
+
+The sermon is well-paced and accessible. The congregation of ordinary hearers — the new believer, the single mother, the high schooler — can follow this sermon from beginning to end. No deduction applied.
+
+---
+
+### Raw Score Calculation
+
+| Category | Score | Max |
+|---|---|---|
+| Exposition & Hermeneutics | 10 | 25 |
+| Theology & Doctrinal Integrity | 14 | 18 |
+| Gospel Centrality & Force | 12 | 15 |
+| Conscience & Applicatory Force | 9 | 15 |
+| Exhortation & Response | 5 | 8 |
+| Structure & Logical Flow | 6 | 9 |
+| Illustration & Imagination | 5 | 5 |
+| Sermonic Force | 4 | 5 |
+| **Subtotal** | **65** | **100** |
+| Cognitive Load Modifier | 0 | 0 |
+| **Total** | **65** | **100** |
+
+**Weight of Glory Bonus:** +2. The Bunyan passage carries genuine eternal weight. The image of Christ drinking the full cup of wrath is preached with appropriate gravity. God is not manageable in this sermon. Partial bonus awarded.
+
+**Final Score: 67 / 105**
+
+**Interpretation: Concerning Gaps — the sermon explains and moves but does not fully preach. Significant revision needed, primarily in exposition and applicatory differentiation.**
+
+---
+
+### Dead Orthodoxy Detection
+
+**Not triggered.** The sermon has pastoral heat and genuine gospel warmth. The fire is present. The problem is not bloodlessness but textual thinness — a different deficiency.
+
+---
+
+### Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily Christ. The martyrology section could tip toward admiration of human courage, but the preacher consistently redirects to Jesus. Answer: Yes.
+2. **Did I encounter God, or just ideas about Him?** Partly. The wrath of God is made vivid. The gospel is proclaimed. But the encounter is mediated more through story and illustration than through the text itself. Answer: Partially.
+3. **Was I comforted, convicted, or merely informed?** Both convicted (the wrath is infinite, you deserve it) and comforted (Christ drank the cup). Not merely informed. Answer: Yes.
+
+---
+
+### Strengths (Top 3)
+
+1. **Penal substitution preached with clarity and force.** The "cup of wrath" image — built up through the martyrs' ability to endure physical suffering, then turned to show that Christ's agony was not the physical suffering but the cup of divine wrath — is theologically precise and pastorally moving. This is the sermon's best moment.
+2. **Illustration quality is exceptional.** The cancer surgeon, the telescope, the magnet, the death row analogy, and the Bunyan story are all native to this sermon's argument. They are not interchangeable filler.
+3. **Definite atonement articulated accessibly and correctly.** The argument that universal atonement would make hell unjust is theologically precise, confessionally consistent, and delivered without becoming a lecture.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **Romans 3 is absent from its own sermon.** Not a single verse from Romans 3 is quoted, cited, or exposited. The passage is named in the introduction and nowhere else. This is not exposition — it is topical preaching using a chapter reference as cover. The congregation did not hear Romans 3 preached.
+2. **Application does not differentiate hearers.** The closing application addresses "all of us" uniformly — "I think we can all do better here. Myself included." This collapses the distinction between the hardened sinner, the struggling saint, the backslider, and the seeker into one homogeneous address. Perkins' taxonomy is almost entirely absent.
+3. **Justification by faith is assumed, not proclaimed.** The sermon tells listeners that Christ paid the price, but the mechanism of justification — how a sinful person is declared righteous before God through faith — is not clearly explained. A hearer could leave knowing Christ died for sin without knowing how that death is applied to them.
+
+---
+
+### Blind Spots
+
+The preacher likely does not see how thoroughly he has departed from the text. The sermon *feels* textual because it is deeply theological and Scripture-saturated in spirit. But the Romans 3 passage has not been opened. The congregation heard a sermon about God's wrath with biblical illustrations; they did not hear Romans 3 proclaimed.
+
+---
+
+### Illusion of Strength
+
+The martyrology section *feels* like powerful exposition because it is emotionally resonant and theologically connected. But it consumes a large portion of the sermon's center and serves primarily to illustrate the contrast between suffering-for-Christ and capitulating-to-sin. It is pastoral illustration wearing the clothes of theological argument. The Bunyan material in particular is well-chosen but over-length — it becomes the sermon's center of gravity at the expense of the text.
+
+---
+
+### Missed Opportunity
+
+Romans 3:9–20 — the indictment of all humanity under sin — is the greatest catalogue of human depravity in the New Testament, drawn from five Old Testament passages. This is the text's own hammer. The preacher constructed his hammer from A.W. Pink, Paul Washer, and personal illustration. The text itself was the more powerful instrument, and it was never lifted.
+
+Romans 3:25–26 — the demonstration of God's justice *in* the propitiation, showing that God was both just *and* the justifier — is the passage's theological apex. It directly answers the sermon's central question ("How can God be both wrathful and merciful?") with precision the sermon reaches for but misses because it does not open the text at this point.
+
+---
+
+### Surgical Fixes
+
+1. **Open Romans 3.** Read Romans 3:9–20 aloud as the law section — let the indictment land from the text itself. Then move to vv. 21–26 as the gospel. The passage does the work the preacher is currently doing with illustrations.
+2. **Add differentiated application after the gospel section.** Address at minimum: (a) the self-righteous church member who thinks their sin is minor; (b) the believer who is struggling with assurance; (c) the unconverted. Three paragraphs, three distinct addresses, none of them "we can all do better."
+3. **Clarify the mechanism of justification.** After the "Tetelestai" section, add one paragraph explaining how Christ's absorbing of wrath is applied to the sinner — through faith, by grace, resulting in the declaration of righteousness. The illustration of "hidden with Christ in God" is already present; the doctrinal explanation of *how one gets there* is missing.
+4. **Trim the martyrology section.** Keep Bunyan (it is the strongest). Cut or sharply condense Germanicus, John Fisher, and Jan Huss. The cumulative effect is powerful but the length disrupts the sermon's momentum. One martyr, developed fully, is more powerful than four, listed.
+5. **Give Romans 3:25–26 its own treatment.** The word "propitiation" — hilasterion — is Paul's answer to the entire setup. The preacher has built the setup brilliantly. The answer from the text is never given.
+
+---
+
+### Weight of Glory Assessment
+
+The eternal gravity is present but uneven — the Bunyan section and the cup-of-wrath image carry genuine weight, but the closing application slides into comfortable pastoral encouragement that slightly dissipates the gravity the sermon has built.
+
+---
+
+### Rubric Fit Note
+
+This rubric fits the passage (Romans 3) well — it is doctrinal, gospel-centered, and applicatory. The rubric does not strain against the genre. The strain is between the rubric's requirements for textual exposition and the sermon's actual departure from the text. That gap is the sermon's defining weakness and should be the preacher's first revision priority.
