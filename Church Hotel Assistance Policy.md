@@ -1875,6 +1875,138 @@ Apply for SNAP, Medicaid, cash assistance
 
 ---
 
+## Thus Says the Lord — Sermon Evaluation
+
+**Genre Note**: This is not a sermon. It is a church policy document with a biblical foundation section, operational guidelines, and a Pasco County community resource appendix. The Thus Says the Lord rubric was built to evaluate expository sermon manuscripts — evaluating textual fidelity, gospel centrality, exhortation, sermonic force, and conscience-level application. Most of those categories do not apply here in any direct sense. What follows is an adapted assessment of the document's theological integrity, biblical reasoning, and pastoral faithfulness — using only those rubric categories that are relevant to this genre, with explicit notes where categories are inapplicable. No numerical score is assigned. A score would be a category error.
+
+---
+
+**Verdict Title**: Theologically Grounded, Pastorally Serious, Practically Thorough — A Rare Policy That Does Not Strip the Bible of Its Force
+
+**One-Sentence Summary**: A church benevolence policy that handles Scripture with genuine exegetical care, resists both sentimentality and cold institutionalism, and equips leadership to love the homeless among them with clear eyes and open hands.
+
+---
+
+### Berean Gate — Adapted
+
+The rubric asks: *Is the main point of the document the main point of the text?* and *Does the author stand under the Word as a herald, or above it as an editor?*
+
+This is a policy document, not a sermon, so the Berean Gate cannot be applied literally. But an analogous question can be asked: *Does the biblical foundation actually drive the policy, or is it decorative?*
+
+**Answer: The Scripture drives the policy.** This is not a business document with Bible verses stapled on. The opening section states this directly — "This policy is not a business decision with Bible verses attached. It is a biblical conviction with practical structure built around it." And the document delivers on that claim. James 2:15-16 generates the non-negotiable obligation to act. Galatians 6:10 generates the priority structure (household of faith first). Proverbs 27:12 generates the proactive weather-trigger system. Luke 14:28 generates the limit structure. 1 Timothy 5:8 generates the eligibility criteria and the graduated responsibility model. 2 Thessalonians 3:10 generates the distinction between those who cannot work and those who will not. Romans 14:15,19 generates the posture of service.
+
+Each policy decision can be traced to a specific text. That is not decoration. That is theological derivation.
+
+**No fatal flaw equivalent is triggered.** The document does not contradict Scripture; it reasons from it.
+
+---
+
+### Theology & Doctrinal Integrity — Applicable with Caveats
+
+This is the most directly applicable rubric category for a policy document with a stated biblical foundation.
+
+**What is present and strong:**
+
+- **Doctrinal precision on the distinction between mercy and sentimentality.** The document handles the tension between James 2 (we must help) and 2 Thessalonians 3:10 (those who will not work should not be carried) without collapsing either side. It does not weaponize 2 Thessalonians 3:10 against the disabled or the suffering — it explicitly limits it to those who *will not* engage, not those who *cannot*. That is exegetical responsibility.
+
+- **Correct use of 1 Timothy 5.** Paul's instructions to Timothy about the widows list — with its criteria, its verification requirement, its graduated family responsibility — is correctly applied here as a model for structured mercy, not cold bureaucracy. The document captures Paul's logic: structured care protects the truly destitute from being crowded out by those with other options.
+
+- **The order of love in Galatians 6:10 is handled carefully.** The document does not say *only* the household of faith; it says *especially*, which is what Paul says. It correctly distinguishes a priority structure from exclusion.
+
+- **Confessional alignment.** The document is consistent with Reformed Baptist ecclesiology throughout — the church as covenant community, membership as the activation of mutual obligation, the board (not the pastor alone) as the governing body. There is no drift into parachurch or social-agency thinking.
+
+**What is present but underdeveloped:**
+
+- **The gospel is assumed, not proclaimed.** The document refers to the church's mission to "make disciples, not a substitute for it" and calls hotel assistance "an extension of the church's mission." But there is no explicit articulation of what it means for material aid to be integrated with gospel witness. The document tells leaders what *not* to do (be a social services agency) without telling them what *to* do when the woman in the hotel room needs more than a dry bed. A brief note on how to hold together physical care and the word of the gospel — not as a requirement to earn help, but as the natural overflow of shepherding — would sharpen this.
+
+- **The posture section (Romans 14) is excellent in spirit but the connection to the text is slightly soft.** Romans 14 is about the strong surrendering preferences for the weak in matters of Christian liberty. The application here — that we serve with the posture of those who have been loved at infinite cost — is theologically true and pastorally beautiful, but it is more a theological inference than a direct exegetical move from that text. This is not a serious problem; it is a minor rubric note.
+
+---
+
+### Conscience & Applicatory Force — Adapted
+
+The rubric asks whether a sermon presses the conscience, differentiates hearers, and moves from doctrine to specific uses. For a policy document, the analogous question is: *Does this document actually shape the conscience of those who will administer it, or does it only regulate behavior?*
+
+**This document does more than regulate.** The "Final Word" section and the posture section (Romans 14) address the heart of the administrator, not just the mechanics of the decision. Statements like "not grudgingly, not with condescension, but with the posture of those who have themselves been loved at infinite cost" and "If the fund is empty, the decision is made" — these are not rules. They are conscience-forming statements.
+
+The section "If the fund is empty, the decision is made" is particularly strong. It does not leave leaders to agonize over what to say when resources run out. It gives them the words. That is pastoral care for those making the decisions, not just those receiving help.
+
+**Where this could go deeper:** The document does not address the psychological and spiritual cost to leadership of repeatedly shepherding people in chronic crisis. There is no provision for what happens when leaders grow compassion-fatigued, resentful, or burned out. A brief acknowledgment that this work is hard — and that the church must also care for those doing the caring — would make the document more complete.
+
+---
+
+### Structure & Logical Flow — Applicable
+
+The rubric rewards clarity of outline, logical progression, and unity of purpose. Policy documents have their own structural demands, but the principles apply.
+
+**Strengths:**
+- The document has a clear hierarchy: Biblical Foundation → Guiding Principles → Eligibility → Triggers → Limits → Process → Beyond the Hotel Night → Fund Management → Review. This is logical and traceable.
+- The summary table at the end is genuinely useful. A leader under pressure at 11pm can find the rules in 30 seconds.
+- The distinction between cold weather protocol and hurricane protocol is clean and operationally precise.
+
+**One structural note:**
+The "Protection of Single Women During Storms" section appears after the storm trigger section and somewhat overlaps with the note embedded within the trigger section. These could be consolidated for cleaner reading, but this is a minor editing observation, not a doctrinal concern.
+
+---
+
+### Categories Not Applicable to This Genre
+
+The following rubric categories are inapplicable to a policy document and are noted here only for transparency:
+
+- **Exposition & Hermeneutics (25 pts)**: Not applicable. There is no extended passage being preached. The biblical foundation cites texts, but this is not expository preaching.
+- **Gospel Centrality & Force (15 pts)**: Partially applicable (see theology section above), but the categories of "clarity of justification," "cross-centered gravity," and the Synagogue Test are not meaningful evaluative tools for a benevolence policy.
+- **Exhortation & Response (8 pts)**: Not applicable in the sermonic sense. The document implicitly calls for action by defining what action looks like, but it does not have an imperative edge in the homiletical sense.
+- **Illustration & Imagination (5 pts)**: Not applicable.
+- **Sermonic Force (5 pts)**: Not applicable. The document is prose, not oral proclamation. It does not need to read like preaching.
+- **Weight of Glory / Bonus (5 pts)**: This cannot be meaningfully applied to a policy document, though it is worth noting that the document does carry something of its spirit — particularly in the closing paragraph, which is genuinely pastoral rather than bureaucratic.
+- **Cognitive Load Modifier**: Not directly applicable, though the summary table effectively addresses this concern for the operational portions of the document.
+
+---
+
+### Strengths (Top 3)
+
+1. **The biblical foundation section is exegetically responsible.** Each cited text is correctly interpreted and correctly applied. The 2 Thessalonians 3:10 handling is especially careful — the document explicitly protects the disabled and limited from being harmed by a text that is sometimes weaponized against them. This is the kind of textual care that distinguishes a policy written by a pastor from one written by an administrator.
+
+2. **The policy holds the tension between compassion and stewardship without collapsing into either sentimentality or coldness.** The line "Love without limits is not biblical love — it is sentimentality" would not be out of place in a sermon on Luke 14. The document takes the stewardship warnings of Scripture seriously without using them as an excuse to do nothing.
+
+3. **The community resource appendix is extraordinary.** It is not a footnote or a gesture. It is a working tool: addresses, hours, phone numbers, eligibility criteria, the CES navigation process, FEMA TSA details, IRC Section 139. The document's instruction to "go with them" — not hand someone a phone number and wish them well — is the gospel embodied in institutional form. A church that follows this document will not just give hotel nights; it will walk people toward stability.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **The gospel integration is underdeveloped.** The document correctly identifies that the church is not a social services agency, but it does not articulate a positive vision for how the word of the gospel accompanies physical care. What does it look like for a deacon to sit with a woman in a hotel room the church just paid for and speak to her soul? The document leaves this entirely to implication and pastoral wisdom, which is appropriate to a degree — but a brief framework (not a script, but a posture) would strengthen the document's missionary coherence.
+
+2. **There is no provision for member accountability within ongoing assistance.** The document requires that those receiving help be pursuing stability, and it notes that leadership must have honest conversations if someone refuses to take steps. But it does not describe what those conversations look like, who holds them, or what happens if someone repeatedly receives help while refusing to engage. A member who has received 8 hotel nights over 4 months and has not filled out a single housing application presents a pastoral challenge the policy names but does not resolve.
+
+3. **The policy has no section on confidentiality.** Who knows who has received hotel assistance? Is this disclosed to the full board, to the congregation, to a smaller circle? The tracking and reporting requirements (quarterly business meetings) could create situations where vulnerable members feel exposed. A brief confidentiality provision — specifying that individual cases are not identified publicly even as aggregate numbers are reported — would protect both member dignity and pastoral trust.
+
+---
+
+### Blind Spots
+
+- **The definition of "regular attendee" (three months, known to leadership) will be harder to apply than it appears.** In a small church, everyone is known — but "known" can mean very different things. A person who has attended for 14 weeks but has never had a real conversation with a pastor may technically qualify; a person who attended for two months a year ago and has come sporadically since may not. Leadership will need to exercise wisdom this rubric cannot fully script, but the document would benefit from noting this tension explicitly.
+
+- **The policy assumes the benevolence fund is distinct and tracked separately.** If it is commingled with other discretionary funds, the annual cap and quarterly reporting requirements become harder to enforce. This is an operational assumption worth naming.
+
+---
+
+### Missed Opportunity
+
+The section "Beyond the Hotel Night" is the strongest pastoral section in the document. But it appears after the operational rules and reads somewhat like an appendix. The principle embedded there — that the church's goal is stability, not recurring emergency intervention — should be surfaced earlier and stated more prominently, perhaps as a guiding principle (#6) rather than a separate section. The hotel night is not the point. The relationship that surrounds it is the point.
+
+---
+
+### Weight of Glory Assessment
+
+This document carries something its genre rarely does: genuine pastoral love held in careful institutional form. The "Final Word" section does not read like legal boilerplate — it reads like a shepherd who has sat up late with someone who had nowhere to sleep. That is not nothing.
+
+---
+
+### Rubric Fit Note
+
+This rubric was not designed for policy documents and was applied here with significant adaptation. The categories most native to the rubric — expositional faithfulness, sermonic force, gospel proclamation, conscience-level exhortation — do not translate directly. What does translate is the rubric's underlying conviction: that everything the church does should be text-governed, theologically precise, and pastorally serious. By those standards, this document performs well. It reasons from Scripture honestly, applies it carefully, and refuses to let either compassion or stewardship become an idol. That is a meaningful achievement for a genre that is rarely evaluated with theological rigor.
+
 **Notes for Leadership**
 
 1. **This list will go stale.** Hours change, organizations close, new ones open. Review and update at least annually. **Call before sending someone.**
