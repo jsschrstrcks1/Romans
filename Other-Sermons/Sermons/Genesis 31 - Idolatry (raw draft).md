@@ -136,3 +136,201 @@ I was furious this week. After ruining some electrical stuff last year, this one
 - Conversational tone and sentence fragments preserved throughout
 - "sketchy stuff" — colloquial but authentic to oral delivery
 - The four-entity categorization left in the body text (flagged here but not corrected inline — it's a teaching simplification, not an error that changes the point)
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### Verdict Title
+
+**A Pastoral Window Into the Text, Truncated Before It Preaches**
+
+### One-Sentence Summary
+
+A warmly accessible evening sermon that correctly identifies idolatry and Rachel's teraphim as its subject, opens useful exegetical observations, and touches the gospel — but ends mid-thought before it has had the chance to search the conscience, exhort the congregation, or climax.
+
+---
+
+### Berean Gate — Pass/Fail
+
+**PASS — with a caution.**
+
+The Scopus Test: The sermon's working thesis is that idolatry is demonic in origin, God uses imperfect people anyway, and the household gods of Genesis 31 are a window into the same compromise that plagues believers today. This does arise from the passage, and the preacher is clearly under the text rather than above it.
+
+The Authority Test: The preacher submits to the text's uncomfortable claims — witchcraft is demonic, not neutral; Rachel is genuinely complicit; God's use of broken people does not sanitize their sin. He does not soften these.
+
+Caution: The sermon is a raw transcript that ends mid-sentence. The Berean Gate passes the material that exists, but the sermon never had the opportunity to deliver its payload. This evaluation assesses what was preached, not what may have been intended.
+
+---
+
+### Fatal Flaw Flags
+
+**Score is capped at 69.**
+
+The following flags are triggered:
+
+**Flag 4 — Application is entirely generic.** The application that exists ("we hate the sin, love the sinner, share the gospel, disciple the sinner") is theologically correct but functionally generic. No specific call is pressed. No conscience is cornered. The "God uses imperfect people" point never lands with force on any particular category of hearer in the room.
+
+**Flag 5 — No actual exhortation.** The sermon explains (teraphim, divination, the cycle of idolatry), briefly touches the gospel, and then cuts off. There is no "therefore" moment. There is no summons. The congregation was informed but never called. The preacher never tells the people what they must now believe, repent of, obey, or pursue.
+
+**Flag 6 — Cognitive overload risk (partial).** Not triggered fully — the individual sections are accessible — but the sermon bounces between backstory, Rachel's motive, the angelic/demonic taxonomy, the cycle of idolatry in Israel, God using imperfect people, and a personal anecdote with no integrating thread pulling them together into a unified sermon. An ordinary hearer would struggle to name the one thing they were meant to take home.
+
+Score is accordingly **capped at 69**.
+
+---
+
+### Score Breakdown
+
+**1. Exposition & Hermeneutics — 16 / 25**
+
+- Textual Fidelity: 7/10. The sermon does derive its argument from Genesis 31:4-21. The teraphim observation (v.19) is genuinely exegetical and more than most preachers would notice. The backstory (Gen 30/31:41) is handled accurately. However, the sermon never moves through the passage in any traceable sequence — it extracts and then departs. Much of Genesis 31:4-18 (Jacob's dream, the flight, Rachel's deception while sitting on the idols) is left completely untreated.
+- Contextual Awareness: 3/5. The preacher situates Rachel's act within the broader cycle of idolatry that will mark Israel for centuries — a genuine redemptive-historical instinct. But the Nuzi tablet background (inheritance rights and household gods) is unmentioned, and the text's own dramatic tension — Rachel sitting on the teraphim, lying to her father — is passed over.
+- Exegetical Clarity: 4/5. The Hebrew word teraphim is explained clearly for a lay audience. The mold/epigenetics discussion on Gen 30 is presented with appropriate tentativeness. The FCF (fallen condition focus) is implicitly present — the sermon is addressing the human tendency to hedge spiritual bets by keeping idols in reserve — but it is never named as such.
+- Logical Faithfulness: 2/5. The four-entity taxonomy, the claim that demons respond to divination because God and angels can't, and the leap from teraphim to modern wicca are all reasonable pedagogical moves but are presented as settled rather than argued. The epigenetics discussion is interesting but its relevance to the sermon's main point is never clarified.
+
+**2. Theology & Doctrinal Integrity — 13 / 18**
+
+- Christ-Centeredness: 4/7. Jesus appears, briefly and authentically — God "made a way," the substitutionary logic is stated ("we deserved death, but Christ took that punishment"), John 3:16 is quoted. This is more than some sermons manage. But Christ appears at the end of the "God uses imperfect people" section as a coda to a point about divine grace toward broken people — not as the one to whom the passage's idolatry problem drives us.
+- Redemptive-Historical Awareness: 2/3. The cycle of idolatry observation is genuinely redemptive-historical. The sermon correctly senses that Rachel's theft inaugurates something with long-term consequences.
+- Doctrinal Precision: 4/4. No theological sloppiness on the main claims. Substitution is stated plainly. The demonic nature of divination is defended, not vaguely referenced.
+- Confessional Alignment: 3/4. No contradictions to confessional theology. The forensic gospel note is present. The four-entity taxonomy is a simplification but not a contradiction of reformed angelology.
+
+**3. Gospel Centrality & Force — 9 / 15**
+
+- Clarity of the Gospel: 3/5. The gospel is stated — not merely assumed. Substitutionary death, resurrection, and faith are all present. But the gospel is presented as the conclusion to a section about God using imperfect people, not as the answer to the idolatry problem the sermon spent most of its time exposing. An unbeliever could follow the logic but might not grasp why Rachel's teraphim and Christ's cross are connected.
+- Necessity of Christ: 3/5. Christ is presented as necessary ("apart from Christ we're lost and without hope") but is not organically necessary to the sermon's argument about idolatry. The sermon could reach its "God uses imperfect people" application without the cross, and the cross does not decisively resolve the idolatry problem the text names.
+- Cross-Centered Gravity: 3/5. The cross appears. It does not function as the sermon's center of gravity. The sermon's primary emotional register is pastoral warmth toward imperfect people — which is good — but idolatry as a sin against God, requiring atonement, is not pressed.
+
+Synagogue Test: Partial flag. A devout non-Christian could sit through the "divination is demonic, don't do it" section without offense to the necessity of Christ's blood. The gospel section is distinct, but it is brief and does not connect idolatry to the need for redemption specifically.
+
+**4. Conscience & Applicatory Force — 6 / 15**
+
+- Heart Penetration: 2/5. The closest the sermon comes to pressing the conscience is the line "Don't follow their lead and engage in their practices" and the question of why Rachel "just couldn't leave" the idols behind. The personal transparency anecdote (the router/anger story) suggests the sermon may have been building toward something — but we never get there.
+- Specificity: 2/5. "We hate the sin, love the sinner" is a correct but generic summary. The Moon Lake druids reference is specific to the congregation's context, but it aims at the lost, not the congregation's own idols. No one in the room is challenged about their own teraphim.
+- Spiritual Differentiation: 2/5. The sermon speaks primarily to believers who need to avoid compromise. The gospel section briefly addresses the unconverted. No one is spoken to differently: the backslider, the hardened, the grieving, the knowledgeable-but-unmoved are all absent. Perkins' taxonomy is not engaged.
+
+**5. Exhortation & Response — 1 / 8**
+
+- Call to Response: 0/4. There is none. The sermon cuts off before the exhortation arrives. Whatever the preacher planned to say about the router, anger, and grace never gets said.
+- Equipping for Holiness & Witness: 1/4. The admonition to share the gospel with those involved in occult practices is present. No other equipping occurs.
+
+**6. Structure & Logical Flow — 5 / 9**
+
+- Clarity of Outline: 2/4. The section headings (Backstory, Rachel's Motivation, God Uses Imperfect People, Personal Transparency) are traceable on the page but do not build a unified argument. The headings are organizational buckets, not sermonic movements.
+- Progression: 1/3. The sermon moves from exposition to motivation to application to anecdote — but the moves feel episodic rather than cumulative. The idolatry thread drops while the "imperfect people" thread is picked up. The anecdote is mid-air when the transcript ends.
+- Unity: 2/2. There is a discernible subject (idolatry, specifically the household gods of Genesis 31 and their implications for believers today). The sermon does not contradict itself.
+
+**7. Illustration & Imagination — 3 / 5**
+
+- Relevance: 2/2. The Moon Lake druids are local. The router anecdote is personal. Both are from the congregation's world.
+- Clarity: 1/2. The router anecdote is promising — personal anger as a contrast to the grace the sermon has been building toward — but we don't see it completed. The mold/epigenetics illustration is interesting but departs from the sermon's main concern.
+- Memorability: 0/1. Nothing is complete enough to carry home. The anecdote has potential, but it's cut off.
+
+**8. Sermonic Force — 4 / 5**
+
+- Reads as Preaching: 2/2. This is clearly a transcript of someone speaking, not an essay. Sentence fragments, direct address, colloquial vocabulary ("sketchy stuff"), and oral transitions are all present.
+- Conviction on the Page: 1/2. Where the preacher is asserting, he asserts plainly. But the ratio of assertion to development is low — there are more facts than declarations.
+- Cadence and Breath: 1/1. Natural oral rhythm throughout. The preacher has a conversational cadence that would carry in a room.
+
+---
+
+### Cognitive Load Modifier — −1
+
+The individual sections are accessible. The overall sermon lacks a load-bearing spine that tells the hearer what everything adds up to. The backstory, the teraphim taxonomy, the demonic framework, the idolatry cycle, the imperfect people point, and the gospel note are all present but not unified. Slightly dense in aggregate. One fewer thread — or a cleaner integrating question — would help.
+
+**Modifier: −1**
+
+---
+
+### Total Score
+
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 16 / 25 |
+| Theology & Doctrinal Integrity | 13 / 18 |
+| Gospel Centrality & Force | 9 / 15 |
+| Conscience & Applicatory Force | 6 / 15 |
+| Exhortation & Response | 1 / 8 |
+| Structure & Logical Flow | 5 / 9 |
+| Illustration & Imagination | 3 / 5 |
+| Sermonic Force | 4 / 5 |
+| **Subtotal** | **57 / 100** |
+| Weight of Glory (bonus) | +1 |
+| Cognitive Load Modifier | −1 |
+| **Total** | **57 / 105** |
+
+**Fatal flaw cap applied: score reported as 57 (capped at 69).**
+
+Score band: **Below 60 — Fundamentally flawed as delivered. Rebuild from the text.**
+
+Note: This rating reflects the truncated state of the sermon. The preacher shows genuine exegetical instincts and a warm pastoral voice. The score is a function of what was delivered, not what was intended.
+
+---
+
+### Core Override Questions
+
+1. **Does this sermon make me think more of Christ — or myself?** Primarily about God's use of imperfect people — which centers on the hearer's need for grace rather than on Christ's person and work. Partially self-directed.
+2. **Did I encounter God, or just ideas about Him?** Ideas about Him. God's holiness, His hatred of idolatry, His grace toward the broken — these are stated but not felt. The sermon does not yet have the pressure needed for encounter.
+3. **Was I comforted, convicted, or merely informed?** Informed. Partially comforted (God uses broken people). Not convicted. The sermon cuts off before the conviction could arrive.
+
+---
+
+### Strengths (Top 3)
+
+1. **Genuine exegetical instinct on the teraphim.** The observation that Rachel's theft is not about monetary value — the idols are crude and cheap — and the inference about what she actually believed (power resides there) is sharp, text-grounded, and pastorally useful. Most preachers walk past v.19.
+2. **The cycle-of-idolatry observation is genuinely redemptive-historical.** The claim that Rachel's act inaugurates a recurring pattern in the nation of Israel shows the preacher reading Genesis within the larger canonical story — a instinct worth developing.
+3. **Authentic pastoral transparency.** The router anecdote, unfinished as it is, reflects a preacher willing to name his own sin in the pulpit. That kind of personal vulnerability, when it connects to the sermon's main point, is more powerful than three more exegetical observations.
+
+---
+
+### Critical Weaknesses (Top 3)
+
+1. **The sermon never arrives.** Everything that was building — idolatry, God's grace toward the imperfect, personal anger and the need for grace — was building toward something. We never get it. Even if the truncation is a transcript problem, the preacher must plan the climax and exhortation before ascending the pulpit, not discover them mid-anecdote.
+2. **The "God uses imperfect people" section disconnects from the idolatry theme without resolution.** Jacob's deceit and David's adultery are correct illustrations of God's grace toward the broken — but neither of them returns to the Rachel/teraphim question: what do we do with our own household gods? The section answers a question the passage did not primarily ask.
+3. **The conscience is never pressed.** The sermon warns the congregation not to do what lost people do — follow druids, engage in divination. But it never asks whether anyone in the room has their own version of Rachel's teraphim: the thing they can't leave behind, the substitute source of security or fertility or power that they've smuggled into their home. That is the sermon's obvious pressure point, and it is absent.
+
+---
+
+### Blind Spots
+
+The preacher likely does not see that his own application has aimed outward (don't do what the lost do, witness to the druids) while the text is aimed inward. Rachel is not a lost person — she is a woman who has been living with Jacob and hearing the promises of God for twenty years. The text's scandal is that the insider is carrying idols. That is the wound the sermon needs to open.
+
+---
+
+### Illusion of Strength
+
+The theological accuracy of the demonic framework section may feel like doctrinal solidity — and it is correct. But it functions as a wall of information about the category of sin rather than a searching of the conscience about the sin itself. The congregation has been taught about witchcraft; they have not been confronted about their own idolatry.
+
+---
+
+### Missed Opportunity
+
+The moment Rachel sits on the teraphim and lies to her father while they are literally beneath her is one of the more psychologically vivid scenes in Genesis — and it is passed over entirely. A woman so attached to her household gods that she will deceive her own father to protect them, sitting on them, hiding them with her body. That is a picture of what idolatry does to the soul: it makes us protect the idol at the cost of integrity, relationship, and freedom. The sermon does not use this.
+
+---
+
+### Surgical Fixes
+
+1. **Finish the sermon.** The router anecdote is the right move — personal transparency about unrighteous anger, presumably leading to a point about needing the same grace as the imperfect people the sermon has catalogued. Complete it. Connect it explicitly to the idolatry theme: "What is your teraphim? What do you carry that you know you shouldn't — because some part of you still believes there's power there?"
+2. **Press the conscience inward.** After the section on divination and the warning about lost people, turn the question: "But what about us? What are the things we carry that we know we ought to have left behind?" Name specifics: social media addiction, financial security hoarded against trusting God, relationships we know are pulling us away from worship. Make someone feel cornered.
+3. **Connect the cross to the idolatry problem specifically.** The gospel currently answers the "God uses imperfect people" question. It should also answer the idolatry question: Christ did not simply use imperfect people — He freed them from what enslaved them. Rachel couldn't leave the idols. You have things you can't leave. The cross is the power by which those things are broken, not just forgiven.
+4. **Add a "therefore" exhortation.** Before the benediction: "Tonight, I want to ask you to go home and find your teraphim. Not theirs — yours. Identify the thing you've been carrying. Bring it to God and lay it down." Specific, actionable, connected to the text.
+5. **Simplify the angel/demon taxonomy.** Reduce this to one sentence: "Divination seeks power from a source other than God, and the only non-God source of supernatural power in Scripture is demonic." The four-category framework is a detour that slows the sermon and introduces a minor theological imprecision. Let it go.
+
+---
+
+### Dead Orthodoxy Flag
+
+Not triggered. The sermon is too warm and too incomplete to qualify as dead orthodoxy. The risk here is not bloodless correctness — it is a structurally unfinished sermon that has not yet become preaching.
+
+---
+
+### Weight of Glory Assessment
+
+The sermon carries pastoral warmth and a genuine sense that God is gracious toward broken people — but the truncation prevents it from arriving at the weight a sermon on idolatry should carry. There is unction in the voice, but the sermon never reaches the moment where it would be felt.
+
+---
+
+### Rubric Fit Note
+
+Genesis 31 is narrative — a family conflict embedded in a larger patriarchal story. The rubric applies reasonably well, though the FCF (fallen condition: idolatry as an instinct that persists even among the people of God) must be drawn out from narrative detail rather than stated propositions. The raw transcript format also means this evaluation is assessing a partially-delivered oral document, not a finished manuscript. The score reflects that context.
