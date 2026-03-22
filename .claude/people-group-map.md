@@ -77,13 +77,14 @@
 | 52 | Uyghur | China (Xinjiang) | ~13M | <0.01% | Xinjiang internment camps; severe government persecution | Frontier | `Esther 4 - For Such a Time as This.md` |
 | 53 | Xiaoliangshan Nosu | China | ~549K | ~0.1% | Practiced slavery system until 1949; complex caste system still present; pray for Han Chinese believers to evangelize, Nosu believers to find fellowship, overcome class consciousness | Frontier | `Ordo Solutis Romans 8.md` |
 | 54 | Zaza-Dimli | Turkey | Unknown | 0% known | Alevi Shiites; fierce warriors; Kurdish language distinct; few if any believers | Frontier | `Sermon - Bless the Lord O My Soul.md`, `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` |
+| 55 | Kurds (broadly) | Turkey, Iran, Iraq, Syria, Armenia, Azerbaijan | ~30–45M | <0.1% | Sunni Muslim majority; no homeland of their own — Allied powers post-WW2 split tribal/city boundaries across six countries; many relocated to Kabul seeking freedom; historically connected to the Medes and Persians (the Magi's homeland); church in Afghanistan among fastest-growing in the world; Kurdish women prominent in Aug 2021 Taliban evacuation crisis — mothers handing babies to US soldiers over perimeter fence; Taliban letters demanding Christians leave or die; ⚠️ "8 million" figure from pulpit is unverified — est. global Kurdish population 30–45M; see also Zaza-Dimli (#54) for related Kurdish-language sub-group | Frontier | `1 john 2 1-6 lakeview.md` |
 
 ---
 
 ## Summary Statistics
 
-- **Total people groups prayed for**: 54
-- **Frontier (<0.1% Christian)**: 44
+- **Total people groups prayed for**: 55
+- **Frontier (<0.1% Christian)**: 45
 - **Unreached (<2% Christian)**: 9
 - **Unknown/Unverified**: 1 (Mo-Jer-Hai)
 - **Minimally Reached (2–5%)**: 0

@@ -13,7 +13,7 @@ description: "Sermon mapping and indexing skill. Maintains sermon-map.md, theolo
 
 This skill maintains `.claude/sermon-map.md` as the single source of truth for the sermon inventory. It also maintains cross-references to `.claude/theological-map.md`, `.claude/series-trajectory.md`, and `.claude/date-map.md`.
 
-Nine operations: **INDEX**, **UPDATE**, **AUDIT**, **CONNECT**, **GAP**, **DEDUP**, **DATE**, **QUOTE**, **ILLUSTRATE**.
+Ten operations: **INDEX**, **UPDATE**, **AUDIT**, **CONNECT**, **GAP**, **DEDUP**, **DATE**, **QUOTE**, **ILLUSTRATE**, **COVERAGE**.
 
 ### Relationship to Other Skills
 

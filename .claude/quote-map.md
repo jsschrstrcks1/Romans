@@ -61,6 +61,14 @@
 
 ---
 
+### Corrie ten Boom
+
+| # | Quote | Source | Verification | Used In | Count |
+|---|-------|--------|-------------|---------|-------|
+| 1 | "Hold everything in your life with open hands, otherwise when God pries things loose, he might hurt your fingers." | Widely attributed to Corrie ten Boom | ⚠️ Yellow — paraphrase noted in sermon ("famously said… I'm paraphrasing"); exact source (book/speech) unconfirmed; consistent with her published teaching and life | `1 john 3 pt 2.md` | 1 |
+
+---
+
 ### Stephen Charnock
 
 | # | Quote | Source | Verification | Used In | Count |
@@ -95,6 +103,14 @@
 | # | Quote | Source | Verification | Used In | Count |
 |---|-------|--------|-------------|---------|-------|
 | 1 | "He who spared not His own Son… must have had a great design of love." | Attributed to Flavel | ⚠️ Yellow — style is consistent with Flavel but exact source unconfirmed | `Romans 5.md` | 1 |
+
+---
+
+### Keith Getty & Stuart Townend
+
+| # | Quote | Source | Verification | Used In | Count |
+|---|-------|--------|-------------|---------|-------|
+| 1 | "It was my sin that held him there, until it was accomplished; his dying breath has brought me life — I know that it is finished." | *In Christ Alone* (2001), verse 3 | ✅ Green — published hymn, lyrics confirmed | `1 john 2 vs 1-5 2024.md` | 1 |
 
 ---
 
@@ -171,6 +187,7 @@
 | 1 | "Prosperity cannot be a proof of God's favor — it is what the Devil promises." | Attributed to Piper | ⚠️ Yellow — consistent with Piper's teaching but exact source unconfirmed | `Judges 6 - Called in the Wine Press.md` | 1 |
 | 2 | "Mercy is not constrained to be mercy to all; if it were, it would no longer be mercy, but obligation." | Attributed to Piper | ⚠️ Yellow | `Romans 9 pt 2.md` | 1 |
 | 3 | "From him and through him and to him" (on Romans 11:36) | Piper teaching | ⚠️ Yellow | Various | 1 |
+| 4 | "God is most glorified in us when we are most satisfied in him." | *Desiring God* (1986) — central thesis of Christian Hedonism | ⚠️ Yellow — wording consistent with Piper's published thesis; exact page unconfirmed | `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` | 1 |
 
 ---
 
@@ -267,7 +284,7 @@
 
 | # | Quote | Source | Verification | Used In | Count |
 |---|-------|--------|-------------|---------|-------|
-| 1 | "I'm against sin. I'll kick it as long as I've got a foot…" | Attributed to Billy Sunday | ✅ Green — verified | `Eph 2 - but God.txt` | 1 |
+| 1 | "Listen, I'm against sin. I'll kick it as long as I've got a foot, I'll fight it as long as I've got a fist, I've butt it as long as I've got a head, and I'll bite it as long as I've got a tooth. And when I'm old, fistless, footless, and toothless, I'll gum it till I go home to glory and it goes home to perdition." | Attributed to Billy Sunday | ✅ Green — verified (full extended form; consistent with all attributed sources) | `Eph 2 - but God.txt`, `1 john 2 1-6 lakeview.md` | 2 |
 
 ---
 
@@ -287,6 +304,16 @@
 | 1 | "What comes into our minds when we think about God is the most important thing about us." | *The Knowledge of the Holy*, ch. 1, opening sentence | ✅ Green — confirmed in published work | `Exodus 2 - The Deliverance Begins.md`, Various | 2+ |
 | 2 | "God never hurries" and divine foreknowledge quotes | Attributed to Tozer | ⚠️ Yellow | `Romans 3 - wrath of God (final).md` | 1 |
 | 3 | "The most comforting fact I know is that God has already factored in my stupidity." | Traced to Tozer (T-shirt form) | ⚠️ Yellow — attribution uncertain | `Romans 3 - wrath of God (final).md` | 1 |
+
+---
+
+### Paul Washer
+
+| # | Quote | Source | Verification | Used In | Count |
+|---|-------|--------|-------------|---------|-------|
+| 1 | "The gospel of Jesus Christ is the greatest of all treasures given to the church and the individual Christian. It is not 'a' message among many, but 'the' message above them all. It is the power of God for salvation and the greatest revelation of the manifold wisdom of God to men and angels [Rom. 1:16; Eph. 3:10]. It is for this reason that the apostle Paul gave the gospel the 'first place' in his preaching, endeavored with all his might to proclaim it clearly, and even went so far as to pronounce a curse upon all those who would pervert its truth [1 Cor. 15:3; Col. 4:4; Gal. 1:8-9]." | Attributed to Washer — HeartCry Missionary Society or published writing | ⚠️ Yellow — wording consistent with Washer's published views; exact source (book/article/sermon) unconfirmed | `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` | 1 |
+| 2 | "One of the greatest crimes of this generation of Christians is its neglect of the gospel, and it is from this neglect that all our other maladies spring forth." | Attributed to Washer | ⚠️ Yellow — consistent with Washer's public ministry emphasis; exact source unconfirmed | `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` | 1 |
+| 3 | People who simply don't understand the importance of the gospel are probably lost. | Paraphrase of Washer's teaching | ⚠️ Yellow — paraphrase; Washer has made similar arguments in sermons but exact source unconfirmed | `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` | 1 |
 
 ---
 

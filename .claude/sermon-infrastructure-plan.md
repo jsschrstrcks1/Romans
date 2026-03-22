@@ -356,4 +356,75 @@ After all maps are built, update:
 
 ---
 
+## Execution Audit — March 21, 2026
+
+### What's Built (10/17)
+
+| Step | Deliverable | File | Lines | Quality |
+|------|------------|------|-------|---------|
+| 1 | Quote Map | `quote-map.md` | 333 | **Substantive.** 75 quotes, 30 authors, Green/Yellow/Red tiers, verification chains, usage counts. Grouped by author alphabetically. Format matches spec exactly. |
+| 2 | Illustration Map | `illustration-map.md` | 191 | **Substantive.** 62 illustrations, 11 type categories, all 7 recurring personal illustrations present. Full text/retellings. Format matches spec. |
+| 3 | People Group Registry | `people-group-map.md` | 125 | **Substantive.** 50+ entries with population, % Christian, characteristics, prayer status. Alphabetical. |
+| 4 | BFM Article Index | `bfm-article-index.md` | 81 | **Substantive.** 18 articles, 12/18 preached, 3 with full text read from pulpit. |
+| 5 | 1689 LBCF Map | `1689-map.md` | 131 | **Substantive.** 32 chapters, 15/32 cited, 7 cited from pulpit. Gap analysis included. |
+| 6 | Subject Density Index | `subject-density-index.md` | 101 | **Substantive.** 44 categories ranked least→most, gap signals (🔴/🟠/🟡/🟢/✅), key observations. |
+| 8 | Quote Verification Hierarchy | In `quote-map.md` | — | **Integrated.** Green/Yellow/Red tiers with verification chain column. |
+| 13 | Date Map Protocol | `date-map.md` | 103 | **Structure built.** Future Sermons, Non-Series, Undated tables exist with headers. All three are empty — 0 non-Romans sermons dated. |
+| 15 | Passage Chain Map | `passage-chain-map.md` | 184 | **Built by another thread.** 10 chains, step-by-step preaching status. |
+| 17 | Skill Integration (partial) | `SKILL.md`, `skill-rules.json`, `claude.md` | — | **All new map files referenced** in skill-rules.json pathPatterns and claude.md Reference Maps table. Ops 8 (QUOTE) and 9 (ILLUSTRATE) in SKILL.md. Companion file decision tree in SKILL.md. |
+
+### Standards Defined but Not Applied to Corpus (4/17)
+
+| Step | Standard | Defined Where | Corpus Status |
+|------|----------|--------------|---------------|
+| 7 | `⬜ INCOMPLETE: [specific gap]` markers | SKILL.md lines 207-210 | **3 of 12 incomplete sermons marked.** Remaining 9 from unfinished-work-tracker Part IV not yet marked in sermon-map.md. |
+| 9 | Companion File Decision Tree | SKILL.md lines 183-201 | **Not audited.** Genesis 22 (3 files), Romans 1 (2+ files), and other ambiguous companion pairs not resolved. |
+| 10 | Multiple Preachings Standard | SKILL.md lines 203, plan lines 228-236 | **Partially implemented.** Romans 1 uses slash notation. Full audit of all same-passage cases not done. |
+| 11 | `*(anchor only)*` passage-secondary marking | SKILL.md lines 212-215 | **Partially applied.** Some Format 3 topical entries have it; systematic audit not done. |
+
+### Not Yet Started (3/17)
+
+| Step | Task | Effort | Details |
+|------|------|--------|---------|
+| 12 | Format Consistency Cleanup | Medium | Three sub-tasks: (A) Companion file notation → always slash. (B) Flag placement → always inline in Subject column. (C) Status markers → always in Title column. Agent audit found: flags already inline (compliant), status markers already in Title column (compliant per plan spec — Title IS the correct location). Main remaining work is companion notation standardization. |
+| 14 | Cross-Reference Audit | Medium | 0/39 Romans sermons audited against theological-map categories. Mechanical: extract doctrinal claims from each sermon's map entry, verify cited in theological-map. |
+| 16 | Subject Density Tracker | Low | Auto-regeneration of density counts after INDEX/UPDATE. Not implemented as a sub-step yet. |
+
+### Depth Gaps in Built Maps
+
+| Map | Current | Plan Target | Gap |
+|-----|---------|------------|-----|
+| Quote Map | 75 quotes (from sermon-map Subject columns) | 150-200 (from actual sermon files) | ~50-75% of quotes not yet extracted from source files |
+| Illustration Map | 62 illustrations (from sermon-map) | 60+ named + 40 unnamed | Named mostly complete; ~40 unnamed illustrations missing |
+| Date Map (non-series) | 0 dated | ~80+ non-Romans sermons | Empty tables; dates should be populated as sermons are worked on |
+
+---
+
+## Execution Status
+
+### Phase A: Low-Effort Standardization — COMPLETE
+
+1. **`⬜ INCOMPLETE:` markers** — Applied to Deut 8 and Faithful/God-Fearing Man sermons; 7 others already marked ✅
+2. **`*(anchor only)*` audit** — 16/20 topical entries marked; 4 confirmed exegetical (correctly omitted) ✅
+3. **date-map.md Undated Sermons table** — Populated with 80+ non-Romans sermons ✅
+
+### Phase B: Medium-Effort Format Cleanup — COMPLETE
+
+4. **Companion file notation** — Consolidated standalone "archive copy" rows into primary entries using slash notation; raw dictation `.txt` entries cleaned ✅
+5. **Status marker audit** — All markers confirmed in Title column ✅
+
+### Phase C: Cross-Reference Audit — COMPLETE
+
+6. **39 Romans sermons vs. theological-map** — Full audit completed across three parallel passes (Rom 1-5, 6-11, 12-16). Results:
+   - **13 citations added** to existing theological-map sections (Law as Guardian, Sanctification, Adoption, Perseverance, Effectual Calling, Unconditional Election, Love as Law-Fulfillment, Liberty of Conscience, Final Judgment, Great Commission, Penal Substitutionary Atonement, Absolute Sovereignty, Body of Christ)
+   - **~16 potential new sections identified** for pastoral review (General Revelation, Hypocrisy/Religious Self-Deception, Propitiation, Vengeance Belongs to God, Gospel Reconciliation Across Racial Lines, Lordship of Christ, Strong Believers' Obligation to the Weak, Church as Visible Diverse Community, Discernment Between Secondary & Essential Doctrine, etc.) — these require pastoral judgment before creation
+
+### Phase D: Depth Passes (future sessions)
+
+7. **Quote map deepening** — read actual sermon files to extract quotes not captured from map entries alone
+8. **Illustration map deepening** — read sermon files for unnamed/unlisted illustrations
+9. **Date map population** — ongoing as sermons are worked on
+
+---
+
 *Soli Deo Gloria.*
