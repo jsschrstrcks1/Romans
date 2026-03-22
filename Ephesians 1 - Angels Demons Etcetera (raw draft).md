@@ -208,3 +208,136 @@ Let's pray.
 - **Bahdai of India** ⚠️ — ~600,000 population, largely Muslim, no known believers. Verify against current Joshua Project or IMB data before reuse. Vishwakarma connection (Hindu divine craftsman/architect) is accurate to the caste's traditional self-understanding.
 - **"Believers cannot be demon-possessed"** — Standard Reformed/Baptist position based on the sealing of the Holy Spirit (Eph 1:13–14; 4:30; 1 John 4:4). Some charismatic traditions disagree. The position is consistent with the preacher's theological framework and the plain reading of the texts cited. Noted as a theological conviction, not a universally agreed doctrine across all Christian traditions.
 - **No direct Scripture misquotes identified in this sermon.**
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+**Evaluated:** 2026-03-22
+**Evaluator:** Thus Says the Lord rubric v1.0
+**Note:** This file is marked DEPRECATED — the canonical polished version is `Sermon - Angels Demons Etcetera.md`. This evaluation reflects the raw draft as written.
+
+---
+
+### 1. Verdict Title
+
+**A Pastoral Apologetic That Starts Well and Ends at the Cross — Raw but Structurally Sound**
+
+---
+
+### 2. One-Sentence Summary
+
+A raw draft that takes the congregation on an unusual but effective journey — from the problem of angel obsession and pseudepigraphal influence, through the error of blaming spiritual warfare for personal negligence, and finally to the sufficiency and riches of God's grace in Christ — all from Ephesians 1:3–14.
+
+---
+
+### 3. Berean Gate
+
+**Scopus Test:** PASS, with qualification. The primary text (Ephesians 1:3–14) teaches the believer's spiritual riches, security, and sealing in Christ. The sermon arrives at that thesis — "you are sealed, transferred, His" — but takes a long apologetic detour through pseudepigraphal literature before getting there. The main point of the sermon (the believer is spiritually secure in Christ, not beholden to formulaic demon-binding) arises legitimately from the text's own declarations.
+
+**Authority Test:** PASS. The preacher does not stand above the text. The confrontational rebuke of personal irresponsibility ("The devil didn't break my lawn mower") is grounded in the text's implications, not personal preference.
+
+---
+
+### 4. Fatal Flaw Flags
+
+**None formally triggered.** The gospel is present: Christ's finished work is referenced through the sealing language, the Colossians 1:13–14 "delivered and transferred" language, and the overall framework of spiritual riches lavished in Christ. No fatal flaw.
+
+---
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 16/25**
+
+The sermon treats Ephesians 1:3–14 as the destination, not the departure point. The passage is read in full, and the key terms (sealed, delivered, transferred) are given real weight. The Greek *sphragizo* (sealed) is not explicitly named, but the pastoral significance of the word is drawn out effectively. The "lavished... in all wisdom and insight" section at the close is the sermon's best expositional moment.
+
+Weakness: Two-thirds of the sermon is apologetic (pseudepigrapha, dualism, personal responsibility) before the text is read. The apostle Paul's own argument in Ephesians 1 — that believers are blessed with every spiritual blessing in the heavenly places *in Christ* — is the sermon's stated conclusion but not its developed argument. The text's election/predestination language (vv. 4-5, 11), the mystery-of-His-will cosmic recapitulation (v. 10), and the already/not-yet of the Spirit as *arrabōn* (guarantee/earnest money) are not developed.
+
+FCF: Misdirected spiritual warfare language as a form of blame-shifting — named and named well. The Adam-in-the-Garden connection is excellent.
+
+**2. Theology & Doctrinal Integrity — 13/18**
+
+The doctrine of the Spirit's sealing and the believer's transfer from darkness to light is well-stated. The anti-dualism section is theologically clear — God is not in a struggle with an equal and opposite darkness. The cargo-cult analogy for angel-worship is theologically effective.
+
+Weakness: The sermon's resolution is stronger on *what God has done for you* than on *how He did it through Christ*. The cross is not named. The blood of verse 7 is quoted but not proclaimed. The riches of His grace are named in the lottery-winner contrast, but their christological basis (redemption through His blood, forgiveness of trespasses) is understated.
+
+**3. Gospel Centrality & Force — 9/15**
+
+The gospel is present in the text-quotes (Eph 1:7 — "redemption through his blood"; Col 1:13–14 — "delivered... redemption through his blood") but not proclaimed as good news to the unconverted. The sermon closes with a prayer rather than a gospel invitation. *Synagogue Test:* This sermon could be preached in a Jewish context focused on spiritual security and personal responsibility without giving offense — the specific necessity of the cross is not explained.
+
+**4. Conscience & Applicatory Force — 11/15**
+
+The Adam-in-the-Garden mirror for blame-shifting is the sermon's most searching conscience moment: "Some of you have been calling your choices spiritual warfare for so long the two feel the same to you." This is genuinely probing. The list — "The devil didn't make you sign up for that credit card... The devil didn't make you walk away from your marriage, your church, your integrity. You chose that." — is specific and searches multiple life domains. The follow-up grace statement ("Because if the devil did it, you're stuck... But if you did it — if you are a responsible moral agent — then repentance is available") is excellent pastoral logic.
+
+Weakness: The believer who has not been misusing spiritual-warfare language is not addressed. The sermon's application is almost entirely to one category of hearer — the person who over-spiritualizes their failures.
+
+**5. Exhortation & Response — 4/8**
+
+"Let's pray." The sermon closes without a specific call to action beyond prayer. No call to repentance, no call to gospel proclamation, no specific response demanded. The Bahdai-of-India people group frame at the open suggests a missional call is coming — it never arrives.
+
+**6. Structure & Logical Flow — 6/9**
+
+The opening-week illustration → problem identification (spiritual warfare misuse) → pseudepigrapha history → anti-dualism → back to sermon opening (lawn mower) → text → riches of grace → close. This structure is more logical than most raw drafts. The lawn-mower callback is effective. The pseudepigrapha section (while interesting) creates a lengthy detour before the text.
+
+**7. Illustration & Imagination — 4/5**
+
+The cargo cult analogy is the sermon's best illustration: islanders build bamboo airstrips to worship the plane rather than the people who sent it. This is original, memorable, and native to the sermon's argument. The lottery-winner contrast (material riches vs. divine riches) is simple and clear. The TV preacher muttering over credit card statements is vivid. The lawn mower opening/return is effective.
+
+**8. Sermonic Force — 3/5**
+
+The raw draft has moments of genuine preaching voice: "Don't worship the boat. Worship the God who steers it." The return to the lawn mower at the pastoral application moment is a good oral technique. But the pseudepigrapha section reads more as a lecture than a sermon, and the draft trails off into the riches section without a climactic moment.
+
+---
+
+### 6. Cognitive Load Modifier
+
+**−1.** The sermon carries three major topics: (1) angel/demon obsession and its pseudepigraphal roots, (2) the misuse of spiritual-warfare language for blame-shifting, and (3) the riches and security of the believer in Christ. All three are worth a sermon. Together they strain the congregation's ability to carry a single main point home.
+
+---
+
+### 7. Total Score
+
+**16 + 13 + 9 + 11 + 4 + 6 + 4 + 3 = 66 − 1 = 65/100**
+
+*Deprecation note: This raw draft score is lower than the canonical version likely scores. Evaluate `Sermon - Angels Demons Etcetera.md` for the polished assessment.*
+
+**Interpretation: Concerning gaps. Needs another pass — primarily to develop the gospel and complete the exhortation.**
+
+---
+
+### 8. Core Override Questions
+
+1. *Does this sermon make me think more of Christ — or myself?* Somewhat of both — the blame-shifting section turns the gaze inward, and the riches section turns it toward God. The balance is imperfect.
+2. *Did I encounter God, or just ideas about Him?* Mostly ideas — the riches-of-grace section approaches encounter but doesn't fully arrive.
+3. *Was I comforted, convicted, or merely informed?* Convicted (blame-shifting section) and informed (pseudepigrapha history). Comfort arrived at the close but didn't fully land.
+
+---
+
+### 9. Strengths (Top 3)
+
+1. **The Adam-in-the-Garden blame-shifting application.** "She blamed Eve. He actually blamed God for giving him Eve." The pastoral confrontation of spiritual-warfare language as deflection is specific, well-illustrated, and theologically grounded. This is the sermon's pastoral high point.
+2. **The cargo-cult illustration.** Don't worship the plane — worship the God who sent it. Original, memorable, native to the argument.
+3. **The lawn-mower callback.** Opening the sermon with the terrible week, then returning to it for the application ("The devil did not break my lawn mower. That machine was fourteen years old and I haven't maintained it like I should"), is excellent homiletical technique.
+
+---
+
+### 10. Critical Weaknesses (Top 3)
+
+1. **The gospel is quoted but not proclaimed.** Ephesians 1:7 ("redemption through his blood") and Colossians 1:13-14 ("transferred... redemption, the forgiveness of sins") are both in the sermon. The cross is not named, explained, or proclaimed as good news. The unconverted hearer is not told what to do with these declarations.
+2. **The text is not the departure point.** The sermon does not begin from Ephesians 1:3–14 and let the text's argument drive the sermon's argument. It uses the text as confirmation of conclusions reached through apologetics. The election/predestination language, the cosmic recapitulation, and the *arrabōn* of the Spirit are exegetical resources left unused.
+3. **No exhortation or response.** "Let's pray." The Bahdai frame at the open set up a missional call that never came. The riches-of-grace section set up a worship response that was not invited.
+
+---
+
+### 11. Surgical Fixes
+
+1. **Add a gospel paragraph before the close.** "The riches Paul is talking about cost something. Every one of them was purchased with blood — the blood of the Son of God, who was pierced for our transgressions and crushed for our iniquities. The seal of the Spirit is the seal of the one who bought you. You are His because He paid for you."
+2. **Move the text earlier.** Read Ephesians 1:3–14 before the pseudepigrapha section. Let the text establish the positive before the negative. "Here is what the Bible actually says — now let me show you where the alternatives come from."
+3. **Complete the missional call.** The Bahdai of India opened the sermon. Close by returning: "We who are sealed by the Spirit are commissioned by the Spirit. The 600,000 Bahdai have never heard that they are sealed and transferred by the God who made them. That is your blank check to write."
+
+---
+
+### 12. Rubric Fit Note
+
+Doctrinal/apologetic sermons that use a primary text as a capstone rather than a foundation stress the Exposition category. The evaluation reflects this strain — the sermon's argument is legitimate but the text's role is confirmatory rather than generative. The rubric bends slightly here.
+
