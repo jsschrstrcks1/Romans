@@ -111,3 +111,140 @@ My parents and I were at a livestock auction. One of the big differences between
 How many of you sitting here today look like a sheep at church? But on the inside are still just goats. Which meal are you eating? And I don't mean in public. In the quiet of your own home when you think no one is looking, are you feasting on the Lord? Or is your head stuck in the bucket of trash? People — God knows the difference. He sees who you truly are, and if you are not truly a child of God, then you need to stop right now and get right with him. You must believe in your heart that Jesus is Lord, and that God raised him from the dead. After that, then you must confess with your mouth.
 
 As the praise team comes up here, I want you to be thinking about whether you are truly saved or not. Whether that prayer you prayed half a lifetime ago was something you believed with your heart or not. Because if not, then the words were empty of meaning and value. Only you and God know for sure if that moment changed you. If not, don't let your pride keep you from going another day without knowing for a fact that Jesus Christ is the Lord of your life. If you didn't believe then, and you don't see how God has been working in your life to draw you closer to him, if you are a sheep in church but a goat everywhere else, or if you secretly are eating from the trash bucket of sin, please don't let another day go by. Come talk to me after the service.
+
+---
+
+## Thus Says the Lord — Sermon Evaluation
+
+### 1. Verdict Title
+**Pastoral Conscience Work With a Gospel Cavity at Its Center**
+
+### 2. One-Sentence Summary
+A warmly delivered, conscience-searching sermon on new creation that effectively corners the nominal Christian while leaving the cross underexplained and justification unpreached.
+
+### 3. Berean Gate
+**Result: Conditional Pass — with drift concern.**
+
+- **Scopus Test**: The sermon's thesis — "True Christians are new creations whose lives are genuinely changed" — does arise from 2 Corinthians 5:17. Pass.
+- **Authority Test**: The preacher submits to the text's claim about new creation. However, the sermon spends more time on Paul Washer and behavioral diagnostics than on the passage's own argument. The text's rich theology of reconciliation (vv. 18-21), the ministry of ambassadorship, the imputation language of v. 21, and the urgent appeal of 6:1-2 receive almost no development. The sermon extracts one thread (new creation = changed life) and pulls it without weaving in the full tapestry the passage provides. This is selective fidelity — it does not contradict the text, but it significantly underrealizes it.
+
+### 4. Fatal Flaw Flags
+**Flag Triggered: #1 — No clear gospel presentation.**
+
+The sermon gestures toward the gospel but never proclaims it. "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God" (2 Cor. 5:21) is read aloud in the Scripture reading and then never mentioned again. The mechanics of justification — that sinners are declared righteous through the imputation of Christ's righteousness by faith — are absent. The bleach/dye illustration clarifies cleansing but does not explain *how* or *on what basis* that cleansing occurs. An unbeliever who listened carefully could not reconstruct what the gospel is from this sermon.
+
+**Score cap: 69.**
+
+### 5. Score Breakdown
+
+**1. Exposition & Hermeneutics — 14/25**
+- *Textual Fidelity*: 6/10 — The sermon uses the text as a launching pad rather than its governing argument. The passage's core argument — that God reconciled the world to himself in Christ, gave Paul the ministry of reconciliation, and now urgently summons hearers to be reconciled — is bypassed. The sermon mines v. 17 for its behavioral implications but ignores vv. 18-21 and 6:1-3 almost entirely.
+- *Contextual Awareness*: 3/5 — No engagement with Paul's apologetic context in 2 Corinthians, the opponents, or why Paul defends his ministry of reconciliation here.
+- *Exegetical Clarity*: 2/5 — No Greek engagement, no word-level work. The phrase "new creation" is important enough to warrant at minimum noting its eschatological weight (the new age has broken in).
+- *Logical Faithfulness*: 3/5 — No outright eisegesis, but the Fallen Condition Focus is narrowed to "nominal Christianity / unregenerate church membership," which is a legitimate FCF but is not the FCF the text itself foregrounds. Paul's FCF here is the failure to be reconciled to God — the sermon addresses a symptom (fake Christianity) rather than the root the text addresses (estrangement from God that only the cross resolves).
+
+**2. Theology & Doctrinal Integrity — 12/18**
+- *Christ-Centeredness*: 4/7 — Christ appears, but as the agent of new-creation transformation more than as the crucified substitute. The sermon speaks of "believing in Jesus" and "Christ coming in" but never of the cross as the ground of reconciliation.
+- *Redemptive-Historical Awareness*: 1/3 — No placement of 2 Corinthians in redemptive history. "New creation" carries massive eschatological freight the sermon does not unpack.
+- *Doctrinal Precision*: 4/4 — No overt theological errors. The sermon's statements about regeneration, new heart, and repentance are accurate.
+- *Confessional Alignment*: 3/4 — The sermon aligns with Reformed soteriology on regeneration producing new affections. However, the absence of imputed righteousness (v. 21 sits unpreached in the reading) is a significant gap.
+
+**3. Gospel Centrality & Force — 7/15**
+- *Clarity of the Gospel*: 1/5 — Justification by faith is not articulated. The gospel is mentioned but not proclaimed. An unbeliever could not reconstruct how to be saved.
+- *Necessity of Christ*: 3/5 — Christ is necessary to the argument, but primarily as the agent of transformation, not the crucified and risen substitute.
+- *Cross-Centered Gravity*: 3/5 — The sermon moves toward self-examination rather than toward the cross. The law has time to land; the gospel does not fully relieve it.
+
+*Synagogue Test*: A morally serious, God-fearing non-Christian could sit through most of this sermon without being offended by the necessity of Christ's blood. The offense of the cross — that God made Christ to be sin for us — is read aloud but never preached. **Moralistic drift partially triggered.**
+
+*Law/Gospel Dialectic*: The hammer lands well; the balm is underdeveloped. The conscience is searched but not fully relieved by the finished work of Christ.
+
+**4. Conscience & Applicatory Force — 11/15**
+- *Heart Penetration*: 5/5 — This is the sermon's genuine strength. The pig-in-garbage illustration, the sheep/goat close, and the repeated "are you truly saved?" pressure points are effective and appropriately uncomfortable. The preacher knows how to search the conscience.
+- *Specificity*: 4/5 — Kenny Duffield and Kurt are concrete and powerful. Personal stories do heavy applicatory lifting.
+- *Spiritual Differentiation*: 2/5 — The sermon addresses primarily two categories: the nominal/unsaved churchgoer and the genuinely converted. It does not reach the genuinely converted doubter who *is* a new creation but questions it under pressure, the backslider, or the humbled-but-not-yet-believing. The application is almost entirely diagnostic (are you saved?) with little directional or consolatory use.
+
+**5. Exhortation & Response — 5/8**
+- *Call to Response*: 3/4 — The final appeal is clear: come talk to me if you're not sure. The invitation is genuine and specific.
+- *Equipping for Holiness & Witness*: 2/4 — Brief treatment of gospel sharing as a fruit of regeneration. No equipping for the ongoing war against sin beyond naming that the war should exist.
+
+**6. Structure & Logical Flow — 6/9**
+- *Clarity of Outline*: 3/4 — The sermon moves intuitively: illustration → text → illustration → application. Not formally outlined, but followable.
+- *Progression*: 2/3 — Progression is felt more than demonstrated. The Matthew 25 reference at the end is "homework" rather than preached — a missed opportunity to let the text land in the room.
+- *Unity*: 1/2 — Two ideas compete: (1) new creations have changed lives, and (2) don't trust a prayer you didn't mean. These are related but not fully integrated.
+
+**7. Illustration & Imagination — 4/5**
+- *Relevance*: 2/2 — MasterChef, the livestock auction, Kenny, Kurt — all native to this congregation's world.
+- *Clarity*: 1/2 — The bleach/dye illustration works conceptually but pulls back from its own logic ("you can't push the analogy any further"), which slightly undercuts it. The pig illustration is the most effective — clear, memorable, and text-adjacent.
+- *Memorability*: 1/1 — The sheep-that's-a-goat image will stay with hearers.
+
+**8. Sermonic Force — 4/5**
+- *Reads as Preaching*: 2/2 — Oral cadence throughout. Direct address is natural, not performed.
+- *Conviction on the Page*: 1/2 — Conviction is present but the scripture-grounded assertion ratio is low. Paul Washer and David Platt are cited alongside Scripture, which slightly dilutes the text-authority.
+- *Cadence and Breath*: 1/1 — Sentence variation is good. The close has appropriate compression.
+
+### 6. Cognitive Load Modifier
+**0** — The sermon is accessible. A new believer, a high schooler, and a skeptic could all follow the main argument. No cognitive load penalty.
+
+### 7. Total Score
+| Category | Score |
+|---|---|
+| Exposition & Hermeneutics | 14/25 |
+| Theology & Doctrinal Integrity | 12/18 |
+| Gospel Centrality & Force | 7/15 |
+| Conscience & Applicatory Force | 11/15 |
+| Exhortation & Response | 5/8 |
+| Structure & Logical Flow | 6/9 |
+| Illustration & Imagination | 4/5 |
+| Sermonic Force | 4/5 |
+| **Subtotal** | **63/100** |
+| Weight of Glory Bonus | +2 |
+| Cognitive Load Modifier | 0 |
+| **Total** | **65/100** |
+
+**Score cap at 69 due to Fatal Flaw Flag #1 — no clear gospel presentation. Score of 65 falls within cap.**
+
+**Band: Concerning Gaps (60–69)** — The sermon explains conviction but does not fully preach the gospel. Significant revision needed.
+
+### 8. Core Override Questions
+1. *Does this sermon make me think more of Christ — or myself?* — Primarily myself. The sermon successfully turns the mirror on the hearer, but it does not then turn the hearer to Christ and his finished work with equal force. The examination is real; the relief is thin.
+2. *Did I encounter God, or just ideas about Him?* — Partially. The illustrative application has genuine pastoral weight. But the theology of who God is in the act of reconciliation (the Father who made the Son to be sin) is announced but not inhabited.
+3. *Was I comforted, convicted, or merely informed?* — Convicted. Appropriately and sometimes sharply. But the comfort of the gospel — that there is now no condemnation for those in Christ — is not given proportional space. The sermon ends with a call, not with rest.
+
+### 9. Strengths (Top 3)
+1. **Conscience-searching application** — The pig illustration and the sheep/goat close are pastoral tools that work. The repeated question "are you truly saved?" presses where many sermons flinch. The Kenny Duffield and Kurt stories are specific, real, and congregation-appropriate. This preacher knows his people and is not afraid to use their stories to make truth concrete.
+2. **Pastoral directness without cruelty** — The opening ("my job is to take a message from God and break it down") frames the preacher's authority correctly — as a herald, not an authority in himself. The invitation at the close ("come talk to me after the service") is personal and genuine.
+3. **Accessibility** — Every illustration is drawn from the congregation's world. No jargon, no seminary scaffolding. The single mother and the teenager can follow this sermon without difficulty.
+
+### 10. Critical Weaknesses (Top 3)
+1. **2 Corinthians 5:21 is read and abandoned.** The most theologically dense and glorious verse in the passage — "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God" — sits inert in the Scripture reading. This verse is the ground of everything the sermon claims about new creation. The imputation of sin to Christ, the imputation of righteousness to believers — this is the engine. The sermon runs on fumes of implication while the engine sits untouched.
+2. **The gospel is behavioral, not substitutionary.** The sermon consistently frames the gospel as "your life changes when you're saved." That is true, but it is sanctification, not justification. The *basis* of new creation — that Christ absorbed the wrath we deserved and credited us with his righteousness — is absent. Behavioral transformation without the cross as its ground slides into moralism, even when the language of "salvation" is present.
+3. **Matthew 25 is assigned as homework rather than preached.** The sermon builds toward a sheep/goat climax, then steps back: "We won't be turning there. It's your homework this week." This deflates the very tension the illustration created. If the passage is important enough to anchor the conclusion, it is important enough to read aloud and let land. Deferring the text to homework is a structural retreat at the moment of highest pressure.
+
+### 11. Blind Spots
+- The preacher likely does not see that the sermon's main applicatory tool — self-examination of salvation — can produce paralysis in genuinely converted doubters without the corresponding comfort of assurance rooted in Christ's finished work. "Are you truly saved?" without "Here is why you can know you are" can leave the tender conscience more wounded than helped.
+- The consistent appeal to Washer, Platt, and Spurgeon (alongside the text) may reflect a habit of reinforcing authority through respected voices rather than letting Scripture carry its own weight. These citations are not wrong — but they slightly reframe the warrant as human rather than textual.
+- The sermon assumes everyone in the room is either saved or nominal. The genuinely convicted but not-yet-believing person — the one who *wants* to believe but doesn't know how — receives no specific address.
+
+### 12. Illusion of Strength
+The sermon *feels* theologically weighty because it presses hard on nominal Christianity and quotes Paul Washer. But the weight it carries is largely diagnostic weight — it accurately describes what conversion produces without explaining what conversion *is* or *how* it happens. The sermon is confident where it is thin. Regeneration is described behaviorally (your life changes) but not theologically (the Spirit unites you to Christ by faith, God counts you righteous for Christ's sake). A sermon can sound Reformed and still be functionally moralistic if the cross never does explicit work.
+
+### 13. Missed Opportunity
+The passage's most dramatic verse — 2 Corinthians 5:21 — is the single greatest theological statement about substitutionary atonement outside of Isaiah 53. "He made him to be sin who knew no sin" is the pig illustration done at cosmic scale: the one who knew no filth was buried face-first in all of ours. The bleach/dye illustration is searching for exactly this image. Had the preacher made this connection — the pig in the garbage is a picture of what God did to Christ so that Christ's cleanness could be poured into us — the sermon would have had a gospel center worth building an entire night around. The image was in the text. It was in the illustration. The preacher walked past the door.
+
+### 14. Surgical Fixes
+1. **Preach 2 Corinthians 5:21 — do not just read it.** Stop at that verse after the Scripture reading and spend five minutes on it before moving to application. The imputation logic is the foundation of everything the pig illustration is pointing toward. "He made him to be sin" — the Holy One face-planted in our garbage so we could be pulled clean. This is the sermon's missing center.
+2. **Add a consolatory use for the genuinely converted doubter.** After the diagnostic application ("are you truly saved?"), distinguish the person who is genuinely converted but suffering assurance problems from the person who is genuinely unconverted. Say explicitly: "If you are waging war against your sin, if you hate what you cannot yet fully quit — that hatred is the mark of grace. A pig does not hate the garbage. Only the man does." This prevents the examination from becoming torment for the tender conscience.
+3. **Read Matthew 25:31-46 aloud. Do not assign it as homework.** The sermon builds to a sheep/goat moment. Let it arrive. Read the passage, point to the separation, then close. The homework assignment deflates the climax.
+4. **Clarify the basis of the gospel call.** When you say "you must believe in your heart that Jesus is Lord," add what believing means: that his death paid your debt, that his righteousness is credited to your account, that God is not counting your trespasses against you (v. 19 says this — use it). The call to believe must carry content.
+5. **Eliminate the "I'll punctuate it with stories" framing in the opening.** It inadvertently signals that the stories are ornament rather than integral to the argument. Better: let the stories do their work without announcing them.
+
+### 15. Dead Orthodoxy Flag
+**Not triggered** — The sermon has pastoral heat and genuine applicatory force. It is not bloodless. The weakness is an underdeveloped gospel center, not cold orthodoxy.
+
+### 16. Weight of Glory Assessment
+There is real pastoral gravity here — a shepherd who loves his people enough to make them uncomfortable — but the sermon does not yet carry the full weight of glory because the cross, the great source of eternal gravity, is present in the Scripture reading and absent in the sermon.
+
+**Bonus: +2/5** — Pastoral love and appropriate urgency are present. Unction is partial, held back by what the sermon does not say about Christ.
+
+### 17. Rubric Fit Note
+This rubric fits the passage well. 2 Corinthians 5:16-6:3 is epistolary argument with gospel proclamation at its center — the rubric's weight on exposition and gospel centrality directly corresponds to what this text demands. No genre strain. The rubric does not bend here; the sermon does.
