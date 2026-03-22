@@ -293,13 +293,13 @@ This file is maintained by **Operation 10: COVERAGE** in the sermon-map skill.
 | 6 | Joshua | 24 | 0 | ⬜ GAP |
 | 7 | Judges | 21 | 5 chapter ranges | ⚠️ PARTIAL |
 | 8 | Ruth | 4 | 0 | ⬜ GAP |
-| 9 | 1 Samuel | 31 | 1 (ch. 28) | ⚠️ PARTIAL |
+| 9 | 1 Samuel | 31 | 2 (ch. 17, 28) | ⚠️ PARTIAL |
 | 10 | 2 Samuel | 24 | 0 | ⬜ GAP |
 | 11 | 1 Kings | 22 | 1 (18:33–41) | ⚠️ PARTIAL |
 | 12 | 2 Kings | 25 | 1 (25:1–12) | ⚠️ PARTIAL |
 | 13 | 1 Chronicles | 29 | 0 | ⬜ GAP |
 | 14 | 2 Chronicles | 36 | 1 primary (ch. 15); ch. 20 secondary | ⚠️ PARTIAL |
-| 15 | Ezra | 10 | 0 | ⬜ GAP |
+| 15 | Ezra | 10 | 1 (ch. 4, 6) | ⚠️ PARTIAL |
 | 16 | Nehemiah | 13 | 4 chapter ranges | ⚠️ PARTIAL |
 | 17 | Esther | 10 | 1 (ch. 4) | ⚠️ PARTIAL |
 | 18 | Job | 42 | 0 | ⬜ GAP |
@@ -336,6 +336,7 @@ Genesis has **50 chapters**. No sustained series preached. Chapters covered come
 | Range | Status | Primary Sermon(s) | Notes | Date |
 |-------|--------|-------------------|-------|------|
 | 1–2 | ■ PRIMARY | `Gen 1 - Two Ways to Know Truth (raw transcript).md`; `Sermon - Beautiful But Not Safe (Genesis 1-2).md` | Two distinct sermons — epistemology angle and creation/anthropic angle | — |
+| 2:15–17 | ■ PRIMARY | `Sermon - Sin Starts in the Heart.md` | The prohibition in the garden — sin's origin in heart/will; part of creation/fall arc | — |
 | 3 | ■ PRIMARY | `Gen 3 - The Curse.md`; `Genesis 3 - Sanctity of Life Sunday (raw draft).md` | Two sermons on ch. 3 — general curse exposition and Sanctity of Life application | — |
 | 4 | ■ PRIMARY | `Gen 4 - Cain and Abel.md` | Cain/Abel narrative | — |
 | 5–11 | ⬜ GAP | — | Genealogies, flood, Tower of Babel — never primary text | — |
@@ -399,7 +400,9 @@ Genesis has **50 chapters**. No sustained series preached. Chapters covered come
 
 | Range | Status | Primary Sermon(s) | Notes | Date |
 |-------|--------|-------------------|-------|------|
-| 1–27 | ⬜ GAP | — | Hannah, Samuel's call, Saul, David's rise — not preached | — |
+| 1–16 | ⬜ GAP | — | Hannah, Samuel's call, Saul's kingship — not preached | — |
+| 17 | ■ PRIMARY | `Sermon - The Magnet on the Compass.md` | David and Goliath — faith distorted by fear vs. governed by God | — |
+| 18–27 | ⬜ GAP | — | David's flight, Saul's decline — not preached | — |
 | 28 | ■ PRIMARY | `Sermon - Power Encounter.md` | Saul and the medium of Endor — occult/evangelism context | — |
 | 29–31 | ⬜ GAP | — | — | — |
 
@@ -434,6 +437,16 @@ Genesis has **50 chapters**. No sustained series preached. Chapters covered come
 | 16–19 | ⬜ GAP | — | — | — |
 | 20 | ◇ SECONDARY | — | Jehoshaphat's prayer — appears alongside Psalm 46 in `Sermon - A Mighty Fortress.md` | — |
 | 21–36 | ⬜ GAP | — | — | — |
+
+---
+
+## Ezra
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–3 | ⬜ GAP | — | — | — |
+| 4:1–6; 4:24; 6:2–end | ■ PRIMARY | `Sermon - When God Is For Us.md` | Opposition to rebuilding and God's overruling — multi-chapter passage | — |
+| 7–10 | ⬜ GAP | — | — | — |
 
 ---
 
@@ -562,7 +575,6 @@ The following OT books have no primary sermons and no documented secondary refer
 | Ruth | 4 | Kinsman-redeemer typology, hesed loyalty |
 | 2 Samuel | 24 | Davidic covenant (ch. 7) — theologically foundational |
 | 1 Chronicles | 29 | Temple preparation, David's prayer |
-| Ezra | 10 | Return from exile, covenant renewal |
 | Job | 42 | Suffering, sovereignty, the whirlwind answer |
 | Song of Solomon | 8 | Marriage, love, Christ-and-church typology |
 | Lamentations | 5 | Grief, desolation, "great is thy faithfulness" (3:23) |
@@ -574,6 +586,101 @@ The following OT books have no primary sermons and no documented secondary refer
 | Zephaniah | 3 | Day of the Lord, remnant |
 | Haggai | 2 | Rebuilding, priorities, "consider your ways" |
 | Malachi | 4 | Covenant faithfulness, tithing, Elijah, "the sun of righteousness" |
+
+---
+
+---
+
+---
+
+## New Testament — Gospels and Acts
+
+*Last updated: March 22, 2026.*
+
+### NT Gospels + Acts Book Status Summary
+
+| # | Book | Chapters | Primary Sermons | Status |
+|---|------|----------|-----------------|--------|
+| 40 | Matthew | 28 | 5 passages (chs. 2, 5, 6, 9, 28) | ⚠️ PARTIAL |
+| 41 | Mark | 16 | 0 | ⬜ GAP |
+| 42 | Luke | 28 | 4 passages (chs. 14, 15, 23) | ⚠️ PARTIAL |
+| 43 | John | 21 | 4 passages (chs. 10, 11, 16, 20) | ⚠️ PARTIAL |
+| 44 | Acts | 28 | 2 passages (chs. 13, 18) | ⚠️ PARTIAL |
+
+---
+
+## Matthew
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1 | ⬜ GAP | — | Genealogy — not primary text | — |
+| 2:1–23 | ■ PRIMARY | `Sermon - Trusting God in Ambiguity (Matthew 2).md` | Magi, flight to Egypt, slaughter of infants — providence in the dark | — |
+| 3–4 | ⬜ GAP | — | Baptism, temptation — not preached | — |
+| 5:13–16 | ■ PRIMARY | `Sermon - Salt and Light.md` | Kingdom ethics — salt and light in culture | — |
+| 5:1–12; 5:17–48 | ⬜ GAP | — | Beatitudes, antitheses — not preached; notable gap for ethics/kingdom teaching | — |
+| 6:9–13 | ■ PRIMARY | `Sermon - Lord Teach Us to Pray (Matthew 6).md` | Lord's Prayer — petition structure, address to the Father | — |
+| 6:25–34 | ◇ SECONDARY | — | "Do not be anxious" — secondary in `Sermon - Worry Is Lack of Faith.md` alongside Phil 4:4–7 | — |
+| 7–8 | ⬜ GAP | — | — | — |
+| 9:9–13 | ■ PRIMARY | `Sermon - Beauty for Ashes.md` | Call of Matthew — grace to the broken, physician to sinners | — |
+| 10–27 | ⬜ GAP | — | Large gap: Olivet Discourse (24–25), Passion narrative (26–27) — not preached | — |
+| 28:18–20 | ■ PRIMARY | `Matt 28 - Who Dares Wins (raw draft).md` | Great Commission — go, make disciples, authority of Christ | — |
+
+**Matthew gap summary**: 22 chapters with no primary preaching. Notable absences: Beatitudes (5:1–12), Olivet Discourse (24–25), entire Passion narrative (26–27). The corpus has no sermon on the death of Christ as a primary Matthew text — that ground is covered through other books (Luke 23, Romans).
+
+---
+
+## Mark
+
+Mark has **16 chapters**. No primary sermons in the corpus. Likely appears as secondary in gospel parallels, but no chapter has been the primary preaching text. A complete gap in what may be the oldest Gospel — the evangelist's Gospel of action.
+
+---
+
+## Luke
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–13 | ⬜ GAP | — | Birth narrative, baptism, Galilean ministry — not preached | — |
+| 14:15–24 | ■ PRIMARY | `Sermon - The Party and the Excuses.md` | Parable of the great banquet — excuses that keep people from the kingdom | — |
+| 15:1–7 | ■ PRIMARY | `Luke 15 - The Lost Sheep (raw transcript).md`; `Sermon - Lost and Found.md` | Lost sheep — joy over one sinner; raw transcript + polished manuscript | — |
+| 15:8–32 | ◇ SECONDARY | — | Lost coin and prodigal — present in Lost and Found context | — |
+| 16–22 | ⬜ GAP | — | — | — |
+| 23:39–43 | ■ PRIMARY | `Sermon - Today You Will Be With Me.md`; `Sermon - Today You Will Be With Me v2.md`; `Bible Study - The Thief Who Saw a King.md` | Thief on the cross — deathbed conversion, grace to the condemned; two sermon manuscripts + a bible study on Doctrines of Grace | — |
+| 23:1–38; 23:44–56 | ⬜ GAP | — | Trial, crucifixion, burial — not preached as primary Luke text | — |
+| 24 | ⬜ GAP | — | Resurrection appearances — not primary text | — |
+
+**Luke gap summary**: The thief-on-the-cross passage (23:39–43) is the most heavily covered single passage in Luke — three files. Everything else is thin. The birth narrative (1–2), Sermon on the Plain (6), the Good Samaritan (10), and the full Passion/resurrection arc are all gaps.
+
+---
+
+## John
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–9 | ⬜ GAP | — | Prologue, signs, discourse — not preached; Jn 3:16 extensively secondary | — |
+| 10:7–11 | ■ PRIMARY | `Sermon - The Wicket Gate (Pilgrim's Progress).md` | The gate and the shepherd — Easter message; Pilgrim's Progress frame | — |
+| 10:25–30 | ◇ SECONDARY | — | No one can snatch from the Father's hand — secondary in `Sermon - Eternal Security.md` | — |
+| 11 | ■ PRIMARY | `Sermon - John 11 Lazarus.md` | Lazarus — resurrection, grief, "I am the resurrection and the life" | — |
+| 12–15 | ⬜ GAP | — | Upper Room discourse begins — Jn 14 ("I am the way") not primary text | — |
+| 16 | ■ PRIMARY | `Sermon - John 16 The Holy Spirit.md` | Paraclete — the Spirit's work: convict, guide, glorify Christ | — |
+| 17–19 | ⬜ GAP | — | High Priestly Prayer (17), Passion (18–19) — not preached | — |
+| 20 | ■ PRIMARY | `John 20 - Do Not Disbelieve.md` | Thomas — "do not disbelieve, but believe"; Easter context | — |
+| 21 | ⬜ GAP | — | Restoration of Peter — not preached | — |
+
+**John gap summary**: John 1 (Logos prologue), John 3 (Nicodemus / "God so loved"), John 14 ("I am the way, the truth, and the life"), John 17 (High Priestly Prayer) — all major theological passages with no primary sermon. The corpus is thinner in John than in Luke or Matthew.
+
+---
+
+## Acts
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–12 | ⬜ GAP | — | Pentecost, early church, Peter's ministry — not preached as primary text | — |
+| 13:1–3 | ■ PRIMARY | `Acts 13 1-3 - Blank Check (raw transcript).md`; `Sermon - The Blank Check.md` | Antioch church commissions Paul and Barnabas — missionary calling, blank-check surrender; raw transcript + polished | — |
+| 14–17 | ⬜ GAP | — | First and second missionary journeys — not preached | — |
+| 18:24–28 | ■ PRIMARY | `Acts 18 1 Cor 3 - Being Baptist.md` | Apollos, Aquila, Priscilla — teaching-and-correcting the well-spoken; paired with 1 Cor 3 | — |
+| 19–28 | ⬜ GAP | — | Third journey, Ephesus, imprisonment, voyage to Rome — not preached | — |
+
+**Acts gap summary**: Acts 2 (Pentecost) is referenced heavily as secondary in pneumatology and ecclesiology sermons but never the primary text. The corpus has no sustained exposition of the early church's growth, Peter's sermons, Paul's missionary strategy, or Paul's defense before governors. Acts 13:1–3 and 18:24–28 are isolated passages — both chosen for specific applications (missions, Baptist identity), not narrative continuity.
 
 ---
 
