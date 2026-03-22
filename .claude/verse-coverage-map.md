@@ -684,4 +684,269 @@ Mark has **16 chapters**. No primary sermons in the corpus. Likely appears as se
 
 ---
 
+---
+
+---
+
+## New Testament — Epistles and Revelation
+
+*Last updated: March 22, 2026. Romans is comprehensively mapped above (39 sermons, March 2025–March 2026). This section covers the remaining NT epistles and Revelation.*
+
+### NT Epistles + Revelation Status Summary
+
+| # | Book | Chapters | Primary Sermons | Status |
+|---|------|----------|-----------------|--------|
+| 45 | Romans | 16 | 39 sermons | ■ SEE FULL MAP ABOVE |
+| 46 | 1 Corinthians | 16 | 3 passages (3, 12) | ⚠️ PARTIAL |
+| 47 | 2 Corinthians | 13 | 3 passages (5, 12) | ⚠️ PARTIAL |
+| 48 | Galatians | 6 | 3 passages (2, 3, 6) | ⚠️ PARTIAL |
+| 49 | Ephesians | 6 | 1 passage (1:3–14) | ⚠️ PARTIAL |
+| 50 | Philippians | 4 | 4 passages (1, 3, 4) | ⚠️ PARTIAL |
+| 51 | Colossians | 4 | 2 passages (2, 4) | ⚠️ PARTIAL |
+| 52 | 1 Thessalonians | 5 | 2 passages (3–4, 5) | ⚠️ PARTIAL |
+| 53 | 2 Thessalonians | 3 | 0 | ⬜ GAP |
+| 54 | 1 Timothy | 6 | 1 passage (2:1–7) | ⚠️ PARTIAL |
+| 55 | 2 Timothy | 4 | 3 passages (1, 2, 3) | ⚠️ PARTIAL — strongest NT epistle outside Romans |
+| 56 | Titus | 3 | 1 passage (3:1–7) | ⚠️ PARTIAL |
+| 57 | Philemon | 1 | 0 | ⬜ GAP |
+| 58 | Hebrews | 13 | 3 passages (2, 3–4, 11) | ⚠️ PARTIAL |
+| 59 | James | 5 | 0 | ⬜ GAP |
+| 60 | 1 Peter | 5 | 3 passages (1, 3) | ⚠️ PARTIAL |
+| 61 | 2 Peter | 3 | 0 | ⬜ GAP |
+| 62 | 1 John | 5 | 2 passages (2–3, 4) | ⚠️ PARTIAL |
+| 63 | 2 John | 1 | 0 | ⬜ GAP |
+| 64 | 3 John | 1 | 0 | ⬜ GAP |
+| 65 | Jude | 1 | 0 | ⬜ GAP |
+| 66 | Revelation | 22 | 0 primary; Rev 7:9–17 secondary | ◇ SECONDARY ONLY |
+
+---
+
+## 1 Corinthians
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–2 | ⬜ GAP | — | — | — |
+| 3:4–11 | ■ PRIMARY | `Acts 18 1 Cor 3 - Being Baptist.md` | Apollos/Paul/Cephas factions; paired with Acts 18:24–28 — Baptist identity, sectarianism | — |
+| 3:10–15 | ■ PRIMARY | `Sermon - What Survives the Fire.md` | Building on the foundation — gold/silver/wood/hay/stubble; judgment seat | — |
+| 4–11 | ⬜ GAP | — | Lord's Supper (ch. 11) — not primary text | — |
+| 12:12–27 | ■ PRIMARY | `1 Corinthians 12 - Church Membership.md` (polished); `1 Corinthians 12 - Church Membership (raw draft).md` | The body — church membership as covenant body life | — |
+| 13–16 | ⬜ GAP | — | Love chapter (13), resurrection (15) — notable gaps | — |
+
+---
+
+## 2 Corinthians
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–4 | ⬜ GAP | — | — | — |
+| 5:6–10 / 12:1–6 | ■ PRIMARY | `Sermon - Catching Counterfeits.md` | Sufficiency of Scripture against false heaven-claims — two-chapter text | — |
+| 5:16–6:3 | ■ PRIMARY | `Sermon - Sheep on the Outside.md` | New creation, ministry of reconciliation, "be reconciled to God" | — |
+| 6:4–11 | ⬜ GAP | — | — | — |
+| 12:7–10 | ■ PRIMARY | `Sermon - A Theology of Weakness.md` | Thorn in the flesh — "my grace is sufficient"; Christmas message | — |
+| 13 | ⬜ GAP | — | — | — |
+
+---
+
+## Galatians
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1 | ⬜ GAP | — | — | — |
+| 2 | ■ PRIMARY | `Galatians 2 - The Ring (raw notes).md` | Justification by faith, Peter's hypocrisy at Antioch | — |
+| 3:23–29 | ■ PRIMARY | `Galatians 3 - Law Faith and Adoption.md` | Law as guardian, sons of God through faith, adoption | — |
+| 4–5 | ⬜ GAP | — | Spirit vs. flesh (5:16–25) — fruit of the Spirit never primary text | — |
+| 6:7–10 | ■ PRIMARY | `Galatians 6 - Sowing and Reaping.md`; `Galatians 6 - Sowing and Reaping (raw draft).md` | Sowing to the flesh / Spirit; doing good, not growing weary | 2020-08-23 |
+
+---
+
+## Ephesians
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1:3–14 | ■ PRIMARY | `Sermon - Angels Demons Etcetera.md` | Spiritual blessings — election, adoption, redemption, the Spirit as seal | — |
+| 1:15–6:24 | ⬜ GAP | — | Armor of God (6:10–20) and Eph 2 (by grace through faith) — heavily secondary, never primary | — |
+
+**Note**: Ephesians 2:8–9 appears as secondary in virtually every gospel and grace sermon in the corpus. Yet Ephesians as a book has only one primary sermon — on 1:3–14.
+
+---
+
+## Philippians
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1:1 | ■ PRIMARY | `Sermon - Grace and Peace.md` | Salutation — grace and peace as theological greeting; Paul's response to persecution | — |
+| 1:9–11 | ■ PRIMARY | `Sermon - Approve What Is Excellent.md` | Discernment, love abounding in knowledge — incomplete manuscript | — |
+| 2 | ⬜ GAP | — | Christ's humiliation (2:5–11, *kenosis*) — not preached | — |
+| 3:1 | ■ PRIMARY | `Sermon - Rejoice in the Lord.md` | "Rejoice in the Lord" — sermon notes/outline | — |
+| 4:4–7 | ■ PRIMARY | `Sermon - Be Anxious for Nothing.md` | Peace that passes understanding — anxiety and prayer | — |
+| 4:4–7 | ◇ SECONDARY | — | Also secondary in `Sermon - Worry Is Lack of Faith.md` alongside Matt 6 | — |
+| 4 (full) | ■ PRIMARY | `Philippians 4 (raw draft).md` | Full chapter — contentment, strength, provision | — |
+
+---
+
+## Colossians
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1 | ⬜ GAP | — | Supremacy of Christ (1:15–20) — not preached | — |
+| 2:1–8 | ■ PRIMARY | `Colossians 2 - Quilted Together in Love (raw draft).md` | Church unity, gratitude as guardian against deception — communion Sunday | — |
+| 3–4:1 | ⬜ GAP | — | — | — |
+| 4:2–4 | ■ PRIMARY | `Colossians 4 - Devoted to Prayer.md` | Prayer as relationship, persistence, devotion | — |
+
+---
+
+## 1 Thessalonians
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–3:11 | ⬜ GAP | — | — | — |
+| 3:12–4:8 | ■ PRIMARY | `Sermon - The List I Burned.md` | Love and holiness — sexual ethics, sanctification | — |
+| 4:9–11 | ⬜ GAP | — | — | — |
+| 5:12–24 | ■ PRIMARY | `1 Thess 5 - Rejoice Always (raw draft).md` | Joy, prayer, thanksgiving, the whole man | — |
+
+---
+
+## 1 Timothy
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1 | ⬜ GAP | — | — | — |
+| 2:1–7 | ■ PRIMARY | `Sermon - Pray for Nero.md` | Praying for rulers — all people, every governing authority | — |
+| 3–6 | ⬜ GAP | — | Elder/deacon qualifications (3:1–13) — not preached | — |
+
+---
+
+## 2 Timothy
+
+2 Timothy is the best-covered NT epistle outside Romans — three distinct chapter sections, all preached.
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1:3–14 | ■ PRIMARY | `Sermon - Be a Seawall.md` | Fan into flame, guard the deposit — courage and calling | — |
+| 2:1–7 | ■ PRIMARY | `Sermon - Endure Like a Soldier Strive Like an Athlete Labor Like a Farmer.md`; `Sermon - Teacher Soldier Athlete Farmer.md` | Soldier, athlete, farmer — two sermons on the same passage (distinct approaches) | — |
+| 2:8–3:13 | ⬜ GAP | — | — | — |
+| 3:14–17 | ■ PRIMARY | `Sermon - The Measuring Stick.md` | Sufficiency of Scripture — *theopneustos*, profitable for doctrine, reproof | — |
+| 4 | ⬜ GAP | — | "Preach the word" (4:2), Paul's final charge — not preached | — |
+
+---
+
+## Titus
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–2 | ⬜ GAP | — | — | — |
+| 3:1–7 | ■ PRIMARY | `Sermon - The Blood of the Lamb Silences the Accuser.md` | Regeneration, renewal of Holy Spirit, justification by grace | — |
+
+---
+
+## Hebrews
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1 | ⬜ GAP | — | Supremacy of Christ over angels — not preached | — |
+| 2 | ■ PRIMARY | `Psalm 8 - Hebrews 2 (raw draft).md` | Son of Man, humiliation and exaltation — read alongside Ps 8 | — |
+| 3:12–4:16 | ■ PRIMARY | `Sermon - Rest in the Lord.md`; `Sermon - Know Jesus Know Rest.md` | Sabbath rest, hardening of heart, word as sword — two sermons | — |
+| 5–10 | ⬜ GAP | — | Melchizedek (5–7), new covenant (8), tabernacle (9), once-for-all sacrifice (10) — major gap | — |
+| 11:1 | ■ PRIMARY | `Sermon - Perfect Love Casts Out Fear.md` | Brief devotional on Heb 11:1 alongside 1 Jn 4:18 — not a full exposition | — |
+| 11:2–13:25 | ⬜ GAP | — | Hall of Faith (11), "run with endurance" (12:1–2), Hebrews 13 — not preached | — |
+
+**Hebrews gap summary**: Chapters 5–10 (the letter's theological center — Melchizedek priesthood, new covenant, tabernacle typology, once-for-all atonement) are a significant gap. Hebrews 12:1–2 ("cloud of witnesses, run with endurance") appears frequently as secondary but has never been a primary text.
+
+---
+
+## 1 Peter
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1:1–9 | ■ PRIMARY | `Sermon - Wear the Jersey.md` | Elect exiles, living hope, joy amid trials — identity in Christ | — |
+| 1:13–25 | ■ PRIMARY | `Sermon - Legacies.md` | Holy conduct, fear of God, imperishable seed — generational faithfulness | — |
+| 2–2:end | ⬜ GAP | — | Living stones, royal priesthood (2:9) — not preached | — |
+| 3:8–18 | ■ PRIMARY | `Sermon - Live Like You're Leaving.md` | Suffering for righteousness, always ready to give a defense (3:15) | — |
+| 4–5 | ⬜ GAP | — | — | — |
+
+---
+
+## 1 John
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–2:27 | ⬜ GAP | — | Walking in light (1:7), confession (1:9) — heavily secondary; 1:9 appears in dozens of sermons | — |
+| 2:28–3:10 | ■ PRIMARY | `Sermon - Little Children.md` | Children of God, no longer practicing sin, manifestation at his appearing | — |
+| 3:11–4:17 | ⬜ GAP | — | — | — |
+| 4:18 | ■ PRIMARY | `Sermon - Perfect Love Casts Out Fear.md` | "Perfect love casts out fear" — devotional, paired with Heb 11:1 | — |
+| 5 | ⬜ GAP | — | Assurance (5:13) — appears secondary but never primary | — |
+
+---
+
+## Revelation — Secondary Only
+
+Revelation has no primary sermons in the corpus. **Rev 7:9–17** (the great multitude before the throne) appears as a secondary anchor text in evangelism and missions contexts. The rapture research papers (`Rapture - Study Paper (incomplete draft).md`; `When Are We Leaving - Rapture Research Paper (THEO 6130).md`) engage Revelation in an academic context but are not sermons.
+
+Notable secondary appearances: Rev 7:9–17 (missions doxology), Rev 20 (millennium, likely in eschatology discussions), Rev 21–22 (new heaven/earth in hope and grief contexts).
+
+---
+
+## NT Epistles — Complete Gaps
+
+| Book | Chapters | Theological Significance of Gap |
+|------|----------|----------------------------------|
+| 2 Thessalonians | 3 | Day of the Lord, restrainer, man of lawlessness — eschatological |
+| Philemon | 1 | Slavery, forgiveness, imputed righteousness — personal letter as theology |
+| James | 5 | Faith and works (2:14–26), taming the tongue (3), wisdom, prayer for healing (5:14) |
+| 2 Peter | 3 | False teachers (ch. 2), day of the Lord (3:10), "scoffers in the last days" |
+| 2 John | 1 | Walking in truth, love command, warning against deceivers |
+| 3 John | 1 | Gaius, Diotrephes — hospitality and authority in the church |
+| Jude | 1 | Contend for the faith, angels, false teachers, doxology |
+
+---
+
+---
+
+## Whole-Bible Coverage Summary
+
+*As of March 22, 2026.*
+
+### By Testament
+
+| Testament | Books | Books with Primary Sermons | Complete Gaps | Secondary Only |
+|-----------|-------|---------------------------|---------------|----------------|
+| Old Testament | 39 | 21 | 18 | 4 (Isaiah, Daniel, Joel, Habakkuk, Micah, Zechariah — several) |
+| New Testament (Gospels + Acts) | 5 | 4 (Matthew, Luke, John, Acts) | 1 (Mark) | 0 |
+| New Testament (Epistles) | 21 | 14 | 7 (2 Thess, Philemon, James, 2 Pet, 2–3 Jn, Jude) | 1 (Revelation) |
+| **Total** | **66** | **~39** | **~26** | **~7** |
+
+### The Active Series
+
+**Romans** ("The Night Is Far Gone", 2025–2026) has the deepest coverage in the corpus: 39 sermons over 39 Sundays. Every chapter preached. Remaining verse gaps: ~76 verses across 9 ranges (see Gap Summary above).
+
+### Strongest Non-Romans Coverage
+
+| Book | Chapters Touched | Character |
+|------|-----------------|-----------|
+| Genesis | 10 ranges | Two informal arcs: creation/fall (1–4) and patriarchal (12–22, 37–39) |
+| Psalms | 12 chapters | Scattered devotional preaching; no sustained series |
+| Nehemiah | 4 chapters | Informal integrity/leadership arc |
+| 2 Timothy | 3 chapters | Most coherent non-Romans epistle coverage |
+| 1 Peter | 3 chapters | Suffering and identity arc |
+| Judges | 5 chapters | Gideon arc (6–8) + isolated sermons |
+
+### Strategic Gaps for Future Preaching
+
+The following represent passages of high theological importance with no primary preaching:
+
+| Priority | Gap | Why It Matters |
+|----------|-----|----------------|
+| ⬜ | **Isaiah 53** | Suffering Servant — atonement's OT ground; heavy secondary use, never primary |
+| ⬜ | **John 3** | Nicodemus, "God so loved" — most-quoted passage in corpus; no primary exposition |
+| ⬜ | **Hebrews 5–10** | Melchizedek, new covenant, once-for-all sacrifice — tabernacle typology never preached |
+| ⬜ | **Romans 5:12–21** | Federal headship — Adam/Christ; never primary despite being the series backbone |
+| ⬜ | **Revelation 1–6** | Christ among lampstands, letters to churches, throne room — no primary sermon |
+| ⬜ | **James 1–5** | Entire letter — faith + works, wisdom, prayer; notable gap in a practical canon |
+| ⬜ | **2 Samuel 7** | Davidic covenant — theological foundation for Christology |
+| ⬜ | **Daniel 7** | Son of Man vision — NT Christology's root; no primary sermon |
+| ⬜ | **Psalms of Ascent (120–134)** | Pilgrimage, "I lift my eyes to the hills," blessing of Zion — no primary sermons |
+| ⬜ | **John 17** | High Priestly Prayer — unity, sanctification, glory — no primary sermon |
+
+---
+
 *Soli Deo Gloria.*
