@@ -288,9 +288,9 @@ This file is maintained by **Operation 10: COVERAGE** in the sermon-map skill.
 | 1 | Genesis | 50 | 10 chapter ranges | ⚠️ PARTIAL — extensive early chapters; large gaps mid-book |
 | 2 | Exodus | 40 | 1 (ch. 14) | ⚠️ PARTIAL |
 | 3 | Leviticus | 27 | 0 | ⬜ GAP |
-| 4 | Numbers | 36 | 0 | ⬜ GAP |
+| 4 | Numbers | 36 | 1 (23:19) | ⚠️ PARTIAL |
 | 5 | Deuteronomy | 34 | 1 (ch. 8) | ⚠️ PARTIAL |
-| 6 | Joshua | 24 | 0 | ⬜ GAP |
+| 6 | Joshua | 24 | 1 (ch. 9) | ⚠️ PARTIAL |
 | 7 | Judges | 21 | 5 chapter ranges | ⚠️ PARTIAL |
 | 8 | Ruth | 4 | 0 | ⬜ GAP |
 | 9 | 1 Samuel | 31 | 2 (ch. 17, 28) | ⚠️ PARTIAL |
@@ -325,7 +325,7 @@ This file is maintained by **Operation 10: COVERAGE** in the sermon-map skill.
 | 38 | Zechariah | 14 | 0 primary; 9:9 / 12:10 secondary | ◇ SECONDARY ONLY |
 | 39 | Malachi | 4 | 0 | ⬜ GAP |
 
-**OT gap count**: 14 books with zero coverage (Leviticus, Numbers, Joshua, Ruth, 2 Samuel, 1 Chronicles, Ezra, Job, Song of Solomon, Lamentations, Hosea, Amos, Obadiah, Jonah, Nahum, Zephaniah, Haggai, Malachi — 18 complete gaps). Notable secondary-only books: Isaiah, Daniel, Habakkuk.
+**OT gap count**: 16 complete gaps (Leviticus, Ruth, 2 Samuel, 1 Chronicles, Ezra, Job, Song of Solomon, Lamentations, Hosea, Amos, Obadiah, Jonah, Nahum, Zephaniah, Haggai, Malachi). Numbers and Joshua reduced to partial: Numbers 23:19 preached in BFM Article 2 series (`Sermon - More Than Love.md`); Joshua 9 preached in `Sermon - The Price of Integrity.md`. Notable secondary-only books: Isaiah, Daniel, Habakkuk.
 
 ---
 
@@ -488,7 +488,9 @@ Psalms has **150 chapters**. No sustained series. Coverage is scattered across a
 | 8 | ■ PRIMARY | `Psalm 8 - Hebrews 2 (raw draft).md` | Humility of man, glory of God — read alongside Hebrews 2 | — |
 | 9–21 | ⬜ GAP | — | — | — |
 | 22 | ■ PRIMARY | `Romans 1 - Psalm 22 (Prophecy raw draft).md` | Messianic suffering psalm — preached alongside Romans 1 (prophecy angle) | — |
-| 23–41 | ⬜ GAP | — | Ps 23 (Good Shepherd), 27, 32, 34, 40 — notable gaps | — |
+| 23–30 | ⬜ GAP | — | Ps 23 (Good Shepherd), 27 — notable gaps | — |
+| 31:5–6 | ■ PRIMARY | `Sermon - More Than Love.md` | God's faithfulness — preached alongside Numbers 23:19, Jude 9, John 3:16 in BFM Article 2 series | — |
+| 32–41 | ⬜ GAP | — | Ps 32 (forgiveness), 34, 40 — notable gaps | — |
 | 42 | ■ PRIMARY | `Psalm 42 - As the Deer Pants.md` | Soul-thirst for God — depression and hope | — |
 | 43–45 | ⬜ GAP | — | — | — |
 | 46 | ■ PRIMARY | `Sermon - A Mighty Fortress.md`; `Sermon - Be Still.md` | "Be still and know" — two sermons (main service with 2 Chron 20; Sunday school Tozer series) | — |
@@ -506,7 +508,7 @@ Psalms has **150 chapters**. No sustained series. Coverage is scattered across a
 | 145 | ■ PRIMARY | `Psalm 145 - Good to All.md` | God's goodness to all — doxological | — |
 | 146–150 | ⬜ GAP | — | — | — |
 
-**Psalms gap summary**: 138 chapters never primary text. Notable gaps: Ps 23 (Good Shepherd), Ps 32 (forgiveness), Ps 51 (confession), Ps 73 (prosperity of the wicked), Ps 91 (shelter), Ps 110 (Melchizedek/Christ), Psalms of Ascent (120–134).
+**Psalms gap summary**: 137 chapters never primary text. Notable gaps: Ps 23 (Good Shepherd), Ps 32 (forgiveness), Ps 51 (confession), Ps 73 (prosperity of the wicked), Ps 91 (shelter), Ps 110 (Melchizedek/Christ), Psalms of Ascent (120–134).
 
 ---
 
