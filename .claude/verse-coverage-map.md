@@ -275,4 +275,306 @@ This file is maintained by **Operation 10: COVERAGE** in the sermon-map skill.
 
 ---
 
+---
+
+## Old Testament Overview
+
+*Last updated: March 22, 2026. Coverage mapped from all root `.md` sermon files and `Sermon - *.md` files. Secondary references are best-effort — not exhaustive.*
+
+### OT Book Status Summary
+
+| # | Book | Chapters | Primary Sermons | Status |
+|---|------|----------|-----------------|--------|
+| 1 | Genesis | 50 | 10 chapter ranges | ⚠️ PARTIAL — extensive early chapters; large gaps mid-book |
+| 2 | Exodus | 40 | 1 (ch. 14) | ⚠️ PARTIAL |
+| 3 | Leviticus | 27 | 0 | ⬜ GAP |
+| 4 | Numbers | 36 | 0 | ⬜ GAP |
+| 5 | Deuteronomy | 34 | 1 (ch. 8) | ⚠️ PARTIAL |
+| 6 | Joshua | 24 | 0 | ⬜ GAP |
+| 7 | Judges | 21 | 5 chapter ranges | ⚠️ PARTIAL |
+| 8 | Ruth | 4 | 0 | ⬜ GAP |
+| 9 | 1 Samuel | 31 | 1 (ch. 28) | ⚠️ PARTIAL |
+| 10 | 2 Samuel | 24 | 0 | ⬜ GAP |
+| 11 | 1 Kings | 22 | 1 (18:33–41) | ⚠️ PARTIAL |
+| 12 | 2 Kings | 25 | 1 (25:1–12) | ⚠️ PARTIAL |
+| 13 | 1 Chronicles | 29 | 0 | ⬜ GAP |
+| 14 | 2 Chronicles | 36 | 1 primary (ch. 15); ch. 20 secondary | ⚠️ PARTIAL |
+| 15 | Ezra | 10 | 0 | ⬜ GAP |
+| 16 | Nehemiah | 13 | 4 chapter ranges | ⚠️ PARTIAL |
+| 17 | Esther | 10 | 1 (ch. 4) | ⚠️ PARTIAL |
+| 18 | Job | 42 | 0 | ⬜ GAP |
+| 19 | Psalms | 150 | 12 chapters | ⚠️ PARTIAL — scattered coverage; no sustained series |
+| 20 | Proverbs | 31 | 1 (ch. 13) | ⚠️ PARTIAL |
+| 21 | Ecclesiastes | 31 | 1 (ch. 3, memorial) | ⚠️ PARTIAL |
+| 22 | Song of Solomon | 8 | 0 | ⬜ GAP |
+| 23 | Isaiah | 66 | 0 primary; extensively secondary | ◇ SECONDARY ONLY |
+| 24 | Jeremiah | 52 | 1 (ch. 44) | ⚠️ PARTIAL |
+| 25 | Lamentations | 5 | 0 | ⬜ GAP |
+| 26 | Ezekiel | 48 | 1 (ch. 37) | ⚠️ PARTIAL |
+| 27 | Daniel | 12 | 0 primary; secondary in eschatology contexts | ◇ SECONDARY ONLY |
+| 28 | Hosea | 14 | 0 | ⬜ GAP |
+| 29 | Joel | 3 | 0 primary; ch. 2 secondary (Acts 2 context) | ◇ SECONDARY ONLY |
+| 30 | Amos | 9 | 0 | ⬜ GAP |
+| 31 | Obadiah | 1 | 0 | ⬜ GAP |
+| 32 | Jonah | 4 | 0 | ⬜ GAP |
+| 33 | Micah | 7 | 0 primary; 5:2 secondary (nativity) | ◇ SECONDARY ONLY |
+| 34 | Nahum | 3 | 0 | ⬜ GAP |
+| 35 | Habakkuk | 3 | 0 primary; 2:4 secondary (Romans 1:17 foundation) | ◇ SECONDARY ONLY |
+| 36 | Zephaniah | 3 | 0 | ⬜ GAP |
+| 37 | Haggai | 2 | 0 | ⬜ GAP |
+| 38 | Zechariah | 14 | 0 primary; 9:9 / 12:10 secondary | ◇ SECONDARY ONLY |
+| 39 | Malachi | 4 | 0 | ⬜ GAP |
+
+**OT gap count**: 14 books with zero coverage (Leviticus, Numbers, Joshua, Ruth, 2 Samuel, 1 Chronicles, Ezra, Job, Song of Solomon, Lamentations, Hosea, Amos, Obadiah, Jonah, Nahum, Zephaniah, Haggai, Malachi — 18 complete gaps). Notable secondary-only books: Isaiah, Daniel, Habakkuk.
+
+---
+
+## Genesis
+
+Genesis has **50 chapters**. No sustained series preached. Chapters covered come from two informal arcs: a creation/fall sequence (1–4) and a patriarchal sequence (12–13, 16, 21–22, 24, 37–39). Significant mid-book gap (ch. 5–11, 17–20, 25–36, 40–50).
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–2 | ■ PRIMARY | `Gen 1 - Two Ways to Know Truth (raw transcript).md`; `Sermon - Beautiful But Not Safe (Genesis 1-2).md` | Two distinct sermons — epistemology angle and creation/anthropic angle | — |
+| 3 | ■ PRIMARY | `Gen 3 - The Curse.md`; `Genesis 3 - Sanctity of Life Sunday (raw draft).md` | Two sermons on ch. 3 — general curse exposition and Sanctity of Life application | — |
+| 4 | ■ PRIMARY | `Gen 4 - Cain and Abel.md` | Cain/Abel narrative | — |
+| 5–11 | ⬜ GAP | — | Genealogies, flood, Tower of Babel — never primary text | — |
+| 12 | ■ PRIMARY | `Abrahamic Covenant - Genesis 12 (repaired draft).md` / `(flagged draft).md` / `(raw draft).md`; `Sermon - Grafted In.md` | Three companion files (raw → flagged → repaired) plus a separate Grafted In sermon. Primary covenant sermon. | — |
+| 13 | ■ PRIMARY | `Genesis 13 - A Tale of Two Men (raw transcript).md` | Lot and Abram's separation | — |
+| 14–15 | ⬜ GAP | — | Melchizedek (14), covenant ceremony (15) — high theological value; never primary | — |
+| 16 | ■ PRIMARY | `Sermon - The World's Oldest Family Feud (Genesis 16).md` | Hagar and Ishmael | — |
+| 17–20 | ⬜ GAP | — | Covenant renewal, Sodom, Abraham/Abimelech — not preached | — |
+| 21 | ■ PRIMARY | `Gen 21 - My God Is So Great.md` | Isaac's birth, Hagar and Ishmael sent away | — |
+| 22 | ■ PRIMARY | `Genesis 22 - There and Back Again.md` | Binding of Isaac — typology sermon | — |
+| 23 | ⬜ GAP | — | Sarah's death | — |
+| 24 | ■ PRIMARY | `Genesis 24 - Eliezer and Rebekah (raw draft).md` | Eliezer as type of Holy Spirit | — |
+| 25–36 | ⬜ GAP | — | Jacob cycle — Esau, Bethel, Rachel, 12 tribes, Dinah, wrestling — not preached | — |
+| 37 | ■ PRIMARY | `Sermon - Joseph (Genesis 37) 2018.md`; `Sermon - Genesis 37-39.md` | Joseph sold — two sermons, 2018 and combined arc | — |
+| 38 | ◇ SECONDARY | — | Judah and Tamar — appears in Genesis 37-39 sermon context | — |
+| 39 | ■ PRIMARY | `Sermon - Genesis 37-39.md`; `Genesis 39 - The Faithful Servant.md` | Joseph in Potiphar's house — two sermons | — |
+| 40–50 | ⬜ GAP | — | Joseph's rise, prison, Pharaoh, family reunion, Jacob's death — not preached | — |
+
+**Genesis gap summary**: 5–11 (pre-Abrahamic), 14–15 (Melchizedek and covenant ceremony — notable theological gap), 17–20, 23, 25–36 (Jacob cycle), 40–50 (Joseph's vindication). The Joseph arc is particularly thin — only the crisis moments (37, 39); the resolution (40–50) never preached.
+
+---
+
+## Exodus
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–13 | ⬜ GAP | — | Burning bush, plagues, Passover — not preached | — |
+| 14 | ■ PRIMARY | `Sermon - The Crucible.md` | Red Sea crossing — crucible of faith | — |
+| 15–40 | ⬜ GAP | — | Song of Moses, wilderness, Sinai, tabernacle — not preached | — |
+
+---
+
+## Deuteronomy
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–7 | ⬜ GAP | — | — | — |
+| 8 | ■ PRIMARY | `Deuteronomy 8 - Count Your Blessings (repaired draft).md` | Wilderness provision, dangers of prosperity | — |
+| 9–34 | ⬜ GAP | — | — | — |
+
+---
+
+## Judges
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–2 | ■ PRIMARY | `Judges 1-2 - Humpty Dumpty (raw notes).md` | Incomplete conquest, apostasy cycle introduced | — |
+| 3–5 | ⬜ GAP | — | Othniel, Ehud, Deborah — not preached | — |
+| 6 | ■ PRIMARY | `Judges 6 - Called in the Wine Press (raw notes).md`; `Judges 6 - Lord Just Once More.md` | Gideon's call — two sermons | — |
+| 7 | ■ PRIMARY | `Judges 7 - Gideons Fear (raw notes).md` | Gideon's 300 | — |
+| 8 | ■ PRIMARY | `Judges 8 - Prophet Priest and King (raw notes).md` | Gideon's failure, refusing kingship | — |
+| 9–10 | ⬜ GAP | — | Abimelech — not preached | — |
+| 11 | ■ PRIMARY | `Sermon - Judges 11.md` | Jephthah's vow | — |
+| 12–21 | ⬜ GAP | — | Samson (13–16), Micah's idol, Gibeah, civil war — not preached | — |
+
+**Note on Judges series**: Chapters 1–2 and 6–8 suggest an informal Gideon arc. Judges 11 is standalone. Samson (chs. 13–16) — a major narrative and theological gap — has never been primary text.
+
+---
+
+## 1 Samuel
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–27 | ⬜ GAP | — | Hannah, Samuel's call, Saul, David's rise — not preached | — |
+| 28 | ■ PRIMARY | `Sermon - Power Encounter.md` | Saul and the medium of Endor — occult/evangelism context | — |
+| 29–31 | ⬜ GAP | — | — | — |
+
+---
+
+## 1 Kings
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–17 | ⬜ GAP | — | Solomon, temple, divided kingdom, Elijah — not preached | — |
+| 18:33–41 | ■ PRIMARY | `Sermon - Choose This Day.md` | Elijah on Carmel — fire from heaven, decisive commitment | — |
+| 19–22 | ⬜ GAP | — | Elijah's despair, Naboth, Ahab — not preached | — |
+
+---
+
+## 2 Kings
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–24 | ⬜ GAP | — | — | — |
+| 25:1–12 | ■ PRIMARY | `Sermon - Don't Trust Your Heart.md` | Fall of Jerusalem — the danger of self-deception | — |
+| 25:13–30 | ⬜ GAP | — | — | — |
+
+---
+
+## 2 Chronicles
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–14 | ⬜ GAP | — | — | — |
+| 15 | ■ PRIMARY | `Sermon - The Hand That Won't Let Go.md` | Asa's reformation — seeking God wholeheartedly | — |
+| 16–19 | ⬜ GAP | — | — | — |
+| 20 | ◇ SECONDARY | — | Jehoshaphat's prayer — appears alongside Psalm 46 in `Sermon - A Mighty Fortress.md` | — |
+| 21–36 | ⬜ GAP | — | — | — |
+
+---
+
+## Nehemiah
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1 | ■ PRIMARY | `Prayer Service - Bathing the Decision (Nehemiah 1).md`; `Sermon - All the King's Men.md` | Nehemiah's prayer — two sermons from different angles (prayer service / leadership) | — |
+| 2 | ■ PRIMARY | `Nehemiah 2 - City in Ruins.md` | Nehemiah's mission to Jerusalem | — |
+| 3–4 | ⬜ GAP | — | Wall-building, opposition — not preached | — |
+| 5 | ■ PRIMARY | `Sermon - The Watching World.md` | Economic justice, integrity before the nations | — |
+| 6 | ⬜ GAP | — | Sanballat's plots — not preached | — |
+| 7:1–5 | ■ PRIMARY | `Sermon - Faithful and God-Fearing.md` | Gatekeepers and the register — integrity in leadership | — |
+| 7:6–13:31 | ⬜ GAP | — | — | — |
+
+**Nehemiah gap summary**: Chapters 1–2 and 5, 7:1–5 covered. Chapter 6 (Sanballat's final attempt, Nehemiah's response) — a notable gap given the integrity theme that runs through the Nehemiah sermons.
+
+---
+
+## Esther
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–3 | ⬜ GAP | — | — | — |
+| 4 | ■ PRIMARY | `Esther 4 - For Such a Time as This.md` | Mordecai's charge — providential calling | — |
+| 5–10 | ⬜ GAP | — | — | — |
+
+---
+
+## Psalms
+
+Psalms has **150 chapters**. No sustained series. Coverage is scattered across approximately 12 distinct psalms — a mix of devotional preaching, Sunday school, and memorial services. Large blocks (3–7, 9–41 except a few, 43–45, 47–67, 69–83, 85–102, 104–118, 120–138, 140–144, 146–150) are complete gaps.
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1 | ■ PRIMARY | `Psalm 1 - Blessed Is the Man.md` | Two paths — blessed man vs. wicked | — |
+| 2 | ■ PRIMARY | `Psalm 2 (raw draft).md` | The anointed king — messianic | — |
+| 3–7 | ⬜ GAP | — | — | — |
+| 8 | ■ PRIMARY | `Psalm 8 - Hebrews 2 (raw draft).md` | Humility of man, glory of God — read alongside Hebrews 2 | — |
+| 9–21 | ⬜ GAP | — | — | — |
+| 22 | ■ PRIMARY | `Romans 1 - Psalm 22 (Prophecy raw draft).md` | Messianic suffering psalm — preached alongside Romans 1 (prophecy angle) | — |
+| 23–41 | ⬜ GAP | — | Ps 23 (Good Shepherd), 27, 32, 34, 40 — notable gaps | — |
+| 42 | ■ PRIMARY | `Psalm 42 - As the Deer Pants.md` | Soul-thirst for God — depression and hope | — |
+| 43–45 | ⬜ GAP | — | — | — |
+| 46 | ■ PRIMARY | `Sermon - A Mighty Fortress.md`; `Sermon - Be Still.md` | "Be still and know" — two sermons (main service with 2 Chron 20; Sunday school Tozer series) | — |
+| 47–67 | ⬜ GAP | — | — | — |
+| 68 | ■ PRIMARY | `Psalm 68 - Nothing Too Hard for God.md`; `Psalm 68 Part 2 (raw draft).md` | Two-part sermon on Ps 68 — victory, ascension, provision | — |
+| 69–83 | ⬜ GAP | — | — | — |
+| 84 | ■ PRIMARY | `Psalm 84 - Three Blessings.md`; `Psalm 84 - Where the Sparrows Nest.md` | Two sermons on Ps 84 — longing for the house of God | — |
+| 85–102 | ⬜ GAP | — | — | — |
+| 103 | ■ PRIMARY | `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md`; `Sermon - Bless the Lord O My Soul.md` | Two sermons on Ps 103 — hesed love, forgiveness, compassion | — |
+| 104–118 | ⬜ GAP | — | Ps 110 (Melchizedek, heavily quoted in NT) is notable gap | — |
+| 119:161–168 | ■ PRIMARY | `Psalm 119 161-168 (raw draft).md` | Fear of God, love of the law — stanza sermon | — |
+| 120–138 | ⬜ GAP | — | Psalms of Ascent (120–134) — notable gap for a pilgrim theme | — |
+| 139 | ■ PRIMARY | `Service - Denise's Friend Funeral (Psalm 139).md` | God's omniscience, personal knowledge — memorial service | — |
+| 140–144 | ⬜ GAP | — | — | — |
+| 145 | ■ PRIMARY | `Psalm 145 - Good to All.md` | God's goodness to all — doxological | — |
+| 146–150 | ⬜ GAP | — | — | — |
+
+**Psalms gap summary**: 138 chapters never primary text. Notable gaps: Ps 23 (Good Shepherd), Ps 32 (forgiveness), Ps 51 (confession), Ps 73 (prosperity of the wicked), Ps 91 (shelter), Ps 110 (Melchizedek/Christ), Psalms of Ascent (120–134).
+
+---
+
+## Proverbs
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–12 | ⬜ GAP | — | — | — |
+| 13 | ■ PRIMARY | `Proverbs 13 (raw draft).md` | Wise son/foolish son, discipline, diligence | — |
+| 14–31 | ⬜ GAP | — | — | — |
+
+---
+
+## Ecclesiastes
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–2 | ⬜ GAP | — | — | — |
+| 3 | ■ PRIMARY | `Ecclesiastes 3 Ann Burdette Funeral.md` | "A time for everything" — memorial service context | — |
+| 4–12 | ⬜ GAP | — | — | — |
+
+---
+
+## Jeremiah
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–43 | ⬜ GAP | — | — | — |
+| 44 | ■ PRIMARY | `Jeremiah 44 - The Altar of Your Heart.md` | Israelites in Egypt — idolatry, self-deception, hardened hearts | — |
+| 45–52 | ⬜ GAP | — | — | — |
+
+---
+
+## Ezekiel
+
+| Range | Status | Primary Sermon(s) | Notes | Date |
+|-------|--------|-------------------|-------|------|
+| 1–36 | ⬜ GAP | — | — | — |
+| 37 | ■ PRIMARY | `Ezekiel 37 - Can These Bones Live (raw draft).md` | Valley of dry bones — resurrection, spiritual renewal | — |
+| 38–48 | ⬜ GAP | — | — | — |
+
+---
+
+## Isaiah — Secondary Only
+
+Isaiah has not been the primary text of any sermon in the corpus. However, it is one of the most heavily *cited* books — appearing as secondary reference in dozens of sermons:
+
+- **Isaiah 6** (throne room vision) — secondary in worship and holiness contexts
+- **Isaiah 40** ("they shall mount up with wings") — secondary in perseverance and strength contexts
+- **Isaiah 53** (Suffering Servant) — secondary in atonement, cross, and gospel presentation sermons
+- **Isaiah 55** ("come, all who are thirsty") — secondary in evangelism and gospel call sermons
+
+No chapter has been the primary preaching text. A sustained Isaiah series or even a single exposition of Isa 53 would significantly deepen the atonement and Suffering Servant strands of the corpus.
+
+---
+
+## Other OT Books — Complete Gaps
+
+The following OT books have no primary sermons and no documented secondary references in the corpus:
+
+| Book | Chapters | Theological Significance of Gap |
+|------|----------|----------------------------------|
+| Leviticus | 27 | Tabernacle, priesthood, atonement typology — heavy NT linkage (Hebrews) |
+| Numbers | 36 | Wilderness testing, bronze serpent (Jn 3:14), Balaam |
+| Joshua | 24 | Conquest, rest, covenant renewal — Hebrews 3–4 linkage |
+| Ruth | 4 | Kinsman-redeemer typology, hesed loyalty |
+| 2 Samuel | 24 | Davidic covenant (ch. 7) — theologically foundational |
+| 1 Chronicles | 29 | Temple preparation, David's prayer |
+| Ezra | 10 | Return from exile, covenant renewal |
+| Job | 42 | Suffering, sovereignty, the whirlwind answer |
+| Song of Solomon | 8 | Marriage, love, Christ-and-church typology |
+| Lamentations | 5 | Grief, desolation, "great is thy faithfulness" (3:23) |
+| Hosea | 14 | Marriage as covenant, apostasy and restoration |
+| Amos | 9 | Justice, true worship, "let justice roll down" |
+| Obadiah | 1 | Edom, pride, the day of the Lord |
+| Jonah | 4 | Missions, reluctance, God's mercy for enemies |
+| Nahum | 3 | God's wrath against Nineveh |
+| Zephaniah | 3 | Day of the Lord, remnant |
+| Haggai | 2 | Rebuilding, priorities, "consider your ways" |
+| Malachi | 4 | Covenant faithfulness, tithing, Elijah, "the sun of righteousness" |
+
+---
+
 *Soli Deo Gloria.*
