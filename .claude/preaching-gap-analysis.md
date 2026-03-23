@@ -23,7 +23,7 @@
 |------|----------|--------|-------|
 | **Genesis** | Gen 1–3, 4, 11, 13, 21, 22–23, 24, 29, 37–39, 43; Gen 6–9 and 12/15 (survey only) | Good | Good on creation, fall, Joseph. Gen 4 (Cain/Abel) ✓. Gen 22 now covered by three manuscripts (`Genesis 22 - There and Back Again`, `Genesis 22 - Binding of Isaac`, `Genesis 22-23 - The Testing Ground`). Gen 13 (Tale of Two Men) ✓. Gen 21 (My God Is So Great) ✓. Gen 24 (Eliezer and Rebekah) ✓. Gen 6–9 (Noahic covenant) and Gen 12:1–3, 15:1–6 (Abrahamic covenant) are surveyed in overview form in `Eph 3 - The Covenants.md` — not expository primary texts. **Remaining gaps: Gen 12/15/17 as dedicated expository sermons.** *(Corrected March 2026 — Gen 4, Gen 22 were listed as gaps but files exist.)* |
 | **Exodus** | Ex 2, 5–6, 14; Ex 19 (survey only) | Thin | Red Sea covered well. Ex 19:3–8 (Mosaic covenant, Sinai overview) surveyed in `Eph 3 - The Covenants.md` — not an expository primary text. **Remaining gaps: Ex 3 (burning bush/the name of God), Ex 19–20 as a dedicated Sinai sermon, Ex 32–34 (golden calf/renewal).** |
-| **Leviticus** | Lev 16 ✓ | Thin | Day of Atonement covered (`Other-Sermons/Sermons/Leviticus 16.md`). *(Corrected March 2026 — previously listed as MISSING but Lev 16 sermon exists.)* **Remaining gaps: holiness code (Lev 17–26), sacrificial system overview (Lev 1–7).** |
+| **Leviticus** | Lev 16 ✓ | Thin | Day of Atonement covered (`Leviticus 16.md`). *(Corrected March 2026 — previously listed as MISSING but Lev 16 sermon exists.)* **Remaining gaps: holiness code (Lev 17–26), sacrificial system overview (Lev 1–7).** |
 | **Numbers** | Num 11 ✓, Num 16 (ref only), Num 21 ✓ | Thin | Discontentment and manna (Num 11 — *The Sin We Don't Call Sin*, cleaned ms. 2026) and bronze serpent (Num 21) covered. **Gaps: Num 6 (Aaronic blessing), Num 14 (unbelief in the wilderness)** |
 | **Deuteronomy** | Deut 8 ✓ | Thin | "Count Your Blessings" sermon on Deut 8:2–10, 17 (`Deuteronomy 8 - Count Your Blessings (repaired draft).md`). *(Corrected March 2026 — previously listed as MISSING but Deut 8 sermon exists.)* **Remaining gaps: Deut 6 (*shema*), Deut 27–30 (blessings/curses), Deut 32–33.** |
 
@@ -40,7 +40,7 @@
 | **2 Samuel** | 2 Sam 7 (survey only) | **MISSING** | 2 Sam 7 (Davidic covenant) is surveyed in overview form in `Eph 3 - The Covenants.md` — not an expository primary text. **Remaining gaps: 2 Sam 11–12 (Bathsheba, Nathan's rebuke), the pattern of grace-failure-restoration. No dedicated expository sermon on any 2 Samuel text.** Heavy use of Psalm 51 throughout corpus without ever preaching the backstory that generated it. |
 | **1 Kings** | 1 Kgs 3, 18 | Thin | Elijah on Carmel covered well. **Gaps: 1 Kgs 8 (Solomon's dedication prayer), 1 Kgs 19 (Elijah under the broom tree — exhaustion and ministry burnout, directly relevant to congregation)** |
 | **2 Kings** | 2 Kgs 5, 25 | Thin | Naaman and the fall of Jerusalem. **Gaps: 2 Kgs 18–19 (Hezekiah's prayer and God's deliverance)** |
-| **1 Chronicles** | 1 Chron 4 ✓ | Thin | "What God Remembers" on 1 Chron 4:5–10 (Jabez) — the corrective sermon exists (`Other-Sermons/Sermons/1 Chronicles 4 - What God Remembers.md`). *(Corrected March 2026 — previously listed as MISSING but sermon exists.)* |
+| **1 Chronicles** | 1 Chron 4 ✓ | Thin | "What God Remembers" on 1 Chron 4:5–10 (Jabez) — the corrective sermon exists (`1 Chronicles 4 - What God Remembers.md`). *(Corrected March 2026 — previously listed as MISSING but sermon exists.)* |
 | **2 Chronicles** | 2 Chron 15, 20 | Thin | Jehoshaphat's battle covered well. **Gap: 2 Chron 7:14 (one of the most-quoted but most-misapplied OT promises)** |
 | **Ezra** | Ezra 4, 6 | Thin | God's sovereignty over opposition covered in `Sermon - When God Is For Us.md` (Ezra 4:1-6; 4:24; 6:2-end) — Nebuchadnezzar's humbling, Persia's fear of God, Israel's captors made to pay for the temple rebuild. Hiroo Onoda illustration: the enemy fights on not knowing the war is won. **Gap: Ezra 7–8 (Ezra's preparation: "he had set his heart to study the law")** |
 | **Nehemiah** | Neh 1–8, 13 | **Well-Covered** | 8-sermon arc. The strongest non-Romans sustained series in the archive. |
@@ -1180,7 +1180,7 @@ The congregation has been given permission to suffer. They have not been given l
 
 ---
 
-*Part XI compiled March 2026. Verified against direct file reads and grep searches of corpus. Covenant of works claim verified in `Eternal Security.md` and `Other-Sermons/sebts-reference/Titus 1 - slavery.txt`. Common grace claim verified in `Other-Sermons/Sermons/ps14.md`. Three uses of the law verified in `Other-Sermons/Sermons/jeremiah 7.md`, `Romans 3 - pt 2.md`, and `Romans 10.md`. All gap claims reflect this repository only.*
+*Part XI compiled March 2026. Verified against direct file reads and grep searches of corpus. Covenant of works claim verified in `Eternal Security.md` and `Titus 1 - slavery.txt`. Common grace claim verified in `ps14.md`. Three uses of the law verified in `jeremiah 7.md`, `Romans 3 - pt 2.md`, and `Romans 10.md`. All gap claims reflect this repository only.*
 
 ---
 
@@ -1419,7 +1419,7 @@ The James gap flagged in Part XII (James 2–5 never the primary text) remains u
 
 #### 5. Romans 15 - Carry Water.md — Archive Treatment of Romans 15:1-3
 
-**File:** `Other-Sermons/Sermons/Romans 15 - Carry Water.md`
+**File:** `Romans 15 - Carry Water.md`
 **Passage:** Romans 15:1-3 (primary); Romans 14:20; Proverbs 27:17; Colossians 3:3; John 4:14; Matthew 26:53; Psalm 34:8; John 14:6
 
 **Status:** Cleaned, verified, and added to corpus. This is an earlier/archive manuscript on Romans 15:1-3 distinct from the primary series manuscript `Romans 15a - The Welcome We've Been Given.md`. The two treatments are complementary: this one focuses on bearing with the weak and the water-carrying motif; the primary series manuscript focuses on welcome and Gentile inclusion.

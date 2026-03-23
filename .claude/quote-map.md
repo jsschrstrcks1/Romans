@@ -275,7 +275,7 @@
 | 9 | On the objective of Christ's death | Sermon #2483, "The Objective of Christ's Death" | ✅ Green — sermon number confirmed | Various | 1 |
 | 10 | "Fellowship with known and vital error is participation in sin… but there is a vast difference between separation from error and separation from those who are in Christ Jesus but differ from us in minor matters." | Attributed to Spurgeon | ⚠️ Yellow | Various | 1 |
 | 11 | "Wailing of Risca" (reference/sermon) | Spurgeon | ⚠️ Yellow | Various | 2 |
-| 12 | "Sexual immorality is proof you don't find your joy in the Lord." | Attributed to Spurgeon | ❌ Red — **not found in Spurgeon corpus**; sounds like Piper's Christian Hedonism framework | `Other-Sermons/Sermons/article 15.md` | 1 |
+| 12 | "Sexual immorality is proof you don't find your joy in the Lord." | Attributed to Spurgeon | ❌ Red — **not found in Spurgeon corpus**; sounds like Piper's Christian Hedonism framework | `article 15.md` | 1 |
 | 13 | "Free will carried many a soul to hell." | Series 1857–1858, p. 1783 | ✅ Green — primary source confirmed | `Galatians 6 - Sowing and Reaping.md` | 1 |
 
 ---
