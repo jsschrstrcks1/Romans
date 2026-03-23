@@ -258,13 +258,13 @@ The full flag system — not just three symbols:
 
 ### Scope Boundaries
 
-- **In-scope**: Root `.md` sermon files, `Sermon - *.md`, pastor's own files in `Other-Sermons/Sermons/`
+- **In-scope**: Root `.md` sermon files, `Sermon - *.md`, pastor's own files in ``
 - **Out-of-scope**: `quotes-and-references/`, other preachers' sermons in `Other-Sermons/`
 - Without scope boundaries, AUDIT would flag 1500+ reference files as "orphans"
 
 ### Procedure
 
-1. **Scan sermon files** on the filesystem (Glob for `*.md` in root, `Sermon - *.md`, `Other-Sermons/Sermons/*.md`)
+1. **Scan sermon files** on the filesystem (Glob for `*.md` in root, `Sermon - *.md`, `*.md`)
 2. **Scan map entries** by Grepping for backtick-wrapped filenames in sermon-map.md (process in chunks by section)
 3. **Compare and report:**
    - **Orphaned files**: pastor's own sermons with no map entry

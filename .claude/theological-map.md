@@ -70,10 +70,10 @@ Sovereignty is also taught as the ground of Christian joy and rest. God’s cont
 
 #### God's Answer to "Why" Is His Name, Not an Explanation
 > "When you're asking why, God introduces himself."
-> — Steven Davey (paraphrase), cited in `Other-Sermons/Sermons/ex 6-7.md`
+> — Steven Davey (paraphrase), cited in `ex 6-7.md`
 
 > "So what does God say to Moses, how does he respond to Moses plea from this slough of despond? He says: I am the Lord."
-> — `Other-Sermons/Sermons/ex 6-7.md`
+> — `ex 6-7.md`
 
 God's pastoral response to human discouragement and despair is not a detailed explanation of His purposes but a covenantal self-disclosure — "I am the LORD" (Exodus 6:2, 6, 7, 8, 29; 7:5, 17). He does not answer the question "why" by explaining the suffering; He answers it by reminding His people who He is and what He has bound Himself to: *I am your God. You are my people. I will bring you out. I have a future for you.* The Cowper/Bunyan "Slough of Despond" framework grounds this pastorally: experienced believers often fall deeper into discouragement the more clearly they see God, because they also see more clearly how far they fall short. God's answer to both the new believer overwhelmed by their sinfulness and the long-time believer overwhelmed by the distance yet to travel is the same: *I am the LORD.* **Explicit. Tradition: Reformed, Puritan (Bunyan, Cowper).**
 
@@ -115,7 +115,7 @@ The 40-year wait in Midian while the Israelites suffered is the controlling illu
 
 Cross-reference: Luke 18:7–8 (ESV) — "will not God give justice to his elect, who cry to him day and night?... I tell you, he will give justice to them speedily." James 4:2–3 — "you do not have, because you do not ask."
 
-— `Other-Sermons/Sermons/Exodus 2.md`
+— `Exodus 2.md`
 
 **Explicit. Tradition: Classical theism with pastoral application; Reformed Baptist.**
 
@@ -1403,7 +1403,7 @@ The Macedonian and Achaian collection for the Jerusalem saints (Rom 15:25–27) 
 | **Sentimental Christianity** | "Biblical love is not morally neutral. It does not bless what destroys people." | `romans 12 pt 3.md` | Explicitly rejected |
 | **Sexual immorality as broken compass** | "This is the root cause of all sexual immorality. Whether it's adultery, pornography, fornication by those not married, or same-sex attraction — the root is sin tainting the longings of our heart, and the fruit is immorality." All sexual immorality — adultery, pornography, fornication, homosexuality — traced to the same root: a heart whose compass points to self rather than God (Jer 17:9; Gen 6:5; Eph 4:18). The culture's "follow your heart" ethic is named as the primrose path to hell. BFM Article XV applied directly. | `Sermon - Christians and the Social Order.md` | Explicitly rejected; all forms named and grounded in total depravity |
 | **Idolatry (broadly)** | "If football is more important than hearing the word of God... football is your idol." | `mark 10 - sun june 2nd.md` | Explicitly rejected |
-| **Idolatry — Egypt/America parallel** | Egypt had 2,000+ deities, starting from animism and morphing into anthropomorphism. America has politics, comfort, rights, and presidents. Psalm 115:4–8: idols cannot speak, see, or hear — and those who make them become like them. A.W. Tozer (*The Knowledge of the Holy*, ch. 1): "What comes into our minds when we think about God is the most important thing about us." The idols we choose to worship reveal who we are. | `Other-Sermons/Sermons/Exodus 2.md` | Explicitly rejected |
+| **Idolatry — Egypt/America parallel** | Egypt had 2,000+ deities, starting from animism and morphing into anthropomorphism. America has politics, comfort, rights, and presidents. Psalm 115:4–8: idols cannot speak, see, or hear — and those who make them become like them. A.W. Tozer (*The Knowledge of the Holy*, ch. 1): "What comes into our minds when we think about God is the most important thing about us." The idols we choose to worship reveal who we are. | `Exodus 2.md` | Explicitly rejected |
 | **Idolatry — soul's thirst misdirected** | "If you desire anything in your life like this that isn't God, that's idolatry." The deer's panting thirst (Ps 42:1 — "As a deer pants for flowing streams, so pants my soul for you, O God") as diagnostic: what does your soul long after with that intensity? Every human soul thirsts after something with ultimate devotion; if that object is not God, it is an idol. Sin does not satisfy — it amplifies. "Instead of our thirst being satisfied, our thirsts are amplified." | `Psalm 42 - As the Deer Pants.md` | Explicitly rejected |
 | **Idolatry through drift, not deliberate rebellion** | "I think most people stumble into idolatry — not intentionally. They don't wake up one morning and say, *How can I rebel against God today?*" Long-time Christians lose sight of God through incremental compromise: skipping Bible reading, prayer, fellowship, worship — "a death by a thousand cuts." Idolatry of the heart is often the end result of accumulated small decisions, not a single act of apostasy. | `Psalm 42 - As the Deer Pants.md` | Explicitly rejected |
 

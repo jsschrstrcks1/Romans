@@ -43,8 +43,8 @@
 |---|---|---|---|
 | Creator of All Things | Strong | `Gen 21 - My God Is So Great.md`, `Romans 1 (2024).md`, `Romans 1c - The Fingerprints of God.md` | Classical Theism |
 | Providence over History and Nations | Very Strong | `Romans 13.md`, `Sermon - When God Is For Us.md` | Reformed Baptist |
-| God Sees / Hears / Knows / Acts | Strong | `Other-Sermons/Sermons/Exodus 2.md` | Classical Theism, Pastoral |
-| God's "Why" Answered by His Name | Strong | `Other-Sermons/Sermons/ex 6-7.md` | Reformed, Puritan (Bunyan, Cowper) |
+| God Sees / Hears / Knows / Acts | Strong | `Exodus 2.md` | Classical Theism, Pastoral |
+| God's "Why" Answered by His Name | Strong | `ex 6-7.md` | Reformed, Puritan (Bunyan, Cowper) |
 
 ---
 
@@ -77,7 +77,7 @@
 |---|---|---|---|
 | Abel as Type of Christ | Strong | `Gen 4 - Cain and Abel.md` | Reformed Typology |
 | Isaac / Moriah as Type | Strong | `Genesis 22-23*.md` | Reformed Typology |
-| Day of Atonement / Leviticus 16 | Moderate | `Other-Sermons/Sermons/Leviticus 16.md` | Reformed Typology |
+| Day of Atonement / Leviticus 16 | Moderate | `Leviticus 16.md` | Reformed Typology |
 | Adam–Christ Parallel (Rom 5) | Very Strong | `Romans 5.md` | Pauline |
 
 ---
@@ -256,7 +256,7 @@
 |---|---|---|---|
 | Transformed Mind (Rom 12:1-2) | Very Strong | `Romans 12.md` | Pauline |
 | Living Sacrifice | Very Strong | `Romans 12.md` | Pauline |
-| Suffering as Formative | Very Strong | `Romans 5.md`, `Romans 8.md`, `Other-Sermons/Sermons/Exodus 2.md` | Reformed, Pastoral |
+| Suffering as Formative | Very Strong | `Romans 5.md`, `Romans 8.md`, `Exodus 2.md` | Reformed, Pastoral |
 | Weep with Those Who Weep | Strong | `romans 12 - weep with those who weep.md` | Pauline |
 | Worry as Lack of Faith | Strong | `Sermon - Worry Is Lack of Faith.md` | Pastoral |
 | Spiritual Disciplines | Moderate | `Psalm 42*.md`, `Deuteronomy 6.md` | Reformed, Puritan |
@@ -279,7 +279,7 @@
 | Funeral / Death — Immediate Glory | Very Strong | `Service - Donna Hulen Funeral*.md`, `Sermon - Today You Will Be With Me v2.md`, funeral sermons | Protestant |
 | Grief — Honest, Not Stoic | Strong | `romans 12 - weep with those who weep.md`, funeral sermons | Pastoral |
 | Assurance for the Doubting | Strong | `Romans 8.md`, `Sermon - Eternal Security.md`, `Romans 2.1 - Don't Miss Heaven by 18 Inches.md` | Reformed, Pastoral |
-| God's Delay ≠ God's Absence | Strong | `Other-Sermons/Sermons/Exodus 2.md`, `Other-Sermons/Sermons/ex 6-7.md` | Reformed, Puritan |
+| God's Delay ≠ God's Absence | Strong | `Exodus 2.md`, `ex 6-7.md` | Reformed, Puritan |
 | Marriage Ceremonies | Strong | Wedding sermon files | Baptist |
 | Counting Blessings / Gratitude | Strong | `Deuteronomy 8 - Count Your Blessings (repaired draft).md` | Pastoral |
 

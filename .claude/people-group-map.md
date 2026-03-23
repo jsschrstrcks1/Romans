@@ -59,7 +59,7 @@
 | 34 | Malay | Indonesia | Unknown | <0.1% | Referenced in VBS/Ephesians 2 sermon | Unreached | `Eph 2 - but God.txt` |
 | 35 | Meo | Pakistan | ~1M+ | 0% known | Not a single known believer; follow Muslim practices and customs; until partition in 1947 heavily mixed beliefs with Hindu teachings; resurgence of Islamic traditions after partition; from respected Rajput community but some consider them lower caste | Frontier | `Sermon - The Lord's Day.md` |
 | 36 | Mo-Jer-Hai | Unknown | Unknown | Unknown | Referenced in Philippians 4 sermon; not found in Joshua Project or indexed sources — verify before preaching | Unknown | `Philippians 4 (raw draft).md` |
-| 37 | Moghal | Pakistan, Afghanistan, Nepal | ~1.2–1.4M | 0% known (Frontier) | Bengali Muslim Moghal; classified as Frontier Peoples; no single known believer; post-Partition context | Frontier | `Psalm 46.md` (Other-Sermons) |
+| 37 | Moghal | Pakistan, Afghanistan, Nepal | ~1.2–1.4M | 0% known (Frontier) | Bengali Muslim Moghal; classified as Frontier Peoples; no single known believer; post-Partition context | Frontier | `Psalm 46.md` |
 | 38 | Muhamasheen | Yemen | Unknown | <0.1% | Referenced in John 4 / Woman at the Well sermon | Unreached | `John 4 - Woman at the Well.md` |
 | 39 | Qassab | Pakistan | ~1M+ | 0% known | Over a million Qassab in Pakistan; to the best of our knowledge not one believer in Jesus Christ | Frontier | `Sermon - The Kingdom of God.md` |
 | 40 | Rawat | India (northern) | ~600K–900K | 0% | Hindu; northern India | Frontier | `Sermon - Christians and the Social Order.md` |
@@ -70,7 +70,7 @@
 | 45 | Tanti | India | ~5M | 0.01% | Spread across 30 states, 15+ languages; weavers displaced by factory production; low caste; clean water needs (Joshua Project) | Frontier | `gal 2.md`, `Galatians 2 - The Ring (raw notes).md` |
 | 46 | Tarkahn | Pakistan | ~3M | 0% known | Part of the Punjabi people of western Pakistan; not a single known believer; artisans/fighters; closed country | Frontier | `Sermon - Won't You Go.md` |
 | 47 | Teli | India | ~20M | <0.01% actual believers | Almost all Hindu; ~200K nominal Christians but fewer than 0.01% are actual believers (Joshua Project); barrier: fear that conversion will destroy family/caste system; breakthrough pattern is family conversions; discovery Bible studies in area | Frontier | `mark 4 (5-30-19).md` |
-| 48 | Thai | Thailand | ~23M | <1% evangelical | Theravada Buddhism | Unreached | `Exodus 2.md` (Other-Sermons) |
+| 48 | Thai | Thailand | ~23M | <1% evangelical | Theravada Buddhism | Unreached | `Exodus 2.md` |
 | 49 | Tuareg Berbers | North Africa | ~2M | <0.01% | Referenced in Romans 10 / Gospel Chain sermon | Frontier | `The Gospel Chain.md` |
 | 50 | Tunisian Arabs | Tunisia | ~12M | <0.1% | 99% Muslim; land of Tertullian, Cyprian, and Augustine — once a center of early Christianity | Frontier | `Romans 16 - The Names in the Light.md` |
 | 51 | Turkish people | Turkey | ~85M | <0.1% evangelical | Land of Paul's missionary journeys and seven churches of Revelation; gospel light "almost gone out"; civilizations can fall as individuals do | Frontier | `Romans 1b - Without Excuse.md` |
