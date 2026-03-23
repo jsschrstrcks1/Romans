@@ -1,3 +1,23 @@
+<!-- INTEGRITY AUDIT — careful-not-clever — March 2026
+  Document type: Greek translation exercise (SEBTS)
+  Text: 1 John 2:7-14 — Greek parsing and interlinear translation
+
+  PARSING FLAGS
+  ⚠️ One parsing is listed as "Perf Present Indic 3P" — this is contradictory;
+     a verb form cannot be both perfect and present tense simultaneously.
+     Likely a transcription error in the notes; the correct parsing should
+     be either Perfect Indicative or Present Indicative, not both.
+
+  TRANSLATION FLAGS
+  ⚠️ v.8: "that the dark leads along" — appears incomplete or awkward;
+     the Greek (ἡ σκοτία παράγεται) means "the darkness is passing away"
+     (παράγεται = present middle/passive indicative 3S of παράγω).
+     The translation should be reviewed against the Greek text.
+
+  GENERAL NOTE
+  These are student translation exercises, not published scholarship.
+  Flags above are for the student's own reference and review.
+-->
 1 John 2:7-14
 ______________________________________________________________________________
 Translation:
