@@ -108,9 +108,12 @@ Tracks the preaching date for every sermon in the Romans series and beyond. Roma
 | 1 Thessalonians 5:12-24 | Rejoice Always | `1 Thess 5 - Rejoice Always (raw draft).md` | raw draft | 7 flags resolved |
 | Philippians 4 | Rejoicing in Division | `Philippians 4 (raw draft).md` | raw draft | 16 flags → 11 resolved; 5 remain |
 | Romans 1:1-2 (Psalm 22) | Prophecy and the Credentials of Christ | `Romans 1 - Psalm 22 (Prophecy raw draft).md` | raw draft | 8 flags → mostly resolved; fulfillment citations need ESV check |
-| 1 Corinthians 9:19-23 | Why Do You Share the Gospel? | `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` () | raw transcript | ⚠️ MISSING PEOPLE GROUP; companion: `1 cor 9.md` |
-| 1 John 2:1-6 | (untitled — obedience, advocacy, propitiation) | `1 john 2 vs 1-5 2024.md` () | raw transcript | 2024 per filename; exact Sunday unknown; companion: `1 john 2 1-6 lakeview.md` (distinct sermon, Lakeview Fellowship) |
-| 1 John 3:11-24 | (untitled — love vs. hatred) | `1 john 3 pt 2.md` () | sermon | No date in filename; ⚠️ MISSING PEOPLE GROUP (placeholder unfilled in MS) |
+| 1 Corinthians 9:19-23 | Why Do You Share the Gospel? | `1 cor 9 19ffWe are going to be in In my reading the last few weeks about the gospel.md` (Other-Sermons/Sermons/) | raw transcript | ⚠️ MISSING PEOPLE GROUP; companion: `1 cor 9.md` |
+| 1 John 2:1-6 | (untitled — obedience, advocacy, propitiation) | `1 john 2 vs 1-5 2024.md` (Other-Sermons/Sermons/) | raw transcript | 2024 per filename; exact Sunday unknown; companion: `1 john 2 1-6 lakeview.md` (distinct sermon, Lakeview Fellowship) |
+| 1 John 3:11-24 | (untitled — love vs. hatred) | `1 john 3 pt 2.md` (Other-Sermons/Sermons/) | sermon | No date in filename; ⚠️ MISSING PEOPLE GROUP (placeholder unfilled in MS) |
+| 1 John 4:1-6 | Catching Counterfeits | `1 john 4 - counterfeit.md` (Other-Sermons/Sermons/) | sermon | No date in filename |
+| Luke 2:8-14 / Matthew 18:10-14 | Christmas 2019 | `christmas 2019.md` | raw transcript | Preached Christmas 2019 (date from filename); exact Sunday unknown — likely Dec 22 or 29, 2019 |
+| Ephesians 2:8-10 / John 15:1-5 | Good Works and the Vine | `Christian and works - eph 2.md` | raw transcript | No date; ⚠️ MISSING PEOPLE GROUP; Promise Keepers stats unverified |
 | Sola Christus 2024 | — | `Sermon - Sola Christus 2024.md` | incomplete | ⬜ INCOMPLETE: ends at three roles of Christ; no gospel close |
 | Thankfulness | — | `Sermon - Thankfulness.md` | incomplete | ⬜ INCOMPLETE: cuts off mid-narrative |
 | Acts 13:48; Acts 16:14; Romans 5:8; Romans 8:29-30; Ephesians 1:4-5, 11; Ephesians 2:8; 1 Corinthians 2:14-16; 2 Corinthians 5:21; 2 Thessalonians 2:13; 2 Timothy 1:9; Philippians 1:6 | Out of the Cistern | `Sermon - Out of the Cistern.md` | BFM topical | BFM Article V (God's Purpose of Grace); actual preaching date unknown; audit completed March 20, 2026; companion audit at `Sermon - Out of the Cistern - Fact Check and Audit.md` |
@@ -131,5 +134,5 @@ Tracks the preaching date for every sermon in the Romans series and beyond. Roma
 - **Series duration**: 39 weeks
 - **Average pace**: 1 sermon per Sunday, sequential through Romans 1–16
 - **Non-series sermons dated**: 0
-- **Undated sermons tracked**: 23 (of ~296 total non-Romans sermons in corpus)
-- **Full inventory**: sermon-map.md contains all 296 non-Romans sermon entries
+- **Undated sermons tracked**: 25 (of ~298 total non-Romans sermons in corpus)
+- **Full inventory**: sermon-map.md contains all 298 non-Romans sermon entries

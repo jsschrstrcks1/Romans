@@ -1,0 +1,69 @@
+<!-- variant: earlier draft -->
+Our passage today is going to be philipians chapter 2. While you’re turning there, lets talk about our people group of the week. The gujjars. The gujars are an equestrian nomadic pastural people that largely rasie herds of cattle and wander around the forested areas of india living in tent cities. There are aproxamately 1 million gujjars and to the best of our knowledge none of them are believers in Jesus Christ. They have been engaged. They are a muslim people group, and so are difficult to convert. The area they are in is largely hindu, and so that brings additional challenges to the table. Further conversion to Christianity is against the law in the states they tend to be found in so reaching them is extra difficult. Gujjars of some areas are also viewed by other people as a community of criminals such as cattle thieves, horse thieves and looters. Sort of the indian muslim version of a gypsy. However, this is a misconception. Some of them are very well-to-do and rich landlords. Generally Gujjars are tall, strong and sturdy people with fair skin color and sharp features. They are considered wrestlers from birth in some areas while their other favorite sport is to lift huge, heavy stones. They are also good horse riders. They are in desperate need of people who will come and teach them modern animal husbandry techniques that will allow them to put down roots. They are in need of education as well so they can set aside some of their practices such as marrying little girls to old men through their custom of child brides. Most of all they need to learn about our Lord and savior Jesus Christ. Who will pray for the Gujjar? 
+
+I heard a funny story this week. Stephen Davey tells it well. A friend of his was a junior highschool principle. At his school in north Carolina the 6th grade girls started a daily routine. They would go in the bathroom, put on their makeup and when they were done, they had developed a habbit of kissing the mirror to leave a little lipstick outline of their lips. Very quickly in a large public school this meant the janitor was spending way too much time on cleaning the mirror. They had discussions, and threats. They had school wide assemblies trying to put a stop to this lipstick problem, and finally one day the principle came up with an idea to put an end to his problem. He briefed the janitor, and called together all the 6th grade girls into the ladies room. He told them clearly it was still a problem, and so he wanted them to see just how long it actually took for the janitor to fix their little kiss marks on the mirror. 
+
+So he began his lecture about how its disrespectful to the school, and disrespectful to the janitor. How its costing the school money they could have spent on other things, and at the conclusion of the lecture he told them they had to sit there and watch as the janitor would clean the mirror just so they could see how long it took. 
+
+The janitor pulled his longest sponge on a stick out, opened one of the stall doors, and dipped the sponge in the toilet, and then began scrubbing the mirror. Needless to say, the kissing problem stopped instantly. That said, lets read our passage today. 
+
+Phil 1:27-2:1 more to read in a moment, but lets start there. 
+
+The situation he is talking about is his imprisonment. Sometimes you hear about things like the prison epistles – philippians is one of the books he wrote while in prison, and so is part of that grouping along with ephesians colossians and philemon. SO when he writes in vs 12 “I want you to know, brothers, that what has happened to me has really served to advance the gospel, what he means by what has happened is that he has been imprisoned in rome. But lets start in vs 27, it says let your manner of life be worthy of the gospel of Christ. 
+
+There is a greek word in there that is unusual. Its politenomai. As near as I can tell from my commentaries this word is a double entendre – one of those words where it has two meanings. The first and most important meaning is translated – manner of life. The second meaning is more difficult because we no longer know what it means to live like a citizen of Philippi. However what we know is that Paul spent a considerable about of time there. The closest thing I can think of is the way pastor Bob would talk about his bible study. He always spoke of that in glowing terms, and talked about how the Holy Spirit was present, and it was very nearly holy ground. They were all striving together towards God every day. I think Pauls second meaning would have been along those lines. They were people he was close to, people he worked passionately with, people he had poured his life into for quite some time.  They may have been Pauls gold standard. 
+
+Vs 29 is important too. Someone read vs 29 for me. For it has been granted to you that for the sake of Christ you should not only believe in him but also suffer for his sake. 
+So many people out there preach that if you become a Christian and you obey God you’re going to be comfortable, healthy, wealthy and wise. We may think that way. We handle our kids that way. If they do their homework, and eat their dinner maybe they get a little treat, a nice dessert perhaps. If they do all their chores they get an allowance and so forth. We train our animals that way. Do your trick and get a dog treat. Conversely when kids misbehave they are punished – groudnation, isolation, deprivation of favored toys. We have this carrot and stick philosophy. So we naturally think that this is how God operates too. Obey, get what we want. Disobey, get the business and Or be punished. But all of that fails to factor in a number of important things. For starters the idea that we could ever do enough right to warrant or to have earned God’s blessing conflicts with scripture. How does scripture describe us? Corpses. Children of wrath. Isaiah wrote “We are all infected and impure with sin. When we display our righteous deeds, they are nothing but filthy rags. Like autumn leaves, we wither and fall, and our sins sweep us away like the wind. What did Paul write in Romans 3:23 all have sinned and fallen short of the glory of God. We have all fallen short of God’s standard. IF we were able to be good enough to earn Christ’s favor, then Christ never would have needed to die. It was our sin that Held him their until it was accomplished says the old hymn. If there had been any other way, wouldn’t God have spared his son? But we couldn’t live up to Gods standard on our own. The things of the Lord are foolishness apart from God’s intervention in our hearts and minds. 
+
+Could you imagine those 6th grade girls coming back to school the next day, and kissing the toilet tainted mirror once more? Taking their painted lips and pressing them into the sewage tainted mirror? Certainly Not! How disgusting that would be! I could maybe see small kids whose brains haven’t fully developed licking the floor or a shoe or something gross like that. But when you have the mental capacity to understand how disgusting the toilet is, and that in kissing the window, you were kissing the inside of the toilet bowl; I just cant see even most kids doing that over and over and over. 
+
+Yet how many of us adults willingly kiss the toilet water of the sin of our old lives? How many of us have gone back time and time and time again? 
+
+The lost person doesn’t yet know better. They follow the corrupt and sinful desires of their heart living in rebellion against God until God does a work in them, and they come to a point where they can truly see who God is.
+
+Those who cant see, who don’t understand, who cant smell sewage aren’t repulsed by it. Is a corpse repulsed by sewage? Certainly not. A corpse isn’t thinking about anything, or actively doing anything other than stinking. 
+
+If a corpse encountered sewage its going to fit right in. 
+
+But a Christian who believes in God, in whom God has begun the work of regeneration, such a person KNOWS what sewage is, and is repulsed. They know the cost of that moment where they get what they want, and when they choose to sin any way they are no better than those 6th grade girls kissing the mirror after it was washed by toilet water. 
+
+Christian is your manner of life worthy of the gospel? If Paul were here would he say “That Paula, man she reminds me of the wonderful brothers and sisters in phillippi! 
+
+Or that Willie Burdette, man he reminds me of some wonderful deacons I knew back in Phillippi. Would he say that of you Greg, or Kathy? Would he say that of me? Or would he say something like what he said to the Corinthians; You do more harm than Good. When you come together it isn’t for the better, its for the worse. 
+
+Harsh criticism. He said something similar of Peter in the new testament. Peter had been commanded by God to eat along side the gentiles, and that food shouldn’t be something to divide over, that all food is clean now to eat. After wards, was when Paul became an apostle. He encountered God on the road to Damascus and is struck blind. He ends up being disciple by a believer, and God gives him back his sight. After which he is initially shunned by the disciples. But not peter. Peter goes to bat for him. And then Paul in Galatians 2 has to rebuke peter. Because Peter when there aren’t any other jews watching, ate and drank with the gentiles. He taught among them, and preached to them. But as soon as another Israelite was around, he back peddled. He pulled away from them so that he wouldn’t be seen among other things eating their food. For this hypocrisy Paul said of Peter in galatians 2 that Peter stood condemned. That it wasn’t right that Peter make gentiles try and eat and live like a jew. That peter was being a hypocrite in his lifestyle. He had some pretty stern words from God for peter. 
+
+It isn’t being good that saves us, we can’t be good enough. It isn’t following old testament law that saves us, even the jews failed to keep enough of the law, and in so doing came to worship the law rather than the law giver, so Christ had to come and fulfill the law that we could have this new covenant in grace. That we could be free from the condemnation of the law, and all this through Christ. Lets read the rest of our passage through vs 16. 
+
+“If Christ is not all to you He is nothing to you. He will never go into partnership as a part Saviour of men. If He be something He must be everything, and if He be not everything He is nothing to you.” Wrote Charles Spurgeon in the last century. His words still ring true today. 
+
+Either you love Christ enough to work to kill sin in your life. Or maybe you’ve never came to a point where you ever really loved him at all. Only you and God know the answer to that. 
+
+A man named John calvin wrote that the human heart is a facrory of idols. You are always fighting – we must always be fighting the darkness in our twisted sinful hearts to keep God as the focus of our worship. Our hearts are evil and tainted, and pulling us away from what God wants, so it must be subdued and brought under the control of God. Jonathan Edwards in his famous resolutions wrote “I will live for Christ, and even if no one else will live for Christ, still I will. 
+
+OR Owen the famous puritan who wrote “be killing sin or sin will be killing you”. 
+
+TO that end Paul calls us to: Do nothing from selfish ambition or conceit, to put others first, and to “have this mind”. The greek there uses a form of participle that means we are to start now, and continue without ever stopping. How can we be obedient to God in that, if we are not sharing the gospel with people? 
+
+I’ve read this CT Studd quote to you so many times over the last few years that your spouses probably hear you say it in your sleep. Only one life twill soon be past. Only whats done for Christ will last. 
+
+Looking back on this past week. Did you do anything that will be of lasting value? I know, I know, work, and family, and taking care of your house, and some of you have been making funeral arrangements. 
+
+But listen. In a thousand years when this earth has passed away and we are standing in the presence of God, Will it matter if your roof leaked in 2019? 
+
+I know the rays are in the playoffs, and the bucs are going to play the saints. A lot of people are saying they think the bucs will win today. In a thousand years, standing before Christ, Will it matter if your ball team won or lost? Will it matter if your house was neat and tidy – your hosue that doesn’t exist any more. 
+
+Or will it matter that your kids knew about God. That you’re kids were raised to love the Lord, that your kids have a salvific relationship with God? That your neighbor hears the gospel. What matters more? What happens on survivor? OR your neighbors eternal destination. 
+
+What matters more to God? 
+
+Fix your roof. Watch your ball games… But do so to the Glory fo God. Use those things as vehicles to share the lifesaving truth of the gospel with the people around us that are lost and bound for an eternity in hell. Because only one life will soon be past, and only whats done for Christ will last. 
+
+All we know is that ultimately, one day, we are going to be standing face to face with Christ. The one who died a horrible death on the cross for our sins. So that on that day, vs 10, at the very name of Jesus, EVERY knee shall bow, and Every tongue WILL confess that Jesus is Lord. For some of us there will be no greater joy. Than to be standing there knelt down at the feet of Jesus. I envision him reaching down, and pulling us back to our feet, and saying to some “Well done my good and faithful servant. 
+
+But to others, depart from me I knew you not. Both groups will kneel to him. Both groups will declare him as Lord. One group in glory, and the other in punishment. 
+
+Which group are you in today? 
+
+Gospel. 
