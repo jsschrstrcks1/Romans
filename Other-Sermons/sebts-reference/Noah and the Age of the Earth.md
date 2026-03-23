@@ -1,3 +1,34 @@
+<!-- INTEGRITY AUDIT — careful-not-clever — March 2026
+  Course notes: Dr. Ken Keathly, SEBTS, 2013
+  Format: Lecture notes / outline — not an authored paper; these are the student's notes
+  from Keathly's lecture, which itself surveys two views (including Dr. Gregg Davidson's)
+
+  NATURE OF DOCUMENT
+  ⚠️ This is note-taking, not original academic writing. Davidson's views are recorded
+     but the framing is sometimes ambiguous about whether these are Davidson's claims
+     or the author's own positions. Read accordingly.
+
+  FACTUAL CLAIMS — DR. GREGG DAVIDSON (recorded in notes)
+  ⚠️ Davidson credentials listed: Wheaton BS Geology 1985, U of Arizona MS Hydrology 1989,
+     PhD Hydrology 1995 — plausible but unverified here; Davidson is a real scholar
+     (University of Mississippi geology dept.) and these credentials are roughly consistent
+     with his public biography
+  ⚠️ "Scripture is wrong on occasion where it speaks on science / Seeds don't die /
+     Some seeds are smaller than mustard seed" — these are Davidson's argument as recorded;
+     the mustard seed argument (Mark 4:31) is a real exegetical discussion; the "seeds
+     don't die" claim engages John 12:24. These are Davidson's positions being reported,
+     not the author's endorsement.
+
+  KEPLER QUOTE
+  ⚠️ "Chief aim of science" quote attributed to Kepler — likely a paraphrase of Kepler's
+     Harmonices Mundi or Mysterium Cosmographicum. Exact wording and source unverified.
+     Do not cite as a direct quote without finding the primary source.
+
+  THEOLOGICAL CLAIMS
+  ✓ The notes reflect Keathly's own position engaging Old Earth/Young Earth debate from
+     a Southern Baptist seminary perspective — consistent with Keathly's published work
+     (e.g., Surveying the Land, B&H Academic)
+-->
 Noah
 
 

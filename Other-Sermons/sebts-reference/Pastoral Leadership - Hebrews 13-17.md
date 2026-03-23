@@ -1,3 +1,84 @@
+<!--
+INTEGRITY AUDIT — Pastoral Leadership / Hebrews 13:17
+Audited: 2026-03-23
+
+DOCUMENT METADATA
+- No formal header (no course, instructor, date, student ID). This is unusual for a seminary paper; it reads more as a personal reflection or early-draft essay than a submitted assignment.
+- File name says "Hebrews 13-17" but the paper is about a single verse, Heb 13:17. This is almost certainly a filename error ("13-17" should be "13:17").
+
+SCRIPTURE REFERENCES — VERIFIED
+
+1. Hebrews 13:17 (ESV) — Quoted as: "Obey your leaders and submit to them, for they are keeping watch over your souls, as those who will have to give an account. Let them do this with joy and not with groaning, for that would be of no advantage to you."
+   STATUS: ACCURATE. Matches ESV text verbatim.
+
+2. Jeremiah 1:5 — Cited as support for God making "a determination regarding your soul before the foundation of the earth."
+   STATUS: FLAGGED — MISAPPLICATION. Jer 1:5 reads: "Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations." This verse is specifically about Jeremiah's prophetic calling, not a general statement about God predetermining the fate of all souls. The paper uses it as though it were a universal predestination proof-text, which goes beyond what the text says and is exegetically unjustified without further argument.
+
+3. Romans 13:1 — Cited for the claim that all authority is ordained by God.
+   STATUS: ACCURATE. Rom 13:1 (ESV): "Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God." The paper's paraphrase is a fair representation.
+
+4. Exodus 4:10 — Cited for Moses objecting to his leadership task ("I'm not enough").
+   STATUS: ACCURATE in substance. Exod 4:10: "O my Lord, I am not eloquent, neither before nor since You have spoken to Your servant; but I am slow of speech and slow of tongue." The paper's paraphrase is reasonable.
+
+5. Galatians 6:9 (ESV) — Quoted as: "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up."
+   STATUS: ACCURATE. Matches ESV text.
+
+6. Isaiah 41:10 — Referenced as God promising "to strengthen us, and uphold us with His right hand."
+   STATUS: ACCURATE in substance. Isa 41:10 (ESV): "fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand." The paraphrase is fair.
+
+7. Philippians 4:13 — Paraphrased as "Can do all things through Christ who gives me strength."
+   STATUS: ACCURATE paraphrase. ESV: "I can do all things through him who strengthens me." Slight modernization of pronoun but not distorting.
+
+8. Romans 7:15 (ESV) — Quoted as: "For I do not understand my own actions. For I do not do what I want, but I do the very thing I hate."
+   STATUS: ACCURATE. Matches ESV text.
+
+9. "A nagging wife (and in Moses case a nagging nation) is like a cancer to a man's bones."
+   STATUS: FLAGGED — INACCURATE AND UNVERIFIED SCRIPTURE REFERENCE. No verse is cited, and no standard biblical text says this. The closest verses are:
+   - Prov 12:4: "A wife of noble character is her husband's crown, but a disgraceful wife is like decay in his bones."
+   - Prov 17:22: "A cheerful heart is good medicine, but a crushed spirit dries up the bones."
+   - Prov 27:15: "A quarrelsome wife is like the drip of a continual rain on a very rainy day."
+   The paper conflates these without citation. "Nagging wife" and "cancer to bones" do not appear together verbatim in Scripture. This claim needs a specific citation or correction.
+
+10. 1 Timothy 3 — Cited for pastoral qualifications, summarized at length.
+    STATUS: LARGELY ACCURATE summary. No direct quotation to verify verbatim, but the list of qualities attributed to 1 Tim 3 is consistent with 1 Tim 3:1-13. Minor note: some items listed (e.g., "not greedy," "not double tongued," "hold the mystery of the faith") come from vv. 8-12 (deacon qualifications) rather than the overseer/elder qualifications in vv. 1-7. The paper blends elder and deacon requirements without distinguishing them, which is an exegetical imprecision.
+
+11. Titus 1 — Cited for additional pastoral qualifications.
+    STATUS: SUBSTANTIALLY ACCURATE. The summary matches Titus 1:5-16. The description of "Cretans" quotes Titus 1:12 (which itself quotes Epimenides), accurately reflected.
+
+GREEK WORD STUDY
+12. δίκαιον — Cited from BDAG as conveying "being in accordance with high standards of rectitude, upright, just, fair."
+    STATUS: PLAUSIBLE. BDAG (3rd ed.) s.v. δίκαιος does include definitions along these lines. The paper does not give a specific page number, which is required in academic citation. No page/column number provided.
+
+QUOTATIONS AND ATTRIBUTIONS
+
+13. Hymn: "It was my sins that held Him there until it was accomplished, His dying breath has brought me life, I know that it is finished."
+    STATUS: FLAGGED — MISIDENTIFICATION. The paper calls this "the old Hymn." This lyric most closely resembles the contemporary song "How Deep the Father's Love for Us" by Stuart Townend (1995), specifically: "It was my sin that held Him there until it was accomplished." This is not an "old Hymn" by conventional use of the term; it is a contemporary worship song written in 1995. The attribution "old Hymn" is misleading.
+
+14. "The heart of man is a factory of idols" — attributed to John Calvin.
+    STATUS: PARTIALLY ACCURATE / FLAGGED. Calvin does write in the Institutes (I.11.8): "man's nature, so to speak, is a perpetual factory of idols" (fabrica idolorum). The sentiment is correct, but this is a loose paraphrase from memory and no citation (Institutes book/chapter) is given. Academic use requires a proper citation.
+
+15. Westminster Catechism: "Man's chief end is to glorify God, and to enjoy Him forever."
+    STATUS: ACCURATE. This is the answer to Q.1 of the Westminster Shorter Catechism (1647). The paper calls it "a famous catechism reprinted in my study bible" — acceptable for a personal paper, though formal citation would strengthen it.
+
+THEOLOGICAL CLAIMS
+
+16. Claim that a pastor will be held accountable before God for the specific sins of every congregant (e.g., "Sally is a speeder").
+    STATUS: FLAGGED — OVERSTATED WITHOUT EXEGETICAL SUPPORT. Hebrews 13:17 says leaders will "give an account" (λόγον ἀποδώσοντες) for those in their care, which commentators generally understand as accounting for their pastoral ministry/watchfulness, not vicarious guilt for every individual sin of every congregant. The paper's interpretation is theologically extreme and goes beyond what the text or mainstream Reformed/Baptist commentators assert. This claim requires exegetical defense.
+
+17. General structure: The paper is organized as a reflection/essay, not a formal academic paper. It lacks thesis statement, formal argumentation, footnotes, bibliography, or engagement with secondary sources beyond incidental references.
+    STATUS: NOTED. As an academic paper submitted at SEBTS, the absence of formal apparatus is a significant deficiency. As a personal pastoral reflection, the content is thoughtful but loosely argued.
+
+SUMMARY OF FLAGS:
+- Jer 1:5 misapplied as universal predestination proof-text
+- "Nagging wife / cancer to bones" — unattributed and inaccurate conflation of Proverbs texts
+- "Old Hymn" misidentification (is Stuart Townend, 1995)
+- Calvin quote lacks specific citation (Institutes I.11.8)
+- 1 Tim 3 elder/deacon categories blended without distinction
+- BDAG citation lacks page/column number
+- Pastoral accountability claim (Heb 13:17) overstated beyond what text supports
+- No bibliography, footnotes, or formal academic apparatus
+-->
+
 Leadership is a weighty task in any context. Doubly so for those of us who endeavor to do so in obedience to Christ in a Christian context. Specifically for those of us who are pastors. The author of Hebrews writes in 13:17 (ESV) “Obey your leaders and submit to them, for they are keeping watch over your souls, as those who will have to give an account. Let them do this with joy and not with groaning, for that would be of no advantage to you.”
 
 The imagery evoked is that of Moses traveling around in circles in a desert listening to the people whine “Oh Moses, you should have left us with our slave masters. You should have left us in Egypt at least there we had food and water regularly. Every decision made was second guessed six different ways. Every direction taken was questioned. Moses was it seemed from their complaints, the cause of all their discomfort and misery. The truth was different of course, but what thick skin Moses must have developed. 

@@ -1,7 +1,36 @@
+<!-- INTEGRITY AUDIT — careful-not-clever — March 2026
+  Course: BTI5100.A Hermeneutics, Dr. Danny Akin, SEBTS, 2012
+
+  SCRIPTURE REFERENCES
+  ✓ Jonah 3:3 "three days' journey in breadth" — accurate
+  ✓ Matthew 12:39, 16:4; Luke 11:29 — Jesus references to the sign of Jonah — accurate
+  🔴 John 1:42 and John 21:15 cited as Jesus "expositions" of Jonah — WRONG PASSAGES
+     John 1:42 = Jesus naming Simon as Peter; John 21:15 = Jesus asking Peter "Do you love me?"
+     Neither passage references Jonah. These citations must be corrected.
+
+  HISTORICAL/FACTUAL CLAIMS
+  ✓ Nineveh fell to Babylonian-Median coalition, 612 BC — accurate (Nabopolassar + Cyaxares)
+  ⚠️ Two Assyrian plagues (765 BC, 759 BC) and solar eclipse (763 BC) — these are documented
+     in Assyrian eponym lists and are plausible as context for Jonah's reception; but the
+     direct causal link to Nineveh's repentance is an inference, not a recorded fact
+  ⚠️ "Nineveh is only two miles across" — contradicts Jonah 3:3 ("three days' journey").
+     Scholars debate whether 3:3 means the city proper or the greater administrative region.
+     The "two miles" figure and the "three days" figure need reconciliation in the text.
+  ⚠️ Nineveh artifacts at British Museum — plausible; specific artifact claims unverified here
+
+  TERMINOLOGY
+  ⚠️ "Palistrophe" — non-standard academic term for chiasm/chiasmus. Most commentaries and
+     hermeneutics texts use "chiasm" or "chiasmus." Use standard terminology in any reuse.
+
+  CITATIONS
+  ⚠️ MacArthur citation for third-person authorship (with Exod 11:3 and 1 Sam 12:11 as
+     parallels) — plausible; verify page number before citing
+  ⚠️ Aquinas in bibliography but no direct quote from Aquinas appears in the paper body
+-->
 Jonah
 
 
-HERMENEUTICS 
+HERMENEUTICS
 Dr. Danny Akin
 Student #000210914 
 BTI5100.A 

@@ -1,3 +1,17 @@
+<!-- INTEGRITY AUDIT — careful-not-clever — March 2026
+  Document type: Greek translation exercise (SEBTS)
+  Text: 1 John 2:15-25 — Greek text with parsing and translation
+
+  SCOPE FLAG
+  ⚠️ The file includes additional parsings beyond v.25 that appear to belong
+     to 1 John 3:1-3 (γινώσκω, φανερόω, ὁράω, εἰμί, ἁγνίζω and related forms).
+     These extra parsings were likely included from a subsequent exercise and
+     were not separated. The boundary between 2:25 and 3:1 is not marked.
+
+  GENERAL NOTE
+  Greek text appears to match NA28/UBS5. Translation exercise only —
+  no theological claims to audit. Parsing accuracy is for the student's review.
+-->
 1 John 2:15-25
 15  Μὴ ἀγαπᾶτε τὸν κόσμον μηδὲ τὰ ἐν τῷ κόσμῳ. ἐάν τις ἀγαπᾷ τὸν κόσμον, οὐκ ἔστιν ἡ ἀγάπη τοῦ πατρὸς ἐν αὐτῷ·
  16  ὅτι πᾶν τὸ ἐν τῷ κόσμῳ, ἡ ἐπιθυμία τῆς σαρκὸς καὶ ἡ ἐπιθυμία τῶν ὀφθαλμῶν καὶ ἡ ἀλαζονεία τοῦ βίου, οὐκ ἔστιν ἐκ τοῦ πατρὸς ἀλλ᾽ ἐκ τοῦ κόσμου ἐστίν.

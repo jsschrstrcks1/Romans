@@ -1,3 +1,14 @@
+<!-- INTEGRITY AUDIT — careful-not-clever — March 2026
+  ⚠️ MISSING PEOPLE GROUP — add before reuse
+  ⚠️ [line ~19] Linus/blanket quote: attributed to "one author" — source unknown; cannot preach as a named quote without finding the author/publication
+  ⚠️ [line ~37] Texas cattle theft story: no source; frame explicitly as "I heard a story" not implied fact
+  ⚠️ [line ~43] "tens of thousands of manuscripts" — this count (25,000+) applies to NT manuscripts; OT textual evidence is different (Dead Sea Scrolls ~900 docs). Clarify before reuse.
+  ⚠️ [line ~43] "over 300 prophecies" — widely cited estimate; varies by methodology; present as estimate not documented count
+  ✓ Luke 2:8-14 (KJV) — Linus quote accurate; KJV correct for the 1965 special
+  ✓ Psalm 22:1, 6, 8, 15, 16 — verses exist; "dogs = Gentiles" is an interpretive tradition, not stated in text — present as interpretation
+  ✓ "We owed a debt we could not pay" — hymn by Ellis J. Crum (1977); clauses slightly reversed from original; fine as paraphrase
+  ✓ John 10:27; Luke 9:58 / Matt 8:20; Matt 18:10-14 — all accurate
+-->
 I was watching Charlie Brown’s Christmas the other day. You guys know the one I mean. It plays pretty much every year at Christmas time. Its sweet, and endearing. It teaches the meaning of Christmas. Its only about 25 minutes long, but, its probably the highlight of tv for me for the Christmas season. The story is about a bunch of kids, sort of jaded with the commercialism of the season. 
 
 I think I can relate to that. The Babylon bee posted an article the day after thanksgiving saying that after a day of thanksgiving the nation repented by pillaging in celebration of commercialism. 

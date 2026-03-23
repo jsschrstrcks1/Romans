@@ -1,3 +1,17 @@
+<!-- INTEGRITY AUDIT — careful-not-clever — March 2026
+  Document type: Greek translation exercise (SEBTS)
+  Text: 1 John 2:26–3:3 — Greek text with parsing and translation
+
+  COMPLETENESS FLAG
+  ⚠️ The "Improved" translation section is cut off — the file ends after
+     "I wrote to you about those deceiving you" (v.26) with no further
+     translation provided for vv.27-3:3. Either the exercise was incomplete
+     or the remaining content was not captured in the file.
+
+  GENERAL NOTE
+  Greek text appears to match NA28/UBS5. Translation exercise only —
+  no theological claims to audit beyond what is noted above.
+-->
 1 John 2:26-3:3
 26  Ταῦτα ἔγραψα ὑμῖν περὶ τῶν πλανώντων ὑμᾶς.
  27  καὶ ὑμεῖς τὸ χρῖσμα ὃ ἐλάβετε ἀπ᾽ αὐτοῦ, μένει ἐν ὑμῖν καὶ οὐ χρείαν ἔχετε ἵνα τις διδάσκῃ ὑμᾶς, ἀλλ᾽ ὡς τὸ αὐτοῦ χρῖσμα διδάσκει ὑμᾶς περὶ πάντων καὶ ἀληθές ἐστιν καὶ οὐκ ἔστιν ψεῦδος, καὶ καθὼς ἐδίδαξεν ὑμᾶς, μένετε ἐν αὐτῷ.
