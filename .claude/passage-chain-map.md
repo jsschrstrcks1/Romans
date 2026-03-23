@@ -92,7 +92,7 @@
 | Step | Passage | Doctrine | Sermon(s) | Status |
 |------|---------|----------|-----------|--------|
 | 1 | Romans 8:28-30 | Foreknew → predestined → called → justified → glorified | `Ordo Solutis Romans 8.md` | ✅ Preached |
-| 2 | Ephesians 1:3-14 | Chose before foundation of world, sealed with Spirit | `Other-Sermons/Sermons/Eph 1 - Angels Demons Etcetera.md` | ✅ Preached (angels/election focus) |
+| 2 | Ephesians 1:3-14 | Chose before foundation of world, sealed with Spirit | `Eph 1 - Angels Demons Etcetera.md` | ✅ Preached (angels/election focus) |
 | 3 | 2 Thessalonians 2:13 | God chose you from the beginning for salvation | — | ⬜ Not yet preached |
 
 ---
