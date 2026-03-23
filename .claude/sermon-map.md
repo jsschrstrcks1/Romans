@@ -492,6 +492,7 @@ A four-part series working through the scriptural foundations of the doctrines o
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Luke 2 | Christmas sermon — Longfellow's "I Heard the Bells" and the sovereignty of God; nativity as the first gospel proclamation; family tradition of reading Luke 2 before gifts | `Luke 2.md` | sermon |
+| Luke 2:8-14 / Matthew 18:10-14 | *(raw transcript)* Christmas 2019 — Charlie Brown's Christmas as interpretive frame (Linus drops security blanket while quoting Luke 2; picks it up after — we lay down idols then take them back); four-part Christmas message: commercialism vs. true meaning; Linus/blanket as spiritual metaphor (author cited, unattributed); shepherds/manger/birth announcement; humiliation of Christ from birth through cross; Ps 22 Messianic prophecy (read aloud — dogs = Gentiles/Romans; clothes gambled; mocking; cry of dereliction); 300+ prophecies fulfilled; "We owed a debt we could not pay, he paid a debt he did not owe"; lost sheep (Mt 18) as Christmas gospel frame; real sheep/shepherd illustration (shepherds in antiquity know each sheep, shepherd calls by name — John 10 connection); Baptist preacher story (Dax, Lily, Mercedes, Taiwan adoption — same illustrations appear in Adoption/Gal 3 sermon); gospel close. ⚠️ Linus quote source given as "one author" — unattributed; ⚠️ People group not mentioned | `christmas 2019.md` | sermon (raw transcript) |
 | Luke 4:1-13 | Christ's temptation; resisting sin at weak moments | `Luke 4.md` | sermon |
 | Luke 8 | Calming the storm; trusting God in storms | `Luke 8.md` | sermon |
 | Luke 9:57-62 | Cost of following Christ vs prosperity gospel | `Luke 9 - cost of following christ.md` | sermon |
@@ -614,6 +615,7 @@ These are earlier/rougher versions also found in the archive. The primary manusc
 | Passage | Subject | File | Type |
 |---|---|---|---|
 | Ephesians 1:3-14 | Angels, Demons, Etcetera | `Sermon - Angels Demons Etcetera.md` | sermon ✓ polished — BFM angelology/demonology; Dwayne Hastings (Baptist Press, 1996) on cultural angel obsession; pseudepigrapha vs. canon vs. apocrypha; Book of Tobit (apocrypha — Sarah/Asmodeus/Raphael); Testament of Solomon (pseudepigrapha — Onoskelis, demon names/binding origins); 1 John 4:4; Col 1:13-14; Eph 1:13-14 sealing with Holy Spirit; cargo cult analogy (Pacific Islands — don't worship the boat); dualism heresy rejected — sovereign God wins; personal responsibility for sin vs. "the devil made me do it" (traced to Eden, Gen 3:12-13; Flip Wilson popularized); riches of God — lottery winners illustration; God's patience lavished in wisdom; Badhai of India people group (Joshua Project: ~596K, Muslim, no known believers, Vishwakarma lineage) |
+| Ephesians 2:8-10 / John 15:1-5 | *(raw transcript)* Works as evidence and fruit of salvation, not cause; Eph 2:9 standard stop vs. Eph 2:10 ("created for good works prepared beforehand") as the often-skipped verse; Promise Keepers resurgence interview — men left fired up but directionless, "30,000 guys ready to charge hell with a small bucket of water but no one to show them the way"; 3:5 men from 1990s PK generation no longer in church; grape orchard/hot peppers illustration (grapes on trellis, peppers below — fruit identifies the vine; Reaper vs. grape visually obvious); Heidelberg Confession Q&A 91 (good works defined: from true faith, conforming to God's law, for God's glory — not opinion or tradition); Isaiah 29:13 (honor with lips, heart far off — applied to Heidelberg context); vine/branches (John 15:1-5) as the governing image. ⚠️ People group not mentioned; ⚠️ Promise Keepers statistics ("3:5 men no longer in church") — source not cited; ⚠️ PK leader's name and interview source unverified | `Christian and works - eph 2.md` | sermon (raw transcript) |
 | Ephesians 2 | Theological anthropology; depravity of man | `vbs 2019.md` | sermon |
 | Ephesians 5:4 | Thankfulness to God for creation and salvation | `thanksgiving 2017.md` | sermon |
 | Ephesians 5:4; Genesis 22 | Thanksgiving; smashing idols; Abraham and Isaac | `thanksgiving 2018.md` | sermon |
@@ -814,7 +816,7 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 | `Alef.md` | Hebrew alphabet listing |
 | `Animal Instructions.docx` | Farm animal care instructions |
 | `Antigua.md` | Caribbean island and cruise port list — **⚠️ FILE MISSING FROM DISK** (may have been removed) |
-| `AutoRecovery save of Document4.md` | COVID-19 pandemic personal journal — **⚠️ FILE MISSING FROM DISK** (may have been removed) |
+| `Pandemic Journal - May-June 2020.md` | COVID-19 pandemic personal journal — saved May 18–June 2, 2020; author is 36, single, pastor of small church on a hill, shepherd of actual sheep; Pasco County, FL; records COVID origins speculation, Florida measures, business shutdowns, Wink smart home situation, SpaceX Crew Dragon launch (5-27-20), George Floyd death and resulting riots; written for future children; raw first-person prose; **not a sermon** |
 | `BCO5500 Online Syllabus Fall 2018.md` | Seminary biblical counseling syllabus |
 | `Let the Nations be Glad PT 2-3.md` | Seminary book review — *Let the Nations be Glad* Parts 2–3; reflection on suffering in missions and the cost of martyrdom; Ken Baker 000210914 |
 | `bfm holy spirit.md` | Baptist Faith and Message article text |
@@ -836,6 +838,12 @@ These are not sermons — personal documents, receipts, recipes, etc. that were 
 | `5.md` | Research notes and assignment description for PRS6100 2 Timothy 4:1-5 exegetical paper; Greek lexical notes (*εὐκαίρως*, *ἀκαίρως*); Tacitus on Nero's persecution; Anchor Yale Bible Dictionary on Timothy; MacArthur study note on *διαμαρτύρομαι*; companion to `Second Timothy 4 (Paper).md` |
 | `BCO5500 Online Syllabus Fall 2018.md` | SEBTS course syllabus — BCO5500 Online: Biblical Counseling (Fall 2018); Dr. Kristin L. Kellen; course description, student learning outcomes, core competencies; not sermon content |
 | `Second Timothy 4 (Paper).md` | Full exegetical paper on 2 Timothy 4:1-5 (PRS6100 Bible Exposition I Online, Spring 2020); Ken Baker; contextual background (Nero, Paul's imprisonment, Timothy's role); Greek analysis (*διαμαρτύρομαι*, *κήρυξον* aorist imperative, *νῆφε*); reprove/rebuke/exhort (*ἔλεγξον*, *ἐπιτίμησον*, *παρακάλεσον*); Tertullian "blood of the martyrs" quote; church discipline narrative; Robert Hawker quotes; same sermon content as `easter 2020 - 2 tim 4 1-5 (sebts version).md` but in academic paper format with bibliography (Friberg, AYBD, Lightfoot, Elwell/Beitzel) |
+| `Jonah - hermeneutics paper 2012.md` | BTI5100.A Hermeneutics paper, Dr. Danny Akin, Nov 9, 2012, Student 000210914; authorship defense (third-person narrative as ancient practice — cf. Exod 11:3, 1 Sam 12:11); Jeroboam II context; Nineveh historicity (MacArthur 1293); palistrophe structure across all 4 chapters; two plagues (765, 759 BC) and solar eclipse (763 BC) preceding Jonah; fish-god connection; Christological parallels throughout; full MIT/MIM outlines for all 4 chapters; sovereignty theme; MacArthur citation on historicity |
+| `Noah and the Age of the Earth.md` | SEBTS conference notes, Dr. Ken Keathly, Nov 2013; lecture notes from age-of-earth debate (old earth vs. young earth); two presenters — Dr. Gregg Davidson (U of Miss Geology, old earth) and Dr. Ken Keathly (young earth); Davidson's methodological arguments; Keathly's bonafides (Scripture inerrant, historical Adam, real flood); not a sermon — academic lecture notes only |
+| `Pastoral Leadership - Hebrews 13-17.md` | SEBTS seminary paper on pastoral leadership from Heb 13:17; Moses leading complaining Israel; accountability for congregants' souls; 1 Tim 3 and Titus 1 qualifications laid out in full; Greek word study: *δίκαιον* ("upright" = high standard of rectitude, not sinless perfection) and "sober-minded" (temperance in thought, not merely anti-alcohol); idolatry as the root connecting all the 1 Tim 3 prohibitions; Calvin "heart as perpetual idol factory" (attributed — verify primary source); Paul's Gal 2:11 self-rebuke as evidence against sinless standard for leadership |
+| `1 John 2 7-14 greek translation.md` | Greek translation and parsing exercise, 1 John 2:7-14; literal translation, improved translation, and full verb parsing table (PAI, AAI, PAPMSN, etc.); seminary Greek coursework |
+| `1 John 2 15-25 greek translation.md` | Greek translation and parsing exercise, 1 John 2:15-25; full Greek text with parsing list; antichrist section; seminary Greek coursework |
+| `1 John 2 26-3 3 greek translation.md` | Greek translation and parsing exercise, 1 John 2:26–3:3; brief (2,700 chars); abiding and manifestation of sons; seminary Greek coursework |
 
 ### Pastoral Resources
 
@@ -1150,6 +1158,15 @@ Searchable by topic. Each entry lists every sermon that substantively treats tha
 - `Imagine tomorrow was your anniversary.md` — Worshipping from love not obligation
 - `Romans 15a - The Welcome We've Been Given.md` — Application: marriage struggles and welcome
 - `Other-Sermons/Sermons/Sermon - A Godly Home.md` — Exodus 2:1–15 — Godly home; courage of faith under persecution; the spiritual legacy of Amram and Jochebed; grandmother illustration; what will you leave your children?
+
+### Good Works / Fruit of Salvation
+- `Christian and works - eph 2.md` — Ephesians 2:8-10 / John 15:1-5 — Works as evidence not cause of salvation; Eph 2:10 "created for good works"; Heidelberg Confession Q&A 91; Promise Keepers men left directionless without discipleship; vine/branches fruit identification illustration
+- `Genesis 22-23 - The Testing Ground (raw draft).md` — Genesis 22–23 — Gen 15 (faith) vs. Gen 22 (works as proof of faith); James 2:21 and Romans 4 reconciled
+
+### Incarnation / Christmas
+- `Luke 2.md` — Luke 2 — Christmas; Longfellow's "I Heard the Bells"; nativity as first gospel proclamation
+- `christmas 2019.md` — Luke 2:8-14 / Matthew 18:10-14 — Charlie Brown's Christmas; Linus/blanket as spiritual metaphor; humiliation of Christ from birth through cross; Psalm 22 read aloud (messianic fulfillment); lost sheep as Christmas frame; "We owed a debt we could not pay"; Baptist preacher/Taiwan adoption illustration
+- `Adoption - christms eve 23.md` — Galatians 3:27–4:7 — Christmas Eve adoption frame; Lily/Mercedes Taiwan story
 
 ### Obedience / Faithfulness / Diligence
 - `1 john 2 1-6 lakeview.md` — 1 John 2:1-6 — Fighting sin for right reasons (fellowship, joy, obedience) not to earn salvation; Billy Sunday quote (fight sin till you gum it); Christian integrity vs. false claims
