@@ -24,6 +24,16 @@ This repository has access to the multi-LLM orchestrator system. External models
 - **Memory scope:** `/romans`
 - **Orchestrator:** `/home/user/ken/orchestrator/`
 
+### First-Time Setup (Per Session)
+
+Before first use of `/consult` or `/orchestrate` in a session, install dependencies:
+
+```bash
+pip3 install -q -r /home/user/ken/orchestrator/requirements.txt
+```
+
+This is silent when already installed. If `/consult` or `/orchestrate` fails with `ModuleNotFoundError`, run this command first.
+
 ### Context Boundaries
 - **SEND:** Outlines, theological claims, cross-refs, illustration concepts
 - **NEVER SEND:** Congregation names, pastoral details, personal illustrations, voice internals
