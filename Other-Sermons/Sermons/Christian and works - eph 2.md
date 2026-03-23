@@ -1,3 +1,17 @@
+<!-- INTEGRITY AUDIT — careful-not-clever — March 2026
+  ⚠️ MISSING PEOPLE GROUP — placeholder at line 3 ("lets talk about our people group of the week") never filled in
+  🔴 [line ~17] "3:5 men that went to Promise Keepers... are no longer in church" — NO SOURCE; cannot preach this statistic without citation
+  🔴 [line ~17] "only 40% of [men in their 60s/70s] are still in church today" — NO SOURCE; verify against Barna/Pew before reuse
+  ⚠️ [line ~15] Promise Keepers leader/podcast: unnamed source; identify podcast and speaker before citing
+  🔴 [line ~32] "Heidelburg confession" — WRONG NAME; correct: Heidelberg Catechism (the Belgic is the confession)
+  ⚠️ [line ~44] Rick Warren EGR quote (Purpose Driven Life) — attributed but exact phrasing unverified; find page number
+  ⚠️ [line ~44] Galatians 5:22 "forbearance" — NIV word, not ESV ("patience" in ESV); resolve translation before reuse
+  ⚠️ [line ~36] "Wittenburg" — misspelling; correct: Wittenberg
+  ✓ Eph 2:8-9, 2:10, 2:1, 2:5 — all ESV-accurate
+  ✓ Isa 29:13 — ESV-accurate
+  ✓ Luke 6:32-36 — ESV-accurate
+  ✓ Heidelberg Catechism Q&A 91 proof texts — correct (John 15:5, Heb 11:6, Lev 18:4, 1 Sam 15:22, Eph 2:10, 1 Cor 10:31, Deut 12:32, Isa 29:13, Ezek 20:18-19, Matt 15:7-9)
+-->
 Were going to be talking about works today. Its related to a passage we’ll be reading this coming week, in Isiah 29. were going to be jumping around our bibles today a bit, but we will start in Ephesians 2. If You’ve brought your bibles, and I hope you have. 
 
 While you’re turning there, lets talk about our people group of the week. 
