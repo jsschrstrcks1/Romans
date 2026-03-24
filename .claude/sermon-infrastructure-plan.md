@@ -22,7 +22,7 @@ Every map stores **full text** — not references, not summaries. Quotes store t
 
 | # | Quote | Source | Verification | Used In | Count |
 |---|-------|--------|-------------|---------|-------|
-| 1 | "So completely was Jesus bent upon saving sinners by the sacrifice of Himself, He created the tree upon which He was to die, and nurtured from infancy the men who were to nail Him to the accursed wood." | Attributed to Winslow (no primary source confirmed) | ⚠️ Yellow — quote is real but exact source book unknown | `Romans 1c`, `Romans 1 (2024).md`, `Romans 1b` | 3 |
+| 1 | "So completely was Jesus bent upon saving sinners by the sacrifice of Himself, He created the tree upon which He was to die, and nurtured from infancy the men who were to nail Him to the accursed wood." | Attributed to Winslow (no primary source confirmed) | ⚠️ Yellow — quote is real but exact source book unknown | `Romans 1c`, `sermons/nt/romans/Romans 1 (2024).md`, `Romans 1b` | 3 |
 ```
 
 **Verification Hierarchy** (replaces flat ⚠️):
@@ -52,7 +52,7 @@ Every map stores **full text** — not references, not summaries. Quotes store t
 
 | # | Name | Illustration | Passage(s) | Used In | Count |
 |---|------|-------------|------------|---------|-------|
-| 1 | Bannockburn | Robert the Bruce, outnumbered at Bannockburn (1314), watched a spider try and fail to spin a web seven times — and succeed on the eighth. Rose from hiding to fight again. Scotland won its independence. Used as endurance/perseverance illustration. | Rom 5:3-5, Heb 12:1-2 | `Romans 5.md`, `Sermon - Hope.md` | 2 |
+| 1 | Bannockburn | Robert the Bruce, outnumbered at Bannockburn (1314), watched a spider try and fail to spin a web seven times — and succeed on the eighth. Rose from hiding to fight again. Scotland won its independence. Used as endurance/perseverance illustration. | Rom 5:3-5, Heb 12:1-2 | `sermons/nt/romans/Romans 5.md`, `Sermon - Hope.md` | 2 |
 ```
 
 **For longer illustrations**: Store a condensed retelling (3–5 sentences) that preserves the teaching point, emotional arc, and key details. The map reader should understand the illustration without opening the sermon file.
@@ -111,7 +111,7 @@ Every map stores **full text** — not references, not summaries. Quotes store t
 |---------|-------|--------|-----------|----------|-------|
 | 1 | Of the Holy Scriptures | ✅ | `2 Tim 3 14-17`, `Sola Scriptura.md` | Confession history, authority of Scripture | |
 | 3 | Of God's Decree | ✅ | `Romans 9.md`, `Romans 9 (B).md` | Election, predestination | Cited from pulpit |
-| 24 | Of the Civil Magistrate | ✅ | `Romans 13.md` | Applied to Romans 13 | theological-map line 798 |
+| 24 | Of the Civil Magistrate | ✅ | `sermons/nt/romans/Romans 13.md` | Applied to Romans 13 | theological-map line 798 |
 ```
 
 **Source**: 13 explicit 1689 references in theological-map.md, 2 in sermon-map.md. The 1689 has 32 chapters — this map shows which have been cited, which haven't, and where the gaps are.
@@ -129,7 +129,7 @@ Every map stores **full text** — not references, not summaries. Quotes store t
 |------|---------|----------|-----------|--------|
 | 1 | Genesis 1:26-28 | Imago Dei, dominion mandate | `Gen 1-2 - beautiful but not safe.txt` | ✅ Preached |
 | 2 | Genesis 3:1-24 | Fall, curse, protoevangelium | `Genesis 3 - Sanctity of Life Sunday.md` | ✅ Preached |
-| 3 | Romans 5:12-21 | One man's sin → one man's righteousness | `Romans 5.md` | ✅ Preached |
+| 3 | Romans 5:12-21 | One man's sin → one man's righteousness | `sermons/nt/romans/Romans 5.md` | ✅ Preached |
 | 4 | 1 Corinthians 15:20-28 | Last Adam, resurrection | | ⬜ Not yet preached |
 | 5 | Revelation 21:1-5 | New creation, curse reversed | | ⬜ Not yet preached |
 ```
@@ -222,7 +222,7 @@ Q3: Same passage but different theological angle, different occasion, or differe
 
 **Apply to known ambiguous cases**:
 - Genesis 22 (3 files): Binding of Isaac (evening sermon) / There and Back Again (transcript) / The Testing Ground (includes Gen 23) — likely 2 versions + 1 independent
-- Romans 1 (2 files): `Romans 1.md` (cult-teaching format) / `Romans 1 (2024).md` (expository-anthropic format) — already documented as same row with slash notation
+- Romans 1 (2 files): `sermons/nt/romans/Romans 1.md` (cult-teaching format) / `sermons/nt/romans/Romans 1 (2024).md` (expository-anthropic format) — already documented as same row with slash notation
 
 ### 11. Handle Multiple Preachings of Same Passage
 

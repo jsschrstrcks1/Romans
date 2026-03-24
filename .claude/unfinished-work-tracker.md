@@ -188,7 +188,7 @@ The repository has been developed across 21 distinct Claude Code thread families
 
 ### Thread 20: `claude/church-hotel-policy`
 **Purpose**: Church hotel assistance policy development.
-**Status**: **Complete** — policy document exists at `Church Hotel Assistance Policy.md`.
+**Status**: **Complete** — policy document exists at `pastoral-resources/Church Hotel Assistance Policy.md`.
 **Unfinished**: None.
 
 ---
@@ -210,13 +210,13 @@ The repository has been developed across 21 distinct Claude Code thread families
 | # | Sermon | Primary Text | Status |
 |---|--------|-------------|--------|
 | 1 | Paul's Final Letter | 2 Timothy 1:1-2 | ~~Extracted~~ → `2 Timothy 1 1-2 - Paul's Final Letter (raw draft).md` ✓ |
-| 2 | Cultural Marxism / CRT | Romans 10:12-13 | ~~Raw in memory2.md~~ → `Cultural Marxism.md` → `Cultural Marxism - CRT - Romans 10 (raw draft).md` → **`Sermon - Cultural Marxism.md` ✓ polished & verified** (all Scripture ESV ✓; David Brooks sourced ✓; Hitler "half Jewish" removed ✓; Deut 10:17 corrected to ESV ✓; Dhund geography corrected ✓; sermon-map + theological-map updated ✓) |
-| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ~~Raw in memory2.md~~ → `Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` → **`Sermon - Bless the Lord O My Soul.md` ✓ (canonical; fully polished, Scripture verified, Integrity Log appended, sermon-map updated)** |
-| 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | ~~Partially extracted~~ → `Eph 3 - The Covenants.md` ✓ (complete Integrity Log present, 6 Scripture corrections + 3 factual notes applied) |
-| 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | ~~Raw in memory2.md~~ → `Col 2 - thanksigiving.md` ✓ |
-| 6 | Prayer | Colossians 4:2-4 | ~~Raw in memory2.md~~ → `col 4 - prayer.md` (full version) + `prayer col 4.md` (prayer service version) ✓ |
-| 7 | Church Membership / Body of Christ | 1 Corinthians 12:12-27 | ~~Raw in memory2.md~~ → `Commitment to the church body 1 cor 12.md` ✓ |
-| 8 | Sowing and Reaping | Galatians 6:7-10 | ~~Raw in memory2.md~~ → `Galatians 6 - Sowing and Reaping (raw draft).md` ✓ — Flood story corrected March 2026; Toplady ✓, Spurgeon ✓, Luther ✓ verified March 2026; Lawson wording confirmed, no primary source located; Sindhi Samas verified (Joshua Project — ~1.63M, Frontier/Unengaged); Titanic illustration researched — current version embellished/unattributed (real Peuchen kernel exists but woman/casino details are not historical) |
+| 2 | Cultural Marxism / CRT | Romans 10:12-13 | ~~Raw in memory2.md~~ → `Cultural Marxism.md` → `sermons/nt/romans/Cultural Marxism - CRT - Romans 10 (raw draft).md` → **`sermons/topical/Sermon - Cultural Marxism.md` ✓ polished & verified** (all Scripture ESV ✓; David Brooks sourced ✓; Hitler "half Jewish" removed ✓; Deut 10:17 corrected to ESV ✓; Dhund geography corrected ✓; sermon-map + theological-map updated ✓) |
+| 3 | Bless the Lord / Thanksgiving & Hesed Love | Psalm 103 | ~~Raw in memory2.md~~ → `sermons/ot/psalms/Psalm 103 - Bless the Lord - Hesed Love (raw draft).md` → **`sermons/topical/Sermon - Bless the Lord O My Soul.md` ✓ (canonical; fully polished, Scripture verified, Integrity Log appended, sermon-map updated)** |
+| 4 | The Covenants — God's Unfolding Plan | Ephesians 3:3-6 | ~~Partially extracted~~ → `sermons/nt/ephesians/Eph 3 - The Covenants.md` ✓ (complete Integrity Log present, 6 Scripture corrections + 3 factual notes applied) |
+| 5 | Quilted Together in Love / Gratitude as Guardian | Colossians 2:1-8 | ~~Raw in memory2.md~~ → `sermons/nt/colossians/Col 2 - thanksigiving.md` ✓ |
+| 6 | Prayer | Colossians 4:2-4 | ~~Raw in memory2.md~~ → `sermons/nt/colossians/col 4 - prayer.md` (full version) + `sermons/nt/colossians/prayer col 4.md` (prayer service version) ✓ |
+| 7 | Church Membership / Body of Christ | 1 Corinthians 12:12-27 | ~~Raw in memory2.md~~ → `sermons/nt/1-corinthians/Commitment to the church body 1 cor 12.md` ✓ |
+| 8 | Sowing and Reaping | Galatians 6:7-10 | ~~Raw in memory2.md~~ → `sermons/nt/galatians/Galatians 6 - Sowing and Reaping (raw draft).md` ✓ — Flood story corrected March 2026; Toplady ✓, Spurgeon ✓, Luther ✓ verified March 2026; Lawson wording confirmed, no primary source located; Sindhi Samas verified (Joshua Project — ~1.63M, Frontier/Unengaged); Titanic illustration researched — current version embellished/unattributed (real Peuchen kernel exists but woman/casino details are not historical) |
 | 9 | Angels, Demons, Etcetera | Ephesians 1:3-14 | ~~Raw in memory2.md~~ → ✓ `Eph 1 - Angels Demons Etcetera.md` is authoritative (all corrections applied, Integrity Log, Series label added). `Ephesians 1 - Angels Demons Etcetera.md` deprecated with header pointing to authoritative version. |
 
 **All memory2.md extractions are complete.** All 9 files confirmed present on disk (March 2026). The extracted files are raw drafts — quote attribution, Scripture translation accuracy, and factual claims have not yet been verified in these files. That verification work remains for a future session.
@@ -230,7 +230,7 @@ These 2 sermons were cataloged in previous processing but their source text cann
 | Sermon | Text | Issue |
 |--------|------|-------|
 | **At the Altar of Our Convenience** | Psalm 106 | No .docx or .md source file in repo. Cataloged from an earlier info dump. Source text must be re-provided to process. |
-| ~~**A Godly Home**~~ | ~~Exodus / Moses~~ | ~~No .docx or .md source file in repo.~~ **RESOLVED** — Source text provided March 2026. Polished and verified manuscript saved to `Sermon - A Godly Home.md`. Sermon-map updated (Exodus section + Marriage/Family index). Key corrections: Hiroo Onoda timeline (1974, ~29 years, age 52); ESV Scripture quotations; Patrick Henry/Rogers/Swindoll quotes verified. Two remaining ⚠️ flags: "three abortions/year" contraceptive claim (contested); silphium extinction date approximate. |
+| ~~**A Godly Home**~~ | ~~Exodus / Moses~~ | ~~No .docx or .md source file in repo.~~ **RESOLVED** — Source text provided March 2026. Polished and verified manuscript saved to `sermons/topical/Sermon - A Godly Home.md`. Sermon-map updated (Exodus section + Marriage/Family index). Key corrections: Hiroo Onoda timeline (1974, ~29 years, age 52); ESV Scripture quotations; Patrick Henry/Rogers/Swindoll quotes verified. Two remaining ⚠️ flags: "three abortions/year" contraceptive claim (contested); silphium extinction date approximate. |
 
 ---
 
@@ -240,9 +240,9 @@ These 2 sermons were cataloged in previous processing but their source text cann
 
 | File | Issue |
 |------|-------|
-| `Sermon - Thankfulness.md` | Cuts off mid-narrative at "Things kept deteriorating." No resolution, no Scripture, no theological application. Remainder never submitted. |
-| `Sermon - Sola Christus 2024.md` | Marked "INCOMPLETE DRAFT." Ends at "OK so the three roles of Christ are Prophet, Priest and King." Three roles never expounded. No gospel close. Scripture reference blank ("Our scripture will be ___"). |
-| `Rapture - Study Paper (incomplete draft).md` | Introduction only. Cuts off at start of "The Relevant Scriptures" section. All Scripture analysis, position comparisons, and scholarly citations are yet to come. Pre-Wrath/Mid-Trib distinction needs clarification. |
+| `sermons/topical/Sermon - Thankfulness.md` | Cuts off mid-narrative at "Things kept deteriorating." No resolution, no Scripture, no theological application. Remainder never submitted. |
+| `sermons/topical/Sermon - Sola Christus 2024.md` | Marked "INCOMPLETE DRAFT." Ends at "OK so the three roles of Christ are Prophet, Priest and King." Three roles never expounded. No gospel close. Scripture reference blank ("Our scripture will be ___"). |
+| `theology/Rapture - Study Paper (incomplete draft).md` | Introduction only. Cuts off at start of "The Relevant Scriptures" section. All Scripture analysis, position comparisons, and scholarly citations are yet to come. Pre-Wrath/Mid-Trib distinction needs clarification. |
 
 ### Raw Drafts Needing Polish and Verification
 
@@ -250,18 +250,18 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 
 | File | Key Flags |
 |------|-----------|
-| `Proverbs 13 (raw draft).md` | ~~Multiple flags~~ — **All resolved** ✓. Paul Washer story verified ✓; "700%" removed → "small fraction" ✓; Edwin Starr / Lockheed Martin story CUT (confirmed false) ✓; screen time corrected to 5–9 hrs (Common Sense Media) ✓; "3 hrs Puritan scripture" reframed ✓; Newton ref corrected ✓; "spare the rod" paraphrase flagged in body with real ESV verse ✓. ⬜ Pew Bible page number — fill before Sunday (pastor's task) |
-| `Psalm 2 (raw draft).md` | ~~11 flags~~ — **All resolved** ✓ (Heb 13:3 ESV, Edwards Q2 fixed, LORD/Lord corrected incl. v.4 Adonai, IDOP first Sunday, 7 duplicate lines removed); ⚠️ "53 countries" and "Russia in Revelation" remain as noted interpretive/dated-data flags |
-| `Psalm 8 - Hebrews 2 (raw draft).md` | ~~4 flags~~ — **Duplicates resolved** ✓ (4 partial lines removed); ESV corrections applied ✓; J.C. Ryle verified ✓; "How He Loves" / McMillan corrected ✓; Caño Cristales corrected ✓. ⚠️ David Platt cab driver story unverified (no indexed source); ⚠️ Edwards "just the sin" quote not in Yale critical edition (possibly misattributed); ⚠️ MacArthur "serve righteousness as slaves" — paraphrase of Rom 6:18-19, not confirmed direct quote — all three flagged inline in draft |
-| `Psalm 119 161-168 (raw draft).md` | ~~10 flags~~ — **All resolved** ✓ (Fenn corrections, US population, Brother Andrew prayer wording ✓ "in my luggage" confirmed, Brother Andrew destination ✓ corrected to Yugoslavia 1957 — three independent sources; Florida stats pastor-certified, primary source not documented — add before publication). |
-| `Psalm 68 Part 2 (raw draft).md` | ~~7 flags~~ — **All resolved** ✓ (Prov 27:17 ESV, 1 Kgs 18 LORD, prophet count 850, Elijah timeline, duplicate line removed) |
-| `1 Thess 5 - Rejoice Always (raw draft).md` | ~~7 flags~~ — **All resolved** ✓ (Spurgeon verified Sermon #2483, "3 million" → ~1.3M, "Communists defeated" corrected, duplicate line removed) |
-| `Philippians 4 (raw draft).md` | ~~16 flags~~ — **11 resolved** ✓ (CT Studd wording corrected, Spurgeon verified #1178, semnos confirmed, prosphilēs NT hapax confirmed, LXX Ps 84 claim corrected to ἀγαπητά, Samuel Sey description corrected). ⚠️ Samuel Sey quote unverified; ⚠️ Richard Baxter full passage unverified (closing sentence confirmed — Practical Works II:884-885); ⚠️ Mo-Jer-Hai not in indexed sources; ⬜ pew Bible page number |
-| `Romans 1 - Psalm 22 (Prophecy raw draft).md` | ~~8 flags~~ — **All resolved** ✓ (Rogers "108" verified Sermon #2299 LWF; Torrey "300" corrected — actual lists 61-79; "68%" corrected to 65% with Joyner/Morningstar attribution; prophecy table Ps 22:17 → Ps 34:20 for bones-not-broken; Deut 18:20-22 and Rom 10:9 ESV previously corrected). ⚠️ Remaining Psalm 22 fulfillment citations: verify line-by-line against ESV before printing. |
-| `Romans 7.md` | ~~4 flags~~ — **2 resolved** ✓ (Jn 15:16 corrected, Phil 2:8 ESV, Lk 22:42 restored); ⚠️ Tesla story disputed; ⚠️ "3 in 5 dieters" unverified |
-| `Romans 3 - antinomianism draft.md` | ~~3 flags~~ — **2 resolved** ✓; ⚠️ John Brown quote remains in Pending Verification (archive.org 403, no indexed text — cannot verify without physical copy) |
-| `Deuteronomy 8 - Count Your Blessings (repaired draft).md` | **Added March 16, 2026 — from main merge.** Three pastoral flags documented inline in source notes: (1) Oatman/Johnson "Count Your Blessings" hymn story — notes describe it as invented/embellished; verify or remove before reprising. (2) Jonathan Edwards "sinners in hands" quote — sermon attributes it to Edwards but wording does not match known primary text; treat as paraphrase or remove attribution. (3) Col 3:6 cited as support for "God's wrath falls on the disobedient" in a blessings-and-thanksgiving context — application is strained; consider removing or reframing. Sermon is usable; flags matter before reprising or print. |
-| `Psalm 42 - As the Deer Pants.md` | **Added March 16, 2026 — from main merge.** Two flags in source notes: (1) Unnamed "PhD scholar" cited for the claim that deer seek water to escape predators (not to drink) — no source named; claim appears in circulation but academic origin unverified. (2) Sermon attributes the "As the Deer" chorus tune to a specific composition context — verify before any print attribution. Sermon is fully usable for preaching; flags matter for print/book use only. |
+| `sermons/ot/proverbs/Proverbs 13 (raw draft).md` | ~~Multiple flags~~ — **All resolved** ✓. Paul Washer story verified ✓; "700%" removed → "small fraction" ✓; Edwin Starr / Lockheed Martin story CUT (confirmed false) ✓; screen time corrected to 5–9 hrs (Common Sense Media) ✓; "3 hrs Puritan scripture" reframed ✓; Newton ref corrected ✓; "spare the rod" paraphrase flagged in body with real ESV verse ✓. ⬜ Pew Bible page number — fill before Sunday (pastor's task) |
+| `sermons/ot/psalms/Psalm 2 (raw draft).md` | ~~11 flags~~ — **All resolved** ✓ (Heb 13:3 ESV, Edwards Q2 fixed, LORD/Lord corrected incl. v.4 Adonai, IDOP first Sunday, 7 duplicate lines removed); ⚠️ "53 countries" and "Russia in Revelation" remain as noted interpretive/dated-data flags |
+| `sermons/ot/psalms/Psalm 8 - Hebrews 2 (raw draft).md` | ~~4 flags~~ — **Duplicates resolved** ✓ (4 partial lines removed); ESV corrections applied ✓; J.C. Ryle verified ✓; "How He Loves" / McMillan corrected ✓; Caño Cristales corrected ✓. ⚠️ David Platt cab driver story unverified (no indexed source); ⚠️ Edwards "just the sin" quote not in Yale critical edition (possibly misattributed); ⚠️ MacArthur "serve righteousness as slaves" — paraphrase of Rom 6:18-19, not confirmed direct quote — all three flagged inline in draft |
+| `sermons/ot/psalms/Psalm 119 161-168 (raw draft).md` | ~~10 flags~~ — **All resolved** ✓ (Fenn corrections, US population, Brother Andrew prayer wording ✓ "in my luggage" confirmed, Brother Andrew destination ✓ corrected to Yugoslavia 1957 — three independent sources; Florida stats pastor-certified, primary source not documented — add before publication). |
+| `sermons/ot/psalms/Psalm 68 Part 2 (raw draft).md` | ~~7 flags~~ — **All resolved** ✓ (Prov 27:17 ESV, 1 Kgs 18 LORD, prophet count 850, Elijah timeline, duplicate line removed) |
+| `sermons/nt/1-thessalonians/1 Thess 5 - Rejoice Always (raw draft).md` | ~~7 flags~~ — **All resolved** ✓ (Spurgeon verified Sermon #2483, "3 million" → ~1.3M, "Communists defeated" corrected, duplicate line removed) |
+| `sermons/nt/philippians/Philippians 4 (raw draft).md` | ~~16 flags~~ — **11 resolved** ✓ (CT Studd wording corrected, Spurgeon verified #1178, semnos confirmed, prosphilēs NT hapax confirmed, LXX Ps 84 claim corrected to ἀγαπητά, Samuel Sey description corrected). ⚠️ Samuel Sey quote unverified; ⚠️ Richard Baxter full passage unverified (closing sentence confirmed — Practical Works II:884-885); ⚠️ Mo-Jer-Hai not in indexed sources; ⬜ pew Bible page number |
+| `sermons/nt/romans/Romans 1 - Psalm 22 (Prophecy raw draft).md` | ~~8 flags~~ — **All resolved** ✓ (Rogers "108" verified Sermon #2299 LWF; Torrey "300" corrected — actual lists 61-79; "68%" corrected to 65% with Joyner/Morningstar attribution; prophecy table Ps 22:17 → Ps 34:20 for bones-not-broken; Deut 18:20-22 and Rom 10:9 ESV previously corrected). ⚠️ Remaining Psalm 22 fulfillment citations: verify line-by-line against ESV before printing. |
+| `sermons/nt/romans/Romans 7.md` | ~~4 flags~~ — **2 resolved** ✓ (Jn 15:16 corrected, Phil 2:8 ESV, Lk 22:42 restored); ⚠️ Tesla story disputed; ⚠️ "3 in 5 dieters" unverified |
+| `sermons/nt/romans/Romans 3 - antinomianism draft.md` | ~~3 flags~~ — **2 resolved** ✓; ⚠️ John Brown quote remains in Pending Verification (archive.org 403, no indexed text — cannot verify without physical copy) |
+| `sermons/ot/deuteronomy/Deuteronomy 8 - Count Your Blessings (repaired draft).md` | **Added March 16, 2026 — from main merge.** Three pastoral flags documented inline in source notes: (1) Oatman/Johnson "Count Your Blessings" hymn story — notes describe it as invented/embellished; verify or remove before reprising. (2) Jonathan Edwards "sinners in hands" quote — sermon attributes it to Edwards but wording does not match known primary text; treat as paraphrase or remove attribution. (3) Col 3:6 cited as support for "God's wrath falls on the disobedient" in a blessings-and-thanksgiving context — application is strained; consider removing or reframing. Sermon is usable; flags matter before reprising or print. |
+| `sermons/ot/psalms/Psalm 42 - As the Deer Pants.md` | **Added March 16, 2026 — from main merge.** Two flags in source notes: (1) Unnamed "PhD scholar" cited for the claim that deer seek water to escape predators (not to drink) — no source named; claim appears in circulation but academic origin unverified. (2) Sermon attributes the "As the Deer" chorus tune to a specific composition context — verify before any print attribution. Sermon is fully usable for preaching; flags matter for print/book use only. |
 
 ---
 
@@ -270,15 +270,15 @@ These files exist as raw drafts with known verification flags (⚠️). They are
 The sermon-map.md contains **46+ entries** with ⚠️ flags indicating unverified quotes, incorrect Scripture translations, factual claims needing checking, or attribution issues. These are documented inline in the sermon-map entries. A full audit would require reading each flagged sermon and resolving the flags.
 
 **Files with the most verification flags**:
-- `Philippians 4 (raw draft).md` — 16 flags
-- `Psalm 2 (raw draft).md` — 11 flags
-- `Psalm 119 161-168 (raw draft).md` — 10 flags
-- `Study - Joseph as a Type of Christ (typology reference).md` — partially resolved March 2026: Gen. 37:28 ESV ✓; Heb. 7:26 ESV ✓; Phil. 2:9 "new name" heading flagged as inaccurate (use Rev. 3:12 or revise heading). Standing: all quotes are KJV — convert to ESV before preaching; source/attribution unknown
-- `Romans 1 - Psalm 22 (Prophecy raw draft).md` — substantially resolved March 2026; standing: Psalm 22:17/"bones not broken" cross-reference needs table correction; "68%" stat uncitable; voting intro dated
-- `1 Thess 5 - Rejoice Always (raw draft).md` — 7 flags
-- `Psalm 68 Part 2 (raw draft).md` — substantially resolved March 2026; 1 standing item (Elijah timeline phrasing) for print polish
-- `Sermon - Faithful and God-Fearing.md` — manuscript substantially polished; major errors corrected in end notes (king succession, Xerxes-Cyrus, 50→52 days, NIV→ESV for Isa 45/Luke 12:5); standing items: (1) Gospel presentation not developed — must complete before preaching; (2) Pascal's Wager section not developed; (3) Dr. Alvin Reid quote — exact source unverified; (4) Great Wall bribery number — unverifiable, already qualified in body
-- `Sermon - Sola Scriptura 2021.md` — **Integrity Log appended March 2026.** Luther Quotes 1–2 fully verified (LW 49:161; Large Catechism Preface §10). Luther Quotes 3–4 editions identified (Mueller/Zondervan 1954; Middleton/Fallowes/Kregel) — content authentic, verbatim unverified without physical copies. All Scripture references verified against ESV. Standing: ⚠️ Trevor Noah attribution — strongest lead: Pastor Trevor Noah at City Centre Church (Whalley Presbyterian), Surrey BC, Canada; theology matches perfectly; confirm with pastor (604-581-4833 / connect@citycentrechurch.org). Companion file `Sermon - Sola Scriptura (2021).md` (version A) also received Integrity Log; standing flags: Wycliffe "Scripture is a light" quote unverified, simultaneous popes list conflates eras, McCunn "plea for God" unconfirmed.
+- `sermons/nt/philippians/Philippians 4 (raw draft).md` — 16 flags
+- `sermons/ot/psalms/Psalm 2 (raw draft).md` — 11 flags
+- `sermons/ot/psalms/Psalm 119 161-168 (raw draft).md` — 10 flags
+- `theology/Study - Joseph as a Type of Christ (typology reference).md` — partially resolved March 2026: Gen. 37:28 ESV ✓; Heb. 7:26 ESV ✓; Phil. 2:9 "new name" heading flagged as inaccurate (use Rev. 3:12 or revise heading). Standing: all quotes are KJV — convert to ESV before preaching; source/attribution unknown
+- `sermons/nt/romans/Romans 1 - Psalm 22 (Prophecy raw draft).md` — substantially resolved March 2026; standing: Psalm 22:17/"bones not broken" cross-reference needs table correction; "68%" stat uncitable; voting intro dated
+- `sermons/nt/1-thessalonians/1 Thess 5 - Rejoice Always (raw draft).md` — 7 flags
+- `sermons/ot/psalms/Psalm 68 Part 2 (raw draft).md` — substantially resolved March 2026; 1 standing item (Elijah timeline phrasing) for print polish
+- `sermons/topical/Sermon - Faithful and God-Fearing.md` — manuscript substantially polished; major errors corrected in end notes (king succession, Xerxes-Cyrus, 50→52 days, NIV→ESV for Isa 45/Luke 12:5); standing items: (1) Gospel presentation not developed — must complete before preaching; (2) Pascal's Wager section not developed; (3) Dr. Alvin Reid quote — exact source unverified; (4) Great Wall bribery number — unverifiable, already qualified in body
+- `sermons/topical/Sermon - Sola Scriptura 2021.md` — **Integrity Log appended March 2026.** Luther Quotes 1–2 fully verified (LW 49:161; Large Catechism Preface §10). Luther Quotes 3–4 editions identified (Mueller/Zondervan 1954; Middleton/Fallowes/Kregel) — content authentic, verbatim unverified without physical copies. All Scripture references verified against ESV. Standing: ⚠️ Trevor Noah attribution — strongest lead: Pastor Trevor Noah at City Centre Church (Whalley Presbyterian), Surrey BC, Canada; theology matches perfectly; confirm with pastor (604-581-4833 / connect@citycentrechurch.org). Companion file `Sermon - Sola Scriptura (2021).md` (version A) also received Integrity Log; standing flags: Wycliffe "Scripture is a light" quote unverified, simultaneous popes list conflates eras, McCunn "plea for God" unconfirmed.
 
 ---
 
@@ -288,7 +288,7 @@ The book framework is well-documented in `claude.md` with a complete chapter map
 
 | Item | Status |
 |------|--------|
-| `Notes - Empire and Suppression (Romans 1 Book Revision).md` | Raw material for book revision of Romans 1 ("The Darkness We Chose"). Not yet integrated into the sermon/chapter. |
+| `teaching/notes/Notes - Empire and Suppression (Romans 1 Book Revision).md` | Raw material for book revision of Romans 1 ("The Darkness We Chose"). Not yet integrated into the sermon/chapter. |
 | Book title decision | Three options proposed; no final selection: *The Night Is Far Gone*, *Waking Up*, *From Midnight to Morning* |
 | Chapter polishing for print | Sermons exist for all 16 chapters but none have been revised from "preached" format to "read" format for book publication |
 | Transitions between chapters | No inter-chapter connective tissue has been written |
@@ -299,12 +299,12 @@ The book framework is well-documented in `claude.md` with a complete chapter map
 
 | Item | File | Status |
 |------|------|--------|
-| 2 Cor 5:15 Calvinism Rebuttal | `Notes - 2 Corinthians 5-15 Rebuttal (Calvinism Objection).md` | First argument developed. Additional arguments may be planned but are not written. |
-| Romans 6b boulder rewrite | `Romans_6b_boulder_rewrite.md` | Short outline only (~10 lines). Companion file `Romans_6b_with_boulder.md` is more developed. Unclear if the rewrite was completed or abandoned. |
-| Evangelism content survey | `evangelism-content-survey.md` | Complete as a survey document. Its purpose was to inform Romans 15b sermon prep, which is now done. No further action needed. |
-| Missional Helix notes | `Notes - Missional Helix (Church Planting Strategy).md` | Strategy notes; standalone reference. No action needed unless church planting work resumes. |
-| Missions bibliography | `Notes - Missions Bibliography (25 Books for Local Church).md` | Contains 5 verification flags on book descriptions. |
-| Theological extraction | `theological-extraction-ecclesiology-eschatology-bibliology.md` | Comprehensive doctrinal extraction. Complete. |
+| 2 Cor 5:15 Calvinism Rebuttal | `teaching/notes/Notes - 2 Corinthians 5-15 Rebuttal (Calvinism Objection).md` | First argument developed. Additional arguments may be planned but are not written. |
+| Romans 6b boulder rewrite | `sermons/nt/romans/Romans_6b_boulder_rewrite.md` | Short outline only (~10 lines). Companion file `sermons/nt/romans/Romans_6b_with_boulder.md` is more developed. Unclear if the rewrite was completed or abandoned. |
+| Evangelism content survey | `teaching/notes/evangelism-content-survey.md` | Complete as a survey document. Its purpose was to inform Romans 15b sermon prep, which is now done. No further action needed. |
+| Missional Helix notes | `teaching/notes/Notes - Missional Helix (Church Planting Strategy).md` | Strategy notes; standalone reference. No action needed unless church planting work resumes. |
+| Missions bibliography | `teaching/notes/Notes - Missions Bibliography (25 Books for Local Church).md` | Contains 5 verification flags on book descriptions. |
+| Theological extraction | `theology/theological-extraction-ecclesiology-eschatology-bibliology.md` | Comprehensive doctrinal extraction. Complete. |
 
 ---
 
@@ -327,7 +327,7 @@ From `preaching-gap-analysis.md`, the top 15 preaching gaps ranked by theologica
 | 11 | Lamentations 3 + Job 38–42 | Theology of lament |
 | 12 | Acts 17 (Mars Hill) | Apologetics in pagan context |
 | 13 | Habakkuk | "The righteous shall live by faith" — never preached from its source |
-| 14 | 2 Samuel 7 | Davidic covenant — surveyed in `Eph 3 - The Covenants.md` but no dedicated expository sermon; covenant-as-primary-text gap remains |
+| 14 | 2 Samuel 7 | Davidic covenant — surveyed in `sermons/nt/ephesians/Eph 3 - The Covenants.md` but no dedicated expository sermon; covenant-as-primary-text gap remains |
 | 15 | Galatians 5 (Fruit of the Spirit) | Referenced constantly; never primary preaching text |
 
 **24 books of the Bible** have never been the primary preaching text (19 OT, 5 NT).

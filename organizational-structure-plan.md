@@ -116,46 +116,47 @@ Based on GPT and Gemini consultation feedback:
 Each phase is one sitting. Commit after each. Stop anywhere — later phases don't depend on earlier ones being perfect.
 
 ### Phase 0: Safety Net
-- [ ] Create `.git-blame-ignore-revs` file (Claude handles this)
-- [ ] Verify all maps are current before we start
+- [x] Create `.git-blame-ignore-revs` file (Claude handles this)
+- [x] Verify all maps are current before we start
 
 ### Phase 1: Clean the Junk Drawer
 *~15 minutes. Low risk.*
-- [ ] Merge both `sebts-reference/` directories into one at root
-- [ ] Delete empty `Other-Sermons/pastoral-resources/`
-- [ ] Move `Other-Sermons/_review/` contents to `_review/` at root
-- [ ] Sort the 26 files in `Other-Sermons/Sermons/` — each one goes to its proper book folder or gets flagged for your review
-- [ ] Delete `Other-Sermons/` once empty
-- [ ] **Commit:** "Consolidate duplicates and clear Other-Sermons/"
+- [x] Merge both `sebts-reference/` directories into one at root (12 files consolidated)
+- [x] Delete empty `Other-Sermons/pastoral-resources/`
+- [x] Move `Other-Sermons/_review/` contents to `_review/` at root (5 files)
+- [x] Sort the 24 files in `Other-Sermons/Sermons/` into root (later sorted to book folders)
+- [x] Delete `Other-Sermons/` once empty
+- [x] **Commit:** "Phase 0-1: Safety net and clean the junk drawer"
 
 ### Phase 2: Move Non-Sermon Files Out of Root
 *~20 minutes. Smallest set of files.*
-- [ ] Identify and move funeral/wedding/service files → `services/`
-- [ ] Identify and move Sunday school and Bible study files → `teaching/`
-- [ ] Identify and move theology papers → `theology/`
-- [ ] Identify and move personal files (pandemic journal, reflections) → `personal/`
-- [ ] **Commit:** "Move non-sermon files to proper directories"
+- [x] Identify and move funeral/wedding/service files → `services/` (12 files)
+- [x] Identify and move Sunday school and Bible study files → `teaching/` (19 files)
+- [x] Identify and move theology papers → `theology/` (10 files)
+- [x] Identify and move personal files → `personal/` (5 files)
+- [x] **Commit:** "Phase 2-4: Organize all files into book-based folder structure"
 
 ### Phase 3: Create Book Folders and Move Sermons
 *~45 minutes. The big move.*
-- [ ] Create `sermons/ot/` and `sermons/nt/` with book subfolders
-- [ ] Move OT sermons to `sermons/ot/[book]/`
-- [ ] Move NT sermons (non-Romans) to `sermons/nt/[book]/`
-- [ ] Move topical sermons to `sermons/topical/`
-- [ ] **Commit:** "Move OT and NT sermons to book folders"
+- [x] Create `sermons/ot/` (22 book folders) and `sermons/nt/` (21 book folders)
+- [x] Move OT sermons to `sermons/ot/[book]/` (142 sermons)
+- [x] Move NT sermons (non-Romans) to `sermons/nt/[book]/` (148 sermons)
+- [x] Move topical sermons to `sermons/topical/` (91 sermons)
+- [x] **Committed with Phase 2**
 
 ### Phase 4: Move Romans
 *~15 minutes. Most important, most referenced.*
-- [ ] Move all Romans series files to `sermons/nt/romans/`
-- [ ] Spot-check that every Romans file in the sermon-map has a match in the new location
-- [ ] **Commit:** "Move Romans series to sermons/nt/romans/"
+- [x] Move all Romans series files to `sermons/nt/romans/` (52 files)
+- [x] Spot-check that every Romans file in the sermon-map has a match in the new location
+- [x] **Committed with Phase 2**
 
 ### Phase 5: Regenerate and Verify
-- [ ] Run sermon-map skill to rebuild all four maps with new paths
-- [ ] Spot-check 10 random sermons: can you find them by browsing?
-- [ ] Spot-check 5 map entries: do the paths resolve?
-- [ ] Add move commits to `.git-blame-ignore-revs`
-- [ ] **Commit:** "Regenerate maps and finalize reorganization"
+- [x] Update 1,179 path references across 16 map files
+- [x] Update sermon-map SKILL.md scope boundaries for new structure
+- [x] Spot-check 10 random sermons: all found by browsing ✓
+- [x] Spot-check 5 map entries: all paths resolve ✓
+- [x] Add move commits to `.git-blame-ignore-revs`
+- [x] **Commit:** "Phase 5: Regenerate maps and finalize reorganization"
 
 ---
 
