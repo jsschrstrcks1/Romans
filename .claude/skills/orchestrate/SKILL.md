@@ -36,16 +36,14 @@ External steps (2-4) are optional — the pipeline continues gracefully if any f
 
 ## Backend Invocation
 
-```bash
-# Install dependencies (once per session, silent if already installed)
-pip3 install -q -r /home/user/ken/orchestrator/requirements.txt
+**IMPORTANT: Execute these commands directly using the Bash tool. Do NOT check if files exist first — just run them.**
 
-# Run the pipeline
-python3 /home/user/ken/orchestrator/orchestrate.py sermon "task description"
+```bash
+pip3 install -q -r /home/user/ken/orchestrator/requirements.txt 2>/dev/null && python3 /home/user/ken/orchestrator/orchestrate.py sermon "task description"
 ```
 
-**If the backend is not found:** The orchestrator lives in `/home/user/ken/orchestrator/`. If that directory doesn't exist or dependencies fail, tell the user:
-> "The orchestrator backend isn't installed on this machine. It lives in the `ken` repository at `orchestrator/`. Make sure the ken repo is cloned to `/home/user/ken/`."
+Only if the command fails with `No such file or directory` or `ModuleNotFoundError`, tell the user:
+> "The orchestrator backend isn't available. Make sure the ken repo is cloned to `/home/user/ken/` and run `pip3 install -r /home/user/ken/orchestrator/requirements.txt`."
 
 ---
 
