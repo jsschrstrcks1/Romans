@@ -1,59 +1,37 @@
-# Organizational Structure Plan
+# Romans Repository — Organizational Plan
 
-*Prepared March 24, 2026 — based on manual audit of the full repository.*
-
----
-
-## Current State: What We Have
-
-| Location | Files | Contents |
-|----------|-------|----------|
-| `/` (root) | 464 .md | Sermons, notes, studies, personal, drafts — all flat |
-| `quotes-and-references/` | 1,325 .md | MacArthur (769), Sproul (548), Spurgeon (6), illustrations (1) |
-| `Other-Sermons/Sermons/` | 26 .md | Raw drafts, variants, and newly imported sermons |
-| `Other-Sermons/_review/` | 5 .md | Voice audits and evaluation reports |
-| `Other-Sermons/sebts-reference/` | 7 files | Greek translations, seminary papers |
-| `sebts-reference/` | 5 .md | Seminary papers and syllabi (separate copy) |
-| `pastoral-resources/` | 3 .md | Shelter policy, emergency contacts, community resources |
-| `Other-Sermons/pastoral-resources/` | 0 | Empty duplicate |
-| `A journey in grace/` | 52 JPGs | Book study photos (no markdown) |
-| `.claude/` | 4 maps | sermon-map, theological-map, date-map, series-trajectory |
-
-**Total: ~1,833 markdown files across the repository.**
+*Updated March 24, 2026 — rewritten around how a pastor uses this data.*
 
 ---
 
-## Problems Identified
+## What This Repository Is For
 
-### 1. Root directory is a flat pile
-464 files with no folder structure. Polished manuscripts sit next to raw transcripts, personal notes, Sunday school lessons, funeral services, theological papers, and planning documents. Finding anything requires search or the sermon-map.
+You come here to do five things:
 
-### 2. Inconsistent naming
-- Mixed case: `Romans 1a` vs `romans 12 pt 4`
-- Mixed prefixes: `Sermon - Title` vs `Book Chapter` vs bare lowercase
-- Draft markers vary: `(raw draft)`, `(raw transcript)`, `(raw notes)`, `(raw early draft)`, `(flagged draft)`, `(repaired draft)`, `(rebuilt draft)`
-- Parenthetical suffixes: `(2)`, `(b)`, `pt 2`, `pt3`, `Part 2`
+1. **Write a sermon** — from blank page to manuscript
+2. **Find something you've already preached** — by passage, date, topic, or series
+3. **Pull supporting material** — theologian quotes, cross-references, illustrations
+4. **Prepare a non-sermon service** — funeral, wedding, prayer service, special event
+5. **Study** — theology papers, seminary reference, Bible study notes
 
-### 3. Duplicate directory trees
-- `sebts-reference/` exists at root (5 files) AND inside `Other-Sermons/` (7 files) — different contents, same purpose
-- `pastoral-resources/` exists at root (3 files) AND empty inside `Other-Sermons/`
+Everything in this plan serves those five activities. If a change doesn't make one of them easier, we don't make it.
 
-### 4. `Other-Sermons/` is ambiguous
-Contains raw drafts, variant versions, reviews, sebts papers, and newly imported sermons. The name doesn't describe what makes these "other." It's functioning as a staging/import area.
+---
 
-### 5. Multiple versions of the same sermon with no clear lineage
-Example — Sola Christus:
-- `Sola Christus.md`
-- `Sola Christus (AutoRecovered).md`
-- `Sermon - Sola Christus 2024.md`
+## How You Find Things Today
 
-Example — Psalm 46:
-- `Psalm 46.md`
-- `Psalm 46 - Refuge.md`
-- `Other-Sermons/Sermons/Psalm 46 - variant 2.md`
+| I want to... | How it works now | What's broken |
+|---|---|---|
+| Find a sermon by passage | Search sermon-map.md or grep the root | Works — but 464 files in root makes browsing impossible |
+| Find a sermon by date | Search date-map.md | Works |
+| See what I've preached from a book | Check sermon-map.md under that book | Works |
+| Find a quote from Sproul | Browse `quotes-and-references/sproul/` | Works well — already organized |
+| Find a funeral service | Grep root for "funeral" | Buried among 464 other files |
+| Find a raw draft | Grep for "(raw draft)" | Scattered across root and Other-Sermons/ |
+| Find seminary work | Check sebts-reference/ ... which one? | Two copies in two places, different contents |
+| Check if I've used an illustration | Search sermon-map.md subject column | Works, but only if the map entry captured it |
 
-### 6. Non-sermon files mixed with sermons
-Root contains wedding ceremonies, funeral services, pandemic journals, church policies, evangelism content surveys, plagiarism reports, and Bible study materials — all mixed with sermon manuscripts.
+**The maps are doing the heavy lifting.** The folder structure isn't helping — it's just a pile. The goal is to make the folders match the way you already think about the content.
 
 ---
 
@@ -62,133 +40,161 @@ Root contains wedding ceremonies, funeral services, pandemic journals, church po
 ```
 Romans/
 │
-├── sermons/                          # All sermon manuscripts
-│   ├── romans/                       # Romans series ("Night Is Far Gone")
-│   │   ├── Romans 1a - The Power of God for Salvation.md
-│   │   ├── Romans 1b - Without Excuse.md
+├── sermons/
+│   ├── ot/                        # Old Testament sermons, by book
+│   │   ├── genesis/
+│   │   ├── psalms/
+│   │   ├── isaiah/
 │   │   └── ...
-│   ├── old-testament/                # OT sermon manuscripts
-│   │   ├── Genesis 22 - There and Back Again.md
-│   │   ├── Psalm 23.md
+│   ├── nt/                        # New Testament sermons, by book
+│   │   ├── romans/                # "Night Is Far Gone" series lives here
+│   │   ├── john/
+│   │   ├── 1-peter/
 │   │   └── ...
-│   ├── new-testament/                # NT sermon manuscripts (non-Romans)
-│   │   ├── 1 Peter 2.md
-│   │   ├── John 10 - The Good Shepherd.md
-│   │   └── ...
-│   ├── topical/                      # Topical/titled sermons not passage-primary
-│   │   ├── Sermon - The Watching World.md
-│   │   ├── Sermon - Legacies.md
-│   │   └── ...
-│   └── series/                       # Named series groupings
-│       ├── sola/                     # Five Solas Reformation series
-│       ├── thanksgiving/             # Annual Thanksgiving messages
+│   └── topical/                   # Not passage-primary (titled sermons, series)
+│       ├── Sermon - The Watching World.md
+│       ├── Sermon - Legacies.md
 │       └── ...
 │
-├── drafts/                           # Raw, unpolished, in-progress
-│   ├── raw-transcripts/              # Transcribed from audio
-│   ├── raw-drafts/                   # First written drafts
-│   └── variants/                     # Alternate versions for comparison
-│
-├── services/                         # Non-Sunday-morning occasions
+├── services/                      # Non-Sunday-morning occasions
 │   ├── funerals/
 │   ├── weddings/
 │   ├── prayer-services/
-│   └── special-events/               # IDOP, VBS, ordination, etc.
+│   └── special-events/
 │
-├── teaching/                         # Non-sermon instruction
+├── teaching/                      # Non-sermon instruction
 │   ├── sunday-school/
-│   ├── bible-studies/                # Including "Journey in Grace"
-│   └── notes/                        # Study notes, research, outlines
+│   ├── bible-studies/
+│   └── notes/
 │
-├── theology/                         # Doctrinal papers and studies
-│   ├── christology.md
-│   ├── hamartiology.md
-│   ├── Gap Theory - A Biblical and Confessional Evaluation.md
-│   └── ...
+├── theology/                      # Doctrinal papers and studies
 │
-├── pastoral-resources/               # Church admin and policy (already exists)
-│   ├── Church Emergency Shelter Assistance Policy.md
-│   ├── Emergency Contacts.md
-│   └── Pasco Community Resources.md
+├── pastoral-resources/            # Church admin, policy, community resources
 │
-├── sebts-reference/                  # Seminary work (consolidated)
-│   ├── greek-translations/
-│   ├── papers/
-│   └── syllabi/
+├── sebts-reference/               # Seminary work (consolidated from both copies)
 │
-├── quotes-and-references/            # Already well-organized — keep as-is
-│   ├── macarthur/
-│   ├── sproul/
-│   ├── spurgeon/
-│   └── illustrations/
+├── quotes-and-references/         # Already organized — don't touch
 │
-├── A journey in grace/               # Book study photos — keep as-is
+├── personal/                      # Pandemic journal, personal reflections
 │
-├── _review/                          # Evaluation reports (from Other-Sermons/_review)
+├── A journey in grace/            # Book study photos — don't touch
 │
-└── personal/                         # Pandemic journal, personal reflections
+└── .claude/                       # Maps and skills — auto-regenerated
 ```
+
+### Why per-book folders under sermons/?
+
+Romans isn't a special case — it's just another book. `sermons/nt/romans/` sits alongside `sermons/nt/john/` and `sermons/ot/psalms/`. No special decisions needed. When you want to see everything you've preached from Psalms, you open one folder.
+
+### Where do drafts go?
+
+**Next to their finals.** A raw draft of Romans 5 lives in `sermons/nt/romans/` alongside the polished version. The `(raw draft)` or `(raw transcript)` tag in the filename already distinguishes it. Separating drafts into their own tree orphans them from the sermons they belong to.
+
+### What about Other-Sermons/?
+
+Sort its contents into the new structure, then delete it. It was a staging area, not a category.
 
 ---
 
-## Key Decisions to Make Before Moving Files
+## Decisions (Resolved)
 
-These require your input. I will not assume.
+Based on GPT and Gemini consultation feedback:
 
-### Decision 1: Romans series — separate folder or stay at root?
-The Romans series is the heart of this repository. Putting it in `sermons/romans/` is clean, but it changes every path in the sermon-map and series-trajectory. Alternative: keep Romans sermons at root, move everything else.
+| Decision | Answer | Rationale |
+|---|---|---|
+| Romans placement | `sermons/nt/romans/` | Per-book folders make it consistent, not special |
+| OT/NT split | Yes — `sermons/ot/` and `sermons/nt/` with book subfolders | You think in books. Folders should match that |
+| Draft handling | Keep next to finals | Drafts are versions of a sermon, not a separate category |
+| Other-Sermons/ | Sort and delete | It's a junk drawer, not a category |
+| Naming convention | Normalize gradually | New files follow `[Book] [Chapter] - [Title].md`. Old files keep their names |
+| Move files or just plan? | Move — but in phases, with commits between each | Use `.git-blame-ignore-revs` to preserve blame history |
 
-### Decision 2: Flat sermons folder or OT/NT split?
-Option A: `sermons/` with all 400+ sermon files flat inside (simple, matches current mental model)
-Option B: `sermons/old-testament/`, `sermons/new-testament/`, `sermons/topical/` (organized, but more clicks)
+---
 
-### Decision 3: What counts as a "draft"?
-47 files are tagged `(raw draft)`, `(raw transcript)`, etc. Some may be the only version of that sermon. Moving them to `drafts/` could orphan them from their polished siblings. Alternative: keep drafts next to their final versions with a naming convention.
+## Execution Plan
 
-### Decision 4: What to do with `Other-Sermons/`?
-Once its contents are properly placed, delete it entirely? Or keep it as an import staging area for future zip imports?
+Each phase is one sitting. Commit after each. Stop anywhere — later phases don't depend on earlier ones being perfect.
 
-### Decision 5: Naming convention going forward?
-Current mix of styles is organic and natural. Enforcing a strict convention means renaming hundreds of files. Options:
-- **Leave as-is**: Don't rename. Just organize into folders.
-- **Normalize gradually**: New files follow convention; old files stay.
-- **Full rename**: `[Book] [Chapter]:[Verses] - [Title] ([status]).md`
+### Phase 0: Safety Net
+- [ ] Create `.git-blame-ignore-revs` file (Claude handles this)
+- [ ] Verify all maps are current before we start
 
-### Decision 6: Do we move files, or just document the plan?
-Moving 400+ files in git changes every path. This is a one-way door that affects git blame, sermon-map references, and any external links. We should be certain before executing.
+### Phase 1: Clean the Junk Drawer
+*~15 minutes. Low risk.*
+- [ ] Merge both `sebts-reference/` directories into one at root
+- [ ] Delete empty `Other-Sermons/pastoral-resources/`
+- [ ] Move `Other-Sermons/_review/` contents to `_review/` at root
+- [ ] Sort the 26 files in `Other-Sermons/Sermons/` — each one goes to its proper book folder or gets flagged for your review
+- [ ] Delete `Other-Sermons/` once empty
+- [ ] **Commit:** "Consolidate duplicates and clear Other-Sermons/"
+
+### Phase 2: Move Non-Sermon Files Out of Root
+*~20 minutes. Smallest set of files.*
+- [ ] Identify and move funeral/wedding/service files → `services/`
+- [ ] Identify and move Sunday school and Bible study files → `teaching/`
+- [ ] Identify and move theology papers → `theology/`
+- [ ] Identify and move personal files (pandemic journal, reflections) → `personal/`
+- [ ] **Commit:** "Move non-sermon files to proper directories"
+
+### Phase 3: Create Book Folders and Move Sermons
+*~45 minutes. The big move.*
+- [ ] Create `sermons/ot/` and `sermons/nt/` with book subfolders
+- [ ] Move OT sermons to `sermons/ot/[book]/`
+- [ ] Move NT sermons (non-Romans) to `sermons/nt/[book]/`
+- [ ] Move topical sermons to `sermons/topical/`
+- [ ] **Commit:** "Move OT and NT sermons to book folders"
+
+### Phase 4: Move Romans
+*~15 minutes. Most important, most referenced.*
+- [ ] Move all Romans series files to `sermons/nt/romans/`
+- [ ] Spot-check that every Romans file in the sermon-map has a match in the new location
+- [ ] **Commit:** "Move Romans series to sermons/nt/romans/"
+
+### Phase 5: Regenerate and Verify
+- [ ] Run sermon-map skill to rebuild all four maps with new paths
+- [ ] Spot-check 10 random sermons: can you find them by browsing?
+- [ ] Spot-check 5 map entries: do the paths resolve?
+- [ ] Add move commits to `.git-blame-ignore-revs`
+- [ ] **Commit:** "Regenerate maps and finalize reorganization"
+
+---
+
+## What Claude Does vs. What You Do
+
+| Task | Who |
+|---|---|
+| Create directories | Claude |
+| Move files | Claude |
+| Decide ambiguous cases ("is this a sermon or a study?") | You |
+| Regenerate maps | Claude (sermon-map skill) |
+| Spot-check results | You |
+| Commit and push | Claude (after your approval) |
+
+The only thing that requires your judgment is the ~20-30 files where the category isn't obvious. Claude will flag those and ask.
 
 ---
 
 ## What NOT to Change
 
-- **`quotes-and-references/`** — Already well-organized (macarthur/sproul/spurgeon with maps and sermons subdirs). Leave it alone.
-- **`.claude/` maps** — These get regenerated by the sermon-map skill. They'll update after any reorganization.
-- **`A journey in grace/`** — Book study photos. No structural change needed.
-- **File contents** — This plan is about *location*, not editing sermon text.
+- **`quotes-and-references/`** — Already well-organized. Leave it.
+- **`.claude/` maps** — They regenerate automatically after moves.
+- **`A journey in grace/`** — Book study photos. No change needed.
+- **File contents** — This plan moves files. It does not edit sermon text.
+- **Filenames of existing sermons** — Normalize gradually. Don't bulk-rename.
 
 ---
 
-## Recommended Execution Order
+## After Reorganization: Your Workflow
 
-If we proceed:
-
-1. **Consolidate duplicates first** — Merge the two `sebts-reference/` directories. Delete empty `Other-Sermons/pastoral-resources/`.
-2. **Create folder structure** — Make the directories before moving anything.
-3. **Move non-sermon files** — Services, teaching, theology, personal. Smallest set, lowest risk.
-4. **Move drafts and variants** — Clear the obvious staging material from `Other-Sermons/Sermons/`.
-5. **Move sermons by testament** — The big move. Do OT and NT separately.
-6. **Romans series last** — Most important, most referenced. Move only after everything else is stable.
-7. **Regenerate all maps** — Run sermon-map skill to rebuild all four map files.
-8. **Verify** — Spot-check that no files were lost or misplaced.
-
----
-
-## What I Need From You
-
-Before I touch a single file:
-
-1. Which decisions above do you want to make now?
-2. Is there a reason for the current flat structure I should respect? (e.g., a tool or workflow that expects root-level files)
-3. Should I proceed with the consolidation of duplicates as a safe first step?
+| I want to... | What I do |
+|---|---|
+| Write a new Romans sermon | Create file in `sermons/nt/romans/`, use `/orchestrate sermon` |
+| Find what I preached on Psalm 23 | Open `sermons/ot/psalms/` or check sermon-map |
+| Pull a Sproul quote on justification | Search `quotes-and-references/sproul/` |
+| Prepare a funeral | Check `services/funerals/` for past services |
+| See preaching gaps | Run sermon-map GAP analysis |
+| Check if I've used an illustration | Search sermon-map subject column or run DEDUP |
+| Reference seminary Greek work | Browse `sebts-reference/` |
+| Find what I preached last Easter | Check date-map.md |
 
 *Soli Deo Gloria.*
