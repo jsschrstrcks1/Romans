@@ -41,10 +41,10 @@ Read these before doing any substantial work. They are the ground truth for this
 - Merged 10 new files from `origin/main` into the working branch
 - All 10 files verified and added to `sermon-map.md`
 - `unfinished-work-tracker.md` updated with new findings
-- `1 Corinthians 12 - Church Membership.md` reviewed — clean, Integrity Log complete
+- `sermons/nt/1-corinthians/1 Corinthians 12 - Church Membership.md` reviewed — clean, Integrity Log complete
 - Two newly-merged files have standing pastoral flags (documented in tracker Part IV):
-  - `Deuteronomy 8 - Count Your Blessings (repaired draft).md` — 3 flags
-  - `Psalm 42 - As the Deer Pants.md` — 2 flags
+  - `sermons/ot/deuteronomy/Deuteronomy 8 - Count Your Blessings (repaired draft).md` — 3 flags
+  - `sermons/ot/psalms/Psalm 42 - As the Deer Pants.md` — 2 flags
 
 ### Summary of open items (from tracker)
 
@@ -75,32 +75,32 @@ These files have standing verification flags. Each can be resolved in a focused 
 
 | File | Key remaining flags |
 |------|-------------------|
-| `Sermon - Sola Scriptura 2021.md` | Trevor Noah attribution almost certainly wrong — find real source before preaching; 4 Luther quotes content-consistent but no primary LW source confirmed |
-| `Sermon - Faithful and God-Fearing.md` | Gospel presentation not developed (must complete before preaching); Pascal's Wager section unfinished; Alvin Reid quote source unverified |
-| `Philippians 4 (raw draft).md` | Samuel Sey quote unverified; Baxter full passage unverified; Mo-Jer-Hai not sourced; pew Bible page # blank |
-| `Romans 7.md` | Tesla story disputed; "3 in 5 dieters" unverified |
-| `Psalm 8 - Hebrews 2 (raw draft).md` | Platt cab driver unverified; Edwards "just the sin" suspect; MacArthur paraphrase unconfirmed |
-| `Romans 1 - Psalm 22 (Prophecy raw draft).md` | Ps 22 fulfillment table needs line-by-line ESV check before printing |
-| `Romans 3 - antinomianism draft.md` | John Brown quote needs physical copy to verify |
+| `sermons/topical/Sermon - Sola Scriptura 2021.md` | Trevor Noah attribution almost certainly wrong — find real source before preaching; 4 Luther quotes content-consistent but no primary LW source confirmed |
+| `sermons/topical/Sermon - Faithful and God-Fearing.md` | Gospel presentation not developed (must complete before preaching); Pascal's Wager section unfinished; Alvin Reid quote source unverified |
+| `sermons/nt/philippians/Philippians 4 (raw draft).md` | Samuel Sey quote unverified; Baxter full passage unverified; Mo-Jer-Hai not sourced; pew Bible page # blank |
+| `sermons/nt/romans/Romans 7.md` | Tesla story disputed; "3 in 5 dieters" unverified |
+| `sermons/ot/psalms/Psalm 8 - Hebrews 2 (raw draft).md` | Platt cab driver unverified; Edwards "just the sin" suspect; MacArthur paraphrase unconfirmed |
+| `sermons/nt/romans/Romans 1 - Psalm 22 (Prophecy raw draft).md` | Ps 22 fulfillment table needs line-by-line ESV check before printing |
+| `sermons/nt/romans/Romans 3 - antinomianism draft.md` | John Brown quote needs physical copy to verify |
 | `Psalm 103 - Bless the Lord (raw draft).md` | JFB quote unverified |
-| `Deuteronomy 8 - Count Your Blessings (repaired draft).md` | Oatman hymn story may be invented; Edwards quote wording doesn't match primary text; Col 3:6 application strained |
-| `Psalm 42 - As the Deer Pants.md` | PhD scholar for deer/predator claim unnamed; song attribution needs verify for print |
-| `Psalm 119 161-168 (raw draft).md` | Florida opiates statistic — directionally accurate but exact phrase unverified |
-| `Psalm 2 (raw draft).md` | "53 countries" and "Russia in Revelation" — dated/interpretive, already flagged inline |
+| `sermons/ot/deuteronomy/Deuteronomy 8 - Count Your Blessings (repaired draft).md` | Oatman hymn story may be invented; Edwards quote wording doesn't match primary text; Col 3:6 application strained |
+| `sermons/ot/psalms/Psalm 42 - As the Deer Pants.md` | PhD scholar for deer/predator claim unnamed; song attribution needs verify for print |
+| `sermons/ot/psalms/Psalm 119 161-168 (raw draft).md` | Florida opiates statistic — directionally accurate but exact phrase unverified |
+| `sermons/ot/psalms/Psalm 2 (raw draft).md` | "53 countries" and "Russia in Revelation" — dated/interpretive, already flagged inline |
 
 ### Tier 3: Book project — "The Night Is Far Gone"
 
 No work has begun on converting sermons from preached format to read format. Four items open:
 
 1. Book title decision — three options proposed; no selection: *The Night Is Far Gone*, *Waking Up*, *From Midnight to Morning*
-2. `Notes - Empire and Suppression (Romans 1 Book Revision).md` — raw material not yet integrated into the Romans 1 chapter
+2. `teaching/notes/Notes - Empire and Suppression (Romans 1 Book Revision).md` — raw material not yet integrated into the Romans 1 chapter
 3. All 16 chapters need preach-to-read format revision
 4. Inter-chapter transitions not yet written
 
 ### Tier 4: Study papers
 
-- `Notes - 2 Corinthians 5-15 Rebuttal (Calvinism Objection).md` — first argument developed; additional arguments unwritten
-- `Rapture - Study Paper (incomplete draft).md` — introduction only; all Scripture analysis and position comparisons missing
+- `teaching/notes/Notes - 2 Corinthians 5-15 Rebuttal (Calvinism Objection).md` — first argument developed; additional arguments unwritten
+- `theology/Rapture - Study Paper (incomplete draft).md` — introduction only; all Scripture analysis and position comparisons missing
 
 ---
 

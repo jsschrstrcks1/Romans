@@ -20,31 +20,31 @@
 ### 1.1 Existence and Nature of God
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Classical Monotheism | Very Strong | `Theology Proper.md` | Nicene, BFM 2000 |
-| Trinity (Homoousios) | Strong | `col 1.md`, `Theology Proper.md`, `Catching Counterfeits.md` | Nicene |
-| Aseity / Self-Sufficiency | Moderate | `rev 20.md` | Classical Theism |
-| Spirituality of God | Moderate | `Theology Proper.md` | Classical Theism |
+| Classical Monotheism | Very Strong | `theology/Theology Proper.md` | Nicene, BFM 2000 |
+| Trinity (Homoousios) | Strong | `sermons/nt/colossians/col 1.md`, `theology/Theology Proper.md`, `Catching Counterfeits.md` | Nicene |
+| Aseity / Self-Sufficiency | Moderate | `sermons/nt/revelation/rev 20.md` | Classical Theism |
+| Spirituality of God | Moderate | `theology/Theology Proper.md` | Classical Theism |
 
 ### 1.2 Divine Attributes
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Holiness (Governing Attribute) | Very Strong | `Theology Proper.md`, `Romans 3 - wrath of God (final).md`, `Romans 5.md` | Reformed (Sproul) |
-| Sovereignty / Providence | Very Strong | `Romans 1 (2024).md`, `Romans 1c - The Fingerprints of God.md`, `christology.md`, `Romans 13.md`, `Sermon - When God Is For Us.md` | Calvinistic Reformed Baptist |
-| Omniscience | Strong | `Eternal Security.md`, `Romans 1 (2024).md` | Classical Theism |
-| Omnipotence | Strong | `Gen 21 - My God Is So Great.md`, `Romans 1c - The Fingerprints of God.md` | Classical Theism |
-| Immutability / Truthfulness | Strong | `Theology Proper.md` | Classical Theism |
-| Wrath as Holy Revulsion | Very Strong | `Romans 1b - Without Excuse.md`, `Romans 3 - wrath of God (final).md`, `Romans 5.md` | Reformed (Pink, Sproul) |
-| Love — Holy, Costly, Substitutionary | Very Strong | `Romans 5.md`, `Romans 8.md` | Reformed Baptist |
-| Patience / Longsuffering | Moderate | `Romans 2 mt 23 col 3 eph 2.md` | Classical Theism |
-| Jealousy (Holy) | Light | `Theology Proper.md` | Reformed |
+| Holiness (Governing Attribute) | Very Strong | `theology/Theology Proper.md`, `sermons/nt/romans/Romans 3 - wrath of God (final).md`, `sermons/nt/romans/Romans 5.md` | Reformed (Sproul) |
+| Sovereignty / Providence | Very Strong | `sermons/nt/romans/Romans 1 (2024).md`, `sermons/nt/romans/Romans 1c - The Fingerprints of God.md`, `theology/christology.md`, `sermons/nt/romans/Romans 13.md`, `sermons/topical/Sermon - When God Is For Us.md` | Calvinistic Reformed Baptist |
+| Omniscience | Strong | `Eternal Security.md`, `sermons/nt/romans/Romans 1 (2024).md` | Classical Theism |
+| Omnipotence | Strong | `sermons/ot/genesis/Gen 21 - My God Is So Great.md`, `sermons/nt/romans/Romans 1c - The Fingerprints of God.md` | Classical Theism |
+| Immutability / Truthfulness | Strong | `theology/Theology Proper.md` | Classical Theism |
+| Wrath as Holy Revulsion | Very Strong | `sermons/nt/romans/Romans 1b - Without Excuse.md`, `sermons/nt/romans/Romans 3 - wrath of God (final).md`, `sermons/nt/romans/Romans 5.md` | Reformed (Pink, Sproul) |
+| Love — Holy, Costly, Substitutionary | Very Strong | `sermons/nt/romans/Romans 5.md`, `Romans 8.md` | Reformed Baptist |
+| Patience / Longsuffering | Moderate | `sermons/nt/romans/Romans 2 mt 23 col 3 eph 2.md` | Classical Theism |
+| Jealousy (Holy) | Light | `theology/Theology Proper.md` | Reformed |
 
 ### 1.3 God's Relation to Creation
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Creator of All Things | Strong | `Gen 21 - My God Is So Great.md`, `Romans 1 (2024).md`, `Romans 1c - The Fingerprints of God.md` | Classical Theism |
-| Providence over History and Nations | Very Strong | `Romans 13.md`, `Sermon - When God Is For Us.md` | Reformed Baptist |
-| God Sees / Hears / Knows / Acts | Strong | `Exodus 2.md` | Classical Theism, Pastoral |
-| God's "Why" Answered by His Name | Strong | `ex 6-7.md` | Reformed, Puritan (Bunyan, Cowper) |
+| Creator of All Things | Strong | `sermons/ot/genesis/Gen 21 - My God Is So Great.md`, `sermons/nt/romans/Romans 1 (2024).md`, `sermons/nt/romans/Romans 1c - The Fingerprints of God.md` | Classical Theism |
+| Providence over History and Nations | Very Strong | `sermons/nt/romans/Romans 13.md`, `sermons/topical/Sermon - When God Is For Us.md` | Reformed Baptist |
+| God Sees / Hears / Knows / Acts | Strong | `sermons/ot/exodus/Exodus 2.md` | Classical Theism, Pastoral |
+| God's "Why" Answered by His Name | Strong | `sermons/ot/exodus/ex 6-7.md` | Reformed, Puritan (Bunyan, Cowper) |
 
 ---
 
@@ -53,32 +53,32 @@
 ### 2.1 Person of Christ
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Full Deity (Homoousios) | Very Strong | `col 1.md`, `Christology.md`, `Catching Counterfeits.md` | Nicene, Chalcedonian |
-| Full Humanity | Strong | `Christology.md`, `Hebrews 4.md`, `Romans 1a - The Power of God for Salvation.md` | Chalcedonian |
-| Hypostatic Union | Strong | `col 1.md`, `Christology.md`, `Romans 1a - The Power of God for Salvation.md` | Chalcedonian |
-| Pre-existence / Eternality | Strong | `col 1.md`, `John 1.md` | Nicene |
-| Sinlessness | Strong | `Hebrews 4.md`, `Romans 5.md` | Orthodox |
-| Lordship / Cosmic Authority | Very Strong | `col 1.md`, `phil 2.md`, `Romans 14.md` | Reformed |
+| Full Deity (Homoousios) | Very Strong | `sermons/nt/colossians/col 1.md`, `Christology.md`, `Catching Counterfeits.md` | Nicene, Chalcedonian |
+| Full Humanity | Strong | `Christology.md`, `Hebrews 4.md`, `sermons/nt/romans/Romans 1a - The Power of God for Salvation.md` | Chalcedonian |
+| Hypostatic Union | Strong | `sermons/nt/colossians/col 1.md`, `Christology.md`, `sermons/nt/romans/Romans 1a - The Power of God for Salvation.md` | Chalcedonian |
+| Pre-existence / Eternality | Strong | `sermons/nt/colossians/col 1.md`, `sermons/nt/john/John 1.md` | Nicene |
+| Sinlessness | Strong | `Hebrews 4.md`, `sermons/nt/romans/Romans 5.md` | Orthodox |
+| Lordship / Cosmic Authority | Very Strong | `sermons/nt/colossians/col 1.md`, `sermons/nt/philippians/phil 2.md`, `sermons/nt/romans/Romans 14.md` | Reformed |
 
 ### 2.2 Work of Christ
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Penal Substitutionary Atonement | Very Strong | `Romans 3.md`, `Romans 5.md`, `Genesis 22-23*.md`, `Sermon - Every Little Girl Needs a Daddy.md` | Reformed (PSA) |
-| Definite / Particular Atonement | Strong | `Romans 5.md`, `Journey in Grace bible study*.md` | Five-Point Calvinist |
+| Penal Substitutionary Atonement | Very Strong | `Romans 3.md`, `sermons/nt/romans/Romans 5.md`, `Genesis 22-23*.md`, `sermons/topical/Sermon - Every Little Girl Needs a Daddy.md` | Reformed (PSA) |
+| Definite / Particular Atonement | Strong | `sermons/nt/romans/Romans 5.md`, `Journey in Grace bible study*.md` | Five-Point Calvinist |
 | Propitiation (Hilasterion) | Very Strong | `Romans 3.md` | Reformed |
-| Imputed Righteousness | Very Strong | `Romans 1a - The Power of God for Salvation.md`, `Romans 4*.md`, `Romans 5.md` | Reformed (Luther, Calvin) |
-| Active and Passive Obedience | Strong | `Romans 5.md`, `Ordo Solutis Romans 8.md` | Reformed |
+| Imputed Righteousness | Very Strong | `sermons/nt/romans/Romans 1a - The Power of God for Salvation.md`, `Romans 4*.md`, `sermons/nt/romans/Romans 5.md` | Reformed (Luther, Calvin) |
+| Active and Passive Obedience | Strong | `sermons/nt/romans/Romans 5.md`, `teaching/notes/Ordo Solutis Romans 8.md` | Reformed |
 | Resurrection — Bodily, Historical | Very Strong | `1 Cor 15.md`, `Romans 6.md` | Orthodox Christian |
-| Ascension and Session | Moderate | `phil 2.md`, `Hebrews 4.md` | Nicene |
-| Christocentric Hermeneutic (OT→Christ) | Very Strong | `Gen 4 - Cain and Abel.md`, `Genesis 22-23*.md`, corpus-wide | Reformed |
+| Ascension and Session | Moderate | `sermons/nt/philippians/phil 2.md`, `Hebrews 4.md` | Nicene |
+| Christocentric Hermeneutic (OT→Christ) | Very Strong | `sermons/ot/genesis/Gen 4 - Cain and Abel.md`, `Genesis 22-23*.md`, corpus-wide | Reformed |
 
 ### 2.3 Typology
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Abel as Type of Christ | Strong | `Gen 4 - Cain and Abel.md` | Reformed Typology |
+| Abel as Type of Christ | Strong | `sermons/ot/genesis/Gen 4 - Cain and Abel.md` | Reformed Typology |
 | Isaac / Moriah as Type | Strong | `Genesis 22-23*.md` | Reformed Typology |
-| Day of Atonement / Leviticus 16 | Moderate | `Leviticus 16.md` | Reformed Typology |
-| Adam–Christ Parallel (Rom 5) | Very Strong | `Romans 5.md` | Pauline |
+| Day of Atonement / Leviticus 16 | Moderate | `sermons/ot/leviticus/Leviticus 16.md` | Reformed Typology |
+| Adam–Christ Parallel (Rom 5) | Very Strong | `sermons/nt/romans/Romans 5.md` | Pauline |
 
 ---
 
@@ -86,14 +86,14 @@
 
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Regeneration (Spirit's Work) | Very Strong | `Ezekiel 36.md`, `Romans 8.md`, `Bible Study - The Thief Who Saw a King.md`, `Sermon - Out of the Cistern.md` | Reformed |
-| Indwelling / Sealing | Very Strong | `Romans 8.md`, `Ephesians 1.md`, `Sermon - Clowns Entertaining the Goats.md` | Reformed Baptist |
-| OT/NT Spirit Distinction (*Upon* → *Within*) | Strong | `Sermon - Clowns Entertaining the Goats.md` | Reformed Baptist |
-| Illumination of Scripture | Moderate | `sola scriptura.md` | Reformed |
-| Conviction of Sin | Strong | `Romans 2 mt 23 col 3 eph 2.md`, `Ezekiel 36.md` | Reformed |
+| Regeneration (Spirit's Work) | Very Strong | `sermons/ot/ezekiel/Ezekiel 36.md`, `Romans 8.md`, `teaching/sunday-school/Bible Study - The Thief Who Saw a King.md`, `sermons/topical/Sermon - Out of the Cistern.md` | Reformed |
+| Indwelling / Sealing | Very Strong | `Romans 8.md`, `Ephesians 1.md`, `sermons/topical/Sermon - Clowns Entertaining the Goats.md` | Reformed Baptist |
+| OT/NT Spirit Distinction (*Upon* → *Within*) | Strong | `sermons/topical/Sermon - Clowns Entertaining the Goats.md` | Reformed Baptist |
+| Illumination of Scripture | Moderate | `sermons/nt/2-timothy/sola scriptura.md` | Reformed |
+| Conviction of Sin | Strong | `sermons/nt/romans/Romans 2 mt 23 col 3 eph 2.md`, `sermons/ot/ezekiel/Ezekiel 36.md` | Reformed |
 | Sanctification (Spirit-Wrought) | Strong | `Romans 6.md`, `Romans 8.md` | Reformed |
 | Spiritual Gifts (Non-Charismatic) | Moderate | `1 Corinthians 12*.md`, `Romans 12.md` | Cessationist-leaning Baptist |
-| Cessationism (Soft) | Moderate | `Sermon - Clowns Entertaining the Goats.md` | Baptist |
+| Cessationism (Soft) | Moderate | `sermons/topical/Sermon - Clowns Entertaining the Goats.md` | Baptist |
 
 ---
 
@@ -102,15 +102,15 @@
 ### 4.1 Created Nature
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Imago Dei | Strong | `Theology Proper.md`, `Genesis sermons` | Classical Theism |
-| Male and Female (Binary, Complementary) | Strong | `Sola Scriptura 24.md`, `BFM Article 18*.md` | Complementarian Baptist |
-| Conscience as Real Courtroom | Strong | `Romans 1b - Without Excuse.md`, `Romans 2 mt 23 col 3 eph 2.md` | Puritan/Reformed |
+| Imago Dei | Strong | `theology/Theology Proper.md`, `Genesis sermons` | Classical Theism |
+| Male and Female (Binary, Complementary) | Strong | `sermons/nt/2-timothy/Sola Scriptura 24.md`, `BFM Article 18*.md` | Complementarian Baptist |
+| Conscience as Real Courtroom | Strong | `sermons/nt/romans/Romans 1b - Without Excuse.md`, `sermons/nt/romans/Romans 2 mt 23 col 3 eph 2.md` | Puritan/Reformed |
 
 ### 4.2 Marriage and Family
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
 | Marriage — One Man, One Woman | Very Strong | `BFM Article 18*.md`, `Wedding sermons` | BFM 2000, Baptist |
-| Homosexuality — Sin, Not Identity | Strong | `Romans 1b - Without Excuse.md`, `BFM Article 18*.md` | Conservative Evangelical |
+| Homosexuality — Sin, Not Identity | Strong | `sermons/nt/romans/Romans 1b - Without Excuse.md`, `BFM Article 18*.md` | Conservative Evangelical |
 | Husbands Love / Wives Respect | Moderate | `Ephesians 5.md`, wedding sermons | Complementarian |
 | Parenting / Fatherhood | Moderate | `Deuteronomy 6.md`, `Deuteronomy 8*.md` | Baptist |
 
@@ -120,12 +120,12 @@
 
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Total Depravity (Universal) | Very Strong | `Romans 1b - Without Excuse.md`, `Romans 3.md`, `Ezekiel 36.md`, dozens more | Five-Point Calvinist |
-| Original Sin / Federal Headship (Adam) | Very Strong | `Romans 5.md` | Reformed (Augustinian) |
-| Active Rebellion, Not Passive Ignorance | Very Strong | `Romans 1b - Without Excuse.md` | Reformed |
-| Suppression of Known Truth (Rom 1:18) | Very Strong | `Romans 1b - Without Excuse.md`, `Romans 2 mt 23 col 3 eph 2.md` | Reformed |
-| Law as Guardian — Exposes, Cannot Save | Strong | `Galatians 3*.md`, `Romans 7.md`, `Romans 2.1 - Don't Miss Heaven by 18 Inches.md` | Reformed, Pauline |
-| Idolatry as Wrong Master | Strong | `Psalm 42*.md`, `Romans 1b - Without Excuse.md` | Reformed Baptist |
+| Total Depravity (Universal) | Very Strong | `sermons/nt/romans/Romans 1b - Without Excuse.md`, `Romans 3.md`, `sermons/ot/ezekiel/Ezekiel 36.md`, dozens more | Five-Point Calvinist |
+| Original Sin / Federal Headship (Adam) | Very Strong | `sermons/nt/romans/Romans 5.md` | Reformed (Augustinian) |
+| Active Rebellion, Not Passive Ignorance | Very Strong | `sermons/nt/romans/Romans 1b - Without Excuse.md` | Reformed |
+| Suppression of Known Truth (Rom 1:18) | Very Strong | `sermons/nt/romans/Romans 1b - Without Excuse.md`, `sermons/nt/romans/Romans 2 mt 23 col 3 eph 2.md` | Reformed |
+| Law as Guardian — Exposes, Cannot Save | Strong | `Galatians 3*.md`, `sermons/nt/romans/Romans 7.md`, `sermons/nt/romans/Romans 2.1 - Don't Miss Heaven by 18 Inches.md` | Reformed, Pauline |
+| Idolatry as Wrong Master | Strong | `Psalm 42*.md`, `sermons/nt/romans/Romans 1b - Without Excuse.md` | Reformed Baptist |
 | Spiritual Callousing (Incremental) | Strong | `Psalm 42*.md` | Reformed, Puritan |
 | Sin as Slavery (Rom 6) | Very Strong | `Romans 6.md`, `Romans_6b r2.md` | Pauline |
 | Wages of Sin = Death | Very Strong | `Romans 6.md` | Orthodox Christian |
@@ -138,37 +138,37 @@
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
 | Total Depravity | Very Strong | See Hamartiology above | Five-Point Calvinist |
-| Unconditional Election | Very Strong | `romans 9 pt 1.md`, `Journey in Grace*.md`, `Sermon - Out of the Cistern.md` | Five-Point Calvinist, 1689 LBCF |
-| Definite Atonement | Strong | `Romans 5.md`, `Journey in Grace*.md` | Five-Point Calvinist |
-| Irresistible Grace | Very Strong | `Romans 10.md`, `Bible Study - The Thief*.md`, `Romans_6b r2.md`, `Sermon - Out of the Cistern.md` | Five-Point Calvinist |
-| Perseverance / Preservation | Very Strong | `Sermon - Eternal Security.md`, `romans 9 pt 1.md` | Reformed Baptist |
+| Unconditional Election | Very Strong | `sermons/nt/romans/romans 9 pt 1.md`, `Journey in Grace*.md`, `sermons/topical/Sermon - Out of the Cistern.md` | Five-Point Calvinist, 1689 LBCF |
+| Definite Atonement | Strong | `sermons/nt/romans/Romans 5.md`, `Journey in Grace*.md` | Five-Point Calvinist |
+| Irresistible Grace | Very Strong | `sermons/nt/romans/Romans 10.md`, `Bible Study - The Thief*.md`, `Romans_6b r2.md`, `sermons/topical/Sermon - Out of the Cistern.md` | Five-Point Calvinist |
+| Perseverance / Preservation | Very Strong | `sermons/topical/Sermon - Eternal Security.md`, `sermons/nt/romans/romans 9 pt 1.md` | Reformed Baptist |
 
 ### 6.2 Ordo Salutis
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Predestination → Election → Calling | Very Strong | `Ezekiel 36.md`, `Ordo Solutis Romans 8.md`, `Sermon - Out of the Cistern.md` | Calvinist |
-| Regeneration Precedes Faith | Very Strong | `Ezekiel 36.md`, `Bible Study - The Thief*.md`, `Sermon - Out of the Cistern.md` | Reformed |
-| Effectual Calling | Very Strong | `Romans 10.md`, `Romans 8.md`, `Romans 1a - The Power of God for Salvation.md`, `Sermon - Out of the Cistern.md` | Reformed |
-| Justification by Faith Alone | Very Strong | `Romans 1a - The Power of God for Salvation.md`, `Romans 3.md`, `Romans 4*.md`, `Romans 5.md` | Reformation (Sola Fide) |
-| Adoption as Sons | Strong | `Sermon - Every Little Girl Needs a Daddy.md`, `Galatians 3*.md`, `Romans 8.md`, `romans 9 pt 1.md` | Reformed |
+| Predestination → Election → Calling | Very Strong | `sermons/ot/ezekiel/Ezekiel 36.md`, `teaching/notes/Ordo Solutis Romans 8.md`, `sermons/topical/Sermon - Out of the Cistern.md` | Calvinist |
+| Regeneration Precedes Faith | Very Strong | `sermons/ot/ezekiel/Ezekiel 36.md`, `Bible Study - The Thief*.md`, `sermons/topical/Sermon - Out of the Cistern.md` | Reformed |
+| Effectual Calling | Very Strong | `sermons/nt/romans/Romans 10.md`, `Romans 8.md`, `sermons/nt/romans/Romans 1a - The Power of God for Salvation.md`, `sermons/topical/Sermon - Out of the Cistern.md` | Reformed |
+| Justification by Faith Alone | Very Strong | `sermons/nt/romans/Romans 1a - The Power of God for Salvation.md`, `Romans 3.md`, `Romans 4*.md`, `sermons/nt/romans/Romans 5.md` | Reformation (Sola Fide) |
+| Adoption as Sons | Strong | `sermons/topical/Sermon - Every Little Girl Needs a Daddy.md`, `Galatians 3*.md`, `Romans 8.md`, `sermons/nt/romans/romans 9 pt 1.md` | Reformed |
 | Sanctification (Progressive) | Strong | `Romans 6.md`, `Romans 8.md`, `Romans 12.md` | Reformed |
-| Glorification | Strong | `Romans 8.md`, `Ordo Solutis Romans 8.md` | Reformed |
+| Glorification | Strong | `Romans 8.md`, `teaching/notes/Ordo Solutis Romans 8.md` | Reformed |
 
 ### 6.3 Monergism and Grace
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Monergism (God Alone Saves) | Very Strong | `romans 9 pt 1.md`, `Sermon - Out of the Cistern.md` | Calvinist |
-| Sola Gratia | Very Strong | `Romans 4*.md`, `Romans 11*.md`, `Sermon - Out of the Cistern.md` | Reformation |
-| Sola Fide | Very Strong | `Romans 1a - The Power of God for Salvation.md`, `Romans 3.md`, `Romans 4*.md` | Reformation |
-| Solus Christus | Very Strong | `Romans 5.md`, `col 1.md` | Reformation |
-| Repentance — God-Granted | Strong | `Romans 2 mt 23 col 3 eph 2.md`, `Ezekiel 36.md` | Reformed |
+| Monergism (God Alone Saves) | Very Strong | `sermons/nt/romans/romans 9 pt 1.md`, `sermons/topical/Sermon - Out of the Cistern.md` | Calvinist |
+| Sola Gratia | Very Strong | `Romans 4*.md`, `Romans 11*.md`, `sermons/topical/Sermon - Out of the Cistern.md` | Reformation |
+| Sola Fide | Very Strong | `sermons/nt/romans/Romans 1a - The Power of God for Salvation.md`, `Romans 3.md`, `Romans 4*.md` | Reformation |
+| Solus Christus | Very Strong | `sermons/nt/romans/Romans 5.md`, `sermons/nt/colossians/col 1.md` | Reformation |
+| Repentance — God-Granted | Strong | `sermons/nt/romans/Romans 2 mt 23 col 3 eph 2.md`, `sermons/ot/ezekiel/Ezekiel 36.md` | Reformed |
 
 ### 6.4 Assurance and Security
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Eternal Security (Once Saved Always Saved) | Very Strong | `Sermon - Eternal Security.md` | Reformed Baptist |
-| Assurance Grounded in Christ's Work | Very Strong | `Romans 8.md`, `romans 9 pt 1.md`, `Sermon - Out of the Cistern.md` | Reformed |
-| Golden Chain (Rom 8:29-30) | Very Strong | `Romans 8.md`, `Ordo Solutis Romans 8.md`, `Sermon - Out of the Cistern.md` | Calvinist |
+| Eternal Security (Once Saved Always Saved) | Very Strong | `sermons/topical/Sermon - Eternal Security.md` | Reformed Baptist |
+| Assurance Grounded in Christ's Work | Very Strong | `Romans 8.md`, `sermons/nt/romans/romans 9 pt 1.md`, `sermons/topical/Sermon - Out of the Cistern.md` | Reformed |
+| Golden Chain (Rom 8:29-30) | Very Strong | `Romans 8.md`, `teaching/notes/Ordo Solutis Romans 8.md`, `sermons/topical/Sermon - Out of the Cistern.md` | Calvinist |
 
 ---
 
@@ -191,15 +191,15 @@
 ### 7.3 Polity and Office
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Complementarian — Male Pastorate | Strong | `Sola Scriptura 24.md` | Complementarian Baptist |
+| Complementarian — Male Pastorate | Strong | `sermons/nt/2-timothy/Sola Scriptura 24.md` | Complementarian Baptist |
 | Women as Deacons (Phoebe) | Moderate | `Romans 16.md` | Baptist |
 | Congregational Polity | Moderate | `Acts 18 1 Cor 3*.md` | Baptist |
 
 ### 7.4 Church and Culture
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Church and State — Two Kingdoms | Very Strong | `Romans 13.md` | 1689 LBCF, Baptist |
-| Christian Nationalism Rejected | Strong | `Romans 13.md` | 1689 LBCF |
+| Church and State — Two Kingdoms | Very Strong | `sermons/nt/romans/Romans 13.md` | 1689 LBCF, Baptist |
+| Christian Nationalism Rejected | Strong | `sermons/nt/romans/Romans 13.md` | 1689 LBCF |
 | Conservative Resurgence Affirmed | Moderate | `Acts 18 1 Cor 3*.md` | SBC |
 | SBC Cooperative Involvement | Moderate | `Acts 18 1 Cor 3*.md` | SBC |
 | Church Growth Through Evangelism | Strong | `1 Corinthians 12*.md` | Baptist, Missional |
@@ -210,11 +210,11 @@
 
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Sola Scriptura | Very Strong | `sola scriptura.md`, `Sola Scriptura 24.md` | Reformation |
-| Verbal Plenary Inspiration | Very Strong | `Theology Proper.md` | Conservative Evangelical |
-| Inerrancy / Infallibility | Very Strong | `Theology Proper.md` | Conservative Evangelical |
-| Sufficiency of Scripture | Very Strong | `sola scriptura.md` | Reformation |
-| Canon — Apostolic Criterion | Strong | `sola scriptura.md` | Protestant |
+| Sola Scriptura | Very Strong | `sermons/nt/2-timothy/sola scriptura.md`, `sermons/nt/2-timothy/Sola Scriptura 24.md` | Reformation |
+| Verbal Plenary Inspiration | Very Strong | `theology/Theology Proper.md` | Conservative Evangelical |
+| Inerrancy / Infallibility | Very Strong | `theology/Theology Proper.md` | Conservative Evangelical |
+| Sufficiency of Scripture | Very Strong | `sermons/nt/2-timothy/sola scriptura.md` | Reformation |
+| Canon — Apostolic Criterion | Strong | `sermons/nt/2-timothy/sola scriptura.md` | Protestant |
 | ESV Only | Strong | corpus-wide | Conservative Evangelical |
 | Grammatical-Historical Hermeneutic | Very Strong | corpus-wide (Greek word studies) | Reformed, Evangelical |
 | Christocentric Hermeneutic | Very Strong | See Christology 2.2 | Reformed |
@@ -225,15 +225,15 @@
 
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Christ's Literal, Physical Return | Very Strong | `Titus 2 pt 2.md`, `Theology Proper.md` | Orthodox Christian |
-| Pan-Millennialism (Deliberate) | Strong | `Titus 2 pt 2.md` | Broadly Baptist |
-| Futurist Leanings (Mt 24) | Moderate | `Mt 24.md` | Premillennial-leaning |
-| Hell — Eternal Conscious Torment | Very Strong | `rev 20.md`, `Romans 3 - wrath of God (final).md` | Orthodox, Reformed |
-| Hell as Self-Chosen Separation | Strong | `Theology Proper.md` | Traditional / C.S. Lewis |
-| Heaven — Real, Beyond Imagination | Strong | `Titus 2 pt 2.md` | Orthodox Christian |
-| Intermediate State — Immediate Presence | Strong | `Catching Counterfeits.md`, `Sermon - Today You Will Be With Me v2.md` | Protestant (contra soul sleep) |
-| Final Judgment | Strong | `phil 2.md`, `rev 20.md` | Orthodox Christian |
-| New Heavens / New Earth | Moderate | `rev 20.md` | Orthodox Christian |
+| Christ's Literal, Physical Return | Very Strong | `sermons/nt/titus/Titus 2 pt 2.md`, `theology/Theology Proper.md` | Orthodox Christian |
+| Pan-Millennialism (Deliberate) | Strong | `sermons/nt/titus/Titus 2 pt 2.md` | Broadly Baptist |
+| Futurist Leanings (Mt 24) | Moderate | `sermons/nt/matthew/Mt 24.md` | Premillennial-leaning |
+| Hell — Eternal Conscious Torment | Very Strong | `sermons/nt/revelation/rev 20.md`, `sermons/nt/romans/Romans 3 - wrath of God (final).md` | Orthodox, Reformed |
+| Hell as Self-Chosen Separation | Strong | `theology/Theology Proper.md` | Traditional / C.S. Lewis |
+| Heaven — Real, Beyond Imagination | Strong | `sermons/nt/titus/Titus 2 pt 2.md` | Orthodox Christian |
+| Intermediate State — Immediate Presence | Strong | `Catching Counterfeits.md`, `sermons/topical/Sermon - Today You Will Be With Me v2.md` | Protestant (contra soul sleep) |
+| Final Judgment | Strong | `sermons/nt/philippians/phil 2.md`, `sermons/nt/revelation/rev 20.md` | Orthodox Christian |
+| New Heavens / New Earth | Moderate | `sermons/nt/revelation/rev 20.md` | Orthodox Christian |
 
 ---
 
@@ -241,11 +241,11 @@
 
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Great Commission — Every Believer | Very Strong | `Romans 1a - The Power of God for Salvation.md`, `evangelism (romans 15, mt 28, and rev 7).md`, `Sermon - Won't You Go.md` | Baptist, Missional |
-| Missions vs. Humanitarianism | Strong | `Sermon - Won't You Go.md` | Conservative Evangelical |
-| Evangelism Through Relationships | Strong | `Romans 10.md`, `evangelism*.md` | Baptist |
-| Romans Road (Evangelistic Method) | Moderate | `Romans 3.md`, `Romans 6.md`, `Romans 10.md` | Baptist |
-| Unreached Peoples / Urgency | Strong | `Romans 1b - Without Excuse.md`, `Sermon - Won't You Go.md`, `evangelism*.md`, `Sermon - Every Little Girl Needs a Daddy.md` | SBC Missions |
+| Great Commission — Every Believer | Very Strong | `sermons/nt/romans/Romans 1a - The Power of God for Salvation.md`, `sermons/nt/romans/evangelism (romans 15, mt 28, and rev 7).md`, `sermons/topical/Sermon - Won't You Go.md` | Baptist, Missional |
+| Missions vs. Humanitarianism | Strong | `sermons/topical/Sermon - Won't You Go.md` | Conservative Evangelical |
+| Evangelism Through Relationships | Strong | `sermons/nt/romans/Romans 10.md`, `evangelism*.md` | Baptist |
+| Romans Road (Evangelistic Method) | Moderate | `Romans 3.md`, `Romans 6.md`, `sermons/nt/romans/Romans 10.md` | Baptist |
+| Unreached Peoples / Urgency | Strong | `sermons/nt/romans/Romans 1b - Without Excuse.md`, `sermons/topical/Sermon - Won't You Go.md`, `evangelism*.md`, `sermons/topical/Sermon - Every Little Girl Needs a Daddy.md` | SBC Missions |
 
 ---
 
@@ -256,19 +256,19 @@
 |---|---|---|---|
 | Transformed Mind (Rom 12:1-2) | Very Strong | `Romans 12.md` | Pauline |
 | Living Sacrifice | Very Strong | `Romans 12.md` | Pauline |
-| Suffering as Formative | Very Strong | `Romans 5.md`, `Romans 8.md`, `Exodus 2.md` | Reformed, Pastoral |
-| Weep with Those Who Weep | Strong | `romans 12 - weep with those who weep.md` | Pauline |
-| Worry as Lack of Faith | Strong | `Sermon - Worry Is Lack of Faith.md` | Pastoral |
+| Suffering as Formative | Very Strong | `sermons/nt/romans/Romans 5.md`, `Romans 8.md`, `sermons/ot/exodus/Exodus 2.md` | Reformed, Pastoral |
+| Weep with Those Who Weep | Strong | `sermons/nt/romans/romans 12 - weep with those who weep.md` | Pauline |
+| Worry as Lack of Faith | Strong | `sermons/topical/Sermon - Worry Is Lack of Faith.md` | Pastoral |
 | Spiritual Disciplines | Moderate | `Psalm 42*.md`, `Deuteronomy 6.md` | Reformed, Puritan |
 
 ### 11.2 Social Ethics
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Christians and Government (Rom 13) | Very Strong | `Romans 13.md` | 1689 LBCF |
-| Racial Reconciliation (Implicit) | Moderate | `Romans 14.md`, `Romans 15*.md` | Baptist |
-| Strong / Weak Conscience (Rom 14-15) | Very Strong | `Romans 14.md`, `Romans 14c*.md`, `Romans 15a*.md` | Pauline |
-| Judging Others — Bema Seat | Very Strong | `Romans 14c - The Judgment Seat That Ends All Judging.md` | Pauline |
-| Cultural Engagement (Not Withdrawal) | Moderate | `Romans 13.md` | Baptist |
+| Christians and Government (Rom 13) | Very Strong | `sermons/nt/romans/Romans 13.md` | 1689 LBCF |
+| Racial Reconciliation (Implicit) | Moderate | `sermons/nt/romans/Romans 14.md`, `Romans 15*.md` | Baptist |
+| Strong / Weak Conscience (Rom 14-15) | Very Strong | `sermons/nt/romans/Romans 14.md`, `Romans 14c*.md`, `Romans 15a*.md` | Pauline |
+| Judging Others — Bema Seat | Very Strong | `sermons/nt/romans/Romans 14c - The Judgment Seat That Ends All Judging.md` | Pauline |
+| Cultural Engagement (Not Withdrawal) | Moderate | `sermons/nt/romans/Romans 13.md` | Baptist |
 
 ---
 
@@ -276,12 +276,12 @@
 
 | Tier 3 Topic | Strength | Key Files | Tradition |
 |---|---|---|---|
-| Funeral / Death — Immediate Glory | Very Strong | `Service - Donna Hulen Funeral*.md`, `Sermon - Today You Will Be With Me v2.md`, funeral sermons | Protestant |
-| Grief — Honest, Not Stoic | Strong | `romans 12 - weep with those who weep.md`, funeral sermons | Pastoral |
-| Assurance for the Doubting | Strong | `Romans 8.md`, `Sermon - Eternal Security.md`, `Romans 2.1 - Don't Miss Heaven by 18 Inches.md` | Reformed, Pastoral |
-| God's Delay ≠ God's Absence | Strong | `Exodus 2.md`, `ex 6-7.md` | Reformed, Puritan |
+| Funeral / Death — Immediate Glory | Very Strong | `Service - Donna Hulen Funeral*.md`, `sermons/topical/Sermon - Today You Will Be With Me v2.md`, funeral sermons | Protestant |
+| Grief — Honest, Not Stoic | Strong | `sermons/nt/romans/romans 12 - weep with those who weep.md`, funeral sermons | Pastoral |
+| Assurance for the Doubting | Strong | `Romans 8.md`, `sermons/topical/Sermon - Eternal Security.md`, `sermons/nt/romans/Romans 2.1 - Don't Miss Heaven by 18 Inches.md` | Reformed, Pastoral |
+| God's Delay ≠ God's Absence | Strong | `sermons/ot/exodus/Exodus 2.md`, `sermons/ot/exodus/ex 6-7.md` | Reformed, Puritan |
 | Marriage Ceremonies | Strong | Wedding sermon files | Baptist |
-| Counting Blessings / Gratitude | Strong | `Deuteronomy 8 - Count Your Blessings (repaired draft).md` | Pastoral |
+| Counting Blessings / Gratitude | Strong | `sermons/ot/deuteronomy/Deuteronomy 8 - Count Your Blessings (repaired draft).md` | Pastoral |
 
 ---
 
@@ -291,10 +291,10 @@
 |---|---|---|---|
 | Mormonism Refuted | Strong | `Catching Counterfeits.md` | Evangelical Apologetics |
 | Jehovah's Witnesses Refuted | Strong | `Catching Counterfeits.md` | Evangelical Apologetics |
-| Roman Catholicism — Sola Scriptura Critique | Strong | `Catching Counterfeits.md`, `sola scriptura.md` | Protestant |
+| Roman Catholicism — Sola Scriptura Critique | Strong | `Catching Counterfeits.md`, `sermons/nt/2-timothy/sola scriptura.md` | Protestant |
 | Christian Science Refuted | Moderate | `Christian science*.md` | Evangelical Apologetics |
 | Islam — Basic Engagement | Light | `Catching Counterfeits.md` | Evangelical Apologetics |
-| New Atheism | Light | `Theology Proper.md` | Evangelical Apologetics |
+| New Atheism | Light | `theology/Theology Proper.md` | Evangelical Apologetics |
 
 ---
 
@@ -304,9 +304,9 @@ The corpus operates under these confessional standards:
 
 | Confession / Standard | Role in Corpus | Key Files |
 |---|---|---|
-| **1689 Second London Baptist Confession** | Load-bearing theology; explicitly cited for election, civil magistrate, perseverance | `romans 9 pt 1.md`, `Romans 13.md`, `confessional-framework.md` |
-| **Baptist Faith & Message 2000** | Regularly cited in BFM sermon series; denominational anchor | `Theology Proper.md`, `Sermon - Out of the Cistern.md` (Article V quoted in full), BFM article sermons |
-| **Five Solas** | Preached as a dedicated series | `sola scriptura.md`, `Sola Scriptura 24.md`, Five Solas series |
+| **1689 Second London Baptist Confession** | Load-bearing theology; explicitly cited for election, civil magistrate, perseverance | `sermons/nt/romans/romans 9 pt 1.md`, `sermons/nt/romans/Romans 13.md`, `confessional-framework.md` |
+| **Baptist Faith & Message 2000** | Regularly cited in BFM sermon series; denominational anchor | `theology/Theology Proper.md`, `sermons/topical/Sermon - Out of the Cistern.md` (Article V quoted in full), BFM article sermons |
+| **Five Solas** | Preached as a dedicated series | `sermons/nt/2-timothy/sola scriptura.md`, `sermons/nt/2-timothy/Sola Scriptura 24.md`, Five Solas series |
 | **TULIP (Five Points)** | Explicitly taught, named, defended | See Soteriology 6.1 |
 | **Nicene Creed (Implicit)** | Never cited by name but fully affirmed in substance | Christology and Trinity entries |
 

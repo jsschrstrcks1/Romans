@@ -33,9 +33,9 @@
 
 | Step | Passage | Doctrine | Sermon(s) | Status |
 |------|---------|----------|-----------|--------|
-| 1 | Genesis 1:26-28 | Imago Dei, dominion mandate | `Gen 1-2 - beautiful but not safe.txt`, `Sermon - Beautiful But Not Safe (Genesis 1-2).md` | ✅ Preached |
-| 2 | Genesis 3:1-24 | Fall, curse, protoevangelium | `Genesis 3 - Sanctity of Life Sunday (raw draft).md` | ✅ Preached |
-| 3 | Romans 5:12-21 | One man's sin → one man's righteousness | `Romans 5.md` | ✅ Preached |
+| 1 | Genesis 1:26-28 | Imago Dei, dominion mandate | `Gen 1-2 - beautiful but not safe.txt`, `sermons/topical/Sermon - Beautiful But Not Safe (Genesis 1-2).md` | ✅ Preached |
+| 2 | Genesis 3:1-24 | Fall, curse, protoevangelium | `sermons/ot/genesis/Genesis 3 - Sanctity of Life Sunday (raw draft).md` | ✅ Preached |
+| 3 | Romans 5:12-21 | One man's sin → one man's righteousness | `sermons/nt/romans/Romans 5.md` | ✅ Preached |
 | 4 | 1 Corinthians 15:20-28 | Last Adam, resurrection, bodily hope | — | ⬜ Not yet preached |
 | 5 | Revelation 21:1-5 | New creation, curse reversed | — | ⬜ Not yet preached |
 
@@ -49,9 +49,9 @@
 |------|---------|----------|-----------|--------|
 | 1 | Genesis 12:1-3 | Abrahamic covenant, blessing to all nations | `Genesis 12 - Responding to the Call (raw draft).md` | ✅ Preached |
 | 2 | Genesis 15:1-6 | Credited as righteousness | (covered within Gen 12/22 sermons) | ✅ Referenced |
-| 3 | Genesis 22:1-19 | Binding of Isaac — typology, obedience of faith | `Genesis 22 - Binding of Isaac (raw draft).md`, `Genesis 22 - There and Back Again (raw transcript).md`, `Genesis 22-23 - The Testing Ground (raw draft).md` | ✅ Preached (3 files) |
-| 4 | Romans 4:1-8 | Abraham justified before Law and circumcision | `Romans 4 - In Christ Alone- Where Justice Meets Grace.md` | ✅ Preached |
-| 5 | Galatians 3:6-14 | Sons of Abraham by faith, not law | `adoption - gal 3.md`, `Adoption - christms eve 23.md` | ✅ Preached |
+| 3 | Genesis 22:1-19 | Binding of Isaac — typology, obedience of faith | `sermons/ot/genesis/Genesis 22 - Binding of Isaac (raw draft).md`, `Genesis 22 - There and Back Again (raw transcript).md`, `sermons/ot/genesis/Genesis 22-23 - The Testing Ground (raw draft).md` | ✅ Preached (3 files) |
+| 4 | Romans 4:1-8 | Abraham justified before Law and circumcision | `sermons/nt/romans/Romans 4 - In Christ Alone- Where Justice Meets Grace.md` | ✅ Preached |
+| 5 | Galatians 3:6-14 | Sons of Abraham by faith, not law | `sermons/nt/galatians/adoption - gal 3.md`, `sermons/nt/galatians/Adoption - christms eve 23.md` | ✅ Preached |
 | 6 | Hebrews 11:8-19 | Faith hall of fame — Abraham | — | ⬜ Not yet preached (standalone) |
 
 ---
@@ -64,7 +64,7 @@
 |------|---------|----------|-----------|--------|
 | 1 | Exodus 12:1-13 | Passover lamb, blood on doorposts | — | ⬜ Not yet preached |
 | 2 | Isaiah 53:1-12 | Suffering Servant, pierced for our transgressions | — | ⬜ Not yet preached (referenced in many sermons but never primary text) |
-| 3 | Romans 3:25 | Propitiation / hilasterion — mercy seat | `Romans 3 - wrath of God (final).md` | ✅ Preached |
+| 3 | Romans 3:25 | Propitiation / hilasterion — mercy seat | `sermons/nt/romans/Romans 3 - wrath of God (final).md` | ✅ Preached |
 | 4 | 1 Corinthians 5:7 | Christ our Passover lamb has been sacrificed | — | ⬜ Not yet preached |
 | 5 | Revelation 5:6-14 | Worthy is the Lamb who was slain | — | ⬜ Not yet preached |
 | — | Hebrews 9-10 | Old covenant → new covenant typology | — | ⬜ Not yet preached (top preaching gap) |
@@ -78,10 +78,10 @@
 | Step | Passage | Doctrine | Sermon(s) | Status |
 |------|---------|----------|-----------|--------|
 | 1 | Exodus 20:1-17 | Giving of the Law, Ten Commandments | — | ⬜ Not yet preached (referenced in hamartiology sermon) |
-| 2 | Romans 3:19-20 | Law brings knowledge of sin, not salvation | `Romans 3 - antinomianism draft.md` | ✅ Preached |
-| 3 | Romans 7:7-25 | The war in the dark — law reveals sin, cannot save | `Romans 7.md` | ✅ Preached |
-| 4 | Romans 10:4 | Christ is the end/goal of the law | `Romans 10.md` | ✅ Preached |
-| 5 | Galatians 3:24 | Law as guardian/tutor until Christ | `adoption - gal 3.md` | ✅ Preached |
+| 2 | Romans 3:19-20 | Law brings knowledge of sin, not salvation | `sermons/nt/romans/Romans 3 - antinomianism draft.md` | ✅ Preached |
+| 3 | Romans 7:7-25 | The war in the dark — law reveals sin, cannot save | `sermons/nt/romans/Romans 7.md` | ✅ Preached |
+| 4 | Romans 10:4 | Christ is the end/goal of the law | `sermons/nt/romans/Romans 10.md` | ✅ Preached |
+| 5 | Galatians 3:24 | Law as guardian/tutor until Christ | `sermons/nt/galatians/adoption - gal 3.md` | ✅ Preached |
 
 ---
 
@@ -91,7 +91,7 @@
 
 | Step | Passage | Doctrine | Sermon(s) | Status |
 |------|---------|----------|-----------|--------|
-| 1 | Romans 8:28-30 | Foreknew → predestined → called → justified → glorified | `Ordo Solutis Romans 8.md` | ✅ Preached |
+| 1 | Romans 8:28-30 | Foreknew → predestined → called → justified → glorified | `teaching/notes/Ordo Solutis Romans 8.md` | ✅ Preached |
 | 2 | Ephesians 1:3-14 | Chose before foundation of world, sealed with Spirit | `Eph 1 - Angels Demons Etcetera.md` | ✅ Preached (angels/election focus) |
 | 3 | 2 Thessalonians 2:13 | God chose you from the beginning for salvation | — | ⬜ Not yet preached |
 
@@ -103,9 +103,9 @@
 
 | Step | Passage | Doctrine | Sermon(s) | Status |
 |------|---------|----------|-----------|--------|
-| 1 | Genesis 3:22-24 | Expulsion from Eden, cherubim guard the way | `Genesis 3 - Sanctity of Life Sunday (raw draft).md` | ✅ Preached |
+| 1 | Genesis 3:22-24 | Expulsion from Eden, cherubim guard the way | `sermons/ot/genesis/Genesis 3 - Sanctity of Life Sunday (raw draft).md` | ✅ Preached |
 | 2 | Israel's exile pattern | Judges cycle, Babylonian exile, return | (referenced across Judges and Nehemiah sermons) | ✅ Referenced |
-| 3 | Romans 8:18-25 | Present suffering, creation groaning, hope of glory | `Ordo Solutis Romans 8.md`, `Romans 8.12-17 - Debtors to the Spirit.md` | ✅ Preached |
+| 3 | Romans 8:18-25 | Present suffering, creation groaning, hope of glory | `teaching/notes/Ordo Solutis Romans 8.md`, `sermons/nt/romans/Romans 8.12-17 - Debtors to the Spirit.md` | ✅ Preached |
 | 4 | Revelation 21-22 | New heavens/earth, no more tears, home at last | — | ⬜ Not yet preached |
 
 ---
@@ -116,9 +116,9 @@
 
 | Step | Passage | Doctrine | Sermon(s) | Status |
 |------|---------|----------|-----------|--------|
-| 1 | Psalm 23 | The Lord is my Shepherd | `Psalms 23.md`, `We need a shepherd psalms 23.md` | ✅ Preached |
+| 1 | Psalm 23 | The Lord is my Shepherd | `sermons/ot/psalms/Psalms 23.md`, `sermons/ot/psalms/We need a shepherd psalms 23.md` | ✅ Preached |
 | 2 | Isaiah 40:11 | He tends his flock like a shepherd | — | ⬜ Not yet preached |
-| 3 | John 10:11-18 | I am the Good Shepherd; I lay down my life | `jn 10.md` | ✅ Preached |
+| 3 | John 10:11-18 | I am the Good Shepherd; I lay down my life | `sermons/nt/john/jn 10.md` | ✅ Preached |
 | 4 | Revelation 7:17 | The Lamb at the center of the throne will be their Shepherd | — | ⬜ Not yet preached |
 
 ---
@@ -129,12 +129,12 @@
 
 | Step | Passage | Doctrine | Sermon(s) | Status |
 |------|---------|----------|-----------|--------|
-| 1 | Romans 1:18-32 | Wrath of God revealed against ungodliness | `Romans 1b`, `Romans 1c`, `Romans 1.md` | ✅ Preached |
-| 2 | Romans 2:1-11 | Impartial judgment — no exemptions | `Romans 2.1`, `Romans 2 mt 23 col 3 eph 2.md` | ✅ Preached |
-| 3 | Romans 3:19-26 | All under sin → propitiation through faith | `Romans 3 - wrath of God (final).md` | ✅ Preached |
-| 4 | Romans 5:8-9 | While we were sinners, Christ died; saved from wrath | `Romans 5.md` | ✅ Preached |
-| 5 | Romans 9:22-23 | Vessels of wrath / vessels of mercy — God's patience | `Romans 9 Pt 3.md` | ✅ Preached |
-| 6 | Romans 11:32 | God consigned all to disobedience to have mercy on all | `romans 11 pt 2.md` | ✅ Preached |
+| 1 | Romans 1:18-32 | Wrath of God revealed against ungodliness | `Romans 1b`, `Romans 1c`, `sermons/nt/romans/Romans 1.md` | ✅ Preached |
+| 2 | Romans 2:1-11 | Impartial judgment — no exemptions | `Romans 2.1`, `sermons/nt/romans/Romans 2 mt 23 col 3 eph 2.md` | ✅ Preached |
+| 3 | Romans 3:19-26 | All under sin → propitiation through faith | `sermons/nt/romans/Romans 3 - wrath of God (final).md` | ✅ Preached |
+| 4 | Romans 5:8-9 | While we were sinners, Christ died; saved from wrath | `sermons/nt/romans/Romans 5.md` | ✅ Preached |
+| 5 | Romans 9:22-23 | Vessels of wrath / vessels of mercy — God's patience | `sermons/nt/romans/Romans 9 Pt 3.md` | ✅ Preached |
+| 6 | Romans 11:32 | God consigned all to disobedience to have mercy on all | `sermons/nt/romans/romans 11 pt 2.md` | ✅ Preached |
 
 ---
 
@@ -144,9 +144,9 @@
 
 | Step | Passage | Doctrine | Sermon(s) | Status |
 |------|---------|----------|-----------|--------|
-| 1 | Romans 9:1-33 | Israel's election, God's freedom, not all Israel are Israel | `Romans 9 - Who Are Gods People.md`, `romans 9 pt 1.md`, `Romans 9 pt 2.md`, `Romans 9 Pt 3.md` | ✅ Preached (4 sermons) |
-| 2 | Romans 10:1-13 | Gospel available to all — Jew and Gentile | `Romans 10.md` | ✅ Preached |
-| 3 | Romans 11:1-32 | Remnant of grace, olive tree, grafted in | `Romans 11 - The Remnant of Grace.md`, `romans 11 pt 2.md` | ✅ Preached |
+| 1 | Romans 9:1-33 | Israel's election, God's freedom, not all Israel are Israel | `Romans 9 - Who Are Gods People.md`, `sermons/nt/romans/romans 9 pt 1.md`, `sermons/nt/romans/Romans 9 pt 2.md`, `sermons/nt/romans/Romans 9 Pt 3.md` | ✅ Preached (4 sermons) |
+| 2 | Romans 10:1-13 | Gospel available to all — Jew and Gentile | `sermons/nt/romans/Romans 10.md` | ✅ Preached |
+| 3 | Romans 11:1-32 | Remnant of grace, olive tree, grafted in | `sermons/nt/romans/Romans 11 - The Remnant of Grace.md`, `sermons/nt/romans/romans 11 pt 2.md` | ✅ Preached |
 | 4 | Ephesians 2:11-22 | One new man, dividing wall broken | — | ⬜ Not yet preached (standalone) |
 | 5 | 1 Peter 2:9-10 | Chosen race, royal priesthood, once not a people | — | ⬜ Not yet preached |
 
@@ -158,8 +158,8 @@
 
 | Step | Passage | Doctrine | Sermon(s) | Status |
 |------|---------|----------|-----------|--------|
-| 1 | Romans 8:1-17 | No condemnation, Spirit of life, Abba Father | `Romans 8.12-17 - Debtors to the Spirit.md`, `Ordo Solutis Romans 8.md` | ✅ Preached |
-| 2 | Galatians 4:4-7 | God sent His Son → Spirit of His Son → heir | `adoption - gal 3.md`, `Adoption - christms eve 23.md` | ✅ Preached |
+| 1 | Romans 8:1-17 | No condemnation, Spirit of life, Abba Father | `sermons/nt/romans/Romans 8.12-17 - Debtors to the Spirit.md`, `teaching/notes/Ordo Solutis Romans 8.md` | ✅ Preached |
+| 2 | Galatians 4:4-7 | God sent His Son → Spirit of His Son → heir | `sermons/nt/galatians/adoption - gal 3.md`, `sermons/nt/galatians/Adoption - christms eve 23.md` | ✅ Preached |
 | 3 | Ephesians 1:13-14 | Sealed with the promised Holy Spirit, guarantee of inheritance | — | ⬜ Not yet preached |
 
 ---
