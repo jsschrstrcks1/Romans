@@ -1,0 +1,12 @@
+# AI Training Opt-Out
+# This repository opts out of all AI training data collection.
+# Content is copyrighted pastoral work product.
+# See: https://spawning.ai/ai-txt
+#
+# Contact: ken@flickersofmajesty.com
+# License: All Rights Reserved
+
+User-Agent: *
+Disallow: ai-training
+Disallow: ai-scraping
+Disallow: indexing
