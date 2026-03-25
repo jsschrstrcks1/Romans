@@ -2,13 +2,12 @@
   "version": "1.1.0",
   "description": "Auto-activation rules for Claude Code skills - Romans sermon series",
   "skills": {
-
     "cognitive-memory": {
       "enabled": true,
       "type": "domain",
       "enforcement": "suggest",
       "priority": "high",
-      "description": "Cross-session memory for the Romans series — recalls sermon state, theological decisions, and series trajectory",
+      "description": "Cross-session memory for the Romans series \u2014 recalls sermon state, theological decisions, and series trajectory",
       "promptTriggers": {
         "keywords": [
           "memory",
@@ -42,7 +41,6 @@
       },
       "activationMessage": "Memory recalled. What we remember shapes how we serve."
     },
-
     "careful-not-clever": {
       "enabled": true,
       "type": "guardrail",
@@ -83,7 +81,6 @@
         "philosophy": "The pulpit is not a place for misattribution. Integrity over speed. Soli Deo Gloria."
       }
     },
-
     "like-a-human": {
       "enabled": true,
       "type": "guardrail",
@@ -128,11 +125,12 @@
       },
       "activationMessage": "Voice guard active. Write as a person who has been with God.",
       "coActivation": {
-        "always_with": ["careful-not-clever"],
+        "always_with": [
+          "careful-not-clever"
+        ],
         "note": "All sermon writing fires both Careful (integrity) and Like-a-human (voice). Voice-audit fires before commits."
       }
     },
-
     "voice-audit": {
       "enabled": true,
       "type": "guardrail",
@@ -161,11 +159,12 @@
       },
       "activationMessage": "Voice audit active. Scanning for machine tells and voice drift.",
       "coActivation": {
-        "always_with": ["like-a-human"],
+        "always_with": [
+          "like-a-human"
+        ],
         "note": "Voice-audit is the post-draft companion to Like-a-human. Like-a-human fires during writing. Voice-audit fires before committing."
       }
     },
-
     "sermon-map": {
       "enabled": true,
       "type": "domain",
@@ -174,15 +173,33 @@
       "description": "Maintains sermon-map.md, theological-map.md, series-trajectory.md, date-map.md, quote-map.md, illustration-map.md, people-group-map.md, bfm-article-index.md, 1689-map.md, subject-density-index.md, and passage-chain-map.md. Nine operations: INDEX, UPDATE, AUDIT, CONNECT, GAP, DEDUP, DATE, QUOTE, ILLUSTRATE. Fires when sermons are created, modified, or imported.",
       "promptTriggers": {
         "keywords": [
-          "map", "sermon map", "index", "catalog",
-          "gap analysis", "preaching gaps", "what haven't we preached",
-          "audit map", "check map", "map integrity",
-          "illustration check", "dedup", "duplicate illustration",
-          "add to map", "update map", "new sermon",
-          "date map", "preaching date",
-          "quote map", "quote verification", "illustration map",
-          "people group", "BFM article", "1689", "passage chain",
-          "subject density", "preaching density"
+          "map",
+          "sermon map",
+          "index",
+          "catalog",
+          "gap analysis",
+          "preaching gaps",
+          "what haven't we preached",
+          "audit map",
+          "check map",
+          "map integrity",
+          "illustration check",
+          "dedup",
+          "duplicate illustration",
+          "add to map",
+          "update map",
+          "new sermon",
+          "date map",
+          "preaching date",
+          "quote map",
+          "quote verification",
+          "illustration map",
+          "people group",
+          "BFM article",
+          "1689",
+          "passage chain",
+          "subject density",
+          "preaching density"
         ],
         "intentPatterns": [
           "(add|update|index|catalog|map).*?sermon",
@@ -214,18 +231,21 @@
       },
       "activationMessage": "Sermon mapping active. Every sermon belongs on the map.",
       "coActivation": {
-        "always_with": ["careful-not-clever"],
-        "optional_with": ["cognitive-memory"],
+        "always_with": [
+          "careful-not-clever"
+        ],
+        "optional_with": [
+          "cognitive-memory"
+        ],
         "note": "Map updates should always be verified (careful-not-clever) and optionally remembered (cognitive-memory)."
       }
     },
-
     "orchestrate": {
       "enabled": true,
       "type": "domain",
       "enforcement": "suggest",
       "priority": "high",
-      "description": "Full multi-LLM pipeline orchestration. Runs the sermon pipeline (Draft → Challenge → Expand → Structure → Integrate → Evaluate → Voice Audit) coordinating GPT, Gemini, and Grok as consultants while Claude remains lead author.",
+      "description": "Full multi-LLM pipeline orchestration. Runs the sermon pipeline (Draft \u2192 Challenge \u2192 Expand \u2192 Structure \u2192 Integrate \u2192 Evaluate \u2192 Voice Audit) coordinating GPT, Gemini, and Grok as consultants while Claude remains lead author.",
       "promptTriggers": {
         "keywords": [
           "orchestrate",
@@ -246,14 +266,19 @@
         "maxLines": 200,
         "loadOnFirstFileEdit": false
       },
-      "activationMessage": "Orchestrator active. Claude leads — external models consult.",
+      "activationMessage": "Orchestrator active. Claude leads \u2014 external models consult.",
       "coActivation": {
-        "always_with": ["careful-not-clever"],
-        "optional_with": ["like-a-human", "voice-audit", "thus-says-the-lord"],
+        "always_with": [
+          "careful-not-clever"
+        ],
+        "optional_with": [
+          "like-a-human",
+          "voice-audit",
+          "thus-says-the-lord"
+        ],
         "note": "Orchestration output feeds into sermon writing pipeline. All guardrails apply to integrated output."
       }
     },
-
     "consult": {
       "enabled": true,
       "type": "domain",
@@ -284,11 +309,12 @@
       },
       "activationMessage": "Consultation ready. One model, one question, structured feedback.",
       "coActivation": {
-        "always_with": ["careful-not-clever"],
+        "always_with": [
+          "careful-not-clever"
+        ],
         "note": "All consultation feedback must be verified before incorporation."
       }
     },
-
     "thus-says-the-lord": {
       "enabled": true,
       "type": "guardrail",
@@ -341,31 +367,61 @@
         "maxLines": 600,
         "loadOnFirstFileEdit": true
       },
-      "activationMessage": "Thus says the Lord — sermon evaluation active. Every sermon carries the weight of 'Thus says the Lord.' This rubric tests whether yours has earned it.",
+      "activationMessage": "Thus says the Lord \u2014 sermon evaluation active. Every sermon carries the weight of 'Thus says the Lord.' This rubric tests whether yours has earned it.",
       "coActivation": {
-        "always_with": ["voice-audit", "careful-not-clever"],
+        "always_with": [
+          "voice-audit",
+          "careful-not-clever"
+        ],
         "note": "Thus-says-the-lord evaluates quality. Voice-audit checks authenticity. Careful-not-clever guards integrity. All three fire when a sermon is written or integrated."
       }
+    },
+    "icp-2": {
+      "enabled": true,
+      "type": "guardrail",
+      "enforcement": "block",
+      "priority": "critical",
+      "description": "ICP-2 \u2014 Human-First SEO & AEO standard for 2026. Supersedes ICP-Lite v1.4 and seo-optimizer. Blocks HTML edits that don't meet ICP-2 compliance.",
+      "fileTriggers": {
+        "pathPatterns": [
+          "*.html",
+          "**/*.html"
+        ],
+        "exclude": [
+          "node_modules/**",
+          ".git/**",
+          "dist/**",
+          "build/**"
+        ]
+      },
+      "autoLoad": {
+        "mainFile": ".claude/skills/icp-2/SKILL.md",
+        "maxLines": 500,
+        "loadOnFirstFileEdit": true
+      },
+      "activationMessage": "ICP-2 guardrail active. HTML edits will be validated for SEO/AEO compliance. Non-compliance is a blocking error."
     }
-
   },
-
   "globalSettings": {
     "enableAutoActivation": true,
     "verboseLogging": false,
     "cacheSkillContext": true,
     "maxConcurrentSkills": 3
   },
-
   "notes": {
-    "project": "Romans Sermon Series — expository preaching through Romans for weekly preaching and future book",
+    "project": "Romans Sermon Series \u2014 expository preaching through Romans for weekly preaching and future book",
     "repository": "jsschrstrcks1/Romans",
     "memory_scope": "/romans",
     "total_skills": 8,
     "skill_sources": {
-      "adapted_from_inthewake": ["cognitive-memory", "careful-not-clever", "like-a-human", "voice-audit"]
+      "adapted_from_inthewake": [
+        "cognitive-memory",
+        "careful-not-clever",
+        "like-a-human",
+        "voice-audit"
+      ]
     },
-    "theology": "Confessional Reformed Baptist — 1689 Second London Baptist Confession. Soli Deo Gloria.",
+    "theology": "Confessional Reformed Baptist \u2014 1689 Second London Baptist Confession. Soli Deo Gloria.",
     "enforcement_types": {
       "suggest": "Skill suggestion appears but does not block execution",
       "warn": "Shows warning but allows proceeding",
