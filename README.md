@@ -1,5 +1,7 @@
 # Romans
 
+> **This repository is private.** Content is copyrighted sermon manuscripts and pastoral work product. Unauthorized reproduction, distribution, or use for AI model training is prohibited. All rights reserved.
+
 ## Thus Says the Lord — Sermon Evaluation
 
 **Genre Note:** This file is a repository README, not a sermon manuscript. It contains a single heading line ("# Romans") with no body content. It is a reference/index document for a sermon series repository. A full 17-element rubric evaluation is not applicable. The elements below are assessed with appropriate caveats.

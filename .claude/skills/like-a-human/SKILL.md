@@ -158,6 +158,60 @@ Sermons breathe. They pace the room and then sprint. AI writes at a steady 70 be
 
 **The breath test.** If a paragraph cannot be read aloud in one or two breaths, it was built for silent reading, not for preaching. Break it.
 
+### Structural breathing
+
+AI produces paragraphs of uniform length — four sentences, five sentences, four sentences, five sentences. It spaces evidence evenly. It introduces illustrations at predictable intervals. Detectors measure this regularity.
+
+Human writers don't work that way. A paragraph might run for eight sentences because the idea demanded it. The next might be two words: "He didn't."
+
+**Vary paragraph length deliberately.** Not randomly — deliberately. A one-sentence paragraph after a dense theological passage creates emphasis. A long, sprawling paragraph during a narrative section creates immersion. If every paragraph in a section is 3-5 sentences, something has been flattened.
+
+**Break argument symmetry.** If the sermon has three points, they should not be the same length. One might get two pages. Another might get half a page. The text determines the weight, not the outline's aesthetics.
+
+**Interrupt your own structure.** A parenthetical aside. A question that doesn't get answered for three paragraphs. A detail that seems irrelevant until the conclusion. These are the fingerprints of a mind at work, not an algorithm executing a plan.
+
+### The surprise word
+
+AI chooses the highest-probability next word. Every time. That's what it does. Detectors exploit this by measuring how often the text picks the "expected" word.
+
+Human writers sometimes reach past the obvious word to find the precise one. Not the fancy one — the *precise* one.
+
+"The gospel doesn't *suggest* — it *conscripts*."
+"Grace didn't *help* him — it *wrecked* him."
+"He wasn't *sad* — he was *gutted*."
+
+The surprise isn't in using a thesaurus. It's in finding the verb that carries the specific weight of what actually happened. AI defaults to "transformed," "impacted," "inspired." A human who was in the room picks the word that *only* fits that room.
+
+**One or two per page.** Not more. If every sentence has a surprising word, you're performing, not writing. The surprise works because the surrounding prose is plain.
+
+### Punctuation fingerprint
+
+AI overuses em-dashes. Detectors know this. Every writer has a punctuation signature.
+
+**This voice uses:**
+- Em-dashes — sparingly, for genuine interruption or aside, not as all-purpose connectors
+- Colons for announcement: "Here's what happened:"
+- Periods for finality. Short sentences. Full stops.
+- Commas for natural breath, not for listing everything the author thought of
+- Semicolons rarely; only when two independent clauses genuinely lean on each other
+
+**If a passage has more than two em-dashes per paragraph, compress.** Find the clause that's doing the interrupting and decide: does it earn its dash, or is it hiding in one?
+
+### The controlled flaw
+
+AI never starts a sentence with "And." AI never uses a sentence fragment on purpose. AI never writes a paragraph that's just one word.
+
+Human preachers do all of these.
+
+The skill already says human writing has "seams." Here is what that means concretely:
+
+- **Start a sentence with a conjunction** when it creates forward motion: "And that's the whole point." "But Paul isn't done."
+- **Use intentional fragments** at moments of emphasis: "Not yet." "Every single one." "Grace."
+- **Leave a question hanging** when the answer needs to arrive later, not immediately. Let three paragraphs of exposition sit between the question and its resolution.
+- **Allow a sentence that doesn't quite fit the paragraph** — the thought that wandered in because the preacher was thinking out loud, not constructing an essay.
+
+These are not tricks. They are the natural movements of a mind working through the text in real time, not executing a template.
+
 ---
 
 ## Prophetic Weight vs. Promotional Drift
