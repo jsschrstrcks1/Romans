@@ -934,7 +934,7 @@ There is an advisory board meeting immediately following the service, if you're 
 
 ## Sermon: Philippians 4:1-9 — He Who Has the Son Has Life
 
-**File**: `Philippians 4 - He Who Has the Son (raw draft).md`
+**File**: `sermons/nt/philippians/Philippians 4 - He Who Has the Son (raw draft).md`
 **Primary Text**: Philippians 4:1-9
 **Supporting Texts**: Eph 4:26, 2 Tim 3:16, Luke 13:25-27, 1 Tim 2:5, Eph 2:8-9, 1 Pet 3:18, 1 John 4:10, Rom 3:23, Rom 6:23, Rom 5:8, John 3:16, Rom 10:9, 1 John 5:12, Isa 64:6
 **Themes**: Unity, Euodia and Syntyche, worship and the mind, eternal perspective, gospel, book of life
@@ -956,7 +956,7 @@ There is an advisory board meeting immediately following the service, if you're 
 
 ## Sermon: Genesis 31:4-21 — Idolatry
 
-**File**: `Genesis 31 - Idolatry (raw draft).md`
+**File**: `sermons/ot/genesis/Genesis 31 - Idolatry (raw draft).md`
 **Primary Text**: Genesis 31:4-21
 **Supporting Texts**: Gen 30, Gen 31:41, Gal 5:19-21, Lev 19:26, 19:31, 20:6, 20:27, Ex 22:18, Deut 18:10-12, Rom 3:10, John 3:16
 **Themes**: Idolatry, divination/occult, teraphim, Rachel's stolen household gods, God uses imperfect people, cycle of idolatry in Israel

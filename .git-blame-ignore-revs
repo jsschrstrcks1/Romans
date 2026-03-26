@@ -1,0 +1,7 @@
+# Reorganization commits — exclude from git blame
+
+# Phase 0-1: Consolidate duplicates and clear Other-Sermons/
+958521b70a7ece4198f76ad30e420fceec8f4904
+
+# Phase 2-4: Organize all files into book-based folder structure
+e8470eaa8c3a5242723dcc899185e5e14aebd1a9
