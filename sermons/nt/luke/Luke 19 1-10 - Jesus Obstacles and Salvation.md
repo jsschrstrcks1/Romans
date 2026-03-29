@@ -42,7 +42,9 @@ Now — Luke has just told you in chapter 18 that it is easier for a camel to go
 
 And then this detail — verse 3: *he was seeking to see who Jesus was.* Something was pulling him. The text doesn't tell us what. Curiosity? Conviction? A rumble in the conscience of a man whose money had stopped buying him peace? We don't know. But something was drawing this man toward Jesus.
 
-There's a crowd in the way. And there's a problem — he was small in stature. So this wealthy, powerful, hated man does something no dignified person in that culture would ever do. He runs. And he climbs a tree. A sycamore tree — a fig-mulberry, low-hanging branches, the kind of tree kids climb. Not the kind of tree a chief tax collector climbs. Not in public. Not in front of the crowd that despises him.
+There's a crowd in the way. And there's a problem — he was small in stature. So this wealthy, powerful, hated man does something no dignified person in that culture would ever do. He runs. In the ancient Near East, a man of standing did not run. It was considered shameful — undignified. You gathered your robes, you walked with authority, you let people come to you. Running was for servants and children. And here is the chief tax collector of Jericho — a man who had built his entire reputation on power and intimidation — hiking up his robes and sprinting down the road like a boy.
+
+And he climbs a tree. A sycamore tree — a fig-mulberry, low-hanging branches, the kind of tree kids climb. Not the kind of tree a chief tax collector climbs. Not in public. Not in front of the crowd that despises him.
 
 Do you see what Luke is showing you? Before Jesus says a word, something has already begun to break down Zacchaeus's dignity. His position. His image. A man who built his whole identity on power and wealth is now sitting in a tree like a child, straining to catch a glimpse of a traveling rabbi.
 
@@ -86,6 +88,8 @@ Now look across Jesus's ministry and watch the pattern:
 
 In Luke 9, a man volunteers to follow Jesus — and Jesus says, *"Foxes have holes, and birds of the air have nests, but the Son of Man has nowhere to lay his head"* (Luke 9:58). Comfort. That was the thing. Another man says, *"Lord, let me first go and bury my father"* — and Jesus says, *"Leave the dead to bury their own dead. But as for you, go and proclaim the kingdom of God"* (Luke 9:59–60). Family loyalty. That was the thing. A third says, *"Let me first say farewell to those at my home"* — and Jesus replies, *"No one who puts his hand to the plow and looks back is fit for the kingdom of God"* (Luke 9:61–62). The past. The familiar. That was the thing.
 
+And think about Levi — another tax collector. Mark 2:14: *"And as he passed by, he saw Levi the son of Alphaeus sitting at the tax booth, and he said to him, 'Follow me.' And he rose and followed him."* Luke's version adds a detail: *"And leaving everything, he rose and followed him"* (Luke 5:27–28). Leaving everything. The booth. The ledger. The income. The whole operation. One word from Jesus and the man walked away from the table with money still on it. Same profession as Zacchaeus. Same idol. Same immediate, total surrender. And nobody stood over either of them with a checklist. Grace moved and the money lost its grip.
+
 In John 4, Jesus meets the woman at the well. She's there at noon — the heat of the day — because she's avoided the other women. She's had five husbands and is living with a sixth man. Jesus steers the conversation toward living water, and then — right when it's getting theological — he says, *"Go, call your husband, and come here"* (John 4:16). He doesn't demand she leave the man. He *reveals* the thing she was hiding — and the exposure itself breaks her open. Her sin. Her shame. That was the thing.
 
 In Luke 14, Jesus turns to the great crowds following him and says, *"Any one of you who does not renounce all that he has cannot be my disciple"* (Luke 14:33). Everything. All of it. Whatever it is. That's the thing.
@@ -109,6 +113,8 @@ But look at verse 7: *"And when they saw it, they all grumbled, 'He has gone in 
 Don't miss that grumbling. The whole crowd — the respectable, the religious, the ones who thought they knew who deserved God's attention — are offended. Not that Jesus taught something controversial. They're offended that he walked into the *wrong house.* They had already decided who was worth saving and who wasn't. And the irony is thick: the people grumbling about grace are the ones who need it most and recognize it least.
 
 Some of you do that. You look at someone — maybe someone in this room, maybe someone in your family — and you've already decided they're too far gone. Too stubborn. Too dirty. You've written them off. And Jesus walks right past your good reputation and into their house. That should terrify you more than it offends you.
+
+You know what's remarkable about this grumbling? The text says *they all grumbled.* Not some. Not a few Pharisees in the back. All of them. The entire crowd had decided that Zacchaeus was beyond the reach of God. And if you had asked any one of them, they'd have told you they were right. He *was* a sinner. He *had* stolen from them. They weren't wrong about the facts. They were wrong about grace. They thought it had limits. They thought it had a guest list. They thought the door to God's house had a velvet rope, and they were on the right side of it. Sound familiar?
 
 And then — verse 8 — without Jesus asking him to, without anyone demanding it:
 
@@ -154,7 +160,11 @@ And then — the thesis statement of the entire passage. Verse 10:
 
 Not to reward the righteous. Not to honor the morally impressive. Not to call the ones who had their lives together. He came to *seek* — actively, deliberately, with purpose — and to *save* — effectually, completely, irrevocably — the lost.
 
-Zacchaeus didn't find Jesus. Jesus found Zacchaeus. Yes — the man climbed a tree. He was seeking. But seeking to *see* is not the same as seeking to *be saved*. Curiosity brought him to the sycamore. Sovereign grace brought him down from it. He was a thief and a traitor sitting in a sycamore, and the Son of God walked into his city, stopped under his branch, called him by name, and said *I must.*
+Zacchaeus didn't find Jesus. Jesus found Zacchaeus. Yes — the man climbed a tree. He was seeking. But seeking to *see* is not the same as seeking to *be saved*. Curiosity brought him to the sycamore. Sovereign grace brought him down from it.
+
+Spurgeon put it plainly: "Sheep go astray, but they do not come back again of themselves. Ask the shepherd whether his sheep come back and he will tell you, 'No, sir, they will wander, but they never return.' When you find a sheep that ever came back of himself, then you may hope to find a sinner that will come to Christ of himself. No, it must be sovereign grace that must seek the sinner and bring him home." — C.H. Spurgeon, *The Mission of the Son of Man*, Sermon No. 204, July 11, 1858
+
+Zacchaeus was a wandering sheep who thought he was just watching from a tree. But the Shepherd had already come for him. He was a thief and a traitor sitting in a sycamore, and the Son of God walked into his city, stopped under his branch, called him by name, and said *I must.*
 
 That's the gospel. Not a man climbing high enough to reach God. A God who stops under the tree and looks up.
 
@@ -184,6 +194,10 @@ Hear me. Jesus is not in the business of sharing the throne. He will not be adde
 
 Some of you are the rich young ruler this morning. You know the right answers. You've kept the commandments — at least the visible ones. You're moral. You're decent. You're in church. And there is one thing you will not give him. And that one thing is the door you've locked against God.
 
+Some of you are the grumbling crowd. You've been in church long enough to have opinions about who deserves grace and who doesn't. You've looked at someone's mess and thought, *Why would God waste his time on them?* You've ranked sins — theirs above yours, always. And you've missed the fact that the grumbling crowd in Jericho was standing six feet from Jesus and didn't recognize what was happening. They were closer to him than Zacchaeus was and further from salvation. Proximity to Jesus is not the same thing as surrender to Jesus. Some of you have been sitting in the pew so long you've confused attendance with obedience.
+
+Some of you are the backslider. You were on fire once. You gave. You served. You read the Word. And then life hit — or sin crept — or the world just wore you down. And the thing you laid at the foot of the cross five or ten years ago, you quietly picked back up. You know it. God knows it. And you've been pretending it's fine. It's not fine. But the same grace that found Zacchaeus in a tree can find you in whatever hole you've crawled into.
+
 Some of you are Zacchaeus. You're in the tree. You're curious. Maybe desperate. Maybe you've been running from God for years and you climbed up here today just to get a look. You don't know what you're looking for, but something pulled you in.
 
 He sees you. He knows your name. And the word he speaks over you is the same word he spoke over a crooked tax collector in Jericho two thousand years ago: *I must stay at your house today.*
@@ -194,7 +208,13 @@ If you have never turned from your sin and trusted Christ — if you've been sit
 
 Here is what he did for you. The same Jesus who stopped under a sycamore tree in Jericho walked into Jerusalem and was nailed to a Roman cross. On that cross, he bore the full weight of God's wrath against sin — not his own sin, because he had none — but yours. *"For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God"* (2 Corinthians 5:21). That is penal substitution. That is the heart of the gospel. Your sin placed on him. His righteousness placed on you. And three days later he walked out of the grave — alive, risen, victorious over death itself.
 
-He offers full pardon to anyone who will turn from their sin and trust him. He's not asking you to fix yourself first. He's not waiting for you to become respectable. He stopped. He looked up. He called your name.
+He offers full pardon to anyone who will turn from their sin and trust him. Not to those who clean up first. Not to those who have earned it. Not to the ones the crowd approves of. To the lost. To the ones in the tree. To the ones who know they have no business being this close to a holy God and came anyway.
+
+He's not asking you to fix yourself first. He's not waiting for you to become respectable. He stopped. He looked up. He called your name.
+
+Whatever your thing is — the money, the relationship, the comfort, the politics, the control, the sin you've made peace with — he's putting his finger on it right now. You feel it. You know what it is.
+
+The question is not whether Jesus sees it. He's always seen it. The question is whether you'll climb down — or whether you'll grip that branch until it breaks under you.
 
 Come down.
 
