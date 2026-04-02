@@ -8,13 +8,21 @@ A Reformed Baptist Study for Men Walking in Truth and Grace
 
 WHY THIS STUDY
 
+I need to tell you something before we start. My cousin died this morning. A freak car accident. Gone. Just like that. No warning. No long goodbye. No time to prepare. One phone call, and the world is different.
+
+I'm telling you that because of what happened next. After I got the news, after I sat with it for a while, I opened my Bible. And I didn't go looking for a theology textbook. I didn't reach for a systematic. I turned to Psalm 23. And I read it slowly. And it held me.
+
+But here's what hit me — and it's the reason we're doing this study tonight. It held me because of what it says. Not because it's beautiful. Not because it's familiar. Because what it says is true. And what it says is true because of the very doctrines some of you have been calling minutia.
+
 Some of you love the doctrines we've been studying. Some of you are still grumbling. "Why does it matter whether the atonement was an offer or an accomplishment? Why do we need to know the difference between fore-love and foresight? Why split hairs over election and free will when we could just read the Bible and love Jesus?"
 
-Fair enough. Tonight we're going to read the Bible. We're going to read the most beloved passage in the entire Old Testament — Psalm 23 — and I'm going to show you something. Every single line of comfort in this psalm that you love, that you quote at funerals, that you whisper in hospital rooms, that you cling to at 3 a.m. when the walls close in — every one of those lines is built on the very doctrines you've been calling minutia.
+I understand that. I do. But I'm going to tell you something: when the phone rings at 7 a.m. and someone you love is gone — you don't need a nice poem. You need a psalm that holds. And whether this psalm holds or collapses depends entirely on whether the theology underneath it is true.
 
-Pull the theology out, and the psalm doesn't just get weaker. It collapses.
+So tonight we're going to read it. Line by line. And I'm going to show you that every single line of comfort in this psalm — the lines you quote at funerals, the lines you whisper in hospital rooms, the lines you cling to when the walls close in — every one of them is built on the doctrines we've been studying.
 
-So tonight the question isn't "Why does this doctrine matter?" The question is: "Do you want Psalm 23 to be true — or do you want it to be a nice poem?"
+Pull the theology out, and the psalm doesn't just get weaker. It collapses. And this morning, I needed it not to collapse.
+
+So tonight the question isn't "Why does this doctrine matter?" The question is: "Do you want Psalm 23 to be true — or do you want it to be a nice poem?" Because I can tell you from this morning — I needed it to be true.
 
 ---
 
