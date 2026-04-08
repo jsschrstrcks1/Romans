@@ -133,6 +133,8 @@ The philosopher calls this the problem of evil. Habakkuk calls it a prayer.
 
 And here's the thing about the problem of evil that the philosophy classroom gets wrong. The philosophers treat it as a logical puzzle — if God is all-powerful and all-good, why does evil exist? They lay it out like a syllogism and they think the answer has to be intellectual. Habakkuk knows better. Habakkuk knows the problem of evil is not a logic problem. It's a *trust* problem. The question is not whether you can construct a theodicy that satisfies your mind. The question is whether you can trust a God whose ways you cannot trace. Whether you can say — with everything falling apart — *I believe You are holy even though I cannot see Your hand.*
 
+Spurgeon said it better than I can: *"God is too good to be unkind, and He is too wise to be mistaken. And when we cannot trace His hand, we must trust His heart."* That's it. That's the whole book of Habakkuk in one sentence. When you cannot trace His hand — and Habakkuk cannot — you trust His heart. Not because the evidence is clear. Because the God behind the evidence is good.
+
 Job did it from the ash heap. David did it from the cave. Habakkuk does it from the watchtower. And every one of them did it without getting the explanation they asked for. God never explains the suffering. He reveals Himself. And that turns out to be enough — not because the suffering stops mattering, but because the God who permits it turns out to be worth more than the answers He withholds.
 
 ---
@@ -150,6 +152,10 @@ And Jesus — on the cross, in the hour of His death, with the weight of the wor
 That ought to settle the question of whether lament is legitimate. If the Son of God can cry *why?* from a cross, you can cry *how long?* from your knees. If Jesus can feel the silence of heaven and say it out loud, you are not less faithful for feeling it too.
 
 If Jesus can lament, you can lament.
+
+But let me be clear about something, because the church has always been clear about it. Lament is faith — but it is not a promise of deliverance. John MacArthur, preaching through Daniel, put it plainly: *"Believing in God doesn't mean that the lions aren't going to eat you. Isaiah believed God, too, but he got sawn in half. Paul believed God, too, and he laid his head on a block, and an axe head flashed in the sun, and severed it from his body. Peter believed in God, and he got crucified upside down... The issue is that we accept God's will. If it is to live, it is to live. If it is to die, it is to die. But in either case, we're never defeated."*
+
+Habakkuk cries out. But crying out doesn't mean the Babylonians won't come. It means God hears. And in the economy of heaven, that is enough — even when it doesn't feel like it.
 
 But I want you to notice something about how Habakkuk does it. He does not complain *about* God. He complains *to* God. There is a universe of difference between those two words.
 
@@ -202,6 +208,8 @@ Notice the metaphor Paul uses: *pains of childbirth.* That's not random. Birth p
 The groaning is real. Paul doesn't deny it. He says the whole creation is doing it. You're doing it. Habakkuk was doing it twenty-six hundred years ago. The difference between Habakkuk's groan and a meaningless cry is three words at the end of Paul's sentence: *we wait eagerly.* The groan has a direction. The birth pains are going somewhere. There is something on the other side of this.
 
 Habakkuk doesn't know that yet. He's at the beginning of his book. He's in the dark. He's asked the question and hasn't gotten the answer. But over the next five weeks, we're going to watch him get it. We're going to watch this man move from *How long, O Lord?* to *Yet I will rejoice in the LORD.* And the distance between those two sentences — that's the journey of faith.
+
+Spurgeon once said, *"God's promises are like the stars; the darker the night, the brighter they shine."* We're calling this series *Faith in the Dark* — and that's why. Habakkuk is standing in the darkest night of his nation's history. And by the end of this book, the promises of God are going to shine so bright that he writes a psalm about them. But not yet. Right now, it's dark. And the first thing you have to do in the dark is admit that you can't see.
 
 ---
 
