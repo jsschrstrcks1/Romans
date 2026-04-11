@@ -7,7 +7,7 @@
 
 ---
 
-I was at a funeral this week. Eighteen years old. A boy I watched grow up — he used to call me uncle. A freak accident. No warning. Tuesday he was alive, and today he isn't. And I sat in a room full of people trying to make sense of something that did not make sense, and I listened to what got said.
+I was at a funeral last week. Eighteen years old. A boy I watched grow up — he used to call me uncle. A freak accident. No warning. One day he was alive, and the next he wasn't. And I sat in a room full of people trying to make sense of something that did not make sense, and I listened to what got said.
 
 Some of you have been in that room. You know what gets said at a funeral for a kid who died too young. *He was taken too soon. It's not fair. God shouldn't have let this happen. Why him?*
 
@@ -111,7 +111,7 @@ That question is the engine of this entire book. And it's the question that live
 
 ---
 
-Habakkuk saw what none of us wanted to see — that the world is fragile, that the people we love are fragile, that life itself is held up by hands we can't see and can be taken away by a moment we didn't schedule. An accident. A phone call. A diagnosis. You were getting ready for Tuesday, and Tuesday was getting ready to end you. I have been feeling the weight of that sentence all week.
+Habakkuk saw what none of us wanted to see — that the world is fragile, that the people we love are fragile, that life itself is held up by hands we can't see and can be taken away by a moment we didn't schedule. An accident. A phone call. A diagnosis. You were getting ready for Tuesday, and Tuesday was getting ready to end you. That is the world Habakkuk was living in. It is the world I was in last week.
 
 But here is the other thing that is true — and it has to be held next to the first one, because both are true at the same time, and one of them is the only reason the other one doesn't crush you.
 
@@ -125,7 +125,9 @@ And the Bible is more specific than that. Psalm 139 verse 16: *"Your eyes saw my
 
 Job said the same thing from the ash heap, in chapter 14 verse 5: *"Since his days are determined, and the number of his months is with you, and you have appointed his limits that he cannot pass."* The number of the months. The limit of the days. With You. Appointed. Not one day more, not one day less, than what God has written.
 
-And I'll tell you what that means, because I need to say it out loud, and I need to say it while I'm still sore enough to mean it. It means nobody dies too young. It means nobody is taken before his time. It means the kid who didn't see his nineteenth birthday did not miss it. *His days were formed.* He lived every single one of them — every single one that was written in the book. It feels like he was taken early. It does not feel like God knew what He was doing. I know that. I felt it this week. I am going to feel it again. But the feeling is not the facts. The facts are that God does not make mistakes with the numbers of our days, and the God who wrote the book is not the same as the God who loses track.
+And I'll tell you what that means, because I need to say it out loud. It means nobody dies too young. It means nobody is taken before his time. It means the boy who didn't see his nineteenth birthday did not miss it. *His days were formed.* He lived every single one of them — every single one that was written in the book.
+
+And I need to tell you what I actually believe, because if I'm preaching this text I might as well testify to it. I believe that boy accomplished what God put him on this earth to do. I believe he lived every moment God had written for him. And I believe that when his work was done, God brought him home — not a day late, not a day early, not one moment outside the limits God appointed before he was born. I believe that more today than I believed it last Sunday. The world will tell you he was taken too soon, that it isn't fair, that God should have done something about it. The world is wrong. The days were formed. He lived them all. The God who wrote his book is not the same as the God who loses track.
 
 Now I need you to hear two things at once, because this is pastoral before it is theological.
 
@@ -253,13 +255,13 @@ Spurgeon once said, *"God's promises are like the stars; the darker the night, t
 
 If you're sitting here this morning and you don't know Christ — if the God Habakkuk is talking to is not your God, if you're listening to a man argue with someone you've never spoken to — I need to talk to you.
 
-I stood in that funeral this week and I thought of 1 Thessalonians 4:13. Write it down. Paul says: *"But we do not want you to be uninformed, brothers, about those who are asleep, that you may not grieve as others do who have no hope."* Notice what Paul does not say. Paul does not say *don't grieve.* Paul says *don't grieve like people with no hope.* There are two ways to grieve in this world. One of them has a future. The other one does not. One of them is Habakkuk's groan with Paul's *we wait eagerly.* The other one is a groan into an empty sky.
+I stood in that funeral last week and I thought of 1 Thessalonians 4:13. Write it down. Paul says: *"But we do not want you to be uninformed, brothers, about those who are asleep, that you may not grieve as others do who have no hope."* Notice what Paul does not say. Paul does not say *don't grieve.* Paul says *don't grieve like people with no hope.* There are two ways to grieve in this world. One of them has a future. The other one does not. One of them is Habakkuk's groan with Paul's *we wait eagerly.* The other one is a groan into an empty sky.
 
-The difference is not the tears. Christians cry at funerals. Christians cry *hard* at funerals. I cried at this one. I am going to cry at more of them before I'm done. The difference is not whether you cry. The difference is what is on the other side of the tears. For the man without Christ, the tears are the whole story. He stands up to speak and all he can tell you is how much he misses the person. That's it. That's all he has. And it is not enough. I sat there this week and listened to a man say everything he could say about an eighteen-year-old boy, and at the end of it I thought: *this is what grief without a resurrection sounds like. And it is terrible.*
+The difference is not the tears. Christians cry at funerals. The difference is what is on the other side of the tears. For the man without Christ, the tears are the whole story. He stands up to speak and all he can tell you is how much he misses the person. That's it. That's all he has. And it is not enough. I sat in that room last week and listened to a man say everything he could say about an eighteen-year-old boy, and at the end of it I thought: *this is what grief without a resurrection sounds like. And it is terrible.* I do not want anyone I love to grieve that way. I do not want anyone in this room to grieve that way.
 
 For the one who is in Christ, the tears are the beginning of a sentence. And the sentence ends — *we will see them again.*
 
-That promise is only available because of one fact: Christ has been raised from the dead. If He stayed in the tomb, the funeral is the end of the story. Every funeral. Yours, mine, the boy I buried this week, everyone's. But He did not stay in the tomb. He walked out on the third day. And because He walked out, everyone who is in Him will walk out too. Paul calls Him the firstfruits — the first sheaf of the harvest. The rest is coming.
+That promise is only available because of one fact: Christ has been raised from the dead. If He stayed in the tomb, the funeral is the end of the story. Every funeral. Yours, mine, the boy we buried last week, everyone's. But He did not stay in the tomb. He walked out on the third day. And because He walked out, everyone who is in Him will walk out too. Paul calls Him the firstfruits — the first sheaf of the harvest. The rest is coming.
 
 The question Habakkuk is asking — *How long will You tolerate evil?* — God answered it. He answered it at the cross. He took the full weight of every evil act that has ever been committed — every violence, every injustice, every perversion of the law, every *chamas* that has ever been inflicted on the weak by the strong — and He absorbed it in the body of His Son. Justice was not perverted at Calvary. Justice was satisfied. The law was not paralyzed at the cross — it was fulfilled. Every sin, every act of violence, every perversion that Habakkuk saw and that you see — it was all accounted for. Christ bore the penalty that the law demanded, and He bore it willingly, and He bore it for you.
 
@@ -283,6 +285,10 @@ You are allowed to stand in the gap between what you believe about God and what 
 
 That is not doubt. That is Habakkuk 1:1-4. That is the beginning of faith in the dark.
 
-I left that funeral this week grieving. I am still grieving. I will be grieving for a while. But I am not grieving the way the man without Christ was grieving — and the difference between those two griefs is the whole reason I'm preaching this book. Habakkuk is going to move from *How long?* to *Yet I will rejoice* — and he makes that journey in the dark, without the cross, without the empty tomb, without Romans 8 in his pocket. You have all three. If he could get to *yet*, you can get to *yet*.
+I left that funeral last week grieving — because I will miss a boy I loved until I see him again, and missing him is not optional. But I did not leave that room wondering whether God had dropped the ball. I left it convinced He hadn't. That boy lived every day God had written for him, and when his work was done, God brought him home. That is not something I am trying to convince myself of. That is the ground I was standing on when I walked in, and it is the ground I was still standing on when I walked out.
+
+What broke me in that room wasn't my grief. It was listening to a man speak without that ground under his feet. It was hearing what hopeless grief sounds like, and knowing the only thing between his grief and mine was a Man who walked out of a tomb two thousand years ago. That is the only thing that separates us. If you do not have that Man, everything I have said this morning is words. If you do, it is the floor you stand on when the floor drops out from under everything else.
+
+Habakkuk got to *Yet I will rejoice* in the dark, without the cross, without the empty tomb, without Romans 8 in his pocket. You have all three. If he could get to *yet*, so can you.
 
 *Pray.*
