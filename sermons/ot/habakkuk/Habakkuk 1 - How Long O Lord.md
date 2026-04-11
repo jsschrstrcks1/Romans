@@ -7,7 +7,17 @@
 
 ---
 
-There's a moment — and some of you know exactly what I'm talking about — when you're on your knees, and you're praying, and somewhere in the middle of it you stop. Not because you're done. Because you're not sure anyone's listening.
+I was at a funeral this week. Eighteen years old. A boy I watched grow up — he used to call me uncle. A freak accident. No warning. Tuesday he was alive, and today he isn't. And I sat in a room full of people trying to make sense of something that did not make sense, and I listened to what got said.
+
+Some of you have been in that room. You know what gets said at a funeral for a kid who died too young. *He was taken too soon. It's not fair. God shouldn't have let this happen. Why him?*
+
+Those are Habakkuk's questions. Not dressed up in Hebrew, not carved on a scroll — but the same questions. *How long, O Lord? Why do you make me see this?*
+
+And I need to tell you something I heard in that room, because it's going to shape everything I say for the next six weeks. One man stood up to speak — a man I don't believe knew the Lord — and what came out of his mouth was raw, and honest, and aching, and completely without hope. It was Habakkuk's question with none of Habakkuk's God. And it hurt to listen to, because I knew the question had an answer and he didn't.
+
+There is a difference between crying out in the dark with hope and crying out in the dark without it. That difference is the whole reason I'm preaching this book.
+
+Some of you know the other version of it — the one that isn't at a graveside. It's the moment when you're on your knees, and you're praying, and somewhere in the middle of it you stop. Not because you're done. Because you're not sure anyone's listening.
 
 You've been asking. For weeks. For months. Some of you, for years. And the ceiling hasn't opened. The phone hasn't rung. The diagnosis hasn't changed. The marriage hasn't turned. The child hasn't come home.
 
@@ -98,6 +108,34 @@ We used that verse in our Romans 3 sermon — Habakkuk 1:13 — when we were bui
 That question is the engine of this entire book. And it's the question that lives underneath every unanswered prayer, every unexplained suffering, every season where God is silent and the world is loud.
 
 *Why do you make me see this?*
+
+---
+
+Habakkuk saw what none of us wanted to see — that the world is fragile, that the people we love are fragile, that life itself is held up by hands we can't see and can be taken away by a moment we didn't schedule. An accident. A phone call. A diagnosis. You were getting ready for Tuesday, and Tuesday was getting ready to end you. I have been feeling the weight of that sentence all week.
+
+But here is the other thing that is true — and it has to be held next to the first one, because both are true at the same time, and one of them is the only reason the other one doesn't crush you.
+
+Let me read you something. This is from our own confession — the 1689 London Baptist Confession of Faith, chapter 5, paragraph 1. This is what the Baptists who came before us believed about God's providence, and it is still what we believe:
+
+*"God the good Creator of all things, in his infinite power and wisdom doth uphold, direct, dispose, and govern all creatures and things, from the greatest even to the least, by his most wise and holy providence, to the end for which they were created, according unto his infallible foreknowledge, and the free and immutable counsel of his own will; to the praise of the glory of his wisdom, power, justice, infinite goodness, and mercy."*
+
+*From the greatest even to the least.* That phrase is there on purpose. There is no detail too small for God's governance. No molecule loose in the universe. R.C. Sproul put it sharper: *"If there is one maverick molecule in all of the universe running around loose outside the scope of God's sovereign ordination, then there is no guarantee that a single promise of God will ever be fulfilled."* Either God rules everything — the galaxies, and the freak accident, and the Tuesday afternoon nobody was ready for — or He rules nothing that matters. There is no third option.
+
+And the Bible is more specific than that. Psalm 139 verse 16: *"Your eyes saw my unformed substance; in your book were written, every one of them, the days that were formed for me, when as yet there was none of them."* Before you were born, God wrote your days in a book. Every one of them. Not just the happy ones. Every one. Your days were *formed* — that's the verb — shaped, written, assigned — before you took a breath.
+
+Job said the same thing from the ash heap, in chapter 14 verse 5: *"Since his days are determined, and the number of his months is with you, and you have appointed his limits that he cannot pass."* The number of the months. The limit of the days. With You. Appointed. Not one day more, not one day less, than what God has written.
+
+And I'll tell you what that means, because I need to say it out loud, and I need to say it while I'm still sore enough to mean it. It means nobody dies too young. It means nobody is taken before his time. It means the kid who didn't see his nineteenth birthday did not miss it. *His days were formed.* He lived every single one of them — every single one that was written in the book. It feels like he was taken early. It does not feel like God knew what He was doing. I know that. I felt it this week. I am going to feel it again. But the feeling is not the facts. The facts are that God does not make mistakes with the numbers of our days, and the God who wrote the book is not the same as the God who loses track.
+
+Now I need you to hear two things at once, because this is pastoral before it is theological.
+
+*One:* that truth is comfort only to people who trust the One who wrote the book. If you don't know Him, being told your loved one's days were numbered is not comfort — it's a horror. A God who scheduled the pain and left you alone in it. It does not help. I want to be honest with you about that.
+
+*Two:* that truth is not what you say at the graveside. It is what you stand on at the graveside. Habakkuk does not start this book by saying *"my days are determined, I'm fine."* He starts by saying *"How long, O Lord?"* The number of our days is the ground under Habakkuk's feet, not the speech he makes at the funeral. You stand on it. You don't hand it to someone whose tears aren't dry yet.
+
+But you do preach it. Because at some point the grief turns a corner — not disappears, turns a corner — and the question the griever needs answered is: *was He in charge of this?* And Scripture says: *Yes. He was. He always is. Not one day off the schedule.*
+
+That is either the most terrifying sentence in the Bible or the most comforting one. It depends entirely on who you think God is. And the whole rest of this book — and the whole rest of the Bible — is about making sure you know who He is before the worst day of your life arrives.
 
 ---
 
@@ -213,9 +251,17 @@ Spurgeon once said, *"God's promises are like the stars; the darker the night, t
 
 ---
 
-If you're sitting here this morning and you don't know Christ — if the God Habakkuk is talking to is not your God, if you're listening to a man argue with someone you've never spoken to —
+If you're sitting here this morning and you don't know Christ — if the God Habakkuk is talking to is not your God, if you're listening to a man argue with someone you've never spoken to — I need to talk to you.
 
-I want you to know that the question Habakkuk is asking — *How long will You tolerate evil?* — God answered it. He answered it at the cross. He took the full weight of every evil act that has ever been committed — every violence, every injustice, every perversion of the law, every *chamas* that has ever been inflicted on the weak by the strong — and He absorbed it in the body of His Son. Justice was not perverted at Calvary. Justice was satisfied. The law was not paralyzed at the cross — it was fulfilled. Every sin, every act of violence, every perversion that Habakkuk saw and that you see — it was all accounted for. Christ bore the penalty that the law demanded, and He bore it willingly, and He bore it for you.
+I stood in that funeral this week and I thought of 1 Thessalonians 4:13. Write it down. Paul says: *"But we do not want you to be uninformed, brothers, about those who are asleep, that you may not grieve as others do who have no hope."* Notice what Paul does not say. Paul does not say *don't grieve.* Paul says *don't grieve like people with no hope.* There are two ways to grieve in this world. One of them has a future. The other one does not. One of them is Habakkuk's groan with Paul's *we wait eagerly.* The other one is a groan into an empty sky.
+
+The difference is not the tears. Christians cry at funerals. Christians cry *hard* at funerals. I cried at this one. I am going to cry at more of them before I'm done. The difference is not whether you cry. The difference is what is on the other side of the tears. For the man without Christ, the tears are the whole story. He stands up to speak and all he can tell you is how much he misses the person. That's it. That's all he has. And it is not enough. I sat there this week and listened to a man say everything he could say about an eighteen-year-old boy, and at the end of it I thought: *this is what grief without a resurrection sounds like. And it is terrible.*
+
+For the one who is in Christ, the tears are the beginning of a sentence. And the sentence ends — *we will see them again.*
+
+That promise is only available because of one fact: Christ has been raised from the dead. If He stayed in the tomb, the funeral is the end of the story. Every funeral. Yours, mine, the boy I buried this week, everyone's. But He did not stay in the tomb. He walked out on the third day. And because He walked out, everyone who is in Him will walk out too. Paul calls Him the firstfruits — the first sheaf of the harvest. The rest is coming.
+
+The question Habakkuk is asking — *How long will You tolerate evil?* — God answered it. He answered it at the cross. He took the full weight of every evil act that has ever been committed — every violence, every injustice, every perversion of the law, every *chamas* that has ever been inflicted on the weak by the strong — and He absorbed it in the body of His Son. Justice was not perverted at Calvary. Justice was satisfied. The law was not paralyzed at the cross — it was fulfilled. Every sin, every act of violence, every perversion that Habakkuk saw and that you see — it was all accounted for. Christ bore the penalty that the law demanded, and He bore it willingly, and He bore it for you.
 
 You don't have to earn your way into this God's presence. You don't have to clean up your complaint before you bring it. The thief on the cross brought nothing — no righteousness, no record of faithful service, no theology — and Jesus said to him, *"Today you will be with me in paradise"* (Luke 23:43).
 
@@ -236,5 +282,7 @@ You are allowed to say: *Why do you make me see this?*
 You are allowed to stand in the gap between what you believe about God and what you see in the world, and refuse to let go of either one.
 
 That is not doubt. That is Habakkuk 1:1-4. That is the beginning of faith in the dark.
+
+I left that funeral this week grieving. I am still grieving. I will be grieving for a while. But I am not grieving the way the man without Christ was grieving — and the difference between those two griefs is the whole reason I'm preaching this book. Habakkuk is going to move from *How long?* to *Yet I will rejoice* — and he makes that journey in the dark, without the cross, without the empty tomb, without Romans 8 in his pocket. You have all three. If he could get to *yet*, you can get to *yet*.
 
 *Pray.*
