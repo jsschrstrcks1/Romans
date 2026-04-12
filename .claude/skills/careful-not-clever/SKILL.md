@@ -61,6 +61,30 @@ description: Integrity guardrail for sermon preparation. Enforces careful, verif
 - Adding theological claims without Scriptural grounding
 - Silently skipping problems instead of reporting them
 - Prioritizing sermon length or impressiveness over faithfulness to the text
+- Manufacturing shared-history references to create false intimacy (see below)
+
+## Assumed-Familiarity / Congregation-History Claims
+
+Every claim about what the congregation has heard, remembers, or has been taught must be verified against actual pulpit history before committing. This includes:
+
+- *"Many of you know this by heart"*
+- *"We preached through [book/passage]"*
+- *"Some of you remember when we..."*
+- *"As I've said from this pulpit..."*
+- *"You've heard me say..."*
+- *"Last week/month/year we..."*
+- *"We spent [N] weeks on..."*
+- Specific numeric or temporal claims about past sermons
+
+**Verification procedure:**
+1. Check `.claude/sermon-map.md` or `.claude/date-map.md` for the relevant sermon history
+2. If the sermon exists, verify it actually developed the point being claimed — not just that it touched the passage
+3. If the sermon does not match the claim, either remove the reference or rewrite to cite the passage directly without claiming shared memory
+4. If the sermon exists but doesn't develop the specific angle, do not claim the congregation heard the angle
+
+**Default posture:** If the claim is not independently verifiable against pulpit history, cut it. *"Psalm 42"* works as well as *"When we preached Psalm 42"* and carries no risk of fabrication. Congregation-history references are ornamental — they feel intimate but add no exegetical weight. When in doubt, leave them out.
+
+**Root cause:** AI knows facts about the sermon corpus (e.g., 39 weeks of Romans, Psalm 42 exists) and uses them to manufacture intimacy. The gap between *preached* and *heard* is where the fabrication lives. Knowing THAT a sermon was preached is not the same as knowing WHAT was heard, remembered, or internalized.
 
 ## The Integrity Test
 
@@ -71,6 +95,7 @@ Before every commit, ask yourself:
 3. **Does this addition serve the text?** Or am I serving my own cleverness?
 4. **Would this survive scrutiny from the congregation, from other pastors, from the Lord?**
 5. **Did I leave anything silently wrong?** If I'm not sure, check.
+6. **Is every congregation-history claim verified?** Have I checked sermon-map/date-map to confirm the sermon exists AND preached the specific point I'm claiming?
 
 ## The Standard
 
