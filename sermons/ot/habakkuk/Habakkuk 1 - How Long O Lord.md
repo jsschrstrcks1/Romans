@@ -51,7 +51,7 @@ The reforms didn't hold. The revival didn't last. And Habakkuk is watching the p
 
 That's the world this book is born in. A prophet who saw the best his nation could be, and then watched it unravel.
 
-And I want you to feel the weight of that, because some of you know what it's like. Some of you have watched a church come alive - watched people get baptized, watched marriages heal, watched kids come to faith - and then watched it fall apart. A pastor fell. A split happened. The people scattered. The building emptied. And you're standing there asking the same question Habakkuk asked: *Was any of it real? Does God care that it's gone?*
+And I want you to feel the weight of that, because some of you know what it's like. Some of you have watched a church come alive - watched people get baptized, watched marriages heal, watched kids come to faith - and then watched it fall apart. A pastor fell - or a pastor was accused of falling, and you don't know which, and the accusation alone was enough to empty the room. A split happened. The people scattered. The building emptied. And you're standing there asking the same question Habakkuk asked: *Was any of it real? Does God care that it's gone?*
 
 Or maybe it's closer to home. You watched your family pull together after a crisis - everybody talking, everybody praying, everybody leaning on God - and then the crisis passed and everybody went back to their corners and the phones stopped ringing. The revival didn't last. And you carry that.
 
@@ -216,6 +216,8 @@ Some of you are in a marriage where justice goes forth perverted every day in yo
 Some of you have a diagnosis that changed everything. You've been faithful. You've prayed. You've trusted. And the numbers are still wrong, and the body is still failing, and you don't know why God is letting it happen.
 
 Some of you are pouring into a child or a grandchild who doesn't seem to be receiving any of it. You pray for them every single day. You show up. You speak truth into their lives. You drive across town to sit at their table. And they look at you like you're speaking a foreign language - or worse, they don't look at you at all. And you pray: *How long, Lord? How long before they see?*
+
+Some of you are watching someone you love get torn apart in public, and you cannot tell yet whether the tearing is fair. You have seen the wicked surround the righteous - and from where you are standing, you cannot always tell which is which, or whether any of it will ever be made right. Habakkuk saw the same thing in his own day. He did not know how it was going to end either. His answer was not to pick a side before the evidence was in, and it was not to join the crowd with the torches. His answer was to plant his feet and take the whole mess to God and say: *You see this. How long?*
 
 Habakkuk 1:1-4 is for you. Not because it gives you an answer - it doesn't. Not yet. But because it gives you something almost as important: *permission.* Permission to say what you're actually feeling. Permission to bring the real thing - not the sanitized version, not the version that sounds spiritual enough for small group - but the raw, unfiltered truth of what it's like to live in a world where the wicked surround the righteous and justice goes forth perverted.
 
