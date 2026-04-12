@@ -51,7 +51,7 @@ The reforms didn't hold. The revival didn't last. And Habakkuk is watching the p
 
 That's the world this book is born in. A prophet who saw the best his nation could be, and then watched it unravel.
 
-And I want you to feel the weight of that, because some of you know what it's like. Some of you have watched a church come alive - watched people get baptized, watched marriages heal, watched kids come to faith - and then watched it fall apart. A pastor fell - or a pastor was accused of falling, and you don't know which, and the accusation alone was enough to empty the room. A split happened. The people scattered. The building emptied. And you're standing there asking the same question Habakkuk asked: *Was any of it real? Does God care that it's gone?*
+And I want you to feel the weight of that, because some of you know what it's like. Some of you have watched a church come alive - watched people get baptized, watched marriages heal, watched kids come to faith - and then watched it fall apart. A pastor fell - or a pastor was accused of falling, and you don't know which, and the accusation alone was enough to partially empty the room. A split happened. The people scattered. The building emptied. And you're standing there asking the same question Habakkuk asked: *Was any of it real? Does God care that it's gone?*
 
 Or maybe it's closer to home. You watched your family pull together after a crisis - everybody talking, everybody praying, everybody leaning on God - and then the crisis passed and everybody went back to their corners and the phones stopped ringing. The revival didn't last. And you carry that.
 
@@ -151,7 +151,7 @@ Habakkuk is describing a society where the structures that are supposed to restr
 
 And notice the progression in these four verses. Habakkuk starts with God's silence (v. 2), moves to God's apparent passivity (v. 3), and ends with the total failure of the institutions God established (v. 4). The law - God's law - is numb. The courts - which are supposed to reflect God's justice - are perverted. The prophet is watching the very structures God put in place to restrain evil fail at their purpose. That's not just a political problem. That's a covenant problem. That's the people of God betraying the tools God gave them.
 
-If that doesn't sound familiar, you're not paying attention. And I don't mean politically - I'm not talking about Washington, and neither is Habakkuk. I mean in your own life. In your workplace, where the person who cuts corners is the one who gets promoted. In the system that punishes you for telling the truth and rewards the one who massages it. In the family where the person doing the most damage is the person nobody confronts, because confronting them would be harder than enduring them.
+If that doesn't sound familiar, you're not paying attention. And I don't mean politically - I'm not talking about Washington, and neither is Habakkuk. I mean in your own life. In your workplace, where the person who cuts corners is the one who gets promoted. In the system that punishes you for telling the truth and rewards the one who massages it. In the family where the person doing the most damage is the person nobody confronts, because confronting them would be harder than enduring them. In the room where a name gets torn down faster than the truth can catch up.
 
 The law is paralyzed. Justice goes forth perverted. Habakkuk is watching it happen. God is watching it happen. And Habakkuk wants to know why God is only watching.
 
@@ -217,8 +217,6 @@ Some of you have a diagnosis that changed everything. You've been faithful. You'
 
 Some of you are pouring into a child or a grandchild who doesn't seem to be receiving any of it. You pray for them every single day. You show up. You speak truth into their lives. You drive across town to sit at their table. And they look at you like you're speaking a foreign language - or worse, they don't look at you at all. And you pray: *How long, Lord? How long before they see?*
 
-Some of you are watching someone you love get torn apart in public, and you cannot tell yet whether the tearing is fair. You have seen the wicked surround the righteous - and from where you are standing, you cannot always tell which is which, or whether any of it will ever be made right. Habakkuk saw the same thing in his own day. He did not know how it was going to end either. His answer was not to pick a side before the evidence was in, and it was not to join the crowd with the torches. His answer was to plant his feet and take the whole mess to God and say: *You see this. How long?*
-
 Habakkuk 1:1-4 is for you. Not because it gives you an answer - it doesn't. Not yet. But because it gives you something almost as important: *permission.* Permission to say what you're actually feeling. Permission to bring the real thing - not the sanitized version, not the version that sounds spiritual enough for small group - but the raw, unfiltered truth of what it's like to live in a world where the wicked surround the righteous and justice goes forth perverted.
 
 God can handle your honesty. He wrote a book about a man who screamed at Him, and He called it Scripture.
@@ -228,6 +226,8 @@ God can handle your honesty. He wrote a book about a man who screamed at Him, an
 But let me push back on something before we close, because this is important.
 
 Our culture has made a religion out of complaint. We complain about everything - all day, every day. Social media is a complaint machine. You scroll through grievances before breakfast, and by evening you're outraged about seventeen things you can't change and didn't know about twelve hours ago. We have professionalized grievance. We have made it content.
+
+And I have been grieved watching one particular version of it: how quickly people can become certain - and even celebratory - when accusations arise. That is not the spirit of Christ. We do not rejoice at the possibility of sin. We do not rush to judgment before the truth is in. And we certainly do not take pleasure in someone else's fall. Scripture calls us higher than that. We are not a people who rejoice at downfall, speculate without knowledge, or build narratives before the truth is established. We are a people who pray for justice, grieve the possibility of sin, protect the innocent, and wait for the truth with humility. So we pray. And we wait. We ask for justice for the innocent and for the truth to come to light. And we examine our own hearts, remembering how much grace we ourselves require. Be careful what spirit you join in moments like this.
 
 Habakkuk is not that.
 
