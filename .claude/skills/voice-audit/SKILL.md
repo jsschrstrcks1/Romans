@@ -55,6 +55,41 @@ Run this scan against any draft that has been written or edited with AI assistan
 - [ ] Paragraphs whose sentences all open the same way when the author's pattern uses varied openings
 - [ ] A section that feels "inserted" rather than grown from the surrounding argument
 
+### Announcement-before-move scan
+Search for sentences that narrate what the next sentence is about to do instead of making the move directly. These are throat-clearing sentences that pad the transitions.
+
+**Grep pattern** (run against the manuscript):
+```
+"I need to tell you|I want to tell you|I have to tell you|Let me tell you|Let me show you|Let me read you|Let me be clear|Let me push back|I want to say something|I need to say|I want you to (see|hear|feel|know|notice|understand)|I need you to (see|hear|feel|know|notice|understand)|And I'll tell you what|Hear me on .* because"
+```
+
+- [ ] Every hit is a presumptive flag
+- [ ] For each hit, ask: does this sentence announce a move, or make a move?
+- [ ] If announce — cut the sentence and start with the content
+- **Threshold:** Zero hits is the target. One or two in a sermon of 5,000+ words is acceptable if the sentence is doing genuine pastoral work. More than three means the draft is leaning on announcements instead of turns.
+
+### Image-density scan
+Count images, metaphors, and surprise phrases per paragraph in the application and climactic sections.
+
+- [ ] Zero images per paragraph — voice may be flat
+- [ ] One image per paragraph — sharp, keep it
+- [ ] Two images per paragraph — borderline, verify each does distinct work
+- [ ] Three or more images per paragraph — over-imagery, cut the most clever one and keep the most concrete
+- **Test:** If two images name the same thing, keep the more concrete one. The concrete image is what a person in the room writes. The abstract image is what a machine writes to sound like one.
+
+### Assumed-familiarity scan
+Search for claims about what the congregation has heard, remembers, or has been taught. Every hit must be verified against sermon-map or date-map.
+
+**Grep pattern** (run against the manuscript):
+```
+"many of you know|many of you remember|you know this|some of you remember|we preached|we spent|we talked about|as I've said|you've heard me|when we were in|you all know|thirty-nine weeks|[0-9]+ weeks"
+```
+
+- [ ] Every hit must be verified: does the referenced sermon exist, and did it actually develop the specific point being claimed?
+- [ ] If the sermon exists but didn't develop the claimed angle — rewrite to cite the passage directly without claiming shared memory
+- [ ] If the claim cannot be verified — cut it
+- **Default:** *"Psalm 42"* works as well as *"When we preached Psalm 42."* Congregation-history references are ornamental. When in doubt, leave them out.
+
 ---
 
 ## Voice Continuity Check

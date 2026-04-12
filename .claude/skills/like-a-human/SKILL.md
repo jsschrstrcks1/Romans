@@ -100,6 +100,80 @@ The pane is also smudged by perfection. AI writing is noticeable because it's to
 
 Replace only when clarity improves — not mechanically.
 
+### Announcement-Before-Move Tells
+
+A sentence that narrates what the next sentence is about to do, instead of just doing it. Always a throat-clear. Almost always deletable.
+
+**The fingerprint:**
+- A speaker verb: *tell, say, show, read, point out, push back, be clear*
+- A speaker reference: *I, me, let me, let's*
+- Usually followed by *because* + self-justification (*"because this matters," "because some of you need to hear it," "because it's going to shape what I say next"*)
+
+**Diagnostic rule:** Does the sentence announce a move, or make a move? If announce — cut. If make — keep.
+
+**Forbidden openings** (flag all of these at the start of a sentence or paragraph):
+- "I need to tell you..."
+- "I want to tell you..."
+- "I have to tell you..."
+- "Let me tell you / show you / read you..."
+- "Let me be clear about something..."
+- "Let me push back on something..."
+- "I want to say something about..."
+- "I need to say..."
+- "I want you to see / hear / feel / know / notice / understand..."
+- "I need you to see / hear / feel / know / notice / understand..."
+- "And I'll tell you what that means..."
+- "Hear me on [topic], because..." (*"hear me"* alone as a gear-shift is fine; adding *"because this matters"* makes it an announcement)
+
+**Forbidden justifying clauses** (flag when attached to any of the openings above):
+- "because this matters"
+- "because this is important"
+- "because it matters theologically"
+- "because some of you need to hear this"
+- "because the church has always been clear about it"
+- "because it's going to shape..."
+- "because I need to say it out loud"
+- "because this is pastoral before it is theological"
+
+**The positive rule:**
+
+Gear-shift markers are welcome. Announcements are not. The difference is length and content:
+
+- **Gear-shifts** (short, turn the direction, no justification): *"Now —"* *"But watch this."* *"Hear me:"* *"Here's the thing:"* *"And then Paul pivots."*
+- **Announcements** (longer, narrate the move, usually justified): *"And I want to tell you something, because this is going to shape everything."*
+
+Gear-shifts turn. Announcements narrate. **Keep the turns. Cut the narration.**
+
+**The fix is almost always deletion.** If you wrote *"And I want you to notice something about how Habakkuk does it. He does not complain about God. He complains to God,"* cut the first sentence and start with the second. The second sentence *is* the notice. It does not need to be announced.
+
+### Performing-the-Voice Tells
+
+AI imitates the preacher's voice by reaching for clever phrases — metaphors, surprise words, fingerprint-level imagery — when a plain word would serve better. The voice profile permits one or two surprise words per page. The failure mode is producing three to five per paragraph.
+
+**Diagnostic: count images per paragraph.**
+- Zero images per paragraph — voice is flat, consider adding one
+- One image per paragraph — voice is sharp, keep it
+- Two images per paragraph — borderline, verify each is doing distinct work
+- Three or more images per paragraph — over-imagery, cut the most clever one
+
+**Test for distinct work:** If two images in the same paragraph name the same thing (both describe the self-deluding Christian, both describe the failing body, both describe the lost soul), keep the more concrete one and cut the more abstract one. The concrete image is what a person who has been in the room writes. The abstract image is what a machine writes to sound like one.
+
+**Test for cleverness vs. truth:** Say the plain version out loud. Then say the surprising version out loud. If the plain version lands, keep it. If the surprising version earns its keep by doing work the plain version cannot, keep the surprise. When in doubt, plain wins.
+
+### The Safety Root Cause
+
+Every machine tell identified in this skill shares a root cause: writing for safety instead of truth.
+
+**Announcement-before-move** = I don't trust the next sentence to land without a setup.
+**Image stacking** = I don't trust one image to carry the weight.
+**Assumed familiarity** = I don't trust the point to have authority without a shared-history frame (see careful-not-clever for the verification rule).
+
+The diagnostic question before any transitional, imagistic, or congregational-history sentence: **Am I writing this because the sermon needs it, or because I am not confident the sermon works without it?**
+
+If the answer is confidence — cut. The sermon is not mine. The pulpit is not mine. The congregation is not mine. I am cleaning the glass, not carrying the weight. When in doubt, trust the next sentence. Trust the text. Trust the preacher. Produce less.
+
+**The positive rule: when the move is strong, it doesn't need a setup.** If the next sentence is doing real work — unpacking a verse, pressing the conscience, making a doctrinal claim — it will land on its own. The setup is a crutch the sentence doesn't need. Cut the crutch.
+
 ---
 
 ## Warmth (Measured)
