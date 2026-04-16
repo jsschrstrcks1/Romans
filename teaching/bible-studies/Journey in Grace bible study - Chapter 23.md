@@ -97,3 +97,23 @@ This is the High Priest who knows the end from the beginning. He knows Peter wil
 Christ's certainty about Peter's restoration does not cancel His prayer. The prayer is the means by which the certainty becomes real in Peter's life. If the High Priest of the New Covenant does not consider divine certainty a reason to skip prayer, neither should we.
 
 ⸻
+
+ACTS 4 — THE MOST SOVEREIGNTY-SATURATED PRAYER IN THE BIBLE
+
+Read Acts 4:23–31. Take it slowly.
+
+"When they were released, they went to their friends and reported what the chief priests and the elders had said to them. And when they heard it, they lifted their voices together to God and said, 'Sovereign Lord, who made the heaven and the earth and the sea and everything in them, who through the mouth of our father David, your servant, said by the Holy Spirit, "Why did the Gentiles rage, and the peoples plot in vain? The kings of the earth set themselves, and the rulers were gathered together, against the Lord and against his Anointed" — for truly in this city there were gathered together against your holy servant Jesus, whom you anointed, both Herod and Pontius Pilate, along with the Gentiles and the peoples of Israel, to do whatever your hand and your plan had predestined to take place. And now, Lord, look upon their threats and grant to your servants to continue to speak your word with all boldness, while you stretch out your hand to heal, and signs and wonders are performed through the name of your holy servant Jesus.' And when they had prayed, the place in which they were gathered together was shaken, and they were all filled with the Holy Spirit and continued to speak the word of God with boldness." (Acts 4:23–31, ESV)
+
+Read it again. Slowly.
+
+The early church begins with sovereignty: "Sovereign Lord, who made the heaven and the earth." They quote Psalm 2 — the kings of the earth raging against the Lord and His Anointed. They name the human actors who stood against Christ — Herod, Pilate, the Gentiles, the people of Israel.
+
+Then verse 28 lands like a hammer: they did "whatever your hand and your plan had predestined to take place." The cross was the most predestined event in human history. The early church says so directly.
+
+And what is the next thing they do? They ask. They petition God for boldness. They ask for signs to follow. They pray for the work of the gospel to go forward.
+
+This is the most sovereignty-saturated prayer in the New Testament. And it is not quiet. It is earnest. It shakes the building.
+
+If you have made sovereignty the reason for your prayerlessness, you have made it the opposite of what the early church made it. They prayed harder because they believed in sovereignty more, not less.
+
+⸻
