@@ -149,3 +149,19 @@ Elijah was not stronger than you. He was not more important than you. He was a m
 The James who wrote this letter believed firmly that every good gift comes down from the Father of lights (James 1:17). He knew God is sovereign over weather and over salvation. He nevertheless commands prayer that has great power as it is working.
 
 ⸻
+
+EZEKIEL 36 — GOD PROMISES, AND THEN COMMANDS HIS PEOPLE TO PRAY FOR WHAT HE PROMISED
+
+If a single passage in Scripture defines the relationship between God's decree and our prayer, it is this one. Read Ezekiel 36:36–37:
+
+"Then the nations that are left all around you shall know that I am the LORD; I have rebuilt the ruined places and replanted that which was desolate. I am the LORD; I have spoken, and I will do it. Thus says the Lord GOD: This also I will let the house of Israel ask me to do for them: to increase their people like a flock." (Ezekiel 36:36–37, ESV)
+
+Read verse 36 again. "I am the LORD; I have spoken, and I will do it." The matter is settled. The promise is unshakeable. God is going to rebuild, restore, and multiply His people.
+
+Now read verse 37. "This also I will let the house of Israel ask me to do for them." The very thing God has just declared He will certainly do — He now tells His people to ask Him to do. The asking is not added on top of the decree. The asking is part of how the decree unfolds.
+
+Stop and sit with that. God's ordained end is the restoration. God's ordained means is the asking. Both are from Him. Both are real. You cannot reach the end without walking through the means, because God has appointed the means no less than the end.
+
+This is the deepest biblical answer to Dr. Bloom's charge. Calvinism does not say, "God has decreed, therefore nothing else matters." Scripture's Calvinism says, "God has decreed — and He has decreed that prayer is how His decree gets worked out in the life of His people." To embrace the decree and despise the asking is to take the Bible in half.
+
+⸻
