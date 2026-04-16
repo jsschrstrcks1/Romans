@@ -117,3 +117,35 @@ This is the most sovereignty-saturated prayer in the New Testament. And it is no
 If you have made sovereignty the reason for your prayerlessness, you have made it the opposite of what the early church made it. They prayed harder because they believed in sovereignty more, not less.
 
 ⸻
+
+ROMANS 10:1 — PAUL PRAYS FOR THE LOST AFTER WRITING ROMANS 9
+
+The man who wrote the most thunderous chapter on election in the Bible is Paul. Romans 9 is unrelenting. The potter has the right over the clay. He has mercy on whom He has mercy. He hardens whom He hardens. Salvation depends not on human will or exertion, but on God who has mercy.
+
+Now read the very next words. Romans 10:1:
+
+"Brothers, my heart's desire and prayer to God for them is that they may be saved." (Romans 10:1, ESV)
+
+The same chapter division. The same letter. The same author. Paul has just argued for unconditional election as plainly as the Bible argues it anywhere — and his very next sentence is that he prays for the salvation of those who have not yet believed.
+
+He does not apologize for the prayer. He does not soften the doctrine. He holds them together, and he assumes you will too.
+
+If your doctrine of election keeps you from praying for the lost — for that brother, for that coworker, for that father who has not bowed the knee — your doctrine is not Paul's. Paul's doctrine put him on his knees. Yours should too.
+
+⸻
+
+JAMES 5 — A MAN WITH A NATURE LIKE OURS
+
+Read James 5:16–18:
+
+"Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working. Elijah was a man with a nature like ours, and he prayed fervently that it might not rain, and for three years and six months it did not rain on the earth. Then he prayed again, and heaven gave rain, and the earth bore its fruit." (James 5:16–18, ESV)
+
+Read the line again: "The prayer of a righteous person has great power as it is working."
+
+Not "as a sentimental gesture." Not "as a means of personal comfort." As it is working. The prayer is doing something. It is part of the working out of God's purpose.
+
+Elijah was not stronger than you. He was not more important than you. He was a man with a nature like ours. He prayed, and God held back the rain. He prayed again, and God sent it. James does not present this as an exception. He presents it as a pattern.
+
+The James who wrote this letter believed firmly that every good gift comes down from the Father of lights (James 1:17). He knew God is sovereign over weather and over salvation. He nevertheless commands prayer that has great power as it is working.
+
+⸻
