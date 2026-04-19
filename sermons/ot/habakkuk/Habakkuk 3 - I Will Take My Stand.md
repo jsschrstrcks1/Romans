@@ -169,6 +169,10 @@ That is the mark of mature faith. Immature faith either asks no questions - out 
 
 Some of you are very sure you are right about your situation. You have analyzed it. You have prayed about it. You have decided what God should do, and you are frustrated that He hasn't done it. Habakkuk would say: bring it all to the tower. Every analysis, every conviction, every complaint. Bring it. But hold it open. Because the God who is about to speak may not say what you expect. And if He corrects you, the correction is mercy - not punishment.
 
+Spurgeon read Habakkuk's watchtower exactly right: *"I shall look to God, and I shall also look to myself. There shall be an expectation as I gaze upward to my Lord, and there shall also be an examination as I look within at my empty, guilty, good-for-nothing self."*
+
+Expectation upward. Examination inward. That is the watchtower. Not one direction - both. The man who only looks up is sentimental. The man who only looks in is morbid. The man who does both - who expects God to speak and expects that he himself may need correcting - is the one who is actually ready to hear.
+
 ---
 
 Now - where does this leave us? What is the watchtower for us?
