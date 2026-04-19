@@ -3,9 +3,7 @@
 **Habakkuk Series: Faith in the Dark - Week 2 of 6**
 **April 26, 2026**
 **Text:** Habakkuk 1:5-11
-**Status:** Draft
-
----
+**Status:** Preached 4-19-26
 
 Last week we heard Habakkuk's cry. Four verses - the rawest prayer in the Old Testament. *How long, O Lord? Why do you make me see this? The law is paralyzed. Justice goes forth perverted.* A prophet on his knees, watching the people of God act as though God does not exist, and demanding that God do something about it.
 
@@ -17,7 +15,7 @@ God's answer is more terrifying than His silence. Some of you spent this past we
 
 That's where we are this morning. God opens His mouth. And everything gets harder.
 
----
+
 
 Open your Bibles to Habakkuk chapter 1. We're picking up at verse 5. Follow along as I read verses 5 through 11.
 
@@ -27,7 +25,7 @@ This is God's answer to Habakkuk's prayer.
 
 Let that sink in. Habakkuk prayed: *Why don't you do something about the evil in Judah?* God said: *I am. I'm sending the Babylonians.*
 
----
+
 
 Verse 5.
 
@@ -51,7 +49,7 @@ Some of you are living in the middle of a *"you would not believe if told"* seas
 
 And the hardest part is not the thing itself. The hardest part is that God is not surprised by it. He's not scrambling. He's not adjusting. He told Habakkuk: *I am doing a work.* Not: *A work is happening to you.* *I am doing it.* God is the subject of the verb. That changes everything - and we'll come back to it.
 
----
+
 
 Verse 6.
 
@@ -69,7 +67,7 @@ And God says: *I am raising them up.*
 
 That sentence should stop you cold. This is not God observing from a distance. This is God actively deploying a pagan, violent, idol-worshiping nation as His instrument. He is using the worst people on earth to accomplish His purposes among the best people on earth - or at least the people who were supposed to be the best. Judah had the covenant, the temple, the law, the prophets. Babylon had siege engines and cruelty. And God chose Babylon as His tool.
 
----
+
 
 Verses 7 through 10. God paints this portrait in detail.
 
@@ -99,7 +97,7 @@ Like sand. Not like prisoners of war with names and families and futures. Like s
 
 They are not impressed by your defenses. Your walls, your armies, your alliances, your treaties - they laugh at all of it. *They pile up earth and take it* - that's a siege ramp. They look at your fortress and they start shoveling dirt until they can walk over the top of your wall. It's not clever. It's not elegant. It's brute force applied until the obstacle is gone. And it works. Every time.
 
----
+
 
 Verse 11.
 
@@ -127,7 +125,7 @@ Listen to that carefully. God's counsel *extends itself* to sinful actions - not
 
 That is what Habakkuk 1:5-11 is teaching. God raises up the Chaldeans - that's sovereignty. The Chaldeans are guilty men whose own might is their god - that's human responsibility. And God is not apologizing for either half of the equation.
 
----
+
 
 This pattern is all over the Bible. Let me show you.
 
@@ -143,7 +141,7 @@ Or go further - to Isaiah 44 and 45, where God names Cyrus the Persian by name a
 
 And that leads us to the place where this doctrine reaches its fullest and most staggering expression.
 
----
+
 
 The cross.
 
@@ -163,7 +161,7 @@ If God can take the murder of His Son and turn it into the salvation of the worl
 
 Romans 8:28 - *"And we know that for those who love God all things work together for good, for those who are called according to his purpose."* All things. Not some things. Not the pleasant things. Not the things that make sense. All things. Including the Babylonian invasion. Including the cross. Including the thing in your life that you would not have believed if told.
 
----
+
 
 This doctrine can be mishandled, and when it is, it does damage.
 
@@ -183,7 +181,7 @@ Hebrews 12:11: *"For the moment all discipline seems painful rather than pleasan
 
 *Later.* Not now. Later. Right now it hurts. Right now it doesn't make sense. Right now it feels like God is using the worst possible instrument to do the worst possible thing to you. Welcome to Habakkuk 1:5-11. That's exactly what the prophet is hearing. And the prophet is about to argue back - that's next week. But the argument doesn't change the answer. The Babylonians are coming. And God is the one sending them.
 
----
+
 
 So what do you do with this? What do you do when God's answer to your prayer is harder than His silence?
 
@@ -203,7 +201,7 @@ And some of you have drifted. You know it. The faith that used to hold you has g
 
 The Babylonians didn't know they were serving God's purposes. You do. That's the difference. You have the privilege of being a conscious instrument in the hand of a sovereign God. Handle it with fear. Handle it with humility. Handle it with kindness. But handle it - because the alternative is to refuse the assignment, and that is a worse kind of unfaithfulness.
 
----
+
 
 If you are here this morning and you do not know Christ, I want to be direct with you.
 
@@ -221,7 +219,7 @@ Romans 10:9 - *"If you confess with your mouth that Jesus is Lord and believe in
 
 Come talk to me after the service. The door is open.
 
----
+
 
 We're two weeks into this series. Habakkuk has cried out, and God has answered, and the answer is terrifying. Next week, Habakkuk fires back. He has a second complaint - and it's sharper than the first. He says, in effect: *God, I know You're holy. I know You're sovereign. But how can You use people who are worse than us to judge us? How can Your solution to injustice be more injustice?*
 
