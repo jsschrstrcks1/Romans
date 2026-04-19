@@ -55,6 +55,8 @@ And then, embedded inside the complaint, a confession: *"We shall not die."*
 
 That sentence is not optimism. It is covenant logic. Habakkuk reasons backward from God's character to a conclusion: if God is faithful, if God is the Rock, if God made promises to Abraham and David - then He will not let His people be utterly destroyed. Babylon may come. The invasion may be devastating. But extinction is off the table. God's covenant holds.
 
+This is the covenant logic that runs through the whole Bible. God bound Himself to Abraham by His own name. He promised David a house that would stand. He sealed a new covenant in the blood of His own Son and promised that none whom the Father gave Him would be lost. When God enters covenant, He does not break it. That is bedrock - and it is what Habakkuk is standing on when he says *"We shall not die."*
+
 Jeremiah is going to say the same thing from inside the rubble of Jerusalem that Habakkuk says here before the rubble comes. Lamentations 3:22-23: *"The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness."* One prophet writes it in anticipation. The other writes it in the ashes. Both stand on the same ground: God's faithfulness outlasts the worst thing that happens to His people.
 
 ---
@@ -65,7 +67,7 @@ Verse 13.
 
 This is the sharpest question in the book. Sharper than *"How long?"* in verse 2. Sharper than anything in chapter 1. Habakkuk uses God's own holiness as the basis for his complaint against God. You are too pure to look at evil - so why are You looking at this? You cannot tolerate wrong - so why are You tolerating the Babylonians swallowing up people who are, at least comparatively, more righteous than they are?
 
-The Nelson Study Bible puts it plainly: *"Habakkuk's point seems to be that God's holiness should have prohibited Him from using a 'dirty' instrument like Babylon to accomplish His purposes."*
+The Nelson Study Bible puts it plainly: *"Habakkuk's point seems to be that God's holiness should have prohibited Him from using a 'dirty' instrument like Babylon to accomplish His purposes in judging and reproving His own people."*
 
 Feel the weight of that. Habakkuk is not asking a casual question. He is pressing God's character against God's actions and saying: these two things do not fit. You are holy. They are not. And You are using them against us. Explain Yourself.
 
@@ -97,6 +99,8 @@ The fisherman who worships his net has forgotten who filled the sea.
 
 And it happens in individual lives too. You build a career and worship the career. You build a family and worship the family. You build a reputation and worship the reputation. You build a ministry and worship the ministry. The net is whatever you made with your own hands that you now cannot imagine living without. The moment you sacrifice to it - the moment it becomes the thing you cannot lose, the thing you protect at all costs, the thing that defines you - you have made offerings to your dragnet. And you have forgotten the God who gave you the sea.
 
+Some of you know exactly what your net is. You felt something tighten in your chest when I named it - the job, the child who won't speak to you, the reputation that took the hit, the ministry that didn't grow the way you wanted it to. That tightening is the sound of the altar. You have been burning incense to the net without knowing it. And the God who filled the sea is waiting to take back His place on the throne.
+
 ---
 
 Verse 17.
@@ -105,7 +109,7 @@ Verse 17.
 
 This is how the complaint ends. Not with an answer. With a question. Habakkuk does not resolve the tension. He does not construct a theodicy. He does not write a philosophical treatise on the problem of evil. He asks the question - and then he does something else entirely.
 
-That matters. Some questions are not ours to answer. Some tensions are not ours to resolve. Some mysteries are meant to be carried, not solved. The person who demands an explanation before they will trust God has put their understanding above God's character. The person who says *"I will not believe until I can explain"* has made their own intellect the judge of the Almighty. Habakkuk does not do that. He asks the question. He feels the full weight of it. And then he turns.
+That matters. Some questions are not ours to answer. Some tensions are not ours to resolve. Some mysteries are meant to be carried, not solved. The person who demands an explanation before they will trust God has put their understanding above God's character. The person who says *"I will not believe until I can explain"* has made their own intellect the judge of the Almighty. Habakkuk does not do that. He asks the question. He feels the full weight of it. And then - with no answer on the horizon, no guarantee that one is coming, no way to know whether God will speak at all - he turns.
 
 Adrian Rogers said it well: *"Faith doesn't live by explanations, but by promises."*
 
@@ -185,9 +189,13 @@ The watchtower is the Word. It is the Scriptures, opened on your kitchen table o
 
 Taking your stand at the watchtower is not mystical. It is concrete. It means: do not abandon the means of grace when God is silent. Stay in the Word. Stay in the church. Stay at the Table. Stay under the preaching. Stay at your post. Because that is where God has promised to meet His people - and He keeps His promises.
 
+Some of you used to be at the post. You were here every Sunday. You opened the Word in the morning. You prayed with your family. Something happened, and you stopped - not dramatically, but quietly. The drift was so slow you barely noticed. 2:1 is a call back. The tower is still standing. Come back to your post.
+
 Paul told Timothy the same thing: *"All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work"* (2 Timothy 3:16-17). Teaching. Reproof. Correction. Training. That is what happens on the watchtower. The Word teaches us what is true. The Word reproves us where we are wrong. The Word corrects our course. The Word trains us for the road ahead. And none of that happens if we leave the tower.
 
 ---
+
+Now hear me.
 
 There was One who stood where Habakkuk stood - but with infinitely more at stake.
 
@@ -197,7 +205,11 @@ Hear that. Jesus brought the complaint. *If it be possible, let this cup pass.* 
 
 And then He took His stand. *Not as I will, but as you will.* He did not come down from the cross when they mocked Him. He did not summon twelve legions of angels when the nails went in. He stayed at His post. He held the line. He endured the silence of heaven - *"My God, my God, why have you forsaken me?"* - and He did not abandon the mission.
 
-And on the cross, the very thing Habakkuk could not understand was answered. How can a holy God use unholy instruments? Look at Calvary. Wicked men drove the nails. Sovereign God made the plan. And out of the worst evil the world has ever seen, God brought the greatest good the world will ever know.
+And then it was finished.
+
+On the cross, the very thing Habakkuk could not understand was answered. How can a holy God use unholy instruments? Look at Calvary. Wicked men drove the nails. Sovereign God made the plan. God used the most unjust act in history to accomplish the most just purpose in eternity.
+
+And the cross was not only sovereignty over evil. It was substitution. He took the wrath we had earned. Our sin was laid on Him. His righteousness was credited to us. This is the heart of the gospel - not that God overlooked our rebellion but that He punished it in His Son so He could pardon us.
 
 Peter says it in his first letter: *"When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly. He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed"* (1 Peter 2:23-24).
 
