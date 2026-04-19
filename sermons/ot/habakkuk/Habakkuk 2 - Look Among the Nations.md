@@ -13,7 +13,7 @@ We said something important last week. We said that lament is not a failure of f
 
 This week, God answers.
 
-And I want to warn you before we read it: God's answer is more terrifying than His silence. Some of you spent this past week wishing God would speak into your situation - wishing He would break through, do something, move. Be careful what you ask for. Habakkuk asked God to act, and God told him what He was about to do, and it was worse than anything Habakkuk had imagined. Sometimes the silence is easier than the answer. Sometimes you pray for God to move and then God tells you how He's going to move and you wish you could take the prayer back.
+God's answer is more terrifying than His silence. Some of you spent this past week wishing God would speak into your situation - wishing He would break through, do something, move. Be careful what you ask for. Habakkuk asked God to act, and God told him what He was about to do, and it was worse than anything Habakkuk had imagined. Sometimes the silence is easier than the answer. Sometimes you pray for God to move and then God tells you how He's going to move and you wish you could take the prayer back.
 
 That's where we are this morning. God opens His mouth. And everything gets harder.
 
@@ -71,7 +71,7 @@ That sentence should stop you cold. This is not God observing from a distance. T
 
 ---
 
-Verses 7 through 10. Let me walk through this portrait, because God paints it in detail.
+Verses 7 through 10. God paints this portrait in detail.
 
 *"They are dreaded and fearsome; their justice and dignity go forth from themselves."*
 
@@ -121,7 +121,7 @@ God is sovereign over them. And they are responsible for what they do. Both. At 
 
 This is the doctrine that our confession states plainly. The 1689 London Baptist Confession, chapter 5, paragraph 4:
 
-*"The almighty power, unsearchable wisdom, and infinite goodness of God so far manifest themselves in His providence that His determinate counsel extends itself even to the first fall, and all other sinful actions both of angels and men; and that not by a bare permission, but such as has joined with it a most wise and powerful bounding, and otherwise ordering and governing of them, in a manifold dispensation to His most holy ends; yet so, as the sinfulness of their acts proceeds only from the creatures, and not from God, who being most holy and righteous, neither is nor can be the author or approver of sin."*
+*"The almighty power, unsearchable wisdom, and infinite goodness of God, so far manifest themselves in his providence, that his determinate counsel extendeth itself even to the first Fall, and all other sinful actions both of angels and men; and that not by a bare permission, which also he most wisely and powerfully boundeth, and otherwise ordereth and governeth, in a manifold dispensation, to his most holy ends; yet so, as the sinfulness of their acts proceedeth only from the creatures, and not from God; who being most holy and righteous, neither is nor can be the author or approver of sin."*
 
 Listen to that carefully. God's counsel *extends itself* to sinful actions - not by bare permission, not by stepping aside and letting it happen, but by *ordering and governing them to His most holy ends.* And yet the sinfulness *proceeds only from the creatures, and not from God.* God is sovereign over the sin. The sinner is responsible for the sin. God is not the author of evil. The creature is. Both statements are true. Both must be held.
 
@@ -139,7 +139,7 @@ That's what's happening in Habakkuk. God is using the Babylonians the way He use
 
 Or go to Isaiah 10. God calls Assyria *"the rod of my anger"* - He sends Assyria against Israel as an instrument of judgment. But then God turns around and says: *"Shall the axe boast over him who hews with it, or the saw magnify itself against him who wields it?"* (Isaiah 10:15). God used Assyria. But Assyria had its own wicked motives, and God held them accountable for those motives.
 
-Or go further - to Isaiah 44 and 45. God names Cyrus, the Persian king, by name - a century before Cyrus is born - and calls him *"my shepherd"* and *"my anointed."* A pagan king. A man who did not know the God of Israel. And God says: *I will use him to rebuild my city and set my exiles free.* God uses pagan kings like tools in a carpenter's hand. The tool doesn't know the carpenter's plan. The tool doesn't have to be righteous to be useful. It just has to be where the carpenter puts it.
+Or go further - to Isaiah 44 and 45, where God names Cyrus the Persian by name a century before he's born and calls a pagan king *"my shepherd"* and *"my anointed."* The tool doesn't know the carpenter's plan. It just has to be where the carpenter puts it.
 
 And that leads us to the place where this doctrine reaches its fullest and most staggering expression.
 
@@ -165,19 +165,19 @@ Romans 8:28 - *"And we know that for those who love God all things work together
 
 ---
 
-But I want to be careful here, because this doctrine can be mishandled, and when it is, it does damage.
+This doctrine can be mishandled, and when it is, it does damage.
 
 This is not a doctrine you throw at someone who is bleeding. You don't walk up to a person in the wreckage of their life and say *"God is sovereign, cheer up."* That's not pastoral care. That's cruelty with a Bible verse attached. David Platt said something I've been thinking about all week: *"Short-term circumstances provide a poor measurement of the long-term character of God."* That's right. But you have to let people live in the short-term before you hand them the long-term. Habakkuk is going to get to *"Yet I will rejoice in the LORD"* by the end of this book. But he's not there yet. He's in chapter 1. And so are some of you.
 
 The doctrine of God's sovereignty over evil is the ground you stand on. It is not a club you swing at the hurting. It's not a slogan. It's not a bumper sticker. It is a reality that holds you up when the floor drops out - but only if you learned to stand on it before the floor dropped. That's why we preach it now. Not because it solves your problem this week. Because it will hold you when the problem comes that you can't solve.
 
-And let me say one more thing about how God uses hard providences, because the Bible draws a line here that matters.
+The Bible draws a line here that matters.
 
 Hebrews 12:5-6: *"My son, do not regard lightly the discipline of the Lord, nor be weary when reproved by him. For the Lord disciplines the one he loves, and chastises every son whom he receives."*
 
 There is a difference between discipline and wrath. Discipline is what a father does to a child he loves. Wrath is what a judge does to a criminal he condemns. They look similar from the outside. Both hurt. Both involve suffering. But they come from different places and they go to different ends. Discipline is corrective - it aims at restoration. Wrath is punitive - it aims at justice. Discipline says: *I love you too much to leave you where you are.* Wrath says: *You have earned what is coming.*
 
-In Habakkuk, Judah receives discipline. The Babylonians bring it - but God sends it, and He sends it because He loves His people and will not let them stay in their sin. The Babylonians themselves will receive wrath. God will hold Babylon accountable for every cruelty, every atrocity, every captive gathered like sand. That's what the five woes in chapter 2 are about - we'll get there in a few weeks. But the point for this morning is: if you belong to God, the hard thing in your life is not wrath. It is discipline. And discipline, however painful, is proof that you are His child, not evidence that He has abandoned you.
+In Habakkuk, Judah receives discipline. The Babylonians bring it - but God sends it, and He sends it because He loves His people and will not let them stay in their sin. The Babylonians themselves will receive wrath. God will hold Babylon accountable for every cruelty, every atrocity, every captive gathered like sand. That's what the five woes in chapter 2 are about - we'll get there in a few weeks. But the point for this morning is: if you belong to God, the hard thing in your life is not wrath. It is discipline. The reason is the cross. The wrath your sin deserved was already spent - on Christ, in your place, at Calvary. There is no wrath left for those who are in Him. What remains is a Father who loves you too much to leave you where you are. And discipline, however painful, is proof that you are His child, not evidence that He has abandoned you.
 
 Hebrews 12:11: *"For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it."*
 
@@ -198,6 +198,8 @@ Second - some of you are watching someone else go through it. You're watching a 
 Third - some of you are the Babylonians.
 
 I don't mean that the way it sounds. I mean: some of you are being used by God in someone else's story, and you don't know it. You're the boss who had to deliver the hard news. You're the doctor who had to read the results. You're the friend who had to say the thing nobody wanted to hear. You're the parent who had to set the boundary that your child hates you for. And you feel guilty about it - or at least conflicted. You didn't want to be the instrument of someone's pain. But sometimes God puts you in that position. The question is not whether you can avoid being used. The question is whether you will be faithful in how you're used - and whether you will trust that God's purposes are bigger than your discomfort.
+
+And some of you have drifted. You know it. The faith that used to hold you has gone slack, and you've been coasting. If God is doing a work in your days, maybe this is it - not punishment, but a Father pulling His child back.
 
 The Babylonians didn't know they were serving God's purposes. You do. That's the difference. You have the privilege of being a conscious instrument in the hand of a sovereign God. Handle it with fear. Handle it with humility. Handle it with kindness. But handle it - because the alternative is to refuse the assignment, and that is a worse kind of unfaithfulness.
 
