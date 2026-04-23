@@ -48,54 +48,230 @@ Tonight the question goes further. If God has a specific people, is He also work
 
 The answer Scripture gives is stark. Yes. God is keeping count. And the end comes when the count is full.
 
-That sentence sounds cold on first hearing. It is not. By the time we are done, you will hear why it is the most pastoral thing the New Testament says about the delay you are living inside.
-
 ⸻
 
 THE ANCHOR TEXT — REVELATION 6:9–11
 
-Read it aloud. Slowly. Do not comment yet. Just read.
+Read it aloud. Slowly.
 
 "When he opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of God and for the witness they had borne. They cried out with a loud voice, 'O Sovereign Lord, holy and true, how long before you will judge and avenge our blood on those who dwell on the earth?' Then they were each given a white robe and told to rest a little longer, until the number of their fellow servants and their brothers should be complete, who were to be killed as they themselves had been." (Revelation 6:9–11, ESV)
 
-Four things to see in this passage. That is all we are going to work here. No charts. No speculation.
+Four things to see. No charts. No speculation.
 
-First — who is speaking. The souls under the altar are Christians who died for the faith. That is what the text says: slain for the word of God and for the witness they had borne. They are not abstractions. They are men and women who loved Christ, held the word, and paid with their lives.
+First — who is speaking. The souls under the altar are Christians who gave their lives for the faith. Slain for the word of God and for the witness they had borne.
 
-Second — what they say. They cry out to God. Not to an idea about God. To God Himself — Sovereign Lord, holy and true. And they ask the oldest question the Bible contains. Read Psalm 13:1:
+Second — what they say. They cry out to God — Sovereign Lord, holy and true. And they ask the oldest question the Bible contains:
 
-"How long, O LORD? Will you forget me forever? How long will you hide your face from me?" (Psalm 13:1, ESV)
+"How long, O LORD? Will you forget me forever?" (Psalm 13:1, ESV)
 
-The martyrs are praying the Psalms. They do not need a new prayer for the new situation. The Psalter already gave them the words. How long. It is the cry of a saint who trusts God and is tired of waiting.
+The martyrs are praying the Psalms. How long. The cry of a saint who trusts God and is tired of waiting. If glorified saints can ask, unglorified ones certainly can.
 
-Sit with that for a moment. These are glorified saints. They are already with the Lord. And they are still asking how long. If glorified saints can ask, unglorified ones certainly can. The question is not a failure of faith. It is the language of faith under pressure.
+Third — the answer they receive. White robes — completed righteousness. And they are told to rest a little longer. Not told they are wrong to ask. Told to rest. The verb is the verb of Sabbath.
 
-Third — the answer they receive. Two things are given to them. They are given white robes — the imagery of the New Testament for completed righteousness, the clothing of the bride, the garments of those who have come through the tribulation. And they are told to rest a little longer.
+Fourth — what they are told to wait for:
 
-Not told they are wrong to ask. Not told the question is unworthy. Told to rest. The verb there is the verb of Sabbath. They have permission to stop asking for a while and simply rest, because the answer is coming. Not yet. But it is coming.
+"...until the number of their fellow servants and their brothers should be complete."
 
-Fourth — what they are told to wait for. This is the sentence that matters for tonight:
-
-"...until the number of their fellow servants and their brothers should be complete, who were to be killed as they themselves had been."
-
-A number. A specific, definite, knowable-to-God number of fellow servants and brothers who will be killed. When that number is complete, the waiting ends. Until that number is complete, the waiting continues.
-
-That is the sentence. That is the subject of tonight.
+A number. Specific. Definite. Knowable to God. When that number is complete, the waiting ends.
 
 ⸻
 
 WHAT THE SENTENCE DOES NOT MEAN
 
-Before we go anywhere else, rule out what it does not mean.
+It does not mean God is indifferent to the suffering church. The white robe is given before the waiting is over.
 
-It does not mean God is indifferent to the suffering church. The white robe is given before the waiting is over. God is already acting. The question is not whether He cares — the question is the pace.
+It does not mean martyrdom is a quota God is filling for its own sake.
 
-It does not mean martyrdom is a quota God is filling for its own sake. The text does not say God wants more martyrs. It says there will be more martyrs — that is the world the church lives in — and that when the count of them is full, the vindication comes.
+It does not mean we know the number. We do not. Anyone who tells you they know is telling you something Scripture did not.
 
-It does not mean we know the number. We do not. The text does not give it. Anyone who tells you they know is telling you something Scripture did not.
+It does not give us a date. It only tells us there is a measure, and when the measure is full, the end comes.
 
-It does not give us a date. It does not give us a calendar. It does not tell us we are close or far. It only tells us there is a measure, and when the measure is full, the end comes.
-
-That is all we are going to say about Revelation 6. That is enough. The same thing the rest of the Bible says.
+That is all we are going to say about Revelation 6. That is enough.
 
 ⸻
+
+THE PATTERN IN OTHER WITNESSES
+
+Six passages outside Revelation say the same thing.
+
+1. Romans 11:25 — "until the fullness of the Gentiles has come in"
+
+"Lest you be wise in your own sight, I do not want you to be unaware of this mystery, brothers: a partial hardening has come upon Israel, until the fullness of the Gentiles has come in." (Romans 11:25, ESV)
+
+Three words: until, fullness, come in. Israel's hardening has a terminus. That terminus is the fullness of the Gentiles. Same pattern. Same shape.
+
+2. Hebrews 11:39–40 — "apart from us they should not be made perfect"
+
+"And all these, though commended through their faith, did not receive what was promised, since God had provided something better for us, that apart from us they should not be made perfect." (Hebrews 11:39–40, ESV)
+
+Abel. Enoch. Noah. Abraham. Moses. The prophets. They did not receive the promise. Without us they are not made perfect. The Old Testament saints are waiting for us. One people, across the ages, made perfect together. Abel is waiting on you.
+
+3. John 10:16 — "I must bring them also"
+
+"And I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd." (John 10:16, ESV)
+
+Mark the word must. The sheep are not anonymous to Him. He will not leave the fold incomplete.
+
+4. Acts 13:48 — "as many as were appointed"
+
+"And when the Gentiles heard this, they began rejoicing and glorifying the word of the Lord, and as many as were appointed to eternal life believed." (Acts 13:48, ESV)
+
+Not as many as decided. As many as were appointed. The believing matches a prior appointment. God is keeping count.
+
+5. 2 Peter 3:9 — "not wishing that any should perish"
+
+"The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance." (2 Peter 3:9, ESV)
+
+The delay is patience. The patience is toward you — the people of God being gathered. Why is Christ not back yet? Because there are still sheep to be brought in. The clock is slow because the count is not full.
+
+6. Matthew 24:14 — "and then the end will come"
+
+"And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come." (Matthew 24:14, ESV)
+
+The gospel to every nation. Then the end. Seven passages. One pattern. God is working to a known measure.
+
+⸻
+
+GOD'S OWN WAITING
+
+There is another angle the six witnesses do not quite say. Read Isaiah 30:18:
+
+"Therefore the LORD waits to be gracious to you, and therefore he exalts himself to show mercy to you. For the LORD is a God of justice; blessed are all those who wait for him." (Isaiah 30:18, ESV)
+
+"The LORD waits to be gracious to you." God Himself waits. The wait you are living inside is not only yours. It is His. He is waiting too — waiting to be gracious at the moment His justice has appointed.
+
+"Blessed are all those who wait for him." The blessing is in the waiting itself — because the waiting is where faith is forged.
+
+Read Lamentations 3:25–26:
+
+"The LORD is good to those who wait for him, to the soul who seeks him. It is good that one should wait quietly for the salvation of the LORD." (Lamentations 3:25–26, ESV)
+
+Jeremiah wrote this in the ashes of Jerusalem. Not necessary. Not unavoidable. Good. The waiting itself is good, because the God you are waiting on is good.
+
+⸻
+
+THE MIRROR ON THE JUDGMENT SIDE
+
+The same God who measures the ingathering measures the judgment.
+
+Genesis 15:16:
+
+"And they shall come back here in the fourth generation, for the iniquity of the Amorites is not yet complete." (Genesis 15:16, ESV)
+
+The Amorites are not yet ripe for judgment. God is waiting.
+
+Matthew 23:32:
+
+"Fill up, then, the measure of your fathers." (Matthew 23:32, ESV)
+
+The measure of wickedness is counted — and when it is complete, the judgment comes.
+
+God is not only counting the faithful. He is also counting the unfaithful. He will not judge a day early, and He will not save a soul late.
+
+⸻
+
+THE SYNTHESIS
+
+Nine passages. Seven on the ingathering side. Two on the judgment side. One pattern.
+
+God works to a known measure.
+
+The salvation of God's people has a terminus — the fullness of the Gentiles, the number of their fellow servants, one flock, as many as were appointed, all who should reach repentance, every nation as a testimony, apart from us they should not be made perfect. The gathering has an end. That end comes when the measure is full.
+
+The judgment of God on evil has a terminus too — the iniquity is not yet complete, fill up the measure of your fathers. The patience is real. The reckoning is exact.
+
+That is the shape of history. A measure being filled, in patience, by the God who is tracking every soul and bringing the whole story to the moment He has appointed.
+
+⸻
+
+THE CROSS BENEATH THE COUNT
+
+But behind the count is the cross. The roster is real only because the blood was real. Every name on the list — every soul under the altar, every Gentile in the fullness, every sheep of the other fold, every one appointed to eternal life — was purchased at Calvary. The count that finishes the world is a count of people for whom Christ died.
+
+Remove the cross and the roster is empty. The measure being filled is the fruit of the atonement we studied in Chapters 20 through 22 — a particular redemption, applied to a particular people, across a particular timeline that ends when the last purchased soul comes in. The Lamb who was slain is the Lamb who holds the scroll and opens the seals. The cross is not background music to the count. It is the ground the count stands on.
+
+⸻
+
+WHAT THIS MEANS FOR EVERY MAN IN THIS ROOM
+
+The root under every application tonight is the same: impatience with the providence of God is a form of functional unbelief. It takes four shapes in this room.
+
+When you are suffering. The martyrs are in glory and they are still asking how long. That question is not unbelief. You can pray it. You should pray it. But read what happens — white robes and rest. The delay is not abandonment. The delay is the hour God has appointed.
+
+When you are on mission and tired of it. Every gospel conversation is part of the measure being filled. Not every conversation ends in conversion. But every conversation is part of the work that is bringing history to its close. Do not stop. You are part of the count filling up.
+
+When you are weary of God's pace. Isaiah 30:18 says the LORD waits to be gracious. Lamentations 3:26 says it is good to wait quietly. Hebrews 11:40 says Abel himself is waiting — the patriarchs are in the waiting room with you.
+
+When the wicked seem to win. Genesis 15:16 is your answer. The iniquity is not yet complete. The measure is being filled, and when it is complete, the judgment will come. God is counting. That means you can sleep.
+
+⸻
+
+THEREFORE — PRAYER AND PREACHING ARE HOW THE COUNT FILLS UP
+
+The count that finishes the world is being filled through the prayers and the preaching of God's people. Christ said the gospel will be preached to every nation and then the end will come. Peter said the delay is patience toward you. The end of history is tethered to the ordinary work of the church — pray, go, speak, send.
+
+Your prayer list matters because the count is real. Your gospel conversation matters because the count is real. These are the appointed means by which the Lord is bringing the age to its close.
+
+⸻
+
+THE GOSPEL CALL
+
+If you are a man in this room who has not come to Christ, God is keeping a count. That count is made up of names. Acts 13:48 says those appointed to eternal life believed — and the believing is the evidence of the appointing. The man who comes is the man who was called.
+
+If something in the reading has leaned on you tonight, do not wait. The delay that gave you your years of life was patience toward you. Turn to Christ tonight. Tell one of the brothers before you leave. The count that finishes the world does not have to finish without you in it.
+
+⸻
+
+GROUP DISCUSSION
+
+* For the suffering man. Read Revelation 6:9–11 again. What permission does the martyrs' "how long" give you that you have not given yourself?
+
+* For the tired evangelist. Read Matthew 24:14 and 2 Peter 3:9 together. What would change if you believed every gospel conversation was part of the work that brings history to its close?
+
+* For the weary saint. Read Romans 11:25 slowly. What in your life have you written off as permanent that Scripture calls temporary? And read Hebrews 11:39–40 — Abel is waiting on you. What does it change to know you are not alone in the waiting?
+
+* For the angry man. Read Genesis 15:16 and Matthew 23:32. What revenge are you still carrying that God has promised to handle — exactly, in His time — if you will let it go?
+
+* For every man. Read Hebrews 11:39–40. What does it change in your week to know that you are part of the one people being made perfect together with Abel and Abraham and the prophets?
+
+* For the man who has not yet come. Ask him directly — gently — is there anything tonight that has shown you your own need for Christ?
+
+⸻
+
+CLOSING REFLECTION
+
+The Bible does not treat history as a long stretch of indifferent time. It treats history as a measure being filled. Nine passages. One pattern. God works to a known measure.
+
+The end will come when the count is full. Until then, the saints suffer and pray and go. The martyrs wait in white robes. And Christ — who owns the count — is patient toward His own.
+
+⸻
+
+PRAYER FOCUS
+
+"Lord, You are counting. You know every sheep You are bringing in. You know every nation that has not yet heard. Teach us to live inside Your measure — not hurrying You, not doubting You, but praying and preaching and going while the count fills up. And where any man in this room has not yet turned to Christ, draw him tonight — and let the count be one man fuller when we walk out this door."
+
+⸻
+
+FINAL GROUP PRAYER
+
+"Sovereign Lord, holy and true —
+the same words the martyrs prayed, we pray tonight.
+You have counted our days before one of them was.
+You have counted the sheep You will bring in.
+You have counted the nations that will hear the gospel, and not one will be missed.
+We have tried to rush You, and we have tried to doubt You, and we have tried to build charts that You never gave us.
+Forgive us for all of it.
+Make us men who rest in Your measure —
+who grieve honestly, who pray boldly, who go faithfully, who wait without fear.
+Fill the count, Lord.
+And if You are not yet done with the patience that saved us,
+let some of that patience run through our lips this week
+to the family, the neighbor, the stranger You have sent us to.
+We ask in the name of the Lamb who was slain,
+who holds the scroll, who opens the seals,
+who is coming — when the count is full.
+Amen."
+
+⸻
+
+Next session: we return to Belcher.
