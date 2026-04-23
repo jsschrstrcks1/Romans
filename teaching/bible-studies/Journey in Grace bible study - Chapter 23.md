@@ -4,7 +4,7 @@ A Journey in Grace – Richard Belcher
 
 Chapter 23
 
-Grace in Practice — Does Calvinism Kill Prayer? Is It the Church's Cure-All?
+How Long, O Sovereign Lord? — Prayer, Patience, and the God Who Has Not Forgotten
 
 A Reformed Baptist Study for Men Walking in Truth and Grace
 
@@ -12,371 +12,124 @@ A Reformed Baptist Study for Men Walking in Truth and Grace
 
 LEADER'S NOTE
 
-This is the chapter where the doctrine has to walk on two legs.
+Last week we resolved the hardest exegetical challenge in the atonement debate — the nine passages that use "world" and "all." We landed where Scripture lands: the cross is globally broad and particularly certain.
 
-For two months we have been laying down what the Bible says about God — that He is sovereign, that election is His, that the cross actually accomplished salvation for His people. Tonight the question turns. Now that we have the doctrine, what does it actually do? Does it make us less prayerful, or more? Does it make us better preachers and better hearers, or does it just make us better at theological arguments?
+Tonight we do not re-argue sovereignty and prayer. The men have heard that case. Tonight we go somewhere the series has not gone. We sit under Revelation 6:9–11 and ask: what does prayer look like when the answer is "wait"?
 
-There are likely two kinds of men in the room. One kind has quietly let his prayer life thin out as his theology has matured. The other kind has begun to treat his theology as a substitute for the work of ministry. Both errors are in the room. The chapter addresses both.
+Every man in this room is waiting on God for something. An unsaved wife. A prodigal son. A vocational decision that will not clarify. A body that will not heal. A church that will not grow. A sin that will not loosen its grip.
 
-Keep the men in the text. Open every Scripture aloud.
+The martyred saints under the altar in Revelation 6 are waiting too. They pray. God hears. And God says: not yet. Rest a little longer. The number is not yet complete.
+
+That is tonight's study. Not whether God hears prayer — we have settled that. But what a man does when God hears and says wait.
 
 ⸻
 
 What We've Covered So Far
 
-Chapters 20 through 22 settled the question of the cross. Christ's atoning work was not an attempt or an offer. It was an accomplishment for a particular people, drawn from every nation, secured fully at Calvary.
+Chapters 20 through 22 completed the case for particular redemption. Christ's cross accomplished salvation for His people — drawn from every tribe, tongue, people, and nation. The universal passages were answered honestly. The atonement is globally vast and personally certain.
 
-That is the doctrine. Tonight we ask whether it actually works in the life of a man and the life of a church.
+In the story, Ira has just received an unexpected, unanimous call from First Baptist Church. Dr. Bloom is in the hospital. The question of God's timing and God's direction is pressing on Ira from every side. He asked the chairman for time to pray. The chairman told him to take as long as he needed.
+
+That is where we pick up. A man who believes in sovereignty — waiting on the sovereign God to make His will known.
 
 ⸻
 
 The Book's Story (Brief)
 
-Ira receives a unanimous call from First Baptist Church. Dr. Bloom, who had publicly opposed the call that morning, was taken to the hospital with a heart attack hours before the vote. On Monday Ira visits him; Dr. Bloom answers, "When a man is a Calvinist, like you are, Pointer, everything is predestined anyway. I don't see what stock you can put in prayer." That sentence is the question for Part 1.
+Ira has a decision to make and no clarity yet. First Baptist has called him unanimously. Lime Creek is the church he loves. Dr. Bloom, who opposed Ira publicly, is now in the hospital — and when Ira visited him out of love, he was turned away. Ira asked to pray for him; Dr. Bloom refused.
 
-The following Saturday, Ira attends an all-day Calvinism conference. Two morning sermons fail — one substitutes humor for exposition, the other reads Puritan quotations in place of preaching the text. Two afternoon sermons are faithful. The contrast is the question for Part 2.
-
-⸻
-
-PART 1 — DOES CALVINISM NEGATE THE NECESSITY OF PRAYER?
-
-The accusation is older than Dr. Bloom. If God has decreed everything, why pray? Most men in this room have felt some version of this question. The honest answer is to sit under the Bible's own pattern — to look at the men in Scripture who believed most deeply in God's sovereignty and prayed most urgently. They are the same men.
+Ira drives home carrying two burdens: a decision God has not yet resolved, and a man who will not receive his kindness. Both require the same thing — patience under sovereignty. Waiting on a God who has not forgotten, even when He has not answered.
 
 ⸻
 
-GOD DECLARES THE END
+REVELATION 6:9–11 — THE ANCHOR
 
-Read Isaiah 46:9-10:
+Read this passage aloud. Slowly.
 
-"Remember the former things of old; for I am God, and there is no other; I am God, and there is none like me, declaring the end from the beginning and from ancient times things not yet done, saying, 'My counsel shall stand, and I will accomplish all my purpose.'" (Isaiah 46:9-10, ESV)
+"When he opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of God and for the witness they had borne. They cried out with a loud voice, 'O Sovereign Lord, holy and true, how long before you will judge and avenge our blood on those who dwell on the earth?' Then they were each given a white robe and told to rest a little longer, until the number of their fellow servants and their brothers should be complete, who were to be killed as they themselves had been." (Revelation 6:9–11, ESV)
 
-Read Ephesians 1:11:
+Stop and sit with what is happening here.
 
-"In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will." (Ephesians 1:11, ESV)
+These are not men on earth guessing about God's plan. These are the glorified saints — men and women who gave their lives for the word of God. They are in the presence of the Lamb. They can see what we cannot see. They know more about God's sovereignty than any theologian on earth.
 
-Read Daniel 4:35:
+And they pray. They cry out with a loud voice. "How long, O Sovereign Lord?"
 
-"All the inhabitants of the earth are accounted as nothing, and he does according to his will among the host of heaven and among the inhabitants of the earth; and none can stay his hand or say to him, 'What have you done?'" (Daniel 4:35, ESV)
+Notice three things.
 
-This is who God is. And it is from inside this truth — not alongside it — that Scripture speaks about prayer.
+First, they address God as Sovereign Lord. They do not question His sovereignty. They appeal to it. The prayer is not "Are you in control?" The prayer is "You are in control — how long until You act?" Sovereignty is not the obstacle to their prayer. Sovereignty is the ground of it.
 
-⸻
+Second, they are not rebuked. God does not say, "Why are you asking? Don't you know I have a plan?" He gives them white robes — a mark of honor and vindication. Their prayer is heard. Their cry is legitimate. God receives the "how long?" of His people without irritation.
 
-DANIEL 9 — THE PROPHECY FUELS THE PRAYER
+Third, the answer is wait. "Rest a little longer, until the number of their fellow servants and their brothers should be complete." God has a number. The plan is not stalled. It is unfolding on a schedule the saints cannot see from where they stand — and they are in glory. Even from the best vantage point in the universe, the timing of God requires patience.
 
-Read Jeremiah 29:10:
-
-"For thus says the LORD: When seventy years are completed for Babylon, I will visit you, and I will fulfill to you my promise and bring you back to this place." (Jeremiah 29:10, ESV)
-
-The return is guaranteed. Now read Daniel 9:1-3:
-
-"In the first year of Darius the son of Ahasuerus, by descent a Mede, who was made king over the realm of the Chaldeans — in the first year of his reign, I, Daniel, perceived in the books the number of years that, according to the word of the LORD to Jeremiah the prophet, must pass before the end of the desolations of Jerusalem, namely, seventy years. Then I turned my face to the Lord God, seeking him by prayer and pleas for mercy with fasting and sackcloth and ashes." (Daniel 9:1-3, ESV)
-
-Daniel reads the prophecy and goes straight to his knees. He asks God to do what God has already said He will do.
+This is the pattern for every man in this room who is waiting on God. You pray. God hears. The answer may be wait. And the wait is not silence — it is sovereignty in motion, working toward a completion you cannot yet see.
 
 ⸻
 
-MATTHEW 6 AND 7 — THE LORD HIMSELF HOLDS BOTH
+THE "HOW LONG?" PRAYERS OF SCRIPTURE
 
-"Your Father knows what you need before you ask him." (Matthew 6:8, ESV)
+The saints under the altar are not the first to pray this way. "How long?" is one of the oldest prayers in the Bible. It is the prayer of men who believe God is sovereign and cannot understand why He has not yet acted.
 
-And the very next words: "Pray then like this..." Then in Matthew 7:7-8:
+Read Psalm 13:1–2:
 
-"Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you." (Matthew 7:7-8, ESV)
+"How long, O LORD? Will you forget me forever? How long will you hide your face from me? How long must I take counsel in my soul and have sorrow in my heart all the day? How long shall my enemy be exalted over me?" (Psalm 13:1–2, ESV)
 
-The Father already knows — and the Father commands us to ask.
+Four times in two verses David asks "how long?" He is not doubting God. He is pleading with God. The prayer is raw. The pain is real. And God put it in the canon. He did not edit out the impatience. He preserved it as a model for His people.
 
-⸻
+Now read where David lands. Psalm 13:5–6:
 
-LUKE 22 — CHRIST PRAYS FOR PETER
+"But I have trusted in your steadfast love; my heart shall rejoice in your salvation. I will sing to the LORD, because he has dealt bountifully with me." (Psalm 13:5–6, ESV)
 
-"Simon, Simon, behold, Satan demanded to have you, that he might sift you like wheat, but I have prayed for you that your faith may not fail." (Luke 22:31-32, ESV)
+The "how long?" does not end in despair. It ends in trust. The cry and the confidence live in the same psalm, in the same man, in the same breath.
 
-Christ does not say, "I have decreed for you." He says, "I have prayed for you." The prayer is the means by which the certainty becomes real in Peter's life.
+Read Psalm 40:1–3:
 
-⸻
+"I waited patiently for the LORD; he inclined to me and heard my cry. He drew me up from the pit of destruction, out of the miry bog, and set my feet upon a rock, making my steps secure. He put a new song in my mouth, a song of praise to our God. Many will see and fear, and put their trust in the LORD." (Psalm 40:1–3, ESV)
 
-ACTS 4 — SOVEREIGNTY-SATURATED PRAYER
+David waited patiently. Not passively. Patiently. There is a difference. Passive waiting folds its hands and checks out. Patient waiting keeps crying out — and trusts that the God who inclines His ear will act in His time.
 
-"...for truly in this city there were gathered together against your holy servant Jesus, whom you anointed, both Herod and Pontius Pilate, along with the Gentiles and the peoples of Israel, to do whatever your hand and your plan had predestined to take place... And when they had prayed, the place in which they were gathered together was shaken." (Acts 4:27-28, 31, ESV)
+Read Habakkuk 2:2–3:
 
-They confess the most predestined event in history — and then ask for boldness. It shakes the building.
+"And the LORD answered me: 'Write the vision; make it plain on tablets, so he may run who reads it. For still the vision awaits its appointed time; it hastens to the end — it will not lie. If it seems slow, wait for it; it will surely come; it will not delay.'" (Habakkuk 2:2–3, ESV)
 
-⸻
-
-ROMANS 10:1 — PAUL PRAYS AFTER ROMANS 9
-
-"Brothers, my heart's desire and prayer to God for them is that they may be saved." (Romans 10:1, ESV)
-
-If your doctrine of election keeps you from praying for the lost, your doctrine is not Paul's.
+"If it seems slow, wait for it." God does not deny that His timing feels slow to the one who is waiting. He acknowledges it. And then He says: it will surely come. It will not delay. The appointed time is fixed. What feels like delay to you is precision from Him.
 
 ⸻
 
-ELIJAH AND JAMES — THE DECREED RAIN AND THE PRAYING PROPHET
+GOD'S TIMING IS NOT YOUR TIMING
 
-Read 1 Kings 18:1:
+Read Isaiah 30:18:
 
-"After many days the word of the LORD came to Elijah, in the third year, saying, 'Go, show yourself to Ahab, and I will send rain upon the earth.'" (1 Kings 18:1, ESV)
+"Therefore the LORD waits to be gracious to you, and therefore he exalts himself to show mercy to you. For the LORD is a God of justice; blessed are all those who wait for him." (Isaiah 30:18, ESV)
 
-The rain is decreed. Now read 1 Kings 18:42-44:
+Read that first clause again. "The LORD waits to be gracious to you." God Himself waits. Not because He is slow. Not because He is indifferent. Because His graciousness has a timing that serves a purpose you cannot see from where you stand.
 
-"And Elijah went up to the top of Mount Carmel. And he bowed himself down on the earth and put his face between his knees. And he said to his servant, 'Go up now, look toward the sea.' And he went up and looked and said, 'There is nothing.' And he said, 'Go again,' seven times." (1 Kings 18:42-44, ESV)
+And then: "Blessed are all those who wait for him." The blessing is not in the receiving. The blessing is in the waiting — because the waiting is where faith is forged.
 
-God had said the rain was coming. Elijah still prayed seven times. Now read James 5:16-18:
+Read Lamentations 3:25–26:
 
-"The prayer of a righteous person has great power as it is working. Elijah was a man with a nature like ours, and he prayed fervently that it might not rain, and for three years and six months it did not rain on the earth. Then he prayed again, and heaven gave rain, and the earth bore its fruit." (James 5:16-18, ESV)
+"The LORD is good to those who wait for him, to the soul who seeks him. It is good that one should wait quietly for the salvation of the LORD." (Lamentations 3:25–26, ESV)
 
-⸻
+Jeremiah wrote this in the ashes of Jerusalem. The city was gone. The temple was rubble. Everything he had warned about had come to pass. And in the middle of that wreckage, he writes: "It is good that one should wait quietly for the salvation of the LORD."
 
-EZEKIEL 36 — GOD PROMISES, THEN COMMANDS ASKING
-
-"I am the LORD; I have spoken, and I will do it. Thus says the Lord GOD: This also I will let the house of Israel ask me to do for them: to increase their people like a flock." (Ezekiel 36:36-37, ESV)
-
-The very thing God declares He will certainly do — He then tells His people to ask Him to do. And James 4:2:
-
-"You do not have, because you do not ask." (James 4:2, ESV)
-
-There are things God has determined to give that will not be received apart from prayer. Prayerlessness is not theological maturity. It is disobedience.
+Not "it is necessary." Not "it is unavoidable." It is good. The waiting itself is good. Because the God you are waiting on is good, and His timing is good, and what He is doing in you while you wait is good.
 
 ⸻
 
-THE SYNTHESIS — TWO ERRORS AND ONE PATH
+WAITING WITH HOPE — NOT PASSIVE, NOT ANXIOUS
 
-The first error is fatalism. Read Matthew 23:37:
+Read Romans 8:23–25:
 
-"How often would I have gathered your children together as a hen gathers her brood under her wings, and you were not willing!" (Matthew 23:37, ESV)
+"And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies. For in this hope we were saved. Now hope that is seen is not hope. For who hopes for what he sees? But if we hope for what we do not see, we wait for it with patience." (Romans 8:23–25, ESV)
 
-And Acts 17:30:
+Paul says we groan. And we wait eagerly. And we wait with patience. All three at the same time. The groaning is honest. The eagerness is real. The patience is not resignation — it is hope that has learned to hold on.
 
-"The times of ignorance God overlooked, but now he commands all people everywhere to repent." (Acts 17:30, ESV)
+Read 2 Peter 3:8–9:
 
-The second error is self-reliance. Read John 15:5:
+"But do not overlook this one fact, beloved, that with the Lord one day is as a thousand years, and a thousand years as one day. The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance." (2 Peter 3:8–9, ESV)
 
-"Apart from me you can do nothing." (John 15:5, ESV)
+Peter is answering scoffers who say, "Where is the promise of His coming?" And Peter's answer is: God's timing is not slowness. It is patience. And His patience has a purpose — He is gathering His people. The number under the altar is not yet complete.
 
-And Psalm 127:1:
-
-"Unless the LORD builds the house, those who build it labor in vain." (Psalm 127:1, ESV)
-
-The biblical path holds both. Read Philippians 2:12-13:
-
-"Work out your own salvation with fear and trembling, for it is God who works in you, both to will and to work for his good pleasure." (Philippians 2:12-13, ESV)
-
-Work — because God works. Pray — because God ordains prayer as the means. The same God who decrees the end has decreed that some things will never happen unless His people pray.
+That is the same answer given to the martyred saints in Revelation 6. Rest a little longer. The number is not yet complete. What feels like delay is God being patient — patient enough to save the people He intends to save, including ones who have not yet been born, including ones who have not yet repented, including ones you are praying for right now.
 
 ⸻
-
-CONSCIENCE APPLICATION — PART 1
-
-When your doctrine has begun to quiet your prayer life. If the doctrine has cooled the prayer rather than fueled it, that is drift dressed up as maturity. Repent and start asking again.
-
-When someone challenges your doctrine by pointing at your prayer life. The best defense of Reformed doctrine is a Reformed man whose prayer list is long, whose confessions are honest, whose intercessions are tireless.
-
-When you pray for someone who has said "do not pray for me." Pray anyway. Prayer is not subject to the permission of its object.
-
-⸻
-
-WHY THIS MATTERS
-
-"And without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him." (Hebrews 11:6, ESV)
-
-"My people are destroyed for lack of knowledge." (Hosea 4:6, ESV)
-
-⸻
-
-THE FINAL CALL
-
-"And he told them a parable to the effect that they ought always to pray and not lose heart." (Luke 18:1, ESV)
-
-"Continue steadfastly in prayer, being watchful in it with thanksgiving." (Colossians 4:2, ESV)
-
-⸻
-
-PART 2 — IS CALVINISM THE CURE OF ALL THE ILLS OF THE CHURCH?
-
-Two preachers in the morning failed. Two in the afternoon were faithful. All four were Calvinists. The difference was not in the theology. The difference was in obedience to what Scripture requires of a man who handles the word of God.
-
-⸻
-
-NEHEMIAH 8 — THE CENTRAL DIAGNOSTIC TEXT
-
-"They read from the book, from the Law of God, clearly, and they gave the sense, so that the people understood the reading." (Nehemiah 8:8, ESV)
-
-Verse 8 is the job description. Was the book read? Was the sense given? Did the people understand? Test every sermon by this standard.
-
-⸻
-
-2 TIMOTHY 4 — THE CHARGE BEFORE PAUL'S DEPARTURE
-
-"I charge you in the presence of God and of Christ Jesus, who is to judge the living and the departed, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching." (2 Timothy 4:1-2, ESV)
-
-The verb is preach. The object is the word.
-
-⸻
-
-2 TIMOTHY 2:15 — THE WORKMAN
-
-"Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth." (2 Timothy 2:15, ESV)
-
-Exegesis is work. There is no shortcut.
-
-⸻
-
-1 CORINTHIANS 2 — THE POWER IS NOT IN THE RHETORIC
-
-"And I, when I came to you, brothers, did not come proclaiming to you the testimony of God with lofty speech or wisdom. For I decided to know nothing among you except Jesus Christ and him crucified." (1 Corinthians 2:1-2, ESV)
-
-The only safe foundation is Christ crucified, plainly preached.
-
-⸻
-
-1 TIMOTHY 4 — LIFE AND DOCTRINE TOGETHER
-
-"Devote yourself to the public reading of Scripture, to exhortation, to teaching... Keep a close watch on yourself and on the teaching." (1 Timothy 4:13, 16, ESV)
-
-Both. Not one or the other.
-
-⸻
-
-TITUS 1:9
-
-"He must hold firm to the trustworthy word as taught, so that he may be able to give instruction in sound doctrine and also to rebuke those who contradict it." (Titus 1:9, ESV)
-
-Two halves of one calling.
-
-⸻
-
-ACTS 20 — THE WHOLE COUNSEL
-
-"I did not shrink from declaring to you the whole counsel of God." (Acts 20:27, ESV)
-
-The whole counsel. Not the favorite parts. Paul did not shrink. The shrinking is the problem.
-
-⸻
-
-THE MARKS OF FAITHFUL PREACHING
-
-Exposition of the text (Nehemiah 8:8). The whole counsel of God (Acts 20:27). Christ crucified at the center (1 Corinthians 2:2). Sound doctrine paired with rebuke of contradiction (Titus 1:9). The work of a workman (2 Timothy 2:15). Public reading of Scripture before exhortation and teaching (1 Timothy 4:13). A life and a doctrine watched together (1 Timothy 4:16).
-
-⸻
-
-CONSCIENCE APPLICATION — PART 2
-
-The Entertainer Trap. If the laughter carries the room and the text carries nothing — read Nehemiah 8:8 again.
-
-The Quote-Collector Trap. Puritans are witnesses, not pulpits. Read 2 Timothy 4:2 again. Preach the word.
-
-The Lecture Trap. A theological dissertation is not a sermon. Read 1 Corinthians 2:1-2 again.
-
-The Fatalism Trap. Preaching aimed at no one, because "God will do what God will do." Read Acts 20:26-27 again. Paul did not shrink.
-
-⸻
-
-A WORD TO THE MAN WHO MAY NOT YET BELONG TO CHRIST
-
-You have followed the argument. You may even be persuaded that the doctrine is correct. But you know in your honest heart that you have not bowed to Christ as Lord and Savior.
-
-The Christ whose cross was an actual accomplishment is the Christ who calls you tonight to repent and believe. The gospel is not a doctrine to be analyzed. It is news to be received. Turn from your sin and trust Him. If you do not know how, ask the brother next to you.
-
-⸻
-
-THEREFORE — WHAT MEN WHO BELIEVE THIS MUST DO
-
-Pray for people by name. Tonight. Write three names down before you leave this room.
-
-Test the sermons you sit under by Nehemiah 8:8. Was the book read? Was the sense given?
-
-Refuse both caricatures. The caricature that says Calvinism is fatalism that cancels prayer is false. So is the caricature that says Calvinism is theological lecture that requires no labor. Walk the narrow path.
-
-Show up for the people who oppose you. Ira went to see Dr. Bloom in the hospital. He was turned away. He went anyway, and he left kindly. That is the gospel shaping pastoral practice.
-
-⸻
-
-KEY SCRIPTURES
-
-* Isaiah 46:9-10 — "My counsel shall stand, and I will accomplish all my purpose."
-* Ephesians 1:11 — "...him who works all things according to the counsel of his will."
-* Daniel 4:35 — "He does according to his will among the host of heaven and among the inhabitants of the earth."
-* Jeremiah 29:10 — "When seventy years are completed for Babylon, I will visit you."
-* Daniel 9:1-3 — "Then I turned my face to the Lord God, seeking him by prayer and pleas for mercy."
-* Matthew 6:8 — "Your Father knows what you need before you ask him."
-* Matthew 7:7-8 — "Ask, and it will be given to you."
-* Luke 22:31-32 — "I have prayed for you that your faith may not fail."
-* Acts 4:27-28, 31 — "...to do whatever your hand and your plan had predestined to take place."
-* Romans 10:1 — "My heart's desire and prayer to God for them is that they may be saved."
-* 1 Kings 18:1, 42-44 — "I will send rain upon the earth... Go again, seven times."
-* Ezekiel 36:36-37 — "I have spoken, and I will do it. This also I will let the house of Israel ask me to do for them."
-* James 5:16-18 — "The prayer of a righteous person has great power as it is working."
-* James 4:2 — "You do not have, because you do not ask."
-* Matthew 23:37 — "How often would I have gathered your children together..."
-* Acts 17:30 — "He commands all people everywhere to repent."
-* John 15:5 — "Apart from me you can do nothing."
-* Psalm 127:1 — "Unless the LORD builds the house, those who build it labor in vain."
-* Philippians 2:12-13 — "Work out your own salvation... for it is God who works in you."
-* Hebrews 11:6 — "Whoever would draw near to God must believe that he exists and that he rewards those who seek him."
-* Luke 18:1 — "They ought always to pray and not lose heart."
-* Colossians 4:2 — "Continue steadfastly in prayer."
-* Nehemiah 8:8 — "They read from the book... clearly, and they gave the sense."
-* 2 Timothy 4:1-2 — "Preach the word."
-* 2 Timothy 2:15 — "Rightly handling the word of truth."
-* 1 Corinthians 2:1-2 — "I decided to know nothing among you except Jesus Christ and him crucified."
-* 1 Timothy 4:13, 16 — "Devote yourself to the public reading of Scripture... Keep a close watch on yourself and on the teaching."
-* Titus 1:9 — "Hold firm to the trustworthy word as taught."
-* Acts 20:27 — "I did not shrink from declaring to you the whole counsel of God."
-
-⸻
-
-REFLECTION QUESTIONS
-
-1. Daniel knew the prophecy was certain — and he prayed anyway. Where have you stopped asking God for something because you decided it was already settled?
-2. Christ prayed for Peter rather than relying on a bare decree. What does that tell you about your own prayers?
-3. Where in the past month has your doctrine quieted rather than deepened your prayer life? Be specific.
-4. Read Ezekiel 36:36-37. God promises, then tells His people to ask. How does this change your view of sovereignty and prayer?
-5. Read Nehemiah 8:8. Was the last sermon you heard faithful preaching by this standard?
-6. What part of the whole counsel are you most tempted to leave out — at home, at work, in your church?
-
-⸻
-
-GROUP DISCUSSION
-
-* Read Acts 4:23-31 aloud. Walk through verse 28, then read what they pray for next. What does this say to the man who has used sovereignty as a reason to pray less?
-* Read Romans 10:1. How do you hold Romans 9 and this sentence together in your own prayers for the lost?
-* Read Ezekiel 36:36-37 together. God promises, then commands asking. Does this settle the question for you?
-* Read Nehemiah 8:8. Of the preaching you have sat under in the past year, how much would pass this test?
-* Read 1 Timothy 4:16. Which have you watched more carefully: yourself or the teaching?
-* For the man who has been theologically confident for years and has not seen new conversions — is it possible that your doctrine has become a reason to not engage?
-* For the man who has never been sure whether he himself has been called by God — what did the gospel sound like in this study? Talk to one of the brothers before you leave.
-
-⸻
-
-CLOSING REFLECTION
-
-The doctrines of grace are tested in two places. The first is on the knees. The second is in the pulpit. A man who stands both tests is a Calvinist worth listening to. A man who stands neither has the doctrine without the practice, which is no Christianity at all.
-
-⸻
-
-PRAYER FOCUS
-
-"Father, the doctrine has to walk on two legs. Forgive me for the times I have used Your sovereignty as a reason to pray less, and forgive me for the times I have used my theology as a reason to labor less. Make me a praying man. Make me a careful handler of Scripture. Search me, O God, and know my heart."
-
-⸻
-
-FINAL GROUP PRAYER
-
-"Sovereign Lord, who made the heaven and the earth and the sea and everything in them —
-You have decreed our salvation, and You have decreed the means.
-You have appointed prayer. You have appointed preaching. You have appointed faithful men.
-We have wanted the doctrine without the labor, and the assurance without the asking.
-Forgive us for both.
-Make us men who pray the way Daniel prayed and the way Paul prayed and the way the early church prayed —
-who confess Your sovereignty and ask boldly anyway,
-who pray for the lost by name as if it mattered, because it does.
-Make us men who handle Your word with care —
-reading the book, giving the sense, refusing every shortcut.
-And for any man among us who has not yet bowed to Christ —
-draw him tonight, by the same gospel that drew us all.
-We ask in Jesus' name. Amen."
-
-⸻
-
-Next session: The story continues. Ira still has a decision to make about First Baptist, and the pastoral situation at Lime Creek will press him further. The doctrine keeps walking. So do we.
