@@ -38,19 +38,15 @@ Last week's witness:
 
 "...declaring the end from the beginning and from ancient times things not yet done, saying, 'My counsel shall stand, and I will accomplish all my purpose.'" (Isaiah 46:9–10, ESV)
 
-God does not discover the measure as it fills. He set it. His counsel stands. His purpose is accomplished. The count is not a guess. It is a decree.
-
 Fresh text. Read Psalm 115:3:
 
 "Our God is in the heavens; he does all that he pleases." (Psalm 115:3, ESV)
 
-Ten words. No qualifications. No exceptions. He does all that He pleases. Not some of what He pleases. Not what circumstances allow Him to please. All.
+Ten words. No qualifications. No exceptions. The psalmist writes this in contrast to the idols of the nations — mouths that cannot speak, eyes that cannot see, ears that cannot hear. The nations carry gods that cannot act. Israel worships a God who does all that He pleases.
 
-The psalmist writes this in contrast to the idols of the nations — mouths that cannot speak, eyes that cannot see, ears that cannot hear. The nations carry gods that cannot act. Israel worships a God who does all that He pleases.
+A man who believes this will stop trying to manage God's timeline. The measure is set by the One who does all that He pleases.
 
-A man who believes this will stop trying to manage God's timeline. The measure is set by the One who does all that He pleases. You do not need to help Him keep count. You need to trust that He is keeping it.
-
-Where have you functionally denied God's sovereignty this week? The man who worries about outcomes he cannot control has quietly decided that God might not do all that He pleases. The man who schemes to force a result has decided the measure needs his help. Psalm 115:3 says otherwise.
+Where have you functionally denied God's sovereignty this week? The man who worries about outcomes he cannot control has quietly decided that God might not do all that He pleases.
 
 ⸻
 
@@ -62,17 +58,13 @@ Last week's witness:
 
 "...as many as were appointed to eternal life believed." (Acts 13:48, ESV)
 
-God knows the number. He is not estimating. He is not hoping the count reaches a rough target. He knows every name.
-
 Fresh text. Read Psalm 139:1–4, 16:
 
 "O LORD, you have searched me and known me! You know when I sit down and when I rise up; you discern my thoughts from afar. You search out my path and my lying down and are acquainted with all my ways. Even before a word is on my tongue, behold, O LORD, you know it altogether... Your eyes saw my unformed substance; in your book were written, every one of them, the days that were formed for me, when as yet there was none of them." (Psalm 139:1–4, 16, ESV)
 
-Every day formed for you was written before one of them existed. The God who keeps the count of the nations also keeps the count of your days. He knows when you sit. He knows when you rise. He knows the word before it reaches your tongue.
+Every day formed for you was written before one of them existed. The God who keeps the count of the nations also keeps the count of your days. This is not surveillance. This is intimacy. The same omniscience that tracks the measure of history tracks the details of your Thursday.
 
-This is not surveillance. This is intimacy. The God who knows the number of the elect also knows the number of your hairs (Matthew 10:30). The same omniscience that tracks the measure of history tracks the details of your Thursday.
-
-Where have you functionally denied God's omniscience this week? The man who hides his sin has forgotten that God discerns his thoughts from afar. The man who doubts whether God sees his suffering has forgotten that every day was written in the book. He knows. He has always known. Nothing in your life is news to Him.
+Where have you functionally denied God's omniscience this week? The man who hides his sin has forgotten that God discerns his thoughts from afar. The man who doubts whether God sees his suffering has forgotten that every day was written in the book.
 
 ⸻
 
@@ -84,18 +76,204 @@ Last week's witness:
 
 "Therefore the LORD waits to be gracious to you." (Isaiah 30:18, ESV)
 
-God is not slow. He is patient. The delay is not neglect. It is the space in which He gathers His people.
-
 Fresh text. Read Exodus 34:6–7:
 
 "The LORD passed before him and proclaimed, 'The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin, but who will by no means clear the guilty, visiting the iniquity of the fathers on the children and the children's children, to the third and the fourth generation.'" (Exodus 34:6–7, ESV)
 
-This is God's self-declaration. Not Moses' opinion. Not Israel's theology. God's own description of Himself. And the first thing He says after His name is merciful and gracious, slow to anger.
+This is God's self-declaration. Not Moses' opinion. God's own description of Himself. The first thing He says after His name is merciful and gracious, slow to anger.
 
-Slow to anger. That is the patience of 2 Peter 3:9 given its Old Testament root. God has been patient since Sinai — since before Sinai. The patience that holds open the door for the last soul to come in is the same patience that held back judgment on Israel in the wilderness, that endured the rebellion of the judges, that waited through centuries of unfaithful kings.
+But notice the second half. "Who will by no means clear the guilty." The patience is real. It is also bounded. Mercy and justice in the same sentence, from God's own mouth.
 
-But notice the second half. "Who will by no means clear the guilty." The patience is real. It is also bounded. The patience runs until the measure is full — on both sides. Mercy and justice in the same sentence, from God's own mouth.
-
-Where have you functionally denied God's patience this week? The man who has given up praying for a loved one has decided God's patience has run out. The man who demands God act now has decided the pace is wrong. Exodus 34:6 says God is slow to anger. If He is slower than you want, it is because His patience has a purpose yours does not.
+Where have you functionally denied God's patience this week? The man who has given up praying for a loved one has decided God's patience has run out. Exodus 34:6 says God is slow to anger. If He is slower than you want, it is because His patience has a purpose yours does not.
 
 ⸻
+
+4. JUSTICE — HE FILLS THE MEASURE ON BOTH SIDES
+
+Last week's witness:
+
+"And they shall come back here in the fourth generation, for the iniquity of the Amorites is not yet complete." (Genesis 15:16, ESV)
+
+"Fill up, then, the measure of your fathers." (Matthew 23:32, ESV)
+
+Fresh text. Read Psalm 96:10, 13:
+
+"Say among the nations, 'The LORD reigns!'... for he comes to judge the earth. He will judge the world in righteousness, and the peoples in his faithfulness." (Psalm 96:10, 13, ESV)
+
+Two words define God's judgment: righteousness and faithfulness. Not rage. Not caprice. Every verdict will be right. Every promise kept. Every measure filled to the line and not a drop past.
+
+The psalmist does not present God's coming judgment as a threat the faithful should dread. Read verses 11–12:
+
+"Let the heavens be glad, and let the earth rejoice; let the sea roar, and all that fills it; let the field exult, and everything in it! Then shall all the trees of the forest sing for joy before the LORD, for he comes." (Psalm 96:11–13a, ESV)
+
+Creation sings because the Judge is coming. Because the Judge is righteous. The judgment will finally set right what has been wrong.
+
+Where have you functionally denied God's justice this week? The man who carries bitterness over an unpunished wrong has decided God's justice is too slow to trust. Psalm 96 says creation sings at His coming. You can lay down the verdict you have been trying to render.
+
+⸻
+
+5. FAITHFULNESS — THE APPOINTED TIME WILL NOT DELAY
+
+Last week's witness:
+
+"For still the vision awaits its appointed time; it hastens to the end — it will not lie. If it seems slow, wait for it; it will surely come; it will not delay." (Habakkuk 2:3, ESV)
+
+Fresh text. Read Numbers 23:19:
+
+"God is not man, that he should lie, or a son of man, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it?" (Numbers 23:19, ESV)
+
+God does not lie. He does not change His mind. What He has said, He will do. The count is a promise. The fullness of the Gentiles is a promise. The vindication of the martyrs is a promise. Not one depends on circumstances cooperating. They depend on the character of the God who made them.
+
+Now read Hebrews 6:17–18:
+
+"So when God desired to show more convincingly to the heirs of the promise the unchangeable character of his purpose, he guaranteed it with an oath, so that by two unchangeable things, in which it is impossible for God to lie, we who have fled for refuge might have strong encouragement to hold fast to the hope set before us." (Hebrews 6:17–18, ESV)
+
+God made a promise. Then He swore an oath on top of the promise. Two unchangeable things. Because He wanted His people to have strong encouragement.
+
+Where have you functionally denied God's faithfulness this week? The man who has stopped believing God will keep a specific promise has quietly decided that God might change His mind. Has He said, and will He not do it?
+
+⸻
+
+6. GOODNESS — THE WAITING ITSELF IS GOOD
+
+Last week's witness:
+
+"The LORD is good to those who wait for him, to the soul who seeks him. It is good that one should wait quietly for the salvation of the LORD." (Lamentations 3:25–26, ESV)
+
+"...apart from us they should not be made perfect." (Hebrews 11:40, ESV)
+
+Fresh text. Read Psalm 34:8:
+
+"Oh, taste and see that the LORD is good! Blessed is the man who takes refuge in him!" (Psalm 34:8, ESV)
+
+David wrote this while fleeing from a king who wanted to end his life. He was not writing from comfort. He was writing from the wilderness. And from that place he says: taste and see that the LORD is good.
+
+Goodness is not a conclusion David reaches after the suffering ends. It is a confession he makes inside the suffering.
+
+Now read Psalm 119:68:
+
+"You are good and do good; teach me your statutes." (Psalm 119:68, ESV)
+
+Two claims. You are good — that is His nature. And do good — that is His action. The goodness is not theoretical. It is working. The wait is not dead time. It is the furnace in which faith is made real.
+
+Hebrews 11:40 told us that Abel is waiting on us. The waiting you are inside of tonight is the same waiting Abel has been inside of for thousands of years. And Jeremiah, from the rubble of Jerusalem, says it is good.
+
+Where have you functionally denied God's goodness this week? The man who resents the pace of his life has decided the wait is punishment rather than formation. Psalm 34:8 does not say "conclude that the LORD is good." It says taste and see. The tasting is for now — inside the waiting, inside the delay, inside the measure being filled.
+
+⸻
+
+THE SYNTHESIS — ONE GOD, SIX WINDOWS
+
+He is sovereign — He sets the measure. He is omniscient — He knows the number. He is patient — He waits for the measure to fill. He is just — He fills the measure on both sides. He is faithful — the appointed time will not delay. He is good — the waiting itself is good.
+
+These are not six separate doctrines. They are six windows into the same God, doing the same work, on the same timeline.
+
+And the cross is underneath all six. The sovereignty that set the measure is the sovereignty that sent the Son. The omniscience that knows the number is the omniscience that knew your name before the foundation of the world. The patience that holds the door open is bought by the blood that paid for every soul who will walk through it. The justice that fills the measure was satisfied at Calvary for every name on the roster. The faithfulness that keeps the promise is the faithfulness of the covenant sealed in blood. The goodness that makes the waiting good is the goodness of a God who did not spare His own Son.
+
+Every attribute points to the cross. The cross is not one doctrine among many. It is the ground all six stand on.
+
+⸻
+
+THEREFORE — WHICH ATTRIBUTE HAVE YOU FUNCTIONALLY DENIED?
+
+This is the one question for tonight. Not which attribute do you doctrinally deny — every man in this room would affirm all six. The question is which one you have functionally denied in the way you have lived this week.
+
+The man who worries has denied sovereignty. God does all that He pleases, and your anxiety says He might not.
+
+The man who hides has denied omniscience. He knows your thoughts from afar, and your secrecy pretends He does not.
+
+The man who has stopped praying has denied patience. He waits to be gracious, and your silence says the wait is pointless.
+
+The man who carries bitterness has denied justice. He will judge in righteousness, and your revenge says He will not.
+
+The man who hedges his obedience has denied faithfulness. Has He said, and will He not do it?
+
+The man who resents the wait has denied goodness. It is good to wait quietly for the salvation of the LORD, and your frustration says it is not.
+
+Name it. Confess it. And return to the God who has not changed while you were drifting.
+
+⸻
+
+KEY SCRIPTURES
+
+* Psalm 115:3 — "Our God is in the heavens; he does all that he pleases."
+* Psalm 139:1–4, 16 — "In your book were written, every one of them, the days that were formed for me."
+* Exodus 34:6–7 — "The LORD, the LORD, a God merciful and gracious, slow to anger."
+* Psalm 96:10, 13 — "He will judge the world in righteousness, and the peoples in his faithfulness."
+* Numbers 23:19 — "God is not man, that he should lie... Has he said, and will he not do it?"
+* Hebrews 6:17–18 — "The unchangeable character of his purpose... it is impossible for God to lie."
+* Psalm 34:8 — "Oh, taste and see that the LORD is good!"
+* Psalm 119:68 — "You are good and do good."
+
+⸻
+
+REFLECTION QUESTIONS
+
+1. Read Psalm 115:3. "He does all that He pleases." Where this week did your actions reveal that you believe God might not do all that He pleases?
+
+2. Read Psalm 139:16. Every day was written before one of them existed. How does that change the way you think about the season you are in right now?
+
+3. Read Exodus 34:6–7. God declares Himself merciful, gracious, slow to anger — and then says He will by no means clear the guilty. How do mercy and justice live together in the same God?
+
+4. Read Numbers 23:19. "Has He said, and will He not do it?" What specific promise of God are you struggling to believe right now? Name it.
+
+5. Read Psalm 34:8. David wrote this while fleeing for his life. Where do you need to taste and see right now — not after the waiting ends, but inside it?
+
+6. Of the six attributes, which one have you functionally denied this week? Be specific.
+
+⸻
+
+GROUP DISCUSSION
+
+* Read Psalm 115:3 and Psalm 139:16 together. The God who does all that He pleases is the God who wrote your days before one of them existed. How do those two truths together change the way you approach Monday morning?
+
+* Read Exodus 34:6–7 aloud. This is God's self-description. Why does He lead with mercy and patience before mentioning justice? What does the order tell you about His heart?
+
+* Read Psalm 96:11–13. Creation sings because the Judge is coming. Why is that good news rather than terrifying news?
+
+* Read Hebrews 6:17–18. God made a promise and then swore an oath. Two unchangeable things. Where in your life do you need to hear that God's purpose is unchangeable?
+
+* The THEREFORE section names six functional denials — worry, hiding, prayerlessness, bitterness, hedging, resentment. Which one landed hardest on you? Will you name it to the group?
+
+* For the man who is not yet in Christ: every one of these attributes is aimed at you. The sovereignty that set the measure included the patience that held the door open for you tonight. Will you come?
+
+⸻
+
+CLOSING REFLECTION
+
+The count that finishes the world is not a mechanism. It is a revelation. It reveals who God is.
+
+He is sovereign — He set the measure before the world began. He is omniscient — He knows every name on the roster and every day in your book. He is patient — He waits to be gracious, and His waiting is not wasted. He is just — He will judge in righteousness, and creation will sing when He does. He is faithful — what He has said, He will do, and not one promise will fall. He is good — the waiting itself is good, because the God inside the waiting is good.
+
+And the cross holds all six together. The sovereignty sent the Son. The omniscience knew your name. The patience bought you time. The justice was satisfied at Calvary. The faithfulness sealed the covenant in blood. The goodness gave you the gift you could never earn.
+
+That is the God you are waiting on. He has not changed. He will not change. And the measure He is filling will be filled.
+
+⸻
+
+PRAYER FOCUS
+
+"Father, You are sovereign and we have worried. You are omniscient and we have hidden. You are patient and we have stopped asking. You are just and we have tried to render our own verdicts. You are faithful and we have hedged. You are good and we have resented the wait. Forgive us for every functional denial. Restore what our unbelief has cost us. And teach us to see You clearly — not as we imagine You, but as You have revealed Yourself: merciful, gracious, slow to anger, abounding in steadfast love and faithfulness. We return to You tonight."
+
+⸻
+
+FINAL GROUP PRAYER
+
+"Sovereign Lord —
+You do all that You please, and it is right.
+You know every name, every day, every hair.
+You wait to be gracious, and Your waiting saves.
+You judge in righteousness, and creation will sing.
+You keep every promise, and not one word falls.
+You are good, and Your goodness does not depend on our comfort.
+We have denied You this week — not with our mouths, but with our lives.
+We confess it now.
+Bring us back to who You are.
+And for any man in this room who has not yet tasted Your goodness —
+let tonight be the night he sees.
+In Jesus' name.
+Amen."
+
+⸻
+
+Next session: we return to Belcher. The book picks up where we left it.
