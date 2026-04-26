@@ -164,7 +164,7 @@ A sermon is not good merely because it is accurate. It must also search the cons
 | Subcategory | Pts | What it measures |
 |---|---|---|
 | Heart Penetration | 5 | Does this expose the heart? Convicts, comforts, confronts — reaches the affections, not just the intellect |
-| Specificity | 5 | Not vague ("trust God more") — but concrete, grounded in the congregation's actual lives |
+| Specificity | 5 | Not vague ("trust God more") — but concrete, grounded in the congregation's actual lives. See `.claude/congregation-profile.md` for specific burdens and demographics. |
 | Spiritual Differentiation | 5 | Distinguishes hearers using Perkins' taxonomy (see below). Does it comfort the weak? Warn the hardened? Drive the hearer to Christ? |
 
 *Perkins' Seven Categories of Hearers (diagnostic lens):*
@@ -182,7 +182,7 @@ The question is not just "Did the sermon distinguish hearers?" but "How many cat
 *Diagnostic Questions:*
 - Did this sermon press on the conscience — or just inform the mind?
 - Did it leave different people in different places?
-- Would the application land in *this* congregation specifically — the politically confident, the comfortable, the grieving?
+- Would the application land in *this* congregation specifically? Consult `.claude/congregation-profile.md` for the actual burdens in the room: the load-bearer, the identity-wounded, the betrayed, the volatile-system survivor, the scapegoat, the triangulated. Not generic hearers — these people.
 - Is there a moment where a particular sinner is cornered by the text?
 - Does it move from doctrine to specific *uses*?
 - How many of Perkins' seven categories of hearers are addressed? Is the sermon stuck on the believer/unbeliever binary, or does it reach the backslider, the humbled-but-not-yet-believing, the knowledgeable-but-unmoved?

@@ -313,7 +313,7 @@ The test: Is the weight coming from the text or from the preacher's performance?
 
 **Emotional register accuracy.** AI is never truly angry or deeply grieved. If text about sin sounds "disappointed" rather than righteously indignant, it has been flattened. "That thief died three feet from Jesus and went to hell" carries genuine moral weight. AI would soften it. Don't let it.
 
-**Direct pastoral address.** "Some of you..." targets specific, plausible burdens: the addict, the estranged parent, the woman whose marriage is a war zone, the person with the diagnosis. Name the weight before you set the gospel on it. If "we" is doing all the work without any "you" pinned to an actual person, conviction has been averaged out.
+**Direct pastoral address.** "Some of you..." targets specific, plausible burdens: the addict, the estranged parent, the woman whose marriage is a war zone, the person with the diagnosis. Name the weight before you set the gospel on it. If "we" is doing all the work without any "you" pinned to an actual person, conviction has been averaged out. Consult `.claude/congregation-profile.md` for the actual burdens in this congregation — the load-bearer, the identity-wounded, the betrayed, the volatile-system survivor, the scapegoat. Use those, not generic placeholders.
 
 ---
 

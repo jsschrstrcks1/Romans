@@ -40,6 +40,7 @@ version: 1.0.0
 When `congregation-pulse` captures "what landed," these personas explain *why.*
 When `church-advertising` crafts a Facebook post, these personas determine the tone.
 When `sermon-planner` suggests what to preach next, these personas reveal what's needed.
+When evaluating a sermon, consult `.claude/congregation-profile.md` for the actual burdens, demographics, and relational dynamics in this specific congregation. The five personas above are archetypes. The congregation profile is the ground truth — real weights carried by real people in this room.
 
 The pastor already does this instinctively. These profiles make it explicit so Claude can serve it faithfully.
 
