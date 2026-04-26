@@ -39,6 +39,8 @@ Spurgeon caught the force of this: *"It is not for us to bury the gospel under a
 
 The vision is not hidden. It is not coded. It is not reserved for scholars or prophets or theologians. God writes it plain - on tablets, in public, where the ordinary person can see it. That is how God has always communicated His decisive word. He does not whisper it to the elite. He writes it where the runner can read it.
 
+And you are the runner. This vision was not written for Habakkuk alone. It was written so that you would read it, believe it, and carry it with you when you leave this room.
+
 And what is the vision? In Habakkuk's immediate context, it is God's declaration about what is coming: Babylon will rise, Babylon will devour - and Babylon will fall. The five woes of chapter 2 are coming next week. Babylon's judgment is certain. But before God announces the woes, He announces the principle that will outlast every empire that ever rises and falls: *the righteous shall live by faith.* That is the vision. Not a geopolitical forecast. A way of life.
 
 ---
@@ -58,6 +60,8 @@ Peter will say it centuries later: *"The Lord is not slow to fulfill his promise
 Some of you have been waiting. For the marriage to heal. For the diagnosis to change. For the prodigal to come home. For the prayer to be answered. And the silence has been so long that you have started to wonder whether God heard you at all.
 
 He heard you. The vision awaits its appointed time. It will not lie. It will surely come. And it will not be one moment late.
+
+The psalmist knew this waiting: *"Wait for the LORD; be strong, and let your heart take courage; wait for the LORD!"* (Psalm 27:14). Two commands to wait. One command to take courage. That is the ratio. Waiting is the posture. Courage is what God gives you while you hold it.
 
 Waiting is not passive. Habakkuk did not sit down in a corner after God told him to wait. He wrote the vision. He made it plain. He proclaimed it. Waiting, in the biblical vocabulary, is not the absence of action - it is action aimed at the right thing. You wait for God by staying in the Word. You wait for God by gathering with this body on Sunday. You wait for God by praying when the ceiling feels like iron and the answer has not come. You wait for God by refusing to manufacture your own resolution when His has not arrived.
 
@@ -89,6 +93,8 @@ The proud soul is puffed up - the Hebrew carries the image of something swollen,
 
 That is the diagnosis. Not of Babylon alone. Of every life that runs on self-reliance. Every career built on performance. Every identity anchored in achievement. Every prayer life that died because you decided you could handle it yourself. The proud soul is puffed up. It is not upright. And it will not stand when the weight comes down.
 
+That's the problem. Now here's the answer.
+
 Some of you are the most competent people in every room you walk into. You fix things. You manage things. You hold things together - at work, at home, in this church. And you have built your entire identity on that competence. You do not need help. You do not ask for help. You have not asked God for help in so long that prayer feels like a formality. You show up on Sunday because it is the right thing to do, not because you are desperate for the Word. That is the proud soul. It does not look arrogant from the outside. It looks responsible. It looks strong. But the foundation is wrong - and God is about to name the alternative.
 
 ---
@@ -105,11 +111,13 @@ Don't miss this. This is where everything turns.
 
 The righteous do not live by explanations. They do not live by sight. They do not live by their own strength. They live by *emunah* - by leaning their full weight on the character and promises of God the way a man leans on a doorframe when he cannot stand on his own. That is what faith is. Weight-bearing trust. The kind that holds you up when nothing else will.
 
-Thomas Watson said it well: *"Where reason cannot wade, faith must swim."*
-
 Habakkuk has waded as far as reason will take him. He asked *How long?* He heard the terrifying answer. He asked *How can You?* He got no explanation. Reason has run out. And now God says: the righteous shall live by faith. Not by answers. Not by understanding. Not by having it figured out. By faith. Lean on Me. I will hold.
 
 Habakkuk does not yet explain how God can declare sinners righteous - but he establishes the ground Paul will later stand on: the righteous do not live by what they are in themselves, but by trusting what God provides. If God's eyes are too pure to look on evil - and Habakkuk said exactly that in chapter 1, verse 13 - and yet He saves people by faith, then the righteousness that gives us standing before this holy God cannot be our own. It must come from somewhere else. It must be given. And that is exactly what Paul will unfold in Romans. But the seed is here. In Habakkuk. In the seventh century before Christ.
+
+Some of you know this. You could explain emunah to your small group. You could draw the line from Habakkuk to Romans on a whiteboard. And you have never leaned. You have studied faith without exercising it. You have admired the doorpost without throwing your weight on it. This verse is not a concept for you to master. It is a command for you to obey: *live by faith.* Not think about faith. Live by it.
+
+That's what faith is. Now watch what Scripture does with it.
 
 ---
 
@@ -178,6 +186,8 @@ And then God draws the contrast one more time - in case you missed it.
 Verse 5.
 
 *"Moreover, wine is a traitor, an arrogant man who is never at rest. His greed is as wide as Sheol; like death he has never enough. He gathers for himself all nations and collects as plunder all peoples."*
+
+God names wine for a reason. Wine intoxicates. It distorts the drinker's self-assessment - the drunk man thinks he is steady when he is falling. That is the proud soul's condition. He thinks he is upright. He thinks he is strong. He thinks he is in control. And he is swaying. Self-reliance is an intoxicant. It makes you feel large while it makes you hollow.
 
 The proud soul is never satisfied. His appetite is as wide as the grave - and like the grave, he never says *enough*. He devours nations. He collects peoples like plunder. He drinks and is never full. He conquers and is never at peace.
 
