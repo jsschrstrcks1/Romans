@@ -164,7 +164,7 @@ A sermon is not good merely because it is accurate. It must also search the cons
 | Subcategory | Pts | What it measures |
 |---|---|---|
 | Heart Penetration | 5 | Does this expose the heart? Convicts, comforts, confronts — reaches the affections, not just the intellect |
-| Specificity | 5 | Not vague ("trust God more") — but concrete, grounded in the congregation's actual lives |
+| Specificity | 5 | Not vague ("trust God more") — but concrete, grounded in the congregation's actual lives. When the text naturally touches burdens carried by this congregation, see `.claude/congregation-profile.md` to sharpen the application toward real people. Do not force a passage to address burdens it does not touch. |
 | Spiritual Differentiation | 5 | Distinguishes hearers using Perkins' taxonomy (see below). Does it comfort the weak? Warn the hardened? Drive the hearer to Christ? |
 
 *Perkins' Seven Categories of Hearers (diagnostic lens):*
@@ -182,7 +182,7 @@ The question is not just "Did the sermon distinguish hearers?" but "How many cat
 *Diagnostic Questions:*
 - Did this sermon press on the conscience — or just inform the mind?
 - Did it leave different people in different places?
-- Would the application land in *this* congregation specifically — the politically confident, the comfortable, the grieving?
+- Where the text naturally surfaces burdens carried by this congregation, does the application find the real people? Consult `.claude/congregation-profile.md` for the actual burdens in the room — but only flag a gap when the text itself opens the door. Do not penalize a sermon for not addressing a burden the passage does not touch.
 - Is there a moment where a particular sinner is cornered by the text?
 - Does it move from doctrine to specific *uses*?
 - How many of Perkins' seven categories of hearers are addressed? Is the sermon stuck on the believer/unbeliever binary, or does it reach the backslider, the humbled-but-not-yet-believing, the knowledgeable-but-unmoved?
