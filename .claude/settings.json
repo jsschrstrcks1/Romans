@@ -10,6 +10,15 @@
             "command": "bash /home/user/Romans/.claude/hooks/require-fetch-before-status.sh"
           }
         ]
+      },
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node $CLAUDE_PROJECT_DIR/.claude/hooks/prompt-injection-guard.js"
+          }
+        ]
       }
     ],
     "PostToolUse": [
@@ -18,7 +27,7 @@
         "hooks": [
           {
             "type": "prompt",
-            "prompt": "CAREFUL NOT CLEVER VERIFICATION\n\nFile modified: $TOOL_INPUT\n\nCheck whether this edit adds Scripture references, attributed quotes, or factual claims (people group stats, historical dates, etc.).\n\nIf YES and any are unverified, respond: {\"hookSpecificOutput\": {\"hookEventName\": \"PostToolUse\", \"additionalContext\": \"⚠️ Careful-not-clever: [specify what needs verification]\"}}\n\nIf all content is verified OR the edit contains no Scripture/quotes/facts, respond: {\"hookSpecificOutput\": {\"hookEventName\": \"PostToolUse\", \"additionalContext\": \"✅ No verification issues.\"}}\n\nDo NOT use the decision field. Do NOT block. Always allow continuation."
+            "prompt": "CAREFUL NOT CLEVER VERIFICATION\n\nFile modified: $TOOL_INPUT\n\nCheck whether this edit adds Scripture references, attributed quotes, or factual claims (people group stats, historical dates, etc.).\n\nIf YES and any are unverified, respond: {\"hookSpecificOutput\": {\"hookEventName\": \"PostToolUse\", \"additionalContext\": \"\u26a0\ufe0f Careful-not-clever: [specify what needs verification]\"}}\n\nIf all content is verified OR the edit contains no Scripture/quotes/facts, respond: {\"hookSpecificOutput\": {\"hookEventName\": \"PostToolUse\", \"additionalContext\": \"\u2705 No verification issues.\"}}\n\nDo NOT use the decision field. Do NOT block. Always allow continuation."
           }
         ]
       },
@@ -33,5 +42,14 @@
         ]
       }
     ]
+  },
+  "permissions": {
+    "allow": [
+      "Edit:*",
+      "Write:*",
+      "Read:*",
+      "Bash:*"
+    ],
+    "defaultMode": "acceptEdits"
   }
 }
